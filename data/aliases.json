@@ -1,0 +1,39 @@
+{
+  "reviewedAt": "2026-11-11",
+  "reviewBasis": "Initial source-heading cross-check. Short degree abbreviations are project search conventions, not official legal names. Maintainer review remains a release gate.",
+  "sections": {
+    "565.020": ["murder 1", "murder one", "first degree murder"],
+    "565.021": ["murder 2", "murder two", "second degree murder"],
+    "565.023": ["voluntary manslaughter"],
+    "565.024": ["involuntary manslaughter 1", "first degree involuntary manslaughter"],
+    "565.027": ["involuntary manslaughter 2", "second degree involuntary manslaughter"],
+    "565.030": ["first degree murder trial procedure", "murder trial procedure"],
+    "565.006": ["jury trial waiver", "waive jury trial"],
+    "565.050": ["assault 1", "assault one", "first degree assault"],
+    "565.052": ["assault 2", "assault two", "second degree assault"],
+    "565.054": ["assault 3", "assault three", "third degree assault"],
+    "565.056": ["assault 4", "assault four", "fourth degree assault"],
+    "565.072": ["domestic assault 1", "first degree domestic assault"],
+    "565.073": ["domestic assault 2", "second degree domestic assault"],
+    "565.074": ["domestic assault 3", "third degree domestic assault"],
+    "565.076": ["domestic assault 4", "fourth degree domestic assault"],
+    "565.090": ["harassment 1", "first degree harassment"],
+    "565.091": ["harassment 2", "second degree harassment"],
+    "565.110": ["kidnapping 1", "first degree kidnapping"],
+    "565.120": ["kidnapping 2", "second degree kidnapping"],
+    "565.130": ["kidnapping 3", "third degree kidnapping"],
+    "565.225": ["stalking 1", "first degree stalking"],
+    "565.227": ["stalking 2", "second degree stalking"]
+  },
+  "topics": {
+    "homicide": ["565.020", "565.021", "565.023", "565.024", "565.027", "565.029"],
+    "elder abuse": ["565.184", "565.188", "565.189"],
+    "child custody": ["565.150", "565.153", "565.156", "565.160", "565.167"]
+  },
+  "related": {
+    "565.020": ["565.030", "565.032", "565.002"],
+    "565.021": ["565.029", "565.002"],
+    "565.050": ["565.058", "565.002"],
+    "565.110": ["565.140"]
+  }
+}

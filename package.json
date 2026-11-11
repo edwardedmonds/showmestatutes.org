@@ -7,9 +7,23 @@
     "dev": "vite",
     "check": "tsc --noEmit",
     "build": "tsc --noEmit && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "data:collect": "python3 scripts/collect.py",
+    "data:refresh": "node scripts/refresh.mjs",
+    "data:validate": "python3 scripts/collect.py --validate public/data/statutes.json"
   },
-  "engines": { "node": ">=22.12.0" },
-  "dependencies": { "minisearch": "^7.2.0" },
-  "devDependencies": { "typescript": "^5.9.0", "vite": "^7.0.0" }
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "dependencies": {
+    "minisearch": "^7.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "typescript": "^5.9.0",
+    "vite": "^7.0.0",
+    "vitest": "^5.1.0"
+  }
 }

@@ -3,29 +3,56 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Show Me Statutes — a Missouri statutory search project in development." />
-    <title>Show Me Statutes</title>
+    <meta name="description" content="Find Missouri statute headings without knowing the section number. Independent Chapter 565 pilot with links to official sources." />
+    <meta name="color-scheme" content="light" />
+    <title>Show Me Statutes — Missouri statute finder</title>
   </head>
   <body>
+    <a class="skip-link" href="#search">Skip to search</a>
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="Show Me Statutes home"><span class="brand-mark" aria-hidden="true">§</span> Show Me Statutes</a>
+      <a class="about-link" href="#coverage">About this pilot <span aria-hidden="true">↗</span></a>
+    </header>
     <main>
-      <p class="eyebrow">MISSOURI · STATUTORY SEARCH</p>
-      <h1>Show Me Statutes</h1>
-      <p class="intro">A simpler way to find Missouri statutes.</p>
-      <p class="notice">In development. The statute collection has not been loaded yet.</p>
-      <form role="search" id="search-form">
-        <label for="query">Search by keyword or section number</label>
-        <div class="search-row">
-          <input id="query" type="search" placeholder="Enter a keyword or section" disabled />
-          <button id="search-button" type="submit" disabled>Search</button>
-        </div>
-      </form>
-      <p id="status" role="status" aria-live="polite">Loading the search collection…</p>
-      <ol id="results"></ol>
-      <footer>
-        <p>For the official text, visit the <a href="https://revisor.mo.gov/">Missouri Revisor of Statutes</a>.</p>
-        <p>This independent project is not affiliated with the State of Missouri. Information is not legal advice.</p>
-      </footer>
+      <section class="hero" aria-labelledby="headline">
+        <p class="eyebrow"><span class="dot"></span> MISSOURI STATUTE FINDER</p>
+        <h1 id="headline">Know the topic.<br><em>Find the section.</em></h1>
+        <p class="intro">Search the words you know. Find the official heading,<br class="desktop-break"> then read the law at its source.</p>
+        <div class="scope-tag">CHAPTER 565 PILOT <span>Offenses Against the Person</span></div>
+      </section>
+      <section class="search-panel" id="search" aria-label="Find a section">
+        <form role="search" id="search-form">
+          <label for="query">Find a section</label>
+          <div class="search-row">
+            <span class="search-icon" aria-hidden="true">⌕</span>
+            <input id="query" type="search" placeholder="Try “first degree murder” or 565.020" maxlength="200" autocomplete="off" aria-describedby="search-hint" disabled />
+            <button id="search-button" type="submit" disabled>Find section <span aria-hidden="true">→</span></button>
+          </div>
+          <p id="search-hint">Searches headings and common names. Statutory body text is not searched.</p>
+        </form>
+        <div class="try-row" aria-label="Example searches"><span>TRY A SEARCH</span><button type="button" data-query="first degree murder">First degree murder</button><button type="button" data-query="domestic assault">Domestic assault</button><button type="button" data-query="homicide">Homicide</button></div>
+        <div class="search-options"><label class="checkbox-label"><input id="upcoming" type="checkbox"> Include upcoming versions</label><span id="as-of"></span></div>
+      </section>
+      <p id="status" role="status" aria-live="polite" aria-atomic="true">Loading the verified heading collection…</p>
+      <div id="results"></div>
+      <section id="welcome" class="welcome" aria-label="How this works">
+        <div><span class="step">01</span><h2>Start with your words</h2><p>An offense, a topic, a common name, or an exact section number.</p></div>
+        <div><span class="step">02</span><h2>Choose the right heading</h2><p>Offenses and related procedures stay distinguishable. Source dates stay visible.</p></div>
+        <div><span class="step">03</span><h2>Read the official source</h2><p>Every result links to that version on the Missouri Revisor’s website.</p></div>
+      </section>
+      <details id="coverage" class="coverage">
+        <summary>Coverage, dates &amp; sources</summary>
+        <p id="coverage-stats"></p>
+        <p id="source-date"></p>
+        <p id="build-date"></p>
+        <p>This pilot covers Chapter 565 only. It does not cover all Missouri criminal law, and it is not a complete historical archive. A missing result does not mean no relevant law exists.</p>
+        <p>Effective dates describe source versions. Source-check dates describe when a page was retrieved. The index build date describes this search file; it is not a publication date or a guarantee of current law.</p>
+        <p>Searches stay in your browser. No third-party analytics or search service receives your query.</p>
+        <a href="https://revisor.mo.gov/main/OneChapter.aspx?chapter=565">Browse Chapter 565 at the official source ↗</a>
+      </details>
+      <noscript><p>JavaScript is needed for local search. <a href="https://revisor.mo.gov/main/OneChapter.aspx?chapter=565">Browse Chapter 565 at the official source.</a></p></noscript>
     </main>
+    <footer><span>SHOW ME STATUTES</span><p>Independent search. Links to official sources.<br>Not affiliated with the State of Missouri. Not legal advice.</p><a href="https://github.com/deths74r/show-me-statutes">Project on GitHub ↗</a></footer>
     <script type="module" src="/src/main.ts"></script>
   </body>
 </html>

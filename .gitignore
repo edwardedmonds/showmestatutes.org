@@ -11,3 +11,11 @@ coverage/
 Thumbs.db
 .idea/
 .vscode/
+data/raw/
+data/candidate.json
+data/change-report.json
+public/data/search-index.json
+.venv/
+__pycache__/
+data/.refresh.lock
+public/data/*.next
