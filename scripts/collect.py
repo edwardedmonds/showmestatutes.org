@@ -25,7 +25,7 @@ REVIEWED_OVERLAPS = POLICY.get('delayedEnactments', []) + POLICY.get('reprintedE
 
 def index_url(chapter):
     return BASE + '/main/OneChapter.aspx?chapter=' + chapter
-AGENT = 'ShowMeStatutes/0.1 (+https://github.com/edwardedmonds/show-me-statutes)'
+AGENT = 'ShowMeStatutes/0.1 (+https://github.com/edwardedmonds/showmestatutes.org)'
 
 
 def clean(text):

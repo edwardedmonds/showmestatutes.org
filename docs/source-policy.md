@@ -5,7 +5,7 @@ The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/
 ## Acquisition
 
 - Fresh requests ask intermediaries to revalidate cached responses with `Cache-Control: no-cache`; explicitly reused local cache entries retain their original timestamps.
-- Identify requests as `ShowMeStatutes/0.1 (+https://github.com/edwardedmonds/show-me-statutes)`.
+- Identify requests as `ShowMeStatutes/0.1 (+https://github.com/edwardedmonds/showmestatutes.org)`.
 - Fetch each configured chapter index first, then each enumerated section/version sequentially at least one second apart. Retry network failures at most twice with increasing delays.
 - Check robots.txt before crawling; honor directives when present. On the initial collection that URL returned the HTML home page, not robots directives. The manifest records this observation; it is not a claim of blanket permission.
 - Create a fresh cache directory by default. An explicitly supplied cache is a resumable snapshot; reused responses retain their original check time. Offline mode never fetches or advances timestamps.

@@ -26,7 +26,7 @@ Home-based-work searches find both §64.008 and §65.710 and respect chapter fil
 
 No horizontal overflow was observed at 320×740 or 390×844. No browser warning or error logs were observed. Physical Android timing, screen-reader testing and independent alias/legal review remain outstanding.
 
-The [county release workflow](https://github.com/edwardedmonds/show-me-statutes/actions/runs/43281766740) for `67ce85d` passed checks and deployment. Public HTML, data, JavaScript, CSS and license notices matched the validated build byte for byte, and the hosted index referenced the same dataset hash. After the account rename to `edwardedmonds`, Pages retains the `showmestatutes.org` custom domain and GitHub Actions source. HTTPS certificate validation now passes and Enforce HTTPS is enabled. HTTP, `www.org`, `.com` and `www.com` resolve to the canonical HTTPS site. The `www.org` CNAME was updated to `edwardedmonds.github.io` and independently confirmed through public DNS. This resolves the certificate issue recorded in the earlier release notes below.
+The [county release workflow](https://github.com/edwardedmonds/showmestatutes.org/actions/runs/43281766740) for `67ce85d` passed checks and deployment. Public HTML, data, JavaScript, CSS and license notices matched the validated build byte for byte, and the hosted index referenced the same dataset hash. After the account rename to `edwardedmonds`, Pages retains the `showmestatutes.org` custom domain and GitHub Actions source. HTTPS certificate validation now passes and Enforce HTTPS is enabled. HTTP, `www.org`, `.com` and `www.com` resolve to the canonical HTTPS site. The `www.org` CNAME was updated to `edwardedmonds.github.io` and independently confirmed through public DNS. This resolves the certificate issue recorded in the earlier release notes below.
 
 ---
 
@@ -60,7 +60,7 @@ The State bird example prioritizes 10.010. Exact 1.010 resolves without padding;
 
 No horizontal overflow was observed at 320×740 or 390×844. The footer exposes the license-notice link, and a fresh preview recorded no browser warning or error logs. The preview server was restarted after it exited during the license-link check; the license file was independently verified over local HTTP.
 
-The [release workflow](https://github.com/edwardedmonds/show-me-statutes/actions/runs/43272598891) for `fadfcc0` passed checks and deployment. Public HTTP responses for HTML, data, JavaScript, CSS and license notices matched the validated build; the hosted index referenced the same dataset hash. HTTPS still failed hostname validation.
+The [release workflow](https://github.com/edwardedmonds/showmestatutes.org/actions/runs/43272598891) for `fadfcc0` passed checks and deployment. Public HTTP responses for HTML, data, JavaScript, CSS and license notices matched the validated build; the hosted index referenced the same dataset hash. HTTPS still failed hostname validation.
 
 Physical Android measurements, assistive-technology testing and independent alias/legal review remain outstanding. A successful application deployment does not establish working public HTTPS.
 

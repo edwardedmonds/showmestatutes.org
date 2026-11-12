@@ -1,6 +1,6 @@
 # GitHub Pages and domains
 
-Public publishing was authorized on November 12, 2026. The canonical domain is `showmestatutes.org`; the repository is [edwardedmonds/show-me-statutes](https://github.com/edwardedmonds/show-me-statutes).
+Public publishing was authorized on November 12, 2026. The canonical domain is `showmestatutes.org`; the repository is [edwardedmonds/show-me-statutes](https://github.com/edwardedmonds/showmestatutes.org).
 
 GitHub Pages uses GitHub Actions. Pushes to `main` validate the checked-in snapshot, run parser and search tests, build Vite, and deploy the resulting `dist` artifact. Pull requests only validate. Crawling the source remains a separate manual operation. The deployment job alone has Pages write and identity-token permissions; checkout credentials are not persisted.
 

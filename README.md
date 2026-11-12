@@ -48,6 +48,8 @@ The county release is deployed. Public HTML, data, JavaScript, CSS and license n
 
 ## Run it locally
 
+The repository is [edwardedmonds/showmestatutes.org](https://github.com/edwardedmonds/showmestatutes.org). The local checkout is `~/repos/showmestatutes.org`.
+
 Use Node.js 22.12+ in the 22.x series. Development has been checked with 22.22.2.
 
 ```sh
