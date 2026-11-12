@@ -1,3 +1,25 @@
+# Pupils, personnel and school operations — November 12, 2026
+
+## Scope and source checks
+
+Title XI Chapters 167–171 add **341 distinct sections and source versions**. The combined snapshot contains **10,724 sections and 10,774 versions** across **170 chapter indexes**: 167 with headings and three reviewed empty indexes. The fresh official catalog contains 468 chapter links, leaving **298** outside this collection. The fourteen remaining Title XI chapter indexes, from 172 through 186 excluding 179, are next.
+
+All 341 new pages were collected sequentially at no more than one request per second. No unresolved source exceptions occurred. All five chapter indexes matched independent second retrievals of version identities, effective dates and source URLs. The strict collector rebuilt and validated the combined candidate from cached responses. All 10,433 earlier records and all 165 earlier chapter-manifest objects are unchanged, including dates and response hashes. The change report contains 341 additions, zero removals and zero changes. No new warned, contingent or scheduled future versions were added; totals remain 41 warned versions, 16 reviewed reprinted pairs, 14 contingent versions and 32 scheduled future versions.
+
+## Tests and performance
+
+All **551 TypeScript tests and 34 Python tests** passed, along with TypeScript checks and the production build. Twenty-six new query cases were defined from official chapter indexes before ranking evaluation, including unscoped searches and chapter exclusions. A separate regression checks exact citations across the five new chapters. No parser, ranking or alias changes were needed. These are development tests, not an independent assessment of legal-search accuracy.
+
+The serialized MiniSearch index grew from 1,225,442 to 1,273,596 bytes. On local Linux with Node 22.22.2, index construction took about 175 ms and loading plus search setup about 166 ms. Across 16 queries with three warm-up passes and 25 measured runs each, p95 search times ranged from 0.003 to 36.53 ms, compared with 0.008 to 26.07 ms for the previous snapshot in the same run. These timings exclude download, JSON parsing, validation and rendering, and are not physical mobile measurements.
+
+## Browser checks and publication
+
+The production preview reports 10,724 section headings. An unscoped dyslexia-screening search finds §167.950:33349; a Chapter 168 filter excludes it. A scoped substitute-teacher-certificates search finds §168.036:57297 with its full heading and exact source URL. The first-degree-murder example still prioritizes §565.020, and ArrowDown focuses its source-heading link. No horizontal overflow was observed at 320×740 or 390×740, including the long substitute-teacher heading. No browser warnings or errors were observed.
+
+The existing layout and filters remain unchanged. Snapshot-specific data filenames remain in use. Publication uses the validated snapshot through GitHub Pages; workflow success and public asset comparisons are checked after pushing. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # First education expansion — November 12, 2026
 
 ## Scope and source checks

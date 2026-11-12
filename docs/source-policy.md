@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–X, XIX, XXXVII and XXXVIII, plus Title XI Chapters 160–166. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–X, XIX, XXXVII and XXXVIII, plus Title XI Chapters 160–171. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -89,3 +89,7 @@ Chapters 142–155 add 622 indexed versions. Chapter 152 is explicitly reviewed 
 ## First education batch
 
 Chapters 160–166 were collected from explicit title and chapter indexes. The first Chapter 160 response contained 100 rows representing only 85 unique versions. The fresh replacement contained 101 unique versions, including 16 absent from the rejected response. The existing duplicate-row rejection prevented silent deduplication from hiding missing coverage. The rejected response and its retrieval time are preserved; the accepted response, not the rejected one, supplies index provenance. All seven accepted indexes were retrieved again after collection and compared by identity, date and URL. Earlier source checks retain their original timestamps and hashes.
+
+## Pupils, personnel and school operations batch
+
+Chapters 167–171 were enumerated from the official catalog and Title XI page. Their 341 listed versions were checked against their exact source pages; independent second index retrievals matched identities, dates and URLs. No new source exceptions required policy changes. Earlier record and chapter provenance remains unchanged. Reusing cached pages does not advance their source-check dates.
