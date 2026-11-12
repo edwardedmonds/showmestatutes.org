@@ -112,5 +112,3 @@ The [roadmap](docs/roadmap.md), [relevance specification](docs/relevance-spec.md
 The code and original documentation use the [MIT License](LICENSE). Official statute content keeps its source attribution; the software license doesn't claim ownership of it. Third-party dependencies keep their own licenses, included with the project license in the site's `licenses.txt`.
 
 Show Me Statutes is independent of the State of Missouri and isn't legal advice. Check the official text, dates, and source notes before relying on a result.
-
-Earlier README revisions remain available in the [Git history](https://github.com/deths74r/show-me-statutes/commits/main/README.md).
