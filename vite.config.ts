@@ -4,11 +4,13 @@ import { createHash } from 'node:crypto';
 import { assertDataset } from './src/data';
 import { buildIndex } from './src/search';
 
+const source = readFileSync(process.env.STATUTES_DATASET ?? 'public/data/statutes.json', 'utf8');
+const datasetHash = createHash('sha256').update(source).digest('hex');
+
 function assets(): Record<string, string> {
-  const source = readFileSync(process.env.STATUTES_DATASET ?? 'public/data/statutes.json', 'utf8');
   const dataset: unknown = JSON.parse(source);
   assertDataset(dataset);
-  return {
+  const files: Record<string, string> = {
     'licenses.txt': [
       'Show Me Statutes — software license notices',
       readFileSync('LICENSE', 'utf8'),
@@ -19,14 +21,19 @@ function assets(): Record<string, string> {
     ].join('\n\n'),
     'data/statutes.json': source,
     'data/search-index.json': JSON.stringify({
-      datasetHash: createHash('sha256').update(source).digest('hex'),
+      datasetHash,
       builtAt: new Date().toISOString(),
       index: buildIndex(dataset.records).toJSON(),
     }),
   };
+  // Stable URLs remain available for audits; browsers use snapshot-specific assets.
+  files[`data/statutes-${datasetHash}.json`] = files['data/statutes.json'];
+  files[`data/search-index-${datasetHash}.json`] = files['data/search-index.json'];
+  return files;
 }
 export default defineConfig({
   base: './',
+  define: { 'import.meta.env.DATASET_HASH': JSON.stringify(datasetHash) },
   publicDir: false,
   plugins: [{
     name: 'statute-heading-index',

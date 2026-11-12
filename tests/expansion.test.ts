@@ -17,9 +17,14 @@ describe('Expanded criminal-law coverage benchmark', () => {
   });
 });
 it('finds every effective section by exact citation, with no future version promoted', () => {
-  for (const record of dataset.records.filter(r => isEffective(r, asOf))) {
-    const result = search(record.section, asOf);
-    expect(result.best.map(m => m.record.id).sort()).toEqual(dataset.records.filter(r => r.section === record.section && isEffective(r, asOf)).map(r => r.id).sort());
+  // Derive expected identities once; avoid rescanning the statewide corpus for every assertion.
+  const expected: Record<string, string[]> = {};
+  for (const record of dataset.records) {
+    if (isEffective(record, asOf)) (expected[record.section] ??= []).push(record.id);
+  }
+  for (const [section, ids] of Object.entries(expected)) {
+    const result = search(section, asOf);
+    expect(result.best.map(m => m.record.id).sort()).toEqual(ids.sort());
   }
 });
 it('keeps all chapter boundaries and future versions consistent with the source intervals', () => {

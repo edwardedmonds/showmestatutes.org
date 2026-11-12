@@ -125,7 +125,7 @@ for (const example of document.querySelectorAll<HTMLButtonElement>('[data-query]
 }
 async function initialize() {
   try {
-    const response = await fetch(`${import.meta.env.BASE_URL}data/statutes.json`);
+    const response = await fetch(`${import.meta.env.BASE_URL}data/statutes-${import.meta.env.DATASET_HASH}.json`);
     if (!response.ok) throw new Error('Dataset unavailable');
     const source = await response.text();
     const parsed: unknown = JSON.parse(source);
@@ -135,7 +135,7 @@ async function initialize() {
     let index;
     let builtAt: string | undefined;
     try {
-      const indexResponse = await fetch(`${import.meta.env.BASE_URL}data/search-index.json`);
+      const indexResponse = await fetch(`${import.meta.env.BASE_URL}data/search-index-${import.meta.env.DATASET_HASH}.json`);
       if (!indexResponse.ok) throw new Error('Index unavailable');
       const stored = await indexResponse.json();
       const hash = [...new Uint8Array(await crypto.subtle.digest('SHA-256', new TextEncoder().encode(source)))].map(x => x.toString(16).padStart(2, '0')).join('');

@@ -14,7 +14,7 @@ This choice gives heading matches priority over passing mentions buried in a sta
 
 Dates need more care than simply choosing the newest record. Upcoming versions have their own group. Contingent versions stay separate when the Revisor uses a placeholder date. Versions carrying the Revisor's constitutional warning appear in a labeled group, outside ordinary current and upcoming results. Where the source reprints an earlier version after a court ruling, both source links remain available with an explanation. The site preserves those distinctions without deciding legal applicability for you.
 
-Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no accounts, analytics, paid search backend, or AI service. The build includes a prebuilt index; the browser can rebuild it from the validated snapshot if that index is missing or mismatched.
+Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no accounts, analytics, paid search backend, or AI service. Each build requests data files named for its snapshot to avoid mixing cached releases. The build includes a prebuilt index; the browser can rebuild it from the validated snapshot if that index is missing or mismatched.
 
 ## What's covered
 
