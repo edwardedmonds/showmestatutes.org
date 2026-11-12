@@ -113,4 +113,4 @@ The code and original documentation use the [MIT License](LICENSE). Official sta
 
 Show Me Statutes is independent of the State of Missouri and isn't legal advice. Check the official text, dates, and source notes before relying on a result.
 
-The [README from before this rewrite](docs/archive/README-2026-11-12-before-voice-rewrite.md) is preserved unchanged, with [restoration instructions](docs/archive/README.md).
+Earlier README revisions remain available in the [Git history](https://github.com/deths74r/show-me-statutes/commits/main/README.md).
