@@ -1,10 +1,189 @@
 {
   "sourceTitles": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
     "XIX",
     "XXXVII",
     "XXXVIII"
   ],
   "chapters": [
+    {
+      "chapter": "1",
+      "title": "Laws in Force and Construction of Statutes",
+      "category": "government",
+      "minimumVersions": 54
+    },
+    {
+      "chapter": "2",
+      "title": "Session Laws and Journals",
+      "category": "government",
+      "minimumVersions": 10
+    },
+    {
+      "chapter": "3",
+      "title": "Statutory Revision",
+      "category": "government",
+      "minimumVersions": 20
+    },
+    {
+      "chapter": "7",
+      "title": "State Boundaries",
+      "category": "government",
+      "minimumVersions": 8
+    },
+    {
+      "chapter": "8",
+      "title": "State Buildings and Lands",
+      "category": "government",
+      "minimumVersions": 158
+    },
+    {
+      "chapter": "9",
+      "title": "Public Holidays",
+      "category": "government",
+      "minimumVersions": 169
+    },
+    {
+      "chapter": "10",
+      "title": "State Emblems",
+      "category": "government",
+      "minimumVersions": 55
+    },
+    {
+      "chapter": "11",
+      "title": "Missouri Manual and Official Publications",
+      "category": "government",
+      "minimumVersions": 10
+    },
+    {
+      "chapter": "12",
+      "title": "Acquisition of Land by United States Government",
+      "category": "government",
+      "minimumVersions": 12
+    },
+    {
+      "chapter": "14",
+      "title": "Collection of United States Revenue",
+      "category": "government",
+      "minimumVersions": 7
+    },
+    {
+      "chapter": "18",
+      "title": "Energy Compact",
+      "category": "government",
+      "minimumVersions": 3
+    },
+    {
+      "chapter": "21",
+      "title": "General Assembly",
+      "category": "government",
+      "minimumVersions": 79
+    },
+    {
+      "chapter": "23",
+      "title": "Committee on Legislative Research",
+      "category": "government",
+      "minimumVersions": 32
+    },
+    {
+      "chapter": "26",
+      "title": "Governor and Lieutenant Governor",
+      "category": "government",
+      "minimumVersions": 25
+    },
+    {
+      "chapter": "27",
+      "title": "Attorney General",
+      "category": "government",
+      "minimumVersions": 15
+    },
+    {
+      "chapter": "28",
+      "title": "Secretary of State",
+      "category": "government",
+      "minimumVersions": 27
+    },
+    {
+      "chapter": "29",
+      "title": "State Auditor",
+      "category": "government",
+      "minimumVersions": 35
+    },
+    {
+      "chapter": "30",
+      "title": "State Treasurer",
+      "category": "government",
+      "minimumVersions": 67
+    },
+    {
+      "chapter": "31",
+      "title": "Funds of Eleemosynary, Educational and Penal Institutions",
+      "category": "government",
+      "minimumVersions": 5
+    },
+    {
+      "chapter": "32",
+      "title": "Department of Revenue",
+      "category": "government",
+      "minimumVersions": 53
+    },
+    {
+      "chapter": "33",
+      "title": "State Financial Administration",
+      "category": "government",
+      "minimumVersions": 76
+    },
+    {
+      "chapter": "34",
+      "title": "State Purchasing and Printing",
+      "category": "government",
+      "minimumVersions": 49
+    },
+    {
+      "chapter": "36",
+      "title": "State Personnel Law (Merit System)",
+      "category": "government",
+      "minimumVersions": 47
+    },
+    {
+      "chapter": "37",
+      "title": "Office of Administration",
+      "category": "government",
+      "minimumVersions": 58
+    },
+    {
+      "chapter": "40",
+      "title": "Military Justice",
+      "category": "government",
+      "minimumVersions": 137
+    },
+    {
+      "chapter": "41",
+      "title": "Military Forces",
+      "category": "government",
+      "minimumVersions": 128
+    },
+    {
+      "chapter": "42",
+      "title": "Veterans' Affairs",
+      "category": "government",
+      "minimumVersions": 39
+    },
+    {
+      "chapter": "43",
+      "title": "Highway Patrol, State",
+      "category": "government",
+      "minimumVersions": 82
+    },
+    {
+      "chapter": "44",
+      "title": "Civil Defense",
+      "category": "government",
+      "minimumVersions": 34
+    },
     {
       "chapter": "300",
       "title": "Model Traffic Ordinance",
@@ -314,7 +493,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–V, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -332,7 +511,42 @@
       ],
       "reviewedAt": "2026-11-12",
       "sourceNotice": "Due to a contingent effective date in H.B. 1840 and a possible conflict in language, both versions are printed.",
-      "basis": "The official effective-date label explicitly calls 2099 a placeholder. Retain both source versions, identify the contingent version separately, and do not resolve applicability."
+      "basis": "The official effective-date label explicitly calls 2099 a placeholder. Retain both source versions, identify the contingent version separately, and do not resolve applicability.",
+      "multipleEnactments": true
+    },
+    {
+      "section": "44.098",
+      "versions": [
+        {
+          "versionId": "35640",
+          "effectiveFrom": "2099-01-01",
+          "dateIsPlaceholder": true
+        }
+      ],
+      "multipleEnactments": false,
+      "reviewedAt": "2026-11-12",
+      "sourceNotice": "*Contingent effective date.",
+      "basis": "The official source marks 2099 as a placeholder and gives conditional effectiveness in its footnote. Retain the single listed version as contingent; do not infer that its conditions have occurred."
+    }
+  ],
+  "delayedEnactments": [
+    {
+      "section": "27.117",
+      "versions": [
+        {
+          "versionId": "60466",
+          "effectiveFrom": "2026-08-28",
+          "sourceNotice": "Due to a delayed effective date, both versions are printed."
+        },
+        {
+          "versionId": "60727",
+          "effectiveFrom": "2027-07-01",
+          "sourceNotice": "Effective 7-01-27, see § 565.019"
+        }
+      ],
+      "reviewedAt": "2026-11-12",
+      "displayNotice": "The Revisor prints both versions because of a delayed effective date and supplies no end date for the earlier version. Read both official source pages to determine applicability.",
+      "basis": "Both listed source versions have blank end dates. Preserve the source intervals and display the delayed-version notice without inferring an end date or resolving applicability."
     }
   ]
 }

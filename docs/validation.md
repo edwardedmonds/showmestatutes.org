@@ -1,3 +1,37 @@
+# Government expansion validation — November 12, 2026
+
+## Scope and source checks
+
+Titles I–V add **29 chapter indexes, 1,493 distinct sections and 1,494 source versions**. The combined snapshot contains **3,680 sections and 3,711 versions** across **78 configured chapters**: 76 with headings and two reviewed empty indexes. The fresh official catalog contains 468 distinct chapter links, leaving 390 catalog chapters outside this snapshot. This is heading coverage of the named titles, not statewide completion.
+
+Every new version was individually retrieved, with at most one source request per second and robots checking. All 29 new indexes were fetched again after collection; their identities and dates matched. The change report has 1,494 additions, zero removals and zero changes. All 2,217 earlier record objects, including their source-check dates and hashes, are unchanged.
+
+One response for 30.860:717 instead contained a heading for 278.150. It was rejected, retained in the ignored raw cache, and recovered by a bounded exact-URL retry. No substitute heading or version entered the dataset.
+
+## Dates and citations
+
+The browser validator now accepts one- and two-digit chapter numbers verbatim. Tests distinguish 1.010 from 10.010 and reject padded or shortened guesses. Every effective section in the full combined collection is checked by exact citation.
+
+Section 44.098 has one source-placeholder version. Its explicit policy requires the exact identity, date and contingent-date footnote, without inventing competing enactments. It never automatically becomes current or scheduled future in 2099 or later.
+
+Section 27.117 has a source-documented delayed-effective-date pair with blank end dates. Each version requires its own official notice. The earlier interval remains unchanged; the later version stays upcoming until July 1, 2027. Both are retained after that date with a delayed-version notice, rather than inventing an end date. The snapshot contains 32 scheduled future versions and two contingent versions at collection time.
+
+## Checks
+
+All **283 TypeScript tests and 19 Python tests** passed, together with TypeScript checks and the production build. The 38 new government query cases were defined from the official indexes before ranking evaluation; four additional regressions cover short citations, chapter separation, the single contingent version and the delayed pair. All prior relevance expectations were retained. These are development benchmarks, not an independent legal or held-out evaluation.
+
+The production dataset exactly matches the promoted snapshot and its prebuilt index references the same dataset hash. The build includes the project MIT license and dependency notices in `licenses.txt`; the locally served file matched the built file byte for byte.
+
+## Browser checks and limits
+
+The State bird example prioritizes 10.010. Exact 1.010 resolves without padding; 01.010 produces no match. Section 44.098 appears in the contingent group without an invented multiple-enactments warning. Section 27.117 shows its current version and delayed-date notice, with the July 2027 version shown when upcoming versions are enabled. Chapter filtering excludes unrelated results, first-degree murder still prioritizes 565.020, and ArrowDown focuses the first source link.
+
+No horizontal overflow was observed at 320×740 or 390×844. The footer exposes the license-notice link, and a fresh preview recorded no browser warning or error logs. The preview server was restarted after it exited during the license-link check; the license file was independently verified over local HTTP.
+
+Physical Android measurements, assistive-technology testing and independent alias/legal review remain outstanding. GitHub still reported certificate provisioning at this check; application validation does not establish working public HTTPS.
+
+---
+
 # Transportation expansion validation — November 12, 2026
 
 ## Scope and source checks

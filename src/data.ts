@@ -48,13 +48,15 @@ export function assertDataset(value: unknown): asserts value is Dataset {
   const ids = new Set<string>();
   const sections = new Map<string, Statute[]>();
   for (const r of d.records) {
-    const contingent = coverage.contingentEnactments.find(c => c.section === r?.section)?.versions.find(v => v.versionId === r?.versionId);
-    if (!r || !/^\d{3}\.\d{3,4}$/.test(r.section) || !/^\d+$/.test(r.versionId)
+    const contingentPolicy = coverage.contingentEnactments.find(c => c.section === r?.section);
+    const delayed = coverage.delayedEnactments.find(c => c.section === r?.section)?.versions.find(v => v.versionId === r?.versionId);
+    const contingent = contingentPolicy?.versions.find(v => v.versionId === r?.versionId);
+    if (!r || !/^[1-9]\d{0,2}\.\d{3,4}$/.test(r.section) || !/^\d+$/.test(r.versionId)
       || r.id !== `${r.section}:${r.versionId}` || ids.has(r.id)
       || typeof r.title !== 'string' || !r.title.trim() || r.title.endsWith('...')
       || r.chapter !== r.section.split('.')[0] || !chapterPolicy.some(c => c.chapter === r.chapter && c.title === r.chapterTitle)
       || (r.multipleEnactments !== undefined && r.multipleEnactments !== true)
-      || Boolean(r.multipleEnactments) !== (Boolean(contingent) || coverage.concurrentEnactments.some(c => c.section === r.section && c.versionIds.includes(r.versionId)))
+      || Boolean(r.multipleEnactments) !== (Boolean(delayed) || Boolean(contingent && contingentPolicy?.multipleEnactments) || coverage.concurrentEnactments.some(c => c.section === r.section && c.versionIds.includes(r.versionId)))
       || (r.effectiveDateIsPlaceholder !== undefined && r.effectiveDateIsPlaceholder !== true)
       || Boolean(r.effectiveDateIsPlaceholder) !== Boolean(contingent?.dateIsPlaceholder)
       || !validDate(r.effectiveFrom) || (r.effectiveTo !== null && (!validDate(r.effectiveTo) || r.effectiveTo <= r.effectiveFrom))
@@ -84,9 +86,18 @@ export function assertDataset(value: unknown): asserts value is Dataset {
       if (versions.map(r => r.versionId).sort().join() !== contingent.versions.map(v => v.versionId).sort().join()
         || versions.some(r => {
           const expected = contingent.versions.find(v => v.versionId === r.versionId);
-          return !expected || !r.multipleEnactments || r.effectiveFrom !== expected.effectiveFrom || r.effectiveTo !== null
+          return !expected || Boolean(r.multipleEnactments) !== contingent.multipleEnactments || r.effectiveFrom !== expected.effectiveFrom || r.effectiveTo !== null
             || Boolean(r.effectiveDateIsPlaceholder) !== expected.dateIsPlaceholder;
         })) throw new Error('Unresolved contingent enactments');
+      continue;
+    }
+    const delayed = coverage.delayedEnactments.find(c => c.section === versions[0].section);
+    if (delayed) {
+      if (versions.map(r => r.versionId).sort().join() !== delayed.versions.map(v => v.versionId).sort().join()
+        || versions.some(r => {
+          const expected = delayed.versions.find(v => v.versionId === r.versionId);
+          return !expected || !r.multipleEnactments || r.effectiveFrom !== expected.effectiveFrom || r.effectiveTo !== null;
+        })) throw new Error('Unresolved delayed enactments');
       continue;
     }
     const concurrent = coverage.concurrentEnactments.find(c => c.section === versions[0].section);
@@ -110,4 +121,10 @@ export function isUpcoming(record: Statute, asOf: string): boolean {
 export function todayInMissouri(): string {
   const parts = new Intl.DateTimeFormat('en-US', { timeZone: 'America/Chicago', year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(new Date());
   return ['year', 'month', 'day'].map(k => parts.find(p => p.type === k)!.value).join('-');
+}
+
+export function enactmentNotice(record: Statute): string | undefined {
+  if (!record.multipleEnactments) return undefined;
+  return coverage.delayedEnactments.find(p => p.section === record.section)?.displayNotice
+    ?? 'The Revisor prints both versions due to possible conflict. Read both official source pages.';
 }

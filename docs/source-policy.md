@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–V, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -45,3 +45,11 @@ A source-documented pair of §590.1265 enactments has the same start date and no
 ## Contingent enactment exception
 
 The reviewed §301.287 pair is recorded separately in `contingentEnactments`. Source version `60471` explicitly labels 2099-01-01 as a placeholder; version `60726` carries 2026-08-28. Both pages carry the source notice about a contingent effective date and possible conflict. The parser requires those notices and the correct placeholder flag; both validators require the exact complete pair and unchanged dates. This is source metadata handling, not a determination that a condition has or has not been fulfilled. Unknown placeholder dates block collection.
+
+Section 44.098 has a single listed contingent version rather than competing enactments. Its reviewed policy requires version `35640`, the 2099-01-01 placeholder and the official contingent-date footnote. Both validators distinguish its single-version status from the 301.287 pair; a contingent date alone does not imply multiple enactments.
+
+## Delayed effective-date overlap
+
+Section **27.117** lists versions `60466` (August 28, 2026) and `60727` (July 1, 2027), with no end date on either source page. The earlier page explicitly says both versions are printed due to a delayed effective date; the later page supplies its July 2027 effective-date note. The reviewed `delayedEnactments` policy requires both exact IDs, dates, notices and unchanged blank end dates.
+
+Before July 2027, the later version appears only when upcoming versions are requested. From its source start date, both records satisfy their recorded intervals and are displayed with a delayed-effective-date notice. The application does not invent a supersession date or decide which version governs. This exception does not permit unreviewed overlaps.

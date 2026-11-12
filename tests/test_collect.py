@@ -152,3 +152,52 @@ class ContingentDateTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+class GovernmentCollectionTests(unittest.TestCase):
+    def test_preserves_short_chapter_identity_and_complete_heading(self):
+        entries = collect.parse_index(Path('tests/fixtures/chapter-1.html').read_text(), '1')
+        self.assertEqual(len(entries), 54)
+        entry = next(e for e in entries if e['section'] == '1.010')
+        self.assertTrue(entry['sourceUrl'].startswith('https://revisor.mo.gov/main/OneSection.aspx?section=1.010&bid='))
+        source = Path('tests/fixtures/short-chapter-1.html').read_text()
+        record = collect.parse_section(source, entry, '2026-11-12T12:00:00+00:00')
+        self.assertEqual(record['chapter'], '1')
+        self.assertEqual(record['title'], 'Common law in force — effect on statutes — failure to render health care services, no common law cause of action.')
+        with self.assertRaisesRegex(ValueError, 'Unexpected heading'):
+            collect.parse_section(source.replace('1.010.', '10.010.'), entry, '2026-11-12T12:00:00+00:00')
+
+    def test_rejects_short_chapter_index_with_wrong_identity(self):
+        source = Path('tests/fixtures/chapter-1.html').read_text()
+        with self.assertRaisesRegex(ValueError, 'Wrong chapter'):
+            collect.parse_index(source.replace('section=1.010', 'section=10.010'), '1')
+
+    def test_single_contingent_version_requires_placeholder_and_footnote_without_inventing_conflict(self):
+        entry = {'id': '44.098:35640', 'section': '44.098', 'versionId': '35640',
+                 'effectiveFrom': '2099-01-01', 'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section=44.098&bid=35640'}
+        source = Path('tests/fixtures/contingent-single-44.html').read_text()
+        record = collect.parse_section(source, entry, '2026-11-12T12:00:00+00:00')
+        self.assertTrue(record['effectiveDateIsPlaceholder'])
+        self.assertNotIn('multipleEnactments', record)
+        with self.assertRaisesRegex(ValueError, 'Unverified contingent'):
+            collect.parse_section(source.replace('*Contingent effective date.', '*Scheduled effective date.'), entry, '2026-11-12T12:00:00+00:00')
+        with self.assertRaisesRegex(ValueError, 'Unverified placeholder'):
+            collect.parse_section(source.replace('date is placeholder', 'scheduled date'), entry, '2026-11-12T12:00:00+00:00')
+
+    def test_delayed_enactment_pair_requires_each_sources_exact_notice(self):
+        for version, effective in [('60466', '2026-08-28'), ('60727', '2027-07-01')]:
+            entry = {'id': '27.117:' + version, 'section': '27.117', 'versionId': version,
+                     'effectiveFrom': effective, 'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section=27.117&bid=' + version}
+            source = Path('tests/fixtures/delayed-27-' + version + '.html').read_text()
+            record = collect.parse_section(source, entry, '2026-11-12T12:00:00+00:00')
+            self.assertTrue(record['multipleEnactments'])
+            self.assertIsNone(record['effectiveTo'])
+            notice = next(v['sourceNotice'] for v in collect.POLICY['delayedEnactments'][0]['versions'] if v['versionId'] == version)
+            from bs4 import BeautifulSoup
+            soup = BeautifulSoup(source, 'html.parser')
+            text = collect.clean(soup.get_text(' '))
+            self.assertIn(notice, text)
+            # Preserve the source layout; remove the distinguishing words in its notice.
+            bad = source.replace('delayed effective date', 'different circumstances') if version == '60466' else source.replace('Effective 7-01-27', 'Effective 8-01-27')
+            self.assertNotEqual(source, bad)
+            with self.assertRaisesRegex(ValueError, 'Unverified delayed'):
+                collect.parse_section(bad, entry, '2026-11-12T12:00:00+00:00')

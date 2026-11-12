@@ -129,12 +129,18 @@ def parse_section(html, entry, checked_at):
     if placeholder != bool(reviewed and reviewed['dateIsPlaceholder']):
         raise ValueError('Unverified placeholder effective date: ' + entry['id'])
     if contingent and (not reviewed or entry['effectiveFrom'] != reviewed['effectiveFrom'] or until is not None
-            or f'There are multiple enactments of {entry["section"]}' not in clean(soup.get_text(' '))
+            or (contingent['multipleEnactments'] != (f'There are multiple enactments of {entry["section"]}' in clean(soup.get_text(' '))))
             or contingent['sourceNotice'] not in clean(soup.get_text(' '))):
         raise ValueError('Unverified contingent enactment: ' + entry['id'])
+    delayed = next((p for p in POLICY.get('delayedEnactments', []) if p['section'] == entry['section']), None)
+    delayed_version = next((v for v in delayed['versions'] if v['versionId'] == entry['versionId']), None) if delayed else None
+    if delayed and (not delayed_version or entry['effectiveFrom'] != delayed_version['effectiveFrom'] or until is not None
+            or f'There are multiple enactments of {entry["section"]}' not in clean(soup.get_text(' '))
+            or delayed_version['sourceNotice'] not in clean(soup.get_text(' '))):
+        raise ValueError('Unverified delayed enactment: ' + entry['id'])
     chapter = entry['section'].split('.')[0]
     return {**entry, 'title': title, 'chapter': chapter, 'chapterTitle': CHAPTERS[chapter]['title'],
-            'effectiveTo': until, **({'multipleEnactments': True} if concurrent or contingent else {}),
+            'effectiveTo': until, **({'multipleEnactments': True} if concurrent or delayed or (contingent and contingent['multipleEnactments']) else {}),
             **({'effectiveDateIsPlaceholder': True} if placeholder else {}), 'headingMarker': marker, 'sourceCheckedAt': checked_at,
             'sourceSha256': hashlib.sha256(html.encode()).hexdigest()}
 
@@ -172,7 +178,10 @@ def validate(dataset, previous=None):
         concurrent = next((p for p in POLICY['concurrentEnactments'] if p['section'] == record['section'] and record['versionId'] in p['versionIds']), None)
         contingent = next((p for p in POLICY['contingentEnactments'] if p['section'] == record['section']), None)
         reviewed = next((v for v in contingent['versions'] if v['versionId'] == record['versionId']), None) if contingent else None
-        if bool(record.get('multipleEnactments')) != bool(concurrent or reviewed):
+        delayed = next((p for p in POLICY.get('delayedEnactments', []) if p['section'] == record['section']), None)
+        delayed_version = next((v for v in delayed['versions'] if v['versionId'] == record['versionId']), None) if delayed else None
+        if ((record.get('multipleEnactments') is not None and record.get('multipleEnactments') is not True)
+                or bool(record.get('multipleEnactments')) != bool(concurrent or delayed_version or (reviewed and contingent['multipleEnactments']))):
             raise ValueError('Unverified concurrent enactment marker')
         if (record.get('effectiveDateIsPlaceholder') is not None and record.get('effectiveDateIsPlaceholder') is not True) or bool(record.get('effectiveDateIsPlaceholder')) != bool(reviewed and reviewed['dateIsPlaceholder']):
             raise ValueError('Unverified placeholder date marker')
@@ -207,10 +216,18 @@ def validate(dataset, previous=None):
         if contingent:
             expected = {v['versionId']: v for v in contingent['versions']}
             if (set(r['versionId'] for r in versions) != set(expected)
-                    or any(not r.get('multipleEnactments') or r['effectiveFrom'] != expected[r['versionId']]['effectiveFrom']
+                    or any(bool(r.get('multipleEnactments')) != contingent['multipleEnactments'] or r['effectiveFrom'] != expected[r['versionId']]['effectiveFrom']
                            or r['effectiveTo'] is not None
                            or bool(r.get('effectiveDateIsPlaceholder')) != expected[r['versionId']]['dateIsPlaceholder'] for r in versions)):
                 raise ValueError('Unresolved contingent enactments')
+            continue
+        delayed = next((p for p in POLICY.get('delayedEnactments', []) if p['section'] == versions[0]['section']), None)
+        if delayed:
+            expected = {v['versionId']: v for v in delayed['versions']}
+            if (set(r['versionId'] for r in versions) != set(expected)
+                    or any(not r.get('multipleEnactments') or r['effectiveFrom'] != expected[r['versionId']]['effectiveFrom']
+                           or r['effectiveTo'] is not None for r in versions)):
+                raise ValueError('Unresolved delayed enactments')
             continue
         concurrent = next((p for p in POLICY['concurrentEnactments'] if p['section'] == versions[0]['section']), None)
         if concurrent:

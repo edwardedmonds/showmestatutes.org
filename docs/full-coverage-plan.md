@@ -1,10 +1,10 @@
 # Statewide heading coverage plan
 
-Statewide heading coverage was authorized on November 12, 2026. The first batch extends the existing criminal-law and procedure collection with **Title XIX, Chapters 300–307**. The live site must state its actual imported coverage until all remaining chapters have been collected and validated.
+Statewide heading coverage was authorized on November 12, 2026. Completed batches extend the original criminal-law and procedure collection with **Title XIX, Chapters 300–307**, followed by **Titles I–V**, covering the 29 listed chapters from 1 through 44. The live site must state its actual imported coverage until all remaining chapters have been collected and validated.
 
 ## Remaining work
 
-The [official Revisor chapter catalog](https://revisor.mo.gov/) listed **468 distinct chapter links** at the planning check. This is a catalog count, not a count of chapters with active provisions; transferred or empty chapters require explicit review. The first transportation batch brings the configured scope to 49 chapters. The remaining titles will proceed in catalog order, split into manageable batches when necessary. Counts can change when the source catalog changes.
+The [official Revisor chapter catalog](https://revisor.mo.gov/) listed **468 distinct chapter links** at the planning check. This is a catalog count, not a count of chapters with active provisions; transferred or empty chapters require explicit review. The transportation and government batches bring the configured scope to **78 chapter indexes**: 76 with headings and two reviewed empty indexes. **390 catalog chapters remain** at this check. Next is **Title VI — County, Township and Political Subdivision Government**, beginning with Chapter 46. The remaining titles will proceed in catalog order, split into manageable batches when necessary. Counts can change when the source catalog changes.
 
 For each batch:
 
@@ -12,7 +12,7 @@ For each batch:
 2. Review each chapter index, establish minimum version counts, and preserve its URL, check date and response hash.
 3. Fetch every enumerated source version at no more than one request per second. Validate identity, complete heading and effective dates. Preserve rejected responses and stop on persistent inconsistencies.
 4. Retrieve the new chapter indexes again and compare identities and dates. Investigate differences before promotion.
-5. Review concurrent enactments and unusual citation formats explicitly. Never drop, merge, renumber or guess a citation to fit the current parser.
+5. Review concurrent and delayed enactments, contingent effective dates and unusual citation formats explicitly. Never drop, merge, renumber or guess a citation to fit the current parser.
 6. Add source-based relevance cases before evaluating rankings; run all prior regressions and every-section exact-lookup tests against the combined dataset.
 7. Review the change report, browser behavior and coverage disclosures; publish only a passing main-branch build. A failed batch leaves the previous release intact.
 

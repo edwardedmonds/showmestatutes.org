@@ -1,5 +1,5 @@
 import './style.css';
-import { assertDataset, todayInMissouri, type Dataset } from './data';
+import { assertDataset, enactmentNotice, todayInMissouri, type Dataset } from './data';
 import { createSearch, loadIndex, type Match } from './search';
 
 const form = document.querySelector<HTMLFormElement>('#search-form')!;
@@ -36,7 +36,7 @@ function card(match: Match, future: boolean) {
   const bottom = element('div', undefined, 'card-bottom');
   bottom.append(element('span', match.reason, 'match-reason'), element('small', `Source checked ${formatDate(r.sourceCheckedAt)}`));
   item.append(meta, title, dates, bottom);
-  if (r.multipleEnactments) item.append(element('p', `Multiple enactments · source version ${r.versionId}. The Revisor prints both versions due to possible conflict. Read both official source pages.`, 'version'));
+  if (r.multipleEnactments) item.append(element('p', `Multiple enactments · source version ${r.versionId}. ${enactmentNotice(r)}`, 'version'));
   if (r.headingMarker) item.append(element('p', 'The official source marks this section with a footnote. Read the source notes.', 'version'));
   const official = element('a', 'Read this version at the Revisor ↗', 'official-link');
   official.href = r.sourceUrl;

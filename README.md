@@ -2,33 +2,34 @@
 
 Find Missouri statutes without knowing the section number. Independent, heading-first search with links to official sources.
 
-## Criminal, procedure and transportation coverage
+## Current heading coverage
 
-The collection covers the chapter indexes in Missouri Revisor **Titles XIX, XXXVII and XXXVIII**: Chapters **300–307, 540–552, 556–579, 589, 590, 595 and 600**. The transportation expansion was collected November 12, 2026; the earlier criminal-law source responses retain their original check dates. It contains **2,187 distinct sections and 2,217 source versions** across 47 chapters with headings, plus two explicitly empty indexes. The dataset manifest contains each chapter's source-check date. It preserves complete official headings, source IDs, effective intervals and response hashes, and separates upcoming versions from those effective on the search date.
+The collection covers the chapter indexes in Missouri Revisor **Titles I–V, XIX, XXXVII and XXXVIII**: Chapters **1–3, 7–12, 14, 18, 21, 23, 26–34, 36–37, 40–44, 300–307, 540–552, 556–579, 589, 590, 595 and 600**. The government expansion was collected November 12, 2026; earlier source responses retain their original check dates. It contains **3,680 distinct sections and 3,711 source versions** across 76 chapters with headings, plus two explicitly empty indexes. The dataset manifest contains each chapter's source-check date. It preserves complete official headings, source IDs, effective intervals and response hashes, and separates upcoming versions from those effective on the search date.
 
 The chapter selector searches across the collection or narrows to one chapter. Chapters 560 and 564 currently have empty source indexes; the coverage disclosure records them explicitly. [Detailed coverage and exclusions](docs/coverage.md) explains the scope and source-specific handling.
 
 - “first degree murder,” “1st degree murder,” “murder 1,” and “frist degree murdr” lead to § 565.020.
 - “first degree murder trial procedure” prioritizes § 565.030.
 - “DWI,” “theft,” and “self defense” use documented common-name aliases.
+- Government headings include state offices, holidays and emblems, military justice, veterans, the highway patrol and emergency management.
 - Transportation headings cover traffic, registration, licensing, financial responsibility, equipment, watercraft and aviation. Chapter 300 is the Model Traffic Ordinance, not a collection of adopted local ordinances.
-- Exact section lookup supports three- and four-digit suffixes and never silently corrects a section number.
+- Exact section lookup preserves one-, two- and three-digit chapter numbers and supports three- and four-digit suffixes and never silently corrects a section number.
 - A source-placeholder effective date is labeled as contingent, never treated as a scheduled future start.
 - Every result shows its actual chapter, and the chapter filter applies to all result groups.
 - Related procedures and broader topics have their own result group.
 - Body-text mentions do not participate in heading search.
 - Search runs in the browser; no accounts, analytics, paid backend, or AI service.
 
-**This is a development collection.** It does not yet cover all Missouri statutes or all historical versions. [Statewide heading coverage](docs/full-coverage-plan.md) is proceeding in reviewed batches. Independent alias review and performance testing on a representative physical Android device remain outstanding validation work. The transportation release was deployed to GitHub Pages on November 12, 2026; see the dated status below and [deployment setup](docs/deployment.md).
+**This is a development collection.** It does not yet cover all Missouri statutes or all historical versions. [Statewide heading coverage](docs/full-coverage-plan.md) is proceeding in reviewed batches. Independent alias review and performance testing on a representative physical Android device remain outstanding validation work. GitHub Pages publishes validated main-branch builds; see the dated status below and [deployment setup](docs/deployment.md).
 
 ## Release and validation status
 
 As checked on **November 12, 2026**:
 
-- The [transportation release](https://github.com/deths74r/show-me-statutes/actions/runs/43175324277) passed validation and deployed successfully. It added **954 sections**, bringing the collection to **2,187 sections**.
-- **241 TypeScript tests and 15 Python tests** passed, along with TypeScript checks and the production build. [Validation notes](docs/validation.md) record source checks, browser checks and remaining limitations.
-- The deployed HTML, dataset and application assets at `showmestatutes.org` matched the release over HTTP. HTTPS still returned a certificate hostname mismatch at that check; secure-domain readiness remains unverified. See [deployment setup and recovery](docs/deployment.md).
-- Next: continue the [statewide heading coverage plan](docs/full-coverage-plan.md) in reviewed batches, preserving source provenance and checking search relevance after each expansion.
+- The government expansion adds **1,493 sections** across **29 chapter indexes**, bringing the collection to **3,680 sections**. [GitHub Actions](https://github.com/deths74r/show-me-statutes/actions) records validation and deployment results.
+- **283 TypeScript tests and 19 Python tests** passed, along with TypeScript checks and the production build. [Validation notes](docs/validation.md) record source checks, browser checks and remaining limitations.
+- The earlier transportation release was verified at `showmestatutes.org` over HTTP. At the government-expansion check, GitHub still reported certificate provisioning and HTTPS returned a hostname mismatch; secure-domain readiness remains unverified. See [deployment setup and recovery](docs/deployment.md).
+- Next: Title VI (county, township and political subdivision government). **78 of 468 catalog chapter indexes** are imported; **390 remain** at this check. Continue the [statewide heading coverage plan](docs/full-coverage-plan.md) in reviewed batches, preserving source provenance and checking search relevance after each expansion.
 
 Update this README alongside changes to coverage, setup, validation, deployment status and licensing. Keep status checks dated and distinguish a successful application deployment from working public HTTPS.
 
@@ -87,7 +88,7 @@ Inspect `data/change-report.json` before committing updates. Record loss always 
 - `public/data/statutes.json`: versioned source records plus dataset manifest
 - `scripts/collect.py`: rate-limited collection and strict source validation
 - `scripts/refresh.mjs`: validation/build gate and atomic snapshot promotion
-- `tests/queries.json`, `tests/expansion-queries.json`, `tests/transportation-queries.json`: pilot and expanded development relevance benchmarks
+- `tests/queries.json`, `tests/expansion-queries.json`, `tests/transportation-queries.json`, `tests/government-queries.json`: pilot and expanded development relevance benchmarks
 - `tests/fixtures/`: source-format regression fixtures
 - `docs/`: roadmap progress, relevance contract, source policy and validation notes
 
@@ -107,4 +108,4 @@ This project is independent of the State of Missouri and is not legal advice. Al
 
 ## License
 
-The project code and original documentation are licensed under the [MIT License](LICENSE). Official Missouri statute content retains its source attribution; the software license does not claim ownership of that content. Third-party dependencies retain their own licenses.
+The project code and original documentation are licensed under the [MIT License](LICENSE). Official Missouri statute content retains its source attribution; the software license does not claim ownership of that content. Third-party dependencies retain their own licenses. Every production build includes `licenses.txt` with the project and bundled dependency notices, linked from the site footer.
