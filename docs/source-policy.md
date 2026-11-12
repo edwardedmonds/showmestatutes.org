@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–VI, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–VII, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -58,6 +58,8 @@ Before July 2027, the later version appears only when upcoming versions are requ
 
 The collector preserves the Revisor's effective-date banner when it marks all or part of a version as unconstitutional, and explicit Revisor's notes stating that the section was declared unconstitutional. It does not infer this status from general discussion of court rulings in statutory text or annotations. Every such marker requires an explicitly reviewed identity, date and source notice in `constitutionalWarnings`; missing, added or changed markers stop collection. The browser validates the same policy and displays these versions in their own result group, with their official links and source dates. It does not infer whether the whole section or only part is affected, or which legal rule applies.
 
-Six section pairs in Chapters 56 and 67 have overlapping blank-ended intervals because the source reprints an earlier version after a court ruling while retaining the later, warned version. `reprintedEnactments` requires both exact versions, their dates, their multiple-enactment labels and each page's reviewed notice. No end date is invented. This policy is separate from the delayed and contingent enactment policies.
+Six county-government section pairs in Chapters 56 and 67 have overlapping blank-ended intervals because the source reprints an earlier version after a court ruling while retaining the later, warned version. `reprintedEnactments` requires both exact versions, their dates, their multiple-enactment labels and each page's reviewed notice. No end date is invented. This policy is separate from the delayed and contingent enactment policies.
 
 The existing cached response for §1.410 also carries the constitutional-warning banner. This release adds its previously omitted marker while retaining the original source-check date, response hash and all other record fields. This is a correction from the archived source, not a fresh retrieval of the earlier government collection.
+
+The municipal batch adds five reviewed reprinted pairs: §79.130 (`3732` and `36191`), §94.270 (`4884` and `36196`), §99.825 (`51497` and `33552`), §99.830 (`51498` and `5146`), and §99.865 (`51499` and `33554`). The first version listed in each pair has the source warning; the second has the section 3.066 reprint notice. The Chapter 99 warnings are explicit Revisor's notes, without a constitutional-warning banner. The same strict policy and separate warning group apply.

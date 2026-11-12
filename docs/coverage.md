@@ -1,6 +1,6 @@
 # Indexed chapters
 
-The collection follows the Missouri Revisor catalog: Titles I–V (laws and statutes, sovereignty and emblems, the legislative and executive branches, and military affairs and police), [Title VI — County, Township and Political Subdivision Government](https://revisor.mo.gov/main/OneTitle.aspx?title=VI), alongside [Title XIX — Motor Vehicles, Watercraft and Aviation](https://revisor.mo.gov/main/OneTitle.aspx?title=XIX), [Title XXXVII — Criminal Procedure](https://revisor.mo.gov/main/OneTitle.aspx?title=XXXVII) and [Title XXXVIII — Crimes and Punishment; Peace Officers and Public Defenders](https://revisor.mo.gov/main/OneTitle.aspx?title=XXXVIII), checked November 12, 2026.
+The collection follows the Missouri Revisor catalog: Titles I–V (laws and statutes, sovereignty and emblems, the legislative and executive branches, and military affairs and police), [Title VI — County, Township and Political Subdivision Government](https://revisor.mo.gov/main/OneTitle.aspx?title=VI), [Title VII — Cities, Towns and Villages](https://revisor.mo.gov/main/OneTitle.aspx?title=VII), alongside [Title XIX — Motor Vehicles, Watercraft and Aviation](https://revisor.mo.gov/main/OneTitle.aspx?title=XIX), [Title XXXVII — Criminal Procedure](https://revisor.mo.gov/main/OneTitle.aspx?title=XXXVII) and [Title XXXVIII — Crimes and Punishment; Peace Officers and Public Defenders](https://revisor.mo.gov/main/OneTitle.aspx?title=XXXVIII), checked November 12, 2026.
 
 The machine-readable collection policy is `data/coverage.json`. Both the Python collector and the browser validator use it. Each chapter has a source-derived title and a minimum unique-version count established from the reviewed initial index. The dataset manifest separately retains each chapter's index URL, retrieval time, response hash, section count and version count. These chapter indexes define this collection; this is not a claim to cover every criminal provision elsewhere in Missouri law.
 
@@ -10,6 +10,7 @@ The machine-readable collection policy is `data/coverage.json`. Both the Python 
 - Executive branch: Chapters **26–34, 36 and 37**.
 - Military affairs and police: Chapters **40–44**.
 - County, township and political subdivision government: Chapters **46–61, 64–68 and 70**.
+- Cities, towns and villages: Chapters **71–72, 77–82, 84–92, 94–96 and 98–100**.
 - Transportation: Chapters **300–307**, including the Model Traffic Ordinance, registration, driver licensing, financial responsibility, traffic regulations, aviation, watercraft and equipment.
 - Criminal procedure: Chapters **540–552**.
 - Criminal code, sentencing, defenses and offenses: Chapters **556–579**.
@@ -68,3 +69,11 @@ The Revisor reprints earlier versions of **56.067, 56.816, 67.457, 67.461, 67.14
 Versions bearing the Revisor's “all or part is unconstitutional” banner or an explicit Revisor's note declaring the section unconstitutional appear in **Versions with constitutional warnings**, including through exact-citation search. They do not enter ordinary current, related or upcoming result groups. Chapter filters apply to the warning group, and hiding upcoming versions does not hide warnings. The wording preserves the source's qualification; it does not declare every flagged section invalid in its entirety. See [source policy](source-policy.md).
 
 Section **67.320:2753** retains the source warning while displaying its additional qualification: the Revisor says the 2014 language from S.B. 621 remains current because that bill was not addressed in the cited case. The warning group is not a list of wholly invalid statutes.
+
+## Municipal expansion
+
+Title VII adds 23 chapter indexes covering state statutes for city classifications, municipal powers, police and fire departments, pension systems, public works, zoning, parks, utilities, taxation, debt, municipal health, housing and industrial development. These are state laws concerning municipalities, not a collection of local ordinances. Earlier records retain their original retrieval dates and source hashes.
+
+The source lists reprinted pairs for **79.130, 94.270, 99.825, 99.830 and 99.865**. Each earlier reprint remains separately linked alongside its later version carrying a constitutional warning. The warnings for the three Chapter 99 versions appear in explicit Revisor's notes rather than the effective-date banner. The reviewed policy requires the exact notices, identities and source dates, and retains blank end dates without deciding which version governs.
+
+Section **79.135:3733** is separately marked by the source, with no reprinted partner in its chapter index. It appears only in the constitutional-warning group. The collection does not invent a replacement version.

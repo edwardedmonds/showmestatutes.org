@@ -274,3 +274,29 @@ class ReprintedVersionTests(unittest.TestCase):
         unknown = {**entry, 'id': '56.067:99999', 'versionId': '99999'}
         with self.assertRaisesRegex(ValueError, 'Unverified delayed/reprinted'):
             collect.parse_section(source.replace('36193', '99999'), unknown, '2026-11-12T18:00:00+00:00')
+
+
+class MunicipalCollectionTests(unittest.TestCase):
+    def test_reviewed_municipal_warning_banner_and_note_are_preserved(self):
+        for section, bid, effective in [('79.130', '3732', '2014-08-28'), ('99.825', '51497', '2022-08-28')]:
+            entry = {'id': section+':'+bid, 'section': section, 'versionId': bid, 'effectiveFrom': effective,
+                     'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section='+section+'&bid='+bid}
+            source = Path('tests/fixtures/municipal-'+section+'-'+bid+'.html').read_text()
+            record = collect.parse_section(source, entry, '2026-11-12T20:00:00+00:00')
+            self.assertTrue(record['hasConstitutionalWarning'])
+            self.assertTrue(record['multipleEnactments'])
+            self.assertIsNone(record['effectiveTo'])
+            broken = source.replace('all or part is unconstitutional', '').replace('This section was declared unconstitutional', 'A court case is discussed')
+            with self.assertRaises(ValueError):
+                collect.parse_section(broken, entry, '2026-11-12T20:00:00+00:00')
+
+    def test_municipal_reprint_requires_its_source_notice(self):
+        entry = {'id': '99.825:33552', 'section': '99.825', 'versionId': '33552', 'effectiveFrom': '2016-08-28',
+                 'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section=99.825&bid=33552'}
+        source = Path('tests/fixtures/municipal-99.825-33552.html').read_text()
+        record = collect.parse_section(source, entry, '2026-11-12T20:00:00+00:00')
+        self.assertNotIn('hasConstitutionalWarning', record)
+        self.assertTrue(record['multipleEnactments'])
+        self.assertIsNone(record['effectiveTo'])
+        with self.assertRaisesRegex(ValueError, 'Unverified delayed/reprinted'):
+            collect.parse_section(source.replace('reprinted in accordance', 'printed differently'), entry, '2026-11-12T20:00:00+00:00')

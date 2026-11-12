@@ -6,6 +6,7 @@
     "IV",
     "V",
     "VI",
+    "VII",
     "XIX",
     "XXXVII",
     "XXXVIII"
@@ -283,7 +284,7 @@
     },
     {
       "chapter": "64",
-      "title": "County Planning \u2014 Zoning \u2014 Recreation \u2014 Natural Streams and Waterways",
+      "title": "County Planning — Zoning — Recreation — Natural Streams and Waterways",
       "category": "government",
       "minimumVersions": 130
     },
@@ -316,6 +317,144 @@
       "title": "Powers of Political Subdivisions to Cooperate or Contract with Governmental Units",
       "category": "government",
       "minimumVersions": 136
+    },
+    {
+      "chapter": "71",
+      "title": "Provisions Relative to All Cities and Towns",
+      "category": "government",
+      "minimumVersions": 124
+    },
+    {
+      "chapter": "72",
+      "title": "Classification and Consolidation of Cities, Towns and Villages",
+      "category": "government",
+      "minimumVersions": 55
+    },
+    {
+      "chapter": "77",
+      "title": "Cities of the Third Classification",
+      "category": "government",
+      "minimumVersions": 72
+    },
+    {
+      "chapter": "78",
+      "title": "Optional Forms, Cities of the Third Classification",
+      "category": "government",
+      "minimumVersions": 62
+    },
+    {
+      "chapter": "79",
+      "title": "Cities of the Fourth Classification",
+      "category": "government",
+      "minimumVersions": 69
+    },
+    {
+      "chapter": "80",
+      "title": "Towns and Villages",
+      "category": "government",
+      "minimumVersions": 46
+    },
+    {
+      "chapter": "81",
+      "title": "Special Charter Cities and Towns",
+      "category": "government",
+      "minimumVersions": 31
+    },
+    {
+      "chapter": "82",
+      "title": "Constitutional Charter Cities (Home Rule)",
+      "category": "government",
+      "minimumVersions": 101
+    },
+    {
+      "chapter": "84",
+      "title": "Police Departments in St. Louis and Kansas City",
+      "category": "government",
+      "minimumVersions": 83
+    },
+    {
+      "chapter": "85",
+      "title": "City Police and Fire Departments Generally",
+      "category": "government",
+      "minimumVersions": 9
+    },
+    {
+      "chapter": "86",
+      "title": "Police Relief and Pension Systems",
+      "category": "government",
+      "minimumVersions": 222
+    },
+    {
+      "chapter": "87",
+      "title": "Firefighters' Retirement and Relief Systems",
+      "category": "government",
+      "minimumVersions": 118
+    },
+    {
+      "chapter": "88",
+      "title": "Public Works and Special Assessments — Condemnation",
+      "category": "government",
+      "minimumVersions": 134
+    },
+    {
+      "chapter": "89",
+      "title": "Zoning and Planning",
+      "category": "government",
+      "minimumVersions": 45
+    },
+    {
+      "chapter": "90",
+      "title": "Parks and Recreation (Cities)",
+      "category": "government",
+      "minimumVersions": 18
+    },
+    {
+      "chapter": "91",
+      "title": "Municipally Owned Utilities",
+      "category": "government",
+      "minimumVersions": 77
+    },
+    {
+      "chapter": "92",
+      "title": "Taxation in St. Louis, Kansas City, and Certain Other Cities",
+      "category": "government",
+      "minimumVersions": 102
+    },
+    {
+      "chapter": "94",
+      "title": "Taxation in Other Cities",
+      "category": "government",
+      "minimumVersions": 105
+    },
+    {
+      "chapter": "95",
+      "title": "Financial Administration and Indebtedness",
+      "category": "government",
+      "minimumVersions": 64
+    },
+    {
+      "chapter": "96",
+      "title": "Municipal Health and Welfare",
+      "category": "government",
+      "minimumVersions": 24
+    },
+    {
+      "chapter": "98",
+      "title": "Courts and Attorneys",
+      "category": "government",
+      "minimumVersions": 3
+    },
+    {
+      "chapter": "99",
+      "title": "Municipal Housing",
+      "category": "government",
+      "minimumVersions": 160
+    },
+    {
+      "chapter": "100",
+      "title": "Industrial Development",
+      "category": "government",
+      "minimumVersions": 89
     },
     {
       "chapter": "300",
@@ -355,7 +494,7 @@
     },
     {
       "chapter": "306",
-      "title": "Watercraft Regulation and Licensing \u2014 Water Patrol Division",
+      "title": "Watercraft Regulation and Licensing — Water Patrol Division",
       "category": "transportation",
       "minimumVersions": 81
     },
@@ -379,7 +518,7 @@
     },
     {
       "chapter": "542",
-      "title": "Proceedings to Preserve the Peace \u2014 Searches and Seizures",
+      "title": "Proceedings to Preserve the Peace — Searches and Seizures",
       "category": "procedure",
       "minimumVersions": 40
     },
@@ -626,7 +765,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I\u2013VI, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–VII, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -674,7 +813,7 @@
         {
           "versionId": "60727",
           "effectiveFrom": "2027-07-01",
-          "sourceNotice": "Effective 7-01-27, see \u00a7 565.019"
+          "sourceNotice": "Effective 7-01-27, see § 565.019"
         }
       ],
       "reviewedAt": "2026-11-12",
@@ -778,6 +917,86 @@
         }
       ],
       "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "79.130",
+      "versions": [
+        {
+          "versionId": "3732",
+          "effectiveFrom": "2014-08-28",
+          "sourceNotice": "all or part is unconstitutional"
+        },
+        {
+          "versionId": "36191",
+          "effectiveFrom": "1988-08-13",
+          "sourceNotice": "This section is reprinted in accordance with section 3.066"
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "94.270",
+      "versions": [
+        {
+          "versionId": "4884",
+          "effectiveFrom": "2014-08-28",
+          "sourceNotice": "all or part is unconstitutional"
+        },
+        {
+          "versionId": "36196",
+          "effectiveFrom": "2013-08-28",
+          "sourceNotice": "This section is reprinted in accordance with section 3.066"
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "99.825",
+      "versions": [
+        {
+          "versionId": "51497",
+          "effectiveFrom": "2022-08-28",
+          "sourceNotice": "This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al."
+        },
+        {
+          "versionId": "33552",
+          "effectiveFrom": "2016-08-28",
+          "sourceNotice": "This section is reprinted in accordance with section 3.066"
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "99.830",
+      "versions": [
+        {
+          "versionId": "51498",
+          "effectiveFrom": "2022-08-28",
+          "sourceNotice": "This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al."
+        },
+        {
+          "versionId": "5146",
+          "effectiveFrom": "1997-12-23",
+          "sourceNotice": "This section is reprinted in accordance with section 3.066"
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "99.865",
+      "versions": [
+        {
+          "versionId": "51499",
+          "effectiveFrom": "2022-08-28",
+          "sourceNotice": "This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al."
+        },
+        {
+          "versionId": "33554",
+          "effectiveFrom": "2016-08-28",
+          "sourceNotice": "This section is reprinted in accordance with section 3.066"
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
     }
   ],
   "constitutionalWarnings": [
@@ -826,6 +1045,36 @@
       "effectiveFrom": "2014-08-28",
       "sourceNotice": "S.B. 621 was not addressed in that case; therefore, this version of this section (the 2014 language from S.B. 621, effective 8/28/2014), is the current version.",
       "displayNotice": "The Revisor says the 2014 language from S.B. 621 is the current version because that bill was not addressed in the cited case. Read the official note for this distinction."
+    },
+    {
+      "id": "79.130:3732",
+      "effectiveFrom": "2014-08-28",
+      "sourceNotice": "all or part is unconstitutional"
+    },
+    {
+      "id": "94.270:4884",
+      "effectiveFrom": "2014-08-28",
+      "sourceNotice": "all or part is unconstitutional"
+    },
+    {
+      "id": "99.825:51497",
+      "effectiveFrom": "2022-08-28",
+      "sourceNotice": "This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al."
+    },
+    {
+      "id": "99.830:51498",
+      "effectiveFrom": "2022-08-28",
+      "sourceNotice": "This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al."
+    },
+    {
+      "id": "99.865:51499",
+      "effectiveFrom": "2022-08-28",
+      "sourceNotice": "This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al."
+    },
+    {
+      "id": "79.135:3733",
+      "effectiveFrom": "2014-08-28",
+      "sourceNotice": "This section was declared unconstitutional in Calzone v. Koster, et al."
     }
   ]
 }

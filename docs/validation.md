@@ -1,3 +1,33 @@
+# Municipal expansion validation — November 12, 2026
+
+## Scope and source checks
+
+Title VII adds **23 chapter indexes, 1,808 distinct sections and 1,813 source versions**. The combined snapshot contains **7,431 sections and 7,473 versions** across **123 configured chapter indexes**: 121 with headings and two reviewed empty indexes. The fresh catalog contains 468 chapter links, leaving 345 outside this collection. Title VIII is next.
+
+Every new source version was retrieved sequentially at no more than one request per second. All 23 new indexes matched an independent second retrieval of their exact version identities, dates and URLs. The change report contains 1,813 additions, zero removals and zero changes. All 5,660 earlier records, including source-check dates and hashes, are unchanged as complete objects.
+
+## Source warnings and versions
+
+Five newly reviewed reprinted pairs preserve both official versions and their blank end dates: §§79.130, 94.270, 99.825, 99.830 and 99.865. The first two have warning banners; the three Chapter 99 versions instead have explicit Revisor notes declaring the section unconstitutional. The exact identities, dates and notices are required by the source policy. Section 79.135 has a warning but no indexed reprint; it remains a warning-only result without an invented replacement.
+
+Strict collection initially stopped at unreviewed source exceptions. After review, the normal collector rebuilt and validated the full candidate offline from the cached responses with no unresolved exceptions. The combined snapshot contains 15 warned versions, 11 reviewed reprinted pairs, 32 scheduled future versions and two contingent versions. These distinctions preserve source evidence without deciding legal applicability.
+
+## Checks and performance
+
+All **364 TypeScript tests and 27 Python tests** passed, together with TypeScript checks and the production build. The 34 municipal query cases were defined from official indexes before ranking evaluation. Four additional search/data regressions cover exact citations, chapter isolation, all five reprinted pairs and the warning-only section. Two new Python tests cover the source warning and reprint notices. No search ranking or production parser changes were needed. These remain development checks, not independent legal-search evaluation.
+
+The production dataset matches the promoted snapshot byte for byte, and the prebuilt index references its SHA-256 hash. The serialized index is 875,593 bytes, up from 686,643 bytes. On local Linux with Node 22.22.2, construction took about 155 ms and loading plus search setup about 174 ms. Across 16 queries with three warm-up passes and 25 measured runs each, p95 search times ranged from 0.23 to 10.23 ms; the earlier snapshot ranged from 0.14 to 8.70 ms in the same benchmark. These measurements exclude download, JSON parsing, validation and rendering and are not physical mobile results.
+
+## Browser checks and publication
+
+The built site shows all 7,431 section headings. Zoning districts finds §89.030 within Chapter 89; housing authority prioritizes §99.040 within Chapter 99; industrial development finds §§100.040 and 100.020 within Chapter 100. Exact §§79.130 and 99.825 show reprints and warned versions separately with the expected official URLs. Section 79.135 appears only in the warning group, and a Chapter 89 filter excludes it. Existing first-degree murder lookup still prioritizes §565.020. ArrowDown focuses the first source-heading link.
+
+No horizontal overflow was observed with 320×740 and 390×740 viewport overrides. No browser warning or error logs were observed. Physical Android timing, screen-reader testing and independent alias/legal review remain outstanding.
+
+Publication uses the validated snapshot through the GitHub Pages workflow. A passing local build alone does not verify deployment; the workflow result and public dataset must be checked after pushing.
+
+---
+
 # County expansion validation — November 12, 2026
 
 ## Scope and source checks
