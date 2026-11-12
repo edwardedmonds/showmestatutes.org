@@ -8,6 +8,7 @@
     "VI",
     "VII",
     "VIII",
+    "IX",
     "XIX",
     "XXXVII",
     "XXXVIII"
@@ -506,6 +507,42 @@
       "minimumVersions": 24
     },
     {
+      "chapter": "115",
+      "title": "Election Authorities and Conduct of Elections",
+      "category": "government",
+      "minimumVersions": 365
+    },
+    {
+      "chapter": "116",
+      "title": "Initiative and Referendum",
+      "category": "government",
+      "minimumVersions": 47
+    },
+    {
+      "chapter": "122",
+      "title": "Municipal Elections",
+      "category": "government",
+      "minimumVersions": 1
+    },
+    {
+      "chapter": "127",
+      "title": "State Demographer",
+      "category": "government",
+      "minimumVersions": 4
+    },
+    {
+      "chapter": "128",
+      "title": "Election of Electors and Electoral Districts — Congressional Districts",
+      "category": "government",
+      "minimumVersions": 56
+    },
+    {
+      "chapter": "130",
+      "title": "Campaign Finance Disclosure Law",
+      "category": "government",
+      "minimumVersions": 42
+    },
+    {
       "chapter": "300",
       "title": "Model Traffic Ordinance",
       "category": "transportation",
@@ -814,7 +851,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–VIII, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–IX, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -848,6 +885,216 @@
       "reviewedAt": "2026-11-12",
       "sourceNotice": "*Contingent effective date.",
       "basis": "The official source marks 2099 as a placeholder and gives conditional effectiveness in its footnote. Retain the single listed version as contingent; do not infer that its conditions have occurred."
+    },
+    {
+      "section": "128.345",
+      "versions": [
+        {
+          "versionId": "58520",
+          "effectiveFrom": "2099-01-01",
+          "dateIsPlaceholder": true,
+          "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters."
+        },
+        {
+          "versionId": "51003",
+          "effectiveFrom": "2022-05-18",
+          "dateIsPlaceholder": false,
+          "sourceNotice": "Due to the version of this section enacted by H.B. 1, 103rd General Assembly, Second Extraordinary Session (2025) being subject to a referendum on the November 2026 general election, both versions are printed."
+        }
+      ],
+      "multipleEnactments": true,
+      "reviewedAt": "2026-11-12",
+      "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters.",
+      "displayNotice": "The Revisor prints both versions because the 2025 enactment is subject to a referendum. Its 2099 date is a placeholder. Read the official source notices for conditions and applicability.",
+      "basis": "The source explicitly labels 2099 as a placeholder and describes referendum conditions. Preserve every listed version and blank end date without deciding whether the conditions have occurred."
+    },
+    {
+      "section": "128.346",
+      "versions": [
+        {
+          "versionId": "58521",
+          "effectiveFrom": "2099-01-01",
+          "dateIsPlaceholder": true,
+          "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters."
+        },
+        {
+          "versionId": "51004",
+          "effectiveFrom": "2022-05-18",
+          "dateIsPlaceholder": false,
+          "sourceNotice": "Due to the version of this section enacted by H.B. 1, 103rd General Assembly, Second Extraordinary Session (2025) being subject to a referendum on the November 2026 general election, both versions are printed."
+        }
+      ],
+      "multipleEnactments": true,
+      "reviewedAt": "2026-11-12",
+      "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters.",
+      "displayNotice": "The Revisor prints both versions because the 2025 enactment is subject to a referendum. Its 2099 date is a placeholder. Read the official source notices for conditions and applicability.",
+      "basis": "The source explicitly labels 2099 as a placeholder and describes referendum conditions. Preserve every listed version and blank end date without deciding whether the conditions have occurred."
+    },
+    {
+      "section": "128.348",
+      "versions": [
+        {
+          "versionId": "58522",
+          "effectiveFrom": "2099-01-01",
+          "dateIsPlaceholder": true,
+          "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters."
+        },
+        {
+          "versionId": "51005",
+          "effectiveFrom": "2022-05-18",
+          "dateIsPlaceholder": false,
+          "sourceNotice": "Due to the version of this section enacted by H.B. 1, 103rd General Assembly, Second Extraordinary Session (2025) being subject to a referendum on the November 2026 general election, both versions are printed."
+        }
+      ],
+      "multipleEnactments": true,
+      "reviewedAt": "2026-11-12",
+      "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters.",
+      "displayNotice": "The Revisor prints both versions because the 2025 enactment is subject to a referendum. Its 2099 date is a placeholder. Read the official source notices for conditions and applicability.",
+      "basis": "The source explicitly labels 2099 as a placeholder and describes referendum conditions. Preserve every listed version and blank end date without deciding whether the conditions have occurred."
+    },
+    {
+      "section": "128.471",
+      "versions": [
+        {
+          "versionId": "58523",
+          "effectiveFrom": "2099-01-01",
+          "dateIsPlaceholder": true,
+          "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters."
+        }
+      ],
+      "multipleEnactments": false,
+      "reviewedAt": "2026-11-12",
+      "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters.",
+      "displayNotice": "The Revisor prints both versions because the 2025 enactment is subject to a referendum. Its 2099 date is a placeholder. Read the official source notices for conditions and applicability.",
+      "basis": "The source explicitly labels 2099 as a placeholder and describes referendum conditions. Preserve every listed version and blank end date without deciding whether the conditions have occurred."
+    },
+    {
+      "section": "128.472",
+      "versions": [
+        {
+          "versionId": "58524",
+          "effectiveFrom": "2099-01-01",
+          "dateIsPlaceholder": true,
+          "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters."
+        }
+      ],
+      "multipleEnactments": false,
+      "reviewedAt": "2026-11-12",
+      "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters.",
+      "displayNotice": "The Revisor prints both versions because the 2025 enactment is subject to a referendum. Its 2099 date is a placeholder. Read the official source notices for conditions and applicability.",
+      "basis": "The source explicitly labels 2099 as a placeholder and describes referendum conditions. Preserve every listed version and blank end date without deciding whether the conditions have occurred."
+    },
+    {
+      "section": "128.473",
+      "versions": [
+        {
+          "versionId": "58525",
+          "effectiveFrom": "2099-01-01",
+          "dateIsPlaceholder": true,
+          "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters."
+        }
+      ],
+      "multipleEnactments": false,
+      "reviewedAt": "2026-11-12",
+      "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters.",
+      "displayNotice": "The Revisor prints both versions because the 2025 enactment is subject to a referendum. Its 2099 date is a placeholder. Read the official source notices for conditions and applicability.",
+      "basis": "The source explicitly labels 2099 as a placeholder and describes referendum conditions. Preserve every listed version and blank end date without deciding whether the conditions have occurred."
+    },
+    {
+      "section": "128.474",
+      "versions": [
+        {
+          "versionId": "58526",
+          "effectiveFrom": "2099-01-01",
+          "dateIsPlaceholder": true,
+          "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters."
+        }
+      ],
+      "multipleEnactments": false,
+      "reviewedAt": "2026-11-12",
+      "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters.",
+      "displayNotice": "The Revisor prints both versions because the 2025 enactment is subject to a referendum. Its 2099 date is a placeholder. Read the official source notices for conditions and applicability.",
+      "basis": "The source explicitly labels 2099 as a placeholder and describes referendum conditions. Preserve every listed version and blank end date without deciding whether the conditions have occurred."
+    },
+    {
+      "section": "128.475",
+      "versions": [
+        {
+          "versionId": "58527",
+          "effectiveFrom": "2099-01-01",
+          "dateIsPlaceholder": true,
+          "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters."
+        }
+      ],
+      "multipleEnactments": false,
+      "reviewedAt": "2026-11-12",
+      "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters.",
+      "displayNotice": "The Revisor prints both versions because the 2025 enactment is subject to a referendum. Its 2099 date is a placeholder. Read the official source notices for conditions and applicability.",
+      "basis": "The source explicitly labels 2099 as a placeholder and describes referendum conditions. Preserve every listed version and blank end date without deciding whether the conditions have occurred."
+    },
+    {
+      "section": "128.476",
+      "versions": [
+        {
+          "versionId": "58528",
+          "effectiveFrom": "2099-01-01",
+          "dateIsPlaceholder": true,
+          "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters."
+        }
+      ],
+      "multipleEnactments": false,
+      "reviewedAt": "2026-11-12",
+      "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters.",
+      "displayNotice": "The Revisor prints both versions because the 2025 enactment is subject to a referendum. Its 2099 date is a placeholder. Read the official source notices for conditions and applicability.",
+      "basis": "The source explicitly labels 2099 as a placeholder and describes referendum conditions. Preserve every listed version and blank end date without deciding whether the conditions have occurred."
+    },
+    {
+      "section": "128.477",
+      "versions": [
+        {
+          "versionId": "58529",
+          "effectiveFrom": "2099-01-01",
+          "dateIsPlaceholder": true,
+          "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters."
+        }
+      ],
+      "multipleEnactments": false,
+      "reviewedAt": "2026-11-12",
+      "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters.",
+      "displayNotice": "The Revisor prints both versions because the 2025 enactment is subject to a referendum. Its 2099 date is a placeholder. Read the official source notices for conditions and applicability.",
+      "basis": "The source explicitly labels 2099 as a placeholder and describes referendum conditions. Preserve every listed version and blank end date without deciding whether the conditions have occurred."
+    },
+    {
+      "section": "128.478",
+      "versions": [
+        {
+          "versionId": "58530",
+          "effectiveFrom": "2099-01-01",
+          "dateIsPlaceholder": true,
+          "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters."
+        }
+      ],
+      "multipleEnactments": false,
+      "reviewedAt": "2026-11-12",
+      "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters.",
+      "displayNotice": "The Revisor prints both versions because the 2025 enactment is subject to a referendum. Its 2099 date is a placeholder. Read the official source notices for conditions and applicability.",
+      "basis": "The source explicitly labels 2099 as a placeholder and describes referendum conditions. Preserve every listed version and blank end date without deciding whether the conditions have occurred."
+    },
+    {
+      "section": "128.479",
+      "versions": [
+        {
+          "versionId": "58531",
+          "effectiveFrom": "2099-01-01",
+          "dateIsPlaceholder": true,
+          "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters."
+        }
+      ],
+      "multipleEnactments": false,
+      "reviewedAt": "2026-11-12",
+      "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters.",
+      "displayNotice": "The Revisor prints both versions because the 2025 enactment is subject to a referendum. Its 2099 date is a placeholder. Read the official source notices for conditions and applicability.",
+      "basis": "The source explicitly labels 2099 as a placeholder and describes referendum conditions. Preserve every listed version and blank end date without deciding whether the conditions have occurred."
     }
   ],
   "delayedEnactments": [
@@ -1046,6 +1293,70 @@
         }
       ],
       "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "116.155",
+      "versions": [
+        {
+          "versionId": "57131",
+          "effectiveFrom": "2025-08-28",
+          "sourceNotice": "This section was declared unconstitutional in Nicholson v. State of Missouri, et al."
+        },
+        {
+          "versionId": "6318",
+          "effectiveFrom": "1999-06-16",
+          "sourceNotice": "This section is reprinted in accordance with section 3.066"
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "116.160",
+      "versions": [
+        {
+          "versionId": "57132",
+          "effectiveFrom": "2025-08-28",
+          "sourceNotice": "This section was declared unconstitutional in Nicholson v. State of Missouri, et al."
+        },
+        {
+          "versionId": "6319",
+          "effectiveFrom": "1999-06-16",
+          "sourceNotice": "This section is reprinted in accordance with section 3.066"
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "116.190",
+      "versions": [
+        {
+          "versionId": "57133",
+          "effectiveFrom": "2025-08-28",
+          "sourceNotice": "This section was declared unconstitutional in Nicholson v. State of Missouri, et al."
+        },
+        {
+          "versionId": "6324",
+          "effectiveFrom": "2015-08-28",
+          "sourceNotice": "This section is reprinted in accordance with section 3.066"
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "116.334",
+      "versions": [
+        {
+          "versionId": "57134",
+          "effectiveFrom": "2025-08-28",
+          "sourceNotice": "This section was declared unconstitutional in Nicholson v. State of Missouri, et al."
+        },
+        {
+          "versionId": "6341",
+          "effectiveFrom": "2014-11-04",
+          "sourceNotice": "This section is reprinted in accordance with section 3.066"
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
     }
   ],
   "constitutionalWarnings": [
@@ -1229,6 +1540,26 @@
       "id": "105.1155:51508",
       "effectiveFrom": "2022-08-28",
       "sourceNotice": "This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al."
+    },
+    {
+      "id": "116.155:57131",
+      "effectiveFrom": "2025-08-28",
+      "sourceNotice": "This section was declared unconstitutional in Nicholson v. State of Missouri, et al."
+    },
+    {
+      "id": "116.160:57132",
+      "effectiveFrom": "2025-08-28",
+      "sourceNotice": "This section was declared unconstitutional in Nicholson v. State of Missouri, et al."
+    },
+    {
+      "id": "116.190:57133",
+      "effectiveFrom": "2025-08-28",
+      "sourceNotice": "This section was declared unconstitutional in Nicholson v. State of Missouri, et al."
+    },
+    {
+      "id": "116.334:57134",
+      "effectiveFrom": "2025-08-28",
+      "sourceNotice": "This section was declared unconstitutional in Nicholson v. State of Missouri, et al."
     }
   ]
 }

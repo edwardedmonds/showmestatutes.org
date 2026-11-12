@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–VIII, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–IX, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -69,3 +69,11 @@ The public-officer batch adds 19 warned Chapter 105 versions, all with source ef
 Section **105.1415:5715**, dated August 28, 2014, separately carries the source warning and a Calzone v. Koster note. It also has no reprinted partner in the chapter index and stays in the warning group.
 
 Section **105.1155:51508**, dated August 28, 2022, carries an explicit Byrd v. State Revisor note without the warning banner. It also remains separately warned with no indexed replacement. The complete batch has **21 new warned versions**, bringing the combined total to 36 without changing the earlier 15 warned records.
+
+## Election source exceptions
+
+Title IX adds four reviewed reprinted pairs: §§116.155 (`57131` and `6318`), 116.160 (`57132` and `6319`), 116.190 (`57133` and `6324`), and 116.334 (`57134` and `6341`). The 2025 versions carry explicit Revisor notes citing Nicholson v. State of Missouri, et al.; the earlier versions carry section 3.066 reprint notices. All eight have blank source end dates. The four warned versions remain separate, and the earlier reprints keep their original dates. There are now 40 warned versions and 15 reviewed reprinted pairs in the combined snapshot.
+
+Twelve Chapter 128 versions explicitly mark January 1, 2099 as a placeholder: §§128.345, 128.346, 128.348 and 128.471–128.479. Their source notes describe referendum conditions for H.B. 1, 2025. The first three have paired 2022 versions whose notices explain why both are printed; the nine remaining sections have only one version in the chapter index. The contingent policy records the exact IDs, dates and multiple-enactment status. Each version can require its own exact source notice, falling back to the shared notice only for existing policies that use one. No missing notice, unknown identity, changed date or invented end date is accepted.
+
+The interface explains that the paired versions concern a referendum, rather than reusing the possible-conflict explanation from §301.287. All twelve placeholder versions stay outside current and upcoming groups, even for a date in or after 2099. The source notes are preserved as evidence; the application does not decide whether referendum conditions have since occurred. These additions bring the contingent total to 14.

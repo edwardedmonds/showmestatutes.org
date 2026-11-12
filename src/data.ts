@@ -133,6 +133,7 @@ export function todayInMissouri(): string {
 export function enactmentNotice(record: Statute): string | undefined {
   if (!record.multipleEnactments) return undefined;
   return reviewedOverlaps.find(p => p.section === record.section)?.displayNotice
+    ?? coverage.contingentEnactments.find(p => p.section === record.section)?.displayNotice
     ?? 'The Revisor prints both versions due to possible conflict. Read both official source pages.';
 }
 

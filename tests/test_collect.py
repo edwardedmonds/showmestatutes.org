@@ -328,3 +328,41 @@ class PublicOfficerCollectionTests(unittest.TestCase):
         self.assertNotIn('multipleEnactments', record)
         with self.assertRaisesRegex(ValueError, 'Unverified constitutional warning'):
             collect.parse_section(source.replace('This section was declared unconstitutional', 'A court case is discussed'), entry, '2026-11-12T22:00:00+00:00')
+
+class ElectionCollectionTests(unittest.TestCase):
+    def parse_fixture(self, section, bid, effective):
+        entry = {'id': section+':'+bid, 'section': section, 'versionId': bid, 'effectiveFrom': effective,
+                 'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section='+section+'&bid='+bid}
+        source = Path('tests/fixtures/elections-'+section+'-'+bid+'.html').read_text()
+        return entry, source, collect.parse_section(source, entry, '2026-11-12T23:00:00+00:00')
+
+    def test_election_warning_and_reprint_require_their_distinct_source_notices(self):
+        for bid, effective, warned in [('57131', '2025-08-28', True), ('6318', '1999-06-16', False)]:
+            entry, source, record = self.parse_fixture('116.155', bid, effective)
+            self.assertEqual(bool(record.get('hasConstitutionalWarning')), warned)
+            self.assertTrue(record['multipleEnactments'])
+            self.assertIsNone(record['effectiveTo'])
+            marker = 'This section was declared unconstitutional' if warned else 'reprinted in accordance'
+            with self.assertRaises(ValueError):
+                collect.parse_section(source.replace(marker, 'different source notice'), entry, '2026-11-12T23:00:00+00:00')
+
+    def test_referendum_pair_requires_version_specific_notices(self):
+        for bid, effective, placeholder in [('58520', '2099-01-01', True), ('51003', '2022-05-18', False)]:
+            entry, source, record = self.parse_fixture('128.345', bid, effective)
+            self.assertEqual(bool(record.get('effectiveDateIsPlaceholder')), placeholder)
+            self.assertTrue(record['multipleEnactments'])
+            self.assertIsNone(record['effectiveTo'])
+            marker = 'H.B. 1 will not go into effect unless and until approved by the voters.' if placeholder else 'being subject to a referendum on the November 2026 general election, both versions are printed.'
+            with self.assertRaisesRegex(ValueError, 'Unverified contingent'):
+                collect.parse_section(source.replace(marker, 'different conditions'), entry, '2026-11-12T23:00:00+00:00')
+            with self.assertRaisesRegex(ValueError, 'Unverified contingent'):
+                collect.parse_section(source.replace('There are multiple enactments of', 'Versions of'), entry, '2026-11-12T23:00:00+00:00')
+
+    def test_single_congressional_placeholder_requires_label_and_conditions(self):
+        entry, source, record = self.parse_fixture('128.471', '58523', '2099-01-01')
+        self.assertTrue(record['effectiveDateIsPlaceholder'])
+        self.assertNotIn('multipleEnactments', record)
+        self.assertIsNone(record['effectiveTo'])
+        for marker in ['date is placeholder', 'H.B. 1 will not go into effect unless and until approved by the voters.']:
+            with self.assertRaises(ValueError):
+                collect.parse_section(source.replace(marker, 'unverified'), entry, '2026-11-12T23:00:00+00:00')

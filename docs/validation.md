@@ -1,3 +1,37 @@
+# Election expansion validation — November 12, 2026
+
+## Scope and source checks
+
+Title IX adds **six chapter indexes, 508 distinct sections and 515 source versions**, covering Chapters 115, 116, 122, 127, 128 and 130. Chapter 122 lists one section; Chapter 127 lists four. The combined snapshot contains **8,546 sections and 8,595 versions** across **137 configured chapter indexes**: 135 with headings and two reviewed empty indexes. The fresh catalog contains 468 chapter links, leaving 331 outside this collection. Title X, taxation and revenue, is next.
+
+Every new source version was retrieved sequentially at no more than one request per second. All six indexes matched an independent second retrieval of their exact identities, dates and source URLs. The change report contains 515 additions, zero removals and zero changes. All 8,080 earlier records and all 131 earlier chapter manifest entries, including retrieval dates and response hashes, are unchanged as complete objects.
+
+## Source warnings and versions
+
+An acquisition audit cached the new pages and recorded 16 exceptions without creating a candidate. Every flagged identity was reviewed and matched against an explicit policy. The normal strict collector then rebuilt and validated the full candidate offline from the cached responses. No unresolved exception remained.
+
+Four Chapter 116 pairs retain an earlier reprint alongside a warned 2025 version: §§116.155, 116.160, 116.190 and 116.334. The Revisor's Nicholson notes and section 3.066 reprint notices are required separately. Both source dates and blank end dates are retained. Warned versions remain outside ordinary current and upcoming groups.
+
+Twelve Chapter 128 versions explicitly use 2099 placeholder dates: §§128.345, 128.346, 128.348 and 128.471–128.479. The first three are paired with 2022 versions; the rest are single indexed versions. The source's referendum notices differ between the paired versions, so the collector now supports a reviewed notice for each contingent version. Existing shared-notice policies remain supported. The UI uses a referendum explanation for these pairs, rather than the existing possible-conflict explanation for §301.287. No source condition is treated as fulfilled merely because a calendar date passes.
+
+The combined snapshot has **40 warned versions, 15 reviewed reprinted pairs, 32 scheduled future versions and 14 contingent versions**. These are source classifications, not determinations of legal applicability.
+
+## Tests and performance
+
+All **421 TypeScript tests and 32 Python tests** passed, along with TypeScript checks and the production build. The 24 new query cases were defined from official indexes before ranking evaluation. Four additional search regressions cover neighboring citations, all four warning/reprint pairs, all twelve placeholder versions in 2026, 2099 and 2100 with upcoming versions enabled and disabled, chapter isolation, and the referendum explanation. Three Python tests use five compact source fixtures to require exact warning/reprint notices, version-specific referendum conditions, placeholder labels and the correct single/paired status. No ranking change was needed. These are development tests, not an independent legal-search evaluation.
+
+The built dataset matches the promoted snapshot byte for byte, and the prebuilt index references its SHA-256 hash. The serialized index is **1,005,754 bytes**, up from 948,275. On local Linux with Node 22.22.2, construction took about 129 ms and loading plus search setup about 97 ms. Across the same 16 queries, with three warm-up passes and 25 measured runs each, p95 search times ranged from 0.21 to 16.67 ms; the earlier snapshot ranged from 0.59 to 17.47 ms in the comparison run. These timings exclude download, JSON parsing, validation and rendering; they are not physical mobile measurements.
+
+## Browser checks and publication
+
+The built site reports 8,546 section headings. Scoped searches find §115.279 for absentee-ballot applications, §127.030 for the redistricting comment portal and §130.057 for campaign-finance electronic reporting. Exact §116.155 shows the earlier reprint and separately warned 2025 version with their correct official URLs. Exact §128.345 shows its dated and contingent versions with the referendum notice; §128.471 appears only as contingent, without an invented multiple-enactments label. A Chapter 130 filter excludes that Chapter 128 result. First-degree murder still prioritizes §565.020, and ArrowDown focuses its source-heading link.
+
+No horizontal overflow was observed at 320×740 or 390×740. The long congressional-district label and referendum notices remained readable. No browser warnings or errors were observed. Physical Android timing, screen-reader testing and independent alias/legal review remain outstanding.
+
+Publication uses the validated snapshot through the GitHub Pages workflow. A passing local build alone does not verify deployment; the workflow result and public dataset must be checked after pushing.
+
+---
+
 # Public officers, bonds and records validation — November 12, 2026
 
 ## Scope and source checks
