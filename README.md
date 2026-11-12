@@ -44,7 +44,7 @@ The collection process checks every listed version against its official page, th
 
 Those checks have limits. The query cases are development tests, not an independent evaluation of legal search accuracy. Physical Android performance measurements, screen-reader testing, and independent review of the common-name mappings are still outstanding. [Validation notes](docs/validation.md) record the results and the remaining gaps.
 
-The county build has passed local checks; public deployment verification is pending. GitHub still reports that the certificate for `showmestatutes.org` is being provisioned, so working public HTTPS is not yet confirmed. See [deployment setup and recovery](docs/deployment.md).
+The county release is deployed. Public HTML, data, JavaScript, CSS and license notices matched the validated build. HTTPS is working and enforced; the `.com` domains redirect to `https://showmestatutes.org/`. See [deployment setup and recovery](docs/deployment.md).
 
 ## Run it locally
 

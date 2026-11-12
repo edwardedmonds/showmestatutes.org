@@ -26,7 +26,7 @@ Home-based-work searches find both §64.008 and §65.710 and respect chapter fil
 
 No horizontal overflow was observed at 320×740 or 390×844. No browser warning or error logs were observed. Physical Android timing, screen-reader testing and independent alias/legal review remain outstanding.
 
-Public deployment verification is pending. After the account rename to `edwardedmonds`, Pages still retains the `showmestatutes.org` custom domain and GitHub Actions source. GitHub reports certificate provisioning; public HTTPS is not yet confirmed.
+The [county release workflow](https://github.com/edwardedmonds/show-me-statutes/actions/runs/43281766740) for `67ce85d` passed checks and deployment. Public HTML, data, JavaScript, CSS and license notices matched the validated build byte for byte, and the hosted index referenced the same dataset hash. After the account rename to `edwardedmonds`, Pages retains the `showmestatutes.org` custom domain and GitHub Actions source. HTTPS certificate validation now passes and Enforce HTTPS is enabled. HTTP, `www.org`, `.com` and `www.com` resolve to the canonical HTTPS site. The `www.org` CNAME was updated to `edwardedmonds.github.io` and independently confirmed through public DNS. This resolves the certificate issue recorded in the earlier release notes below.
 
 ---
 
