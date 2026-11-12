@@ -29,7 +29,10 @@ function card(match: Match, future: boolean) {
   const link = element('a', r.title);
   link.href = r.sourceUrl;
   title.append(link);
-  const dates = element('p', `${future ? 'Upcoming · effective' : 'Effective'} ${formatDate(r.effectiveFrom)}${r.effectiveTo ? ` · ends ${formatDate(r.effectiveTo)}` : ''}`, future ? 'version future' : 'version');
+  const dateLabel = r.effectiveDateIsPlaceholder
+    ? 'Contingent effective date · the source date is a placeholder, not a scheduled start. Read the official conditions.'
+    : `${future ? 'Upcoming · effective' : 'Effective'} ${formatDate(r.effectiveFrom)}${r.effectiveTo ? ` · ends ${formatDate(r.effectiveTo)}` : ''}`;
+  const dates = element('p', dateLabel, future || r.effectiveDateIsPlaceholder ? 'version future' : 'version');
   const bottom = element('div', undefined, 'card-bottom');
   bottom.append(element('span', match.reason, 'match-reason'), element('small', `Source checked ${formatDate(r.sourceCheckedAt)}`));
   item.append(meta, title, dates, bottom);
@@ -79,11 +82,12 @@ function runSearch() {
   }
   const found = search(query, asOf, upcoming.checked, chapter.value);
   const scope = chapter.value ? `Chapter ${chapter.value}` : 'the indexed chapters';
-  const count = found.best.length + found.related.length + found.upcoming.length;
+  const count = found.best.length + found.related.length + found.upcoming.length + found.contingent.length;
   status.textContent = count ? `${count} matching version${count === 1 ? '' : 's'} within ${scope}.${found.correction ? ` Spelling suggestion: ${found.correction}.` : ''}` : `No close heading found within ${scope}.`;
   group('Best heading matches', found.best);
   group('Related sections', found.related);
   group('Upcoming versions', found.upcoming, true);
+  group('Contingent versions — check the source conditions', found.contingent);
   if (!count) {
     const empty = element('section', undefined, 'empty-state');
     empty.append(element('h2', 'Try another name or a broader topic.'), element('p', 'Try all indexed chapters if a chapter filter is selected. Laws outside this collection may also be relevant. Upcoming versions are hidden unless you include them.'));
@@ -154,6 +158,7 @@ async function initialize() {
     const asOf = todayInMissouri();
     document.querySelector('#as-of')!.textContent = `Effective dates checked against ${formatDate(asOf)}`;
     document.querySelector('#coverage-stats')!.textContent = `${dataset.manifest.sectionCount} distinct sections · ${dataset.manifest.recordCount} source versions · ${dataset.manifest.chapters.filter(c => c.sectionCount).length} chapters with headings`;
+    document.querySelector('#coverage-description')!.textContent = dataset.manifest.coverageDescription;
     document.querySelector('#source-date')!.textContent = `Source collection completed ${formatDate(dataset.manifest.collectedAt)}. Individual source-check dates appear on each result.`;
     document.querySelector('#build-date')!.textContent = builtAt ? `Search index built ${formatDate(builtAt)}.` : 'Search index rebuilt in your browser from the validated snapshot.';
     const age = (Date.parse(asOf) - Date.parse(dataset.manifest.indexCheckedAt)) / 86400000;

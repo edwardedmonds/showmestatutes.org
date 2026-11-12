@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -16,7 +16,7 @@ The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/
 
 The chapter index includes multiple current/future versions for some sections. A generic OneSection link can open a future version first. Every collected link therefore includes both `section` and `bid`, and the response's navigation identity, heading and effective date must agree. When available, the source's All versions table supplies the exclusive end date.
 
-Records use `effectiveFrom <= searchDate < effectiveTo` (or no upper bound if the source supplies none). Search dates follow America/Chicago. Source intervals are source metadata, not a determination of which law governs a particular case. Historical date search is not offered because this is not a complete archive.
+Dated records use `effectiveFrom <= searchDate < effectiveTo` (or no upper bound if the source supplies none). Source dates explicitly marked as placeholders are retained as raw metadata with `effectiveDateIsPlaceholder: true`, excluded from date-based current/upcoming selection, and displayed in a separate contingent group. Search dates follow America/Chicago. Source intervals are source metadata, not a determination of which law governs a particular case. Historical date search is not offered because this is not a complete archive.
 
 `sourceCheckedAt` is the retrieval time for the successful individual response. `chapters[].indexCheckedAt` is each chapter-index retrieval time; the top-level `indexCheckedAt` is the oldest index check, used for the freshness notice; `collectedAt` is the latest section or chapter-index check in the snapshot. `sourceSha256` fingerprints that exact HTML response. The generated search-index file has a separate `builtAt`; no publication timestamp is invented. Official heading footnote markers are retained separately from searchable heading text.
 
@@ -36,8 +36,12 @@ For rollback, restore `public/data/statutes.json` from a known validated Git com
 
 The first response for `552.040:54313` carried the correct navigation identity and effective date but a heading for section 441.060. Collection stopped. A first exact-URL retry also had an unrelated heading. Three fresh requests with `Cache-Control: no-cache`—the exact URL, the same URL with the source's blank `hl` parameter, and the source's explicit version-selection link—all returned the same correct 552.040 heading and passed identity/date validation. Only that fresh exact-URL response entered the dataset. The first rejected raw response remains in the local cache, and its minimal heading/identity/date markup is a regression fixture. Neither body text nor an index snippet was substituted for the correct heading.
 
-Additional expansion responses (including 570.150) had mismatched headings or navigation. Rejected HTML is retained in ignored `.rejected.json` files. Fresh, strictly validated responses replace these; apparent repeals in inconsistent responses are not imported or interpreted as law.
+Additional expansion responses (including 570.150 and transportation section 302.170) had mismatched headings or navigation. Rejected HTML is retained in ignored `.rejected.json` files. Fresh, strictly validated responses replace these; apparent repeals in inconsistent responses are not imported or interpreted as law.
 
 ## Concurrent enactment exception
 
 A source-documented pair of §590.1265 enactments has the same start date and no end date. The explicit policy records both version IDs and that date. The parser requires the official multiple-enactments and possible-conflict notices; validation requires the complete pair. The UI labels both, without deciding legal applicability. This exception does not allow arbitrary unresolved overlaps. See [coverage](coverage.md).
+
+## Contingent enactment exception
+
+The reviewed §301.287 pair is recorded separately in `contingentEnactments`. Source version `60471` explicitly labels 2099-01-01 as a placeholder; version `60726` carries 2026-08-28. Both pages carry the source notice about a contingent effective date and possible conflict. The parser requires those notices and the correct placeholder flag; both validators require the exact complete pair and unchanged dates. This is source metadata handling, not a determination that a condition has or has not been fulfilled. Unknown placeholder dates block collection.

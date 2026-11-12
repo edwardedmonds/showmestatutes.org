@@ -1,6 +1,6 @@
 import MiniSearch from 'minisearch';
 import aliasData from '../data/aliases.json';
-import { chapterPolicy, isEffective, validDate, type Statute } from './data';
+import { chapterPolicy, isEffective, isUpcoming, validDate, type Statute } from './data';
 
 const aliases = aliasData.sections as Record<string, string[]>;
 const topics = aliasData.topics as Record<string, string[]>;
@@ -41,14 +41,14 @@ function oneEdit(a: string, b: string): boolean {
   return short.slice(i) === long.slice(i + 1);
 }
 export interface Match { record: Statute; reason: string; score: number; }
-export interface SearchResults { best: Match[]; related: Match[]; upcoming: Match[]; correction: string | null; exact: boolean; }
+export interface SearchResults { best: Match[]; related: Match[]; upcoming: Match[]; contingent: Match[]; correction: string | null; exact: boolean; }
 
 export function createSearch(records: Statute[], index = buildIndex(records)) {
   const byId = new Map(records.map(r => [r.id, r]));
-  const vocabulary = [...new Set(records.flatMap(r => [...terms(r.title), ...(aliases[r.section] ?? []).flatMap(terms)]))];
+  const vocabulary = [...new Set([...records.flatMap(r => [...terms(r.title), ...(aliases[r.section] ?? []).flatMap(terms)]), ...Object.keys(topics).flatMap(terms)])];
   return (query: string, asOf: string, includeUpcoming = false, chapter = ''): SearchResults => {
     if (!validDate(asOf)) throw new Error('Invalid search date');
-    const empty: SearchResults = { best: [], related: [], upcoming: [], correction: null, exact: false };
+    const empty: SearchResults = { best: [], related: [], upcoming: [], contingent: [], correction: null, exact: false };
     const inScope = (r: Statute) => !chapter || r.chapter === chapter;
     const trimmed = query.trim();
     if (!trimmed || trimmed.length > 200) return empty;
@@ -58,7 +58,8 @@ export function createSearch(records: Statute[], index = buildIndex(records)) {
       const matches = records.filter(r => r.section === number && inScope(r));
       return { ...empty, exact: true,
         best: matches.filter(r => isEffective(r, asOf)).map(record => ({ record, reason: 'Exact section number', score: 1000 })),
-        upcoming: includeUpcoming ? matches.filter(r => r.effectiveFrom > asOf).map(record => ({ record, reason: 'Exact section number', score: 1000 })) : [],
+        upcoming: includeUpcoming ? matches.filter(r => isUpcoming(r, asOf)).map(record => ({ record, reason: 'Exact section number', score: 1000 })) : [],
+        contingent: matches.filter(r => r.effectiveDateIsPlaceholder).map(record => ({ record, reason: 'Exact section number', score: 1000 })),
       };
     }
     // Never correct a numeric reference or mix numbers into fuzzy heading matching.
@@ -83,7 +84,9 @@ export function createSearch(records: Statute[], index = buildIndex(records)) {
       const aliasList = aliases[record.section] ?? [];
       const sequences = [headingTerms, ...aliasList.map(terms)];
       const substantive = corrected.filter(t => ![...degrees, 'degree', 'penalty', 'offense'].includes(t));
-      if (substantive.length && !sequences.some(words => substantive.some(t => words.some(w => w === t || (t.length >= 3 && w.startsWith(t)))))) return null;
+      // Do not drop a topic-defining word (e.g. "rent") just because generic
+      // words such as "security deposit" match an unrelated heading.
+      if (substantive.length && !sequences.some(words => substantive.every(t => words.some(w => w === t || (t.length >= 3 && w.startsWith(t)))))) return null;
       const coverage = Math.max(...sequences.map(words => corrected.filter(t => words.some(w => w === t || (t.length >= 3 && w.startsWith(t)))).length / corrected.length));
       if (coverage < .6) return null;
       const exactAlias = aliasList.some(alias => signature(alias) === signature(normalized));
@@ -107,6 +110,7 @@ export function createSearch(records: Statute[], index = buildIndex(records)) {
     const relatedNumbers = new Set([...topicSections, ...(separateProcedure ? current.filter(m => isProcedure(m.record)).map(m => m.record.section) : []), ...(best[0] ? related[best[0].record.section] ?? [] : [])]);
     const relatedMatches = records.filter(r => inScope(r) && isEffective(r, asOf) && relatedNumbers.has(r.section) && !bestIds.has(r.section))
       .map(record => ({ record, reason: topicSections.length ? 'Broader topic match' : 'Related section', score: 0 }));
-    return { best, related: relatedMatches, upcoming: includeUpcoming ? scored.filter(m => m.record.effectiveFrom > asOf) : [], correction, exact: false };
+    return { best, related: relatedMatches, upcoming: includeUpcoming ? scored.filter(m => isUpcoming(m.record, asOf)) : [],
+      contingent: scored.filter(m => m.record.effectiveDateIsPlaceholder), correction, exact: false };
   };
 }

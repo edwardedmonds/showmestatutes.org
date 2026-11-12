@@ -2,7 +2,7 @@ import { readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
 import queries from './expansion-queries.json';
 import pilotQueries from './queries.json';
-import { assertDataset, chapterPolicy, isEffective, type Dataset } from '../src/data';
+import { assertDataset, chapterPolicy, isEffective, isUpcoming, type Dataset } from '../src/data';
 import { createSearch } from '../src/search';
 const dataset: Dataset = JSON.parse(readFileSync(process.env.STATUTES_DATASET ?? 'public/data/statutes.json', 'utf8'));
 assertDataset(dataset);
@@ -13,7 +13,7 @@ describe('Expanded criminal-law coverage benchmark', () => {
     const result = search(q.query, asOf, false, q.chapter ?? '');
     if (q.first) expect(result.best[0]?.record.section).toBe(q.first);
     if (q.top3) for (const section of q.top3) expect(result.best.slice(0, 3).map(m => m.record.section)).toContain(section);
-    if (q.empty) expect([...result.best, ...result.related]).toHaveLength(0);
+    if (q.empty) expect([...result.best, ...result.related, ...result.contingent]).toHaveLength(0);
   });
 });
 it('finds every effective section by exact citation, with no future version promoted', () => {
@@ -23,7 +23,7 @@ it('finds every effective section by exact citation, with no future version prom
   }
 });
 it('keeps all chapter boundaries and future versions consistent with the source intervals', () => {
-  for (const record of dataset.records.filter(r => r.effectiveFrom > asOf)) {
+  for (const record of dataset.records.filter(r => isUpcoming(r, asOf))) {
     expect(search(record.section, asOf).best.map(m => m.record.id)).not.toContain(record.id);
     expect(search(record.section, asOf, true).upcoming.map(m => m.record.id)).toContain(record.id);
     expect(search(record.section, record.effectiveFrom).best.map(m => m.record.id)).toContain(record.id);
@@ -32,7 +32,7 @@ it('keeps all chapter boundaries and future versions consistent with the source 
 it('filters headings, related sections, upcoming versions and exact citations by chapter', () => {
   const result = search('definitions', asOf, true, '565');
   expect(result.best[0].record.section).toBe('565.002');
-  expect([...result.best, ...result.related, ...result.upcoming].every(m => m.record.chapter === '565')).toBe(true);
+  expect([...result.best, ...result.related, ...result.upcoming, ...result.contingent].every(m => m.record.chapter === '565')).toBe(true);
   expect(search('579.015', asOf, true, '565').best).toEqual([]);
   expect(search('grand jury', asOf, false, '540').best.length).toBeGreaterThan(0);
   expect(search('murder', asOf, true, '540').related).toEqual([]);
@@ -63,7 +63,7 @@ describe('Unambiguous pilot expectations still work across the expanded collecti
     if (q.first) expect(result.best[0]?.record.section).toBe(q.first);
     if (q.top3) for (const section of q.top3) expect(result.best.slice(0, 3).map(m => m.record.section)).toContain(section);
     if (q.related) for (const section of q.related) expect(result.related.map(m => m.record.section)).toContain(section);
-    if (q.empty) expect([...result.best, ...result.related]).toHaveLength(0);
+    if (q.empty) expect([...result.best, ...result.related, ...result.contingent]).toHaveLength(0);
   });
 });
 

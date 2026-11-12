@@ -30,4 +30,6 @@ The manual source-refresh path remains gated and atomic. The GitHub Pages workfl
 
 ## Milestone 5 — Evidence-driven enhancements
 
-Deferred: statewide heading coverage, separate full-text mode, reviewed related-section expansion, bookmarks and version comparison. Historical date search needs sufficiently complete history. Offline support needs a snapshot/refresh policy. AI or semantic search requires evidence of improved relevance without invented statutory text or citations.
+Statewide heading coverage is now authorized and proceeding in reviewed title batches. The first batch adds Title XIX, Chapters 300–307 (transportation), alongside the criminal-law collection. It also adds explicit handling of source-placeholder effective dates, keeping contingent versions separate from current and scheduled future results. See [the coverage plan](full-coverage-plan.md) for remaining scope and release gates.
+
+Deferred: separate full-text mode, reviewed related-section expansion, bookmarks and version comparison. Historical date search needs sufficiently complete history. Offline support needs a snapshot/refresh policy. AI or semantic search requires evidence of improved relevance without invented statutory text or citations.

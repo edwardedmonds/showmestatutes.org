@@ -18,7 +18,7 @@ describe('Chapter 565 relevance benchmark (frozen before ranking implementation 
       if (query.first) expect(result.best[0]?.record.section).toBe(query.first);
       if (query.top3) for (const section of query.top3) expect(result.best.slice(0, 3).map(r => r.record.section)).toContain(section);
       if (query.related) for (const section of query.related) expect(result.related.map(r => r.record.section)).toContain(section);
-      if (query.empty) expect([...result.best, ...result.related]).toHaveLength(0);
+      if (query.empty) expect([...result.best, ...result.related, ...result.contingent]).toHaveLength(0);
     });
   }
 });

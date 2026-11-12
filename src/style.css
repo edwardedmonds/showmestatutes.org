@@ -74,7 +74,7 @@ footer a { white-space: nowrap; }
 @media (max-width: 640px) {
  .site-header { padding: 19px 20px; } .brand { font-size: 1rem; } .about-link { font-size: .7rem; }
  main { padding: 0 20px; } .hero { padding: 38px 0 26px; } .desktop-break { display: none; }
- .intro { font-size: .95rem; } .scope-tag { gap: 8px; font-size: .55rem; } .scope-tag span { padding-left: 8px; font-size: .65rem; }
+ .intro { font-size: .95rem; } .scope-tag { flex-direction: column; align-items: flex-start; gap: 4px; font-size: .55rem; } .scope-tag span { border-left: 0; padding-left: 0; font-size: .65rem; }
  .search-panel { padding: 18px 15px; } .search-row { flex-wrap: wrap; } #query { font-size: 16px; } #search-button { width: 100%; min-height: 48px; }
  .search-options { flex-direction: column; align-items: flex-start; gap: 2px; } .try-row > span { width: 100%; margin-top: 3px; } .try-row button { min-height: 44px; }
  .welcome { grid-template-columns: 1fr; gap: 23px; margin: 28px 0 35px; } .welcome h2 { margin-top: 6px; } .welcome p { max-width: 320px; }

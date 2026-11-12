@@ -1,4 +1,4 @@
-"""Collect the configured Missouri criminal-law and procedure headings, preserving source version identities.
+"""Collect the configured Missouri statute headings, preserving source version identities.
 
 Run from repository root. Network fetches are sequential, >=1 second apart.
 No existing validated dataset is overwritten by collection.
@@ -123,9 +123,19 @@ def parse_section(html, entry, checked_at):
             or f'There are multiple enactments of {entry["section"]}' not in clean(soup.get_text(' '))
             or 'Due to possible conflict, both versions are printed.' not in clean(soup.get_text(' '))):
         raise ValueError('Unverified concurrent enactment: ' + entry['id'])
+    contingent = next((p for p in POLICY['contingentEnactments'] if p['section'] == entry['section']), None)
+    reviewed = next((v for v in contingent['versions'] if v['versionId'] == entry['versionId']), None) if contingent else None
+    placeholder = 'date is placeholder' in clean(effective.get_text(' ')).lower()
+    if placeholder != bool(reviewed and reviewed['dateIsPlaceholder']):
+        raise ValueError('Unverified placeholder effective date: ' + entry['id'])
+    if contingent and (not reviewed or entry['effectiveFrom'] != reviewed['effectiveFrom'] or until is not None
+            or f'There are multiple enactments of {entry["section"]}' not in clean(soup.get_text(' '))
+            or contingent['sourceNotice'] not in clean(soup.get_text(' '))):
+        raise ValueError('Unverified contingent enactment: ' + entry['id'])
     chapter = entry['section'].split('.')[0]
     return {**entry, 'title': title, 'chapter': chapter, 'chapterTitle': CHAPTERS[chapter]['title'],
-            'effectiveTo': until, **({'multipleEnactments': True} if concurrent else {}), 'headingMarker': marker, 'sourceCheckedAt': checked_at,
+            'effectiveTo': until, **({'multipleEnactments': True} if concurrent or contingent else {}),
+            **({'effectiveDateIsPlaceholder': True} if placeholder else {}), 'headingMarker': marker, 'sourceCheckedAt': checked_at,
             'sourceSha256': hashlib.sha256(html.encode()).hexdigest()}
 
 
@@ -134,6 +144,8 @@ def validate(dataset, previous=None):
     manifest = dataset['manifest']
     if manifest['schemaVersion'] != 2 or manifest['coverage'] != list(CHAPTERS):
         raise ValueError('Unsupported dataset schema/coverage')
+    if manifest.get('coverageDescription') != POLICY['coverageDescription']:
+        raise ValueError('Coverage description differs from reviewed policy')
     if manifest['recordCount'] != len(records) or len(records) < 50:
         raise ValueError('Invalid record count')
     ids = set()
@@ -158,8 +170,12 @@ def validate(dataset, previous=None):
         datetime.fromisoformat(record['sourceCheckedAt'])
         datetime.strptime(record['effectiveFrom'], '%Y-%m-%d')
         concurrent = next((p for p in POLICY['concurrentEnactments'] if p['section'] == record['section'] and record['versionId'] in p['versionIds']), None)
-        if bool(record.get('multipleEnactments')) != bool(concurrent):
+        contingent = next((p for p in POLICY['contingentEnactments'] if p['section'] == record['section']), None)
+        reviewed = next((v for v in contingent['versions'] if v['versionId'] == record['versionId']), None) if contingent else None
+        if bool(record.get('multipleEnactments')) != bool(concurrent or reviewed):
             raise ValueError('Unverified concurrent enactment marker')
+        if (record.get('effectiveDateIsPlaceholder') is not None and record.get('effectiveDateIsPlaceholder') is not True) or bool(record.get('effectiveDateIsPlaceholder')) != bool(reviewed and reviewed['dateIsPlaceholder']):
+            raise ValueError('Unverified placeholder date marker')
         if record['effectiveTo']:
             datetime.strptime(record['effectiveTo'], '%Y-%m-%d')
             if record['effectiveTo'] <= record['effectiveFrom']:
@@ -187,6 +203,15 @@ def validate(dataset, previous=None):
         raise ValueError('Section count mismatch')
     for versions in grouped.values():
         versions.sort(key=lambda r: r['effectiveFrom'])
+        contingent = next((p for p in POLICY['contingentEnactments'] if p['section'] == versions[0]['section']), None)
+        if contingent:
+            expected = {v['versionId']: v for v in contingent['versions']}
+            if (set(r['versionId'] for r in versions) != set(expected)
+                    or any(not r.get('multipleEnactments') or r['effectiveFrom'] != expected[r['versionId']]['effectiveFrom']
+                           or r['effectiveTo'] is not None
+                           or bool(r.get('effectiveDateIsPlaceholder')) != expected[r['versionId']]['dateIsPlaceholder'] for r in versions)):
+                raise ValueError('Unresolved contingent enactments')
+            continue
         concurrent = next((p for p in POLICY['concurrentEnactments'] if p['section'] == versions[0]['section']), None)
         if concurrent:
             if (set(r['versionId'] for r in versions) != set(concurrent['versionIds'])
@@ -201,7 +226,8 @@ def validate(dataset, previous=None):
         if lost:
             raise ValueError('Record loss requires explicit review: ' + ', '.join(sorted(lost)))
     return {'valid': True, 'records': len(records), 'sections': len(grouped), 'chapters': len(CHAPTERS),
-            'futureVersionsAtCheck': sum(r['effectiveFrom'] > manifest['collectedAt'][:10] for r in records)}
+            'futureVersionsAtCheck': sum(not r.get('effectiveDateIsPlaceholder') and r['effectiveFrom'] > manifest['collectedAt'][:10] for r in records),
+            'contingentVersions': sum(bool(r.get('effectiveDateIsPlaceholder')) for r in records)}
 
 
 def parse_with_retry(entry, source, get, cache, offline):
@@ -281,7 +307,7 @@ def collect(cache, offline=False):
                           'sourceSha256': hashlib.sha256(source_index['html'].encode()).hexdigest(),
                           'recordCount': len(entries), 'sectionCount': len({e['section'] for e in entries})})
     return {'manifest': {'schemaVersion': 2, 'coverage': list(CHAPTERS),
-                        'coverageDescription': 'Versions enumerated in the chapter indexes of Titles XXXVII and XXXVIII at source check; not all Missouri criminal law or a complete historical archive.',
+                        'coverageDescription': POLICY['coverageDescription'],
                         'chapters': summaries, 'indexCheckedAt': min(c['indexCheckedAt'] for c in summaries),
                         'collectedAt': max([r['sourceCheckedAt'] for r in records] + [c['indexCheckedAt'] for c in summaries]),
                         'recordCount': len(records), 'sectionCount': len({r['section'] for r in records}),

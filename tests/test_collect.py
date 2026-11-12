@@ -121,5 +121,34 @@ class ExpandedCollectionTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             collect.parse_index('<html><title>RSMo Chapter 560</title>Unavailable</html>', '560')
 
+class ContingentDateTests(unittest.TestCase):
+    def test_source_placeholder_is_preserved_but_explicitly_marked(self):
+        entry = {'id': '301.287:60471', 'section': '301.287', 'versionId': '60471',
+                 'effectiveFrom': '2099-01-01', 'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section=301.287&bid=60471'}
+        source = Path('tests/fixtures/contingent-301-60471.html').read_text()
+        record = collect.parse_section(source, entry, '2026-11-12T07:00:00+00:00')
+        self.assertTrue(record['effectiveDateIsPlaceholder'])
+        self.assertTrue(record['multipleEnactments'])
+        self.assertEqual(record['effectiveFrom'], '2099-01-01')
+        self.assertIsNone(record['effectiveTo'])
+        with self.assertRaisesRegex(ValueError, 'placeholder'):
+            collect.parse_section(source.replace('date is placeholder', 'scheduled date'), entry, '2026-11-12T07:00:00+00:00')
+        with self.assertRaisesRegex(ValueError, 'contingent'):
+            collect.parse_section(source.replace('a possible conflict in language', 'different text'), entry, '2026-11-12T07:00:00+00:00')
+        unknown = {**entry, 'id': '301.288:60471', 'section': '301.288'}
+        with self.assertRaisesRegex(ValueError, 'placeholder'):
+            collect.parse_section(source.replace('301.287', '301.288'), unknown, '2026-11-12T07:00:00+00:00')
+
+    def test_dated_partner_keeps_its_actual_date_and_conflict_notice(self):
+        entry = {'id': '301.287:60726', 'section': '301.287', 'versionId': '60726',
+                 'effectiveFrom': '2026-08-28', 'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section=301.287&bid=60726'}
+        source = Path('tests/fixtures/contingent-301-60726.html').read_text()
+        record = collect.parse_section(source, entry, '2026-11-12T07:00:00+00:00')
+        self.assertTrue(record['multipleEnactments'])
+        self.assertNotIn('effectiveDateIsPlaceholder', record)
+        self.assertIsNone(record['effectiveTo'])
+        with self.assertRaisesRegex(ValueError, 'contingent'):
+            collect.parse_section(source.replace('a possible conflict in language', 'different text'), entry, '2026-11-12T07:00:00+00:00')
+
 if __name__ == '__main__':
     unittest.main()

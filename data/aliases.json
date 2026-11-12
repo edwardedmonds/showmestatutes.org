@@ -1,7 +1,10 @@
 {
   "reviewedAt": "2026-11-12",
-  "reviewBasis": "Source-heading cross-check for the Chapter 565 pilot and expanded criminal-law collection. Short degree forms and common-name aliases are project search conventions, not official legal names. Independent maintainer review remains outstanding.",
+  "reviewBasis": "Source-heading cross-check for the Chapter 565 pilot, expanded criminal-law collection and transportation batch. Short degree forms and common-name aliases are project search conventions, not official legal names. Independent maintainer review remains outstanding.",
   "sections": {
+    "302.020": ["driving without a license"],
+    "302.321": ["driving with a suspended license"],
+    "307.178": ["seat belt", "seat belts", "seatbelt", "seatbelts"],
     "565.020": ["murder 1", "murder one", "first degree murder"],
     "565.021": ["murder 2", "murder two", "second degree murder"],
     "565.023": ["voluntary manslaughter"],
@@ -35,6 +38,7 @@
     "563.031": ["self defense"]
   },
   "topics": {
+    "speeding": ["304.009", "304.010"],
     "homicide": ["565.020", "565.021", "565.023", "565.024", "565.027", "565.029"],
     "elder abuse": ["565.184", "565.188", "565.189"],
     "child custody": ["565.150", "565.153", "565.156", "565.160", "565.167"]

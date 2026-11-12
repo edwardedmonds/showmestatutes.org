@@ -1,9 +1,58 @@
 {
   "sourceTitles": [
+    "XIX",
     "XXXVII",
     "XXXVIII"
   ],
   "chapters": [
+    {
+      "chapter": "300",
+      "title": "Model Traffic Ordinance",
+      "category": "transportation",
+      "minimumVersions": 119
+    },
+    {
+      "chapter": "301",
+      "title": "Registration and Licensing of Motor Vehicles",
+      "category": "transportation",
+      "minimumVersions": 299
+    },
+    {
+      "chapter": "302",
+      "title": "Drivers' and Commercial Drivers' Licenses",
+      "category": "transportation",
+      "minimumVersions": 131
+    },
+    {
+      "chapter": "303",
+      "title": "Motor Vehicle Financial Responsibility Law",
+      "category": "transportation",
+      "minimumVersions": 63
+    },
+    {
+      "chapter": "304",
+      "title": "Traffic Regulations",
+      "category": "transportation",
+      "minimumVersions": 94
+    },
+    {
+      "chapter": "305",
+      "title": "Aircraft and Airports",
+      "category": "transportation",
+      "minimumVersions": 85
+    },
+    {
+      "chapter": "306",
+      "title": "Watercraft Regulation and Licensing — Water Patrol Division",
+      "category": "transportation",
+      "minimumVersions": 81
+    },
+    {
+      "chapter": "307",
+      "title": "Vehicle Equipment Regulations",
+      "category": "transportation",
+      "minimumVersions": 83
+    },
     {
       "chapter": "540",
       "title": "Grand Juries and Their Proceedings",
@@ -18,7 +67,7 @@
     },
     {
       "chapter": "542",
-      "title": "Proceedings to Preserve the Peace \u2014 Searches and Seizures",
+      "title": "Proceedings to Preserve the Peace — Searches and Seizures",
       "category": "procedure",
       "minimumVersions": 40
     },
@@ -263,6 +312,27 @@
       "effectiveFrom": "2021-08-28",
       "reviewedAt": "2026-11-12",
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
+    }
+  ],
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "contingentEnactments": [
+    {
+      "section": "301.287",
+      "versions": [
+        {
+          "versionId": "60471",
+          "effectiveFrom": "2099-01-01",
+          "dateIsPlaceholder": true
+        },
+        {
+          "versionId": "60726",
+          "effectiveFrom": "2026-08-28",
+          "dateIsPlaceholder": false
+        }
+      ],
+      "reviewedAt": "2026-11-12",
+      "sourceNotice": "Due to a contingent effective date in H.B. 1840 and a possible conflict in language, both versions are printed.",
+      "basis": "The official effective-date label explicitly calls 2099 a placeholder. Retain both source versions, identify the contingent version separately, and do not resolve applicability."
     }
   ]
 }

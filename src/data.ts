@@ -18,6 +18,7 @@ export interface Statute {
   sourceSha256: string;
   headingMarker?: string;
   multipleEnactments?: true;
+  effectiveDateIsPlaceholder?: true;
 }
 export interface Dataset {
   manifest: {
@@ -40,18 +41,22 @@ export function assertDataset(value: unknown): asserts value is Dataset {
   if (!value || typeof value !== 'object') throw new Error('Missing dataset');
   const d = value as Dataset;
   if (d.manifest?.schemaVersion !== 2 || d.manifest.coverage?.join() !== chapterPolicy.map(c => c.chapter).join()
+    || d.manifest.coverageDescription !== coverage.coverageDescription
     || !Array.isArray(d.records) || d.records.length < 50
     || d.manifest.recordCount !== d.records.length
     || !Number.isFinite(Date.parse(d.manifest.collectedAt))) throw new Error('Invalid manifest');
   const ids = new Set<string>();
   const sections = new Map<string, Statute[]>();
   for (const r of d.records) {
+    const contingent = coverage.contingentEnactments.find(c => c.section === r?.section)?.versions.find(v => v.versionId === r?.versionId);
     if (!r || !/^\d{3}\.\d{3,4}$/.test(r.section) || !/^\d+$/.test(r.versionId)
       || r.id !== `${r.section}:${r.versionId}` || ids.has(r.id)
       || typeof r.title !== 'string' || !r.title.trim() || r.title.endsWith('...')
       || r.chapter !== r.section.split('.')[0] || !chapterPolicy.some(c => c.chapter === r.chapter && c.title === r.chapterTitle)
       || (r.multipleEnactments !== undefined && r.multipleEnactments !== true)
-      || Boolean(r.multipleEnactments) !== coverage.concurrentEnactments.some(c => c.section === r.section && c.versionIds.includes(r.versionId))
+      || Boolean(r.multipleEnactments) !== (Boolean(contingent) || coverage.concurrentEnactments.some(c => c.section === r.section && c.versionIds.includes(r.versionId)))
+      || (r.effectiveDateIsPlaceholder !== undefined && r.effectiveDateIsPlaceholder !== true)
+      || Boolean(r.effectiveDateIsPlaceholder) !== Boolean(contingent?.dateIsPlaceholder)
       || !validDate(r.effectiveFrom) || (r.effectiveTo !== null && (!validDate(r.effectiveTo) || r.effectiveTo <= r.effectiveFrom))
       || !Number.isFinite(Date.parse(r.sourceCheckedAt)) || !/^[a-f0-9]{64}$/.test(r.sourceSha256)
       || r.sourceUrl !== `https://revisor.mo.gov/main/OneSection.aspx?section=${r.section}&bid=${r.versionId}`) {
@@ -74,6 +79,16 @@ export function assertDataset(value: unknown): asserts value is Dataset {
   if (sections.size !== d.manifest.sectionCount) throw new Error('Section count mismatch');
   for (const versions of sections.values()) {
     versions.sort((a, b) => a.effectiveFrom.localeCompare(b.effectiveFrom));
+    const contingent = coverage.contingentEnactments.find(c => c.section === versions[0].section);
+    if (contingent) {
+      if (versions.map(r => r.versionId).sort().join() !== contingent.versions.map(v => v.versionId).sort().join()
+        || versions.some(r => {
+          const expected = contingent.versions.find(v => v.versionId === r.versionId);
+          return !expected || !r.multipleEnactments || r.effectiveFrom !== expected.effectiveFrom || r.effectiveTo !== null
+            || Boolean(r.effectiveDateIsPlaceholder) !== expected.dateIsPlaceholder;
+        })) throw new Error('Unresolved contingent enactments');
+      continue;
+    }
     const concurrent = coverage.concurrentEnactments.find(c => c.section === versions[0].section);
     if (concurrent) {
       if (versions.map(r => r.versionId).sort().join() !== [...concurrent.versionIds].sort().join()
@@ -87,7 +102,10 @@ export function assertDataset(value: unknown): asserts value is Dataset {
   }
 }
 export function isEffective(record: Statute, asOf: string): boolean {
-  return record.effectiveFrom <= asOf && (!record.effectiveTo || asOf < record.effectiveTo);
+  return !record.effectiveDateIsPlaceholder && record.effectiveFrom <= asOf && (!record.effectiveTo || asOf < record.effectiveTo);
+}
+export function isUpcoming(record: Statute, asOf: string): boolean {
+  return !record.effectiveDateIsPlaceholder && record.effectiveFrom > asOf;
 }
 export function todayInMissouri(): string {
   const parts = new Intl.DateTimeFormat('en-US', { timeZone: 'America/Chicago', year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(new Date());
