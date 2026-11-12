@@ -3,7 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Find Missouri statute headings without knowing the section number. Independent Chapter 565 pilot with links to official sources." />
+    <meta name="description" content="Find Missouri statute headings without knowing the section number. Criminal statutes and procedure headings with links to official sources." />
+    <link rel="canonical" href="https://showmestatutes.org/" />
     <meta name="color-scheme" content="light" />
     <title>Show Me Statutes — Missouri statute finder</title>
   </head>
@@ -11,14 +12,14 @@
     <a class="skip-link" href="#search">Skip to search</a>
     <header class="site-header">
       <a class="brand" href="./" aria-label="Show Me Statutes home"><span class="brand-mark" aria-hidden="true">§</span> Show Me Statutes</a>
-      <a class="about-link" href="#coverage">About this pilot <span aria-hidden="true">↗</span></a>
+      <a class="about-link" href="#coverage">Coverage & sources <span aria-hidden="true">↗</span></a>
     </header>
     <main>
       <section class="hero" aria-labelledby="headline">
         <p class="eyebrow"><span class="dot"></span> MISSOURI STATUTE FINDER</p>
         <h1 id="headline">Know the topic.<br><em>Find the section.</em></h1>
         <p class="intro">Search the words you know. Find the official heading,<br class="desktop-break"> then read the law at its source.</p>
-        <div class="scope-tag">CHAPTER 565 PILOT <span>Offenses Against the Person</span></div>
+        <div class="scope-tag">CRIMINAL LAW & PROCEDURE <span>Missouri · Titles XXXVII & XXXVIII</span></div>
       </section>
       <section class="search-panel" id="search" aria-label="Find a section">
         <form role="search" id="search-form">
@@ -30,7 +31,8 @@
           </div>
           <p id="search-hint">Searches headings and common names. Statutory body text is not searched.</p>
         </form>
-        <div class="try-row" aria-label="Example searches"><span>TRY A SEARCH</span><button type="button" data-query="first degree murder">First degree murder</button><button type="button" data-query="domestic assault">Domestic assault</button><button type="button" data-query="homicide">Homicide</button></div>
+        <div class="try-row" aria-label="Example searches"><span>TRY A SEARCH</span><button type="button" data-query="first degree murder">First degree murder</button><button type="button" data-query="stealing">Stealing</button><button type="button" data-query="driving while intoxicated">Driving while intoxicated</button></div>
+        <div class="chapter-filter"><label for="chapter">Search within</label><select id="chapter" disabled><option value="">All indexed chapters</option></select></div>
         <div class="search-options"><label class="checkbox-label"><input id="upcoming" type="checkbox"> Include upcoming versions</label><span id="as-of"></span></div>
       </section>
       <p id="status" role="status" aria-live="polite" aria-atomic="true">Loading the verified heading collection…</p>
@@ -43,14 +45,15 @@
       <details id="coverage" class="coverage">
         <summary>Coverage, dates &amp; sources</summary>
         <p id="coverage-stats"></p>
+        <ul id="chapter-coverage" class="chapter-coverage"></ul>
         <p id="source-date"></p>
         <p id="build-date"></p>
-        <p>This pilot covers Chapter 565 only. It does not cover all Missouri criminal law, and it is not a complete historical archive. A missing result does not mean no relevant law exists.</p>
+        <p>Coverage includes the chapter indexes in Titles XXXVII and XXXVIII: Chapters 540–552, 556–579, 589, 590, 595 and 600. Laws in other titles, court rules and complete historical versions are outside this collection. A missing result does not mean no relevant law exists.</p>
         <p>Effective dates describe source versions. Source-check dates describe when a page was retrieved. The index build date describes this search file; it is not a publication date or a guarantee of current law.</p>
         <p>Searches stay in your browser. No third-party analytics or search service receives your query.</p>
-        <a href="https://revisor.mo.gov/main/OneChapter.aspx?chapter=565">Browse Chapter 565 at the official source ↗</a>
+        <a href="https://revisor.mo.gov/">Browse Missouri statutes at the official source ↗</a>
       </details>
-      <noscript><p>JavaScript is needed for local search. <a href="https://revisor.mo.gov/main/OneChapter.aspx?chapter=565">Browse Chapter 565 at the official source.</a></p></noscript>
+      <noscript><p>JavaScript is needed for local search. <a href="https://revisor.mo.gov/">Browse Missouri statutes at the official source.</a></p></noscript>
     </main>
     <footer><span>SHOW ME STATUTES</span><p>Independent search. Links to official sources.<br>Not affiliated with the State of Missouri. Not legal advice.</p><a href="https://github.com/deths74r/show-me-statutes">Project on GitHub ↗</a></footer>
     <script type="module" src="/src/main.ts"></script>

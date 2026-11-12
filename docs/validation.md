@@ -1,25 +1,23 @@
-# Pilot validation — November 11, 2026
+# Expansion validation — November 12, 2026
+
+## Scope and source checks
+
+The explicit scope is 41 chapter indexes across Titles XXXVII and XXXVIII, with headings in 39 chapters and reviewed empty indexes in Chapters 560 and 564. Every included version is independently parsed from its exact official source URL. All 41 indexes were retrieved a second time and compared before release.
+
+The search benchmark exposed an inconsistent initial Chapter 574 response: six duplicated rows replaced six other sections. The fresh index restored the missing sections, including §574.010. The collector now rejects every duplicate index row and retries the exact source URL at most twice. Persistent source inconsistencies block promotion. Rejected responses remain in the ignored local cache.
+
+The only concurrent source intervals are the two explicit §590.1265 enactments. Both official pages state that both are printed due to possible conflict. The policy records the exact pair and date; results label both instead of resolving applicability. All other unresolved overlaps fail validation.
 
 ## Automated checks
 
-- 60/60 development relevance queries pass.
-- 11 additional TypeScript regressions pass: current/future source selection, exclusive effective-date boundary, future-only sections, degree distinctions, broad topics, exclusion of body text, index serialization, malformed/overlapping records, empty/markup/long inputs, invalid dates and unrelated degree-only overlap.
-- 5 Python source-parser tests pass, including the actual inconsistent-heading response rejected during collection.
-- Dataset validation: 72 unique source versions / 59 sections / 16 future versions at check time.
-- TypeScript checks and production build pass under Node 22.22.2; source-parser checks run with Python 3.14.7 and Beautiful Soup 4.15.0.
-- Installed npm dependency audit reported zero vulnerabilities after using the patched testing release.
+The suite contains 206 TypeScript tests: the original 60 Chapter 565-scoped queries, 11 original regressions, 71 expanded queries, 58 unambiguous pilot expectations checked across the full collection, and 6 coverage/version/integrity tests. The Python suite contains 13 parser/collection regressions, including actual wrong-heading and wrong-version responses, complete chapter indexes, strict empty chapters, duplicate rejection, bounded retry behavior, collection locking, and the concurrent-enactment notice.
 
-## Browser checks
+All 206 TypeScript tests and all 13 Python tests passed, as did TypeScript checks and the production build. The promoted snapshot contains 1,262 unique source versions, 1,233 sections and 31 future versions at collection time. The original benchmark is a development set; it is not an independent held-out evaluation.
 
-Using the supported in-app browser against the local Vite server:
+## Browser verification
 
-- “first degree murder” has one best heading, §565.020, with procedure and definition results separate; unrelated first-degree offenses are excluded.
-- “first degree murder trial procedure” prioritizes §565.030. ArrowDown from search focuses its heading link.
-- Exact §565.050 opens version `29279`; including upcoming versions adds `60733` in a separate group with July 1, 2027 displayed.
-- §565.999 produces a no-match message explicitly limited to Chapter 565 and an official-source link.
-- A 390×844 viewport has no horizontal overflow; input, button, version dates and source links fit the narrow layout.
-- No browser error/warning logs observed during these checks.
+Production-build checks passed in the in-app browser: stealing prioritizes §570.030; the Chapter 595 filter keeps results in that chapter; exact §590.1040 resolves its four-digit citation; §590.1265 shows both enactments with their notices and distinct source links; §565.050 separates the current version from July 2027; §999.999 shows a scoped no-match message; ArrowDown moves focus to the result link. At 390×844 and 320×740, the page has no horizontal overflow. No browser warnings or errors were observed.
 
-## Limits and release gates
+## Limits
 
-These are development results, not independent legal validation. No physical Android p95 timing, screen-reader audit, complete-history evaluation or broader-chapter relevance evaluation has been performed. The 60-case benchmark is not a held-out dataset. Alias/topic mappings still need independent maintainer review. The site has not been deployed, and DNS has not been changed.
+No physical Android p95 timing, screen-reader audit or independent legal/alias review has been performed. Heading search excludes statutory body text and laws outside the stated titles; the collection is not a complete historical archive. Public publishing was authorized after the pilot trial. GitHub Actions and DNS/certificate readiness are separate from local test results; do not treat a successful local build as proof that the domain is live.

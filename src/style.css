@@ -86,3 +86,12 @@ footer a { white-space: nowrap; }
 .has-query .hero { padding: 24px 0 22px; }
 .has-query h1 { font-size: 2rem; margin: 12px 0; }
 .has-query .intro { display: none; }
+
+.chapter-filter { display: flex; align-items: center; gap: .75rem; margin-top: 1.25rem; }
+.chapter-filter label { flex-shrink: 0; font-size: .85rem; }
+.chapter-filter select { width: 100%; max-width: 34rem; min-width: 0; padding: .65rem; border: 1px solid #b9c7bb; border-radius: .35rem; background: #fffdf7; color: #1b382c; font: inherit; font-size: .85rem; }
+.chapter-coverage { padding-left: 1.25rem; font-size: .85rem; line-height: 1.6; }
+.chapter-coverage li { margin-bottom: .6rem; }
+.chapter-coverage span { color: #59665d; }
+.card-meta { overflow-wrap: anywhere; }
+@media (max-width: 600px) { .chapter-filter { align-items: stretch; flex-direction: column; gap: .35rem; } }

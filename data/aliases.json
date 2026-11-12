@@ -1,6 +1,6 @@
 {
-  "reviewedAt": "2026-11-11",
-  "reviewBasis": "Initial source-heading cross-check. Short degree abbreviations are project search conventions, not official legal names. Maintainer review remains a release gate.",
+  "reviewedAt": "2026-11-12",
+  "reviewBasis": "Source-heading cross-check for the Chapter 565 pilot and expanded criminal-law collection. Short degree forms and common-name aliases are project search conventions, not official legal names. Independent maintainer review remains outstanding.",
   "sections": {
     "565.020": ["murder 1", "murder one", "first degree murder"],
     "565.021": ["murder 2", "murder two", "second degree murder"],
@@ -23,7 +23,16 @@
     "565.120": ["kidnapping 2", "second degree kidnapping"],
     "565.130": ["kidnapping 3", "third degree kidnapping"],
     "565.225": ["stalking 1", "first degree stalking"],
-    "565.227": ["stalking 2", "second degree stalking"]
+    "565.227": ["stalking 2", "second degree stalking"],
+    "569.160": ["burglary 1", "first degree burglary"],
+    "569.170": ["burglary 2", "second degree burglary"],
+    "570.023": ["robbery 1", "first degree robbery"],
+    "570.025": ["robbery 2", "second degree robbery"],
+    "569.040": ["arson 1", "first degree arson"],
+    "569.050": ["arson 2", "second degree arson"],
+    "570.030": ["theft"],
+    "577.010": ["dwi", "drunk driving"],
+    "563.031": ["self defense"]
   },
   "topics": {
     "homicide": ["565.020", "565.021", "565.023", "565.024", "565.027", "565.029"],

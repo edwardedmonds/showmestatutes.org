@@ -1,9 +1,11 @@
-"""Collect the Chapter 565 heading pilot, preserving source version identities.
+"""Collect the configured Missouri criminal-law and procedure headings, preserving source version identities.
 
 Run from repository root. Network fetches are sequential, >=1 second apart.
 No existing validated dataset is overwritten by collection.
 """
 import argparse
+from contextlib import contextmanager
+import os
 from collections import defaultdict
 from datetime import datetime, timezone
 import hashlib
@@ -17,7 +19,11 @@ from urllib.robotparser import RobotFileParser
 from bs4 import BeautifulSoup
 
 BASE = 'https://revisor.mo.gov'
-INDEX = BASE + '/main/OneChapter.aspx?chapter=565'
+POLICY = json.loads((Path(__file__).resolve().parent.parent / 'data/coverage.json').read_text())
+CHAPTERS = {c['chapter']: c for c in POLICY['chapters']}
+
+def index_url(chapter):
+    return BASE + '/main/OneChapter.aspx?chapter=' + chapter
 AGENT = 'ShowMeStatutes/0.1 (+https://github.com/deths74r/show-me-statutes)'
 
 
@@ -34,27 +40,42 @@ def date(value):
     raise ValueError(f'Unrecognized effective date: {value}')
 
 
-def parse_index(html):
+def parse_index(html, chapter='565'):
     soup = BeautifulSoup(html, 'html.parser')
     entries = {}
+    rows = {}
+    if not soup.title or not re.search(r'\bChapter ' + re.escape(chapter) + r'\b', soup.title.get_text()):
+        raise ValueError('Incomplete or wrong chapter index: ' + chapter)
     for a in soup.select('a[href]'):
         query = parse_qs(urlparse(a['href']).query)
         section = query.get('section', [''])[0]
         bid = query.get('bid', [''])[0]
-        if not re.fullmatch(r'565\.\d{3}', section) or not bid:
+        if urlparse(a['href']).path != '/main/PageSelect.aspx':
             continue
+        if not section.startswith(chapter + '.'):
+            raise ValueError('Wrong chapter in source index: ' + section)
+        if not re.fullmatch(re.escape(chapter) + r'\.\d{3,4}', section) or not bid.isdigit():
+            raise ValueError('Malformed source identity: ' + section)
         row = a.find_parent('tr')
         match = re.search(r'\((\d+/\d+/\d+)\)\s*$', clean(row.get_text(' ')))
         if not match:
             raise ValueError(f'Missing index date: {section}/{bid}')
         key = section + ':' + bid
+        row_text = clean(row.get_text(' '))
         if key in entries:
-            raise ValueError(f'Duplicate index version: {key}')
+            if rows[key] != row_text:
+                raise ValueError(f'Conflicting duplicate index version: {key}')
+            raise ValueError(f'Duplicate index row may hide missing coverage: {key}')
+        rows[key] = row_text
         entries[key] = {'id': key, 'section': section, 'versionId': bid,
                         'effectiveFrom': date(match[1]),
                         'sourceUrl': f'{BASE}/main/OneSection.aspx?section={section}&bid={bid}'}
-    if len(entries) < 50:
-        raise ValueError('Incomplete or changed chapter index; expected at least 50 versions')
+    if len(entries) < CHAPTERS[chapter]['minimumVersions']:
+        raise ValueError('Incomplete or changed chapter index: ' + chapter)
+    if not entries and (not CHAPTERS[chapter].get('emptyIndexReviewedAt')
+            or not soup.find('a', href='/main/OneChapter.aspx?chapter=' + chapter + '&idx=v')
+            or 'Cross References' not in soup.get_text()):
+        raise ValueError('Unverified empty chapter index: ' + chapter)
     return list(entries.values())
 
 
@@ -97,15 +118,21 @@ def parse_section(html, entry, checked_at):
         until = matches[0]
     elif 'multiple enactments' in soup.get_text().lower():
         raise ValueError('Multiple enactments without a version table')
-    return {**entry, 'title': title, 'chapter': '565', 'chapterTitle': 'Offenses Against the Person',
-            'effectiveTo': until, 'headingMarker': marker, 'sourceCheckedAt': checked_at,
+    concurrent = next((p for p in POLICY['concurrentEnactments'] if p['section'] == entry['section'] and entry['versionId'] in p['versionIds']), None)
+    if concurrent and (entry['effectiveFrom'] != concurrent['effectiveFrom'] or until is not None
+            or f'There are multiple enactments of {entry["section"]}' not in clean(soup.get_text(' '))
+            or 'Due to possible conflict, both versions are printed.' not in clean(soup.get_text(' '))):
+        raise ValueError('Unverified concurrent enactment: ' + entry['id'])
+    chapter = entry['section'].split('.')[0]
+    return {**entry, 'title': title, 'chapter': chapter, 'chapterTitle': CHAPTERS[chapter]['title'],
+            'effectiveTo': until, **({'multipleEnactments': True} if concurrent else {}), 'headingMarker': marker, 'sourceCheckedAt': checked_at,
             'sourceSha256': hashlib.sha256(html.encode()).hexdigest()}
 
 
 def validate(dataset, previous=None):
     records = dataset['records']
     manifest = dataset['manifest']
-    if manifest['schemaVersion'] != 1 or manifest['coverage'] != ['565']:
+    if manifest['schemaVersion'] != 2 or manifest['coverage'] != list(CHAPTERS):
         raise ValueError('Unsupported dataset schema/coverage')
     if manifest['recordCount'] != len(records) or len(records) < 50:
         raise ValueError('Invalid record count')
@@ -118,25 +145,54 @@ def validate(dataset, previous=None):
         if record['id'] in ids:
             raise ValueError('Duplicate version identity')
         ids.add(record['id'])
-        if record['id'] != record['section'] + ':' + record['versionId']:
+        if not record['versionId'].isdigit() or record['id'] != record['section'] + ':' + record['versionId']:
             raise ValueError('Mismatched record identity')
-        if record['chapter'] != '565' or not re.fullmatch(r'565\.\d{3}', record['section']):
+        if record['chapter'] not in CHAPTERS or not re.fullmatch(re.escape(record['chapter']) + r'\.\d{3,4}', record['section']) or record['chapterTitle'] != CHAPTERS[record['chapter']]['title']:
             raise ValueError('Unexpected section')
         if record['sourceUrl'] != f'{BASE}/main/OneSection.aspx?section={record["section"]}&bid={record["versionId"]}':
             raise ValueError('Source URL must identify the exact version')
         if not re.fullmatch(r'[a-f0-9]{64}', record['sourceSha256']):
             raise ValueError('Missing source hash')
+        if record['title'].endswith('...'):
+            raise ValueError('Truncated heading')
         datetime.fromisoformat(record['sourceCheckedAt'])
         datetime.strptime(record['effectiveFrom'], '%Y-%m-%d')
+        concurrent = next((p for p in POLICY['concurrentEnactments'] if p['section'] == record['section'] and record['versionId'] in p['versionIds']), None)
+        if bool(record.get('multipleEnactments')) != bool(concurrent):
+            raise ValueError('Unverified concurrent enactment marker')
         if record['effectiveTo']:
             datetime.strptime(record['effectiveTo'], '%Y-%m-%d')
             if record['effectiveTo'] <= record['effectiveFrom']:
                 raise ValueError('Invalid effective interval')
         grouped[record['section']].append(record)
+    summaries = manifest.get('chapters', [])
+    if [c['chapter'] for c in summaries] != list(CHAPTERS):
+        raise ValueError('Missing chapter provenance')
+    for summary in summaries:
+        ch = summary['chapter']
+        chapter_records = [r for r in records if r['chapter'] == ch]
+        if (summary['recordCount'] != len(chapter_records)
+                or summary['sectionCount'] != len({r['section'] for r in chapter_records})
+                or len(chapter_records) < CHAPTERS[ch]['minimumVersions']
+                or summary['sourceIndex'] != index_url(ch)
+                or summary['title'] != CHAPTERS[ch]['title']
+                or not re.fullmatch(r'[a-f0-9]{64}', summary['sourceSha256'])):
+            raise ValueError('Incomplete chapter/provenance: ' + ch)
+        datetime.fromisoformat(summary['indexCheckedAt'])
+    if manifest['indexCheckedAt'] != min(c['indexCheckedAt'] for c in summaries):
+        raise ValueError('Oldest index check mismatch')
+    if manifest['collectedAt'] != max([r['sourceCheckedAt'] for r in records] + [c['indexCheckedAt'] for c in summaries]):
+        raise ValueError('Collection time mismatch')
     if manifest['sectionCount'] != len(grouped):
         raise ValueError('Section count mismatch')
     for versions in grouped.values():
         versions.sort(key=lambda r: r['effectiveFrom'])
+        concurrent = next((p for p in POLICY['concurrentEnactments'] if p['section'] == versions[0]['section']), None)
+        if concurrent:
+            if (set(r['versionId'] for r in versions) != set(concurrent['versionIds'])
+                    or any(not r.get('multipleEnactments') or r['effectiveFrom'] != concurrent['effectiveFrom'] or r['effectiveTo'] is not None for r in versions)):
+                raise ValueError('Unresolved concurrent enactments')
+            continue
         for earlier, later in zip(versions, versions[1:]):
             if earlier['effectiveTo'] is None or earlier['effectiveTo'] > later['effectiveFrom']:
                 raise ValueError(f'Overlapping/unresolved versions: {earlier["section"]}')
@@ -144,8 +200,21 @@ def validate(dataset, previous=None):
         lost = {r['id'] for r in previous['records']} - ids
         if lost:
             raise ValueError('Record loss requires explicit review: ' + ', '.join(sorted(lost)))
-    return {'valid': True, 'records': len(records), 'sections': len(grouped),
+    return {'valid': True, 'records': len(records), 'sections': len(grouped), 'chapters': len(CHAPTERS),
             'futureVersionsAtCheck': sum(r['effectiveFrom'] > manifest['collectedAt'][:10] for r in records)}
+
+
+def parse_with_retry(entry, source, get, cache, offline):
+    for attempt in range(3):
+        try:
+            return parse_section(source['html'], entry, source['checkedAt'])
+        except ValueError as error:
+            if offline or attempt == 2:
+                raise
+            rejected = cache / (hashlib.sha256(source['html'].encode()).hexdigest() + '.rejected.json')
+            rejected.write_text(json.dumps(source))
+            print(f'Rejected {entry["id"]}: {error}; retrying exact source URL', flush=True)
+            source = get(entry['sourceUrl'], fresh=True)
 
 
 def collect(cache, offline=False):
@@ -153,10 +222,10 @@ def collect(cache, offline=False):
     last_fetch = 0.0
     robots = None
 
-    def get(url):
+    def get(url, fresh=False):
         nonlocal last_fetch
         target = cache / (hashlib.sha256(url.encode()).hexdigest() + '.json')
-        if target.exists():
+        if target.exists() and not fresh:
             item = json.loads(target.read_text())
             if item['url'] != url:
                 raise ValueError('Cache identity mismatch')
@@ -169,7 +238,7 @@ def collect(cache, offline=False):
             time.sleep(max(0, 1.0 - (time.monotonic() - last_fetch)))
             last_fetch = time.monotonic()
             try:
-                with urlopen(Request(url, headers={'User-Agent': AGENT}), timeout=45) as response:
+                with urlopen(Request(url, headers={'User-Agent': AGENT, 'Cache-Control': 'no-cache'}), timeout=45) as response:
                     if urlparse(response.url).hostname != 'revisor.mo.gov':
                         raise ValueError('Unexpected source redirect')
                     html = response.read().decode('utf-8-sig')
@@ -188,20 +257,52 @@ def collect(cache, offline=False):
     if not robot['html'].lstrip().lower().startswith('<'):
         robots = RobotFileParser()
         robots.parse(robot['html'].splitlines())
-    chapter = get(INDEX)
-    entries = parse_index(chapter['html'])
     records = []
-    for number, entry in enumerate(entries, 1):
-        source = get(entry['sourceUrl'])
-        records.append(parse_section(source['html'], entry, source['checkedAt']))
-        print(f'{number}/{len(entries)} {entry["id"]}', flush=True)
-    return {'manifest': {'schemaVersion': 1, 'coverage': ['565'],
-                        'coverageDescription': 'All versions listed in the Chapter 565 index at source check; not a complete historical archive.',
-                        'sourceIndex': INDEX, 'indexCheckedAt': chapter['checkedAt'],
-                        'collectedAt': max(r['sourceCheckedAt'] for r in records),
+    summaries = []
+    for chapter, policy in CHAPTERS.items():
+        source_index = get(index_url(chapter))
+        for attempt in range(3):
+            try:
+                entries = parse_index(source_index['html'], chapter)
+                break
+            except ValueError:
+                if offline or attempt == 2:
+                    raise
+                (cache / (hashlib.sha256(source_index['html'].encode()).hexdigest() + '.rejected.json')).write_text(json.dumps(source_index))
+                source_index = get(index_url(chapter), fresh=True)
+        chapter_records = []
+        for number, entry in enumerate(entries, 1):
+            source = get(entry['sourceUrl'])
+            chapter_records.append(parse_with_retry(entry, source, get, cache, offline))
+            print(f'Chapter {chapter}: {number}/{len(entries)} {entry["id"]}', flush=True)
+        records.extend(chapter_records)
+        summaries.append({'chapter': chapter, 'title': policy['title'],
+                          'sourceIndex': index_url(chapter), 'indexCheckedAt': source_index['checkedAt'],
+                          'sourceSha256': hashlib.sha256(source_index['html'].encode()).hexdigest(),
+                          'recordCount': len(entries), 'sectionCount': len({e['section'] for e in entries})})
+    return {'manifest': {'schemaVersion': 2, 'coverage': list(CHAPTERS),
+                        'coverageDescription': 'Versions enumerated in the chapter indexes of Titles XXXVII and XXXVIII at source check; not all Missouri criminal law or a complete historical archive.',
+                        'chapters': summaries, 'indexCheckedAt': min(c['indexCheckedAt'] for c in summaries),
+                        'collectedAt': max([r['sourceCheckedAt'] for r in records] + [c['indexCheckedAt'] for c in summaries]),
                         'recordCount': len(records), 'sectionCount': len({r['section'] for r in records}),
                         'robotsResponse': 'directives' if robots else 'HTML response; no robots directives'},
             'records': sorted(records, key=lambda r: (r['section'], r['effectiveFrom']))}
+
+
+
+@contextmanager
+def collection_lock(path=Path('data/.collect.lock')):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    try:
+        descriptor = os.open(path, os.O_CREAT | os.O_EXCL | os.O_WRONLY, 0o600)
+    except FileExistsError:
+        raise ValueError('Collection lock exists: ' + str(path) + '. Check for a running collector before removing a stale lock.') from None
+    try:
+        os.write(descriptor, str(os.getpid()).encode())
+        yield
+    finally:
+        os.close(descriptor)
+        path.unlink()
 
 
 def main():
@@ -214,7 +315,8 @@ def main():
     if args.validate:
         print(json.dumps(validate(json.loads(args.validate.read_text())), indent=2))
         return
-    dataset = collect(args.cache, args.offline)
+    with collection_lock():
+        dataset = collect(args.cache, args.offline)
     previous_path = Path('public/data/statutes.json')
     previous = json.loads(previous_path.read_text()) if previous_path.exists() else None
     if not isinstance(previous, dict):

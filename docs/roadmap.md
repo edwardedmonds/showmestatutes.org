@@ -4,29 +4,29 @@ Based on the [original development roadmap](https://chatgpt.com/share/6af4cf71-7
 
 ## Milestone 0 — Define good results
 
-Implemented: Chapter 565 pilot scope, 60-case relevance benchmark, written ranking contract, exact-number and negative-result cases. The benchmark includes ordinary wording, abbreviations, word-order variations, misspellings, broad topics and degree distinctions. It is a development set, not an independent evaluation.
+Implemented: Chapter 565 pilot scope, 60-case pilot relevance benchmark plus an expanded cross-chapter benchmark, written ranking contract, exact-number and negative-result cases. The benchmark includes ordinary wording, abbreviations, word-order variations, misspellings, broad topics and degree distinctions. It is a development set, not an independent evaluation.
 
 ## Milestone 1 — Data foundation
 
-Implemented: repeatable rate-limited Python collection, 59-section/72-version snapshot, full headings, version identity, exact source URLs, source hashes, effective intervals and separate check/build dates. Validation rejects partial data, duplicates, wrong headings/identities and overlaps. Snapshot promotion is gated and atomic. Current and future versions are retained separately.
+Implemented: repeatable rate-limited Python collection, multi-chapter snapshot (see the dataset manifest for counts), full headings, version identity, exact source URLs, source hashes, effective intervals and separate check/build dates. Validation rejects partial data, duplicates, wrong headings/identities and overlaps. Snapshot promotion is gated and atomic. Current and future versions are retained separately.
 
 ## Milestone 2 — Relevance engine
 
 Implemented: MiniSearch candidate retrieval with custom heading/alias ranking, exact citations, ordinal normalization, conservative spelling suggestions, offense/procedure distinction, broad-topic and related-section groups. Statutory body text is excluded. All 60 benchmark cases pass, with additional version and integrity regressions.
 
-Remaining release gate: independent maintainer review of aliases/topic mappings and evaluation on additional held-out queries. Initial mappings have an implementation source-heading cross-check, not a legal-professional endorsement.
+Outstanding validation: independent maintainer review of aliases/topic mappings and evaluation on additional held-out queries. Initial mappings have an implementation source-heading cross-check, not a legal-professional endorsement.
 
 ## Milestone 3 — Mobile interface
 
 Implemented: responsive static interface, live heading search, separate result groups, exact-version source links, dates, coverage disclosure, upcoming-version toggle, scoped no-match state, keyboard navigation and visible focus. Desktop and 390px-wide browser checks passed.
 
-Remaining release gate: verify accessibility with assistive technology and measure p95 search/render latency on a documented representative physical Android device. A narrow browser viewport is not a substitute for those checks.
+Outstanding validation: verify accessibility with assistive technology and measure p95 search/render latency on a documented representative physical Android device. A narrow browser viewport is not a substitute for those checks.
 
 ## Milestone 4 — Expand and release
 
-Not released. Do not claim all criminal-law coverage. Once pilot review gates pass, choose and explicitly enumerate the next core criminal-code chapters, add benchmark cases before importing them, and include selected procedure/cross-chapter provisions as reviewed expansions.
+Development expansion authorized after the user tried the pilot: Chapters 540–552, 556–579, 589, 590, 595 and 600, explicitly enumerated in `data/coverage.json`. Added source provenance and minimum-count checks for every chapter, a chapter selector, four-digit section lookup and expanded benchmark cases. See [coverage and exclusions](coverage.md). The user subsequently authorized GitHub Pages publishing and the custom domain on November 12, 2026. Independent review and device/accessibility checks above remain outstanding validation work; publication does not imply these were completed. Do not claim all Missouri criminal-law coverage.
 
-Offline CI validation/build is in place; a manual refresh path is implemented. Scheduled source updates, deployment, GitHub Pages, custom domains and DNS remain unconfigured. The user explicitly deferred publishing and DNS. A future publishing workflow must preserve the last validated release on fetch, validation, test or build failure and expose source freshness and a manual recovery path.
+The manual source-refresh path remains gated and atomic. The GitHub Pages workflow validates data, runs parser/search tests and builds before uploading or deploying; pull requests only validate, and only main can publish. A failed check leaves the last deployed site intact. Source crawling is manual and is not run in the publishing workflow. The requested canonical host is `showmestatutes.org`, with `.com` forwarding to `.org`. See [deployment documentation](deployment.md) for setup and recovery details.
 
 ## Milestone 5 — Evidence-driven enhancements
 
