@@ -1,6 +1,6 @@
 # Indexed chapters
 
-The collection follows the Missouri Revisor catalog: Titles I–V (laws and statutes, sovereignty and emblems, the legislative and executive branches, and military affairs and police), [Title VI — County, Township and Political Subdivision Government](https://revisor.mo.gov/main/OneTitle.aspx?title=VI), [Title VII — Cities, Towns and Villages](https://revisor.mo.gov/main/OneTitle.aspx?title=VII), [Title VIII — Public Officers and Employees, Bonds and Records](https://revisor.mo.gov/main/OneTitle.aspx?title=VIII), [Title IX — Suffrage and Elections](https://revisor.mo.gov/main/OneTitle.aspx?title=IX), alongside [Title XIX — Motor Vehicles, Watercraft and Aviation](https://revisor.mo.gov/main/OneTitle.aspx?title=XIX), [Title XXXVII — Criminal Procedure](https://revisor.mo.gov/main/OneTitle.aspx?title=XXXVII) and [Title XXXVIII — Crimes and Punishment; Peace Officers and Public Defenders](https://revisor.mo.gov/main/OneTitle.aspx?title=XXXVIII), checked November 12, 2026.
+The collection follows the Missouri Revisor catalog: Titles I–V (laws and statutes, sovereignty and emblems, the legislative and executive branches, and military affairs and police), [Title VI — County, Township and Political Subdivision Government](https://revisor.mo.gov/main/OneTitle.aspx?title=VI), [Title VII — Cities, Towns and Villages](https://revisor.mo.gov/main/OneTitle.aspx?title=VII), [Title VIII — Public Officers and Employees, Bonds and Records](https://revisor.mo.gov/main/OneTitle.aspx?title=VIII), [Title IX — Suffrage and Elections](https://revisor.mo.gov/main/OneTitle.aspx?title=IX), [Title X — Taxation and Revenue](https://revisor.mo.gov/main/OneTitle.aspx?title=X), alongside [Title XIX — Motor Vehicles, Watercraft and Aviation](https://revisor.mo.gov/main/OneTitle.aspx?title=XIX), [Title XXXVII — Criminal Procedure](https://revisor.mo.gov/main/OneTitle.aspx?title=XXXVII) and [Title XXXVIII — Crimes and Punishment; Peace Officers and Public Defenders](https://revisor.mo.gov/main/OneTitle.aspx?title=XXXVIII), checked November 12, 2026.
 
 The machine-readable collection policy is `data/coverage.json`. Both the Python collector and the browser validator use it. Each chapter has a source-derived title and a minimum unique-version count established from the reviewed initial index. The dataset manifest separately retains each chapter's index URL, retrieval time, response hash, section count and version count. These chapter indexes define this collection; this is not a claim to cover every criminal provision elsewhere in Missouri law.
 
@@ -13,13 +13,13 @@ The machine-readable collection policy is `data/coverage.json`. Both the Python 
 - Cities, towns and villages: Chapters **71–72, 77–82, 84–92, 94–96 and 98–100**.
 - Public officers and employees, bonds and records: Chapters **103–110**, including state employee health plans and retirement.
 - Suffrage and elections: Chapters **115, 116, 122, 127, 128 and 130**.
-- Tax relief, state tax collection and property taxes: **Title X Chapters 135–141**. Chapters 142–155 remain outside this batch.
+- Taxation and revenue: **Title X Chapters 135–155**. Chapter 152 is a reviewed empty index.
 - Transportation: Chapters **300–307**, including the Model Traffic Ordinance, registration, driver licensing, financial responsibility, traffic regulations, aviation, watercraft and equipment.
 - Criminal procedure: Chapters **540–552**.
 - Criminal code, sentencing, defenses and offenses: Chapters **556–579**.
 - Related programs and services: Chapters **589, 590, 595 and 600**.
 
-The Revisor currently lists no section versions in Chapters **560** and **564**. Their empty indexes are recorded, including retrieval dates and hashes, and the chapter selector labels them as having no listed sections. They are not filled from an older compilation or interpreted as a statement that fines or inchoate offenses no longer exist. For example, current headings for fines and conspiracy appear in Chapters 558 and 562 respectively.
+The Revisor currently lists no section versions in Chapters **152**, **560** and **564**. Their empty indexes are recorded, including retrieval dates and hashes, and the chapter selector labels them as having no listed sections. They are not filled from an older compilation or interpreted as a statement that fines or inchoate offenses no longer exist. For example, current headings for fines and conspiracy appear in Chapters 558 and 562 respectively.
 
 ## Source-specific handling
 
@@ -95,6 +95,12 @@ Twelve Chapter 128 versions have explicitly labeled placeholder dates: §§128.3
 
 ## First taxation expansion
 
-[Title X — Taxation and Revenue](https://revisor.mo.gov/main/OneTitle.aspx?title=X) is partially imported: Chapters **135–141** cover tax relief, state tax collection, property assessment, assessment review, current tax collection and delinquent taxes. Chapters **142–155** remain outside this batch, including the principal income-tax and sales-and-use-tax chapters. Tax-credit headings in Chapter 135 do not establish complete income-tax coverage.
+The first [Title X — Taxation and Revenue](https://revisor.mo.gov/main/OneTitle.aspx?title=X) batch imported Chapters **135–141**: tax relief, state tax collection, property assessment, assessment review, current tax collection and delinquent taxes. The following batch completes the remaining listed chapter indexes, as recorded below.
 
 The source lists two versions of **140.170**. The 2022 version carries an explicit Revisor constitutional warning; the 2015 version is reprinted under section 3.066. Both dates and blank end dates are preserved, with the warned version shown separately. These source classifications do not decide legal applicability.
+
+## Remaining taxation expansion
+
+Chapters **142–155** complete the listed Title X chapter indexes, adding **622 sections and source versions**. These include income, sales and use, motor fuel, estate, corporate franchise, financial institution, cigarette, merchant and transport tax headings. Inclusion follows the official catalog; a heading's presence does not establish that a tax is currently owed or that every provision applies.
+
+**Chapter 152 — Private Car Tax** lists no section rows. Its cross references point to §137.022 and §§137.975–137.985, which are already in the collection. The chapter is recorded with zero headings and dated index provenance, rather than creating fictitious Chapter 152 sections from those references.

@@ -1,3 +1,27 @@
+# Completion of taxation coverage — November 12, 2026
+
+## Scope and source checks
+
+Chapters 142–155 add **622 distinct sections and 622 source versions**, completing all 21 listed chapter indexes of Title X. The combined snapshot contains **9,851 sections and 9,901 versions** across **158 chapter indexes**: 155 with headings and three reviewed empty indexes. The fresh Revisor catalog still lists 468 chapter links, leaving **310** outside this collection. Title XI, education and libraries, is next.
+
+All 622 new version pages were collected sequentially at no more than one request per second. No unresolved source exceptions occurred. All 14 chapter indexes matched a second retrieval of exact identities, dates and source URLs. The normal strict collector rebuilt and validated the complete candidate from cached responses. All 9,279 earlier records and all 144 earlier chapter-manifest objects are unchanged, including dates and hashes. The change report contains 622 additions, zero removals and zero changes.
+
+Chapter 152 lists no section rows. Its Cross References block points to §137.022 and §§137.975–137.985. The chapter is explicitly reviewed as empty, with index provenance retained; these references are not converted into Chapter 152 headings. A source fixture checks the expected empty-index structure. No new constitutional warnings, contingent versions or future-dated versions were added. The combined totals remain 41 warned versions, 16 reviewed reprinted pairs, 14 contingent versions and 32 scheduled future versions.
+
+## Tests and performance
+
+All **490 TypeScript tests and 34 Python tests** passed, along with TypeScript checks and the production build. Thirty-five initial query cases were defined from official indexes before ranking evaluation. One first-result expectation was ambiguous: both §148.112 (bank S corporation shareholders) and §148.657 (shareholders of credit institutions) match the broad shareholder-credit query. After reviewing both source headings, that case requires both among the first three results, and an additional query specifying credit institutions requires §148.657 first. No ranking or alias change was made. A separate regression checks the empty Chapter 152 and its already indexed Chapter 137 references. These are development tests, not an independent evaluation of legal-search accuracy.
+
+The serialized MiniSearch index grew from 1,082,901 to 1,153,652 bytes. On local Linux with Node 22.22.2, the expanded collection's index construction took about 170 ms and loading plus search setup about 135 ms. Across 16 queries with three warm-up passes and 25 measured runs each, p95 search times ranged from 0.003 to 30.45 ms, compared with 0.014 to 21.99 ms for the earlier snapshot in the same run. These timings exclude download, JSON parsing, validation and rendering, and are not physical mobile measurements.
+
+## Browser checks and publication
+
+The production preview reports 9,851 section headings. Unscoped first-time-home-buyer search finds §143.1150, and a Chapter 144 filter excludes it. Scoped searches find §144.815 for bullion and investment coins, §155.080 for aviation-fuel refunds, and §150.030 for farmer-not-merchant. Each retains its exact official version URL. Chapter 152 is visibly labeled as having no sections and disabled in the selector. First-degree murder still leads to §565.020; ArrowDown focuses the source-heading link. No horizontal overflow was observed at 390×740 or 320×740, including the long Chapter 150 label. No browser warnings or errors were observed.
+
+Snapshot-specific data filenames remain in use to prevent mixing cached releases. Publication uses the validated snapshot through the GitHub Pages workflow; workflow success and public asset comparison are checked after pushing. Physical-device performance, screen-reader testing and independent alias review remain outstanding. The proposed design alternatives are not part of this release.
+
+---
+
 # First taxation batch — November 12, 2026
 
 This release adds the first Title X batch. The separate filtering-design prototypes are not included; the production interface retains its existing design.

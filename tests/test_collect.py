@@ -381,3 +381,12 @@ class TaxationCollectionTests(unittest.TestCase):
             for broken in [source.replace(marker, 'different source notice'), source.replace('There are multiple enactments of', 'Versions of')]:
                 with self.assertRaises(ValueError):
                     collect.parse_section(broken, entry, '2026-11-12T23:00:00+00:00')
+
+class RemainingTaxationCollectionTests(unittest.TestCase):
+    def test_empty_private_car_chapter_keeps_cross_references_out_of_section_index(self):
+        source = Path('tests/fixtures/chapter-152-empty.html').read_text()
+        self.assertIn('137.022', source)
+        self.assertEqual(collect.parse_index(source, '152'), [])
+        for bad in [source.replace('Cross References', 'Missing body'), source.replace('chapter=152&amp;idx=v', 'chapter=999&amp;idx=v')]:
+            with self.assertRaisesRegex(ValueError, 'Unverified empty'):
+                collect.parse_index(bad, '152')

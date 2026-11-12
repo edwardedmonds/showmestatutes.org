@@ -586,6 +586,91 @@
       "minimumVersions": 104
     },
     {
+      "chapter": "142",
+      "title": "Motor Fuel Tax",
+      "category": "government",
+      "minimumVersions": 67
+    },
+    {
+      "chapter": "143",
+      "title": "Income Tax",
+      "category": "government",
+      "minimumVersions": 168
+    },
+    {
+      "chapter": "144",
+      "title": "Sales and Use Tax",
+      "category": "government",
+      "minimumVersions": 145
+    },
+    {
+      "chapter": "145",
+      "title": "Estate Tax",
+      "category": "government",
+      "minimumVersions": 23
+    },
+    {
+      "chapter": "146",
+      "title": "Intangible Personal Property Tax",
+      "category": "government",
+      "minimumVersions": 6
+    },
+    {
+      "chapter": "147",
+      "title": "Corporation Franchise Tax",
+      "category": "government",
+      "minimumVersions": 8
+    },
+    {
+      "chapter": "148",
+      "title": "Taxation of Financial Institutions",
+      "category": "government",
+      "minimumVersions": 70
+    },
+    {
+      "chapter": "149",
+      "title": "Cigarette Tax",
+      "category": "government",
+      "minimumVersions": 26
+    },
+    {
+      "chapter": "150",
+      "title": "Merchants', Manufacturers', Itinerant Vendors' and Peddlers' Licenses and Taxes",
+      "category": "government",
+      "minimumVersions": 53
+    },
+    {
+      "chapter": "151",
+      "title": "Taxation of Railroads and Street Railroads",
+      "category": "government",
+      "minimumVersions": 34
+    },
+    {
+      "chapter": "152",
+      "title": "Private Car Tax",
+      "category": "government",
+      "minimumVersions": 0,
+      "emptyIndexReviewedAt": "2026-11-12"
+    },
+    {
+      "chapter": "153",
+      "title": "Taxation of Bridge, Express and Public Utility Companies",
+      "category": "government",
+      "minimumVersions": 9
+    },
+    {
+      "chapter": "154",
+      "title": "Taxation of Boats and Vessels",
+      "category": "government",
+      "minimumVersions": 4
+    },
+    {
+      "chapter": "155",
+      "title": "Taxation of Aircraft",
+      "category": "government",
+      "minimumVersions": 9
+    },
+    {
       "chapter": "300",
       "title": "Model Traffic Ordinance",
       "category": "transportation",
@@ -894,7 +979,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–IX, XIX, XXXVII and XXXVIII, plus Title X Chapters 135–141, at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–X, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",

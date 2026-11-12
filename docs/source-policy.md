@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–IX, XIX, XXXVII and XXXVIII, plus Title X Chapters 135–141. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–X, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -81,3 +81,7 @@ The interface explains that the paired versions concern a referendum, rather tha
 ## First taxation batch
 
 Title X Chapters 135–141 add one reviewed reprinted pair: **140.170**, versions `51501` (August 28, 2022) and `6932` (August 28, 2015). The later page has an explicit Byrd, et al. v. State of Missouri, et al. Revisor note; the earlier page has the section 3.066 reprint notice. Both have the multiple-enactments label and blank end dates. The existing policy requires the exact identities, dates and notices, preserves both source links, and keeps the warned version outside ordinary current and upcoming groups. No parser or ranking change was needed. The combined snapshot has 41 warned versions and 16 reviewed reprinted pairs; the 14 contingent versions and 32 scheduled future versions are unchanged.
+
+## Completing Title X
+
+Chapters 142–155 add 622 indexed versions. Chapter 152 is explicitly reviewed as empty: the source has the correct chapter identity, whole-chapter navigation and Cross References block, but no section rows. The cross references to Chapter 137 remain navigation/context rather than imported Chapter 152 records. A source fixture verifies that the empty-index parser requires the reviewed structure. Earlier source timestamps and hashes are preserved when their cache entries are reused.
