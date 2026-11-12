@@ -20,7 +20,7 @@ Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no
 
 **Statewide heading coverage is the goal. It isn't finished.**
 
-The November 12, 2026 collection contains **9,851 distinct sections and 9,901 source versions** across **158 chapter indexes**. One hundred fifty-five have headings; Chapters 152, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **310** outside this collection at this check.
+The November 12, 2026 collection contains **10,383 distinct sections and 10,433 source versions** across **165 chapter indexes**. One hundred sixty-two have headings; Chapters 152, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **303** outside this collection at this check.
 
 | Area | Imported scope |
 | --- | --- |
@@ -30,11 +30,12 @@ The November 12, 2026 collection contains **9,851 distinct sections and 9,901 so
 | Public officers, employee benefits, bonds and records | Title VIII: Chapters 103–110 |
 | Suffrage and elections | Title IX: Chapters 115, 116, 122, 127, 128 and 130 |
 | Taxation and revenue | Title X: Chapters 135–155 |
+| School provisions, education administration, districts, aid and financing | Title XI, first batch: Chapters 160–166 |
 | Motor vehicles, watercraft and aviation | Title XIX: Chapters 300–307 |
 | Criminal procedure | Title XXXVII: Chapters 540–552 |
 | Crimes, punishment, peace officers and public defenders | Title XXXVIII: Chapters 556–579, 589, 590, 595 and 600 |
 
-The latest batch adds **622 sections**, completing the listed chapter indexes in Title X. It covers motor fuel, income, sales and use, estate, business and other tax headings. Chapter 152 lists no sections and points to private-car-tax provisions in Chapter 137; those cross references are not imported as new sections. Title XI, education and libraries, is next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
+The latest batch adds **532 sections** from Chapters 160–166: school provisions, education administration, school districts, state aid, tax levies, budgets and education funds. Title XI is partly covered. Its remaining listed chapters, from 167 through 186, are next; this batch does not establish full coverage of pupil, teacher, higher-education or library laws. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
 
 These are state statute headings. The collection doesn't include local ordinances, court rules, regulations, constitutional provisions, federal law, or a complete historical archive. Chapter 300 is the state's Model Traffic Ordinance; its presence doesn't establish what a particular city has adopted.
 
@@ -42,7 +43,7 @@ Each chapter and source version keeps its retrieval date and response hash. Addi
 
 ## What has been checked
 
-The completed Title X expansion passed **490 TypeScript tests and 34 Python tests**, TypeScript checks, and the production build. All 14 new chapter indexes matched a second retrieval. Browser checks covered new tax searches, chapter boundaries and the reviewed empty chapter. Deployment is gated by the main-branch workflow.
+The first education expansion passed **524 TypeScript tests and 34 Python tests**, TypeScript checks, and the production build. All seven new chapter indexes matched a second retrieval. A duplicated Chapter 160 response was rejected before collection; the replacement restored missing versions. Browser checks covered education searches, chapter boundaries, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
 
 The collection process checks every listed version against its official page, then retrieves the new chapter indexes again to check for changes. Tests cover search relevance, exact citations, chapter boundaries, source identities, and version handling. A failed validation blocks publication.
 

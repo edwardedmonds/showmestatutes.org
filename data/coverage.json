@@ -10,6 +10,7 @@
     "VIII",
     "IX",
     "X",
+    "XI",
     "XIX",
     "XXXVII",
     "XXXVIII"
@@ -671,6 +672,48 @@
       "minimumVersions": 9
     },
     {
+      "chapter": "160",
+      "title": "Schools — General Provisions",
+      "category": "government",
+      "minimumVersions": 101
+    },
+    {
+      "chapter": "161",
+      "title": "Department of Elementary and Secondary Education",
+      "category": "government",
+      "minimumVersions": 104
+    },
+    {
+      "chapter": "162",
+      "title": "School Districts",
+      "category": "government",
+      "minimumVersions": 185
+    },
+    {
+      "chapter": "163",
+      "title": "State Aid",
+      "category": "government",
+      "minimumVersions": 35
+    },
+    {
+      "chapter": "164",
+      "title": "Tax Levies and Bonded Indebtedness",
+      "category": "government",
+      "minimumVersions": 30
+    },
+    {
+      "chapter": "165",
+      "title": "Budget and Current Financing",
+      "category": "government",
+      "minimumVersions": 29
+    },
+    {
+      "chapter": "166",
+      "title": "Permanent Funds and Trusts",
+      "category": "government",
+      "minimumVersions": 48
+    },
+    {
       "chapter": "300",
       "title": "Model Traffic Ordinance",
       "category": "transportation",
@@ -979,7 +1022,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–X, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–X, XIX, XXXVII and XXXVIII, plus Title XI Chapters 160–166, at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",

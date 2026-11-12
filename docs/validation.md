@@ -1,3 +1,27 @@
+# First education expansion — November 12, 2026
+
+## Scope and source checks
+
+Title XI Chapters 160–166 add **532 distinct sections and 532 source versions**, covering school provisions, education administration, school districts, state aid, tax levies and bonds, budgets, and permanent funds and trusts. The combined snapshot contains **10,383 sections and 10,433 versions** across **165 chapter indexes**: 162 with headings and three reviewed empty indexes. The fresh catalog contains 468 chapter links, leaving **303** outside this collection. Title XI remains partial; its remaining listed chapters from 167 through 186 are next.
+
+The first Chapter 160 index response contained 100 rows representing only 85 unique versions. The collector rejected duplicate rows rather than deduplicating them. A fresh retrieval contained 101 unique versions, restoring 16 absent from the rejected response. Both responses remain in the local cache. All seven accepted chapter indexes matched independent second retrievals of identities, effective dates and source URLs after page collection, including the same 101 Chapter 160 versions.
+
+All 532 new version pages were collected sequentially at no more than one request per second, with no unresolved source-page exceptions. The normal strict collector rebuilt and validated the combined candidate from cached responses. All 9,901 earlier records and all 158 earlier chapter-manifest objects are unchanged, including dates and hashes. The change report contains 532 additions, zero removals and zero changes. No new constitutional warnings, contingent versions or scheduled future versions were added; totals remain 41 warned versions, 16 reviewed reprinted pairs, 14 contingent versions and 32 scheduled future versions.
+
+## Tests and performance
+
+All **524 TypeScript tests and 34 Python tests** passed, along with TypeScript checks and the production build. Thirty-three new query cases were defined from official chapter indexes before ranking evaluation, including unscoped searches and chapter exclusions. An additional regression checks neighboring chapter numbers and four-digit citations. Existing duplicate-index regressions cover the rejection encountered during discovery. No parser, ranking or alias changes were needed. These are development tests, not an independent assessment of legal-search accuracy.
+
+The serialized MiniSearch index grew from 1,153,652 to 1,225,442 bytes. On local Linux with Node 22.22.2, index construction for the expanded collection took about 161 ms and loading plus search setup about 117 ms. Across 16 queries with three warm-up passes and 25 measured runs each, p95 search times ranged from 0.003 to 21.95 ms, compared with 0.008 to 21.32 ms for the previous snapshot in the same run. These timings exclude download, JSON parsing, validation and rendering, and are not physical mobile measurements.
+
+## Browser checks and publication
+
+The built site reports 10,383 section headings. Unscoped safety-camera search finds §160.3300. A Chapter 162 search for gifted-children programs finds §162.720; switching to Chapter 163 excludes that result. A scoped minimum-teacher-salary search finds §163.172. Each retains its exact official version URL. First-degree murder still leads to §565.020, and ArrowDown focuses its source-heading link. No horizontal overflow was observed at 320×740 or 390×740, including the longer education heading and updated scope label. No browser warnings or errors were observed.
+
+The scope label and description now mention education; the existing search layout and filters are unchanged. Snapshot-specific data filenames remain in use. Publication uses the validated snapshot through GitHub Pages; workflow success and public asset comparisons are checked after pushing. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Completion of taxation coverage — November 12, 2026
 
 ## Scope and source checks

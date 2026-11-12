@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–X, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–X, XIX, XXXVII and XXXVIII, plus Title XI Chapters 160–166. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -85,3 +85,7 @@ Title X Chapters 135–141 add one reviewed reprinted pair: **140.170**, version
 ## Completing Title X
 
 Chapters 142–155 add 622 indexed versions. Chapter 152 is explicitly reviewed as empty: the source has the correct chapter identity, whole-chapter navigation and Cross References block, but no section rows. The cross references to Chapter 137 remain navigation/context rather than imported Chapter 152 records. A source fixture verifies that the empty-index parser requires the reviewed structure. Earlier source timestamps and hashes are preserved when their cache entries are reused.
+
+## First education batch
+
+Chapters 160–166 were collected from explicit title and chapter indexes. The first Chapter 160 response contained 100 rows representing only 85 unique versions. The fresh replacement contained 101 unique versions, including 16 absent from the rejected response. The existing duplicate-row rejection prevented silent deduplication from hiding missing coverage. The rejected response and its retrieval time are preserved; the accepted response, not the rejected one, supplies index provenance. All seven accepted indexes were retrieved again after collection and compared by identity, date and URL. Earlier source checks retain their original timestamps and hashes.
