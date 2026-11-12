@@ -12,7 +12,7 @@ describe('Government heading benchmark defined from official indexes before rank
   for (const q of queries) it(`${q.query} (${q.chapter ?? 'all'})`, () => {
     const result = search(q.query, asOf, false, q.chapter ?? '');
     if (q.first) expect(result.best[0]?.record.section).toBe(q.first);
-    if (q.empty) expect([...result.best, ...result.related, ...result.contingent]).toHaveLength(0);
+    if (q.empty) expect([...result.best, ...result.related, ...result.contingent, ...result.constitutional]).toHaveLength(0);
   });
 });
 
@@ -34,7 +34,7 @@ it('keeps same-suffix citations in different chapters separate', () => {
   for (const section of ['1.010', '10.010']) {
     const result = search(section, asOf, true);
     expect(result.best.length).toBeGreaterThan(0);
-    expect([...result.best, ...result.related, ...result.upcoming, ...result.contingent].every(m => m.record.section === section)).toBe(true);
+    expect([...result.best, ...result.related, ...result.upcoming, ...result.contingent, ...result.constitutional].every(m => m.record.section === section)).toBe(true);
   }
 });
 

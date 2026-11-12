@@ -1,5 +1,5 @@
 import './style.css';
-import { assertDataset, enactmentNotice, todayInMissouri, type Dataset } from './data';
+import { assertDataset, constitutionalNotice, enactmentNotice, todayInMissouri, type Dataset } from './data';
 import { createSearch, loadIndex, type Match } from './search';
 
 const form = document.querySelector<HTMLFormElement>('#search-form')!;
@@ -29,13 +29,17 @@ function card(match: Match, future: boolean) {
   const link = element('a', r.title);
   link.href = r.sourceUrl;
   title.append(link);
-  const dateLabel = r.effectiveDateIsPlaceholder
+  const dateLabel = r.hasConstitutionalWarning
+    ? `Source effective date ${formatDate(r.effectiveFrom)} · The Revisor flags all or part as unconstitutional. Read the official notes before relying on this version.`
+    : r.effectiveDateIsPlaceholder
     ? 'Contingent effective date · the source date is a placeholder, not a scheduled start. Read the official conditions.'
     : `${future ? 'Upcoming · effective' : 'Effective'} ${formatDate(r.effectiveFrom)}${r.effectiveTo ? ` · ends ${formatDate(r.effectiveTo)}` : ''}`;
-  const dates = element('p', dateLabel, future || r.effectiveDateIsPlaceholder ? 'version future' : 'version');
+  const dates = element('p', dateLabel, future || r.effectiveDateIsPlaceholder || r.hasConstitutionalWarning ? 'version future' : 'version');
   const bottom = element('div', undefined, 'card-bottom');
   bottom.append(element('span', match.reason, 'match-reason'), element('small', `Source checked ${formatDate(r.sourceCheckedAt)}`));
   item.append(meta, title, dates, bottom);
+  const sourceNotice = constitutionalNotice(r);
+  if (sourceNotice) item.append(element('p', sourceNotice, 'version'));
   if (r.multipleEnactments) item.append(element('p', `Multiple enactments · source version ${r.versionId}. ${enactmentNotice(r)}`, 'version'));
   if (r.headingMarker) item.append(element('p', 'The official source marks this section with a footnote. Read the source notes.', 'version'));
   const official = element('a', 'Read this version at the Revisor ↗', 'official-link');
@@ -82,11 +86,12 @@ function runSearch() {
   }
   const found = search(query, asOf, upcoming.checked, chapter.value);
   const scope = chapter.value ? `Chapter ${chapter.value}` : 'the indexed chapters';
-  const count = found.best.length + found.related.length + found.upcoming.length + found.contingent.length;
+  const count = found.best.length + found.related.length + found.upcoming.length + found.contingent.length + found.constitutional.length;
   status.textContent = count ? `${count} matching version${count === 1 ? '' : 's'} within ${scope}.${found.correction ? ` Spelling suggestion: ${found.correction}.` : ''}` : `No close heading found within ${scope}.`;
   group('Best heading matches', found.best);
   group('Related sections', found.related);
   group('Upcoming versions', found.upcoming, true);
+  group('Versions with constitutional warnings', found.constitutional);
   group('Contingent versions — check the source conditions', found.contingent);
   if (!count) {
     const empty = element('section', undefined, 'empty-state');

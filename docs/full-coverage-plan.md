@@ -1,10 +1,10 @@
 # Statewide heading coverage plan
 
-Statewide heading coverage was authorized on November 12, 2026. Completed batches extend the original criminal-law and procedure collection with **Title XIX, Chapters 300–307**, followed by **Titles I–V**, covering the 29 listed chapters from 1 through 44. The live site must state its actual imported coverage until all remaining chapters have been collected and validated.
+Statewide heading coverage was authorized on November 12, 2026. Completed batches extend the original criminal-law and procedure collection with **Title XIX, Chapters 300–307**, followed by **Titles I–V**, covering the 29 listed chapters from 1 through 44, and **Title VI**, covering its 22 listed chapters from 46 through 70. The live site must state its actual imported coverage until all remaining chapters have been collected and validated.
 
 ## Remaining work
 
-The [official Revisor chapter catalog](https://revisor.mo.gov/) listed **468 distinct chapter links** at the planning check. This is a catalog count, not a count of chapters with active provisions; transferred or empty chapters require explicit review. The transportation and government batches bring the configured scope to **78 chapter indexes**: 76 with headings and two reviewed empty indexes. **390 catalog chapters remain** at this check. Next is **Title VI — County, Township and Political Subdivision Government**, beginning with Chapter 46. The remaining titles will proceed in catalog order, split into manageable batches when necessary. Counts can change when the source catalog changes.
+The [official Revisor chapter catalog](https://revisor.mo.gov/) listed **468 distinct chapter links** at the planning check. This is a catalog count, not a count of chapters with active provisions; transferred or empty chapters require explicit review. The transportation, state-government and county-government batches bring the configured scope to **100 chapter indexes**: 98 with headings and two reviewed empty indexes. **368 catalog chapters remain** at this check. Next is **Title VII — Cities, Towns and Villages**, beginning with Chapter 71. The remaining titles will proceed in catalog order, split into manageable batches when necessary. Counts can change when the source catalog changes.
 
 For each batch:
 

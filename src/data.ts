@@ -1,4 +1,5 @@
 import coverage from '../data/coverage.json';
+const reviewedOverlaps = [...coverage.delayedEnactments, ...coverage.reprintedEnactments];
 export const chapterPolicy = coverage.chapters;
 export interface ChapterSummary {
   chapter: string; title: string; sourceIndex: string; indexCheckedAt: string;
@@ -19,6 +20,7 @@ export interface Statute {
   headingMarker?: string;
   multipleEnactments?: true;
   effectiveDateIsPlaceholder?: true;
+  hasConstitutionalWarning?: true;
 }
 export interface Dataset {
   manifest: {
@@ -48,8 +50,9 @@ export function assertDataset(value: unknown): asserts value is Dataset {
   const ids = new Set<string>();
   const sections = new Map<string, Statute[]>();
   for (const r of d.records) {
+    const warning = coverage.constitutionalWarnings.find(p => p.id === r?.id);
     const contingentPolicy = coverage.contingentEnactments.find(c => c.section === r?.section);
-    const delayed = coverage.delayedEnactments.find(c => c.section === r?.section)?.versions.find(v => v.versionId === r?.versionId);
+    const delayed = reviewedOverlaps.find(c => c.section === r?.section)?.versions.find(v => v.versionId === r?.versionId);
     const contingent = contingentPolicy?.versions.find(v => v.versionId === r?.versionId);
     if (!r || !/^[1-9]\d{0,2}\.\d{3,4}$/.test(r.section) || !/^\d+$/.test(r.versionId)
       || r.id !== `${r.section}:${r.versionId}` || ids.has(r.id)
@@ -59,6 +62,9 @@ export function assertDataset(value: unknown): asserts value is Dataset {
       || Boolean(r.multipleEnactments) !== (Boolean(delayed) || Boolean(contingent && contingentPolicy?.multipleEnactments) || coverage.concurrentEnactments.some(c => c.section === r.section && c.versionIds.includes(r.versionId)))
       || (r.effectiveDateIsPlaceholder !== undefined && r.effectiveDateIsPlaceholder !== true)
       || Boolean(r.effectiveDateIsPlaceholder) !== Boolean(contingent?.dateIsPlaceholder)
+      || (r.hasConstitutionalWarning !== undefined && r.hasConstitutionalWarning !== true)
+      || Boolean(r.hasConstitutionalWarning) !== Boolean(warning)
+      || (warning && r.effectiveFrom !== warning.effectiveFrom)
       || !validDate(r.effectiveFrom) || (r.effectiveTo !== null && (!validDate(r.effectiveTo) || r.effectiveTo <= r.effectiveFrom))
       || !Number.isFinite(Date.parse(r.sourceCheckedAt)) || !/^[a-f0-9]{64}$/.test(r.sourceSha256)
       || r.sourceUrl !== `https://revisor.mo.gov/main/OneSection.aspx?section=${r.section}&bid=${r.versionId}`) {
@@ -67,6 +73,7 @@ export function assertDataset(value: unknown): asserts value is Dataset {
     ids.add(r.id);
     sections.set(r.section, [...(sections.get(r.section) ?? []), r]);
   }
+  if (coverage.constitutionalWarnings.some(p => !ids.has(p.id))) throw new Error('Missing reviewed constitutional warning');
   if (!Array.isArray(d.manifest.chapters) || d.manifest.chapters.map(c => c.chapter).join() !== d.manifest.coverage.join()) throw new Error('Missing chapter provenance');
   for (const c of d.manifest.chapters) {
     const policy = chapterPolicy.find(p => p.chapter === c.chapter)!;
@@ -91,13 +98,13 @@ export function assertDataset(value: unknown): asserts value is Dataset {
         })) throw new Error('Unresolved contingent enactments');
       continue;
     }
-    const delayed = coverage.delayedEnactments.find(c => c.section === versions[0].section);
+    const delayed = reviewedOverlaps.find(c => c.section === versions[0].section);
     if (delayed) {
       if (versions.map(r => r.versionId).sort().join() !== delayed.versions.map(v => v.versionId).sort().join()
         || versions.some(r => {
           const expected = delayed.versions.find(v => v.versionId === r.versionId);
           return !expected || !r.multipleEnactments || r.effectiveFrom !== expected.effectiveFrom || r.effectiveTo !== null;
-        })) throw new Error('Unresolved delayed enactments');
+        })) throw new Error('Unresolved delayed/reprinted enactments');
       continue;
     }
     const concurrent = coverage.concurrentEnactments.find(c => c.section === versions[0].section);
@@ -113,10 +120,10 @@ export function assertDataset(value: unknown): asserts value is Dataset {
   }
 }
 export function isEffective(record: Statute, asOf: string): boolean {
-  return !record.effectiveDateIsPlaceholder && record.effectiveFrom <= asOf && (!record.effectiveTo || asOf < record.effectiveTo);
+  return !record.hasConstitutionalWarning && !record.effectiveDateIsPlaceholder && record.effectiveFrom <= asOf && (!record.effectiveTo || asOf < record.effectiveTo);
 }
 export function isUpcoming(record: Statute, asOf: string): boolean {
-  return !record.effectiveDateIsPlaceholder && record.effectiveFrom > asOf;
+  return !record.hasConstitutionalWarning && !record.effectiveDateIsPlaceholder && record.effectiveFrom > asOf;
 }
 export function todayInMissouri(): string {
   const parts = new Intl.DateTimeFormat('en-US', { timeZone: 'America/Chicago', year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(new Date());
@@ -125,6 +132,10 @@ export function todayInMissouri(): string {
 
 export function enactmentNotice(record: Statute): string | undefined {
   if (!record.multipleEnactments) return undefined;
-  return coverage.delayedEnactments.find(p => p.section === record.section)?.displayNotice
+  return reviewedOverlaps.find(p => p.section === record.section)?.displayNotice
     ?? 'The Revisor prints both versions due to possible conflict. Read both official source pages.';
+}
+
+export function constitutionalNotice(record: Statute): string | undefined {
+  return coverage.constitutionalWarnings.find(p => p.id === record.id)?.displayNotice;
 }

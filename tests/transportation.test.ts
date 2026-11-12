@@ -23,7 +23,7 @@ describe('Transportation heading benchmark defined from source indexes before ra
       expect(result.best).toHaveLength(0);
       expect(result.related.map(m => m.record.section)).toEqual(q.related);
     }
-    if (q.empty) expect([...result.best, ...result.related, ...result.contingent]).toHaveLength(0);
+    if (q.empty) expect([...result.best, ...result.related, ...result.contingent, ...result.constitutional]).toHaveLength(0);
   });
 });
 
@@ -33,7 +33,7 @@ it('keeps Model Traffic Ordinance results identifiable and separate from other c
   expect(model.best.every(m => m.record.chapter === '300' && m.record.chapterTitle === 'Model Traffic Ordinance')).toBe(true);
   const statewide = search('right of way', asOf, true, '304');
   expect(statewide.best.length).toBeGreaterThan(0);
-  expect([...statewide.best, ...statewide.related, ...statewide.upcoming, ...statewide.contingent].every(m => m.record.chapter === '304')).toBe(true);
+  expect([...statewide.best, ...statewide.related, ...statewide.upcoming, ...statewide.contingent, ...statewide.constitutional].every(m => m.record.chapter === '304')).toBe(true);
 });
 
 it('keeps source placeholder dates out of both current and scheduled future results', () => {

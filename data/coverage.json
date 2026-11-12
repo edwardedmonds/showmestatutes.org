@@ -5,6 +5,7 @@
     "III",
     "IV",
     "V",
+    "VI",
     "XIX",
     "XXXVII",
     "XXXVIII"
@@ -185,6 +186,138 @@
       "minimumVersions": 34
     },
     {
+      "chapter": "46",
+      "title": "Establishment and Boundaries of Counties",
+      "category": "government",
+      "minimumVersions": 120
+    },
+    {
+      "chapter": "47",
+      "title": "Townships, Removal of County Seats and Division of Counties",
+      "category": "government",
+      "minimumVersions": 35
+    },
+    {
+      "chapter": "48",
+      "title": "County Classification",
+      "category": "government",
+      "minimumVersions": 7
+    },
+    {
+      "chapter": "49",
+      "title": "County Commissions and County Buildings",
+      "category": "government",
+      "minimumVersions": 75
+    },
+    {
+      "chapter": "50",
+      "title": "County Finances, Budget and Retirement Systems",
+      "category": "government",
+      "minimumVersions": 120
+    },
+    {
+      "chapter": "51",
+      "title": "County Clerks",
+      "category": "government",
+      "minimumVersions": 30
+    },
+    {
+      "chapter": "52",
+      "title": "County Collectors",
+      "category": "government",
+      "minimumVersions": 52
+    },
+    {
+      "chapter": "53",
+      "title": "County Assessors",
+      "category": "government",
+      "minimumVersions": 21
+    },
+    {
+      "chapter": "54",
+      "title": "County Treasurers",
+      "category": "government",
+      "minimumVersions": 34
+    },
+    {
+      "chapter": "55",
+      "title": "County Auditors",
+      "category": "government",
+      "minimumVersions": 32
+    },
+    {
+      "chapter": "56",
+      "title": "Circuit and Prosecuting Attorneys and County Counselors",
+      "category": "government",
+      "minimumVersions": 83
+    },
+    {
+      "chapter": "57",
+      "title": "Sheriffs",
+      "category": "government",
+      "minimumVersions": 93
+    },
+    {
+      "chapter": "58",
+      "title": "Coroners and Inquests",
+      "category": "government",
+      "minimumVersions": 79
+    },
+    {
+      "chapter": "59",
+      "title": "County Recorders of Deeds",
+      "category": "government",
+      "minimumVersions": 83
+    },
+    {
+      "chapter": "60",
+      "title": "County Surveyors and Land Surveys",
+      "category": "government",
+      "minimumVersions": 55
+    },
+    {
+      "chapter": "61",
+      "title": "County Highway Engineers",
+      "category": "government",
+      "minimumVersions": 30
+    },
+    {
+      "chapter": "64",
+      "title": "County Planning \u2014 Zoning \u2014 Recreation \u2014 Natural Streams and Waterways",
+      "category": "government",
+      "minimumVersions": 130
+    },
+    {
+      "chapter": "65",
+      "title": "Township Organization Counties",
+      "category": "government",
+      "minimumVersions": 78
+    },
+    {
+      "chapter": "66",
+      "title": "Constitutional Charter Counties, Miscellaneous Provisions",
+      "category": "government",
+      "minimumVersions": 56
+    },
+    {
+      "chapter": "67",
+      "title": "Political Subdivisions, Miscellaneous Powers",
+      "category": "government",
+      "minimumVersions": 565
+    },
+    {
+      "chapter": "68",
+      "title": "Port Authorities",
+      "category": "government",
+      "minimumVersions": 35
+    },
+    {
+      "chapter": "70",
+      "title": "Powers of Political Subdivisions to Cooperate or Contract with Governmental Units",
+      "category": "government",
+      "minimumVersions": 136
+    },
+    {
       "chapter": "300",
       "title": "Model Traffic Ordinance",
       "category": "transportation",
@@ -222,7 +355,7 @@
     },
     {
       "chapter": "306",
-      "title": "Watercraft Regulation and Licensing — Water Patrol Division",
+      "title": "Watercraft Regulation and Licensing \u2014 Water Patrol Division",
       "category": "transportation",
       "minimumVersions": 81
     },
@@ -246,7 +379,7 @@
     },
     {
       "chapter": "542",
-      "title": "Proceedings to Preserve the Peace — Searches and Seizures",
+      "title": "Proceedings to Preserve the Peace \u2014 Searches and Seizures",
       "category": "procedure",
       "minimumVersions": 40
     },
@@ -493,7 +626,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–V, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I\u2013VI, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -541,12 +674,158 @@
         {
           "versionId": "60727",
           "effectiveFrom": "2027-07-01",
-          "sourceNotice": "Effective 7-01-27, see § 565.019"
+          "sourceNotice": "Effective 7-01-27, see \u00a7 565.019"
         }
       ],
       "reviewedAt": "2026-11-12",
       "displayNotice": "The Revisor prints both versions because of a delayed effective date and supplies no end date for the earlier version. Read both official source pages to determine applicability.",
       "basis": "Both listed source versions have blank end dates. Preserve the source intervals and display the delayed-version notice without inferring an end date or resolving applicability."
+    }
+  ],
+  "reprintedEnactments": [
+    {
+      "section": "56.067",
+      "versions": [
+        {
+          "versionId": "2011",
+          "effectiveFrom": "2014-08-28",
+          "sourceNotice": "all or part is unconstitutional"
+        },
+        {
+          "versionId": "36193",
+          "effectiveFrom": "1999-05-06",
+          "sourceNotice": "This section is reprinted in accordance with section 3.066"
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "56.816",
+      "versions": [
+        {
+          "versionId": "2078",
+          "effectiveFrom": "2014-08-28",
+          "sourceNotice": "all or part is unconstitutional"
+        },
+        {
+          "versionId": "36195",
+          "effectiveFrom": "2001-08-28",
+          "sourceNotice": "This section is reprinted in accordance with section 3.066"
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "67.457",
+      "versions": [
+        {
+          "versionId": "51491",
+          "effectiveFrom": "2022-08-28",
+          "sourceNotice": "all or part is unconstitutional"
+        },
+        {
+          "versionId": "2780",
+          "effectiveFrom": "2013-08-28",
+          "sourceNotice": "This section is reprinted in accordance with section 3.066"
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "67.461",
+      "versions": [
+        {
+          "versionId": "51492",
+          "effectiveFrom": "2022-08-28",
+          "sourceNotice": "all or part is unconstitutional"
+        },
+        {
+          "versionId": "2783",
+          "effectiveFrom": "1995-08-28",
+          "sourceNotice": "This section is reprinted in accordance with section 3.066"
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "67.1431",
+      "versions": [
+        {
+          "versionId": "51494",
+          "effectiveFrom": "2022-08-28",
+          "sourceNotice": "This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al."
+        },
+        {
+          "versionId": "3023",
+          "effectiveFrom": "1998-08-28",
+          "sourceNotice": "This section is reprinted in accordance with section 3.066"
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "67.1471",
+      "versions": [
+        {
+          "versionId": "51495",
+          "effectiveFrom": "2022-08-28",
+          "sourceNotice": "This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al."
+        },
+        {
+          "versionId": "49957",
+          "effectiveFrom": "2021-08-28",
+          "sourceNotice": "This section is reprinted in accordance with section 3.066"
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    }
+  ],
+  "constitutionalWarnings": [
+    {
+      "id": "1.410:49534",
+      "effectiveFrom": "2021-06-12",
+      "sourceNotice": "The Second Amendment Preservation Act is unconstitutional in its entirety as a violation of the Supremacy Clause"
+    },
+    {
+      "id": "56.067:2011",
+      "effectiveFrom": "2014-08-28",
+      "sourceNotice": "This section was declared unconstitutional in Calzone v. Koster, et al."
+    },
+    {
+      "id": "56.816:2078",
+      "effectiveFrom": "2014-08-28",
+      "sourceNotice": "This section was declared unconstitutional in Calzone v. Koster, et al."
+    },
+    {
+      "id": "67.457:51491",
+      "effectiveFrom": "2022-08-28",
+      "sourceNotice": "This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al."
+    },
+    {
+      "id": "67.461:51492",
+      "effectiveFrom": "2022-08-28",
+      "sourceNotice": "This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al."
+    },
+    {
+      "id": "67.1431:51494",
+      "effectiveFrom": "2022-08-28",
+      "sourceNotice": "This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al."
+    },
+    {
+      "id": "67.1471:51495",
+      "effectiveFrom": "2022-08-28",
+      "sourceNotice": "This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al."
+    },
+    {
+      "id": "67.2300:51496",
+      "effectiveFrom": "2023-01-01",
+      "sourceNotice": "This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al."
+    },
+    {
+      "id": "67.320:2753",
+      "effectiveFrom": "2014-08-28",
+      "sourceNotice": "S.B. 621 was not addressed in that case; therefore, this version of this section (the 2014 language from S.B. 621, effective 8/28/2014), is the current version.",
+      "displayNotice": "The Revisor says the 2014 language from S.B. 621 is the current version because that bill was not addressed in the cited case. Read the official note for this distinction."
     }
   ]
 }

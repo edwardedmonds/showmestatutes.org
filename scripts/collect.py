@@ -21,10 +21,11 @@ from bs4 import BeautifulSoup
 BASE = 'https://revisor.mo.gov'
 POLICY = json.loads((Path(__file__).resolve().parent.parent / 'data/coverage.json').read_text())
 CHAPTERS = {c['chapter']: c for c in POLICY['chapters']}
+REVIEWED_OVERLAPS = POLICY.get('delayedEnactments', []) + POLICY.get('reprintedEnactments', [])
 
 def index_url(chapter):
     return BASE + '/main/OneChapter.aspx?chapter=' + chapter
-AGENT = 'ShowMeStatutes/0.1 (+https://github.com/deths74r/show-me-statutes)'
+AGENT = 'ShowMeStatutes/0.1 (+https://github.com/edwardedmonds/show-me-statutes)'
 
 
 def clean(text):
@@ -132,16 +133,25 @@ def parse_section(html, entry, checked_at):
             or (contingent['multipleEnactments'] != (f'There are multiple enactments of {entry["section"]}' in clean(soup.get_text(' '))))
             or contingent['sourceNotice'] not in clean(soup.get_text(' '))):
         raise ValueError('Unverified contingent enactment: ' + entry['id'])
-    delayed = next((p for p in POLICY.get('delayedEnactments', []) if p['section'] == entry['section']), None)
+    delayed = next((p for p in REVIEWED_OVERLAPS if p['section'] == entry['section']), None)
     delayed_version = next((v for v in delayed['versions'] if v['versionId'] == entry['versionId']), None) if delayed else None
     if delayed and (not delayed_version or entry['effectiveFrom'] != delayed_version['effectiveFrom'] or until is not None
             or f'There are multiple enactments of {entry["section"]}' not in clean(soup.get_text(' '))
             or delayed_version['sourceNotice'] not in clean(soup.get_text(' '))):
-        raise ValueError('Unverified delayed enactment: ' + entry['id'])
+        raise ValueError('Unverified delayed/reprinted enactment: ' + entry['id'])
+    warning = next((p for p in POLICY.get('constitutionalWarnings', []) if p['id'] == entry['id']), None)
+    source_warning = ('all or part is unconstitutional' in clean(effective.get_text(' ')).lower()
+                      or any(clean(p.get_text(' ')).startswith("*Revisor's Note:")
+                             and 'This section was declared unconstitutional' in clean(p.get_text(' '))
+                             for p in soup.select('p')))
+    if source_warning != bool(warning) or (warning and (entry['effectiveFrom'] != warning['effectiveFrom']
+            or warning['sourceNotice'] not in clean(soup.get_text(' ')))):
+        raise ValueError('Unverified constitutional warning: ' + entry['id'])
     chapter = entry['section'].split('.')[0]
     return {**entry, 'title': title, 'chapter': chapter, 'chapterTitle': CHAPTERS[chapter]['title'],
             'effectiveTo': until, **({'multipleEnactments': True} if concurrent or delayed or (contingent and contingent['multipleEnactments']) else {}),
-            **({'effectiveDateIsPlaceholder': True} if placeholder else {}), 'headingMarker': marker, 'sourceCheckedAt': checked_at,
+            **({'effectiveDateIsPlaceholder': True} if placeholder else {}),
+            **({'hasConstitutionalWarning': True} if source_warning else {}), 'headingMarker': marker, 'sourceCheckedAt': checked_at,
             'sourceSha256': hashlib.sha256(html.encode()).hexdigest()}
 
 
@@ -178,18 +188,25 @@ def validate(dataset, previous=None):
         concurrent = next((p for p in POLICY['concurrentEnactments'] if p['section'] == record['section'] and record['versionId'] in p['versionIds']), None)
         contingent = next((p for p in POLICY['contingentEnactments'] if p['section'] == record['section']), None)
         reviewed = next((v for v in contingent['versions'] if v['versionId'] == record['versionId']), None) if contingent else None
-        delayed = next((p for p in POLICY.get('delayedEnactments', []) if p['section'] == record['section']), None)
+        delayed = next((p for p in REVIEWED_OVERLAPS if p['section'] == record['section']), None)
         delayed_version = next((v for v in delayed['versions'] if v['versionId'] == record['versionId']), None) if delayed else None
         if ((record.get('multipleEnactments') is not None and record.get('multipleEnactments') is not True)
                 or bool(record.get('multipleEnactments')) != bool(concurrent or delayed_version or (reviewed and contingent['multipleEnactments']))):
             raise ValueError('Unverified concurrent enactment marker')
         if (record.get('effectiveDateIsPlaceholder') is not None and record.get('effectiveDateIsPlaceholder') is not True) or bool(record.get('effectiveDateIsPlaceholder')) != bool(reviewed and reviewed['dateIsPlaceholder']):
             raise ValueError('Unverified placeholder date marker')
+        warning = next((p for p in POLICY.get('constitutionalWarnings', []) if p['id'] == record['id']), None)
+        if ((record.get('hasConstitutionalWarning') is not None and record.get('hasConstitutionalWarning') is not True)
+                or bool(record.get('hasConstitutionalWarning')) != bool(warning)
+                or (warning and record['effectiveFrom'] != warning['effectiveFrom'])):
+            raise ValueError('Unverified constitutional warning marker')
         if record['effectiveTo']:
             datetime.strptime(record['effectiveTo'], '%Y-%m-%d')
             if record['effectiveTo'] <= record['effectiveFrom']:
                 raise ValueError('Invalid effective interval')
         grouped[record['section']].append(record)
+    if any(p['id'] not in ids for p in POLICY.get('constitutionalWarnings', [])):
+        raise ValueError('Missing reviewed constitutional warning')
     summaries = manifest.get('chapters', [])
     if [c['chapter'] for c in summaries] != list(CHAPTERS):
         raise ValueError('Missing chapter provenance')
@@ -221,13 +238,13 @@ def validate(dataset, previous=None):
                            or bool(r.get('effectiveDateIsPlaceholder')) != expected[r['versionId']]['dateIsPlaceholder'] for r in versions)):
                 raise ValueError('Unresolved contingent enactments')
             continue
-        delayed = next((p for p in POLICY.get('delayedEnactments', []) if p['section'] == versions[0]['section']), None)
+        delayed = next((p for p in REVIEWED_OVERLAPS if p['section'] == versions[0]['section']), None)
         if delayed:
             expected = {v['versionId']: v for v in delayed['versions']}
             if (set(r['versionId'] for r in versions) != set(expected)
                     or any(not r.get('multipleEnactments') or r['effectiveFrom'] != expected[r['versionId']]['effectiveFrom']
                            or r['effectiveTo'] is not None for r in versions)):
-                raise ValueError('Unresolved delayed enactments')
+                raise ValueError('Unresolved delayed/reprinted enactments')
             continue
         concurrent = next((p for p in POLICY['concurrentEnactments'] if p['section'] == versions[0]['section']), None)
         if concurrent:
@@ -243,8 +260,9 @@ def validate(dataset, previous=None):
         if lost:
             raise ValueError('Record loss requires explicit review: ' + ', '.join(sorted(lost)))
     return {'valid': True, 'records': len(records), 'sections': len(grouped), 'chapters': len(CHAPTERS),
-            'futureVersionsAtCheck': sum(not r.get('effectiveDateIsPlaceholder') and r['effectiveFrom'] > manifest['collectedAt'][:10] for r in records),
-            'contingentVersions': sum(bool(r.get('effectiveDateIsPlaceholder')) for r in records)}
+            'futureVersionsAtCheck': sum(not r.get('hasConstitutionalWarning') and not r.get('effectiveDateIsPlaceholder') and r['effectiveFrom'] > manifest['collectedAt'][:10] for r in records),
+            'contingentVersions': sum(bool(r.get('effectiveDateIsPlaceholder')) for r in records),
+            'constitutionalWarningVersions': sum(bool(r.get('hasConstitutionalWarning')) for r in records)}
 
 
 def parse_with_retry(entry, source, get, cache, offline):

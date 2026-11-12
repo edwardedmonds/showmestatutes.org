@@ -41,14 +41,14 @@ function oneEdit(a: string, b: string): boolean {
   return short.slice(i) === long.slice(i + 1);
 }
 export interface Match { record: Statute; reason: string; score: number; }
-export interface SearchResults { best: Match[]; related: Match[]; upcoming: Match[]; contingent: Match[]; correction: string | null; exact: boolean; }
+export interface SearchResults { best: Match[]; related: Match[]; upcoming: Match[]; contingent: Match[]; constitutional: Match[]; correction: string | null; exact: boolean; }
 
 export function createSearch(records: Statute[], index = buildIndex(records)) {
   const byId = new Map(records.map(r => [r.id, r]));
   const vocabulary = [...new Set([...records.flatMap(r => [...terms(r.title), ...(aliases[r.section] ?? []).flatMap(terms)]), ...Object.keys(topics).flatMap(terms)])];
   return (query: string, asOf: string, includeUpcoming = false, chapter = ''): SearchResults => {
     if (!validDate(asOf)) throw new Error('Invalid search date');
-    const empty: SearchResults = { best: [], related: [], upcoming: [], contingent: [], correction: null, exact: false };
+    const empty: SearchResults = { best: [], related: [], upcoming: [], contingent: [], constitutional: [], correction: null, exact: false };
     const inScope = (r: Statute) => !chapter || r.chapter === chapter;
     const trimmed = query.trim();
     if (!trimmed || trimmed.length > 200) return empty;
@@ -59,6 +59,7 @@ export function createSearch(records: Statute[], index = buildIndex(records)) {
       return { ...empty, exact: true,
         best: matches.filter(r => isEffective(r, asOf)).map(record => ({ record, reason: 'Exact section number', score: 1000 })),
         upcoming: includeUpcoming ? matches.filter(r => isUpcoming(r, asOf)).map(record => ({ record, reason: 'Exact section number', score: 1000 })) : [],
+        constitutional: matches.filter(r => r.hasConstitutionalWarning).map(record => ({ record, reason: 'Exact section number', score: 1000 })),
         contingent: matches.filter(r => r.effectiveDateIsPlaceholder).map(record => ({ record, reason: 'Exact section number', score: 1000 })),
       };
     }
@@ -111,6 +112,7 @@ export function createSearch(records: Statute[], index = buildIndex(records)) {
     const relatedMatches = records.filter(r => inScope(r) && isEffective(r, asOf) && relatedNumbers.has(r.section) && !bestIds.has(r.section))
       .map(record => ({ record, reason: topicSections.length ? 'Broader topic match' : 'Related section', score: 0 }));
     return { best, related: relatedMatches, upcoming: includeUpcoming ? scored.filter(m => isUpcoming(m.record, asOf)) : [],
+      constitutional: scored.filter(m => m.record.hasConstitutionalWarning),
       contingent: scored.filter(m => m.record.effectiveDateIsPlaceholder), correction, exact: false };
   };
 }

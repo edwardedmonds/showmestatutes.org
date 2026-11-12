@@ -13,7 +13,7 @@ describe('Expanded criminal-law coverage benchmark', () => {
     const result = search(q.query, asOf, false, q.chapter ?? '');
     if (q.first) expect(result.best[0]?.record.section).toBe(q.first);
     if (q.top3) for (const section of q.top3) expect(result.best.slice(0, 3).map(m => m.record.section)).toContain(section);
-    if (q.empty) expect([...result.best, ...result.related, ...result.contingent]).toHaveLength(0);
+    if (q.empty) expect([...result.best, ...result.related, ...result.contingent, ...result.constitutional]).toHaveLength(0);
   });
 });
 it('finds every effective section by exact citation, with no future version promoted', () => {
@@ -32,7 +32,7 @@ it('keeps all chapter boundaries and future versions consistent with the source 
 it('filters headings, related sections, upcoming versions and exact citations by chapter', () => {
   const result = search('definitions', asOf, true, '565');
   expect(result.best[0].record.section).toBe('565.002');
-  expect([...result.best, ...result.related, ...result.upcoming, ...result.contingent].every(m => m.record.chapter === '565')).toBe(true);
+  expect([...result.best, ...result.related, ...result.upcoming, ...result.contingent, ...result.constitutional].every(m => m.record.chapter === '565')).toBe(true);
   expect(search('579.015', asOf, true, '565').best).toEqual([]);
   expect(search('grand jury', asOf, false, '540').best.length).toBeGreaterThan(0);
   expect(search('murder', asOf, true, '540').related).toEqual([]);
@@ -63,7 +63,7 @@ describe('Unambiguous pilot expectations still work across the expanded collecti
     if (q.first) expect(result.best[0]?.record.section).toBe(q.first);
     if (q.top3) for (const section of q.top3) expect(result.best.slice(0, 3).map(m => m.record.section)).toContain(section);
     if (q.related) for (const section of q.related) expect(result.related.map(m => m.record.section)).toContain(section);
-    if (q.empty) expect([...result.best, ...result.related, ...result.contingent]).toHaveLength(0);
+    if (q.empty) expect([...result.best, ...result.related, ...result.contingent, ...result.constitutional]).toHaveLength(0);
   });
 });
 

@@ -1,6 +1,6 @@
 # Indexed chapters
 
-The collection follows the Missouri Revisor catalog: Titles I–V (laws and statutes, sovereignty and emblems, the legislative and executive branches, and military affairs and police), alongside [Title XIX — Motor Vehicles, Watercraft and Aviation](https://revisor.mo.gov/main/OneTitle.aspx?title=XIX), [Title XXXVII — Criminal Procedure](https://revisor.mo.gov/main/OneTitle.aspx?title=XXXVII) and [Title XXXVIII — Crimes and Punishment; Peace Officers and Public Defenders](https://revisor.mo.gov/main/OneTitle.aspx?title=XXXVIII), checked November 12, 2026.
+The collection follows the Missouri Revisor catalog: Titles I–V (laws and statutes, sovereignty and emblems, the legislative and executive branches, and military affairs and police), [Title VI — County, Township and Political Subdivision Government](https://revisor.mo.gov/main/OneTitle.aspx?title=VI), alongside [Title XIX — Motor Vehicles, Watercraft and Aviation](https://revisor.mo.gov/main/OneTitle.aspx?title=XIX), [Title XXXVII — Criminal Procedure](https://revisor.mo.gov/main/OneTitle.aspx?title=XXXVII) and [Title XXXVIII — Crimes and Punishment; Peace Officers and Public Defenders](https://revisor.mo.gov/main/OneTitle.aspx?title=XXXVIII), checked November 12, 2026.
 
 The machine-readable collection policy is `data/coverage.json`. Both the Python collector and the browser validator use it. Each chapter has a source-derived title and a minimum unique-version count established from the reviewed initial index. The dataset manifest separately retains each chapter's index URL, retrieval time, response hash, section count and version count. These chapter indexes define this collection; this is not a claim to cover every criminal provision elsewhere in Missouri law.
 
@@ -9,6 +9,7 @@ The machine-readable collection policy is `data/coverage.json`. Both the Python 
 - Legislative branch: Chapters **18, 21 and 23**.
 - Executive branch: Chapters **26–34, 36 and 37**.
 - Military affairs and police: Chapters **40–44**.
+- County, township and political subdivision government: Chapters **46–61, 64–68 and 70**.
 - Transportation: Chapters **300–307**, including the Model Traffic Ordinance, registration, driver licensing, financial responsibility, traffic regulations, aviation, watercraft and equipment.
 - Criminal procedure: Chapters **540–552**.
 - Criminal code, sentencing, defenses and offenses: Chapters **556–579**.
@@ -57,3 +58,13 @@ Section **44.098** lists one contingent version (`35640`), with a 2099 placehold
 Section **27.117** lists versions `60466` (August 28, 2026) and `60727` (July 1, 2027), with no end date on either source page. The earlier page explicitly says both versions are printed due to a delayed effective date; the later page supplies its July 2027 effective-date note. The reviewed `delayedEnactments` policy requires both exact IDs, dates, notices and unchanged blank end dates.
 
 Before July 2027, the later version appears only when upcoming versions are requested. From its source start date, both records satisfy their recorded intervals and are displayed with a delayed-effective-date notice. The application does not invent a supersession date or decide which version governs. This exception does not permit unreviewed overlaps.
+
+## County-government expansion
+
+Title VI adds 22 chapter indexes, covering county boundaries and classification, finances, county offices, sheriffs, coroners, records, land surveys, zoning, township government, political subdivisions, port authorities and intergovernmental cooperation. These are state statutes concerning local government, not a collection of local ordinances.
+
+The Revisor reprints earlier versions of **56.067, 56.816, 67.457, 67.461, 67.1431 and 67.1471** following court rulings, while retaining the later versions and leaving both source end dates blank. Both versions remain indexed. The reviewed reprint policy requires each exact identity, effective date and source notice; it neither invents a supersession date nor selects a governing legal rule.
+
+Versions bearing the Revisor's “all or part is unconstitutional” banner or an explicit Revisor's note declaring the section unconstitutional appear in **Versions with constitutional warnings**, including through exact-citation search. They do not enter ordinary current, related or upcoming result groups. Chapter filters apply to the warning group, and hiding upcoming versions does not hide warnings. The wording preserves the source's qualification; it does not declare every flagged section invalid in its entirety. See [source policy](source-policy.md).
+
+Section **67.320:2753** retains the source warning while displaying its additional qualification: the Revisor says the 2014 language from S.B. 621 remains current because that bill was not addressed in the cited case. The warning group is not a list of wholly invalid statutes.

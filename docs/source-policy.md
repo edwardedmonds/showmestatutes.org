@@ -1,11 +1,11 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–V, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–VI, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
 - Fresh requests ask intermediaries to revalidate cached responses with `Cache-Control: no-cache`; explicitly reused local cache entries retain their original timestamps.
-- Identify requests as `ShowMeStatutes/0.1 (+https://github.com/deths74r/show-me-statutes)`.
+- Identify requests as `ShowMeStatutes/0.1 (+https://github.com/edwardedmonds/show-me-statutes)`.
 - Fetch each configured chapter index first, then each enumerated section/version sequentially at least one second apart. Retry network failures at most twice with increasing delays.
 - Check robots.txt before crawling; honor directives when present. On the initial collection that URL returned the HTML home page, not robots directives. The manifest records this observation; it is not a claim of blanket permission.
 - Create a fresh cache directory by default. An explicitly supplied cache is a resumable snapshot; reused responses retain their original check time. Offline mode never fetches or advances timestamps.
@@ -53,3 +53,11 @@ Section 44.098 has a single listed contingent version rather than competing enac
 Section **27.117** lists versions `60466` (August 28, 2026) and `60727` (July 1, 2027), with no end date on either source page. The earlier page explicitly says both versions are printed due to a delayed effective date; the later page supplies its July 2027 effective-date note. The reviewed `delayedEnactments` policy requires both exact IDs, dates, notices and unchanged blank end dates.
 
 Before July 2027, the later version appears only when upcoming versions are requested. From its source start date, both records satisfy their recorded intervals and are displayed with a delayed-effective-date notice. The application does not invent a supersession date or decide which version governs. This exception does not permit unreviewed overlaps.
+
+## Constitutional warnings and reprinted versions
+
+The collector preserves the Revisor's effective-date banner when it marks all or part of a version as unconstitutional, and explicit Revisor's notes stating that the section was declared unconstitutional. It does not infer this status from general discussion of court rulings in statutory text or annotations. Every such marker requires an explicitly reviewed identity, date and source notice in `constitutionalWarnings`; missing, added or changed markers stop collection. The browser validates the same policy and displays these versions in their own result group, with their official links and source dates. It does not infer whether the whole section or only part is affected, or which legal rule applies.
+
+Six section pairs in Chapters 56 and 67 have overlapping blank-ended intervals because the source reprints an earlier version after a court ruling while retaining the later, warned version. `reprintedEnactments` requires both exact versions, their dates, their multiple-enactment labels and each page's reviewed notice. No end date is invented. This policy is separate from the delayed and contingent enactment policies.
+
+The existing cached response for §1.410 also carries the constitutional-warning banner. This release adds its previously omitted marker while retaining the original source-check date, response hash and all other record fields. This is a correction from the archived source, not a fresh retrieval of the earlier government collection.

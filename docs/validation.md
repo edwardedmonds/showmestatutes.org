@@ -1,3 +1,35 @@
+# County expansion validation — November 12, 2026
+
+## Scope and source checks
+
+Title VI adds **22 chapter indexes, 1,943 distinct sections and 1,949 source versions**. The combined snapshot contains **5,623 sections and 5,660 versions** across **100 configured chapter indexes**: 98 with headings and two reviewed empty indexes. The fresh catalog contains 468 chapter links, leaving 368 outside this collection. Title VII is next.
+
+Every new source version was retrieved sequentially at no more than one request per second. All 22 new indexes matched an independent second retrieval of their exact version identities, dates and URLs. No source responses were rejected in this batch. The change report contains 1,949 additions, zero removals and one correction: the previously omitted constitutional-warning marker on §1.410. Its original source-check date, hash and all other fields remain unchanged; the other 3,710 earlier records are unchanged as objects.
+
+## Source warnings and versions
+
+Nine versions have reviewed constitutional warnings. Seven carry the effective-date banner; §67.1431:51494 and §67.1471:51495 instead carry explicit Revisor's notes declaring the section unconstitutional. General mentions of court rulings in body text do not establish this marker. Each warning requires its exact identity, date and source notice, and appears outside ordinary current, related and upcoming results.
+
+Six reprinted section pairs retain both official versions and their blank end dates. Their exact identities, dates and notices are required; the site does not invent supersession dates. Section 67.320 additionally displays the Revisor's qualification that the 2014 language from S.B. 621 remains current because that bill was not addressed in the cited case. The warning group is not a list of wholly invalid statutes.
+
+The snapshot contains 32 scheduled future versions and two contingent versions at collection time. The initial collector had loaded the earlier parser and correctly refused the unresolved §56.067 overlap. After reviewing the source exceptions, the updated parser successfully rebuilt and validated the entire candidate offline from the exact cached responses.
+
+## Checks and performance
+
+All **326 TypeScript tests and 25 Python tests** passed, along with TypeScript checks and the production build. The 36 new county query cases were defined from source indexes before ranking evaluation. Seven additional search/data regressions cover chapter boundaries, warning separation, exact citations, reviewed reprints and source qualifications. The existing relevance expectations were retained without ranking changes. These are development tests, not an independent legal-search evaluation.
+
+The production dataset matches the promoted snapshot byte for byte, and the prebuilt index references its SHA-256 hash. The serialized index is 686,643 bytes, up from 467,494 bytes. On local Linux with Node 22.22.2, index construction took about 103 ms and loading plus search setup took about 69 ms. Across 16 queries with three warm-up passes and 25 measured runs each, p95 search times ranged from 0.26 to 10.25 ms. The earlier snapshot ranged from 0.07 to 4.72 ms. These measurements exclude download, JSON parsing, validation and rendering; they are not mobile performance results.
+
+## Browser checks and release
+
+Home-based-work searches find both §64.008 and §65.710 and respect chapter filtering. Exact §67.1431 exposes the reprinted version and the warned version with separate source links. Sections 67.320, 67.2300 and 1.410 show source warnings; §67.320 includes its qualification. Existing murder, contingent-date and delayed-date cases still behave correctly. Upcoming versions remain optional. Padded §046.010 is rejected, and ArrowDown focuses the first source link.
+
+No horizontal overflow was observed at 320×740 or 390×844. No browser warning or error logs were observed. Physical Android timing, screen-reader testing and independent alias/legal review remain outstanding.
+
+Public deployment verification is pending. After the account rename to `edwardedmonds`, Pages still retains the `showmestatutes.org` custom domain and GitHub Actions source. GitHub reports certificate provisioning; public HTTPS is not yet confirmed.
+
+---
+
 # Government expansion validation — November 12, 2026
 
 ## Scope and source checks
@@ -28,7 +60,7 @@ The State bird example prioritizes 10.010. Exact 1.010 resolves without padding;
 
 No horizontal overflow was observed at 320×740 or 390×844. The footer exposes the license-notice link, and a fresh preview recorded no browser warning or error logs. The preview server was restarted after it exited during the license-link check; the license file was independently verified over local HTTP.
 
-The [release workflow](https://github.com/deths74r/show-me-statutes/actions/runs/43272598891) for `fadfcc0` passed checks and deployment. Public HTTP responses for HTML, data, JavaScript, CSS and license notices matched the validated build; the hosted index referenced the same dataset hash. HTTPS still failed hostname validation.
+The [release workflow](https://github.com/edwardedmonds/show-me-statutes/actions/runs/43272598891) for `fadfcc0` passed checks and deployment. Public HTTP responses for HTML, data, JavaScript, CSS and license notices matched the validated build; the hosted index referenced the same dataset hash. HTTPS still failed hostname validation.
 
 Physical Android measurements, assistive-technology testing and independent alias/legal review remain outstanding. A successful application deployment does not establish working public HTTPS.
 

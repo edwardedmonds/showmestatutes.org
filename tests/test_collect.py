@@ -201,3 +201,76 @@ class GovernmentCollectionTests(unittest.TestCase):
             self.assertNotEqual(source, bad)
             with self.assertRaisesRegex(ValueError, 'Unverified delayed'):
                 collect.parse_section(bad, entry, '2026-11-12T12:00:00+00:00')
+
+
+class ConstitutionalWarningTests(unittest.TestCase):
+    def test_preserves_a_reviewed_warning_from_the_official_effective_date_banner(self):
+        entry = {'id': '1.410:49534', 'section': '1.410', 'versionId': '49534',
+                 'effectiveFrom': '2021-06-12', 'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section=1.410&bid=49534'}
+        source = Path('tests/fixtures/constitutional-1-49534.html').read_text()
+        record = collect.parse_section(source, entry, '2026-11-12T12:00:00+00:00')
+        self.assertTrue(record['hasConstitutionalWarning'])
+        self.assertIsNone(record['effectiveTo'])
+        self.assertNotIn('multipleEnactments', record)
+        for bad in [source.replace('all or part is unconstitutional', ''),
+                    source.replace('Supremacy Clause', 'different clause')]:
+            with self.assertRaisesRegex(ValueError, 'constitutional warning'):
+                collect.parse_section(bad, entry, '2026-11-12T12:00:00+00:00')
+
+    def test_unreviewed_constitutional_warning_blocks_collection(self):
+        entry = {'id': '1.411:49534', 'section': '1.411', 'versionId': '49534',
+                 'effectiveFrom': '2021-06-12', 'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section=1.411&bid=49534'}
+        source = Path('tests/fixtures/constitutional-1-49534.html').read_text().replace('1.410', '1.411')
+        with self.assertRaisesRegex(ValueError, 'constitutional warning'):
+            collect.parse_section(source, entry, '2026-11-12T12:00:00+00:00')
+
+
+    def test_merged_language_warning_requires_the_source_qualification(self):
+        entry = {'id': '67.320:2753', 'section': '67.320', 'versionId': '2753',
+                 'effectiveFrom': '2014-08-28', 'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section=67.320&bid=2753'}
+        source = Path('tests/fixtures/constitutional-qualified-67.320.html').read_text()
+        record = collect.parse_section(source, entry, '2026-11-12T18:00:00+00:00')
+        self.assertTrue(record['hasConstitutionalWarning'])
+        self.assertIsNone(record['effectiveTo'])
+        bad = source.replace('is the current version', 'has an unknown status')
+        self.assertNotEqual(source, bad)
+        with self.assertRaisesRegex(ValueError, 'constitutional warning'):
+            collect.parse_section(bad, entry, '2026-11-12T18:00:00+00:00')
+
+
+    def test_explicit_revisor_warning_is_preserved_without_an_effective_date_banner(self):
+        entry = {'id': '67.1431:51494', 'section': '67.1431', 'versionId': '51494',
+                 'effectiveFrom': '2022-08-28', 'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section=67.1431&bid=51494'}
+        source = Path('tests/fixtures/constitutional-note-67.1431.html').read_text()
+        self.assertNotIn('all or part is unconstitutional', source)
+        record = collect.parse_section(source, entry, '2026-11-12T18:00:00+00:00')
+        self.assertTrue(record['hasConstitutionalWarning'])
+        self.assertTrue(record['multipleEnactments'])
+        with self.assertRaisesRegex(ValueError, 'Unverified'):
+            collect.parse_section(source.replace('This section was declared unconstitutional', 'A different section was discussed'), entry, '2026-11-12T18:00:00+00:00')
+
+
+class ReprintedVersionTests(unittest.TestCase):
+    def test_reprinted_pair_keeps_dates_and_warning_distinction(self):
+        for bid, start, warned in [('2011', '2014-08-28', True), ('36193', '1999-05-06', False)]:
+            entry = {'id': '56.067:' + bid, 'section': '56.067', 'versionId': bid,
+                     'effectiveFrom': start, 'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section=56.067&bid=' + bid}
+            source = Path('tests/fixtures/reprinted-56.067-' + bid + '.html').read_text()
+            record = collect.parse_section(source, entry, '2026-11-12T18:00:00+00:00')
+            self.assertEqual(bool(record.get('hasConstitutionalWarning')), warned)
+            self.assertTrue(record['multipleEnactments'])
+            self.assertEqual(record['effectiveFrom'], start)
+            self.assertIsNone(record['effectiveTo'])
+            bad = source.replace('all or part is unconstitutional', '') if warned else source.replace('reprinted in accordance', 'printed differently')
+            with self.assertRaisesRegex(ValueError, 'Unverified'):
+                collect.parse_section(bad, entry, '2026-11-12T18:00:00+00:00')
+
+    def test_unreviewed_reprinted_version_and_missing_multiple_notice_fail(self):
+        entry = {'id': '56.067:36193', 'section': '56.067', 'versionId': '36193',
+                 'effectiveFrom': '1999-05-06', 'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section=56.067&bid=36193'}
+        source = Path('tests/fixtures/reprinted-56.067-36193.html').read_text()
+        with self.assertRaisesRegex(ValueError, 'Unverified delayed/reprinted'):
+            collect.parse_section(source.replace('There are multiple enactments', 'There are enactments'), entry, '2026-11-12T18:00:00+00:00')
+        unknown = {**entry, 'id': '56.067:99999', 'versionId': '99999'}
+        with self.assertRaisesRegex(ValueError, 'Unverified delayed/reprinted'):
+            collect.parse_section(source.replace('36193', '99999'), unknown, '2026-11-12T18:00:00+00:00')

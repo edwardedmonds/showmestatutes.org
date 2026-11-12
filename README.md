@@ -12,7 +12,7 @@ The search starts with official section headings and a small set of documented c
 
 This choice gives heading matches priority over passing mentions buried in a statute's body. It also sets a real limit: a concept that appears only in the body may not turn up here. The chapter selector helps narrow a broad search, and every result links back to its official source version.
 
-Dates need more care than simply choosing the newest record. Upcoming versions have their own group. Contingent versions stay separate when the Revisor uses a placeholder date. Source-documented multiple enactments retain their own links and notices. The site preserves those distinctions without deciding legal applicability for you.
+Dates need more care than simply choosing the newest record. Upcoming versions have their own group. Contingent versions stay separate when the Revisor uses a placeholder date. Versions carrying the Revisor's constitutional warning appear in a labeled group, outside ordinary current and upcoming results. Where the source reprints an earlier version after a court ruling, both source links remain available with an explanation. The site preserves those distinctions without deciding legal applicability for you.
 
 Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no accounts, analytics, paid search backend, or AI service. The build includes a prebuilt index; the browser can rebuild it from the validated snapshot if that index is missing or mismatched.
 
@@ -20,16 +20,17 @@ Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no
 
 **Statewide heading coverage is the goal. It isn't finished.**
 
-The November 12, 2026 collection contains **3,680 distinct sections and 3,711 source versions** across **78 chapter indexes**. Seventy-six have headings; Chapters 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **390** outside this collection at this check.
+The November 12, 2026 collection contains **5,623 distinct sections and 5,660 source versions** across **100 chapter indexes**. Ninety-eight have headings; Chapters 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **368** outside this collection at this check.
 
 | Area | Imported scope |
 | --- | --- |
 | State government, laws, emblems, military affairs and police | Titles I–V |
+| County, township and political subdivision government | Title VI: Chapters 46–61, 64–68 and 70 |
 | Motor vehicles, watercraft and aviation | Title XIX: Chapters 300–307 |
 | Criminal procedure | Title XXXVII: Chapters 540–552 |
 | Crimes, punishment, peace officers and public defenders | Title XXXVIII: Chapters 556–579, 589, 590, 595 and 600 |
 
-The latest published batch added 1,493 sections from Titles I–V. Work is underway on Title VI: county, township and political subdivision government, including county finances, sheriffs, land surveys, zoning, and port authorities. That batch is not yet published. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
+The county batch adds **1,943 sections**, including county finances, sheriffs, land surveys, zoning, and port authorities. Next is Title VII: cities, towns and villages. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
 
 These are state statute headings. The collection doesn't include local ordinances, court rules, regulations, constitutional provisions, federal law, or a complete historical archive. Chapter 300 is the state's Model Traffic Ordinance; its presence doesn't establish what a particular city has adopted.
 
@@ -37,13 +38,13 @@ Each chapter and source version keeps its retrieval date and response hash. Addi
 
 ## What has been checked
 
-The published government release passed **283 TypeScript tests and 19 Python tests**, TypeScript checks, and the production build. Its [GitHub Actions run](https://github.com/deths74r/show-me-statutes/actions/runs/43272598891) completed validation and deployment on November 12, 2026.
+The county release passed **326 TypeScript tests and 25 Python tests**, TypeScript checks, and the production build. All 22 new chapter indexes matched a second retrieval. Browser checks covered source warnings, chapter filters, keyboard navigation and narrow screens.
 
 The collection process checks every listed version against its official page, then retrieves the new chapter indexes again to check for changes. Tests cover search relevance, exact citations, chapter boundaries, source identities, and version handling. A failed validation blocks publication.
 
 Those checks have limits. The query cases are development tests, not an independent evaluation of legal search accuracy. Physical Android performance measurements, screen-reader testing, and independent review of the common-name mappings are still outstanding. [Validation notes](docs/validation.md) record the results and the remaining gaps.
 
-At the November 12 check, the published government release at `showmestatutes.org` matched the validated build over HTTP. HTTPS returned a certificate hostname mismatch, so secure-domain readiness remains unverified. See [deployment setup and recovery](docs/deployment.md).
+The county build has passed local checks; public deployment verification is pending. GitHub still reports that the certificate for `showmestatutes.org` is being provisioned, so working public HTTPS is not yet confirmed. See [deployment setup and recovery](docs/deployment.md).
 
 ## Run it locally
 
