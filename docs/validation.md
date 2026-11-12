@@ -28,7 +28,9 @@ The State bird example prioritizes 10.010. Exact 1.010 resolves without padding;
 
 No horizontal overflow was observed at 320×740 or 390×844. The footer exposes the license-notice link, and a fresh preview recorded no browser warning or error logs. The preview server was restarted after it exited during the license-link check; the license file was independently verified over local HTTP.
 
-Physical Android measurements, assistive-technology testing and independent alias/legal review remain outstanding. GitHub still reported certificate provisioning at this check; application validation does not establish working public HTTPS.
+The [release workflow](https://github.com/deths74r/show-me-statutes/actions/runs/43272598891) for `fadfcc0` passed checks and deployment. Public HTTP responses for HTML, data, JavaScript, CSS and license notices matched the validated build; the hosted index referenced the same dataset hash. HTTPS still failed hostname validation.
+
+Physical Android measurements, assistive-technology testing and independent alias/legal review remain outstanding. A successful application deployment does not establish working public HTTPS.
 
 ---
 

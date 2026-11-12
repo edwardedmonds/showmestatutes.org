@@ -26,9 +26,9 @@ The chapter selector searches across the collection or narrows to one chapter. C
 
 As checked on **November 12, 2026**:
 
-- The government expansion adds **1,493 sections** across **29 chapter indexes**, bringing the collection to **3,680 sections**. [GitHub Actions](https://github.com/deths74r/show-me-statutes/actions) records validation and deployment results.
+- The government expansion adds **1,493 sections** across **29 chapter indexes**, bringing the collection to **3,680 sections**. The [government release workflow](https://github.com/deths74r/show-me-statutes/actions/runs/43272598891) passed validation and deployed successfully.
 - **283 TypeScript tests and 19 Python tests** passed, along with TypeScript checks and the production build. [Validation notes](docs/validation.md) record source checks, browser checks and remaining limitations.
-- The earlier transportation release was verified at `showmestatutes.org` over HTTP. At the government-expansion check, GitHub still reported certificate provisioning and HTTPS returned a hostname mismatch; secure-domain readiness remains unverified. See [deployment setup and recovery](docs/deployment.md).
+- The government release’s HTML, dataset, application assets and license notices at `showmestatutes.org` matched the validated build over HTTP, and the hosted search index matched the dataset hash. HTTPS still returned a certificate hostname mismatch; secure-domain readiness remains unverified. See [deployment setup and recovery](docs/deployment.md).
 - Next: Title VI (county, township and political subdivision government). **78 of 468 catalog chapter indexes** are imported; **390 remain** at this check. Continue the [statewide heading coverage plan](docs/full-coverage-plan.md) in reviewed batches, preserving source provenance and checking search relevance after each expansion.
 
 Update this README alongside changes to coverage, setup, validation, deployment status and licensing. Keep status checks dated and distinguish a successful application deployment from working public HTTPS.
