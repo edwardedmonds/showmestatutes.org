@@ -103,4 +103,8 @@ GitHub Actions runs the offline dataset checks, tests and production build on pu
 - [Coverage and exclusions](docs/coverage.md)
 - [Official Missouri Revisor](https://revisor.mo.gov/)
 
-This project is independent of the State of Missouri and is not legal advice. Always verify the source text, effective dates and applicability. No software license has been selected yet.
+This project is independent of the State of Missouri and is not legal advice. Always verify the source text, effective dates and applicability.
+
+## License
+
+The project code and original documentation are licensed under the [MIT License](LICENSE). Official Missouri statute content retains its source attribution; the software license does not claim ownership of that content. Third-party dependencies retain their own licenses.
