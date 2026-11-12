@@ -45,6 +45,12 @@ export interface SearchResults { best: Match[]; related: Match[]; upcoming: Matc
 
 export function createSearch(records: Statute[], index = buildIndex(records)) {
   const byId = new Map(records.map(r => [r.id, r]));
+  const bySection = new Map<string, Statute[]>();
+  for (const record of records) {
+    const versions = bySection.get(record.section) ?? [];
+    versions.push(record);
+    bySection.set(record.section, versions);
+  }
   const vocabulary = [...new Set([...records.flatMap(r => [...terms(r.title), ...(aliases[r.section] ?? []).flatMap(terms)]), ...Object.keys(topics).flatMap(terms)])];
   return (query: string, asOf: string, includeUpcoming = false, chapter = ''): SearchResults => {
     if (!validDate(asOf)) throw new Error('Invalid search date');
@@ -55,7 +61,7 @@ export function createSearch(records: Statute[], index = buildIndex(records)) {
     const sectionQuery = trimmed.match(/^(?:(?:rsmo|section)\s*|§\s*)*(\d{1,3}\.\d{1,4})\.?$/i);
     if (sectionQuery) {
       const number = sectionQuery[1];
-      const matches = records.filter(r => r.section === number && inScope(r));
+      const matches = (bySection.get(number) ?? []).filter(inScope);
       return { ...empty, exact: true,
         best: matches.filter(r => isEffective(r, asOf)).map(record => ({ record, reason: 'Exact section number', score: 1000 })),
         upcoming: includeUpcoming ? matches.filter(r => isUpcoming(r, asOf)).map(record => ({ record, reason: 'Exact section number', score: 1000 })) : [],

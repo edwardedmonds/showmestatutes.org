@@ -9,6 +9,7 @@
     "VII",
     "VIII",
     "IX",
+    "X",
     "XIX",
     "XXXVII",
     "XXXVIII"
@@ -543,6 +544,48 @@
       "minimumVersions": 42
     },
     {
+      "chapter": "135",
+      "title": "Tax Relief",
+      "category": "government",
+      "minimumVersions": 160
+    },
+    {
+      "chapter": "136",
+      "title": "Collection of State Taxes",
+      "category": "government",
+      "minimumVersions": 48
+    },
+    {
+      "chapter": "137",
+      "title": "Assessment and Levy of Property Taxes",
+      "category": "government",
+      "minimumVersions": 174
+    },
+    {
+      "chapter": "138",
+      "title": "Equalization and Review of Tax Assessments",
+      "category": "government",
+      "minimumVersions": 58
+    },
+    {
+      "chapter": "139",
+      "title": "Payment and Collection of Current Taxes",
+      "category": "government",
+      "minimumVersions": 47
+    },
+    {
+      "chapter": "140",
+      "title": "Collection of Delinquent Taxes Generally",
+      "category": "government",
+      "minimumVersions": 93
+    },
+    {
+      "chapter": "141",
+      "title": "Delinquent Taxes — Certain Subdivisions",
+      "category": "government",
+      "minimumVersions": 104
+    },
+    {
       "chapter": "300",
       "title": "Model Traffic Ordinance",
       "category": "transportation",
@@ -851,7 +894,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–IX, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–IX, XIX, XXXVII and XXXVIII, plus Title X Chapters 135–141, at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -1357,6 +1400,22 @@
         }
       ],
       "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "140.170",
+      "versions": [
+        {
+          "versionId": "51501",
+          "effectiveFrom": "2022-08-28",
+          "sourceNotice": "This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al."
+        },
+        {
+          "versionId": "6932",
+          "effectiveFrom": "2015-08-28",
+          "sourceNotice": "This section is reprinted in accordance with section 3.066"
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
     }
   ],
   "constitutionalWarnings": [
@@ -1560,6 +1619,11 @@
       "id": "116.334:57134",
       "effectiveFrom": "2025-08-28",
       "sourceNotice": "This section was declared unconstitutional in Nicholson v. State of Missouri, et al."
+    },
+    {
+      "id": "140.170:51501",
+      "effectiveFrom": "2022-08-28",
+      "sourceNotice": "This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al."
     }
   ]
 }

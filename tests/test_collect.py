@@ -366,3 +366,18 @@ class ElectionCollectionTests(unittest.TestCase):
         for marker in ['date is placeholder', 'H.B. 1 will not go into effect unless and until approved by the voters.']:
             with self.assertRaises(ValueError):
                 collect.parse_section(source.replace(marker, 'unverified'), entry, '2026-11-12T23:00:00+00:00')
+
+class TaxationCollectionTests(unittest.TestCase):
+    def test_delinquent_land_list_warning_and_reprint_require_exact_source_notices(self):
+        for bid, effective, warned in [('51501', '2022-08-28', True), ('6932', '2015-08-28', False)]:
+            entry = {'id': '140.170:'+bid, 'section': '140.170', 'versionId': bid, 'effectiveFrom': effective,
+                     'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section=140.170&bid='+bid}
+            source = Path('tests/fixtures/taxation-140.170-'+bid+'.html').read_text()
+            record = collect.parse_section(source, entry, '2026-11-12T23:00:00+00:00')
+            self.assertEqual(bool(record.get('hasConstitutionalWarning')), warned)
+            self.assertTrue(record['multipleEnactments'])
+            self.assertIsNone(record['effectiveTo'])
+            marker = 'This section was declared unconstitutional' if warned else 'reprinted in accordance'
+            for broken in [source.replace(marker, 'different source notice'), source.replace('There are multiple enactments of', 'Versions of')]:
+                with self.assertRaises(ValueError):
+                    collect.parse_section(broken, entry, '2026-11-12T23:00:00+00:00')

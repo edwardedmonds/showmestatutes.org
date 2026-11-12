@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–IX, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–IX, XIX, XXXVII and XXXVIII, plus Title X Chapters 135–141. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -77,3 +77,7 @@ Title IX adds four reviewed reprinted pairs: §§116.155 (`57131` and `6318`), 1
 Twelve Chapter 128 versions explicitly mark January 1, 2099 as a placeholder: §§128.345, 128.346, 128.348 and 128.471–128.479. Their source notes describe referendum conditions for H.B. 1, 2025. The first three have paired 2022 versions whose notices explain why both are printed; the nine remaining sections have only one version in the chapter index. The contingent policy records the exact IDs, dates and multiple-enactment status. Each version can require its own exact source notice, falling back to the shared notice only for existing policies that use one. No missing notice, unknown identity, changed date or invented end date is accepted.
 
 The interface explains that the paired versions concern a referendum, rather than reusing the possible-conflict explanation from §301.287. All twelve placeholder versions stay outside current and upcoming groups, even for a date in or after 2099. The source notes are preserved as evidence; the application does not decide whether referendum conditions have since occurred. These additions bring the contingent total to 14.
+
+## First taxation batch
+
+Title X Chapters 135–141 add one reviewed reprinted pair: **140.170**, versions `51501` (August 28, 2022) and `6932` (August 28, 2015). The later page has an explicit Byrd, et al. v. State of Missouri, et al. Revisor note; the earlier page has the section 3.066 reprint notice. Both have the multiple-enactments label and blank end dates. The existing policy requires the exact identities, dates and notices, preserves both source links, and keeps the warned version outside ordinary current and upcoming groups. No parser or ranking change was needed. The combined snapshot has 41 warned versions and 16 reviewed reprinted pairs; the 14 contingent versions and 32 scheduled future versions are unchanged.

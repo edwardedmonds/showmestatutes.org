@@ -13,6 +13,7 @@ The machine-readable collection policy is `data/coverage.json`. Both the Python 
 - Cities, towns and villages: Chapters **71–72, 77–82, 84–92, 94–96 and 98–100**.
 - Public officers and employees, bonds and records: Chapters **103–110**, including state employee health plans and retirement.
 - Suffrage and elections: Chapters **115, 116, 122, 127, 128 and 130**.
+- Tax relief, state tax collection and property taxes: **Title X Chapters 135–141**. Chapters 142–155 remain outside this batch.
 - Transportation: Chapters **300–307**, including the Model Traffic Ordinance, registration, driver licensing, financial responsibility, traffic regulations, aviation, watercraft and equipment.
 - Criminal procedure: Chapters **540–552**.
 - Criminal code, sentencing, defenses and offenses: Chapters **556–579**.
@@ -91,3 +92,9 @@ Twenty-one Chapter 105 source versions carry constitutional warnings: 19 concern
 Four Chapter 116 pairs retain an earlier reprint and a warned 2025 enactment: §§116.155, 116.160, 116.190 and 116.334. Exact version IDs and source notices are recorded in `reprintedEnactments` and `constitutionalWarnings`. The warning comes from an explicit Revisor note, not an inferred reading of a court annotation.
 
 Twelve Chapter 128 versions have explicitly labeled placeholder dates: §§128.345, 128.346, 128.348 and 128.471–128.479. The first three also list a 2022 version. The source gives referendum notices, which differ between the earlier and placeholder versions. The collection preserves both notices, blank end dates and the correct single/paired status; no 2099 placeholder becomes a scheduled future law. Read the official version pages for conditions and applicability.
+
+## First taxation expansion
+
+[Title X — Taxation and Revenue](https://revisor.mo.gov/main/OneTitle.aspx?title=X) is partially imported: Chapters **135–141** cover tax relief, state tax collection, property assessment, assessment review, current tax collection and delinquent taxes. Chapters **142–155** remain outside this batch, including the principal income-tax and sales-and-use-tax chapters. Tax-credit headings in Chapter 135 do not establish complete income-tax coverage.
+
+The source lists two versions of **140.170**. The 2022 version carries an explicit Revisor constitutional warning; the 2015 version is reprinted under section 3.066. Both dates and blank end dates are preserved, with the warned version shown separately. These source classifications do not decide legal applicability.

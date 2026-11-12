@@ -1,3 +1,23 @@
+# First taxation batch — November 12, 2026
+
+This release adds the first Title X batch. The separate filtering-design prototypes are not included; the production interface retains its existing design.
+
+Chapters 135–141 add **683 distinct sections and 684 source versions**. The candidate contains **9,229 sections and 9,279 versions** across **144 chapter indexes**, with headings in 142 and two reviewed empty indexes. The catalog has 468 links, leaving 324 outside this collection. Title X Chapters 142–155 remain for the next batch; Chapter 152 needs explicit empty-index review.
+
+All 684 new pages were retrieved sequentially at no more than one request per second. All seven indexes matched a second retrieval of identities, dates and source URLs. The normal strict collector rebuilt and validated the combined candidate from the source cache. All 8,595 earlier records and all 137 earlier chapter manifest entries are unchanged as complete objects, including check dates and hashes. The change report has 684 additions, zero removals and zero changes.
+
+The acquisition audit recorded one exception: §140.170:51501 carries a Revisor note citing Byrd. Its indexed partner, 6932, carries a section 3.066 reprint notice. Both exact dates and blank end dates are preserved; the warned 2022 version remains separate from the 2015 reprint. The combined totals are 41 warned versions, 16 reviewed reprinted pairs, 14 contingent versions and 32 scheduled future versions.
+
+All **453 TypeScript tests and 33 Python tests** passed, along with TypeScript checks and the production build. Thirty query cases were defined from official indexes before ranking evaluation. Additional regressions cover neighboring chapter citations and the warning/reprint pair. Two compact source fixtures require each exact notice and multiple-enactment marker.
+
+The initial test run hit the five-second limit in the test that looks up every effective section. Exact-citation lookup scanned the entire collection for each query. It now uses a map from section number to source versions, while retaining the same chapter and date checks. The exhaustive regression passes without increasing its timeout. Heading ranking is unchanged.
+
+The candidate passed the gated refresh. The built site reports 9,229 headings. Browser checks confirmed that §140.170 shows the 2015 reprint separately from the warned 2022 version with exact source URLs; a Chapter 141 filter excludes both. A scoped search for payment of current taxes under protest finds §139.031. First-degree murder still prioritizes §565.020, and ArrowDown focuses its source-heading link. No horizontal overflow was observed at 320×740, and the long tax heading remained readable. No browser warnings or errors were observed. Physical-device performance and screen-reader testing remain outstanding.
+
+Publication uses the validated snapshot through the GitHub Pages workflow. The workflow result and public assets must be verified after pushing; a passing local build alone does not establish deployment.
+
+---
+
 # Election expansion validation — November 12, 2026
 
 ## Scope and source checks

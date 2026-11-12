@@ -20,7 +20,7 @@ Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no
 
 **Statewide heading coverage is the goal. It isn't finished.**
 
-The November 12, 2026 collection contains **8,546 distinct sections and 8,595 source versions** across **137 chapter indexes**. One hundred thirty-five have headings; Chapters 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **331** outside this collection at this check.
+The November 12, 2026 collection contains **9,229 distinct sections and 9,279 source versions** across **144 chapter indexes**. One hundred forty-two have headings; Chapters 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **324** outside this collection at this check.
 
 | Area | Imported scope |
 | --- | --- |
@@ -29,11 +29,12 @@ The November 12, 2026 collection contains **8,546 distinct sections and 8,595 so
 | Cities, towns and villages | Title VII: Chapters 71–72, 77–82, 84–92, 94–96 and 98–100 |
 | Public officers, employee benefits, bonds and records | Title VIII: Chapters 103–110 |
 | Suffrage and elections | Title IX: Chapters 115, 116, 122, 127, 128 and 130 |
+| Tax relief, state tax collection and property taxes | Title X, first batch: Chapters 135–141 |
 | Motor vehicles, watercraft and aviation | Title XIX: Chapters 300–307 |
 | Criminal procedure | Title XXXVII: Chapters 540–552 |
 | Crimes, punishment, peace officers and public defenders | Title XXXVIII: Chapters 556–579, 589, 590, 595 and 600 |
 
-The latest batch adds **508 sections**, covering election administration, initiative and referendum, municipal elections, the state demographer, congressional districts and campaign finance. Next is Title X: taxation and revenue. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
+The latest batch adds **683 sections**, covering tax relief, state tax collection, property assessments, appeals, and current and delinquent property taxes. Title X is partly covered; Chapters 142–155 are next, including motor fuel, income, and sales and use taxes. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
 
 These are state statute headings. The collection doesn't include local ordinances, court rules, regulations, constitutional provisions, federal law, or a complete historical archive. Chapter 300 is the state's Model Traffic Ordinance; its presence doesn't establish what a particular city has adopted.
 
@@ -41,7 +42,7 @@ Each chapter and source version keeps its retrieval date and response hash. Addi
 
 ## What has been checked
 
-The Title IX expansion passed **421 TypeScript tests and 32 Python tests**, TypeScript checks, and the production build. All six new chapter indexes matched a second retrieval. Browser checks covered election queries, source warnings, contingent versions, chapter filters, keyboard navigation and narrow screens.
+The first Title X expansion passed **453 TypeScript tests and 33 Python tests**, TypeScript checks, and the production build. All seven new chapter indexes matched a second retrieval. Browser checks confirmed new tax searches, chapter filtering, warning/reprint separation, keyboard navigation and a narrow-screen layout. Deployment is gated by the main-branch workflow.
 
 The collection process checks every listed version against its official page, then retrieves the new chapter indexes again to check for changes. Tests cover search relevance, exact citations, chapter boundaries, source identities, and version handling. A failed validation blocks publication.
 
