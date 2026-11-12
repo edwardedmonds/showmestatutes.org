@@ -19,7 +19,18 @@ The chapter selector searches across the collection or narrows to one chapter. C
 - Body-text mentions do not participate in heading search.
 - Search runs in the browser; no accounts, analytics, paid backend, or AI service.
 
-**This is a development collection.** It does not yet cover all Missouri statutes or all historical versions. [Statewide heading coverage](docs/full-coverage-plan.md) is proceeding in reviewed batches. Independent alias review and performance testing on a representative physical Android device remain outstanding validation work. Public GitHub Pages publishing was authorized on November 12, 2026; see [deployment setup](docs/deployment.md).
+**This is a development collection.** It does not yet cover all Missouri statutes or all historical versions. [Statewide heading coverage](docs/full-coverage-plan.md) is proceeding in reviewed batches. Independent alias review and performance testing on a representative physical Android device remain outstanding validation work. The transportation release was deployed to GitHub Pages on November 12, 2026; see the dated status below and [deployment setup](docs/deployment.md).
+
+## Release and validation status
+
+As checked on **November 12, 2026**:
+
+- The [transportation release](https://github.com/deths74r/show-me-statutes/actions/runs/43175324277) passed validation and deployed successfully. It added **954 sections**, bringing the collection to **2,187 sections**.
+- **241 TypeScript tests and 15 Python tests** passed, along with TypeScript checks and the production build. [Validation notes](docs/validation.md) record source checks, browser checks and remaining limitations.
+- The deployed HTML, dataset and application assets at `showmestatutes.org` matched the release over HTTP. HTTPS still returned a certificate hostname mismatch at that check; secure-domain readiness remains unverified. See [deployment setup and recovery](docs/deployment.md).
+- Next: continue the [statewide heading coverage plan](docs/full-coverage-plan.md) in reviewed batches, preserving source provenance and checking search relevance after each expansion.
+
+Update this README alongside changes to coverage, setup, validation, deployment status and licensing. Keep status checks dated and distinguish a successful application deployment from working public HTTPS.
 
 ## Run locally
 
