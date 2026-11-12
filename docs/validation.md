@@ -1,3 +1,35 @@
+# Public officers, bonds and records validation — November 12, 2026
+
+## Scope and source checks
+
+Title VIII adds **eight chapter indexes, 607 distinct sections and 607 source versions**, covering Chapters 103–110. The official title listing includes employee health plans and retirement in Chapters 103–104; this corrects the earlier roadmap's proposed starting point at Chapter 105. The combined snapshot contains **8,038 sections and 8,080 versions** across **131 configured chapter indexes**: 129 with headings and two reviewed empty indexes. The fresh catalog contains 468 chapter links, leaving 337 outside this collection. Title IX is next.
+
+Every new source version was retrieved sequentially at no more than one request per second. All eight indexes matched an independent second retrieval of their exact identities, dates and source URLs. The change report contains 607 additions, zero removals and zero changes. All 7,473 earlier records, including retrieval dates and response hashes, are unchanged as complete objects.
+
+## Source warnings and versions
+
+Strict collection stopped at an unreviewed constitutional warning. A separate acquisition audit cached the remaining pages and recorded exceptions without creating a candidate. All 21 flagged identities were reviewed, added to the source policy and then passed through the normal strict collector in a full offline rebuild from the cached responses. No unresolved source exception remained.
+
+Nineteen Chapter 105 versions dated August 28, 2018 carry a warning banner and a Revisor note citing Missouri National Education Association v. Missouri Department of Labor and Industrial Relations. Section 105.1415:5715 separately has a warning banner and Calzone note. Section 105.1155:51508 has a Byrd note without the banner. Each requires its exact identity, date and source notice. All remain outside ordinary current and upcoming results, with their official links available in the warning group. Historical rows on individual pages are not treated as indexed reprinted replacements.
+
+The combined snapshot has **36 warned versions**, 32 scheduled future versions and two contingent versions. No new future or contingent versions were added. The 11 previously reviewed reprinted pairs are unchanged. These classifications preserve source evidence without deciding legal applicability.
+
+## Tests and performance
+
+All **393 TypeScript tests and 29 Python tests** passed, along with TypeScript checks and the production build. The 26 new query cases were defined from the official indexes before evaluating rankings. Three additional search regressions cover neighboring citations, chapter isolation, and all 21 warned versions with upcoming results both enabled and disabled. Two Python tests cover warning banners, exact case notices and a note-only warning, using three minimal source fixtures. No production parser or ranking changes were needed. These are development checks, not an independent legal-search evaluation.
+
+The built dataset matches the promoted snapshot byte for byte, and the prebuilt index references its SHA-256 hash. The serialized index is **948,275 bytes**, up from 875,593. On local Linux with Node 22.22.2, construction took about 124 ms and loading plus search setup about 105 ms. Across the same 16 queries, with three warm-up passes and 25 measured runs each, p95 search times ranged from 0.18 to 12.66 ms; the earlier snapshot ranged from 0.52 to 12.33 ms in the comparison run. These timings exclude download, JSON parsing, validation and rendering; they are not physical mobile measurements.
+
+## Browser checks and publication
+
+The built site reports 8,038 section headings. Scoped searches find §103.005 for consolidated health care plans, §104.081 for highway patrol retirement age, and §109.180 for public-record inspection. Exact §§105.503, 105.1155 and 105.1415 appear only in the warning group with the expected official URLs. A Chapter 106 filter excludes the Chapter 105 warning. First-degree murder still prioritizes §565.020, and ArrowDown focuses its source-heading link.
+
+No horizontal overflow was observed with 320×740 and 390×740 viewport overrides. No browser warnings or errors were observed. Physical Android timing, screen-reader testing and independent alias/legal review remain outstanding.
+
+Publication uses the validated snapshot through the GitHub Pages workflow. A passing local build alone does not verify deployment; the workflow result and public dataset must be checked after pushing.
+
+---
+
 # Municipal expansion validation — November 12, 2026
 
 ## Scope and source checks

@@ -7,6 +7,7 @@
     "V",
     "VI",
     "VII",
+    "VIII",
     "XIX",
     "XXXVII",
     "XXXVIII"
@@ -457,6 +458,54 @@
       "minimumVersions": 89
     },
     {
+      "chapter": "103",
+      "title": "Health Plan for State Employees",
+      "category": "government",
+      "minimumVersions": 56
+    },
+    {
+      "chapter": "104",
+      "title": "Retirement of State Officers and Employees",
+      "category": "government",
+      "minimumVersions": 141
+    },
+    {
+      "chapter": "105",
+      "title": "Public Officers and Employees — Miscellaneous Provisions",
+      "category": "government",
+      "minimumVersions": 214
+    },
+    {
+      "chapter": "106",
+      "title": "Removal and Impeachment of Public Officers",
+      "category": "government",
+      "minimumVersions": 30
+    },
+    {
+      "chapter": "107",
+      "title": "Bonds of Officers and Contractors for Public Works",
+      "category": "government",
+      "minimumVersions": 16
+    },
+    {
+      "chapter": "108",
+      "title": "Bond Issues, Miscellaneous Provisions",
+      "category": "government",
+      "minimumVersions": 82
+    },
+    {
+      "chapter": "109",
+      "title": "Public and Business Records",
+      "category": "government",
+      "minimumVersions": 44
+    },
+    {
+      "chapter": "110",
+      "title": "Depositaries for Public Funds",
+      "category": "government",
+      "minimumVersions": 24
+    },
+    {
       "chapter": "300",
       "title": "Model Traffic Ordinance",
       "category": "transportation",
@@ -765,7 +814,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–VII, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–VIII, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -1075,6 +1124,111 @@
       "id": "79.135:3733",
       "effectiveFrom": "2014-08-28",
       "sourceNotice": "This section was declared unconstitutional in Calzone v. Koster, et al."
+    },
+    {
+      "id": "105.503:34967",
+      "effectiveFrom": "2018-08-28",
+      "sourceNotice": "On June 1, 2021, this section was declared unconstitutional in Missouri National Education Association v. Missouri Department of Labor and Industrial Relations"
+    },
+    {
+      "id": "105.505:34968",
+      "effectiveFrom": "2018-08-28",
+      "sourceNotice": "On June 1, 2021, this section was declared unconstitutional in Missouri National Education Association v. Missouri Department of Labor and Industrial Relations"
+    },
+    {
+      "id": "105.525:34969",
+      "effectiveFrom": "2018-08-28",
+      "sourceNotice": "On June 1, 2021, this section was declared unconstitutional in Missouri National Education Association v. Missouri Department of Labor and Industrial Relations"
+    },
+    {
+      "id": "105.530:34970",
+      "effectiveFrom": "2018-08-28",
+      "sourceNotice": "On June 1, 2021, this section was declared unconstitutional in Missouri National Education Association v. Missouri Department of Labor and Industrial Relations"
+    },
+    {
+      "id": "105.533:34971",
+      "effectiveFrom": "2018-08-28",
+      "sourceNotice": "On June 1, 2021, this section was declared unconstitutional in Missouri National Education Association v. Missouri Department of Labor and Industrial Relations"
+    },
+    {
+      "id": "105.535:34972",
+      "effectiveFrom": "2018-08-28",
+      "sourceNotice": "On June 1, 2021, this section was declared unconstitutional in Missouri National Education Association v. Missouri Department of Labor and Industrial Relations"
+    },
+    {
+      "id": "105.537:34973",
+      "effectiveFrom": "2018-08-28",
+      "sourceNotice": "On June 1, 2021, this section was declared unconstitutional in Missouri National Education Association v. Missouri Department of Labor and Industrial Relations"
+    },
+    {
+      "id": "105.540:34974",
+      "effectiveFrom": "2018-08-28",
+      "sourceNotice": "On June 1, 2021, this section was declared unconstitutional in Missouri National Education Association v. Missouri Department of Labor and Industrial Relations"
+    },
+    {
+      "id": "105.545:34975",
+      "effectiveFrom": "2018-08-28",
+      "sourceNotice": "On June 1, 2021, this section was declared unconstitutional in Missouri National Education Association v. Missouri Department of Labor and Industrial Relations"
+    },
+    {
+      "id": "105.550:34976",
+      "effectiveFrom": "2018-08-28",
+      "sourceNotice": "On June 1, 2021, this section was declared unconstitutional in Missouri National Education Association v. Missouri Department of Labor and Industrial Relations"
+    },
+    {
+      "id": "105.555:34977",
+      "effectiveFrom": "2018-08-28",
+      "sourceNotice": "On June 1, 2021, this section was declared unconstitutional in Missouri National Education Association v. Missouri Department of Labor and Industrial Relations"
+    },
+    {
+      "id": "105.570:34978",
+      "effectiveFrom": "2018-08-28",
+      "sourceNotice": "On June 1, 2021, this section was declared unconstitutional in Missouri National Education Association v. Missouri Department of Labor and Industrial Relations"
+    },
+    {
+      "id": "105.575:34979",
+      "effectiveFrom": "2018-08-28",
+      "sourceNotice": "On June 1, 2021, this section was declared unconstitutional in Missouri National Education Association v. Missouri Department of Labor and Industrial Relations"
+    },
+    {
+      "id": "105.580:34980",
+      "effectiveFrom": "2018-08-28",
+      "sourceNotice": "On June 1, 2021, this section was declared unconstitutional in Missouri National Education Association v. Missouri Department of Labor and Industrial Relations"
+    },
+    {
+      "id": "105.583:34981",
+      "effectiveFrom": "2018-08-28",
+      "sourceNotice": "On June 1, 2021, this section was declared unconstitutional in Missouri National Education Association v. Missouri Department of Labor and Industrial Relations"
+    },
+    {
+      "id": "105.585:34982",
+      "effectiveFrom": "2018-08-28",
+      "sourceNotice": "On June 1, 2021, this section was declared unconstitutional in Missouri National Education Association v. Missouri Department of Labor and Industrial Relations"
+    },
+    {
+      "id": "105.590:34983",
+      "effectiveFrom": "2018-08-28",
+      "sourceNotice": "On June 1, 2021, this section was declared unconstitutional in Missouri National Education Association v. Missouri Department of Labor and Industrial Relations"
+    },
+    {
+      "id": "105.595:34984",
+      "effectiveFrom": "2018-08-28",
+      "sourceNotice": "On June 1, 2021, this section was declared unconstitutional in Missouri National Education Association v. Missouri Department of Labor and Industrial Relations"
+    },
+    {
+      "id": "105.598:34985",
+      "effectiveFrom": "2018-08-28",
+      "sourceNotice": "On June 1, 2021, this section was declared unconstitutional in Missouri National Education Association v. Missouri Department of Labor and Industrial Relations"
+    },
+    {
+      "id": "105.1415:5715",
+      "effectiveFrom": "2014-08-28",
+      "sourceNotice": "This section was declared unconstitutional in Calzone v. Koster, et al."
+    },
+    {
+      "id": "105.1155:51508",
+      "effectiveFrom": "2022-08-28",
+      "sourceNotice": "This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al."
     }
   ]
 }

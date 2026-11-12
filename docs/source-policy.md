@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–VII, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–VIII, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -60,6 +60,12 @@ The collector preserves the Revisor's effective-date banner when it marks all or
 
 Six county-government section pairs in Chapters 56 and 67 have overlapping blank-ended intervals because the source reprints an earlier version after a court ruling while retaining the later, warned version. `reprintedEnactments` requires both exact versions, their dates, their multiple-enactment labels and each page's reviewed notice. No end date is invented. This policy is separate from the delayed and contingent enactment policies.
 
-The existing cached response for §1.410 also carries the constitutional-warning banner. This release adds its previously omitted marker while retaining the original source-check date, response hash and all other record fields. This is a correction from the archived source, not a fresh retrieval of the earlier government collection.
+The existing cached response for §1.410 also carries the constitutional-warning banner. The county expansion added its previously omitted marker while retaining the original source-check date, response hash and all other record fields. This is a correction from the archived source, not a fresh retrieval of the earlier government collection.
 
 The municipal batch adds five reviewed reprinted pairs: §79.130 (`3732` and `36191`), §94.270 (`4884` and `36196`), §99.825 (`51497` and `33552`), §99.830 (`51498` and `5146`), and §99.865 (`51499` and `33554`). The first version listed in each pair has the source warning; the second has the section 3.066 reprint notice. The Chapter 99 warnings are explicit Revisor's notes, without a constitutional-warning banner. The same strict policy and separate warning group apply.
+
+The public-officer batch adds 19 warned Chapter 105 versions, all with source effective date August 28, 2018: §§105.503, 105.505, 105.525, 105.530, 105.533, 105.535, 105.537, 105.540, 105.545, 105.550, 105.555, 105.570, 105.575, 105.580, 105.583, 105.585, 105.590, 105.595 and 105.598. Every page carries the warning banner and a Revisor note citing Missouri National Education Association v. Missouri Department of Labor and Industrial Relations. The policy requires each exact identity, date and reviewed case notice. The chapter index lists only one version of each; historical rows on individual pages do not establish a reprinted replacement or expand this collection into a historical archive. These records stay in the separate warning group.
+
+Section **105.1415:5715**, dated August 28, 2014, separately carries the source warning and a Calzone v. Koster note. It also has no reprinted partner in the chapter index and stays in the warning group.
+
+Section **105.1155:51508**, dated August 28, 2022, carries an explicit Byrd v. State Revisor note without the warning banner. It also remains separately warned with no indexed replacement. The complete batch has **21 new warned versions**, bringing the combined total to 36 without changing the earlier 15 warned records.

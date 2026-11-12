@@ -300,3 +300,31 @@ class MunicipalCollectionTests(unittest.TestCase):
         self.assertIsNone(record['effectiveTo'])
         with self.assertRaisesRegex(ValueError, 'Unverified delayed/reprinted'):
             collect.parse_section(source.replace('reprinted in accordance', 'printed differently'), entry, '2026-11-12T20:00:00+00:00')
+
+
+class PublicOfficerCollectionTests(unittest.TestCase):
+    def test_labor_warning_requires_banner_and_reviewed_case_notice(self):
+        for section, bid in [('105.503', '34967'), ('105.525', '34969')]:
+            with self.subTest(section=section):
+                entry = {'id': section+':'+bid, 'section': section, 'versionId': bid, 'effectiveFrom': '2018-08-28',
+                         'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section='+section+'&bid='+bid}
+                source = Path('tests/fixtures/public-officers-'+section+'-'+bid+'.html').read_text()
+                record = collect.parse_section(source, entry, '2026-11-12T22:00:00+00:00')
+                self.assertTrue(record['hasConstitutionalWarning'])
+                self.assertIsNone(record['effectiveTo'])
+                self.assertNotIn('multipleEnactments', record)
+                for broken in [source.replace('all or part is unconstitutional', ''),
+                               source.replace('On June 1, 2021, this section was declared unconstitutional', 'A court case is discussed')]:
+                    with self.assertRaisesRegex(ValueError, 'Unverified constitutional warning'):
+                        collect.parse_section(broken, entry, '2026-11-12T22:00:00+00:00')
+
+    def test_vaccination_section_warning_is_preserved_from_note_without_banner(self):
+        entry = {'id': '105.1155:51508', 'section': '105.1155', 'versionId': '51508', 'effectiveFrom': '2022-08-28',
+                 'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section=105.1155&bid=51508'}
+        source = Path('tests/fixtures/public-officers-105.1155-51508.html').read_text()
+        self.assertNotIn('all or part is unconstitutional', source)
+        record = collect.parse_section(source, entry, '2026-11-12T22:00:00+00:00')
+        self.assertTrue(record['hasConstitutionalWarning'])
+        self.assertNotIn('multipleEnactments', record)
+        with self.assertRaisesRegex(ValueError, 'Unverified constitutional warning'):
+            collect.parse_section(source.replace('This section was declared unconstitutional', 'A court case is discussed'), entry, '2026-11-12T22:00:00+00:00')

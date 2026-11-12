@@ -20,18 +20,19 @@ Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no
 
 **Statewide heading coverage is the goal. It isn't finished.**
 
-The November 12, 2026 collection contains **7,431 distinct sections and 7,473 source versions** across **123 chapter indexes**. One hundred twenty-one have headings; Chapters 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **345** outside this collection at this check.
+The November 12, 2026 collection contains **8,038 distinct sections and 8,080 source versions** across **131 chapter indexes**. One hundred twenty-nine have headings; Chapters 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **337** outside this collection at this check.
 
 | Area | Imported scope |
 | --- | --- |
 | State government, laws, emblems, military affairs and police | Titles I–V |
 | County, township and political subdivision government | Title VI: Chapters 46–61, 64–68 and 70 |
 | Cities, towns and villages | Title VII: Chapters 71–72, 77–82, 84–92, 94–96 and 98–100 |
+| Public officers, employee benefits, bonds and records | Title VIII: Chapters 103–110 |
 | Motor vehicles, watercraft and aviation | Title XIX: Chapters 300–307 |
 | Criminal procedure | Title XXXVII: Chapters 540–552 |
 | Crimes, punishment, peace officers and public defenders | Title XXXVIII: Chapters 556–579, 589, 590, 595 and 600 |
 
-The municipal batch adds **1,808 sections**, including city government, police and fire pensions, zoning, utilities, taxation, housing and industrial development. Next is Title VIII: public officers and employees, bonds and records. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
+The latest batch adds **607 sections**, including state employee health plans and retirement, public officers, bonds, records and depositaries for public funds. Next is Title IX: suffrage and elections. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
 
 These are state statute headings. The collection doesn't include local ordinances, court rules, regulations, constitutional provisions, federal law, or a complete historical archive. Chapter 300 is the state's Model Traffic Ordinance; its presence doesn't establish what a particular city has adopted.
 
@@ -39,7 +40,7 @@ Each chapter and source version keeps its retrieval date and response hash. Addi
 
 ## What has been checked
 
-The municipal expansion passed **364 TypeScript tests and 27 Python tests**, TypeScript checks, and the production build. All 23 new chapter indexes matched a second retrieval. Browser checks covered source warnings, chapter filters, keyboard navigation and narrow screens.
+The Title VIII expansion passed **393 TypeScript tests and 29 Python tests**, TypeScript checks, and the production build. All eight new chapter indexes matched a second retrieval. Browser checks covered source warnings, chapter filters, keyboard navigation and narrow screens.
 
 The collection process checks every listed version against its official page, then retrieves the new chapter indexes again to check for changes. Tests cover search relevance, exact citations, chapter boundaries, source identities, and version handling. A failed validation blocks publication.
 
