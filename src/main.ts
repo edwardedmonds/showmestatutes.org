@@ -33,11 +33,14 @@ function card(match: Match, future: boolean) {
     ? `Source effective date ${formatDate(r.effectiveFrom)} · The Revisor flags all or part as unconstitutional. Read the official notes before relying on this version.`
     : r.effectiveDateIsPlaceholder
     ? 'Contingent effective date · the source date is a placeholder, not a scheduled start. Read the official conditions.'
+    : r.hasContingentEffectiveDate
+    ? `Contingent effective date · source date ${formatDate(r.effectiveFrom)}. Read the official conditions before relying on this version.`
     : `${future ? 'Upcoming · effective' : 'Effective'} ${formatDate(r.effectiveFrom)}${r.effectiveTo ? ` · ends ${formatDate(r.effectiveTo)}` : ''}`;
-  const dates = element('p', dateLabel, future || r.effectiveDateIsPlaceholder || r.hasConstitutionalWarning ? 'version future' : 'version');
+  const dates = element('p', dateLabel, future || r.effectiveDateIsPlaceholder || r.hasContingentEffectiveDate || r.hasConstitutionalWarning ? 'version future' : 'version');
   const bottom = element('div', undefined, 'card-bottom');
   bottom.append(element('span', match.reason, 'match-reason'), element('small', `Source checked ${formatDate(r.sourceCheckedAt)}`));
   item.append(meta, title, dates, bottom);
+  if (r.headingSource === 'chapter-index') item.append(element('p', 'Heading supplied by the official chapter index; this version’s source page omits its heading.', 'version'));
   const sourceNotice = constitutionalNotice(r);
   if (sourceNotice) item.append(element('p', sourceNotice, 'version'));
   if (r.multipleEnactments) item.append(element('p', `Multiple enactments · source version ${r.versionId}. ${enactmentNotice(r)}`, 'version'));

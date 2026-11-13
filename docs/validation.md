@@ -1,3 +1,27 @@
+# Title XII completion — November 13, 2026
+
+## Scope and source review
+
+Chapters 208–211 and 213–215 add **755 distinct sections and 760 source versions**, completing all 25 listed Title XII chapter indexes. The combined snapshot contains **13,577 sections and 13,633 versions across 209 chapter indexes**, including 205 populated and four reviewed empty indexes. Of the 468 chapter links in the checked official catalog, **259 remain**. Title XIII is next.
+
+All seven new indexes matched independent second retrievals using the strict parser. The combined offline collector passed without changing any of the prior 12,873 records or 202 chapter-manifest objects. The change report has 760 additions, no removals and no changed prior records. There are 43 constitutionally warned versions, 32 scheduled future versions and 19 contingent versions: 14 existing placeholder-date records plus five newly reviewed conditional amendments whose source dates remain 2007-08-28.
+
+The five compact-related pairs in §§210.620, 210.622, 210.625, 210.635 and 210.640 retain their exact identities, dates, blank end dates and source notices. Their amended versions appear separately as contingent regardless of the upcoming-version toggle. Their earlier versions remain available alongside the source's explanation that both are printed. No applicability decision or inferred end date is made. The single indexed versions of §§210.630 and 210.700 retain their footnote markers despite source notes referring to both versions; no unlisted version is fabricated.
+
+Three retrieved responses for 210.620:11394 omit the normal heading. Both official chapter-index responses contain the complete matching heading, so a single reviewed index-heading exception was added with explicit record and UI provenance. The collector requires that exact index text, the document title, source opening paragraph, effective date, selected version, history and contingent notice. Unrelated missing or mismatched headings remain failures. Rejected responses are retained as review evidence.
+
+## Validation and search
+
+All **737 TypeScript tests and 39 Python tests** passed, along with TypeScript checks and the production build. Thirty-one initial query cases were defined from official index wording before ranking evaluation. The broad “housing trust fund” case initially expected the creation section first, but the administration section is also a legitimate match. That case now requires both sections, and a 32nd, specific “housing trust fund created” query verifies the creation section first. Ranking and aliases were not changed. Further tests cover exact citations, every compact pair under both upcoming settings, conditional-date separation, index-heading provenance, malformed-source rejection and the two single-version footnotes. The validators reject altered conditional flags and heading provenance. The release change report now includes those fields. Existing parser, search and source-version regression tests passed. These checks are not an independent legal-search assessment.
+
+## Browser and publication
+
+The production preview loaded 13,577 headings. Exact §210.620 lookup showed the 1975 version and a separate conditional 2007 version, with index-heading provenance disclosed; toggling upcoming versions retained both. A Chapter 211 filter excluded that Chapter 210 citation. Housing trust fund creation returned §215.034 first; §208.1420 retained its four-digit suffix, and the employment-practices query found §213.055. Long housing headings remained readable at 320 pixels, with no horizontal overflow at 320 or 390 pixels. The example search and Arrow Down focused §565.020. No browser warnings or errors were recorded.
+
+The visual layout remains unchanged; the added explanatory text uses existing result-card styling. README, coverage policy, source notes and fallback disclosure reflect completed Title XII catalog coverage without claiming statewide or historical completeness. Snapshot-specific data filenames remain in use. Workflow success and live-file comparisons are checked after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Children's health and local health services — November 13, 2026
 
 ## Scope and source checks

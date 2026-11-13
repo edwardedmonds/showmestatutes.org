@@ -66,7 +66,7 @@ export function createSearch(records: Statute[], index = buildIndex(records)) {
         best: matches.filter(r => isEffective(r, asOf)).map(record => ({ record, reason: 'Exact section number', score: 1000 })),
         upcoming: includeUpcoming ? matches.filter(r => isUpcoming(r, asOf)).map(record => ({ record, reason: 'Exact section number', score: 1000 })) : [],
         constitutional: matches.filter(r => r.hasConstitutionalWarning).map(record => ({ record, reason: 'Exact section number', score: 1000 })),
-        contingent: matches.filter(r => r.effectiveDateIsPlaceholder).map(record => ({ record, reason: 'Exact section number', score: 1000 })),
+        contingent: matches.filter(r => r.effectiveDateIsPlaceholder || r.hasContingentEffectiveDate).map(record => ({ record, reason: 'Exact section number', score: 1000 })),
       };
     }
     // Never correct a numeric reference or mix numbers into fuzzy heading matching.
@@ -119,6 +119,6 @@ export function createSearch(records: Statute[], index = buildIndex(records)) {
       .map(record => ({ record, reason: topicSections.length ? 'Broader topic match' : 'Related section', score: 0 }));
     return { best, related: relatedMatches, upcoming: includeUpcoming ? scored.filter(m => isUpcoming(m.record, asOf)) : [],
       constitutional: scored.filter(m => m.record.hasConstitutionalWarning),
-      contingent: scored.filter(m => m.record.effectiveDateIsPlaceholder), correction, exact: false };
+      contingent: scored.filter(m => m.record.effectiveDateIsPlaceholder || m.record.hasContingentEffectiveDate), correction, exact: false };
   };
 }

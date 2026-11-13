@@ -67,10 +67,23 @@ def parse_index(html, chapter='565'):
             if rows[key] != row_text:
                 raise ValueError(f'Conflicting duplicate index version: {key}')
             raise ValueError(f'Duplicate index row may hide missing coverage: {key}')
+        exception = next((p for p in POLICY.get('indexHeadingExceptions', []) if p['id'] == key), None)
+        index_heading = None
+        if exception:
+            cells = row.find_all('td')
+            if len(cells) < 2:
+                raise ValueError('Missing reviewed index heading: ' + key)
+            cell = BeautifulSoup(str(cells[1]), 'html.parser')
+            for span in cell.select('span'):
+                span.decompose()
+            index_heading = clean(cell.get_text(' '))
+            if index_heading != exception['title'] or date(match[1]) != exception['effectiveFrom']:
+                raise ValueError('Changed reviewed index heading: ' + key)
         rows[key] = row_text
         entries[key] = {'id': key, 'section': section, 'versionId': bid,
                         'effectiveFrom': date(match[1]),
-                        'sourceUrl': f'{BASE}/main/OneSection.aspx?section={section}&bid={bid}'}
+                        'sourceUrl': f'{BASE}/main/OneSection.aspx?section={section}&bid={bid}',
+                        **({'indexHeading': index_heading} if index_heading else {})}
     if len(entries) < CHAPTERS[chapter]['minimumVersions']:
         raise ValueError('Incomplete or changed chapter index: ' + chapter)
     if not entries and (not CHAPTERS[chapter].get('emptyIndexReviewedAt')
@@ -84,18 +97,29 @@ def parse_section(html, entry, checked_at):
     soup = BeautifulSoup(html, 'html.parser')
     effective = soup.select_one('#effdt')
     heading = soup.select_one('div.norm > p.norm > span.bold')
-    if not effective or not heading:
+    exception = next((p for p in POLICY.get('indexHeadingExceptions', []) if p['id'] == entry['id']), None)
+    if not effective or (not heading and not exception):
         raise ValueError(f'Missing heading/effective date for {entry["id"]}')
     match = re.search(r'Effective\s*-\s*(\d{2} \w{3} \d{4})', clean(effective.get_text(' ')))
     if not match or date(match[1]) != entry['effectiveFrom']:
         raise ValueError(f'Source date differs from index for {entry["id"]}')
-    full_heading = clean(heading.get_text(' '))
+    full_heading = clean(heading.get_text(' ')) if heading else ''
     marker = '*' if full_heading.startswith('*') else ''
     full_heading = full_heading.lstrip('*').strip()
     prefix = entry['section'] + '.'
-    if not full_heading.startswith(prefix) or not full_heading.endswith('—'):
-        raise ValueError(f'Unexpected heading for {entry["id"]}')
-    title = full_heading[len(prefix):].strip().removesuffix('—').strip()
+    if exception:
+        opening = soup.select_one('div.norm > p')
+        if (entry.get('indexHeading') != exception['title'] or entry['effectiveFrom'] != exception['effectiveFrom']
+                or not soup.title or not clean(soup.title.get_text()).endswith('RSMo Section ' + entry['section'])
+                or not opening or clean(opening.get_text(' ')) != exception['sourceOpening']
+                or full_heading.startswith(prefix)):
+            raise ValueError('Unverified index-heading exception: ' + entry['id'])
+        title = entry['indexHeading']
+        marker = ''
+    else:
+        if not full_heading.startswith(prefix) or not full_heading.endswith('—'):
+            raise ValueError(f'Unexpected heading for {entry["id"]}')
+        title = full_heading[len(prefix):].strip().removesuffix('—').strip()
     if not title or title.endswith('...'):
         raise ValueError('Missing/truncated heading')
     # Navigation includes the selected source identity even for single-version pages.
@@ -148,7 +172,9 @@ def parse_section(html, entry, checked_at):
             or warning['sourceNotice'] not in clean(soup.get_text(' ')))):
         raise ValueError('Unverified constitutional warning: ' + entry['id'])
     chapter = entry['section'].split('.')[0]
-    return {**entry, 'title': title, 'chapter': chapter, 'chapterTitle': CHAPTERS[chapter]['title'],
+    return {**{k: v for k, v in entry.items() if k != 'indexHeading'},
+            **({'headingSource': 'chapter-index'} if exception else {}),
+            **({'hasContingentEffectiveDate': True} if reviewed and reviewed.get('conditionPending') else {}), 'title': title, 'chapter': chapter, 'chapterTitle': CHAPTERS[chapter]['title'],
             'effectiveTo': until, **({'multipleEnactments': True} if concurrent or delayed or (contingent and contingent['multipleEnactments']) else {}),
             **({'effectiveDateIsPlaceholder': True} if placeholder else {}),
             **({'hasConstitutionalWarning': True} if source_warning else {}), 'headingMarker': marker, 'sourceCheckedAt': checked_at,
@@ -195,6 +221,13 @@ def validate(dataset, previous=None):
             raise ValueError('Unverified concurrent enactment marker')
         if (record.get('effectiveDateIsPlaceholder') is not None and record.get('effectiveDateIsPlaceholder') is not True) or bool(record.get('effectiveDateIsPlaceholder')) != bool(reviewed and reviewed['dateIsPlaceholder']):
             raise ValueError('Unverified placeholder date marker')
+        if ((record.get('hasContingentEffectiveDate') is not None and record.get('hasContingentEffectiveDate') is not True)
+                or bool(record.get('hasContingentEffectiveDate')) != bool(reviewed and reviewed.get('conditionPending'))):
+            raise ValueError('Unverified contingent date marker')
+        heading_exception = next((p for p in POLICY.get('indexHeadingExceptions', []) if p['id'] == record['id']), None)
+        if ((record.get('headingSource') != ('chapter-index' if heading_exception else None))
+                or (heading_exception and (record['title'] != heading_exception['title'] or record['effectiveFrom'] != heading_exception['effectiveFrom']))):
+            raise ValueError('Unverified index heading provenance')
         warning = next((p for p in POLICY.get('constitutionalWarnings', []) if p['id'] == record['id']), None)
         if ((record.get('hasConstitutionalWarning') is not None and record.get('hasConstitutionalWarning') is not True)
                 or bool(record.get('hasConstitutionalWarning')) != bool(warning)
@@ -260,8 +293,8 @@ def validate(dataset, previous=None):
         if lost:
             raise ValueError('Record loss requires explicit review: ' + ', '.join(sorted(lost)))
     return {'valid': True, 'records': len(records), 'sections': len(grouped), 'chapters': len(CHAPTERS),
-            'futureVersionsAtCheck': sum(not r.get('hasConstitutionalWarning') and not r.get('effectiveDateIsPlaceholder') and r['effectiveFrom'] > manifest['collectedAt'][:10] for r in records),
-            'contingentVersions': sum(bool(r.get('effectiveDateIsPlaceholder')) for r in records),
+            'futureVersionsAtCheck': sum(not r.get('hasConstitutionalWarning') and not r.get('effectiveDateIsPlaceholder') and not r.get('hasContingentEffectiveDate') and r['effectiveFrom'] > manifest['collectedAt'][:10] for r in records),
+            'contingentVersions': sum(bool(r.get('effectiveDateIsPlaceholder') or r.get('hasContingentEffectiveDate')) for r in records),
             'constitutionalWarningVersions': sum(bool(r.get('hasConstitutionalWarning')) for r in records)}
 
 

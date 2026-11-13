@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XI, XIX, XXXVII and XXXVIII, plus Title XII Chapters 188–199, 201 and 203–207. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XII, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -117,3 +117,9 @@ A resumable acquisition process now collects remaining catalog sources independe
 Chapters 201 and 204–207 add 240 individually checked source versions. No new source warnings, contingent dates, overlaps or reprinted pairs were needed. All five populated chapter indexes matched independent second retrievals. Earlier record and chapter provenance remains unchanged.
 
 Chapter 203 is a reviewed empty index explicitly titled Air Conservation (Transferred to Chapter 643). Both index responses have the correct chapter identity, a whole-chapter link, the Cross References shell and no section rows. The policy sets minimumVersions to zero only alongside its explicit emptyIndexReviewedAt date. The parser continues rejecting missing page structure; the transfer does not fabricate sections or mark Chapter 643 as collected.
+
+## Final Title XII batch
+
+All 760 source versions in Chapters 208–211 and 213–215 passed individual source checks, with independent index rechecks. Ten records form five explicitly reviewed contingent-amendment pairs. The new `hasContingentEffectiveDate` marker distinguishes the five conditional 2007 amendments without changing their dates or incorrectly describing them as placeholders. Both validators require this marker to agree with the reviewed version policy. Search excludes these records from ordinary current/upcoming results and includes them in the existing contingent group. The exact notices are required by the parser, including §210.622's reference to §210.620 rather than silently normalizing it to §210.650.
+
+The `indexHeadingExceptions` policy covers only **210.620:11394**. Its source page begins with compact text and omits the usual section heading; two rejected responses and the accepted response preserve this observation. The parser requires the exact complete heading from the matching official index row, reviewed date, section document title, specific opening paragraph, selected-version navigation, history and source notice. It rejects a changed or truncated index heading and altered source identity. The emitted record states `headingSource: chapter-index`, and the UI discloses the alternate heading source. Ordinary missing or mismatched headings still fail. The release change report includes both new semantic fields.

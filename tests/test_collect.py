@@ -426,3 +426,40 @@ class HealthCollectionTests(unittest.TestCase):
         for bad in [source.replace('Cross References', 'Missing body'), source.replace('chapter=203&amp;idx=v', 'chapter=643&amp;idx=v')]:
             with self.assertRaisesRegex(ValueError, 'Unverified empty'):
                 collect.parse_index(bad, '203')
+
+class CompactSourceTests(unittest.TestCase):
+    def test_missing_heading_requires_exact_reviewed_index_row_and_source_identity(self):
+        html = Path('tests/fixtures/compact-index-210.html').read_text()
+        with unittest.mock.patch.dict(collect.CHAPTERS['210'], minimumVersions=1):
+            entry = collect.parse_index(html, '210')[0]
+            for bad in [html.replace('Compact enacted, text of compact.', 'Compact ...'), html.replace('8/28/2007', '8/28/2008')]:
+                with self.assertRaisesRegex(ValueError, 'reviewed index heading'):
+                    collect.parse_index(bad, '210')
+        source = Path('tests/fixtures/compact-210.620-11394.html').read_text()
+        record = collect.parse_section(source, entry, '2026-11-13T09:00:00+00:00')
+        self.assertEqual(record['title'], 'Compact enacted, text of compact.')
+        self.assertEqual(record['headingSource'], 'chapter-index')
+        self.assertNotIn('indexHeading', record)
+        for bad_entry in [{k:v for k,v in entry.items() if k != 'indexHeading'}, {**entry, 'indexHeading':'Invented heading'}]:
+            with self.assertRaisesRegex(ValueError, 'index-heading exception'):
+                collect.parse_section(source, bad_entry, '2026-11-13T09:00:00+00:00')
+        for bad in [source.replace('RSMo Section 210.620', 'RSMo Section 210.625'), source.replace('hereby enacted', 'hereby changed'), source.replace('bid=11394', 'bid=99999'), source.replace('Contingent effective date', 'Different notice')]:
+            with self.assertRaises(ValueError):
+                collect.parse_section(bad, entry, '2026-11-13T09:00:00+00:00')
+
+    def test_all_compact_pairs_require_exact_notices_and_preserve_nonplaceholder_dates(self):
+        for policy in [p for p in collect.POLICY['contingentEnactments'] if p['section'] in ['210.620', '210.622', '210.625', '210.635', '210.640']]:
+            for version in policy['versions']:
+                sec = policy['section']; bid = version['versionId']
+                entry = {'id':sec+':'+bid, 'section':sec,'versionId':bid,'effectiveFrom':version['effectiveFrom'], 'sourceUrl':f'https://revisor.mo.gov/main/OneSection.aspx?section={sec}&bid={bid}'}
+                if entry['id']=='210.620:11394':entry['indexHeading']='Compact enacted, text of compact.'
+                source = Path(f'tests/fixtures/compact-{sec}-{bid}.html').read_text()
+                record = collect.parse_section(source, entry, '2026-11-13T09:00:00+00:00')
+                self.assertEqual(bool(record.get('hasContingentEffectiveDate')),version['conditionPending'])
+                self.assertNotIn('effectiveDateIsPlaceholder',record)
+                self.assertIsNone(record['effectiveTo'])
+                self.assertTrue(record['multipleEnactments'])
+                self.assertEqual(record['effectiveFrom'],version['effectiveFrom'])
+                for bad in [source.replace('Contingent effective date', 'Changed date').replace('contingent effective date', 'changed date'), source.replace('There are multiple enactments of', 'History of')]:
+                    with self.assertRaisesRegex(ValueError, 'contingent'):
+                        collect.parse_section(bad, entry, '2026-11-13T09:00:00+00:00')

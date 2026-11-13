@@ -938,6 +938,48 @@
       "minimumVersions": 9
     },
     {
+      "chapter": "208",
+      "title": "Old Age Assistance, Aid to Dependent Children and General Relief",
+      "category": "government",
+      "minimumVersions": 227
+    },
+    {
+      "chapter": "209",
+      "title": "Disabilities Assistance, Aid to the Blind, and Rights of Persons with Visual, Hearing or Physical Disabilities",
+      "category": "government",
+      "minimumVersions": 76
+    },
+    {
+      "chapter": "210",
+      "title": "Child Protection and Reformation",
+      "category": "government",
+      "minimumVersions": 222
+    },
+    {
+      "chapter": "211",
+      "title": "Juvenile Courts",
+      "category": "government",
+      "minimumVersions": 102
+    },
+    {
+      "chapter": "213",
+      "title": "Human Rights",
+      "category": "government",
+      "minimumVersions": 23
+    },
+    {
+      "chapter": "214",
+      "title": "Cemeteries",
+      "category": "government",
+      "minimumVersions": 67
+    },
+    {
+      "chapter": "215",
+      "title": "State Housing",
+      "category": "government",
+      "minimumVersions": 43
+    },
+    {
       "chapter": "300",
       "title": "Model Traffic Ordinance",
       "category": "transportation",
@@ -1246,7 +1288,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XI, XIX, XXXVII and XXXVIII, plus Title XII Chapters 188–199, 201 and 203–207, at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XII, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -1490,6 +1532,126 @@
       "sourceNotice": "H.B. 1 will not go into effect unless and until approved by the voters.",
       "displayNotice": "The Revisor prints both versions because the 2025 enactment is subject to a referendum. Its 2099 date is a placeholder. Read the official source notices for conditions and applicability.",
       "basis": "The source explicitly labels 2099 as a placeholder and describes referendum conditions. Preserve every listed version and blank end date without deciding whether the conditions have occurred."
+    },
+    {
+      "section": "210.620",
+      "versions": [
+        {
+          "versionId": "11394",
+          "effectiveFrom": "2007-08-28",
+          "dateIsPlaceholder": false,
+          "conditionPending": true,
+          "sourceNotice": "Contingent effective date, see § 210.650"
+        },
+        {
+          "versionId": "33098",
+          "effectiveFrom": "1975-08-28",
+          "dateIsPlaceholder": false,
+          "conditionPending": false,
+          "sourceNotice": "*This section was amended by S.B. 84, 2007. Due to the contingent effective date contained in section 210.650 , both versions of this section are printed."
+        }
+      ],
+      "multipleEnactments": true,
+      "reviewedAt": "2026-11-13",
+      "sourceNotice": "Contingent effective date, see § 210.650",
+      "displayNotice": "The Revisor prints both versions because the amendment has a contingent effective date under section 210.650. The displayed 2007 date does not establish that the condition occurred. Read both versions and the official source notes.",
+      "basis": "Both history rows have blank end dates. Section 210.650 states that the revised compact needs enactment by at least 35 states and its Revisor note says that has not occurred. Preserve the original dates without inventing an end date or resolving applicability."
+    },
+    {
+      "section": "210.622",
+      "versions": [
+        {
+          "versionId": "11395",
+          "effectiveFrom": "2007-08-28",
+          "dateIsPlaceholder": false,
+          "conditionPending": true,
+          "sourceNotice": "Contingent effective date, see § 210.620"
+        },
+        {
+          "versionId": "33099",
+          "effectiveFrom": "1985-08-28",
+          "dateIsPlaceholder": false,
+          "conditionPending": false,
+          "sourceNotice": "*This section was amended by S.B. 84, 2007. Due to the contingent effective date contained in section 210.650, both versions of this section are printed."
+        }
+      ],
+      "multipleEnactments": true,
+      "reviewedAt": "2026-11-13",
+      "sourceNotice": "Contingent effective date, see § 210.620",
+      "displayNotice": "The Revisor prints both versions because the amendment has a contingent effective date under section 210.650. The displayed 2007 date does not establish that the condition occurred. Read both versions and the official source notes.",
+      "basis": "Both history rows have blank end dates. Section 210.650 states that the revised compact needs enactment by at least 35 states and its Revisor note says that has not occurred. Preserve the original dates without inventing an end date or resolving applicability."
+    },
+    {
+      "section": "210.625",
+      "versions": [
+        {
+          "versionId": "11396",
+          "effectiveFrom": "2007-08-28",
+          "dateIsPlaceholder": false,
+          "conditionPending": true,
+          "sourceNotice": "Contingent effective date, see § 210.650"
+        },
+        {
+          "versionId": "33100",
+          "effectiveFrom": "1975-08-28",
+          "dateIsPlaceholder": false,
+          "conditionPending": false,
+          "sourceNotice": "*This section was amended by S.B. 84, 2007. Due to the contingent effective date contained in section 210.650, both versions of this section are printed."
+        }
+      ],
+      "multipleEnactments": true,
+      "reviewedAt": "2026-11-13",
+      "sourceNotice": "Contingent effective date, see § 210.650",
+      "displayNotice": "The Revisor prints both versions because the amendment has a contingent effective date under section 210.650. The displayed 2007 date does not establish that the condition occurred. Read both versions and the official source notes.",
+      "basis": "Both history rows have blank end dates. Section 210.650 states that the revised compact needs enactment by at least 35 states and its Revisor note says that has not occurred. Preserve the original dates without inventing an end date or resolving applicability."
+    },
+    {
+      "section": "210.635",
+      "versions": [
+        {
+          "versionId": "11398",
+          "effectiveFrom": "2007-08-28",
+          "dateIsPlaceholder": false,
+          "conditionPending": true,
+          "sourceNotice": "Contingent effective date, see § 210.650"
+        },
+        {
+          "versionId": "33101",
+          "effectiveFrom": "1975-08-28",
+          "dateIsPlaceholder": false,
+          "conditionPending": false,
+          "sourceNotice": "*This section was amended by S.B. 84, 2007. Due to the contingent effective date contained in section 210.650, both versions of this section are printed."
+        }
+      ],
+      "multipleEnactments": true,
+      "reviewedAt": "2026-11-13",
+      "sourceNotice": "Contingent effective date, see § 210.650",
+      "displayNotice": "The Revisor prints both versions because the amendment has a contingent effective date under section 210.650. The displayed 2007 date does not establish that the condition occurred. Read both versions and the official source notes.",
+      "basis": "Both history rows have blank end dates. Section 210.650 states that the revised compact needs enactment by at least 35 states and its Revisor note says that has not occurred. Preserve the original dates without inventing an end date or resolving applicability."
+    },
+    {
+      "section": "210.640",
+      "versions": [
+        {
+          "versionId": "11399",
+          "effectiveFrom": "2007-08-28",
+          "dateIsPlaceholder": false,
+          "conditionPending": true,
+          "sourceNotice": "Contingent effective date, see § 210.650"
+        },
+        {
+          "versionId": "33102",
+          "effectiveFrom": "1975-08-28",
+          "dateIsPlaceholder": false,
+          "conditionPending": false,
+          "sourceNotice": "*This section was amended by S.B. 84, 2007. Due to the contingent effective date contained in section 210.650, both versions of this section are printed."
+        }
+      ],
+      "multipleEnactments": true,
+      "reviewedAt": "2026-11-13",
+      "sourceNotice": "Contingent effective date, see § 210.650",
+      "displayNotice": "The Revisor prints both versions because the amendment has a contingent effective date under section 210.650. The displayed 2007 date does not establish that the condition occurred. Read both versions and the official source notes.",
+      "basis": "Both history rows have blank end dates. Section 210.650 states that the revised compact needs enactment by at least 35 states and its Revisor note says that has not occurred. Preserve the original dates without inventing an end date or resolving applicability."
     }
   ],
   "delayedEnactments": [
@@ -2002,6 +2164,16 @@
       "id": "192.310:9768",
       "effectiveFrom": "2014-08-28",
       "sourceNotice": "This section was declared unconstitutional in Calzone v. Koster, et al."
+    }
+  ],
+  "indexHeadingExceptions": [
+    {
+      "id": "210.620:11394",
+      "title": "Compact enacted, text of compact.",
+      "effectiveFrom": "2007-08-28",
+      "sourceOpening": "The Interstate Compact on the Placement of Children is hereby enacted into law and entered into with all other jurisdictions legally joining therein, in form substantially as follows:",
+      "reviewedAt": "2026-11-13",
+      "basis": "Three exact-version responses omit the section heading; both independently retrieved official index rows supply this complete heading. The source document title, opening paragraph, selected version, dates, history and contingent notice remain required. The chapter manifest retains index response provenance."
     }
   ]
 }

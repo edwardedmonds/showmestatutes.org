@@ -21,6 +21,8 @@ export interface Statute {
   multipleEnactments?: true;
   effectiveDateIsPlaceholder?: true;
   hasConstitutionalWarning?: true;
+  hasContingentEffectiveDate?: true;
+  headingSource?: 'chapter-index';
 }
 export interface Dataset {
   manifest: {
@@ -50,6 +52,7 @@ export function assertDataset(value: unknown): asserts value is Dataset {
   const ids = new Set<string>();
   const sections = new Map<string, Statute[]>();
   for (const r of d.records) {
+    const headingException = coverage.indexHeadingExceptions.find(p => p.id === r?.id);
     const warning = coverage.constitutionalWarnings.find(p => p.id === r?.id);
     const contingentPolicy = coverage.contingentEnactments.find(c => c.section === r?.section);
     const delayed = reviewedOverlaps.find(c => c.section === r?.section)?.versions.find(v => v.versionId === r?.versionId);
@@ -62,6 +65,10 @@ export function assertDataset(value: unknown): asserts value is Dataset {
       || Boolean(r.multipleEnactments) !== (Boolean(delayed) || Boolean(contingent && contingentPolicy?.multipleEnactments) || coverage.concurrentEnactments.some(c => c.section === r.section && c.versionIds.includes(r.versionId)))
       || (r.effectiveDateIsPlaceholder !== undefined && r.effectiveDateIsPlaceholder !== true)
       || Boolean(r.effectiveDateIsPlaceholder) !== Boolean(contingent?.dateIsPlaceholder)
+      || (r.hasContingentEffectiveDate !== undefined && r.hasContingentEffectiveDate !== true)
+      || Boolean(r.hasContingentEffectiveDate) !== Boolean(contingent && 'conditionPending' in contingent && contingent.conditionPending)
+      || r.headingSource !== (headingException ? 'chapter-index' : undefined)
+      || (headingException && (r.title !== headingException.title || r.effectiveFrom !== headingException.effectiveFrom))
       || (r.hasConstitutionalWarning !== undefined && r.hasConstitutionalWarning !== true)
       || Boolean(r.hasConstitutionalWarning) !== Boolean(warning)
       || (warning && r.effectiveFrom !== warning.effectiveFrom)
@@ -120,10 +127,10 @@ export function assertDataset(value: unknown): asserts value is Dataset {
   }
 }
 export function isEffective(record: Statute, asOf: string): boolean {
-  return !record.hasConstitutionalWarning && !record.effectiveDateIsPlaceholder && record.effectiveFrom <= asOf && (!record.effectiveTo || asOf < record.effectiveTo);
+  return !record.hasConstitutionalWarning && !record.effectiveDateIsPlaceholder && !record.hasContingentEffectiveDate && record.effectiveFrom <= asOf && (!record.effectiveTo || asOf < record.effectiveTo);
 }
 export function isUpcoming(record: Statute, asOf: string): boolean {
-  return !record.hasConstitutionalWarning && !record.effectiveDateIsPlaceholder && record.effectiveFrom > asOf;
+  return !record.hasConstitutionalWarning && !record.effectiveDateIsPlaceholder && !record.hasContingentEffectiveDate && record.effectiveFrom > asOf;
 }
 export function todayInMissouri(): string {
   const parts = new Intl.DateTimeFormat('en-US', { timeZone: 'America/Chicago', year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(new Date());
