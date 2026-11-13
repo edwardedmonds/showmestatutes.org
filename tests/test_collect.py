@@ -463,3 +463,18 @@ class CompactSourceTests(unittest.TestCase):
                 for bad in [source.replace('Contingent effective date', 'Changed date').replace('contingent effective date', 'changed date'), source.replace('There are multiple enactments of', 'History of')]:
                     with self.assertRaisesRegex(ValueError, 'contingent'):
                         collect.parse_section(bad, entry, '2026-11-13T09:00:00+00:00')
+
+class CorrectionsSourceTests(unittest.TestCase):
+    def test_scheduled_corrections_pairs_preserve_explicit_source_intervals(self):
+        for section, old_bid, old_date, new_bid in [('217.362','50061','2021-08-28','60694'), ('217.690','54802','2024-08-28','60695'), ('217.760','35661','2018-08-28','60696')]:
+            for bid, start, end in [(old_bid,old_date,'2028-01-01'), (new_bid,'2028-01-01',None)]:
+                entry={'id':section+':'+bid,'section':section,'versionId':bid,'effectiveFrom':start,'sourceUrl':f'https://revisor.mo.gov/main/OneSection.aspx?section={section}&bid={bid}'}
+                source=Path(f'tests/fixtures/corrections-{section}-{bid}.html').read_text()
+                record=collect.parse_section(source,entry,'2026-11-13T09:00:00+00:00')
+                self.assertEqual(record['effectiveFrom'],start)
+                self.assertEqual(record['effectiveTo'],end)
+                self.assertEqual(record['headingMarker'],'*' if end else '')
+                self.assertNotIn('multipleEnactments',record)
+                self.assertNotIn('hasContingentEffectiveDate',record)
+                with self.assertRaises(ValueError):
+                    collect.parse_section(source,{**entry,'effectiveFrom':'2029-01-01'},'2026-11-13T09:00:00+00:00')

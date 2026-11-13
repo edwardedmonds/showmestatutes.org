@@ -20,7 +20,7 @@ Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no
 
 **Statewide heading coverage is the goal. It isn't finished.**
 
-The November 13, 2026 collection contains **13,577 distinct sections and 13,633 source versions** across **209 chapter indexes**. Two hundred five have headings; Chapters 152, 203, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **259** outside this collection at this check.
+The November 13, 2026 collection contains **13,815 distinct sections and 13,874 source versions** across **212 chapter indexes**. Two hundred eight have headings; Chapters 152, 203, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **256** outside this collection at this check.
 
 | Area | Imported scope |
 | --- | --- |
@@ -32,11 +32,12 @@ The November 13, 2026 collection contains **13,577 distinct sections and 13,633 
 | Taxation and revenue | Title X: Chapters 135–155 |
 | Education, libraries and related cultural institutions | Title XI: Chapters 160–178 and 180–186 |
 | Public health and welfare, child protection, civil rights, cemeteries and housing | Title XII: Chapters 188–199, 201, 203–211 and 213–215 |
+| Correctional and penal institutions | Title XIII: Chapters 217, 219 and 221 |
 | Motor vehicles, watercraft and aviation | Title XIX: Chapters 300–307 |
 | Criminal procedure | Title XXXVII: Chapters 540–552 |
 | Crimes, punishment, peace officers and public defenders | Title XXXVIII: Chapters 556–579, 589, 590, 595 and 600 |
 
-The latest batch adds **755 sections and 760 source versions** from Chapters 208–211 and 213–215. That completes all 25 chapter indexes listed under Title XII, including its empty transferred index. Public assistance, disability services, child protection, juvenile courts, human rights, cemeteries and housing are now included. Title XIII, Correctional and Penal Institutions, is next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
+The latest batch adds **238 sections and 241 source versions**, completing Title XIII's three listed chapters: Department of Corrections, Youth Services, and Jails and Jailers. Three sections retain both their current versions and replacements scheduled for January 1, 2028. Title XIV, Roads and Waterways, is next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
 
 These are state statute headings. The collection doesn't include local ordinances, court rules, regulations, constitutional provisions, federal law, or a complete historical archive. Chapter 300 is the state's Model Traffic Ordinance; its presence doesn't establish what a particular city has adopted.
 
@@ -44,7 +45,7 @@ Each chapter and source version keeps its retrieval date and response hash. Addi
 
 ## What has been checked
 
-The latest public-health expansion passed **737 TypeScript tests and 39 Python tests**, TypeScript checks, and the production build. All seven new chapter indexes matched a second retrieval. Browser checks covered new searches, chapter boundaries, conditional versions, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
+The latest corrections expansion passed **760 TypeScript tests and 40 Python tests**, TypeScript checks, and the production build. All three new chapter indexes matched a second retrieval. Browser checks covered new searches, chapter boundaries, scheduled version changes, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
 
 The collection process checks every listed version against its official page, then retrieves the new chapter indexes again to check for changes. Tests cover search relevance, exact citations, chapter boundaries, source identities, and version handling. A failed validation blocks publication.
 

@@ -12,6 +12,7 @@
     "X",
     "XI",
     "XII",
+    "XIII",
     "XIX",
     "XXXVII",
     "XXXVIII"
@@ -980,6 +981,24 @@
       "minimumVersions": 43
     },
     {
+      "chapter": "217",
+      "title": "Department of Corrections",
+      "category": "government",
+      "minimumVersions": 169
+    },
+    {
+      "chapter": "219",
+      "title": "Youth Services",
+      "category": "government",
+      "minimumVersions": 21
+    },
+    {
+      "chapter": "221",
+      "title": "Jails and Jailers",
+      "category": "government",
+      "minimumVersions": 51
+    },
+    {
       "chapter": "300",
       "title": "Model Traffic Ordinance",
       "category": "transportation",
@@ -1288,7 +1307,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XII, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XIII, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",

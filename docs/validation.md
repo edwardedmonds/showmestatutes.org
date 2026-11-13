@@ -1,3 +1,23 @@
+# Title XIII corrections coverage — November 13, 2026
+
+## Coverage and sources
+
+All three catalog chapters in Title XIII are now included: Department of Corrections (217), Youth Services (219), and Jails and Jailers (221). They add **238 sections and 241 source versions**, bringing the snapshot to **13,815 sections, 13,874 versions and 212 chapter indexes** (208 populated, four reviewed empty). **256 of the 468 catalog links remain**. Title XIV, Roads and Waterways, is next.
+
+The three new indexes matched independent second retrievals through the strict parser. All source pages passed identity, date and heading checks without retries. The combined offline collector passed, and integrity comparison retained all 13,633 prior records and 209 prior chapter manifests unchanged. The change report contains 241 additions, no removals and no changes.
+
+Three scheduled pairs in §§217.362, 217.690 and 217.760 preserve the source's explicit end date for the earlier version and start date for the later version: January 1, 2028. The original asterisks and delayed-date source notes remain in the preserved evidence. No inferred dates or overlapping-version exceptions were needed. Totals are 35 scheduled future versions, 19 contingent versions and 43 constitutionally warned versions.
+
+## Tests and browser checks
+
+All **760 TypeScript tests and 40 Python tests** passed, along with TypeScript checks and the production build. Twenty-one new query cases were defined from official index snippets before ranking evaluation. Additional checks cover exact citations, chapter exclusions, all three version pairs with upcoming versions on and off, and the January 1, 2028 transition boundary. Six compact source fixtures retain exact headings, dates, notices and history rows. No parser, ranking or alias changes were needed.
+
+The production preview loaded 13,815 headings. Exact §217.760 lookup showed its current version and explicit January 1, 2028 end date; enabling upcoming versions added the replacement with its distinct heading and exact source link. Filtering that citation to Chapter 219 returned no result. The aftercare-supervision query found §219.026 first, and the jail-commissary query found §221.102. The result layout was visually checked at 320 pixels, and neither 320- nor 390-pixel widths overflowed horizontally. The example search and Arrow Down focused §565.020. No browser warnings or errors were recorded.
+
+README, coverage policy, roadmap, source notes and fallback scope describe the released coverage. The design and filtering controls remain unchanged. Snapshot-specific data files remain in use; the deployment workflow and live asset comparisons are checked after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding. These checks do not constitute an independent assessment of legal-search accuracy.
+
+---
+
 # Title XII completion — November 13, 2026
 
 ## Scope and source review

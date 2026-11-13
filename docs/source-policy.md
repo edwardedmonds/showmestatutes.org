@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XII, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XIII, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -123,3 +123,7 @@ Chapter 203 is a reviewed empty index explicitly titled Air Conservation (Transf
 All 760 source versions in Chapters 208–211 and 213–215 passed individual source checks, with independent index rechecks. Ten records form five explicitly reviewed contingent-amendment pairs. The new `hasContingentEffectiveDate` marker distinguishes the five conditional 2007 amendments without changing their dates or incorrectly describing them as placeholders. Both validators require this marker to agree with the reviewed version policy. Search excludes these records from ordinary current/upcoming results and includes them in the existing contingent group. The exact notices are required by the parser, including §210.622's reference to §210.620 rather than silently normalizing it to §210.650.
 
 The `indexHeadingExceptions` policy covers only **210.620:11394**. Its source page begins with compact text and omits the usual section heading; two rejected responses and the accepted response preserve this observation. The parser requires the exact complete heading from the matching official index row, reviewed date, section document title, specific opening paragraph, selected-version navigation, history and source notice. It rejects a changed or truncated index heading and altered source identity. The emitted record states `headingSource: chapter-index`, and the UI discloses the alternate heading source. Ordinary missing or mismatched headings still fail. The release change report includes both new semantic fields.
+
+## Title XIII — Corrections
+
+Chapters 217, 219 and 221 add 241 individually checked versions. All three chapter indexes matched strict independent rechecks. The review found three scheduled transitions, §§217.362, 217.690 and 217.760, whose earlier versions have explicit 2028-01-01 end dates. Each later version begins on that date. The exact source history intervals, footnote markers and raw Revisor notes remain preserved; the ordinary interval validator handles these pairs without a policy exception. Six source fixtures and regression tests cover source dates, exact identities and the transition boundary. There were no rejected source responses in this batch. Earlier record and chapter provenance remains unchanged.
