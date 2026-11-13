@@ -20,6 +20,7 @@ export interface Statute {
   headingMarker?: string;
   multipleEnactments?: true;
   effectiveDateIsPlaceholder?: true;
+  effectiveEndDateIsPlaceholder?: true;
   hasConstitutionalWarning?: true;
   hasContingentEffectiveDate?: true;
   headingSource?: 'chapter-index';
@@ -65,6 +66,9 @@ export function assertDataset(value: unknown): asserts value is Dataset {
       || Boolean(r.multipleEnactments) !== (Boolean(delayed) || Boolean(contingent && contingentPolicy?.multipleEnactments) || coverage.concurrentEnactments.some(c => c.section === r.section && c.versionIds.includes(r.versionId)))
       || (r.effectiveDateIsPlaceholder !== undefined && r.effectiveDateIsPlaceholder !== true)
       || Boolean(r.effectiveDateIsPlaceholder) !== Boolean(contingent?.dateIsPlaceholder)
+      || (r.effectiveEndDateIsPlaceholder !== undefined && r.effectiveEndDateIsPlaceholder !== true)
+      || Boolean(r.effectiveEndDateIsPlaceholder) !== Boolean(contingent && 'endDateIsPlaceholder' in contingent && contingent.endDateIsPlaceholder)
+      || (contingent && 'repealHeading' in contingent && r.title !== contingent.repealHeading)
       || (r.hasContingentEffectiveDate !== undefined && r.hasContingentEffectiveDate !== true)
       || Boolean(r.hasContingentEffectiveDate) !== Boolean(contingent && 'conditionPending' in contingent && contingent.conditionPending)
       || r.headingSource !== (headingException ? 'chapter-index' : undefined)
@@ -72,7 +76,7 @@ export function assertDataset(value: unknown): asserts value is Dataset {
       || (r.hasConstitutionalWarning !== undefined && r.hasConstitutionalWarning !== true)
       || Boolean(r.hasConstitutionalWarning) !== Boolean(warning)
       || (warning && r.effectiveFrom !== warning.effectiveFrom)
-      || !validDate(r.effectiveFrom) || (r.effectiveTo !== null && (!validDate(r.effectiveTo) || r.effectiveTo <= r.effectiveFrom))
+      || !validDate(r.effectiveFrom) || (r.effectiveTo !== null && (!validDate(r.effectiveTo) || (r.effectiveTo <= r.effectiveFrom && !r.effectiveEndDateIsPlaceholder)))
       || !Number.isFinite(Date.parse(r.sourceCheckedAt)) || !/^[a-f0-9]{64}$/.test(r.sourceSha256)
       || r.sourceUrl !== `https://revisor.mo.gov/main/OneSection.aspx?section=${r.section}&bid=${r.versionId}`) {
       throw new Error('Invalid source record');
@@ -100,7 +104,7 @@ export function assertDataset(value: unknown): asserts value is Dataset {
       if (versions.map(r => r.versionId).sort().join() !== contingent.versions.map(v => v.versionId).sort().join()
         || versions.some(r => {
           const expected = contingent.versions.find(v => v.versionId === r.versionId);
-          return !expected || Boolean(r.multipleEnactments) !== contingent.multipleEnactments || r.effectiveFrom !== expected.effectiveFrom || r.effectiveTo !== null
+          return !expected || Boolean(r.multipleEnactments) !== contingent.multipleEnactments || r.effectiveFrom !== expected.effectiveFrom || r.effectiveTo !== ('effectiveTo' in expected ? expected.effectiveTo : null)
             || Boolean(r.effectiveDateIsPlaceholder) !== expected.dateIsPlaceholder;
         })) throw new Error('Unresolved contingent enactments');
       continue;
@@ -127,7 +131,7 @@ export function assertDataset(value: unknown): asserts value is Dataset {
   }
 }
 export function isEffective(record: Statute, asOf: string): boolean {
-  return !record.hasConstitutionalWarning && !record.effectiveDateIsPlaceholder && !record.hasContingentEffectiveDate && record.effectiveFrom <= asOf && (!record.effectiveTo || asOf < record.effectiveTo);
+  return !record.hasConstitutionalWarning && !record.effectiveDateIsPlaceholder && !record.hasContingentEffectiveDate && record.effectiveFrom <= asOf && (!record.effectiveTo || record.effectiveEndDateIsPlaceholder === true || asOf < record.effectiveTo);
 }
 export function isUpcoming(record: Statute, asOf: string): boolean {
   return !record.hasConstitutionalWarning && !record.effectiveDateIsPlaceholder && !record.hasContingentEffectiveDate && record.effectiveFrom > asOf;

@@ -25,7 +25,7 @@ try {
   const prior = new Map((old.records ?? []).map(r => [r.id, r]));
   const next = new Map(fresh.records.map(r => [r.id, r]));
   const removed = [...prior.keys()].filter(id => !next.has(id));
-  const semantic = r => JSON.stringify([r.section, r.title, r.chapter, r.effectiveFrom, r.effectiveTo, r.sourceUrl, r.headingMarker, r.multipleEnactments, r.effectiveDateIsPlaceholder, r.hasConstitutionalWarning, r.hasContingentEffectiveDate, r.headingSource]);
+  const semantic = r => JSON.stringify([r.section, r.title, r.chapter, r.effectiveFrom, r.effectiveTo, r.sourceUrl, r.headingMarker, r.multipleEnactments, r.effectiveDateIsPlaceholder, r.effectiveEndDateIsPlaceholder, r.hasConstitutionalWarning, r.hasContingentEffectiveDate, r.headingSource]);
   const report = {
     previousSourceCheck: old.manifest?.collectedAt ?? null,
     nextSourceCheck: fresh.manifest.collectedAt,
@@ -34,8 +34,8 @@ try {
   };
   writeFileSync('data/change-report.json', JSON.stringify(report, null, 2) + '\n');
   if (removed.length) throw new Error('Record loss blocks promotion; inspect data/change-report.json');
-  run('python3', ['-m', 'unittest', 'discover', '-s', 'tests', '-p', 'test_*.py']);
   const env = { STATUTES_DATASET: candidate };
+  run('python3', ['-m', 'unittest', 'discover', '-s', 'tests', '-p', 'test_*.py'], env);
   run('npm', ['test'], env);
   run('npm', ['run', 'build'], env);
   // Same filesystem rename makes the single dataset+manifest replacement atomic.

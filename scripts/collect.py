@@ -97,6 +97,11 @@ def parse_section(html, entry, checked_at):
     soup = BeautifulSoup(html, 'html.parser')
     effective = soup.select_one('#effdt')
     heading = soup.select_one('div.norm > p.norm > span.bold')
+    contingent = next((p for p in POLICY['contingentEnactments'] if p['section'] == entry['section']), None)
+    reviewed = next((v for v in contingent['versions'] if v['versionId'] == entry['versionId']), None) if contingent else None
+    repeal_heading = reviewed.get('repealHeading') if reviewed else None
+    if repeal_heading:
+        heading = soup.select_one('div.norm > span.bold')
     exception = next((p for p in POLICY.get('indexHeadingExceptions', []) if p['id'] == entry['id']), None)
     if not effective or (not heading and not exception):
         raise ValueError(f'Missing heading/effective date for {entry["id"]}')
@@ -107,7 +112,12 @@ def parse_section(html, entry, checked_at):
     marker = '*' if full_heading.startswith('*') else ''
     full_heading = full_heading.lstrip('*').strip()
     prefix = entry['section'] + '.'
-    if exception:
+    if repeal_heading:
+        if (full_heading != prefix + ' ' + repeal_heading or marker
+                or not soup.title or not clean(soup.title.get_text()).endswith('RSMo Section ' + entry['section'])):
+            raise ValueError('Unverified repeal heading: ' + entry['id'])
+        title = repeal_heading
+    elif exception:
         opening = soup.select_one('div.norm > p')
         if (entry.get('indexHeading') != exception['title'] or entry['effectiveFrom'] != exception['effectiveFrom']
                 or not soup.title or not clean(soup.title.get_text()).endswith('RSMo Section ' + entry['section'])
@@ -148,12 +158,10 @@ def parse_section(html, entry, checked_at):
             or f'There are multiple enactments of {entry["section"]}' not in clean(soup.get_text(' '))
             or 'Due to possible conflict, both versions are printed.' not in clean(soup.get_text(' '))):
         raise ValueError('Unverified concurrent enactment: ' + entry['id'])
-    contingent = next((p for p in POLICY['contingentEnactments'] if p['section'] == entry['section']), None)
-    reviewed = next((v for v in contingent['versions'] if v['versionId'] == entry['versionId']), None) if contingent else None
     placeholder = 'date is placeholder' in clean(effective.get_text(' ')).lower()
     if placeholder != bool(reviewed and reviewed['dateIsPlaceholder']):
         raise ValueError('Unverified placeholder effective date: ' + entry['id'])
-    if contingent and (not reviewed or entry['effectiveFrom'] != reviewed['effectiveFrom'] or until is not None
+    if contingent and (not reviewed or entry['effectiveFrom'] != reviewed['effectiveFrom'] or until != reviewed.get('effectiveTo')
             or (contingent['multipleEnactments'] != (f'There are multiple enactments of {entry["section"]}' in clean(soup.get_text(' '))))
             or reviewed.get('sourceNotice', contingent['sourceNotice']) not in clean(soup.get_text(' '))):
         raise ValueError('Unverified contingent enactment: ' + entry['id'])
@@ -181,6 +189,7 @@ def parse_section(html, entry, checked_at):
             **({'hasContingentEffectiveDate': True} if reviewed and reviewed.get('conditionPending') else {}), 'title': title, 'chapter': chapter, 'chapterTitle': CHAPTERS[chapter]['title'],
             'effectiveTo': until, **({'multipleEnactments': True} if concurrent or delayed or (contingent and contingent['multipleEnactments']) else {}),
             **({'effectiveDateIsPlaceholder': True} if placeholder else {}),
+            **({'effectiveEndDateIsPlaceholder': True} if reviewed and reviewed.get('endDateIsPlaceholder') else {}),
             **({'hasConstitutionalWarning': True} if source_warning else {}), 'headingMarker': marker, 'sourceCheckedAt': checked_at,
             'sourceSha256': hashlib.sha256(html.encode()).hexdigest()}
 
@@ -228,6 +237,11 @@ def validate(dataset, previous=None):
         if ((record.get('hasContingentEffectiveDate') is not None and record.get('hasContingentEffectiveDate') is not True)
                 or bool(record.get('hasContingentEffectiveDate')) != bool(reviewed and reviewed.get('conditionPending'))):
             raise ValueError('Unverified contingent date marker')
+        if ((record.get('effectiveEndDateIsPlaceholder') is not None and record.get('effectiveEndDateIsPlaceholder') is not True)
+                or bool(record.get('effectiveEndDateIsPlaceholder')) != bool(reviewed and reviewed.get('endDateIsPlaceholder'))
+                or (reviewed and reviewed.get('endDateIsPlaceholder') and record['effectiveTo'] != reviewed.get('effectiveTo'))
+                or (reviewed and reviewed.get('repealHeading') and record['title'] != reviewed['repealHeading'])):
+            raise ValueError('Unverified placeholder end date or repeal heading')
         heading_exception = next((p for p in POLICY.get('indexHeadingExceptions', []) if p['id'] == record['id']), None)
         if ((record.get('headingSource') != ('chapter-index' if heading_exception else None))
                 or (heading_exception and (record['title'] != heading_exception['title'] or record['effectiveFrom'] != heading_exception['effectiveFrom']))):
@@ -239,7 +253,7 @@ def validate(dataset, previous=None):
             raise ValueError('Unverified constitutional warning marker')
         if record['effectiveTo']:
             datetime.strptime(record['effectiveTo'], '%Y-%m-%d')
-            if record['effectiveTo'] <= record['effectiveFrom']:
+            if record['effectiveTo'] <= record['effectiveFrom'] and not record.get('effectiveEndDateIsPlaceholder'):
                 raise ValueError('Invalid effective interval')
         grouped[record['section']].append(record)
     if any(p['id'] not in ids for p in POLICY.get('constitutionalWarnings', [])):
@@ -271,7 +285,7 @@ def validate(dataset, previous=None):
             expected = {v['versionId']: v for v in contingent['versions']}
             if (set(r['versionId'] for r in versions) != set(expected)
                     or any(bool(r.get('multipleEnactments')) != contingent['multipleEnactments'] or r['effectiveFrom'] != expected[r['versionId']]['effectiveFrom']
-                           or r['effectiveTo'] is not None
+                           or r['effectiveTo'] != expected[r['versionId']].get('effectiveTo')
                            or bool(r.get('effectiveDateIsPlaceholder')) != expected[r['versionId']]['dateIsPlaceholder'] for r in versions)):
                 raise ValueError('Unresolved contingent enactments')
             continue

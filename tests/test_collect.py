@@ -1,4 +1,5 @@
 import copy
+import json
 import importlib.util
 import unittest
 import tempfile
@@ -559,3 +560,38 @@ class PublicSafetySourceTests(unittest.TestCase):
             if sec=='313.041':self.assertIn('voters approved',source);self.assertIn('December 6, 2018',source)
             record=collect.parse_section(source,entry,'2026-11-13T11:00:00+00:00')
             self.assertEqual(record['effectiveFrom'],date);self.assertIsNone(record['effectiveTo']);self.assertFalse(record.get('hasContingentEffectiveDate'));self.assertFalse(record.get('effectiveDateIsPlaceholder'))
+
+class ProfessionsSourceTests(unittest.TestCase):
+    def entry(self, sec, bid):
+        v=next(v for p in collect.POLICY['contingentEnactments']+collect.POLICY['reprintedEnactments'] if p['section']==sec for v in p['versions'] if v['versionId']==bid)
+        return {'id':sec+':'+bid,'section':sec,'versionId':bid,'effectiveFrom':v['effectiveFrom'],'sourceUrl':f'https://revisor.mo.gov/main/OneSection.aspx?section={sec}&bid={bid}'}
+    def test_conditional_repeals_preserve_source_dates_and_require_exact_heading_notice_and_history(self):
+        for sec,bid in [('324.406','60569'),('324.406','35854'),('324.424','60572'),('324.424','35859')]:
+            e=self.entry(sec,bid);source=Path(f'tests/fixtures/professions-{sec}-{bid}.html').read_text();r=collect.parse_section(source,e,'2026-11-13T11:00:00+00:00')
+            self.assertEqual(r['effectiveTo'],'2099-01-01');self.assertTrue(r['effectiveEndDateIsPlaceholder']);self.assertEqual(bool(r.get('effectiveDateIsPlaceholder')),bid in ['60569','60572'])
+            mutations=[source.replace('1/1/2099','1/1/2098'),source.replace('S.B. 1233','S.B. 1234')]
+            if bid in ['60569','60572']:mutations += [source.replace('date is placeholder','date is scheduled'),source.replace('324.440','324.441')]
+            for bad in mutations:
+                with self.assertRaises(ValueError):collect.parse_section(bad,e,'2026-11-13T11:00:00+00:00')
+    def test_appraiser_reprint_and_warning_require_exact_source_notes(self):
+        for sec,bid,date in [('339.507','18172','2014-08-28'),('339.507','36199','2008-08-28'),('339.531','18185','2015-08-28')]:
+            e={'id':sec+':'+bid,'section':sec,'versionId':bid,'effectiveFrom':date,'sourceUrl':f'https://revisor.mo.gov/main/OneSection.aspx?section={sec}&bid={bid}'}
+            source=Path(f'tests/fixtures/professions-{sec}-{bid}.html').read_text();r=collect.parse_section(source,e,'2026-11-13T11:00:00+00:00');self.assertEqual(bool(r.get('hasConstitutionalWarning')),bid!='36199');self.assertIsNone(r['effectiveTo'])
+            with self.assertRaises(ValueError):collect.parse_section(source.replace('declared unconstitutional','reconsidered'),e,'2026-11-13T11:00:00+00:00')
+    def test_empty_stationary_engineers_index_requires_the_official_shell(self):
+        source=Path('tests/fixtures/professions-342-index.html').read_text();self.assertEqual(collect.parse_index(source,'342'),[])
+        with self.assertRaises(ValueError):collect.parse_index(source.replace('Cross References','Missing references'),'342')
+    def test_conditions_resolved_in_source_notes_keep_recorded_dates(self):
+        for sec,bid,date,notice in [('324.016','17248','2008-08-28','appropriations specified in this section have been made'),('335.420','33831','2016-08-28','July 20, 2017'),('337.170','35922','2018-08-28','December 22, 2020'),('335.365', '33784', '2017-07-20', '20 Jul 2017'),('337.135', '35899', '2020-12-22', '22 Dec 2020')]:
+            e={'id':sec+':'+bid,'section':sec,'versionId':bid,'effectiveFrom':date,'sourceUrl':f'https://revisor.mo.gov/main/OneSection.aspx?section={sec}&bid={bid}'}
+            source=Path(f'tests/fixtures/professions-{sec}-{bid}.html').read_text();self.assertIn(notice,source);r=collect.parse_section(source,e,'2026-11-13T11:00:00+00:00');self.assertFalse(r.get('hasContingentEffectiveDate'));self.assertEqual(r['effectiveFrom'],date)
+    def test_validator_rejects_unreviewed_placeholder_end_dates(self):
+        import copy, os
+        data=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text())
+        collect.validate(data)
+        for id in ['324.406:60569','324.406:35854','324.424:60572','324.424:35859']:
+            for field,value in [('effectiveEndDateIsPlaceholder',False),('effectiveTo','2098-01-01')]:
+                bad=copy.deepcopy(data);r=next(r for r in bad['records'] if r['id']==id);r[field]=value
+                with self.assertRaises(ValueError):collect.validate(bad)
+        bad=copy.deepcopy(data);r=next(r for r in bad['records'] if r['section']=='1.010');r['effectiveEndDateIsPlaceholder']=True
+        with self.assertRaises(ValueError):collect.validate(bad)

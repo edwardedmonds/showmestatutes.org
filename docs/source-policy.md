@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXI, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXII, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -161,3 +161,11 @@ Five reviewed warning/reprint pairs preserve their exact Pestka notices, source 
 All 630 source versions passed strict individual checks; all thirteen indexes matched independent rechecks. Six initial responses displayed unrelated sections or a constitutional provision; bounded exact-URL retries recovered the correct pages. Four further responses were retained when the worker encountered the two unreviewed fire-district warnings. Those pass with the reviewed exact warning policy. All ten rejected responses remain archived.
 
 The two reviewed warning/reprint pairs preserve exact notices, identities, dates and blank history ends. Six actual-source fixtures cover the four pair versions and both bingo provisions, §§313.040–313.041. The latter's source note explicitly records the voter approval and resulting effective date, so the collection does not treat the condition as unresolved. No parser changes were needed. Altered warning/reprint notices fail validation.
+
+## Title XXII — Occupations and professions
+
+All 1,213 source versions passed strict checks and all 23 indexes matched independent rechecks. Nine rejected responses displayed wrong or missing content; bounded exact-URL retries recovered the correct pages. Four warning responses and four conditional-repeal responses pass after exact policy review. All seventeen rejected responses remain archived.
+
+The collector accepts a direct repeal-heading element only for the two exact reviewed identities, requiring their complete repeal text, source title, selected version, source date, history rows and conditional notice. Both validators require the reviewed end dates and explicit placeholder-end flags. The equal start/end dates on the repeal entries are accepted only through that exact policy. Unknown, missing or altered flags, dates and repeal titles fail validation. Ordinary intervals retain their existing checks.
+
+Fourteen actual-source fixtures cover both conditional repeal pairs, their condition section, three warned/reprinted versions, source notes recording fulfilled conditions, compact dates and the empty Chapter 342 index. Search tests also check dates at and beyond 2099 to ensure placeholders do not become calendar deadlines. The release check passes the candidate snapshot to Python as well as TypeScript tests; change reports include placeholder-end metadata.

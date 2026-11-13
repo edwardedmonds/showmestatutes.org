@@ -35,7 +35,7 @@ function card(match: Match, future: boolean) {
     ? 'Contingent effective date · the source date is a placeholder, not a scheduled start. Read the official conditions.'
     : r.hasContingentEffectiveDate
     ? `Contingent effective date · source date ${formatDate(r.effectiveFrom)}. Read the official conditions before relying on this version.`
-    : `${future ? 'Upcoming · effective' : 'Effective'} ${formatDate(r.effectiveFrom)}${r.effectiveTo ? ` · ends ${formatDate(r.effectiveTo)}` : ''}`;
+    : `${future ? 'Upcoming · effective' : 'Effective'} ${formatDate(r.effectiveFrom)}${r.effectiveEndDateIsPlaceholder ? ' · end date is contingent; read the source conditions' : r.effectiveTo ? ` · ends ${formatDate(r.effectiveTo)}` : ''}`;
   const dates = element('p', dateLabel, future || r.effectiveDateIsPlaceholder || r.hasContingentEffectiveDate || r.hasConstitutionalWarning ? 'version future' : 'version');
   const bottom = element('div', undefined, 'card-bottom');
   bottom.append(element('span', match.reason, 'match-reason'), element('small', `Source checked ${formatDate(r.sourceCheckedAt)}`));

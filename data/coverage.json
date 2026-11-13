@@ -21,6 +21,7 @@
     "XIX",
     "XX",
     "XXI",
+    "XXII",
     "XXXVII",
     "XXXVIII"
   ],
@@ -1508,6 +1509,145 @@
       "minimumVersions": 16
     },
     {
+      "chapter": "324",
+      "title": "Occupations and Professions General Provisions",
+      "category": "government",
+      "minimumVersions": 209
+    },
+    {
+      "chapter": "325",
+      "title": "Public Adjusters and Adjuster Solicitors",
+      "category": "government",
+      "minimumVersions": 10
+    },
+    {
+      "chapter": "326",
+      "title": "Accountants",
+      "category": "government",
+      "minimumVersions": 27
+    },
+    {
+      "chapter": "327",
+      "title": "Architects, Engineers, Land Surveyors, Landscape Architects and Interior Designers",
+      "category": "government",
+      "minimumVersions": 72
+    },
+    {
+      "chapter": "328",
+      "title": "Barbers",
+      "category": "government",
+      "minimumVersions": 15
+    },
+    {
+      "chapter": "329",
+      "title": "Cosmetologists, Hairdressers and Manicurists",
+      "category": "government",
+      "minimumVersions": 31
+    },
+    {
+      "chapter": "330",
+      "title": "Podiatrists",
+      "category": "government",
+      "minimumVersions": 23
+    },
+    {
+      "chapter": "331",
+      "title": "Chiropractors",
+      "category": "government",
+      "minimumVersions": 17
+    },
+    {
+      "chapter": "332",
+      "title": "Dentists",
+      "category": "government",
+      "minimumVersions": 60
+    },
+    {
+      "chapter": "333",
+      "title": "Embalmers and Funeral Directors",
+      "category": "government",
+      "minimumVersions": 29
+    },
+    {
+      "chapter": "334",
+      "title": "Physicians and Surgeons — Therapists — Athletic Trainers — Health Care Providers",
+      "category": "government",
+      "minimumVersions": 196
+    },
+    {
+      "chapter": "335",
+      "title": "Nurses",
+      "category": "government",
+      "minimumVersions": 42
+    },
+    {
+      "chapter": "336",
+      "title": "Optometrists",
+      "category": "government",
+      "minimumVersions": 20
+    },
+    {
+      "chapter": "337",
+      "title": "Psychologists — Professional Counselors — Social Workers",
+      "category": "government",
+      "minimumVersions": 119
+    },
+    {
+      "chapter": "338",
+      "title": "Pharmacists and Pharmacies",
+      "category": "government",
+      "minimumVersions": 95
+    },
+    {
+      "chapter": "339",
+      "title": "Real Estate Agents, Brokers, Appraisers and Escrow Agents",
+      "category": "government",
+      "minimumVersions": 74
+    },
+    {
+      "chapter": "340",
+      "title": "Veterinarians",
+      "category": "government",
+      "minimumVersions": 82
+    },
+    {
+      "chapter": "341",
+      "title": "Plumbers and Plumbing",
+      "category": "government",
+      "minimumVersions": 22
+    },
+    {
+      "chapter": "342",
+      "title": "Stationary Engineers",
+      "category": "government",
+      "minimumVersions": 0,
+      "emptyIndexReviewedAt": "2026-11-13"
+    },
+    {
+      "chapter": "343",
+      "title": "Public Auctioneers",
+      "category": "government",
+      "minimumVersions": 10
+    },
+    {
+      "chapter": "344",
+      "title": "Nursing Home Administrators",
+      "category": "government",
+      "minimumVersions": 14
+    },
+    {
+      "chapter": "345",
+      "title": "Speech Pathologists and Audiologists",
+      "category": "government",
+      "minimumVersions": 19
+    },
+    {
+      "chapter": "346",
+      "title": "Hearing Aid Fitters and Dealers",
+      "category": "government",
+      "minimumVersions": 27
+    },
+    {
       "chapter": "540",
       "title": "Grand Juries and Their Proceedings",
       "category": "procedure",
@@ -1768,7 +1908,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXI, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXII, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -2148,6 +2288,60 @@
       "sourceNotice": "*Subdivision (8) contains a contingent effective date. Subdivision (7) contains renewal and contingent expiration dates.",
       "displayNotice": "The Revisor notes a certification condition in subdivision (8) and renewal and contingent expiration terms in subdivision (7). The recorded 2009 date alone does not resolve applicability. Read the official source conditions.",
       "basis": "Subdivision (8) says the provisions of this section shall not take effect unless first certified by the United States Secretary of Labor. Preserve the ordinary banner/index date and blank end date. Group separately as conditional without deciding whether certification, renewal or expiration occurred; conditionPending is the existing technical flag for this unresolved applicability."
+    },
+    {
+      "section": "324.406",
+      "versions": [
+        {
+          "versionId": "60569",
+          "effectiveFrom": "2099-01-01",
+          "effectiveTo": "2099-01-01",
+          "dateIsPlaceholder": true,
+          "endDateIsPlaceholder": true,
+          "sourceNotice": "Contingent effective date, see § 324.440",
+          "repealHeading": "(Repealed L. 2026 S.B. 1233)"
+        },
+        {
+          "versionId": "35854",
+          "effectiveFrom": "2018-08-28",
+          "effectiveTo": "2099-01-01",
+          "dateIsPlaceholder": false,
+          "endDateIsPlaceholder": true,
+          "sourceNotice": "*Revisor's note: This section was repealed by S.B. 1233, 2026. Due to a contingent effective date, both versions are printed."
+        }
+      ],
+      "multipleEnactments": true,
+      "sourceNotice": "Contingent effective date, see § 324.440",
+      "displayNotice": "The Revisor prints a conditional repeal alongside the earlier provision. The 2099 dates are placeholders, not scheduled start or end dates. Section 324.440 describes the required notification concerning appointments to the interior design division. Read both official versions and the source conditions.",
+      "reviewedAt": "2026-11-13",
+      "basis": "The repeal page labels its 2099 banner date a placeholder. Both source history tables give the repeal a matching placeholder end and the earlier provision that same end. Preserve these literal source values with explicit end-placeholder metadata; do not infer a calendar expiry or fulfillment of the notification condition."
+    },
+    {
+      "section": "324.424",
+      "versions": [
+        {
+          "versionId": "60572",
+          "effectiveFrom": "2099-01-01",
+          "effectiveTo": "2099-01-01",
+          "dateIsPlaceholder": true,
+          "endDateIsPlaceholder": true,
+          "sourceNotice": "Contingent effective date, see § 324.440",
+          "repealHeading": "(Repealed L. 2026 S.B. 1233)"
+        },
+        {
+          "versionId": "35859",
+          "effectiveFrom": "2018-08-28",
+          "effectiveTo": "2099-01-01",
+          "dateIsPlaceholder": false,
+          "endDateIsPlaceholder": true,
+          "sourceNotice": "*Revisor's note: This section was repealed by S.B. 1233, 2026. Due to a contingent effective date, both versions are printed."
+        }
+      ],
+      "multipleEnactments": true,
+      "sourceNotice": "Contingent effective date, see § 324.440",
+      "displayNotice": "The Revisor prints a conditional repeal alongside the earlier provision. The 2099 dates are placeholders, not scheduled start or end dates. Section 324.440 describes the required notification concerning appointments to the interior design division. Read both official versions and the source conditions.",
+      "reviewedAt": "2026-11-13",
+      "basis": "The repeal page labels its 2099 banner date a placeholder. Both source history tables give the repeal a matching placeholder end and the earlier provision that same end. Preserve these literal source values with explicit end-placeholder metadata; do not infer a calendar expiry or fulfillment of the notification condition."
     }
   ],
   "delayedEnactments": [
@@ -2602,6 +2796,22 @@
         }
       ],
       "displayNotice": "The Revisor reprints an earlier version after a court ruling. The later version remains available with a constitutional warning. Read both official source pages and annotations for applicability."
+    },
+    {
+      "section": "339.507",
+      "versions": [
+        {
+          "versionId": "18172",
+          "effectiveFrom": "2014-08-28",
+          "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Calzone v. Koster, et al., see 2016 annotation below."
+        },
+        {
+          "versionId": "36199",
+          "effectiveFrom": "2008-08-28",
+          "sourceNotice": "*Revisor's Note: This section is reprinted in accordance with section 3.066 . S.B. 672 in 2014 amended this section and was declared unconstitutional as a violation of Art. III, Sec. 23, of the Missouri Constitution (see 2016 annotation below), rendering the repeal and reenactment of this section ineffective."
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling. The later version remains available with a constitutional warning. Read both official source pages and annotations for applicability."
     }
   ],
   "constitutionalWarnings": [
@@ -2880,6 +3090,18 @@
       "effectiveFrom": "2014-08-28",
       "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Calzone v. Koster, et al., see 2016 annotation below.",
       "displayNotice": "The Revisor flags this version as unconstitutional in Calzone v. Koster. Read the official annotations and the reprinted earlier version."
+    },
+    {
+      "id": "339.507:18172",
+      "effectiveFrom": "2014-08-28",
+      "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Calzone v. Koster, et al., see 2016 annotation below.",
+      "displayNotice": "The Revisor flags this version as unconstitutional in Calzone v. Koster. Read the official annotations before relying on this version."
+    },
+    {
+      "id": "339.531:18185",
+      "effectiveFrom": "2015-08-28",
+      "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Calzone v. Koster, et al., see 2016 annotation below.",
+      "displayNotice": "The Revisor flags this version as unconstitutional in Calzone v. Koster. Read the official annotations before relying on this version."
     }
   ],
   "indexHeadingExceptions": [

@@ -1,3 +1,25 @@
+# Title XXII coverage — November 13, 2026
+
+## Scope and source review
+
+Chapters **324–346** add **1,210 distinct sections and 1,213 source versions**, completing all 23 listed Title XXII indexes. The combined snapshot contains **19,304 sections, 19,376 versions and 310 chapter indexes**: 301 populated and nine reviewed empty indexes. **158 of 468 catalog links remain**. Titles I–XXII are accounted for; Title XXIII is next.
+
+All 23 indexes matched independent second retrievals through the strict parser. Combined offline collection passed; all 18,163 prior records and 287 chapter-manifest objects remain unchanged. The change report has 1,213 additions, no removals and no prior changes. Nine wrong/missing-content responses recovered through bounded retries. Eight initially unreviewed warning/repeal responses now pass after exact source review; all seventeen are archived. Chapter 342 explicitly reviewed empty.
+
+Two conditional repeal pairs preserve exact source dates, including placeholder ends. Narrow parser support accepts only their exact reviewed repeal headings; both validators enforce end-date metadata and values. They do not become scheduled expirations or starts, including in searches at and beyond 2099. One appraiser warning/reprint pair and a standalone warning retain source notices and blank ends. Source-documented fulfilled conditions are not mislabeled pending. Totals: 55 warned versions, 28 reprinted pairs, 22 contingent versions and 35 scheduled future versions.
+
+## Tests
+
+**1,034 TypeScript and 52 Python tests passed**, with TypeScript checks and production build. Thirty-two query cases were initially defined from official index wording. One ambiguous query, “out of state distributor license,” matched two near-identical official headings (§§338.337 and 338.340); after source review, its assertion requires both in the first two results instead of imposing an unsupported single winner. The other expectations stayed unchanged. The validator-mutation case has a 20-second limit for repeated full-dataset checks. Additional checks cover all populated chapters' exact citations, warning/reprint distinctions, conditional repeal pairs under both upcoming settings and dates through 2100, validator rejection of changed flags/dates/titles, and fourteen source fixtures. No alias or ranking changes. The release check now supplies the candidate to Python tests too; semantic change reports include placeholder-end metadata. These checks are not an independent legal-search assessment.
+
+## Browser and publication
+
+Production preview loaded all 19,304 sections. The surveyor query led to §327.371 and its exact source URL. Sections 324.406 and 324.424 displayed the retained provision with a contingent end notice and the conditional repeal in its separate group; toggling upcoming versions did not change that distinction. Chapter 325 excluded the pair. Section 339.507 separated the warned amendment and reprint, and 335.365 retained July 20, 2017 in ordinary results. New date notices and both cards fit at 390px; 320px had no horizontal overflow. Existing keyboard example and ArrowDown source navigation worked. Console was clean. Stable and snapshot-named dataset/index assets agreed on the dataset hash.
+
+README, coverage, roadmap, source policy and fallback scope reflect this release. The existing design remains; the earlier provisions' date line now identifies a contingent end instead of saying they end in 2099. Workflow success and live-file verification are checked after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Titles XX and XXI coverage — November 13, 2026
 
 ## Scope and source review
