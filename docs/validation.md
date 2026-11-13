@@ -1,3 +1,27 @@
+# Health services, vital records and drug regulations — November 13, 2026
+
+## Scope and source checks
+
+Title XII Chapters 192–195 add **309 distinct sections and 310 source versions**: 166 versions in Department of Health and Senior Services, 33 in Vital Statistics, 65 in Death — Disposition of Dead Bodies, and 46 in Drug Regulations. The combined snapshot contains **12,140 sections and 12,191 versions** across **192 chapter indexes**: 189 with headings and three reviewed empty indexes. The fresh catalog contains 468 chapter links, leaving **276** outside this collection. Seventeen of Title XII's 25 listed chapters remain, beginning with Chapter 196.
+
+All 310 source pages were collected sequentially at no more than one request per second. The initial acquisition audit flagged §192.310:9768 for review. Its 2014 source carries a constitutional-warning banner and Calzone note; the index also lists the 1919 version (bid 36197), whose page explicitly reprints it under §3.066. Both pages list multiple enactments and blank end dates. After source review, the policy records the exact pair and required notices. A second audit of all 310 cached pages passed. No unresolved source reviews remained.
+
+All four chapter indexes matched independent second retrievals of identities, dates and URLs. The strict collector rebuilt and validated the combined candidate from preserved source responses. All 11,881 earlier records and all 188 earlier chapter-manifest objects are unchanged, including retrieval dates and response hashes. The change report contains 310 additions, zero removals and zero changes. Totals are 43 warned versions, 17 reviewed reprinted pairs, 14 contingent versions and 32 scheduled future versions.
+
+## Tests and performance
+
+All **648 TypeScript tests and 36 Python tests** passed, along with TypeScript checks and the production build. Twenty-nine new query cases were defined from official indexes before ranking evaluation. Additional regressions cover four-digit exact citations and §192.310's exact source links, separate warning group, reprint explanation, either upcoming-toggle setting, and chapter exclusions. Compact source fixtures verify both pages' required notices and reject changed notices or missing multiple-enactment text. No parser, ranking or alias changes were needed. These are development tests, not an independent assessment of legal-search accuracy.
+
+The serialized MiniSearch index grew from 1,412,694 to 1,454,209 bytes. On local Linux with Node 22.22.2, index construction took about 173 ms and loading plus search setup about 165 ms. Across 16 queries with three warm-up passes and 25 measured runs each, p95 search times ranged from 0.003 to 31.39 ms, compared with 0.008 to 26.35 ms for the prior snapshot in the same run. These timings exclude download, JSON parsing, validation and rendering, and are not physical mobile measurements.
+
+## Browser checks and publication
+
+The production preview reports 12,140 section headings. Exact lookup of §192.310 displays its reprint in the best-heading group and its warned version in the constitutional-warning group, with the correct dates, explanatory notices and exact source links. Including upcoming versions preserves both groups; a Chapter 193 filter excludes both. A scoped death-certificate search finds §193.145:57518 with its complete heading, and a scoped electronic-prescription search finds §195.550:47915. No horizontal overflow was observed at 320×740 or 390×740. The first-degree-murder example still prioritizes §565.020, and ArrowDown focuses its source-heading link. No browser warnings or errors were observed.
+
+The existing layout and filters remain unchanged; the scope disclosure now includes Title XII Chapters 188–195. Snapshot-specific data filenames remain in use. Publication uses the validated snapshot through GitHub Pages; workflow success and public asset comparisons are checked after pushing. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # First public-health expansion — November 13, 2026
 
 ## Scope and source checks

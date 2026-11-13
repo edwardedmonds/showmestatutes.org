@@ -853,6 +853,30 @@
       "minimumVersions": 188
     },
     {
+      "chapter": "192",
+      "title": "Department of Health and Senior Services",
+      "category": "government",
+      "minimumVersions": 166
+    },
+    {
+      "chapter": "193",
+      "title": "Vital Statistics",
+      "category": "government",
+      "minimumVersions": 33
+    },
+    {
+      "chapter": "194",
+      "title": "Death — Disposition of Dead Bodies",
+      "category": "government",
+      "minimumVersions": 65
+    },
+    {
+      "chapter": "195",
+      "title": "Drug Regulations",
+      "category": "government",
+      "minimumVersions": 46
+    },
+    {
       "chapter": "300",
       "title": "Model Traffic Ordinance",
       "category": "transportation",
@@ -1161,7 +1185,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XI, XIX, XXXVII and XXXVIII, plus Title XII Chapters 188–191, at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XI, XIX, XXXVII and XXXVIII, plus Title XII Chapters 188–195, at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -1683,6 +1707,22 @@
         }
       ],
       "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "192.310",
+      "versions": [
+        {
+          "versionId": "9768",
+          "effectiveFrom": "2014-08-28",
+          "sourceNotice": "all or part is unconstitutional"
+        },
+        {
+          "versionId": "36197",
+          "effectiveFrom": "1919-08-07",
+          "sourceNotice": "This section is reprinted in accordance with section 3.066"
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
     }
   ],
   "constitutionalWarnings": [
@@ -1894,6 +1934,11 @@
     },
     {
       "id": "190.088:9437",
+      "effectiveFrom": "2014-08-28",
+      "sourceNotice": "This section was declared unconstitutional in Calzone v. Koster, et al."
+    },
+    {
+      "id": "192.310:9768",
       "effectiveFrom": "2014-08-28",
       "sourceNotice": "This section was declared unconstitutional in Calzone v. Koster, et al."
     }

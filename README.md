@@ -20,7 +20,7 @@ Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no
 
 **Statewide heading coverage is the goal. It isn't finished.**
 
-The November 13, 2026 collection contains **11,831 distinct sections and 11,881 source versions** across **188 chapter indexes**. One hundred eighty-five have headings; Chapters 152, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **280** outside this collection at this check.
+The November 13, 2026 collection contains **12,140 distinct sections and 12,191 source versions** across **192 chapter indexes**. One hundred eighty-nine have headings; Chapters 152, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **276** outside this collection at this check.
 
 | Area | Imported scope |
 | --- | --- |
@@ -31,12 +31,12 @@ The November 13, 2026 collection contains **11,831 distinct sections and 11,881 
 | Suffrage and elections | Title IX: Chapters 115, 116, 122, 127, 128 and 130 |
 | Taxation and revenue | Title X: Chapters 135–155 |
 | Education, libraries and related cultural institutions | Title XI: Chapters 160–178 and 180–186 |
-| Abortion regulation, local health-facility aid, emergency services, health and welfare | Title XII, partial: Chapters 188–191 |
+| Public health, senior services, vital records, disposition of bodies and drug regulations | Title XII, partial: Chapters 188–195 |
 | Motor vehicles, watercraft and aviation | Title XIX: Chapters 300–307 |
 | Criminal procedure | Title XXXVII: Chapters 540–552 |
 | Crimes, punishment, peace officers and public defenders | Title XXXVIII: Chapters 556–579, 589, 590, 595 and 600 |
 
-The latest batch adds **422 sections** from Chapters 188–191, the first four listed chapters of Title XII. It covers abortion-regulation headings, aid to local health facilities, emergency services, and health and welfare. The remaining 21 listed chapters of Title XII, starting with Chapter 192, are next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
+The latest batch adds **309 sections and 310 source versions** from Chapters 192–195. It covers the Department of Health and Senior Services, vital statistics, disposition of bodies, and drug regulations. The remaining 17 listed chapters of Title XII, starting with Chapter 196, are next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
 
 These are state statute headings. The collection doesn't include local ordinances, court rules, regulations, constitutional provisions, federal law, or a complete historical archive. Chapter 300 is the state's Model Traffic Ordinance; its presence doesn't establish what a particular city has adopted.
 
@@ -44,7 +44,7 @@ Each chapter and source version keeps its retrieval date and response hash. Addi
 
 ## What has been checked
 
-The first public-health expansion passed **617 TypeScript tests and 35 Python tests**, TypeScript checks, and the production build. All four new chapter indexes matched a second retrieval. Browser checks covered new public-health searches, chapter boundaries, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
+The latest public-health expansion passed **648 TypeScript tests and 36 Python tests**, TypeScript checks, and the production build. All four new chapter indexes matched a second retrieval. Browser checks covered new public-health searches, chapter boundaries, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
 
 The collection process checks every listed version against its official page, then retrieves the new chapter indexes again to check for changes. Tests cover search relevance, exact citations, chapter boundaries, source identities, and version handling. A failed validation blocks publication.
 

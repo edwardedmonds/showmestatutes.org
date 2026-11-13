@@ -405,3 +405,17 @@ class HealthCollectionTests(unittest.TestCase):
                     source.replace('all or part is unconstitutional', '').replace('This section was declared unconstitutional', 'A court case was discussed')]:
             with self.assertRaisesRegex(ValueError, 'Unverified constitutional warning'):
                 collect.parse_section(bad, entry, '2026-11-13T07:49:59+00:00')
+
+    def test_health_department_warning_and_reprint_require_exact_source_notices(self):
+        for bid, effective, warned in [('9768', '2014-08-28', True), ('36197', '1919-08-07', False)]:
+            entry = {'id': '192.310:'+bid, 'section': '192.310', 'versionId': bid, 'effectiveFrom': effective,
+                     'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section=192.310&bid='+bid}
+            source = Path('tests/fixtures/health-192.310-'+bid+'.html').read_text()
+            record = collect.parse_section(source, entry, '2026-11-13T08:13:44+00:00')
+            self.assertEqual(bool(record.get('hasConstitutionalWarning')), warned)
+            self.assertTrue(record['multipleEnactments'])
+            self.assertIsNone(record['effectiveTo'])
+            marker = 'This section was declared unconstitutional' if warned else 'reprinted in accordance'
+            for broken in [source.replace(marker, 'different source notice'), source.replace('There are multiple enactments of', 'Versions of')]:
+                with self.assertRaises(ValueError):
+                    collect.parse_section(broken, entry, '2026-11-13T08:13:44+00:00')
