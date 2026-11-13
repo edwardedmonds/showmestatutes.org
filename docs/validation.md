@@ -1,3 +1,31 @@
+# Food regulation and health facilities — November 13, 2026
+
+## Scope and source checks
+
+Title XII Chapters 196–199 add **442 distinct sections and source versions**: 159 in Food, Drugs and Tobacco, 108 in Medical Treatment Facility Licenses, 146 in Nursing Homes and Facilities, and 29 in Rehabilitation Center — Head Injury — Tuberculosis Testing and Commitment. The combined snapshot contains **12,582 sections and 12,633 versions** across **196 chapter indexes**: 193 with headings and three reviewed empty indexes. The official catalog has 468 chapter links across 41 title groups, leaving **272 chapter indexes** outside this collection. Thirteen listed Title XII chapters remain, beginning with Chapter 201.
+
+Every new source page was retrieved sequentially at no more than one request per second. Two initial responses were rejected: §197.425:10410 contained an unrelated §337.712 licensing heading, and §198.644:51225 contained an unrelated §313.075 bingo heading. Retrying each exact URL recovered the correct heading and source identity. Rejected responses and accepted replacements are preserved locally with their retrieval dates and hashes. No unresolved source review remained, and no parser exception or new version policy was introduced.
+
+All four indexes matched independent second retrievals after the chapter's source pages were collected. The strict collector rebuilt and validated the combined candidate from saved responses. All 12,191 earlier records and all 192 earlier chapter-manifest objects are unchanged, including check dates and hashes. The change report contains 442 additions, zero removals and zero changes. Totals remain 43 warned versions, 17 reviewed reprinted pairs, 14 contingent versions and 32 scheduled future versions.
+
+## Tests and performance
+
+All **677 TypeScript tests and 36 Python tests** passed, along with TypeScript checks and the production build. Twenty-eight query cases were defined from official index snippets before ranking evaluation, with scoped and unscoped searches, chapter exclusions and a separate exact-citation regression covering four-digit suffixes. Existing parser tests exercise rejection of wrong headings and bounded retries. No parser, ranking or alias changes were needed. These are development checks, not an independent assessment of legal-search accuracy.
+
+The serialized MiniSearch index grew from 1,454,209 to 1,505,254 bytes. On local Linux with Node 22.22.2, after the test workload finished, index construction took about 199 ms and loading plus search setup about 161 ms. Across 16 queries with three warm-up passes and 25 measured runs each, p95 search times ranged from 0.003 to 31.54 ms, compared with 0.020 to 32.63 ms for the prior snapshot in the same run. An initial measurement during parallel test execution reached about 130 ms; the comparison was repeated after that competing workload completed. These timings exclude download, JSON parsing, validation and rendering, and are not physical mobile measurements.
+
+## Browser checks and publication
+
+The production preview reports 12,582 section headings. The unscoped prescription-drug-repository query finds §196.976:10294; a Chapter 197 filter excludes it. Exact lookup of §197.1045 finds the complete hospital-price-transparency heading with its exact source URL. A scoped tuberculosis query finds §199.275:10591. No horizontal overflow was observed at 320×740 or 390×740, including long headings and chapter labels. The first-degree-murder example still prioritizes §565.020, and ArrowDown focuses its source-heading link. No browser warnings or errors were observed.
+
+The existing layout and filters remain unchanged; the scope disclosure now includes Title XII Chapters 188–199. Snapshot-specific filenames remain in use. Publication uses the validated snapshot through GitHub Pages; workflow success and public asset comparisons are checked after pushing. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+## Continued statewide collection
+
+A source-only worker is collecting later catalog chapters into a resumable cache. Its provisional parse results do not promote the public snapshot. Each release still requires explicit exception review, the strict combined collector, regression tests, documentation updates and a passing publishing workflow. Empty indexes and unfamiliar citation formats remain review items rather than omissions. Full coverage will be claimed only after reconciliation with the complete official chapter catalog and verification of the final deployment.
+
+---
+
 # Health services, vital records and drug regulations — November 13, 2026
 
 ## Scope and source checks

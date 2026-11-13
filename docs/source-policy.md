@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XI, XIX, XXXVII and XXXVIII, plus Title XII Chapters 188–195. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XI, XIX, XXXVII and XXXVIII, plus Title XII Chapters 188–199. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -105,3 +105,9 @@ Chapters 188–191 were enumerated from the official title and chapter indexes. 
 ## Second Title XII batch
 
 Chapters 192–195 were enumerated from the official title and chapter indexes. Their 310 listed source versions were collected and checked against their exact official pages, and all four indexes matched independent second retrievals. The reviewed §192.310 pair requires the 2014 version's constitutional warning and Calzone notice and the 1919 version's §3.066 reprint notice. Both pages list multiple enactments and blank end dates. The policy preserves those source distinctions without inferring legal applicability. Earlier record and chapter provenance remains unchanged.
+
+## Third Title XII batch
+
+The official catalog and chapter indexes enumerate 442 source versions in Chapters 196–199. All pages passed strict source parsing, and each index matched an independent retrieval after that chapter's pages were collected. Two initial responses had unrelated headings: §197.425:10410 and §198.644:51225. The existing bounded exact-URL retry recovered valid source pages; rejected and accepted evidence is retained locally. No parser exceptions or new source-warning policies were needed.
+
+A resumable acquisition process now collects remaining catalog sources independently of publication. Provisional source files never promote themselves. Every release still requires explicit source review, the strict combined collector, regression tests, README and coverage updates, and a passing deployment workflow. Unfamiliar citation formats and empty indexes must be reviewed before inclusion; they are not silently omitted from the statewide target.
