@@ -644,3 +644,25 @@ class BankingSourceTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError,'Unexpected heading'):collect.parse_section(rejected,e,'2026-11-13T11:55:00+00:00')
     def test_hypothetical_rulemaking_condition_does_not_become_a_constitutional_warning(self):
         e=self.entry('361.933:54889');source=Path('tests/fixtures/banking-361.933-54889.html').read_text();self.assertIn('subsequently held unconstitutional',source);r=collect.parse_section(source,e,'2026-11-13T11:55:00+00:00');self.assertFalse(r.get('hasConstitutionalWarning'));self.assertFalse(r.get('hasContingentEffectiveDate'));self.assertEqual(r['effectiveFrom'],'2024-08-28')
+
+class InsuranceSourceTests(unittest.TestCase):
+    def entry(self,id):
+        import os
+        data=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text());record=next(r for r in data['records'] if r['id']==id)
+        return {k:record[k] for k in ['id','section','versionId','effectiveFrom','sourceUrl']}
+    def test_conflicting_enactments_require_exact_dates_notices_and_banner(self):
+        for id,date in [('376.1516:20990','2008-01-01'),('376.1516:20991','2007-08-28')]:
+            e=self.entry(id);source=Path('tests/fixtures/insurance-'+id.replace(':','-')+'.html').read_text();r=collect.parse_section(source,e,'2026-11-13T12:10:00+00:00');self.assertEqual(r['effectiveFrom'],date);self.assertIsNone(r['effectiveTo']);self.assertTrue(r['multipleEnactments']);self.assertFalse(r.get('hasConstitutionalWarning'))
+            for bad in [source.replace('Due to possible conflict','Conflict resolved'),source.replace('There are multiple enactments of','No multiple enactments of'),source.replace('H.B. 818','H.B. 819')]:
+                with self.assertRaises(ValueError):collect.parse_section(bad,e,'2026-11-13T12:10:00+00:00')
+    def test_other_section_repeal_and_partial_conditions_do_not_flag_whole_section(self):
+        for id,notice in [('375.024:20251','subsequently held unconstitutional'),('376.426:20699','provisions of subdivisions (19) and (20)'),('376.1387:20976','scope of judicial review'),('381.025:21442','Section 381.141 was repealed')]:
+            e=self.entry(id);source=Path('tests/fixtures/insurance-'+id.replace(':','-')+'.html').read_text();self.assertIn(notice,collect.clean(collect.BeautifulSoup(source,'html.parser').get_text(' ')));r=collect.parse_section(source,e,'2026-11-13T12:10:00+00:00');self.assertFalse(r.get('hasConstitutionalWarning'));self.assertFalse(r.get('hasContingentEffectiveDate'));self.assertIsNone(r['effectiveTo'])
+    def test_validator_rejects_altered_or_incomplete_conflict_pair(self):
+        import copy,os
+        data=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text())
+        for field,value in [('effectiveFrom','2007-08-28'),('effectiveTo','2009-01-01'),('multipleEnactments',False)]:
+            bad=copy.deepcopy(data);next(r for r in bad['records'] if r['id']=='376.1516:20990')[field]=value
+            with self.assertRaises(ValueError):collect.validate(bad)
+        bad=copy.deepcopy(data);bad['records']=[r for r in bad['records'] if r['id']!='376.1516:20990']
+        with self.assertRaises(ValueError):collect.validate(bad)

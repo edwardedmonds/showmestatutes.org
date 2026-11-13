@@ -23,9 +23,9 @@
     "XXI",
     "XXII",
     "XXIII",
+    "XXIV",
     "XXXVII",
-    "XXXVIII",
-    "XXIV"
+    "XXXVIII"
   ],
   "chapters": [
     {
@@ -1788,6 +1788,78 @@
       "minimumVersions": 25
     },
     {
+      "chapter": "374",
+      "title": "Department of Commerce and Insurance",
+      "category": "government",
+      "minimumVersions": 81
+    },
+    {
+      "chapter": "375",
+      "title": "Provisions Applicable to All Insurance Companies",
+      "category": "government",
+      "minimumVersions": 383
+    },
+    {
+      "chapter": "376",
+      "title": "Life, Health and Accident Insurance",
+      "category": "government",
+      "minimumVersions": 413
+    },
+    {
+      "chapter": "377",
+      "title": "Assessment Plan and Stipulated Premium Plan Life Insurance",
+      "category": "government",
+      "minimumVersions": 42
+    },
+    {
+      "chapter": "378",
+      "title": "Fraternal Benefit Societies",
+      "category": "government",
+      "minimumVersions": 38
+    },
+    {
+      "chapter": "379",
+      "title": "Insurance Other Than Life",
+      "category": "government",
+      "minimumVersions": 299
+    },
+    {
+      "chapter": "380",
+      "title": "County, Town and Farmers' Mutual Property Insurance Companies",
+      "category": "government",
+      "minimumVersions": 61
+    },
+    {
+      "chapter": "381",
+      "title": "Title Insurance Law",
+      "category": "government",
+      "minimumVersions": 34
+    },
+    {
+      "chapter": "382",
+      "title": "Insurance Holding Companies",
+      "category": "government",
+      "minimumVersions": 67
+    },
+    {
+      "chapter": "383",
+      "title": "Malpractice Insurance",
+      "category": "government",
+      "minimumVersions": 48
+    },
+    {
+      "chapter": "384",
+      "title": "Surplus Lines Insurance",
+      "category": "government",
+      "minimumVersions": 23
+    },
+    {
+      "chapter": "385",
+      "title": "Credit Insurance and Service Contracts",
+      "category": "government",
+      "minimumVersions": 56
+    },
+    {
       "chapter": "540",
       "title": "Grand Juries and Their Proceedings",
       "category": "procedure",
@@ -2048,7 +2120,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXIII, part of XXIV, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXIV, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -3520,6 +3592,26 @@
       "effectiveTo": null,
       "sourceNotice": "*Revisor's Note: This section is reprinted in accordance with section 3.066. S.B. 7, First Extraordinary Session of the 96th General Assembly, 2011, repealed this section. S.B. 7 was declared unconstitutional as a violation of the single subject requirement of Article III, Section 23, of the Missouri Constitution (see annotation above), rendering the repeal of this section ineffective.",
       "displayNotice": "The Revisor reprints this provision because the attempted repeal in S.B.7 of the 2011 extraordinary session was ineffective after a court ruling. This chapter index lists one version of this section. Read the official source note."
+    }
+  ],
+  "conflictingEnactments": [
+    {
+      "section": "376.1516",
+      "versions": [
+        {
+          "versionId": "20990",
+          "effectiveFrom": "2008-01-01",
+          "sourceNotice": "*This section was enacted by H.B. 818 and S.B. 66 during the First Regular Session of the 94th General Assembly, 2007. Due to possible conflict, both versions are printed here."
+        },
+        {
+          "versionId": "20991",
+          "effectiveFrom": "2007-08-28",
+          "sourceNotice": "*This section was enacted by H.B. 818 and S.B. 66 during the First Regular Session of the 94th General Assembly, 2007. Due to possible conflict, both versions of this section are printed here."
+        }
+      ],
+      "reviewedAt": "2026-11-13",
+      "displayNotice": "The Revisor prints both enactments because of possible conflict between H.B. 818 and S.B. 66 (2007). Their recorded effective dates differ, and neither has a source end date. Read both official versions to determine applicability.",
+      "basis": "Both exact indexed identities have the multiple-enactment banner, distinct source footnotes and blank history ends. Preserve both source intervals without choosing a controlling enactment."
     }
   ]
 }

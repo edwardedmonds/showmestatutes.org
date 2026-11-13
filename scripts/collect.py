@@ -21,7 +21,7 @@ from bs4 import BeautifulSoup
 BASE = 'https://revisor.mo.gov'
 POLICY = json.loads((Path(__file__).resolve().parent.parent / 'data/coverage.json').read_text())
 CHAPTERS = {c['chapter']: c for c in POLICY['chapters']}
-REVIEWED_OVERLAPS = POLICY.get('delayedEnactments', []) + POLICY.get('reprintedEnactments', [])
+REVIEWED_OVERLAPS = POLICY.get('delayedEnactments', []) + POLICY.get('reprintedEnactments', []) + POLICY.get('conflictingEnactments', [])
 
 def index_url(chapter):
     return BASE + '/main/OneChapter.aspx?chapter=' + chapter
@@ -170,7 +170,7 @@ def parse_section(html, entry, checked_at):
     if delayed and (not delayed_version or entry['effectiveFrom'] != delayed_version['effectiveFrom'] or until is not None
             or f'There are multiple enactments of {entry["section"]}' not in clean(soup.get_text(' '))
             or delayed_version['sourceNotice'] not in clean(soup.get_text(' '))):
-        raise ValueError('Unverified delayed/reprinted enactment: ' + entry['id'])
+        raise ValueError('Unverified delayed/reprinted/conflicting enactment: ' + entry['id'])
     warning = next((p for p in POLICY.get('constitutionalWarnings', []) if p['id'] == entry['id']), None)
     source_warning = ('all or part is unconstitutional' in clean(effective.get_text(' ')).lower()
                       or any(clean(p.get_text(' ')).startswith("*Revisor's Note:")
@@ -311,7 +311,7 @@ def validate(dataset, previous=None):
             if (set(r['versionId'] for r in versions) != set(expected)
                     or any(not r.get('multipleEnactments') or r['effectiveFrom'] != expected[r['versionId']]['effectiveFrom']
                            or r['effectiveTo'] is not None for r in versions)):
-                raise ValueError('Unresolved delayed/reprinted enactments')
+                raise ValueError('Unresolved delayed/reprinted/conflicting enactments')
             continue
         concurrent = next((p for p in POLICY['concurrentEnactments'] if p['section'] == versions[0]['section']), None)
         if concurrent:

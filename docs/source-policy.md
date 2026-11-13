@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXIII, part of XXIV, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXIV, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -183,3 +183,11 @@ The standalone §348.253 reprint requires its exact source note, identity, sourc
 All 625 source versions and nine chapter indexes passed strict checks. Independent index retrievals matched exactly. Five initially rejected responses for **362.464, 369.079, 369.086, 370.030 and 370.366** displayed unrelated sections. Bounded exact-URL retries recovered the correct pages; the rejected responses remain archived. Eleven actual-source fixtures preserve those five rejected responses, their five accepted replacements and §361.933's hypothetical rulemaking language.
 
 The source review found no new exceptional version policy. This release adds scope and tests using the existing parser and search rules. Section identities, source dates, selected version links and earlier provenance remain intact. No conclusion about legal applicability follows merely from a successful heading match.
+
+## Title XXIV — Insurance
+
+All 1,545 accepted pages and twelve indexes passed strict parsing; independently retrieved indexes matched. Thirteen initially rejected responses displayed unrelated sections. Correct exact-URL retries passed, and the rejected responses remain archived.
+
+A reviewed `conflictingEnactments` policy preserves §376.1516's exact pair of identities, different effective dates, blank ends, multiple-enactment banners and distinct source notes. It uses the same strict overlap checks as other reviewed version pairs, with its own explanation. Both validators reject missing members, altered dates, inferred ends and missing multiple-enactment flags. Unknown overlaps still fail. The date difference does not establish that one version superseded the other.
+
+Six actual-source fixtures cover both enactments and four source-note cases. Missing or altered conflict notes or banners fail collection. Hypothetical rules, a condition affecting specified subdivisions and a note about another section's attempted repeal are not automatically classified as whole-section constitutional warnings or expirations.

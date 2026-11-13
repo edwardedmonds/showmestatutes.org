@@ -1,5 +1,5 @@
 import coverage from '../data/coverage.json';
-const reviewedOverlaps = [...coverage.delayedEnactments, ...coverage.reprintedEnactments];
+const reviewedOverlaps = [...coverage.delayedEnactments, ...coverage.reprintedEnactments, ...coverage.conflictingEnactments];
 export const chapterPolicy = coverage.chapters;
 export interface ChapterSummary {
   chapter: string; title: string; sourceIndex: string; indexCheckedAt: string;
@@ -118,7 +118,7 @@ export function assertDataset(value: unknown): asserts value is Dataset {
         || versions.some(r => {
           const expected = delayed.versions.find(v => v.versionId === r.versionId);
           return !expected || !r.multipleEnactments || r.effectiveFrom !== expected.effectiveFrom || r.effectiveTo !== null;
-        })) throw new Error('Unresolved delayed/reprinted enactments');
+        })) throw new Error('Unresolved delayed/reprinted/conflicting enactments');
       continue;
     }
     const concurrent = coverage.concurrentEnactments.find(c => c.section === versions[0].section);

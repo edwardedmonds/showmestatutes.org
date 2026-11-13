@@ -1,3 +1,25 @@
+# Insurance coverage — November 13, 2026
+
+## Scope and source review
+
+Chapters **374–385** add **1,544 distinct sections and 1,545 source versions**, completing Title XXIV's 21 listed indexes. The combined snapshot contains **22,569 sections, 22,650 versions and 345 chapter indexes**: 336 populated and nine reviewed empty indexes. **123 of 468 catalog links remain**. Titles I–XXIV are accounted for; Title XXV is next.
+
+All twelve indexes matched independent second retrievals through the strict parser. Every accepted page and combined offline collection passed. All 21,105 prior records and 333 chapter-manifest objects remain unchanged. The change report has 1,545 additions, no removals and no prior changes. Thirteen unrelated rejected responses recovered through exact-URL retries; accepted and rejected evidence remains archived.
+
+§376.1516 preserves its differently dated 2007/2008 enactments and blank history ends under an explicit possible-conflict policy. Both source notices are required; neither version is discarded or given an inferred end. Notes in 375.024, 376.426, 376.1387 and 381.025 are reviewed without inferring a whole-section warning or calendar expiry. Existing totals remain 68 warned versions, 36 reprinted pairs, one standalone reprint, 22 contingent versions and 35 scheduled future versions; the new differently dated conflict pair is a separate category.
+
+## Tests
+
+**1,140 TypeScript and 61 Python tests passed**, with TypeScript checks and the production build. Thirty-two query cases were defined from official index wording before ranking evaluation. Tests cover exact citations across all twelve chapters, chapter exclusions, both conflict versions under both upcoming settings and before/at the later source date, validator rejection of changed or incomplete pairs, and six actual-source fixtures. No query, expectation, alias or ranking changes were needed. Existing error-message labels remain compatible. A transportation validator-mutation test exceeded its five-second limit with the larger snapshot; that test alone now allows twenty seconds, with all assertions unchanged. These checks are not an independent legal-search assessment.
+
+## Browser and publication
+
+Production-preview checks confirmed 22,569 ready headings. §376.1516 displayed both exact source links, their different dates and the possible-conflict explanation under both upcoming settings. Chapter 375 excluded the pair. A health-premium refund query returned §376.806 with its exact source link; §381.025 remained an ordinary result. At 390px and 320px both enactment cards remained readable without horizontal overflow. The Seat belts example and ArrowDown navigation worked. Browser warning/error logs were empty.
+
+README, coverage, roadmap, source policy and fallback scope reflect complete Title XXIV coverage. The existing result layout displays the possible-conflict explanation; the design is unchanged. Workflow success and live-file verification are checked after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Banking coverage — November 13, 2026
 
 ## Scope and source review

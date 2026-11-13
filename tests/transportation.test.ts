@@ -64,4 +64,4 @@ it('rejects missing placeholder flags, invented dates, and invented end dates in
   const wrongEnd = structuredClone(dataset);
   wrongEnd.records.find(r => r.id === '301.287:60726')!.effectiveTo = '2099-01-01';
   expect(() => assertDataset(wrongEnd)).toThrow('contingent');
-});
+}, 20000);

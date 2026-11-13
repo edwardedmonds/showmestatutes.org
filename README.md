@@ -20,7 +20,7 @@ Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no
 
 **Statewide heading coverage is the goal. It isn't finished.**
 
-The November 13, 2026 collection contains **21,025 distinct sections and 21,105 source versions** across **333 chapter indexes**. Three hundred twenty-four have headings; Chapters 152, 203, 255, 280, 312, 318, 342, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **135** outside this collection at this check.
+The November 13, 2026 collection contains **22,569 distinct sections and 22,650 source versions** across **345 chapter indexes**. Three hundred thirty-six have headings; Chapters 152, 203, 255, 280, 312, 318, 342, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **123** outside this collection at this check.
 
 | Area | Imported scope |
 | --- | --- |
@@ -43,11 +43,11 @@ The November 13, 2026 collection contains **21,025 distinct sections and 21,105 
 | Public safety and morals | Title XXI: Chapters 313–323 |
 | Occupations and professions | Title XXII: Chapters 324–346 |
 | Corporations, associations and partnerships | Title XXIII: Chapters 347–360 |
-| Banking, credit, loans and development finance | Part of Title XXIV: Chapters 361, 362, 364, 365 and 367–371 |
+| Banking, credit, loans, development finance and insurance | Title XXIV: Chapters 361, 362, 364, 365, 367–371 and 374–385 |
 | Criminal procedure | Title XXXVII: Chapters 540–552 |
 | Crimes, punishment, peace officers and public defenders | Title XXXVIII: Chapters 556–579, 589, 590, 595 and 600 |
 
-The latest batch adds **625 sections and 625 source versions** from nine banking and lending chapters in Title XXIV. It covers banks, credit unions, savings and loan associations, retail credit, motor-vehicle financing, pawnbrokers and development finance. Titles I–XXIII are accounted for; the insurance chapters in Title XXIV are next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
+The latest batch adds **1,544 sections and 1,545 source versions** from the twelve insurance chapters, completing Title XXIV. It covers insurance regulation, life and health coverage, property insurance, title insurance, malpractice insurance and service contracts. One section has two enactments that the Revisor prints because of possible conflict; both remain available with their source dates. Titles I–XXIV are now accounted for; utilities and carriers in Title XXV are next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
 
 These are state statute headings. The collection doesn't include local ordinances, court rules, regulations, constitutional provisions, federal law, or a complete historical archive. Chapter 300 is the state's Model Traffic Ordinance; its presence doesn't establish what a particular city has adopted.
 
@@ -55,7 +55,7 @@ Each chapter and source version keeps its retrieval date and response hash. Addi
 
 ## What has been checked
 
-The latest banking and lending expansion passed **1,104 TypeScript tests and 58 Python tests**, TypeScript checks, and the production build. All nine new chapter indexes matched a second retrieval. Browser checks covered new searches, chapter boundaries, exact source links and previously reviewed warnings and reprints, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
+The latest insurance expansion passed **1,140 TypeScript tests and 61 Python tests**, TypeScript checks, and the production build. All twelve new chapter indexes matched a second retrieval. Browser checks covered new searches, chapter boundaries, exact source links and both possible-conflict enactments, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
 
 The collection process checks every listed version against its official page, then retrieves the new chapter indexes again to check for changes. Tests cover search relevance, exact citations, chapter boundaries, source identities, and version handling. A failed validation blocks publication.
 
