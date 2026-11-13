@@ -29,6 +29,7 @@
     "XXVII",
     "XXVIII",
     "XXIX",
+    "XXX",
     "XXXVII",
     "XXXVIII"
   ],
@@ -2129,6 +2130,36 @@
       "minimumVersions": 97
     },
     {
+      "chapter": "451",
+      "title": "Marriage, Marriage Contracts, and Rights of Married Women",
+      "category": "government",
+      "minimumVersions": 28
+    },
+    {
+      "chapter": "452",
+      "title": "Dissolution of Marriage, Divorce, Alimony and Separate Maintenance",
+      "category": "government",
+      "minimumVersions": 157
+    },
+    {
+      "chapter": "453",
+      "title": "Adoption and Foster Care",
+      "category": "government",
+      "minimumVersions": 41
+    },
+    {
+      "chapter": "454",
+      "title": "Enforcement of Support Law",
+      "category": "government",
+      "minimumVersions": 178
+    },
+    {
+      "chapter": "455",
+      "title": "Abuse — Adults and Children — Shelters and Protective Orders",
+      "category": "government",
+      "minimumVersions": 58
+    },
+    {
       "chapter": "540",
       "title": "Grand Juries and Their Proceedings",
       "category": "procedure",
@@ -2389,7 +2420,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -3862,6 +3893,24 @@
       "effectiveFrom": "1994-07-01",
       "sourceKind": "annotation",
       "sourceNotice": "(2002) Section constitutes unconstitutional delegation of power to the State Treasurer to collect property in violation of Article IV, Section 15 of the Missouri Constitution. Farmer v. Kinder, 89 S.W.3d 447 (Mo.banc)."
+    },
+    {
+      "id": "451.022:24958",
+      "effectiveFrom": "2001-08-28",
+      "sourceKind": "annotation",
+      "sourceNotice": "(2014) Section is unconstitutional under the federal due process clause as significantly interfering with the fundamental right of marriage and creates a gender-based classification that is unconstitutional under the federal equal protection clause. Lawson v. Kelly, 58 F.Supp.3d 923 (W.D.Mo.).",
+      "requiredSourceNotices": [
+        "(1998) Section is unconstitutional because title of bill was not clearly stated and bill contained more than one subject. St. Louis Health Care Network v. State, 968 S.W.2d 145 (Mo.banc).",
+        "(2014) The right to marry is a fundamental right inherent in the liberty of the person, and under the Due Process and Equal Protection Clauses of the Fourteenth Amendment couples of the same sex may not be deprived of that right and that liberty. Obergefell v. Hodges, 135 S.Ct. 2584."
+      ],
+      "displayNotice": "The Revisor includes constitutional rulings and an annotation recognizing the right of same-sex couples to marry. This indexed prohibition is shown for source reference, outside ordinary results. Read the official annotations before relying on the heading."
+    },
+    {
+      "id": "451.040:57670",
+      "effectiveFrom": "2025-08-28",
+      "sourceKind": "annotation",
+      "sourceNotice": "(2014) Requirement that marriage license be signed in the presence of the recorder of deeds or deputy is unconstitutional as applied to incarcerated applicant. Amos v. Higgins, 996 F.Supp.2d 810 (W.D. Mo.).",
+      "displayNotice": "The Revisor retains a 2014 ruling that the in-person signing requirement was unconstitutional as applied to an incarcerated applicant. This source version is dated 2025 and includes alternative application procedures. The annotation does not establish that the entire 2025 section is invalid. Read the official text and notes."
     }
   ],
   "indexHeadingExceptions": [

@@ -20,7 +20,7 @@ Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no
 
 **Statewide heading coverage is the goal. It isn't finished.**
 
-The November 13, 2026 collection contains **25,772 distinct sections and 25,853 source versions** across **389 chapter indexes**. Three hundred eighty have headings; Chapters 152, 203, 255, 280, 312, 318, 342, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **79** outside this collection at this check.
+The November 13, 2026 collection contains **26,234 distinct sections and 26,315 source versions** across **394 chapter indexes**. Three hundred eighty-five have headings; Chapters 152, 203, 255, 280, 312, 318, 342, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **74** outside this collection at this check.
 
 | Area | Imported scope |
 | --- | --- |
@@ -49,10 +49,11 @@ The November 13, 2026 collection contains **25,772 distinct sections and 25,853 
 | Debtor-creditor relations | Title XXVII: Chapters 425–430 |
 | Contracts and contractual relations | Title XXVIII: Chapters 431–436 |
 | Ownership and conveyance of property | Title XXIX: Chapters 441–448 |
+| Domestic relations | Title XXX: Chapters 451–455 |
 | Criminal procedure | Title XXXVII: Chapters 540–552 |
 | Crimes, punishment, peace officers and public defenders | Title XXXVIII: Chapters 556–579, 589, 590, 595 and 600 |
 
-The latest batch adds **626 sections and 626 source versions** from all eight chapters in Title XXIX. It covers landlord and tenant law, real-estate conveyances, mortgages, mining, plats, land boundaries, unclaimed property and condominiums. Condominium article citations keep their source format, such as `448.3-116`. Titles I–XXIX are now accounted for; domestic relations in Title XXX are next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
+The latest batch adds **462 sections and 462 source versions** from all five chapters in Title XXX. It covers marriage, divorce, adoption, support enforcement and protective orders. Source annotations stay attached to the relevant versions, including the distinction between a historical ruling and the wording of a later amendment. Titles I–XXX are now accounted for; trusts and estates in Title XXXI are next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
 
 These are state statute headings. The collection doesn't include local ordinances, court rules, regulations, constitutional provisions, federal law, or a complete historical archive. Chapter 300 is the state's Model Traffic Ordinance; its presence doesn't establish what a particular city has adopted.
 
@@ -60,7 +61,7 @@ Each chapter and source version keeps its retrieval date and response hash. Addi
 
 ## What has been checked
 
-The latest property expansion passed **1,320 TypeScript tests and 75 Python tests**, TypeScript checks, and the production build. All eight new chapter indexes matched a second retrieval. Browser checks covered new searches, chapter boundaries, article citations, exact source links and constitutional warnings, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
+The latest domestic-relations expansion passed **1,340 TypeScript tests and 78 Python tests**, TypeScript checks, and the production build. All five new chapter indexes matched a second retrieval. Browser checks covered new searches, chapter boundaries, source annotations, exact source links and constitutional warnings, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
 
 The collection process checks every listed version against its official page, then retrieves the new chapter indexes again to check for changes. Tests cover search relevance, exact citations, chapter boundaries, source identities, and version handling. A failed validation blocks publication.
 

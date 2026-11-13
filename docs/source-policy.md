@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -219,3 +219,13 @@ All eight original and independent index rechecks and 626 accepted source pages 
 **447.575:24826** requires the exact 2002 Farmer v. Kinder annotation and **1994-07-01** source date. Removing the annotation fails collection. The warning is shown separately from ordinary results. No second version or expiry was invented. **442.130:51139** remains ordinary because its exact Revisor note says the identical H.B. 1662 language remains in effect after H.B. 1606 was invalidated. Its 2023 annotation and note remain in the source fixture and linked official page. Historical versions not listed in the current chapter index are not silently imported. The negative constitutional findings in **442.571:24477** and **448.3-116:24932** likewise remain ordinary.
 
 Five actual-source fixtures cover the complete condominium index, exact article identities, the required warning and the ordinary annotations. Search ranking, aliases and the interface are unchanged. All prior record objects and chapter provenance remain unchanged.
+
+## Title XXX — Domestic relations
+
+All five original and independent index rechecks and 462 accepted source pages pass strict parsing. No overlapping versions, rejected responses or citation-format changes were needed.
+
+**451.022:24958** requires its exact 2014 Lawson annotation plus the exact 1998 St. Louis Health Care Network and Obergefell paragraphs. The source labels its Obergefell paragraph “(2014)”; the policy and fixture preserve that literal label, without silently correcting it or presenting it as an independently verified case date. Removing any of the three paragraphs fails collection. The 2001 source date remains unchanged, and the prohibition heading appears outside ordinary results with an explanation of the source annotations.
+
+**451.040:57670** requires its exact 2014 Amos annotation and retains the 2025 source date. Its notice describes a historical ruling on in-person signing as applied to an incarcerated applicant. The current page's alternative application procedures and 2025 amendment history remain in the fixture. The notice expressly avoids claiming the entire 2025 section is invalid. No expiration date, historical version or reprint was invented.
+
+**453.120:25163** and **455.085:51051** have annotations rejecting constitutional objections; they remain ordinary. Four actual-source fixtures test these distinctions, dates and identities. Existing parser and interface behavior are reused; ranking and aliases are unchanged.

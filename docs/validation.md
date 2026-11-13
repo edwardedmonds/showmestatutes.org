@@ -1,3 +1,25 @@
+# Domestic-relations coverage — November 13, 2026
+
+## Scope and source review
+
+All five Title XXX indexes, Chapters **451–455**, add **462 sections and 462 source versions**. The combined snapshot contains **26,234 sections, 26,315 source versions and 394 chapter indexes**: 385 populated and nine reviewed empty. **74 of 468 catalog links remain**. All listed indexes in Titles I–XXX, XXXVII and XXXVIII are accounted for.
+
+All five strict original/recheck comparisons and 462 accepted pages passed. Combined offline validation and gated promotion passed. All 25,853 prior records and 389 chapter-manifest objects remain unchanged. The change report contains 462 additions, no prior changes and no removals. No overlapping versions or rejected responses were found.
+
+The exact constitutional annotations on 451.022 and451.040 add two warnings, bringing the total to73.451.022 requires all three literal source annotations, including the source's2014 label on its Obergefell paragraph; no corrected case date is substituted.451.040 displays a scoped historical as-applied warning while retaining its2025 source date and alternative-procedures context. Neither warning invents an expiry or reprint.453.120/455.085 annotations rejecting challenges remain ordinary. All earlier source exceptions are unchanged.
+
+## Tests
+
+**1,340 TypeScript and 78 Python tests passed**, with TypeScript and production-build checks. Eighteen queries were defined from official headings before ranking evaluation. Exact lookup tests cover every domestic-relations source citation and URL under both upcoming settings. Four actual-source fixtures test required annotations, historical scope, current source procedures and ordinary rejected challenges. The first full suite hit the existing five-second limit in the delayed-pair test (5.096 seconds); its unchanged assertions passed in isolation. That test clones and validates the full snapshot twice, so its limit is now20seconds, consistent with other full-snapshot mutation tests. No assertions were removed or weakened. The repeated full suite passed. Search ranking, aliases and the interface are unchanged. The earlier campground singular/plural limitation remains documented and unresolved. These are development tests, not an independent legal-search assessment.
+
+## Browser and publication
+
+Production-preview checks passed:26,234 ready; lifetime-protection-order query with455.098:60697 source/date; Chapter453 exclusion;451.022 explanatory warning;451.040 scoped historical warning and2025 source date with upcoming enabled;453.120 ordinary1986 result;390/320px long-heading and notice layout without horizontal overflow;Seat belts and ArrowDown focus to307.178. Console clean. All18 new query expectations passed unchanged.
+
+README, coverage, roadmap, source policy and fallback scope reflect Title XXX. Main-branch workflow success and live assets are verified after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Property coverage — November 13, 2026
 
 ## Scope and source review

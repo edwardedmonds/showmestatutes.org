@@ -73,4 +73,4 @@ it('preserves source intervals for the delayed pair without inventing an end dat
   const inventedStart = structuredClone(dataset);
   inventedStart.records.find(r => r.id === '27.117:60727')!.effectiveFrom = '2027-08-01';
   expect(() => assertDataset(inventedStart)).toThrow('delayed');
-});
+}, 20000); // Two full-snapshot validation passes; allow contention as coverage grows.

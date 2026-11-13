@@ -757,3 +757,26 @@ class PropertySourceTests(unittest.TestCase):
         from bs4 import BeautifulSoup
         e=self.entry('448.3-116:24932');source=Path('tests/fixtures/property-448.3-116-24932.html').read_text();soup=BeautifulSoup(source,'html.parser');heading=soup.select_one('div.norm > p.norm > span.bold');heading.string=heading.get_text().replace('448.3-116','448.2-116')
         with self.assertRaisesRegex(ValueError,'Unexpected heading'):collect.parse_section(str(soup),e,'2026-11-13T13:20:00+00:00')
+
+class DomesticSourceTests(unittest.TestCase):
+    def entry(self,id):
+        import os
+        d=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text());record=next(r for r in d['records'] if r['id']==id)
+        return {k:record[k] for k in ['id','section','versionId','effectiveFrom','sourceUrl']}
+    def test_marriage_warning_requires_all_three_literal_annotations(self):
+        from bs4 import BeautifulSoup
+        e=self.entry('451.022:24958');source=Path('tests/fixtures/domestic-451.022-24958.html').read_text();r=collect.parse_section(source,e,'2026-11-13T13:35:00+00:00');self.assertTrue(r['hasConstitutionalWarning']);self.assertEqual(r['effectiveFrom'],'2001-08-28');self.assertFalse(r.get('effectiveTo'))
+        policy=next(p for p in collect.POLICY['constitutionalWarnings'] if p['id']==e['id']);notices=[policy['sourceNotice']]+policy['requiredSourceNotices'];self.assertEqual(len(notices),3);self.assertTrue(any(n.startswith('(2014)') and 'Obergefell' in n for n in notices))
+        for notice in notices:
+            soup=BeautifulSoup(source,'html.parser');next(p for p in soup.select('p') if collect.clean(p.get_text(' '))==notice).decompose()
+            with self.assertRaisesRegex(ValueError,'Unverified constitutional warning'):collect.parse_section(str(soup),e,'2026-11-13T13:35:00+00:00')
+    def test_historical_as_applied_license_annotation_retains_current_source_date_and_procedures(self):
+        from bs4 import BeautifulSoup
+        e=self.entry('451.040:57670');source=Path('tests/fixtures/domestic-451.040-57670.html').read_text();soup=BeautifulSoup(source,'html.parser');text=collect.clean(soup.get_text(' '));self.assertIn('or electronically through an online process',text);self.assertIn('An affidavit or sworn statement is submitted by the incarcerated or military applicant',text);self.assertIn('A.L. 2025 H.B. 737 & 486 merged with S.B. 43',text)
+        r=collect.parse_section(source,e,'2026-11-13T13:35:00+00:00');self.assertTrue(r['hasConstitutionalWarning']);self.assertEqual(r['effectiveFrom'],'2025-08-28');self.assertFalse(r.get('effectiveTo'));self.assertEqual(r['sourceUrl'],e['sourceUrl'])
+        next(p for p in soup.select('p') if collect.clean(p.get_text(' ')).startswith('(2014)')).decompose()
+        with self.assertRaisesRegex(ValueError,'Unverified constitutional warning'):collect.parse_section(str(soup),e,'2026-11-13T13:35:00+00:00')
+    def test_adoption_and_protection_order_annotations_rejecting_challenges_remain_ordinary(self):
+        from bs4 import BeautifulSoup
+        for id,phrase in [('453.120:25163','did not unconstitutionally infringe'),('455.085:51051','not unconstitutionally vague')]:
+            source=Path(f'tests/fixtures/domestic-{id.replace(":","-")}.html').read_text();self.assertIn(phrase,collect.clean(BeautifulSoup(source,'html.parser').get_text(' ')));e=self.entry(id);r=collect.parse_section(source,e,'2026-11-13T13:35:00+00:00');self.assertFalse(r.get('hasConstitutionalWarning'));self.assertEqual(r['effectiveFrom'],e['effectiveFrom']);self.assertEqual(r['sourceUrl'],e['sourceUrl'])
