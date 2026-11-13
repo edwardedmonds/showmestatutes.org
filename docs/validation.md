@@ -1,3 +1,25 @@
+# Trade and commerce coverage — November 13, 2026
+
+## Scope and source review
+
+All fifteen Title XXVI indexes add **1,595 sections and 1,595 source versions**. Totals are **24,736 sections, 24,817 versions and 369 chapter indexes**, with 360 populated and nine reviewed empty. **99 of 468 catalog links remain**. All listed indexes in Titles I–XXVI, XXXVII and XXXVIII are accounted for.
+
+Every source index matched an independent recheck, and all accepted pages passed strict parsing. Combined offline validation and gated promotion passed. All 23,222 prior records and 354 chapter-manifest objects remain unchanged. No prior changes or removals appear in the change report. Eleven rejected responses remain archived: nine displayed unrelated sections and two carried the now-reviewed 407.1610 warning. Exact-URL replacements pass; the two warning responses also pass the explicit warning policy. Thirty actual-source fixtures retain representative source pages, both full article indexes and all nine unrelated responses.
+
+Chapter 400 UCC and Chapter 409 securities article formats are explicitly validated. Source identities, uppercase letters and punctuation remain exact. Search permits lowercase article input while retaining source identity/link. The new 407.1610 warning requires its exact note and 2016 annotation. The exact 416.615 annotation about the 1995 amendment is also retained, with its limited scope explained in the warning group. Earlier warnings, reprints, contingent dates and conflicting enactments remain unchanged. Total constitutional-warning versions: 70. Notes 407.040,407.926 and 409.6-605 remain ordinary after source review.
+
+## Tests
+
+**1,246 TypeScript and70 Python tests passed**, with TypeScript and production-build checks. Forty-one query cases were defined from source headings before ranking evaluation. Format cases, full actual-source article indexes, exact lookup for every UCC/securities article under both upcoming settings, lowercase input, chapter exclusion, malformed citation rejection, warning-note mutations and unrelated-page rejection are covered. All earlier regressions run against the combined dataset. One draft query used “pets” where the official 419.090 heading says “pet policies”; the source-wording case was corrected after inspecting the exact source heading. The original phrase “campground curfew alcohol tobacco pets” returned no match. That singular/plural limitation remains open; no alias or ranking change was made to hide it. The other 40 query cases passed unchanged. This is development validation, not an independent legal-search assessment.
+
+## Browser and publication
+
+Production preview showed 24,736 ready headings. Lowercase “§400.2a-101” returned uppercase 400.2A-101 with bid 22749; Chapter 409 excluded it. Securities 409.4-405 resolved to bid 23557 inside Chapter 409. Malformed 400.2B-101 gave no match. Both new warned versions appeared solely in their warning group, including the limited amendment explanation on 416.615 with the upcoming toggle. The corrected campground phrase found 419.090:23903. The State bird example and ArrowDown navigation passed. Warning content fit 390px and 320px without horizontal overflow; console had no warnings/errors. A checkbox click immediately after viewport reset did not toggle in the automation; inspected checked state and keyboard Space toggled it successfully. Existing design unchanged.
+
+README, coverage, roadmap, source policy and fallback scope reflect Title XXVI. The existing design is retained. Main workflow success and live-file comparison are verified after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Utilities and carriers coverage — November 13, 2026
 
 ## Scope and source review

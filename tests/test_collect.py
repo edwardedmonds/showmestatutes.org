@@ -681,3 +681,46 @@ class UtilitiesSourceTests(unittest.TestCase):
         from bs4 import BeautifulSoup
         for id in ['390.021:21925','393.1030:57330']:
             e=self.entry(id);source=Path(f'tests/fixtures/utilities-{id.replace(":","-")}.html').read_text();self.assertIn('subsequently held unconstitutional',' '.join(BeautifulSoup(source,'html.parser').stripped_strings));r=collect.parse_section(source,e,'2026-11-13T12:30:00+00:00');self.assertFalse(r.get('hasConstitutionalWarning'));self.assertFalse(r.get('hasContingentEffectiveDate'));self.assertEqual(r['effectiveFrom'],e['effectiveFrom'])
+
+class CommerceSourceTests(unittest.TestCase):
+    def entry(self,id):
+        import os
+        data=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text());record=next(r for r in data['records'] if r['id']==id)
+        return {k:record[k] for k in ['id','section','versionId','effectiveFrom','sourceUrl']}
+    def test_reviewed_citation_formats(self):
+        formats=json.loads(Path('tests/citation-formats.json').read_text())
+        for section in formats['valid']:self.assertTrue(collect.valid_section(section,section.split('.')[0]),section)
+        for section in formats['invalid']:self.assertFalse(collect.valid_section(section,section.split('.')[0]),section)
+    def test_full_article_indexes_preserve_source_identities(self):
+        for chapter,count in [('400',623),('409',111)]:
+            source=Path(f'tests/fixtures/commerce-index-{chapter}.html').read_text();entries=collect.parse_index(source,chapter);self.assertEqual(len(entries),count)
+            for e in entries:self.assertEqual(e['sourceUrl'],f'https://revisor.mo.gov/main/OneSection.aspx?section={e["section"]}&bid={e["versionId"]}')
+            original='400.2A-101' if chapter=='400' else '409.1-101'
+            malformed='400.2a-101' if chapter=='400' else '409.8-101'
+            with self.assertRaisesRegex(ValueError,'Malformed source identity'):collect.parse_index(source.replace(original,malformed),chapter)
+    def test_unrelated_responses_fail_and_exact_retries_pass(self):
+        for id in json.loads(Path('tests/commerce-rejected-identities.json').read_text()):
+            e=self.entry(id);name=id.replace(':','-');source=Path(f'tests/fixtures/commerce-{name}.html').read_text();r=collect.parse_section(source,e,'2026-11-13T12:50:00+00:00');self.assertEqual(r['id'],id);self.assertEqual(r['sourceUrl'],e['sourceUrl']);self.assertEqual(r['effectiveFrom'],e['effectiveFrom'])
+            with self.assertRaises(ValueError):collect.parse_section(Path(f'tests/fixtures/commerce-rejected-{name}.html').read_text(),e,'2026-11-13T12:50:00+00:00')
+    def test_warning_requires_exact_note_and_annotation(self):
+        from bs4 import BeautifulSoup
+        e=self.entry('407.1610:23330');source=Path('tests/fixtures/commerce-407.1610-23330.html').read_text();r=collect.parse_section(source,e,'2026-11-13T12:50:00+00:00');self.assertTrue(r['hasConstitutionalWarning']);self.assertEqual(r['headingMarker'],'*');self.assertEqual(r['effectiveFrom'],'2014-08-28')
+        for phrase in ["*Revisor's Note:",'(2016)']:
+            soup=BeautifulSoup(source,'html.parser');target=next(p for p in soup.select('p') if ' '.join(p.get_text(' ').split()).startswith(phrase));target.decompose()
+            with self.assertRaisesRegex(ValueError,'Unverified constitutional warning'):collect.parse_section(str(soup),e,'2026-11-13T12:50:00+00:00')
+    def test_amendment_annotation_is_preserved_without_invented_whole_section_ruling(self):
+        from bs4 import BeautifulSoup
+        e=self.entry('416.615:23820');source=Path('tests/fixtures/commerce-416.615-23820.html').read_text();r=collect.parse_section(source,e,'2026-11-13T12:50:00+00:00');self.assertTrue(r['hasConstitutionalWarning']);self.assertEqual(r['effectiveFrom'],'1995-08-28');self.assertFalse(r.get('headingMarker'))
+        soup=BeautifulSoup(source,'html.parser');next(p for p in soup.select('p') if ' '.join(p.get_text(' ').split()).startswith('(1996)')).decompose()
+        with self.assertRaisesRegex(ValueError,'Unverified constitutional warning'):collect.parse_section(str(soup),e,'2026-11-13T12:50:00+00:00')
+    def test_nonwarning_annotations_and_hypothetical_rules_remain_ordinary(self):
+        from bs4 import BeautifulSoup
+        for id,phrase in [('407.040:23007','not unconstitutional'),('407.926:23218','subsequently held unconstitutional'),('409.6-605:23579','subsequently held unconstitutional')]:
+            source=Path(f'tests/fixtures/commerce-{id.replace(":","-")}.html').read_text();self.assertIn(phrase,' '.join(BeautifulSoup(source,'html.parser').stripped_strings));r=collect.parse_section(source,self.entry(id),'2026-11-13T12:50:00+00:00');self.assertFalse(r.get('hasConstitutionalWarning'));self.assertFalse(r.get('hasContingentEffectiveDate'))
+    def test_article_heading_must_match_letter_and_selected_version(self):
+        from bs4 import BeautifulSoup
+        e=next(e for e in collect.parse_index(Path('tests/fixtures/commerce-index-400.html').read_text(),'400') if e['section']=='400.2A-101');source=Path(f'tests/fixtures/commerce-{e["id"].replace(":","-")}.html').read_text();r=collect.parse_section(source,e,'2026-11-13T12:50:00+00:00');self.assertEqual(r['section'],'400.2A-101')
+        soup=BeautifulSoup(source,'html.parser');heading=soup.select_one('div.norm > p.norm > span.bold');heading.string=heading.get_text().replace('400.2A-101','400.2-101')
+        with self.assertRaisesRegex(ValueError,'Unexpected heading'):collect.parse_section(str(soup),e,'2026-11-13T12:50:00+00:00')
+        soup=BeautifulSoup(source,'html.parser');nav=soup.select_one('#farw') or soup.select_one('#barw');nav['href']=nav['href'].replace(e['versionId'],'999999')
+        with self.assertRaisesRegex(ValueError,'Wrong selected version'):collect.parse_section(str(soup),e,'2026-11-13T12:50:00+00:00')

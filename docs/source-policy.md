@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXV, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXVI, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -197,3 +197,11 @@ Six actual-source fixtures cover both enactments and four source-note cases. Mis
 All 572 source versions and nine chapter indexes passed strict checks against independently retrieved indexes. Three initially rejected responses for **386.800, 388.310 and 392.361** displayed unrelated sections. Exact-URL retries recovered the correct pages; both responses remain archived. Eight actual-source fixtures preserve the three rejected responses, their accepted replacements and the hypothetical rulemaking clauses in **390.021** and **393.1030**. Those conditional clauses are not actual constitutional rulings.
 
 This release adds scope and tests without changing the parser, search ranking, aliases or version policy. Exact source identities, dates and links remain required, and prior provenance is unchanged.
+
+## Title XXVI — Trade and commerce
+
+All fifteen chapter indexes and 1,595 accepted pages pass strict validation. Article-format support is limited to the reviewed Chapter 400 UCC formats and Chapter 409 securities articles; ordinary Chapter 409 citations remain supported. Both dataset validators use the reviewed syntax. Source case and punctuation must remain exact. Search accepts lowercase letter input but returns the uppercase source citation and exact selected-version URL. Malformed or absent numeric references produce no guessed heading matches.
+
+The warning policy requires the exact identity and source date of **407.1610:23330**, its complete Revisor note and the associated 2016 annotation. Removing either note, altering the identity/date, or dropping its warning flag fails validation. Notes that explicitly reject an unconstitutionality claim or merely describe a hypothetical rulemaking condition are not converted into warnings. All eleven rejected responses remain archived: nine unrelated pages and two 407.1610 warning pages that now pass the reviewed policy. Correct exact-URL replacements are tested against unrelated responses; thirty actual-source fixtures also retain both full article indexes and the reviewed annotations. No dates, section identities or controlling versions were inferred.
+
+The exact annotation on **416.615:23820**, effective August 28, 1995, says the 1995 amendment deleting “or effect” was held unconstitutional. It appears in the warning group with an explanation that this concerns the amendment and does not establish that the whole section is invalid. The complete annotation is required by validation. No alternative version or end date was inferred.

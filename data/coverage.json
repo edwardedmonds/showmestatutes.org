@@ -25,6 +25,7 @@
     "XXIII",
     "XXIV",
     "XXV",
+    "XXVI",
     "XXXVII",
     "XXXVIII"
   ],
@@ -1915,6 +1916,96 @@
       "minimumVersions": 34
     },
     {
+      "chapter": "400",
+      "title": "Uniform Commercial Code",
+      "category": "government",
+      "minimumVersions": 623
+    },
+    {
+      "chapter": "402",
+      "title": "Trust Funds for Disabled Persons",
+      "category": "government",
+      "minimumVersions": 20
+    },
+    {
+      "chapter": "403",
+      "title": "Security Transfers by Fiduciaries",
+      "category": "government",
+      "minimumVersions": 11
+    },
+    {
+      "chapter": "404",
+      "title": "Transfers to Minors — Personal Custodian and Durable Power of Attorney",
+      "category": "government",
+      "minimumVersions": 89
+    },
+    {
+      "chapter": "407",
+      "title": "Merchandising Practices",
+      "category": "government",
+      "minimumVersions": 318
+    },
+    {
+      "chapter": "408",
+      "title": "Legal Tender and Interest",
+      "category": "government",
+      "minimumVersions": 112
+    },
+    {
+      "chapter": "409",
+      "title": "Regulation of Securities",
+      "category": "government",
+      "minimumVersions": 111
+    },
+    {
+      "chapter": "411",
+      "title": "Missouri Grain Warehouse Law",
+      "category": "government",
+      "minimumVersions": 89
+    },
+    {
+      "chapter": "413",
+      "title": "Weights and Measures",
+      "category": "government",
+      "minimumVersions": 26
+    },
+    {
+      "chapter": "414",
+      "title": "Fuel Regulation and Conservation",
+      "category": "government",
+      "minimumVersions": 43
+    },
+    {
+      "chapter": "415",
+      "title": "Warehouse and Self-Service Storage Facilities",
+      "category": "government",
+      "minimumVersions": 12
+    },
+    {
+      "chapter": "416",
+      "title": "Monopolies, Discriminations and Conspiracies",
+      "category": "government",
+      "minimumVersions": 59
+    },
+    {
+      "chapter": "417",
+      "title": "Trademarks, Names and Private Emblems",
+      "category": "government",
+      "minimumVersions": 64
+    },
+    {
+      "chapter": "419",
+      "title": "Innkeepers",
+      "category": "government",
+      "minimumVersions": 8
+    },
+    {
+      "chapter": "421",
+      "title": "Mattresses",
+      "category": "government",
+      "minimumVersions": 10
+    },
+    {
       "chapter": "540",
       "title": "Grand Juries and Their Proceedings",
       "category": "procedure",
@@ -2175,7 +2266,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXV, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXVI, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -3627,6 +3718,21 @@
         "Revisor's Note: The First Extraordinary Session of the First Regular Session of the Ninety-sixth General Assembly convened on September 6, 2011, and stood automatically adjourned sine die on November 5, 2011, in accordance with Article III, Section 20(b) of the Missouri Constitution. Senate Substitute for Senate Committee Substitute for Senate Bill No. 7 was truly agreed to and finally passed by the General Assembly on September 23, 2011, and was signed by the Governor on October 21, 2011. Senate Bill No. 8 was introduced during the special session but was not truly agreed to and finally passed by the General Assembly prior to its automatic adjournment on November 5, 2011."
       ],
       "displayNotice": "The Revisor records a constitutional ruling in Missouri Roundtable for Life v. State. The source also records a contingent-date requirement in §348.280, whose note says S.B.8 did not pass. The recorded 2012 date does not establish applicability. Read the official annotations and conditions."
+    },
+    {
+      "id": "407.1610:23330",
+      "effectiveFrom": "2014-08-28",
+      "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Calzone v. Koster, et al., see 2016 annotation below.",
+      "requiredSourceNotices": [
+        "(2016) Provisions of S.B. 672 from 2014 declared unconstitutional as violating the single subject rule of Article III, § 23; under the facts presented, those provisions cannot be severed and the bill is unconstitutional in its entirety. Calzone v. Koster, et al., Case No. 15AC-CC00247 (Cole County Cir. Ct., Feb. 9, 2016)."
+      ]
+    },
+    {
+      "id": "416.615:23820",
+      "effectiveFrom": "1995-08-28",
+      "sourceKind": "annotation",
+      "sourceNotice": "(1996) Amendment to section by CCS/SS/SCS/HS/HB 414, Eighty-Eighth General Assembly, First Regular Session, which deleted the words \"or effect\" after the word \"intent\" in subdivisions (1) and (2) of subsection 1, subsection 2, and subsection 3, held unconstitutional as violating the single subject requirement of article III, section 23. Missouri Petroleum Marketers Association, et al. v. State of Missouri, et al. and Voss Oil, Inc., Case No. CV195-989CC (Cole County Circuit Court, 11/20/96), appeal dismissed, No. 79535 (Supreme Court of Missouri, 6/19/97).",
+      "displayNotice": "The Revisor annotation says the 1995 amendment deleting “or effect” from this section was held unconstitutional. This warning concerns that amendment; it does not establish that the entire section is invalid. Read the official annotation and statutory text to determine applicability."
     }
   ],
   "indexHeadingExceptions": [

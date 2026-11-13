@@ -41,6 +41,15 @@ def date(value):
     raise ValueError(f'Unrecognized effective date: {value}')
 
 
+def valid_section(section, chapter):
+    # Preserve the Revisor's UCC and securities article citations verbatim.
+    if chapter == '400':
+        return re.fullmatch(r'400\.(?:[1-9]|1[01]|[24]A)-[0-9]{3}', section) is not None
+    if chapter == '409' and re.fullmatch(r'409\.[1-7]-[0-9]{3}', section):
+        return True
+    return re.fullmatch(re.escape(chapter) + r'\.[0-9]{3,4}', section) is not None
+
+
 def parse_index(html, chapter='565'):
     soup = BeautifulSoup(html, 'html.parser')
     entries = {}
@@ -55,7 +64,7 @@ def parse_index(html, chapter='565'):
             continue
         if not section.startswith(chapter + '.'):
             raise ValueError('Wrong chapter in source index: ' + section)
-        if not re.fullmatch(re.escape(chapter) + r'\.\d{3,4}', section) or not bid.isdigit():
+        if not valid_section(section, chapter) or not bid.isdigit():
             raise ValueError('Malformed source identity: ' + section)
         row = a.find_parent('tr')
         match = re.search(r'\((\d+/\d+/\d+)\)\s*$', clean(row.get_text(' ')))
@@ -224,7 +233,7 @@ def validate(dataset, previous=None):
         ids.add(record['id'])
         if not record['versionId'].isdigit() or record['id'] != record['section'] + ':' + record['versionId']:
             raise ValueError('Mismatched record identity')
-        if record['chapter'] not in CHAPTERS or not re.fullmatch(re.escape(record['chapter']) + r'\.\d{3,4}', record['section']) or record['chapterTitle'] != CHAPTERS[record['chapter']]['title']:
+        if record['chapter'] not in CHAPTERS or not valid_section(record['section'], record['chapter']) or record['chapterTitle'] != CHAPTERS[record['chapter']]['title']:
             raise ValueError('Unexpected section')
         if record['sourceUrl'] != f'{BASE}/main/OneSection.aspx?section={record["section"]}&bid={record["versionId"]}':
             raise ValueError('Source URL must identify the exact version')

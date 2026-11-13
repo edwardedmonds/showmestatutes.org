@@ -58,9 +58,9 @@ export function createSearch(records: Statute[], index = buildIndex(records)) {
     const inScope = (r: Statute) => !chapter || r.chapter === chapter;
     const trimmed = query.trim();
     if (!trimmed || trimmed.length > 200) return empty;
-    const sectionQuery = trimmed.match(/^(?:(?:rsmo|section)\s*|§\s*)*(\d{1,3}\.\d{1,4})\.?$/i);
+    const sectionQuery = trimmed.match(/^(?:(?:rsmo|section)\s*|§\s*)*(\d{1,3}\.\d{1,4}(?:[a-z]?-[0-9]{1,4})?)\.?$/i);
     if (sectionQuery) {
-      const number = sectionQuery[1];
+      const number = sectionQuery[1].toUpperCase();
       const matches = (bySection.get(number) ?? []).filter(inScope);
       return { ...empty, exact: true,
         best: matches.filter(r => isEffective(r, asOf)).map(record => ({ record, reason: 'Exact section number', score: 1000 })),

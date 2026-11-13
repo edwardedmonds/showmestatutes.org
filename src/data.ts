@@ -42,6 +42,11 @@ export const validDate = (s: unknown): s is string => typeof s === 'string'
   && /^\d{4}-\d{2}-\d{2}$/.test(s) && !Number.isNaN(Date.parse(s))
   && new Date(s).toISOString().slice(0, 10) === s;
 
+export function validSection(section: string): boolean {
+  if (section.startsWith('400.')) return /^400\.(?:[1-9]|1[01]|[24]A)-[0-9]{3}$/.test(section);
+  return /^[1-9]\d{0,2}\.[0-9]{3,4}$/.test(section) || /^409\.[1-7]-[0-9]{3}$/.test(section);
+}
+
 export function assertDataset(value: unknown): asserts value is Dataset {
   if (!value || typeof value !== 'object') throw new Error('Missing dataset');
   const d = value as Dataset;
@@ -59,7 +64,7 @@ export function assertDataset(value: unknown): asserts value is Dataset {
     const contingentPolicy = coverage.contingentEnactments.find(c => c.section === r?.section);
     const delayed = reviewedOverlaps.find(c => c.section === r?.section)?.versions.find(v => v.versionId === r?.versionId);
     const contingent = contingentPolicy?.versions.find(v => v.versionId === r?.versionId);
-    if (!r || !/^[1-9]\d{0,2}\.\d{3,4}$/.test(r.section) || !/^\d+$/.test(r.versionId)
+    if (!r || typeof r.section !== 'string' || !validSection(r.section) || !/^\d+$/.test(r.versionId)
       || r.id !== `${r.section}:${r.versionId}` || ids.has(r.id)
       || typeof r.title !== 'string' || !r.title.trim() || r.title.endsWith('...')
       || r.chapter !== r.section.split('.')[0] || !chapterPolicy.some(c => c.chapter === r.chapter && c.title === r.chapterTitle)
