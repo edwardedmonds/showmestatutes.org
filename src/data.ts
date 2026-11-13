@@ -44,7 +44,7 @@ export const validDate = (s: unknown): s is string => typeof s === 'string'
 
 export function validSection(section: string): boolean {
   if (section.startsWith('400.')) return /^400\.(?:[1-9]|1[01]|[24]A)-[0-9]{3}$/.test(section);
-  return /^[1-9]\d{0,2}\.[0-9]{3,4}$/.test(section) || /^409\.[1-7]-[0-9]{3}$/.test(section);
+  return /^[1-9]\d{0,2}\.[0-9]{3,4}$/.test(section) || /^409\.[1-7]-[0-9]{3}$/.test(section) || /^448\.[1-4]-[0-9]{3}$/.test(section);
 }
 
 export function assertDataset(value: unknown): asserts value is Dataset {

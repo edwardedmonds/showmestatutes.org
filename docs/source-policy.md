@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXVIII, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -211,3 +211,11 @@ The exact annotation on **416.615:23820**, effective August 28, 1995, says the 1
 All twelve indexes and 410 accepted source pages pass strict checks against independent index rechecks. The review found no new source exception requiring a policy change. Initially rejected responses for **436.405:24311** and **436.470:24328** displayed unrelated sections; exact-URL replacements passed. Four actual-source fixtures require those unrelated pages to fail identity validation and their replacements to retain exact identities and dates. Both responses remain archived.
 
 This release adds scope and tests using the existing parser, citation handling, warning policy and search ranking. All prior records and chapter provenance remain unchanged.
+
+## Title XXIX — Property
+
+All eight original and independent index rechecks and 626 accepted source pages pass strict parsing. Both validators explicitly allow Chapter 448 ordinary citations and articles 1–4; malformed and neighboring chapter article formats fail. No source citation is rewritten. The initial acquisition review for `448.1-101` is resolved by this reviewed format support, with its original evidence retained.
+
+**447.575:24826** requires the exact 2002 Farmer v. Kinder annotation and **1994-07-01** source date. Removing the annotation fails collection. The warning is shown separately from ordinary results. No second version or expiry was invented. **442.130:51139** remains ordinary because its exact Revisor note says the identical H.B. 1662 language remains in effect after H.B. 1606 was invalidated. Its 2023 annotation and note remain in the source fixture and linked official page. Historical versions not listed in the current chapter index are not silently imported. The negative constitutional findings in **442.571:24477** and **448.3-116:24932** likewise remain ordinary.
+
+Five actual-source fixtures cover the complete condominium index, exact article identities, the required warning and the ordinary annotations. Search ranking, aliases and the interface are unchanged. All prior record objects and chapter provenance remain unchanged.

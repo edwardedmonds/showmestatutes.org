@@ -732,3 +732,28 @@ class ObligationsSourceTests(unittest.TestCase):
         for id in ['436.405:24311','436.470:24328']:
             record=next(r for r in data['records'] if r['id']==id);e={k:record[k] for k in ['id','section','versionId','effectiveFrom','sourceUrl']};name=id.replace(':','-');source=Path(f'tests/fixtures/obligations-{name}.html').read_text();r=collect.parse_section(source,e,'2026-11-13T13:05:00+00:00');self.assertEqual(r['id'],id);self.assertEqual(r['sourceUrl'],e['sourceUrl']);self.assertEqual(r['effectiveFrom'],e['effectiveFrom'])
             with self.assertRaisesRegex(ValueError,'Unexpected heading'):collect.parse_section(Path(f'tests/fixtures/obligations-rejected-{name}.html').read_text(),e,'2026-11-13T13:05:00+00:00')
+
+class PropertySourceTests(unittest.TestCase):
+    def entry(self,id):
+        import os
+        d=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text());record=next(r for r in d['records'] if r['id']==id)
+        return {k:record[k] for k in ['id','section','versionId','effectiveFrom','sourceUrl']}
+    def test_complete_condominium_index_and_malformed_neighbor_citation(self):
+        source=Path('tests/fixtures/property-index-448.html').read_text();entries=collect.parse_index(source,'448');self.assertEqual(len(entries),97)
+        self.assertIn('448.3-116',[e['section'] for e in entries]);self.assertIn('448.005',[e['section'] for e in entries])
+        with self.assertRaisesRegex(ValueError,'Malformed source identity'):collect.parse_index(source.replace('448.1-101','448.5-101'),'448')
+    def test_warning_requires_exact_annotation_and_date(self):
+        from bs4 import BeautifulSoup
+        e=self.entry('447.575:24826');source=Path('tests/fixtures/property-447.575-24826.html').read_text();r=collect.parse_section(source,e,'2026-11-13T13:20:00+00:00');self.assertTrue(r['hasConstitutionalWarning']);self.assertEqual(r['effectiveFrom'],'1994-07-01');self.assertFalse(r.get('effectiveTo'))
+        soup=BeautifulSoup(source,'html.parser');next(p for p in soup.select('p') if ' '.join(p.get_text(' ').split()).startswith('(2002)')).decompose()
+        with self.assertRaisesRegex(ValueError,'Unverified constitutional warning'):collect.parse_section(str(soup),e,'2026-11-13T13:20:00+00:00')
+    def test_surviving_identical_amendment_and_rejected_challenges_remain_ordinary(self):
+        from bs4 import BeautifulSoup
+        for id,phrase in [('442.130:51139','The H.B. 1662 language remains in effect.'),('442.571:24477','not unconstitutional'),('448.3-116:24932','not unconstitutionally vague or overbroad')]:
+            source=Path(f'tests/fixtures/property-{id.replace(":","-")}.html').read_text();text=' '.join(BeautifulSoup(source,'html.parser').stripped_strings);self.assertIn(phrase,text)
+            if id=='442.130:51139':self.assertIn('The remaining provisions of H.B. 1606 could not be severed and the bill is declared invalid in its entirety.',text)
+            e=self.entry(id);r=collect.parse_section(source,e,'2026-11-13T13:20:00+00:00');self.assertFalse(r.get('hasConstitutionalWarning'));self.assertEqual(r['effectiveFrom'],e['effectiveFrom']);self.assertEqual(r['sourceUrl'],e['sourceUrl'])
+    def test_condominium_heading_must_match_article_identity(self):
+        from bs4 import BeautifulSoup
+        e=self.entry('448.3-116:24932');source=Path('tests/fixtures/property-448.3-116-24932.html').read_text();soup=BeautifulSoup(source,'html.parser');heading=soup.select_one('div.norm > p.norm > span.bold');heading.string=heading.get_text().replace('448.3-116','448.2-116')
+        with self.assertRaisesRegex(ValueError,'Unexpected heading'):collect.parse_section(str(soup),e,'2026-11-13T13:20:00+00:00')

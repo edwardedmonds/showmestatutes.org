@@ -42,10 +42,12 @@ def date(value):
 
 
 def valid_section(section, chapter):
-    # Preserve the Revisor's UCC and securities article citations verbatim.
+    # Preserve the Revisor's UCC, securities and condominium article citations verbatim.
     if chapter == '400':
         return re.fullmatch(r'400\.(?:[1-9]|1[01]|[24]A)-[0-9]{3}', section) is not None
     if chapter == '409' and re.fullmatch(r'409\.[1-7]-[0-9]{3}', section):
+        return True
+    if chapter == '448' and re.fullmatch(r'448\.[1-4]-[0-9]{3}', section):
         return True
     return re.fullmatch(re.escape(chapter) + r'\.[0-9]{3,4}', section) is not None
 

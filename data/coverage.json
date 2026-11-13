@@ -28,6 +28,7 @@
     "XXVI",
     "XXVII",
     "XXVIII",
+    "XXIX",
     "XXXVII",
     "XXXVIII"
   ],
@@ -2080,6 +2081,54 @@
       "minimumVersions": 89
     },
     {
+      "chapter": "441",
+      "title": "Landlord and Tenant",
+      "category": "government",
+      "minimumVersions": 72
+    },
+    {
+      "chapter": "442",
+      "title": "Titles and Conveyance of Real Estate",
+      "category": "government",
+      "minimumVersions": 79
+    },
+    {
+      "chapter": "443",
+      "title": "Mortgages, Deeds of Trust and Mortgage Brokers",
+      "category": "government",
+      "minimumVersions": 135
+    },
+    {
+      "chapter": "444",
+      "title": "Rights and Duties of Miners and Mine Owners",
+      "category": "government",
+      "minimumVersions": 120
+    },
+    {
+      "chapter": "445",
+      "title": "Plats",
+      "category": "government",
+      "minimumVersions": 12
+    },
+    {
+      "chapter": "446",
+      "title": "Establishment and Evidence of Boundaries and Titles to Land",
+      "category": "government",
+      "minimumVersions": 36
+    },
+    {
+      "chapter": "447",
+      "title": "Lost and Unclaimed Property",
+      "category": "government",
+      "minimumVersions": 75
+    },
+    {
+      "chapter": "448",
+      "title": "Condominium Property",
+      "category": "government",
+      "minimumVersions": 97
+    },
+    {
       "chapter": "540",
       "title": "Grand Juries and Their Proceedings",
       "category": "procedure",
@@ -2340,7 +2389,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXVIII, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -3807,6 +3856,12 @@
       "sourceKind": "annotation",
       "sourceNotice": "(1996) Amendment to section by CCS/SS/SCS/HS/HB 414, Eighty-Eighth General Assembly, First Regular Session, which deleted the words \"or effect\" after the word \"intent\" in subdivisions (1) and (2) of subsection 1, subsection 2, and subsection 3, held unconstitutional as violating the single subject requirement of article III, section 23. Missouri Petroleum Marketers Association, et al. v. State of Missouri, et al. and Voss Oil, Inc., Case No. CV195-989CC (Cole County Circuit Court, 11/20/96), appeal dismissed, No. 79535 (Supreme Court of Missouri, 6/19/97).",
       "displayNotice": "The Revisor annotation says the 1995 amendment deleting “or effect” from this section was held unconstitutional. This warning concerns that amendment; it does not establish that the entire section is invalid. Read the official annotation and statutory text to determine applicability."
+    },
+    {
+      "id": "447.575:24826",
+      "effectiveFrom": "1994-07-01",
+      "sourceKind": "annotation",
+      "sourceNotice": "(2002) Section constitutes unconstitutional delegation of power to the State Treasurer to collect property in violation of Article IV, Section 15 of the Missouri Constitution. Farmer v. Kinder, 89 S.W.3d 447 (Mo.banc)."
     }
   ],
   "indexHeadingExceptions": [

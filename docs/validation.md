@@ -1,3 +1,25 @@
+# Property coverage — November 13, 2026
+
+## Scope and source review
+
+All eight Title XXIX indexes, Chapters **441–448**, add **626 sections and 626 source versions**. The combined snapshot contains **25,772 sections, 25,853 source versions and 389 chapter indexes**: 380 populated and nine reviewed empty. **79 of 468 catalog links remain**. All listed indexes in Titles I–XXIX, XXXVII and XXXVIII are accounted for.
+
+All eight strict original/recheck comparisons and 626 accepted pages passed. Combined offline validation and gated promotion passed. All 25,227 prior records and 381 chapter-manifest objects remain unchanged. The change report contains 626 additions, no prior changes and no removals. No rejected source responses occurred in this batch. Chapter 448's provisional citation review is explicitly resolved; exact decimal and article identities are preserved.
+
+The 2002 annotation on 447.575 adds one warning, bringing the total to 71. The 442.130 surviving-identical-amendment note prevents a blanket invalidity inference; 442.571 and 448.3-116 annotations rejecting constitutional challenges remain ordinary. Earlier reprints, contingent versions and conflicting enactments remain intact. There is no new reprint or overlapping version in this batch.
+
+## Tests
+
+**1,320 TypeScript and 75 Python tests passed**, with TypeScript and production-build checks. Twenty-four queries were defined from official headings before ranking evaluation. Exact lookup tests cover every condominium source citation and URL under both upcoming settings. Shared format tests reject malformed article citations and neighboring chapter formats. Five actual-source fixtures test the full 97-entry condominium index, exact heading identity, required warning annotation and ordinary annotations. Search ranking, aliases and the interface are unchanged. The earlier campground singular/plural limitation remains documented and unresolved. These are development tests, not an independent legal-search assessment.
+
+## Browser and publication
+
+Production-preview browser checks passed: 25,772 ready; condominium query and exact448.3-116 source links/dates; Chapter447 exclusion;447.575 separate warning with upcoming enabled;442.130 ordinary2022 result and source-footnote marker;390px condominium layout and320px long-heading layout without horizontal overflow;Seat belts example and ArrowDown focus to307.178. Console was clean. All24 new query expectations passed unchanged.
+
+README, coverage, roadmap, source policy and fallback scope reflect Title XXIX. Main-branch workflow success and live assets are verified after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Debtor-creditor and contracts coverage — November 13, 2026
 
 ## Scope and source review
