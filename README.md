@@ -18,6 +18,12 @@ Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no
 
 The page introduces the heading collection before “Know the topic? Find the section.” The three-step guide and field instructions sit above the search input. There is one search box; chapter filters appear only after a search returns results.
 
+## Browse without searching
+
+The [chapter directory](https://showmestatutes.org/chapters/) gives every populated chapter a readable page. It includes all 30,434 collected source versions, their headings, source-check dates, version labels and notices. The ten empty indexes link directly to the Revisor. These pages work without JavaScript and are generated from the same validated snapshot as search.
+
+Each page has its own title, description and canonical URL. A generated sitemap, site-name metadata, breadcrumbs and sharing previews help other services understand the site. The directory and sitemap rebuild with every release; they do not refresh the official sources. [Search visibility notes](docs/seo.md) explain the checks and remaining Search Console setup.
+
 ## What's covered
 
 **The checked statewide statute-heading catalog is complete.**
@@ -75,6 +81,8 @@ The final statewide expansion passed **1,500 TypeScript tests and 99 Python test
 
 The search-interface update passed **1,506 TypeScript tests and 99 Python tests**, dataset validation, TypeScript checks, and the production build. Browser checks covered result-based chapter counts, clearing filters without changing the query, expanding a broad search’s chapter list, upcoming-only results, source warnings, exact source links, keyboard navigation, and a 320-pixel layout.
 
+The search-visibility update passed **1,513 TypeScript tests**, the production build, and an audit of **460 HTML pages, 460 sitemap URLs and 7,807 internal links**. Tests verify that every collected source version and its source notices survive in the chapter pages. Browser checks covered the existing search, the chapter directory and a 320-pixel chapter layout.
+
 The collection process checks every listed version against its official page, then retrieves the new chapter indexes again to check for changes. Tests cover search relevance, exact citations, chapter boundaries, source identities, and version handling. A failed validation blocks publication.
 
 Those checks have limits. The query cases are development tests, not an independent evaluation of legal search accuracy. Physical Android performance measurements, screen-reader testing, and independent review of the common-name mappings are still outstanding. [Validation notes](docs/validation.md) record the results and the remaining gaps.
@@ -96,6 +104,7 @@ npm run dev
 npm test         # Search, version and data-integrity regressions
 npm run check    # TypeScript checks
 npm run build    # Validate the snapshot and build the static site
+npm run seo:check # Audit built pages, metadata, links and sitemap
 npm run preview  # Serve the production build locally
 ```
 
@@ -135,6 +144,8 @@ The main pieces are small enough to inspect directly:
 | `src/search.ts` | Candidate retrieval, common names, spelling suggestions and ranking |
 | `src/data.ts` | Data validation and version selection |
 | `src/main.ts`, `src/style.css` | Search interface |
+| `src/seo.ts`, `src/browse.css` | Static chapter pages, metadata and sitemap |
+| `scripts/check-seo.py` | Built-site SEO and internal-link checks |
 | `data/coverage.json` | Reviewed chapter scope, minimum counts and source exceptions |
 | `data/aliases.json` | Common-name mappings, topics and related sections |
 | `public/data/statutes.json` | Collected headings and source provenance |

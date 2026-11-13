@@ -12,7 +12,7 @@
     <a class="skip-link" href="#search">Skip to search</a>
     <header class="site-header">
       <a class="brand" href="./" aria-label="Show Me Statutes home"><span class="brand-mark" aria-hidden="true">§</span> Show Me Statutes</a>
-      <a class="about-link" href="#coverage">Coverage & sources <span aria-hidden="true">↗</span></a>
+      <nav class="site-nav" aria-label="Main navigation"><a href="/chapters/">Browse chapters</a><a href="#coverage">Coverage &amp; sources</a></nav>
     </header>
     <main>
       <section class="hero" aria-labelledby="headline">
@@ -48,6 +48,10 @@
       </section>
       <div id="active-filter" class="active-filter" hidden><p id="filter-description"></p><button id="clear-chapter" class="filter-text-button" type="button">Remove chapter filter · keep search</button></div>
       <div id="results"></div>
+      <section class="browse-callout" aria-labelledby="browse-heading">
+        <h2 id="browse-heading">Browse Missouri statutes by chapter</h2>
+        <p>Explore the Missouri Revised Statutes (RSMo) heading directory, with section numbers, version dates and links to the official text. <a href="/chapters/">Browse all chapters →</a></p>
+      </section>
       <details id="coverage" class="coverage">
         <summary>Coverage, dates &amp; sources</summary>
         <p id="coverage-stats"></p>
@@ -60,7 +64,7 @@
         <p>Searches stay in your browser. No third-party analytics or search service receives your query.</p>
         <a href="https://revisor.mo.gov/">Browse Missouri statutes at the official source ↗</a>
       </details>
-      <noscript><p>JavaScript is needed for local search. <a href="https://revisor.mo.gov/">Browse Missouri statutes at the official source.</a></p></noscript>
+      <noscript><p>JavaScript is needed for local search. <a href="/chapters/">Browse our chapter directory without JavaScript</a>, or <a href="https://revisor.mo.gov/">visit the official Missouri Revisor</a>.</p></noscript>
     </main>
     <footer><span>SHOW ME STATUTES</span><p>Independent search. Links to official sources.<br>Not affiliated with the State of Missouri. Not legal advice.</p><a href="./licenses.txt">MIT &amp; license notices</a><a href="https://github.com/edwardedmonds/showmestatutes.org">Project on GitHub ↗</a></footer>
     <script type="module" src="/src/main.ts"></script>

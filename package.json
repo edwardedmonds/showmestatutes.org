@@ -12,7 +12,8 @@
     "test:watch": "vitest",
     "data:collect": "python3 scripts/collect.py",
     "data:refresh": "node scripts/refresh.mjs",
-    "data:validate": "python3 scripts/collect.py --validate public/data/statutes.json"
+    "data:validate": "python3 scripts/collect.py --validate public/data/statutes.json",
+    "seo:check": "python3 scripts/check-seo.py"
   },
   "engines": {
     "node": ">=22.12.0"

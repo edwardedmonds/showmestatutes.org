@@ -1,16 +1,23 @@
 import { defineConfig } from 'vite';
 import { readFileSync } from 'node:fs';
 import { createHash } from 'node:crypto';
-import { assertDataset } from './src/data';
+import { assertDataset, todayInMissouri } from './src/data';
 import { buildIndex } from './src/search';
+import { browseAssets, homepageSeo } from './src/seo';
 
 const source = readFileSync(process.env.STATUTES_DATASET ?? 'public/data/statutes.json', 'utf8');
 const datasetHash = createHash('sha256').update(source).digest('hex');
+const parsed: unknown = JSON.parse(source);
+assertDataset(parsed);
+const dataset = parsed;
+const browseCss = readFileSync('src/style.css', 'utf8') + '\n' + readFileSync('src/browse.css', 'utf8');
+const browseStylesheet = `assets/browse-${createHash('sha256').update(browseCss).digest('hex').slice(0, 12)}.css`;
+const asOf = todayInMissouri();
 
 function assets(): Record<string, string> {
-  const dataset: unknown = JSON.parse(source);
-  assertDataset(dataset);
   const files: Record<string, string> = {
+    ...browseAssets(dataset, '/' + browseStylesheet, asOf),
+    [browseStylesheet]: browseCss,
     'licenses.txt': [
       'Show Me Statutes — software license notices',
       readFileSync('LICENSE', 'utf8'),
@@ -34,18 +41,22 @@ function assets(): Record<string, string> {
 export default defineConfig({
   base: './',
   define: { 'import.meta.env.DATASET_HASH': JSON.stringify(datasetHash) },
-  publicDir: false,
+  // Data is emitted with snapshot hashes above. Only small brand assets are copied.
+  publicDir: 'static',
   plugins: [{
     name: 'statute-heading-index',
+    transformIndexHtml(html) { return homepageSeo(html, dataset); },
     generateBundle() {
       for (const [fileName, source] of Object.entries(assets())) this.emitFile({ type: 'asset', fileName, source });
     },
     configureServer(server) {
       const files = assets();
       server.middlewares.use((req, res, next) => {
-        const name = req.url?.split('?')[0].replace(/^\//, '');
+        let name = req.url?.split('?')[0].replace(/^\//, '');
+        if (name?.endsWith('/')) name += 'index.html';
         if (!name || !(name in files)) return next();
-        res.setHeader('Content-Type', name.endsWith('.json') ? 'application/json; charset=utf-8' : 'text/plain; charset=utf-8');
+        const type = name.endsWith('.json') ? 'application/json' : name.endsWith('.html') ? 'text/html' : name.endsWith('.css') ? 'text/css' : name.endsWith('.xml') ? 'application/xml' : 'text/plain';
+        res.setHeader('Content-Type', type + '; charset=utf-8');
         res.setHeader('Cache-Control', 'no-store');
         res.end(files[name]);
       });

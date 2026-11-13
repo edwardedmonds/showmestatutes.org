@@ -1,4 +1,5 @@
 import './style.css';
+import './browse.css';
 import { assertDataset, effectiveDateLabel, isContingent, sourceDateNotice, constitutionalNotice, standaloneReprintNotice, enactmentNotice, todayInMissouri, type Dataset } from './data';
 import { createSearch, loadIndex, type Match, type SearchResults } from './search';
 import { chapterFacets, filterByChapter, resultCount } from './filters';

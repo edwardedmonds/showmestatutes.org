@@ -1,0 +1,20 @@
+.site-nav { display: flex; align-items: center; flex-wrap: wrap; gap: 16px; font-size: .8rem; }
+.site-nav a { text-decoration: none; }
+.site-nav a:hover { text-decoration: underline; }
+.browse-callout { margin: 30px 0; font-size: .9rem; }
+.browse-callout h2 { font: normal 1.5rem Georgia, serif; }
+.browse-main { padding-top: 24px; }
+.breadcrumbs { display: flex; flex-wrap: wrap; gap: 8px; font-size: .8rem; margin-bottom: 32px; }
+.browse-main h1 { font-size: clamp(2rem, 4vw, 2.6rem); letter-spacing: -.025em; overflow-wrap: anywhere; }
+.browse-chapters { list-style: none; padding: 0; margin: 28px 0; display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 0 28px; }
+.browse-chapters li { padding: 16px 0; border-bottom: 1px solid #d9dfd1; }
+.browse-chapters a { display: block; padding: 6px 0; }
+.browse-chapters a span { display: block; font-weight: 700; }
+.browse-chapters small { color: #526353; }
+.browse-records { margin: 28px 0; }
+.browse-heading { font: normal 1.35rem/1.4 Georgia, serif; margin: 11px 0; overflow-wrap: anywhere; }
+.browse-heading a { color: #243e32; text-decoration: none; }
+.browse-heading a:hover { text-decoration: underline; }
+.chapter-navigation { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16px; margin: 28px 0; }
+.chapter-navigation a { padding: 10px 0; }
+@media(max-width:640px) { .site-header { flex-wrap: wrap; gap: 14px; } .site-nav { gap: 12px; } .site-nav a { padding: 8px 0; } .browse-chapters { grid-template-columns: 1fr; } }
