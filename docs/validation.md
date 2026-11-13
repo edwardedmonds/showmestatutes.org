@@ -1,3 +1,23 @@
+# Title XV lands and public water supply — November 13, 2026
+
+## Scope and source review
+
+Chapters **241–250** add **611 distinct sections and 611 source versions**, completing all ten listed Title XV indexes. The combined snapshot contains **15,432 sections, 15,494 versions and 234 chapter indexes**, including 230 populated and four reviewed empty indexes. **234 of the 468 official catalog links remain**. Title XVI is next.
+
+All ten source indexes matched independent second retrievals through the strict parser. The combined offline collector passed. All 14,883 prior records and 224 chapter-manifest objects remain unchanged; the change report contains 611 additions, no removals and no changed prior records. One incomplete response for §242.698 was recovered through a bounded exact-URL retry. Accepted and rejected evidence remains preserved. No new exception handling or ranking changes were required. The existing 46 warned versions, 20 reprinted pairs, 35 scheduled future versions and 19 contingent versions remain unchanged.
+
+## Tests
+
+All **848 TypeScript tests and 42 Python tests** passed, along with TypeScript checks and the production build. Thirty-eight initial query cases were defined from official index wording before ranking evaluation. Two broad riverbed queries proved ambiguous between §§241.290 and 241.300: both headings contain the queried words. Those checks now require both headings in the first two results; two additional queries distinguish “future” riverbeds from grants “for schools.” The resulting forty query cases cover all ten chapters, unscoped searches and chapter exclusions. An additional test checks exact citations across all ten chapters with both upcoming-version settings, including §249.1155's four-digit suffix and the retried §242.698 source. These development checks are not an independent legal-search assessment.
+
+## Browser and publication
+
+The production preview loaded 15,432 headings. A septic-system query returned §249.1155 with the exact source link, and Chapter 250 excluded that result. Exact §242.698 returned the recovered source version with its 1961 date, including when upcoming versions were enabled. A Chapter 248 search showed its long chapter title and §248.170 result at narrow widths; no horizontal overflow occurred at 320px or 390px. The first-degree-murder example reset the chapter filter, and ArrowDown focused §565.020’s exact source link. No browser warnings or errors were recorded.
+
+README, coverage notes, roadmap, source policy and fallback scope reflect the release. The existing design and filtering controls remain unchanged. Snapshot-specific files remain in use; workflow success and public-file comparisons are checked after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Title XIV roads and waterways coverage — November 13, 2026
 
 ## Scope and source review

@@ -14,6 +14,7 @@
     "XII",
     "XIII",
     "XIV",
+    "XV",
     "XIX",
     "XXXVII",
     "XXXVIII"
@@ -1072,6 +1073,66 @@
       "minimumVersions": 83
     },
     {
+      "chapter": "241",
+      "title": "Swamplands, Islands and Abandoned Riverbeds",
+      "category": "government",
+      "minimumVersions": 37
+    },
+    {
+      "chapter": "242",
+      "title": "Drainage Districts Organized in Circuit Court",
+      "category": "government",
+      "minimumVersions": 86
+    },
+    {
+      "chapter": "243",
+      "title": "Drainage Districts Organized in County Commission",
+      "category": "government",
+      "minimumVersions": 62
+    },
+    {
+      "chapter": "244",
+      "title": "Private Drainage Rights",
+      "category": "government",
+      "minimumVersions": 13
+    },
+    {
+      "chapter": "245",
+      "title": "Levee Districts",
+      "category": "government",
+      "minimumVersions": 109
+    },
+    {
+      "chapter": "246",
+      "title": "Provisions Relating to All Drainage and Levee Districts",
+      "category": "government",
+      "minimumVersions": 32
+    },
+    {
+      "chapter": "247",
+      "title": "Public Water Supply Districts",
+      "category": "government",
+      "minimumVersions": 77
+    },
+    {
+      "chapter": "248",
+      "title": "Sanitary Drainage Districts — Cities Over 300,000 Inhabitants and Adjoining Counties",
+      "category": "government",
+      "minimumVersions": 20
+    },
+    {
+      "chapter": "249",
+      "title": "Sewer Districts in Certain Counties",
+      "category": "government",
+      "minimumVersions": 145
+    },
+    {
+      "chapter": "250",
+      "title": "Sewerage Systems and Waterworks — City or District",
+      "category": "government",
+      "minimumVersions": 30
+    },
+    {
       "chapter": "300",
       "title": "Model Traffic Ordinance",
       "category": "transportation",
@@ -1380,7 +1441,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XIV, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XV, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
