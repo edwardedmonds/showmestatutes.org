@@ -35,6 +35,7 @@
     "XXXIII",
     "XXXIV",
     "XXXV",
+    "XXXVI",
     "XXXVII",
     "XXXVIII"
   ],
@@ -2400,6 +2401,114 @@
       "minimumVersions": 17
     },
     {
+      "chapter": "521",
+      "title": "Attachments",
+      "category": "government",
+      "minimumVersions": 82
+    },
+    {
+      "chapter": "522",
+      "title": "Actions on Bonds",
+      "category": "government",
+      "minimumVersions": 30
+    },
+    {
+      "chapter": "523",
+      "title": "Condemnation Proceedings",
+      "category": "government",
+      "minimumVersions": 35
+    },
+    {
+      "chapter": "524",
+      "title": "Ejectment",
+      "category": "government",
+      "minimumVersions": 29
+    },
+    {
+      "chapter": "525",
+      "title": "Garnishments",
+      "category": "government",
+      "minimumVersions": 33
+    },
+    {
+      "chapter": "526",
+      "title": "Injunctions",
+      "category": "government",
+      "minimumVersions": 21
+    },
+    {
+      "chapter": "527",
+      "title": "Declaratory Judgments; Actions Involving Land Titles; Lis Pendens; Change of Name",
+      "category": "government",
+      "minimumVersions": 29
+    },
+    {
+      "chapter": "528",
+      "title": "Partition Suits",
+      "category": "government",
+      "minimumVersions": 73
+    },
+    {
+      "chapter": "529",
+      "title": "Mandamus",
+      "category": "government",
+      "minimumVersions": 10
+    },
+    {
+      "chapter": "530",
+      "title": "Prohibition",
+      "category": "government",
+      "minimumVersions": 9
+    },
+    {
+      "chapter": "531",
+      "title": "Quo Warranto",
+      "category": "government",
+      "minimumVersions": 6
+    },
+    {
+      "chapter": "532",
+      "title": "Habeas Corpus",
+      "category": "government",
+      "minimumVersions": 69
+    },
+    {
+      "chapter": "533",
+      "title": "Replevin",
+      "category": "government",
+      "minimumVersions": 25
+    },
+    {
+      "chapter": "534",
+      "title": "Forcible Entry and Unlawful Detainer",
+      "category": "government",
+      "minimumVersions": 45
+    },
+    {
+      "chapter": "535",
+      "title": "Landlord-Tenant Actions",
+      "category": "government",
+      "minimumVersions": 23
+    },
+    {
+      "chapter": "536",
+      "title": "Administrative Procedure and Review",
+      "category": "government",
+      "minimumVersions": 54
+    },
+    {
+      "chapter": "537",
+      "title": "Torts and Actions for Damages",
+      "category": "government",
+      "minimumVersions": 142
+    },
+    {
+      "chapter": "538",
+      "title": "Tort Actions Based on Improper Health Care",
+      "category": "government",
+      "minimumVersions": 11
+    },
+    {
       "chapter": "540",
       "title": "Grand Juries and Their Proceedings",
       "category": "procedure",
@@ -2671,7 +2780,7 @@
       "basis": "Both source pages retain the same date and blank ends, identify competing 2014 enactments, and differ on agreement versus notice and opportunity to respond. Preserve both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXXV, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -3105,6 +3214,44 @@
       "displayNotice": "The Revisor prints a conditional repeal alongside the earlier provision. The 2099 dates are placeholders, not scheduled start or end dates. Section 324.440 describes the required notification concerning appointments to the interior design division. Read both official versions and the source conditions.",
       "reviewedAt": "2026-11-13",
       "basis": "The repeal page labels its 2099 banner date a placeholder. Both source history tables give the repeal a matching placeholder end and the earlier provision that same end. Preserve these literal source values with explicit end-placeholder metadata; do not infer a calendar expiry or fulfillment of the notification condition."
+    },
+    {
+      "section": "536.019",
+      "versions": [
+        {
+          "versionId": "28394",
+          "effectiveFrom": "1997-08-28",
+          "dateIsPlaceholder": false,
+          "conditionPending": true,
+          "requiredSourceNotices": [
+            "*Contingent effective date, see subsection 2 of this section."
+          ]
+        }
+      ],
+      "multipleEnactments": false,
+      "reviewedAt": "2026-11-13",
+      "sourceNotice": "*Revisor's note: To date, the contingencies contained in this section regarding Executive Order 97-97 have not occurred.",
+      "displayNotice": "The source gives a contingent effective date in subsection 2 and says the Executive Order 97-97 contingencies have not occurred. The printed 1997 date is preserved, without treating the section as currently effective.",
+      "basis": "Retain the ordinary printed source date and both exact footnotes; do not infer fulfillment of the source conditions."
+    },
+    {
+      "section": "536.028",
+      "versions": [
+        {
+          "versionId": "28402",
+          "effectiveFrom": "1997-08-28",
+          "dateIsPlaceholder": false,
+          "conditionPending": true,
+          "requiredSourceNotices": [
+            "*Contingent effective date, see subsection 13 of this section."
+          ]
+        }
+      ],
+      "multipleEnactments": false,
+      "reviewedAt": "2026-11-13",
+      "sourceNotice": "*Revisor's Note: To date, the contingencies contained in this section regarding Executive Order 97-97 have not occurred.",
+      "displayNotice": "The source gives a contingent effective date in subsection 13 and says the Executive Order 97-97 contingencies have not occurred. The printed 1997 date is preserved, without treating the section as currently effective.",
+      "basis": "Retain the ordinary printed source date and both exact footnotes; do not infer fulfillment of the source conditions."
     }
   ],
   "delayedEnactments": [
@@ -3703,6 +3850,50 @@
         }
       ],
       "displayNotice": "The Revisor reprints an earlier version after the ruling on S.B.7 of the 2011 extraordinary session. The later version remains available with its constitutional warning and contingent-date notes. Read both official versions for applicability."
+    },
+    {
+      "section": "523.061",
+      "versions": [
+        {
+          "versionId": "51507",
+          "effectiveFrom": "2022-08-28",
+          "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al. (see 2023 annotation below).",
+          "requiredSourceNotices": [
+            "(2023) The inclusion of Section 67.2300 in H.B. 1606 from 2022 declared unconstitutional as violating the single subject rule of Article III, § 23 of the Missouri Constitution. The remaining provisions of H.B. 1606 could not be severed and the bill is declared invalid in its entirety. Byrd, et al. v. State of Missouri, et al., 679 S.W.3d 492 (Mo.banc)."
+          ]
+        },
+        {
+          "versionId": "28009",
+          "effectiveFrom": "2006-08-28",
+          "sourceNotice": "*Revisor's Note: This section is reprinted in accordance with section 3.066. H.B. 1606, 2022, was declared unconstitutional (see 2023 annotation below), rendering the repeal and reenactment of this section ineffective.",
+          "requiredSourceNotices": [
+            "(2023) The inclusion of Section 67.2300 in H.B. 1606 from 2022 declared unconstitutional as violating the single subject rule of Article III, § 23 of the Missouri Constitution. The remaining provisions of H.B. 1606 could not be severed and the bill is declared invalid in its entirety. Byrd, et al. v. State of Missouri, et al., 679 S.W.3d 492 (Mo.banc)."
+          ]
+        }
+      ],
+      "displayNotice": "The Revisor reprints the earlier version after the Byrd ruling invalidated H.B. 1606 (2022). The later version remains available with its constitutional warning. Read both official source pages and their notes."
+    },
+    {
+      "section": "526.010",
+      "versions": [
+        {
+          "versionId": "57129",
+          "effectiveFrom": "2025-04-24",
+          "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Nicholson v. State of Missouri, et al. (see 2026 annotation below).",
+          "requiredSourceNotices": [
+            "(2026) Provisions of S.B. 22 from 2025 declared unconstitutional as violating the original purpose requirement of Article III, § 21 of the Missouri Constitution. Finding the offending provisions cannot be severed, the Court declared S.B. 22 invalid in its entirety. Nicholson v. State of Missouri, et al., No. SC101308, January 23, 2026 (Mo.banc)."
+          ]
+        },
+        {
+          "versionId": "28092",
+          "effectiveFrom": "2004-08-28",
+          "sourceNotice": "*Revisor's Note: This section is reprinted in accordance with section 3.066. S.B. 22, 2025, was declared unconstitutional (see 2026 annotation below), rendering the repeal and reenactment of this section ineffective.",
+          "requiredSourceNotices": [
+            "(2026) Provisions of S.B. 22 from 2025 declared unconstitutional as violating the original purpose requirement of Article III, § 21 of the Missouri Constitution. Finding the offending provisions cannot be severed, the Court declared S.B. 22 invalid in its entirety. Nicholson v. State of Missouri, et al., No. SC101308, January 23, 2026 (Mo.banc)."
+          ]
+        }
+      ],
+      "displayNotice": "The Revisor reprints the earlier version after the Nicholson ruling invalidated S.B. 22 (2025). The later version remains available with its constitutional warning. Read both official source pages and their notes."
     }
   ],
   "constitutionalWarnings": [
@@ -4223,6 +4414,64 @@
       "displayNotice": "The source retains 2001 and 2008 rulings against tolling based on a defendant becoming a nonresident. These historical annotations concern that tolling rule; the indexed source version is dated 2009.",
       "requiredSourceNotices": [
         "(2008) Tolling statute of limitations for persons who become non-residents of Missouri during limitation period violates Commerce Clause. State ex rel. Bloomquist v. Schneider, 244 S.W.3d 139 (Mo.banc)."
+      ]
+    },
+    {
+      "id": "523.061:51507",
+      "effectiveFrom": "2022-08-28",
+      "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al. (see 2023 annotation below).",
+      "requiredSourceNotices": [
+        "(2023) The inclusion of Section 67.2300 in H.B. 1606 from 2022 declared unconstitutional as violating the single subject rule of Article III, § 23 of the Missouri Constitution. The remaining provisions of H.B. 1606 could not be severed and the bill is declared invalid in its entirety. Byrd, et al. v. State of Missouri, et al., 679 S.W.3d 492 (Mo.banc)."
+      ]
+    },
+    {
+      "id": "526.010:57129",
+      "effectiveFrom": "2025-04-24",
+      "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Nicholson v. State of Missouri, et al. (see 2026 annotation below).",
+      "requiredSourceNotices": [
+        "(2026) Provisions of S.B. 22 from 2025 declared unconstitutional as violating the original purpose requirement of Article III, § 21 of the Missouri Constitution. Finding the offending provisions cannot be severed, the Court declared S.B. 22 invalid in its entirety. Nicholson v. State of Missouri, et al., No. SC101308, January 23, 2026 (Mo.banc)."
+      ]
+    },
+    {
+      "id": "535.110:35187",
+      "effectiveFrom": "2018-08-28",
+      "sourceKind": "annotation",
+      "sourceNotice": "(1978) Held, requirement for statutory appeal bond is unconstitutional when applied to an indigent but is proper as a prerequisite to a stay of execution. Rice v. Lucas (Mo.), 560 S.W.2d 850.",
+      "displayNotice": "The source retains a 1978 ruling that an appeal-bond requirement is unconstitutional as applied to an indigent litigant, while distinguishing a bond required to stay execution. The indexed version is dated 2018; the annotation does not declare the whole section invalid."
+    },
+    {
+      "id": "536.050:28411",
+      "effectiveFrom": "2005-08-28",
+      "sourceKind": "annotation",
+      "sourceNotice": "(1982) Statutory provisions which purport to authorize the Administrative Hearing Commission to render declaratory judgments are unconstitutional as violative of Section 1, Article V of the Missouri Constitution. State Tax Commission v. Administrative Hearing Commission (Mo.banc), 641 S.W.2d 69.",
+      "displayNotice": "The source retains a 1982 ruling against statutory authority for the Administrative Hearing Commission to render declaratory judgments. The indexed version is dated 2005. This jurisdictional annotation does not declare every provision of the later section invalid."
+    },
+    {
+      "id": "536.087:28425",
+      "effectiveFrom": "1989-08-28",
+      "sourceKind": "annotation",
+      "sourceNotice": "(1999) Application of section granting Supreme Court original appellate jurisdiction over appeal from administrative denial of taxpayer's request for fees and expenses in state tax proceeding was unconstitutional. Greenbriar Hills Country Club v. Director of Revenue, 2 S.W.3d 798 (Mo.banc).",
+      "displayNotice": "The source records a 1999 ruling against applying this section to grant the Supreme Court original appellate jurisdiction over an administrative denial of taxpayer fees and expenses. The warning concerns that jurisdictional application."
+    },
+    {
+      "id": "537.053:28461",
+      "effectiveFrom": "2002-08-28",
+      "sourceKind": "annotation",
+      "sourceNotice": "(2000) Provisions of Missouri's dram shop law that impose liability only upon conviction of sale of liquor to a person under age or to an obviously intoxicated person are an unconstitutional violation of the state's open courts provision, Missouri Constitution Article I, Section 14, because access to the courts is conditioned upon a prosecutor's decision to bring the case. Kilmer v. Mun, 17 S.W.3d 545 (Mo.banc).",
+      "displayNotice": "The source retains a 2000 ruling against conditioning dram-shop liability on a criminal conviction, followed by a 2002 amendment and a 2006 annotation upholding the act under the open-courts and equal-protection clauses. The historical warning does not declare the later act invalid.",
+      "requiredSourceNotices": [
+        "(2002) Kilmer v. Mun decision applies retrospectively. Piskorski v. Larice, 70 S.W.3d 573 (Mo.App.E.D.).",
+        "(2006) Dram shop act is constitutional under open courts clause and equal protection clause. Snodgrass v. Martin & Bayley, Inc., 204 S.W.3d 638 (Mo.banc)."
+      ]
+    },
+    {
+      "id": "538.220:28580",
+      "effectiveFrom": "2005-08-28",
+      "sourceKind": "annotation",
+      "sourceNotice": "(2019) As applied to patient, section authorizing allocation of future medical damages award to periodic installment payments was unconstitutional; payment of such damages at a different interest rate than the interest rate used to compute the present value of the jury's award deprived patient of award's full value and violated the patient's due process rights. Williams v. Mercy Clinic Springfield Communities, 568 S.W.3d 396 (Mo.).",
+      "displayNotice": "The source records a 2019 ruling against the periodic-payment arrangement as applied to a patient because differing discount and payment rates reduced the award. It also retains a 1992 annotation upholding the statute. This warning concerns the stated application, not every periodic-payment arrangement.",
+      "requiredSourceNotices": [
+        "(1992) Statute does not violate the equal protection nor does it violate due process. Statute is rationally related to the general goal of preserving adequate, affordable health care for all Missourians by permitting defendants to satisfy judgments for future damages in periodic or installment payments. Adams v. The Children's Mercy Hospital, 832 S.W.2d 898 (Mo.banc)."
       ]
     }
   ],

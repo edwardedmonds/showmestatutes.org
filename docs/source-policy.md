@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXXV, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -251,3 +251,13 @@ Four exact annotation policies preserve source dates and require the reviewed so
 The source history explicitly ends **513.380:27713**, **513.430:51255** and **513.475:27731** on **2027-01-01**; replacement IDs **60207**, **60209** and **60210** begin that day. Existing interval validation handles these pairs without an overlap exception. Tests cover current and upcoming settings before the boundary and the switch on the boundary itself. The existing versions' delayed-enactment note and the 513.380 derivative-use-immunity annotation remain in source fixtures. No historical version outside the index is imported. Ranking, aliases and design are unchanged.
 
 **513.423:60208** is a separately indexed new section, effective **2027-01-01**, with no older version in the chapter index. Its adjustment schedule beginning in 2029 and its original-roll wording footnote are retained in the source fixture; neither changes the indexed effective date. Exact and heading searches keep it upcoming before January 2027 and current from that date.
+
+## Title XXXVI — Statutory actions and torts
+
+All 18 original and independent index rechecks and 726 accepted pages pass strict parsing. Chapters 523 and 526 required explicit review of the Revisor's warning and reprint notices. Their four previously rejected responses are valid source pages now verified by the exact reviewed policy, not unrelated or malformed content. Original worker reviews and their resolutions are retained.
+
+The **523.061** pair (51507, 2022-08-28; 28009, 2006-08-28) requires the exact Byrd/H.B.1606 notes and 2023 annotation. The **526.010** pair (57129, 2025-04-24; 28092, 2004-08-28) requires the exact Nicholson/S.B.22 notes and 2026 annotation. Both pairs preserve blank ends. The invalid enactments are warned and the source reprints remain ordinary with notices. Optional required paragraph checks now apply to reviewed reprint and contingent policies; existing validation remains in force. Removing a required reprint note or annotation fails collection.
+
+**536.019:28394** and **536.028:28402** retain the source date 1997-08-28 without marking it as a placeholder. Their exact Revisor notes say the Executive Order 97-97 contingencies have not occurred. Each policy also requires the exact contingent-date footnote (subsection 2 or 13 respectively). Missing either note fails collection. No condition fulfillment is inferred.
+
+The five annotation-only warnings retain their exact source dates and stated limits: **535.110:35187** (2018) concerns a historical indigent appeal-bond application, distinguishing a stay bond; **536.050:28411** (2005) concerns Administrative Hearing Commission declaratory-judgment jurisdiction; **536.087:28425** (1989) concerns a Supreme Court original-appellate-jurisdiction application; **537.053:28461** (2002) retains the historical conviction condition and requires the 2002 retrospective and 2006 upholding annotations; **538.220:28580** (2005) requires both the 2019 as-applied periodic-payment annotation and the earlier 1992 upholding paragraph. These notices do not declare entire later statutes invalid. The four reviewed annotations rejecting challenges remain ordinary. Search ranking, aliases and the interface are unchanged.

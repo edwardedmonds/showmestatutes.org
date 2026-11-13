@@ -1,3 +1,25 @@
+# Statutory-actions and torts coverage — November 13, 2026
+
+## Scope and source review
+
+All 18 Title XXXVI indexes, Chapters **521–538**, add **724 sections and 726 source versions**. The combined snapshot contains **29,189 sections, 29,276 source versions and 451 chapter indexes**: 441 populated and ten reviewed empty. **17 of 468 catalog links remain**. All listed indexes in Titles I–XXXVIII are accounted for.
+
+All 18 strict original/recheck comparisons and 726 accepted pages passed. Combined offline validation and gated promotion passed. All 28,550 prior records and 433 chapter-manifest objects remain unchanged. The change report contains 726 additions, no prior changes and no removals. Four responses initially rejected for missing reviewed-warning policies are now verified as valid source content; their original responses and review history remain archived.
+
+Two reprint pairs preserve exact notes, annotations, identities, dates and blank ends: 523.061 (2022 warning / 2006 reprint) and 526.010 (2025 warning / 2004 reprint). Two 1997-dated Executive Order provisions remain contingent with both exact source footnotes required. Seven warning versions bring the total to 88, contingent versions rise to 24, and scheduled future versions remain 39. Historical warnings preserve later upholding annotations where present; rejected constitutional objections remain ordinary.
+
+## Tests
+
+**1,463 TypeScript and 94 Python tests passed**, with TypeScript checks and the production build. Thirty-one queries were defined from official headings before ranking evaluation. Every new citation and source URL is checked under both upcoming settings. Fifteen actual-source fixtures cover reprints, required annotations, conditional dates and ordinary rejected challenges. Removing a required source paragraph fails validation. Search ranking, aliases and the interface are unchanged. The earlier campground singular/plural limitation remains documented and unresolved. These are development tests, not an independent legal-search assessment.
+
+## Browser and publication
+
+The production preview reported 29,189 headings. Browser checks verified the condemnation query and 523.259:28021 source link/date, Chapter 524 exclusion, both 526.010 identities with distinct headings and warning/reprint groups, the 1997-dated 536.028 contingent result under the upcoming toggle, and the full 537.053 historical/later-upholding notice. The long contingent heading fit 390px and 320px screens without horizontal overflow. Seat belts and ArrowDown focus remained functional; no browser warnings or errors were recorded.
+
+README, coverage, roadmap, source policy and fallback scope reflect Titles I–XXXVIII. Main-branch workflow success and live assets are verified after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Evidence, juries and civil-procedure coverage — November 13, 2026
 
 ## Scope and source review

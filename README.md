@@ -20,7 +20,7 @@ Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no
 
 **Statewide heading coverage is the goal. It isn't finished.**
 
-The November 13, 2026 collection contains **28,465 distinct sections and 28,550 source versions** across **433 chapter indexes**. Four hundred twenty-three have headings; Chapters 152, 203, 255, 280, 312, 318, 342, 460, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **35** outside this collection at this check.
+The November 13, 2026 collection contains **29,189 distinct sections and 29,276 source versions** across **451 chapter indexes**. Four hundred forty-one have headings; Chapters 152, 203, 255, 280, 312, 318, 342, 460, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **17** outside this collection at this check.
 
 | Area | Imported scope |
 | --- | --- |
@@ -54,10 +54,11 @@ The November 13, 2026 collection contains **28,465 distinct sections and 28,550 
 | Courts | Title XXXII: Chapters 476–479 and 482–488 |
 | Evidence, legal advertisements and juries | Titles XXXIII–XXXIV: Chapters 490–494 |
 | Civil procedure | Title XXXV: Chapters 506–517 |
+| Statutory actions and torts | Title XXXVI: Chapters 521–538 |
 | Criminal procedure | Title XXXVII: Chapters 540–552 |
 | Crimes, punishment, peace officers and public defenders | Title XXXVIII: Chapters 556–579, 589, 590, 595 and 600 |
 
-The latest batch adds **839 sections and 842 source versions** from all 17 indexes in Titles XXXIII–XXXV. It covers evidence, witnesses, legal notices, juries and civil procedure. Three sections include January 2027 replacements; their current versions keep the end dates recorded by the source. Historical constitutional annotations retain their stated scope. Titles I–XXXV are now accounted for; statutory actions and torts in Title XXXVI are next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
+The latest batch adds **724 sections and 726 source versions** from all 18 indexes in Title XXXVI. It covers attachment, condemnation, garnishment, injunctions, declaratory judgments, partition, writs, possession, administrative procedure and torts. Two reprinted-version pairs keep both source links, and two provisions with contingent dates stay separate from current results. Historical warnings retain their limits and later source annotations. Titles I–XXXVIII are now accounted for; public business, additional executive departments, and codes and standards are next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
 
 These are state statute headings. The collection doesn't include local ordinances, court rules, regulations, constitutional provisions, federal law, or a complete historical archive. Chapter 300 is the state's Model Traffic Ordinance; its presence doesn't establish what a particular city has adopted.
 
@@ -65,7 +66,7 @@ Each chapter and source version keeps its retrieval date and response hash. Addi
 
 ## What has been checked
 
-The latest evidence, juries and civil-procedure expansion passed **1,428 TypeScript tests and 90 Python tests**, TypeScript checks, and the production build. All 17 new chapter indexes matched a second retrieval. Browser checks covered new searches, chapter boundaries, source annotations, exact source links and constitutional warnings, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
+The latest statutory-actions and torts expansion passed **1,463 TypeScript tests and 94 Python tests**, TypeScript checks, and the production build. All 18 new chapter indexes matched a second retrieval. Browser checks covered new searches, chapter boundaries, source annotations, exact source links and constitutional warnings, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
 
 The collection process checks every listed version against its official page, then retrieves the new chapter indexes again to check for changes. Tests cover search relevance, exact citations, chapter boundaries, source identities, and version handling. A failed validation blocks publication.
 

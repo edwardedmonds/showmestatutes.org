@@ -176,13 +176,17 @@ def parse_section(html, entry, checked_at):
         raise ValueError('Unverified placeholder effective date: ' + entry['id'])
     if contingent and (not reviewed or entry['effectiveFrom'] != reviewed['effectiveFrom'] or until != reviewed.get('effectiveTo')
             or (contingent['multipleEnactments'] != (f'There are multiple enactments of {entry["section"]}' in clean(soup.get_text(' '))))
-            or reviewed.get('sourceNotice', contingent['sourceNotice']) not in clean(soup.get_text(' '))):
+            or reviewed.get('sourceNotice', contingent['sourceNotice']) not in clean(soup.get_text(' '))
+            or any(notice not in [clean(p.get_text(' ')) for p in soup.select('p')]
+                   for notice in reviewed.get('requiredSourceNotices', []))):
         raise ValueError('Unverified contingent enactment: ' + entry['id'])
     delayed = next((p for p in REVIEWED_OVERLAPS if p['section'] == entry['section']), None)
     delayed_version = next((v for v in delayed['versions'] if v['versionId'] == entry['versionId']), None) if delayed else None
     if delayed and (not delayed_version or entry['effectiveFrom'] != delayed_version['effectiveFrom'] or until is not None
             or f'There are multiple enactments of {entry["section"]}' not in clean(soup.get_text(' '))
-            or delayed_version['sourceNotice'] not in clean(soup.get_text(' '))):
+            or delayed_version['sourceNotice'] not in clean(soup.get_text(' '))
+            or any(notice not in [clean(p.get_text(' ')) for p in soup.select('p')]
+                   for notice in delayed_version.get('requiredSourceNotices', []))):
         raise ValueError('Unverified delayed/reprinted/conflicting enactment: ' + entry['id'])
     warning = next((p for p in POLICY.get('constitutionalWarnings', []) if p['id'] == entry['id']), None)
     source_warning = ('all or part is unconstitutional' in clean(effective.get_text(' ')).lower()

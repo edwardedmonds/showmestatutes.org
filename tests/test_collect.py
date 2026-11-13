@@ -863,3 +863,38 @@ class CivilEvidenceSourceTests(unittest.TestCase):
         from bs4 import BeautifulSoup
         id='513.423:60208';e=self.entry(id);source=self.source(id);text=collect.clean(BeautifulSoup(source,'html.parser').get_text(' '));self.assertIn('Effective 1-01-27',text);self.assertIn('On April 1, 2029',text);self.assertIn('Word "amount" appears in original rolls',text)
         r=collect.parse_section(source,e,'2026-11-13T14:03:00+00:00');self.assertEqual(r['effectiveFrom'],'2027-01-01');self.assertIsNone(r['effectiveTo']);self.assertFalse(r.get('hasContingentEffectiveDate'));self.assertFalse(r.get('multipleEnactments'))
+
+class StatutoryActionsSourceTests(unittest.TestCase):
+    def entry(self,id):
+        import os
+        d=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text());record=next(r for r in d['records'] if r['id']==id)
+        return {k:record[k] for k in ['id','section','versionId','effectiveFrom','sourceUrl']}
+    def source(self,id):return Path(f'tests/fixtures/statutory-actions-{id.replace(":","-")}.html').read_text()
+    def without(self,source,notice):
+        from bs4 import BeautifulSoup
+        soup=BeautifulSoup(source,'html.parser');next(p for p in soup.select('p') if collect.clean(p.get_text(' '))==notice).decompose();return str(soup)
+    def test_reprints_require_note_and_annotation_for_both_indexed_versions(self):
+        for section in ['523.061','526.010']:
+            policy=next(p for p in collect.POLICY['reprintedEnactments'] if p['section']==section)
+            for version in policy['versions']:
+                id=f'{section}:{version["versionId"]}';e=self.entry(id);source=self.source(id);r=collect.parse_section(source,e,'2026-11-13T14:24:00+00:00');self.assertEqual(r['effectiveFrom'],version['effectiveFrom']);self.assertIsNone(r['effectiveTo']);self.assertTrue(r['multipleEnactments']);self.assertEqual(bool(r.get('hasConstitutionalWarning')),'This section was declared unconstitutional' in version['sourceNotice'])
+                for notice in [version['sourceNotice']]+version['requiredSourceNotices']:
+                    with self.assertRaises(ValueError):collect.parse_section(self.without(source,notice),e,'2026-11-13T14:24:00+00:00')
+    def test_contingent_ordinary_dates_require_both_footnotes_without_placeholder(self):
+        for id in ['536.019:28394','536.028:28402']:
+            e=self.entry(id);source=self.source(id);r=collect.parse_section(source,e,'2026-11-13T14:24:00+00:00');self.assertTrue(r['hasContingentEffectiveDate']);self.assertEqual(r['effectiveFrom'],'1997-08-28');self.assertFalse(r.get('effectiveDateIsPlaceholder'));self.assertFalse(r.get('multipleEnactments'));self.assertIsNone(r['effectiveTo'])
+            policy=next(p for p in collect.POLICY['contingentEnactments'] if p['section']==e['section'])
+            for notice in [policy['sourceNotice']]+policy['versions'][0]['requiredSourceNotices']:
+                with self.assertRaisesRegex(ValueError,'Unverified contingent enactment'):collect.parse_section(self.without(source,notice),e,'2026-11-13T14:24:00+00:00')
+    def test_historical_warnings_require_all_context_including_later_upholding_annotations(self):
+        for id in ['535.110:35187','536.050:28411','536.087:28425','537.053:28461','538.220:28580']:
+            e=self.entry(id);source=self.source(id);r=collect.parse_section(source,e,'2026-11-13T14:24:00+00:00');self.assertTrue(r['hasConstitutionalWarning']);self.assertEqual(r['effectiveFrom'],e['effectiveFrom']);self.assertEqual(r['sourceUrl'],e['sourceUrl'])
+            policy=next(p for p in collect.POLICY['constitutionalWarnings'] if p['id']==id)
+            for notice in [policy['sourceNotice']]+policy.get('requiredSourceNotices',[]):
+                with self.assertRaisesRegex(ValueError,'Unverified constitutional warning'):collect.parse_section(self.without(source,notice),e,'2026-11-13T14:24:00+00:00')
+        self.assertIn('2006 annotation upholding',next(p['displayNotice'] for p in collect.POLICY['constitutionalWarnings'] if p['id']=='537.053:28461'))
+    def test_annotations_rejecting_challenges_remain_ordinary(self):
+        import os
+        d=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text())
+        for section in ['533.020','535.040','537.067','537.296']:
+            id=next(r['id'] for r in d['records'] if r['section']==section);r=collect.parse_section(self.source(id),self.entry(id),'2026-11-13T14:24:00+00:00');self.assertFalse(r.get('hasConstitutionalWarning'));self.assertFalse(r.get('hasContingentEffectiveDate'))
