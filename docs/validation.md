@@ -1,3 +1,29 @@
+# First public-health expansion — November 13, 2026
+
+## Scope and source checks
+
+Title XII Chapters 188–191 add **422 distinct sections and source versions**: 52 in Regulation of Abortions, 17 in Aid to Local Governmental Health Facilities, 165 in Emergency Services, and 188 in Health and Welfare. The combined snapshot contains **11,831 sections and 11,881 versions** across **188 chapter indexes**: 185 with headings and three reviewed empty indexes. The fresh catalog contains 468 chapter links, leaving **280** outside this collection. Title XII lists 25 chapter indexes; its remaining 21, starting with Chapter 192, are next. Chapters 200, 202 and 212 are not listed under the checked title.
+
+All 422 new pages were collected sequentially at no more than one request per second. The initial acquisition audit stopped on §190.088:9437, which has both a constitutional-warning banner and a Revisor note naming Calzone v. Koster. After reviewing the exact page, the policy was extended to require that notice. A second audit of all new cached pages passed. The record retains its 2014-08-28 source date, blank end date, heading marker and exact source URL, and appears only in the separate constitutional-warning group. No alternate enactment is listed in the chapter index. There were no unresolved source reviews at promotion.
+
+All four chapter indexes matched independent second retrievals of identities, dates and URLs. The strict collector rebuilt and validated the combined candidate from saved source responses. All 11,459 earlier records and all 184 earlier chapter-manifest objects are unchanged, including check dates and response hashes. The change report contains 422 additions, zero removals and zero changes. The combined totals are 42 warned versions, 16 reviewed reprinted pairs, 14 contingent versions and 32 scheduled future versions.
+
+## Tests and performance
+
+All **617 TypeScript tests and 35 Python tests** passed, along with TypeScript checks and the production build. Twenty-eight new query cases were defined from official indexes before ranking evaluation. Additional regressions cover neighboring chapter citations, four-digit section numbers, the warning's source notice, exact source identity, result grouping with either upcoming-toggle setting, and chapter exclusions.
+
+The first test run exposed an outdated exclusive-result expectation for “first degree murder.” The full official heading for the newly collected §188.035:60728 explicitly includes that phrase, so it is a legitimate heading match. The regression now requires §565.020 first, preserves the Chapter 565-only result, accepts the additional murder heading and continues excluding degree-only overlap. No parser, ranking or alias changes were needed. These are development tests, not an independent assessment of legal-search accuracy.
+
+The serialized MiniSearch index grew from 1,356,074 to 1,412,694 bytes. On local Linux with Node 22.22.2, index construction took about 185 ms and loading plus search setup about 163 ms. Across 16 queries with three warm-up passes and 25 measured runs each, p95 search times ranged from 0.003 to 40.88 ms, compared with 0.011 to 29.80 ms for the prior snapshot in the same run. These timings exclude download, JSON parsing, validation and rendering, and are not physical mobile measurements.
+
+## Browser checks and publication
+
+The production preview reports 11,831 section headings. Exact lookup of §190.088 shows only its constitutional-warning group, preserves the official version link and remains separate when upcoming versions are included. Chapter 189 excludes that result. A Chapter 191 medical-record search finds §191.227:57227 with its complete heading and source URL. The first-degree-murder example keeps §565.020 first, followed by §188.035; ArrowDown focuses the §565.020 source-heading link. No horizontal overflow was observed at 320×740 or 390×740, including the long medical-record heading and expanded scope label. No browser warnings or errors were observed.
+
+The scope label and description now include health. The existing layout and filtering controls remain unchanged. Snapshot-specific data filenames remain in use. Publication uses the validated snapshot through GitHub Pages; workflow success and public asset comparisons are checked after pushing. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Completion of education and library coverage — November 12, 2026
 
 ## Scope and source checks

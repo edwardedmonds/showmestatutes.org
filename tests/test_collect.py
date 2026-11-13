@@ -390,3 +390,18 @@ class RemainingTaxationCollectionTests(unittest.TestCase):
         for bad in [source.replace('Cross References', 'Missing body'), source.replace('chapter=152&amp;idx=v', 'chapter=999&amp;idx=v')]:
             with self.assertRaisesRegex(ValueError, 'Unverified empty'):
                 collect.parse_index(bad, '152')
+
+class HealthCollectionTests(unittest.TestCase):
+    def test_ambulance_district_warning_requires_the_reviewed_source_notice(self):
+        entry = {'id': '190.088:9437', 'section': '190.088', 'versionId': '9437',
+                 'effectiveFrom': '2014-08-28', 'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section=190.088&bid=9437'}
+        source = Path('tests/fixtures/health-190.088-warning.html').read_text()
+        record = collect.parse_section(source, entry, '2026-11-13T07:49:59+00:00')
+        self.assertTrue(record['hasConstitutionalWarning'])
+        self.assertEqual(record['headingMarker'], '*')
+        self.assertIsNone(record['effectiveTo'])
+        self.assertNotIn('multipleEnactments', record)
+        for bad in [source.replace('This section was declared unconstitutional in Calzone v. Koster, et al.', 'Different source notice'),
+                    source.replace('all or part is unconstitutional', '').replace('This section was declared unconstitutional', 'A court case was discussed')]:
+            with self.assertRaisesRegex(ValueError, 'Unverified constitutional warning'):
+                collect.parse_section(bad, entry, '2026-11-13T07:49:59+00:00')

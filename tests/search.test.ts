@@ -70,9 +70,12 @@ it('rejects invalid as-of dates', () => {
   expect(() => search('murder', '2026-02-30')).toThrow();
 });
 
-it('never treats degree-only overlap as a murder heading match', () => {
+it('keeps murder headings while excluding degree-only overlap', () => {
   const results = search('first degree murder', asOf);
-  expect(results.best.map(m => m.record.section)).toEqual(['565.020']);
+  expect(results.best[0]?.record.section).toBe('565.020');
+  expect(results.best.map(m => m.record.section)).toContain('188.035');
+  expect(results.best.every(m => /murder/i.test(m.record.title))).toBe(true);
+  expect(search('first degree murder', asOf, false, '565').best.map(m => m.record.section)).toEqual(['565.020']);
   expect(results.related.map(m => m.record.section)).toContain('565.030');
   expect([...results.best, ...results.related].map(m => m.record.section)).not.toContain('565.050');
 });

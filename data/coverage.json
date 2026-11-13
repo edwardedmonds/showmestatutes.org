@@ -11,6 +11,7 @@
     "IX",
     "X",
     "XI",
+    "XII",
     "XIX",
     "XXXVII",
     "XXXVIII"
@@ -828,6 +829,30 @@
       "minimumVersions": 13
     },
     {
+      "chapter": "188",
+      "title": "Regulation of Abortions",
+      "category": "government",
+      "minimumVersions": 52
+    },
+    {
+      "chapter": "189",
+      "title": "Aid to Local Governmental Health Facilities",
+      "category": "government",
+      "minimumVersions": 17
+    },
+    {
+      "chapter": "190",
+      "title": "Emergency Services",
+      "category": "government",
+      "minimumVersions": 165
+    },
+    {
+      "chapter": "191",
+      "title": "Health and Welfare",
+      "category": "government",
+      "minimumVersions": 188
+    },
+    {
       "chapter": "300",
       "title": "Model Traffic Ordinance",
       "category": "transportation",
@@ -1136,7 +1161,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XI, XIX, XXXVII and XXXVIII, at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XI, XIX, XXXVII and XXXVIII, plus Title XII Chapters 188–191, at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -1866,6 +1891,11 @@
       "id": "140.170:51501",
       "effectiveFrom": "2022-08-28",
       "sourceNotice": "This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al."
+    },
+    {
+      "id": "190.088:9437",
+      "effectiveFrom": "2014-08-28",
+      "sourceNotice": "This section was declared unconstitutional in Calzone v. Koster, et al."
     }
   ]
 }
