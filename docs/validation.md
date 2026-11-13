@@ -1,3 +1,27 @@
+# Evidence, juries and civil-procedure coverage — November 13, 2026
+
+## Scope and source review
+
+All 17 indexes in Titles XXXIII–XXXV, Chapters **490–494 and 506–517**, add **839 sections and 842 source versions**. The combined snapshot contains **28,465 sections, 28,550 source versions and 433 chapter indexes**: 423 populated and ten reviewed empty. **35 of 468 catalog links remain**. All listed indexes in Titles I–XXXV, XXXVII and XXXVIII are accounted for.
+
+All 17 strict original/recheck comparisons and 842 accepted pages passed. Combined offline validation and gated promotion passed. All 27,708 prior records and 416 chapter-manifest objects remain unchanged. The change report contains 842 additions, no prior changes and no removals. Two unrelated or incomplete responses for 510.200 and 515.220 were rejected, retained and tested; the exact-URL replacements pass.
+
+Four exact annotation policies add scoped warnings, bringing the total to 81. The 509.520 warning concerns subdivisions (4)/(5) of subsection 1; 510.265 preserves the historical punitive-cap/fraud-jury context and the later 2020 date; 513.436 records the single-subject/lien-avoidance ruling; 516.200 requires both the 2001 and 2008 nonresident-tolling paragraphs and retains the 2009 source date. Removing any required paragraph fails collection. The rejected constitutional challenge in 511.760 remains ordinary.
+
+The 513.380, 513.430 and 513.475 pairs preserve explicit prior ends and replacement starts on 2027-01-01. The separately indexed new section 513.423:60208 also begins 2027-01-01, with no older indexed version; its later 2029 adjustment schedule does not change the source effective date. The future count increases from 35 to 39; 22 contingent versions and all earlier reprints and competing enactments are unchanged. No overlap exception or inferred end date was introduced.
+
+## Tests
+
+**1,428 TypeScript and 90 Python tests passed**, with TypeScript checks and the production build. Thirty queries were defined from official headings before ranking evaluation. Exact lookup tests cover every current new source citation and URL under both upcoming settings. Sixteen actual-source fixtures cover annotations, rejected responses and delayed pairs. Boundary tests verify both upcoming settings before and on 2027-01-01. Search ranking, aliases and the interface are unchanged. The earlier campground singular/plural limitation remains documented and unresolved. These are development tests, not an independent legal-search assessment.
+
+## Browser and publication
+
+The production preview reported 28,465 headings. Browser checks verified the 490.065 evidence query and exact official link, exclusion within Chapter 491, the 513.475 current end and separate upcoming source, the new 513.423 future-only result, and the scoped 509.520 warning. Layout checks at 390px and 320px showed no horizontal overflow. The Seat belts example and ArrowDown focus still worked. No browser warnings or errors were recorded.
+
+README, coverage, roadmap, source policy and fallback scope reflect Titles XXXIII–XXXV. Main-branch workflow success and live assets are verified after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Trusts, estates and courts coverage — November 13, 2026
 
 ## Scope and source review

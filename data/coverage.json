@@ -32,6 +32,9 @@
     "XXX",
     "XXXI",
     "XXXII",
+    "XXXIII",
+    "XXXIV",
+    "XXXV",
     "XXXVII",
     "XXXVIII"
   ],
@@ -2295,6 +2298,108 @@
       "minimumVersions": 70
     },
     {
+      "chapter": "490",
+      "title": "Evidence",
+      "category": "government",
+      "minimumVersions": 79
+    },
+    {
+      "chapter": "491",
+      "title": "Witnesses",
+      "category": "government",
+      "minimumVersions": 67
+    },
+    {
+      "chapter": "492",
+      "title": "Oaths and Affirmations, Depositions and Perpetuation of Testimony",
+      "category": "government",
+      "minimumVersions": 63
+    },
+    {
+      "chapter": "493",
+      "title": "Legal Publications, Notice and Advertisements",
+      "category": "government",
+      "minimumVersions": 18
+    },
+    {
+      "chapter": "494",
+      "title": "General Provisions as to Juries",
+      "category": "government",
+      "minimumVersions": 24
+    },
+    {
+      "chapter": "506",
+      "title": "Commencement of Actions and General Provisions",
+      "category": "government",
+      "minimumVersions": 50
+    },
+    {
+      "chapter": "507",
+      "title": "Parties",
+      "category": "government",
+      "minimumVersions": 28
+    },
+    {
+      "chapter": "508",
+      "title": "Venue and Change of Venue",
+      "category": "government",
+      "minimumVersions": 28
+    },
+    {
+      "chapter": "509",
+      "title": "Pleadings",
+      "category": "government",
+      "minimumVersions": 52
+    },
+    {
+      "chapter": "510",
+      "title": "Trials and Proceedings Before and After Trial",
+      "category": "government",
+      "minimumVersions": 44
+    },
+    {
+      "chapter": "511",
+      "title": "Judgments",
+      "category": "government",
+      "minimumVersions": 82
+    },
+    {
+      "chapter": "512",
+      "title": "Appeals and Appellate Procedure",
+      "category": "government",
+      "minimumVersions": 31
+    },
+    {
+      "chapter": "513",
+      "title": "Executions and Exemptions",
+      "category": "government",
+      "minimumVersions": 124
+    },
+    {
+      "chapter": "514",
+      "title": "Costs (Civil Cases)",
+      "category": "government",
+      "minimumVersions": 28
+    },
+    {
+      "chapter": "515",
+      "title": "Referees and Receivers",
+      "category": "government",
+      "minimumVersions": 57
+    },
+    {
+      "chapter": "516",
+      "title": "Statutes of Limitation",
+      "category": "government",
+      "minimumVersions": 50
+    },
+    {
+      "chapter": "517",
+      "title": "Procedure Before Certain Associate Circuit Judges",
+      "category": "government",
+      "minimumVersions": 17
+    },
+    {
       "chapter": "540",
       "title": "Grand Juries and Their Proceedings",
       "category": "procedure",
@@ -2566,7 +2671,7 @@
       "basis": "Both source pages retain the same date and blank ends, identify competing 2014 enactments, and differ on agreement versus notice and opportunity to respond. Preserve both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXXII, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXXV, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -4088,6 +4193,37 @@
       "sourceKind": "annotation",
       "sourceNotice": "(1998) Statute is unconstitutional to extent that it purports to limit family courts jurisdiction to hear any matter as a division of the circuit court. State ex rel. M.D.K. v. Dolan, 968 S.W.2d 740 (Mo.App.E.D.).",
       "displayNotice": "The Revisor retains a 1998 ruling that this section is unconstitutional to the extent it limits family-court jurisdiction as a division of the circuit court. The indexed source version is dated 2014. This warning concerns the stated jurisdictional limitation, not every provision. Read the official text and annotation."
+    },
+    {
+      "id": "509.520:54051",
+      "effectiveFrom": "2023-08-28",
+      "sourceKind": "annotation",
+      "sourceNotice": "(2024) Subdivisions (4) and (5) of subsection 1 of section 509.520 requiring victim and witness names, addresses and contact information to be redacted in court filings are declared unconstitutional and thereby unenforceable as violating the First and Fourteenth Amendments of the United States Constitution and the Open Courts requirement of Article I, § 14 of the Missouri Constitution. Gross, et al. v. State of Missouri, Case No. 24AC-CC04658, December 20, 2024 (Circuit Court of Cole County)",
+      "displayNotice": "The source records a 2024 ruling against subdivisions (4) and (5) of subsection 1 concerning victim and witness information in court filings. This annotation does not declare every redaction requirement in the section invalid."
+    },
+    {
+      "id": "510.265:48375",
+      "effectiveFrom": "2020-08-28",
+      "sourceKind": "annotation",
+      "sourceNotice": "(2014) Section's cap on punitive damage awards is unconstitutional under Article I, Section 22 (a) of Missouri Constitution; right to a jury trial in 1820 included right to have a jury determine amount of punitive damages in an action for fraud. Lewellen v. Franklin, 441 S.W.3d 136 (Mo.banc).",
+      "displayNotice": "The source retains a 2014 ruling on the punitive-damages cap and the jury right in a fraud action. This historical annotation does not establish that the entire 2020 section is invalid."
+    },
+    {
+      "id": "513.436:27724",
+      "effectiveFrom": "1987-07-15",
+      "sourceKind": "annotation",
+      "sourceNotice": "(1987) This section is as a conclusion of law unconstitutional for having been passed by the legislature in a manner that failed to conform with Section 23 of Article 3 of the Missouri Constitution that a bill contain only one subject and thus was ineffective to deny avoidance of lien of creditor by debtor. In re Darrell L. Sapp, 81 B.R. 545, Bkrtcy (W.D.Mo.).",
+      "displayNotice": "The source records a 1987 ruling that this section was enacted contrary to the constitutional single-subject requirement and was ineffective to deny the lien avoidance described in that ruling."
+    },
+    {
+      "id": "516.200:27844",
+      "effectiveFrom": "2009-08-28",
+      "sourceKind": "annotation",
+      "sourceNotice": "(2001) Section denying statute of limitations defense to defendants who have moved from the state burdens interstate commerce and is unconstitutional; statute cannot be justified due to applicability of long-arm jurisdiction over such defendants. Rademeyer v. Farris, 145 F.Supp.2d 1096 (E.D.Mo.), aff'd, 284 F.3d 833 (8th Cir. 2002).",
+      "displayNotice": "The source retains 2001 and 2008 rulings against tolling based on a defendant becoming a nonresident. These historical annotations concern that tolling rule; the indexed source version is dated 2009.",
+      "requiredSourceNotices": [
+        "(2008) Tolling statute of limitations for persons who become non-residents of Missouri during limitation period violates Commerce Clause. State ex rel. Bloomquist v. Schneider, 244 S.W.3d 139 (Mo.banc)."
+      ]
     }
   ],
   "indexHeadingExceptions": [

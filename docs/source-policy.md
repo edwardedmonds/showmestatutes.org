@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXXII, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXXV, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -241,3 +241,13 @@ Concurrent-enactment policy now permits an exact per-section source notice, with
 Warnings require exact annotations and dates for 472.020:25977,479.359:33329,487.030:26987 and 487.080:26992; both 1999/2003 annotations are required for 487.030. Notices distinguish historical jurisdiction language, severed classification, rehearing procedures and limited jurisdiction rulings from blanket invalidity. Source dates 1983,2016,1998 and 2014 remain unchanged. No reprint or expiry is invented.
 
 Seven rejected responses are archived: wrong headings for 456.005,474.560,475.370,476.130,477.705 and 486.600, plus a source-date mismatch for 456.017. All exact-URL replacements pass. Twenty-six actual-source fixtures cover these responses, complete trust and empty indexes, lettered citations, competing enactments and warnings. Ranking, aliases and live design are unchanged.
+
+## Titles XXXIII–XXXV — Evidence, juries and civil procedure
+
+All 17 original and independent index rechecks and 842 accepted source pages pass strict parsing. No citation-format or overlap-policy extension was needed. Two rejected responses for 510.200 and 515.220 remain archived; their exact replacements pass. Fixtures ensure the rejected pages cannot be accepted as those identities.
+
+Four exact annotation policies preserve source dates and require the reviewed source paragraphs. **509.520:54051** (2023-08-28) is limited to subdivisions (4)/(5) of subsection 1; it does not declare all redaction requirements invalid. **510.265:48375** (2020-08-28) retains the 2014 punitive-cap/fraud-jury ruling, without declaring the entire later version invalid. **513.436:27724** retains its 1987-07-15 date and the 1987 single-subject/lien-avoidance annotation. **516.200:27844** retains its 2009-08-28 date and requires both the 2001 Rademeyer and 2008 Bloomquist nonresident-tolling paragraphs. Removing any required paragraph fails collection. The rejected constitutional challenge on 511.760 remains ordinary.
+
+The source history explicitly ends **513.380:27713**, **513.430:51255** and **513.475:27731** on **2027-01-01**; replacement IDs **60207**, **60209** and **60210** begin that day. Existing interval validation handles these pairs without an overlap exception. Tests cover current and upcoming settings before the boundary and the switch on the boundary itself. The existing versions' delayed-enactment note and the 513.380 derivative-use-immunity annotation remain in source fixtures. No historical version outside the index is imported. Ranking, aliases and design are unchanged.
+
+**513.423:60208** is a separately indexed new section, effective **2027-01-01**, with no older version in the chapter index. Its adjustment schedule beginning in 2029 and its original-roll wording footnote are retained in the source fixture; neither changes the indexed effective date. Exact and heading searches keep it upcoming before January 2027 and current from that date.

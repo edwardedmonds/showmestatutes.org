@@ -827,3 +827,39 @@ class EstatesCourtsSourceTests(unittest.TestCase):
         for id,phrases in [('472.020:25977',['A.L. 1983 S.B. 44 & 45','insofar as they purport to grant jurisdiction']),('479.359:33329',['Classification is severed from remainder of section','20 percent statewide']),('487.030:26987',['(1999)','(2003)','Rule 130 supersede']),('487.080:26992',['A.L. 2014 H.B. 1299 Revision','to extent that it purports to limit'])]:
             text=collect.clean(BeautifulSoup(Path(f'tests/fixtures/estates-courts-{id.replace(":","-")}.html').read_text(),'html.parser').get_text(' '))
             for phrase in phrases:self.assertIn(phrase,text)
+
+class CivilEvidenceSourceTests(unittest.TestCase):
+    def entry(self,id):
+        import os
+        d=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text());record=next(r for r in d['records'] if r['id']==id)
+        return {k:record[k] for k in ['id','section','versionId','effectiveFrom','sourceUrl']}
+    def source(self,id):return Path(f'tests/fixtures/civil-evidence-{id.replace(":","-")}.html').read_text()
+    def test_scoped_annotations_require_every_reviewed_paragraph(self):
+        from bs4 import BeautifulSoup
+        for id in ['509.520:54051','510.265:48375','513.436:27724','516.200:27844']:
+            e=self.entry(id);source=self.source(id);r=collect.parse_section(source,e,'2026-11-13T14:03:00+00:00');self.assertTrue(r['hasConstitutionalWarning']);self.assertEqual(r['effectiveFrom'],e['effectiveFrom']);self.assertEqual(r['sourceUrl'],e['sourceUrl'])
+            policy=next(p for p in collect.POLICY['constitutionalWarnings'] if p['id']==id)
+            for notice in [policy['sourceNotice']]+policy.get('requiredSourceNotices',[]):
+                soup=BeautifulSoup(source,'html.parser');next(p for p in soup.select('p') if collect.clean(p.get_text(' '))==notice).decompose()
+                with self.assertRaisesRegex(ValueError,'Unverified constitutional warning'):collect.parse_section(str(soup),e,'2026-11-13T14:03:00+00:00')
+    def test_explicit_delayed_intervals_preserve_exact_history_and_notes(self):
+        from bs4 import BeautifulSoup
+        for section,old,new,date in [('513.380','27713','60207','1993-08-28'),('513.430','51255','60209','2022-08-28'),('513.475','27731','60210','2003-08-28')]:
+            for version,start,end in [(old,date,'2027-01-01'),(new,'2027-01-01',None)]:
+                id=f'{section}:{version}';source=self.source(id);r=collect.parse_section(source,self.entry(id),'2026-11-13T14:03:00+00:00');self.assertEqual(r['effectiveFrom'],start);self.assertEqual(r.get('effectiveTo'),end)
+                if version==old:self.assertIn('Due to a delayed effective date, both versions are printed.',collect.clean(BeautifulSoup(source,'html.parser').get_text(' ')))
+            self.assertFalse(any(p['section']==section for p in collect.REVIEWED_OVERLAPS))
+        self.assertIn('derivative use immunity',self.source('513.380:27713'))
+    def test_rejected_responses_fail_but_exact_replacements_pass(self):
+        for id in ['510.200:27505','515.220:27812']:
+            e=self.entry(id);bad=Path(f'tests/fixtures/civil-evidence-rejected-{id.replace(":","-")}.html').read_text()
+            with self.assertRaises(ValueError):collect.parse_section(bad,e,'2026-11-13T14:03:00+00:00')
+            self.assertEqual(collect.parse_section(self.source(id),e,'2026-11-13T14:03:00+00:00')['id'],id)
+    def test_foreign_judgment_annotation_rejecting_challenge_remains_ordinary(self):
+        import os
+        d=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text());id=next(r['id'] for r in d['records'] if r['section']=='511.760');source=self.source(id);self.assertIn('constitutional',source.lower());self.assertFalse(collect.parse_section(source,self.entry(id),'2026-11-13T14:03:00+00:00').get('hasConstitutionalWarning'))
+
+    def test_new_adjustment_section_preserves_future_date_and_source_footnote(self):
+        from bs4 import BeautifulSoup
+        id='513.423:60208';e=self.entry(id);source=self.source(id);text=collect.clean(BeautifulSoup(source,'html.parser').get_text(' '));self.assertIn('Effective 1-01-27',text);self.assertIn('On April 1, 2029',text);self.assertIn('Word "amount" appears in original rolls',text)
+        r=collect.parse_section(source,e,'2026-11-13T14:03:00+00:00');self.assertEqual(r['effectiveFrom'],'2027-01-01');self.assertIsNone(r['effectiveTo']);self.assertFalse(r.get('hasContingentEffectiveDate'));self.assertFalse(r.get('multipleEnactments'))
