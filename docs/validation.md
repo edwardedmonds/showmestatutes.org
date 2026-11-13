@@ -1,3 +1,25 @@
+# Banking coverage — November 13, 2026
+
+## Scope and source review
+
+Nine Title XXIV indexes, **361, 362, 364, 365 and 367–371**, add **625 distinct sections and 625 source versions**. The combined snapshot contains **21,025 sections, 21,105 versions and 333 chapter indexes**: 324 populated and nine reviewed empty indexes. **135 of 468 catalog links remain**. All listed indexes in Titles I–XXIII are accounted for; Title XXIV's twelve insurance chapters, 374–385, remain outside this release.
+
+All nine indexes matched independent second retrievals through the strict parser. Every accepted source page passed strict parsing; combined offline collection passed. All 20,480 prior records and 324 chapter-manifest objects remain unchanged. The change report has 625 additions, no removals and no prior changes. Five rejected responses displayed unrelated sections; exact-URL retries recovered the correct pages. Rejected responses and accepted replacements remain archived.
+
+No new exceptional version policy was needed. §361.933's hypothetical rulemaking language remains ordinary, rather than being mislabeled an actual constitutional ruling. Existing totals remain 68 warned versions, 36 reprinted pairs, one standalone reprint, 22 contingent versions and 35 scheduled future versions.
+
+## Tests
+
+**1,104 TypeScript and 58 Python tests passed**, with TypeScript checks and the production build. Twenty-six query cases were defined from official index wording before ranking evaluation. Additional tests cover exact citations across all nine chapters under both upcoming settings, chapter exclusions, ordinary treatment of hypothetical rulemaking language, and eleven actual-source fixtures. The five unrelated source responses must fail identity validation while their accepted replacements retain exact identities and dates. No parser, UI, ranking or alias changes. These checks are not an independent legal-search assessment.
+
+## Browser and publication
+
+Production-preview checks confirmed 21,025 ready headings; title-loan and safe-deposit-box searches returned their exact official source links. Chapter selection narrowed the results, a mismatched chapter excluded an exact citation, and the upcoming toggle preserved the ordinary result. The prior §348.251 warning/reprint pair remained separated correctly, and §361.933 remained an ordinary heading. At 390px and 320px there was no horizontal overflow; the long title-loan heading remained readable. The existing State bird example and ArrowDown navigation worked. Browser warning/error logs were empty.
+
+README, coverage, roadmap, source policy and fallback scope reflect the partial Title XXIV coverage. The live design remains unchanged. Workflow success and live-file verification are checked after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Title XXIII coverage — November 13, 2026
 
 ## Scope and source review

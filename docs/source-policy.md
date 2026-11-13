@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXIII, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXIII, part of XXIV, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -177,3 +177,9 @@ All 1,104 source versions passed strict checks and all fourteen indexes matched 
 Annotation-only warnings are recognized only for five reviewed exact identities and complete source paragraphs. The thirteen Chapter 348 warning policies require their exact source notices and additional annotation or contingent-date paragraphs. Missing or altered required evidence fails collection. The date alone does not decide applicability, and a hypothetical rulemaking clause does not establish a constitutional ruling.
 
 The standalone §348.253 reprint requires its exact source note, identity, source date, blank end and absence of a multiple-enactments banner. Both validators require one indexed version with those dates and no invented multiple-enactment flag. Its explanatory result paragraph uses the existing design. Twenty-four actual-source fixtures cover the eight pairs, five annotation warnings, standalone reprint and two ordinary rulemaking provisions.
+
+## Title XXIV — Banking and lending
+
+All 625 source versions and nine chapter indexes passed strict checks. Independent index retrievals matched exactly. Five initially rejected responses for **362.464, 369.079, 369.086, 370.030 and 370.366** displayed unrelated sections. Bounded exact-URL retries recovered the correct pages; the rejected responses remain archived. Eleven actual-source fixtures preserve those five rejected responses, their five accepted replacements and §361.933's hypothetical rulemaking language.
+
+The source review found no new exceptional version policy. This release adds scope and tests using the existing parser and search rules. Section identities, source dates, selected version links and earlier provenance remain intact. No conclusion about legal applicability follows merely from a successful heading match.

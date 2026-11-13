@@ -24,7 +24,8 @@
     "XXII",
     "XXIII",
     "XXXVII",
-    "XXXVIII"
+    "XXXVIII",
+    "XXIV"
   ],
   "chapters": [
     {
@@ -1733,6 +1734,60 @@
       "minimumVersions": 40
     },
     {
+      "chapter": "361",
+      "title": "Division of Finance and Powers of Director of Finance",
+      "category": "government",
+      "minimumVersions": 125
+    },
+    {
+      "chapter": "362",
+      "title": "Banks and Trust Companies",
+      "category": "government",
+      "minimumVersions": 204
+    },
+    {
+      "chapter": "364",
+      "title": "Retail Credit Financing Institutions",
+      "category": "government",
+      "minimumVersions": 19
+    },
+    {
+      "chapter": "365",
+      "title": "Motor Vehicle Time Sales",
+      "category": "government",
+      "minimumVersions": 19
+    },
+    {
+      "chapter": "367",
+      "title": "Pawnbrokers and Small Loans",
+      "category": "government",
+      "minimumVersions": 48
+    },
+    {
+      "chapter": "368",
+      "title": "Loan and Investment Companies",
+      "category": "government",
+      "minimumVersions": 8
+    },
+    {
+      "chapter": "369",
+      "title": "Savings and Loan Associations",
+      "category": "government",
+      "minimumVersions": 92
+    },
+    {
+      "chapter": "370",
+      "title": "Credit Unions",
+      "category": "government",
+      "minimumVersions": 85
+    },
+    {
+      "chapter": "371",
+      "title": "Development Finance Corporations",
+      "category": "government",
+      "minimumVersions": 25
+    },
+    {
       "chapter": "540",
       "title": "Grand Juries and Their Proceedings",
       "category": "procedure",
@@ -1993,7 +2048,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXIII, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXIII, part of XXIV, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",

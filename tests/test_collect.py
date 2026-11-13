@@ -631,3 +631,16 @@ class CorporationsSourceTests(unittest.TestCase):
             with self.assertRaises(ValueError):collect.validate(bad)
         bad=copy.deepcopy(data);del next(r for r in bad['records'] if r['id']=='348.280:18594')['hasConstitutionalWarning']
         with self.assertRaises(ValueError):collect.validate(bad)
+
+class BankingSourceTests(unittest.TestCase):
+    def entry(self,id):
+        import os
+        data=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text());record=next(r for r in data['records'] if r['id']==id)
+        return {k:record[k] for k in ['id','section','versionId','effectiveFrom','sourceUrl']}
+    def test_unrelated_source_responses_fail_and_exact_retry_pages_pass(self):
+        for id in ['362.464:19746','369.079:47586','369.086:19922','370.030:48623','370.366:20079']:
+            e=self.entry(id);name=id.replace(':','-');source=Path(f'tests/fixtures/banking-{name}.html').read_text();r=collect.parse_section(source,e,'2026-11-13T11:55:00+00:00');self.assertEqual(r['id'],id);self.assertEqual(r['sourceUrl'],e['sourceUrl']);self.assertEqual(r['effectiveFrom'],e['effectiveFrom'])
+            rejected=Path(f'tests/fixtures/banking-rejected-{name}.html').read_text()
+            with self.assertRaisesRegex(ValueError,'Unexpected heading'):collect.parse_section(rejected,e,'2026-11-13T11:55:00+00:00')
+    def test_hypothetical_rulemaking_condition_does_not_become_a_constitutional_warning(self):
+        e=self.entry('361.933:54889');source=Path('tests/fixtures/banking-361.933-54889.html').read_text();self.assertIn('subsequently held unconstitutional',source);r=collect.parse_section(source,e,'2026-11-13T11:55:00+00:00');self.assertFalse(r.get('hasConstitutionalWarning'));self.assertFalse(r.get('hasContingentEffectiveDate'));self.assertEqual(r['effectiveFrom'],'2024-08-28')
