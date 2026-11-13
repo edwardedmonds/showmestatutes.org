@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXVI, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXVIII, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -205,3 +205,9 @@ All fifteen chapter indexes and 1,595 accepted pages pass strict validation. Art
 The warning policy requires the exact identity and source date of **407.1610:23330**, its complete Revisor note and the associated 2016 annotation. Removing either note, altering the identity/date, or dropping its warning flag fails validation. Notes that explicitly reject an unconstitutionality claim or merely describe a hypothetical rulemaking condition are not converted into warnings. All eleven rejected responses remain archived: nine unrelated pages and two 407.1610 warning pages that now pass the reviewed policy. Correct exact-URL replacements are tested against unrelated responses; thirty actual-source fixtures also retain both full article indexes and the reviewed annotations. No dates, section identities or controlling versions were inferred.
 
 The exact annotation on **416.615:23820**, effective August 28, 1995, says the 1995 amendment deleting “or effect” was held unconstitutional. It appears in the warning group with an explanation that this concerns the amendment and does not establish that the whole section is invalid. The complete annotation is required by validation. No alternative version or end date was inferred.
+
+## Titles XXVII and XXVIII — Debtor-creditor and contractual relations
+
+All twelve indexes and 410 accepted source pages pass strict checks against independent index rechecks. The review found no new source exception requiring a policy change. Initially rejected responses for **436.405:24311** and **436.470:24328** displayed unrelated sections; exact-URL replacements passed. Four actual-source fixtures require those unrelated pages to fail identity validation and their replacements to retain exact identities and dates. Both responses remain archived.
+
+This release adds scope and tests using the existing parser, citation handling, warning policy and search ranking. All prior records and chapter provenance remain unchanged.

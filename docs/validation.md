@@ -1,3 +1,23 @@
+# Debtor-creditor and contracts coverage — November 13, 2026
+
+## Scope and source review
+
+All twelve indexes in Titles XXVII and XXVIII, Chapters **425–436**, add **410 sections and 410 source versions**. The combined snapshot contains **25,146 sections, 25,227 source versions and 381 chapter indexes**: 372 populated and nine reviewed empty. **87 of 468 catalog links remain**. All listed indexes in Titles I–XXVIII, XXXVII and XXXVIII are accounted for.
+
+All twelve strict original/recheck comparisons and every accepted page passed. Combined offline validation and gated promotion passed. All 24,817 prior records and 369 chapter-manifest objects remain unchanged. The change report contains 410 additions, no prior changes and no removals. Two unrelated responses in Chapter 436 remain archived alongside their correct exact-URL replacements. No new exceptional version policy was needed; earlier warnings, reprints, contingent versions and conflicting enactments remain intact.
+
+## Tests
+
+**1,281 TypeScript and 71 Python tests passed**, with TypeScript and production-build checks. Thirty-four query cases were defined from official source headings before ranking evaluation. Tests also cover exact citations across all twelve chapters under both upcoming settings, chapter exclusions, and four actual-source fixtures for unrelated-response rejection and correct source identities/dates. One broad query, “electronic records electronic signatures,” initially expected 432.230 first across all chapters. Source review confirmed 409.1-105 has the exact heading “Electronic records and signatures”; the broad expectation now requires it first and also requires 432.220 and 432.230 among the results. The Chapter 432 expectation stays unchanged. The other 33 query cases passed unchanged. No query wording, parser, ranking, alias, citation or interface changes. The earlier campground singular/plural limitation remains documented and unresolved. These are development tests, not an independent legal-search assessment.
+
+## Browser and publication
+
+Production-preview browser showed 25,146 ready headings. Debt-adjuster bond search found 425.027:23918, stayed within Chapter 425 and was excluded by Chapter 426. The electronic-signatures query returned 432.230 and 432.220 within Chapter 432, and the exact-title 409.1-105 first across all chapters. Lowercase UCC input preserved 400.2A-101:22749. The existing 416.615 amendment warning and explanation remained separate with the upcoming toggle. The preneed-contract query found 436.450:24321. Views at 390px and 320px had no horizontal overflow. Seat belts example and ArrowDown navigation passed; console had no warnings or errors. Existing design unchanged.
+
+README, coverage, roadmap, source policy and fallback scope reflect Titles XXVII and XXVIII. Main-branch workflow success and live assets are verified after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Trade and commerce coverage — November 13, 2026
 
 ## Scope and source review

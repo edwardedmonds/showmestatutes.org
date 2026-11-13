@@ -20,7 +20,7 @@ Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no
 
 **Statewide heading coverage is the goal. It isn't finished.**
 
-The November 13, 2026 collection contains **24,736 distinct sections and 24,817 source versions** across **369 chapter indexes**. Three hundred sixty have headings; Chapters 152, 203, 255, 280, 312, 318, 342, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **99** outside this collection at this check.
+The November 13, 2026 collection contains **25,146 distinct sections and 25,227 source versions** across **381 chapter indexes**. Three hundred seventy-two have headings; Chapters 152, 203, 255, 280, 312, 318, 342, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **87** outside this collection at this check.
 
 | Area | Imported scope |
 | --- | --- |
@@ -46,10 +46,12 @@ The November 13, 2026 collection contains **24,736 distinct sections and 24,817 
 | Banking, credit, loans, development finance and insurance | Title XXIV: Chapters 361, 362, 364, 365, 367–371 and 374–385 |
 | Utilities and carriers | Title XXV: Chapters 386–394 |
 | Trade and commerce | Title XXVI: Chapters 400, 402–404, 407–409, 411, 413–417, 419 and 421 |
+| Debtor-creditor relations | Title XXVII: Chapters 425–430 |
+| Contracts and contractual relations | Title XXVIII: Chapters 431–436 |
 | Criminal procedure | Title XXXVII: Chapters 540–552 |
 | Crimes, punishment, peace officers and public defenders | Title XXXVIII: Chapters 556–579, 589, 590, 595 and 600 |
 
-The latest batch adds **1,595 sections and 1,595 source versions** from all fifteen chapters in Title XXVI. It covers the Uniform Commercial Code, securities, trusts and powers of attorney, consumer protection, lending, warehouses, weights and measures, fuel, trademarks, lodging and bedding labels. Article citations such as `400.2A-101` keep their exact source identity; lowercase input works too. An asphalt-shingle section and a fuel-pricing amendment carry Revisor constitutional warnings and appear in the warning group with their source context. Titles I–XXVI are now accounted for; debtor-creditor relations in Title XXVII are next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
+The latest batch adds **410 sections and 410 source versions** from all twelve chapters in Titles XXVII and XXVIII. It covers debt adjustment, assignments for creditors, fraudulent transfers, liens, contracts, electronic signatures, sureties, arbitration and other contractual arrangements. Titles I–XXVIII are now accounted for; ownership and conveyance of property in Title XXIX are next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
 
 These are state statute headings. The collection doesn't include local ordinances, court rules, regulations, constitutional provisions, federal law, or a complete historical archive. Chapter 300 is the state's Model Traffic Ordinance; its presence doesn't establish what a particular city has adopted.
 
@@ -57,7 +59,7 @@ Each chapter and source version keeps its retrieval date and response hash. Addi
 
 ## What has been checked
 
-The latest trade and commerce expansion passed **1,246 TypeScript tests and 70 Python tests**, TypeScript checks, and the production build. All fifteen new chapter indexes matched a second retrieval. Browser checks covered new searches, chapter boundaries, article citations, exact source links and constitutional warnings, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
+The latest debtor-creditor and contracts expansion passed **1,281 TypeScript tests and 71 Python tests**, TypeScript checks, and the production build. All twelve new chapter indexes matched a second retrieval. Browser checks covered new searches, chapter boundaries, article citations, exact source links and constitutional warnings, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
 
 The collection process checks every listed version against its official page, then retrieves the new chapter indexes again to check for changes. Tests cover search relevance, exact citations, chapter boundaries, source identities, and version handling. A failed validation blocks publication.
 

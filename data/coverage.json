@@ -26,6 +26,8 @@
     "XXIV",
     "XXV",
     "XXVI",
+    "XXVII",
+    "XXVIII",
     "XXXVII",
     "XXXVIII"
   ],
@@ -2006,6 +2008,78 @@
       "minimumVersions": 10
     },
     {
+      "chapter": "425",
+      "title": "Debt Adjusters and Collection Agencies",
+      "category": "government",
+      "minimumVersions": 8
+    },
+    {
+      "chapter": "426",
+      "title": "Assignment for Benefit of Creditors",
+      "category": "government",
+      "minimumVersions": 41
+    },
+    {
+      "chapter": "427",
+      "title": "Creditor Protection",
+      "category": "government",
+      "minimumVersions": 24
+    },
+    {
+      "chapter": "428",
+      "title": "Fraudulent Conveyances and Liens",
+      "category": "government",
+      "minimumVersions": 19
+    },
+    {
+      "chapter": "429",
+      "title": "Statutory Liens Against Real Estate",
+      "category": "government",
+      "minimumVersions": 70
+    },
+    {
+      "chapter": "430",
+      "title": "Statutory Liens Against Personalty — Preferred Claims",
+      "category": "government",
+      "minimumVersions": 36
+    },
+    {
+      "chapter": "431",
+      "title": "General Provisions as to Contracts",
+      "category": "government",
+      "minimumVersions": 34
+    },
+    {
+      "chapter": "432",
+      "title": "Contracts Required to Be in Writing",
+      "category": "government",
+      "minimumVersions": 26
+    },
+    {
+      "chapter": "433",
+      "title": "Suretyship",
+      "category": "government",
+      "minimumVersions": 22
+    },
+    {
+      "chapter": "434",
+      "title": "Contracts Against Public Policy",
+      "category": "government",
+      "minimumVersions": 14
+    },
+    {
+      "chapter": "435",
+      "title": "Arbitration",
+      "category": "government",
+      "minimumVersions": 27
+    },
+    {
+      "chapter": "436",
+      "title": "Special Purpose Contracts",
+      "category": "government",
+      "minimumVersions": 89
+    },
+    {
       "chapter": "540",
       "title": "Grand Juries and Their Proceedings",
       "category": "procedure",
@@ -2266,7 +2340,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXVI, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXVIII, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",

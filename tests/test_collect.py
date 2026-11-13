@@ -724,3 +724,11 @@ class CommerceSourceTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError,'Unexpected heading'):collect.parse_section(str(soup),e,'2026-11-13T12:50:00+00:00')
         soup=BeautifulSoup(source,'html.parser');nav=soup.select_one('#farw') or soup.select_one('#barw');nav['href']=nav['href'].replace(e['versionId'],'999999')
         with self.assertRaisesRegex(ValueError,'Wrong selected version'):collect.parse_section(str(soup),e,'2026-11-13T12:50:00+00:00')
+
+class ObligationsSourceTests(unittest.TestCase):
+    def test_unrelated_responses_fail_and_exact_retries_preserve_identity_and_dates(self):
+        import os
+        data=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text())
+        for id in ['436.405:24311','436.470:24328']:
+            record=next(r for r in data['records'] if r['id']==id);e={k:record[k] for k in ['id','section','versionId','effectiveFrom','sourceUrl']};name=id.replace(':','-');source=Path(f'tests/fixtures/obligations-{name}.html').read_text();r=collect.parse_section(source,e,'2026-11-13T13:05:00+00:00');self.assertEqual(r['id'],id);self.assertEqual(r['sourceUrl'],e['sourceUrl']);self.assertEqual(r['effectiveFrom'],e['effectiveFrom'])
+            with self.assertRaisesRegex(ValueError,'Unexpected heading'):collect.parse_section(Path(f'tests/fixtures/obligations-rejected-{name}.html').read_text(),e,'2026-11-13T13:05:00+00:00')
