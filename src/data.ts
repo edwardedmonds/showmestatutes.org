@@ -55,6 +55,7 @@ export function assertDataset(value: unknown): asserts value is Dataset {
   for (const r of d.records) {
     const headingException = coverage.indexHeadingExceptions.find(p => p.id === r?.id);
     const warning = coverage.constitutionalWarnings.find(p => p.id === r?.id);
+    const standalone = coverage.standaloneReprints.find(p => p.id === r?.id);
     const contingentPolicy = coverage.contingentEnactments.find(c => c.section === r?.section);
     const delayed = reviewedOverlaps.find(c => c.section === r?.section)?.versions.find(v => v.versionId === r?.versionId);
     const contingent = contingentPolicy?.versions.find(v => v.versionId === r?.versionId);
@@ -76,6 +77,7 @@ export function assertDataset(value: unknown): asserts value is Dataset {
       || (r.hasConstitutionalWarning !== undefined && r.hasConstitutionalWarning !== true)
       || Boolean(r.hasConstitutionalWarning) !== Boolean(warning)
       || (warning && r.effectiveFrom !== warning.effectiveFrom)
+      || (standalone && (r.effectiveFrom !== standalone.effectiveFrom || r.effectiveTo !== standalone.effectiveTo || r.multipleEnactments || r.hasConstitutionalWarning))
       || !validDate(r.effectiveFrom) || (r.effectiveTo !== null && (!validDate(r.effectiveTo) || (r.effectiveTo <= r.effectiveFrom && !r.effectiveEndDateIsPlaceholder)))
       || !Number.isFinite(Date.parse(r.sourceCheckedAt)) || !/^[a-f0-9]{64}$/.test(r.sourceSha256)
       || r.sourceUrl !== `https://revisor.mo.gov/main/OneSection.aspx?section=${r.section}&bid=${r.versionId}`) {
@@ -85,6 +87,7 @@ export function assertDataset(value: unknown): asserts value is Dataset {
     sections.set(r.section, [...(sections.get(r.section) ?? []), r]);
   }
   if (coverage.constitutionalWarnings.some(p => !ids.has(p.id))) throw new Error('Missing reviewed constitutional warning');
+  if (coverage.standaloneReprints.some(p => !ids.has(p.id) || sections.get(p.section)?.length !== 1)) throw new Error('Missing or duplicated standalone reprint');
   if (!Array.isArray(d.manifest.chapters) || d.manifest.chapters.map(c => c.chapter).join() !== d.manifest.coverage.join()) throw new Error('Missing chapter provenance');
   for (const c of d.manifest.chapters) {
     const policy = chapterPolicy.find(p => p.chapter === c.chapter)!;
@@ -150,4 +153,8 @@ export function enactmentNotice(record: Statute): string | undefined {
 
 export function constitutionalNotice(record: Statute): string | undefined {
   return coverage.constitutionalWarnings.find(p => p.id === record.id)?.displayNotice;
+}
+
+export function standaloneReprintNotice(record: Statute): string | undefined {
+  return coverage.standaloneReprints.find(p => p.id === record.id)?.displayNotice;
 }

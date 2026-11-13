@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXII, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXIII, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -169,3 +169,11 @@ All 1,213 source versions passed strict checks and all 23 indexes matched indepe
 The collector accepts a direct repeal-heading element only for the two exact reviewed identities, requiring their complete repeal text, source title, selected version, source date, history rows and conditional notice. Both validators require the reviewed end dates and explicit placeholder-end flags. The equal start/end dates on the repeal entries are accepted only through that exact policy. Unknown, missing or altered flags, dates and repeal titles fail validation. Ordinary intervals retain their existing checks.
 
 Fourteen actual-source fixtures cover both conditional repeal pairs, their condition section, three warned/reprinted versions, source notes recording fulfilled conditions, compact dates and the empty Chapter 342 index. Search tests also check dates at and beyond 2099 to ensure placeholders do not become calendar deadlines. The release check passes the candidate snapshot to Python as well as TypeScript tests; change reports include placeholder-end metadata.
+
+## Title XXIII — Corporations and partnerships
+
+All 1,104 source versions passed strict checks and all fourteen indexes matched independent rechecks. Nineteen rejected responses remain archived, including initially unreviewed warning/reprint pages and three missing, date-mismatched or wrong-page responses recovered by bounded exact-URL retries.
+
+Annotation-only warnings are recognized only for five reviewed exact identities and complete source paragraphs. The thirteen Chapter 348 warning policies require their exact source notices and additional annotation or contingent-date paragraphs. Missing or altered required evidence fails collection. The date alone does not decide applicability, and a hypothetical rulemaking clause does not establish a constitutional ruling.
+
+The standalone §348.253 reprint requires its exact source note, identity, source date, blank end and absence of a multiple-enactments banner. Both validators require one indexed version with those dates and no invented multiple-enactment flag. Its explanatory result paragraph uses the existing design. Twenty-four actual-source fixtures cover the eight pairs, five annotation warnings, standalone reprint and two ordinary rulemaking provisions.

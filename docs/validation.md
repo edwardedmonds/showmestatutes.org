@@ -1,3 +1,25 @@
+# Title XXIII coverage — November 13, 2026
+
+## Scope and source review
+
+Chapters **347–360** add **1,096 distinct sections and 1,104 source versions**, completing all fourteen listed Title XXIII indexes. The combined snapshot contains **20,400 sections, 20,480 versions and 324 chapter indexes**: 315 populated and nine reviewed empty indexes. **144 of 468 catalog links remain**. Titles I–XXIII are accounted for; Title XXIV is next.
+
+All fourteen indexes matched independent second retrievals through the strict parser. Combined offline collection passed; all 19,376 prior records and 310 chapter-manifest objects remain unchanged. The change report has 1,104 additions, no removals and no prior changes. Nineteen rejected responses remain archived; three missing, date-mismatched or wrong-page responses recovered through bounded exact-URL retries, and sixteen warning/reprint responses pass after exact review.
+
+Chapter 348 preserves eight warned/reprinted pairs, five exact annotation-only warnings, and a standalone reprint with only one indexed version. Thirteen warned 2012 versions retain their source dates and contingent-date evidence without implying applicability or appearing twice in different result groups. §348.280's note says S.B.8 did not pass. Earlier reprints retain their dates and blank history ends. Totals: 68 warned versions, 36 reprinted pairs, one standalone reprint, 22 contingent versions and 35 scheduled future versions.
+
+## Tests
+
+**1,076 TypeScript and 56 Python tests** passed, with TypeScript checks and the production build. Thirty-seven query cases were defined from official index wording before ranking evaluation. Additional checks cover all fourteen chapters' exact citations, eight warning/reprint pairs under both upcoming settings, five annotation warnings, standalone reprint behavior, validator rejection of changed dates/flags, and twenty-four actual-source fixtures. Mutating or removing required source notices must fail collection. Hypothetical rulemaking boilerplate remains ordinary. One initial query matched the nearly identical registered-office headings in §§355.166 and 355.786. After source review, its expectation requires both in the first two results; the query text is unchanged. No alias or ranking changes. These checks are not an independent legal-search assessment.
+
+## Browser and publication
+
+Production-preview checks confirmed 20,400 ready headings, the new college-savings-bond search and exact source link, a warned/reprinted pair, the annotation-only §348.280 warning and the single §348.253 reprint explanation. The upcoming toggle preserved the pair, and Chapter 347 excluded Chapter 348 results. At 390px and 320px, there was no horizontal overflow; the long chapter label and reprint explanation remained readable. The existing first-degree-murder example and ArrowDown keyboard navigation worked. Browser warning/error logs were empty.
+
+README, coverage, roadmap, source policy and fallback scope reflect this release. The live design remains unchanged; a standalone reprint has an explanatory paragraph using the existing result layout. Workflow success and live-file verification are checked after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Title XXII coverage — November 13, 2026
 
 ## Scope and source review

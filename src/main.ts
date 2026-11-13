@@ -1,5 +1,5 @@
 import './style.css';
-import { assertDataset, constitutionalNotice, enactmentNotice, todayInMissouri, type Dataset } from './data';
+import { assertDataset, constitutionalNotice, standaloneReprintNotice, enactmentNotice, todayInMissouri, type Dataset } from './data';
 import { createSearch, loadIndex, type Match } from './search';
 
 const form = document.querySelector<HTMLFormElement>('#search-form')!;
@@ -43,6 +43,8 @@ function card(match: Match, future: boolean) {
   if (r.headingSource === 'chapter-index') item.append(element('p', 'Heading supplied by the official chapter index; this version’s source page omits its heading.', 'version'));
   const sourceNotice = constitutionalNotice(r);
   if (sourceNotice) item.append(element('p', sourceNotice, 'version'));
+  const reprintNotice = standaloneReprintNotice(r);
+  if (reprintNotice) item.append(element('p', reprintNotice, 'version'));
   if (r.multipleEnactments) item.append(element('p', `Multiple enactments · source version ${r.versionId}. ${enactmentNotice(r)}`, 'version'));
   if (r.headingMarker) item.append(element('p', 'The official source marks this section with a footnote. Read the source notes.', 'version'));
   const official = element('a', 'Read this version at the Revisor ↗', 'official-link');

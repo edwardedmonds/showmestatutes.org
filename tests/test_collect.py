@@ -595,3 +595,39 @@ class ProfessionsSourceTests(unittest.TestCase):
                 with self.assertRaises(ValueError):collect.validate(bad)
         bad=copy.deepcopy(data);r=next(r for r in bad['records'] if r['section']=='1.010');r['effectiveEndDateIsPlaceholder']=True
         with self.assertRaises(ValueError):collect.validate(bad)
+
+class CorporationsSourceTests(unittest.TestCase):
+    def entry(self, id):
+        import os
+        data=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text())
+        record=next(r for r in data['records'] if r['id']==id)
+        return {k:record[k] for k in ['id','section','versionId','effectiveFrom','sourceUrl']}
+    def test_warned_reprinted_and_annotation_pages_require_their_exact_notices(self):
+        for p in collect.POLICY['constitutionalWarnings']:
+            if not p['id'].startswith('348.'):continue
+            e=self.entry(p['id']);source=Path('tests/fixtures/corporations-'+p['id'].replace(':','-')+'.html').read_text()
+            result=collect.parse_section(source,e,'2026-11-13T11:45:00+00:00');self.assertTrue(result['hasConstitutionalWarning']);self.assertIsNone(result['effectiveTo']);self.assertFalse(result.get('hasContingentEffectiveDate'))
+            soup=collect.BeautifulSoup(source,'html.parser')
+            for notice in [p['sourceNotice']]+p.get('requiredSourceNotices',[]):
+                changed=collect.BeautifulSoup(str(soup),'html.parser');paragraph=next(t for t in changed.select('p') if collect.clean(t.get_text(' '))==notice);paragraph.decompose()
+                with self.assertRaises(ValueError):collect.parse_section(str(changed),e,'2026-11-13T11:45:00+00:00')
+        for p in collect.POLICY['reprintedEnactments']:
+            if not p['section'].startswith('348.'):continue
+            v=p['versions'][1];id=p['section']+':'+v['versionId'];e=self.entry(id);source=Path('tests/fixtures/corporations-'+id.replace(':','-')+'.html').read_text();result=collect.parse_section(source,e,'2026-11-13T11:45:00+00:00');self.assertTrue(result['multipleEnactments']);self.assertFalse(result.get('hasConstitutionalWarning'))
+            with self.assertRaises(ValueError):collect.parse_section(source.replace('This section is reprinted','This section is omitted'),e,'2026-11-13T11:45:00+00:00')
+    def test_standalone_reprint_requires_exact_notice_and_does_not_invent_another_version(self):
+        e=self.entry('348.253:18575');source=Path('tests/fixtures/corporations-348.253-18575.html').read_text();result=collect.parse_section(source,e,'2026-11-13T11:45:00+00:00');self.assertFalse(result.get('multipleEnactments'));self.assertFalse(result.get('hasConstitutionalWarning'));self.assertIsNone(result['effectiveTo'])
+        for bad in [source.replace('This section is reprinted','This section is omitted'),source.replace('</body>','<p>There are multiple enactments of 348.253</p></body>')]:
+            with self.assertRaises(ValueError):collect.parse_section(bad,e,'2026-11-13T11:45:00+00:00')
+    def test_hypothetical_rulemaking_boilerplate_is_not_a_constitutional_warning(self):
+        for path in Path('tests/fixtures').glob('corporations-348.*.html'):
+            if not any('-'+sec+'-' in path.name for sec in ['348.235','348.407']):continue
+            section,bid=path.stem.removeprefix('corporations-').split('-');e=self.entry(section+':'+bid);source=path.read_text();self.assertIn('unconstitutional',source);r=collect.parse_section(source,e,'2026-11-13T11:45:00+00:00');self.assertFalse(r.get('hasConstitutionalWarning'))
+    def test_dataset_validator_rejects_changed_standalone_reprint_and_missing_warning(self):
+        import copy,os
+        data=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text())
+        for field,value in [('effectiveFrom','1996-08-28'),('effectiveTo','2012-02-03'),('multipleEnactments',True)]:
+            bad=copy.deepcopy(data);next(r for r in bad['records'] if r['id']=='348.253:18575')[field]=value
+            with self.assertRaises(ValueError):collect.validate(bad)
+        bad=copy.deepcopy(data);del next(r for r in bad['records'] if r['id']=='348.280:18594')['hasConstitutionalWarning']
+        with self.assertRaises(ValueError):collect.validate(bad)

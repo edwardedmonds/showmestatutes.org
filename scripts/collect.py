@@ -180,9 +180,19 @@ def parse_section(html, entry, checked_at):
                              and 'was declared unconstitutional' in clean(p.get_text(' ')).lower()
                              and 'the other printed version of this section' in clean(p.get_text(' ')).lower()
                              for p in soup.select('p')))
+    # Annotation-only warnings are accepted only for an exact reviewed identity and paragraph.
+    source_warning = source_warning or bool(warning and warning.get('sourceKind') == 'annotation'
+        and any(clean(p.get_text(' ')) == warning['sourceNotice'] for p in soup.select('p')))
     if source_warning != bool(warning) or (warning and (entry['effectiveFrom'] != warning['effectiveFrom']
-            or warning['sourceNotice'] not in clean(soup.get_text(' ')))):
+            or warning['sourceNotice'] not in clean(soup.get_text(' '))
+            or any(notice not in [clean(p.get_text(' ')) for p in soup.select('p')]
+                   for notice in warning.get('requiredSourceNotices', [])))):
         raise ValueError('Unverified constitutional warning: ' + entry['id'])
+    standalone = next((p for p in POLICY.get('standaloneReprints', []) if p['id'] == entry['id']), None)
+    if standalone and (entry['effectiveFrom'] != standalone['effectiveFrom'] or until != standalone['effectiveTo']
+            or standalone['sourceNotice'] not in [clean(p.get_text(' ')) for p in soup.select('p')]
+            or f"There are multiple enactments of {entry['section']}" in clean(soup.get_text(' '))):
+        raise ValueError('Unverified standalone reprint: ' + entry['id'])
     chapter = entry['section'].split('.')[0]
     return {**{k: v for k, v in entry.items() if k != 'indexHeading'},
             **({'headingSource': 'chapter-index'} if exception else {}),
@@ -251,6 +261,10 @@ def validate(dataset, previous=None):
                 or bool(record.get('hasConstitutionalWarning')) != bool(warning)
                 or (warning and record['effectiveFrom'] != warning['effectiveFrom'])):
             raise ValueError('Unverified constitutional warning marker')
+        standalone = next((p for p in POLICY.get('standaloneReprints', []) if p['id'] == record['id']), None)
+        if standalone and (record['effectiveFrom'] != standalone['effectiveFrom'] or record['effectiveTo'] != standalone['effectiveTo']
+                or record.get('multipleEnactments') or record.get('hasConstitutionalWarning')):
+            raise ValueError('Unverified standalone reprint record')
         if record['effectiveTo']:
             datetime.strptime(record['effectiveTo'], '%Y-%m-%d')
             if record['effectiveTo'] <= record['effectiveFrom'] and not record.get('effectiveEndDateIsPlaceholder'):
@@ -258,6 +272,8 @@ def validate(dataset, previous=None):
         grouped[record['section']].append(record)
     if any(p['id'] not in ids for p in POLICY.get('constitutionalWarnings', [])):
         raise ValueError('Missing reviewed constitutional warning')
+    if any(p['id'] not in ids or len(grouped[p['section']]) != 1 for p in POLICY.get('standaloneReprints', [])):
+        raise ValueError('Missing or duplicated standalone reprint')
     summaries = manifest.get('chapters', [])
     if [c['chapter'] for c in summaries] != list(CHAPTERS):
         raise ValueError('Missing chapter provenance')

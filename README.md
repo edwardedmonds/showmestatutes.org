@@ -12,7 +12,7 @@ The search starts with official section headings and a small set of documented c
 
 This choice gives heading matches priority over passing mentions buried in a statute's body. It also sets a real limit: a concept that appears only in the body may not turn up here. The chapter selector helps narrow a broad search, and every result links back to its official source version.
 
-Dates need more care than simply choosing the newest record. Upcoming versions have their own group. Contingent versions stay separate when the Revisor uses a placeholder date. Versions carrying the Revisor's constitutional warning appear in a labeled group, outside ordinary current and upcoming results. Placeholder end dates are preserved without presenting them as scheduled expirations. Where the source reprints an earlier version after a court ruling, both source links remain available with an explanation. The site preserves those distinctions without deciding legal applicability for you.
+Dates need more care than simply choosing the newest record. Upcoming versions have their own group. Contingent versions stay separate when the Revisor uses a placeholder date. Versions carrying the Revisor's constitutional warning appear in a labeled group, outside ordinary current and upcoming results. Placeholder end dates are preserved without presenting them as scheduled expirations. Where the source reprints an earlier version after a court ruling, the indexed source links remain available with an explanation. A reprint note does not imply that the chapter index lists two versions. The site preserves those distinctions without deciding legal applicability for you.
 
 Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no accounts, analytics, paid search backend, or AI service. Each build requests data files named for its snapshot to avoid mixing cached releases. The build includes a prebuilt index; the browser can rebuild it from the validated snapshot if that index is missing or mismatched.
 
@@ -20,7 +20,7 @@ Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no
 
 **Statewide heading coverage is the goal. It isn't finished.**
 
-The November 13, 2026 collection contains **19,304 distinct sections and 19,376 source versions** across **310 chapter indexes**. Three hundred one have headings; Chapters 152, 203, 255, 280, 312, 318, 342, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **158** outside this collection at this check.
+The November 13, 2026 collection contains **20,400 distinct sections and 20,480 source versions** across **324 chapter indexes**. Three hundred fifteen have headings; Chapters 152, 203, 255, 280, 312, 318, 342, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **144** outside this collection at this check.
 
 | Area | Imported scope |
 | --- | --- |
@@ -42,10 +42,11 @@ The November 13, 2026 collection contains **19,304 distinct sections and 19,376 
 | Alcoholic beverages | Title XX: Chapters 311–312 |
 | Public safety and morals | Title XXI: Chapters 313–323 |
 | Occupations and professions | Title XXII: Chapters 324–346 |
+| Corporations, associations and partnerships | Title XXIII: Chapters 347–360 |
 | Criminal procedure | Title XXXVII: Chapters 540–552 |
 | Crimes, punishment, peace officers and public defenders | Title XXXVIII: Chapters 556–579, 589, 590, 595 and 600 |
 
-The latest batch adds **1,210 sections and 1,213 source versions**, completing Title XXII's 23 listed chapter indexes. It covers professional registration, health professions, architecture, engineering, real estate, veterinary medicine and other licensed occupations. Two conditional repeal entries remain paired with their earlier provisions; placeholder dates are identified as such. Chapter 342 currently lists no sections. Titles I–XXII are now accounted for; corporations in Title XXIII are next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
+The latest batch adds **1,096 sections and 1,104 source versions**, completing Title XXIII's 14 listed chapter indexes. It covers corporations, partnerships, cooperatives and development authorities. Chapter 348 includes eight warned amendments with reprinted earlier versions, five warnings recorded in annotations, and one separately explained reprint with only one indexed version. Their source dates and conditions remain attached. Titles I–XXIII are now accounted for; banking in Title XXIV is next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
 
 These are state statute headings. The collection doesn't include local ordinances, court rules, regulations, constitutional provisions, federal law, or a complete historical archive. Chapter 300 is the state's Model Traffic Ordinance; its presence doesn't establish what a particular city has adopted.
 
@@ -53,7 +54,7 @@ Each chapter and source version keeps its retrieval date and response hash. Addi
 
 ## What has been checked
 
-The latest occupations and professions expansion passed **1,034 TypeScript tests and 52 Python tests**, TypeScript checks, and the production build. All twenty-three new chapter indexes matched a second retrieval. Browser checks covered new searches, chapter boundaries, conditional repeals, placeholder end dates and warned versions, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
+The latest corporations and partnerships expansion passed **1,076 TypeScript tests and 56 Python tests**, TypeScript checks, and the production build. All fourteen new chapter indexes matched a second retrieval. Browser checks covered new searches, chapter boundaries, annotation warnings, paired and standalone reprints, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
 
 The collection process checks every listed version against its official page, then retrieves the new chapter indexes again to check for changes. Tests cover search relevance, exact citations, chapter boundaries, source identities, and version handling. A failed validation blocks publication.
 
