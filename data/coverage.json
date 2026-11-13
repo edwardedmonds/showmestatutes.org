@@ -24,6 +24,7 @@
     "XXII",
     "XXIII",
     "XXIV",
+    "XXV",
     "XXXVII",
     "XXXVIII"
   ],
@@ -1860,6 +1861,60 @@
       "minimumVersions": 56
     },
     {
+      "chapter": "386",
+      "title": "Public Service Commission",
+      "category": "government",
+      "minimumVersions": 80
+    },
+    {
+      "chapter": "387",
+      "title": "Motor Carriers Generally",
+      "category": "government",
+      "minimumVersions": 58
+    },
+    {
+      "chapter": "388",
+      "title": "Railroad Corporations",
+      "category": "government",
+      "minimumVersions": 61
+    },
+    {
+      "chapter": "389",
+      "title": "Regulation of Railroad Corporations",
+      "category": "government",
+      "minimumVersions": 54
+    },
+    {
+      "chapter": "390",
+      "title": "Motor Carriers and Express Companies",
+      "category": "government",
+      "minimumVersions": 42
+    },
+    {
+      "chapter": "391",
+      "title": "Street Railroads",
+      "category": "government",
+      "minimumVersions": 7
+    },
+    {
+      "chapter": "392",
+      "title": "Telephone and Telegraph Companies",
+      "category": "government",
+      "minimumVersions": 68
+    },
+    {
+      "chapter": "393",
+      "title": "Gas, Electric, Water, Heating and Sewer Companies",
+      "category": "government",
+      "minimumVersions": 168
+    },
+    {
+      "chapter": "394",
+      "title": "Rural Electric Cooperatives",
+      "category": "government",
+      "minimumVersions": 34
+    },
+    {
       "chapter": "540",
       "title": "Grand Juries and Their Proceedings",
       "category": "procedure",
@@ -2120,7 +2175,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXIV, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXV, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",

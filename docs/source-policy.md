@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXIV, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXV, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -191,3 +191,9 @@ All 1,545 accepted pages and twelve indexes passed strict parsing; independently
 A reviewed `conflictingEnactments` policy preserves §376.1516's exact pair of identities, different effective dates, blank ends, multiple-enactment banners and distinct source notes. It uses the same strict overlap checks as other reviewed version pairs, with its own explanation. Both validators reject missing members, altered dates, inferred ends and missing multiple-enactment flags. Unknown overlaps still fail. The date difference does not establish that one version superseded the other.
 
 Six actual-source fixtures cover both enactments and four source-note cases. Missing or altered conflict notes or banners fail collection. Hypothetical rules, a condition affecting specified subdivisions and a note about another section's attempted repeal are not automatically classified as whole-section constitutional warnings or expirations.
+
+## Title XXV — Utilities and carriers
+
+All 572 source versions and nine chapter indexes passed strict checks against independently retrieved indexes. Three initially rejected responses for **386.800, 388.310 and 392.361** displayed unrelated sections. Exact-URL retries recovered the correct pages; both responses remain archived. Eight actual-source fixtures preserve the three rejected responses, their accepted replacements and the hypothetical rulemaking clauses in **390.021** and **393.1030**. Those conditional clauses are not actual constitutional rulings.
+
+This release adds scope and tests without changing the parser, search ranking, aliases or version policy. Exact source identities, dates and links remain required, and prior provenance is unchanged.

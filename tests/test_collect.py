@@ -666,3 +666,18 @@ class InsuranceSourceTests(unittest.TestCase):
             with self.assertRaises(ValueError):collect.validate(bad)
         bad=copy.deepcopy(data);bad['records']=[r for r in bad['records'] if r['id']!='376.1516:20990']
         with self.assertRaises(ValueError):collect.validate(bad)
+
+class UtilitiesSourceTests(unittest.TestCase):
+    def entry(self,id):
+        import os
+        data=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text());record=next(r for r in data['records'] if r['id']==id)
+        return {k:record[k] for k in ['id','section','versionId','effectiveFrom','sourceUrl']}
+    def test_unrelated_source_responses_fail_and_exact_retry_pages_pass(self):
+        for id in ['386.800:49595','388.310:21823','392.361:22033']:
+            e=self.entry(id);name=id.replace(':','-');source=Path(f'tests/fixtures/utilities-{name}.html').read_text();r=collect.parse_section(source,e,'2026-11-13T12:30:00+00:00');self.assertEqual(r['id'],id);self.assertEqual(r['sourceUrl'],e['sourceUrl']);self.assertEqual(r['effectiveFrom'],e['effectiveFrom'])
+            rejected=Path(f'tests/fixtures/utilities-rejected-{name}.html').read_text()
+            with self.assertRaisesRegex(ValueError,'Unexpected heading'):collect.parse_section(rejected,e,'2026-11-13T12:30:00+00:00')
+    def test_hypothetical_rulemaking_condition_does_not_become_a_constitutional_warning(self):
+        from bs4 import BeautifulSoup
+        for id in ['390.021:21925','393.1030:57330']:
+            e=self.entry(id);source=Path(f'tests/fixtures/utilities-{id.replace(":","-")}.html').read_text();self.assertIn('subsequently held unconstitutional',' '.join(BeautifulSoup(source,'html.parser').stripped_strings));r=collect.parse_section(source,e,'2026-11-13T12:30:00+00:00');self.assertFalse(r.get('hasConstitutionalWarning'));self.assertFalse(r.get('hasContingentEffectiveDate'));self.assertEqual(r['effectiveFrom'],e['effectiveFrom'])

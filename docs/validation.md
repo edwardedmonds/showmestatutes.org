@@ -1,3 +1,25 @@
+# Utilities and carriers coverage — November 13, 2026
+
+## Scope and source review
+
+All nine Title XXV chapter indexes, **386–394**, add **572 distinct sections and 572 source versions**. The combined snapshot contains **23,141 sections, 23,222 versions and 354 chapter indexes**: 345 populated and nine reviewed empty. **114 of 468 catalog links remain**. All listed indexes in Titles I–XXV, XXXVII and XXXVIII are accounted for.
+
+Every original and independently retrieved index passed strict comparison; all accepted pages passed strict parsing. Combined offline validation passed. All 22,650 prior records and 345 chapter-manifest objects remain unchanged. The change report has 572 additions, no removals and no prior changes. Three unrelated responses were rejected; accepted exact-URL replacements and rejected responses remain archived.
+
+No new version exception policy was needed. The hypothetical rulemaking clauses in 390.021 and 393.1030 remain ordinary, without mislabeling them as actual constitutional rulings. Earlier warnings, reprints, contingent versions and conflicting enactments are preserved unchanged.
+
+## Tests
+
+**1,168 TypeScript and 63 Python tests passed**, with TypeScript checks and the production build. Twenty-six query cases were defined from official index wording before ranking evaluation. Additional tests cover exact citations across all nine chapters under both upcoming settings, chapter exclusion and ordinary treatment of conditional rulemaking text. Eight actual-source fixtures require unrelated responses to fail identity validation and their accepted replacements to retain exact identities and dates. No ranking, aliases, parser or interface changes. These are development checks, not an independent legal-search assessment.
+
+## Browser and publication
+
+Production-preview browser showed 23,141 ready headings. The voice-over-internet registration query found §392.550:22058, stayed inside Chapter392 and was excluded by Chapter393. Both §376.1516 enactments remained available with their dates, links and conflict explanations under the upcoming toggle. §393.1030:57330 remained an ordinary result. A long utility heading fit 390px and320px viewports without horizontal overflow. The Seat belts example and ArrowDown result navigation passed. Console had no warnings or errors; existing design unchanged.
+
+README, coverage, roadmap, source policy and fallback scope reflect Title XXV coverage. Workflow success and live assets are checked after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Insurance coverage — November 13, 2026
 
 ## Scope and source review
