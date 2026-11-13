@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XVII, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -149,3 +149,9 @@ The source review distinguishes the identical-amendment note in §260.295 from a
 All 814 source versions passed strict individual checks and all twenty indexes matched independent rechecks. Chapter 280 is explicitly reviewed empty, retaining its Treated Timber Products title and cross-reference to Chapter 135. No repeal or transfer is inferred from the empty index.
 
 Initial responses for §§262.700, 267.169 and 281.265 displayed unrelated sections; §281.101 lacked its heading. Bounded exact-URL retries recovered the correct identities and dates. Accepted and rejected responses remain archived. No new parser or source-policy exceptions were required. Existing footnote markers, source dates and version identities remain intact.
+
+## Title XVIII — Labor
+
+All 599 source versions passed strict individual checks and all ten indexes matched independent rechecks. Initial responses for §§285.512 and 287.223 displayed unrelated sections; bounded exact-URL retries recovered the correct pages. Ten additional responses were retained when the worker first encountered the five unreviewed Chapter 288 warning pages. Those responses pass after exact warning-policy review. All twelve rejected responses remain archived.
+
+Five reviewed warning/reprint pairs preserve their exact Pestka notices, source identities, effective dates and blank history ends. The existing parser recognizes these warning banners and notes; no parser change was needed. Eleven source fixtures cover all ten versions plus §288.501. Its source note identifies a contingent effective date in subdivision (8), whose text conditions effectiveness of the entire section. The existing conditional-version flag keeps it outside ordinary current/upcoming results without inferring whether the condition occurred. The recorded date remains an ordinary source date, not a placeholder. Altered notices fail validation.

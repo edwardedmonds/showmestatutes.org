@@ -17,6 +17,7 @@
     "XV",
     "XVI",
     "XVII",
+    "XVIII",
     "XIX",
     "XXXVII",
     "XXXVIII"
@@ -1317,6 +1318,66 @@
       "minimumVersions": 45
     },
     {
+      "chapter": "285",
+      "title": "Employers and Employees Generally",
+      "category": "government",
+      "minimumVersions": 63
+    },
+    {
+      "chapter": "286",
+      "title": "Department of Labor and Industrial Relations",
+      "category": "government",
+      "minimumVersions": 17
+    },
+    {
+      "chapter": "287",
+      "title": "Workers' Compensation Law",
+      "category": "government",
+      "minimumVersions": 173
+    },
+    {
+      "chapter": "288",
+      "title": "Employment Security",
+      "category": "government",
+      "minimumVersions": 81
+    },
+    {
+      "chapter": "290",
+      "title": "Wages, Hours and Dismissal Rights",
+      "category": "government",
+      "minimumVersions": 70
+    },
+    {
+      "chapter": "291",
+      "title": "Industrial Inspection",
+      "category": "government",
+      "minimumVersions": 13
+    },
+    {
+      "chapter": "292",
+      "title": "Health and Safety of Employees",
+      "category": "government",
+      "minimumVersions": 69
+    },
+    {
+      "chapter": "293",
+      "title": "Mining Regulations",
+      "category": "government",
+      "minimumVersions": 68
+    },
+    {
+      "chapter": "294",
+      "title": "Child Labor",
+      "category": "government",
+      "minimumVersions": 24
+    },
+    {
+      "chapter": "295",
+      "title": "Labor Relations",
+      "category": "government",
+      "minimumVersions": 21
+    },
+    {
       "chapter": "300",
       "title": "Model Traffic Ordinance",
       "category": "transportation",
@@ -1625,7 +1686,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XVII, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -1989,6 +2050,22 @@
       "sourceNotice": "Contingent effective date, see § 210.650",
       "displayNotice": "The Revisor prints both versions because the amendment has a contingent effective date under section 210.650. The displayed 2007 date does not establish that the condition occurred. Read both versions and the official source notes.",
       "basis": "Both history rows have blank end dates. Section 210.650 states that the revised compact needs enactment by at least 35 states and its Revisor note says that has not occurred. Preserve the original dates without inventing an end date or resolving applicability."
+    },
+    {
+      "section": "288.501",
+      "versions": [
+        {
+          "versionId": "15289",
+          "effectiveFrom": "2009-06-12",
+          "dateIsPlaceholder": false,
+          "conditionPending": true
+        }
+      ],
+      "multipleEnactments": false,
+      "reviewedAt": "2026-11-13",
+      "sourceNotice": "*Subdivision (8) contains a contingent effective date. Subdivision (7) contains renewal and contingent expiration dates.",
+      "displayNotice": "The Revisor notes a certification condition in subdivision (8) and renewal and contingent expiration terms in subdivision (7). The recorded 2009 date alone does not resolve applicability. Read the official source conditions.",
+      "basis": "Subdivision (8) says the provisions of this section shall not take effect unless first certified by the United States Secretary of Labor. Preserve the ordinary banner/index date and blank end date. Group separately as conditional without deciding whether certification, renewal or expiration occurred; conditionPending is the existing technical flag for this unresolved applicability."
     }
   ],
   "delayedEnactments": [
@@ -2331,6 +2408,86 @@
         }
       ],
       "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "288.036",
+      "versions": [
+        {
+          "versionId": "15216",
+          "effectiveFrom": "2015-10-16",
+          "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Pestka et al. v. State , see 2016 annotation below."
+        },
+        {
+          "versionId": "33833",
+          "effectiveFrom": "2006-10-01",
+          "sourceNotice": "*Revisor's Note: This section is reprinted in accordance with section 3.066. House Bill 150 in 2015 amended this section and was vetoed by the Governor. The override of the Governor's veto of House Bill 150 was declared unconstitutional as a violation of Art. III, Sec. 32, of the Missouri Constitution (see 2016 annotation below), rendering the repeal and reenactment of this section ineffective."
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after the ruling on the override of the Governor’s veto of House Bill 150. The later version remains available with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "288.060",
+      "versions": [
+        {
+          "versionId": "15227",
+          "effectiveFrom": "2015-10-16",
+          "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Pestka et al. v. State , see 2016 annotation below."
+        },
+        {
+          "versionId": "33834",
+          "effectiveFrom": "2011-04-13",
+          "sourceNotice": "*Revisor's Note: This section is reprinted in accordance with section 3.066. House Bill 150 in 2015 amended this section and was vetoed by the Governor. The override of the Governor's veto of House Bill 150 was declared unconstitutional as a violation of Art. III, Sec. 32, of the Missouri Constitution (see 2016 annotation below), rendering the repeal and reenactment of this section ineffective."
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after the ruling on the override of the Governor’s veto of House Bill 150. The later version remains available with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "288.120",
+      "versions": [
+        {
+          "versionId": "15236",
+          "effectiveFrom": "2015-10-16",
+          "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Pestka et al. v. State , see 2016 annotation below."
+        },
+        {
+          "versionId": "33837",
+          "effectiveFrom": "2006-10-01",
+          "sourceNotice": "*Revisor's Note: This section is reprinted in accordance with section 3.066. House Bill 150 in 2015 amended this section and was vetoed by the Governor. The override of the Governor's veto of House Bill 150 was declared unconstitutional as a violation of Art. III, Sec. 32, of the Missouri Constitution (see 2016 annotation below), rendering the repeal and reenactment of this section ineffective."
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after the ruling on the override of the Governor’s veto of House Bill 150. The later version remains available with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "288.122",
+      "versions": [
+        {
+          "versionId": "15238",
+          "effectiveFrom": "2015-10-16",
+          "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Pestka et al. v. State , see 2016 annotation below."
+        },
+        {
+          "versionId": "33835",
+          "effectiveFrom": "2006-10-01",
+          "sourceNotice": "*Revisor's Note: This section is reprinted in accordance with section 3.066. House Bill 150 in 2015 amended this section and was vetoed by the Governor. The override of the Governor's veto of House Bill 150 was declared unconstitutional as a violation of Art. III, Sec. 32, of the Missouri Constitution (see 2016 annotation below), rendering the repeal and reenactment of this section ineffective."
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after the ruling on the override of the Governor’s veto of House Bill 150. The later version remains available with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "288.330",
+      "versions": [
+        {
+          "versionId": "15271",
+          "effectiveFrom": "2015-10-16",
+          "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Pestka et al. v. State , see 2016 annotation below."
+        },
+        {
+          "versionId": "33836",
+          "effectiveFrom": "2009-06-12",
+          "sourceNotice": "*Revisor's Note: This section is reprinted in accordance with section 3.066. House Bill 150 in 2015 amended this section and was vetoed by the Governor. The override of the Governor's veto of House Bill 150 was declared unconstitutional as a violation of Art. III, Sec. 32, of the Missouri Constitution (see 2016 annotation below), rendering the repeal and reenactment of this section ineffective."
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after the ruling on the override of the Governor’s veto of House Bill 150. The later version remains available with a constitutional warning. Read both official source pages for applicability."
     }
   ],
   "constitutionalWarnings": [
@@ -2567,6 +2724,36 @@
       "effectiveFrom": "2022-08-28",
       "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al. (see 2023 annotation below).",
       "displayNotice": "The Revisor’s note says this version was declared unconstitutional in Byrd v. State of Missouri. Read the official annotation and the reprinted earlier version."
+    },
+    {
+      "id": "288.036:15216",
+      "effectiveFrom": "2015-10-16",
+      "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Pestka et al. v. State , see 2016 annotation below.",
+      "displayNotice": "The Revisor flags this version as unconstitutional in Pestka v. State. Read the official annotation and the reprinted earlier version."
+    },
+    {
+      "id": "288.060:15227",
+      "effectiveFrom": "2015-10-16",
+      "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Pestka et al. v. State , see 2016 annotation below.",
+      "displayNotice": "The Revisor flags this version as unconstitutional in Pestka v. State. Read the official annotation and the reprinted earlier version."
+    },
+    {
+      "id": "288.120:15236",
+      "effectiveFrom": "2015-10-16",
+      "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Pestka et al. v. State , see 2016 annotation below.",
+      "displayNotice": "The Revisor flags this version as unconstitutional in Pestka v. State. Read the official annotation and the reprinted earlier version."
+    },
+    {
+      "id": "288.122:15238",
+      "effectiveFrom": "2015-10-16",
+      "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Pestka et al. v. State , see 2016 annotation below.",
+      "displayNotice": "The Revisor flags this version as unconstitutional in Pestka v. State. Read the official annotation and the reprinted earlier version."
+    },
+    {
+      "id": "288.330:15271",
+      "effectiveFrom": "2015-10-16",
+      "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Pestka et al. v. State , see 2016 annotation below.",
+      "displayNotice": "The Revisor flags this version as unconstitutional in Pestka v. State. Read the official annotation and the reprinted earlier version."
     }
   ],
   "indexHeadingExceptions": [

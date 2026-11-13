@@ -20,7 +20,7 @@ Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no
 
 **Statewide heading coverage is the goal. It isn't finished.**
 
-The November 13, 2026 collection contains **16,872 distinct sections and 16,934 source versions** across **264 chapter indexes**. Two hundred fifty-eight have headings; Chapters 152, 203, 255, 280, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **204** outside this collection at this check.
+The November 13, 2026 collection contains **17,466 distinct sections and 17,533 source versions** across **274 chapter indexes**. Two hundred sixty-eight have headings; Chapters 152, 203, 255, 280, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **194** outside this collection at this check.
 
 | Area | Imported scope |
 | --- | --- |
@@ -37,11 +37,12 @@ The November 13, 2026 collection contains **16,872 distinct sections and 16,934 
 | Lands, drainage, levees, sewers and public water supply | Title XV: Chapters 241–250 |
 | Conservation, resources and development | Title XVI: Chapters 251–260 |
 | Agriculture and animals | Title XVII: Chapters 261–278, 280 and 281 |
+| Labor and industrial relations | Title XVIII: Chapters 285–288 and 290–295 |
 | Motor vehicles, watercraft and aviation | Title XIX: Chapters 300–307 |
 | Criminal procedure | Title XXXVII: Chapters 540–552 |
 | Crimes, punishment, peace officers and public defenders | Title XXXVIII: Chapters 556–579, 589, 590, 595 and 600 |
 
-The latest batch adds **814 sections and 814 source versions**, completing Title XVII's twenty listed chapter indexes. It covers farming, crops, bees, livestock, animal care, fences, marketing, soil conservation and pesticides. Chapter 280 has no listed sections and is recorded as empty. Title XVIII—labor and industrial relations—is next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
+The latest batch adds **594 sections and 599 source versions**, completing Title XVIII's ten listed chapter indexes. It covers employment, workers' compensation, wages, workplace safety, mining, child labor and labor relations. Five sections preserve both warned versions and earlier reprints. A separate section retains its certification and renewal conditions. Titles I–XIX are now accounted for; Title XX—alcoholic beverages—is next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
 
 These are state statute headings. The collection doesn't include local ordinances, court rules, regulations, constitutional provisions, federal law, or a complete historical archive. Chapter 300 is the state's Model Traffic Ordinance; its presence doesn't establish what a particular city has adopted.
 
@@ -49,7 +50,7 @@ Each chapter and source version keeps its retrieval date and response hash. Addi
 
 ## What has been checked
 
-The latest agriculture and animals expansion passed **931 TypeScript tests and 43 Python tests**, TypeScript checks, and the production build. All twenty new chapter indexes matched a second retrieval. Browser checks covered new searches, chapter boundaries, exact citations, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
+The latest labor expansion passed **962 TypeScript tests and 45 Python tests**, TypeScript checks, and the production build. All ten new chapter indexes matched a second retrieval. Browser checks covered new searches, chapter boundaries, warning and conditional-version handling, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
 
 The collection process checks every listed version against its official page, then retrieves the new chapter indexes again to check for changes. Tests cover search relevance, exact citations, chapter boundaries, source identities, and version handling. A failed validation blocks publication.
 

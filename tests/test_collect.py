@@ -518,3 +518,24 @@ class ConservationSourceTests(unittest.TestCase):
             self.assertFalse(record.get("hasContingentEffectiveDate"))
             with self.assertRaises(ValueError):
                 collect.parse_section(source,{**entry,"versionId":"999999"},"2026-11-13T10:00:00+00:00")
+
+class LaborSourceTests(unittest.TestCase):
+    def test_five_labor_reprints_require_exact_notices_dates_and_warning_distinctions(self):
+        for sec,warned in [('288.036','15216'),('288.060','15227'),('288.120','15236'),('288.122','15238'),('288.330','15271')]:
+            policy=next(p for p in collect.POLICY['reprintedEnactments'] if p['section']==sec)
+            for v in policy['versions']:
+                bid=v['versionId'];entry={'id':sec+':'+bid,'section':sec,'versionId':bid,'effectiveFrom':v['effectiveFrom'],'sourceUrl':f'https://revisor.mo.gov/main/OneSection.aspx?section={sec}&bid={bid}'}
+                source=Path(f'tests/fixtures/labor-{sec}-{bid}.html').read_text()
+                record=collect.parse_section(source,entry,'2026-11-13T10:00:00+00:00')
+                self.assertEqual(bool(record.get('hasConstitutionalWarning')),bid==warned)
+                self.assertEqual(record['effectiveFrom'],v['effectiveFrom']);self.assertIsNone(record['effectiveTo'])
+                self.assertTrue(record['multipleEnactments'])
+                with self.assertRaises(ValueError):collect.parse_section(source.replace('declared unconstitutional','reconsidered'),entry,'2026-11-13T10:00:00+00:00')
+    def test_certification_condition_preserves_ordinary_source_date_and_single_version(self):
+        entry={'id':'288.501:15289','section':'288.501','versionId':'15289','effectiveFrom':'2009-06-12','sourceUrl':'https://revisor.mo.gov/main/OneSection.aspx?section=288.501&bid=15289'}
+        source=Path('tests/fixtures/labor-288.501-15289.html').read_text()
+        self.assertIn('shall not take effect',source)
+        record=collect.parse_section(source,entry,'2026-11-13T10:00:00+00:00')
+        self.assertTrue(record['hasContingentEffectiveDate']);self.assertIsNone(record['effectiveTo'])
+        self.assertEqual(record['effectiveFrom'],'2009-06-12');self.assertFalse(record.get('effectiveDateIsPlaceholder'));self.assertFalse(record.get('multipleEnactments'))
+        with self.assertRaises(ValueError):collect.parse_section(source.replace('contingent effective date','ordinary date'),entry,'2026-11-13T10:00:00+00:00')

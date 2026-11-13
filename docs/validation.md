@@ -1,3 +1,25 @@
+# Title XVIII labor coverage — November 13, 2026
+
+## Scope and source review
+
+Chapters **285–288 and 290–295** add **594 distinct sections and 599 source versions**, completing all ten listed Title XVIII indexes. The combined snapshot contains **17,466 sections, 17,533 versions and 274 chapter indexes**, including 268 populated and six reviewed empty indexes. **194 of the 468 official catalog links remain**. Titles I–XIX are accounted for; Title XX is next.
+
+All ten source indexes matched independent second retrievals through the strict parser. The combined offline collector passed. All 16,934 prior records and 264 chapter-manifest objects remain unchanged; the change report contains 599 additions, no removals and no changed prior records. Two wrong-section responses were recovered through bounded exact-URL retries. Ten initially rejected warning-page responses pass with the reviewed policy; all twelve remain preserved.
+
+Five reprinted pairs preserve their exact identities, Pestka notices, dates and blank history ends, separating only the warned versions. Section 288.501 retains its recorded 2009 date and certification/renewal conditions in the conditional group; neither fulfillment nor expiration is inferred. Totals are now 51 warned versions, 25 reprinted pairs and 20 contingent versions. Scheduled future versions remain 35.
+
+## Tests
+
+All **962 TypeScript tests and 45 Python tests** passed, along with TypeScript checks and the production build. Twenty-eight query cases were defined from official index wording before ranking evaluation. Additional tests cover exact citations across all ten chapters, each warning/reprint pair, chapter exclusions, both upcoming-version settings, §288.501's conditional status and eleven source fixtures. Altered source notices fail validation. No ranking, alias or parser changes were required. These development checks are not an independent legal-search assessment.
+
+## Browser and publication
+
+The production preview loaded 17,466 headings. Exact §288.060 displayed the earlier reprint and the warned 2015 version in separate groups, with exact links and notices; the upcoming toggle preserved both and Chapter 287 excluded them. Section 288.501 appeared only in the conditional group with either toggle setting and retained its 2009 source date. A dismissal-letter query returned §290.140. Long headings and warning notices fit at 320px and 390px without horizontal overflow. The first-degree-murder example reset the chapter filter, and ArrowDown focused §565.020’s exact source link. No browser warnings or errors were recorded.
+
+README, coverage notes, roadmap, source policy and fallback scope reflect the release. The existing design and filtering controls remain unchanged. Snapshot-specific files remain in use; workflow success and public-file comparisons are checked after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Title XVII agriculture and animals — November 13, 2026
 
 ## Scope and source review
