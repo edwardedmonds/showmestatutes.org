@@ -27,7 +27,7 @@ it('keeps numeric and letter articles distinct and applies chapter exclusion',()
  }
 });
 it('does not guess malformed or absent numeric references',()=>{
- for(const query of [...formats.invalid.filter(s=>s!=='400.2a-101'),'400.2A-999','409.7-999','400.2A 101','400.2A-101 typo','400.2A–101']) {
+ for(const query of [...formats.invalid.filter(s=>!['400.2a-101','456.4-411a'].includes(s)),'400.2A-999','409.7-999','400.2A 101','400.2A-101 typo','400.2A–101']) {
   const result=search(query,'2026-11-13',true);expect([...result.best,...result.related,...result.upcoming,...result.contingent,...result.constitutional]).toEqual([]);expect(result.correction).toBeNull();
  }
 });

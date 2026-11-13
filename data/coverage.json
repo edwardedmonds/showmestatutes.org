@@ -30,6 +30,8 @@
     "XXVIII",
     "XXIX",
     "XXX",
+    "XXXI",
+    "XXXII",
     "XXXVII",
     "XXXVIII"
   ],
@@ -2160,6 +2162,139 @@
       "minimumVersions": 58
     },
     {
+      "chapter": "456",
+      "title": "Trusts and Trustees — The Uniform Trust Code",
+      "category": "government",
+      "minimumVersions": 157
+    },
+    {
+      "chapter": "459",
+      "title": "Declarations, Life Support",
+      "category": "government",
+      "minimumVersions": 12
+    },
+    {
+      "chapter": "460",
+      "title": "Estates of Convicts",
+      "category": "government",
+      "minimumVersions": 0,
+      "emptyIndexReviewedAt": "2026-11-13T13:14:25.220882+00:00"
+    },
+    {
+      "chapter": "461",
+      "title": "Nonprobate Transfers Law",
+      "category": "government",
+      "minimumVersions": 34
+    },
+    {
+      "chapter": "469",
+      "title": "Disclaimers of Property",
+      "category": "government",
+      "minimumVersions": 73
+    },
+    {
+      "chapter": "470",
+      "title": "Escheats",
+      "category": "government",
+      "minimumVersions": 20
+    },
+    {
+      "chapter": "471",
+      "title": "Uniform Simultaneous Death Law",
+      "category": "government",
+      "minimumVersions": 8
+    },
+    {
+      "chapter": "472",
+      "title": "Probate Code — General Provisions",
+      "category": "government",
+      "minimumVersions": 51
+    },
+    {
+      "chapter": "473",
+      "title": "Probate Code — Administration of Decedents' Estates",
+      "category": "government",
+      "minimumVersions": 251
+    },
+    {
+      "chapter": "474",
+      "title": "Probate Code — Intestate Succession and Wills",
+      "category": "government",
+      "minimumVersions": 79
+    },
+    {
+      "chapter": "475",
+      "title": "Probate Code — Guardianship",
+      "category": "government",
+      "minimumVersions": 141
+    },
+    {
+      "chapter": "476",
+      "title": "Courts — General Provisions",
+      "category": "government",
+      "minimumVersions": 112
+    },
+    {
+      "chapter": "477",
+      "title": "Supreme Court and Court of Appeals",
+      "category": "government",
+      "minimumVersions": 34
+    },
+    {
+      "chapter": "478",
+      "title": "Circuit Courts",
+      "category": "government",
+      "minimumVersions": 86
+    },
+    {
+      "chapter": "479",
+      "title": "Municipal Courts and Traffic Courts",
+      "category": "government",
+      "minimumVersions": 42
+    },
+    {
+      "chapter": "482",
+      "title": "Small Claims Courts",
+      "category": "government",
+      "minimumVersions": 14
+    },
+    {
+      "chapter": "483",
+      "title": "Clerks of Courts of Record and Court Records",
+      "category": "government",
+      "minimumVersions": 62
+    },
+    {
+      "chapter": "484",
+      "title": "Attorneys at Law",
+      "category": "government",
+      "minimumVersions": 21
+    },
+    {
+      "chapter": "485",
+      "title": "Court Reporters and Stenographers",
+      "category": "government",
+      "minimumVersions": 9
+    },
+    {
+      "chapter": "486",
+      "title": "Commissioners of Deeds and Notaries Public",
+      "category": "government",
+      "minimumVersions": 98
+    },
+    {
+      "chapter": "487",
+      "title": "Family Courts",
+      "category": "government",
+      "minimumVersions": 19
+    },
+    {
+      "chapter": "488",
+      "title": "Court Costs",
+      "category": "government",
+      "minimumVersions": 70
+    },
+    {
       "chapter": "540",
       "title": "Grand Juries and Their Proceedings",
       "category": "procedure",
@@ -2418,9 +2553,20 @@
       "effectiveFrom": "2021-08-28",
       "reviewedAt": "2026-11-12",
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
+    },
+    {
+      "section": "483.140",
+      "versionIds": [
+        "26858",
+        "26859"
+      ],
+      "effectiveFrom": "2014-08-28",
+      "reviewedAt": "2026-11-13",
+      "sourceNotice": "*This section was amended by H.B. 1231 and H.B. 1665 & 1335, 2014. Due to possible conflict, two versions of this section are printed.",
+      "basis": "Both source pages retain the same date and blank ends, identify competing 2014 enactments, and differ on agreement versus notice and opportunity to respond. Preserve both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXXII, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -3911,6 +4057,37 @@
       "sourceKind": "annotation",
       "sourceNotice": "(2014) Requirement that marriage license be signed in the presence of the recorder of deeds or deputy is unconstitutional as applied to incarcerated applicant. Amos v. Higgins, 996 F.Supp.2d 810 (W.D. Mo.).",
       "displayNotice": "The Revisor retains a 2014 ruling that the in-person signing requirement was unconstitutional as applied to an incarcerated applicant. This source version is dated 2025 and includes alternative application procedures. The annotation does not establish that the entire 2025 section is invalid. Read the official text and notes."
+    },
+    {
+      "id": "472.020:25977",
+      "effectiveFrom": "1983-08-28",
+      "sourceKind": "annotation",
+      "sourceNotice": "(1964) Appointment by probate court of successor trustee of testamentary trust held void and sections 472.020 and 456.225 declared unconstitutional insofar as they purport to grant jurisdiction over testamentary trusts to the probate court. First National Bank of Kansas City v. Mercantile B. & T. Co. (Mo.), 376 S.W.2d 164.",
+      "displayNotice": "The Revisor retains a 1964 ruling concerning probate-court jurisdiction over testamentary trusts. This source version is dated 1983 and contains later jurisdiction wording. The historical annotation does not establish that the entire 1983 section is invalid. Read the official text and notes."
+    },
+    {
+      "id": "479.359:33329",
+      "effectiveFrom": "2016-08-28",
+      "sourceKind": "annotation",
+      "sourceNotice": "(2017) Population classification in section will only apply to St. Louis County for the foreseeable future, and as the State failed to demonstrate substantial justification for such special treatment, the classification is unconstitutional as a special law in violation of Article III, Section 40(30). Classification is severed from remainder of section, and thus section imposes a uniform cap on fines, bond forfeitures, and court costs of 20 percent statewide. City of Normandy v. Greitens, 518 S.W.3d 183 (Mo.).",
+      "displayNotice": "The Revisor annotation says the population classification was held unconstitutional and severed from the rest of this section. It describes a uniform statewide cap of 20 percent after severance. The warning concerns that classification, not the whole section. Read the official annotation and statutory text."
+    },
+    {
+      "id": "487.030:26987",
+      "effectiveFrom": "1998-08-28",
+      "sourceKind": "annotation",
+      "sourceNotice": "(1999) Default denial of motion for rehearing violates Article V, Section 18 of the Missouri Constitution and is unconstitutional. Fowler v. Fowler, 984 S.W.2d 508 (Mo.banc).",
+      "displayNotice": "The Revisor annotations identify constitutional defects in the rehearing procedure and default denial of a motion, and say Rule 130 supersedes the statutory procedure. Read the official annotations and applicable court rules before relying on these procedures.",
+      "requiredSourceNotices": [
+        "(2003) Procedure for requesting a hearing and provision for denying such motions if not ruled on within statutory time period is unconstitutional; provisions of Rule 130 supersede the statute. Dolan v. Dolan, 107 S.W.3d 438 (Mo.App.E.D.)."
+      ]
+    },
+    {
+      "id": "487.080:26992",
+      "effectiveFrom": "2014-08-28",
+      "sourceKind": "annotation",
+      "sourceNotice": "(1998) Statute is unconstitutional to extent that it purports to limit family courts jurisdiction to hear any matter as a division of the circuit court. State ex rel. M.D.K. v. Dolan, 968 S.W.2d 740 (Mo.App.E.D.).",
+      "displayNotice": "The Revisor retains a 1998 ruling that this section is unconstitutional to the extent it limits family-court jurisdiction as a division of the circuit court. The indexed source version is dated 2014. This warning concerns the stated jurisdictional limitation, not every provision. Read the official text and annotation."
     }
   ],
   "indexHeadingExceptions": [

@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXXII, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -229,3 +229,15 @@ All five original and independent index rechecks and 462 accepted source pages p
 **451.040:57670** requires its exact 2014 Amos annotation and retains the 2025 source date. Its notice describes a historical ruling on in-person signing as applied to an incarcerated applicant. The current page's alternative application procedures and 2025 amendment history remain in the fixture. The notice expressly avoids claiming the entire 2025 section is invalid. No expiration date, historical version or reprint was invented.
 
 **453.120:25163** and **455.085:51051** have annotations rejecting constitutional objections; they remain ordinary. Four actual-source fixtures test these distinctions, dates and identities. Existing parser and interface behavior are reused; ranking and aliases are unchanged.
+
+## Titles XXXI and XXXII — Trusts, estates and courts
+
+All 22 original and independent chapter-index rechecks and 1,393 accepted source pages pass strict parsing. Chapter 460 is explicitly reviewed empty, with the correct title, navigation and Cross References shell. Removing its reviewed-empty policy causes collection to fail. Original acquisition reviews for 456/460 are retained with their resolutions.
+
+Both validators explicitly accept the reviewed Chapter 456 article formats, including exact terminal letters in 4-411A/B and four-digit suffixes in articles 10/11. Search accepts lowercase user input while retaining uppercase source identities. The source parser rejects altered case or letters; neighboring and malformed formats remain invalid. No citations are renumbered or truncated.
+
+Concurrent-enactment policy now permits an exact per-section source notice, with the existing phrase as its default. This accommodates 483.140's literal “two versions of this section are printed” wording. Versions 26858/26859 both retain 2014-08-28 and blank ends. Their respective requirements for agreement versus notification and opportunity to respond are preserved in source fixtures. Removing the conflict notice fails collection. Neither version is chosen as controlling.
+
+Warnings require exact annotations and dates for 472.020:25977,479.359:33329,487.030:26987 and 487.080:26992; both 1999/2003 annotations are required for 487.030. Notices distinguish historical jurisdiction language, severed classification, rehearing procedures and limited jurisdiction rulings from blanket invalidity. Source dates 1983,2016,1998 and 2014 remain unchanged. No reprint or expiry is invented.
+
+Seven rejected responses are archived: wrong headings for 456.005,474.560,475.370,476.130,477.705 and 486.600, plus a source-date mismatch for 456.017. All exact-URL replacements pass. Twenty-six actual-source fixtures cover these responses, complete trust and empty indexes, lettered citations, competing enactments and warnings. Ranking, aliases and live design are unchanged.

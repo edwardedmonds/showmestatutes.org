@@ -42,12 +42,14 @@ def date(value):
 
 
 def valid_section(section, chapter):
-    # Preserve the Revisor's UCC, securities and condominium article citations verbatim.
+    # Preserve the Revisor's UCC, securities, condominium and trust article citations verbatim.
     if chapter == '400':
         return re.fullmatch(r'400\.(?:[1-9]|1[01]|[24]A)-[0-9]{3}', section) is not None
     if chapter == '409' and re.fullmatch(r'409\.[1-7]-[0-9]{3}', section):
         return True
     if chapter == '448' and re.fullmatch(r'448\.[1-4]-[0-9]{3}', section):
+        return True
+    if chapter == '456' and re.fullmatch(r'456\.(?:[1-8]-[0-9]{3}|4-411[AB]|1[01]-[0-9]{4})', section):
         return True
     return re.fullmatch(re.escape(chapter) + r'\.[0-9]{3,4}', section) is not None
 
@@ -167,7 +169,7 @@ def parse_section(html, entry, checked_at):
     concurrent = next((p for p in POLICY['concurrentEnactments'] if p['section'] == entry['section'] and entry['versionId'] in p['versionIds']), None)
     if concurrent and (entry['effectiveFrom'] != concurrent['effectiveFrom'] or until is not None
             or f'There are multiple enactments of {entry["section"]}' not in clean(soup.get_text(' '))
-            or 'Due to possible conflict, both versions are printed.' not in clean(soup.get_text(' '))):
+            or concurrent.get('sourceNotice', 'Due to possible conflict, both versions are printed.') not in clean(soup.get_text(' '))):
         raise ValueError('Unverified concurrent enactment: ' + entry['id'])
     placeholder = 'date is placeholder' in clean(effective.get_text(' ')).lower()
     if placeholder != bool(reviewed and reviewed['dateIsPlaceholder']):

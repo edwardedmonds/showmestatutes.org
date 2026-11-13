@@ -1,3 +1,25 @@
+# Trusts, estates and courts coverage — November 13, 2026
+
+## Scope and source review
+
+All 22 Title XXXI/XXXII indexes add **1,392 sections and 1,393 source versions**. Combined: **27,626 sections,27,708 versions and 416 chapter indexes**,406 populated and 10 reviewed empty. **52 of 468 catalog links remain**. All listed indexes in Titles I–XXXII,XXXVII andXXXVIII are accounted for.
+
+All original/recheck comparisons and accepted pages passed. Full combined offline validation and gated promotion passed. All 26,315 prior records and 394 chapter manifests are unchanged. Change report:1,393 additions, no changes/removals. Chapter 460 is explicitly empty. Four new warnings bring the total to 77;483.140 adds a competing pair with identical dates and blank ends, without resolving applicability. Seven rejected responses retain their evidence and verified replacements.
+
+Chapter 456 exact terminal letters and four-digit article suffixes are supported in both validators and exact search. Source case is preserved while lowercase typed input is accepted.483.140 requires its exact custom conflict notice; existing concurrent sections retain their prior default requirement. Scoped warnings preserve historical and partial rulings. All earlier source exceptions remain unchanged.
+
+## Tests
+
+**1,394 TypeScript and 85 Python tests passed**, plus TypeScript and build.32 new queries were defined from official headings before ranking evaluation. Additional tests cover every trust citation/link, lowercase/prefixed article input, malformed/neighbor formats, both competing court-record versions, empty-index review, all rejected response identities/dates, and every required warning paragraph.26 actual-source fixtures. The first full suite found one older broad-query expectation affected by expanded scope: “jurisdiction of circuit courts” now returns478.070 in best matches and541.020 in related results under the existing procedure-separation rule. Both official headings are identical. The global test now requires both groups, and a new Chapter541 test preserves the original criminal-jurisdiction expectation. Query wording and ranking were unchanged; all32 newly added query cases passed unchanged. The repeated full suite passed. Ranking, aliases and design are unchanged. Earlier campground singular/plural limitation remains documented and unresolved; these are development tests, not an independent legal-search assessment.
+
+## Browser and publication
+
+Production-preview checks passed: 27,626 ready; lowercase/prefixed456.4-411A and distinct456.4-411B links/dates;456.10-1001 four-digit suffix; Chapter459 exclusion; both483.140 versions with separate identities and conflict notices; jurisdiction query showing478.070 best and541.020 related, with541.020 best under Chapter541;479.359 scoped warning and upcoming toggle;390/320px long heading/notice without overflow;Seat belts and ArrowDown focus to307.178. Console clean.
+
+README, coverage, roadmap, source policy and fallback scope are updated. Main workflow and live assets are verified after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Domestic-relations coverage — November 13, 2026
 
 ## Scope and source review

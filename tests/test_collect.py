@@ -780,3 +780,50 @@ class DomesticSourceTests(unittest.TestCase):
         from bs4 import BeautifulSoup
         for id,phrase in [('453.120:25163','did not unconstitutionally infringe'),('455.085:51051','not unconstitutionally vague')]:
             source=Path(f'tests/fixtures/domestic-{id.replace(":","-")}.html').read_text();self.assertIn(phrase,collect.clean(BeautifulSoup(source,'html.parser').get_text(' ')));e=self.entry(id);r=collect.parse_section(source,e,'2026-11-13T13:35:00+00:00');self.assertFalse(r.get('hasConstitutionalWarning'));self.assertEqual(r['effectiveFrom'],e['effectiveFrom']);self.assertEqual(r['sourceUrl'],e['sourceUrl'])
+
+class EstatesCourtsSourceTests(unittest.TestCase):
+    def entry(self,id):
+        import os
+        d=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text());record=next(r for r in d['records'] if r['id']==id)
+        return {k:record[k] for k in ['id','section','versionId','effectiveFrom','sourceUrl']}
+    def test_complete_trust_index_and_exact_terminal_letters(self):
+        source=Path('tests/fixtures/estates-courts-index-456.html').read_text();entries=collect.parse_index(source,'456');self.assertEqual(len(entries),157)
+        for section in ['456.4-411A','456.4-411B','456.10-1001','456.11-1106']:self.assertIn(section,[e['section'] for e in entries])
+        for malformed in ['456.4-411a','456.4-411C','456.4-412A']:
+            with self.assertRaisesRegex(ValueError,'Malformed source identity'):collect.parse_index(source.replace('456.4-411A',malformed),'456')
+    def test_empty_convicts_index_requires_explicit_review_and_correct_identity(self):
+        source=Path('tests/fixtures/estates-courts-index-460.html').read_text();self.assertEqual(collect.parse_index(source,'460'),[])
+        review=collect.CHAPTERS['460'].pop('emptyIndexReviewedAt')
+        try:
+            with self.assertRaisesRegex(ValueError,'Unverified empty'):collect.parse_index(source,'460')
+        finally:collect.CHAPTERS['460']['emptyIndexReviewedAt']=review
+        with self.assertRaises(ValueError):collect.parse_index(source.replace('Chapter 460','Chapter 461'),'460')
+    def test_trust_heading_and_version_identity_cannot_switch_terminal_letters(self):
+        from bs4 import BeautifulSoup
+        es=collect.parse_index(Path('tests/fixtures/estates-courts-index-456.html').read_text(),'456')
+        for section in ['456.4-411A','456.4-411B','456.10-1001','456.11-1106']:
+            e=next(e for e in es if e['section']==section);source=Path(f'tests/fixtures/estates-courts-{e["id"].replace(":","-")}.html').read_text();r=collect.parse_section(source,e,'2026-11-13T13:50:00+00:00');self.assertEqual(r['sourceUrl'],e['sourceUrl']);self.assertEqual(r['section'],section)
+            soup=BeautifulSoup(source,'html.parser');heading=soup.select_one('div.norm > p.norm > span.bold');heading.string=heading.get_text().replace(section,'456.4-411B' if section.endswith('A') else '456.4-411A')
+            with self.assertRaisesRegex(ValueError,'Unexpected heading'):collect.parse_section(str(soup),e,'2026-11-13T13:50:00+00:00')
+    def test_rejected_source_identity_or_date_fails_and_exact_replacement_passes(self):
+        for id in json.loads(Path('tests/estates-courts-rejected-identities.json').read_text()):
+            e=self.entry(id);name=id.replace(':','-');source=Path(f'tests/fixtures/estates-courts-{name}.html').read_text();r=collect.parse_section(source,e,'2026-11-13T13:50:00+00:00');self.assertEqual(r['id'],id);self.assertEqual(r['effectiveFrom'],e['effectiveFrom']);self.assertEqual(r['sourceUrl'],e['sourceUrl'])
+            with self.assertRaises(ValueError):collect.parse_section(Path(f'tests/fixtures/estates-courts-rejected-{name}.html').read_text(),e,'2026-11-13T13:50:00+00:00')
+    def test_competing_versions_require_exact_notice_and_keep_both_blank_ends(self):
+        from bs4 import BeautifulSoup
+        for id,phrase in [('483.140:26858','without the agreement of all parties'),('483.140:26859','without notification to the parties and providing the parties an opportunity to respond')]:
+            e=self.entry(id);source=Path(f'tests/fixtures/estates-courts-{id.replace(":","-")}.html').read_text();soup=BeautifulSoup(source,'html.parser');self.assertIn(phrase,collect.clean(soup.get_text(' ')));r=collect.parse_section(source,e,'2026-11-13T13:50:00+00:00');self.assertEqual(r['effectiveFrom'],'2014-08-28');self.assertIsNone(r['effectiveTo']);self.assertTrue(r['multipleEnactments'])
+            next(p for p in soup.select('p') if collect.clean(p.get_text(' ')).startswith('*This section was amended')).decompose()
+            with self.assertRaisesRegex(ValueError,'Unverified concurrent'):collect.parse_section(str(soup),e,'2026-11-13T13:50:00+00:00')
+    def test_each_reviewed_warning_requires_every_exact_annotation(self):
+        from bs4 import BeautifulSoup
+        for id in ['472.020:25977','479.359:33329','487.030:26987','487.080:26992']:
+            e=self.entry(id);source=Path(f'tests/fixtures/estates-courts-{id.replace(":","-")}.html').read_text();r=collect.parse_section(source,e,'2026-11-13T13:50:00+00:00');self.assertTrue(r['hasConstitutionalWarning']);self.assertEqual(r['effectiveFrom'],e['effectiveFrom']);policy=next(p for p in collect.POLICY['constitutionalWarnings'] if p['id']==id)
+            for notice in [policy['sourceNotice']]+policy.get('requiredSourceNotices',[]):
+                soup=BeautifulSoup(source,'html.parser');next(p for p in soup.select('p') if collect.clean(p.get_text(' '))==notice).decompose()
+                with self.assertRaisesRegex(ValueError,'Unverified constitutional warning'):collect.parse_section(str(soup),e,'2026-11-13T13:50:00+00:00')
+    def test_scoped_historical_and_severance_context_is_retained(self):
+        from bs4 import BeautifulSoup
+        for id,phrases in [('472.020:25977',['A.L. 1983 S.B. 44 & 45','insofar as they purport to grant jurisdiction']),('479.359:33329',['Classification is severed from remainder of section','20 percent statewide']),('487.030:26987',['(1999)','(2003)','Rule 130 supersede']),('487.080:26992',['A.L. 2014 H.B. 1299 Revision','to extent that it purports to limit'])]:
+            text=collect.clean(BeautifulSoup(Path(f'tests/fixtures/estates-courts-{id.replace(":","-")}.html').read_text(),'html.parser').get_text(' '))
+            for phrase in phrases:self.assertIn(phrase,text)
