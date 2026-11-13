@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXI, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -155,3 +155,9 @@ Initial responses for §§262.700, 267.169 and 281.265 displayed unrelated secti
 All 599 source versions passed strict individual checks and all ten indexes matched independent rechecks. Initial responses for §§285.512 and 287.223 displayed unrelated sections; bounded exact-URL retries recovered the correct pages. Ten additional responses were retained when the worker first encountered the five unreviewed Chapter 288 warning pages. Those responses pass after exact warning-policy review. All twelve rejected responses remain archived.
 
 Five reviewed warning/reprint pairs preserve their exact Pestka notices, source identities, effective dates and blank history ends. The existing parser recognizes these warning banners and notes; no parser change was needed. Eleven source fixtures cover all ten versions plus §288.501. Its source note identifies a contingent effective date in subdivision (8), whose text conditions effectiveness of the entire section. The existing conditional-version flag keeps it outside ordinary current/upcoming results without inferring whether the condition occurred. The recorded date remains an ordinary source date, not a placeholder. Altered notices fail validation.
+
+## Titles XX and XXI — Alcoholic beverages and public safety
+
+All 630 source versions passed strict individual checks; all thirteen indexes matched independent rechecks. Six initial responses displayed unrelated sections or a constitutional provision; bounded exact-URL retries recovered the correct pages. Four further responses were retained when the worker encountered the two unreviewed fire-district warnings. Those pass with the reviewed exact warning policy. All ten rejected responses remain archived.
+
+The two reviewed warning/reprint pairs preserve exact notices, identities, dates and blank history ends. Six actual-source fixtures cover the four pair versions and both bingo provisions, §§313.040–313.041. The latter's source note explicitly records the voter approval and resulting effective date, so the collection does not treat the condition as unresolved. No parser changes were needed. Altered warning/reprint notices fail validation.

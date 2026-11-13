@@ -539,3 +539,23 @@ class LaborSourceTests(unittest.TestCase):
         self.assertTrue(record['hasContingentEffectiveDate']);self.assertIsNone(record['effectiveTo'])
         self.assertEqual(record['effectiveFrom'],'2009-06-12');self.assertFalse(record.get('effectiveDateIsPlaceholder'));self.assertFalse(record.get('multipleEnactments'))
         with self.assertRaises(ValueError):collect.parse_section(source.replace('contingent effective date','ordinary date'),entry,'2026-11-13T10:00:00+00:00')
+
+class PublicSafetySourceTests(unittest.TestCase):
+    def test_two_fire_district_reprints_require_exact_notices_dates_and_warning_distinctions(self):
+        for sec,warned in [('321.320','34863'),('321.322','17170')]:
+            policy=next(p for p in collect.POLICY['reprintedEnactments'] if p['section']==sec)
+            for v in policy['versions']:
+                bid=v['versionId'];entry={'id':sec+':'+bid,'section':sec,'versionId':bid,'effectiveFrom':v['effectiveFrom'],'sourceUrl':f'https://revisor.mo.gov/main/OneSection.aspx?section={sec}&bid={bid}'}
+                source=Path(f'tests/fixtures/public-safety-{sec}-{bid}.html').read_text()
+                record=collect.parse_section(source,entry,'2026-11-13T10:00:00+00:00')
+                self.assertEqual(bool(record.get('hasConstitutionalWarning')),bid==warned)
+                self.assertEqual(record['effectiveFrom'],v['effectiveFrom']);self.assertIsNone(record['effectiveTo'])
+                self.assertTrue(record['multipleEnactments'])
+                with self.assertRaises(ValueError):collect.parse_section(source.replace('declared unconstitutional','reconsidered'),entry,'2026-11-13T10:00:00+00:00')
+    def test_bingo_source_records_voter_approval_and_resolved_date(self):
+        for sec,bid,date in [('313.040','34988','2018-12-06'),('313.041','34989','2018-08-28')]:
+            entry={'id':sec+':'+bid,'section':sec,'versionId':bid,'effectiveFrom':date,'sourceUrl':f'https://revisor.mo.gov/main/OneSection.aspx?section={sec}&bid={bid}'}
+            source=Path(f'tests/fixtures/public-safety-{sec}-{bid}.html').read_text()
+            if sec=='313.041':self.assertIn('voters approved',source);self.assertIn('December 6, 2018',source)
+            record=collect.parse_section(source,entry,'2026-11-13T11:00:00+00:00')
+            self.assertEqual(record['effectiveFrom'],date);self.assertIsNone(record['effectiveTo']);self.assertFalse(record.get('hasContingentEffectiveDate'));self.assertFalse(record.get('effectiveDateIsPlaceholder'))

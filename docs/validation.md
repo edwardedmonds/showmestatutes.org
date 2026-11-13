@@ -1,3 +1,25 @@
+# Titles XX and XXI coverage — November 13, 2026
+
+## Scope and source review
+
+Chapters **311–323** add **628 distinct sections and 630 source versions**, completing all thirteen listed indexes in Titles XX and XXI. The combined snapshot contains **18,094 sections, 18,163 versions and 287 chapter indexes**, including 279 populated and eight reviewed empty indexes. **181 of the 468 official catalog links remain**. Titles I–XXI are accounted for; Title XXII is next.
+
+All thirteen indexes matched independent second retrievals through the strict parser. The combined offline collector passed. All 17,533 prior records and 274 chapter-manifest objects remain unchanged; the change report contains 630 additions, no removals and no changed prior records. Six wrong-page responses recovered through bounded exact-URL retries. Four initially rejected warning responses pass with reviewed policy; all ten remain preserved. Chapters 312 and 318 are explicitly reviewed empty.
+
+Two fire-district pairs preserve exact warning/reprint notices, source dates and blank history ends. Section 313.041's own note records the 2018 approval and effective date for §313.040; neither is relabeled as unresolved conditional. Totals are now 53 warned versions, 27 reprinted pairs and 20 contingent versions. Scheduled future versions remain 35.
+
+## Tests
+
+All **996 TypeScript tests and 47 Python tests** passed, alongside TypeScript checks and the production build. Thirty-one query cases were defined from official index wording before ranking evaluation. Additional tests cover exact citations across all eleven populated chapters, both warning/reprint pairs, chapter exclusions, both upcoming-version settings, bingo source dates and six source fixtures. Altered warning/reprint notices fail validation. No ranking, alias or parser changes were required. These development checks are not an independent legal-search assessment.
+
+## Browser and publication
+
+Production preview loaded all 18,094 sections. The bourbon-label query led to §311.025 and its exact official source URL. Section 321.320 showed its earlier reprint and warned amendment separately under both upcoming settings, and disappeared when restricted to Chapter 320. Section 313.040 retained December 6, 2018 in ordinary results. Long headings and notices fit at 390px; 320px also had no horizontal overflow. The existing murder example worked with keyboard activation and ArrowDown focused its source heading. The browser reported no warnings or errors. Stable and snapshot-named datasets matched exactly; the search index and JavaScript referenced the same dataset hash.
+
+README, coverage notes, roadmap, source policy and fallback scope reflect the release. The existing design remains unchanged. Snapshot-specific files remain in use; workflow success and public-file comparisons are checked after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Title XVIII labor coverage — November 13, 2026
 
 ## Scope and source review

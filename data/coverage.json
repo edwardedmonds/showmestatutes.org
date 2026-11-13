@@ -19,6 +19,8 @@
     "XVII",
     "XVIII",
     "XIX",
+    "XX",
+    "XXI",
     "XXXVII",
     "XXXVIII"
   ],
@@ -1426,6 +1428,86 @@
       "minimumVersions": 83
     },
     {
+      "chapter": "311",
+      "title": "Liquor Control Law",
+      "category": "government",
+      "minimumVersions": 159
+    },
+    {
+      "chapter": "312",
+      "title": "Nonintoxicating Beer",
+      "category": "government",
+      "minimumVersions": 0,
+      "emptyIndexReviewedAt": "2026-11-13"
+    },
+    {
+      "chapter": "313",
+      "title": "Licensed Gaming Activities",
+      "category": "government",
+      "minimumVersions": 126
+    },
+    {
+      "chapter": "314",
+      "title": "Discriminatory Practices",
+      "category": "government",
+      "minimumVersions": 5
+    },
+    {
+      "chapter": "315",
+      "title": "Hotel, Motel and Resort Regulations",
+      "category": "government",
+      "minimumVersions": 18
+    },
+    {
+      "chapter": "316",
+      "title": "Shows, Circuses, Amusement Buildings and Festivals",
+      "category": "government",
+      "minimumVersions": 39
+    },
+    {
+      "chapter": "317",
+      "title": "Boxing and Wrestling",
+      "category": "government",
+      "minimumVersions": 12
+    },
+    {
+      "chapter": "318",
+      "title": "Pool Tables",
+      "category": "government",
+      "minimumVersions": 0,
+      "emptyIndexReviewedAt": "2026-11-13"
+    },
+    {
+      "chapter": "319",
+      "title": "General Safety Requirements",
+      "category": "government",
+      "minimumVersions": 71
+    },
+    {
+      "chapter": "320",
+      "title": "Fire Protection",
+      "category": "government",
+      "minimumVersions": 76
+    },
+    {
+      "chapter": "321",
+      "title": "Fire Protection Districts",
+      "category": "government",
+      "minimumVersions": 92
+    },
+    {
+      "chapter": "322",
+      "title": "Protection Against Rabies",
+      "category": "government",
+      "minimumVersions": 16
+    },
+    {
+      "chapter": "323",
+      "title": "Liquefied Petroleum Gases",
+      "category": "government",
+      "minimumVersions": 16
+    },
+    {
       "chapter": "540",
       "title": "Grand Juries and Their Proceedings",
       "category": "procedure",
@@ -1686,7 +1768,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXI, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -2488,6 +2570,38 @@
         }
       ],
       "displayNotice": "The Revisor reprints an earlier version after the ruling on the override of the Governor’s veto of House Bill 150. The later version remains available with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "321.320",
+      "versions": [
+        {
+          "versionId": "34863",
+          "effectiveFrom": "2018-06-01",
+          "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in City of De Soto v. Parson, see 2021 annotation below."
+        },
+        {
+          "versionId": "17169",
+          "effectiveFrom": "1969-08-28",
+          "sourceNotice": "*Revisor's Note: This section is reprinted in accordance with section 3.066. H.B. 1446 in 2018 amended this section and was declared unconstitutional as a violation of Art. III, Sec. 23, of the Missouri Constitution (see 2021 annotation below), rendering the repeal and reenactment of this section ineffective."
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling. The later version remains available with a constitutional warning. Read both official source pages and annotations for applicability."
+    },
+    {
+      "section": "321.322",
+      "versions": [
+        {
+          "versionId": "17170",
+          "effectiveFrom": "2014-08-28",
+          "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Calzone v. Koster, et al., see 2016 annotation below."
+        },
+        {
+          "versionId": "36198",
+          "effectiveFrom": "2013-08-28",
+          "sourceNotice": "*Revisor's Note: This section is reprinted in accordance with section 3.066 . S.B. 672 in 2014 amended this section and was declared unconstitutional as a violation of Art. III, Sec. 23, of the Missouri Constitution (see 2016 annotation below), rendering the repeal and reenactment of this section ineffective."
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling. The later version remains available with a constitutional warning. Read both official source pages and annotations for applicability."
     }
   ],
   "constitutionalWarnings": [
@@ -2754,6 +2868,18 @@
       "effectiveFrom": "2015-10-16",
       "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Pestka et al. v. State , see 2016 annotation below.",
       "displayNotice": "The Revisor flags this version as unconstitutional in Pestka v. State. Read the official annotation and the reprinted earlier version."
+    },
+    {
+      "id": "321.320:34863",
+      "effectiveFrom": "2018-06-01",
+      "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in City of De Soto v. Parson, see 2021 annotation below.",
+      "displayNotice": "The Revisor flags this version as unconstitutional in City of De Soto v. Parson. Read the official annotations and the reprinted earlier version."
+    },
+    {
+      "id": "321.322:17170",
+      "effectiveFrom": "2014-08-28",
+      "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Calzone v. Koster, et al., see 2016 annotation below.",
+      "displayNotice": "The Revisor flags this version as unconstitutional in Calzone v. Koster. Read the official annotations and the reprinted earlier version."
     }
   ],
   "indexHeadingExceptions": [
