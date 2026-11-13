@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XV, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XVI, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -137,3 +137,9 @@ Three newly reviewed reprinted pairs preserve all exact version identities, date
 ## Title XV — Lands and public water supply
 
 The 611 individually checked versions from Chapters 241–250 passed strict source validation and independent index rechecks. An initial response for §242.698, source version 12907, lacked the expected heading. A bounded exact-URL retry recovered the correct “Appeal.” heading and August 28, 1961 effective date. Both responses remain in the local evidence archive. No parser or source-policy exceptions were needed for this batch; no dates, versions or identities were inferred.
+
+## Title XVI — Conservation
+
+All 626 source versions passed strict individual checks and all ten indexes matched independent rechecks. Chapter 255 is explicitly reviewed empty and transferred to Chapter 625. An initial §260.392 response displayed §208.935; a bounded exact-URL retry recovered the correct source version 54065 and August 28, 2023 effective date. Both responses remain archived.
+
+The source review distinguishes the identical-amendment note in §260.295 from an unconstitutional-version warning. It also distinguishes conditional rulemaking language and contingent expiration notes from contingent effective dates. The Revisor's banners, selected histories and footnote markers remain authoritative for the stored metadata; no end dates are inferred from program sunsets or conditional expiration text. Section 260.1092 has a marker inside its body but no heading marker; no heading marker is added. Four source fixtures cover these distinctions, exact identities and dates. No parser changes were needed.

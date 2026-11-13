@@ -504,3 +504,17 @@ class RoadsSourceTests(unittest.TestCase):
                     collect.parse_section(source,entry,'2026-11-13T09:00:00+00:00')
                 current=source.replace('The other printed version of this section','This version of this section')
                 self.assertNotIn('hasConstitutionalWarning',collect.parse_section(current,entry,'2026-11-13T09:00:00+00:00'))
+
+class ConservationSourceTests(unittest.TestCase):
+    def test_source_notes_do_not_invent_warnings_or_expiration_dates(self):
+        cases = [{'id': '256.447:33559', 'section': '256.447', 'versionId': '33559', 'effectiveFrom': '2016-08-28', 'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section=256.447&bid=33559'}, {'id': '260.295:51138', 'section': '260.295', 'versionId': '51138', 'effectiveFrom': '2022-08-28', 'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section=260.295&bid=51138'}, {'id': '260.1092:14075', 'section': '260.1092', 'versionId': '14075', 'effectiveFrom': '2008-08-28', 'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section=260.1092&bid=14075'}, {'id': '260.1101:14076', 'section': '260.1101', 'versionId': '14076', 'effectiveFrom': '2008-08-28', 'sourceUrl': 'https://revisor.mo.gov/main/OneSection.aspx?section=260.1101&bid=14076'}]
+        for entry in cases:
+            source=Path("tests/fixtures/conservation-"+entry["id"].replace(":","-")+".html").read_text()
+            record=collect.parse_section(source,entry,"2026-11-13T10:00:00+00:00")
+            self.assertEqual(record["headingMarker"], "" if entry["section"] == "260.1092" else "*")
+            self.assertEqual(record["effectiveFrom"],entry["effectiveFrom"])
+            self.assertIsNone(record["effectiveTo"])
+            self.assertFalse(record.get("hasConstitutionalWarning"))
+            self.assertFalse(record.get("hasContingentEffectiveDate"))
+            with self.assertRaises(ValueError):
+                collect.parse_section(source,{**entry,"versionId":"999999"},"2026-11-13T10:00:00+00:00")

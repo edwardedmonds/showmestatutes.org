@@ -1,3 +1,25 @@
+# Title XVI conservation coverage — November 13, 2026
+
+## Scope and source review
+
+Chapters **251–260** add **626 distinct sections and 626 source versions**, completing all ten listed Title XVI indexes. The combined snapshot contains **16,058 sections, 16,120 versions and 244 chapter indexes**, including 239 populated and five reviewed empty indexes. **224 of the 468 official catalog links remain**. Title XVII is next.
+
+All ten source indexes matched independent second retrievals through the strict parser. The combined offline collector passed. All 15,494 prior records and 234 chapter-manifest objects remain unchanged; the change report contains 626 additions, no removals and no changed prior records. One wrong-section response for §260.392 was recovered through a bounded exact-URL retry; accepted and rejected evidence remains preserved. Chapter 255's explicit transfer to Chapter 625 and empty chapter shell were reviewed in both responses.
+
+Section 260.295 retains its sole indexed version and footnote without a constitutional-warning flag: the Revisor says the identical H.B. 1662 language remains in effect. Conditional rulemaking and expiration notes retain their source dates and blank history end dates; no end date is inferred from program sunsets. The existing 46 warned versions, 20 reprinted pairs, 35 scheduled future versions and 19 contingent versions remain unchanged.
+
+## Tests
+
+All **884 TypeScript tests and 43 Python tests** passed, along with TypeScript checks and the production build. Thirty-five query cases were defined from official index wording before ranking evaluation. Additional checks cover exact citations in all nine populated chapters, the empty chapter, four-digit suffixes, footnotes and both upcoming-version settings. Four source fixtures test the distinction between actual warning labels and notes that discuss rulings or conditional expiration. No ranking, alias or parser changes were required. These development checks are not an independent legal-search assessment.
+
+## Browser and publication
+
+The production preview loaded 16,058 headings. Chapter 255 displays its transfer title and “no sections listed” label and is disabled in the chapter filter. Exact §260.295 appears once with its ordinary date and source-footnote notice, including with upcoming versions enabled; Chapter 259 excludes it. A Rock Island Railroad fencing query returns §253.175 with the exact source link. The result layout has no horizontal overflow at 320px or 390px. The first-degree-murder example resets the chapter filter, and ArrowDown focuses §565.020’s exact source link. No browser warnings or errors were recorded.
+
+README, coverage notes, roadmap, source policy and fallback scope reflect the release. The existing design and filtering controls remain unchanged. Snapshot-specific files remain in use; workflow success and public-file comparisons are checked after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Title XV lands and public water supply — November 13, 2026
 
 ## Scope and source review

@@ -15,6 +15,7 @@
     "XIII",
     "XIV",
     "XV",
+    "XVI",
     "XIX",
     "XXXVII",
     "XXXVIII"
@@ -1133,6 +1134,67 @@
       "minimumVersions": 30
     },
     {
+      "chapter": "251",
+      "title": "Community Affairs, Planning and Development",
+      "category": "government",
+      "minimumVersions": 68
+    },
+    {
+      "chapter": "252",
+      "title": "Department of Conservation",
+      "category": "government",
+      "minimumVersions": 52
+    },
+    {
+      "chapter": "253",
+      "title": "State Parks and Historic Preservation",
+      "category": "government",
+      "minimumVersions": 80
+    },
+    {
+      "chapter": "254",
+      "title": "State Forestry Law",
+      "category": "government",
+      "minimumVersions": 28
+    },
+    {
+      "chapter": "255",
+      "title": "Division of Commerce and Industrial Development (Transferred to Chapter 625)",
+      "category": "government",
+      "minimumVersions": 0,
+      "emptyIndexReviewedAt": "2026-11-13"
+    },
+    {
+      "chapter": "256",
+      "title": "Geology, Water Resources and Geodetic Survey",
+      "category": "government",
+      "minimumVersions": 99
+    },
+    {
+      "chapter": "257",
+      "title": "Water Conservancy Districts",
+      "category": "government",
+      "minimumVersions": 47
+    },
+    {
+      "chapter": "258",
+      "title": "Outdoor Recreation",
+      "category": "government",
+      "minimumVersions": 7
+    },
+    {
+      "chapter": "259",
+      "title": "Oil and Gas Production",
+      "category": "government",
+      "minimumVersions": 24
+    },
+    {
+      "chapter": "260",
+      "title": "Environmental Control",
+      "category": "government",
+      "minimumVersions": 221
+    },
+    {
       "chapter": "300",
       "title": "Model Traffic Ordinance",
       "category": "transportation",
@@ -1441,7 +1503,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XV, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XVI, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",

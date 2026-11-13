@@ -20,7 +20,7 @@ Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no
 
 **Statewide heading coverage is the goal. It isn't finished.**
 
-The November 13, 2026 collection contains **15,432 distinct sections and 15,494 source versions** across **234 chapter indexes**. Two hundred thirty have headings; Chapters 152, 203, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **234** outside this collection at this check.
+The November 13, 2026 collection contains **16,058 distinct sections and 16,120 source versions** across **244 chapter indexes**. Two hundred thirty-nine have headings; Chapters 152, 203, 255, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **224** outside this collection at this check.
 
 | Area | Imported scope |
 | --- | --- |
@@ -35,11 +35,12 @@ The November 13, 2026 collection contains **15,432 distinct sections and 15,494 
 | Correctional and penal institutions | Title XIII: Chapters 217, 219 and 221 |
 | Roads and waterways | Title XIV: Chapters 226–231 and 233–238 |
 | Lands, drainage, levees, sewers and public water supply | Title XV: Chapters 241–250 |
+| Conservation, resources and development | Title XVI: Chapters 251–260 |
 | Motor vehicles, watercraft and aviation | Title XIX: Chapters 300–307 |
 | Criminal procedure | Title XXXVII: Chapters 540–552 |
 | Crimes, punishment, peace officers and public defenders | Title XXXVIII: Chapters 556–579, 589, 590, 595 and 600 |
 
-The latest batch adds **611 sections and 611 source versions**, completing Title XV's ten listed chapters. It covers swamplands, drainage rights and districts, levees, sewer systems and public water supply. Title XVI—conservation, resources and development—is next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
+The latest batch adds **626 sections and 626 source versions**, completing Title XVI's ten listed chapter indexes. It covers conservation, parks, forestry, geology, water districts, recreation, oil and gas, and environmental control. Chapter 255 is recorded as empty and transferred to Chapter 625. Title XVII—agriculture and animals—is next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
 
 These are state statute headings. The collection doesn't include local ordinances, court rules, regulations, constitutional provisions, federal law, or a complete historical archive. Chapter 300 is the state's Model Traffic Ordinance; its presence doesn't establish what a particular city has adopted.
 
@@ -47,7 +48,7 @@ Each chapter and source version keeps its retrieval date and response hash. Addi
 
 ## What has been checked
 
-The latest lands and water-supply expansion passed **848 TypeScript tests and 42 Python tests**, TypeScript checks, and the production build. All ten new chapter indexes matched a second retrieval. Browser checks covered new searches, chapter boundaries, exact citations, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
+The latest conservation expansion passed **884 TypeScript tests and 43 Python tests**, TypeScript checks, and the production build. All ten new chapter indexes matched a second retrieval. Browser checks covered new searches, chapter boundaries, exact citations, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
 
 The collection process checks every listed version against its official page, then retrieves the new chapter indexes again to check for changes. Tests cover search relevance, exact citations, chapter boundaries, source identities, and version handling. A failed validation blocks publication.
 
