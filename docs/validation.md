@@ -1,3 +1,31 @@
+# Final statewide heading coverage — November 13, 2026
+
+## Catalog and source reconciliation
+
+The final 17 indexes in Titles XXXIX–XLI add **1,157 sections and 1,158 versions**, completing **all 468 catalog chapter indexes across 41 titles**. The snapshot has **30,346 distinct sections and 30,434 source versions**: 458 populated chapters and ten explicitly reviewed empty indexes. No listed chapter or source version remains unaccounted for.
+
+The official catalog was independently rechecked at **2026-11-13T14:27:15.753176+00:00** after acquisition. Its chapter identities, titles, URLs and title memberships were unchanged. The catalog response SHA-256 is `16aa5fe53eeba8c49055f1520ad7ed1aa8c062dab797cd09b67c3730560e50e2`. Every dataset chapter and every version identity, index date and URL matches its archived index. Chapter retrieval dates and response hashes also match. Reusing earlier source caches preserves their original check dates; completion does not mean every source page was retrieved again today.
+
+All 17 final original/rechecked indexes and 1,158 accepted pages pass the actual production policies. Combined offline collection and gated promotion passed. The final change report has 1,158 additions, no removals and no prior changes; all 29,276 prior records and 451 prior chapter manifests are unchanged. Historical acquisition review flags were reconciled against the actual source policies while preserving their original records. Two unrelated responses for 643.303 and 650.320 remain archived and rejected; exact-identity replacements pass.
+
+## Final source exceptions
+
+Both 644.566 enactments retain their 1999-08-28 dates, distinct headings, blank ends and required possible-conflict note. Section 610.141 keeps its 2026-08-28 header date and technical-feasibility condition separately from the explicit latest-start deadline of 2027-01-01. Before that deadline it appears as contingent; on and after it, the label says “effective no later than.” Earlier feasibility is not assumed. Section 644.570 retains its 2008-08-28 header/index date alongside its explicit 2008-11-04 footnote date, which controls search availability. Section 644.571's source note confirms voter approval that day. The snapshot has 88 warned versions, 25 contingent versions at collection time and 39 scheduled future versions.
+
+## Tests
+
+**1,500 TypeScript and 99 Python tests passed**, plus TypeScript checks and the production build. Thirty-one final-batch queries were defined from source headings before ranking evaluation. Every new citation and exact source URL is tested under both upcoming settings. Date-boundary tests cover exact and heading searches before, on and after the conditional deadline and explicit footnote date. Missing or forged date metadata fails both validators. The initial footnote-boundary test supplied the full 210-character heading, exceeding the existing 200-character query limit. It was corrected to a shorter phrase from the same heading; the boundary expectations and query limit were retained. All 31 new relevance queries passed unchanged. Nine accepted-source fixtures and two rejected-response fixtures check required paragraphs, distinct concurrent headings and ordinary annotations rejecting constitutional challenges.
+
+Search ranking, aliases and the page layout are unchanged; date descriptions now explain the two new reviewed exceptions. The older campground singular/plural limitation remains unresolved. These are development checks, not independent legal-search evaluation. Physical Android performance measurements, screen-reader testing and independent alias review remain outstanding.
+
+## Browser and publication
+
+The production preview loaded 30,346 headings. Browser checks verified 610.141’s contingent group and explicit deadline under the upcoming toggle; 644.570’s footnote date alongside the original header date; both 644.566 enactments and exact links; exclusion by Chapter 643; and a new 650.025 heading query. Existing 526.010 reprint/warning groups remained correct. The long 644.570 heading and notices fit 390px and 320px viewports without horizontal overflow. The Seat belts example and ArrowDown focused the correct official source link. No browser warnings or errors were recorded.
+
+README, coverage, roadmap, source policy and visible scope reflect the complete checked catalog. A passing main-branch workflow publishes the release; live asset verification and local checkout synchronization are recorded after push. The expansion automation is paused only after final deployment verification. Future source refreshes are separate maintenance work.
+
+---
+
 # Statutory-actions and torts coverage — November 13, 2026
 
 ## Scope and source review

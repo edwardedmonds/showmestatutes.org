@@ -898,3 +898,41 @@ class StatutoryActionsSourceTests(unittest.TestCase):
         d=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text())
         for section in ['533.020','535.040','537.067','537.296']:
             id=next(r['id'] for r in d['records'] if r['section']==section);r=collect.parse_section(self.source(id),self.entry(id),'2026-11-13T14:24:00+00:00');self.assertFalse(r.get('hasConstitutionalWarning'));self.assertFalse(r.get('hasContingentEffectiveDate'))
+
+class ExecutiveSourceTests(unittest.TestCase):
+    entry = StatutoryActionsSourceTests.entry
+    without = StatutoryActionsSourceTests.without
+    def source(self,id):return Path(f'tests/fixtures/executive-{id.replace(":","-")}.html').read_text()
+    def test_final_dates_require_exact_source_paragraphs(self):
+        for id in ['610.141:60682','644.570:31297']:
+            e=self.entry(id);source=self.source(id);r=collect.parse_section(source,e,'2026-11-13T14:24:00+00:00');self.assertEqual(r['effectiveFrom'],e['effectiveFrom'])
+            if id.startswith('610'):
+                self.assertEqual(r['contingentUntil'],'2027-01-01');self.assertTrue(r['hasContingentEffectiveDate']);self.assertFalse(r.get('effectiveDateIsPlaceholder'));policy=next(p for p in collect.POLICY['contingentEnactments'] if p['section']=='610.141');notices=policy['versions'][0]['requiredSourceNotices']
+            else:
+                self.assertEqual(r['effectiveFromFootnote'],'2008-11-04');self.assertFalse(r.get('hasContingentEffectiveDate'));notices=[collect.POLICY['sourceDateNotes'][0]['sourceNotice']]
+            for notice in notices:
+                with self.assertRaises(ValueError):collect.parse_section(self.without(source,notice),e,'2026-11-13T14:24:00+00:00')
+    def test_concurrent_versions_require_the_printed_possible_conflict_note(self):
+        p=next(p for p in collect.POLICY['concurrentEnactments'] if p['section']=='644.566');records=[]
+        for id in ['644.566:31294','644.566:31295']:
+            e=self.entry(id);source=self.source(id);r=collect.parse_section(source,e,'2026-11-13T14:24:00+00:00');records.append(r);self.assertIsNone(r['effectiveTo']);self.assertTrue(r['multipleEnactments'])
+            with self.assertRaises(ValueError):collect.parse_section(self.without(source,p['sourceNotice']),e,'2026-11-13T14:24:00+00:00')
+        self.assertNotEqual(records[0]['title'],records[1]['title'])
+    def test_voter_approval_is_explicit_and_rejected_challenges_remain_ordinary(self):
+        from bs4 import BeautifulSoup
+        id='644.571:31298';source=self.source(id);self.assertIn("Revisor's Note: The amendment to Article III, Section 37(h) was approved by the voters on November 4, 2008.",[collect.clean(p.get_text(' ')) for p in BeautifulSoup(source,'html.parser').select('p')])
+        for id in ['644.571:31298','632.480:30969','644.052:31231']:
+            r=collect.parse_section(self.source(id),self.entry(id),'2026-11-13T14:24:00+00:00');self.assertFalse(r.get('hasConstitutionalWarning'));self.assertFalse(r.get('hasContingentEffectiveDate'))
+    def test_unrelated_responses_are_rejected_and_exact_replacements_pass(self):
+        for id in ['643.303:31191','650.320:54301']:
+            bad=Path(f'tests/fixtures/executive-rejected-{id.replace(":","-")}.html').read_text()
+            with self.assertRaises(ValueError):collect.parse_section(bad,self.entry(id),'2026-11-13T14:24:00+00:00')
+            r=collect.parse_section(self.source(id),self.entry(id),'2026-11-13T14:24:00+00:00');self.assertEqual(r['id'],id)
+    def test_forged_or_missing_date_metadata_fails_validation(self):
+        import copy,os
+        original=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text())
+        for id,key,value in [('610.141:60682','contingentUntil',None),('610.141:60682','contingentUntil','2026-12-31'),('644.570:31297','effectiveFromFootnote',None),('644.570:31297','effectiveFromFootnote','2008-08-28'),('644.571:31298','effectiveFromFootnote','2008-11-04'),('644.571:31298','contingentUntil','2027-01-01')]:
+            d=copy.deepcopy(original);r=next(r for r in d['records'] if r['id']==id)
+            if value is None:r.pop(key,None)
+            else:r[key]=value
+            with self.assertRaises(ValueError):collect.validate(d)

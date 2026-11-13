@@ -1,5 +1,5 @@
 import './style.css';
-import { assertDataset, constitutionalNotice, standaloneReprintNotice, enactmentNotice, todayInMissouri, type Dataset } from './data';
+import { assertDataset, effectiveDateLabel, isContingent, sourceDateNotice, constitutionalNotice, standaloneReprintNotice, enactmentNotice, todayInMissouri, type Dataset } from './data';
 import { createSearch, loadIndex, type Match } from './search';
 
 const form = document.querySelector<HTMLFormElement>('#search-form')!;
@@ -20,7 +20,7 @@ function element<K extends keyof HTMLElementTagNameMap>(tag: K, text?: string, c
   if (className) node.className = className;
   return node;
 }
-function card(match: Match, future: boolean) {
+function card(match: Match, future: boolean, asOf: string) {
   const r = match.record;
   const item = element('li', undefined, 'result-card');
   const meta = element('div', undefined, 'card-meta');
@@ -29,18 +29,13 @@ function card(match: Match, future: boolean) {
   const link = element('a', r.title);
   link.href = r.sourceUrl;
   title.append(link);
-  const dateLabel = r.hasConstitutionalWarning
-    ? `Source effective date ${formatDate(r.effectiveFrom)} · The Revisor flags all or part as unconstitutional. Read the official notes before relying on this version.`
-    : r.effectiveDateIsPlaceholder
-    ? 'Contingent effective date · the source date is a placeholder, not a scheduled start. Read the official conditions.'
-    : r.hasContingentEffectiveDate
-    ? `Contingent effective date · source date ${formatDate(r.effectiveFrom)}. Read the official conditions before relying on this version.`
-    : `${future ? 'Upcoming · effective' : 'Effective'} ${formatDate(r.effectiveFrom)}${r.effectiveEndDateIsPlaceholder ? ' · end date is contingent; read the source conditions' : r.effectiveTo ? ` · ends ${formatDate(r.effectiveTo)}` : ''}`;
-  const dates = element('p', dateLabel, future || r.effectiveDateIsPlaceholder || r.hasContingentEffectiveDate || r.hasConstitutionalWarning ? 'version future' : 'version');
+  const dates = element('p', effectiveDateLabel(r, asOf, future), future || isContingent(r, asOf) || r.hasConstitutionalWarning ? 'version future' : 'version');
   const bottom = element('div', undefined, 'card-bottom');
   bottom.append(element('span', match.reason, 'match-reason'), element('small', `Source checked ${formatDate(r.sourceCheckedAt)}`));
   item.append(meta, title, dates, bottom);
   if (r.headingSource === 'chapter-index') item.append(element('p', 'Heading supplied by the official chapter index; this version’s source page omits its heading.', 'version'));
+  const dateNotice = sourceDateNotice(r);
+  if (dateNotice) item.append(element('p', dateNotice, 'version'));
   const sourceNotice = constitutionalNotice(r);
   if (sourceNotice) item.append(element('p', sourceNotice, 'version'));
   const reprintNotice = standaloneReprintNotice(r);
@@ -52,7 +47,7 @@ function card(match: Match, future: boolean) {
   item.append(official);
   return item;
 }
-function group(title: string, matches: Match[], future = false) {
+function group(title: string, matches: Match[], asOf: string, future = false) {
   if (!matches.length) return;
   const section = element('section', undefined, 'result-group');
   const heading = element('h2', title);
@@ -60,14 +55,14 @@ function group(title: string, matches: Match[], future = false) {
   section.append(heading);
   const list = element('ol', undefined, 'result-list');
   let visibleCount = Math.min(matches.length, 8);
-  matches.slice(0, visibleCount).forEach(m => list.append(card(m, future)));
+  matches.slice(0, visibleCount).forEach(m => list.append(card(m, future, asOf)));
   section.append(list);
   if (matches.length > visibleCount) {
     const more = element('button', `Show ${matches.length - visibleCount} more headings`, 'show-more');
     more.type = 'button';
     more.addEventListener('click', () => {
       const firstNew = visibleCount;
-      matches.slice(visibleCount).forEach(m => list.append(card(m, future)));
+      matches.slice(visibleCount).forEach(m => list.append(card(m, future, asOf)));
       visibleCount = matches.length;
       more.remove();
       list.children[firstNew]?.querySelector('a')?.focus();
@@ -93,11 +88,11 @@ function runSearch() {
   const scope = chapter.value ? `Chapter ${chapter.value}` : 'the indexed chapters';
   const count = found.best.length + found.related.length + found.upcoming.length + found.contingent.length + found.constitutional.length;
   status.textContent = count ? `${count} matching version${count === 1 ? '' : 's'} within ${scope}.${found.correction ? ` Spelling suggestion: ${found.correction}.` : ''}` : `No close heading found within ${scope}.`;
-  group('Best heading matches', found.best);
-  group('Related sections', found.related);
-  group('Upcoming versions', found.upcoming, true);
-  group('Versions with constitutional warnings', found.constitutional);
-  group('Contingent versions — check the source conditions', found.contingent);
+  group('Best heading matches', found.best, asOf);
+  group('Related sections', found.related, asOf);
+  group('Upcoming versions', found.upcoming, asOf, true);
+  group('Versions with constitutional warnings', found.constitutional, asOf);
+  group('Contingent versions — check the source conditions', found.contingent, asOf);
   if (!count) {
     const empty = element('section', undefined, 'empty-state');
     empty.append(element('h2', 'Try another name or a broader topic.'), element('p', 'Try all indexed chapters if a chapter filter is selected. Laws outside this collection may also be relevant. Upcoming versions are hidden unless you include them.'));

@@ -210,9 +210,15 @@ def parse_section(html, entry, checked_at):
             or standalone['sourceNotice'] not in [clean(p.get_text(' ')) for p in soup.select('p')]
             or f"There are multiple enactments of {entry['section']}" in clean(soup.get_text(' '))):
         raise ValueError('Unverified standalone reprint: ' + entry['id'])
+    date_note = next((p for p in POLICY.get('sourceDateNotes', []) if p['id'] == entry['id']), None)
+    if date_note and (entry['effectiveFrom'] != date_note['effectiveFrom']
+            or date_note['sourceNotice'] not in [clean(p.get_text(' ')) for p in soup.select('p')]):
+        raise ValueError('Unverified source date footnote: ' + entry['id'])
     chapter = entry['section'].split('.')[0]
     return {**{k: v for k, v in entry.items() if k != 'indexHeading'},
             **({'headingSource': 'chapter-index'} if exception else {}),
+            **({'contingentUntil': reviewed['contingentUntil']} if reviewed and reviewed.get('contingentUntil') else {}),
+            **({'effectiveFromFootnote': date_note['effectiveFromFootnote']} if date_note else {}),
             **({'hasContingentEffectiveDate': True} if reviewed and reviewed.get('conditionPending') else {}), 'title': title, 'chapter': chapter, 'chapterTitle': CHAPTERS[chapter]['title'],
             'effectiveTo': until, **({'multipleEnactments': True} if concurrent or delayed or (contingent and contingent['multipleEnactments']) else {}),
             **({'effectiveDateIsPlaceholder': True} if placeholder else {}),
@@ -264,6 +270,16 @@ def validate(dataset, previous=None):
         if ((record.get('hasContingentEffectiveDate') is not None and record.get('hasContingentEffectiveDate') is not True)
                 or bool(record.get('hasContingentEffectiveDate')) != bool(reviewed and reviewed.get('conditionPending'))):
             raise ValueError('Unverified contingent date marker')
+        deadline = reviewed.get('contingentUntil') if reviewed else None
+        date_note = next((p for p in POLICY.get('sourceDateNotes', []) if p['id'] == record['id']), None)
+        if record.get('contingentUntil') != deadline or (deadline and (not reviewed.get('conditionPending') or reviewed['dateIsPlaceholder'] or deadline < record['effectiveFrom'])):
+            raise ValueError('Unverified contingent deadline')
+        if record.get('effectiveFromFootnote') != (date_note['effectiveFromFootnote'] if date_note else None) or (date_note and record['effectiveFrom'] != date_note['effectiveFrom']):
+            raise ValueError('Unverified source date footnote')
+        for value in [deadline, record.get('effectiveFromFootnote')]:
+            if value:
+                if datetime.strptime(value, '%Y-%m-%d').strftime('%Y-%m-%d') != value:
+                    raise ValueError('Invalid reviewed source date')
         if ((record.get('effectiveEndDateIsPlaceholder') is not None and record.get('effectiveEndDateIsPlaceholder') is not True)
                 or bool(record.get('effectiveEndDateIsPlaceholder')) != bool(reviewed and reviewed.get('endDateIsPlaceholder'))
                 or (reviewed and reviewed.get('endDateIsPlaceholder') and record['effectiveTo'] != reviewed.get('effectiveTo'))
@@ -344,8 +360,8 @@ def validate(dataset, previous=None):
         if lost:
             raise ValueError('Record loss requires explicit review: ' + ', '.join(sorted(lost)))
     return {'valid': True, 'records': len(records), 'sections': len(grouped), 'chapters': len(CHAPTERS),
-            'futureVersionsAtCheck': sum(not r.get('hasConstitutionalWarning') and not r.get('effectiveDateIsPlaceholder') and not r.get('hasContingentEffectiveDate') and r['effectiveFrom'] > manifest['collectedAt'][:10] for r in records),
-            'contingentVersions': sum(bool(r.get('effectiveDateIsPlaceholder') or r.get('hasContingentEffectiveDate')) for r in records),
+            'futureVersionsAtCheck': sum(not r.get('hasConstitutionalWarning') and not r.get('effectiveDateIsPlaceholder') and not (r.get('hasContingentEffectiveDate') and (not r.get('contingentUntil') or manifest['collectedAt'][:10] < r['contingentUntil'])) and r.get('effectiveFromFootnote', r['effectiveFrom']) > manifest['collectedAt'][:10] for r in records),
+            'contingentVersions': sum(bool(r.get('effectiveDateIsPlaceholder') or (r.get('hasContingentEffectiveDate') and (not r.get('contingentUntil') or manifest['collectedAt'][:10] < r['contingentUntil']))) for r in records),
             'constitutionalWarningVersions': sum(bool(r.get('hasConstitutionalWarning')) for r in records)}
 
 

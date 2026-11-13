@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XLI. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -110,7 +110,7 @@ Chapters 192–195 were enumerated from the official title and chapter indexes. 
 
 The official catalog and chapter indexes enumerate 442 source versions in Chapters 196–199. All pages passed strict source parsing, and each index matched an independent retrieval after that chapter's pages were collected. Two initial responses had unrelated headings: §197.425:10410 and §198.644:51225. The existing bounded exact-URL retry recovered valid source pages; rejected and accepted evidence is retained locally. No parser exceptions or new source-warning policies were needed.
 
-A resumable acquisition process now collects remaining catalog sources independently of publication. Provisional source files never promote themselves. Every release still requires explicit source review, the strict combined collector, regression tests, README and coverage updates, and a passing deployment workflow. Unfamiliar citation formats and empty indexes must be reviewed before inclusion; they are not silently omitted from the statewide target.
+A resumable acquisition process collected the remaining catalog sources independently of publication; acquisition is complete for the November 13, 2026 catalog. Provisional source files never promote themselves. Every release still requires explicit source review, the strict combined collector, regression tests, README and coverage updates, and a passing deployment workflow. Unfamiliar citation formats and empty indexes must be reviewed before inclusion; they are not silently omitted from the statewide target.
 
 ## Fourth Title XII batch
 
@@ -261,3 +261,15 @@ The **523.061** pair (51507, 2022-08-28; 28009, 2006-08-28) requires the exact B
 **536.019:28394** and **536.028:28402** retain the source date 1997-08-28 without marking it as a placeholder. Their exact Revisor notes say the Executive Order 97-97 contingencies have not occurred. Each policy also requires the exact contingent-date footnote (subsection 2 or 13 respectively). Missing either note fails collection. No condition fulfillment is inferred.
 
 The five annotation-only warnings retain their exact source dates and stated limits: **535.110:35187** (2018) concerns a historical indigent appeal-bond application, distinguishing a stay bond; **536.050:28411** (2005) concerns Administrative Hearing Commission declaratory-judgment jurisdiction; **536.087:28425** (1989) concerns a Supreme Court original-appellate-jurisdiction application; **537.053:28461** (2002) retains the historical conviction condition and requires the 2002 retrospective and 2006 upholding annotations; **538.220:28580** (2005) requires both the 2019 as-applied periodic-payment annotation and the earlier 1992 upholding paragraph. These notices do not declare entire later statutes invalid. The four reviewed annotations rejecting challenges remain ordinary. Search ranking, aliases and the interface are unchanged.
+
+## Final executive departments and standards; explicit date metadata
+
+The 17 final indexes and all 1,158 accepted pages pass strict source parsing. Two unrelated responses (643.303 showing 143.461; 650.320 showing 400.7-601) are retained as rejected evidence; exact replacements are required. All 468 catalog indexes reconcile with dataset identities and provenance. Historical worker review flags are resolved against actual policies without erasing the original review records.
+
+The possible-conflict note on both **644.566:31294/:31295** is required verbatim. Both 1999-08-28 dates, different headings and blank ends remain.
+
+For **610.141:60682**, both the complete subsection 10 technical-feasibility condition and its contingent footnote are required. Optional `contingentUntil: "2027-01-01"` records the source's explicit latest-start deadline; `effectiveFrom: "2026-08-28"` remains untouched. Before the deadline, exact and heading search show the contingent group under either upcoming setting. On and after the deadline, ordinary results say “effective no later than” and retain the condition explanation. Earlier feasibility is not inferred. The same as-of date drives search, card labels and expanded results.
+
+For **644.570:31297**, exact footnote `*Effective 11-04-08, see § 644.571` is required. Optional `effectiveFromFootnote: "2008-11-04"` controls date filtering; the original 2008-08-28 index/header/history date remains `effectiveFrom` and is displayed alongside it. Section **644.571:31298** explicitly confirms voter approval on November 4, 2008 and remains ordinary. Missing, altered or unreviewed metadata is rejected by Python and TypeScript validators; source-paragraph removal fails parsing. Metadata changes are included in refresh change reports. Existing schema version 2 permits these reviewed optional fields; prior records are unchanged.
+
+The final collection contains 88 constitutionally warned versions, 25 contingent versions at collection time, and 39 scheduled future versions. The source-date exceptions do not change ranking, aliases or the page layout. The full checked catalog is heading/source-version coverage, not all historical law or statutory body text.

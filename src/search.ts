@@ -1,6 +1,6 @@
 import MiniSearch from 'minisearch';
 import aliasData from '../data/aliases.json';
-import { chapterPolicy, isEffective, isUpcoming, validDate, type Statute } from './data';
+import { chapterPolicy, isContingent, isEffective, isUpcoming, validDate, type Statute } from './data';
 
 const aliases = aliasData.sections as Record<string, string[]>;
 const topics = aliasData.topics as Record<string, string[]>;
@@ -66,7 +66,7 @@ export function createSearch(records: Statute[], index = buildIndex(records)) {
         best: matches.filter(r => isEffective(r, asOf)).map(record => ({ record, reason: 'Exact section number', score: 1000 })),
         upcoming: includeUpcoming ? matches.filter(r => isUpcoming(r, asOf)).map(record => ({ record, reason: 'Exact section number', score: 1000 })) : [],
         constitutional: matches.filter(r => r.hasConstitutionalWarning).map(record => ({ record, reason: 'Exact section number', score: 1000 })),
-        contingent: matches.filter(r => r.effectiveDateIsPlaceholder || r.hasContingentEffectiveDate).map(record => ({ record, reason: 'Exact section number', score: 1000 })),
+        contingent: matches.filter(r => isContingent(r, asOf)).map(record => ({ record, reason: 'Exact section number', score: 1000 })),
       };
     }
     // Never correct a numeric reference or mix numbers into fuzzy heading matching.
@@ -119,6 +119,6 @@ export function createSearch(records: Statute[], index = buildIndex(records)) {
       .map(record => ({ record, reason: topicSections.length ? 'Broader topic match' : 'Related section', score: 0 }));
     return { best, related: relatedMatches, upcoming: includeUpcoming ? scored.filter(m => isUpcoming(m.record, asOf)) : [],
       constitutional: scored.filter(m => m.record.hasConstitutionalWarning),
-      contingent: scored.filter(m => m.record.effectiveDateIsPlaceholder || m.record.hasContingentEffectiveDate), correction, exact: false };
+      contingent: scored.filter(m => isContingent(m.record, asOf)), correction, exact: false };
   };
 }

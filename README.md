@@ -12,15 +12,15 @@ The search starts with official section headings and a small set of documented c
 
 This choice gives heading matches priority over passing mentions buried in a statute's body. It also sets a real limit: a concept that appears only in the body may not turn up here. The chapter selector helps narrow a broad search, and every result links back to its official source version.
 
-Dates need more care than simply choosing the newest record. Upcoming versions have their own group. Contingent versions stay separate when the Revisor uses a placeholder date. Versions carrying the Revisor's constitutional warning appear in a labeled group, outside ordinary current and upcoming results. Placeholder end dates are preserved without presenting them as scheduled expirations. Where the source reprints an earlier version after a court ruling, the indexed source links remain available with an explanation. A reprint note does not imply that the chapter index lists two versions. The site preserves those distinctions without deciding legal applicability for you.
+Dates need more care than simply choosing the newest record. Upcoming versions have their own group. Contingent versions stay separate when the Revisor uses a placeholder date or states an unresolved condition. An explicit latest-start deadline ends that separation on the stated day; the site does not assume the condition was met earlier. When a reviewed source footnote gives a different effective date, the search uses that date and shows the original header date too. Versions carrying the Revisor's constitutional warning appear in a labeled group, outside ordinary current and upcoming results. Placeholder end dates are preserved without presenting them as scheduled expirations. Where the source reprints an earlier version after a court ruling, the indexed source links remain available with an explanation. A reprint note does not imply that the chapter index lists two versions. The site preserves those distinctions without deciding legal applicability for you.
 
 Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no accounts, analytics, paid search backend, or AI service. Each build requests data files named for its snapshot to avoid mixing cached releases. The build includes a prebuilt index; the browser can rebuild it from the validated snapshot if that index is missing or mismatched.
 
 ## What's covered
 
-**Statewide heading coverage is the goal. It isn't finished.**
+**The checked statewide statute-heading catalog is complete.**
 
-The November 13, 2026 collection contains **29,189 distinct sections and 29,276 source versions** across **451 chapter indexes**. Four hundred forty-one have headings; Chapters 152, 203, 255, 280, 312, 318, 342, 460, 560 and 564 currently list no sections. The official catalog contains 468 chapter links, leaving **17** outside this collection at this check.
+The November 13, 2026 collection contains **30,346 distinct sections and 30,434 source versions** across **468 chapter indexes**. Four hundred fifty-eight have headings; Chapters 152, 203, 255, 280, 312, 318, 342, 460, 560 and 564 currently list no sections. A fresh catalog check on November 13 matched all 468 chapter links across Titles I–XLI. No listed chapter remains outside this snapshot.
 
 | Area | Imported scope |
 | --- | --- |
@@ -57,8 +57,11 @@ The November 13, 2026 collection contains **29,189 distinct sections and 29,276 
 | Statutory actions and torts | Title XXXVI: Chapters 521–538 |
 | Criminal procedure | Title XXXVII: Chapters 540–552 |
 | Crimes, punishment, peace officers and public defenders | Title XXXVIII: Chapters 556–579, 589, 590, 595 and 600 |
+| Public business | Title XXXIX: Chapter 610 |
+| Additional executive departments | Title XL: Chapters 620–622, 625, 630–633, 640, 643–644, 650, 660 and 680 |
+| Codes and standards | Title XLI: Chapters 700–701 |
 
-The latest batch adds **724 sections and 726 source versions** from all 18 indexes in Title XXXVI. It covers attachment, condemnation, garnishment, injunctions, declaratory judgments, partition, writs, possession, administrative procedure and torts. Two reprinted-version pairs keep both source links, and two provisions with contingent dates stay separate from current results. Historical warnings retain their limits and later source annotations. Titles I–XXXVIII are now accounted for; public business, additional executive departments, and codes and standards are next. [The coverage plan](docs/full-coverage-plan.md) records the remaining work; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
+The final batch adds **1,157 sections and 1,158 source versions** from the remaining 17 indexes. It includes public meetings and records, economic development, mental health, environmental protection, public safety, social services, manufactured homes and health standards. Every listed chapter is now accounted for. [The coverage record](docs/full-coverage-plan.md) explains what completion means; [the coverage notes](docs/coverage.md) list the exact chapters and source exceptions.
 
 These are state statute headings. The collection doesn't include local ordinances, court rules, regulations, constitutional provisions, federal law, or a complete historical archive. Chapter 300 is the state's Model Traffic Ordinance; its presence doesn't establish what a particular city has adopted.
 
@@ -66,7 +69,7 @@ Each chapter and source version keeps its retrieval date and response hash. Addi
 
 ## What has been checked
 
-The latest statutory-actions and torts expansion passed **1,463 TypeScript tests and 94 Python tests**, TypeScript checks, and the production build. All 18 new chapter indexes matched a second retrieval. Browser checks covered new searches, chapter boundaries, source annotations, exact source links and constitutional warnings, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
+The final statewide expansion passed **1,500 TypeScript tests and 99 Python tests**, TypeScript checks, and the production build. All 17 new chapter indexes matched a second retrieval. Browser checks covered new searches, chapter boundaries, source annotations, exact source links and constitutional warnings, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
 
 The collection process checks every listed version against its official page, then retrieves the new chapter indexes again to check for changes. Tests cover search relevance, exact citations, chapter boundaries, source identities, and version handling. A failed validation blocks publication.
 

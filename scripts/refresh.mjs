@@ -25,7 +25,7 @@ try {
   const prior = new Map((old.records ?? []).map(r => [r.id, r]));
   const next = new Map(fresh.records.map(r => [r.id, r]));
   const removed = [...prior.keys()].filter(id => !next.has(id));
-  const semantic = r => JSON.stringify([r.section, r.title, r.chapter, r.effectiveFrom, r.effectiveTo, r.sourceUrl, r.headingMarker, r.multipleEnactments, r.effectiveDateIsPlaceholder, r.effectiveEndDateIsPlaceholder, r.hasConstitutionalWarning, r.hasContingentEffectiveDate, r.headingSource]);
+  const semantic = r => JSON.stringify([r.section, r.title, r.chapter, r.effectiveFrom, r.effectiveTo, r.sourceUrl, r.headingMarker, r.multipleEnactments, r.effectiveDateIsPlaceholder, r.effectiveEndDateIsPlaceholder, r.hasConstitutionalWarning, r.hasContingentEffectiveDate, r.contingentUntil, r.effectiveFromFootnote, r.headingSource]);
   const report = {
     previousSourceCheck: old.manifest?.collectedAt ?? null,
     nextSourceCheck: fresh.manifest.collectedAt,

@@ -37,7 +37,10 @@
     "XXXV",
     "XXXVI",
     "XXXVII",
-    "XXXVIII"
+    "XXXVIII",
+    "XXXIX",
+    "XL",
+    "XLI"
   ],
   "chapters": [
     {
@@ -2755,6 +2758,108 @@
       "title": "Public Defenders",
       "category": "related",
       "minimumVersions": 21
+    },
+    {
+      "chapter": "610",
+      "title": "Governmental Bodies and Records",
+      "category": "government",
+      "minimumVersions": 41
+    },
+    {
+      "chapter": "620",
+      "title": "Department of Economic Development",
+      "category": "government",
+      "minimumVersions": 156
+    },
+    {
+      "chapter": "621",
+      "title": "Administrative Hearing Commission",
+      "category": "government",
+      "minimumVersions": 27
+    },
+    {
+      "chapter": "622",
+      "title": "Motor Carrier and Railroad Safety",
+      "category": "government",
+      "minimumVersions": 60
+    },
+    {
+      "chapter": "625",
+      "title": "Division of Commerce and Industrial Development",
+      "category": "government",
+      "minimumVersions": 10
+    },
+    {
+      "chapter": "630",
+      "title": "Department of Mental Health",
+      "category": "government",
+      "minimumVersions": 150
+    },
+    {
+      "chapter": "631",
+      "title": "Alcohol and Drug Abuse",
+      "category": "government",
+      "minimumVersions": 28
+    },
+    {
+      "chapter": "632",
+      "title": "Comprehensive Psychiatric Services",
+      "category": "government",
+      "minimumVersions": 85
+    },
+    {
+      "chapter": "633",
+      "title": "Intellectual Disabilities and Developmental Disabilities",
+      "category": "government",
+      "minimumVersions": 39
+    },
+    {
+      "chapter": "640",
+      "title": "Department of Natural Resources",
+      "category": "government",
+      "minimumVersions": 97
+    },
+    {
+      "chapter": "643",
+      "title": "Air Conservation",
+      "category": "government",
+      "minimumVersions": 69
+    },
+    {
+      "chapter": "644",
+      "title": "Water Pollution",
+      "category": "government",
+      "minimumVersions": 110
+    },
+    {
+      "chapter": "650",
+      "title": "Department of Public Safety",
+      "category": "government",
+      "minimumVersions": 72
+    },
+    {
+      "chapter": "660",
+      "title": "Department of Social Services",
+      "category": "government",
+      "minimumVersions": 65
+    },
+    {
+      "chapter": "680",
+      "title": "Transportation Services",
+      "category": "government",
+      "minimumVersions": 7
+    },
+    {
+      "chapter": "700",
+      "title": "Manufactured Homes (Mobile Homes)",
+      "category": "government",
+      "minimumVersions": 57
+    },
+    {
+      "chapter": "701",
+      "title": "State Standards",
+      "category": "government",
+      "minimumVersions": 85
     }
   ],
   "concurrentEnactments": [
@@ -2778,9 +2883,18 @@
       "reviewedAt": "2026-11-13",
       "sourceNotice": "*This section was amended by H.B. 1231 and H.B. 1665 & 1335, 2014. Due to possible conflict, two versions of this section are printed.",
       "basis": "Both source pages retain the same date and blank ends, identify competing 2014 enactments, and differ on agreement versus notice and opportunity to respond. Preserve both without resolving applicability."
+    },
+    {
+      "section": "644.566",
+      "versionIds": [
+        "31294",
+        "31295"
+      ],
+      "effectiveFrom": "1999-08-28",
+      "sourceNotice": "*This section was enacted by both H.B. 450 and S.B. 160 & 82 during the 1st Regular Session of the 90th General Assembly, 1999. Due to possible conflict, both versions are printed here."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "All 468 chapter indexes across Titles I–XLI in the official Missouri Revisor catalog checked November 13, 2026: 458 chapters with headings and 10 indexes with no sections listed. Searches headings and common names, not statutory body text or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -3252,6 +3366,25 @@
       "sourceNotice": "*Revisor's Note: To date, the contingencies contained in this section regarding Executive Order 97-97 have not occurred.",
       "displayNotice": "The source gives a contingent effective date in subsection 13 and says the Executive Order 97-97 contingencies have not occurred. The printed 1997 date is preserved, without treating the section as currently effective.",
       "basis": "Retain the ordinary printed source date and both exact footnotes; do not infer fulfillment of the source conditions."
+    },
+    {
+      "section": "610.141",
+      "versions": [
+        {
+          "versionId": "60682",
+          "effectiveFrom": "2026-08-28",
+          "dateIsPlaceholder": false,
+          "conditionPending": true,
+          "contingentUntil": "2027-01-01",
+          "requiredSourceNotices": [
+            "10. The provisions of this section shall be effective when technically feasible for both the office of state courts administrator and the central repository, but no later than January 1, 2027.",
+            "Contingent effective date, see subsection 10."
+          ]
+        }
+      ],
+      "multipleEnactments": false,
+      "sourceNotice": "10. The provisions of this section shall be effective when technically feasible for both the office of state courts administrator and the central repository, but no later than January 1, 2027.",
+      "displayNotice": "Subsection 10 makes effectiveness depend on technical feasibility for both the courts administrator and central repository, but no later than January 1, 2027. The August 28, 2026 source date is preserved; this collection does not establish whether technical feasibility occurred earlier."
     }
   ],
   "delayedEnactments": [
@@ -4513,6 +4646,15 @@
       "reviewedAt": "2026-11-13",
       "displayNotice": "The Revisor prints both enactments because of possible conflict between H.B. 818 and S.B. 66 (2007). Their recorded effective dates differ, and neither has a source end date. Read both official versions to determine applicability.",
       "basis": "Both exact indexed identities have the multiple-enactment banner, distinct source footnotes and blank history ends. Preserve both source intervals without choosing a controlling enactment."
+    }
+  ],
+  "sourceDateNotes": [
+    {
+      "id": "644.570:31297",
+      "effectiveFrom": "2008-08-28",
+      "effectiveFromFootnote": "2008-11-04",
+      "sourceNotice": "*Effective 11-04-08, see § 644.571",
+      "displayNotice": "The chapter index and page header print August 28, 2008. The source footnote explicitly gives November 4, 2008 as the effective date and refers to § 644.571, whose Revisor note confirms voter approval on that date. Search availability follows the footnote date."
     }
   ]
 }

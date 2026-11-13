@@ -23,6 +23,8 @@ export interface Statute {
   effectiveEndDateIsPlaceholder?: true;
   hasConstitutionalWarning?: true;
   hasContingentEffectiveDate?: true;
+  contingentUntil?: string;
+  effectiveFromFootnote?: string;
   headingSource?: 'chapter-index';
 }
 export interface Dataset {
@@ -62,6 +64,7 @@ export function assertDataset(value: unknown): asserts value is Dataset {
     const headingException = coverage.indexHeadingExceptions.find(p => p.id === r?.id);
     const warning = coverage.constitutionalWarnings.find(p => p.id === r?.id);
     const standalone = coverage.standaloneReprints.find(p => p.id === r?.id);
+    const dateNote = coverage.sourceDateNotes.find(p => p.id === r?.id);
     const contingentPolicy = coverage.contingentEnactments.find(c => c.section === r?.section);
     const delayed = reviewedOverlaps.find(c => c.section === r?.section)?.versions.find(v => v.versionId === r?.versionId);
     const contingent = contingentPolicy?.versions.find(v => v.versionId === r?.versionId);
@@ -78,6 +81,10 @@ export function assertDataset(value: unknown): asserts value is Dataset {
       || (contingent && 'repealHeading' in contingent && r.title !== contingent.repealHeading)
       || (r.hasContingentEffectiveDate !== undefined && r.hasContingentEffectiveDate !== true)
       || Boolean(r.hasContingentEffectiveDate) !== Boolean(contingent && 'conditionPending' in contingent && contingent.conditionPending)
+      || r.contingentUntil !== (contingent && 'contingentUntil' in contingent ? contingent.contingentUntil : undefined)
+      || (r.contingentUntil !== undefined && (!validDate(r.contingentUntil) || !r.hasContingentEffectiveDate || r.effectiveDateIsPlaceholder || r.contingentUntil < r.effectiveFrom))
+      || r.effectiveFromFootnote !== dateNote?.effectiveFromFootnote
+      || (dateNote && (r.effectiveFrom !== dateNote.effectiveFrom || !validDate(r.effectiveFromFootnote)))
       || r.headingSource !== (headingException ? 'chapter-index' : undefined)
       || (headingException && (r.title !== headingException.title || r.effectiveFrom !== headingException.effectiveFrom))
       || (r.hasConstitutionalWarning !== undefined && r.hasConstitutionalWarning !== true)
@@ -139,11 +146,14 @@ export function assertDataset(value: unknown): asserts value is Dataset {
     }
   }
 }
+export function isContingent(record: Statute, asOf: string): boolean {
+  return Boolean(record.effectiveDateIsPlaceholder || (record.hasContingentEffectiveDate && (!record.contingentUntil || asOf < record.contingentUntil)));
+}
 export function isEffective(record: Statute, asOf: string): boolean {
-  return !record.hasConstitutionalWarning && !record.effectiveDateIsPlaceholder && !record.hasContingentEffectiveDate && record.effectiveFrom <= asOf && (!record.effectiveTo || record.effectiveEndDateIsPlaceholder === true || asOf < record.effectiveTo);
+  return !record.hasConstitutionalWarning && !isContingent(record, asOf) && (record.effectiveFromFootnote ?? record.effectiveFrom) <= asOf && (!record.effectiveTo || record.effectiveEndDateIsPlaceholder === true || asOf < record.effectiveTo);
 }
 export function isUpcoming(record: Statute, asOf: string): boolean {
-  return !record.hasConstitutionalWarning && !record.effectiveDateIsPlaceholder && !record.hasContingentEffectiveDate && record.effectiveFrom > asOf;
+  return !record.hasConstitutionalWarning && !isContingent(record, asOf) && (record.effectiveFromFootnote ?? record.effectiveFrom) > asOf;
 }
 export function todayInMissouri(): string {
   const parts = new Intl.DateTimeFormat('en-US', { timeZone: 'America/Chicago', year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(new Date());
@@ -163,4 +173,18 @@ export function constitutionalNotice(record: Statute): string | undefined {
 
 export function standaloneReprintNotice(record: Statute): string | undefined {
   return coverage.standaloneReprints.find(p => p.id === record.id)?.displayNotice;
+}
+
+export function sourceDateNotice(record: Statute): string | undefined {
+  return coverage.sourceDateNotes.find(p => p.id === record.id)?.displayNotice
+    ?? (record.contingentUntil ? coverage.contingentEnactments.find(p => p.section === record.section)?.displayNotice : undefined);
+}
+
+export function effectiveDateLabel(r: Statute, asOf: string, future: boolean): string {
+  const format = (value: string) => new Intl.DateTimeFormat('en-US', { dateStyle: 'medium', timeZone: 'UTC' }).format(new Date(value));
+  if (r.hasConstitutionalWarning) return `Source effective date ${format(r.effectiveFrom)} · The Revisor flags all or part as unconstitutional. Read the official notes before relying on this version.`;
+  if (r.effectiveDateIsPlaceholder) return 'Contingent effective date · the source date is a placeholder, not a scheduled start. Read the official conditions.';
+  if (isContingent(r, asOf)) return `Contingent effective date · source date ${format(r.effectiveFrom)}. Read the official conditions before relying on this version.`;
+  if (r.contingentUntil) return `Effective no later than ${format(r.contingentUntil)} · source date ${format(r.effectiveFrom)}. Read the official conditions.`;
+  return `${future ? 'Upcoming · effective' : 'Effective'} ${format(r.effectiveFromFootnote ?? r.effectiveFrom)}${r.effectiveFromFootnote ? ` (source footnote) · header date ${format(r.effectiveFrom)}` : ''}${r.effectiveEndDateIsPlaceholder ? ' · end date is contingent; read the source conditions' : r.effectiveTo ? ` · ends ${format(r.effectiveTo)}` : ''}`;
 }
