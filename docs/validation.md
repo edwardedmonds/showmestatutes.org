@@ -1,3 +1,25 @@
+# Children's health and local health services — November 13, 2026
+
+## Scope and source checks
+
+Chapters 201 and 204–207 add **240 distinct sections and source versions**: 12 in Children's Special Health Care Needs Service, 77 in Common Sewer Districts in Certain Areas, 119 in County Health and Welfare Programs, 23 in Hospital District Law, and nine in Family Support Division and Children's Division. The reviewed empty Chapter 203 is also included. The combined snapshot contains **12,822 sections and 12,873 versions** across **202 chapter indexes**: 198 with headings and four reviewed empty indexes. The official catalog has 468 chapter links, leaving **266** outside this collection. Seven listed Title XII chapters remain, beginning with Chapter 208.
+
+All 240 new pages passed source identity, heading and date checks without source retries or unresolved exceptions. The five populated indexes and empty Chapter 203 matched independent second retrievals. Chapter 203 is explicitly titled Air Conservation (Transferred to Chapter 643); both responses contain the correct chapter identity, entire-chapter link, Cross References shell and no section rows. Its review date and response hash are preserved. The transfer does not create headings or establish coverage of Chapter 643.
+
+The strict collector rebuilt and validated the combined candidate from preserved responses. All 12,633 earlier records and all 196 earlier chapter-manifest objects are unchanged, including source dates and hashes. The change report contains 240 additions, zero removals and zero changes. Totals remain 43 warned versions, 17 reviewed reprinted pairs, 14 contingent versions and 32 scheduled future versions.
+
+## Tests
+
+All **701 TypeScript tests and 37 Python tests** passed, along with TypeScript checks and the production build. Twenty-two new query cases were defined from official index snippets before ranking evaluation. Additional tests cover exact chapter citations, the transferred chapter's empty manifest and search results, and rejection of missing empty-index page structure. No parser, ranking or alias changes were needed. These are development checks, not an independent assessment of legal-search accuracy.
+
+## Browser checks and publication
+
+The production preview loaded all 12,822 headings. Searches found 201.020, 204.375 and 205.769 with their exact official source links. A Chapter 201 citation returned no result within Chapter 207 with upcoming versions both off and on. Chapter 203 is visibly labeled as transferred with no sections listed, and its empty filter option is disabled. At 320- and 390-pixel widths the page did not overflow horizontally; the 320-pixel result layout was visually inspected. The example search and Arrow Down focused the official 565.020 link. No browser warnings or errors were recorded.
+
+The layout and filtering controls remain unchanged. The README, coverage policy and fallback disclosure include the expanded scope and four reviewed empty indexes. Snapshot-specific data filenames remain in use. GitHub Pages workflow success and public asset comparisons are checked after pushing. Physical-device performance, screen-reader testing and independent alias review remain outstanding. The source-only collector continues on later chapters, whose acquisition alone does not authorize promotion without the same review and validation gates.
+
+---
+
 # Food regulation and health facilities — November 13, 2026
 
 ## Scope and source checks

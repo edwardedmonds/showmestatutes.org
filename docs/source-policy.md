@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XI, XIX, XXXVII and XXXVIII, plus Title XII Chapters 188–199. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XI, XIX, XXXVII and XXXVIII, plus Title XII Chapters 188–199, 201 and 203–207. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -111,3 +111,9 @@ Chapters 192–195 were enumerated from the official title and chapter indexes. 
 The official catalog and chapter indexes enumerate 442 source versions in Chapters 196–199. All pages passed strict source parsing, and each index matched an independent retrieval after that chapter's pages were collected. Two initial responses had unrelated headings: §197.425:10410 and §198.644:51225. The existing bounded exact-URL retry recovered valid source pages; rejected and accepted evidence is retained locally. No parser exceptions or new source-warning policies were needed.
 
 A resumable acquisition process now collects remaining catalog sources independently of publication. Provisional source files never promote themselves. Every release still requires explicit source review, the strict combined collector, regression tests, README and coverage updates, and a passing deployment workflow. Unfamiliar citation formats and empty indexes must be reviewed before inclusion; they are not silently omitted from the statewide target.
+
+## Fourth Title XII batch
+
+Chapters 201 and 204–207 add 240 individually checked source versions. No new source warnings, contingent dates, overlaps or reprinted pairs were needed. All five populated chapter indexes matched independent second retrievals. Earlier record and chapter provenance remains unchanged.
+
+Chapter 203 is a reviewed empty index explicitly titled Air Conservation (Transferred to Chapter 643). Both index responses have the correct chapter identity, a whole-chapter link, the Cross References shell and no section rows. The policy sets minimumVersions to zero only alongside its explicit emptyIndexReviewedAt date. The parser continues rejecting missing page structure; the transfer does not fabricate sections or mark Chapter 643 as collected.

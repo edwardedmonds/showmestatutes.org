@@ -419,3 +419,10 @@ class HealthCollectionTests(unittest.TestCase):
             for broken in [source.replace(marker, 'different source notice'), source.replace('There are multiple enactments of', 'Versions of')]:
                 with self.assertRaises(ValueError):
                     collect.parse_section(broken, entry, '2026-11-13T08:13:44+00:00')
+
+    def test_transferred_air_conservation_index_requires_verified_empty_structure(self):
+        source = Path('tests/fixtures/chapter-203-empty.html').read_text()
+        self.assertEqual(collect.parse_index(source, '203'), [])
+        for bad in [source.replace('Cross References', 'Missing body'), source.replace('chapter=203&amp;idx=v', 'chapter=643&amp;idx=v')]:
+            with self.assertRaisesRegex(ValueError, 'Unverified empty'):
+                collect.parse_index(bad, '203')
