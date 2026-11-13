@@ -10,11 +10,13 @@ Finding a heading is the beginning of the work. You still need to read the statu
 
 The search starts with official section headings and a small set of documented common names. “First degree murder,” “murder 1,” and “frist degree murdr” lead to § 565.020. Adding “trial procedure” moves § 565.030 to the front. An exact citation such as `1.010` stays exact; the search won't silently turn it into another number.
 
-This choice gives heading matches priority over passing mentions buried in a statute's body. It also sets a real limit: a concept that appears only in the body may not turn up here. The chapter selector helps narrow a broad search, and every result links back to its official source version.
+This choice gives heading matches priority over passing mentions buried in a statute's body. It also sets a real limit: a concept that appears only in the body may not turn up here. Search first, then use the visible chapter buttons beneath the results heading to narrow your matches. Each button counts matching source versions, including any displayed upcoming or warning groups. Removing a chapter filter keeps your query; changing the query starts across all chapters again. Broad searches show twelve matching chapters first, with an inline option to show the rest. Every result links back to its official source version.
 
 Dates need more care than simply choosing the newest record. Upcoming versions have their own group. Contingent versions stay separate when the Revisor uses a placeholder date or states an unresolved condition. An explicit latest-start deadline ends that separation on the stated day; the site does not assume the condition was met earlier. When a reviewed source footnote gives a different effective date, the search uses that date and shows the original header date too. Versions carrying the Revisor's constitutional warning appear in a labeled group, outside ordinary current and upcoming results. Placeholder end dates are preserved without presenting them as scheduled expirations. Where the source reprints an earlier version after a court ruling, the indexed source links remain available with an explanation. A reprint note does not imply that the chapter index lists two versions. The site preserves those distinctions without deciding legal applicability for you.
 
 Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no accounts, analytics, paid search backend, or AI service. Each build requests data files named for its snapshot to avoid mixing cached releases. The build includes a prebuilt index; the browser can rebuild it from the validated snapshot if that index is missing or mismatched.
+
+The page introduces the heading collection before “Know the topic? Find the section.” The three-step guide and field instructions sit above the search input. There is one search box; chapter filters appear only after a search returns results.
 
 ## What's covered
 
@@ -70,6 +72,8 @@ Each chapter and source version keeps its retrieval date and response hash. Addi
 ## What has been checked
 
 The final statewide expansion passed **1,500 TypeScript tests and 99 Python tests**, TypeScript checks, and the production build. All 17 new chapter indexes matched a second retrieval. Browser checks covered new searches, chapter boundaries, source annotations, exact source links and constitutional warnings, keyboard navigation and narrow-screen layouts. Deployment is gated by the main-branch workflow.
+
+The search-interface update passed **1,506 TypeScript tests and 99 Python tests**, dataset validation, TypeScript checks, and the production build. Browser checks covered result-based chapter counts, clearing filters without changing the query, expanding a broad search’s chapter list, upcoming-only results, source warnings, exact source links, keyboard navigation, and a 320-pixel layout.
 
 The collection process checks every listed version against its official page, then retrieves the new chapter indexes again to check for changes. Tests cover search relevance, exact citations, chapter boundaries, source identities, and version handling. A failed validation blocks publication.
 

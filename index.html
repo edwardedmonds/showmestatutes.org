@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Find Missouri government, education, health, criminal and transportation statute headings, with section numbers, source dates and links to official sources." />
+    <meta name="description" content="Search Missouri statute headings by topic, common name, or section number. Each result links to the official text on the Missouri Revisor’s website." />
     <link rel="canonical" href="https://showmestatutes.org/" />
     <meta name="color-scheme" content="light" />
     <title>Show Me Statutes — Missouri statute finder</title>
@@ -17,31 +17,37 @@
     <main>
       <section class="hero" aria-labelledby="headline">
         <p class="eyebrow"><span class="dot"></span> MISSOURI STATUTE FINDER</p>
-        <h1 id="headline">Know the topic.<br><em>Find the section.</em></h1>
-        <p class="intro">Search the words you know. Find the official heading,<br class="desktop-break"> then read the law at its source.</p>
-        <div class="scope-tag">MISSOURI STATUTE SEARCH <span>Government · Education · Health · Criminal · Transportation</span></div>
+        <p class="intro">Search Missouri statute headings by topic, common name, or section number. Each result links to the official text on the Missouri Revisor’s website.</p>
+        <h1 id="headline">Know the topic?<br><em>Find the section.</em></h1>
+      </section>
+      <section class="welcome" aria-label="How this works">
+        <div><span class="step">01</span><h2>Start with your words</h2><p>An offense, a topic, a common name, or an exact section number.</p></div>
+        <div><span class="step">02</span><h2>Choose the right heading</h2><p>Review the results. Use chapter filters to narrow them if needed.</p></div>
+        <div><span class="step">03</span><h2>Read the official source</h2><p>Open the section on the Missouri Revisor’s website.</p></div>
       </section>
       <section class="search-panel" id="search" aria-label="Find a section">
         <form role="search" id="search-form">
-          <label for="query">Find a section</label>
+          <label for="query">Search sections</label>
+          <p id="search-hint">Searches headings and common names, not the full text of the law.</p>
           <div class="search-row">
             <span class="search-icon" aria-hidden="true">⌕</span>
             <input id="query" type="search" placeholder="Try “first degree murder” or 565.020" maxlength="200" autocomplete="off" aria-describedby="search-hint" disabled />
-            <button id="search-button" type="submit" disabled>Find section <span aria-hidden="true">→</span></button>
+            <button id="search-button" type="submit" disabled>Search <span aria-hidden="true">→</span></button>
           </div>
-          <p id="search-hint">Searches headings and common names. Statutory body text is not searched.</p>
         </form>
         <div class="try-row" aria-label="Example searches"><span>TRY A SEARCH</span><button type="button" data-query="first degree murder">First degree murder</button><button type="button" data-query="official state bird">State bird</button><button type="button" data-query="seat belts">Seat belts</button></div>
-        <div class="chapter-filter"><label for="chapter">Search within</label><select id="chapter" disabled><option value="">All indexed chapters</option></select></div>
         <div class="search-options"><label class="checkbox-label"><input id="upcoming" type="checkbox"> Include upcoming versions</label><span id="as-of"></span></div>
       </section>
+      <h2 id="results-heading" hidden></h2>
       <p id="status" role="status" aria-live="polite" aria-atomic="true">Loading the verified heading collection…</p>
-      <div id="results"></div>
-      <section id="welcome" class="welcome" aria-label="How this works">
-        <div><span class="step">01</span><h2>Start with your words</h2><p>An offense, a topic, a common name, or an exact section number.</p></div>
-        <div><span class="step">02</span><h2>Choose the right heading</h2><p>Offenses and related procedures stay distinguishable. Source dates stay visible.</p></div>
-        <div><span class="step">03</span><h2>Read the official source</h2><p>Every result links to that version on the Missouri Revisor’s website.</p></div>
+      <section id="chapter-filters" class="chapter-filters" aria-labelledby="chapter-filter-heading" hidden>
+        <h3 id="chapter-filter-heading">Filter these results by chapter</h3>
+        <p id="chapter-filter-hint">Choose a chapter to narrow the results below. Counts include the source versions shown in each result group.</p>
+        <div id="chapter-choices" class="chapter-choices" role="group" aria-label="Chapter filters" aria-describedby="chapter-filter-hint"></div>
+        <button id="more-chapters" class="filter-text-button" type="button" aria-expanded="false" aria-controls="chapter-choices" hidden></button>
       </section>
+      <div id="active-filter" class="active-filter" hidden><p id="filter-description"></p><button id="clear-chapter" class="filter-text-button" type="button">Remove chapter filter · keep search</button></div>
+      <div id="results"></div>
       <details id="coverage" class="coverage">
         <summary>Coverage, dates &amp; sources</summary>
         <p id="coverage-stats"></p>

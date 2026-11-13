@@ -1,15 +1,24 @@
 import './style.css';
 import { assertDataset, effectiveDateLabel, isContingent, sourceDateNotice, constitutionalNotice, standaloneReprintNotice, enactmentNotice, todayInMissouri, type Dataset } from './data';
-import { createSearch, loadIndex, type Match } from './search';
+import { createSearch, loadIndex, type Match, type SearchResults } from './search';
+import { chapterFacets, filterByChapter, resultCount } from './filters';
 
 const form = document.querySelector<HTMLFormElement>('#search-form')!;
 const input = document.querySelector<HTMLInputElement>('#query')!;
 const button = document.querySelector<HTMLButtonElement>('#search-button')!;
-const chapter = document.querySelector<HTMLSelectElement>('#chapter')!;
+const chapterFilters = document.querySelector<HTMLElement>('#chapter-filters')!;
+const chapterChoices = document.querySelector<HTMLDivElement>('#chapter-choices')!;
+const moreChapters = document.querySelector<HTMLButtonElement>('#more-chapters')!;
+const activeFilter = document.querySelector<HTMLDivElement>('#active-filter')!;
+const clearChapter = document.querySelector<HTMLButtonElement>('#clear-chapter')!;
+const resultsHeading = document.querySelector<HTMLHeadingElement>('#results-heading')!;
 const upcoming = document.querySelector<HTMLInputElement>('#upcoming')!;
 const status = document.querySelector<HTMLParagraphElement>('#status')!;
 const results = document.querySelector<HTMLDivElement>('#results')!;
-const welcome = document.querySelector<HTMLElement>('#welcome')!;
+let selectedChapter = '';
+let previousQuery = '';
+let expandedChapters = false;
+let cached: { key: string; found: SearchResults } | undefined;
 let search: ReturnType<typeof createSearch> | null = null;
 let dataset: Dataset;
 let timer: ReturnType<typeof setTimeout>;
@@ -71,23 +80,57 @@ function group(title: string, matches: Match[], asOf: string, future = false) {
   }
   results.append(section);
 }
+function renderChapterFilters(found: SearchResults) {
+  const facets = chapterFacets(found);
+  chapterFilters.hidden = !facets.length && !selectedChapter;
+  chapterChoices.replaceChildren();
+  const addChoice = (value: string, label: string, count: number) => {
+    const choice = element('button', undefined, 'chapter-choice');
+    choice.type = 'button';
+    choice.dataset.chapter = value;
+    choice.setAttribute('aria-pressed', String(selectedChapter === value));
+    choice.setAttribute('aria-label', `${label}, ${count} matching source version${count === 1 ? '' : 's'}`);
+    choice.append(element('span', label), element('span', String(count), 'chapter-count'));
+    chapterChoices.append(choice);
+  };
+  addChoice('', 'All chapters', resultCount(found));
+  for (const facet of facets.filter((f, i) => expandedChapters || i < 12 || f.chapter === selectedChapter)) {
+    addChoice(facet.chapter, `Ch. ${facet.chapter} · ${facet.title}`, facet.count);
+  }
+  // Keep a selected future-only chapter removable if upcoming versions are switched off.
+  if (selectedChapter && !facets.some(f => f.chapter === selectedChapter)) {
+    addChoice(selectedChapter, `Ch. ${selectedChapter} · ${dataset.manifest.chapters.find(c => c.chapter === selectedChapter)!.title}`, 0);
+  }
+  moreChapters.hidden = facets.length <= 12;
+  moreChapters.textContent = expandedChapters ? 'Show fewer chapters' : `Show all ${facets.length} matching chapters`;
+  moreChapters.setAttribute('aria-expanded', String(expandedChapters));
+  activeFilter.hidden = !selectedChapter;
+  document.querySelector('#filter-description')!.textContent = selectedChapter
+    ? `Showing only Chapter ${selectedChapter}: ${dataset.manifest.chapters.find(c => c.chapter === selectedChapter)!.title}` : '';
+}
 function runSearch() {
   if (!search) return;
   clearTimeout(timer);
   const query = input.value.trim();
   const asOf = todayInMissouri();
   results.replaceChildren();
-  welcome.hidden = Boolean(query);
-  document.body.classList.toggle('has-query', Boolean(query));
+  if (query !== previousQuery) { selectedChapter = ''; expandedChapters = false; previousQuery = query; }
+  resultsHeading.hidden = !query;
+  resultsHeading.textContent = query ? `Results for “${query}”` : '';
   if (!query) {
-    const count = chapter.value ? dataset.manifest.chapters.find(c => c.chapter === chapter.value)!.sectionCount : dataset.manifest.sectionCount;
-    status.textContent = `Ready to search ${count} section headings${chapter.value ? ` in Chapter ${chapter.value}` : ''}.`;
+    chapterFilters.hidden = true;
+    activeFilter.hidden = true;
+    status.textContent = `Ready to search ${dataset.manifest.sectionCount.toLocaleString()} section headings. Enter a topic or section number above.`;
     return;
   }
-  const found = search(query, asOf, upcoming.checked, chapter.value);
-  const scope = chapter.value ? `Chapter ${chapter.value}` : 'the indexed chapters';
-  const count = found.best.length + found.related.length + found.upcoming.length + found.contingent.length + found.constitutional.length;
-  status.textContent = count ? `${count} matching version${count === 1 ? '' : 's'} within ${scope}.${found.correction ? ` Spelling suggestion: ${found.correction}.` : ''}` : `No close heading found within ${scope}.`;
+  const key = JSON.stringify([query, asOf, upcoming.checked]);
+  if (cached?.key !== key) cached = { key, found: search(query, asOf, upcoming.checked) };
+  const all = cached.found;
+  renderChapterFilters(all);
+  const found = filterByChapter(all, selectedChapter);
+  const count = resultCount(found);
+  const total = resultCount(all);
+  status.textContent = `${selectedChapter ? `${count} of ${total}` : count} matching source version${total === 1 ? '' : 's'} · ${selectedChapter ? `Chapter ${selectedChapter}` : 'All chapters'}.${found.correction ? ` Spelling suggestion: ${found.correction}.` : ''}`;
   group('Best heading matches', found.best, asOf);
   group('Related sections', found.related, asOf);
   group('Upcoming versions', found.upcoming, asOf, true);
@@ -105,7 +148,19 @@ function runSearch() {
 form.addEventListener('submit', event => { event.preventDefault(); runSearch(); });
 input.addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(runSearch, 80); });
 upcoming.addEventListener('change', runSearch);
-chapter.addEventListener('change', runSearch);
+chapterChoices.addEventListener('click', event => {
+  const choice = (event.target as HTMLElement).closest<HTMLButtonElement>('button[data-chapter]');
+  if (!choice) return;
+  selectedChapter = choice.dataset.chapter!;
+  runSearch();
+  chapterChoices.querySelector<HTMLButtonElement>(`button[data-chapter="${selectedChapter}"]`)?.focus({ preventScroll: true });
+});
+moreChapters.addEventListener('click', () => { expandedChapters = !expandedChapters; runSearch(); });
+clearChapter.addEventListener('click', () => {
+  selectedChapter = '';
+  runSearch();
+  chapterChoices.querySelector<HTMLButtonElement>('button')?.focus({ preventScroll: true });
+});
 input.addEventListener('keydown', event => {
   if (event.key === 'ArrowDown') { event.preventDefault(); runSearch(); results.querySelector<HTMLAnchorElement>('h3 a')?.focus(); }
   if (event.key === 'Escape') { input.value = ''; runSearch(); }
@@ -121,7 +176,7 @@ results.addEventListener('keydown', event => {
 });
 for (const example of document.querySelectorAll<HTMLButtonElement>('[data-query]')) {
   example.disabled = true;
-  example.addEventListener('click', () => { chapter.value = ''; input.value = example.dataset.query!; runSearch(); input.focus(); });
+  example.addEventListener('click', () => { selectedChapter = ''; input.value = example.dataset.query!; runSearch(); input.focus(); });
 }
 async function initialize() {
   try {
@@ -146,13 +201,8 @@ async function initialize() {
     search = createSearch(dataset.records, index);
     input.disabled = false;
     button.disabled = false;
-    chapter.disabled = false;
     const coverageList = document.querySelector('#chapter-coverage')!;
     for (const c of dataset.manifest.chapters) {
-      const option = element('option', `${c.chapter} · ${c.title}${c.sectionCount ? '' : ' (no sections listed)'}`);
-      option.value = c.chapter;
-      option.disabled = !c.sectionCount;
-      chapter.append(option);
       const item = element('li');
       const link = element('a', `Chapter ${c.chapter}: ${c.title}`);
       link.href = c.sourceIndex;

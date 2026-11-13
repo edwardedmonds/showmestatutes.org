@@ -897,3 +897,10 @@ Production-build checks passed in the in-app browser: stealing prioritizes §570
 ## Limits
 
 No physical Android p95 timing, screen-reader audit or independent legal/alias review has been performed. Heading search excludes statutory body text and laws outside the stated titles; the collection is not a complete historical archive. Public publishing was authorized after the pilot trial. GitHub Actions and DNS/certificate readiness are separate from local test results; do not treat a successful local build as proof that the domain is live.
+
+
+## Search, then narrow interface — November 13, 2026
+
+The approved interface uses one search input and chapter buttons derived from the returned source versions. The site description and instructions precede the search controls. Counts span the existing best, related, upcoming, constitutional-warning and contingent groups; filtering retains their order, metadata and exact source links. New queries reset chapter scope, while removing a filter keeps the current query. Twelve matching chapters appear initially; the rest expand inline.
+
+Validation: 1,506 TypeScript tests, 99 Python tests, strict dataset validation, TypeScript checking and production build passed. Six new regressions cover facet counts, ordering/source identity, version separation, warnings/conditions, empty results and duplicate identities. Browser checks verified first-degree-murder chapter narrowing (7 to 6 versions), clear-filter restoration, the two dated 565.050 versions, the 565.400 upcoming-only zero-result transition, all 210 matching chapters for “records”, exact seat-belt source links, ArrowDown/ArrowUp navigation, a clean browser console and no horizontal overflow at 320 pixels. The reviewed dataset is unchanged.
