@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–X, XIX, XXXVII and XXXVIII, plus Title XI Chapters 160–171. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XI, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -93,3 +93,7 @@ Chapters 160–166 were collected from explicit title and chapter indexes. The f
 ## Pupils, personnel and school operations batch
 
 Chapters 167–171 were enumerated from the official catalog and Title XI page. Their 341 listed versions were checked against their exact source pages; independent second index retrievals matched identities, dates and URLs. No new source exceptions required policy changes. Earlier record and chapter provenance remains unchanged. Reusing cached pages does not advance their source-check dates.
+
+## Completion of Title XI
+
+Chapters 172–178 and 180–186 were enumerated from the official catalog and Title XI page. The checked title lists exactly Chapters 160–186 excluding 179; all 26 are now represented. The 685 new source versions were checked against their exact official pages, and all fourteen new indexes matched independent second retrievals. Twelve initial section responses had a wrong heading, date, selected version, or missing content. Existing strict checks rejected them; a retry of each exact URL supplied a valid response. Both the rejected and accepted responses are preserved with their actual retrieval times. No new warning, contingent or scheduled-future policies were needed. Prior record and chapter provenance remains unchanged.

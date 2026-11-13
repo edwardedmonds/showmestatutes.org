@@ -1,3 +1,27 @@
+# Completion of education and library coverage — November 12, 2026
+
+## Scope and source checks
+
+Title XI Chapters 172–178 and 180–186 add **685 distinct sections and source versions**, completing all 26 chapter indexes listed under Education and Libraries. The catalog does not list Chapter 179. The combined snapshot contains **11,409 sections and 11,459 versions** across **184 chapter indexes**: 181 with headings and three reviewed empty indexes. The fresh official catalog contains 468 chapter links, leaving **284** outside this collection. Title XII, public health and welfare, is next.
+
+All 685 new pages were collected sequentially at no more than one request per second. Twelve initial responses were rejected for inconsistent headings, dates, selected versions or missing content. Retrying each exact source URL supplied a valid response. For example, the initial response for §174.225:35016 contained a §400.4-215 banking heading; the replacement contained the correct college-designation heading. Rejected responses and accepted replacements are preserved in the local cache with their actual retrieval times. The existing wrong-heading, wrong-version, date-mismatch and bounded-retry regressions cover these guards; no parser changes were made. No unresolved source exceptions remained.
+
+All fourteen chapter indexes matched independent second retrievals of identities, effective dates and source URLs. The strict collector rebuilt and validated the complete candidate from cached responses. All 10,774 earlier records and all 170 earlier chapter-manifest objects are unchanged, including dates and response hashes. The change report contains 685 additions, zero removals and zero changes. No new warned, contingent or scheduled future versions were added; totals remain 41 warned versions, 16 reviewed reprinted pairs, 14 contingent versions and 32 scheduled future versions. Source timestamps are recorded in UTC; this local November 12 collection extends into November 13 UTC.
+
+## Tests and performance
+
+All **587 TypeScript tests and 34 Python tests** passed, along with TypeScript checks and the production build. Thirty-five new query cases were defined from official chapter indexes before ranking evaluation, covering every new chapter, unscoped searches and chapter exclusions. A separate regression checks exact citations across all fourteen new chapters. No ranking or alias changes were needed. These are development tests, not an independent assessment of legal-search accuracy.
+
+The serialized MiniSearch index grew from 1,273,596 to 1,356,074 bytes. On local Linux with Node 22.22.2, index construction took about 212 ms and loading plus search setup about 124 ms. Across 16 queries with three warm-up passes and 25 measured runs each, p95 search times ranged from 0.003 to 23.33 ms, compared with 0.008 to 23.38 ms for the previous snapshot in the same run. These timings exclude download, JSON parsing, validation and rendering, and are not physical mobile measurements.
+
+## Browser checks and publication
+
+The production preview reports 11,409 section headings. An unscoped bookmobile-service search finds §181.033:9161; a Chapter 182 filter excludes it. A scoped priority-of-liens search finds §176.035:9003 and retains its full chapter name and exact source URL. The first-degree-murder example still prioritizes §565.020, and ArrowDown focuses its source-heading link. No horizontal overflow was observed at 320×740 or 390×740, including the long Chapter 176 label. No browser warnings or errors were observed.
+
+The existing layout and filters remain unchanged. Snapshot-specific data filenames remain in use. Publication uses the validated snapshot through GitHub Pages; workflow success and public asset comparisons are checked after pushing. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Pupils, personnel and school operations — November 12, 2026
 
 ## Scope and source checks
