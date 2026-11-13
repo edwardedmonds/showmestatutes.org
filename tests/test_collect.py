@@ -478,3 +478,29 @@ class CorrectionsSourceTests(unittest.TestCase):
                 self.assertNotIn('hasContingentEffectiveDate',record)
                 with self.assertRaises(ValueError):
                     collect.parse_section(source,{**entry,'effectiveFrom':'2029-01-01'},'2026-11-13T09:00:00+00:00')
+
+class RoadsSourceTests(unittest.TestCase):
+    def test_road_reprints_require_the_exact_notices_and_preserve_warning_distinctions(self):
+        for sec, warned in [('226.033','11971'),('238.212','51503'),('238.222','51504')]:
+            policy=next(p for p in collect.POLICY['reprintedEnactments'] if p['section']==sec)
+            for version in policy['versions']:
+                bid=version['versionId'];entry={'id':sec+':'+bid,'section':sec,'versionId':bid,'effectiveFrom':version['effectiveFrom'],'sourceUrl':f'https://revisor.mo.gov/main/OneSection.aspx?section={sec}&bid={bid}'}
+                source=Path(f'tests/fixtures/roads-{sec}-{bid}.html').read_text()
+                record=collect.parse_section(source,entry,'2026-11-13T09:00:00+00:00')
+                self.assertEqual(bool(record.get('hasConstitutionalWarning')),bid==warned)
+                self.assertTrue(record['multipleEnactments'])
+                self.assertIsNone(record['effectiveTo'])
+                self.assertEqual(record['effectiveFrom'],entry['effectiveFrom'])
+                for bad in [source.replace('declared unconstitutional','reconsidered'),source.replace('There are multiple enactments','There are histories')]:
+                    with self.assertRaises(ValueError):collect.parse_section(bad,entry,'2026-11-13T09:00:00+00:00')
+
+    def test_bill_warning_detection_requires_reference_to_the_other_printed_version(self):
+        source=Path('tests/fixtures/roads-226.033-11971.html').read_text()
+        entry={'id':'226.033:11971','section':'226.033','versionId':'11971','effectiveFrom':'2010-08-28','sourceUrl':'https://revisor.mo.gov/main/OneSection.aspx?section=226.033&bid=11971'}
+        policies=collect.POLICY['reprintedEnactments'];without=[p for p in policies if p['section']!='226.033']
+        with unittest.mock.patch.dict(collect.POLICY, constitutionalWarnings=[], reprintedEnactments=without):
+            with unittest.mock.patch.object(collect,'REVIEWED_OVERLAPS',[p for p in collect.REVIEWED_OVERLAPS if p['section']!='226.033']):
+                with self.assertRaisesRegex(ValueError,'Unverified constitutional warning'):
+                    collect.parse_section(source,entry,'2026-11-13T09:00:00+00:00')
+                current=source.replace('The other printed version of this section','This version of this section')
+                self.assertNotIn('hasConstitutionalWarning',collect.parse_section(current,entry,'2026-11-13T09:00:00+00:00'))

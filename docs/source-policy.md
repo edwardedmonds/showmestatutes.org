@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XIII, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XIV, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -127,3 +127,9 @@ The `indexHeadingExceptions` policy covers only **210.620:11394**. Its source pa
 ## Title XIII — Corrections
 
 Chapters 217, 219 and 221 add 241 individually checked versions. All three chapter indexes matched strict independent rechecks. The review found three scheduled transitions, §§217.362, 217.690 and 217.760, whose earlier versions have explicit 2028-01-01 end dates. Each later version begins on that date. The exact source history intervals, footnote markers and raw Revisor notes remain preserved; the ordinary interval validator handles these pairs without a policy exception. Six source fixtures and regression tests cover source dates, exact identities and the transition boundary. There were no rejected source responses in this batch. Earlier record and chapter provenance remains unchanged.
+
+## Title XIV — Roads and waterways
+
+All 1,009 versions from twelve indexes passed strict individual source checks and independent index rechecks. Five initial responses for §§226.420, 226.961, 227.552, 227.603 and 236.440 were mismatched or incomplete; bounded exact-URL retries recovered valid pages. The worker also retained repeated rejected responses for the two previously unreviewed Chapter 238 warnings. Accepted and rejected evidence is archived locally.
+
+Three newly reviewed reprinted pairs preserve all exact version identities, dates, blank end dates and official notices. The warning detector additionally recognizes a Revisor note that says a law was declared unconstitutional and explicitly identifies the **other printed version of this section** as current. That wording identifies the affected 2010 version of §226.033 without marking its 2003 reprint merely because its note also discusses the ruling. Exact reviewed notices are still required by policy; an unreviewed warning is rejected. Source fixtures test both sides of each pair and reject altered notices. Previous source records and provenance remain unchanged.

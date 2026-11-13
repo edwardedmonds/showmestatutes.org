@@ -13,6 +13,7 @@
     "XI",
     "XII",
     "XIII",
+    "XIV",
     "XIX",
     "XXXVII",
     "XXXVIII"
@@ -999,6 +1000,78 @@
       "minimumVersions": 51
     },
     {
+      "chapter": "226",
+      "title": "Department of Transportation",
+      "category": "government",
+      "minimumVersions": 136
+    },
+    {
+      "chapter": "227",
+      "title": "State Highway System",
+      "category": "government",
+      "minimumVersions": 401
+    },
+    {
+      "chapter": "228",
+      "title": "Establishment and Vacation of Roads",
+      "category": "government",
+      "minimumVersions": 29
+    },
+    {
+      "chapter": "229",
+      "title": "Provisions Relating to All Roads",
+      "category": "government",
+      "minimumVersions": 45
+    },
+    {
+      "chapter": "230",
+      "title": "County Highway Commissions",
+      "category": "government",
+      "minimumVersions": 24
+    },
+    {
+      "chapter": "231",
+      "title": "Maintenance of Public Roads",
+      "category": "government",
+      "minimumVersions": 46
+    },
+    {
+      "chapter": "233",
+      "title": "Incorporated Road Districts",
+      "category": "government",
+      "minimumVersions": 107
+    },
+    {
+      "chapter": "234",
+      "title": "Bridges",
+      "category": "government",
+      "minimumVersions": 36
+    },
+    {
+      "chapter": "235",
+      "title": "Street Light Maintenance Districts",
+      "category": "government",
+      "minimumVersions": 28
+    },
+    {
+      "chapter": "236",
+      "title": "Dams, Mills and Electric Power",
+      "category": "government",
+      "minimumVersions": 50
+    },
+    {
+      "chapter": "237",
+      "title": "Barges, Ferries and Wharves",
+      "category": "government",
+      "minimumVersions": 24
+    },
+    {
+      "chapter": "238",
+      "title": "Transportation Districts and Transportation Corporations, Special Projects",
+      "category": "government",
+      "minimumVersions": 83
+    },
+    {
       "chapter": "300",
       "title": "Model Traffic Ordinance",
       "category": "transportation",
@@ -1307,7 +1380,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XIII, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XIV, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
@@ -1965,6 +2038,54 @@
         }
       ],
       "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "226.033",
+      "versions": [
+        {
+          "versionId": "11971",
+          "effectiveFrom": "2010-08-28",
+          "sourceNotice": "*Revisor's Note: S.B. 844 in 2010 amended this section. S.B. 844 was declared unconstitutional (see annotation below). The other printed version of this section (the 2003 language from H.B. 668, effective 8/28/2003), reprinted in accordance with Section 3.066, is the current version."
+        },
+        {
+          "versionId": "11972",
+          "effectiveFrom": "2003-08-28",
+          "sourceNotice": "*Revisor's Note: S.B. 844 in 2010 amended this section. S.B. 844 was declared unconstitutional (see Legends Bank v. State, 361 S.W.3d 383 (Mo. banc)). This version of this section (the 2003 language from H.B. 668, effective 8/28/2003), reprinted in accordance with Section 3.066, is the current version."
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "238.212",
+      "versions": [
+        {
+          "versionId": "51503",
+          "effectiveFrom": "2022-08-28",
+          "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al. (see 2023 annotation below)."
+        },
+        {
+          "versionId": "12727",
+          "effectiveFrom": "2009-08-28",
+          "sourceNotice": "*Revisor's Note: This section is reprinted in accordance with section 3.066. H.B. 1606, 2022, was declared unconstitutional (see 2023 annotation below), rendering the repeal and reenactment of this section ineffective."
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
+    },
+    {
+      "section": "238.222",
+      "versions": [
+        {
+          "versionId": "51504",
+          "effectiveFrom": "2022-08-28",
+          "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al. (see 2023 annotation below)."
+        },
+        {
+          "versionId": "33130",
+          "effectiveFrom": "2016-08-28",
+          "sourceNotice": "*Revisor's Note: This section is reprinted in accordance with section 3.066. H.B. 1606, 2022, was declared unconstitutional (see 2023 annotation below), rendering the repeal and reenactment of this section ineffective."
+        }
+      ],
+      "displayNotice": "The Revisor reprints an earlier version after a court ruling and retains the later version with a constitutional warning. Read both official source pages for applicability."
     }
   ],
   "constitutionalWarnings": [
@@ -2183,6 +2304,24 @@
       "id": "192.310:9768",
       "effectiveFrom": "2014-08-28",
       "sourceNotice": "This section was declared unconstitutional in Calzone v. Koster, et al."
+    },
+    {
+      "id": "226.033:11971",
+      "effectiveFrom": "2010-08-28",
+      "sourceNotice": "*Revisor's Note: S.B. 844 in 2010 amended this section. S.B. 844 was declared unconstitutional (see annotation below). The other printed version of this section (the 2003 language from H.B. 668, effective 8/28/2003), reprinted in accordance with Section 3.066, is the current version.",
+      "displayNotice": "The Revisor’s note says S.B. 844 was declared unconstitutional and identifies the other printed 2003 version as current. Read both official source pages."
+    },
+    {
+      "id": "238.212:51503",
+      "effectiveFrom": "2022-08-28",
+      "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al. (see 2023 annotation below).",
+      "displayNotice": "The Revisor’s note says this version was declared unconstitutional in Byrd v. State of Missouri. Read the official annotation and the reprinted earlier version."
+    },
+    {
+      "id": "238.222:51504",
+      "effectiveFrom": "2022-08-28",
+      "sourceNotice": "*Revisor's Note: This section was declared unconstitutional in Byrd, et al. v. State of Missouri, et al. (see 2023 annotation below).",
+      "displayNotice": "The Revisor’s note says this version was declared unconstitutional in Byrd v. State of Missouri. Read the official annotation and the reprinted earlier version."
     }
   ],
   "indexHeadingExceptions": [

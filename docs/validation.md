@@ -1,3 +1,25 @@
+# Title XIV roads and waterways coverage — November 13, 2026
+
+## Scope and source review
+
+Chapters **226–231 and 233–238** add **1,006 distinct sections and 1,009 source versions**, completing all twelve listed Title XIV indexes. The combined snapshot contains **14,821 sections, 14,883 versions and 224 chapter indexes**, including 220 populated and four reviewed empty indexes. **244 of the 468 official catalog links remain**. Title XV is next.
+
+All twelve source indexes matched independent second retrievals through the strict parser. The combined offline collector passed. All 13,874 prior records and 212 chapter-manifest objects remain unchanged; the change report contains 1,009 additions, no removals and no changed prior records. Five mismatched or incomplete source responses recovered through bounded exact-URL retries; the two Chapter 238 warning pages required explicit review. Accepted and rejected evidence remains preserved.
+
+The three reprinted pairs in §§226.033, 238.212 and 238.222 retain exact identities, dates, official notices and blank end dates. The later versions are separated into the constitutional-warning group. The earlier versions are preserved as reprints. The §226.033 warning is expressed in a note about the amending bill and the other printed version, rather than in its date banner. Its earlier reprint is not marked as warned merely because it discusses the same ruling. There are now 46 warned versions and 20 reviewed reprinted pairs; scheduled future versions remain 35 and contingent versions remain 19.
+
+## Tests
+
+All **807 TypeScript tests and 42 Python tests** passed, along with TypeScript checks and the production build. Forty-five query cases were defined from official index wording before ranking evaluation. Additional tests cover exact citations across all twelve chapters, each warning/reprint distinction, chapter exclusion, both upcoming-version settings and malformed source notices. The warning detector now handles the reviewed “other printed version” note while still rejecting unreviewed warnings. No ranking or alias changes were needed. These development checks are not an independent legal-search assessment.
+
+## Browser and publication
+
+The production preview loaded 14,821 headings. Exact searches for 226.033 and 238.222 showed separate reprinted and warned versions with the correct source links; chapter exclusion and upcoming-version controls behaved as expected. “Marc Perez Memorial Bridge” found §227.328. At 320px and 390px widths the document did not overflow horizontally. Keyboard activation of the first-degree-murder example reset the chapter filter, and ArrowDown focused §565.020’s exact source link. No browser warnings or errors were recorded.
+
+README, coverage notes, roadmap, source policy and fallback scope reflect the release. The existing design and filtering controls remain unchanged. Snapshot-specific files remain in use; workflow success and public-file comparisons are checked after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Title XIII corrections coverage — November 13, 2026
 
 ## Coverage and sources

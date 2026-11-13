@@ -167,6 +167,10 @@ def parse_section(html, entry, checked_at):
     source_warning = ('all or part is unconstitutional' in clean(effective.get_text(' ')).lower()
                       or any(clean(p.get_text(' ')).startswith("*Revisor's Note:")
                              and 'This section was declared unconstitutional' in clean(p.get_text(' '))
+                             for p in soup.select('p'))
+                      or any(clean(p.get_text(' ')).lower().startswith("*revisor's note:")
+                             and 'was declared unconstitutional' in clean(p.get_text(' ')).lower()
+                             and 'the other printed version of this section' in clean(p.get_text(' ')).lower()
                              for p in soup.select('p')))
     if source_warning != bool(warning) or (warning and (entry['effectiveFrom'] != warning['effectiveFrom']
             or warning['sourceNotice'] not in clean(soup.get_text(' ')))):
