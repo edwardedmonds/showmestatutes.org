@@ -1,3 +1,25 @@
+# Title XVII agriculture and animals — November 13, 2026
+
+## Scope and source review
+
+Chapters **261–278, 280 and 281** add **814 distinct sections and 814 source versions**, completing all twenty listed Title XVII indexes. The combined snapshot contains **16,872 sections, 16,934 versions and 264 chapter indexes**, including 258 populated and six reviewed empty indexes. **204 of the 468 official catalog links remain**. Title XVIII is next.
+
+All twenty source indexes matched independent second retrievals through the strict parser. The combined offline collector passed. All 16,120 prior records and 244 chapter-manifest objects remain unchanged; the change report contains 814 additions, no removals and no changed prior records. Four wrong-section or incomplete responses were recovered through bounded exact-URL retries; accepted and rejected evidence remains preserved. Chapter 280's empty index and cross-reference shell were reviewed in both responses. No repeal or transfer was inferred.
+
+No new warning, overlap or contingent-date exceptions were required. The existing 46 warned versions, 20 reprinted pairs, 35 scheduled future versions and 19 contingent versions remain unchanged.
+
+## Tests
+
+All **931 TypeScript tests and 43 Python tests** passed, along with TypeScript checks and the production build. Forty-six query cases were defined from official index wording before ranking evaluation. Additional checks cover exact citations in all nineteen populated chapters, the four retried source identities, the empty chapter and both upcoming-version settings. No ranking, alias or parser changes were required. These development checks are not an independent legal-search assessment.
+
+## Browser and publication
+
+The production preview loaded 16,872 headings. Chapter 280 displays “no sections listed” and is disabled in the chapter filter. An animal-sterilization query returned §273.403 with the exact official link; Chapter 272 excluded it. Exact §281.265 returned the recovered source version with its 2019 date, including with upcoming versions enabled. Long result headings fit at 320px and 390px without horizontal overflow. The first-degree-murder example reset the chapter filter, and ArrowDown focused §565.020’s exact source link. No browser warnings or errors were recorded.
+
+README, coverage notes, roadmap, source policy and fallback scope reflect the release. The existing design and filtering controls remain unchanged. Snapshot-specific files remain in use; workflow success and public-file comparisons are checked after push. Physical-device performance, screen-reader testing and independent alias review remain outstanding.
+
+---
+
 # Title XVI conservation coverage — November 13, 2026
 
 ## Scope and source review

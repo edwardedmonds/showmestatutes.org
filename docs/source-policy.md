@@ -1,6 +1,6 @@
 # Source access and provenance
 
-The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XVI, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
+The primary source is the [Missouri Revisor of Statutes](https://revisor.mo.gov/). The [explicit chapter policy](coverage.md) covers Titles I–XVII, XIX, XXXVII and XXXVIII. This collection does not depend on a third-party compilation. It stores statutory headings and source metadata, not generated summaries or interpretations.
 
 ## Acquisition
 
@@ -143,3 +143,9 @@ The 611 individually checked versions from Chapters 241–250 passed strict sour
 All 626 source versions passed strict individual checks and all ten indexes matched independent rechecks. Chapter 255 is explicitly reviewed empty and transferred to Chapter 625. An initial §260.392 response displayed §208.935; a bounded exact-URL retry recovered the correct source version 54065 and August 28, 2023 effective date. Both responses remain archived.
 
 The source review distinguishes the identical-amendment note in §260.295 from an unconstitutional-version warning. It also distinguishes conditional rulemaking language and contingent expiration notes from contingent effective dates. The Revisor's banners, selected histories and footnote markers remain authoritative for the stored metadata; no end dates are inferred from program sunsets or conditional expiration text. Section 260.1092 has a marker inside its body but no heading marker; no heading marker is added. Four source fixtures cover these distinctions, exact identities and dates. No parser changes were needed.
+
+## Title XVII — Agriculture and animals
+
+All 814 source versions passed strict individual checks and all twenty indexes matched independent rechecks. Chapter 280 is explicitly reviewed empty, retaining its Treated Timber Products title and cross-reference to Chapter 135. No repeal or transfer is inferred from the empty index.
+
+Initial responses for §§262.700, 267.169 and 281.265 displayed unrelated sections; §281.101 lacked its heading. Bounded exact-URL retries recovered the correct identities and dates. Accepted and rejected responses remain archived. No new parser or source-policy exceptions were required. Existing footnote markers, source dates and version identities remain intact.

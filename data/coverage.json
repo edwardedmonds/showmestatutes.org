@@ -16,6 +16,7 @@
     "XIV",
     "XV",
     "XVI",
+    "XVII",
     "XIX",
     "XXXVII",
     "XXXVIII"
@@ -1195,6 +1196,127 @@
       "minimumVersions": 221
     },
     {
+      "chapter": "261",
+      "title": "Department of Agriculture",
+      "category": "government",
+      "minimumVersions": 34
+    },
+    {
+      "chapter": "262",
+      "title": "Promotion of Agriculture and Horticulture",
+      "category": "government",
+      "minimumVersions": 107
+    },
+    {
+      "chapter": "263",
+      "title": "Insect Pests and Weeds",
+      "category": "government",
+      "minimumVersions": 59
+    },
+    {
+      "chapter": "264",
+      "title": "Apiaries",
+      "category": "government",
+      "minimumVersions": 13
+    },
+    {
+      "chapter": "265",
+      "title": "Regulation and Marketing of Agricultural Products",
+      "category": "government",
+      "minimumVersions": 56
+    },
+    {
+      "chapter": "266",
+      "title": "Seeds, Fertilizers and Feeds",
+      "category": "government",
+      "minimumVersions": 64
+    },
+    {
+      "chapter": "267",
+      "title": "State Veterinarian — Diseased Animals",
+      "category": "government",
+      "minimumVersions": 67
+    },
+    {
+      "chapter": "268",
+      "title": "Marks and Brands of Animals",
+      "category": "government",
+      "minimumVersions": 17
+    },
+    {
+      "chapter": "269",
+      "title": "Disposal of Dead Animals",
+      "category": "government",
+      "minimumVersions": 29
+    },
+    {
+      "chapter": "270",
+      "title": "Animals Restrained from Running at Large",
+      "category": "government",
+      "minimumVersions": 18
+    },
+    {
+      "chapter": "271",
+      "title": "Strays",
+      "category": "government",
+      "minimumVersions": 36
+    },
+    {
+      "chapter": "272",
+      "title": "Fences and Enclosures",
+      "category": "government",
+      "minimumVersions": 33
+    },
+    {
+      "chapter": "273",
+      "title": "Dogs — Cats",
+      "category": "government",
+      "minimumVersions": 45
+    },
+    {
+      "chapter": "274",
+      "title": "Cooperative Marketing Associations",
+      "category": "government",
+      "minimumVersions": 31
+    },
+    {
+      "chapter": "275",
+      "title": "Commodity Associations",
+      "category": "government",
+      "minimumVersions": 39
+    },
+    {
+      "chapter": "276",
+      "title": "Stockyards, Grain and Produce Exchanges",
+      "category": "government",
+      "minimumVersions": 70
+    },
+    {
+      "chapter": "277",
+      "title": "Missouri Livestock Marketing Law",
+      "category": "government",
+      "minimumVersions": 20
+    },
+    {
+      "chapter": "278",
+      "title": "Soil Conservation",
+      "category": "government",
+      "minimumVersions": 31
+    },
+    {
+      "chapter": "280",
+      "title": "Treated Timber Products",
+      "category": "government",
+      "minimumVersions": 0,
+      "emptyIndexReviewedAt": "2026-11-13"
+    },
+    {
+      "chapter": "281",
+      "title": "Pesticides",
+      "category": "government",
+      "minimumVersions": 45
+    },
+    {
       "chapter": "300",
       "title": "Model Traffic Ordinance",
       "category": "transportation",
@@ -1503,7 +1625,7 @@
       "basis": "Both official pages state that the 2021 enactments are printed due to possible conflict. Retain both without resolving applicability."
     }
   ],
-  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XVI, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
+  "coverageDescription": "Versions enumerated in the chapter indexes of Titles I–XVII, XIX, XXXVII and XXXVIII at their recorded source checks; not all Missouri statutes or a complete historical archive.",
   "contingentEnactments": [
     {
       "section": "301.287",
