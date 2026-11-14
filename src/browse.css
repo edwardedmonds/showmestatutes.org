@@ -2,7 +2,7 @@
 .site-nav a { text-decoration: none; }
 .site-nav a:hover { text-decoration: underline; }
 .browse-callout { margin: 30px 0; font-size: .9rem; }
-.browse-callout h2 { font: normal 1.5rem Georgia, serif; }
+.browse-callout h2 { font: normal 1.5rem var(--font-serif); }
 .browse-main { padding-top: 24px; }
 .breadcrumbs { display: flex; flex-wrap: wrap; gap: 8px; font-size: .8rem; margin-bottom: 32px; }
 .browse-main h1 { font-size: clamp(2rem, 4vw, 2.6rem); letter-spacing: -.025em; overflow-wrap: anywhere; }
@@ -12,7 +12,7 @@
 .browse-chapters a span { display: block; font-weight: 700; }
 .browse-chapters small { color: #526353; }
 .browse-records { margin: 28px 0; }
-.browse-heading { font: normal 1.35rem/1.4 Georgia, serif; margin: 11px 0; overflow-wrap: anywhere; }
+.browse-heading { font: 600 1.4375rem/1.4 var(--font-serif); margin: 11px 0; overflow-wrap: anywhere; }
 .browse-heading a { color: #243e32; text-decoration: none; }
 .browse-heading a:hover { text-decoration: underline; }
 .chapter-navigation { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16px; margin: 28px 0; }

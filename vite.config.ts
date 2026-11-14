@@ -21,6 +21,10 @@ function assets(): Record<string, string> {
     'licenses.txt': [
       'Show Me Statutes — software license notices',
       readFileSync('LICENSE', 'utf8'),
+      'Cormorant Garamond — heading font (SIL Open Font License)',
+      readFileSync('static/fonts/cormorantgaramond-OFL.txt', 'utf8'),
+      'Source Sans 3 — interface font (SIL Open Font License)',
+      readFileSync('static/fonts/sourcesans3-OFL.txt', 'utf8'),
       'MiniSearch — browser search library',
       readFileSync('node_modules/minisearch/LICENSE.txt', 'utf8'),
       'Vite — build tooling and browser module-preload helper',
@@ -41,7 +45,7 @@ function assets(): Record<string, string> {
 export default defineConfig({
   base: './',
   define: { 'import.meta.env.DATASET_HASH': JSON.stringify(datasetHash) },
-  // Data is emitted with snapshot hashes above. Only small brand assets are copied.
+  // Data is emitted with snapshot hashes above. Brand assets and locally hosted fonts are copied.
   publicDir: 'static',
   plugins: [{
     name: 'statute-heading-index',
