@@ -1,10 +1,10 @@
-.site-nav { display: flex; align-items: center; flex-wrap: wrap; gap: 16px; font-size: .8rem; }
+.site-nav { display: flex; align-items: center; flex-wrap: wrap; gap: 16px; font-size: .875rem; }
 .site-nav a { text-decoration: none; }
 .site-nav a:hover { text-decoration: underline; }
 .browse-callout { margin: 30px 0; font-size: .9rem; }
 .browse-callout h2 { font: normal 1.5rem var(--font-serif); }
 .browse-main { padding-top: 24px; }
-.breadcrumbs { display: flex; flex-wrap: wrap; gap: 8px; font-size: .8rem; margin-bottom: 32px; }
+.breadcrumbs { display: flex; flex-wrap: wrap; gap: 8px; font-size: .875rem; margin-bottom: 32px; }
 .browse-main h1 { font-size: clamp(2rem, 4vw, 2.6rem); letter-spacing: -.025em; overflow-wrap: anywhere; }
 .browse-chapters { list-style: none; padding: 0; margin: 28px 0; display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 0 28px; }
 .browse-chapters li { padding: 16px 0; border-bottom: 1px solid #d9dfd1; }
