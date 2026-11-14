@@ -27,7 +27,7 @@ URL Inspection confirmed that the homepage is indexed. The chapter directory was
 
 ## Bing Webmaster Tools
 
-The homepage includes Bing’s `msvalidate.01` ownership-verification tag. Keep it in place after verification. Bing verification and sitemap submission are being configured separately from Google Search Console.
+The homepage includes Bing’s `msvalidate.01` ownership-verification tag. Keep it in place after verification. Bing verified `https://showmestatutes.org/` using this tag on November 14, 2026. The sitemap at `https://showmestatutes.org/sitemap.xml` was submitted and accepted with a Processing status and no reported errors or warnings at setup. Bing indicated that initial reports may take up to 48 hours. Submission does not confirm that the pages have been indexed.
 
 ## Assets
 
