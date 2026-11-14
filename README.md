@@ -22,7 +22,7 @@ The site name and headings use Cormorant Garamond, paired with Source Sans 3 for
 
 The [chapter directory](https://showmestatutes.org/chapters/) gives every populated chapter a readable page. It includes all 30,434 collected source versions, their headings, source-check dates, version labels and notices. The ten empty indexes link directly to the Revisor. These pages work without JavaScript and are generated from the same validated snapshot as search.
 
-Each page has its own title, description and canonical URL. A generated sitemap, site-name metadata, breadcrumbs and sharing previews help other services understand the site. The directory and sitemap rebuild with every release; they do not refresh the official sources. [Search visibility notes](docs/seo.md) explain the checks and remaining Search Console setup.
+Each page has its own title, description and canonical URL. A generated sitemap, site-name metadata, breadcrumbs and sharing previews help other services understand the site. The directory and sitemap rebuild with every release; they do not refresh the official sources. [Search visibility notes](docs/seo.md) explain the checks and Search Console setup. Domain ownership was verified on November 14, 2026, and Google successfully processed the sitemap with 460 discovered pages. Discovery does not mean every page is indexed.
 
 ## What's covered
 

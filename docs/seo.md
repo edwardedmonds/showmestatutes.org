@@ -21,7 +21,9 @@ After deployment, check the public homepage, `/chapters/`, representative chapte
 
 ## Search Console follow-up
 
-Google Search Console ownership verification and sitemap submission have not been completed as part of this release. Once the owner has verified `showmestatutes.org`, submit `https://showmestatutes.org/sitemap.xml`, inspect a few chapter URLs, and monitor indexing exclusions and search performance. Sitemap publication helps discovery but does not guarantee indexing or rankings. Do not report these pages as indexed until Search Console or search results confirm it.
+The `showmestatutes.org` Domain property was verified through a DNS TXT record on November 14, 2026. Keep that verification record in place. The sitemap at `https://showmestatutes.org/sitemap.xml` was submitted, and Search Console reported “Sitemap processed successfully” with 460 discovered pages.
+
+URL Inspection confirmed that the homepage is indexed. The chapter directory was discovered but not yet indexed at setup. Google accepted an indexing request for the directory and added it to a priority crawl queue. The new property's aggregate indexing and performance reports were still processing. Sitemap discovery is not confirmation that all chapter pages are indexed. Continue monitoring indexing exclusions and search performance in Search Console. Google will periodically process the submitted sitemap for changes.
 
 ## Assets
 
