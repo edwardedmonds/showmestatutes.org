@@ -10,7 +10,7 @@ button:disabled { cursor: wait; opacity: .55; }
 .skip-link { position: absolute; top: -100px; left: 16px; z-index: 4; background: white; padding: 12px; }
 .skip-link:focus { top: 12px; }
 .site-header { max-width: 1200px; margin: auto; padding: 26px 40px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #dcded4; }
-.brand { text-decoration: none; font-weight: 700; letter-spacing: -.03em; font-size: 1.15rem; display: flex; align-items: center; gap: 10px; }
+.brand { text-decoration: none; font-family: Georgia, serif; font-weight: 700; letter-spacing: -.03em; font-size: 1.15rem; display: flex; align-items: center; gap: 10px; }
 .brand-mark { background: #244c3e; color: #f8f5e9; width: 35px; height: 38px; display: grid; place-items: center; border-radius: 4px; font: 29px Georgia, serif; }
 .about-link { font-size: .8rem; text-decoration: none; }
 main { max-width: 1000px; padding: 0 40px; margin: auto; }
