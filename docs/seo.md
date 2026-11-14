@@ -25,6 +25,10 @@ The `showmestatutes.org` Domain property was verified through a DNS TXT record o
 
 URL Inspection confirmed that the homepage is indexed. The chapter directory was discovered but not yet indexed at setup. Google accepted an indexing request for the directory and added it to a priority crawl queue. The new property's aggregate indexing and performance reports were still processing. Sitemap discovery is not confirmation that all chapter pages are indexed. Continue monitoring indexing exclusions and search performance in Search Console. Google will periodically process the submitted sitemap for changes.
 
+## Bing Webmaster Tools
+
+The homepage includes Bing’s `msvalidate.01` ownership-verification tag. Keep it in place after verification. Bing verification and sitemap submission are being configured separately from Google Search Console.
+
 ## Assets
 
 Committed files in `static/` are copied into the build. `scripts/create-brand-assets.py` optionally regenerates the PNG images using Pillow and the Liberation Sans/Serif system fonts. It is not a build dependency. The SVG favicon is maintained directly.
