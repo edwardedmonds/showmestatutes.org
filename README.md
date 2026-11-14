@@ -16,7 +16,7 @@ Dates need more care than simply choosing the newest record. Upcoming versions h
 
 Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no accounts, analytics, paid search backend, or AI service. Each build requests data files named for its snapshot to avoid mixing cached releases. The build includes a prebuilt index; the browser can rebuild it from the validated snapshot if that index is missing or mismatched.
 
-The site name uses Georgia, the same serif font as the page headings, alongside the § mark. The page introduces the heading collection before “Know the topic? Find the section.” The three-step guide and field instructions sit above the search input. There is one search box; chapter filters appear only after a search returns results. Example buttons start with seat belts and include the state bird, security deposits, minimum wage, public records and voter registration.
+The site name uses Georgia, the same serif font as the page headings, alongside the § mark. The page introduces the heading collection before “Know the topic? Find the section.” The three-step guide uses green cards with light text and rounded corners above the search input; field instructions also appear before the input. There is one search box; chapter filters appear only after a search returns results. Example buttons start with seat belts and include the state bird, security deposits, minimum wage, public records and voter registration.
 
 ## Browse without searching
 
