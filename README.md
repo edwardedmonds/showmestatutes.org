@@ -26,6 +26,14 @@ Validation on November 15, 2026 passed all 1,514 tests and audited all 30,806 pa
 
 The individual pages add no analytics or advertising. Their URLs are included in the generated sitemap. To preview the complete site locally, run `npm run build`, `npm run seo:check`, then `npm run preview -- --host 127.0.0.1 --port 8770` to try it locally.
 
+## Local full-text branch
+
+`feature/statute-full-text` adds a local reading view to the existing section pages. It keeps the source versions, dates and warnings together, with subsection links and a separate area for history and source notes. Full text is build-time page content only. MiniSearch still searches headings and common names.
+
+The local statewide build accounts for all **30,434 source versions** and preserves exact source text, tables, notes and warnings on the existing **30,346 section pages**. It provides **54,759 subsection links** where numbering is unambiguous; 54 reviewed source layouts stay intact without inferred subsection links. The final check passed all 1,525 TypeScript tests, 111 Python tests and the full source-text and 30,807-page audits. Heading data and MiniSearch are unchanged.
+
+This branch is not published. Normal builds keep the existing heading pages unless a separate full-text candidate is explicitly selected. The extractor works offline from archived responses and requires each URL, retrieval date and checksum to match the heading snapshot. Unknown structures and missing versions stop acceptance. The [local implementation and review notes](docs/full-text-plan.md) explain how to extract, preview and validate a candidate and the source exceptions reviewed for this branch.
+
 ## Browse without searching
 
 The [chapter directory](https://showmestatutes.org/chapters/) gives every populated chapter a readable page. It includes all 30,434 collected source versions, their headings, source-check dates, version labels and notices. The ten empty indexes link directly to the Revisor. These pages work without JavaScript and are generated from the same validated snapshot as search.

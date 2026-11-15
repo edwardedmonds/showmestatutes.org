@@ -1,4 +1,4 @@
-node_modules/
+node_modules
 dist/
 .vite/
 coverage/
@@ -20,3 +20,6 @@ __pycache__/
 data/.refresh.lock
 public/data/*.next
 data/.collect.lock
+
+# Local full-text candidates and inventory; not part of the heading dataset.
+data/full-text/

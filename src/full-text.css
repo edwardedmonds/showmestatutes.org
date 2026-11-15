@@ -1,0 +1,59 @@
+/* Reading pages only; the heading search does not load full-text assets. */
+.reading-layout { display: grid; grid-template-columns: 200px minmax(0, 1fr); gap: 28px; align-items: start; margin-top: 36px; border-top: 1px solid #dce2d5; padding-top: 28px; }
+.reading-guide { position: sticky; top: 24px; max-height: calc(100vh - 48px); overflow-y: auto; }
+.reading-guide h3, .text-heading h3, .source-notes h3 { font: 600 1.8rem/1.2 var(--font-serif); margin: 0 0 12px; }
+.reading-guide p { font-size: .875rem; color: #526353; }
+.reading-links { display: grid; gap: 4px; }
+.reading-links a { display: flex; align-items: center; gap: 10px; padding: 8px; min-height: 44px; text-decoration: none; border-radius: 5px; }
+.reading-links a:hover, .reading-links a[aria-current] { background: #e7ede1; }
+.reading-links span { display: grid; place-items: center; min-width: 28px; height: 28px; border-radius: 4px; background: #e6ebdf; font-weight: 600; }
+.reading-guide .guide-note { font-size: .8rem; margin: 16px 8px; }
+.notes-link { display: inline-block; padding: 12px 8px; }
+.reading-content { min-width: 0; }
+.reading-description { font-size: .875rem; color: #526353; }
+.law-text { background: #fff; border: 1px solid #dce2d5; border-radius: 6px; padding: 0 24px; }
+.law-subsection, .law-unsectioned { padding: 20px 0; }
+.law-subsection + .law-subsection { border-top: 1px solid #e5e8df; }
+.law-subsection, .source-notes, .text-heading { scroll-margin-top: 24px; }
+.law-subsection:target { background: #f2f5ec; box-shadow: 0 0 0 12px #f2f5ec; border-radius: 4px; }
+.subsection-tools { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 10px; }
+.permalink, .subsection-tools button { font: 600 .875rem/1.4 var(--font-sans); padding: 10px 0; min-height: 44px; }
+.permalink { text-decoration: none; }
+.subsection-tools button { background: transparent; border: 0; color: #47634f; text-decoration: underline; cursor: pointer; }
+.law-text p, .law-unsectioned, .law-subsection { font: 400 1.0625rem/1.75 var(--font-sans); color: #253a31; overflow-wrap: anywhere; }
+.law-text p { margin: 8px 0 16px; }
+.law-text p:empty { display: none; }
+.source-table { overflow-x: auto; max-width: 100%; margin: 16px 0; }
+.source-table table { border-collapse: collapse; width: 100%; }
+.source-table td, .source-table th { padding: 8px; border: 1px solid #dce2d5; min-width: 70px; vertical-align: top; }
+.source-notes { margin: 30px 0 24px; padding: 24px; background: #eef1e8; border: 1px solid #d8dfd0; border-radius: 6px; font-size: .9375rem; overflow-wrap: anywhere; }
+.source-notes .eyebrow { font-size: .75rem; }
+.end-note { font-size: .875rem; }
+#copy-status:empty { display: none; }
+#copy-status { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: #254e3e; color: #fff; padding: 12px 20px; border-radius: 5px; max-width: 90%; z-index: 5; }
+@media (max-width: 780px) {
+  .reading-layout { grid-template-columns: 1fr; gap: 24px; }
+  .reading-guide { position: static; max-height: none; background: #eef1e8; padding: 18px; border-radius: 6px; }
+  .reading-links { grid-template-columns: repeat(auto-fit, minmax(135px, 1fr)); }
+  .law-text { padding: 0 16px; }
+  .source-notes { padding: 16px; }
+}
+@media print {
+  .reading-guide, .subsection-tools button, #copy-status { display: none; }
+  .reading-layout { display: block; }
+  .law-text { border: 0; padding: 0; }
+  .source-table { overflow: visible; }
+  .law-subsection:target { box-shadow: none; }
+}
+
+.statute-versions .reading-version { background: transparent; border: 0; padding: 0; }
+.reading-version + .reading-version { border-top: 2px solid #cbd5c5; margin-top: 40px; padding-top: 32px; }
+.copy-citation { background: transparent; border: 0; color: #47634f; padding: 12px 18px; font: inherit; text-decoration: underline; cursor: pointer; }
+
+.reading-content .source-bold { font-weight: 700; }
+.reading-content .source-italic { font-style: italic; }
+.source-indent { text-indent: 25px; }
+.source-indentblk { margin-inline: 25px; }
+.source-center { text-align: center; }
+
+.law-text .source-heading { font-weight: 600; margin: 24px 0 12px; }

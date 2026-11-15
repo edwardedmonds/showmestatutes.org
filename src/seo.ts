@@ -1,4 +1,5 @@
 import { constitutionalNotice, effectiveDateLabel, enactmentNotice, isUpcoming, sourceDateNotice, standaloneReprintNotice, type Dataset, type Statute } from './data';
+import { renderFullText, type FullText } from './full-text';
 import { statutePath, statuteVersionPath } from './paths';
 
 export const siteUrl = 'https://showmestatutes.org';
@@ -63,19 +64,19 @@ ${metadata(title, description, path)}
 <footer><span>SHOW ME STATUTES</span><p>Independent search. Links to official sources.<br>Not affiliated with the State of Missouri. Not legal advice.</p><a href="/about/">About &amp; accuracy</a><a href="/about/#report-an-error">Report an error</a><a href="/licenses.txt">MIT &amp; license notices</a><a href="https://github.com/edwardedmonds/showmestatutes.org">Project on GitHub ↗</a></footer></body></html>`;
 }
 
-function recordHtml(record: Statute, asOf: string, onStatutePage = false) {
+function recordHtml(record: Statute, asOf: string, onStatutePage = false, fullText?: FullText) {
   const notices = [sourceDateNotice(record), constitutionalNotice(record), standaloneReprintNotice(record), enactmentNotice(record)];
   if (record.headingSource === 'chapter-index') notices.push('Heading supplied by the official chapter index; this version’s source page omits its heading.');
   if (record.headingMarker) notices.push('The official source marks this section with a footnote. Read the source notes.');
-  return `<li class="result-card" id="version-${escapeHtml(record.id)}"><div class="card-meta"><span class="section-number">§ ${escapeHtml(record.section)}${record.headingMarker ? ' *' : ''}</span><span>Source version ${record.versionId}</span></div>
+  return `<li class="result-card${fullText ? ' reading-version' : ''}" id="version-${escapeHtml(record.id)}"><div class="card-meta"><span class="section-number">§ ${escapeHtml(record.section)}${record.headingMarker ? ' *' : ''}</span><span>Source version ${record.versionId}</span></div>
 <h2 class="browse-heading"><a href="${escapeHtml(onStatutePage ? record.sourceUrl : statuteVersionPath(record.section, record.id))}">${escapeHtml(record.title)}</a></h2>
 <p class="version">${escapeHtml(effectiveDateLabel(record, asOf, isUpcoming(record, asOf)))}</p>
 ${notices.filter(Boolean).map(notice => `<p class="version">${escapeHtml(notice!)}</p>`).join('\n')}
 <p class="version">Source checked ${date(record.sourceCheckedAt)}</p>
-<a class="official-link" href="${escapeHtml(record.sourceUrl)}">Read this version at the Revisor ↗</a></li>`;
+<a class="official-link" href="${escapeHtml(record.sourceUrl)}">Read this version at the Revisor ↗</a>${fullText ? `<button type="button" class="copy-citation" data-copy-citation="${escapeHtml(`§ ${record.section}, RSMo. Source version ${record.versionId}. ${effectiveDateLabel(record, asOf, isUpcoming(record, asOf))}. ${notices.filter(Boolean).join(' ')} ${record.sourceUrl}`)}" hidden>Copy citation</button>${renderFullText(fullText)}` : ''}</li>`;
 }
 
-export function browseAssets(dataset: Dataset, stylesheet: string, asOf: string): Record<string, string> {
+export function browseAssets(dataset: Dataset, stylesheet: string, asOf: string, fullText?: Map<string, FullText>): Record<string, string> {
   const chapters = dataset.manifest.chapters.filter(c => c.sectionCount);
   const empty = dataset.manifest.chapters.filter(c => !c.sectionCount);
   const files: Record<string, string> = {};
@@ -86,7 +87,7 @@ export function browseAssets(dataset: Dataset, stylesheet: string, asOf: string)
 <p>I built this because knowing what you’re looking for isn’t the same as knowing the section number. The goal is straightforward: search the words you have, find the relevant heading, and read the law at its official source.</p>
 <nav class="about-contents" aria-label="On this page"><a href="#sources">Sources &amp; coverage</a><a href="#checks">How records are checked</a><a href="#dates">Dates &amp; updates</a><a href="#report-an-error">Report an error</a></nav>
 <section id="sources" aria-labelledby="sources-title"><h2 id="sources-title">Where the information comes from</h2>
-<p>The headings and source information come from the <a href="https://revisor.mo.gov/">Missouri Revisor of Statutes</a>. Search uses official headings and a small set of documented common names. It does not search or reproduce the full text of the law, and it does not generate legal summaries.</p>
+<p>The headings and source information come from the <a href="https://revisor.mo.gov/">Missouri Revisor of Statutes</a>. Search uses official headings and a small set of documented common names. ${fullText ? "This local preview reproduces archived statute text on section pages. Search still uses headings and common names only." : "It does not search or reproduce the full text of the law, and it does not generate legal summaries."}</p>
 <p>The reviewed snapshot contains ${dataset.manifest.sectionCount.toLocaleString('en-US')} distinct sections and ${dataset.manifest.recordCount.toLocaleString('en-US')} source versions across ${dataset.manifest.chapters.length} chapter indexes. Of those, ${chapters.length} contain headings and ${empty.length} have no listed sections. <a href="/chapters/">Browse the chapter directory</a> or <a href="/#coverage">see the coverage and source dates</a>.</p>
 <p>Coverage means the headings and versions listed in the checked statewide catalog. It does not mean a complete historical archive or every kind of Missouri law. Court rules, regulations, constitutional provisions, federal law and local ordinances are outside this collection. A missing result does not mean no relevant law exists.</p></section>
 <section id="checks" aria-labelledby="checks-title"><h2 id="checks-title">How records are checked</h2>
@@ -149,10 +150,11 @@ ${chapter.chapter === '300' ? '<p class="stale-notice">Chapter 300 is Missouri�
 <h1>Section ${escapeHtml(section)}</h1>
 <p class="intro"><a href="/chapters/${chapter.chapter}/">Chapter ${chapter.chapter} · ${escapeHtml(chapter.title)}</a></p>
 <p>${records.length} source version${records.length === 1 ? '' : 's'} in the reviewed collection. The official heading${records.length === 1 ? ' and source link are' : 's and source links are'} below.</p>
-<p class="statute-note">This page provides headings and source references, not the full text of the law. Open the official source to read the statute and its notes.</p>
+${fullText?.has(records[0].id) ? '<p class="statute-note">Local reading preview · Archived source text appears below. Source-check dates are preserved; open the Revisor to check for changes.</p>' : '<p class="statute-note">This page provides headings and source references, not the full text of the law. Open the official source to read the statute and its notes.</p>'}
 ${chapter.chapter === '300' ? '<p class="stale-notice">Chapter 300 is Missouri’s Model Traffic Ordinance. Inclusion here does not establish which provisions a locality has adopted.</p>' : ''}
 ${records.length > 1 ? `<nav class="version-navigation" aria-label="Source versions">${records.map(r => `<a href="#version-${escapeHtml(r.id)}">Source version ${escapeHtml(r.versionId)}</a>`).join('')}</nav>` : ''}
-<ol class="result-list browse-records statute-versions">${records.map(r => recordHtml(r, asOf, true)).join('\n')}</ol>
+<ol class="result-list browse-records statute-versions">${records.map(r => recordHtml(r, asOf, true, fullText?.get(r.id))).join('\n')}</ol>
+${fullText?.has(records[0].id) ? '<p id="copy-status" role="status" aria-live="polite"></p><script src="/statute-reading.js" defer></script>' : ''}
 <p class="version">Version labels evaluated as of ${date(asOf)}. Source-check dates are shown on each version; rebuilding this page does not recheck the law.</p>
 <nav class="chapter-navigation" aria-label="Continue browsing"><a href="/chapters/${chapter.chapter}/">← All Chapter ${chapter.chapter} sections</a><a href="/#search">Search another statute</a></nav>`;
     files[`statutes/${encodeURIComponent(section)}/index.html`] = page(title, description, path, content, stylesheet, [...rootBreadcrumb, { name: `Chapter ${chapter.chapter}`, path: `/chapters/${chapter.chapter}/` }, { name: `§ ${section}`, path }], 'WebPage');
