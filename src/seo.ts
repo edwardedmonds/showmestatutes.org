@@ -1,11 +1,13 @@
 import { constitutionalNotice, effectiveDateLabel, enactmentNotice, isUpcoming, sourceDateNotice, standaloneReprintNotice, type Dataset, type Statute } from './data';
+import { statutePath, statuteVersionPath } from './paths';
 
 export const siteUrl = 'https://showmestatutes.org';
 export const siteTitle = 'Missouri Statute Search | Show Me Statutes';
 export const siteDescription = 'Search Missouri statute headings by topic, common name, or section number. Browse chapters and read the official law on the Missouri Revisor’s website.';
 export const escapeHtml = (value: string) => value.replace(/[&<>"']/g, character => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[character]!));
 const json = (value: unknown) => JSON.stringify(value).replace(/</g, '\\u003c');
-const date = (value: string) => new Intl.DateTimeFormat('en-US', { dateStyle: 'medium', timeZone: 'UTC' }).format(new Date(value));
+const dateFormatter = new Intl.DateTimeFormat('en-US', { dateStyle: 'medium', timeZone: 'UTC' });
+const date = (value: string) => dateFormatter.format(new Date(value));
 
 export function metadata(title: string, description: string, path: string) {
   const url = siteUrl + path;
@@ -45,9 +47,9 @@ export function homepageSeo(html: string, dataset: Dataset) {
     .replace('<p id="coverage-stats"></p>', `<p id="coverage-stats">${dataset.manifest.sectionCount.toLocaleString('en-US')} distinct sections · ${dataset.manifest.recordCount.toLocaleString('en-US')} source versions · ${dataset.manifest.chapters.filter(c => c.sectionCount).length} chapters with headings</p>`);
 }
 
-function page(title: string, description: string, path: string, content: string, stylesheet: string, breadcrumb: { name: string; path: string }[]) {
+function page(title: string, description: string, path: string, content: string, stylesheet: string, breadcrumb: { name: string; path: string }[], pageType = 'CollectionPage') {
   const schema = { '@context': 'https://schema.org', '@graph': [
-    { '@type': 'CollectionPage', '@id': siteUrl + path, name: title, description, url: siteUrl + path, inLanguage: 'en-US', isPartOf: { '@id': siteUrl + '/#website' } },
+    { '@type': pageType, '@id': siteUrl + path, name: title, description, url: siteUrl + path, inLanguage: 'en-US', isPartOf: { '@id': siteUrl + '/#website' } },
     { '@type': 'BreadcrumbList', itemListElement: breadcrumb.map((item, index) => ({ '@type': 'ListItem', position: index + 1, name: item.name, item: siteUrl + item.path })) },
   ] };
   return `<!doctype html>
@@ -61,12 +63,12 @@ ${metadata(title, description, path)}
 <footer><span>SHOW ME STATUTES</span><p>Independent search. Links to official sources.<br>Not affiliated with the State of Missouri. Not legal advice.</p><a href="/licenses.txt">MIT &amp; license notices</a><a href="https://github.com/edwardedmonds/showmestatutes.org">Project on GitHub ↗</a></footer></body></html>`;
 }
 
-function recordHtml(record: Statute, asOf: string) {
+function recordHtml(record: Statute, asOf: string, onStatutePage = false) {
   const notices = [sourceDateNotice(record), constitutionalNotice(record), standaloneReprintNotice(record), enactmentNotice(record)];
   if (record.headingSource === 'chapter-index') notices.push('Heading supplied by the official chapter index; this version’s source page omits its heading.');
   if (record.headingMarker) notices.push('The official source marks this section with a footnote. Read the source notes.');
   return `<li class="result-card" id="version-${escapeHtml(record.id)}"><div class="card-meta"><span class="section-number">§ ${escapeHtml(record.section)}${record.headingMarker ? ' *' : ''}</span><span>Source version ${record.versionId}</span></div>
-<h2 class="browse-heading"><a href="${escapeHtml(record.sourceUrl)}">${escapeHtml(record.title)}</a></h2>
+<h2 class="browse-heading"><a href="${escapeHtml(onStatutePage ? record.sourceUrl : statuteVersionPath(record.section, record.id))}">${escapeHtml(record.title)}</a></h2>
 <p class="version">${escapeHtml(effectiveDateLabel(record, asOf, isUpcoming(record, asOf)))}</p>
 ${notices.filter(Boolean).map(notice => `<p class="version">${escapeHtml(notice!)}</p>`).join('\n')}
 <p class="version">Source checked ${date(record.sourceCheckedAt)}</p>
@@ -86,9 +88,12 @@ export function browseAssets(dataset: Dataset, stylesheet: string, asOf: string)
 <h2>Chapter indexes with no listed sections</h2><p>These ${empty.length} additional indexes were checked and contain no section headings in this snapshot.</p><ul>${empty.map(c => `<li><a href="${escapeHtml(c.sourceIndex)}">Chapter ${c.chapter}: ${escapeHtml(c.title)} — official index</a></li>`).join('')}</ul>`;
   files['chapters/index.html'] = page('Missouri Statutes by Chapter | Show Me Statutes', 'Browse Missouri Revised Statutes by chapter. Find section headings, effective dates and exact source links in the statewide statute-heading directory.', '/chapters/', directory, stylesheet, rootBreadcrumb);
   const byChapter = new Map<string, Statute[]>();
+  const bySection = new Map<string, Statute[]>();
   for (const record of dataset.records) {
     const rows = byChapter.get(record.chapter) ?? [];
     rows.push(record); byChapter.set(record.chapter, rows);
+    const versions = bySection.get(record.section) ?? [];
+    versions.push(record); bySection.set(record.section, versions);
   }
   for (const [index, chapter] of chapters.entries()) {
     const title = `Missouri Chapter ${chapter.chapter}: ${chapter.title} | Show Me Statutes`;
@@ -105,7 +110,25 @@ ${chapter.chapter === '300' ? '<p class="stale-notice">Chapter 300 is Missouri�
 <nav class="chapter-navigation" aria-label="Adjacent chapters">${index ? `<a href="/chapters/${chapters[index - 1].chapter}/">← Chapter ${chapters[index - 1].chapter}</a>` : ''}<a href="/chapters/">All chapters</a>${index + 1 < chapters.length ? `<a href="/chapters/${chapters[index + 1].chapter}/">Chapter ${chapters[index + 1].chapter} →</a>` : ''}</nav>`;
     files[`chapters/${chapter.chapter}/index.html`] = page(title, description, path, content, stylesheet, [...rootBreadcrumb, { name: `Chapter ${chapter.chapter}`, path }]);
   }
-  const urls = ['/', '/chapters/', ...chapters.map(c => `/chapters/${c.chapter}/`)];
+  for (const [section, versions] of bySection) {
+    const records = [...versions].sort((a, b) => a.effectiveFrom.localeCompare(b.effectiveFrom) || a.versionId.localeCompare(b.versionId, 'en', { numeric: true }));
+    const chapter = chapters.find(c => c.chapter === records[0].chapter)!;
+    const path = statutePath(section);
+    const title = `Missouri § ${section}: ${records.length === 1 ? records[0].title : 'Headings and source versions'} | Show Me Statutes`;
+    const description = `Missouri statute ${section}, Chapter ${chapter.chapter}: ${chapter.title}. View official headings, version dates and source notices, then read the law at the Missouri Revisor.`;
+    const content = `<p class="eyebrow">MISSOURI REVISED STATUTES</p>
+<h1>Section ${escapeHtml(section)}</h1>
+<p class="intro"><a href="/chapters/${chapter.chapter}/">Chapter ${chapter.chapter} · ${escapeHtml(chapter.title)}</a></p>
+<p>${records.length} source version${records.length === 1 ? '' : 's'} in the reviewed collection. The official heading${records.length === 1 ? ' and source link are' : 's and source links are'} below.</p>
+<p class="statute-note">This page provides headings and source references, not the full text of the law. Open the official source to read the statute and its notes.</p>
+${chapter.chapter === '300' ? '<p class="stale-notice">Chapter 300 is Missouri’s Model Traffic Ordinance. Inclusion here does not establish which provisions a locality has adopted.</p>' : ''}
+${records.length > 1 ? `<nav class="version-navigation" aria-label="Source versions">${records.map(r => `<a href="#version-${escapeHtml(r.id)}">Source version ${escapeHtml(r.versionId)}</a>`).join('')}</nav>` : ''}
+<ol class="result-list browse-records statute-versions">${records.map(r => recordHtml(r, asOf, true)).join('\n')}</ol>
+<p class="version">Version labels evaluated as of ${date(asOf)}. Source-check dates are shown on each version; rebuilding this page does not recheck the law.</p>
+<nav class="chapter-navigation" aria-label="Continue browsing"><a href="/chapters/${chapter.chapter}/">← All Chapter ${chapter.chapter} sections</a><a href="/#search">Search another statute</a></nav>`;
+    files[`statutes/${encodeURIComponent(section)}/index.html`] = page(title, description, path, content, stylesheet, [...rootBreadcrumb, { name: `Chapter ${chapter.chapter}`, path: `/chapters/${chapter.chapter}/` }, { name: `§ ${section}`, path }], 'WebPage');
+  }
+  const urls = ['/', '/chapters/', ...chapters.map(c => `/chapters/${c.chapter}/`), ...[...bySection.keys()].map(statutePath)];
   // No artificial lastmod dates: rebuilding is not a source-content update.
   files['sitemap.xml'] = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map(path => `<url><loc>${siteUrl}${path}</loc></url>`).join('\n')}</urlset>\n`;
   files['robots.txt'] = `User-agent: *\nAllow: /\n\nSitemap: ${siteUrl}/sitemap.xml\n`;

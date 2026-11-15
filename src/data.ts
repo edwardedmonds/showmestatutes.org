@@ -180,8 +180,9 @@ export function sourceDateNotice(record: Statute): string | undefined {
     ?? (record.contingentUntil ? coverage.contingentEnactments.find(p => p.section === record.section)?.displayNotice : undefined);
 }
 
+const effectiveDateFormatter = new Intl.DateTimeFormat('en-US', { dateStyle: 'medium', timeZone: 'UTC' });
 export function effectiveDateLabel(r: Statute, asOf: string, future: boolean): string {
-  const format = (value: string) => new Intl.DateTimeFormat('en-US', { dateStyle: 'medium', timeZone: 'UTC' }).format(new Date(value));
+  const format = (value: string) => effectiveDateFormatter.format(new Date(value));
   if (r.hasConstitutionalWarning) return `Source effective date ${format(r.effectiveFrom)} · The Revisor flags all or part as unconstitutional. Read the official notes before relying on this version.`;
   if (r.effectiveDateIsPlaceholder) return 'Contingent effective date · the source date is a placeholder, not a scheduled start. Read the official conditions.';
   if (isContingent(r, asOf)) return `Contingent effective date · source date ${format(r.effectiveFrom)}. Read the official conditions before relying on this version.`;

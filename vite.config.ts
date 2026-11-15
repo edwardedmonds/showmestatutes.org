@@ -44,6 +44,8 @@ function assets(): Record<string, string> {
 }
 export default defineConfig({
   base: './',
+  // Avoid compressing 30,000 HTML assets concurrently just to report their sizes.
+  build: { reportCompressedSize: false },
   define: { 'import.meta.env.DATASET_HASH': JSON.stringify(datasetHash) },
   // Data is emitted with snapshot hashes above. Brand assets and locally hosted fonts are copied.
   publicDir: 'static',

@@ -1,6 +1,7 @@
 import { readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
 import { type Dataset, constitutionalNotice, sourceDateNotice, standaloneReprintNotice, enactmentNotice } from '../src/data';
+import { statutePath, statuteVersionPath } from '../src/paths';
 import { browseAssets, escapeHtml, homepageSeo, siteUrl } from '../src/seo';
 
 const dataset: Dataset = JSON.parse(readFileSync(process.env.STATUTES_DATASET ?? 'public/data/statutes.json', 'utf8'));
@@ -11,7 +12,7 @@ const jsonLd = (source: string) => [...source.matchAll(/<script type="applicatio
 
 describe('Static chapter discovery and metadata', () => {
   it('creates one browse page per populated chapter and lists empty official indexes separately', () => {
-    expect(Object.keys(files).filter(p => p.endsWith('/index.html'))).toHaveLength(chapters.length + 1);
+    expect(Object.keys(files).filter(p => p.startsWith('chapters/') && p.endsWith('/index.html'))).toHaveLength(chapters.length + 1);
     for (const c of dataset.manifest.chapters) {
       if (c.sectionCount) expect(files['chapters/index.html']).toContain(`href="/chapters/${c.chapter}/"`);
       else {
@@ -39,7 +40,7 @@ describe('Static chapter discovery and metadata', () => {
   });
   it('includes only canonical, existing public HTML pages in the sitemap', () => {
     const urls = [...files['sitemap.xml'].matchAll(/<loc>(.*?)<\/loc>/g)].map(m => m[1]);
-    expect(urls).toHaveLength(chapters.length + 2);
+    expect(urls).toHaveLength(chapters.length + 2 + dataset.manifest.sectionCount);
     expect(new Set(urls).size).toBe(urls.length);
     for (const url of urls) {
       expect(url.startsWith(siteUrl + '/')).toBe(true);
@@ -71,6 +72,25 @@ describe('Static chapter discovery and metadata', () => {
     expect(html.match(/name="description"/g)).toHaveLength(1);
     expect(jsonLd(html)[0]).toMatchObject({ '@type': 'WebSite', name: 'Show Me Statutes', url: siteUrl + '/' });
     expect(html).toContain('30,346 distinct sections');
+  });
+  it('creates one page per exact section and preserves every version, source link and warning', () => {
+    expect(Object.keys(files).filter(p => p.startsWith('statutes/'))).toHaveLength(dataset.manifest.sectionCount);
+    for (const record of dataset.records) {
+      const path = statutePath(record.section);
+      const statute = files[path.slice(1) + 'index.html'];
+      expect(statute).toContain(`id="version-${record.id}"`);
+      expect(statute).toContain(escapeHtml(record.title));
+      expect(statute).toContain(`href="${escapeHtml(record.sourceUrl)}"`);
+      expect(files[`chapters/${record.chapter}/index.html`]).toContain(escapeHtml(statuteVersionPath(record.section, record.id)));
+      for (const notice of [constitutionalNotice(record), sourceDateNotice(record), standaloneReprintNotice(record), enactmentNotice(record)]) {
+        if (notice) expect(statute).toContain(escapeHtml(notice));
+      }
+    }
+    expect(files['statutes/565.050/index.html']).toContain('Upcoming · effective Jul 1, 2027');
+    expect(files['statutes/300.010/index.html']).toContain('does not establish which provisions a locality has adopted');
+    expect(files['statutes/456.4-411A/index.html']).toBeDefined();
+    expect(files['statutes/456.4-411B/index.html']).toBeDefined();
+    expect(jsonLd(files['statutes/1.010/index.html'])[0]['@graph'][0]['@type']).toBe('WebPage');
   });
   it('escapes source headings and attributes as text', () => {
     expect(escapeHtml('<script>"x" & \'y\'</script>')).toBe('&lt;script&gt;&quot;x&quot; &amp; &#39;y&#39;&lt;/script&gt;');

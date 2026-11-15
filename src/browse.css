@@ -17,4 +17,9 @@
 .browse-heading a:hover { text-decoration: underline; }
 .chapter-navigation { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16px; margin: 28px 0; }
 .chapter-navigation a { padding: 10px 0; }
+.statute-note { padding: 16px 20px; border-left: 3px solid #b0813d; background: #eef1e8; }
+.version-navigation { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 24px; }
+.version-navigation a { padding: 8px 12px; border: 1px solid #d8dfd0; border-radius: 5px; }
+.statute-versions .official-link { display: inline-block; background: #254e3e; color: #fff; text-decoration: none; padding: 12px 18px; border-radius: 5px; }
+.statute-versions .official-link:hover { background: #173f30; }
 @media(max-width:640px) { .site-header { flex-wrap: wrap; gap: 14px; } .site-nav { gap: 12px; } .site-nav a { padding: 8px 0; } .browse-chapters { grid-template-columns: 1fr; } }

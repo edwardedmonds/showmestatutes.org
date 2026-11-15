@@ -1,13 +1,13 @@
 # Search visibility
 
-The site publishes a homepage, a chapter directory and 458 populated chapter pages. Together these are the 460 canonical URLs in `sitemap.xml`. The ten empty chapter indexes remain explicit official-source links in the directory, rather than empty local landing pages.
+The site publishes a homepage, a chapter directory, 458 populated chapter pages and 30,346 individual section pages. Together these are the 30,806 canonical URLs in `sitemap.xml`. Each section has one stable `/statutes/{section}/` address; its source versions share that page with exact version anchors. The ten empty chapter indexes remain explicit official-source links in the directory, rather than empty local landing pages.
 
 ## What ships
 
 - Titles and descriptions specific to each page, canonical HTTPS URLs and one main heading per page.
-- Actual HTML links from the homepage to the directory, from the directory to each chapter, and between adjacent chapters. Headings and source links are in the initial HTML; no search submission or JavaScript is required to read chapter pages.
+- Actual HTML links from the homepage to the directory, from the directory to each chapter, between adjacent chapters, and from chapter headings to the matching statute version. Search-result headings also open the local statute page; explicit Revisor links remain direct. Headings and source links are in the initial HTML; no search submission or JavaScript is required to read chapter or statute pages.
 - All collected source versions, exact Revisor links, retrieval dates, footnotes, constitutional warnings, contingent-date notices and reprint explanations. The pages reproduce headings, not full statute text. Labels explicitly state the date they were evaluated; a build is not a source recheck.
-- `WebSite` structured data on the homepage and `CollectionPage`/`BreadcrumbList` data on directory pages. These describe the actual content; they do not claim government affiliation or legal authority.
+- `WebSite` structured data on the homepage and `CollectionPage`/`BreadcrumbList` data on directory pages, plus `WebPage` and breadcrumbs on individual statute pages. These describe the actual content; they do not claim government affiliation or legal authority.
 - A generated sitemap referenced by `robots.txt`. There are no invented modification dates, keyword tags or search-result URL permutations.
 - Open Graph and Twitter sharing metadata, a 1200 × 630 sharing image, and SVG/PNG favicons.
 
@@ -17,7 +17,7 @@ All content comes from the existing validated dataset. The build fails on invali
 
 Run `npm test`, `npm run build`, then `npm run seo:check`. The latter checks every generated HTML page, unique titles, canonical URLs, descriptions, JSON-LD, internal destinations, the sitemap and sharing image dimensions. It runs in GitHub Actions before the Pages artifact is uploaded. The source tests also verify that every record retains its heading, exact source URL and applicable notices.
 
-After deployment, check the public homepage, `/chapters/`, representative chapter pages, `/robots.txt` and `/sitemap.xml`. Check narrow screens and confirm that search still behaves as expected. An HTTP success or valid schema is not proof that a search engine has indexed a page.
+After deployment, check the public homepage, `/chapters/`, representative chapter and statute pages (including multiple versions and source warnings), `/robots.txt` and `/sitemap.xml`. Check narrow screens and confirm that search still behaves as expected. An HTTP success or valid schema is not proof that a search engine has indexed a page.
 
 ## Search Console follow-up
 

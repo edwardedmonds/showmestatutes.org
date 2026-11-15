@@ -18,6 +18,14 @@ Search runs in your browser using TypeScript, Vite, and MiniSearch. There are no
 
 The site name and headings use Cormorant Garamond, paired with Source Sans 3 for body text and controls. Both fonts are served locally, with Georgia and Arial/Helvetica as fallbacks if the browser cannot load or use them. Text stays visible while fonts load. The § mark retains Georgia. An 18px default text size and larger instructions, controls and supporting labels keep the interface readable on desktop and mobile. Font license notices are included with the site’s other licenses. The page introduces the heading collection before “Know the topic? Find the section.” The three-step guide uses green cards with light text and rounded corners above the search input, with step numbers in the same sans-serif font as the card text; field instructions also appear before the input. There is one search box; chapter filters appear only after a search returns results. Pressing Enter or the Search button moves to the first result, or to the no-results message when nothing matches. Results update as you type without moving the page. Example buttons start with seat belts and include the state bird, security deposits, minimum wage, public records and voter registration.
 
+## Individual statute pages
+
+The site generates one permanent page per distinct section under `/statutes/{section}/`, bringing the generated site to 30,806 HTML pages. All source versions of a section share that page, with exact version anchors, original headings, dates, notices and direct links to the Revisor. Search headings and chapter headings link to the matching version on the section page. Direct Revisor links remain available. The pages contain source references, not full statute text.
+
+Validation on November 15, 2026 passed all 1,514 tests and audited all 30,806 pages, sitemap entries and 523,777 internal links. The generated site is about 235 MiB. The measured full build took 16 seconds with about 1 GiB peak memory after reusing date formatters and disabling per-file compression-size reporting. These are local measurements, not a deployment benchmark.
+
+The individual pages add no analytics or advertising. Their URLs are included in the generated sitemap. To preview the complete site locally, run `npm run build`, `npm run seo:check`, then `npm run preview -- --host 127.0.0.1 --port 8770` to try it locally.
+
 ## Browse without searching
 
 The [chapter directory](https://showmestatutes.org/chapters/) gives every populated chapter a readable page. It includes all 30,434 collected source versions, their headings, source-check dates, version labels and notices. The ten empty indexes link directly to the Revisor. These pages work without JavaScript and are generated from the same validated snapshot as search.

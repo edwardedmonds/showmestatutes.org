@@ -3,6 +3,7 @@ import './browse.css';
 import { assertDataset, effectiveDateLabel, isContingent, sourceDateNotice, constitutionalNotice, standaloneReprintNotice, enactmentNotice, todayInMissouri, type Dataset } from './data';
 import { createSearch, loadIndex, type Match, type SearchResults } from './search';
 import { chapterFacets, filterByChapter, resultCount } from './filters';
+import { statuteVersionPath } from './paths';
 
 const form = document.querySelector<HTMLFormElement>('#search-form')!;
 const input = document.querySelector<HTMLInputElement>('#query')!;
@@ -37,7 +38,7 @@ function card(match: Match, future: boolean, asOf: string) {
   meta.append(element('span', `§ ${r.section}${r.headingMarker ? " *" : ""}`, 'section-number'), element('span', `CHAPTER ${r.chapter} · ${r.chapterTitle.toUpperCase()}`));
   const title = element('h3');
   const link = element('a', r.title);
-  link.href = r.sourceUrl;
+  link.href = statuteVersionPath(r.section, r.id);
   title.append(link);
   const dates = element('p', effectiveDateLabel(r, asOf, future), future || isContingent(r, asOf) || r.hasConstitutionalWarning ? 'version future' : 'version');
   const bottom = element('div', undefined, 'card-bottom');
