@@ -146,7 +146,18 @@ function runSearch() {
     results.append(empty);
   }
 }
-form.addEventListener('submit', event => { event.preventDefault(); runSearch(); });
+form.addEventListener('submit', event => {
+  event.preventDefault();
+  runSearch();
+  if (!search || !input.value.trim()) return;
+  const firstResult = results.querySelector<HTMLElement>('.result-card, .empty-state');
+  if (!firstResult) return;
+  // Move keyboard focus with the viewport, also dismissing the mobile keyboard.
+  const destination = firstResult.querySelector<HTMLElement>('h3 a, h2')!;
+  if (destination.tagName === 'H2') destination.tabIndex = -1;
+  destination.focus({ preventScroll: true });
+  firstResult.scrollIntoView({ block: 'start', behavior: 'instant' });
+});
 input.addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(runSearch, 80); });
 upcoming.addEventListener('change', runSearch);
 chapterChoices.addEventListener('click', event => {

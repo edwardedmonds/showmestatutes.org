@@ -53,6 +53,7 @@ form > label { display: block; font-weight: 700; font-size: .875rem; margin-bott
 .result-count { font-size: .875rem; font-weight: normal; padding: 1px 7px; background: #e9eee3; border-radius: 10px; }
 .result-list { padding: 0; margin: 0; list-style: none; display: grid; gap: 12px; }
 .result-card { background: #fff; border: 1px solid #dce2d5; border-radius: 6px; padding: 22px 24px; }
+.result-card, .empty-state { scroll-margin-top: 16px; }
 .card-meta { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; font-size: .875rem; letter-spacing: .07em; color: #677862; }
 .section-number { font-size: .875rem; letter-spacing: normal; font-weight: 700; color: #45643c; }
 h3 { font: 600 1.4375rem/1.35 var(--font-serif); margin: 11px 0; }
