@@ -45,7 +45,7 @@ form > label { display: block; font-weight: 700; font-size: .875rem; margin-bott
 #status { color: #657366; font-size: .875rem; margin: 22px 0; }
 .welcome { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 14px; margin: 0 0 24px; }
 .welcome > div { background: #254e3e; color: #f8f5e9; border-radius: 5px; padding: 18px 20px 20px; }
-.step { color: #c6d7bf; font: italic 1.2rem var(--font-serif); }
+.step { color: #c6d7bf; font: 400 1.2rem var(--font-sans); }
 .welcome h2 { font-size: 1rem; margin: 12px 0 7px; }
 .welcome p { font-size: 1rem; color: #e2ebe5; margin: 0; }
 .result-group { margin: 30px 0; }
