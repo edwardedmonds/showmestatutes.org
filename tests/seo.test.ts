@@ -40,7 +40,7 @@ describe('Static chapter discovery and metadata', () => {
   });
   it('includes only canonical, existing public HTML pages in the sitemap', () => {
     const urls = [...files['sitemap.xml'].matchAll(/<loc>(.*?)<\/loc>/g)].map(m => m[1]);
-    expect(urls).toHaveLength(chapters.length + 2 + dataset.manifest.sectionCount);
+    expect(urls).toHaveLength(chapters.length + 3 + dataset.manifest.sectionCount);
     expect(new Set(urls).size).toBe(urls.length);
     for (const url of urls) {
       expect(url.startsWith(siteUrl + '/')).toBe(true);

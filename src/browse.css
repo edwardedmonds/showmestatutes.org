@@ -23,3 +23,14 @@
 .statute-versions .official-link { display: inline-block; background: #254e3e; color: #fff; text-decoration: none; padding: 12px 18px; border-radius: 5px; }
 .statute-versions .official-link:hover { background: #173f30; }
 @media(max-width:640px) { .site-header { flex-wrap: wrap; gap: 14px; } .site-nav { gap: 12px; } .site-nav a { padding: 8px 0; } .browse-chapters { grid-template-columns: 1fr; } }
+
+.about-content { max-width: 740px; padding-bottom: 28px; }
+.about-contents { display: flex; flex-wrap: wrap; gap: 12px 24px; padding: 20px 0; border-block: 1px solid #d9dfd1; margin: 28px 0; }
+.about-content section { margin: 36px 0; scroll-margin-top: 24px; }
+.about-content h2 { font: 600 1.875rem/1.2 var(--font-serif); margin-bottom: 16px; }
+.about-content p, .about-dates dd { overflow-wrap: anywhere; }
+.about-dates { background: #eef1e8; border: 1px solid #d8dfd0; border-radius: 5px; padding: 20px 24px; }
+.about-dates dt { font-weight: 700; }
+.about-dates dd { margin: 6px 0 20px; }
+.about-dates dd:last-child { margin-bottom: 0; }
+.about-return { margin-top: 32px; }

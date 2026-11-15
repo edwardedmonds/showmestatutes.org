@@ -20,7 +20,7 @@ The site name and headings use Cormorant Garamond, paired with Source Sans 3 for
 
 ## Individual statute pages
 
-The site generates one permanent page per distinct section under `/statutes/{section}/`, bringing the generated site to 30,806 HTML pages. All source versions of a section share that page, with exact version anchors, original headings, dates, notices and direct links to the Revisor. Search headings and chapter headings link to the matching version on the section page. Direct Revisor links remain available. The pages contain source references, not full statute text.
+The site generates one permanent page per distinct section under `/statutes/{section}/`, bringing the generated site, including the About page, to 30,807 HTML pages. All source versions of a section share that page, with exact version anchors, original headings, dates, notices and direct links to the Revisor. Search headings and chapter headings link to the matching version on the section page. Direct Revisor links remain available. The pages contain source references, not full statute text.
 
 Validation on November 15, 2026 passed all 1,514 tests and audited all 30,806 pages, sitemap entries and 523,777 internal links. The generated site is about 235 MiB. The measured full build took 16 seconds with about 1 GiB peak memory after reusing date formatters and disabling per-file compression-size reporting. These are local measurements, not a deployment benchmark.
 
@@ -31,6 +31,12 @@ The individual pages add no analytics or advertising. Their URLs are included in
 The [chapter directory](https://showmestatutes.org/chapters/) gives every populated chapter a readable page. It includes all 30,434 collected source versions, their headings, source-check dates, version labels and notices. The ten empty indexes link directly to the Revisor. These pages work without JavaScript and are generated from the same validated snapshot as search.
 
 Each page has its own title, description and canonical URL. A generated sitemap, site-name metadata, breadcrumbs and sharing previews help other services understand the site. The directory and sitemap rebuild with every release; they do not refresh the official sources. [Search visibility notes](docs/seo.md) explain the checks and Search Console setup. Domain ownership was verified on November 14, 2026, and Google successfully processed the sitemap with 460 discovered pages. Discovery does not mean every page is indexed. Bing Webmaster Tools ownership was also verified on November 14, 2026, and its sitemap submission was accepted for processing.
+
+## About, accuracy and corrections
+
+The public [About & accuracy page](https://showmestatutes.org/about/) identifies Edward Edmonds as the project’s creator and maintainer. It explains the official sources, snapshot coverage, validation process, date labels and limits of the collection. The page is linked from the site navigation and every page’s footer. Its coverage totals come from the same validated dataset as search.
+
+Source collection remains a separate reviewed process; opening or rebuilding the site does not recheck the law. The About page provides a public GitHub error-report form for source discrepancies and search problems. Reports should identify the affected page or section and the official source, without personal case information or confidential proceedings. A report does not bypass validation or automatically change the published data.
 
 ## What's covered
 
@@ -152,7 +158,7 @@ The main pieces are small enough to inspect directly:
 | `src/search.ts` | Candidate retrieval, common names, spelling suggestions and ranking |
 | `src/data.ts` | Data validation and version selection |
 | `src/main.ts`, `src/style.css` | Search interface |
-| `src/seo.ts`, `src/browse.css` | Static chapter pages, metadata and sitemap |
+| `src/seo.ts`, `src/browse.css` | Static chapter, statute and About pages, metadata and sitemap |
 | `scripts/check-seo.py` | Built-site SEO and internal-link checks |
 | `data/coverage.json` | Reviewed chapter scope, minimum counts and source exceptions |
 | `data/aliases.json` | Common-name mappings, topics and related sections |

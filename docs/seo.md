@@ -13,6 +13,10 @@ The site publishes a homepage, a chapter directory, 458 populated chapter pages 
 
 All content comes from the existing validated dataset. The build fails on invalid data; deployment additionally requires the search tests and built-site audit to pass. Source updates remain a separate reviewed process.
 
+## About and accuracy
+
+`/about/` is a static, indexable page with `AboutPage` structured data, its own canonical URL and a sitemap entry. It identifies the maintainer, explains provenance, reviewed snapshots and source-date labels, and links to the public source policy, coverage notes and GitHub error-report form. Its totals are generated from the validated dataset. Header and footer links make it reachable from search, chapter and statute pages. The page does not claim government affiliation, legal review, continuous monitoring or guaranteed accuracy.
+
 ## Verify a release
 
 Run `npm test`, `npm run build`, then `npm run seo:check`. The latter checks every generated HTML page, unique titles, canonical URLs, descriptions, JSON-LD, internal destinations, the sitemap and sharing image dimensions. It runs in GitHub Actions before the Pages artifact is uploaded. The source tests also verify that every record retains its heading, exact source URL and applicable notices.

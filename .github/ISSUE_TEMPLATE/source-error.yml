@@ -1,0 +1,30 @@
+name: Report a source or search error
+description: Report a heading, date, source link, missing record or search result that looks wrong.
+title: "[Correction]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping check Show Me Statutes. This report is public. Include only information about the site and public sources, not personal case details or confidential proceedings.
+  - type: textarea
+    id: affected-page
+    attributes:
+      label: Affected page or section
+      description: Paste the Show Me Statutes page link or section number. Include the source version or date if known.
+    validations:
+      required: true
+  - type: textarea
+    id: discrepancy
+    attributes:
+      label: What looks wrong?
+      description: Describe what the site shows and what you expected. For a search problem, include the search words and any chapter filter.
+    validations:
+      required: true
+  - type: textarea
+    id: official-source
+    attributes:
+      label: Official source
+      description: Paste the Missouri Revisor link used to check the result, if available. Include any relevant public heading, date or source note.
+  - type: markdown
+    attributes:
+      value: Reports are checked against the source. Submitting a report does not automatically change the published collection.

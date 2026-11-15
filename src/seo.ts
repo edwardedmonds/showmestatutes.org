@@ -58,9 +58,9 @@ ${metadata(title, description, path)}
 <link rel="stylesheet" href="${stylesheet}">
 <script type="application/ld+json">${json(schema)}</script></head><body>
 <a class="skip-link" href="#main">Skip to content</a>
-<header class="site-header"><a class="brand" href="/" aria-label="Show Me Statutes home"><span class="brand-mark" aria-hidden="true">§</span> Show Me Statutes</a><nav class="site-nav" aria-label="Main navigation"><a href="/#search">Search</a><a href="/chapters/">Browse chapters</a><a href="/#coverage">Coverage &amp; sources</a></nav></header>
+<header class="site-header"><a class="brand" href="/" aria-label="Show Me Statutes home"><span class="brand-mark" aria-hidden="true">§</span> Show Me Statutes</a><nav class="site-nav" aria-label="Main navigation"><a href="/#search">Search</a><a href="/chapters/">Browse chapters</a><a href="/#coverage">Coverage &amp; sources</a><a href="/about/">About &amp; accuracy</a></nav></header>
 <main id="main" class="browse-main"><nav class="breadcrumbs" aria-label="Breadcrumb">${breadcrumb.map((item, index) => index === breadcrumb.length - 1 ? `<span aria-current="page">${escapeHtml(item.name)}</span>` : `<a href="${item.path}">${escapeHtml(item.name)}</a> <span aria-hidden="true">/</span>`).join(' ')}</nav>${content}</main>
-<footer><span>SHOW ME STATUTES</span><p>Independent search. Links to official sources.<br>Not affiliated with the State of Missouri. Not legal advice.</p><a href="/licenses.txt">MIT &amp; license notices</a><a href="https://github.com/edwardedmonds/showmestatutes.org">Project on GitHub ↗</a></footer></body></html>`;
+<footer><span>SHOW ME STATUTES</span><p>Independent search. Links to official sources.<br>Not affiliated with the State of Missouri. Not legal advice.</p><a href="/about/">About &amp; accuracy</a><a href="/about/#report-an-error">Report an error</a><a href="/licenses.txt">MIT &amp; license notices</a><a href="https://github.com/edwardedmonds/showmestatutes.org">Project on GitHub ↗</a></footer></body></html>`;
 }
 
 function recordHtml(record: Statute, asOf: string, onStatutePage = false) {
@@ -79,6 +79,35 @@ export function browseAssets(dataset: Dataset, stylesheet: string, asOf: string)
   const chapters = dataset.manifest.chapters.filter(c => c.sectionCount);
   const empty = dataset.manifest.chapters.filter(c => !c.sectionCount);
   const files: Record<string, string> = {};
+  const about = `<article class="about-content">
+<p class="eyebrow">ABOUT THE PROJECT</p>
+<h1>Finding the law should be easier.</h1>
+<p class="intro">Show Me Statutes is an independent tool built and maintained by Edward Edmonds to help people find Missouri statutes faster.</p>
+<p>I built this because knowing what you’re looking for isn’t the same as knowing the section number. The goal is straightforward: search the words you have, find the relevant heading, and read the law at its official source.</p>
+<nav class="about-contents" aria-label="On this page"><a href="#sources">Sources &amp; coverage</a><a href="#checks">How records are checked</a><a href="#dates">Dates &amp; updates</a><a href="#report-an-error">Report an error</a></nav>
+<section id="sources" aria-labelledby="sources-title"><h2 id="sources-title">Where the information comes from</h2>
+<p>The headings and source information come from the <a href="https://revisor.mo.gov/">Missouri Revisor of Statutes</a>. Search uses official headings and a small set of documented common names. It does not search or reproduce the full text of the law, and it does not generate legal summaries.</p>
+<p>The reviewed snapshot contains ${dataset.manifest.sectionCount.toLocaleString('en-US')} distinct sections and ${dataset.manifest.recordCount.toLocaleString('en-US')} source versions across ${dataset.manifest.chapters.length} chapter indexes. Of those, ${chapters.length} contain headings and ${empty.length} have no listed sections. <a href="/chapters/">Browse the chapter directory</a> or <a href="/#coverage">see the coverage and source dates</a>.</p>
+<p>Coverage means the headings and versions listed in the checked statewide catalog. It does not mean a complete historical archive or every kind of Missouri law. Court rules, regulations, constitutional provisions, federal law and local ordinances are outside this collection. A missing result does not mean no relevant law exists.</p></section>
+<section id="checks" aria-labelledby="checks-title"><h2 id="checks-title">How records are checked</h2>
+<p>Collection starts with the official chapter indexes, then retrieves the listed source versions. Automated checks compare section numbers, version identities, headings and dates. Duplicate records, missing records, unexpected source formatting and unexplained date overlaps stop the update for investigation.</p>
+<p>Source exceptions have explicit review rules. Those rules preserve the Revisor’s constitutional warnings, contingent dates, multiple enactments and reprint notices. Every result retains a link to its exact official source version. The site does not decide which version governs a particular situation.</p>
+<p>Before a release can go live, the dataset must pass validation, the automated tests must pass, and the built pages and internal links must pass an audit. These checks help catch errors; they are not a legal review or a guarantee that the source has not changed.</p>
+<p>The <a href="https://github.com/edwardedmonds/showmestatutes.org/blob/main/docs/source-policy.md">source policy</a>, <a href="https://github.com/edwardedmonds/showmestatutes.org/blob/main/docs/coverage.md">coverage notes</a> and <a href="https://github.com/edwardedmonds/showmestatutes.org">project code</a> are public.</p></section>
+<section id="dates" aria-labelledby="dates-title"><h2 id="dates-title">What the dates mean</h2>
+<dl class="about-dates"><dt>Source checked</dt><dd>When that particular source page was retrieved successfully. It is not a promise that nothing has changed since.</dd><dt>Chapter index checked</dt><dd>When the official list of sections and versions for that chapter was retrieved.</dd><dt>Effective date</dt><dd>The date associated with a source version, with source notes retained where dates need explanation. It is different from the date we checked the page.</dd><dt>Version labels evaluated as of</dt><dd>The date used to organize the snapshot’s version dates. Rebuilding a page or evaluating its dates does not retrieve the source again.</dd></dl>
+<p>This site publishes a reviewed snapshot. Source updates are a separate collection and review process; the site does not continuously monitor the Revisor or automatically refresh the law when a page is opened. Reusing a previously collected source keeps its original check date.</p>
+<p>Before relying on a result, open the official source and read the text, dates and notes. Show Me Statutes is not affiliated with or endorsed by the State of Missouri and does not provide legal advice.</p></section>
+<section id="report-an-error" aria-labelledby="report-title"><h2 id="report-title">Found something that looks wrong?</h2>
+<p>You can <a href="https://github.com/edwardedmonds/showmestatutes.org/issues/new?template=source-error.yml">report an error on GitHub</a> (a GitHub account is required). Include the section number or page link, the search words if relevant, what looks wrong, and the official Revisor link you used to check it. Include the version or date if the section has more than one.</p>
+<p>Reports are public. Please keep them to the site and public source material; do not include personal case information or confidential proceedings.</p>
+<p>A report is a starting point for checking the source. Corrections need to preserve the section’s identity, dates and notices and pass the same release checks. Changes are recorded in the <a href="https://github.com/edwardedmonds/showmestatutes.org/commits/main/">public project history</a>.</p></section>
+<section aria-labelledby="independence-title"><h2 id="independence-title">An independent, open-source project</h2>
+<p>The project’s code and documentation use the <a href="/licenses.txt">MIT License</a>. Official statute content keeps its source attribution. The project does not claim ownership of Missouri law.</p>
+<p>Search runs in your browser. The site currently has no accounts, third-party analytics or advertising, and no third-party search service receives your query.</p></section>
+<p class="about-return"><a href="/#search">Search Missouri statutes →</a></p>
+</article>`;
+  files['about/index.html'] = page('About & accuracy | Show Me Statutes', 'Who maintains Show Me Statutes, where Missouri statute headings come from, how records are checked, what source dates mean, and how to report an error.', '/about/', about, stylesheet, [{ name: 'Home', path: '/' }, { name: 'About & accuracy', path: '/about/' }], 'AboutPage');
   const rootBreadcrumb = [{ name: 'Home', path: '/' }, { name: 'Chapters', path: '/chapters/' }];
   const directory = `<h1>Browse Missouri statutes by chapter</h1>
 <p class="intro">A directory of Missouri Revised Statutes (RSMo) section headings, organized by chapter. Choose a chapter to see its headings, version dates and links to the official Missouri Revisor.</p>
@@ -128,7 +157,7 @@ ${records.length > 1 ? `<nav class="version-navigation" aria-label="Source versi
 <nav class="chapter-navigation" aria-label="Continue browsing"><a href="/chapters/${chapter.chapter}/">← All Chapter ${chapter.chapter} sections</a><a href="/#search">Search another statute</a></nav>`;
     files[`statutes/${encodeURIComponent(section)}/index.html`] = page(title, description, path, content, stylesheet, [...rootBreadcrumb, { name: `Chapter ${chapter.chapter}`, path: `/chapters/${chapter.chapter}/` }, { name: `§ ${section}`, path }], 'WebPage');
   }
-  const urls = ['/', '/chapters/', ...chapters.map(c => `/chapters/${c.chapter}/`), ...[...bySection.keys()].map(statutePath)];
+  const urls = ['/', '/about/', '/chapters/', ...chapters.map(c => `/chapters/${c.chapter}/`), ...[...bySection.keys()].map(statutePath)];
   // No artificial lastmod dates: rebuilding is not a source-content update.
   files['sitemap.xml'] = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map(path => `<url><loc>${siteUrl}${path}</loc></url>`).join('\n')}</urlset>\n`;
   files['robots.txt'] = `User-agent: *\nAllow: /\n\nSitemap: ${siteUrl}/sitemap.xml\n`;

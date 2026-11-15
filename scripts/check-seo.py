@@ -38,7 +38,7 @@ class Document(HTMLParser):
 
 files = sorted(DIST.rglob('*.html'))
 manifest = json.loads((ROOT / 'public/data/statutes.json').read_text())['manifest']
-assert len(files) == sum(bool(c['sectionCount']) for c in manifest['chapters']) + 2 + manifest['sectionCount']
+assert len(files) == sum(bool(c['sectionCount']) for c in manifest['chapters']) + 3 + manifest['sectionCount']
 urls = set()
 titles = set()
 links = 0
