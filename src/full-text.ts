@@ -52,26 +52,28 @@ export function renderNode(node: TextNode): string {
   return node.tag === 'table' ? `<div class="source-table" role="region" aria-label="Table from the official source" tabindex="0">${html}</div>` : html;
 }
 
-export function renderFullText(text: FullText): string {
+export function renderFullText(text: FullText, headings: ReadonlyMap<number, string> = new Map()): string {
   const notesId = `version-${text.id}-notes`;
   const bodyId = `version-${text.id}-text`;
   const render = (nodes: TextNode[]) => nodes.map(renderNode).join('');
   const sourceBody = (nodes: TextNode[]) => `<div data-source-body="${escape(text.id)}">${render(nodes)}</div>`;
   const starts = text.subsections;
+  const hasHeadings = starts.some(s => headings.has(s.number));
   const emptyBody = !text.blocks.map(textContent).join('').trim();
   const body = starts.length ? sourceBody(text.blocks.slice(0, starts[0].block)) + starts.map((s, i) => {
     const id = subsectionId(text.id, s.number);
     return `<section class="law-subsection" id="${escape(id)}" aria-label="Subsection ${s.number}">
 <div class="subsection-tools"><a class="permalink" href="${fragment(id)}">Subsection ${s.number} <span aria-hidden="true">↗</span></a><button type="button" data-copy-fragment="${escape(id)}" hidden>Copy link</button></div>
+${headings.has(s.number) ? `<h4 class="editorial-heading"><small>Editorial heading</small>${escape(headings.get(s.number)!)}</h4>` : ''}
 ${sourceBody(text.blocks.slice(s.block, starts[i + 1]?.block))}</section>`;
   }).join('') : `<div class="law-unsectioned">${sourceBody(text.blocks)}</div>`;
   return `<div class="reading-layout">
 <aside class="reading-guide" aria-label="Reading guide for source version ${escape(text.versionId)}"><h3>In this section</h3>
-<p>${starts.length ? 'Jump to subsection' : 'Navigate this source version.'}</p><nav class="reading-links${starts.length ? ' subsection-links' : ''}" aria-label="Subsections for source version ${escape(text.versionId)}">${starts.map(s => `<a href="${fragment(subsectionId(text.id, s.number))}" aria-label="Subsection ${s.number}"><span class="subsection-number" aria-hidden="true">${s.number}</span><span class="subsection-label" aria-hidden="true">Subsection ${s.number}</span></a>`).join('') || `<a href="${fragment(bodyId)}">Statutory text</a>`}</nav>
+<p>${starts.length ? 'Jump to subsection' : 'Navigate this source version.'}</p><nav class="reading-links${starts.length ? ' subsection-links' : ''}${hasHeadings ? ' has-editorial-headings' : ''}" aria-label="Subsections for source version ${escape(text.versionId)}">${starts.map(s => `<a href="${fragment(subsectionId(text.id, s.number))}" aria-label="Subsection ${s.number}${headings.has(s.number) ? ': ' + escape(headings.get(s.number)!) : ''}"><span class="subsection-number" aria-hidden="true">${s.number}</span><span class="subsection-label" aria-hidden="true">${escape(headings.get(s.number) ?? `Subsection ${s.number}`)}</span></a>`).join('') || `<a href="${fragment(bodyId)}">Statutory text</a>`}</nav>
 <a class="notes-link" href="${fragment(notesId)}">History &amp; source notes ↓</a>
-<p class="guide-note">Navigation labels are reading aids. Original numbering and wording appear alongside them.</p></aside>
+<p class="guide-note">${hasHeadings ? 'Descriptive headings are editorial reading aids added by Show Me Statutes. Read each subsection for its conditions and exceptions.' : 'Navigation labels are reading aids. Original numbering and wording appear alongside them.'}</p></aside>
 <div class="reading-content"><div class="text-heading" id="${escape(bodyId)}"><h3>Statutory text</h3></div>
-<p class="reading-description">From the archived Revisor response shown above. Text is not included in the site’s search index.</p>
+<p class="reading-description">From the archived Revisor response shown above. Text is not included in the site’s search index.${hasHeadings ? ' Subsection headings are editorial reading aids from Show Me Statutes.' : ''}</p>
 <div class="law-text">${text.headingText ? `<p class="source-heading" data-source-heading="${escape(text.id)}">${escape(text.headingText)}</p>` : ''}${emptyBody ? '<p class="no-body-note">The archived source provides a heading and source notes, with no separate statutory body text.</p>' : ''}${body}</div>
 <section class="source-notes" id="${escape(notesId)}" aria-label="History and source notes"><p class="eyebrow">FROM THE OFFICIAL SOURCE</p><h3>History &amp; source notes</h3><div data-source-notes="${escape(text.id)}">${render(text.notes)}</div></section>
 <p class="end-note"><a href="${escape(text.sourceUrl)}">Check this exact version at the Missouri Revisor ↗</a></p></div></div>`;

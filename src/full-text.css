@@ -7,6 +7,9 @@
 .reading-links a { display: flex; align-items: center; gap: 10px; padding: 8px; min-height: 44px; text-decoration: none; border-radius: 5px; }
 .reading-links a:hover, .reading-links a[aria-current] { background: #e7ede1; }
 .reading-links .subsection-number { display: grid; place-items: center; min-width: 28px; height: 28px; border-radius: 4px; background: #e6ebdf; font-weight: 600; }
+.has-editorial-headings a { align-items: flex-start; }
+.has-editorial-headings .subsection-number { flex-shrink: 0; }
+.has-editorial-headings .subsection-label { min-width: 0; overflow-wrap: anywhere; }
 .reading-guide .guide-note { font-size: .8rem; margin: 16px 8px; }
 .notes-link { display: inline-block; padding: 12px 8px; }
 .reading-content { min-width: 0; }
@@ -21,6 +24,8 @@
 .subsection-tools { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 10px; }
 .permalink, .subsection-tools button { font: 600 .875rem/1.4 var(--font-sans); padding: 10px 0; min-height: 44px; }
 .permalink { text-decoration: none; }
+.editorial-heading { font: 600 1.5rem/1.25 var(--font-serif); margin: 0 0 16px; }
+.editorial-heading small { display: block; font: 600 .6875rem/1.5 var(--font-sans); text-transform: uppercase; letter-spacing: .08em; color: #526353; margin-bottom: 6px; }
 .subsection-tools button { background: transparent; border: 0; color: #47634f; text-decoration: underline; cursor: pointer; }
 .law-text p, .law-unsectioned, .law-subsection { font: 400 1.0625rem/1.75 var(--font-sans); color: #253a31; overflow-wrap: anywhere; }
 .law-text p { margin: 8px 0 16px; }
@@ -42,6 +47,10 @@
   .subsection-links a[aria-current] { background: #254e3e; border-color: #254e3e; color: #fff; }
   .subsection-links .subsection-number { min-width: 0; height: auto; background: transparent; }
   .subsection-links .subsection-label { display: none; }
+  .subsection-links.has-editorial-headings { grid-template-columns: minmax(0, 1fr); }
+  .subsection-links.has-editorial-headings a { justify-content: flex-start; padding: 10px 12px; }
+  .subsection-links.has-editorial-headings .subsection-number { min-width: 28px; height: 28px; }
+  .subsection-links.has-editorial-headings .subsection-label { display: block; }
   .law-text { padding: 0 16px; }
   .source-notes { padding: 16px; }
 }

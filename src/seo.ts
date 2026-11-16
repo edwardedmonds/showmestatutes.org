@@ -1,5 +1,6 @@
 import { constitutionalNotice, effectiveDateLabel, enactmentNotice, isUpcoming, sourceDateNotice, standaloneReprintNotice, type Dataset, type Statute } from './data';
 import { renderFullText, type FullText } from './full-text';
+import { headingsFor, type HeadingRegistry } from './subsection-headings';
 import { statutePath, statuteVersionPath } from './paths';
 
 export const siteUrl = 'https://showmestatutes.org';
@@ -64,7 +65,7 @@ ${metadata(title, description, path)}
 <footer><span>SHOW ME STATUTES</span><p>Independent search. Links to official sources.<br>Not affiliated with the State of Missouri. Not legal advice.</p><a href="/about/">About &amp; accuracy</a><a href="/about/#report-an-error">Report an error</a><a href="/licenses.txt">MIT &amp; license notices</a><a href="https://github.com/edwardedmonds/showmestatutes.org">Project on GitHub ↗</a></footer></body></html>`;
 }
 
-function recordHtml(record: Statute, asOf: string, onStatutePage = false, fullText?: FullText) {
+function recordHtml(record: Statute, asOf: string, onStatutePage = false, fullText?: FullText, headingRegistry?: HeadingRegistry) {
   const notices = [sourceDateNotice(record), constitutionalNotice(record), standaloneReprintNotice(record), enactmentNotice(record)];
   if (record.headingSource === 'chapter-index') notices.push('Heading supplied by the official chapter index; this version’s source page omits its heading.');
   if (record.headingMarker) notices.push('The official source marks this section with a footnote. Read the source notes.');
@@ -73,10 +74,10 @@ function recordHtml(record: Statute, asOf: string, onStatutePage = false, fullTe
 <p class="version">${escapeHtml(effectiveDateLabel(record, asOf, isUpcoming(record, asOf)))}</p>
 ${notices.filter(Boolean).map(notice => `<p class="version">${escapeHtml(notice!)}</p>`).join('\n')}
 <p class="version">Source checked ${date(record.sourceCheckedAt)}</p>
-<a class="official-link" href="${escapeHtml(record.sourceUrl)}">Read this version at the Revisor ↗</a>${fullText ? `<button type="button" class="copy-citation" data-copy-citation="${escapeHtml(`§ ${record.section}, RSMo. Source version ${record.versionId}. ${effectiveDateLabel(record, asOf, isUpcoming(record, asOf))}. ${notices.filter(Boolean).join(' ')} ${record.sourceUrl}`)}" hidden>Copy citation</button>${renderFullText(fullText)}` : ''}</li>`;
+<a class="official-link" href="${escapeHtml(record.sourceUrl)}">Read this version at the Revisor ↗</a>${fullText ? `<button type="button" class="copy-citation" data-copy-citation="${escapeHtml(`§ ${record.section}, RSMo. Source version ${record.versionId}. ${effectiveDateLabel(record, asOf, isUpcoming(record, asOf))}. ${notices.filter(Boolean).join(' ')} ${record.sourceUrl}`)}" hidden>Copy citation</button>${renderFullText(fullText, headingRegistry ? headingsFor(fullText, headingRegistry) : undefined)}` : ''}</li>`;
 }
 
-export function browseAssets(dataset: Dataset, stylesheet: string, asOf: string, fullText?: Map<string, FullText>): Record<string, string> {
+export function browseAssets(dataset: Dataset, stylesheet: string, asOf: string, fullText?: Map<string, FullText>, headingRegistry?: HeadingRegistry): Record<string, string> {
   const chapters = dataset.manifest.chapters.filter(c => c.sectionCount);
   const empty = dataset.manifest.chapters.filter(c => !c.sectionCount);
   const files: Record<string, string> = {};
@@ -153,7 +154,7 @@ ${chapter.chapter === '300' ? '<p class="stale-notice">Chapter 300 is Missouri�
 ${fullText?.has(records[0].id) ? '<p class="statute-note">Local reading preview · Archived source text appears below. Source-check dates are preserved; open the Revisor to check for changes.</p>' : '<p class="statute-note">This page provides headings and source references, not the full text of the law. Open the official source to read the statute and its notes.</p>'}
 ${chapter.chapter === '300' ? '<p class="stale-notice">Chapter 300 is Missouri’s Model Traffic Ordinance. Inclusion here does not establish which provisions a locality has adopted.</p>' : ''}
 ${records.length > 1 ? `<nav class="version-navigation" aria-label="Source versions">${records.map(r => `<a href="#version-${escapeHtml(r.id)}">Source version ${escapeHtml(r.versionId)}</a>`).join('')}</nav>` : ''}
-<ol class="result-list browse-records statute-versions">${records.map(r => recordHtml(r, asOf, true, fullText?.get(r.id))).join('\n')}</ol>
+<ol class="result-list browse-records statute-versions">${records.map(r => recordHtml(r, asOf, true, fullText?.get(r.id), headingRegistry)).join('\n')}</ol>
 ${fullText?.has(records[0].id) ? '<p id="copy-status" role="status" aria-live="polite"></p><script src="/statute-reading.js" defer></script>' : ''}
 <p class="version">Version labels evaluated as of ${date(asOf)}. Source-check dates are shown on each version; rebuilding this page does not recheck the law.</p>
 <nav class="chapter-navigation" aria-label="Continue browsing"><a href="/chapters/${chapter.chapter}/">← All Chapter ${chapter.chapter} sections</a><a href="/#search">Search another statute</a></nav>`;

@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-pilot",
+  "reviewMethod": "Codex editorial review against each complete archived section and its source notes; not an independent legal review.",
+  "entries": [
+    {
+      "id": "535.300:35191",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=535.300&bid=35191",
+      "sourceSha256": "b61de33b2709b8dfcb03a2fcc9512f83f79637d89e936dc26a9ee2984a62e6c4",
+      "textSha256": "450fe5b1a4b33d0d39658e91055a78bb18ba23e5631b5a9cd71bc03d627ce9ec",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Deposit limit",
+          "bodySha256": "141d298f60f783298629fd530ed3a41dd679b74e8c2d8fc9a849b3d6a350e7a3",
+          "reviewNote": "Describes the topic without restating the amount as a stand-alone rule."
+        },
+        {
+          "number": 2,
+          "title": "Holding deposits and interest",
+          "bodySha256": "6009b4681efd1fbf05847edd0f3fd29721288700b916d0576453f33ccffda4cb",
+          "reviewNote": "Includes the holding requirement, allocation of interest, and government-landlord exception."
+        },
+        {
+          "number": 3,
+          "title": "Deposit returns and itemized deductions",
+          "bodySha256": "f0cc072a40fbb9bead0046828f8504a35645382fdcc7ffe015f616e718186c2d",
+          "reviewNote": "Includes the alternative outcomes, deadline, mailing rule, and continuation paragraph."
+        },
+        {
+          "number": 4,
+          "title": "Grounds and conditions for withholding",
+          "bodySha256": "11af0fcdc0fe424c748cb16c0962cc6d68ef0c9bc74146eea71a2c8585f91a06",
+          "reviewNote": "Covers rent, restoration, carpet-cleaning terms and receipts, notice, and mitigation conditions."
+        },
+        {
+          "number": 5,
+          "title": "Inspection notice and tenant attendance",
+          "bodySha256": "0935e818519380ab28e0aa05fe484bc94f29be9876891c6a24347a97f476d8bd",
+          "reviewNote": "Covers notice, reasonable timing, and the tenant’s right to attend."
+        },
+        {
+          "number": 6,
+          "title": "Damages for wrongful withholding",
+          "bodySha256": "7632ce70bb48c3bc2e9294f760a0c4413e38d597cd000b7bcd80a527e721551e",
+          "reviewNote": "Does not state a universal remedy; preserves the source’s commercial-property annotation below."
+        },
+        {
+          "number": 7,
+          "title": "Additional damages and rent payments",
+          "bodySha256": "d4203f1a4a7bb824dae6ca48e6c1777a634f23facb7820c179ccce616bb03a87",
+          "reviewNote": "Covers both excess-damage recovery and limits on substituting the deposit for rent."
+        },
+        {
+          "number": 8,
+          "title": "Meaning of security deposit",
+          "bodySha256": "40cee79b1cba96c9781c568ba46c22a468a9f6c6fdebffdfe55bd74395bd83b3",
+          "reviewNote": "The definition and pet-deposit exclusion remain in the text."
+        }
+      ]
+    },
+    {
+      "id": "535.210:35190",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=535.210&bid=35190",
+      "sourceSha256": "29f10aeab12813bf332d81b4fbc8f3534706410b3ac3631aedc32e70420c5fb1",
+      "textSha256": "ae483f649d1d67c326015e1a8db876a6000dd40290ab2f0d70f19d18670eedc8",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishing the court and appointing commissioners",
+          "bodySha256": "02b018ffa72e4a0359a6e913db74c7807b7d775c07771786d8988d56b3b606d2",
+          "reviewNote": "Includes county funding authorization and judicial-commission composition."
+        },
+        {
+          "number": 2,
+          "title": "Commissioners’ authority and limits",
+          "bodySha256": "87f67fa94398a1b68755e7377d1ed1540f101ad00a3f796ca706f4e67eef0a34",
+          "reviewNote": "Includes dispute types, relief, and the prohibition on ex parte hearings and orders."
+        },
+        {
+          "number": 3,
+          "title": "Commissioner qualifications, compensation, and restrictions",
+          "bodySha256": "92442cc4512d8b9f4c715296739f32a4f5675e00301a58093a7cae74b283fee2",
+          "reviewNote": "Covers residency, service, outside work, and exclusion from state employment benefits."
+        },
+        {
+          "number": 4,
+          "title": "Court procedures and staffing",
+          "bodySha256": "fe2316d67e6027d05851789433c79dc710b18678178d1434579812663d54638a",
+          "reviewNote": "Includes trial procedure, fact-finding duties, and staff assignments."
+        },
+        {
+          "number": 5,
+          "title": "Requesting an associate circuit court hearing",
+          "bodySha256": "beb21e136414dbc117e076217b6a32bc8e5e4a31d6273eb066f15f229ad929d4",
+          "reviewNote": "Preserves the source’s mailing-or-service wording without supplying a missing object."
+        },
+        {
+          "number": 6,
+          "title": "Recording proceedings and seeking review",
+          "bodySha256": "151ae4c51e314a582cca8e50cc5b15fc8c97265ffa94313a3636470bb718f6a2",
+          "reviewNote": "Includes recording costs, trial de novo, appeals, and referenced procedures."
+        },
+        {
+          "number": 7,
+          "title": "Summons and service deadlines",
+          "bodySha256": "7f939d6c07f2b5c5ea96c7af09f60b5fff30284fe30da7de32f3aa996f5bf66f",
+          "reviewNote": "Keeps the distinct return and service-attempt periods in the source text."
+        },
+        {
+          "number": 8,
+          "title": "County responsibility for court costs",
+          "bodySha256": "47a3b18ff39d02d9131e355f04676da6e40f80e8868948479473236301067ef2",
+          "reviewNote": "Refers to establishing and operating the court, not individual litigants’ fees."
+        }
+      ]
+    },
+    {
+      "id": "307.178:47718",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=307.178&bid=47718",
+      "sourceSha256": "7f89d5a66179a8dc20a66daa00b0142fa8b95215d44781cfeed3665066b94fe1",
+      "textSha256": "ff5d1627c198f6da96ef1c9e1341c3fcab3e9ea3d8caf048509e45281884f2bf",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Meaning of passenger car",
+          "bodySha256": "ec2ed404235f5577e73c8948706111b482199fb878ea2f74d081acc329104b35",
+          "reviewNote": "Includes the exclusions from this section’s definition."
+        },
+        {
+          "number": 2,
+          "title": "Belt requirements, exceptions, and enforcement limits",
+          "bodySha256": "45299da55466e37061606692c8350d459dc906dfdbbcf6b06b37da8eee1d9e38",
+          "reviewNote": "Includes vehicle and passenger conditions, postal, medical, and agricultural exceptions, and enforcement limits."
+        },
+        {
+          "number": 3,
+          "title": "Restraints for children under sixteen",
+          "bodySha256": "99870fcc4641c961b6c5bd1e9cf11d36c479a3243e76545424a3b2b8997ba7a3",
+          "reviewNote": "Keeps the cross-reference to 307.179; supplies no additional age or restraint rule."
+        },
+        {
+          "number": 4,
+          "title": "Seat-belt evidence and damage reductions",
+          "bodySha256": "67c825e212535795d69396852a0d752ba0ebb380e6df9e6dc52ab1d8070966df",
+          "reviewNote": "Includes comparative-negligence treatment, expert evidence, and the limit on reduction."
+        },
+        {
+          "number": 5,
+          "title": "Vehicle product claims and seat-belt evidence",
+          "bodySha256": "3aac79061e23124af9e8f1277291013d7d5a113ff45dd0faceb3c78cf219bac5",
+          "reviewNote": "Identifies the separate rule for design, construction, manufacture, distribution, and sale actions; does not merge it with subsection 4."
+        },
+        {
+          "number": 6,
+          "title": "Fines, court costs, and points",
+          "bodySha256": "27aa1a61ff75921951078f48d2271e114939a8f24bfcb966dc9180d8d576434e",
+          "reviewNote": "Includes the cross-referenced exception; avoids an unconditional penalty claim."
+        },
+        {
+          "number": 7,
+          "title": "Public information and program evaluation",
+          "bodySha256": "8024f691ac8cb04783ac683eb02dafb419c443c8dc9dda39b683ea58dcd79476",
+          "reviewNote": "Includes public education, effectiveness evaluation, and reporting."
+        },
+        {
+          "number": 8,
+          "title": "When passengers outnumber seat belts",
+          "bodySha256": "ab57caf3c1dfa59c6d5527b42b17b8599ebec0a7daceb5550b7ec1ccfec00fa1",
+          "reviewNote": "Preserves seating conditions and the exception concerning drivers licensed under 302.178."
+        }
+      ]
+    },
+    {
+      "id": "610.023:30420",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=610.023&bid=30420",
+      "sourceSha256": "bc26969046346d58e5dfeeb88760a3afb9e3c2cb4f6dd7d12157728b8b258175",
+      "textSha256": "ce7ba29d9de335f2c0fc8f682c7d5397df739b0128d84b5a4f233abd17972a3a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Appointing and identifying the records custodian",
+          "bodySha256": "d39da14d702026dfca8fdd16d508a55ac80f4722d41851776f6f729e0739b649",
+          "reviewNote": "Includes maintenance responsibility and disclosure of identity and location upon request."
+        },
+        {
+          "number": 2,
+          "title": "Inspection, copying, and access restrictions",
+          "bodySha256": "99cb3c78c280e47cdb2b8c9f2abb8836e3aa9e0aa831081021f9305e3a734f33",
+          "reviewNote": "Includes original-record removal permission and limits and exceptions on exclusive access arrangements."
+        },
+        {
+          "number": 3,
+          "title": "Request timing, format, and delays",
+          "bodySha256": "71b945c4fa50270372a8e41ceaf3942f729b24871428bd4c70a825319ef5f0f7",
+          "reviewNote": "Does not promise production within three days; distinguishes action on a request from reasonable production delays."
+        },
+        {
+          "number": 4,
+          "title": "Written explanations for denied access",
+          "bodySha256": "c2208e608c374ae0759e08f15e17bd154c1198e5f28d15626afcd82c3a5c87bf",
+          "reviewNote": "Preserves the request requirement, legal citation, and separate statement deadline."
+        }
+      ]
+    },
+    {
+      "id": "79.130:3732",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=79.130&bid=3732",
+      "sourceSha256": "2c54b8017d067605256f3113d110e12aaf4eee3e354d75ba93f41ba6c1eec539",
+      "textSha256": "597b77b2b233af9f0861fba9a156ed59d8e7d0a46fec0ad30118bc8031eb0a16",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Procedures for enacting ordinances",
+          "bodySha256": "cb5163046a3bc5cb663942d21612f9976035301b7e012353f92f2edae094cbce",
+          "reviewNote": "Applies only to this source version, whose constitutional warning remains displayed; covers form, votes, readings, public copies, and signature or veto override."
+        },
+        {
+          "number": 2,
+          "title": "Exception for ordinances under 79.135",
+          "bodySha256": "3b9ae34d8ee0d24b9ebd043c34632feb3f0917b45a899ee05ba98fba377851a3",
+          "reviewNote": "Retains the exact cross-reference rather than inferring a category of exempt ordinances."
+        }
+      ]
+    }
+  ]
+}

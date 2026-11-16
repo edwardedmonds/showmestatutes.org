@@ -4,6 +4,7 @@ import { createHash } from 'node:crypto';
 import { assertDataset, todayInMissouri } from './src/data';
 import { buildIndex } from './src/search';
 import { loadFullText } from './src/full-text-build';
+import { headingsFor, parseHeadingRegistry } from './src/subsection-headings';
 import { browseAssets, homepageSeo } from './src/seo';
 
 const source = readFileSync(process.env.STATUTES_DATASET ?? 'public/data/statutes.json', 'utf8');
@@ -12,13 +13,26 @@ const parsed: unknown = JSON.parse(source);
 assertDataset(parsed);
 const dataset = parsed;
 const fullText = process.env.STATUTES_FULL_TEXT ? loadFullText(process.env.STATUTES_FULL_TEXT, dataset, datasetHash, process.env.STATUTES_FULL_TEXT_ALLOW_PILOT === '1') : undefined;
+if (process.env.STATUTES_SUBSECTION_HEADINGS && process.env.STATUTES_SUBSECTION_HEADINGS !== 'pilot') throw new Error('Unknown subsection heading mode');
+const headingRegistry = process.env.STATUTES_SUBSECTION_HEADINGS === 'pilot' ? parseHeadingRegistry(JSON.parse(readFileSync('data/subsection-headings-pilot.json', 'utf8'))) : undefined;
+if (headingRegistry && !fullText) throw new Error('The subsection heading pilot requires a full-text candidate');
+if (headingRegistry && fullText) {
+  let accepted = 0;
+  for (const id of headingRegistry.keys()) {
+    const text = fullText.get(id);
+    const count = text ? headingsFor(text, headingRegistry).size : 0;
+    accepted += count;
+    if (!count) console.warn(`Editorial heading pilot: ${id} uses numbered navigation; its source or review needs attention.`);
+  }
+  console.info(`Editorial heading pilot: ${accepted} source-matched headings across ${headingRegistry.size} registered versions.`);
+}
 const browseCss = readFileSync('src/style.css', 'utf8') + '\n' + readFileSync('src/browse.css', 'utf8') + (fullText ? '\n' + readFileSync('src/full-text.css', 'utf8') : '');
 const browseStylesheet = `assets/browse-${createHash('sha256').update(browseCss).digest('hex').slice(0, 12)}.css`;
 const asOf = todayInMissouri();
 
 function assets(): Record<string, string> {
   const files: Record<string, string> = {
-    ...browseAssets(dataset, '/' + browseStylesheet, asOf, fullText),
+    ...browseAssets(dataset, '/' + browseStylesheet, asOf, fullText, headingRegistry),
     [browseStylesheet]: browseCss,
     'licenses.txt': [
       'Show Me Statutes — software license notices',

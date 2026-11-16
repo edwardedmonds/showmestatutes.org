@@ -34,6 +34,8 @@ The local statewide build accounts for all **30,434 source versions** and preser
 
 This branch is not published. Normal builds keep the existing heading pages unless a separate full-text candidate is explicitly selected. The extractor works offline from archived responses and requires each URL, retrieval date and checksum to match the heading snapshot. Unknown structures and missing versions stop acceptance. The [local implementation and review notes](docs/full-text-plan.md) explain how to extract, preview and validate a candidate and the source exceptions reviewed for this branch.
 
+An optional [subsection-heading pilot](docs/subsection-heading-pilot.md) adds 30 editorial reading aids across five sections. Each heading is checked against its archived source version and marked as editorial in the preview. Changed sources fall back to numbered navigation until reviewed again. Enable it locally with `STATUTES_SUBSECTION_HEADINGS=pilot` alongside the full-text candidate. The labels stay outside MiniSearch; they have not received independent legal review or been published.
+
 ## Browse without searching
 
 The [chapter directory](https://showmestatutes.org/chapters/) gives every populated chapter a readable page. It includes all 30,434 collected source versions, their headings, source-check dates, version labels and notices. The ten empty indexes link directly to the Revisor. These pages work without JavaScript and are generated from the same validated snapshot as search.
