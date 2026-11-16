@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "54.010:1941",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=54.010&bid=1941",
+      "sourceSha256": "2d3b20c44649df18801ea151c9d9db0c169bffe49c4e8047a2d51958cee54b0a",
+      "textSha256": "1c962246837d25f8ed8337b36497191449053fb158f48a0059136bf9b4c6f4bc",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Treasurer and collector-treasurer offices",
+          "bodySha256": "cabaa7d9afa57d8a70ac377de9ee105fb05a894fab36ac6a273b2f4e1ab9eb74",
+          "reviewNote": "Includes township alternative election exception."
+        },
+        {
+          "number": 2,
+          "title": "Treasurer elections in first- and second-class counties",
+          "bodySha256": "63e10806553387fa233aab2dbba6eaab6d1a5e0e31d0c2c3352e810054311842",
+          "reviewNote": "Names election cycle."
+        },
+        {
+          "number": 3,
+          "title": "Elections in third-, fourth-class, and township counties",
+          "bodySha256": "200ee556ceaa557d681db310330e835a9172248de408b68b687e4015a0269b83",
+          "reviewNote": "Includes distinct township collector-treasurer cycle."
+        },
+        {
+          "number": 4,
+          "title": "Laws governing township county collector-treasurers",
+          "bodySha256": "4a300e421bd1cd983fceb26b34ad6787f0e8e073e02b2dae2b9e6d43b9906e8e",
+          "reviewNote": "Includes special-law priority when rules conflict."
+        },
+        {
+          "number": 5,
+          "title": "Collector-treasurer duties after township government ends",
+          "bodySha256": "f0f1c631c1038ee43f797b316a66dc3bedde962c9e210dcba2a00785156ff2e7",
+          "reviewNote": "Covers compensation, fee schedules, requirements, and cross-references."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed separate election cycles and collector-treasurer duties including continuation after township government is abolished."
+    },
+    {
+      "id": "54.261:60202",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=54.261&bid=60202",
+      "sourceSha256": "fd0f722048c32da1ca4df9c5f0ffc7800b775121abf97968688f233c28b93bf0",
+      "textSha256": "e8cc1cdbb44e27e5bfecb17c426ef1bd1d7912dfeeb1806396b8428057792ff6",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Treasurer salary basis and county coverage",
+          "bodySha256": "7efc266bd7441460ea748b799b2e28c99ca2f38dcdc5efabe3c1fa8767e6bc62",
+          "reviewNote": "Includes2002 protection and no-required-increase rule."
+        },
+        {
+          "number": 2,
+          "title": "Treasurer salary schedule by assessed valuation",
+          "bodySha256": "068a3816fcbd57f67742b1b9fd3febaf67c139912ca27cc97e71c313e60fb89d",
+          "reviewNote": "Names the first salary table."
+        },
+        {
+          "number": 3,
+          "title": "Treasurer salary schedule for terms beginning after August 28, 2026",
+          "bodySha256": "c6d229bdb84df98d41e6eafa867db29d29f1b450169498eea08dd3146af2f3c2",
+          "reviewNote": "Exact August28 threshold retained. Separate review made the new-term cutoff exact."
+        },
+        {
+          "number": 4,
+          "title": "Training-related compensation and expense reimbursement",
+          "bodySha256": "51973f93f4fe2ae8be6db1b19609896cad205221abddfb21634dad01e09aa128",
+          "reviewNote": "Includes approved alternatives, certification, and appropriation-qualified reimbursement."
+        },
+        {
+          "number": 5,
+          "title": "Salary reductions and commission voting requirements",
+          "bodySha256": "f011da0052f4e49b09f5855d223ced8d1b539bf59479d0f2f962441eb78b9fe2",
+          "reviewNote": "Includes county exclusions and two-thirds vote exception."
+        },
+        {
+          "number": 6,
+          "title": "Acting treasurers and staff during vacancies",
+          "bodySha256": "32f8009df37f55f675ca3035507a8b9c5f796fef7dbf7f0042ff6da8d06f4451",
+          "reviewNote": "Includes noncharter and no-deputy conditions, duration, and staffing."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed both full salary schedules, protected compensation, training, reduction votes, and acting-treasurer appointment when no deputy exists; made the cutoff exact."
+    },
+    {
+      "id": "54.265:1964",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=54.265&bid=1964",
+      "sourceSha256": "afa405f840b24ad2f06a59b3c9ae0601410e78dd5a6f9684b4237bdbb764ab8d",
+      "textSha256": "2f643d9015e9c416181cce5a465c409c08b2fc96096ba47b7290713f41baf283",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Additional treasurer compensation in qualifying first- and second-class counties",
+          "bodySha256": "62d1f2a6e4b7491f998587e233e1ef4894d2f9c12369ed60156f1ae7cfd259c1",
+          "reviewNote": "Describes archived authorization and total cap; constitutional annotation expressly preserved, no enforceability conclusion. Separate review explicitly considers the Baumli constitutional annotation; this is a topic label for printed text, not an assertion of enforceable authority."
+        },
+        {
+          "number": 2,
+          "title": "Additional treasurer compensation in qualifying third- and fourth-class counties",
+          "bodySha256": "8beeac34ed735044596e0cd35fc5c670f705496394413cecb9de584ce56c4891",
+          "reviewNote": "Includes township exclusion and additional-pay ceiling; constitutional annotation relevant to delegation remains visible. Separate review explicitly considers the Baumli constitutional annotation; this is a topic label for printed text, not an assertion of enforceable authority."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "CONSTITUTIONAL ANNOTATION RETAINED: archived Baumli v.Howard County,660S.W.2d702(1983), states that delegating additional county-officer compensation to county commissions violates uniform-compensation constitutional requirements. Titles only identify the two printed compensation provisions, not currently enforceable authority. Neither the text nor the annotation has been silently repaired."
+    },
+    {
+      "id": "54.280:1966",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=54.280&bid=1966",
+      "sourceSha256": "87a33a4756e9fee42cee5a0d0586939fa5eed13a13b648761e52c554728ce8d8",
+      "textSha256": "ee0b57247cd0f0082bfc9bca412cd152b9f6eb649d29c145320004e78301d9d1",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Tax collection authority and back-tax records",
+          "bodySha256": "cb393d42efb3fd3339c2c9a111b238546bf6f8581cc3a5255230456c5a416eaa",
+          "reviewNote": "Includes current/delinquent/local taxes, sales, book deposit, and clerk list."
+        },
+        {
+          "number": 2,
+          "title": "Collection fees deposited in county general revenue",
+          "bodySha256": "b4f848f7c6cc7404b86d0b3da5e039781436708c526b21ce932b71339c9c90d7",
+          "reviewNote": "Names four levy-based fee bands without oversimplifying scope."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed all covered tax types, back-tax-book procedures, and four collection-fee brackets."
+    },
+    {
+      "id": "54.320:60203",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=54.320&bid=60203",
+      "sourceSha256": "fc71c73c554afd3413e2484552b92fe8fa0b83a035fa4a2373fe87dc51b4c223",
+      "textSha256": "a88495868b4b9df61e6e9f351a2216b846b30ed85f1227a0d0d50ea9b31988c1",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Collector-treasurer salaries, collection fees, and staffing allowances",
+          "bodySha256": "034d337643f9b7de9d72cf1eeb13b3b595c12035629e0db2859e6bceb7e97a2d",
+          "reviewNote": "Covers entire continuation: historical salary floors, fee categories, protested-tax refunds, and staffing allowance."
+        },
+        {
+          "number": 2,
+          "title": "Collector-treasurer salary schedule for terms beginning after August 28, 2026",
+          "bodySha256": "0928c43c01ed4d6f2aa36d416a3db6978fb56c6f7b618fd567c5eb9604e5bde7",
+          "reviewNote": "Exact August28 threshold retained. Separate review made the new-term cutoff exact."
+        },
+        {
+          "number": 3,
+          "title": "Deputies, assistants, and compensation funding",
+          "bodySha256": "1c8f5769bdbd939cfb622ca4273b76c909f1506ea4a14f5abfba243c3a8e5b20",
+          "reviewNote": "Covers minimum deputy, need-based staffing, comparable pay, and annual adjustments."
+        },
+        {
+          "number": 4,
+          "title": "Training-related compensation and expense reimbursement",
+          "bodySha256": "a1c27e9b6b6bb9626a860e8cd84bca83a083e9a2cd75b76f142fae988e56da9b",
+          "reviewNote": "Includes approved alternatives, certification, and appropriation-qualified reimbursement."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed both salary tables plus all fee and staffing text after the first table, protest refunds, mandatory deputy and compensation protections, and training; made the cutoff exact."
+    },
+    {
+      "id": "54.325:1972",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=54.325&bid=1972",
+      "sourceSha256": "0f9286e4d21bdb862187b9dfb855a2e4fc387ea8da76db5cacfb25909132a6c3",
+      "textSha256": "a14d1093038862039d1eb7059956e29d28db511cb00bbd1817f38c3f4fef79ab",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Additional delinquent-tax fees and operating costs",
+          "bodySha256": "b70e99be5ce9f8954ad495ccfc39b5fa9eb4bbc523be251239ec8d611c9f7a45",
+          "reviewNote": "Includes monthly deposit, statutory fund, and reimbursement examples."
+        },
+        {
+          "number": 2,
+          "title": "Training, technology, and administrative fund uses",
+          "bodySha256": "c50990435e10b879e14a769019a043d2fa907ac461cd2a88d91698523c52cc76",
+          "reviewNote": "Covers essential expenses of treasurer ex officio collector."
+        },
+        {
+          "number": 3,
+          "title": "Expenditure approval and funding restrictions",
+          "bodySha256": "c499a094dcc4c983d8d16d79659436a54718defacf72f43f6d3dc4056ce684c8",
+          "reviewNote": "Names sole approval responsibility and no substitution/subsidy restriction."
+        },
+        {
+          "number": 4,
+          "title": "Audits and accumulation of unspent balances",
+          "bodySha256": "d041a95040ec7e42357b82e383489ea7a4fe7d0f7ecf5084678cf3a49522c1ca",
+          "reviewNote": "Includes optional audits and interest carryover."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed additional fees, authorized costs, collector approval and nonsubstitution restriction, audit authority, and retained balances."
+    },
+    {
+      "id": "54.330:1974",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=54.330&bid=1974",
+      "sourceSha256": "b3b9d96d48e8933dc09e779eb671c9c1c74a3d352c4f60ebf0ccc076929d848b",
+      "textSha256": "d2a1804efd44d63c7868dfff227f6591f8630a1aa87b76c8111cab1d15fdc93b",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Candidate qualifications, residency, and surety affidavits",
+          "bodySha256": "4786cef777e94279f923e7a227a7740973a082ca700f0f08609a504ef0914300",
+          "reviewNote": "Includes age, tax compliance, holdover, and affidavit."
+        },
+        {
+          "number": 2,
+          "title": "Collector-treasurer bonds and deputy appointments",
+          "bodySha256": "60bf482ad43217c428bf4d09111fd270f72350ecca3bdae0e6e42f72a47fcddf",
+          "reviewNote": "Distinguishes office bond and sole appointment authority."
+        },
+        {
+          "number": 3,
+          "title": "Deputy and assistant bonds and premiums",
+          "bodySha256": "547ee4f60831577785e55ebd1ad9ee34586e619dcf2e0fc58c74a9b70d11b6ef",
+          "reviewNote": "Includes pre-service timing, approval, cap, authorized surety, and public premiums."
+        },
+        {
+          "number": 4,
+          "title": "Procedures following a collector-treasurer vacancy",
+          "bodySha256": "dcb9aa70acae0d91e130a6775c53ab7156f7d833de01fc902cee0b06ad6d4703",
+          "reviewNote": "Names clerk cross-referenced procedure."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed candidate and continued-residency requirements, collector and deputy bonds, appointment authority, premiums, and vacancy cross-reference."
+    }
+  ]
+}

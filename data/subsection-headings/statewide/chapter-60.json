@@ -1,0 +1,291 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "60.010:2346",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=60.010&bid=2346",
+      "sourceSha256": "0a636c8c5c67c91eef48090ce3be9a4daa4c83c7ab0ec0622b9383e864c8ec6f",
+      "textSha256": "cb549f1197f69134ee3fc9a5f65cd92fbc539bb1c8811210e3a850ab10694a64",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "County surveyor elections, terms, and commissions",
+          "bodySha256": "e780038ae96303207b50424bcca283042ace8b7945806b2fe76c48a4ca501f3a",
+          "reviewNote": "Includes county-class scope and holdover."
+        },
+        {
+          "number": 2,
+          "title": "Qualifications and residence for elected and appointed surveyors",
+          "bodySha256": "8958f2d0f61c500ae8d5ad559f52ce7347a7c22221461933b9a5f6b6dc3e9584",
+          "reviewNote": "Distinguishes elected county residence from appointed exemption."
+        },
+        {
+          "number": 3,
+          "title": "Appointments when no qualified candidate files",
+          "bodySha256": "66ffe89b4c220adc4ad59884ae248a4f0407ab22480ad606fad3a8a546fef070",
+          "reviewNote": "Includes county classes, published notice, pleasure tenure, later elected successor, and compensation."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked county election cycle, surveyor registration and distinct elected/appointed residency rules, plus third/fourth-class no-candidate appointments and compensation."
+    },
+    {
+      "id": "60.355:2374",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=60.355&bid=2374",
+      "sourceSha256": "da94e99d38e61b03c2b3c3818b217c5e913b35277b9de23cbbe7ae9da3f35809",
+      "textSha256": "55f527ea9e6f9e306217840fa7ce5dab4e8504cd91a1f40e767e94db649b139b",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Protection of survey monuments and boundary markers",
+          "bodySha256": "4f9029915882ffb66b40f448f1afea108a8efdd14ed9d3a1d1124fea9c5e5f4f",
+          "reviewNote": "Preserves knowledge and registered-surveyor exception."
+        },
+        {
+          "number": 2,
+          "title": "Penalty for violating marker-protection provisions",
+          "bodySha256": "87422a2345a409074b703987bb8c360077dfbea514faf0522763d07d6eccbb40",
+          "reviewNote": "Names classB classification."
+        },
+        {
+          "number": 3,
+          "title": "Reestablishment costs and civil remedies",
+          "bodySha256": "d4ecfa7b7e37666f7375fa89d85483a69b31d7d91f687a6609050bbca3d8f15a",
+          "reviewNote": "Includes affected owner, venue, surveying costs, and attorney fees."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked knowing marker interference, registered-surveyor exclusion, criminal penalty and limited civil remedies/venue."
+    },
+    {
+      "id": "60.570:2391",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=60.570&bid=2391",
+      "sourceSha256": "b8d989b2432d47404c5bf4af4d85767b3c2e88bd7bc6c3bc014891fbbb9d1d72",
+      "textSha256": "cd27175abf665e2f16ed21955f6e32f1b968f7b9bcb9026d87fe782ddc91c4b3",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Land survey headquarters, shared space, and regional offices",
+          "bodySha256": "1f99ad428fa1306ca41829f804dde826f37d3b0a9cd6097cbbd0956348f40c7f",
+          "reviewNote": "Includes geological-survey location, interim space, fee limit, and regional records function."
+        },
+        {
+          "number": 2,
+          "title": "Naming the Robert E. Myers Building",
+          "bodySha256": "5f9d75accdc6765ae8ca0d2ca49cd594a16a7f462e77a5febb9662f22cf01920",
+          "reviewNote": "Names permissive designation; effective-date note retained."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked headquarters, shared-space charges, regional offices and permissive building naming; merged 2013 acts have distinct effective-date notes."
+    },
+    {
+      "id": "60.590:59952",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=60.590&bid=59952",
+      "sourceSha256": "ee499e5f655fa84cd24cee59ccea5670fbfc42661bcb2ea4f75d25fb586ee10f",
+      "textSha256": "8aeeecc5bd5cd63808ef827fde32a2aba37ce21f66c7b4402b7d0903cc096522",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exchange of certified public records and reproduction costs",
+          "bodySha256": "961b4947422913209bd8ff6615d240faadae299f26595bfb4bba5018e44a5f89",
+          "reviewNote": "Includes requested records and reciprocal agency provision."
+        },
+        {
+          "number": 2,
+          "title": "Sale of survey materials, fee rules, and revenue",
+          "bodySha256": "4695cc77a8311db896094404b7c4242e2bf7a2e3f97a060135b01869092e7e28",
+          "reviewNote": "Covers commission advice, fund deposit, rulemaking conditions, and nonseverability."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked reciprocal public records at free or actual cost, sale fees, revenue destination and 2026 rulemaking/nonseverability condition."
+    },
+    {
+      "id": "60.595:2394",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=60.595&bid=2394",
+      "sourceSha256": "24a4c0c457b3e4c8c3078e08e37dfb7d7b9f1db7aa4f2a61d0f974b2e42ded67",
+      "textSha256": "69f275c2a92ea7f0f127d3a3899ea80f0cf8e07024347893632a334e6dad3c92",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Land survey revolving fund and authorized expenditures",
+          "bodySha256": "0f32e584225bcdc5856d0d2bdc1f057af3cf09d98024616c25d9836bbcbaf991",
+          "reviewNote": "Includes revenue sources, administration, custody, appropriation, and limited uses."
+        },
+        {
+          "number": 2,
+          "title": "Transfer of land-survey document funds in 2013",
+          "bodySha256": "4b35e3349b06c4851cab3a1ac2810885d09351f6c82402f71899affaf18489c0",
+          "reviewNote": "Preserves related-balance-only transfer."
+        },
+        {
+          "number": 3,
+          "title": "Limited exemption from year-end transfer to general revenue",
+          "bodySha256": "69cdfbb5f5ca24bd2246b22694125eab64f9ba2b08f988e796bdf4a5c06a4117",
+          "reviewNote": "Includes unencumbered balance and cap."
+        },
+        {
+          "number": 4,
+          "title": "Quarterly reports of fund income and expenditures",
+          "bodySha256": "bc89adcfbfe173406b850bfd964dc3c9b4795a48d59d79e62b141377045be6aa",
+          "reviewNote": "Names legislative recipients; effective-date note retained."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked appropriated fund uses, 2013 transfer, one-million-dollar nonreversion limit and quarterly reporting; distinct merged-act effective dates preserved."
+    },
+    {
+      "id": "60.620:2397",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=60.620&bid=2397",
+      "sourceSha256": "bf80684c9a886e7c2a9ab7c8c47672295792867c0098c418c74bca5826fe9107",
+      "textSha256": "d0ac1ee36f551f488ab1843053eeee1964fe954433f3cd77e41719569b4aaced",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Land Survey Commission creation, appointments, and terms",
+          "bodySha256": "f491b3eb369742a821e9e39f1aea8b29dd77b09f1fecdab539cc0edf8004c951",
+          "reviewNote": "Includes residency, original staggered terms, and consecutive-term limit."
+        },
+        {
+          "number": 2,
+          "title": "Commission membership and qualifications",
+          "bodySha256": "f42fb1130cd5900abd785cd3b429a645855571ba46a727305ee9d701703b81a3",
+          "reviewNote": "Includes profession/public/industry/director categories and senate approval."
+        },
+        {
+          "number": 3,
+          "title": "Chair selection, meetings, and quorum",
+          "bodySha256": "2872ff6da7c4456c2d6cc21a9436d2f7d689b4e1656a8348b0a8ab32595c32e5",
+          "reviewNote": "Names annual chair, semiannual meetings, and quorum."
+        },
+        {
+          "number": 4,
+          "title": "Unpaid service and expense reimbursement",
+          "bodySha256": "49564902ba3b028d01d04ad1aacb53240a954cbbfc2eb0ff1304e81224d12143",
+          "reviewNote": "Covers actual necessary expenses."
+        },
+        {
+          "number": 5,
+          "title": "Recommendations on program operations and regulations",
+          "bodySha256": "42ae53359bd5a3a5d645ba86a19a81b21957e7cf056202957de0332d3705d377",
+          "reviewNote": "Includes planning and prioritization."
+        },
+        {
+          "number": 6,
+          "title": "Recommendations on surveyor selection, projects, and contracts",
+          "bodySha256": "bfde9980c0ec229008867a69eee51b2921a88ff0e873e77ae76bf547483f85d8",
+          "reviewNote": "Covers all four recommendation categories, not direct hiring power."
+        },
+        {
+          "number": 7,
+          "title": "Annual public report on the survey program",
+          "bodySha256": "d084a5de17ff21011b710985f12dd4b9130fb39f2216731e38a580716ff1b226",
+          "reviewNote": "Includes findings, conclusions, and recommendations."
+        },
+        {
+          "number": 8,
+          "title": "Report on administrative and overhead cost rates",
+          "bodySha256": "1daa978a0c613f1e01a896d4365c11d6690551aacb4a0aeccec5d1d137d491e9",
+          "reviewNote": "Preserves2013 deadline and indirect-service scope."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked appointments/terms, seven-member composition, meetings/quorum, expenses, advisory roles, public reports and historical December 2013 cost report; effective-date notes preserved."
+    },
+    {
+      "id": "60.653:2399",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=60.653&bid=2399",
+      "sourceSha256": "e2479a5359e669de9948b352453d0d565e96180c71db86b4b9671cbcf5aefba9",
+      "textSha256": "3b02a54e0841d425925c484009e3b098312c17cccc8916bda715e1750597930f",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Reproducible storage of delivered survey plats",
+          "bodySha256": "f910a050d534023b772d52d98d7e6b78236d08006bc3d3e13f6d904e48defe21",
+          "reviewNote": "Names recorder custody."
+        },
+        {
+          "number": 2,
+          "title": "Placement of survey plats in record books",
+          "bodySha256": "94c8e2931ed3de21e2132e1a58efef27e091c65905537bdb6845fdaf98a27ec1",
+          "reviewNote": "Includes previously established books."
+        },
+        {
+          "number": 3,
+          "title": "Providing duplicates to the land survey program",
+          "bodySha256": "bd983959fb0f355447447430717ff50b7a25fae65e9136d7b7ce678ac56d408a",
+          "reviewNote": "Preserves actual-cost cap."
+        },
+        {
+          "number": 4,
+          "title": "Indexing survey, subdivision, and condominium plats",
+          "bodySha256": "02d10d43b0c2e688abb71046a8412316b8565899766ddc235c481568e264893c",
+          "reviewNote": "Includes section/township/range and names."
+        },
+        {
+          "number": 5,
+          "title": "Certified survey plats as evidence",
+          "bodySha256": "1a3ab8a7a30392669df6de04f11793060d7b0cecca5ffd8ad6442d6b3d44edca",
+          "reviewNote": "Includes hand and seal certification."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked record storage, cost-limited duplicates, parcel indexing and certified evidence; merged-act effective-date notes preserved."
+    },
+    {
+      "id": "60.670:2403",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=60.670&bid=2403",
+      "sourceSha256": "ab20048a22baebbbaeecf1d95c7f5f94361b134ed59b54f4542e24e1c5e3021b",
+      "textSha256": "60fdbea7320e8039d7c4576a06434acef1c27949a0e7f3276b526eabf5f06214",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions for digital cadastral parcel mapping",
+          "bodySha256": "f2c783630bdb7cdf8ca8ee3398885ad9e2d945c967015642025ed5fcd26e541b",
+          "reviewNote": "Covers cadastral/digital mapping, tax map, and USPLSS."
+        },
+        {
+          "number": 2,
+          "title": "Minimum mapping standards and rulemaking conditions",
+          "bodySha256": "eeee220fbff28519d18af5b0e9bf8b6baeddbf03016e0eb7da58513777072aad",
+          "reviewNote": "Includes chapter536 and nonseverability condition."
+        },
+        {
+          "number": 3,
+          "title": "Map compliance requirements and exceptions",
+          "bodySha256": "d80a4d068aae26b45b378254553d879a194dec2456d7e68a199872671c829733",
+          "reviewNote": "Includes written opt-out, existing maps, and prior contracts."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked mapping definitions, minimum standards and conditional rulemaking authority, written-request and existing-map/contract exceptions; effective-date notes preserved."
+    }
+  ]
+}

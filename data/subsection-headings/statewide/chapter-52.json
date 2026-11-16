@@ -1,0 +1,502 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "52.010:1867",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=52.010&bid=1867",
+      "sourceSha256": "026bc8389a8ad9a632a0176cca5233a58060a3ded4eba9224ef946159eb0cff4",
+      "textSha256": "237a089d7a1ba533d2c73d0b0c3544e71d340df0b3ff97cb1ea7b9ef33bb5962",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Collector elections, terms, and residency",
+          "bodySha256": "2cf2ae1cd39cb9312e32b0198765b1866d67b61808e24a25a3bd73edaa8ef44f",
+          "reviewNote": "Covers township exception, term continuity, and residency throughout service."
+        },
+        {
+          "number": 2,
+          "title": "Candidate qualifications in noncharter counties",
+          "bodySha256": "eada8f48d709d93b194c836f62602841be559a905702aac80caff3e1c6974038",
+          "reviewNote": "Includes age, prior residence, registration, and tax payments."
+        },
+        {
+          "number": 3,
+          "title": "Surety affidavit for candidates",
+          "bodySha256": "0ec4b679a7df64c2b95700a01c08a4f1d6971cfe9441ead90fe4336cb6a5cbbc",
+          "reviewNote": "Names authorized-company affidavit concerning bond requirements."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed election terms, county residency, noncharter candidate qualifications, and surety affidavit."
+    },
+    {
+      "id": "52.020:1869",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=52.020&bid=1869",
+      "sourceSha256": "168a97dab3416ed51c08ad2679aa7dfc541abd09767ee4de4ebf3cec219dfa6f",
+      "textSha256": "0857d3ffc65e64213111dddde3c35c4e6fb17dc7b7b57d8c4649950d4c5e464b",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Collector bond amounts, conditions, and premiums",
+          "bodySha256": "d34c796bf77b89692f08edcc3200ec24142e57c172cd06f44a3acc04af6bbc69",
+          "reviewNote": "Covers approval, formula and cap, surety, and public premium payment."
+        },
+        {
+          "number": 2,
+          "title": "Daily deposits and monthly bonds in qualifying counties",
+          "bodySha256": "6ec152dfeffec79e2f36d8b65652433b1167cb8b7fb4c0aa2ff26878fa3a1371",
+          "reviewNote": "Includes optional county requirement, security, alternate bond formula, and small-collection exception."
+        },
+        {
+          "number": 3,
+          "title": "Permitted withdrawals from the collector’s fund",
+          "bodySha256": "72e4488408635d6fa67fb249253ae3b3acab2761c7163941cfbc089a0fae77ca",
+          "reviewNote": "Names distributions and balancing among depositaries."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed bond formulas and ceiling, discretionary daily deposits with minimum exception, monthly security option, and limited withdrawals."
+    },
+    {
+      "id": "52.040:1871",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=52.040&bid=1871",
+      "sourceSha256": "715fae818b71fb1c21226f9dd1597931767b87c2a55f718b51177466abf17858",
+      "textSha256": "ca7fcd8d235a0dde37980cc7b5d782675fb0257429ad091fe314ae1d7ff00405",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "State review, filing, and correction of bonds",
+          "bodySha256": "217193f23bf9afd5509e7649b35d9d6a02753aea694ec6d7e297344eea3d9d52",
+          "reviewNote": "Includes inadequate security and replacement bond procedure."
+        },
+        {
+          "number": 2,
+          "title": "Bond certification before delivery of tax books",
+          "bodySha256": "38846833211e1b580894a08b30f351371c346b3e803e9b3b54581edcfdcbf781",
+          "reviewNote": "Identifies secretary-of-state certification prerequisite."
+        },
+        {
+          "number": 3,
+          "title": "Penalties and recovery for evading bond requirements",
+          "bodySha256": "c8e489b4157af322786a1f59641f9f5cb05f091e2e2691efd340e6b69e563888",
+          "reviewNote": "Includes clerk/collector exposure, attorney general action, and revenue destination."
+        },
+        {
+          "number": 4,
+          "title": "Surety liability despite unapproved or unfiled bonds",
+          "bodySha256": "a353a73635959197d5bc8a477b78cf82b05e54299bda7c6b058d81a7443681a0",
+          "reviewNote": "Avoids implying lack of approval extinguishes liability."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed state examination and filing, tax-book prerequisite, evasion recovery, and continued surety liability without approval."
+    },
+    {
+      "id": "52.100:1877",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=52.100&bid=1877",
+      "sourceSha256": "0bcce07ecae880c4aa12372c473497470e2b500ce7b5db9523711d9b35abdd02",
+      "textSha256": "dc9cb9abf08fd13c9d77b37180f17e5c6c4bec9284bc6516ea9683fb06bb02a2",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Surety release requests and replacement security",
+          "bodySha256": "3be84b0468c308e08dba6fa24cb8c49ea695f17ba3d24778d2af1e3c6794c182",
+          "reviewNote": "Covers sworn factual notice, service, security, and possible removal."
+        },
+        {
+          "number": 2,
+          "title": "Attachment for misuse of funds or absconding",
+          "bodySha256": "5a537aac6c6f4e9737524a81d6d245530e5cf8a9a25dcc4ed265182791839a55",
+          "reviewNote": "Includes surety grounds, attachment process, and payment to public treasuries."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed sworn surety-release requests, replacement security and removal possibility, and conditional attachment for misuse or absconding."
+    },
+    {
+      "id": "52.150:1882",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=52.150&bid=1882",
+      "sourceSha256": "28dab73e4b360a2ccf530bcfb01a408268abfd2f96ee97922a2978db277b4f72",
+      "textSha256": "544404c9ecf11cb5d296f6510765bee3181010f6efa59d259f9ae5302fc05075",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Powers and bond of an appointed collector",
+          "bodySha256": "1756f7b9a0b50408049d7b625ed8af1c2c6d8d8952707628c1577bbc9d0dddb4",
+          "reviewNote": "Includes collection, tax-sale authority, and cross-referenced limitations."
+        },
+        {
+          "number": 2,
+          "title": "Notice and commencement of a vacancy audit",
+          "bodySha256": "d68d04ffbc398be294e7b3085ad00a8bb6fdded5381421f5773aa69d53377fb8",
+          "reviewNote": "Covers appointee notice and auditor commencement deadlines."
+        },
+        {
+          "number": 3,
+          "title": "Audit scope and report recipients",
+          "bodySha256": "b2ab8050d987b38adedaa9901a34064b5067c8c8b93b190c84a496c9b37982c7",
+          "reviewNote": "Includes account condition and former collector compensation review."
+        },
+        {
+          "number": 4,
+          "title": "County action on audit findings",
+          "bodySha256": "99fa65feb954185f907495160e29b3250bfc10f86c52083d1daeb535f553618b",
+          "reviewNote": "Covers report acceptance, payments, and possible recovery litigation."
+        },
+        {
+          "number": 5,
+          "title": "Representation by the prosecuting attorney",
+          "bodySha256": "9e178773053cbec529f8e94571f2effa22c4345b2bf942e283342e6fb5107109",
+          "reviewNote": "Names civil representation without additional compensation."
+        },
+        {
+          "number": 6,
+          "title": "Distribution of recovered public funds",
+          "bodySha256": "4a37c434b347fd026ea02542960daadf60aaa97eacaf6b81ff1be4509291025f",
+          "reviewNote": "Identifies current-year treatment of recovered funds."
+        },
+        {
+          "number": 7,
+          "title": "County payment of audit costs",
+          "bodySha256": "534257c19e2fb7c5f7a54e770195e2f6e2bfc4a403753857e719c69f64721931",
+          "reviewNote": "Names general-revenue payment to state auditor."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed all seven vacancy-audit provisions, notice and commencement deadlines, audit scope, recovery choices, representation, distribution, and costs."
+    },
+    {
+      "id": "52.185:1886",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=52.185&bid=1886",
+      "sourceSha256": "47e6317af8f10aa339120cf8ad2175cc31ee2f40979a731c1d1b1ace4300b657",
+      "textSha256": "6dcfcd8c70a6ca0236cad53fdae024a3ad791ea1cf1d980cf323029295f87578",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Tax bookkeeping, calculations, and record formats",
+          "bodySha256": "dea06400ab3ec51926f109649724ed6f9fea9cdbef9c66246d212702818303b6",
+          "reviewNote": "Includes collector/treasurer roles and county exclusions."
+        },
+        {
+          "number": 2,
+          "title": "Compatibility of computer changes and purchases",
+          "bodySha256": "79b28192311a1287fe1bc41cc0403e4934862fcf443d5ac7ea39554b33f1f7f9",
+          "reviewNote": "Covers software and equipment interoperability and continuity of affected offices."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed covered counties, tax bookkeeping responsibilities, and mandatory compatibility of system changes."
+    },
+    {
+      "id": "52.230:1890",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=52.230&bid=1890",
+      "sourceSha256": "691a2f46120e2467cb20538a362230398c8f1755d1621aedbaf11f390bad351f",
+      "textSha256": "e85896250d0bef6c0ab95e86d1287756e408706adaac98c7c5905982531b9e42",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Tax statements, delinquency information, and mailed receipts",
+          "bodySha256": "43e57193b6a489af226abe3916b87246de9bd6dc78fe129826e8bc532c1d6e5c",
+          "reviewNote": "Includes county scope, timing, refusal without statement, and continued interest consequences."
+        },
+        {
+          "number": 2,
+          "title": "Authorized electronic statements and protected addresses",
+          "bodySha256": "883f352b874a536a005f413406fdbd10f3de4d46e94acdce3ed905fa80eb7bd3",
+          "reviewNote": "Covers taxpayer authorization and closed-record electronic address."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed mailed statement contents, payment-statement condition, receipts, taxpayer authorization for electronic delivery, and address confidentiality."
+    },
+    {
+      "id": "52.240:1891",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=52.240&bid=1891",
+      "sourceSha256": "26b0274aa9a2ce4453e57bf3d193746ef05ac2d274e270702c5141d225ff3e34",
+      "textSha256": "5ac7fc016be0a9da8b60216c50ab5b312a0c286e0656ab27cd3306e5e2b894c2",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Delivery addresses, postage, and nonreceipt of statements",
+          "bodySha256": "af211a20fba50be55f78e085268971ea9dd9238f8459f85f5f054a9edd41b182",
+          "reviewNote": "Includes authorized electronic delivery and continuing tax liability."
+        },
+        {
+          "number": 2,
+          "title": "Penalty and interest relief for late-mailed statements",
+          "bodySha256": "bd8ffaf98f87fd63cd5f8fac7f9cca2f837c4b740a42b175aa2eea9cca07037f",
+          "reviewNote": "Preserves certification, mailing, and payment timing conditions."
+        },
+        {
+          "number": 3,
+          "title": "Penalty and interest relief for county errors",
+          "bodySha256": "19eda5b32753ebd867f9fff1a6c564d9a00c6052c9d8baf14498c0661951dee0",
+          "reviewNote": "Preserves clear-and-convincing evidence requirement."
+        },
+        {
+          "number": 4,
+          "title": "Refund requests based on county errors",
+          "bodySha256": "0592a63fc8f6da866b2aca40ca7c327d6187850260a97c1865b308ee694717ef",
+          "reviewNote": "Includes written request, county decision deadline, cross-reference, and collector refund duty."
+        },
+        {
+          "number": 5,
+          "title": "Tax-payment duties and specified exceptions",
+          "bodySha256": "645aebc23f92ff8d48302728704e064293896bfad98d3243f9243338fa53c073",
+          "reviewNote": "Names statutory construction without resolving tension with other subsections."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed late-mailing certification and payment conditions, clear-and-convincing county error, refund procedures, and the limited cross-reference in subsection5 without reconciling its interaction with subsection3."
+    },
+    {
+      "id": "52.269:60200",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=52.269&bid=60200",
+      "sourceSha256": "bb5a1dae1a41419e28375cd41aeb1ad78d2dec945413abe7c871d56e6154c02b",
+      "textSha256": "7f1d178b28bcbe7153071b5a4f4d7a3c85a5225b96f988d6c3da3953c78d69cd",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Collector salary schedule and protected compensation",
+          "bodySha256": "24730c00a92990526d05088aa9bb5c14951ec1d52dca6ca4a8d8329e18105e32",
+          "reviewNote": "Includes county exceptions, monthly installments, valuation basis, and commission adjustments."
+        },
+        {
+          "number": 2,
+          "title": "Collector salary schedule for terms beginning after August 28, 2026",
+          "bodySha256": "d393523a95d4d3cb556eb1aef87d53ede387151c22ef192ceaece232a13856c1",
+          "reviewNote": "Names term threshold with exact August28 date retained in source. Separate review made the cutoff exact."
+        },
+        {
+          "number": 3,
+          "title": "Training-related compensation and expense reimbursement",
+          "bodySha256": "cead65ef7f200c4af3ed159052babbb31d4f44197810398c1e1a3f8e33572c5e",
+          "reviewNote": "Includes approved alternatives, certification, and appropriated reimbursement option."
+        },
+        {
+          "number": 4,
+          "title": "Retention of ditch and levee collection fees",
+          "bodySha256": "050e182a191bf496f253bdc03c80fbddc3bf179d1b882c5b04c71bc8a09bad8f",
+          "reviewNote": "Names fees under specified sections as additional collector compensation."
+        },
+        {
+          "number": 5,
+          "title": "Deposit of other fees into county revenue",
+          "bodySha256": "3f0c8890c16ca5f1441f95ac5adf30f1f9e94d4cc675c4c590dddcc8f5375571",
+          "reviewNote": "Keeps subsection4 exception and transition date in source."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed both salary tables, compensation safeguards, training, retained ditch/levee fees and other-fee deposits. Corrected the exact new-term date."
+    },
+    {
+      "id": "52.271:1897",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=52.271&bid=1897",
+      "sourceSha256": "8b570ecb2ae831fc373f11c1621ab06e832561ac3e85b0fa2957ecdb633e7f0d",
+      "textSha256": "b11fb0ab70ab2e1bf6ce075b5d9179077b0816a6a1cdfdfd1595c35233e4835c",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Collector deputies, assistants, and compensation allowance",
+          "bodySha256": "bc17f3908e6e6889d1735609afde5e2532d46187aa9d1031051337912c854bb3",
+          "reviewNote": "Includes minimum full-time deputy and historical funding floor."
+        },
+        {
+          "number": 2,
+          "title": "Compensation basis for computing the allowance",
+          "bodySha256": "9a312648282e2f92f715b062856af1dc2ee7420db1bb18fdbf94aabd1aaeac6a",
+          "reviewNote": "Identifies52.269 total compensation cross-reference."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed minimum deputy and funding allowances and the total-compensation calculation basis."
+    },
+    {
+      "id": "52.290:34804",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=52.290&bid=34804",
+      "sourceSha256": "2ad0986acfe03028a29fbbaa8f2b23ae0841a154bfb7e3fb92c57b9624070320",
+      "textSha256": "441c74325bc76bb5bbcc9bba1ac480d3473536b065d9b335bd9193b3cdd79d60",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Delinquent-tax fees and allocation in qualifying counties",
+          "bodySha256": "dedcc67c1aaae870fa9d431f27f295eaacbb9cd11f429494c9871362f6c3b0da",
+          "reviewNote": "Includes pre2008 charter exclusions, allocation, and charter-rate exception."
+        },
+        {
+          "number": 2,
+          "title": "Delinquent-tax fees in specified charter jurisdictions",
+          "bodySha256": "99971ab2cfd1444e232f92301e4e09d0764fdbdedc2dbeb1b90aa2fb73098d0c",
+          "reviewNote": "Covers city-not-within-county and population-specific fee, maintenance fund allocation."
+        },
+        {
+          "number": 3,
+          "title": "Credit-card payments and surcharge prohibition",
+          "bodySha256": "642261af7b23d36c984d2102851f192c7a4235fea61397ff56427ac80f82ae3a",
+          "reviewNote": "Names optional acceptance and no surcharge without promising universal card access."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed charter-date and population exceptions, nine-percent fee allocation using two-ninths/two-ninths/five-ninths, special charter rates, and credit-card surcharge prohibition."
+    },
+    {
+      "id": "52.315:1906",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=52.315&bid=1906",
+      "sourceSha256": "a0fef2b9aa002cb23053ef987a5919c0fbb1f924461f1b74413c7545cf022a0c",
+      "textSha256": "ac63c014fcdb886132fc3e3c40c9709688b245200cc7f12cf565e7e9d357c975",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Monthly deposits and additional collector operating costs",
+          "bodySha256": "c872045536a9e1564ff9fb934bcf3867baaf0b187651b9d1b0527bdd8ca4f718",
+          "reviewNote": "Source says two-sevenths although52.290 currently says two-ninths; do not harmonize. Includes reimbursement examples. Separate review found two-sevenths here versus two-ninths in archived52.290(1); the source discrepancy is retained, not resolved."
+        },
+        {
+          "number": 2,
+          "title": "Training, technology, and administrative fund uses",
+          "bodySha256": "a0e4a81ca3400ba84f7753aa7614b1e21bf2bff7b5256009fc9f11d3de745532",
+          "reviewNote": "Covers upgrades, equipment, and essential administration."
+        },
+        {
+          "number": 3,
+          "title": "Collector expenditure approval and funding restrictions",
+          "bodySha256": "4eed03db8e9b722a219eb5d00d7a8bbc246895dfbc5d867d5ca5a028a7b2523b",
+          "reviewNote": "Names sole responsibility and no substitution/subsidy restriction alongside subsection1 wording."
+        },
+        {
+          "number": 4,
+          "title": "Audits and accumulation of unspent balances",
+          "bodySha256": "d041a95040ec7e42357b82e383489ea7a4fe7d0f7ecf5084678cf3a49522c1ca",
+          "reviewNote": "Includes optional auditing and interest carryover."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "SOURCE CROSS-REFERENCE DISCREPANCY RETAINED: subsection1 says two-sevenths under52.290, while the archived52.290(1) says two-ninths for this fund. Titles describe deposits and uses without choosing a fraction or silently correcting the source. All expenditure, nonsubstitution, audit, and accumulation conditions reviewed."
+    },
+    {
+      "id": "52.317:1907",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=52.317&bid=1907",
+      "sourceSha256": "19d524c3d0654d733a7f30aa7bc48bcbf059a42279ac7ed3696af45a678a5999",
+      "textSha256": "f9bff0765b859cf4e39d131408727cd64d9814eb473a9f7f31a711da1d761cdb",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Collector budgets, fund-balance limits, and excess transfers",
+          "bodySha256": "1eca51ffa13976b22f27f02944c298b64804243bba485ea47ce6eb9ccdd2fea7",
+          "reviewNote": "Includes prior budget floor, employee compensation adjustments, county-specific balance limits, and transfer deadline."
+        },
+        {
+          "number": 2,
+          "title": "Common accounts for separately budgeted one-time expenses",
+          "bodySha256": "81dd78bbab281620712a998c2870368fcd19f31f0640f65fce6c9a01029099f6",
+          "reviewNote": "Names common-fund option and exclusion from specific departmental budgets."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed budget floor and compensation adjustments, county-specific retained-balance caps, transfer deadline, and common-account one-time expenditures."
+    },
+    {
+      "id": "52.320:1908",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=52.320&bid=1908",
+      "sourceSha256": "e9582af0aa3afd62b1fe09fefdf155145f45f38801550b7bee34ed4acc3c72c9",
+      "textSha256": "b97cf074ecec6fced13dfc2eb5cf3d8996a4e0c65aa9f6fa4a68eb4d737d64e8",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Coordination of tax records and data processing",
+          "bodySha256": "a53196b1c54d3194698bae8f77ab8598f12dc4f46c7457a10da3c62ff2bf5392",
+          "reviewNote": "Includes participating offices and charter-county exception."
+        },
+        {
+          "number": 2,
+          "title": "Municipal tax collection contracts and compensation",
+          "bodySha256": "5e19ffe9358101e54ff4ef0ae6bb4fdec4884b427724d471feb8bcb581ddea23",
+          "reviewNote": "Preserves county qualifications, contract payees, and annual collector-retention limit."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed data coordination, county coverage for municipal collection contracts, contractual pay allocation, and the collector compensation ceiling."
+    },
+    {
+      "id": "52.385:1915",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=52.385&bid=1915",
+      "sourceSha256": "bf22e77927b814d34c429e4f0cc5763377dfeea39955071246510ac32ace30c1",
+      "textSha256": "4ce7113088750712790cc351a7a5f7170792684cacbe646ee851f8c3a49e273e",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorization and location of collector branch offices",
+          "bodySha256": "39e01861e533bfdeea4700744c15d8bd5cb51229ff0dad06fcdc9f8f94d771d7",
+          "reviewNote": "Includes county classes and governing-body approval."
+        },
+        {
+          "number": 2,
+          "title": "County provision of branch-office space and equipment",
+          "bodySha256": "6c26365ba6d83809f2282e65c6328a5948a71106f520a500814b8b2b609e566d",
+          "reviewNote": "Names county commission duties."
+        },
+        {
+          "number": 3,
+          "title": "Branch-office staffing and employee compensation",
+          "bodySha256": "d0e996cce5f527dfcd3ca3a623d8da4e9509cdef65a469369738576f2e1721fd",
+          "reviewNote": "Includes commission approval and county-treasury payment."
+        },
+        {
+          "number": 4,
+          "title": "Restriction on additional collector compensation",
+          "bodySha256": "48345e7a4185de3c2ebfc56d1ada6d7813e458158e439c089d6a72b8cae630fb",
+          "reviewNote": "Limited to maintaining the branch office."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed county coverage and approval, space and equipment, staffing and pay approval, and no extra collector compensation."
+    }
+  ]
+}

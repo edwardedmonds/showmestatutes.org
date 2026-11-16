@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafting followed by a separate agent editorial review against complete archived source; not independent legal review.",
+  "entries": [
+    {
+      "id": "567.020:51064",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=567.020&bid=51064",
+      "sourceSha256": "637715be86a70ab3fc34795ebd8963757c21eb0f705b2522b566f86f33657fb2",
+      "textSha256": "1a09efc0c1e679b0d31e5372fc08d3aaa0d6db7ef03a4982ced5fd19a7e17ed7",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conduct constituting prostitution",
+          "bodySha256": "1a8a7586322de2d817ecd9dd0ce47e650ccded06e366023a70a57790e944df52",
+          "reviewNote": "Includes engagement, offer or agreement and value received by any person, not necessarily the actor."
+        },
+        {
+          "number": 2,
+          "title": "Offense classification, HIV knowledge, and condom use",
+          "bodySha256": "4247290501fe782709bbbf49eb25c07a0e96b07e8ce73dc7d08e936c0d8dc86b",
+          "reviewNote": "Source excludes condom use as a defense; title should not suggest that such a defense is available."
+        },
+        {
+          "number": 3,
+          "title": "Meaning of HIV",
+          "bodySha256": "e1381e41906e2dbc2f8dd8703bc28712d05209b63596e9e2eac513b7cb898390",
+          "reviewNote": "Definition topic only, no added medical claim."
+        },
+        {
+          "number": 4,
+          "title": "Treatment programs and sentencing options",
+          "bodySha256": "7b1c1c0cd361ae89a3ce4d74ace01bcaa0e81b0a68db33f7813f04b689f16bea",
+          "reviewNote": "Distinguishes discretionary misdemeanor plea/verdict relief from felony prohibition, and possible sentence consideration after treatment."
+        },
+        {
+          "number": 5,
+          "title": "Protections and services for persons under eighteen",
+          "bodySha256": "ae945a3112304a40b34a44fc9b2811e78b7b4568aa94f3031f8ba46ee58d682d",
+          "reviewNote": "Includes no adult certification/delinquency adjudication for this offense, abuse-victim classification, mandatory reporting and investigative assistance."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Value exchange, HIV-based classification and condom defense exclusion, differing treatment consequences, and under-eighteen protections reviewed; title avoids suggesting a condom defense exists. This is not independent legal review."
+    },
+    {
+      "id": "567.030:60492",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=567.030&bid=60492",
+      "sourceSha256": "09978b3cf75ca46ecf27072971d86ec43497763c364e426dd2dfd5bb0adbbc60",
+      "textSha256": "240493b4474c7c64ceb027fb1057069364346b8abd7e650ee3305db50812e296",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conduct constituting patronizing prostitution",
+          "bodySha256": "7d8f033152c08409c3774f73791670248e16a5d1c42e3630bce03592e16d8e5e",
+          "reviewNote": "Read all three alternatives, including prior understanding, agreement and solicitation; no actual completed sexual conduct requirement invented."
+        },
+        {
+          "number": 2,
+          "title": "Belief that the patronized person was an adult",
+          "bodySha256": "86b1ee426c52ba8e3345a3fe96cce06cff762ecf640a38647fe1a9ae38d4bf0b",
+          "reviewNote": "Names the rejected age-belief defense as a topic rather than deciding individual guilt."
+        },
+        {
+          "number": 3,
+          "title": "Patronized person’s age and offense classification",
+          "bodySha256": "484435c3717e1747f15266073a4a9a2680f96e5b412c58af1d7df93e7a3e4e4b",
+          "reviewNote": "Relevant age is that of the person patronized, not of the defendant."
+        },
+        {
+          "number": 4,
+          "title": "Patronizing persons fifteen or younger; additional prosecutions",
+          "bodySha256": "a23c52494c1cfc7410efa8bd14a7c7c579fe93437d6934abf3df1aedc027c819",
+          "reviewNote": "Clarifies whose age governs and preserves the additional-offense portion."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Exact 2026 version has class E base offense; patronized persons ages and age-belief defense exclusion distinguished from actors ages and additional prosecutions. This is not independent legal review."
+    },
+    {
+      "id": "567.050:48013",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=567.050&bid=48013",
+      "sourceSha256": "dd4548e6453d9f108107fb337a9e40287bccf69e559f6ddbef47804ee5543d2c",
+      "textSha256": "d7cacf3fd857a7d5a5048f0f62e7c8d3603ed2d062f2d723172b70a2e88d0060",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conduct constituting first-degree promotion of prostitution",
+          "bodySha256": "b126400dc5eab15db7ea7540ed2b2ac05521568244ca47fe942615f725017e04",
+          "reviewNote": "Includes compulsion, under-sixteen age and interactive-computer-service alternatives with definition; not only coercive conduct."
+        },
+        {
+          "number": 2,
+          "title": "Meaning of compelling a person",
+          "bodySha256": "eefec36d53b2e95bd3456816d2b82208b607779f6e7e9418160f7ddef53bbd47",
+          "reviewNote": "Read force, incapacitating substances and withholding/threatened withholding from drug-dependent person."
+        },
+        {
+          "number": 3,
+          "title": "First-degree promotion classifications and prison terms",
+          "bodySha256": "9b95806c10104cd4ad31cd34d3f5be78ddf62c32af80cca0d9347bbac06b509f",
+          "reviewNote": "Preserves distinct class B, class A reckless-disregard trafficking enhancement and under-sixteen statutory prison term."
+        },
+        {
+          "number": 4,
+          "title": "Civil recovery for specified computer-service violations",
+          "bodySha256": "92a3960cc15ca21696a914823fc79524705aa5f5e18a1e5e570949f18241f8bb",
+          "reviewNote": "Limited to referenced subdivisions, includes damages and reasonable attorney fees; not blanket private action for every promotion offense."
+        },
+        {
+          "number": 5,
+          "title": "Restitution for specified computer-service convictions",
+          "bodySha256": "750edebaed9497a4884d755d3b85c6eb3983f05f34f5ccbcab52443fa13955f6",
+          "reviewNote": "Keeps conjunction and exact statutory references as supplied; no silent conversion of and to or."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Compulsion, under-sixteen and computer-service alternatives, graded penalties, civil cause, and restitution checked; original and conjunction in subsection 5 retained. This is not independent legal review."
+    },
+    {
+      "id": "567.060:35454",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=567.060&bid=35454",
+      "sourceSha256": "bfd21a5576a8f94e8b5c8de4cc0de4ff1923c44981e49e8d94f33bde77378d1b",
+      "textSha256": "ade7685d8820d2721beecda5b1f37377aeeacbb5a5592a14e7f851d7af8b7185",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conduct constituting second-degree promotion of prostitution",
+          "bodySha256": "75ed5b27346299210d037a38b30e0a31ca3e1356e7c77505295095c533df7a2f",
+          "reviewNote": "Includes managing/owning two-or-more-person enterprise or promoting person sixteen/seventeen; read annotation distinguishing own prostitution."
+        },
+        {
+          "number": 2,
+          "title": "Second-degree promotion offense classification",
+          "bodySha256": "b564790ab1307c965c0636d1b2cfa6fdaba685d35806c1bb0d078fbb44932fcf",
+          "reviewNote": "Classification topic only."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Enterprise and age alternatives read with Fredrickson own-prostitution annotation; no implication that acting as a prostitute alone constitutes promotion. This is not independent legal review."
+    },
+    {
+      "id": "567.070:29483",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=567.070&bid=29483",
+      "sourceSha256": "cf050ddcf8145f5168b918e3d15455ddab254fc006c17b660deb8a4cce48cd0c",
+      "textSha256": "fe48fe0afba317eb4856521a14e0c59fa1eaa5962ec8cd96269d04fb2d738b64",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conduct constituting third-degree promotion of prostitution",
+          "bodySha256": "372af9f6b8e64848ca8fa4d18416947af8a04c9e6a07a9f08b28e0cfafd2da40",
+          "reviewNote": "Read all six knowing assistance, procurement, premises, operation, proceeds and facilitation alternatives."
+        },
+        {
+          "number": 2,
+          "title": "Third-degree promotion offense classification",
+          "bodySha256": "3b9b1a081a7b85f106f5af62d7934cd0947018d2b610221a7e625eb051cf8309",
+          "reviewNote": "Classification topic only, no added sentence."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: All six knowing promotion alternatives and class E felony checked. This is not independent legal review."
+    },
+    {
+      "id": "567.080:29485",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=567.080&bid=29485",
+      "sourceSha256": "fac917bda587ad1388f7d780c057c3e221ad29fb609000ac56a492fd8aa0a030",
+      "textSha256": "c0ff39f540d515f584a53b8145600de4c65804ae2493c532b04bca35173dd946",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Premises regularly used for prohibited prostitution as a nuisance",
+          "bodySha256": "458bf84acf1cef6ef5e831127b3d42f5bd0334a83507e11e5600c5da8eeac2e8",
+          "reviewNote": "Preserves regular-use and prohibited-activity limits."
+        },
+        {
+          "number": 2,
+          "title": "Nuisance suits and restrictions on premises use",
+          "bodySha256": "02517d8b51ee9c58fbd09fd69722010df26aa57797fc3d551267a39e7dbe34ae",
+          "reviewNote": "Covers authorized prosecutors, equitable relief, owner knowledge and discretionary one-year maximum closure."
+        },
+        {
+          "number": 3,
+          "title": "Nuisance defendants and scope of injunctions",
+          "bodySha256": "cd0f91fb936517b93fcf3d5da828cf80c0c9312a2b20ee1d19b51ff0f2836155",
+          "reviewNote": "Injunction may cover any prostitution activity within the courts jurisdiction, not only assistance to the nuisance."
+        },
+        {
+          "number": 4,
+          "title": "Appeals from nuisance judgments",
+          "bodySha256": "a300afd312a4651d2e6e8704f29ba43d558fa7494ec348a9dd0270b970824f67",
+          "reviewNote": "Civil appeal route, no invented deadline."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Regular-use nuisance, owner knowledge, one-year occupation restraint, and wider jurisdictional injunction scope checked; third title broadened to avoid limiting injunctions to assisting the nuisance. This is not independent legal review."
+    },
+    {
+      "id": "567.085:29487",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=567.085&bid=29487",
+      "sourceSha256": "a101e89c3a61bc875a8e3d11bca7913d3d5bb52f6ed95da63f09adf780878276",
+      "textSha256": "6f4533343e9ffe65cca6d0bdb9ae0b50ed6e62b7368996a91d18b14bb1072f5a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conduct constituting promotion of travel for prostitution",
+          "bodySha256": "cd98fa2e6e668a7a5a25497e258a78f20e2861927eee7e7188fb1c49a2a94643",
+          "reviewNote": "Includes knowing sale or offer of travel services including/facilitating such travel and exact definition cross-reference."
+        },
+        {
+          "number": 2,
+          "title": "Travel-promotion offense classification",
+          "bodySha256": "a4e30467747d0e9e42212fc20bf6e509f49126d3242462fcb6c578c0c2f28cb5",
+          "reviewNote": "Classification topic only."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Knowing sale/offer of travel services tied to statutory prostitution definition checked. This is not independent legal review."
+    },
+    {
+      "id": "567.087:29489",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=567.087&bid=29489",
+      "sourceSha256": "d8cb467a16ce4608575fbe3115f6c295a0d361bb44fc4264f1ce135f06b3d5c4",
+      "textSha256": "67faf0a12eb58dd5ace406a34d91570bb22677e6770afbdeb1dfc97dec6afc2a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibited travel services, offers, and promotion",
+          "bodySha256": "4f3387ef334f8d6c32f4bb6f7bea9d2f61759326d1f396762b212d8f2bc5395b",
+          "reviewNote": "Read promotion and all commercial-sex/contact/escort alternatives; no narrowing to completed travel."
+        },
+        {
+          "number": 2,
+          "title": "Advertisements creating a rebuttable presumption",
+          "bodySha256": "969f593edea78e8145361ee6bd04a3e84b953494a791804d59ce679245b40da2",
+          "reviewNote": "Preserves rebuttable status and specified words or imagery rather than claiming automatic guilt."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Travel agency/operator scope and listed commercial-sex activities read; advertising presumption remains rebuttable. This is not independent legal review."
+    },
+    {
+      "id": "567.089:29491",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=567.089&bid=29491",
+      "sourceSha256": "b432faf1136c655a0b92cf577fc69975f3e3573d87a283967d3ce972332cf38c",
+      "textSha256": "9cb60d96ccb406dfc6f5f141f83a388c96c4a181234a7a0fda503d26d8ca26fc",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibited travel offerings that facilitate prostitution",
+          "bodySha256": "86b47845521136cb6e71c0987b33cb2d2bb1a88a94aebbd0a8927f982148efe4",
+          "reviewNote": "Includes travel agencies and charter operators, selling/advertising/offering services/packages/activities."
+        },
+        {
+          "number": 2,
+          "title": "Corporate revocation and possible account freezes",
+          "bodySha256": "5358a6f4ebd0ba68ff1a57c0da8c421f79b7f8cdff90c738ebc7d6b5c79bc5de",
+          "reviewNote": "Distinguishes mandatory articles revocation from discretionary freeze in the proceeding."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Prohibited facilitation, mandatory incorporation revocation, discretionary account freeze, and 2006 effective note checked. This is not independent legal review."
+    }
+  ]
+}

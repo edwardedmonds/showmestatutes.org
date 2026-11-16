@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "61.011:2405",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=61.011&bid=2405",
+      "sourceSha256": "b1647c35ae243c9462a326f96b81c3292855dc4e702c60de689aa22d5833fcf7",
+      "textSha256": "cab6b560ac8fb5150f87dc1cba01d8195089468342e69336fffb9d499143fb99",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Highway administrator appointment and tenure",
+          "bodySha256": "7362fb17461a49c758085d139af6fa1ff37ba5010690b90654e3bf3cd66958d9",
+          "reviewNote": "Includes first-class noncharter scope."
+        },
+        {
+          "number": 2,
+          "title": "Responsibility for county highway department operations",
+          "bodySha256": "66c9371e3622c040f036f3eee0c5b53824ba94d6b7777239c9724a9e291544fd",
+          "reviewNote": "Covers roads, bridges, culverts, and surveys."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked first-class noncharter administrator appointment, at-pleasure tenure and highway-department responsibility."
+    },
+    {
+      "id": "61.051:2409",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=61.051&bid=2409",
+      "sourceSha256": "67f4fb67f62a74cc5f4bc9a38d2afb55fd3fc5d2b5b47749f7b1f96098fa8520",
+      "textSha256": "8190b4fa0469024dd4f07509b93a6ae06971b89e807a771460defc57bdad4cc7",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Technical and professional staffing and compensation",
+          "bodySha256": "5379d2d811f63404cddfd63cbab37623e5ee5d672856bafb82de208e933f4306",
+          "reviewNote": "Includes necessity and allocation limit."
+        },
+        {
+          "number": 2,
+          "title": "Monthly or daily payment for other project workers",
+          "bodySha256": "64334f5603c4df66c4d3028a2477bdf509a600fdbc1a3590ef316b0a9520fedb",
+          "reviewNote": "Covers construction, repairs, maintenance, and surveys."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked technical/professional employment within allocations and monthly/daily payment for other project labor."
+    },
+    {
+      "id": "61.101:2414",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=61.101&bid=2414",
+      "sourceSha256": "f481f547fc7766e2cfca4c04cd2a211b3e6b3c226be36d1cf082ae84c39d525a",
+      "textSha256": "6728d1308e63102f2f1cf3d5d5f1a70e7b82362c91b93e0ee4b9bf0c752dc40e",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Surveyor duties of a licensed highway administrator",
+          "bodySha256": "56644f1e04519dadb54731a9476ebbc32ff17fa1df11b885215692ad24da42a9",
+          "reviewNote": "Preserves registration/license condition."
+        },
+        {
+          "number": 2,
+          "title": "Appointment of licensed surveyors when administrator is unlicensed",
+          "bodySha256": "be2ee843743c0d58efe3f43fd8f8322b99be5f346f822c9aeb06b21fc3761db8",
+          "reviewNote": "Names optional appointment and lawful surveyor duties."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked distinct surveying duties when administrator licensed and appointment power when unlicensed."
+    },
+    {
+      "id": "61.111:2415",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=61.111&bid=2415",
+      "sourceSha256": "b1601af49d0babee479dd20165dd87fb3f8e1f97b3d7eb56d62ed1046120a2f4",
+      "textSha256": "75b1835e1d54578ed723b8300f3c5e7deee726f1e4a99ee3e4498ebf1b79a412",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Court-ordered surveys, indexed plats, and recorded copies",
+          "bodySha256": "7926647d90ca223cd81060aa54786e82e54141caf56819d7a5a6e3638d6e4234",
+          "reviewNote": "Includes title disputes, partition, and recorder filing."
+        },
+        {
+          "number": 2,
+          "title": "Preserving office records and transferring property to successors",
+          "bodySha256": "0d8657fa06c70c384b41fba9206664bbaee583e7693339ab4b9aca702f08f640",
+          "reviewNote": "Includes tools, machinery, materials, equipment, and designated storage."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked court-ordered disputed-title and partition surveys, indexed copies, recording, record preservation and successor delivery."
+    },
+    {
+      "id": "61.151:2418",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=61.151&bid=2418",
+      "sourceSha256": "1cd894198cd2173d1c10859db5c242bb45a6dd5900912cd23682dabad9c1706e",
+      "textSha256": "055d2966bfe1c0bcfa596cee2e1f662a083539ed6203bdd30cee44791630923e",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Official seal and certification of surveys",
+          "bodySha256": "08aa741090d84c3f325a7e35d0b1e24e0685008b9e4e0bbd950cb541e8ba144f",
+          "reviewNote": "Includes content, size, and certification use."
+        },
+        {
+          "number": 2,
+          "title": "Official sealed surveys as court evidence",
+          "bodySha256": "5271ffb9ce520273ac9771a10aa4357a250d1579c986e8410d1fdd41dfb8e7fb",
+          "reviewNote": "Preserves official-duty condition and appointee coverage."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked seal contents/dimensions and evidentiary effect only for official-duty surveys."
+    }
+  ]
+}

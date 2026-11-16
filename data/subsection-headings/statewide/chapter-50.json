@@ -1,0 +1,1517 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "50.1020:1805",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.1020&bid=1805",
+      "sourceSha256": "3f8d4016e8132f4bf1a8aebfd7a071b937da1078fdec224793e87a8c433f231f",
+      "textSha256": "3cc127cc0941280fc022012a1e6c7df1d932512ac1a5bfeec436074ae6c397a5",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Gifts and grants to the retirement fund",
+          "bodySha256": "1d351ceed886c3d0a79e91633c2688d21f9670788a9994b718dcb028be279f13",
+          "reviewNote": "Names permitted outside funding sources without implying acceptance is mandatory."
+        },
+        {
+          "number": 2,
+          "title": "Restriction on state funding",
+          "bodySha256": "eb500c228883495b07b82c7f4465b437c843d6b1d20805ae22918a95a82c3649",
+          "reviewNote": "Identifies the state-money restriction for the cross-referenced retirement provisions."
+        },
+        {
+          "number": 3,
+          "title": "Tax penalties, remittances, and assessment records",
+          "bodySha256": "ce28201d2c0d3e3ca95745d0219bad14f65411a0779304bd2269b09e2d5bf52d",
+          "reviewNote": "Includes penalty interest, monthly transmission, assessor logs, and county exclusions."
+        },
+        {
+          "number": 4,
+          "title": "Investment of collected taxes pending settlement",
+          "bodySha256": "769d43b07b45590e6686cb4b781b6990ff1351bb4e2d8feae551c876c7c58930",
+          "reviewNote": "Covers deposit timing exceptions and allocation of investment gains."
+        },
+        {
+          "number": 5,
+          "title": "Payroll deductions and monthly remittances",
+          "bodySha256": "f0478c837ae5296c390107e2c78c88e136a65336abcd1356012e08d6f0e0c6bb",
+          "reviewNote": "Keeps required deductions distinct from county contributions; county exclusions remain in source."
+        },
+        {
+          "number": 6,
+          "title": "Contributions for hires or rehires on or after February 25, 2002",
+          "bodySha256": "316860e118100a3299639245cf908103702c961a144949d6c9db785500cdbead",
+          "reviewNote": "Covers contribution amount, optional payroll funding, transmission, and employee logs; precise date remains in text. Separate review corrected the exact inclusive hire/rehire cutoff."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed funding, county exclusions, penalty interest, deposit timing, and mandatory versus optional payroll funding. Corrected the hire/rehire cutoff to February25,2002."
+    },
+    {
+      "id": "50.1030:1806",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.1030&bid=1806",
+      "sourceSha256": "c64fe63a39065d3e07df0583ac92f743f4485e694ce173796194f160fd6c0cfb",
+      "textSha256": "a98e545dd896cd349c9f5cd856c7c808ea8fcbf6483b4494055af7cba1d69428",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board membership, selection, terms, and authority",
+          "bodySha256": "877a5c1bebc68a7d70865bd8df6a755d3185d31cf2d2a8ba76a1457c80fcf270",
+          "reviewNote": "Covers elected and appointed directors, eligibility limits, elections, and governing powers."
+        },
+        {
+          "number": 2,
+          "title": "Board officers, administrator, and meetings",
+          "bodySha256": "35675d0378f9acc35ef73733366bb3791b13f330d7c4494c0844030c98895b04",
+          "reviewNote": "Includes officers, secretary, meeting location, frequency, and notice."
+        },
+        {
+          "number": 3,
+          "title": "Retention of an actuarial advisor",
+          "bodySha256": "e3229ceff1810423b6e9ed4e52f75b09036fa0bba1b60db309401c408ee2715c",
+          "reviewNote": "Identifies the board’s actuary-retention requirement."
+        },
+        {
+          "number": 4,
+          "title": "Retention of investment counsel",
+          "bodySha256": "7851f55523c148791b00991692038511b7c15f94c1a385bd784f93f288ec31fb",
+          "reviewNote": "Distinguishes investment advisor from actuary."
+        },
+        {
+          "number": 5,
+          "title": "Annual retirement system audits",
+          "bodySha256": "a471e6c9a52d691b253c53a52eb550593553653b2ea31c4903e89cf0eabe0739",
+          "reviewNote": "Covers audit of both system and board operations."
+        },
+        {
+          "number": 6,
+          "title": "Director expenses and unpaid service",
+          "bodySha256": "9507d1afaa619b6913b423581b199c2ee38cdc29854b4a777cbc56176f9f2ade",
+          "reviewNote": "Distinguishes unpaid service from authorized expense reimbursement."
+        },
+        {
+          "number": 7,
+          "title": "Administrative costs of the system",
+          "bodySha256": "e2ea250c0048c1b89124b8c5f3a8aa9c9461680cb7dc6a3eb21388e32dc6f220",
+          "reviewNote": "Names system-funded administration expenses."
+        },
+        {
+          "number": 8,
+          "title": "Public records and annual financial reports",
+          "bodySha256": "67dabb847f76c00410c559b588712ccef1dc70713ed04957e8419d517f46fa6f",
+          "reviewNote": "Includes public proceedings records and the report’s specified financial and actuarial contents."
+        },
+        {
+          "number": 9,
+          "title": "Annual review of potential benefit adjustments",
+          "bodySha256": "bb93aaa1d7200d52b72f7a8ce280da27e5f6ba1dd768f92bdd2f340180fd47a2",
+          "reviewNote": "Covers all seven possible adjustments and the conditional board vote, not a promised increase."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed all nine board provisions, election and appointment roles, audit requirements, and actuarially conditioned benefit review."
+    },
+    {
+      "id": "50.1031:1807",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.1031&bid=1807",
+      "sourceSha256": "5ce10cea8a0830406807a0985ce432ee3cd7055a7e0fdcf9923b0ac064aed3e1",
+      "textSha256": "e3877536f7ed6260dec1269d3765f97d9583ab526dcd3eac56ae99405b4957a9",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Funding-ratio limits on benefit adjustments",
+          "bodySha256": "820cd9a355c63f87de1502737f450eff7ef1f1188e0537a290b81a5dfcce91f0",
+          "reviewNote": "Names funding thresholds without supplying an unqualified benefit entitlement."
+        },
+        {
+          "number": 2,
+          "title": "Frequency of benefit adjustments",
+          "bodySha256": "78442a2573961ae83d4378f7b5a9b90f817b68c7ce16f5e5c234fe5508373674",
+          "reviewNote": "Identifies the frequency restriction."
+        },
+        {
+          "number": 3,
+          "title": "Limits on increased required contributions",
+          "bodySha256": "e6df30c685f15617d08eb82192cfdcba18f056b744958f6b23bd36ae111c8186",
+          "reviewNote": "Covers combined adjustments and payroll contribution ceiling."
+        },
+        {
+          "number": 4,
+          "title": "Employees covered by benefit adjustments",
+          "bodySha256": "1fd94e1a66cd713adff8a2906559fd08ae122a61e440683ed32db9ce1edc9bb0",
+          "reviewNote": "Includes active-employee restriction and the express cost-of-living exception."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed funding-ratio and contribution ceilings, frequency, and the exception for cost-of-living adjustments in employee coverage."
+    },
+    {
+      "id": "50.1034:1809",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.1034&bid=1809",
+      "sourceSha256": "f2dbb2b15426edf8d8aeae45f17357caf4bc42e2637a460349137fa17f9942e3",
+      "textSha256": "63d0f74ff4752d6ed4b8caafb7463fd708818c19080d81de6b3a8d428a43e2d1",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Correcting benefit errors and recovering overpayments",
+          "bodySha256": "6d68198a63d67313780bf90e0fb373342a301bacbd25ee910d55ec69da4c4441",
+          "reviewNote": "Includes underpayments and practical adjustment of future benefits."
+        },
+        {
+          "number": 2,
+          "title": "Fraudulent statements and retirement system records",
+          "bodySha256": "ca49b934c2e28a4d2ca7aa6b019530d1c0e061f3da6a26c92b1b9f8e969155ab",
+          "reviewNote": "Preserves knowledge and attempted-fraud qualifications in text."
+        },
+        {
+          "number": 3,
+          "title": "Benefits following charges of killing a member",
+          "bodySha256": "3875d077b5ca7295d2aee57a64c7345244f2577866618f585bba2c714bf278ae",
+          "reviewNote": "Covers suspension on charge, loss following conviction, and restoration if not convicted; does not equate charge with guilt."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed error correction, fraud elements, and charge-related benefit suspension versus conviction and acquittal outcomes."
+    },
+    {
+      "id": "50.1036:1810",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.1036&bid=1810",
+      "sourceSha256": "0b1492e2b5899610e9d04a77cbb48ef4deceaeae1a49a01775396fe7a991d9be",
+      "textSha256": "2e2f806403b20221bce23894766d915ce4e392391c23f7f33d5067853b7d6238",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Correcting benefit errors and recovering overpayments",
+          "bodySha256": "6d68198a63d67313780bf90e0fb373342a301bacbd25ee910d55ec69da4c4441",
+          "reviewNote": "Covers underpayments and actuarial-equivalent future adjustments as well as overpayments."
+        },
+        {
+          "number": 2,
+          "title": "Fraudulent statements and retirement system records",
+          "bodySha256": "ca49b934c2e28a4d2ca7aa6b019530d1c0e061f3da6a26c92b1b9f8e969155ab",
+          "reviewNote": "Topic label leaves knowledge, attempted fraud, and statutory consequences in text."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed both complete provisions on benefit-error correction and knowing fraudulent records; titles preserve the distinction."
+    },
+    {
+      "id": "50.1040:1812",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.1040&bid=1812",
+      "sourceSha256": "720c6383f75572002aa5824879751d801cb164f4f659bfc6aecfe03ff8c1e8a9",
+      "textSha256": "2b6b4159fa81c6130a532862b6cac95863121e51c06c3dbb04cf02d9eeec9808",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Membership through county employment",
+          "bodySha256": "09da12a50cad90b02c09aab18626bb97840953bcfb101dd9910b52a2a4ab0379",
+          "reviewNote": "Includes employment criteria, prior opt-outs, and continued membership."
+        },
+        {
+          "number": 2,
+          "title": "Required contributions and optional additional deductions",
+          "bodySha256": "294264a838ecfa0d7ebd1a70ba6ec5825b80f2c8352f994d66e849b323dfbcd0",
+          "reviewNote": "Distinguishes non-LAGERS deduction, county option, federal tax treatment, and waiver prohibition."
+        },
+        {
+          "number": 3,
+          "title": "Opt-out restrictions and purchasing prior service",
+          "bodySha256": "dee030c5a622386f9f64ae12589980c872de4342f378ef495171b6f74b3708a1",
+          "reviewNote": "Covers historical opt-out rules, return window, buyback interest, and installment limits."
+        },
+        {
+          "number": 4,
+          "title": "Rejoining without purchasing prior service",
+          "bodySha256": "f9c7447a1d7fbb52e030ca05be6aaa701c4fc5dd98057065ba93b65b263d98ff",
+          "reviewNote": "Covers no-buyback election and subsequent vesting service."
+        },
+        {
+          "number": 5,
+          "title": "Timing limits for returning opted-out employees",
+          "bodySha256": "03de586334bf5962c5c4e7c8f271db41ee451caa48a019e33bef3b9622b60f97",
+          "reviewNote": "Identifies transitional limits for pre2000 opt-outs without implying open-ended reentry."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed membership coverage, non-LAGERS contribution rules, optional county deductions, and historical opt-in timing restrictions."
+    },
+    {
+      "id": "50.1060:1814",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.1060&bid=1814",
+      "sourceSha256": "111bf1bfe8a947d7a17860c7d38edbda412efed1078aa9320ffbc78085e7d31d",
+      "textSha256": "20451afdf1b2e32af910a37d95fa3428993c30084274c9e00e89ddb90007a186",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Normal annuity for non-LAGERS members",
+          "bodySha256": "7c6a79e37e5d4bc5d7a761de76ac89d1c1a1e740c9156b4c1928e85487856167",
+          "reviewNote": "Covers alternative calculations and service cap."
+        },
+        {
+          "number": 2,
+          "title": "Normal annuity for LAGERS members",
+          "bodySha256": "2587b86c22846f2aecdcbdbd9bdba10f757eb7564091f71236ba5857bb1a4598",
+          "reviewNote": "Identifies the LAGERS percentage calculation without stating a fixed benefit."
+        },
+        {
+          "number": 3,
+          "title": "Protection of previously earned annuities",
+          "bodySha256": "d4607bc90799ca42710388dba9f3878e469ae0fad23fc83e2e2f46892b913b3c",
+          "reviewNote": "Names the comparison with benefits earned before2000."
+        },
+        {
+          "number": 4,
+          "title": "Recommendations to adjust annuity formulas",
+          "bodySha256": "8d02671bd2e0c12923e449119e5c663138f3ec9f727c05d69142c89fcf5812fb",
+          "reviewNote": "Includes actuarial feasibility, accrued benefit condition, and available-funds qualification."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed both annuity formulas, prior-benefit protection, and actuarial adjustment conditions including insufficient-funds apportionment."
+    },
+    {
+      "id": "50.1070:1815",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.1070&bid=1815",
+      "sourceSha256": "77cd5c4022e88373e7ad6f8c30bfcf662946c3f55f1fe29b76d2a8fce39e9eef",
+      "textSha256": "d69f8cb0ffe667d85d0b4fa74b2a35fccecf826d345fe5e70e6fe18b545b1625",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual benefit increases and cumulative limits",
+          "bodySha256": "d873d2cdc9783b5b32641ccfeca0aaa0d40460f750bfbd0e22fbe5e2e0f7312c",
+          "reviewNote": "Names annual and lifetime limits rather than promising a fixed increase."
+        },
+        {
+          "number": 2,
+          "title": "Calculating and applying consumer-price increases",
+          "bodySha256": "1b516e00d213b621f1f958ea76df60f1c672922bde646a6af3d35dbd833a39bf",
+          "reviewNote": "Covers index comparison, board determination, and application period."
+        },
+        {
+          "number": 3,
+          "title": "Waiving an annual benefit increase",
+          "bodySha256": "2c974132d9e44b56d04696c304c4d46b0dc56626a1a066e7fab39cce722cee14",
+          "reviewNote": "Identifies final waiver of the particular increase."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed annual and cumulative increase caps, the February calculation and July application cycle, and finality of waived increases."
+    },
+    {
+      "id": "50.1090:1817",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.1090&bid=1817",
+      "sourceSha256": "caed621af6ff01e1a5ce8d83f5722085fc3a1f95f543a98e0e31430e14051580",
+      "textSha256": "491722619fabd53e15a88aade6abba1c0f505f24c5ac454d4fb340f26de27b39",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Creditable county service and qualifying absences",
+          "bodySha256": "c13127d49c8321b741829b7fa3f34a8550fe5ca851b7bb1a529babbe287620ab",
+          "reviewNote": "Includes sickness and injury period and opted-out-service purchase exception."
+        },
+        {
+          "number": 2,
+          "title": "Special consultants and purchase of prior service",
+          "bodySha256": "8d061661385c870d23d24bded3dc91b75a85d38e91464ccb1e8b4b4f766811ff",
+          "reviewNote": "Covers eligibility, consultant duties, purchase terms, death, and surviving spouse provisions."
+        },
+        {
+          "number": 3,
+          "title": "Federal limits on prior-service benefits",
+          "bodySha256": "519b4dca16b4e0c129fc6fe1f76d3c1e793f28e43eedf0d8f20843f15f9868f7",
+          "reviewNote": "Names federal tax plan restrictions."
+        },
+        {
+          "number": 4,
+          "title": "Verification of retirement plan records",
+          "bodySha256": "21fe67ffbd93b162b771918c103ab050ab06de51dd9a6ae589507cad635e2875",
+          "reviewNote": "Covers coordination with other plans and federal compliance."
+        },
+        {
+          "number": 5,
+          "title": "Refunds of qualifying prior-service buybacks",
+          "bodySha256": "10f4276c4f7233481818bb36cec283493ffb8e35e01e4e08c4a8e54e8194523b",
+          "reviewNote": "Includes active-member request, board procedures, and excluded contributions."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed full creditable-service rules, consultant eligibility and payment, federal limits, record verification, and refund exceptions."
+    },
+    {
+      "id": "50.1110:1819",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.1110&bid=1819",
+      "sourceSha256": "efd28e1df3c1a0aeeb8cb6578d2f2f5d05529e6bd15d5452457ad8cd83de36ee",
+      "textSha256": "4405e98af9e84ddaeb9536dc96824d6fe813b09fa0de8d6101c49b4b1c829449",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Duration of the normal annuity",
+          "bodySha256": "71721c1a9cd6dcbeccce8404d2e0efdf003b22e71759edbfa2fa40cb167dc7bb",
+          "reviewNote": "Describes life-only normal benefit."
+        },
+        {
+          "number": 2,
+          "title": "Reduced annuity with survivor payments",
+          "bodySha256": "6cf479c3cd7800be5f0f7a0bf8d31ec855b64a88a665efb6895fdea35820e9f3",
+          "reviewNote": "Covers available survivor percentages and lifetime reduced payments."
+        },
+        {
+          "number": 3,
+          "title": "Timing and finality of annuity elections",
+          "bodySha256": "39dff061134279e28bc848e39c11ec3e73ea56a0cb86057005fc59a99720ef2e",
+          "reviewNote": "Includes application deadline and restrictions on changing beneficiary or form."
+        },
+        {
+          "number": 4,
+          "title": "Surviving spouse benefits and commencement choices",
+          "bodySha256": "270a1e816244ef1c2f19d2fe4724e1aa4e54ec0fbe85c0aba588864d8e3fa6c2",
+          "reviewNote": "Leaves service, age, and early-commencement reductions explicit in source."
+        },
+        {
+          "number": 5,
+          "title": "Actuarial assumptions for equivalent benefits",
+          "bodySha256": "7cf78870da74884898b9a432177089cec4086381812fc9e394a05c662784c9a9",
+          "reviewNote": "Names board assumptions after actuarial consultation."
+        },
+        {
+          "number": 6,
+          "title": "Contribution refunds when no spouse survives",
+          "bodySha256": "b55202dec18564d383e38d0b9fbad0b6dbde8d813c05be4332efc38137ed1d3b",
+          "reviewNote": "Covers pre-retirement death, service condition, beneficiary and estate; source correction note retained."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed all six annuity provisions, irrevocable choices, spouse timing and early commencement, and beneficiary/estate refunds. Original-roll word note preserved."
+    },
+    {
+      "id": "50.1130:1821",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.1130&bid=1821",
+      "sourceSha256": "ac4fd1f938397057f90b4aa95d7ab4a57f144f64d6fcece9426b4b5c7452a6f8",
+      "textSha256": "da80fa253ec09a59502356104b20fd043f52415e2858d1cdf72d44dcc02f54cc",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Death benefits and recipient priorities",
+          "bodySha256": "f144821fed0e5c2383a120738dbe355546071f6108e859b0dd36630e02b66253",
+          "reviewNote": "Includes active-member status, conditional contribution payment, and fallback recipients."
+        },
+        {
+          "number": 2,
+          "title": "Division among beneficiaries without specified shares",
+          "bodySha256": "9bf8840d223d8075c13a6dfb5f87317ad988c0c6b64ff0bb4b0643f6e4a78938",
+          "reviewNote": "Names equal division when designation lists multiple beneficiaries without shares."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed active-member death payments, unvested contribution return conditions, recipient priority, and unspecified beneficiary shares."
+    },
+    {
+      "id": "50.1140:1822",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.1140&bid=1822",
+      "sourceSha256": "aac8579c40c4004b901430a4c33527b79c2c68a59da558fa96c4dd4cca742d97",
+      "textSha256": "2a12690633b9a12f59c70a8097886429d5347f7c030ddc57bd3e9d557250fa80",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Forfeiture upon termination before vesting",
+          "bodySha256": "756def3d6552768e7c6ea39ecda0e2aaafffa6f83b2834775727399801332110",
+          "reviewNote": "Includes contribution-refund cross-references rather than claiming all contributions lost."
+        },
+        {
+          "number": 2,
+          "title": "Annuity choices after vested employment ends",
+          "bodySha256": "5786e72ec6eb606e1207a0fed6746dea2ecadf86de9cf4fb2383cf56eded3e6e",
+          "reviewNote": "Covers deferred or early commencement and conditional age reductions."
+        },
+        {
+          "number": 3,
+          "title": "Refund requests before vesting",
+          "bodySha256": "85f2a868f7ed8cca9809822d89671f9006bfed3fdd7d16b2efa62a1e13351878",
+          "reviewNote": "Identifies written application and nondeath termination condition."
+        },
+        {
+          "number": 4,
+          "title": "Restoring forfeited creditable service",
+          "bodySha256": "1a85d7aeed321171f2e154d29e474d5aa1732687429df485bca7e0b86b2e22a0",
+          "reviewNote": "Covers reemployment, uninterrupted service, repayment, and interest."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed vesting-related forfeiture, early-annuity reductions, refund application, and service restoration purchase conditions."
+    },
+    {
+      "id": "50.1150:1823",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.1150&bid=1823",
+      "sourceSha256": "bb914c22dfc20c7ffcf62287805e4562804be9f44dd0d4a5ac129427b4e02bb7",
+      "textSha256": "a1c1cb9060e581f862a9979b8f94e3018a3b39939bf0f331e5343e87a4967dc6",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Existing rights following statutory changes",
+          "bodySha256": "905a6a9247ec589b57e467ecc41d10c59754c9de1664357dda4c8fa0f17a9713",
+          "reviewNote": "Distinguishes existing rights from future-service accrual."
+        },
+        {
+          "number": 2,
+          "title": "Prohibited grounds for denying membership or benefits",
+          "bodySha256": "37a077538bd8a3a8023da136b4ec8d0392e1e19e04c0281437e8a0dc286f4000",
+          "reviewNote": "Preserves express statutory limitations while naming discrimination subject."
+        },
+        {
+          "number": 3,
+          "title": "Administration under federal military-service protections",
+          "bodySha256": "a970b109c391383df7bd4147e454f9e56124dc748ba0f90a67e60fc94ca691fd",
+          "reviewNote": "Names USERRA administration without expanding its substantive coverage."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed protected accrued rights, enumerated discrimination grounds subject to statutory limits, and federal military-service administration."
+    },
+    {
+      "id": "50.1230:1832",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.1230&bid=1832",
+      "sourceSha256": "ea8dc6f7036018c25d786ca4bc7e29dea19796c25b4f7bc49992fa56b676d7ad",
+      "textSha256": "b0f64a531d1f68c1beb983a33a35f88a9439a1dd868c6f5cca2be1539d82e621",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board matching contributions and allocation limits",
+          "bodySha256": "3a45b6770490f37742075fd340afdd64ce61c9fc689fe38c7ec2e37f394010cc",
+          "reviewNote": "Source heading says repealed while body describes matching contributions; title describes archived body only, not present validity. Includes board discretion and LAGERS distinctions. Separate review confirms only the archived body topic; the repeal-heading versus body/history conflict is unresolved and retained."
+        },
+        {
+          "number": 2,
+          "title": "County matching contributions under board rules",
+          "bodySha256": "fcf4552ee87f634f25d9512dc1c3255f45d2027c2eaba0584ae5ecd5f865f0e8",
+          "reviewNote": "Names county authority and board rules; source heading/body mismatch requires reviewer attention. Separate review confirms only the archived body topic; the repeal-heading versus body/history conflict is unresolved and retained."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "SOURCE CONFLICT RETAINED: official archived heading says Repealed L.1977 S.B.48, while its two body subsections concern matching contributions and notes cite1999/2001 legislation effective1-01-02. Titles accurately name this archived body only; this review neither reconciles the contradictory heading nor affirms current legal force."
+    },
+    {
+      "id": "50.1250:1834",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.1250&bid=1834",
+      "sourceSha256": "1fb2c9aeabd4a2b2bc82ec69d2842005a5a85fa12839cf63f1470eebaa5de23d",
+      "textSha256": "b9b90dcaf51dcbf1e252587fd01325b1719cb015a869c0a549109501d524e9aa",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Forfeiture and reuse of matching contributions",
+          "bodySha256": "e52cf939f9af2c764ba13536495de01d2c71568d75c3b9e09661cd7feceed805",
+          "reviewNote": "Includes service condition and differing treatment of board and county matches."
+        },
+        {
+          "number": 2,
+          "title": "Account distributions following separation from service",
+          "bodySha256": "4b63e2ee3992a4e7edd5406331392bd9872ae075bbd491b32178f1803250e7a9",
+          "reviewNote": "Covers timing elections, mandatory small-balance distribution, valuation, and service-based amount."
+        },
+        {
+          "number": 3,
+          "title": "Account payment following a member’s death",
+          "bodySha256": "b7fcc30a84f7cd8c594297ce65eada9e251f996b1acc4a239a5d6b3dd1b3a9df",
+          "reviewNote": "Includes lump sum, valuation, default spouse or estate, and alternative designation."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed matching-contribution forfeitures, distribution timing and small-account rules, vesting distinctions, and death-beneficiary defaults."
+    },
+    {
+      "id": "50.1260:1835",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.1260&bid=1835",
+      "sourceSha256": "1b79daf422a4c83ae37aeba8a7a4fa8a63807002f83fde52547f02a6d918558f",
+      "textSha256": "6d716560c04dc6c9c333703b93e5108fada4ae9cb9636bdbd253255e7c50e8b4",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Election of a direct rollover",
+          "bodySha256": "6ee994a2fc175c4e31a658ac15e8f01fd7cc11cbcfb741846325f56ba62e2232",
+          "reviewNote": "Topic names distributee election."
+        },
+        {
+          "number": 2,
+          "title": "Eligible rollover distributions and exclusions",
+          "bodySha256": "3d2c425aeaf4795b75d219530f2fc379078495bbf484ef0297c16dc90f98c71c",
+          "reviewNote": "Includes periodic payments, required distributions, and gross-income exclusion."
+        },
+        {
+          "number": 3,
+          "title": "Eligible receiving retirement plans",
+          "bodySha256": "6348605da96ea7bfda8b8d6a77fa7ee5364c0afbd10712d096f2a307467b152f",
+          "reviewNote": "Covers plan categories and specific surviving-spouse restriction."
+        },
+        {
+          "number": 4,
+          "title": "Persons included as distributees",
+          "bodySha256": "3f6859691645e97e61a165616ed9ea8e3bcb217c8d07e6949b0994be53273292",
+          "reviewNote": "Includes member, surviving spouse, and qualifying former spouse."
+        },
+        {
+          "number": 5,
+          "title": "Meaning of direct rollover",
+          "bodySha256": "11b32b6fa5003dc4e5bc8f2db796b5a05f7c0a986a5cbb715dc02a76ff9002a4",
+          "reviewNote": "Preserves the distribution cross-reference."
+        },
+        {
+          "number": 6,
+          "title": "Complete and partial rollover choices",
+          "bodySha256": "c81038971d64652ef492c962269d4f0d5c328ada796a4f3676889120cc691c5c",
+          "reviewNote": "Covers remainder payment and partial-rollover minimum."
+        },
+        {
+          "number": 7,
+          "title": "Effect of making no rollover election",
+          "bodySha256": "9a2dac9a2d1fec819053f229b84787b635fea9049292d1c55ec1803f3d5e22c7",
+          "reviewNote": "Describes default rejection rather than assuming affirmative consent."
+        },
+        {
+          "number": 8,
+          "title": "Exclusion for qualifying small distributions",
+          "bodySha256": "1003ff95ac61b4044115b08f05af04a18b210766cb6dbd05e25544d6d6ddd1d6",
+          "reviewNote": "Includes annual-aggregate expectation, not an unconditional dollar exclusion."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed all eight rollover definitions and choices, exclusions, spouse restriction, monetary limits, and default rejection without election."
+    },
+    {
+      "id": "50.166:50019",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.166&bid=50019",
+      "sourceSha256": "d12e332499a3874615a368df671925f7310705166434844f108363f1e1e7fd9f",
+      "textSha256": "f03ee0c355e31e16a7cf3f0d84fba25508635b6f39f293dbd1305e9b0891ac4d",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Preparing warrants and combined checks",
+          "bodySha256": "1b344d4bb60d8b1cb53d3f3eed14d52edc6a6a7a872f1da5eb8d3afff0635ee6",
+          "reviewNote": "Covers clerk preparation, commission approval, transmission, and negotiability after treasurer signature."
+        },
+        {
+          "number": 2,
+          "title": "Treasurer access to warrant-processing information",
+          "bodySha256": "064477462bab5023f2d9510aa8bee8872e378bfc8b5d50e9701590314c0bc01c",
+          "reviewNote": "Includes distinct condition when warrant arrives without a check."
+        },
+        {
+          "number": 3,
+          "title": "Access to financial documents and permitted redactions",
+          "bodySha256": "f988cfe208786a5722d45abc3f88f14ee78a5edf5ab08b9ec6c2ef3998fcbe0b",
+          "reviewNote": "Covers relevance to treasurer duties and personal-information redactions."
+        },
+        {
+          "number": 4,
+          "title": "Release of funds for approved expenditures",
+          "bodySha256": "118f1e9715157056c88e65e45526c91447e3464e6b87918b7a2be0d611428d97",
+          "reviewNote": "Keeps properly approved qualification in title."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed warrant/check forms, document access and redaction, and release of properly approved payments."
+    },
+    {
+      "id": "50.172:1738",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.172&bid=1738",
+      "sourceSha256": "5bdeb2608b32f9eaa592a97639faf9f31d80c04e597287b29b02a89b3b8658ff",
+      "textSha256": "3de0582a37469410a9fca3f8bbc61bac9ab2eeb12a4a2eab082ad7411d933c67",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Preservation and copying of county financial records",
+          "bodySha256": "a2ed719efea2585b71a94cf55f85dc2675590648b9e044b2d0260a6dfdcfa229",
+          "reviewNote": "Includes approved storage and qualifying electronic check images."
+        },
+        {
+          "number": 2,
+          "title": "Retention and destruction of financial records",
+          "bodySha256": "646d39c66e312491f005170d748e1916f18499342bd08028897f4099c9767409",
+          "reviewNote": "Covers retention period, secretary of state rules, reporting practices, and litigation exception."
+        },
+        {
+          "number": 3,
+          "title": "Replacing lost or destroyed county checks",
+          "bodySha256": "684439170f2700377f397b956cbd88166bd933dc6c7df890e96f2aa13cd82a84",
+          "reviewNote": "Source note identifies repeal of the referenced auditor statute; title does not resolve cross-reference validity."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed preservation, destruction exceptions, and replacement procedures. The source note says the referenced29.180 was repealed; no new authority is inferred."
+    },
+    {
+      "id": "50.327:60196",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.327&bid=60196",
+      "sourceSha256": "28db674113085b4072eb20c717ba0476d61c7d7f4012aba792d214a8d9783d5a",
+      "textSha256": "9e760be720b2a17dbf4d5b22fdd4dcd560bc788377807be3c37ba43d7b1e36b5",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Salary schedules, computation, and adjustment limits",
+          "bodySha256": "93b4b398cfd259af169dd47730b5afd60912bdd62e70a399cb29350e5589f545",
+          "reviewNote": "Covers noncharter commission responsibility, equal percentages, and2026 salary protection and limits."
+        },
+        {
+          "number": 2,
+          "title": "Annual salary adjustments based on assessed-value growth",
+          "bodySha256": "ee345a0928e415bb4720ea512ec8cdc6719e42674b589603409c3bbc22c89610",
+          "reviewNote": "Names multistep calculation and ceiling without restating a formula incompletely."
+        },
+        {
+          "number": 3,
+          "title": "Commission-approved increases across county offices",
+          "bodySha256": "2f1522c869dca326adaf6406970b6bcabff5875225c6c0d8827f6a8ff8b5324b",
+          "reviewNote": "Includes part-time prosecutor and all-affected-office condition."
+        },
+        {
+          "number": 4,
+          "title": "Additional compensation for qualifying county coroners",
+          "bodySha256": "26997d4a345e6282dcfd8377213b2f26b1585955638f55704e24267e246865d3",
+          "reviewNote": "Preserves county qualification and approval condition."
+        },
+        {
+          "number": 5,
+          "title": "Extending assessed-valuation factors in third-class counties",
+          "bodySha256": "b2dfb92770aa002aebeeecb3cf4f7591e464916b72866db2355293ce4b1bce0f",
+          "reviewNote": "Covers equal-percentage requirement for extended factors."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed all salary-calculation steps and table, adjustment ceilings, county coverage, coroner increase, and commission votes. Apparent cross-reference variations remain unchanged."
+    },
+    {
+      "id": "50.333:60197",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.333&bid=60197",
+      "sourceSha256": "6cd841456788f9eee59daf737b36ed3172d0c1cb71aa6c39593f1a8920162771",
+      "textSha256": "f7bea6be036a41540a0465952881b31bf034d6b442c08c99a638fa0d20dfef41",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Salary commissions in noncharter counties",
+          "bodySha256": "d37bacf058c329858577d01a47f9ba8fd54da80a82d9f4f296345e77a1dcdd56",
+          "reviewNote": "Names county scope."
+        },
+        {
+          "number": 2,
+          "title": "Calling meetings, temporary chair, and public notice",
+          "bodySha256": "ad6ad27d27fa67333db725f77784f7eab3d13694ed84d724a29b3eb971947f05",
+          "reviewNote": "Covers member-requested meetings and newspaper notice."
+        },
+        {
+          "number": 3,
+          "title": "Membership of the salary commission",
+          "bodySha256": "d983be33275431f9acd9d278b53247fa2cfe7171da168c0594d44f182a122f55",
+          "reviewNote": "Includes additional sheriff/prosecutor membership qualifications in continuation."
+        },
+        {
+          "number": 4,
+          "title": "Unpaid commission service and quorum",
+          "bodySha256": "99ad24e8caa146da720e7b82b17eadc5a8d7f1d41c13ad7210ad6601284e9ddf",
+          "reviewNote": "Includes both no additional compensation and majority quorum."
+        },
+        {
+          "number": 5,
+          "title": "Open meetings and recorded votes",
+          "bodySha256": "d85631737454bb9237c480ef6315ad7e2e65ae13a4066497166a8f960316a2e0",
+          "reviewNote": "Names openness and recorded yea/nay votes."
+        },
+        {
+          "number": 6,
+          "title": "Meeting schedule, chair selection, and county reports",
+          "bodySha256": "27dd2266e5eaa4999be81b109cc789221eeb7ef8e3e945eae49bbe0a9e653082",
+          "reviewNote": "Covers odd/even-year timing, financial report, and minutes."
+        },
+        {
+          "number": 7,
+          "title": "Base compensation and salary adjustment rules",
+          "bodySha256": "1f1aa43fd224739007a42f3f8c7f55476a6cb57573519bce032c58526e93bd66",
+          "reviewNote": "Includes historical base calculation, uniform percentages, and voting thresholds; source annotation retained."
+        },
+        {
+          "number": 8,
+          "title": "Next-term compensation decisions and voting requirements",
+          "bodySha256": "9458fc2e657e53950a548e2ccd6a63563c7b2e5a6e6f10fb95ab94386a1aa59b",
+          "reviewNote": "Covers later meetings, uniformity, conditional maximum-limit exception, and reductions."
+        },
+        {
+          "number": 9,
+          "title": "Certification of compensation and assessment adjustments",
+          "bodySha256": "2c4c546a8e5c85ce4387f6b762ffa2c0f33ce8a20e20fa842b86f2105e737722",
+          "reviewNote": "Includes certification form and yearly assessment changes in continuation."
+        },
+        {
+          "number": 10,
+          "title": "Compensation when commission action is incomplete",
+          "bodySha256": "390727d3eb1bde66fc346c3d242b8dbf8b6724fe5979d9006dc09e1f49f152bd",
+          "reviewNote": "Covers failure to meet, agree, or timely certify, not merely absent meeting."
+        },
+        {
+          "number": 11,
+          "title": "Mileage allowances and reimbursement arrangements",
+          "bodySha256": "0a0d845a46e96014dd4a37cb8ab0ed73a884884d8a5163f856d4349c2a8addf6",
+          "reviewNote": "Includes actual necessary travel, commissioner option, monthly arrangement, and non-salary treatment."
+        },
+        {
+          "number": 12,
+          "title": "Meaning of maximum allowable compensation",
+          "bodySha256": "3d130de5813f1acf73d16a1e6b55b633a0dd25acef2bf506917fe23ff9dab47c",
+          "reviewNote": "Includes1987/1988 transitional calculation without claiming all offices have identical ceilings."
+        },
+        {
+          "number": 13,
+          "title": "Cost-of-living adjustments for county officers",
+          "bodySha256": "f55dacfb66e83ef49176cf56d6f05f9c9fc5c24a81efdf00c1dfcd769efd9348",
+          "reviewNote": "Covers authorization, employee-rate ceiling, uniformity, and next-term effect."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed all thirteen provisions, historical and current meeting rules, vote thresholds, uniform adjustments, certifications, and mileage. Case note on specific public-administrator provisions retained."
+    },
+    {
+      "id": "50.334:60198",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.334&bid=60198",
+      "sourceSha256": "23fc5c3f786aea9891e6a0881db7dddf0902218b7ac6d1ec02d17bcba3fdb19e",
+      "textSha256": "c2c67020c3d5456835bbfa79187cb81e1ffa6d11cc8b96e7bfc30f0b701a9a7a",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Recorder salary schedule and county coverage",
+          "bodySha256": "a986974605976329017dc67afeeadf530e33b31c6c298aede36d60bdeedb0c45",
+          "reviewNote": "Includes separate-office condition, county exclusions, valuation basis, and reduction vote."
+        },
+        {
+          "number": 2,
+          "title": "Recorder salary schedule for terms beginning after August 28, 2026",
+          "bodySha256": "424415ff71eefeaea084fe47e195f650068338b611478618056ba6abb8e70e7f",
+          "reviewNote": "Names applicable term threshold; exact August28 date and valuation table remain in source. Separate review made the new-term cutoff exact."
+        },
+        {
+          "number": 3,
+          "title": "Training-related compensation and expense reimbursement",
+          "bodySha256": "4f4a3d8f56e8d608124c6672974574da545b62960ff197be2817c2485a4c9875",
+          "reviewNote": "Includes approved alternative training, certification, and appropriation-qualified reimbursement."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed both salary tables, county exclusions, compensation safeguards, and training conditions; corrected the new-term cutoff wording."
+    },
+    {
+      "id": "50.338:1746",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.338&bid=1746",
+      "sourceSha256": "0c87c32baf737a5e6811e420c3957a2800afd8887aa566fe718b6a1619e1bc06",
+      "textSha256": "c04dd16cf938ee6e27a7d0a683c78d4846d082ecea5c59d31f815c3960bd3616",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offsets for officials’ compensation losses",
+          "bodySha256": "54066c8178afea2aa848a5c4be0a3b9ca9a89c689d43a2cde6d5d8ae2f2b86d1",
+          "reviewNote": "Links compensation loss to specified levy reductions."
+        },
+        {
+          "number": 2,
+          "title": "Offsets for county or township fund losses",
+          "bodySha256": "1c8eb17b400734122f9bf3b64649e19fabcd92b662c21b847f49c3bbdebc777c",
+          "reviewNote": "Distinguishes public fund revenue from officer compensation."
+        },
+        {
+          "number": 3,
+          "title": "School-tax adjustments when computing officials’ commissions",
+          "bodySha256": "e3cfa8b263bb7ad88c978c6dc4ce6056697ea9b79f407aa56b04b57a7ad9e065",
+          "reviewNote": "Includes levy reduction in commission-base calculation under stated conditions."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed school-levy loss offsets separately for officials, funds, and commission calculations."
+    },
+    {
+      "id": "50.339:1747",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.339&bid=1747",
+      "sourceSha256": "2e4595a7b8d6b4bb66d955f5b5a785e3742748c276b681b636152a588b7d41d5",
+      "textSha256": "0e7a19272b0a06ff8ef1e9880d5c9d6fa1ddfd248dc75acb4752db6369361753",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Salary equalization at 2003 and 2004 meetings",
+          "bodySha256": "03a4687b5fe7ceba0f393834ad53c429620cb079d05606b8c581e72f351b641f",
+          "reviewNote": "Names historical authorization, county qualification, maximum, and additional-compensation exception."
+        },
+        {
+          "number": 2,
+          "title": "Treasurer and public administrator equalization in 2007",
+          "bodySha256": "f6e5d18c8705671ff9d9b20442ed03cdd6544d9d829a57f1028088340c325444",
+          "reviewNote": "Names specific offices and historical meeting option without suggesting current authorization."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed both county-specific historical equalization authorizations; titles retain the2003/2004 and2007 limits."
+    },
+    {
+      "id": "50.343:1749",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.343&bid=1749",
+      "sourceSha256": "754f6b7227762cd66f93a2d9116c98c283d6d471b481e125bddbaccb723f4489",
+      "textSha256": "fa4e6e6f54c8f7adf33892b8adea5af918dd8a9f68cc0afbcfe4ea7465215f60",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Assessed-value salary schedule in qualifying counties",
+          "bodySha256": "04d61a3d652382a4e747f73942a85e26abe85384fde2cf5389f8558b29992e4b",
+          "reviewNote": "Includes covered offices, valuation modifications excluded, protected compensation, and presiding commissioner differential."
+        },
+        {
+          "number": 2,
+          "title": "Compensation after transition to first-class status",
+          "bodySha256": "8766ce241579dd7220c60f8bb73bc3d60adea163af764c8eaff4e2902f2dcc99",
+          "reviewNote": "Covers initial and later salary meetings, reductions, instruction condition, and cost-of-living adjustment."
+        },
+        {
+          "number": 3,
+          "title": "Associate commissioner salary option in qualifying counties",
+          "bodySha256": "067d0bea82386d0c64d90d8738d886e3a9e18685dea3c65f9b1e49f611b9546b",
+          "reviewNote": "Preserves population qualification and majority-vote option without extending percentage statewide."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed the assessed-value table, transitional first-class compensation, training and cost-of-living conditions, and limited associate-commissioner option."
+    },
+    {
+      "id": "50.350:1750",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.350&bid=1750",
+      "sourceSha256": "76486cb0df7ffb90db317b43b798ae3198d938b6d09f101ec6e64a7e6bc55f0b",
+      "textSha256": "bacbc36056ab33117ea4aeeced89fa243cb3e0d8b61d8a4671db1b413bac9856",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Collection of fees by salaried county officers",
+          "bodySha256": "7b755f7484387179ddb24f8530272e2dc0c1a1a0f649c69e5b000a55ac873e8c",
+          "reviewNote": "Covers second-class county duty, county-charge exception, and collection on county behalf."
+        },
+        {
+          "number": 2,
+          "title": "Exception for levee and drainage tax commissions",
+          "bodySha256": "87f3cf19218b87936f43d253c4867bcea65e1e4b853ef34797af888f14a65fb1",
+          "reviewNote": "Names collector retention exception with population and statutory conditions left in text."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed county collection duties and the specific levee/drainage commission exception."
+    },
+    {
+      "id": "50.535:33871",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.535&bid=33871",
+      "sourceSha256": "3e4fa489a4594e1806f5315ebe69c78b687a5936fa5280459f07d450f924c865",
+      "textSha256": "3a5c9f9a0f84380ebf19e33ee3a110fac29848edee38a39e3de812d74e0a7d50",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Deposits into the sheriff’s revolving fund",
+          "bodySha256": "1e81abd59530fe94cc840aa07fe97f3d1821231f347e332f82f0830bcc1595e2",
+          "reviewNote": "Names fee source and direction by sheriff or designee."
+        },
+        {
+          "number": 2,
+          "title": "Fund expenditures, oversight, and supplemental funding",
+          "bodySha256": "2034a8f35af8cf957284a44edb6cfb1e5a3cfa2fab0de49bded3faafe7924a2a",
+          "reviewNote": "Includes no prior approval, restricted uses, carryover exception, audit, and budget protection."
+        },
+        {
+          "number": 3,
+          "title": "Concealed-carry costs, fee estimates, and reimbursement",
+          "bodySha256": "5830faf6801ec48deb0b619463e4bd6ec93fe9fede63fdf65e77379a2e31c981",
+          "reviewNote": "Covers expense authority, budget-based fees, insufficient-fund proof, certification, and appropriation condition."
+        },
+        {
+          "number": 4,
+          "title": "Reimbursing designated police chiefs for processing applications",
+          "bodySha256": "0d742cb1313c710b41902a9917be7157c6edd309c0d541361308108357fd3abf",
+          "reviewNote": "Preserves first-class designation and reasonable-expense limits."
+        },
+        {
+          "number": 5,
+          "title": "Use or transfer of qualifying excess funds",
+          "bodySha256": "8472b7879b3f085769e63d93a17cc02219a42fa33a87f907db58abe042e63915",
+          "reviewNote": "Includes five-year reimbursement history condition, not unrestricted surplus use."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed earmarked deposits, supplemental funding safeguards, cost recovery, police-chief reimbursement, and five-year condition on excess funds; veto-override effective note retained."
+    },
+    {
+      "id": "50.540:1771",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.540&bid=1771",
+      "sourceSha256": "4b4447d2d6e31675de5d104b044571bc82452bc036eb05ed2ca73179f22a5e41",
+      "textSha256": "a9615fba19c32b71fd11650175c5b5476a30418d234971246b5a9d335c3f3f0d",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Preparing expenditure estimates and revenue forecasts",
+          "bodySha256": "cfe6e1615c784e1347d259f15ad9a86b0eab887d90af22606277bbbcf3a2e45b",
+          "reviewNote": "Includes county-class deadlines, classifications, work programs, missing estimates, and other boards’ budgets."
+        },
+        {
+          "number": 2,
+          "title": "Budget officer review and revision of estimates",
+          "bodySha256": "aa1d7831b4cab7d9b8df145ab5a2bb817e4c729b19b950c4e1f9f6d58b5bb905",
+          "reviewNote": "Names discretionary revisions considering need and probable income."
+        },
+        {
+          "number": 3,
+          "title": "Explanations and additional budget information",
+          "bodySha256": "78d0f40265982f4597cd55dbfbaae99a10b8920c4bcbcb56e4cbd89add104ff0",
+          "reviewNote": "Covers officer appearance and additional information."
+        },
+        {
+          "number": 4,
+          "title": "Budget submission, employee salaries, and emergency reserves",
+          "bodySha256": "a05c91c3f3870336071834fa9f213fe83b773904633a5cfa28ebdf458ce883a2",
+          "reviewNote": "Includes submission deadlines, salary limits, reserve percentage, and conditional emergency transfers."
+        },
+        {
+          "number": 5,
+          "title": "Public budget hearings and access to records",
+          "bodySha256": "ad90b053d22495686a805b21c8756ec6fb253e15907646bf26718bec2922536b",
+          "reviewNote": "Covers county-class hearing differences, notice of reductions, and public inspection."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed county-class deadlines, substitute estimates, salary and emergency-reserve rules, unanimous transfer approval, and differentiated public hearings."
+    },
+    {
+      "id": "50.550:1772",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.550&bid=1772",
+      "sourceSha256": "0726421bf5041dea51ebcbb0f159a344a556902d19d66317b59705c21f71a0b4",
+      "textSha256": "c83f1b206bb25a19416ef94b67b49e7a1edade380f37064d82148e75277a46ac",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Scope of the annual financial plan",
+          "bodySha256": "ea4fbcc082019876f94d60d8d68acbc15534a7edc255988b6b02b3e5a3d4d169",
+          "reviewNote": "Covers proposed operations, prior balances, debt, and capital spending."
+        },
+        {
+          "number": 2,
+          "title": "Provision for specified county expenditures",
+          "bodySha256": "bce18be43977b8483cf3b5dec2112410049667bf536a9ace7044cac3c88270bf",
+          "reviewNote": "Names required budget subjects without restating outdated source terminology as current classification."
+        },
+        {
+          "number": 3,
+          "title": "Details of anticipated income and financing",
+          "bodySha256": "7a74b179c993589725672e09cc3f6dc0657803e43331411ae6fde47cadc4167e",
+          "reviewNote": "Identifies financing detail."
+        },
+        {
+          "number": 4,
+          "title": "General fund and road-and-bridge accounting",
+          "bodySha256": "f8c8baea28653b7527a6ed8969f1fb92ddc69bc5baaaa81f27f2193283f89de9",
+          "reviewNote": "Includes special road-tax exception."
+        },
+        {
+          "number": 5,
+          "title": "Bond proceeds, retirement, and interest funds",
+          "bodySha256": "fbd5ac1e0be386ccf64a1b295cdc07a0fb65aae23c2742fe86bc71e43c8f4efd",
+          "reviewNote": "Distinguishes three bond-related accounting purposes."
+        },
+        {
+          "number": 6,
+          "title": "Creation of a law enforcement restitution fund",
+          "bodySha256": "49f6831ac38399d5462f386008301c83f1d3074423195ce311764fec2e0c9757",
+          "reviewNote": "Preserves the50.565 qualification."
+        },
+        {
+          "number": 7,
+          "title": "Creation of other necessary funds",
+          "bodySha256": "b8032732cdc02d735f7359eb7644fca5ac77232128d45eeef886e0fb3833d0ce",
+          "reviewNote": "Names county commission authority as needs arise."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed all seven financial-plan and fund-accounting provisions, including restitution fund authorization subject to50.565."
+    },
+    {
+      "id": "50.565:1773",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.565&bid=1773",
+      "sourceSha256": "a6af339ad061b1bcf32a463fa9be3dca7bf45f31dc96f3b832c97afea5eba771",
+      "textSha256": "54936e36f9a035935689fe1e13f454acefa0db9903143ade8c696169d570b4a5",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishing the restitution fund and its trustees",
+          "bodySha256": "3f6822111cd097607e4bcbcdf59258f784b436f047289c4bbdd2761d189bc4ea",
+          "reviewNote": "Includes appointment sources, disqualified appointees, and no-coroner alternative."
+        },
+        {
+          "number": 2,
+          "title": "Trustee approval of fund expenditures",
+          "bodySha256": "42eed975d2a0e1cf578bd966df795b57f9412e5220a1cfe7f24d18150f255bd9",
+          "reviewNote": "Covers majority approval and restricted purposes."
+        },
+        {
+          "number": 3,
+          "title": "Permitted purposes of restitution fund expenditures",
+          "bodySha256": "5e5f75f80ed68fc9952f88f83380e67f4ddd04e10134b6ebc56c9de52ddaea00",
+          "reviewNote": "Includes all five expenditure categories and criminal-case connection."
+        },
+        {
+          "number": 4,
+          "title": "Supplemental funding and agency budget protection",
+          "bodySha256": "3d60fac0dd847c2c6d94732184c9c91afa5c013f855fabc0b5a5c29acce3f146",
+          "reviewNote": "Names prohibition on reductions because of fund receipts."
+        },
+        {
+          "number": 5,
+          "title": "Auditing county restitution funds",
+          "bodySha256": "df5255727c246fb4d52cec934c5516bfa77492f9b35e74348d8cca3584b6c212",
+          "reviewNote": "States subject without promising a particular audit outcome."
+        },
+        {
+          "number": 6,
+          "title": "Excluded offenses and assessment limits",
+          "bodySha256": "1a211f8377e5b0ba322906824b2f032f594fc7aec2602576b6fe71b9ae59e516",
+          "reviewNote": "Covers excluded pleas/findings and per-offense cap; not a universal assessment."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed trustee qualifications and majority approval, all expenditure categories, supplemental funding, auditing, excluded charges, and assessment cap."
+    },
+    {
+      "id": "50.622:34662",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.622&bid=34662",
+      "sourceSha256": "6b96c3db1f289f87f49059f57a1aea5077fc85dd06ad82637fb08099bb999a74",
+      "textSha256": "dabc144ab96e29be322895b851dfa005a49b68c709af2f3c0a52298e6ae4cec9",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Budget amendments for unforeseen additional funds",
+          "bodySha256": "1593a76c609e81f9650bfbe26901f369c5993399234e4b6938fd5f66b914dc27",
+          "reviewNote": "Includes adoption procedures and unforeseeable amount or source."
+        },
+        {
+          "number": 2,
+          "title": "Budget reductions following unforeseen revenue declines",
+          "bodySha256": "1a3a4fc236f9b02c66ee973e5041e2a93d175eb4ad18d13e6839fd06c26aa170",
+          "reviewNote": "Includes frequency, decline threshold, negotiations, fairness, and extended notice; expiration remains explicit below."
+        },
+        {
+          "number": 3,
+          "title": "Protection of dedicated funds from reductions",
+          "bodySha256": "ac43e2970575fabf8e0216bb26b720926bb9bd43097f2e6c40e381bec1e0f616",
+          "reviewNote": "Cross-referenced protection does not claim all appropriations exempt."
+        },
+        {
+          "number": 4,
+          "title": "Reductions for directly supervised departments",
+          "bodySha256": "6b888a3a51585d5c122f013ecfcbcb3ee643653f916ca5d3d75caeb0c6fa389b",
+          "reviewNote": "Names direct-supervision exception while preserving expiration."
+        },
+        {
+          "number": 5,
+          "title": "Expiration of specified budget-reduction provisions",
+          "bodySha256": "3765168801c6f311694ce9f526e0a68e4c95ea767a5947f15a177b89dd1daa82",
+          "reviewNote": "Identifies expiration applying only to subsections2–4."
+        },
+        {
+          "number": 6,
+          "title": "Charter county budget amendment authority",
+          "bodySha256": "3f32806b1084592a08e2656f95fd85fbcb6417564a97489003b84a3ede46bfc9",
+          "reviewNote": "Names charter-based authority without generalizing to other counties."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed additional-fund amendments and temporary decrease powers with notice, negotiation, and dedicated-fund safeguards; July1,2027 expiration is retained."
+    },
+    {
+      "id": "50.640:1780",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.640&bid=1780",
+      "sourceSha256": "64758c629fb698eec3f15f36931cbb69e306d6d07cf41fad0e44eecb43a51069",
+      "textSha256": "600f5390ce62ab3590249a9e85fa6139b50a168bfa5887737f0ef39674617ec6",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Court budget estimates and consent to changes",
+          "bodySha256": "5e3575e03299359789a86459ed846b15db747a15f1d2857060fdc5ed90fcf5fd",
+          "reviewNote": "Includes general budget duties, clerk transmission and approval, and separate consent requirements."
+        },
+        {
+          "number": 2,
+          "title": "Review of disputed estimates and escrow procedures",
+          "bodySha256": "5fa197a478957c11eaaf5b552c66113315511a8618550d739a4ac77f71b7b322",
+          "reviewNote": "Covers petition, escrow, court burden, fiscal comparisons, settlement, timing, and optional self-representation; annotations retained."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed consent rules, court-budget dispute burdens, escrow, review factors, settlement conference, and timing; both archived case notes retained."
+    },
+    {
+      "id": "50.641:1781",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.641&bid=1781",
+      "sourceSha256": "b8875b35dacc3142a1270898f8b3cf0b2104c61fc2ea77e806acab8d36b5aa6c",
+      "textSha256": "58232c88e660f6a18d55b6f3f4c4fe5bf5e2c2a6168c5d905f24c8d975e2c361",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Court operations included in county budget estimates",
+          "bodySha256": "2c97be648b39fb661a11c5359f16b6675060ff28bb98da3cc151227ed3ca7460",
+          "reviewNote": "Includes county-funded juvenile personnel as well as judges and their staffs."
+        },
+        {
+          "number": 2,
+          "title": "Municipal division funding excluded from this authorization",
+          "bodySha256": "f73fde7ae6eede3bf6380ab387a94ab791fea55e0a1aba69abb3141d71087368",
+          "reviewNote": "Describes construction of50.640, not a general prohibition on every funding source."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed covered circuit and juvenile operations and municipal-division exclusion; deputy-recorder salary case note retained."
+    },
+    {
+      "id": "50.642:1782",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.642&bid=1782",
+      "sourceSha256": "cbff7f8912366bf0d20c1a820bccb4a670897fbe815928303e48045df8d9146f",
+      "textSha256": "e26091f487ab921d8f08a2905fdb039486e3c1dd8c884c0aceb6ffd4b87df586",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Pre-submission conferences on court budget estimates",
+          "bodySha256": "73012806400f1e61ff703875d6e9e5eb41e09b17659555a2c828f055b86e2250",
+          "reviewNote": "Includes designees, timing, discussion, and subsequent transmission."
+        },
+        {
+          "number": 2,
+          "title": "Other court budget procedures remain applicable",
+          "bodySha256": "9f2df8be9dc5ebb1e40c6812055187ee3927ce6a8eceec6d3f83981b3c2bd9a1",
+          "reviewNote": "Identifies unchanged legal processes outside subsection1."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed the advance conference requirement and preservation of other court-budget processes."
+    },
+    {
+      "id": "50.740:34776",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.740&bid=34776",
+      "sourceSha256": "09cdbe210d1248148e8c3aa7d81fe64798d823027ca5d1b637567c723d29b599",
+      "textSha256": "0a99a45dc7c69cac25e3043fae7606703c23d47d6afc84ccd0bc28951627fe3e",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "County commission revision and approval of estimates",
+          "bodySha256": "bc6f8e4ede08345c39e693920ca8681ac71d7b3e73a74dcd221bfe9ac7b39512",
+          "reviewNote": "Includes hearing opportunity, record entry, and third/fourth-class scope."
+        },
+        {
+          "number": 2,
+          "title": "Filing approved estimates and warrant restrictions",
+          "bodySha256": "1e3a272a72c3bcd07d61a887ff1f01c9a6fe225aa666014106d4d6fb0862fc97",
+          "reviewNote": "Covers clerk filing, treasurer restriction with payroll exception, bond liability, and auditor receipt."
+        },
+        {
+          "number": 3,
+          "title": "Unauthorized warrants and official bond liability",
+          "bodySha256": "f0b59a566cea1fce7cf49b1e353d819ae51810d38d49b43af766d01ad1ebe96f",
+          "reviewNote": "Names void orders and participating officials’ bond liability without restating penalty assumptions."
+        },
+        {
+          "number": 4,
+          "title": "Electronic correspondence for budget filings",
+          "bodySha256": "5025dc3e459c4c5000e66055c31952b8de0e3200db9a10dc94a312d9183e962d",
+          "reviewNote": "Limits correspondence authorization to the specified filings."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed revision hearings, filing and receipt procedures, payroll exception, bond liability, and optional electronic correspondence."
+    },
+    {
+      "id": "50.757:1790",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.757&bid=1790",
+      "sourceSha256": "83aacd585049cbdec1a7095b11a4a28fe974f220aeffb4528541cb02010a763e",
+      "textSha256": "6134ac3db5806ecafcc34d094c13238ff21f532eba5f639c2f22bacbe318f8bc",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Purchasing agent duties and procurement limits",
+          "bodySha256": "41fe99b77e4d13e5c9353bec30dcdba5ffb351f0fe869e51b7c4e64080d32b55",
+          "reviewNote": "Includes appointment condition, written orders, price-quality comparison, and reasonable-quality limits."
+        },
+        {
+          "number": 2,
+          "title": "Rejection of bids for county supplies",
+          "bodySha256": "c40503e76c5353510b2ac02601efed5522027d40352a873a085eac0cab71e952",
+          "reviewNote": "Names discretion to reject any or all bids."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed purchasing authority and lowest-price/quality limitations together with power to reject bids."
+    },
+    {
+      "id": "50.760:1791",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.760&bid=1791",
+      "sourceSha256": "a3dea6a05f55711ff8bc04a9a9ff25aa4989697330037515d3a04e09ec16e3a0",
+      "textSha256": "d2bdc399ea52bb297dce524ffc338897a2dddd19baefa7116b5e9a43233152ad",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual supply estimates and sealed-bid procedures",
+          "bodySha256": "4a7e3983052c46d88011cd268c9cc8351c429f7abc3faff5ae1940312eb6660c",
+          "reviewNote": "Covers county scope, absent purchasing agent, notice and bidding dates, and purchase exceptions."
+        },
+        {
+          "number": 2,
+          "title": "Supply purchases at public auctions",
+          "bodySha256": "ad1a0f87d11a7031d0fed9564b51eec9fbdfdfefe44c2757b0cc35d344dc22ae",
+          "reviewNote": "Notes contractual services excluded."
+        },
+        {
+          "number": 3,
+          "title": "Purchase-order approval before contract formation",
+          "bodySha256": "a7e633749830f968cdef1409cb50802da753d2cb44fb314f23a55e976af9e28f",
+          "reviewNote": "Identifies commission approval prerequisite for the specified purchases."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed annual estimates, detailed notice and contracting procedures, exceptions, auction limits, and purchase-order prerequisite."
+    },
+    {
+      "id": "50.780:1793",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.780&bid=1793",
+      "sourceSha256": "ce2da1c618fa027098a5f59fd19d70c78272504c2022efa74926aa2f319cfd73",
+      "textSha256": "71b04be4c128b0d27710eca43a4fe9e9e04dfc7ad14881917f7f32fcd122ca96",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Supply purchase approvals, liability, and local preferences",
+          "bodySha256": "15829bd702eb9ef7ee7924f72978a85d74c6b053e55a94bdadedeb3b8b764220",
+          "reviewNote": "Covers orders, contracted-supply requisitions, county liability, quality limits, and price-conditioned local preference."
+        },
+        {
+          "number": 2,
+          "title": "Emergency procurement and competitive-bidding waivers",
+          "bodySha256": "8c5b28f867a99d1c1bedaad003283e369af9dae9dca7f134c743261687319d06",
+          "reviewNote": "Includes emergency grounds, practicable competition, and subsequent minutes."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed approval and requisition rules, liability and local preference, and emergency waiver safeguards including practicable competition and minutes."
+    },
+    {
+      "id": "50.783:50022",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.783&bid=50022",
+      "sourceSha256": "c3e932cc6282c8f139c6610c9c7825b73e681d74b58f4354456b3db943bd7a01",
+      "textSha256": "831da8cb87b2ece365bf471d38b2f2708b805bf558b3b74b6781bf333ad61560",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Single-source waivers and return to competitive procurement",
+          "bodySha256": "0c204480f64014fececf700af6160b8deb7e60b83bdc77e43c375df4480f3a00",
+          "reviewNote": "Includes written findings and three source categories, plus rescission when alternatives discovered."
+        },
+        {
+          "number": 2,
+          "title": "Notice of qualifying single-source purchases",
+          "bodySha256": "643c707290327fbd46360dbbf19e7897b4c9135071c3f6011400b6aab764d809",
+          "reviewNote": "Covers expenditure threshold, newspapers, optional electronic information, and timing."
+        },
+        {
+          "number": 3,
+          "title": "Notice of qualifying county single-service purchases",
+          "bodySha256": "fc5014c9605e6bfaff3a55ba63a9610749b1ea523e233f28c6dd3f5fd76bfb5a",
+          "reviewNote": "Retains source wording single feasible service rather than silently replacing it with source; county qualifications remain explicit."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed single-source findings and rescission, notice thresholds, and the county-specific single feasible service wording without substituting supplies."
+    },
+    {
+      "id": "50.815:57765",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.815&bid=57765",
+      "sourceSha256": "91486e55a694b9f20620645d1118191f402894be6b69aec3399766e23786613c",
+      "textSha256": "f8e1314147e416a7e70d07dcc54672a88bf26062644daf5992ef2ac23aa01cd6",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual preparation and publication of financial statements",
+          "bodySha256": "42fbf024918a3abe575e191be8f2142065c742bb9f3dbc7bdb7d38db994f0095",
+          "reviewNote": "Names annual county statement and publication period."
+        },
+        {
+          "number": 2,
+          "title": "Required contents of county financial statements",
+          "bodySha256": "79af212d72ecd00b44404617f7f95c56667dbff29440bd38b63dc1cae467b4c3",
+          "reviewNote": "Covers all eight financial and officer-salary categories."
+        },
+        {
+          "number": 3,
+          "title": "Supporting records, public access, and retention",
+          "bodySha256": "34e85bd2505075e7dcd76a3db185a472073913ab553f3e877f181c99998486ac",
+          "reviewNote": "Includes salary-detail exception, filing, newspaper data copies, inspection, retention, and pending-suit exception."
+        },
+        {
+          "number": 4,
+          "title": "Certification of the financial statement",
+          "bodySha256": "0c7e2a8fa0fa27f1e46bff78e1562df97b62a29f6a4f82e9eb805dc06b0b34e2",
+          "reviewNote": "Includes prescribed certificate and exception explanation."
+        },
+        {
+          "number": 5,
+          "title": "Liability and penalties for false financial reporting",
+          "bodySha256": "5e0f6d58a3def6cf28cbba8aca4cfa6130ff67d7e0a530a477a8f9b92f0d6ba6",
+          "reviewNote": "Distinguishes false certification from knowing or willful false report and bond consequences."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed required statement contents, records and data access, five-year retention with litigation exception, certification, and distinct false-report penalties."
+    },
+    {
+      "id": "50.820:57767",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=50.820&bid=57767",
+      "sourceSha256": "7bc963c8059435d8c8d4d76bef27237afdb797b240416acc877c3bf62f52d795",
+      "textSha256": "aa03950b2785f2435ab6ea516dab67b15faa30390276acc9157ac57140240165",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Publication format, charges, proofs, and payment",
+          "bodySha256": "adac1613ec3fa6cb9bbf25f8de00336a22b914249ae6743f53d58816f28d320b",
+          "reviewNote": "Includes auditor verification and advertising-rate limit."
+        },
+        {
+          "number": 2,
+          "title": "Recording copies of the financial statement",
+          "bodySha256": "e6d7f668bd76460ae93b10bf55fb8ecf7e9d4022b894aab449460736404f7185",
+          "reviewNote": "Names publisher copies and commission record."
+        },
+        {
+          "number": 3,
+          "title": "Publication proof and commissioners’ pay restrictions",
+          "bodySha256": "187f8984c3ffdce770115ba2bf80280915dc3362d0306b7aee56cae1340913cd",
+          "reviewNote": "Covers auditor notice and July threshold before warrants resume."
+        },
+        {
+          "number": 4,
+          "title": "Auditor sample forms and officials’ compliance duties",
+          "bodySha256": "d5da54c7e18338c97d4bcc87c58f19b2bd3a97777babbc5ddf3c27d86b99fc54",
+          "reviewNote": "Includes forms, no-excuse provision, and bond liability."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed publication charges and proofs, statement copies, pay restrictions pending proof, and officials’ liability despite unavailable sample forms."
+    }
+  ]
+}

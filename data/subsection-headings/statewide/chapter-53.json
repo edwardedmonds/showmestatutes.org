@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "53.010:1920",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=53.010&bid=1920",
+      "sourceSha256": "dd8f949d1313a36190f5892e3d2660b8e7dd522aca0210cfbefb5bcd9ed61f01",
+      "textSha256": "e646eaca9575bc9f84d9ff85e0ac38a57510c0861612c2fced8698e4d1a5a056",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Assessor elections, terms, and residency",
+          "bodySha256": "490e56b827d82135b2cd7dc77d31b4bb0b88fa450554f519708d49938a232261",
+          "reviewNote": "Includes St.Louis exception and removal/successor conditions."
+        },
+        {
+          "number": 2,
+          "title": "Assessors in township-organization counties",
+          "bodySha256": "613d6d3cfb8d1725e922d4043e4cb65a4b902e6c0653e345191058c218fe6833",
+          "reviewNote": "Covers initial election, cost allocation, assumption of duties, and special-law priority."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed election cycles, St.Louis exception, residency, township elections, cost allocation, and priority of specialized township laws."
+    },
+    {
+      "id": "53.080:1929",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=53.080&bid=1929",
+      "sourceSha256": "74349ecc83ee824fece131e8fb8008d71f7d22a100f863016663ea7fb4a593f3",
+      "textSha256": "95a8c8b082f8e70b955811aeee1d2a4899aabf5c4893f16d3cc2a2f36816af3c",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Classification of real property into constitutional subclasses",
+          "bodySha256": "83ccc7f7693f2967726e0f282e5984e72ca9205ee1e636fe4115a5286995c924",
+          "reviewNote": "Names all three subclasses without reclassifying any property."
+        },
+        {
+          "number": 2,
+          "title": "Applicable definitions for property classifications",
+          "bodySha256": "6e6ebfc18a448414ab82834e89ac86ba747702e62f1ff6be731b10d3bf2245c5",
+          "reviewNote": "Names constitutional and statutory definitions."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed all three constitutional property subclasses and applicable-definition requirement."
+    },
+    {
+      "id": "53.082:60201",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=53.082&bid=60201",
+      "sourceSha256": "02f5046c9b919a1cc03e4b69d60c7f3dd8101b516791a7955e9765ee0e40500b",
+      "textSha256": "e8b3fcfea26fbdb96606eb4fe004262778a5d1f6c981aca6acfa9935a8cef042",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Assessor salary schedule and protected compensation",
+          "bodySha256": "0b649b63bab89e7765eeda958b100e7359122ac7eb7a6f3458de48a4c0f752b9",
+          "reviewNote": "Includes county scope, valuation basis, and historical floor."
+        },
+        {
+          "number": 2,
+          "title": "Assessor salary schedule for terms beginning after August 28, 2026",
+          "bodySha256": "fc9e222652bcf0bee99592a2abd66b52c0a0c129a048694183c21ac88f084ffd",
+          "reviewNote": "Exact August28 threshold remains in source. Separate review made the new-term cutoff exact."
+        },
+        {
+          "number": 3,
+          "title": "Salary calculation for the 1997 assessor term",
+          "bodySha256": "85a4511f80557a45ef4a8864215636c08c640ac90ca4e48be04e64f2097dbd70",
+          "reviewNote": "Names historical commission percentage and effective date."
+        },
+        {
+          "number": 4,
+          "title": "Training-related compensation and expense reimbursement",
+          "bodySha256": "86ce7fd880112950d6625850b7ed9c11488c417ac7aeee59913a57c640c1f2a1",
+          "reviewNote": "Includes approved alternatives, certification, and appropriation-qualified reimbursement."
+        },
+        {
+          "number": 5,
+          "title": "Salary reductions and commission voting requirements",
+          "bodySha256": "f1a6ef0d4bb82ece4e282a98ca924b7ae269459fbec99d5e7c40279b2d127411",
+          "reviewNote": "Preserves first-class exclusion and two-thirds vote exception."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed both full salary tables, the1997 term provision, training conditions, and reduction vote; made the new-term cutoff exact."
+    },
+    {
+      "id": "53.084:1933",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=53.084&bid=1933",
+      "sourceSha256": "eda11ab94701eb90df5489ef14083a9f20dd68b5baab9335c7b46e8201f4e876",
+      "textSha256": "13cf188b4e2a7183a93220c52d73b32f6b82b04059cb1fe33086ad252afab181",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Additional compensation for qualifying certified assessors",
+          "bodySha256": "01f09d57b46fbeb701923d77473a224933f2bc6395566eb0843ad7b593eca95e",
+          "reviewNote": "Includes first-class exclusion as written, continued service, certification, and appropriation."
+        },
+        {
+          "number": 2,
+          "title": "Payment commencement after certification while in office",
+          "bodySha256": "b94cca0901237c1ad57f14fbdd92ed9e945fd99957e2844d0a25f2d5a2e69a1d",
+          "reviewNote": "Preserves distinct first-class-charter exclusion and commission-notice timing."
+        },
+        {
+          "number": 3,
+          "title": "Payment commencement after certification as assessor-elect",
+          "bodySha256": "e0773cba28245d3106c9c9f4ca50cb8c7b18c812ad936fa71d2da6a5b2b746e2",
+          "reviewNote": "Covers later-of-two-events timing and continuing compliance; source omitted-word note retained."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed certification/payment conditions and differing first-class exclusions in the subsections without harmonizing them; original-roll omission note preserved."
+    },
+    {
+      "id": "53.255:1938",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=53.255&bid=1938",
+      "sourceSha256": "501d1f912725dc7e8c9d24cbceb43b091bbf37c53509cc1e8d5dee57fdef3c4e",
+      "textSha256": "92b8dd74e67a9bb9ec0b2f0eaee2283d8b44a1e5a7dcd686ce0d88b37a0e267c",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Initial assessor training and certification deadlines",
+          "bodySha256": "4b2995e9ed162eebb572001330787f88f7a84d9887ed879ea25eaea8ebd770d1",
+          "reviewNote": "Includes assessor-elect and historical appointed-assessor timing."
+        },
+        {
+          "number": 2,
+          "title": "Issuance of certificates of attendance",
+          "bodySha256": "3349a7c725303d829c825f00850ff353cf82ec987746680e53ac6b5ad6738ad4",
+          "reviewNote": "Names provider notice as trigger."
+        },
+        {
+          "number": 3,
+          "title": "Course duration and approved course listings",
+          "bodySha256": "4a992dc05d96521b40c6763a91ee7c98b3e81b284bc6edde35e1d55e281df942",
+          "reviewNote": "Covers minimum hours and commission updates."
+        },
+        {
+          "number": 4,
+          "title": "Continuing study to maintain certification",
+          "bodySha256": "5aefc1c32ea6d214f28da4e1517eafecc11ab46a867e0b2cccb76521a0211f99",
+          "reviewNote": "Identifies recurring course requirement."
+        },
+        {
+          "number": 5,
+          "title": "Attendance rather than examinations for certification",
+          "bodySha256": "c0fe554be1db356e807295169ceaa63a3c65a2e49490bfd2c258c40522357150",
+          "reviewNote": "Limits description to this statutory certification framework."
+        },
+        {
+          "number": 6,
+          "title": "Withholding state assessment funding for noncompliance",
+          "bodySha256": "ca4d072f8aebcd03e957c5194a3e759bc181db5ce5a3fff1471e3da1a8849d28",
+          "reviewNote": "Covers notice, restoration events, and nonexclusive remedies."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed initial and continuing attendance windows, minimum course time, certification without examination, and funding suspension/remedy alternatives."
+    }
+  ]
+}

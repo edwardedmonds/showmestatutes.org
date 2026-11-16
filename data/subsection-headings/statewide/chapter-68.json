@@ -1,0 +1,734 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafting followed by a separate agent editorial review against complete archived source; not independent legal review.",
+  "entries": [
+    {
+      "id": "68.010:3239",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=68.010&bid=3239",
+      "sourceSha256": "b7c9a05408bf0b93823fe4f826307d288be8c2bf8889af4454fba3a4c5e6e9df",
+      "textSha256": "e97e7b694becc216e7ef14f9bf14f6b67913461d613925e4a2a12a9d5f85facd",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Formation and status of local port authorities",
+          "bodySha256": "f4c3eb876b9f56b9ea636e15875ef77e2b317739742cb51c1a2be573772f3d14",
+          "reviewNote": "Navigable-waterway criteria and city-not-within-county creation distinguished."
+        },
+        {
+          "number": 2,
+          "title": "State approval criteria and specified mandatory approvals",
+          "bodySha256": "14066351910e4d60a467cf33c8f4279f17a91914e332d4bf75c69225050fa2a5",
+          "reviewNote": "Six factors plus Kansas-border population/nonoverlap approval rule read."
+        },
+        {
+          "number": 3,
+          "title": "City authorities within counties with approved authorities",
+          "bodySha256": "b35579c6b533b00332bf7fc95e53d62ae42ffebc40071c473038784c13790786",
+          "reviewNote": "City restriction depends on existing approved county authority."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Waterway eligibility, charter-city creation, mandatory approval criteria, and prohibition on overlapping city authority checked. This is not independent legal review."
+    },
+    {
+      "id": "68.015:3240",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=68.015&bid=3240",
+      "sourceSha256": "54b3b8f70045824034f3e3c10e697bbc82f6ee3ea59a01fe7c09d4d098899039",
+      "textSha256": "3d35e1e69578d9053897ff870db836b82c2dbfd0d1d4a09b94a01e6c21f136b8",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "District boundaries, approval and changes",
+          "bodySha256": "33775bab6fb99100df6aadfd379c43a34b22fa796eff52286571fbf4f8fde57b",
+          "reviewNote": "Port-business connection, filing and transportation approval required."
+        },
+        {
+          "number": 2,
+          "title": "Local funding for port district development",
+          "bodySha256": "420c551b581d4f6390f6beed02f3aafd75b120b562022bdc2c00a79b28258664",
+          "reviewNote": "Reasonable and necessary local appropriations for planning/development."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Port-related boundary limits, approval/filing effectiveness, later changes, and local funding checked. This is not independent legal review."
+    },
+    {
+      "id": "68.025:3242",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=68.025&bid=3242",
+      "sourceSha256": "25db607ba62214edbba63cb230b0195065e0d335f5300d1ca5b9316cdea25949",
+      "textSha256": "9b572fc2203a0ebe9d9b1c1fe369126f941ed288d5cde4727caa68607825886e",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Port planning, development, finance and operational powers",
+          "bodySha256": "b19cb6ab05d78d16a995a7aeddf343dd580190021d062b264d9af88e35f02ab8",
+          "reviewNote": "All23powers read, including railroad-assessed tax consent, river-trade condemnation exception and renumbered-project cross-reference note."
+        },
+        {
+          "number": 2,
+          "title": "Joint development and property-use agreements",
+          "bodySha256": "5eab7ea0d88e341ebbd06936235337c5d3ef5a957a7a74a4244d9a7509bde360",
+          "reviewNote": "Agreements with private/public entities within district or for port purposes."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: All twenty-three powers read, including written-owner tax consent and river-commerce eminent-domain limitation; renumbered cross-reference note preserved. This is not independent legal review."
+    },
+    {
+      "id": "68.035:3244",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=68.035&bid=3244",
+      "sourceSha256": "dda23c0a919e0854491f5bc75aed3073f3995ee9bff4aeabb2aef15efb4290af",
+      "textSha256": "bd0b0b10c31c1962005cfeed50ce004feb9e695e89f4217b29bde683e0c9faa2",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Nonmatching grants for port authority expenses",
+          "bodySha256": "4b37e02574b21ff3fb86d01ba9b2167ca831f0b32347dd33545e6e3f2d763f16",
+          "reviewNote": "State appropriations and transportation allocations retained."
+        },
+        {
+          "number": 2,
+          "title": "Matching capital grants and transportation requirements",
+          "bodySha256": "20e2f000d4d82012dbd13cfd2011f8a6cea92bd11402523ae5350934250607cc",
+          "reviewNote": "Eighty/twenty shares and transportation-related capital-program condition."
+        },
+        {
+          "number": 3,
+          "title": "Use as local share for other grants",
+          "bodySha256": "0427aac8d9e3b715fc5ba2a132f59d61a8469653afdaedad57822707c2ea0249",
+          "reviewNote": "Applies to grants provided by this section."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Nonmatching expenses, eighty/twenty capital matching, transportation restriction, and other grant share checked. This is not independent legal review."
+    },
+    {
+      "id": "68.040:47981",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=68.040&bid=47981",
+      "sourceSha256": "8970f3a10784580760730de18642af5c03649b34ce7ac4be5ce5cfee2b0a1144",
+      "textSha256": "e8c86e4f81947f64fbe79965e924cf2bb3b813dd69f0960a1c871330e3cf8577",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Port revenue bonds and financing purposes",
+          "bodySha256": "64a7b3d5060a8231f057a0c5b79dbeeb5f1a7db2246d6c781a05954dcea5f2e9",
+          "reviewNote": "Approved authorities issue funds needed for purposes, reserves and incidental expenses."
+        },
+        {
+          "number": 2,
+          "title": "State liability and required bond statements",
+          "bodySha256": "3bedc4dc08fa0b4058211a3837bb83f5dc4af3d20fb58f9a40fe5a70f06f19b3",
+          "reviewNote": "Notes/bonds not state debt."
+        },
+        {
+          "number": 3,
+          "title": "Personal liability of officials issuing bonds",
+          "bodySha256": "ee4a818df83b4bf52984eb0a5cfc501a3ff766982f09d1136f88efc3f0618c66",
+          "reviewNote": "Limited to personal liability by reason of issuance."
+        },
+        {
+          "number": 4,
+          "title": "Permitted investors in port bonds",
+          "bodySha256": "c5d45118117b9191ebf6636309a5eb085e39e545d5e25956405273fc3b60ab2b",
+          "reviewNote": "Listed institutions, fiduciaries and otherwise authorized persons."
+        },
+        {
+          "number": 5,
+          "title": "Tax treatment and developer payment agreements",
+          "bodySha256": "1234d78e936416320a0bcb13fd850332f0d98b9a7ca6c53d89c7523e63335e11",
+          "reviewNote": "Includes tax exceptions, bond-linked leases and consultation/contracted payments to affected taxing authorities."
+        },
+        {
+          "number": 6,
+          "title": "Bond issuance powers and procedures",
+          "bodySha256": "85bb3fd4522a48f00b91a8b02445562043e2af4365e8e6ef051958ace88898b2",
+          "reviewNote": "Chapter260procedures apply insofar consistent; separate-entity annotation retained."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Revenue instruments, lack of state and personal liability, permitted investments, qualified tax exclusions/developer agreements, and Wagner annotation reviewed. This is not independent legal review."
+    },
+    {
+      "id": "68.055:3248",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=68.055&bid=3248",
+      "sourceSha256": "003d5ded18b2c8681f734a2ae7c5b3ecd215335a53d3898c565911f6eff5c271",
+      "textSha256": "aeea15c12b36b661df880ec47e5108f987ddd70169ecdd5f7deedea649187ef1",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Competitive bidding, notice and rejection",
+          "bodySha256": "27f82d30be024211bdc1b1ae4d3113379c6ea8749f8a189c913886ec9759d99c",
+          "reviewNote": "Lowest responsible bid rule subject to statutory exceptions."
+        },
+        {
+          "number": 2,
+          "title": "Alternative procurement and funding-source procedures",
+          "bodySha256": "e7f5131fe7fa1b1a338e9ce68d46a0998f1c58e096ca6c6003a416bb2c41b839",
+          "reviewNote": "Federal-regulation route may be used regardless of funding, with mandatory funder-procedure exception."
+        },
+        {
+          "number": 3,
+          "title": "Inflation adjustments for nonfederal small purchases",
+          "bodySha256": "5f410b1e492cd2d093e0b8ea79112f1b292162490319ca16ac11e0976b08a2a8",
+          "reviewNote": "Annual CPI adjustment commencing1995; does not alter federal-funded limits."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Competitive bidding and rejection read with alternative funding procedures and nonfederal inflation adjustment. This is not independent legal review."
+    },
+    {
+      "id": "68.060:3250",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=68.060&bid=3250",
+      "sourceSha256": "415f8a3f78088461744973dc0833751cca1ccf4177452e7890c46a6673afcbf2",
+      "textSha256": "36728a3ef9bd423b92ba6e89019bc49397cef913bb21adb48d09190aa21eed1d",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Applications to form regional port authorities",
+          "bodySha256": "374277c5245aa01ef49723b6ee0b388746a9444625db625f603d88272092773c",
+          "reviewNote": "Eligible and existing local entities may apply."
+        },
+        {
+          "number": 2,
+          "title": "Interlocal agreements and filing",
+          "bodySha256": "4909d15cc4a976c720dd3e830bbca0372ac9a13646870562133ba0cbfb5d57d4",
+          "reviewNote": "Contracts create districts administered regionally and must conform to chapter."
+        },
+        {
+          "number": 3,
+          "title": "Regional boundaries, commissioners and agreement approval",
+          "bodySha256": "138644f637c192e3899ae4d30d01914e847f7b6570da3ca003120c5a331e8616",
+          "reviewNote": "All participating legislative bodies approve before effectiveness."
+        },
+        {
+          "number": 4,
+          "title": "Noncontiguous regional port districts",
+          "bodySha256": "3d6032ec91e2e13b8a267be566005953b52916c9dc9550a8ed28a3919c1124c4",
+          "reviewNote": "Districts need not be adjacent or abutting."
+        },
+        {
+          "number": 5,
+          "title": "Joining an existing regional authority",
+          "bodySha256": "3857c86a07602d280d707738aea54198cabad77f594064632bc33ff96cbd64d1",
+          "reviewNote": "Local contract plus transportation approval."
+        },
+        {
+          "number": 6,
+          "title": "Dissolution, asset transfer and assumed obligations",
+          "bodySha256": "61b8977c3af9b3c48c3f5ff7605f43951fb9c95e6c55d0479049f0b4323dcbff",
+          "reviewNote": "Local dissolution upon approved annexation; regional body assumes contracts/obligations."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Application, agreements, approvals, noncontiguity, joining, dissolution, and assumption of contracts checked. This is not independent legal review."
+    },
+    {
+      "id": "68.075:49587",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=68.075&bid=49587",
+      "sourceSha256": "2996c20c807ee3d4391eb29d3d6b1c4a4133659c3560779fd48d9cebece73c43",
+      "textSha256": "fc3f46df47e11463f3089276a340a4d08b17849f62a10a156469172a3db76d18",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Name of the AIM zones act",
+          "bodySha256": "b41c66a792e65804203718b5591238d56552a593e002eb07bf991dec49f38889",
+          "reviewNote": "Formal citation."
+        },
+        {
+          "number": 2,
+          "title": "AIM zone, wage and employment definitions",
+          "bodySha256": "66c3f2be0057ba9922a4ff90c6a9ae2b8ae1539f104b3227d813e816ffa43979",
+          "reviewNote": "Full new-job offset, location/work-control and wage qualifications read."
+        },
+        {
+          "number": 3,
+          "title": "Establishment and alteration of AIM zones",
+          "bodySha256": "dc4c300c0e09ab1a12a3bc94cade1b2dbfff4980a1ca9e7f4504347b08f18794",
+          "reviewNote": "Area must be within jurisdiction, ownership or control."
+        },
+        {
+          "number": 4,
+          "title": "New-job withholding allocation and permitted uses",
+          "bodySha256": "3e5a03087abf0f7947278414b9e1dcb9c30b0070871e081b938b05ffff55cd64",
+          "reviewNote": "Fifty-percent withholding after development starts; includes expenses and bonds."
+        },
+        {
+          "number": 5,
+          "title": "AIM zone fund administration and balances",
+          "bodySha256": "66e16c3d138ca3fc47ac0bc572b63621521532e7b336dd85990adb0fc19ea2a2",
+          "reviewNote": "Distributions less capped appropriated administrative share, nonlapse and investment."
+        },
+        {
+          "number": 6,
+          "title": "Project approval and annual spending budgets",
+          "bodySha256": "5cfb7496a4c0ce3caf55d999e3ec4dfcd9c2b01e4b6dc74758532c4af8ac8c6b",
+          "reviewNote": "Authority approval/disbursement and budget to economic-development department."
+        },
+        {
+          "number": 7,
+          "title": "Limits on new zones and debt financing",
+          "bodySha256": "67704fb895e79d9fd4416a2276759d938d7570981559bdd04d1177f14a6e3dab",
+          "reviewNote": "No new zones or incurred/reauthorized debts after2030date; existing zones tied to debt retirement."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Definitions, qualifying new jobs, withholding allocation, fund cap, project budgets, and August 2030 zone/debt limits reviewed; existing-zone continuation not treated as automatic termination. This is not independent legal review."
+    },
+    {
+      "id": "68.080:57504",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=68.080&bid=57504",
+      "sourceSha256": "e42f87a0e3c58f6557aee26ad79818f71972577b4c8d88f2e49b52ad2029bd83",
+      "textSha256": "5113751264442f85f9b008d68e7f5af639b9473c1e92a8c59ca4205e7de2469f",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Creation and appropriated revenues of the trust fund",
+          "bodySha256": "16b46780052dff5d88e535b6ee0cbb792a70215b270f4875ff29118b2455115a",
+          "reviewNote": "State treasury fund created."
+        },
+        {
+          "number": 2,
+          "title": "Gifts, grants and other contributions",
+          "bodySha256": "ecbb994d76bd3d909adef18341bcdac362ce3601afc49a3b3547faec957e47a5",
+          "reviewNote": "Additional public/private sources allowed."
+        },
+        {
+          "number": 3,
+          "title": "Fund retention and investment earnings",
+          "bodySha256": "b2f9c71b774bab2a6c27e85807b0fa0cc4d7d91cf72cd125abaff5994c3fb2aa",
+          "reviewNote": "Revolving trust nonlapse and retained interest."
+        },
+        {
+          "number": 4,
+          "title": "Project eligibility and appropriated withdrawals",
+          "bodySha256": "41f69dc2b4ada43bd0dadbdf86720becff9903b691495e4faccf476dd63f440f",
+          "reviewNote": "All five eligibility conditions include land/location,80percent cap, state plan and two-year completion."
+        },
+        {
+          "number": 5,
+          "title": "Use as local share for other grants",
+          "bodySha256": "323acdfd01cda78cc5705ac045a8ac9457370cf139d956ca158edcb9feb73d7b",
+          "reviewNote": "Appropriations may count toward other programs."
+        },
+        {
+          "number": 6,
+          "title": "Termination and disposition of remaining funds",
+          "bodySha256": "a547653890907132762834dddadf591a246ef654e6b7ff4b045ec9f7debe491a",
+          "reviewNote": "2033termination pending warrants and later dissolution with unencumbered transfer; notice retained."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Project land/river requirements, eighty-percent ceiling, two-year completion, appropriation, and distinct August/December 2033 termination steps checked. This is not independent legal review."
+    },
+    {
+      "id": "68.115:3256",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=68.115&bid=3256",
+      "sourceSha256": "3217fa43cbed01dffae9cc1aaa6f561dd3234bc1b5a570c9928ffd0746ab8e80",
+      "textSha256": "6ba4427733b2b9fd4f59167750450a360d17cf1905b9b0703d34eaa678b6a192",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Joint exercise of powers with the commission",
+          "bodySha256": "d703b0b02a7ceae4527aab27fad98e6587435539f70e3ec1b2ae8982eebf5ef6",
+          "reviewNote": "Limited by delegated powers under cited framework."
+        },
+        {
+          "number": 2,
+          "title": "Letters of understanding with public agencies",
+          "bodySha256": "8381cadf1f49870f4715d34538e14ec7313caac22bfae85de003fa8ef17234fc",
+          "reviewNote": "To advance commission purposes."
+        },
+        {
+          "number": 3,
+          "title": "Voluntary agreements governing local port operations",
+          "bodySha256": "f051eea4b87329e8624a383c28d4c66030ff6e59418d0c013e8f214fbc0e4a37",
+          "reviewNote": "Commission control depends on voluntary agreement."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Joint powers and letters distinguished from voluntary control agreements; original-rolls word note preserved. This is not independent legal review."
+    },
+    {
+      "id": "68.210:3260",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=68.210&bid=3260",
+      "sourceSha256": "0ee7197e79c11669e5678dbd4b86f92ddbab141b0d35a6984c7bb48bd83abbbb",
+      "textSha256": "120ce1f0ce5c914b6a5a5bb129bbfa87c5fb4e66f93696bd52d4a31cbfd58193",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "District establishment and substantial-change procedures",
+          "bodySha256": "5d865a77f3a4bf066754251418cc423b02fb78cfb614d84065ca1b7d5cf23115",
+          "reviewNote": "Resolution, hearing, circuit filing and conditional transportation filing checked."
+        },
+        {
+          "number": 2,
+          "title": "Owner consent and required petition contents",
+          "bodySha256": "71ff0eaf84cab5a19db5efcff6dc2b81179790b7bb83bacf2c790c856356cb41",
+          "reviewNote": "Eight petition elements, contiguity rule, project/tax details and sole-authority ownership consent exception."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Formation/substantial change steps and all petition details reviewed; sole-owner consent exception retained. This is not independent legal review."
+    },
+    {
+      "id": "68.215:3261",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=68.215&bid=3261",
+      "sourceSha256": "aea7659cae54eaa1f05603012742a146a8e491cebd1fb711b1aea1904642cf79",
+      "textSha256": "d56951bebef6592ebf49997500fba320f237019e66d57686fb471c3ee830efda",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Public hearing on projects, taxes and district formation",
+          "bodySha256": "2fcb94ae32554c7738c3f43d7328401352370f2a576609013c623c26c9e428a7",
+          "reviewNote": "Within60days before court submission; protests and endorsements heard."
+        },
+        {
+          "number": 2,
+          "title": "Continuing a hearing by recorded motion",
+          "bodySha256": "a6ee7efa1d3f8150c0238cfde74feb10100794b2ca848f6785d81f33ac61e341",
+          "reviewNote": "No further notice beyond specified minutes motion."
+        },
+        {
+          "number": 3,
+          "title": "Publication and mailing of hearing notices",
+          "bodySha256": "61c60a3dfbe1bb4c20cdde245d12dbab3b9057e9a144c9785c099972b3652cef",
+          "reviewNote": "Separate notice windows, required contents and sole-owner mailing exception."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Hearing timing, continuance, publication versus mailing windows, and sole-owner mailing exception checked. This is not independent legal review."
+    },
+    {
+      "id": "68.220:3262",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=68.220&bid=3262",
+      "sourceSha256": "94bba09901922d93626397bf6a790bec457a9b6e6e98da850dec54f4bb3c80ee",
+      "textSha256": "715d4f7a3ab1f9051ba64b7ff434611d620ed8eed5b8f861355bc129ee3b780a",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Petition service, responses and resident participation",
+          "bodySha256": "15cda7d797ee0d7d9d3882c9ae020c3bed98e72cd7b62c2acb29c59de505fcb6",
+          "reviewNote": "Response timing, legal objections, declaratory relief and nonrespondent resident/taxpayer participation covered."
+        },
+        {
+          "number": 2,
+          "title": "Court review and certification of tax questions",
+          "bodySha256": "5bd67c7bc671e6c0eac19364271c598433f4a88756e30fa72cd43d73063f9f69",
+          "reviewNote": "No jury; different defects/funding rulings and optional no-hearing certification absent objections."
+        },
+        {
+          "number": 3,
+          "title": "Appeals from district-formation decisions",
+          "bodySha256": "87168e51dd4e090f91517c33b9d9a3265f5539fc6f50319252404f9bee125470",
+          "reviewNote": "Parties filing answer/petition may appeal as other appeals."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Thirty-day service/answer periods, nonrespondent participation, court grounds, uncontested certification, and appeal rights reviewed. This is not independent legal review."
+    },
+    {
+      "id": "68.230:3264",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=68.230&bid=3264",
+      "sourceSha256": "a59f503d2ca9eecc4e13fde7ac675eb85b591faa5ad70dd3dd00e6e3d86a2cc2",
+      "textSha256": "7bd5e93fb9839a26e5134706d9b209a2cd3df68aac6c16154b371abeb16d8df4",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "District termination by resolution",
+          "bodySha256": "3657839230090e14f7ade7e082b2300f7137793e6a88150a5311328847d248ee",
+          "reviewNote": "Requires no outstanding district-revenue-secured obligations and filing."
+        },
+        {
+          "number": 2,
+          "title": "Termination hearing and notice",
+          "bodySha256": "3081c999cf021464fe528daf76fa76f6ad772c3f3cc109ec6fbd55c58a12af46",
+          "reviewNote": "Notice contents and68.215procedure."
+        },
+        {
+          "number": 3,
+          "title": "Dissolution of authority and district termination",
+          "bodySha256": "0319485b9128701db6f39a00ac8c298ca43ccbb7b7743243a84831323913420f",
+          "reviewNote": "Automatic termination/tax repeal excludes consolidation into regional authority."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Debt restriction, notice, resolution, and automatic termination read with regional-consolidation exception. This is not independent legal review."
+    },
+    {
+      "id": "68.235:3265",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=68.235&bid=3265",
+      "sourceSha256": "014e8b96dbc61c1f7c534c64e31303aeac6f56dcedbfd3a47dbc969d73e8f1b0",
+      "textSha256": "300669fa481ba89da663f40971176d4ca353089b36263081e393f409ade1efcf",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Real-property tax authorization, approval and rate changes",
+          "bodySha256": "4cdb2da06a712768a3c6de051447c4095eaec374e59d2dbbfb79d87899b527b3",
+          "reviewNote": "Court certification, voter approval, sole-owner exception, vote outcome and ceiling-based adjustments."
+        },
+        {
+          "number": 2,
+          "title": "Real-property tax ballot question",
+          "bodySha256": "2dc22122d6af988e833810eadff20b1466a0786b45d666003e68527dadcf7549",
+          "reviewNote": "Prescribed rate, duration and project-purpose question."
+        },
+        {
+          "number": 3,
+          "title": "Early repeal or amendment of the tax",
+          "bodySha256": "0f73b73650c8334369b70c4b335ff54774b756563c544f44cba2e0e8edf068d7",
+          "reviewNote": "Cannot impair repayment of project obligations."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Real-property tax approval and sole-owner exception, ceiling adjustments, ballot, and debt-protecting repeal limits checked. This is not independent legal review."
+    },
+    {
+      "id": "68.240:3266",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=68.240&bid=3266",
+      "sourceSha256": "69d91069d9d6a1f311f85521c6c558f35f8f3d3a8def1b43e2ac39e776c9037b",
+      "textSha256": "2f2e88d8f9f5c9b1de5396b780e732d67ee85c1962af5f33cb7eea2135cc66dd",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Collection of district real-property taxes",
+          "bodySha256": "c26ba70ee8c9cc0cebcd2e1c56afe25d9ba93ca718e0b562902e31fee099be1b",
+          "reviewNote": "County or city-not-within-county collector."
+        },
+        {
+          "number": 2,
+          "title": "Remittance, collection costs and project accounts",
+          "bodySha256": "4e1eb9fe67c7101b85dac2d335a706e6c423857447c434e4e75eedab3383b88c",
+          "reviewNote": "Monthly transfer, capped actual costs, receipts, earmarking and settlement."
+        },
+        {
+          "number": 3,
+          "title": "Ending property taxes after project obligations",
+          "bodySha256": "3a4b5a7becf19ac9b34dfea044b0de81edb1f87264a29352412cdd58eca6db63",
+          "reviewNote": "Outstanding security/ongoing qualified expenses exception."
+        },
+        {
+          "number": 4,
+          "title": "Use and refund of remaining project funds",
+          "bodySha256": "e529fd32efac06d875608c1d980f3d5b632dd2271ba5b695582d7e9c56dbaba1",
+          "reviewNote": "Restricted purpose continues; excess not needed for obligations/expenses refunded pro rata."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Collector/remittance steps, outstanding obligations/ongoing-expense exceptions, and pro-rata property-owner refund distinguished from sales-tax residual treatment. This is not independent legal review."
+    },
+    {
+      "id": "68.245:3267",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=68.245&bid=3267",
+      "sourceSha256": "99a82c6154041b06f221f82d63cf4c671dac679af21cb5264cee032b5f9d38d6",
+      "textSha256": "3b3096e9abb707f4b2adcee73f29cecdb5d08d153992d57fae81bc9e13b6a67c",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Sales and use tax scope, rate and approval",
+          "bodySha256": "da992af2370f832e3dcf162c4898e6f83852aabefae03914ff564e1fd00fe167",
+          "reviewNote": "Retail exclusions, rate increments/cap, court/voter process and sole-owner exception read."
+        },
+        {
+          "number": 2,
+          "title": "Sales and use tax ballot question",
+          "bodySha256": "2c5b8e2ec26b9866188574d7168fe73d1f2ebb0633877bcae359390160eba0b2",
+          "reviewNote": "Prescribed rate/duration and project purpose."
+        },
+        {
+          "number": 3,
+          "title": "Revenue notice and tax effective date",
+          "bodySha256": "4fa615b9a460b1b5c845eb2e2785923f38428a1e17044dfc46323e7e19e4e51d",
+          "reviewNote": "Notice after approval; effective second calendar quarter following director notice."
+        },
+        {
+          "number": 4,
+          "title": "State collection of district taxes",
+          "bodySha256": "7a760e27cba9bd9dbf967a040cd3e532631be80be1d614206bf31f24f68e60c8",
+          "reviewNote": "Cross-reference32.087retained."
+        },
+        {
+          "number": 5,
+          "title": "Deposit of project-designated tax revenues",
+          "bodySha256": "a44ed459bf9118e2f3e6316e931238c1880a6f070cd30d19728225f9ec9d82f3",
+          "reviewNote": "Specific projects use trust fund; otherwise treasury."
+        },
+        {
+          "number": 6,
+          "title": "Retailer collection and purchaser liability",
+          "bodySha256": "0faa4f78e713ce16fe46e2a9536921b856fbb32eb5f8af8e95e88d711db3f063",
+          "reviewNote": "Tax added to price and recoverable purchase debt."
+        },
+        {
+          "number": 7,
+          "title": "Applicable sales-tax penalties",
+          "bodySha256": "e690d7f727fee2b9223c597d1a6ab28c726d261a9b14b70a92c9ebb0e76625d6",
+          "reviewNote": "Cross-referenced penalties apply."
+        },
+        {
+          "number": 8,
+          "title": "Ending taxes after project obligations",
+          "bodySha256": "dfdeff8dcd873abad8b369b34a4c0631687c5da4465bca5bf120384ff2ecbf3c",
+          "reviewNote": "Outstanding obligations and ongoing qualified expenses exception."
+        },
+        {
+          "number": 9,
+          "title": "Remaining funds after tax expiration",
+          "bodySha256": "185d7273f7155d20c00c03d02784e3c9b09d1ede8a182aee42ad7a848f9d5bef",
+          "reviewNote": "Designated uses retained with investment and surplus-purpose provisions."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: All nine sales-tax provisions reviewed, including excluded sales, sole-owner approval exception, delayed effective date, retailers, and residual-fund uses. This is not independent legal review."
+    },
+    {
+      "id": "68.250:3268",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=68.250&bid=3268",
+      "sourceSha256": "24c03ff4d6f98e96e98f46731704c6438b09b7a242f28a7db3f4fb520716d654",
+      "textSha256": "df1a2c6933c19bc5d7c183cb9c0e20606edcc0c908df80e7c56aa8e832924e56",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Election framework and applicable exceptions",
+          "bodySha256": "fdf5bbcc0cb92314884faab15e515cb23cc9b277dd409579664d7a8259be204e",
+          "reviewNote": "Chapter115exception and whole-section sole-owner exception preserved."
+        },
+        {
+          "number": 2,
+          "title": "Tax resolution notice, repeal and amendment",
+          "bodySha256": "56fbba867de199b79b1771f6216b0dfe2ab9a46ff23aeb4af91a92e552d3ab84",
+          "reviewNote": "Changes allowed before ballots mailed with notice."
+        },
+        {
+          "number": 3,
+          "title": "Election timing, notices, ballots and affidavits",
+          "bodySha256": "031c520f45d0749efa44ca9a3ac7bb39a09586776f5320eabe25596e205cf6cb",
+          "reviewNote": "All notice contents, timing, ownership signatures and affidavit forms reviewed."
+        },
+        {
+          "number": 4,
+          "title": "Votes and authorized signatures",
+          "bodySha256": "c3bb7c9a9037d6ca6a2d72ae3b45dea7c63c035bc095add4d7cbad688a64514d",
+          "reviewNote": "One vote per qualified voter."
+        },
+        {
+          "number": 5,
+          "title": "Ballot returns, canvassing and election contests",
+          "bodySha256": "e2afbe3f5910934ce426e0c94b3e01a2d16debdf0c1f132445e6c01711126853",
+          "reviewNote": "Return/postmark rule, judges, certification and voter contest procedure."
+        },
+        {
+          "number": 6,
+          "title": "Recording and filing certified election results",
+          "bodySha256": "fff4daab9cb31db89cf76319d9ccffc534e72600be0818354cf2b3fb1e4bc3f8",
+          "reviewNote": "Two certified copies to port authority."
+        },
+        {
+          "number": 7,
+          "title": "Reimbursement of election costs",
+          "bodySha256": "2821da0d9e60de705d50fe89a8bbd4bea054cb4e0bff4722b96354a0a7468284",
+          "reviewNote": "Port authority reimburses election authority."
+        },
+        {
+          "number": 8,
+          "title": "Combining tax questions in one election",
+          "bodySha256": "e9d3fbbc345281f05f9fbd3cbe74fb18ba0cb9289c6390a284c2203ebe4dec50",
+          "reviewNote": "Both real-property and sales/use questions permitted."
+        },
+        {
+          "number": 9,
+          "title": "Exception for sole port-authority land ownership",
+          "bodySha256": "0cec9b728cdc67375c933d2bd5df026e72389f81fce806ca3d305ff7782acc85",
+          "reviewNote": "Section inapplicable when authority owns all district real property."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: All election timing, affidavits and signatures, return/postmark, contest, filing, and cost provisions read with sole-owner exception. This is not independent legal review."
+    },
+    {
+      "id": "68.260:3271",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=68.260&bid=3271",
+      "sourceSha256": "77c2794b751c976e2972733c13ca46155222e6dc45bc8cce27e98ca7e5744001",
+      "textSha256": "8ab4cd854bf5f71192f223793b24bdc7b07f930b3e99226a9d022f76973faa32",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorities covered by district reporting requirements",
+          "bodySha256": "dbf768031fbc370bdb09cb04a081493610ad5ce94c754b79515e6637ea02a01e",
+          "reviewNote": "Only authorities that formed district."
+        },
+        {
+          "number": 2,
+          "title": "Annual district activity and financial report",
+          "bodySha256": "0dda1303b1622bb19c80a3c3619d7ec0f296c43a5f67c8b7a6a93dd8a5ec2926",
+          "reviewNote": "Within120days, services/revenues/expenditures/resolutions and local record retention."
+        },
+        {
+          "number": 3,
+          "title": "Annual report to the state auditor",
+          "bodySha256": "9c2117c48e930884f0ce7e243cbba2b760f369e231586a45e7836d4847a401dc",
+          "reviewNote": "Triggered by voter tax approval and governed by105.145."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: District-forming authority scope, municipal/county report deadline and retention, and separate auditor report checked. This is not independent legal review."
+    }
+  ]
+}

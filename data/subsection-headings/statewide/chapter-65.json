@@ -1,0 +1,416 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "65.030:2571",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=65.030&bid=2571",
+      "sourceSha256": "72ec9d4aa30d276e67ccb7bb78db903ddd0bd59acbd7b14b784a5081c011d4a3",
+      "textSha256": "5326421aa6ee81651ef87d54fa05cab315172e12fb0c3ec4f0da9998542618cb",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Petition and election for township organization",
+          "bodySha256": "4a8b641fc1562af04a3ba191f1f7f6e6ac4fb7bc018933e07120ddd9487587d4",
+          "reviewNote": "Covers third/fourth-class counties, ten-percent petition, filing timing, election procedures and notice."
+        },
+        {
+          "number": 2,
+          "title": "Township organization adoption ballot",
+          "bodySha256": "37df4049953b7ca228ed2bea30b4958481fdc0768971d5943a70ef711bc3f5ca",
+          "reviewNote": "Describes ballot question without implying adoption."
+        },
+        {
+          "number": 3,
+          "title": "Approval and start of township organization",
+          "bodySha256": "5bf762bb34d2681475f6bcd604880c3d07df40821ab7ff4002a7af40d07d4f42",
+          "reviewNote": "Majority approval followed by application of township law on specified March date."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked ten-percent petition calculation, sixty-day election scheduling, ballot and last-Tuesday-in-March commencement."
+    },
+    {
+      "id": "65.110:2573",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=65.110&bid=2573",
+      "sourceSha256": "aebb84ff2c5a281bf96010f2e1410288b486b28ac688862062a8dd1ffa0fe1f9",
+      "textSha256": "c67d39fdb58df20d188a0243becc32768f3c3b4da35ed4eda8cfdbe8b00a0ded",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elected township offices",
+          "bodySha256": "088694365c8bbe265d25bb54fcdd2d11792d41817e46d6bfcc0496999ad29eb6",
+          "reviewNote": "Includes trustee as ex officio treasurer, clerk and two board members."
+        },
+        {
+          "number": 2,
+          "title": "Transfer of township assessment records",
+          "bodySha256": "7f4e54dd9eb98ad85511bf0e0a7fba218b8662600638305c68279ac0149f4d59",
+          "reviewNote": "Transfer follows elected county assessor assuming office."
+        },
+        {
+          "number": 3,
+          "title": "Transition to the collector-treasurer office",
+          "bodySha256": "e04355e639202c4abdec78fac2394239ad3ac829406a098fc491e54260ae1a6d",
+          "reviewNote": "Covers March1,2007 transition, records, continued prior duties and transferred powers; historical date retained."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked elected township offices, assessment-record transfer and dated March 1, 2007 collector-treasurer transition."
+    },
+    {
+      "id": "65.500:2611",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=65.500&bid=2611",
+      "sourceSha256": "b02216aa3a2d27c6990dfd1e1e392ba853b951835101bd3263af041291374cc7",
+      "textSha256": "cb97eaf750353183dc683ddb7a208ec20937e76420b343a2bdb44e23e835c0ab",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Accounts of township receipts and disbursements",
+          "bodySha256": "944b8260fbf249053e8118120d57c263ca7b1347ab15e3de15f210f0225412ed",
+          "reviewNote": "Source uses pronoun he; neutral label avoids guessing a new actor from this excerpt."
+        },
+        {
+          "number": 2,
+          "title": "School funds, reporting and transfer to successors",
+          "bodySha256": "960e7b09dab9b1bbd2901f638d4b2bab8f40651e57c98c4c2f6c679eae1612c3",
+          "reviewNote": "Covers annual settlement, county funds, warrants by fund, detailed report and end-of-term turnover."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked source/amount/fund accounts, school settlements and disbursement restrictions, reporting and successor delivery."
+    },
+    {
+      "id": "65.520:2613",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=65.520&bid=2613",
+      "sourceSha256": "ba07324ccf6237e146e5a582590be3a2f04c138b18d4146ab405eff3a6a80656",
+      "textSha256": "b2bbffced458caf95d4233f2ff97848825efcd13ac75770f634481c0ef6dbefd",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Treasurer’s annual school-fund accounting",
+          "bodySha256": "b1146708e45f74014aad601b710f06cdc64b987bd87d5423ca59dc13d0a8959e",
+          "reviewNote": "Includes receipts and school/building expenditures with July timing."
+        },
+        {
+          "number": 2,
+          "title": "Board review and certification of vouchers",
+          "bodySha256": "e69bb35f9dbf2584a7b02ccf51be2b8a1f1b70fc2686e95c20614920653f10c5",
+          "reviewNote": "Certification follows satisfactory examination and is prima facie discharge for voucher funds."
+        },
+        {
+          "number": 3,
+          "title": "Certified settlement sent to county clerk",
+          "bodySha256": "9ba889a9951372f7e787d973c1a17bfa5de3e3fbce6c6c19cc91c8b35ba5155b",
+          "reviewNote": "Includes July15deadline and use in annual state-superintendent settlement."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked July school-fund accounting, board voucher certification and county-clerk certified settlement."
+    },
+    {
+      "id": "65.550:2616",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=65.550&bid=2616",
+      "sourceSha256": "2068a63a172c793ffdba17cfa2caa67ce29e5a6f4e848f47eb6f5fe8af10a5c8",
+      "textSha256": "ef271c563134e86f1f6aa9170f06b4902a7d591fa014fb46a65ae23561ab650a",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Residents’ meeting after failure to organize",
+          "bodySha256": "6399c72a468787b192d62c94b88f6d2b59aa239b86e1121d1f031d153eff44b5",
+          "reviewNote": "Twelve residents may call meeting with five posted notices and ten-day notice."
+        },
+        {
+          "number": 2,
+          "title": "County appointment of township officers",
+          "bodySha256": "502db3e53d3e68be79d235d478a6b2e8f0fc4542790153bd8714f524fca1cefe",
+          "reviewNote": "Appointment follows missing notice for thirty days and resident affidavit; covers tenure and responsibilities."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked twelve-resident meeting procedure, notice, thirty-day fallback and county appointment upon affidavit."
+    },
+    {
+      "id": "65.600:2621",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=65.600&bid=2621",
+      "sourceSha256": "665163fdaa2ad6c2e25b57f7d522b1dbcd6de7b55c7517e3b419a9ae04f13337",
+      "textSha256": "1d0da3cea7bee5f0ec583c0a0add11a0c61cd2d4de77eae83be99543dc32dd1f",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Collector tenure during township organization transition",
+          "bodySha256": "eff1933d06a569f677477fbbe708cf0c5ab4bad8cfa3b7ff28b9cf5783170c98",
+          "reviewNote": "Subsection5 states this section effective prior to August28,2005; title avoids present entitlement."
+        },
+        {
+          "number": 2,
+          "title": "Assessment records by township",
+          "bodySha256": "9f4c49b9c3c2506c75d2505cdc8ffc7c8114b888304ee067dd08ecea121a740a",
+          "reviewNote": "Read with subsection5 historical applicability statement."
+        },
+        {
+          "number": 3,
+          "title": "Township assessment lists for the collector",
+          "bodySha256": "df3a31310a4a51faf31ecbef90323ed0be1c10f1dd7add89907f537c42c03eda",
+          "reviewNote": "Read with subsection5 historical applicability statement."
+        },
+        {
+          "number": 4,
+          "title": "Payment of collected township funds",
+          "bodySha256": "08b262ce43779b4e72310d9c4159138af09e7c885716e6799312c986f6be5c32",
+          "reviewNote": "Includes deduction of commissions and cross-referenced liability; historical applicability preserved."
+        },
+        {
+          "number": 5,
+          "title": "Initial township collectors and historical applicability",
+          "bodySha256": "8e62951dc65d4f6f647cf3679ed71b760dd7e423437be5fca659b2a6ee9046b1",
+          "reviewNote": "Covers election, term timing and whole-section pre-August28,2005 limitation."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked collector transition, assessment lists, township remittances and first collectors. Subsection 5 limits section effectiveness to prior to August 28, 2005; headings describe historical provisions, not present authority."
+    },
+    {
+      "id": "65.610:35560",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=65.610&bid=35560",
+      "sourceSha256": "47e24d798fdc5f1a405a7b4dc0e19c3d050dec9e24ebe9630c6e9797552db058",
+      "textSha256": "e854e52180ccca0d184ae163ed04d7afe43964fae37b4cbce5c72607d4dbce03",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Abolition petition, election and road tax",
+          "bodySha256": "3461ea490ba9883218f15bc01f6a9525560a43de95aa72d81ef8448bf0b51834",
+          "reviewNote": "Whole subsection includes petition, timing, notices, ballot with countywide road/bridge levy, majority vote and effects subject to65.620."
+        },
+        {
+          "number": 2,
+          "title": "Interval between township organization elections",
+          "bodySha256": "b72a3840d23f6a1babeaa51bb3d231b09ed8f5d1a3658b07a143383dd7da2207",
+          "reviewNote": "Two-year restriction follows an election under this section and covers adoption or abolition proposals."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked abolition petition, road-and-bridge tax ballot, six-month scheduling distinctions, notices, immediate effects and two-year election spacing."
+    },
+    {
+      "id": "65.620:35561",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=65.620&bid=35561",
+      "sourceSha256": "1550c57a8b73a245ace7bcc9d9145f79281f1ba2554007df78ec814407172e03",
+      "textSha256": "411231cb401a367f26a4ea64f20457a47b91e28332bb9b0597973a513d12d666",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "County collector and treasurer after abolition",
+          "bodySha256": "2b9d9f4ab2c0605f85cea01ae10d4f1aa0785dc891b9d6a9a63eefdd0a272145",
+          "reviewNote": "Covers settlement, interim duties, election and appointment arrangements."
+        },
+        {
+          "number": 2,
+          "title": "Transfer of township property and liabilities",
+          "bodySha256": "c06a08d7dd3ed924ec5cda3d7f1e128f51e7e6df13026a7e74db610e4384b3d4",
+          "reviewNote": "Property vests in county and county assumes outstanding obligations."
+        },
+        {
+          "number": 3,
+          "title": "Township officers’ terms and record transfers",
+          "bodySha256": "db58eab9308221897201221e32a575039a355f721faa429f6bea63a985052cbf",
+          "reviewNote": "Terms expire; trustee settlement and delivery to appropriate county officers follow."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked interim collector/treasurer transitions, county succession to property/liabilities and expiration/record delivery by township officers."
+    },
+    {
+      "id": "65.657:2626",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=65.657&bid=2626",
+      "sourceSha256": "a0830748bcfd0bb53a1c5f49ce8bb786f803d6bf128135f91f4a0b1e3000b877",
+      "textSha256": "f504fd935ddb483df63114c7f0bccf8c8cb360a2d5fb401db64c88fff1921bb6",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Submitting township planning or zoning to voters",
+          "bodySha256": "6b45e2126808648be382f6e60eb6a761bf01710291e5604fd4b85505599dd6c9",
+          "reviewNote": "Submission precedes adopting plan or creating commission under cited sections."
+        },
+        {
+          "number": 2,
+          "title": "Township planning or zoning ballot",
+          "bodySha256": "9da8d5fc8afeae8c83843466e41ac7ea44a9de1d7926e0a2d249eaa05f5bf1c6",
+          "reviewNote": "Prescribed adoption question."
+        },
+        {
+          "number": 3,
+          "title": "Proceeding after voter approval",
+          "bodySha256": "0ab6ab8a2dfcfaaf2260ed802acffea8597b2f8cc9f45e90175acbb50509348a",
+          "reviewNote": "Majority approval permits proceeding under statutory framework."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked required township voter submission, ballot and majority-approval authority."
+    },
+    {
+      "id": "65.690:2639",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=65.690&bid=2639",
+      "sourceSha256": "444ad510e5d58c89b0bdea7e180945269ce356b7378a4d7031e89cff499a65fa",
+      "textSha256": "b2befabd259b533f4ea5958a188f66a54007abee0ce15d589f694e89d163a13a",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Zoning adjustment board, appeals and variances",
+          "bodySha256": "b0fa0c1bdae69522650d013a3bd0da3a9b521565100c51bf5041882bfa61031e",
+          "reviewNote": "Includes membership, terms, removal, limited expense reimbursement, public meetings, appeal timing, stays and hardship variance criteria."
+        },
+        {
+          "number": 2,
+          "title": "Adjustment decisions and further review",
+          "bodySha256": "838fe5cbe493a926baa493315c343f2ce0acab88e144b22304882b1d4d7b3969",
+          "reviewNote": "Covers adjustment powers, township-board review, circuit-court certiorari and appellate review."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked freeholder board composition, removal, expense caps, public records, appeals/stays and hardship safeguards; township-board review precedes circuit and appellate review. Awkward source stay wording not repaired."
+    },
+    {
+      "id": "65.697:2642",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=65.697&bid=2642",
+      "sourceSha256": "59d5e239d8e7fc11c221c3ba8b9994441256091b3ef62396c15ccface6e77125",
+      "textSha256": "6aa67f476dca69fad836485d6f5bcc646528cc07acf3640a40309f8c4da0db7f",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Township planning and zoning violations",
+          "bodySha256": "5f2631167ee2c0f3c777bd4fb9e45315a67079331b48236924e198700f0b0dc1",
+          "reviewNote": "Covers listed property uses and actions within affected unincorporated areas."
+        },
+        {
+          "number": 2,
+          "title": "Court proceedings to address violations",
+          "bodySha256": "a036964c3972861dad9d4a50ddcd43dc7625c1f4ab51cf9d1ce09bd8f5ef2966",
+          "reviewNote": "Covers specified officials and affected property owners seeking circuit-court remedies."
+        },
+        {
+          "number": 3,
+          "title": "Inspections and written correction orders",
+          "bodySha256": "2e638be2d29b6617f674faeebff405e48f386b15513662a6f38ed7eb2a9f14ef",
+          "reviewNote": "Source cross-reference65.662 retained without harmonizing with subsection2 reference65.665."
+        },
+        {
+          "number": 4,
+          "title": "Failure to comply with correction orders",
+          "bodySha256": "4cc738b8af203e65f9c120b609e3ab5fc4e4093d9814709f9b7ee0bc02031f45",
+          "reviewNote": "Includes ten-day compliance period and continued violations; source notes added article a."
+        },
+        {
+          "number": 5,
+          "title": "Responsibility for participating in violations",
+          "bodySha256": "f3fe5535078918b5c42e3fcfd131ede1efb74d3ad0e51b8af79d8e49cf29e344",
+          "reviewNote": "Covers listed owners, occupants, agents, builders and other knowing participants."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked township zoning offenses, affected-owner remedies, inspections, ten-day order compliance and knowing participation. Distinct cross-references 65.665/65.662 and original-roll missing-word note retained."
+    },
+    {
+      "id": "65.700:2643",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=65.700&bid=2643",
+      "sourceSha256": "5e8c09902c399dfe4a3e42d83dd1a39e469619f9cc67ed1e954b6204ea76184f",
+      "textSha256": "d2d7852c97792189204fc54c8a3ef705d8acb08ec25334b261fabe45d2625a8e",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Petition to terminate township planning or zoning",
+          "bodySha256": "34a229dc0186b2e57c7317ce40e42e94583aadc9bcd875a94e7437fc76121a26",
+          "reviewNote": "Five-percent threshold based on preceding gubernatorial vote."
+        },
+        {
+          "number": 2,
+          "title": "Township program termination ballot",
+          "bodySha256": "3f49746449bca091bc0dd85dc0017f7cac8b201299a637dd64104fea9eaa1198",
+          "reviewNote": "Prescribed question varies with adopted program."
+        },
+        {
+          "number": 3,
+          "title": "Effects of voter-approved termination",
+          "bodySha256": "3a76af9dd3699cd3a83575eb95f4847e9d31516147564e27d16ec2fb0c100261",
+          "reviewNote": "Majority vote leads to termination, commission discharge and invalidation of program enactments."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked five-percent termination petition, question, commission discharge and invalidation of program regulations."
+    },
+    {
+      "id": "65.710:51120",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=65.710&bid=51120",
+      "sourceSha256": "966fc264df24d39ebf9ef525af94a89347e900ff55fae4ea9d8b48179b5f8af9",
+      "textSha256": "1605b07702810e00a882dd61e587471f38148b7645dda40da34e0783c877214f",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Meaning of home-based work",
+          "bodySha256": "5ac1eed1867408288f7355eab5b8a2964210bb519da7c05190518b80e18ffa97",
+          "reviewNote": "Definition includes lawful resident activity incidental to residential use and neighborhood-character conditions."
+        },
+        {
+          "number": 2,
+          "title": "Limits on home-work zoning restrictions",
+          "bodySha256": "34c3c0e040704dc7eb4f4431e231f0cedc7ceb0a790b2019ba0bb53b58c5961b",
+          "reviewNote": "Lists mail/phone sales, appointments, structures, hours and equipment or storage without external effects."
+        },
+        {
+          "number": 3,
+          "title": "Occupation-specific zoning restrictions",
+          "bodySha256": "964f4f1a53613088e257cb54607f0efd9ceac28467475aba22b4d218403f03b0",
+          "reviewNote": "Addresses explicit restriction or prohibition of particular occupations."
+        },
+        {
+          "number": 4,
+          "title": "Private land-use restrictions and community documents",
+          "bodySha256": "97e2999d603e6577a9b4b06d227e40e5d7bad1e56eca3b160c1e03a2a0be2a34",
+          "reviewNote": "Section does not supersede specified private restrictions or common-interest-community documents."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked residential incidental-work definition, five disallowed restrictions, occupation-specific prohibition and preservation of private restrictions."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "55.091:60204",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=55.091&bid=60204",
+      "sourceSha256": "8135138f229ab643edb548423d708c2c8c8bdf64d8ad16b2db13e32471abed39",
+      "textSha256": "736f98794f9b67dcd9c0d38fe41710f3a65566c4f6eb4adf269f9d0cf3fd34a1",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Auditor salary schedule and protected compensation",
+          "bodySha256": "a9d25a704d43b1ac64b501d94a056868be165f3bb8f95d2c1fc59642792dc685",
+          "reviewNote": "Includes county exclusions, valuation basis, and1997 protection."
+        },
+        {
+          "number": 2,
+          "title": "Auditor salary schedule for terms beginning after August 28, 2026",
+          "bodySha256": "06ecfc915375b9b4b591ef67390b15eeade0b569a6bcd8b198087f13e0c783fc",
+          "reviewNote": "Exact August28 threshold retained in source. Separate review made the cutoff exact."
+        },
+        {
+          "number": 3,
+          "title": "Training-related compensation and expense reimbursement",
+          "bodySha256": "e3f247231758bf97975072469cf6e3fe9171cd9803fb3eb7f977b96ca977e7f5",
+          "reviewNote": "Includes approved alternatives, certification, and appropriated reimbursement option."
+        },
+        {
+          "number": 4,
+          "title": "Salary reductions and commission voting requirements",
+          "bodySha256": "9c2a7589bdb9995d472d18feb2ecffcba1aa74e422613558fd998cac00eb2134",
+          "reviewNote": "Preserves distinct charter exception and two-thirds vote condition."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed both full salary tables, county exclusions, protected compensation, training, and reduction vote; made the new-term cutoff exact."
+    },
+    {
+      "id": "55.125:1988",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=55.125&bid=1988",
+      "sourceSha256": "b7604426a8645a4e4922b2d6bc11b5b925e02132b106c2ccb954842fb3515d0f",
+      "textSha256": "6dc3b2bd1af3109ca1aab5f4500cdd270a11796443132024c74c315d6d01f3db",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Auditor branch offices in qualifying counties",
+          "bodySha256": "35295ee9fb0ddec642d2021346b014a2ef5a02348fb7cd610b83b4d99f348989",
+          "reviewNote": "Includes former-court location and collector-branch prerequisite."
+        },
+        {
+          "number": 2,
+          "title": "Branch-office space, equipment, and shared location",
+          "bodySha256": "5b7c9b30d907cf6e6ac98f21aaa9141724549e882c270bffed597fa9c598f57f",
+          "reviewNote": "Covers county provision and optional colocation."
+        },
+        {
+          "number": 3,
+          "title": "Branch-office staffing and employee compensation",
+          "bodySha256": "0049bc6670bfa211e5d6c522ac247f068f8234c1b89558b1a4fefb59d0596c1b",
+          "reviewNote": "Includes commission approval and county-treasury pay."
+        },
+        {
+          "number": 4,
+          "title": "Restriction on additional auditor compensation",
+          "bodySha256": "5b36728bc3f968e29f969a16e4a0bc1eb11cad121258722fd4011b4365f5396a",
+          "reviewNote": "Limited to maintaining branch office."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Reviewed the historical court-location and collector-branch condition, optional shared premises, staffing approval, compensation, and no extra auditor pay."
+    }
+  ]
+}
