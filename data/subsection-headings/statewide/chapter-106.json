@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafting followed by a separate agent editorial review against complete archived source; not independent legal review.",
+  "entries": [
+    {
+      "id": "106.270:5742",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=106.270&bid=5742",
+      "sourceSha256": "780edfa5a31a05e3aa437a1c3ac077920129dc0f827111875f9d476523bf710d",
+      "textSha256": "4a9dafb42700bc13f1032004ed32d60e2f2490ce4aff3f8b2b72d787780bef24",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Removal judgment, vacancy, and civil proceedings",
+          "bodySha256": "120506aeadf77cfb0b762e0919d51c690126da562a59c273807dc781818f0eac",
+          "reviewNote": "Read complete removal standards and civil-action provisions with history; chief exception preserves separate section106.273 procedure, not general immunity from removal."
+        },
+        {
+          "number": 2,
+          "title": "Limitation on removal authority for chiefs",
+          "bodySha256": "08743cf480d756891d8a169118bbde1bf8241a84ecbf3037f2f820a0353927cc",
+          "reviewNote": "Read complete removal standards and civil-action provisions with history; chief exception preserves separate section106.273 procedure, not general immunity from removal."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Civil removal judgment and vacancy disqualification distinguished from separate chief limitation; no inference that chapter removes chiefs. This is not independent legal review."
+    },
+    {
+      "id": "106.273:5743",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=106.273&bid=5743",
+      "sourceSha256": "9974bbec2ebaef29bdfb3e854cbdcbb13375ed57222feea10ed40f23ce4b7958",
+      "textSha256": "b67bdea0fe4c6836377272f419dc638413b2a6ff44803070d50badac72f8693d",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions of chief and just cause",
+          "bodySha256": "e56643eee1435ae57607e457e44a2bc5a657c316f5ec37196f7191c55d927c69",
+          "reviewNote": "Read complete nonelected-chief definitions and procedure with history; source insubordination exception retained without rewriting. Notice, opportunity to be heard and two-thirds finding are cumulative procedural conditions; already earned, accrued or agreed benefits remain qualified in text."
+        },
+        {
+          "number": 2,
+          "title": "Notice, hearing, and removal vote requirements",
+          "bodySha256": "c89f8476e17494ffbefd329a55b914cbb646418c6df84ac961b267eef3fe2d80",
+          "reviewNote": "Read complete nonelected-chief definitions and procedure with history; source insubordination exception retained without rewriting. Notice, opportunity to be heard and two-thirds finding are cumulative procedural conditions; already earned, accrued or agreed benefits remain qualified in text."
+        },
+        {
+          "number": 3,
+          "title": "Effect of removal on duties and compensation",
+          "bodySha256": "3b03cd6d1c560005d0030d4ee64063d7a89231406112665b8db2cfb94bf3c3dd",
+          "reviewNote": "Read complete nonelected-chief definitions and procedure with history; source insubordination exception retained without rewriting. Notice, opportunity to be heard and two-thirds finding are cumulative procedural conditions; already earned, accrued or agreed benefits remain qualified in text."
+        },
+        {
+          "number": 4,
+          "title": "Written notice of removal grounds",
+          "bodySha256": "c765a247cb7ebf475f72d5f0c0cb27df33f1edc7f01184ef41f7d7ee6ec59339",
+          "reviewNote": "Read complete nonelected-chief definitions and procedure with history; source insubordination exception retained without rewriting. Notice, opportunity to be heard and two-thirds finding are cumulative procedural conditions; already earned, accrued or agreed benefits remain qualified in text."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: All just-cause grounds and complete removal procedures read; unusual insubordination exception left intact, two-thirds vote and already earned/accrued/agreed compensation exception preserved. This is not independent legal review."
+    }
+  ]
+}

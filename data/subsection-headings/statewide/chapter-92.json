@@ -1,0 +1,1713 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "92.010:4744",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.010&bid=4744",
+      "sourceSha256": "ea8b7763d99ba11df00adab0508211bd08a5090bc534c167fcd532ba4bf62777",
+      "textSha256": "2605900f7587125047f1c0e1a7987c58aa019c5a186e269b49af18cd5f446858",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Municipal levy limits and voter-approved increases",
+          "bodySha256": "4172d7245c83e8e5762da8dd54295b89941f6c982ea0bdf4505cb220dd7bae04",
+          "reviewNote": "Read full source and notes; population threshold, St.Louis county-purpose addition, four-year/thirty-cent limits and petition threshold retained. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Increased municipal levy ballot wording",
+          "bodySha256": "46801916b2f6f4c720270bdbd5278c13b345ead851d5355e2222a8a5daf7ffa4",
+          "reviewNote": "Read full source and notes; population threshold, St.Louis county-purpose addition, four-year/thirty-cent limits and petition threshold retained. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Duration and renewal of approved levy increases",
+          "bodySha256": "20bb4abc0dbc1bace59ce93bddf9dc5176d04f76fe59f3758121a4d7639f0196",
+          "reviewNote": "Read full source and notes; population threshold, St.Louis county-purpose addition, four-year/thirty-cent limits and petition threshold retained. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Population/charter scope, St Louis county-purpose addition, two-thirds increase vote and one-percent petition checked; thirty-cent cap and renewable four-year maximum retained."
+    },
+    {
+      "id": "92.012:4745",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.012&bid=4745",
+      "sourceSha256": "482582cf95c78f521b16e83d84099b91e361fad19fd5c584f0ae88064c0f6949",
+      "textSha256": "f6335b03a8958bc19dbf0de18bea32152b4338dbf4d9693c501ecc0a99ecb4c9",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Sewer lateral fees on combined tax bills",
+          "bodySha256": "ad9f113455bb976fe53634f3685a157e5fbd04a1cffb854bb79658c626b9de9b",
+          "reviewNote": "Read complete body and notes; St.Louis-specific optional combined billing and segregated repair revenues preserved. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Collection through delinquent real estate tax procedures",
+          "bodySha256": "6fdbf9b76aaff6f4e27de8478a2a702eb3ffddf97536f3830cc786f236e94ef0",
+          "reviewNote": "Read complete body and notes; St.Louis-specific optional combined billing and segregated repair revenues preserved. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. St Louis collector may add lateral-sewer fee to combined bill while separately crediting revenues; delinquent real estate collection mechanism checked."
+    },
+    {
+      "id": "92.030:4747",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.030&bid=4747",
+      "sourceSha256": "b77207c267c1f9936a4f8c354f743ac53ebcc16b426ed3c50b24b382595774cd",
+      "textSha256": "dfcdc73ad15143b92d4c51f6786e3c7f7d78d115a11418840d6f51afd262704b",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Qualifying charter cities and municipal tax authority",
+          "bodySha256": "8a34187fa650e4ab8adcba923a1394eb27b3c0c291a8c8dc3af0ee4cda90f56a",
+          "reviewNote": "Read entire source including three formulas; different debt-service/operating combinations and restricted hospital/health/recreation/museum use retained without simplified arithmetic. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Operating, debt-service and capital levy limits",
+          "bodySha256": "dba5b194115cef25e5b94027e088e4a27ec5111005ed060c39157610903e2d95",
+          "reviewNote": "Read entire source including three formulas; different debt-service/operating combinations and restricted hospital/health/recreation/museum use retained without simplified arithmetic. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Charter/population conditions and full three-part debt-service, operating and designated capital-use formulas read; one-dollar and one-dollar-fifty limits not flattened into universal rates."
+    },
+    {
+      "id": "92.031:4748",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.031&bid=4748",
+      "sourceSha256": "c67a4c3702c213f5f6039c4e89766371407a1b8131f5f356c87bcfe01a2b6f44",
+      "textSha256": "b662d17ae2e28d0dad719dba4bb135ed46f2ad7db45fc9f4ec94c762b9a31b4c",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Alternative independent debt-service and designated-purpose levies",
+          "bodySha256": "aa796ca6da4b04878fdafe20516d296a108a63311c94201b9485ba5ef5adbeaa",
+          "reviewNote": "Read whole source and original-roll note; independent levy election excludes particular92.030limits, voters still govern specified rate increase. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Levy limits and voter-approved rate increases",
+          "bodySha256": "025cafaa95db3015efc7049bfa72908e216a0f5ef33ef9b44a837c2015c5794c",
+          "reviewNote": "Read whole source and original-roll note; independent levy election excludes particular92.030limits, voters still govern specified rate increase. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Alternative independently levied categories and inapplicable prior individual/total limits checked; increase to specified one-dollar ceiling requires popular approval. Original-rolls missing to noted."
+    },
+    {
+      "id": "92.035:4749",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.035&bid=4749",
+      "sourceSha256": "46d7d40f7f5718243f9b32aa2951615d747aefd316212c59741ee1291283081f",
+      "textSha256": "9f0dadf99a4714d322092e7567e7af1c6daeefdb8bb50e4767197c9113129dc9",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Museum levy authority, restricted uses and admission",
+          "bodySha256": "0fa662c2aeaca0fdb6afc2849edca1cf28dfb75df429fbb433d776f305f4f73f",
+          "reviewNote": "Read full source and notes; art galleries excluded, qualifying existing facility free for residents, two-cent election threshold and restricted proceeds preserved. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Museum levy increase ballot wording",
+          "bodySha256": "f219e2d32cd1e06c1a5d88707cef17a9e6d233880ac8893f4fd2f05882c48a53",
+          "reviewNote": "Read full source and notes; art galleries excluded, qualifying existing facility free for residents, two-cent election threshold and restricted proceeds preserved. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Voter approval, rejection and resubmission",
+          "bodySha256": "16b5cd9ad1077d07340a94f6bd685f1b3939b9b62407cda568adff16b78b0b03",
+          "reviewNote": "Read full source and notes; art galleries excluded, qualifying existing facility free for residents, two-cent election threshold and restricted proceeds preserved. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Eligible charter/county class, ten-cent ceiling and two-cent election threshold checked. Existing museum allocation and free resident admission exclude art galleries; approved additional tax remains discretionary, rejection bars increase but permits resubmission."
+    },
+    {
+      "id": "92.045:57306",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.045&bid=57306",
+      "sourceSha256": "84d627e98f35cead4a8cbd602b4be536ef73343236cb3f1f5694bb8f19a60849",
+      "textSha256": "ebb2e69cb577f3d081c4267250da85c483a47b35d47666850ab1f43c6f458aee",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Business licensing powers and youth-owned enterprise exclusion",
+          "bodySha256": "9a371c3e1a78d92ce75ee036a668c773dfe29d80c410ac409fa77de659ad2de0",
+          "reviewNote": "Read full2025 source and notes; population scope of1(1) differs from any-charter-city prohibition1(2) for owners18or younger. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Delegated tax rules and public inspection",
+          "bodySha256": "afe4464735e5591ab40e13ad3c9bc72ebb5d6a06ce72e555bcd5d11c4647cb01",
+          "reviewNote": "Read full2025 source and notes; population scope of1(1) differs from any-charter-city prohibition1(2) for owners18or younger. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. All occupational tax measurements read; youth-owned enterprise exclusion applies to no constitutional charter city, not merely the opening population class. Delegated rules must remain publicly inspectable;2025history retained."
+    },
+    {
+      "id": "92.047:4755",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.047&bid=4755",
+      "sourceSha256": "f46b7d7d79ea21bad45a098b44252aae2f91ee18bf50806dddb15f55d992a9b7",
+      "textSha256": "7545f97e00051dbbc24afcb60da906fd749f4dcde7483b7dd79573941a34ef81",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Inconsistent laws and preserved earnings tax authority",
+          "bodySha256": "894e1506a31fd7569742f4750c0c0e0511897ee510894a96a72f8a74147f5e5d",
+          "reviewNote": "Read complete body and notes; awkward introductory conjunction in2 left unchanged, chapter311 preserved and caps apply. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Alcohol licensing laws and occupational tax limits",
+          "bodySha256": "540a3e90bdfa065ccac2b7371bf00674f1c34a4c72007c583dd294287291af30",
+          "reviewNote": "Read complete body and notes; awkward introductory conjunction in2 left unchanged, chapter311 preserved and caps apply. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Inconsistency repeal and population-specific earnings-tax preservation distinguished; awkward chapter311 conjunction left unchanged and alcohol-license ceiling preserved."
+    },
+    {
+      "id": "92.073:4759",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.073&bid=4759",
+      "sourceSha256": "d38f3d4b89675e6502c2de329b55d04f81f68f1448911f77a6060a90004a9498",
+      "textSha256": "ea2467ce03e1cf20529ae957c57a2a39478e612f95f74e357be9919d5288c033",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "State collection agreement, costs and indemnity terms",
+          "bodySha256": "27898c4cbef47d001bf7d9da1083b01771b22d85e0dd968c681eb2697082d2da",
+          "reviewNote": "Read full body and notes; contract prerequisite, motor-vehicle collection exception and offset against city revenue retained. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Seller collection, filing and remittance duties",
+          "bodySha256": "4572f1ea95c682abf42692549d0c71ff3fcb3292a9eb196099a8b4d3b77866d3",
+          "reviewNote": "Read full body and notes; contract prerequisite, motor-vehicle collection exception and offset against city revenue retained. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Applicable tax procedures and delinquency interest",
+          "bodySha256": "b4c835f3cbd1f13e409a849c6ddd9a6d495a9db2063038d98801e82721f7f20c",
+          "reviewNote": "Read full body and notes; contract prerequisite, motor-vehicle collection exception and offset against city revenue retained. Separate review pending."
+        },
+        {
+          "number": 4,
+          "title": "Refund claims under state tax procedures",
+          "bodySha256": "76f9d10c78116362a3ed6a5ab1a4cd70a631837bf6eafc993a35bd8728f11d5a",
+          "reviewNote": "Read full body and notes; contract prerequisite, motor-vehicle collection exception and offset against city revenue retained. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Complete state collection agreement including one-percent fee, bonding, delinquent notice and indemnity/offset checked; vendor filing, motor-vehicle exception, interest and refund procedures distinguished."
+    },
+    {
+      "id": "92.083:4763",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.083&bid=4763",
+      "sourceSha256": "e4ff926d3ff6dc27a59fc9c6cdd5b498b2a7d6a03a9d6b36ec49a3fa8777d0d7",
+      "textSha256": "9146d401929d0a19f8eb602a5101b8a62ccd6a15ebec6981d7bfe48db73e2cb0",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Statutory meanings for telecommunications tax ordinances",
+          "bodySha256": "5e3c2dbc142ed9b2f3a6fe9bb5586594de50ff944e18d1a4eb4ea62f164bbae3",
+          "reviewNote": "Read full body and both2006 invalidation and2019 special-law annotations; neutral topics describe archived provision without resolving enforceability, date boundaries retained in source. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Existing ordinances and compliance conditions",
+          "bodySha256": "f9f43a62233d9b2ed0b45d18c91ad087594d2294ce06c0f385de824afc16aab4",
+          "reviewNote": "Read full body and both2006 invalidation and2019 special-law annotations; neutral topics describe archived provision without resolving enforceability, date boundaries retained in source. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Retail sales as the telecommunications tax base",
+          "bodySha256": "eff5ee94556b544a9eea8ad33f254371d6235ca69e73949fdf51c0478eab77e8",
+          "reviewNote": "Read full body and both2006 invalidation and2019 special-law annotations; neutral topics describe archived provision without resolving enforceability, date boundaries retained in source. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Definitions and preexisting-ordinance condition read fully. Both2006invalidity/nonseverability and2019special-law-analysis annotations retained; topic labels describe archived provisions and do not adjudicate enforceability."
+    },
+    {
+      "id": "92.086:4764",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.086&bid=4764",
+      "sourceSha256": "73fcd8d0b7310b130566f15fac0f6350ea05c616d3b820e25c8ef8437154d53c",
+      "textSha256": "1f47be60babd49e150d911d580e7e9241e03a4ccba1404564408a77a627675ad",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Published list of municipal telecommunications taxes",
+          "bodySha256": "54c8c79df8a2185c6f8517c01679640b44a70705d26c602bf9da089253ba90a6",
+          "reviewNote": "Read all sixteen subsections, complete notes and original-roll correction.2006invalidity and2019special-law annotations preserved without deciding enforceability; historical phased rates, exceptions and procedural qualifiers not asserted as current commands. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Company and municipal revenue reports and reconciliation",
+          "bodySha256": "c21c789a8ae82944027712566392e7f6b7c64800269a96e9d9d64dd97a478831",
+          "reviewNote": "Read all sixteen subsections, complete notes and original-roll correction.2006invalidity and2019special-law annotations preserved without deciding enforceability; historical phased rates, exceptions and procedural qualifiers not asserted as current commands. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "State collection, administration and distribution",
+          "bodySha256": "13d3f7d6c8bb80ce296d48b42d0ed5cbb661201f5abc5a600b6eb3086759866a",
+          "reviewNote": "Read all sixteen subsections, complete notes and original-roll correction.2006invalidity and2019special-law annotations preserved without deciding enforceability; historical phased rates, exceptions and procedural qualifiers not asserted as current commands. Separate review pending."
+        },
+        {
+          "number": 4,
+          "title": "Gross receipts basis and conflicting ordinance provisions",
+          "bodySha256": "30e67fcd1ddd125e8675d59a4b9d010dcf21db51be3dfea9edbe3394b26bddad",
+          "reviewNote": "Read all sixteen subsections, complete notes and original-roll correction.2006invalidity and2019special-law annotations preserved without deciding enforceability; historical phased rates, exceptions and procedural qualifiers not asserted as current commands. Separate review pending."
+        },
+        {
+          "number": 5,
+          "title": "Tax procedures, quarterly returns and collection compensation",
+          "bodySha256": "541fab205392257481c37ec2bd00f9444202c1b48ba881f6cb3f56f3df10b3c1",
+          "reviewNote": "Read all sixteen subsections, complete notes and original-roll correction.2006invalidity and2019special-law annotations preserved without deciding enforceability; historical phased rates, exceptions and procedural qualifiers not asserted as current commands. Separate review pending."
+        },
+        {
+          "number": 6,
+          "title": "Revenue-neutral rates and historical tax base",
+          "bodySha256": "cf71706645ae52a6ef49d6e0d7a7a9d009f773fe35cbda8e1eedbeb553b31b32",
+          "reviewNote": "Read all sixteen subsections, complete notes and original-roll correction.2006invalidity and2019special-law annotations preserved without deciding enforceability; historical phased rates, exceptions and procedural qualifiers not asserted as current commands. Separate review pending."
+        },
+        {
+          "number": 7,
+          "title": "Review and adjustment of revenue-neutral rates",
+          "bodySha256": "53d03129f1a29bf7953e7410eeb31450d7d91da33228000235e3a5157e9a0119",
+          "reviewNote": "Read all sixteen subsections, complete notes and original-roll correction.2006invalidity and2019special-law annotations preserved without deciding enforceability; historical phased rates, exceptions and procedural qualifiers not asserted as current commands. Separate review pending."
+        },
+        {
+          "number": 8,
+          "title": "Notice and voter approval of rate changes",
+          "bodySha256": "b5485a543bcce5a787eed97f87f8a783ad9c8c6f9232b631a02d35c46b6612eb",
+          "reviewNote": "Read all sixteen subsections, complete notes and original-roll correction.2006invalidity and2019special-law annotations preserved without deciding enforceability; historical phased rates, exceptions and procedural qualifiers not asserted as current commands. Separate review pending."
+        },
+        {
+          "number": 9,
+          "title": "Rate ceiling and transitional rate reductions",
+          "bodySha256": "d0d6d802a36f33b8aa9c9bda743785c2c56a8f6b41e2ad5629a111814ff41c3b",
+          "reviewNote": "Read all sixteen subsections, complete notes and original-roll correction.2006invalidity and2019special-law annotations preserved without deciding enforceability; historical phased rates, exceptions and procedural qualifiers not asserted as current commands. Separate review pending."
+        },
+        {
+          "number": 10,
+          "title": "Exceptions for specified wireless tax ordinances",
+          "bodySha256": "282773ad7d9947e5872fbeb25252718cb794ac5f2011bf9dbe409403cd568a9b",
+          "reviewNote": "Read all sixteen subsections, complete notes and original-roll correction.2006invalidity and2019special-law annotations preserved without deciding enforceability; historical phased rates, exceptions and procedural qualifiers not asserted as current commands. Separate review pending."
+        },
+        {
+          "number": 11,
+          "title": "Audit authority and municipal access to information",
+          "bodySha256": "7f857326924078f1d72139ecee38adda5042c9a7197e896ec52946bdc4676af0",
+          "reviewNote": "Read all sixteen subsections, complete notes and original-roll correction.2006invalidity and2019special-law annotations preserved without deciding enforceability; historical phased rates, exceptions and procedural qualifiers not asserted as current commands. Separate review pending."
+        },
+        {
+          "number": 12,
+          "title": "Limitations period for nonpayment or underpayment claims",
+          "bodySha256": "483081f50f4c2beda3d5ca18a421af83d04cca85847195933a7b84e227de5fda",
+          "reviewNote": "Read all sixteen subsections, complete notes and original-roll correction.2006invalidity and2019special-law annotations preserved without deciding enforceability; historical phased rates, exceptions and procedural qualifiers not asserted as current commands. Separate review pending."
+        },
+        {
+          "number": 13,
+          "title": "Passing business license taxes to retail customers",
+          "bodySha256": "346618e5601a3e8896ca22ef6af18ea22d0f27c7e02316d458b1975ba11d2c1b",
+          "reviewNote": "Read all sixteen subsections, complete notes and original-roll correction.2006invalidity and2019special-law annotations preserved without deciding enforceability; historical phased rates, exceptions and procedural qualifiers not asserted as current commands. Separate review pending."
+        },
+        {
+          "number": 14,
+          "title": "Application of specified refund and tax provisions",
+          "bodySha256": "d3170ff4202cc18111e2cae5337f237e57c388789fd76edcaa730e9431228e31",
+          "reviewNote": "Read all sixteen subsections, complete notes and original-roll correction.2006invalidity and2019special-law annotations preserved without deciding enforceability; historical phased rates, exceptions and procedural qualifiers not asserted as current commands. Separate review pending."
+        },
+        {
+          "number": 15,
+          "title": "Taxpayer remedies and administrative procedures",
+          "bodySha256": "7629b981feebb2039825aca717f447e262882e4c520f0975f61fade24077a8a1",
+          "reviewNote": "Read all sixteen subsections, complete notes and original-roll correction.2006invalidity and2019special-law annotations preserved without deciding enforceability; historical phased rates, exceptions and procedural qualifiers not asserted as current commands. Separate review pending."
+        },
+        {
+          "number": 16,
+          "title": "Rulemaking conditions and nonseverability",
+          "bodySha256": "8a09539d49b1ab603ccb2142a5aba3844d90da7eb40daa6e7c2137cbde4e1782",
+          "reviewNote": "Read all sixteen subsections, complete notes and original-roll correction.2006invalidity and2019special-law annotations preserved without deciding enforceability; historical phased rates, exceptions and procedural qualifiers not asserted as current commands. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. All sixteen subsections and nested historical calculation/exception rules read, including deadlines,2005base,5percenttransition, audits, pass-through, three-year limitation and nonseverability. Both2006invalidity and2019analysis annotations retained without inferring revival; original-rolls or/of note preserved."
+    },
+    {
+      "id": "92.089:4765",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.089&bid=4765",
+      "sourceSha256": "92838f9ce65852ba20174eb1fe1a0df7ebc660e005978b37ca821afb9bd3cad4",
+      "textSha256": "ee7709065036008722025c1d705e9e19f72b15cea229344b8df20e8edd950a3a",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Legislative findings on litigation, consideration and uniformity",
+          "bodySha256": "81a896401fe51808c8054dc5543611ca46afce397ac1656904ecc1f3f72a956c",
+          "reviewNote": "Read full body and2006invalidity/2019annotations; subjective good-faith, temporal scope and92.086(10) exceptions remain in source, title not an unconditional immunity statement. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Disputed tax immunity and litigation dismissal provisions",
+          "bodySha256": "3c9ac3dc3908c8c19882fccbe6df6636deff29914bd51aa13d8b6018622c0841",
+          "reviewNote": "Read full body and2006invalidity/2019annotations; subjective good-faith, temporal scope and92.086(10) exceptions remain in source, title not an unconditional immunity statement. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Legislative consideration findings distinguished from conditional good-faith disputed-tax immunity and litigation/audit cessation with listed municipal exceptions.2006invalidity and2019special-law-analysis annotations read and retained; no conclusion that immunity is currently enforceable."
+    },
+    {
+      "id": "92.111:4770",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.111&bid=4770",
+      "sourceSha256": "28aeeddf46d9dd177b78f469301a970f93aae54e1b6fd6221f0902d946c5dc07",
+      "textSha256": "22aa8e666266f64cb2ade84eb1860334eb7d307b2212c55094ec10d05c9377b1",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Earnings tax limits and voter-approved continuation",
+          "bodySha256": "4dbf4be670f978b42028ce97ceda3ff7c8f58a015b97a47d6fecf79f121332eb",
+          "reviewNote": "Read full initiative text and note; only2010taxing charter cities may continue subject to elections, failed/no vote triggers phaseout; residency/work/net-profit scope preserved. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Meaning of earnings tax",
+          "bodySha256": "526c439494151972751978a4b5d559b63e7d3ce57f0a55cbe49943a7a21c95eb",
+          "reviewNote": "Read full initiative text and note; only2010taxing charter cities may continue subject to elections, failed/no vote triggers phaseout; residency/work/net-profit scope preserved. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. November2010 existing-charter-city qualification, five-year continuation approval, no-election/rejection reduction exception and all five earnings-tax income categories checked."
+    },
+    {
+      "id": "92.115:4773",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.115&bid=4773",
+      "sourceSha256": "b3fdd344c8e8ad02a563cb28205f898c7f5d9daa6e3bbc13f4185a9f2fee3d0a",
+      "textSha256": "16b6ea770d697ece39afaa9e2f9b31c0ba671101e91796e377877845fcee82d2",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Five-year earnings tax continuation elections",
+          "bodySha256": "5a18416ec8fefdf7e6f793e80987a58bde3161db0d0501c5a8aea508b55fae91",
+          "reviewNote": "Read full initiative text and notes;2010city qualification and next-January reduction triggers preserved, no future tax timeline inferred. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Earnings tax continuation ballot wording",
+          "bodySha256": "4703b9c30a41f8b185776a283cb76b5116bb3e4584b6e4c187caa38f76fa9342",
+          "reviewNote": "Read full initiative text and notes;2010city qualification and next-January reduction triggers preserved, no future tax timeline inferred. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Reduction following rejection or an omitted election",
+          "bodySha256": "3771570786e9e364299ade249ed5a32e32fb68ab403abe614aff90e7d313d596",
+          "reviewNote": "Read full initiative text and notes;2010city qualification and next-January reduction triggers preserved, no future tax timeline inferred. Separate review pending."
+        },
+        {
+          "number": 4,
+          "title": "Limits on stopping an earnings tax phaseout",
+          "bodySha256": "e39e1b58d96c52bab46b3bd0e7e062e0630b1af492fc73ba97297a2fc933ae14",
+          "reviewNote": "Read full initiative text and notes;2010city qualification and next-January reduction triggers preserved, no future tax timeline inferred. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. First and recurring continuation election timing, exact ballot wording, January reduction trigger and bar on halting phaseout checked; no current election outcome inferred."
+    },
+    {
+      "id": "92.130:4776",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.130&bid=4776",
+      "sourceSha256": "9318e3a3cd9fa039461c1de10876c09cf61aff2886e0ff51feac53df5561138e",
+      "textSha256": "7ce479babc0129cb7827cbf59e109fd71b8721cac1f0f457b3ed8c02de906042",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Income of specified exempt organizations and trusts",
+          "bodySha256": "83da3fecfc8beecae99c015ae60bb0a9b633c6a84bc3ca9dfe740da2b0412228",
+          "reviewNote": "Read all sixteen organizational/trust categories and six income categories plus notes; gift principal versus income and government utility/private-party exception preserved without broad exemption claim. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Exempt income categories regardless of recipient",
+          "bodySha256": "3cd403dc33be88e01b34cffb550d29b03ecc51c5d51c84d31edc9bc9316a0aeb",
+          "reviewNote": "Read all sixteen organizational/trust categories and six income categories plus notes; gift principal versus income and government utility/private-party exception preserved without broad exemption claim. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. All sixteen entity/trust categories and six recipient-independent income exemptions read fully, including gift-derived income distinction and public-utility contract/private-share limitation."
+    },
+    {
+      "id": "92.327:4796",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.327&bid=4796",
+      "sourceSha256": "22f72ee20f2d5bd739012af88f23a09829a0c85d4114644a0281d72173e09bab",
+      "textSha256": "afbf84fab032956cab3ba81a166d730eb01f7f4c57379063231633d61994ab9a",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Hotel and food convention tax propositions",
+          "bodySha256": "9f3f3c38e1d9415333c6e4274463449f93373d588e7e0f313934b618232a6028",
+          "reviewNote": "Read full body and notes; room-charge sales-tax exclusion and separate food gross receipts caps remain, statutory city scope not expanded by title. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Separate convention and tourism fund",
+          "bodySha256": "f5dc256c088d3114e768d98b5058458c1572b3e05f9832e49d1abb1a6e6f19f6",
+          "reviewNote": "Read full body and notes; room-charge sales-tax exclusion and separate food gross receipts caps remain, statutory city scope not expanded by title. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Hotel transient-room tax excludes sales tax and food gross-receipts tax has separate cap; optional voter submission and separate restricted convention fund checked."
+    },
+    {
+      "id": "92.338:4802",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.338&bid=4802",
+      "sourceSha256": "565dfc6671ccbb4adcbe476dc37091f3dea3622797cdc35ebe7b4fbd1c5384c4",
+      "textSha256": "22e8e5a477bac5b005827e4daa3e95622d51d19734d6476ad432e8e39122b7ea",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "State sales tax procedures and confidentiality",
+          "bodySha256": "968e7518ab12d33624c04c38d183be12f54702f98fbbd3b9d5a032211c62f370",
+          "reviewNote": "Read full source and notes; transient guest exception requires voter approval, seller2-percent retention distinct from director1–3percent collection cost and city/state collection options. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Exemptions and voter-approved transient guest exceptions",
+          "bodySha256": "665b09a406c440997364c7235fea2254251c5f8e901fc090337aa2148ba21ea7",
+          "reviewNote": "Read full source and notes; transient guest exception requires voter approval, seller2-percent retention distinct from director1–3percent collection cost and city/state collection options. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Permits and exemption certificates",
+          "bodySha256": "78982e9177aa87898191843abc19d455b2527ccae96d029ff4e1303441466e56",
+          "reviewNote": "Read full source and notes; transient guest exception requires voter approval, seller2-percent retention distinct from director1–3percent collection cost and city/state collection options. Separate review pending."
+        },
+        {
+          "number": 4,
+          "title": "Tax collection, retained amounts, refunds and penalties",
+          "bodySha256": "1ad5d5c2263a3b909ff55f8220d5b0daeaff6d531c33c6471ee5ba815f4c6376",
+          "reviewNote": "Read full source and notes; transient guest exception requires voter approval, seller2-percent retention distinct from director1–3percent collection cost and city/state collection options. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. State procedures/confidentiality and ordinary exemptions reviewed with optional voter-approved transient exception; existing permit sufficiency, remitter two-percent retention and director one-to-three-percent costs distinguished."
+    },
+    {
+      "id": "92.402:4806",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.402&bid=4806",
+      "sourceSha256": "fa62e9fa9532bcd41afc5a1cd9edc0ae7d3568c2eeb8ad60a4271dd7864ecaca",
+      "textSha256": "755759d91fab559a8db9a0573b079bd2354e7b44f772255e6932e6bfdf53a4af",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Municipal adoption of a mass transportation tax",
+          "bodySha256": "8a1be43f46375046062a04a5be383135f960efdbb9ed61d0a154d63670dce184",
+          "reviewNote": "Read whole version and notes; majority governing body authorization, seven-and-half-percent authority distribution and boundary-effective dates preserved. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Tax rate, transportation distribution and accessibility",
+          "bodySha256": "075d0c15fe44d0206805944a17ca18b9ef92be7d588e50709beb1e1303a0bcf2",
+          "reviewNote": "Read whole version and notes; majority governing body authorization, seven-and-half-percent authority distribution and boundary-effective dates preserved. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Notice and map of the adopted tax",
+          "bodySha256": "e86c1dc4955db5007b3c594946ec4ed0318b821864e61cac456dbe64e0a16949",
+          "reviewNote": "Read whole version and notes; majority governing body authorization, seven-and-half-percent authority distribution and boundary-effective dates preserved. Separate review pending."
+        },
+        {
+          "number": 4,
+          "title": "Boundary changes and territorial tax application",
+          "bodySha256": "62f4662123fd6177a6854ddb76de0b97c2cd69ec08c0dd3a6aadd188b0fd487b",
+          "reviewNote": "Read whole version and notes; majority governing body authorization, seven-and-half-percent authority distribution and boundary-effective dates preserved. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Council-majority adoption, half-percent maximum, authority share and ADA condition reviewed; certified ordinance/maps and changed-territory tax timing checked."
+    },
+    {
+      "id": "92.410:4808",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.410&bid=4808",
+      "sourceSha256": "c0e06a787d02561add9659055a3cbfdb437d873c41acc8908d7a126489a44636",
+      "textSha256": "ebc10a36d63ced03a4ebbc91f75f1d4f8e06dca4b1f93c6276bf3f52059fc0d1",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "State trust fund, collection costs and public records",
+          "bodySha256": "3fe169e737a7b86435610bdd8a449547df2011e76913ee23d6fd66f0ad01b539",
+          "reviewNote": "Read full source and notes; separately held nonstate revenues and1-percent retention after bond premiums differ from city handling fee. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Applicable state sales tax administration provisions",
+          "bodySha256": "56c7c5f32fe16ec9e4ed816acdf2a927ab9a0e29577bc82747209edbb39b498e",
+          "reviewNote": "Read full source and notes; separately held nonstate revenues and1-percent retention after bond premiums differ from city handling fee. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. State one-percent collection cost after surety premiums, separate nonstate trust funds and publicly inspectable city records checked; incorporated administration provisions retain modifications."
+    },
+    {
+      "id": "92.412:4809",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.412&bid=4809",
+      "sourceSha256": "e3acbcc5c5f7df058fb07c3f33066dfe86cedf9c57045ad3909e1b749d26c8b8",
+      "textSha256": "d82e9545f585f8893d0de74eece1da717e34191e819099e75fa7462a32fefe4d",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Monthly distribution of city tax receipts",
+          "bodySha256": "d60a2bb049902afc253b0c83a3267afd18c78b8a3fd5d312f9a84264ecfdac04",
+          "reviewNote": "Read complete text and notes; ninety-day repeal notice and one-year two-percent reserve retained. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Refunds, repeal notice and closing city accounts",
+          "bodySha256": "91cdb4db46f2150dd4c7846db10fd036b0fa6a003d2b23d11af02c50ff54531d",
+          "reviewNote": "Read complete text and notes; ninety-day repeal notice and one-year two-percent reserve retained. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Tenth-day distribution differs from ninety-day repeal notice and one-year holdback/closure; discretionary two-percent retention and individual refund notification checked."
+    },
+    {
+      "id": "92.418:4810",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.418&bid=4810",
+      "sourceSha256": "046b1a9a5dce0706c1aacf2727156d66ebdb80ff6280f0d67614d871ead17744",
+      "textSha256": "21d7d96916d95c468285ee67261f3fb1ddec6d70f64cd87c3e49afb99b19c352",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "City transportation fund and handling allowance",
+          "bodySha256": "0412158963c5ff15a9ed9a76c1a7519d722f04c9b791218652778f490d5249a6",
+          "reviewNote": "Read all seven subsections and1981annotation; current body says may advertise despite historical annotation requiring it. City motor pools, excess conditions and7.5/92.5percent splits retained. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Uses of accumulated excess transportation funds",
+          "bodySha256": "fcfd0e36c807b725e0014bc56ae669c10799aa9efe9a78db511e474a1c2622a2",
+          "reviewNote": "Read all seven subsections and1981annotation; current body says may advertise despite historical annotation requiring it. City motor pools, excess conditions and7.5/92.5percent splits retained. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Transportation service contracts and authority payments",
+          "bodySha256": "d2a4a21a45b725621e464f39a4d7e435b65029544172d0e9bba2cb60c69933d0",
+          "reviewNote": "Read all seven subsections and1981annotation; current body says may advertise despite historical annotation requiring it. City motor pools, excess conditions and7.5/92.5percent splits retained. Separate review pending."
+        },
+        {
+          "number": 4,
+          "title": "Capital expenditures and debt service allocation",
+          "bodySha256": "0e8116995c6519a2b7f6666bfa8f63d0abd870963e85d33792e1b4466eb31e07",
+          "reviewNote": "Read all seven subsections and1981annotation; current body says may advertise despite historical annotation requiring it. City motor pools, excess conditions and7.5/92.5percent splits retained. Separate review pending."
+        },
+        {
+          "number": 5,
+          "title": "Operating costs and additional capital funding",
+          "bodySha256": "84b3ca7a97f6e16c72a4ad4aae14f8364fa77bc6275e2f4c321c68296b5eb6b4",
+          "reviewNote": "Read all seven subsections and1981annotation; current body says may advertise despite historical annotation requiring it. City motor pools, excess conditions and7.5/92.5percent splits retained. Separate review pending."
+        },
+        {
+          "number": 6,
+          "title": "Advertising on transit vehicles",
+          "bodySha256": "d92b45976102d246d2102ffd209a99ccbd7dd1061b1f1b3f764d4c487dea0c77",
+          "reviewNote": "Read all seven subsections and1981annotation; current body says may advertise despite historical annotation requiring it. City motor pools, excess conditions and7.5/92.5percent splits retained. Separate review pending."
+        },
+        {
+          "number": 7,
+          "title": "Minority business participation goals and local availability",
+          "bodySha256": "d0f3feeab8adfc559030a359ef5beb1dfb5ea02f100c1a530236d74ed687e6e5",
+          "reviewNote": "Read all seven subsections and1981annotation; current body says may advertise despite historical annotation requiring it. City motor pools, excess conditions and7.5/92.5percent splits retained. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. All seven subsections read: city handling deduction, motor pools/excess funds, contracts,7.5percentcapital and92.5percentoperating allocation including additional capital use. Minority participation uses local availability;1981annotation on advertising mandate retained beside present permissive wording."
+    },
+    {
+      "id": "92.421:4812",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.421&bid=4812",
+      "sourceSha256": "f0651d19b283dfccf9a79a609f419b09ee803635ba10a126f032100dde69341b",
+      "textSha256": "cfa92c6a9e217af63c148a6201b0c7d7a9c40d2f9fe49d3eba00e1bd10c1766e",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Monthly authority distributions, collection costs and refunds",
+          "bodySha256": "957725507734ab8fbea6546a876ad9e4db85932b563790def5ba58cdc9dfcd41",
+          "reviewNote": "Read full source and notes; director-direct distributions differ from city appropriation allocations, historical ninety-day rule deadline not converted to recurring requirement. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Capital-only use of authority tax proceeds",
+          "bodySha256": "14587d26470e7635c7f916af1a99fb3a1a0c3eaca1075d06834d63b9ff5eb343",
+          "reviewNote": "Read full source and notes; director-direct distributions differ from city appropriation allocations, historical ninety-day rule deadline not converted to recurring requirement. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Minority, disadvantaged and women business program rules",
+          "bodySha256": "95c03bef1fbabf34e9c8f6b85ab043e8a708b40e084120108db4e94b0171fb4d",
+          "reviewNote": "Read full source and notes; director-direct distributions differ from city appropriation allocations, historical ninety-day rule deadline not converted to recurring requirement. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Monthly direct-authority distribution less state collection cost, refunds and capital-only restriction checked. Business program ninety-day deadline is historical after August1989, not a fresh ongoing deadline."
+    },
+    {
+      "id": "92.500:4813",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.500&bid=4813",
+      "sourceSha256": "b615ea6d2999206771bea36c01bf6a94e6a7ea37026a6e21230bb6690be1bdcf",
+      "textSha256": "f02aa92d46e89192e4d55084924b72fc50b3fb5fabef20594b1ac7382afb5db1",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Public safety sales tax authority and purposes",
+          "bodySha256": "77892b7b6b262397bb2d60128703f667f0f7375483e3fb7b52094a603c2d7d74",
+          "reviewNote": "Read complete source and notes. City-not-within-county scope, half-percent cap, second-calendar-quarter effective date, two-percent repeal petition and December31 repeal timing remain in text; fund usage remains restricted after repeal. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Tax adoption ballot and effective date",
+          "bodySha256": "26966d329bb7dc369d858f36531bedbb14490978ea4e62c65c0088377f97960c",
+          "reviewNote": "Read complete source and notes. City-not-within-county scope, half-percent cap, second-calendar-quarter effective date, two-percent repeal petition and December31 repeal timing remain in text; fund usage remains restricted after repeal. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Trust fund, investment, distribution and appropriations",
+          "bodySha256": "25a809ff68846d500f183a5d45ef83fe2ba6a956db81ca1d6707b34fec71d8eb",
+          "reviewNote": "Read complete source and notes. City-not-within-county scope, half-percent cap, second-calendar-quarter effective date, two-percent repeal petition and December31 repeal timing remain in text; fund usage remains restricted after repeal. Separate review pending."
+        },
+        {
+          "number": 4,
+          "title": "State administration and retailer collection procedures",
+          "bodySha256": "a987025e52127a5fb08b31d9ebece68f28ca11af9afe4a51dc7733fdba6f83b8",
+          "reviewNote": "Read complete source and notes. City-not-within-county scope, half-percent cap, second-calendar-quarter effective date, two-percent repeal petition and December31 repeal timing remain in text; fund usage remains restricted after repeal. Separate review pending."
+        },
+        {
+          "number": 5,
+          "title": "Applicable exemptions, certificates, discounts and enforcement",
+          "bodySha256": "e47b231cc2911b9ab881de062080a12cb3c84844f8aed57ebb89c4e28a68c30d",
+          "reviewNote": "Read complete source and notes. City-not-within-county scope, half-percent cap, second-calendar-quarter effective date, two-percent repeal petition and December31 repeal timing remain in text; fund usage remains restricted after repeal. Separate review pending."
+        },
+        {
+          "number": 6,
+          "title": "Governing body submission of tax repeal",
+          "bodySha256": "49e102636fa1361fde2e31848204eab7871b642ec76c544714dad61431dde3d2",
+          "reviewNote": "Read complete source and notes. City-not-within-county scope, half-percent cap, second-calendar-quarter effective date, two-percent repeal petition and December31 repeal timing remain in text; fund usage remains restricted after repeal. Separate review pending."
+        },
+        {
+          "number": 7,
+          "title": "Voter petitions for a tax repeal election",
+          "bodySha256": "afaf07bfd0fd936f091d2d9fc1b8e66e8c717163871d7c3cf53db0d37e1d5354",
+          "reviewNote": "Read complete source and notes. City-not-within-county scope, half-percent cap, second-calendar-quarter effective date, two-percent repeal petition and December31 repeal timing remain in text; fund usage remains restricted after repeal. Separate review pending."
+        },
+        {
+          "number": 8,
+          "title": "Restricted remaining funds and closing tax accounts",
+          "bodySha256": "62e82bff66c9712259eaa5bb4bba73b92f77bb810fd568aba055b756170c7bae",
+          "reviewNote": "Read complete source and notes. City-not-within-county scope, half-percent cap, second-calendar-quarter effective date, two-percent repeal petition and December31 repeal timing remain in text; fund usage remains restricted after repeal. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. All eight subsections and both ballot forms read. City-not-within-county scope, half-percent cap, designated safety use, majority approval and second-quarter start retained; one-percent state cost differs from retailer discounts. Repeal petition threshold, December31 effect, ninety-day notice and one-year holdback checked without reconciling their timing by invention."
+    },
+    {
+      "id": "92.715:4817",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.715&bid=4817",
+      "sourceSha256": "23170d0bdd027b107eed520b364bd39e212aa93d490c719fbabaf47f115cefc5",
+      "textSha256": "0c92996444590ee918af9769f5986b8fd54e5e3040aa294e630a0950f5a64b4c",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Collection of recorded delinquent real estate taxes",
+          "bodySha256": "0562f99f0f04c331c10e463b724a0ef84b1004c921b6845dabee89b2748053b8",
+          "reviewNote": "Read full body and notes. Two-percent monthly interest capped at eighteen percent annually, attorney/court costs and pre-sale compromise authority retained; comptroller substitutes for county commission. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Redemption payments, interest and costs",
+          "bodySha256": "b0310182f9c11a1353b83f38fba20b3e7bc41485343d7efd07ff4baad72ef69b",
+          "reviewNote": "Read full body and notes. Two-percent monthly interest capped at eighteen percent annually, attorney/court costs and pre-sale compromise authority retained; comptroller substitutes for county commission. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Redemption before judgment and pending court costs",
+          "bodySha256": "8f45c8cb108d09bbf9e04ab21b6d43ca814fc0c80eddad8320ebd9cde2954305",
+          "reviewNote": "Read full body and notes. Two-percent monthly interest capped at eighteen percent annually, attorney/court costs and pre-sale compromise authority retained; comptroller substitutes for county commission. Separate review pending."
+        },
+        {
+          "number": 4,
+          "title": "Tax judgment compromises and manifest error correction",
+          "bodySha256": "81ab29d4a02b1ea5b37d8b084dcf8c312212b26ff374e635d51bdf69069523aa",
+          "reviewNote": "Read full body and notes. Two-percent monthly interest capped at eighteen percent annually, attorney/court costs and pre-sale compromise authority retained; comptroller substitutes for county commission. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Recorded delinquency collection, two-percent monthly interest with eighteen-percent annual cap, pre-judgment court costs and judgment compromise until execution sale checked; comptroller replaces county commission and may correct manifest errors."
+    },
+    {
+      "id": "92.720:51123",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.720&bid=51123",
+      "sourceSha256": "b98e4e0a9a7e3c93c2e93a849df48285ca7f3e446fb42ffc092977e16abf8919",
+      "textSha256": "206e35232086034504fe7a409d98e9b3ca2a0d225d8ad0ef4a2dad8a0ce1cb96",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Foreclosure suits for unredeemed lands",
+          "bodySha256": "282a1d9f228921522f692b59034ad9ed4f8599b545122bde28592b1cd129b057",
+          "reviewNote": "Read full text and Byrd/Revisor notes: identical HB1662 language remains despite invalid HB1606. Missed two-year vacant-parcel deadline is not a defense, unlike five-year action limitation. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Notation that a tax suit has commenced",
+          "bodySha256": "281127fef0a9ce1f476cd9d73855fd727f91d07ec1a16339786b2acc7a07860c",
+          "reviewNote": "Read full text and Byrd/Revisor notes: identical HB1662 language remains despite invalid HB1606. Missed two-year vacant-parcel deadline is not a defense, unlike five-year action limitation. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Delinquent parcel lists and court docket references",
+          "bodySha256": "67b80dd58f9d9a79d0923954d466f4fc0e277c8ef8b86e03dedbe0d8af580561",
+          "reviewNote": "Read full text and Byrd/Revisor notes: identical HB1662 language remains despite invalid HB1606. Missed two-year vacant-parcel deadline is not a defense, unlike five-year action limitation. Separate review pending."
+        },
+        {
+          "number": 4,
+          "title": "Deputy sheriff appointments for tax process",
+          "bodySha256": "7f86f330424e0dd0de9622aa722fd082541f23146691e5c49ee686323b543a77",
+          "reviewNote": "Read full text and Byrd/Revisor notes: identical HB1662 language remains despite invalid HB1606. Missed two-year vacant-parcel deadline is not a defense, unlike five-year action limitation. Separate review pending."
+        },
+        {
+          "number": 5,
+          "title": "Limitation period for real estate tax actions",
+          "bodySha256": "234eaa0d61f57fadc60d5f2fbaff682ef8f68640656b5471fbf16568648f5dc7",
+          "reviewNote": "Read full text and Byrd/Revisor notes: identical HB1662 language remains despite invalid HB1606. Missed two-year vacant-parcel deadline is not a defense, unlike five-year action limitation. Separate review pending."
+        },
+        {
+          "number": 6,
+          "title": "Vacant improved parcels and expedited enforcement",
+          "bodySha256": "304d2339c21faa719408dbd14a46991ba388459e86e42e70196dffbfae74454f",
+          "reviewNote": "Read full text and Byrd/Revisor notes: identical HB1662 language remains despite invalid HB1606. Missed two-year vacant-parcel deadline is not a defense, unlike five-year action limitation. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. January unredeemed filing permission and five-year action limit distinguished from vacant improved parcel two-year filing duty, whose breach is expressly no defense. HB1662 continuing-language note read alongside invalid HB1606 annotation."
+    },
+    {
+      "id": "92.730:4820",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.730&bid=4820",
+      "sourceSha256": "d1a4363455de06fa06acddce05858459f7f37312a448f1b6963bd7da84e00030",
+      "textSha256": "bf6b05ece3dccfd2914752929c3dca5af43c420f778fa9cc2762c266cb7ea894",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Consolidation, listed tax bills and continuing liens",
+          "bodySha256": "5ba442f2716af7efa67201ee8d1113f76b642da754b235b05b179a7ee6e92212",
+          "reviewNote": "Read complete source and notes. Inclusion can abate pending suit and remove answer requirement; preserved rights/defenses are not barred by limitations in this setting. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Trial of consolidated claims and preserved defenses",
+          "bodySha256": "142912a4488a0879fc1f45ec48d342a1dba3b920688413820d9d8317882703ce",
+          "reviewNote": "Read complete source and notes. Inclusion can abate pending suit and remove answer requirement; preserved rights/defenses are not barred by limitations in this setting. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Pending-suit consolidation and inclusion-triggered abatement distinguished; included bills need no answer, liens/costs persist, and prior rights/defenses survive limitations as specified."
+    },
+    {
+      "id": "92.740:51124",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.740&bid=51124",
+      "sourceSha256": "6f95922d4d59c734c233b450bc1d08b1666b07dbe435768440a6f25cf69a7bca",
+      "textSha256": "3c10c415a487e55134a0ac81d6e29c47e493bbb76fc74577704757268f847001",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Filing and required components of foreclosure petitions",
+          "bodySha256": "2d70711d6dc07d6e90dedc2c96d87af524640dfbec96ae70a26fce273b9be8cf",
+          "reviewNote": "Read complete source and Byrd/Revisor notes. Identical HB1662 provision remains; filing includes land reutilization authority and each parcel receives separate-suit effect. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Tax foreclosure petition caption",
+          "bodySha256": "ac3a4a117d272ae4142098250832762cea94145686b7b2903cc09e9b7c6595c0",
+          "reviewNote": "Read complete source and Byrd/Revisor notes. Identical HB1662 provision remains; filing includes land reutilization authority and each parcel receives separate-suit effect. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Requested foreclosure, priority determination and sale",
+          "bodySha256": "c056d8de268db9f3ea123980e59b9cb4b4df34b5473450121d9c5c0d5e4a6fa9",
+          "reviewNote": "Read complete source and Byrd/Revisor notes. Identical HB1662 provision remains; filing includes land reutilization authority and each parcel receives separate-suit effect. Separate review pending."
+        },
+        {
+          "number": 4,
+          "title": "Separate effect for each listed parcel",
+          "bodySha256": "6893335161faf1bed9f8a107a66115f255d2e84f7b18dafe1243765275bb473b",
+          "reviewNote": "Read complete source and Byrd/Revisor notes. Identical HB1662 provision remains; filing includes land reutilization authority and each parcel receives separate-suit effect. Separate review pending."
+        },
+        {
+          "number": 5,
+          "title": "Public access to the petition parcel list",
+          "bodySha256": "d4a1f87ccde58c5db6e4bce5ede6e935b107cced597919cff6c76f739696a11d",
+          "reviewNote": "Read complete source and Byrd/Revisor notes. Identical HB1662 provision remains; filing includes land reutilization authority and each parcel receives separate-suit effect. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Required caption/list/prayer, separate parcel effect and public list checked, including filing with land authority. Revisor explains HB1662 survives invalid HB1606; no cancellation of entire archived section inferred."
+    },
+    {
+      "id": "92.745:4823",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.745&bid=4823",
+      "sourceSha256": "85626ca163d64f2c2c73dc694d601045c01c8b8a2a05869eca5cc273de08a21d",
+      "textSha256": "410e6507de972b77191d27322970c3daf0cf210b184d3d5c6577225322a24863",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "In rem action and permitted pleadings",
+          "bodySha256": "ec481050b0d15d1a8ba6aac4cb0b742fb70fecde8cac3898dbf7cb90e997d0cc",
+          "reviewNote": "Read complete body and notes. Interest holders and taxing authorities differ from owners alone, sixty-day publication deadline extends Sunday/holiday and default is permissive. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Who may answer and contents of answers",
+          "bodySha256": "66209d2cf37e983b9d3683c5ef3a87bbb3ed449ff9bc8105034fef27958a6c70",
+          "reviewNote": "Read complete body and notes. Interest holders and taxing authorities differ from owners alone, sixty-day publication deadline extends Sunday/holiday and default is permissive. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Pleading format, filing and service deadlines",
+          "bodySha256": "e8c1cc868ddd202aa893556e0c8df37ab9cdb2b4589f1688f5bf18a75f418da4",
+          "reviewNote": "Read complete body and notes. Interest holders and taxing authorities differ from owners alone, sixty-day publication deadline extends Sunday/holiday and default is permissive. Separate review pending."
+        },
+        {
+          "number": 4,
+          "title": "Default judgment when no answer is filed",
+          "bodySha256": "89bf58cb1fe05f08d3b42e5b34c8cf45f0675d83c65ab155011f64517ae9f757",
+          "reviewNote": "Read complete body and notes. Interest holders and taxing authorities differ from owners alone, sixty-day publication deadline extends Sunday/holiday and default is permissive. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. In-rem pleadings and broad interested-party answer scope checked; sixty-calendar-day first-publication deadline with Sunday/legal-holiday extension retained, not generalized to every weekend; default is permissive."
+    },
+    {
+      "id": "92.750:51125",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.750&bid=51125",
+      "sourceSha256": "cb80b0e47c7876ced27c479f25ae9f42349b66fad216711b252e65f4d28ae298",
+      "textSha256": "8aefd992e93a5a539634e76f9e0affc6f28131973453cf6074e0c3c5dcd82a4f",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Redemption before the foreclosure sale",
+          "bodySha256": "17f769a4638a0b6c765a5e5d84e65fd765e6e6cf75ae88e89da554c05609f773",
+          "reviewNote": "Read full body and Byrd/Revisor notes; HB1662 language remains. Additional known collectible city debts exclude statutory sewer district debts; general and nonhomestead redemption distinguished. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Foreclosure of interests after failure to redeem",
+          "bodySha256": "24ec5cdca88f06fea874b28b2c161dee99eddb76fbc3ef8db16e03d5c9a04b98",
+          "reviewNote": "Read full body and Byrd/Revisor notes; HB1662 language remains. Additional known collectible city debts exclude statutory sewer district debts; general and nonhomestead redemption distinguished. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Redemption certificate and collector records",
+          "bodySha256": "fa299a359afb19e82c20c1f9cd901880315b1c79bfaadb3aa64d612187193676",
+          "reviewNote": "Read full body and Byrd/Revisor notes; HB1662 language remains. Additional known collectible city debts exclude statutory sewer district debts; general and nonhomestead redemption distinguished. Separate review pending."
+        },
+        {
+          "number": 4,
+          "title": "Redemption amounts for improved nonhomestead parcels",
+          "bodySha256": "978036df9412027a40910db9a2c2d96d427b3202f1d2a9a1f34bfcffd96e03e8",
+          "reviewNote": "Read full body and Byrd/Revisor notes; HB1662 language remains. Additional known collectible city debts exclude statutory sewer district debts; general and nonhomestead redemption distinguished. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Redemption before sheriff sale and interest foreclosure checked. Improved nonhomestead payment includes known collectable city debts but excludes statutory sewer-district debts; HB1662 survival note and HB1606 invalidity retained."
+    },
+    {
+      "id": "92.755:4825",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.755&bid=4825",
+      "sourceSha256": "f518479611c46e1efb941e8e736fc1a2d2d8fb87ef682d90b60654ccb37318aa",
+      "textSha256": "f5746f671c55b43fb3266d3e58dae7a0185de72fbf823a932d9db994b24297c1",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Publication schedule for foreclosure notice",
+          "bodySha256": "ee9b06932baf2a80e797573ddcb1a400f7695c4ec7c032f93d807110027defcd",
+          "reviewNote": "Read entire notice form and notes. In rem/no personal judgment, federal lien exceptions, answer deadline and redemption until sale remain in source; label avoids conflating defense deadline and redemption. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Required foreclosure notice form and contents",
+          "bodySha256": "5b2211150f12483cdface547b8ccd751d0c0c92e7fad089feb8bff24e1e1105d",
+          "reviewNote": "Read entire notice form and notes. In rem/no personal judgment, federal lien exceptions, answer deadline and redemption until sale remain in source; label avoids conflating defense deadline and redemption. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Full notice form read, including federal-lien exception, principal-only advertised totals, answer deadline versus redemption through sale, and in-rem/no-personal-judgment explanation. Four successive weekly same-day publications start under thirty-day requirement."
+    },
+    {
+      "id": "92.760:51126",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.760&bid=51126",
+      "sourceSha256": "baca4b5303d1d3015cd66b3e1b4a016be1b994c9220af4460ac53c829a99b894",
+      "textSha256": "ba2aa080c72882679913a2bdc8feb005c688bab26e8595bfd6e4e63c0eb2e4bb",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mailed filing notice and missing-record affidavits",
+          "bodySha256": "2e9043a8b3439e637f3682da4ec93b38723aecb9659d11ea2eb8307425266d8e",
+          "reviewNote": "Read full body, notice form and annotations. Revisor removed HB1606 differences; HB1662 remains. Failure to mail invalidates proceedings, failure to file affidavit does not; no assumptions about historical due-process annotation. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Filing notice form and taxpayer information",
+          "bodySha256": "5a5f3eff7387d7870151429e452b2cf84297eb3f60662f9560d60b78bc05825b",
+          "reviewNote": "Read full body, notice form and annotations. Revisor removed HB1606 differences; HB1662 remains. Failure to mail invalidates proceedings, failure to file affidavit does not; no assumptions about historical due-process annotation. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. All mailed notice text and affidavit rules read. Failure to mail invalidates proceedings, failure to file affidavit does not; thirty-day mailing and sixty-day affidavit deadlines differ.1979due-process annotation and explicit removal of HB1606 differences in favor of HB1662 retained."
+    },
+    {
+      "id": "92.770:51128",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.770&bid=51128",
+      "sourceSha256": "f41f159a6d1c7f55047e28cb8de29de1229f20b0c6327ff2d135a509a3338b5a",
+      "textSha256": "f67d34281108ecb462940c53812d88dd08820196ccb86e4b6f4dc61e46da8168",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Employment of tax collection attorneys",
+          "bodySha256": "5adee52fc2d5d6f125feedc5a9cf3d863949b2edbca36b38b7a3ababf823a677",
+          "reviewNote": "Read complete source and Byrd/Revisor notes. HB1662 remains; actual collected taxes determine percentage, pre-service written approval and publication-dependent suit amounts retained. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Attorney compensation limits and written approval",
+          "bodySha256": "b117c18fa139b55f79031fb8110ad7b3fdc18b59249ff5ae7e7868fa8753e0d4",
+          "reviewNote": "Read complete source and Byrd/Revisor notes. HB1662 remains; actual collected taxes determine percentage, pre-service written approval and publication-dependent suit amounts retained. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Attorney fees collected as litigation costs",
+          "bodySha256": "fb9e45ff1eec4b36920ca81dd0c3ff0185e0c3b3cf90a70d68b82b5308a10044",
+          "reviewNote": "Read complete source and Byrd/Revisor notes. HB1662 remains; actual collected taxes determine percentage, pre-service written approval and publication-dependent suit amounts retained. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Collector hiring discretion, six-percent actual-tax ceiling plus filing/publication amounts and prior written approval checked. Costs treatment and identical HB1662 surviving amendment note retained."
+    },
+    {
+      "id": "92.775:51129",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.775&bid=51129",
+      "sourceSha256": "fd486eb1fb43ab45330b3e5c7332897e19e38f46104b97ab129c36c9f9733a37",
+      "textSha256": "0350f39d0db1df49e346a180d881c1b56fd27724085413f64125192be9997f2b",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Tax bill evidence and pleaded invalidity defenses",
+          "bodySha256": "268e54d36815d4ed72dfbdf4e450a8845689b60a70c9c1148288d538d127bc06",
+          "reviewNote": "Read full body and Byrd/Revisor notes; surviving HB1662 text includes repeated separate-appeal sentence, left unrepaired. Surplus receipt bars recipient land claims, separate relief/appeal conditions and nonstay provisions retained. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Foreclosure judgment, proceeds, surplus claims and dismissals",
+          "bodySha256": "f6667c4767104c53fa2104b5fd11baf2fd1a7f5e1eeab23424c5e2fb299761ac",
+          "reviewNote": "Read full body and Byrd/Revisor notes; surviving HB1662 text includes repeated separate-appeal sentence, left unrepaired. Surplus receipt bars recipient land claims, separate relief/appeal conditions and nonstay provisions retained. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Severance, appeals and nonjury equitable proceedings",
+          "bodySha256": "0af9460e74304ce8035d6dd1b3ee1d4b0831f691be2238b3aa45d6f8fd6b97ad",
+          "reviewNote": "Read full body and Byrd/Revisor notes; surviving HB1662 text includes repeated separate-appeal sentence, left unrepaired. Surplus receipt bars recipient land claims, separate relief/appeal conditions and nonstay provisions retained. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Full surplus proceeds, dismissal exceptions, validity/priority appeals and separate nonstaying appeals read. Receipt of surplus bars recipient property claim; nonjury equity/severance does not delay other issues. Repeated appeal sentence retained, and HB1662 survival noted."
+    },
+    {
+      "id": "92.810:51130",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.810&bid=51130",
+      "sourceSha256": "f119f062ab567687c40cb114ed3510722f6f6fed3511e47bff9902cc4ef9aab1",
+      "textSha256": "6e9fd6306d4c4ef32447e41647db27641be405b500dc5daa6cb0896dba5b98a0",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Waiting period before advertising a foreclosure sale",
+          "bodySha256": "2b72e93c2ee89193d68fed4f02a184722f7fdff5d9d436672ceb0f376ceb1da3",
+          "reviewNote": "Read full body and Revisor/Byrd notes. Removed HB1606 differences and missing-at marker preserved, not repaired. Distinct120/40/20-day duties and attempt-not-guaranteed service explicit; optional renovation transfer requires reimbursement. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Advertising and sale after the redemption period",
+          "bodySha256": "2a9cfda8c18184a844555e062820e139a1b1a5b24141d4d090ebd8bf7893a8b6",
+          "reviewNote": "Read full body and Revisor/Byrd notes. Removed HB1606 differences and missing-at marker preserved, not repaired. Distinct120/40/20-day duties and attempt-not-guaranteed service explicit; optional renovation transfer requires reimbursement. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Title reports, competitive procurement and costs",
+          "bodySha256": "5145a1a9ec3d82c01387a082d1e036d018e537f5a3f3e4442bc8227687d52ab9",
+          "reviewNote": "Read full body and Revisor/Byrd notes. Removed HB1606 differences and missing-at marker preserved, not repaired. Distinct120/40/20-day duties and attempt-not-guaranteed service explicit; optional renovation transfer requires reimbursement. Separate review pending."
+        },
+        {
+          "number": 4,
+          "title": "Sale notice to title-report parties and lienholders",
+          "bodySha256": "595825ea4c05b48a165f225640cb20496978bf749fab140dd08786b426dfcd72",
+          "reviewNote": "Read full body and Revisor/Byrd notes. Removed HB1606 differences and missing-at marker preserved, not repaired. Distinct120/40/20-day duties and attempt-not-guaranteed service explicit; optional renovation transfer requires reimbursement. Separate review pending."
+        },
+        {
+          "number": 5,
+          "title": "Sale notice to assessor-record and known interested parties",
+          "bodySha256": "a48eebd7ea283eb897bed6777591d50ba66b951530bc0d517b9f5835e4c31bc5",
+          "reviewNote": "Read full body and Revisor/Byrd notes. Removed HB1606 differences and missing-at marker preserved, not repaired. Distinct120/40/20-day duties and attempt-not-guaranteed service explicit; optional renovation transfer requires reimbursement. Separate review pending."
+        },
+        {
+          "number": 6,
+          "title": "Posted property notice and photographic documentation",
+          "bodySha256": "353ef239ab5a8162712e6ff73f353bf6a89de45dfb0e8203c730077638d0bbd7",
+          "reviewNote": "Read full body and Revisor/Byrd notes. Removed HB1606 differences and missing-at marker preserved, not repaired. Distinct120/40/20-day duties and attempt-not-guaranteed service explicit; optional renovation transfer requires reimbursement. Separate review pending."
+        },
+        {
+          "number": 7,
+          "title": "Attempted in-person notice and documentation",
+          "bodySha256": "1c9eb7f2f2f27c9e3a385f53d1326662c11ce7bdbb9f3508c50e26124d31944d",
+          "reviewNote": "Read full body and Revisor/Byrd notes. Removed HB1606 differences and missing-at marker preserved, not repaired. Distinct120/40/20-day duties and attempt-not-guaranteed service explicit; optional renovation transfer requires reimbursement. Separate review pending."
+        },
+        {
+          "number": 8,
+          "title": "Transfer of qualifying residential property for renovation",
+          "bodySha256": "05ef9ea4230ef867312d77edf3a421b05ac58fa011ae20889a0e20d4cfa21935",
+          "reviewNote": "Read full body and Revisor/Byrd notes. Removed HB1606 differences and missing-at marker preserved, not repaired. Distinct120/40/20-day duties and attempt-not-guaranteed service explicit; optional renovation transfer requires reimbursement. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. All eight provisions read: alternative six-month waiting triggers, title report120days, title-party20day and assessor-party40day notice, posted weatherproof photographic proof, and attempted in-person notice20days. Attempt not successful delivery required; renovation transfer/reimbursement and HB1662/source missing-at note retained."
+    },
+    {
+      "id": "92.815:51131",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.815&bid=51131",
+      "sourceSha256": "7e3f7036a4abcf99bf5238e1dbdc3c741ad89d0a1f2513729763f42b6b6ab8f5",
+      "textSha256": "2611293781101d40a90c25e5c402a6e78f3c628bc89ac55a9965ae8a3b0cdc98",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Redemption contracts, eligibility and installment terms",
+          "bodySha256": "c373588319c99ff62b6581b4da3c63f5f052fe55cf15605b031b86e2584d56cd",
+          "reviewNote": "Read full source and HB1662/Byrd notes. Court-extension language for low-value income property coexists with collector prohibition for improved nonhomesteads; no harmonizing inference made. Default ends waiting extension and notice remains required. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Payment compliance, default and sale notice",
+          "bodySha256": "f4904d6d52d3d35f1380b77316e3bd1322b23599009c0c8eeeb0fe99aa969d78",
+          "reviewNote": "Read full source and HB1662/Byrd notes. Court-extension language for low-value income property coexists with collector prohibition for improved nonhomesteads; no harmonizing inference made. Default ends waiting extension and notice remains required. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Annual public count of redemption contract parcels",
+          "bodySha256": "7a0bfae8f60aff00ffb038511e2ea8d2946db81ffc336d28d296bffeca170512",
+          "reviewNote": "Read full source and HB1662/Byrd notes. Court-extension language for low-value income property coexists with collector prohibition for improved nonhomesteads; no harmonizing inference made. Default ends waiting extension and notice remains required. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Homestead no-prior-default contract, twelve-installment/twenty-four-month limits, judicial forty-eight-month extension and express improved-nonhomestead bar all read. Apparent tension with low-value income-property extension retained without resolving it. Default notice and annual count checked; HB1662 survival retained."
+    },
+    {
+      "id": "92.817:51132",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.817&bid=51132",
+      "sourceSha256": "6ef964e0c50dc6221e982b21f5bc38a0896cf09fa189b1bf773c10a7f9e227d5",
+      "textSha256": "0a0eaa4e3a536ac473169d2f77b784652104066b3ed04e5a81822ac500fb526b",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Stay of tax sale during qualifying property actions",
+          "bodySha256": "9cf70943af394d2768e2ef12a6986782c28475defa7b5d90ca69e84abab438f1",
+          "reviewNote": "Read complete source and HB1662/Byrd notes; principal-only deposit conditions stay, defendant exclusion to extinguishment and owner retroactive penalties/costs retained. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Tax payments and penalty extinguishment after possession",
+          "bodySha256": "904376d3fb63fa66409e659194ebfbd1a17b7a2a34da134fe2c2407d689f23e7",
+          "reviewNote": "Read complete source and HB1662/Byrd notes; principal-only deposit conditions stay, defendant exclusion to extinguishment and owner retroactive penalties/costs retained. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Owner restoration payments and reimbursement",
+          "bodySha256": "76c70697b3492b873bc4ede27a50d012f47a0f9da046d5029205287287cdb626",
+          "reviewNote": "Read complete source and HB1662/Byrd notes; principal-only deposit conditions stay, defendant exclusion to extinguishment and owner retroactive penalties/costs retained. Separate review pending."
+        },
+        {
+          "number": 4,
+          "title": "Refund after dismissal before temporary possession",
+          "bodySha256": "5f704ac03e6dd9d5d8878d514222254e5d3c34347d4ff7beb5ad6302c697c622",
+          "reviewNote": "Read complete source and HB1662/Byrd notes; principal-only deposit conditions stay, defendant exclusion to extinguishment and owner retroactive penalties/costs retained. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Stay conditioned on court-ordered principal payment before sale; temporary-possession remittance and final-deed penalty extinguishment exclude defendant. Owner restoration requires full retroactive charges and payer refund; dismissal before possession returns principal. HB1662 note retained."
+    },
+    {
+      "id": "92.820:4834",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.820&bid=4834",
+      "sourceSha256": "d26be0ee08792d9fe8ebace4203d7afdabdcde48bff2751f1b106ce7e55fc6a5",
+      "textSha256": "6a47565c1b7fe8d132c47fee0dedcd85e92c6e0164eb32ac5d2cd73e73fa7a8a",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Courthouse location and posted sale advertising",
+          "bodySha256": "947bf48d141fb83cc7262862caec282e814df7753ec51a080b04bf98be94a88b",
+          "reviewNote": "Read entire notice and notes. Preserved source incomplete phrase \"The sheriff’s shall run\" without repair; bids require confirmation and occupancy application when applicable, vacant parcels excluded. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Sheriff sale notice form and occupancy applications",
+          "bodySha256": "0ec393fb406fc1ec56c839b064fa897fef7e43e383bd058b094a554447f8fc97",
+          "reviewNote": "Read entire notice and notes. Preserved source incomplete phrase \"The sheriff’s shall run\" without repair; bids require confirmation and occupancy application when applicable, vacant parcels excluded. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Full posted sale form read, including immediate cash, courthouse/hours, authority fallback and confirmation. Occupancy application within ten days distinguished from obtaining permit; vacant parcels exception and original awkward sheriff wording left unchanged."
+    },
+    {
+      "id": "92.825:51133",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.825&bid=51133",
+      "sourceSha256": "d7884e4b1934027bbfd156dff6457be5f4d8ec3352ce4afabc9b84fd9a8deb03",
+      "textSha256": "54b2d123473d39738dcecef0951a1e1a6b418fad45b78f2c28460e014ba62534",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Sale procedure, sheriff return and deed execution",
+          "bodySha256": "6958c418cde99e1a8309fee92327145823a34f1ae33a3721b50d1497d0ffb182",
+          "reviewNote": "Read full source and HB1662/Byrd notes. Bidder exclusions, ten-day demonstration, authority exceptions and statutory sewer-debt exclusion retained; not all liens extinguished. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Interests conveyed and preserved rights or liens",
+          "bodySha256": "40975bdacbb19209461eb1bc5a3c7e0e507ba684677267ceda375d3e259d9bbe",
+          "reviewNote": "Read full source and HB1662/Byrd notes. Bidder exclusions, ten-day demonstration, authority exceptions and statutory sewer-debt exclusion retained; not all liens extinguished. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Publication expense advances, allocation and recovery",
+          "bodySha256": "a382ce172fe7626fd02f1e7caac4de5a24bf21559490b10312254503bb43bec6",
+          "reviewNote": "Read full source and HB1662/Byrd notes. Bidder exclusions, ten-day demonstration, authority exceptions and statutory sewer-debt exclusion retained; not all liens extinguished. Separate review pending."
+        },
+        {
+          "number": 4,
+          "title": "Bidder eligibility and immediate purchase payment",
+          "bodySha256": "1d4da5e52cfc3b1817fe47c1523e47e68d1c8ffdeaad3937bfc32b3ca74fb097",
+          "reviewNote": "Read full source and HB1662/Byrd notes. Bidder exclusions, ten-day demonstration, authority exceptions and statutory sewer-debt exclusion retained; not all liens extinguished. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Execution-sale procedure and preserved utility rights/federal liens checked; publication advances prorated and no surviving cost lien. Ten-day bidder showing, prior failures, authority exceptions and immediate cash excluding statutory sewer debts read with HB1662 note."
+    },
+    {
+      "id": "92.830:4836",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.830&bid=4836",
+      "sourceSha256": "4c0dbac328dfa4f2d701478f3901518f7b9f081837a8dc958e922c760c263be6",
+      "textSha256": "cc3a073265d2d0f6551460a2b31a949f6ba6b9558bda19d80f6d0756752e0910",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Deemed authority bid when other bids are insufficient",
+          "bodySha256": "dd7c7d2820cf506c365709c205bb3ab981f6721a6c51ca8453c3d801adde4323",
+          "reviewNote": "Read full body and notes. Later higher bids and court confirmation conditions remain; deemed bid is not immediate cancellation. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Cancellation and accounting after an authority purchase",
+          "bodySha256": "41c03f46e6128aad3b0730e1f2b8d950da769ca754241fa7d3eb293986ec167f",
+          "reviewNote": "Read full body and notes. Later higher bids and court confirmation conditions remain; deemed bid is not immediate cancellation. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Deemed authority bid requires no sufficient bid and no higher bid before acceptance announcement; confirmation then notification triggers cancellation and collector credit."
+    },
+    {
+      "id": "92.835:51134",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.835&bid=51134",
+      "sourceSha256": "e220327c57fc8c17a55ec0b09495eaa76a170e987801442336d93a7445381338",
+      "textSha256": "09d268c7d30145e1d0be9396e96278fd0864ff68dac3edbdeffa5d4de1959d18",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority title held in trust for tax interests",
+          "bodySha256": "46f5f35c11aaf6d61716624111f5de42d02554a5fe104ebc69dc1264b35614c4",
+          "reviewNote": "Read full body and HB1662/Byrd notes. Utility rights-of-way and federal tax liens expressly survive, authority-specific special-tax exclusions distinguished. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Purchaser title, possession and surviving rights",
+          "bodySha256": "8ce0b6637c2aef77dfba0acdf15abd84b290f7c6685ccfbe7ad12320d4ed77f9",
+          "reviewNote": "Read full body and HB1662/Byrd notes. Utility rights-of-way and federal tax liens expressly survive, authority-specific special-tax exclusions distinguished. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Authority trust interests distinguished from confirmed purchaser fee simple, utility/federal exceptions and immediate possession; authority-specific tax/special-bill lien clearance retained alongside HB1662 note."
+    },
+    {
+      "id": "92.840:51135",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.840&bid=51135",
+      "sourceSha256": "13b7fba6c86e07899f308073ae50a559216b6fd8dabc1d8344e80895686330b3",
+      "textSha256": "9ed0d867b47c04bf3b14aafb48d1cad4f30569630e63f72acd10bf59f3058152",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Confirmation hearing, notice and adequacy findings",
+          "bodySha256": "2f48b0bdad4e4fbe13984194acde4412430da6e232fc4ef22c5171d0d569c8bb",
+          "reviewNote": "Read all ten subsections and HB1662/Byrd/original-roll notes. Application within ten days differs from obtaining permit before transfer; public-corporation exception, nonlien liquidated damages, discretionary penalty and purchaser exception to deposit retained. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Bid adjustment, confirmation or resale",
+          "bodySha256": "b5b4276b3cc3f5b42a19ae9fc1dd129e65750756fc9460b3fda365fd941db135",
+          "reviewNote": "Read all ten subsections and HB1662/Byrd/original-roll notes. Application within ten days differs from obtaining permit before transfer; public-corporation exception, nonlien liquidated damages, discretionary penalty and purchaser exception to deposit retained. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Priority of sale proceeds and surplus claims",
+          "bodySha256": "3c6fb97011aa55b902e7aec97daa5c3ceb67fb08cc637e865d68524c5429ea3d",
+          "reviewNote": "Read all ten subsections and HB1662/Byrd/original-roll notes. Application within ten days differs from obtaining permit before transfer; public-corporation exception, nonlien liquidated damages, discretionary penalty and purchaser exception to deposit retained. Separate review pending."
+        },
+        {
+          "number": 4,
+          "title": "Unclaimed surplus distribution after two years",
+          "bodySha256": "6776a1db8937dac8667b78460b6e73c0d32b46865379df4773d3ac15311e5265",
+          "reviewNote": "Read all ten subsections and HB1662/Byrd/original-roll notes. Application within ten days differs from obtaining permit before transfer; public-corporation exception, nonlien liquidated damages, discretionary penalty and purchaser exception to deposit retained. Separate review pending."
+        },
+        {
+          "number": 5,
+          "title": "City funding for defense of notice challenges",
+          "bodySha256": "82100ac9f3f6e3ec1b3973368d3ecb669aefcb05c276cf4a85c832a3f77e65be",
+          "reviewNote": "Read all ten subsections and HB1662/Byrd/original-roll notes. Application within ten days differs from obtaining permit before transfer; public-corporation exception, nonlien liquidated damages, discretionary penalty and purchaser exception to deposit retained. Separate review pending."
+        },
+        {
+          "number": 6,
+          "title": "Meaning of occupancy permit",
+          "bodySha256": "9f5b30a5fb8832ff920298e88d4208805b926fea47cfb1c9775465ba0197aa1b",
+          "reviewNote": "Read all ten subsections and HB1662/Byrd/original-roll notes. Application within ten days differs from obtaining permit before transfer; public-corporation exception, nonlien liquidated damages, discretionary penalty and purchaser exception to deposit retained. Separate review pending."
+        },
+        {
+          "number": 7,
+          "title": "Occupancy permit applications and failure to apply",
+          "bodySha256": "5d87a55cd470d8bbbc5c19e5ea5da0ea792d3faec28d858266bd662c3cf70a59",
+          "reviewNote": "Read all ten subsections and HB1662/Byrd/original-roll notes. Application within ten days differs from obtaining permit before transfer; public-corporation exception, nonlien liquidated damages, discretionary penalty and purchaser exception to deposit retained. Separate review pending."
+        },
+        {
+          "number": 8,
+          "title": "Deed restriction, later permit acquisition and damages",
+          "bodySha256": "30e7716c680a4df27d6dc1c8dc0f4ba81a9183e3f08946f5aecf6706f0b4d74e",
+          "reviewNote": "Read all ten subsections and HB1662/Byrd/original-roll notes. Application within ten days differs from obtaining permit before transfer; public-corporation exception, nonlien liquidated damages, discretionary penalty and purchaser exception to deposit retained. Separate review pending."
+        },
+        {
+          "number": 9,
+          "title": "Possible penalty for unconfirmed sales",
+          "bodySha256": "acedd41943136a918a4722a37e1af35de333c59fb3c6d0d2e4409b49d56c9287",
+          "reviewNote": "Read all ten subsections and HB1662/Byrd/original-roll notes. Application within ten days differs from obtaining permit before transfer; public-corporation exception, nonlien liquidated damages, discretionary penalty and purchaser exception to deposit retained. Separate review pending."
+        },
+        {
+          "number": 10,
+          "title": "Redemption deposit for post-deed set-aside motions",
+          "bodySha256": "f873f3692bf7ee4c364bf1d406d2f684621de0f01a1775a8191f66f4daf86403",
+          "reviewNote": "Read all ten subsections and HB1662/Byrd/original-roll notes. Application within ten days differs from obtaining permit before transfer; public-corporation exception, nonlien liquidated damages, discretionary penalty and purchaser exception to deposit retained. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. All ten subsections read: six-month hearing-setting rule, notice findings/value exception, bid increase/resale, priority and unclaimed two-year surplus, defense fund and occupancy definition. Ten-day application differs from permit required before later transfer;5000damages not lien. Unconfirmed-sale penalty discretionary; post-deed deposit excludes sale purchaser. HB1662 and original-rolls collector note preserved."
+    },
+    {
+      "id": "92.860:4843",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.860&bid=4843",
+      "sourceSha256": "94d35ae62b7731a0b77b9eefda1332ff1173614bbb8c5509653bc34838c62366",
+      "textSha256": "eb97bad8c0739d00956241d9b75916b59202da1942903612e5d7f97da8998418",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorized fees for tax foreclosure services",
+          "bodySha256": "a13036c89cc2d7dce93427d412ef399d6b3ea20bf3f3eec1ee03f125a7c096c0",
+          "reviewNote": "Read full source and notes. Collector percentage/per-tract amounts differ from civil service fee schedules and payment sources. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Collection of fees as redemption or sale costs",
+          "bodySha256": "1f83a128066ccd6b36de6eb959bbd4cb5b6d8874939bea5b2415f33d43660925",
+          "reviewNote": "Read full source and notes. Collector percentage/per-tract amounts differ from civil service fee schedules and payment sources. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Collector percentage/tract fee and like-service civil fees checked; charge as costs to redeemer or proceeds rather than unstated personal liability."
+    },
+    {
+      "id": "92.863:4844",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.863&bid=4844",
+      "sourceSha256": "57b8c62979719f11121803a948090e48160de8be9409c557e6ba8b7cae8a9580",
+      "textSha256": "cd0a80e44dd6a43c9316a7647f2f993f1ba797f26bda4e511b672c037fac3b17",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Proportional allocation of costs among taxing authorities",
+          "bodySha256": "93728e5b6f707be47d30b78de947bea615dfa5b176350c1afee7e7c2b3af5222",
+          "reviewNote": "Read full body and notes. Certificate, publication and sale-notice fees accumulate depending on procedural stage. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Additional collector costs upon redemption",
+          "bodySha256": "e3c6c83d0c068d29d3b25b04daabe50aa9aec0a2462f129b56aee8a03e4a5af1",
+          "reviewNote": "Read full body and notes. Certificate, publication and sale-notice fees accumulate depending on procedural stage. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Pro-rata taxing-authority allocation distinguished from additional redeemer fees for certificate and separately commenced publications."
+    },
+    {
+      "id": "92.875:4847",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.875&bid=4847",
+      "sourceSha256": "c6caa6a67cebe861736ad9d63c3dccb988c8c0eb77a6be75e470d3d493136187",
+      "textSha256": "66971f974f74cf0f38a22a2bc53eb3dcebe5b8ad285cc8e49dec1591aa0a068c",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority creation, property powers and governmental status",
+          "bodySha256": "cc9e0f728d293bca21ce80851f5cf6f9a4dde7572453085b549530e044cfec4a",
+          "reviewNote": "Read full body and notes. Grant acceptance and governmental corporation functions distinct from housing/job/tax public purposes. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Public purposes of returning land to use",
+          "bodySha256": "2c796353c490dfdccee5382a91a081fc3a8be3893a3c61432711aa3815652f7d",
+          "reviewNote": "Read full body and notes. Grant acceptance and governmental corporation functions distinct from housing/job/tax public purposes. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Authority acquisition, gifts and disposition powers read with public-corporation governmental status; public purpose does not promise any specific housing/job result."
+    },
+    {
+      "id": "92.885:4849",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.885&bid=4849",
+      "sourceSha256": "0b6ddb5a29183e857cd150047ce3c9f5e603a29d50a76b45d706b3384912dfba",
+      "textSha256": "4f4b274331dd21cd36e8cb170e96430c7abe81d6a11b2858b076972f16b0db8c",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority appointments and uncompensated service",
+          "bodySha256": "6fe8117db5609460b791373bd7a643dae27369f34756c063c7fe80c6eb185076",
+          "reviewNote": "Read complete source and notes. Three distinct appointing authorities, pleasure service and stated expiration-based fallback retained without inventing term length. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Vacancies and fallback mayoral appointments",
+          "bodySha256": "66eaeb36fe0ebd39280bb32d898829459c58486f7f147e3dc24b05fc1ad4922f",
+          "reviewNote": "Read complete source and notes. Three distinct appointing authorities, pleasure service and stated expiration-based fallback retained without inventing term length. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Three appointing bodies, pleasure-of-authority tenure and no additional employee compensation checked; same-authority vacancy rule and mayor fallback retained as written."
+    },
+    {
+      "id": "92.890:4850",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.890&bid=4850",
+      "sourceSha256": "69dfb59267d4086b638f04a1487039ee99c05d806af92fe385a2f06bdfeedb5e",
+      "textSha256": "59dfa7c01436079921ff1f4aee674d4db37fd0d1127d17382f18383c36e81026",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Initial meeting and officer selection",
+          "bodySha256": "cfd73ceba100da0ac2ed9b7420f5b49f62b1a7d1bc6ed4a7b6c2f2baa5ea6a82",
+          "reviewNote": "Read complete source including full oath and notes. Existing governmental coverage exception and collective bond wording retained. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Commissioner surety bonds and city-paid premiums",
+          "bodySha256": "cda410b83a84b5b034dcea108e2fa966bd10a53c6f9d339831eb61cfc328aba8",
+          "reviewNote": "Read complete source including full oath and notes. Existing governmental coverage exception and collective bond wording retained. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Commissioner oath of office",
+          "bodySha256": "f25d28e1b7da05b8b8d7c0ae644bb76052dc380d38698f7a14f44ede17ce7cc7",
+          "reviewNote": "Read complete source including full oath and notes. Existing governmental coverage exception and collective bond wording retained. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Initial officer selection, governmental-bond exception, licensed surety ceiling/city premium and complete sworn oath checked; no new oath text drafted."
+    },
+    {
+      "id": "92.895:4851",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.895&bid=4851",
+      "sourceSha256": "4802716256538c3f2f70666e9844a74fc96f9947b9b7166bdbef8922b2fc6c44",
+      "textSha256": "d20257923a237b799a3495f814c8fc15b69e9f3f8fef3d8ce6de45fc7fc5585c",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Corporate continuity, seal and execution of deeds",
+          "bodySha256": "ab25299dd7b60933b56c072b47ae736ce3c405f511cf13dc0d670b769988104d",
+          "reviewNote": "Read full body and notes. Two-thirds appraisal threshold requires two appointing consents, distinct from no beneficiary consent; retained reversion limited to two years. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Conveyance, below-appraisal consent and reversionary interests",
+          "bodySha256": "3c7b29d80ef0a5e2de87559b34fd8eba1b9d229092028572765e552d996f46fa",
+          "reviewNote": "Read full body and notes. Two-thirds appraisal threshold requires two appointing consents, distinct from no beneficiary consent; retained reversion limited to two years. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Continuing corporate seal and deed execution read; below-two-thirds appraisal price requires two appointing authorities consent, rather than every below-appraisal sale. Two-year reversion option preserved."
+    },
+    {
+      "id": "92.905:4853",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.905&bid=4853",
+      "sourceSha256": "e2e2d3648fb456573facf1da1e2ec98cab53e56ced4566d1c2d02eb77b16543b",
+      "textSha256": "f373a0fd794e9ae64d5e3ce5f78ed409bdcf4b158fbaac41bd62e01d38433c1f",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Staffing, expenses and supplemental city advances",
+          "bodySha256": "66cf1f3be9cf03e067b68f39215854c2c8ffceb6cdef9125dd34ec0d9531e483",
+          "reviewNote": "Read complete text and notes. Excess costs need approval and appropriation, advances repayable; account and warrant functions distinguished. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Comptroller handling of appropriated expense funds",
+          "bodySha256": "66636a04ce7ba491084dfb81430a78ea5a2ab7db2363815cfff59c2840ba2954",
+          "reviewNote": "Read complete text and notes. Excess costs need approval and appropriation, advances repayable; account and warrant functions distinguished. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "City deposits, separate accounts and authorized disbursements",
+          "bodySha256": "26b651ecfe658f2e69559a1bf466a409a72de1ddd85071aff04b58b5cf508b67",
+          "reviewNote": "Read complete text and notes. Excess costs need approval and appropriation, advances repayable; account and warrant functions distinguished. Separate review pending."
+        },
+        {
+          "number": 4,
+          "title": "Fiscal year, claim audits and payment warrants",
+          "bodySha256": "8563e1959d4c0dd636167fea7119170651b262c71de196853c7e5f32be3c3c4a",
+          "reviewNote": "Read complete text and notes. Excess costs need approval and appropriation, advances repayable; account and warrant functions distinguished. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Expense staff power and approved appropriated advances subject to repayment checked; comptroller versus treasurer roles, separate vouchers/accounts and January fiscal year retained."
+    },
+    {
+      "id": "92.915:4855",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.915&bid=4855",
+      "sourceSha256": "bfde495184f7d16b44e78418c692bf9decd5a7add2f961e90d1b0a27232e0d33",
+      "textSha256": "6f5370913e2b5d5831c608fb36b85791e5b1f9a9b095ca23a6f6f91d49419a6b",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Separate expense accounts for each parcel",
+          "bodySha256": "ef523dc03feb79287f1a6037eacd90b88a739233309f8d2d4dfaf45e6d47d69f",
+          "reviewNote": "Read full body and notes. Section92.900 exception, apportioned expenses, tax-principal proportions/priorities and semiannual discretionary extra distributions retained. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Disposition proceeds, expense priority and distributions",
+          "bodySha256": "1ac52bb3321c25b24d3f38cc056426a0a4aba27b5eecb441a5483446aa898d27",
+          "reviewNote": "Read full body and notes. Section92.900 exception, apportioned expenses, tax-principal proportions/priorities and semiannual discretionary extra distributions retained. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Parcel expense accounts and expense-first distribution subject to92.900 read; principal-based priority allocation and January/July plus discretionary distribution dates preserved."
+    },
+    {
+      "id": "92.916:4856",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.916&bid=4856",
+      "sourceSha256": "ad17bf94e1deb9d2a6f7b68c2372c589a385ff8e42d1253fda8c2e1a73133ad1",
+      "textSha256": "2f2f4b94969fb703a3a5d24b5fcd290a45115c6e2f49fe8fcdd521839d97b0a7",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Collector review and certification before distributions",
+          "bodySha256": "aee934712bdcbcaf853b68a7b858bc641a779488f4ead8f8e7163cbc7719761c",
+          "reviewNote": "Read full text and notes. Subsection3 references nonexistent subdivision3 of92.915(2), left unrepaired; ten-day objection period and source cost wording retained. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Transfer and payment of allocated costs",
+          "bodySha256": "f127d190b2d82464bc1134c8ab3ffe54a769e38a396037ca7457e06cc0781718",
+          "reviewNote": "Read full text and notes. Subsection3 references nonexistent subdivision3 of92.915(2), left unrepaired; ten-day objection period and source cost wording retained. Separate review pending."
+        },
+        {
+          "number": 3,
+          "title": "Taxing authority shares, notice and objections",
+          "bodySha256": "9728f3fbfe95ac3213baf96eab86f3a707291ef069da62afd241174d14c0eadc",
+          "reviewNote": "Read full text and notes. Subsection3 references nonexistent subdivision3 of92.915(2), left unrepaired; ten-day objection period and source cost wording retained. Separate review pending."
+        },
+        {
+          "number": 4,
+          "title": "Additional annual collector compensation",
+          "bodySha256": "65acc7453b86e94853b83213d66db21904b912ffbb8ef594fbd49025d65b2d3e",
+          "reviewNote": "Read full text and notes. Subsection3 references nonexistent subdivision3 of92.915(2), left unrepaired; ten-day objection period and source cost wording retained. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Certification, costs transfer, tax-year shares and ten-day objection sequence read in full. Source points to nonexistent92.915(2)(3); not silently repaired or used to invent allocation detail. Annual compensation amount retained."
+    },
+    {
+      "id": "92.920:4857",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=92.920&bid=4857",
+      "sourceSha256": "49b17007b60aaa593474a0fb63b92573684e5c15d3c5e17cb081d0a8f173398b",
+      "textSha256": "03dbd86982aa1fa84e92b6774ed7d662d49f4742c85d756ab30d0d9c39299c9f",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Limits on member and employee personal profits",
+          "bodySha256": "2019ba05d28111829b99435a774362a484f20a9fa9ff4ae1df78fae48fbc887f",
+          "reviewNote": "Read full text and notes. Authorized salary/expense exception preserved; criminal label reflects conviction provision without adding liability elements. Separate review pending."
+        },
+        {
+          "number": 2,
+          "title": "Felony penalty for prohibited profits",
+          "bodySha256": "b439683d077fdce5684fec80e61a8e8514ed4cc84421129182207a1d235fe441",
+          "reviewNote": "Read full text and notes. Authorized salary/expense exception preserved; criminal label reflects conviction provision without adding liability elements. Separate review pending."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Profit prohibition limited by authorized salaries/expenses/emoluments and felony sentencing language read; topic label does not assign an unsupported felony class."
+    }
+  ]
+}
