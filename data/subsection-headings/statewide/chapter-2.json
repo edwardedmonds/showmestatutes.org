@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex draft and separate editorial review against complete archived source versions and notes; not independent legal review.",
+  "entries": [
+    {
+      "id": "2.080:80",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=2.080&bid=80",
+      "sourceSha256": "d39fc888196c37c0f0e60e73b68065efb93b6b144bb53a43f8bc30bf42bf5bdd",
+      "textSha256": "332c306b7225b86e0e9471c9cde81fb12cd91e256ad03933db1d913c913ef5ba",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Journal compilation, correction, indexing, and distribution",
+          "bodySha256": "ba0a226be4d707d4b5b0dd2cbd70020db6232687e52af1e6c8022c69f6aa4855",
+          "reviewNote": "Separately checked against the complete archived version and notes. Chamber officials, committee distribution, common index and preservation-format choices checked."
+        },
+        {
+          "number": 2,
+          "title": "Formats for preserving legislative journals",
+          "bodySha256": "d3d11a4b4bc49995f6e000670295e36199ca6f1242418f21f78b69585a85deff",
+          "reviewNote": "Separately checked against the complete archived version and notes. Chamber officials, committee distribution, common index and preservation-format choices checked."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Chamber officials, committee distribution, common index and preservation-format choices checked."
+    }
+  ]
+}

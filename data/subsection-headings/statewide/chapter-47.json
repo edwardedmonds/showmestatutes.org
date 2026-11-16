@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafting followed by a separate agent editorial review against complete archived source; not independent legal review.",
+  "entries": [
+    {
+      "id": "47.310:1621",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=47.310&bid=1621",
+      "sourceSha256": "436a0fe8d5bcec8b26de2f03eed3ce3b071b39d565ef1ec14e9215db580433ff",
+      "textSha256": "2312d1114c476c02fafc1bbb9adda2d1ac743fe94e7b3f35adae2a6ea4af8e01",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "headings_b",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Petitions and elections for county boundary changes",
+          "bodySha256": "5d6859e11bd65f59b13d7e7258c407dc30163b831eddff1b8dc1e5fdda8e36d5",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 2,
+          "title": "Form of the boundary-change ballot question",
+          "bodySha256": "a2af98a44276289a98aea9c571f2776a3f776347ed1c768fd09d7080960090b6",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 3,
+          "title": "Certification, legislative action, and repeat-election limits",
+          "bodySha256": "574b6a438578e78ae2fbbf82ad6825eafadc5565d1e0366d07aed0c373863ca4",
+          "reviewNote": "A favorable vote leads to certification and possible legislative action, not an automatic boundary change."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Boundary-change vote and certification lead to discretionary legislative action, not an automatic boundary change; five-year repeat limit and historical notes checked. This is not independent legal review."
+    }
+  ]
+}

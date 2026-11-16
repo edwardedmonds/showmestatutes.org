@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex draft and separate editorial review against complete archived source versions and notes; not independent legal review.",
+  "entries": [
+    {
+      "id": "18.070:375",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=18.070&bid=375",
+      "sourceSha256": "6f93afa80875c862f2e5cd565a500dc7c8f5a9d52fea88901b4da6381c8779e1",
+      "textSha256": "da44801df45833c081b08109a9a4890ccd7f16d223bd17fbf3d3e35e27961f3d",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Appropriations for supplementary compact agreements",
+          "bodySha256": "299ff1e1e778c5d7c0af2af3ecb84dcc1d2f4320655f4d4a7c982316c304bf6f",
+          "reviewNote": "Separately checked against the complete archived version and notes. Supplementary expenditure agreements require appropriations; cooperation conditioned on governor awareness and approval."
+        },
+        {
+          "number": 2,
+          "title": "State cooperation and gubernatorial approval",
+          "bodySha256": "807f41bee9ee5254afa50ad933f1b5a55f17ac79076f45f192fecfa82543adde",
+          "reviewNote": "Separately checked against the complete archived version and notes. Supplementary expenditure agreements require appropriations; cooperation conditioned on governor awareness and approval."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Supplementary expenditure agreements require appropriations; cooperation conditioned on governor awareness and approval."
+    }
+  ]
+}

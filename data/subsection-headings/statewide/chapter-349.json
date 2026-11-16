@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafting followed by a separate agent editorial review against complete archived source; not independent legal review.",
+  "entries": [
+    {
+      "id": "349.045:18639",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=349.045&bid=18639",
+      "sourceSha256": "656c1cc9fe4927cf74dd1a204d154efff18b9f4818fa770ca8bc3ab92de9f498",
+      "textSha256": "3f601b20b47fbcd6cea45b6aa55927f2f3cc793fce66bdf9de40b0ab211adaf2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board powers, qualifications, appointments, and terms",
+          "bodySha256": "90939c26293f0128bbfec84fa2dd3f56f0c449689efa97e6a1782536f115bb96",
+          "reviewNote": "Read general board powers, composition, reimbursement, qualifications, appointment exceptions, staggered initial terms and holdovers. Subsection2 exception remains explicit."
+        },
+        {
+          "number": 2,
+          "title": "County-specific board elections and qualifications",
+          "bodySha256": "d82f81a1d95f8581dcd71975b2723d6b2f1fb7d46702081091b4aab0f7a1c88f",
+          "reviewNote": "Does not infer the qualifying county from current populations; covers township elections, replacement of appointed members, reimbursement, qualifications and holdovers. Read the two effective-date footnotes."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Read both board regimes in full, including taxpayer/residency limits, county-classification and population exceptions, appointments versus township elections, holdovers, and reimbursement. The note specifies different 2005 bill effective dates; headings neither choose a date nor infer population eligibility. This is not independent legal review."
+    }
+  ]
+}

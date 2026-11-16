@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafting followed by a separate agent editorial review against complete archived source; not independent legal review.",
+  "entries": [
+    {
+      "id": "549.525:28987",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=549.525&bid=28987",
+      "sourceSha256": "84e6e2f3cfde93b01170c4451953fb24b830407b02f6e63fbdb186c467155c89",
+      "textSha256": "1a129645199e233ab10da0b1672dea6010786cf0caf04cad426ccafc9cfc798f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Municipal probation service fees",
+          "bodySha256": "b0289be3723af4e6e47f42d2fb9753ce1bb1be76d1fe06c8b1e0cb67929a3bfb",
+          "reviewNote": "Describes fees for the specified qualifying city and ordinance probation services; does not imply every municipality can impose them."
+        },
+        {
+          "number": 2,
+          "title": "Grounds for probation-fee exemptions",
+          "bodySha256": "9ea06bf2a9f8fbab454827d774e2ab5fb5a544c8a4e5b8c661ccce87b5d17778",
+          "reviewNote": "Read all seven grounds and discretionary full/partial relief, including hardship, student certification and interstate transfer; does not promise automatic exemption."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Read the qualifying-city and ordinance-conviction limits and all seven exemption grounds. Headings cover the discretionary municipal fee and discretionary full or partial relief without suggesting statewide municipal authority or automatic exemptions. This is not independent legal review."
+    }
+  ]
+}

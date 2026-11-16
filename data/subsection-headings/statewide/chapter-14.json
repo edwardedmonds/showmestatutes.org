@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex draft and separate editorial review against complete archived source versions and notes; not independent legal review.",
+  "entries": [
+    {
+      "id": "14.010:366",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=14.010&bid=366",
+      "sourceSha256": "8955d4d8ff622359c1e6ba363a6384fcd1953e86e53b07824dfab11a367e44df",
+      "textSha256": "b828679679f482485bdf0ec0685dd482b858896762921af52782b8a00e00d87f",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Filing federal tax liens and discharges",
+          "bodySha256": "603f4d138575abc87c641552d9f6bcf7c94a6e61d424730cacfa8a5c2aead893",
+          "reviewNote": "Separately checked against the complete archived version and notes. Federal tax liens, other real-property liens and congressionally equivalent filings distinguished; appropriate county recording offices retained."
+        },
+        {
+          "number": 2,
+          "title": "Other federal liens on real property",
+          "bodySha256": "f400f9c714d1d2b87b684b9d9d75f3e084a1324da4085e4e31f66370c4929b79",
+          "reviewNote": "Separately checked against the complete archived version and notes. Federal tax liens, other real-property liens and congressionally equivalent filings distinguished; appropriate county recording offices retained."
+        },
+        {
+          "number": 3,
+          "title": "Related federal lien filing and discharge procedures",
+          "bodySha256": "c8a0ff15a895533e70095f9d7deb7cbf947fa32b0e13418a315f109a4c679c81",
+          "reviewNote": "Separately checked against the complete archived version and notes. Federal tax liens, other real-property liens and congressionally equivalent filings distinguished; appropriate county recording offices retained."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Federal tax liens, other real-property liens and congressionally equivalent filings distinguished; appropriate county recording offices retained."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafting followed by a separate agent editorial review against complete archived source; not independent legal review.",
+  "entries": [
+    {
+      "id": "426.400:23962",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=426.400&bid=23962",
+      "sourceSha256": "e8cc4b4aeb75b21185cc91da3616e0df9a2d7893cc947e6c2f6c387fd578a22d",
+      "textSha256": "05a9030e9c51d5d68335e79d8f93cae487330f659ef9b81133e37b0a36d71a5c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Orders to sell or compromise debts and release interests",
+          "bodySha256": "7e2a3d4252556391f91f0354fb5dbaa8341be51ba7bbd6d9d333cc04c2ae547c",
+          "reviewNote": "Distinguishes the court-authorized disposal/compromise of bad or doubtful debts and release of assigned interests; best-interest conditions remain in the text."
+        },
+        {
+          "number": 2,
+          "title": "Notice, reporting, objections, and court approval",
+          "bodySha256": "22634aa8ab54ba975e1e259233de9151667a4c2ea22c62d11c0b42f7c7f293a9",
+          "reviewNote": "Read report timing, creditor objections, approval before finality, and pre-application notice; avoids turning conditional court-term timing into an absolute deadline."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Court orders concern bad or doubtful debts and assigned interests subject to estate-benefit conditions. The procedural heading includes notice before obtaining the order, reporting, creditor objections, and final court approval without making conditional term-based deadlines absolute. This is not independent legal review."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafting followed by a separate agent editorial review against complete archived source; not independent legal review.",
+  "entries": [
+    {
+      "id": "271.320:14614",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=271.320&bid=14614",
+      "sourceSha256": "fee365b01547cd53de75c2d4f5cb5c406d76b868921b6a11f8f043ad2a728772",
+      "textSha256": "ddbb4df4e332bf9b3852e546b35231a89d19936bf4e2c508cdf67dad680184a0",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Fees for taking up stray animals",
+          "bodySha256": "169ff6419deee43ff92842c6043de00e452cc4e6dac32849c052c09714d81123",
+          "reviewNote": "Covers the taker-up fee schedule for animals, affidavits, notices, and publication; does not restate historical amounts as modern fees."
+        },
+        {
+          "number": 2,
+          "title": "Appraiser fees",
+          "bodySha256": "297ce30d9f4c5ef86f03cd77a1831595ecc4c5ee3672c059fd898bc100d82612",
+          "reviewNote": "Identifies the appraiser compensation provision without changing its stated amount."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Read the full taker-up schedule covering animals, affidavits, notices and publication, and the separate appraiser fee. Topic headings do not modernize the stated historical monetary amounts. This is not independent legal review."
+    }
+  ]
+}

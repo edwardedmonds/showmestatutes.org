@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafting followed by a separate agent editorial review against complete archived source; not independent legal review.",
+  "entries": [
+    {
+      "id": "561.016:29165",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=561.016&bid=29165",
+      "sourceSha256": "223f77d7f4e2fb5138d7019e8fb0f335bdc4fbeaada2fde3dd7fb3d688d2087f",
+      "textSha256": "1604a520ac06c26275838f0b533cfd3b702200503bd27d954778fe9d2310bd1a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Permitted grounds for conviction-related disqualification",
+          "bodySha256": "a0dffd5cd7e92ec5d50a8bfcb9e751bf638d724926ae03881455141ad3881924",
+          "reviewNote": "Read all four grounds including sentence execution, constitutional/code authority, other offense statute and reasonably related exercise of lawful jurisdiction."
+        },
+        {
+          "number": 2,
+          "title": "Convictions as relevant or impeachment evidence",
+          "bodySha256": "0033a9b399693653b9fd88dd658a335b87e84d102383a4fd80b01d3d7c95a7c3",
+          "reviewNote": "Topic wording retains the relevant-evidence or witness-impeachment context instead of a categorical claim about conviction evidence."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Permitted disability grounds and evidentiary exception reviewed; second label changed from categorical assertion to relevant/impeachment-evidence topic. This is not independent legal review."
+    },
+    {
+      "id": "561.021:29167",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=561.021&bid=29167",
+      "sourceSha256": "7fb5d2d64a79efbc8ebc75f7c7c6ee44ff7500def03d94fa940519e401df8263",
+      "textSha256": "f7f158e409620c8149b21dd9667a106355e87452f8a2eb731d4f379a0d1b89a1",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conditions for public-office forfeiture upon sentencing",
+          "bodySha256": "d6b272078b11b2cd6b0f48b3eacf71052bc7ac6adad020821b2ea6b098b2f34f",
+          "reviewNote": "Forfeiture is subject to listed qualifying offenses and other statutory or constitutional grounds."
+        },
+        {
+          "number": 2,
+          "title": "Temporary ineligibility for public office after a felony",
+          "bodySha256": "4cd02f917198f9e89f5254f41291dbd6d0d1c0223209bceba4725955977d188e",
+          "reviewNote": "Retains completion of sentence or probation and subsection3 exception; does not confuse forfeiture timing with future eligibility."
+        },
+        {
+          "number": 3,
+          "title": "Permanent office disqualification for voting-related felonies",
+          "bodySha256": "6058d9806e288b539f08ff59775e5846e04de72fd2ec1aaba05250d468c26da3",
+          "reviewNote": "Describes felonies connected with exercising suffrage without narrowing to a named election offense or broadening to all felonies."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Forfeiture label made expressly conditional; qualifying pleas and convictions, ordinary sentence/probation limit, and permanent suffrage-felony exception distinguished. This is not independent legal review."
+    },
+    {
+      "id": "561.031:29171",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=561.031&bid=29171",
+      "sourceSha256": "2ff00fcfd4fb4b69fc660d4095c144a2d3a8a7819bbec77328d19b340626c217",
+      "textSha256": "cba0d2d1748e2b44e03e2bb44850d67f9b247e3a2a5fcc13de39abf26f2c60ea",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Proceedings permitting two-way audiovisual appearances",
+          "bodySha256": "7d75bc22c456dd67d2fe0ab5d11a06bd95659f84d4e24529c49e84e3563a4f31",
+          "reviewNote": "Read all ten categories and varied consent/waiver requirements; not automatic permission for every proceeding."
+        },
+        {
+          "number": 2,
+          "title": "Other televised appearances with a presence waiver",
+          "bodySha256": "6046f729ff2c50826b43949a261f1350970d37c7309776db09c96576c2de72eb",
+          "reviewNote": "Preserves custody/confinement and waiver conditions without implying an entitlement."
+        },
+        {
+          "number": 3,
+          "title": "No right to television appearance or required equipment",
+          "bodySha256": "02b6db1f2eef396cdafb0a5d59fcc711d09e7ae158d80c2e1b3224ed8d9e94b5",
+          "reviewNote": "Distinguishes permission from individual right and governmental equipment obligation."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Each eligible proceeding and differing consent/waiver conditions checked; other appearances and absence of statutory right/equipment obligation retained. This is not independent legal review."
+    }
+  ]
+}

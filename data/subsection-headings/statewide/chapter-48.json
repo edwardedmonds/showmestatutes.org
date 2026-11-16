@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafting followed by a separate agent editorial review against complete archived source; not independent legal review.",
+  "entries": [
+    {
+      "id": "48.020:60194",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=48.020&bid=60194",
+      "sourceSha256": "429930da036c15ccf9ddfeff689e6fde731c817587df7261d7dea7f5417b2101",
+      "textSha256": "3fa1a4b909556c7f82ca1256d3c8e0eed4e9fb9f58da545d8fdf6421e2c61ab3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "headings_b",
+      "headings": [
+        {
+          "number": 1,
+          "title": "County valuation classifications and transition provisions",
+          "bodySha256": "7f72f359411f6d11e7ee81b834b000d768e06e3baba091c74a5a39bd4ad503ea",
+          "reviewNote": "Reviewed the 2026 amendment including the January2027 through December2030 transition; the title avoids treating all classifications as solely current valuation thresholds."
+        },
+        {
+          "number": 2,
+          "title": "Annual inflation adjustments and published thresholds",
+          "bodySha256": "9fff45ff5e77b374b3b0af7b895af4802fed2f4278007b11bf5d66d07511e94f",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: All four classifications, valuation conditions, 2027–2030 transition, and nonnegative CPI adjustment checked. This is not independent legal review."
+    },
+    {
+      "id": "48.030:1628",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=48.030&bid=1628",
+      "sourceSha256": "ff4291b552311f209d772cd47252da149e3554c59b79fb0ea446d3e7d2cd6b91",
+      "textSha256": "f6c04368ef04457c03d0645d6beea9f8e5c2341fdb64afc39d3d8da146298df1",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "headings_b",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Five-year valuation requirement for classification changes",
+          "bodySha256": "e80bb0f35073a446ac479cfe2c030f54ff9fffbd7fe6fd7068d7f924a63008f3",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 2,
+          "title": "Conditions for moving from second to third class",
+          "bodySha256": "9a0cf572f72a053b871cc8f00f562a4a085822a5a2777a9fcab216c0466436ae",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 3,
+          "title": "Optional early change to first classification",
+          "bodySha256": "3ad6a4bc2e25b7369077ee0bb9631302a9582a86d1d5fbe976282235025b7774",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 4,
+          "title": "Specified county’s optional change to second classification",
+          "bodySha256": "ed34351355fd99a6aab3227a8b872fe0e9d31ec969918f898df19590e40ddd8d",
+          "reviewNote": "The governing body elects the classification change; special election could wrongly suggest a separate public ballot."
+        },
+        {
+          "number": 5,
+          "title": "Effective dates following certification and general elections",
+          "bodySha256": "f6194787d66897905b43a6449305bb357606ba0aaf7faf5ee02a815298c7101b",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: General five-year rule read with optional changes and fiscal-year timing; corrected special election wording because subsection 4 describes the governing body electing a change, not a public special election. This is not independent legal review."
+    }
+  ]
+}

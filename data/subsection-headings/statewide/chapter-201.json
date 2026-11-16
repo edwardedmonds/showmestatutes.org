@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafting followed by a separate agent editorial review against complete archived source; not independent legal review.",
+  "entries": [
+    {
+      "id": "201.050:10599",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=201.050&bid=10599",
+      "sourceSha256": "dfad8cfbd8a87990b84f0039872935e41f02abe56443572841d1c040dc489ed3",
+      "textSha256": "38b4df3c6294712c484b6ebaad713a0a6c873223c27de02cc4f659c99594d05f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Designation of the service administrator",
+          "bodySha256": "09bc29b0c927b57eae18646e9a2a5cd27c75471dd9966790119b31aaf19d9fa8",
+          "reviewNote": "Names the designation topic; the exact department and service remain in the official heading and body."
+        },
+        {
+          "number": 2,
+          "title": "Planning, funding, coordination, and donated property",
+          "bodySha256": "4dfc28a3c025b37430d1109a8e586a5ca95e0ab8d67fc6adfc8f83ad58da60a8",
+          "reviewNote": "Read all four subdivisions: includes plans/rules, public and other funding, interagency coordination, and ownership or trusteeship for gifts."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Read both subsections and all four administrator-duty subdivisions, including rulemaking, funds from all sources, interagency cooperation, and donated property/trusteeship; the department-authority cross-reference supports the administrator context. This is not independent legal review."
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafting followed by a separate agent editorial review against complete archived source; not independent legal review.",
+  "entries": [
+    {
+      "id": "49.060:34879",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=49.060&bid=34879",
+      "sourceSha256": "3cf99dad8ed99a002d77fedcdcb6220cf4f899469bf2f836833301ad33b8c966",
+      "textSha256": "1e29970214c05a393f5c8ca90350b7e5d02a7730d13114b1b73359c82c456bec",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "headings_b",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Certification of commissioner vacancies to the governor",
+          "bodySha256": "aaed9144555f33e93e70a05b288e7d0edbf376e3879afb0a209965952f1c880f",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 2,
+          "title": "Filling vacancies with less than one year remaining",
+          "bodySha256": "44d9c304b2443ef2546c7ef8c4a2a566960e63cefb1063213405f2c85175cd37",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 3,
+          "title": "Appointment and election with longer terms remaining",
+          "bodySha256": "d942cb20252680a5402de3b3922e07f1d3ba4128992cb992cbecf2820688239a",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 4,
+          "title": "Exclusion of constitutional charter counties",
+          "bodySha256": "9c96da8c1953e00ae20bd48a533dcc5490e45de0700b810cc935a721c1b13a01",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Vacancy certification, less-than-one-year distinction, senate consent, election replacement, and charter exclusion checked. This is not independent legal review."
+    },
+    {
+      "id": "49.082:60195",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=49.082&bid=60195",
+      "sourceSha256": "e852fa2f7791f9712210a58f019a18503081e8d774130bd3f528ccbcd3ca3514",
+      "textSha256": "f8d37ae30e490a3dd264d1ff27bb9e1ac4a050772c3a93521e3c7494719807d2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "headings_b",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Existing salary schedule, county exclusions, and safeguards",
+          "bodySha256": "49acab3ca29488d211990019fc9169c14bd6d165ee179823241950bbb1d87a8c",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 2,
+          "title": "New-term salary schedule after August 28, 2026",
+          "bodySha256": "cd8ea9ba5794f4f4474865cf3c9df0504cace068f6164322626f09a438bd84e1",
+          "reviewNote": "The statutory cutoff is August 28, not the end of August."
+        },
+        {
+          "number": 3,
+          "title": "Additional salary for qualifying presiding commissioners",
+          "bodySha256": "2cb59f178759e694c391fa1dc5ff4d7f9edd096f9cb14fdbea937470a18a88fa",
+          "reviewNote": "The source refers specifically to compensation under subsection 1; no automatic extension to the new subsection 2 schedule is inferred."
+        },
+        {
+          "number": 4,
+          "title": "Training requirements, certification, and expense reimbursement",
+          "bodySha256": "1ce03f8382e1d6290ca0ff1a4822a957f1301df6ab4ce97863d32898e576e9ac",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 5,
+          "title": "Salary-commission vote required for compensation reductions",
+          "bodySha256": "2831c3d677aa39b881d469d4d05f5bdc44153581268d99dea70a45b48ca4dfce",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Both salary tables read completely, county exclusions and training limits checked; new-term date made exact and subsection 3 original reference to subsection 1 preserved. This is not independent legal review."
+    },
+    {
+      "id": "49.093:1641",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=49.093&bid=1641",
+      "sourceSha256": "778cbd379b66a3085fd85b258e9a4b64444325e84b9f10488a64a5b754e4a5e6",
+      "textSha256": "d9cbb2704126f9ac316da3c84c5f225934ef7c68a93fe16e51457c1335f5d66b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "headings_b",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Department property inspections and annual inventories",
+          "bodySha256": "bdd7ae3c68f3313844e4919217ffcae34f516f31ce41f3234cced376d3464288",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 2,
+          "title": "Clerk’s inventory of remaining county property",
+          "bodySha256": "eb547d6ffee1788aadc885ad6a9170792b318e20cd6bf21404d2c4d02cbfd66e",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 3,
+          "title": "County clerk’s signature on inventory reports",
+          "bodySha256": "19a7be1f69fe8f52a140fc1cb9ec8bb2cee7a64c4d2fd8fb415be822f4c38c41",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: County classifications, thousand-dollar inventory threshold, discretionary lower-value inventory, and clerk responsibilities checked. This is not independent legal review."
+    },
+    {
+      "id": "49.266:57144",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=49.266&bid=57144",
+      "sourceSha256": "63c3ded0c89097239f87174bd5e7a5440fb1855eacd3fad49cc17e1f96d29434",
+      "textSha256": "36bbec6d8ec3d283c7cc7169ef8f544fba97bbec215c131a0e5d40438ebae696",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "headings_b",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Regulation of county property, traffic, and parking",
+          "bodySha256": "e8187cc05a8fd457fcae3f00ce99b9b73d27b4a172eecfc4fee808dd435c428c",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 2,
+          "title": "Infraction penalty for county-property regulation violations",
+          "bodySha256": "eda57f92c457e20b96f6a642808ed3d63bc191b683436de492d3f986286173a1",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 3,
+          "title": "Burn-ban conditions, exceptions, and fireworks limits",
+          "bodySha256": "4b05bfffb05ef2d36a09c505f92a4d4db0c5daa21b8a08fc4e2b81f6ae71e785",
+          "reviewNote": "Reviewed fire-marshal and drought conditions, agricultural and agency exceptions, and limited missile/skyrocket restrictions; this is not a blanket fireworks ban."
+        },
+        {
+          "number": 4,
+          "title": "Publication of regulations and posting of signs",
+          "bodySha256": "e29b4e2410d2580cfa2fe452e58ac6eb6b27ab2a3aa2ffaa024169aac8df4091",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Property infraction separated from conditional burn-ban penalty; agricultural exception and missile/skyrocket-only fireworks restriction checked. This is not independent legal review."
+    },
+    {
+      "id": "49.275:1668",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=49.275&bid=1668",
+      "sourceSha256": "2586cf0d15db9dbb32c634244bd2ce4123d9a36ee0c2c06bf9af28f4130c47b6",
+      "textSha256": "161e8afcdc6540345c4a86fb3b1b0d711ad8bce254e4858efe9190e072461f2d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "headings_b",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Discretionary transportation for county officials and employees",
+          "bodySha256": "bb26c73d3f9d9706064151f6b4aa7ac02bc67ca690a302473d2fd34af4fd031c",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 2,
+          "title": "Vehicles, allowances, mileage, and other transportation methods",
+          "bodySha256": "6dbae2ca65dc183c21bd89c7a92cbc15997d75c4e95df48e2049aacca18fa133",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Discretionary official-duty transportation for specified first-class counties and permitted methods checked with 1985 note. This is not independent legal review."
+    },
+    {
+      "id": "49.278:1670",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=49.278&bid=1670",
+      "sourceSha256": "f7930023f74be8dd655778d999714d7f9f8ed2b78fd0adb4a6cd9ff41c0fa8de",
+      "textSha256": "81abe808c32b07c682baf893d7ce1cb81e14e68832e743e53fe7b876521c7649",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "headings_b",
+      "headings": [
+        {
+          "number": 1,
+          "title": "County contributions for official and employee benefits",
+          "bodySha256": "325041c871c150bb73da02b8cb4c14ee22efcb1af83781642b29e22a67fa7807",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 2,
+          "title": "Competitive bidding for insurance contracts",
+          "bodySha256": "3ae306b617628a8eb75122419b2f898f2782af8ce7e59a18e150e1dc123f836b",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 3,
+          "title": "Additional employee insurance and retirement plans",
+          "bodySha256": "336b5fa079ea63e4d88857c442609542bd054c40b02710caec921f92ffd24dc3",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Optional contributions, mandatory insurance bidding, and additional employee plans distinguished. This is not independent legal review."
+    },
+    {
+      "id": "49.285:1672",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=49.285&bid=1672",
+      "sourceSha256": "54dfecddb0dfece0ca0caabe99ce8dfa76d614a0983077d7dd97d8a1d26c2b0c",
+      "textSha256": "3ee9f4c7229672fb2e3c5c625a2105dd16a6d4552f81aec71f7d2f2734312a0a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "headings_b",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Out-of-county property restrictions, sales, and mineral rights",
+          "bodySha256": "135a32d522bc42021ac07b9f5cad7790c87920d4dc3e57b5907bc4c6e023cf48",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 2,
+          "title": "Court restraint of sales pending contracted transfers",
+          "bodySha256": "d85912ee57eba924f93f31a2f7830e6499b36afc72416d3973f4c84ad078119e",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Nonadjoining property limits, five-year timing, sale procedure, retained mineral rights, and conditional court restraint checked. This is not independent legal review."
+    },
+    {
+      "id": "49.287:1673",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=49.287&bid=1673",
+      "sourceSha256": "2ec11c60a11307e6e4b713ca81c3ba6d84af617e4a5329f82b52fde5b93f9e14",
+      "textSha256": "afa0f714fd1bac38bcaf9e4edcd6d69feb40dc7bc45e2e117ca01f2fdaa9a2d6",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "headings_b",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Leasing county property and maximum lease terms",
+          "bodySha256": "e4e420d4679f346ef4feaad6b53d287934528eb9a055fc40578c0dcaed43e83b",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 2,
+          "title": "Required procedures for county property leases",
+          "bodySha256": "c4850a6695d5868766537504c9b1bb1ff1cf18e650d08aa8f7a8d568f7af82a5",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Noncharter first-class county scope, fifty-year ceiling, and cross-referenced purchase procedures checked. This is not independent legal review."
+    },
+    {
+      "id": "49.292:1675",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=49.292&bid=1675",
+      "sourceSha256": "27e02abe2247c0d1f212a5f9d1c88c720acf62f3757a274999ccebd468731758",
+      "textSha256": "3613cbe015f51bc451332f4ef646eee64925718c9fafb0397997519c643ea9a1",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "headings_b",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Rejection of donated or dedicated real property",
+          "bodySha256": "a7a59f11bd64539a680e627c94049205c16373757f81e85084f7d5e6c0d054f1",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 2,
+          "title": "Acknowledgment, acceptance, recording, and easement exception",
+          "bodySha256": "fd24f37ebb1c80ec8e40d6f5e775415560d6dca7639b67ddf1a909d00a8f8150",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Discretionary rejection and required acknowledgment of acceptance distinguished; water/sewer easement exception retained. This is not independent legal review."
+    },
+    {
+      "id": "49.303:1677",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=49.303&bid=1677",
+      "sourceSha256": "baf90299e756a8a53cf5efe0e47b2c8fc0d1f410e229944fe73e5f2a30fd156e",
+      "textSha256": "4579a66b0aa76ec1192109542c2631c95b95006a04cf55fc30cd471e059dd50d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "headings_b",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Waste-disposal facilities, land acquisition, and charges",
+          "bodySha256": "2c1367e2fe354b25e9df5844587c5b26743694a689b23ea1c6f31b663a57099a",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 2,
+          "title": "Funding methods and revenue bonds for facilities",
+          "bodySha256": "659953fb185a28815a339f7a1e8b6f261f7d650d17b7323580c65a8bb9cbf108",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: First-class charter-county health finding, facility acquisition, charges, and three financing options checked. This is not independent legal review."
+    },
+    {
+      "id": "49.310:50018",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=49.310&bid=50018",
+      "sourceSha256": "056560efdabcd922e8f6351dc75bf98716fdeb4c004d46d3c5dfd9ab8251f902",
+      "textSha256": "1b4602e96f707ccaab9ea993b9e2c08891ed4849fb28f4abd0a4f331069c6ef6",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "headings_b",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Courthouse and jail facilities, sites, and bonds",
+          "bodySha256": "4a5dc502dfece04e4ef29a0b04c571a89de02177ac6b48304ddc9a376b99eb32",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 2,
+          "title": "Jails and holding cells outside the county seat",
+          "bodySha256": "bf7d11573f67084505220ceb4d7ee870f88b5ce8e6a809471fed0e6b52165bad",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 3,
+          "title": "Authority over shared courthouse facilities and areas",
+          "bodySha256": "b4382c172a8a7b81ee78ed320446482864f899dcd32504251ab25c8d5cfef2bb",
+          "reviewNote": "Allocation of authority applies absent a contrary local agreement and preserves the commission’s authority over other courthouse areas."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: County-seat rule and exceptions, bond questions, and court/county authority absent local agreement checked. This is not independent legal review."
+    },
+    {
+      "id": "49.370:1682",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=49.370&bid=1682",
+      "sourceSha256": "f8d3af88d3ed0af860b3fa87be3f40dbe73c875eeb9977a19558ce2cbaaf1223",
+      "textSha256": "c9611f09542ac8e81834fd01c315f3946b03b78ee61ec3c3d6d398f62bef3f55",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "headings_b",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Selecting and acquiring county-building sites",
+          "bodySha256": "6fa75b60d2374d88665b221c966ef0820d69b4ff874b3c27609cc59d826839b3",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 2,
+          "title": "Buildings and property elsewhere within the county",
+          "bodySha256": "8606649e7154954343cbb0b324deede546d80e17e62374b575dd829355a143d3",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: County-seat site selection read alongside authority elsewhere within the county. This is not independent legal review."
+    },
+    {
+      "id": "49.535:1700",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=49.535&bid=1700",
+      "sourceSha256": "5632ed278735e60a7d2b715dbe5a06e42d582b4e50546971c1a06b1a09776de8",
+      "textSha256": "928d92f47e1b969d51b7f150e40113c01817374548ddbf5ca086157bbe5dfd00",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "headings_b",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Negotiability, tax treatment, and continued signature validity",
+          "bodySha256": "2f93fe600e770f528a108366749283061f5b1325466c29dd16471b247e4a43b5",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 2,
+          "title": "Public bond sales, sealed bids, and notice",
+          "bodySha256": "b3d1dbfeb0c8a4fe57da8008bb25dbc351e4ae9a5d9acb368bf2eac50a37b52f",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 3,
+          "title": "Revenue-only payment and required bond statements",
+          "bodySha256": "280316b6c06c7d2ad7767d9b40f295a098015fbf1c8e413efe6e4813eab7f756",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Negotiability, tax treatment, prior officers signatures, sale notice, and revenue-only repayment checked. This is not independent legal review."
+    },
+    {
+      "id": "49.560:1705",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=49.560&bid=1705",
+      "sourceSha256": "5f4017fc75e8672007a80d3570bbbb2d714b279999877cb32ecfc4b8683c9db2",
+      "textSha256": "505a050f19772a219a4a2b65542f61297aae75e7f0fb1e832218e2b0927ce0f9",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "headings_b",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Pledged revenues, special funds, and insurance",
+          "bodySha256": "11a3ae638186dfa182fba4109cd82786bfdcde3be22efe3be08a8abb8c91d860",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 2,
+          "title": "Rental charges, monthly deposits, and debt funding",
+          "bodySha256": "49f435f0b4e82efec106e78c424566d5c56edb87cdf101be3aa072876fda4e31",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Pledged revenues, insurance, monthly deposits, and periodically revised charges checked. This is not independent legal review."
+    },
+    {
+      "id": "49.600:1710",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=49.600&bid=1710",
+      "sourceSha256": "3c88469fd8255f72a73616899c638901adc12d32ca390973e2d0bf99c95fbc82",
+      "textSha256": "55207b3082ad9f7d015d9b03aa2869432f574a1f16760955c37ae0f9c15241ac",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "headings_b",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Flood-insurance regulations and voter-approval requirement",
+          "bodySha256": "f7cffe72b0002e425a4746264e6ad634ac49ee849411c09d04b79693ce2b0767",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 2,
+          "title": "Ballot language, election effects, and rescission petitions",
+          "bodySha256": "462b2976a57bf5598e38c1623cac8b09c2e4038b0f71ff9eef1659094728757b",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 3,
+          "title": "Geographic, agricultural, and mining exclusions",
+          "bodySha256": "1fa6474f6c0e3393c316574b5ea8f4cfdade7263e6260f4d0ace5987cc44a0e7",
+          "reviewNote": "Farm-building and underground-mining exclusions have location and shaft qualifications; the heading does not describe all farming or mining as exempt."
+        },
+        {
+          "number": 4,
+          "title": "Application to levee and drainage districts",
+          "bodySha256": "8fbb67e7e0e214518e7865675014f9433219df1b442080fb28534459593a8d9c",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 5,
+          "title": "Preservation of ordinances adopted before March 1991",
+          "bodySha256": "ac3b53c888d1cf422af7fbf550802b8cbd92e0536ae5c894b22a78263f8c109b",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Approval and rescission election effects checked; farm-building and mining exclusions preserve map/shaft qualifications; pre-1991 ordinances retained. This is not independent legal review."
+    },
+    {
+      "id": "49.650:1714",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=49.650&bid=1714",
+      "sourceSha256": "1d978520c82a8c51beb4f63de80142cd314dfc3057babd0d3b0d6a07a3ea2580",
+      "textSha256": "b93d18550c301ab7bf67038311c23ce8ae99050e793f2436606b19050fafbc64",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "headings_b",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Noncharter county ordinance powers and substantive limits",
+          "bodySha256": "5202e066fb6ead598159860df44655a7783481d3e0f4f8062f01c1e0356eff1c",
+          "reviewNote": "Reviewed all seven subjects, donation authority, territorial conflict provisions, and legislative limits; the title does not suggest general unlimited home-rule power."
+        },
+        {
+          "number": 2,
+          "title": "Optional voter submission and election effects",
+          "bodySha256": "01eac595b9e4cf6b0385e0b404a24f344b7605aae3abdbfb052fc7c551cd298e",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 3,
+          "title": "Statutory authorization required for taxes and fees",
+          "bodySha256": "f0244be7d4154c78f14dea04426b5d7733a73c90c780a78be3d5e4159395fd8c",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 4,
+          "title": "Excluded railroad, telecommunications, and utility regulation",
+          "bodySha256": "69e3447fa456d501f1bd1fb6a99de4bf8f7fa2c1c3712806c326c1fa93c1d036",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        },
+        {
+          "number": 5,
+          "title": "Agricultural-operation limits and preexisting zoning exception",
+          "bodySha256": "784001caec90e56c5e37db4b9544d4a0fabe0bb3c32b53845dfab6ceb51965f8",
+          "reviewNote": "Topic label checked against the complete subsection, neighboring provisions, and archived source notes; conditions and exceptions remain in the source text."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Noncharter authority, state-law limits, local conflicts, optional ballots, tax authorization, utilities exclusion, and pre-2004 zoning exception checked. This is not independent legal review."
+    }
+  ]
+}

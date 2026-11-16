@@ -1,0 +1,396 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafting followed by a separate agent editorial review against complete archived source; not independent legal review.",
+  "entries": [
+    {
+      "id": "563.021:29213",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=563.021&bid=29213",
+      "sourceSha256": "d544b5b88d07631f0f82109f81b9debdff977f4116d0670ef52172ff2094466e",
+      "textSha256": "db9564fa7cca527a05fd8106d87ab9d7a495fc4970d5637f93818b8e63d303a2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conduct authorized by law or court decree",
+          "bodySha256": "249f0942b38f7d230ba48a92d49eeba85896107f1e2e1d3408c280a5db5d1487",
+          "reviewNote": "Retains limits from other law and chapter provisions; covers each of the five listed sources of authority."
+        },
+        {
+          "number": 2,
+          "title": "Reasonable reliance on court or public-servant authority",
+          "bodySha256": "31a8e9a0fb49838b2b1d28b50e152f13c01703c44791e3afc029e8a0daf33d78",
+          "reviewNote": "Distinguishes reasonable belief despite jurisdictional defects or exceeded authority from knowing unlawful conduct."
+        },
+        {
+          "number": 3,
+          "title": "Defendant’s burden to raise justification",
+          "bodySha256": "ad9c693a492da6f14458cc50626f57f0af0debad23ccb490d562a72ec0b1f61c",
+          "reviewNote": "Describes injecting the issue, not an ultimate burden of proof."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Public-duty statutory and court authority, reasonable-reliance exceptions, and issue-injection burden distinguished. This is not independent legal review."
+    },
+    {
+      "id": "563.026:29215",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=563.026&bid=29215",
+      "sourceSha256": "099ab74d9df3b9a279113df6de8cff67e85b8a6698b1487e24105c1bff6c3545",
+      "textSha256": "988b845f8dbcd39303c98be32e4f8454fddaa514308ca366e60fb7d458aa4c33",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Emergency necessity and excluded offenses",
+          "bodySha256": "f6e633f245d9368dcb13783adc26fe01759c2a48df38c45861066cf144bb8f7b",
+          "reviewNote": "Includes imminent injury, absence of actor fault and balancing; class A felonies and murder excluded. No claim that any emergency excuses conduct."
+        },
+        {
+          "number": 2,
+          "title": "Limits on necessity arguments and the court’s ruling",
+          "bodySha256": "e842f077ff83a15488cc0d7664c95887ab380f7ca0320a95cbc5dce51f7ec2a7",
+          "reviewNote": "Covers both excluded moral objections to the statute and legal ruling on claimed facts if established."
+        },
+        {
+          "number": 3,
+          "title": "Justification as an affirmative defense",
+          "bodySha256": "0023ea3b99b57f6c79c6b65f3e1be27399ff1f51932121da7d9f7bd31feddf33",
+          "reviewNote": "Uses source terminology without inventing the evidentiary standard."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Emergency necessity excludes class A felonies and murder; judicial gatekeeping and affirmative-defense designation retained. This is not independent legal review."
+    },
+    {
+      "id": "563.031:33873",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=563.031&bid=33873",
+      "sourceSha256": "f5e009947e925f5d3afcc26a65e0fcac1b7649ed893e6b7ad19350b7690384e6",
+      "textSha256": "d59f244e875338f2b95568f5b05f140b9a23e81e32c9222faeee4f5e7fb1d375",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Defensive physical force and exceptions",
+          "bodySha256": "276e16dc214fcedd95856e18417764c03b7d5878c23effe13d574a2a299a6ed1",
+          "reviewNote": "Includes reasonable belief, third-person defense, aggressor exceptions, protected-person limitation and forcible-felony restriction."
+        },
+        {
+          "number": 2,
+          "title": "Conditions for using deadly defensive force",
+          "bodySha256": "4348001e5bec810de80e6ada76c866dfb4eddd20fa0770e03ceea5869fee6f04",
+          "reviewNote": "Retains the three alternative conditions and subsection1 context; not an unconditional permission to use force against trespass."
+        },
+        {
+          "number": 3,
+          "title": "Locations where retreat is not required",
+          "bodySha256": "58f8de6e619d759bd86cf06f0f79face769e8693ffbc32386dad4ae6a5329942",
+          "reviewNote": "Covers dwelling, residence, vehicle, owned or leased property and other places the person has the right to be."
+        },
+        {
+          "number": 4,
+          "title": "Protective restraint and ending it",
+          "bodySha256": "bf5a92878cb13cee0faa7048a1f5825821d14567617a475f651cbfbfff3bb534",
+          "reviewNote": "Includes reasonable measures to end restraint as soon as reasonable."
+        },
+        {
+          "number": 5,
+          "title": "Raising justification and the state’s proof burden",
+          "bodySha256": "e85aec48557100be932f3b901e449d44b657354acf195754d3e2528959e17e82",
+          "reviewNote": "Distinguishes defendant issue-injection from the specified state burden when subdivision2 of subsection2 is asserted; does not extend that text to every case."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Initial-aggressor exceptions, deadly-force conditions, no-retreat locations, restraint, and conditional state proof burden read with veto-override effective-date note. This is not independent legal review."
+    },
+    {
+      "id": "563.033:29218",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=563.033&bid=29218",
+      "sourceSha256": "e5b5011ccc7a79949e8641f4f4078ee2548a106700470c0e3461265d8feee716",
+      "textSha256": "c9723875e0e308f76bbc8992527fc1ede30721d64eb333b2ea86c244ca2399c8",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Battered spouse syndrome evidence in defense claims",
+          "bodySha256": "0304e1fef40092a371775f591127d0868aba1d4744b2ee5d6a5b4ec88cd5b330",
+          "reviewNote": "Names the evidence and defense issue without limiting it to married defendants; read marital-status and self-defense annotations."
+        },
+        {
+          "number": 2,
+          "title": "Advance notice and examination procedures",
+          "bodySha256": "7faf80667fb412dab570f52831aa44d04b075054748a60e3cc3283d30e9fb523",
+          "reviewNote": "Includes notice, state motion, qualified examiners, consent to appointment, examination conditions and potential witness interviews."
+        },
+        {
+          "number": 3,
+          "title": "Limits on using examination statements and information",
+          "bodySha256": "7d394e89ecdacacc01e5912eadcc7f8b6ecf19198629f3b0b481105ed8d479d9",
+          "reviewNote": "Restriction concerns whether the accused committed the charged act, including later state or federal proceedings; not a blanket statement about all uses."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Evidence topic is not restricted to married defendants; Williams and Anderson annotations read alongside advance notice, examination, and statement-use restrictions. This is not independent legal review."
+    },
+    {
+      "id": "563.041:34961",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=563.041&bid=34961",
+      "sourceSha256": "b0e7f29462f63ca893233ea568204e4025e629446e16b20a714e73bfe9ac3bf6",
+      "textSha256": "cdee865711aa1ee4629cdbd5dff4ee4446c40fd314dc407f6b539801edbc645e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Physical force to prevent property offenses",
+          "bodySha256": "69c30fbd2c28cb1f6b56fc1ac365249ea16cf652ed4cfc2663fa786b701cac34",
+          "reviewNote": "Covers stealing, property damage and tampering under reasonable-belief limits; deadly force addressed separately."
+        },
+        {
+          "number": 2,
+          "title": "Deadly force requires other statutory authorization",
+          "bodySha256": "d55e0ebc84454084d7d56c25aab463e8346a2964daf1a1a7980de36a578859b6",
+          "reviewNote": "Makes the cross-reference condition clear without implying protection of property alone authorizes deadly force."
+        },
+        {
+          "number": 3,
+          "title": "Protective restraint and ending it",
+          "bodySha256": "7b5303840c9d2255de8aff5bc071b6976f557f6032bbd7bb923e4b16ee20a7b5",
+          "reviewNote": "Requires reasonable measures to terminate restraint when reasonable."
+        },
+        {
+          "number": 4,
+          "title": "Nuclear security guards: force and threats of force",
+          "bodySha256": "539b2cc58f95b1f149fb3f76d20e18b652f730e1d2fed0884e956c87be1cdf1d",
+          "reviewNote": "Read all enumerated crimes, deadly versus nondeadly levels, threat authorization and plant-location limits; no inference from crime names alone."
+        },
+        {
+          "number": 5,
+          "title": "Civil liability protection for permitted guard conduct",
+          "bodySha256": "b4758a1136def6505a894384a9d8d18e4a8a8a56870afb45e6fa1328ddf93b5a",
+          "reviewNote": "Includes guard, employer and plant owner, limited to conduct permitted by this section."
+        },
+        {
+          "number": 6,
+          "title": "Defendant’s burden to raise justification",
+          "bodySha256": "239453e152f9831be84917c2a678bc38eb615be2c69c396ca949ef9309b96a35",
+          "reviewNote": "Describes issue-injection, not proof of the entire defense."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Property offenses and deadly-force cross-reference read separately from nuclear security guards distinct force/threat levels, civil protection, and issue-injection burden. This is not independent legal review."
+    },
+    {
+      "id": "563.046:33817",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=563.046&bid=33817",
+      "sourceSha256": "5612925a4549e87027b2b6e80be6785b7120a230206e93654e6ea051dc7222c4",
+      "textSha256": "5ce47ee9112bff4e2b243b1e0757abe8ee2b2b2b790c4f71d37300cc1ae15646",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Arrest and escape prevention: force and retreat",
+          "bodySha256": "76921fba1f768aee74a029323d03fceb8f515fd8bda22c12a09778ceb758ca11",
+          "reviewNote": "Covers resistance, no duty to desist or retreat, and immediately necessary physical force subject to later subsections."
+        },
+        {
+          "number": 2,
+          "title": "Lawful arrest and objectively reasonable force",
+          "bodySha256": "7a3bbe510fdc40cf9fd7c679f59493c186100f9e56d3facdbcec7bd1402c62c1",
+          "reviewNote": "Retains reasonably believed lawful arrest alternative and totality-of-circumstances standard without regard to motive."
+        },
+        {
+          "number": 3,
+          "title": "Conditions for officers’ use of deadly force",
+          "bodySha256": "7df7bfeea03ccfa291445cd99db22a7ede7210c2df6372e148090be48c99073e",
+          "reviewNote": "Read both other-chapter authorization and immediately necessary arrest/escape prong with three specified circumstances."
+        },
+        {
+          "number": 4,
+          "title": "Defendant’s burden to raise justification",
+          "bodySha256": "1207bfda9e6cb76399f88e051d64fcfdb153e4f5e939412732d0070c7b44ea04",
+          "reviewNote": "Preserves injecting-the-issue meaning."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Lawful-arrest alternative of reasonable belief and objective reasonableness checked; deadly force remains conditional and defendant burden is to raise the issue. This is not independent legal review."
+    },
+    {
+      "id": "563.051:29223",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=563.051&bid=29223",
+      "sourceSha256": "820e6926c7180a9ed337530d39a8ea9b77645e9b18beeb8ad9b5db680b04f213",
+      "textSha256": "f61d08da05613f3276e6f56999946e1b58e8eb56f85ad95ca7be331222a0de3e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Physical force when assisting an officer",
+          "bodySha256": "744b1c0232d8364960433a78a2ce6d2b3e6bb578a42b4124ebdfeaf64c7eb56e",
+          "reviewNote": "Includes reasonable belief about officer status and directions; excludes known or believed unauthorized arrest and remains subject to deadly-force limits."
+        },
+        {
+          "number": 2,
+          "title": "Independent arrests by private persons",
+          "bodySha256": "0459c1da5c9686726d459937adeffdd61a82a8f892ebec81c5d5db8bfde2049c",
+          "reviewNote": "Avoids own arrest being read as the private person being arrested; source still requires actual offense and reasonable belief."
+        },
+        {
+          "number": 3,
+          "title": "Conditions for private persons’ use of deadly force",
+          "bodySha256": "e664dfb0bc8560a044a3e8a831905354893c3922738c3197d0edd138fea2235c",
+          "reviewNote": "Includes other statutory authority, officer direction with reasonable belief, and specified offenses or escape in the actor’s presence."
+        },
+        {
+          "number": 4,
+          "title": "Defendant’s burden to raise justification",
+          "bodySha256": "1207bfda9e6cb76399f88e051d64fcfdb153e4f5e939412732d0070c7b44ea04",
+          "reviewNote": "Does not recast issue-injection as proof of the defense."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Private independent arrest title clarified to avoid implying the actor is being arrested; actual commission plus reasonable belief distinguished from officer-directed assistance and deadly-force alternatives. This is not independent legal review."
+    },
+    {
+      "id": "563.056:29225",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=563.056&bid=29225",
+      "sourceSha256": "fa8a9e4ec9f8530df7824ea31dcb1c9f4e0169803ba3929edc85f918dc9ecb31",
+      "textSha256": "4825c2869bfb45ae22869f283d6cdb1b1974a1af10abb2106a506529badde334",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Physical force to prevent escape from confinement or transit",
+          "bodySha256": "bd1b367dc5400bdaaabed80f18764be93400a20afdc40b6a9c12ed7b7b4ff18c",
+          "reviewNote": "Limited to guards or other law enforcement officers with reasonable belief of immediate necessity."
+        },
+        {
+          "number": 2,
+          "title": "Conditions for deadly force to prevent escape",
+          "bodySha256": "2e1c5f9a914cf1ec5066f2214e7187d8b62e71ca8a0bb7ec6ed40bb2d10aa67f",
+          "reviewNote": "Includes other chapter authorization or substantial risk of danger to life or serious injury; not any escape."
+        },
+        {
+          "number": 3,
+          "title": "Defendant’s burden to raise justification",
+          "bodySha256": "ad9c693a492da6f14458cc50626f57f0af0debad23ccb490d562a72ec0b1f61c",
+          "reviewNote": "Preserves the burden of injecting the issue."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Confinement and transit, reasonable-belief requirement for deadly force, and issue-injection burden checked. This is not independent legal review."
+    },
+    {
+      "id": "563.061:29227",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=563.061&bid=29227",
+      "sourceSha256": "c0b0ec4df06b04021183a3d6e8a09ca868600e099fd150912794000a79513131",
+      "textSha256": "084fc87f2f57acad7b28445d9bfb8362c902ca4e03f94fe92ba641b09f1c7dd2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Care and discipline: conditions and limits on force",
+          "bodySha256": "c4605f5eef9a834f3541f505f93bf9d33fb8ac486799a2bf7a32aaba0de21889",
+          "reviewNote": "Covers entrusted care, welfare or special-purpose discipline and prohibited harm risks; not blanket parental permission."
+        },
+        {
+          "number": 2,
+          "title": "Correctional order and discipline: force authorized by law",
+          "bodySha256": "806a2b272e760c1e3c556408fbe81554a2e3395726312165b0d5ff1d265ffa35",
+          "reviewNote": "The provision references authority elsewhere; does not independently grant unlimited force."
+        },
+        {
+          "number": 3,
+          "title": "Passenger transport: force to prevent interference or maintain order",
+          "bodySha256": "e8148bcd0a865282ee6c46d775a179c3e8e70a105690a98595f0e6a497f05d2c",
+          "reviewNote": "Includes operator or order-maintenance responsibility and narrower deadly-force condition."
+        },
+        {
+          "number": 4,
+          "title": "Medical treatment: force, consent, and emergencies",
+          "bodySha256": "a387c1b954ec1b9e4f5ab96ee4b66c5b1d8a4f468b520a5d68735c546a6429e7",
+          "reviewNote": "Covers medically acceptable treatment, reasonable health purpose, legally competent consent and emergency conditions."
+        },
+        {
+          "number": 5,
+          "title": "Force to prevent suicide or serious self-injury",
+          "bodySha256": "3611d0d9efce4863ea8d1766d60a7d84fe8fc1d7ac8c379151861be587a44046",
+          "reviewNote": "Names the topic neutrally while retaining reasonable belief and necessity requirements in body."
+        },
+        {
+          "number": 6,
+          "title": "Defendant’s burden to raise justification",
+          "bodySha256": "239453e152f9831be84917c2a678bc38eb615be2c69c396ca949ef9309b96a35",
+          "reviewNote": "Names issue-injection without implying proof of each condition."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Care, corrections, transport, treatment consent/emergency, and self-injury prevention reviewed separately; limits on force not generalized away. This is not independent legal review."
+    },
+    {
+      "id": "563.070:29229",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=563.070&bid=29229",
+      "sourceSha256": "421ae9cf3f37e3536f3cfc23cfef97cb0333034a79098680ed09f52dd45731af",
+      "textSha256": "1dfcfd7d337407a348cd8b47a64e236d41d410381952ea1a7ba30c6970927f63",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Accidental conduct as an excuse under chapter 565",
+          "bodySha256": "1cf8949d9fe970783eb21dcfb1a0d14ea67bc16773b111a658135472c0fa5479",
+          "reviewNote": "Includes lawful act and means, absence of knowing injury or attempt, and absence of criminal negligence; not all accidents."
+        },
+        {
+          "number": 2,
+          "title": "Defendant’s burden to raise the accident excuse",
+          "bodySha256": "35b46c793c5a2a8b5e4212b66ff58911647e26a29756e3c3b2e982b6f487ff96",
+          "reviewNote": "Distinguishes excuse from justification and avoids inventing proof burdens."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Excuse confined to chapter 565, lawful accident and absence of criminal negligence checked; burden remains raising the issue. This is not independent legal review."
+    },
+    {
+      "id": "563.074:29231",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=563.074&bid=29231",
+      "sourceSha256": "d6d71055a18787fbee322b71abc19519e13d2a4fbcdf7092fc948ab3201cd000",
+      "textSha256": "36268446aa261e412d82778c98b954dde39dfcb886ff9ca484b21d77d03466e9",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Qualifying use of force as an absolute defense",
+          "bodySha256": "6ba7bbb2e164e6f166bbc223f10147be524f39975d9dc928a49a278aff8846db",
+          "reviewNote": "Limited to force described in the six referenced sections; does not say all force defeats liability."
+        },
+        {
+          "number": 2,
+          "title": "Civil defense expenses after an absolute-defense finding",
+          "bodySha256": "3abb8c313efb0c822e4da56209b24f0d3c0a9848a57aaa10d82aa0f5cb80faf8",
+          "reviewNote": "Includes attorney fees, costs and reasonable expenses, conditional on court finding in a civil action."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Absolute defense tied to listed force provisions; civil expense award requires court finding of that defense. This is not independent legal review."
+    }
+  ]
+}

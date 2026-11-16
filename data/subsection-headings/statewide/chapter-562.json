@@ -1,0 +1,421 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafting followed by a separate agent editorial review against complete archived source; not independent legal review.",
+  "entries": [
+    {
+      "id": "562.011:29176",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=562.011&bid=29176",
+      "sourceSha256": "22e71d5210062e1d52efee07478287218b1b2b6d95eb022cd76a310476ca4adc",
+      "textSha256": "4a7e7b949bc301881ca9adca805f3e39446daf4ad300ba271f6cd4032f47b1f9",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Voluntary-act requirement",
+          "bodySha256": "5ca4d63484fb56ea6f86a332dd3c303910c2e094feaf6239233b7de1db9f1399",
+          "reviewNote": "Identifies the requirement that liability involve conduct including a voluntary act, not that every movement be voluntary."
+        },
+        {
+          "number": 2,
+          "title": "Meaning of voluntary act",
+          "bodySha256": "12ddb08fd2c5c7b3cb148b11d4fceb51cd3152189e5e581eaa1eb20ccbd99b96",
+          "reviewNote": "Includes both conscious bodily movement and physically possible omissions; subsection4 separately limits omission-only liability."
+        },
+        {
+          "number": 3,
+          "title": "Possession as a voluntary act",
+          "bodySha256": "3a24d357a11da96b38c7ef365ab0966f7e51acd2005f6f47fb7a1bcbe54118a2",
+          "reviewNote": "Accounts for knowing acquisition or awareness of control long enough to terminate it; does not call every possession voluntary."
+        },
+        {
+          "number": 4,
+          "title": "Liability based solely on an omission",
+          "bodySha256": "13be20e525ea971b3f6750e9db34f18cdc863585e22daadd234308fd30528f47",
+          "reviewNote": "Keeps the express-offense or legally-imposed-duty conditions in the source; distinguishes the definition in subsection2."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Read voluntary-act requirement, movement/omission definition, knowing possession/control timing and law-imposed duty for sole omission liability. Labels preserve the distinct qualifications rather than declaring all omissions criminal. This is not independent legal review."
+    },
+    {
+      "id": "562.012:29178",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=562.012&bid=29178",
+      "sourceSha256": "bfba6a27b6381e104d4182e56f76d6c8e0ebb18df4baeba2fd9a68bad74cb8ce",
+      "textSha256": "1fc9353bbb6104704f4a1f889e980e37850d802b51e07bfe976ae49b03c20864",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Attempt, purpose, and substantial steps",
+          "bodySha256": "eac6feeb332759ccadc23f5627fc0710b4bff00e966c3b43e79901234504d9d8",
+          "reviewNote": "Covers purpose, conduct and the substantial-step definition without supplying elements of particular attempted offenses."
+        },
+        {
+          "number": 2,
+          "title": "Impossibility defense and believed circumstances",
+          "bodySha256": "e04f4c3ac5fc5c5db6fb21148f681df2435987fe43553105d3f1f6926951b909",
+          "reviewNote": "Preserves the qualification concerning circumstances as the actor believed them; does not assert that impossibility is always irrelevant."
+        },
+        {
+          "number": 3,
+          "title": "Classification of attempted offenses",
+          "bodySha256": "0b7d85edb7990295098801acf43570c2cbbaab522a0728f429313e78bf4130a3",
+          "reviewNote": "Keeps the offense-statute exception to lower classification; does not announce an unconditional reduction."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Read purpose/substantial-step test, factual/legal impossibility qualified by believed circumstances, and one-class-lower default subject to offense-statute exceptions. Headings do not imply impossibility always defeats prosecution. This is not independent legal review."
+    },
+    {
+      "id": "562.014:48668",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=562.014&bid=48668",
+      "sourceSha256": "77e2d7dcd2510490c4d9ef354b21c331aaca9555a5518aee51162ae631afb89b",
+      "textSha256": "1a90af9f75891f00e09f9b373eb6bd362ea1a738f4195aee7451864389d2bfd3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conspiracy agreements and acts in furtherance",
+          "bodySha256": "204b76e665f6bdc6974ed46e1d31f0cc9a49c84b68a86fd713d198ec0be523c1",
+          "reviewNote": "Includes the specified felony classes, agreement and furtherance act. Does not repair the unusual exceeds-ten-years-or-more source wording."
+        },
+        {
+          "number": 2,
+          "title": "Unknown identities of other conspirators",
+          "bodySha256": "b17009af72722c41ba444af1b85324cc70a1520c38f40185d4d210fe5f31ed31",
+          "reviewNote": "Preserves knowledge of the linked conspiracy as a condition; does not generalize to all unknown participants."
+        },
+        {
+          "number": 3,
+          "title": "Multiple offenses under one conspiracy agreement",
+          "bodySha256": "da3bbedd61bd2edb26712f7155efdf1d87b05cd1cb03409fd3c61a54a19773ce",
+          "reviewNote": "Distinguishes the single conspiracy conviction rule from liability for the underlying offenses."
+        },
+        {
+          "number": 4,
+          "title": "Renunciation and raising the issue",
+          "bodySha256": "bef47f2e5419e4b6034845ab08cf0dab84d0b200db5b28e77e4f724c4efc1480",
+          "reviewNote": "Revised generic defendant burden wording to reflect the specified burden of injecting the issue, without implying a burden of proving renunciation; prevention and renunciation conditions remain in body."
+        },
+        {
+          "number": 5,
+          "title": "Conspiracy termination for prosecution time limits",
+          "bodySha256": "ee09b0845c91c64505257344c28c117a18e8d06308027e2bab9263ca0207368f",
+          "reviewNote": "Includes completed objectives, collective abandonment, and conditions for individual termination; no generic limitations period supplied."
+        },
+        {
+          "number": 6,
+          "title": "Conspiracy offense classification",
+          "bodySha256": "5c5e130bdbb04121f2667cda1a8c56b40ad87de9f77f31bb9d2a0e3acbb5e15a",
+          "reviewNote": "Describes the class-C classification without adding a sentence or merging attempt penalties."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Read limited felony scope and act in furtherance, unknown identities, single-agreement offenses, prevention-based renunciation and continuing-conspiracy termination rules. Source exceeds ten years or more wording retained without resolving it. Renunciation label revised to distinguish injecting the issue from a burden of proving the defense. This is not independent legal review."
+    },
+    {
+      "id": "562.016:29180",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=562.016&bid=29180",
+      "sourceSha256": "b2ee982c308d4d32904bcf76ca275032ab63498c7f957194c90c1b3364bd18a1",
+      "textSha256": "718349cad34c1452640d3ac3eeeb41cc0b7ed397b928d0d5114dc89a45ed963b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mental-state requirement and statutory exception",
+          "bodySha256": "090a27b931b96ebc6c0695900b2d36c51cacf24ea3e5eae72e59a1a026782fd4",
+          "reviewNote": "Keeps 562.026 and offense-specific mental-state/element requirements; not a claim that all offenses require intent."
+        },
+        {
+          "number": 2,
+          "title": "Meaning of acting purposely",
+          "bodySha256": "5c5d396afdb8a0b039b70f0873133ff08d34dc1c20cca4c56b59684c97ce34f2",
+          "reviewNote": "Describes conscious-object definition for conduct or results."
+        },
+        {
+          "number": 3,
+          "title": "Meaning of acting knowingly",
+          "bodySha256": "e46e6956c8aef684d45fd48125750d838bcaeb27dde5fb23a0b3cd31000369d7",
+          "reviewNote": "Read both subdivisions on awareness of conduct/circumstances and practical certainty of a result."
+        },
+        {
+          "number": 4,
+          "title": "Meaning of acting recklessly",
+          "bodySha256": "44261c0b5e49fed467d391e28b3a6a3d17721aaec3395b62ae97c29d8420c622",
+          "reviewNote": "Preserves conscious disregard, substantial/unjustifiable risk and gross deviation requirements."
+        },
+        {
+          "number": 5,
+          "title": "Meaning of criminal negligence",
+          "bodySha256": "ee867472d96a3ec55337edd047d78af1f3e3154a709fd2b102ab36c0d5432af4",
+          "reviewNote": "Distinguishes failure to perceive risk from the conscious disregard in subsection4; preserves gross deviation requirement."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Read statutory mental-state exception and all four mental states, preserving conscious disregard versus failure to perceive risk and conduct/circumstances/result distinctions. This is not independent legal review."
+    },
+    {
+      "id": "562.021:29182",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=562.021&bid=29182",
+      "sourceSha256": "95baa6508d6fc3553ee84cc0ad3eb01687e99f63e8560f66bea26bb6a30c5999",
+      "textSha256": "a957f763b2e31a6c5750ddb1b58d946ca50984e4b2e1b3b70a170c4a46e0ae92",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mental states prescribed without identifying particular elements",
+          "bodySha256": "7e38493c5be07a92ca2c9c7e111711c3e8895ab0ae2d036de7edefb974d6415d",
+          "reviewNote": "Concerns a prescribed mental state whose application to elements is unspecified, not an offense omitting a mental state altogether."
+        },
+        {
+          "number": 2,
+          "title": "Requirements prescribed for particular offense elements",
+          "bodySha256": "ef439e4f45a9cae661f5f9eecdac9152da125eeee38fa345beaeb1477a335717",
+          "reviewNote": "Describes the specified-element rule and its treatment of other elements; distinct from subsection1."
+        },
+        {
+          "number": 3,
+          "title": "Offenses without an express mental-state requirement",
+          "bodySha256": "e47eae1ba74ac6b21320ea4036e6a53e5fbca2068ff038fee8e4f3063455ac8d",
+          "reviewNote": "Keeps both cross-referenced exceptions and the purpose/knowledge standard, rather than implying any culpability suffices."
+        },
+        {
+          "number": 4,
+          "title": "Satisfying mental-state requirements with higher culpability",
+          "bodySha256": "287c1833485b291318a652b0409485366e2a1a8fe8a29aa7b80c5e23244cb962",
+          "reviewNote": "Describes only the stated substitutions among negligence, recklessness, knowledge and purpose; does not invent new mental states."
+        },
+        {
+          "number": 5,
+          "title": "Knowledge of the offense-defining law",
+          "bodySha256": "cb00282cb05e5666b2734b3453350e03f022004806d602bbec5e40f443d7d73d",
+          "reviewNote": "Covers the general non-element rule and express statutory exception without saying ignorance always excuses conduct."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Read element-specific allocation, default purpose/knowledge with express exclusions, higher-state substitution and absence of required knowledge of law unless statute provides otherwise. This is not independent legal review."
+    },
+    {
+      "id": "562.031:29184",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=562.031&bid=29184",
+      "sourceSha256": "55b80fb7f22f77f7a4f0274c238e89b895d832cf961163cd596267bddc4f6ae1",
+      "textSha256": "cf67ec58331fc3aec9a40bc99e5174dcefdbc60607e83b47655f9db49c97a376",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mistakes affecting the required mental state",
+          "bodySha256": "9342c7ce11de3161f7e33cd5fc10a7954ef3ad86ea4d67d81d4ea917adbc2e7b",
+          "reviewNote": "Includes mistakes of fact or law and the requirement that they negate the required state; not a broad mistake defense."
+        },
+        {
+          "number": 2,
+          "title": "Unpublished rules and official statements of law",
+          "bodySha256": "875703fc9390ad049b1c777c3bf48b27be1f8d67f39460e2b1a01a9f5e4dd955",
+          "reviewNote": "Official statements may later be found invalid or erroneous; official law could suggest the statement is valid law. Reasonable reliance and due-diligence qualifications remain in the source."
+        },
+        {
+          "number": 3,
+          "title": "Defendant’s burden to raise reasonable-belief exceptions",
+          "bodySha256": "9a761b325e75d8bd959e6e56276dc115454c1feb78593d8f96229e88f69c9483",
+          "reviewNote": "Names burden of injecting the specified subsection2 issues, not a general burden to disprove guilt."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Read mistake negating required mental state, reasonable unpublished-rule/due-diligence and official-statement reliance exceptions, and defendant burden of injecting issue. Raise wording does not convert it to proof. This is not independent legal review. Rechecked subsection 2 and clarified that reliance concerns official statements of law, including statements later found invalid or erroneous."
+    },
+    {
+      "id": "562.041:29188",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=562.041&bid=29188",
+      "sourceSha256": "1e22fb0467b9c31abf6633bbad22acfe2b05c6bc278556caa87fef4f0a1b37bf",
+      "textSha256": "2cff12369ea5091951780b7546ade9af393c2490162f2f956906aa1b7bcc1f2a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Grounds for responsibility for another’s conduct",
+          "bodySha256": "43d70a577b8fd15ec5719da2e68de8c74ae254b01517209a18d069402eec6f7a",
+          "reviewNote": "Includes express statutory responsibility and purposeful assistance/agreement/attempt to aid before or during the offense; not mere presence."
+        },
+        {
+          "number": 2,
+          "title": "Exceptions to responsibility for another’s conduct",
+          "bodySha256": "8d1931d0f63b308a428a6485c88582ac7cf115913abd346b0b8323f5206f0b2e",
+          "reviewNote": "Read victim, necessarily-incident conduct/separate-offense, and abandonment-with-warning-or-prevention exceptions. No broad immunity claimed."
+        },
+        {
+          "number": 3,
+          "title": "Abandonment as an affirmative defense",
+          "bodySha256": "e103649dfab2e79e546cc4f2b88d000ef244e8a64c8cb8bedef25376392740af",
+          "reviewNote": "Refers specifically to subsection2(3), not all exceptions. Read the source annotation on aiding another despite inability to commit the offense individually."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Read statute-based or purposeful assistance responsibility, victim/necessarily-incidental/abandonment exceptions, related separate offense and affirmative-defense designation for abandonment. Historical aiding-rape case note read without turning it into a general title rule. This is not independent legal review."
+    },
+    {
+      "id": "562.056:29193",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=562.056&bid=29193",
+      "sourceSha256": "c8e530895625265143f814fda6da81c6e8afdad62be086c2e55701286d623e0a",
+      "textSha256": "626b11221c82d1f064225bb989728ec2ec6b79448ba67e6f4b39e8e09505bf44",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Corporate criminal liability",
+          "bodySha256": "833b7c3fd144b82456fc55b551160a9bc74f8b1897b1d019ea90edb5758a22b8",
+          "reviewNote": "Covers omitted duties, qualified agent conduct and management authorization/tolerance as separate statutory grounds."
+        },
+        {
+          "number": 2,
+          "title": "Unincorporated association criminal liability",
+          "bodySha256": "5dcabc27e27ff33514011af665cb6e3eeb76832de368d41829f87baed80182d5",
+          "reviewNote": "Keeps this subsection distinct from corporations and preserves legislative-intent and agency conditions."
+        },
+        {
+          "number": 3,
+          "title": "Meaning of agent and high managerial agent",
+          "bodySha256": "9a5a0041aad10818951cdd6d1230021b44d63a5e9def7eb17147ca18f800eea9",
+          "reviewNote": "Both section-specific definitions covered; no broader employment-law definition inferred."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Read corporate omission/agency/high-manager liability separately from narrower unincorporated association grounds, plus agent definitions; titles do not erase scope-of-employment/on-behalf requirements. This is not independent legal review."
+    },
+    {
+      "id": "562.066:29198",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=562.066&bid=29198",
+      "sourceSha256": "a957f861632403fb375dcca2e0f1ad97f22e1cabacb77cfc98ca1e1100d3a407",
+      "textSha256": "132345830b3bb58f1aa72e5c2c8c49fcdddd0109c90fe93d2528db1f598e9731",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Entrapment and criminal responsibility",
+          "bodySha256": "39b50c3f031436b704394d39961fd3dbd440e56be1770d8c99b74c5527960aaf",
+          "reviewNote": "Names the defense topic without assuming it applies in the physical-injury circumstances excluded by subsection3."
+        },
+        {
+          "number": 2,
+          "title": "Meaning of entrapment",
+          "bodySha256": "fd41963a5c36d69553b9c49c71872ddc95787b467b33459618be138d826558ff",
+          "reviewNote": "Preserves officer/cooperator role, evidence-gathering purpose, inducement and lack of readiness/willingness."
+        },
+        {
+          "number": 3,
+          "title": "Injury or danger to others: entrapment exception",
+          "bodySha256": "af13efbb42392faa278f129743cdb6628a3e830ccb6f66550a7245afb73e4307",
+          "reviewNote": "Includes both causing injury and risk of injury to someone other than the entrapment perpetrator; not limited to actual injury."
+        },
+        {
+          "number": 4,
+          "title": "Defendant’s burden to raise entrapment",
+          "bodySha256": "01961b6463055686387bb43a4bbcb5d99db1977c3e3d92955f462eacbb6c0b76",
+          "reviewNote": "Uses raise for injecting the issue, not a claim about the ultimate burden of proving every element."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Read officer/cooperator inducement with lack of readiness/willingness, physical-injury danger exception and burden of injecting issue. Source perpetuated spelling retained; no proof burden inferred. This is not independent legal review."
+    },
+    {
+      "id": "562.071:29201",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=562.071&bid=29201",
+      "sourceSha256": "c86a45dae066ef8645bf309475cec80f898325da126169047aa62180858fcb6b",
+      "textSha256": "37ca740328bdaed1d385d729e5c6b02827b752e4ec9a100f5d5e3821d1db65d9",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Duress as an affirmative defense",
+          "bodySha256": "561d63f5bb3bed3dfc04dcbfb9a17b0d88b51dc7f3b1c5aaa0f496f51f3c436b",
+          "reviewNote": "Includes force/threat imminence, unlawfulness, third persons and reasonable firmness; not any kind of pressure."
+        },
+        {
+          "number": 2,
+          "title": "Offenses and circumstances excluding the duress defense",
+          "bodySha256": "55c71c789ae989d1b6efc7cb5ff368b962a08845bbe7aedc99bcbd9edf7e1bf6",
+          "reviewNote": "Covers murder and reckless exposure to coercion. Read the felony-murder annotation; no broader case-law conclusion added."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Read reasonable-firmness/imminent unlawful force affirmative defense and murder/reckless-self-placement exceptions. First-degree felony-murder annotation retained and consistent with exception topic. This is not independent legal review."
+    },
+    {
+      "id": "562.076:29203",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=562.076&bid=29203",
+      "sourceSha256": "f0f2679a0ffd2ed4b8f060834643e90b11e7e5083d20b5bb7bf08ce1870265e4",
+      "textSha256": "b17d5530488524c2fec6bcd014cea7e87817e1ae67ae43c18b9e55e9c14890fe",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Intoxication, incapacity, and criminal responsibility",
+          "bodySha256": "178cb88cde90a0b3697a50dc04d7824b89e25f2a2fa1e1af1294b9a654d646c3",
+          "reviewNote": "Keeps both involuntariness and specified incapacity in the exception; does not suggest voluntary intoxication negates responsibility."
+        },
+        {
+          "number": 2,
+          "title": "Defendant’s burden to raise intoxication",
+          "bodySha256": "66472589779a555f646c30d4a79e4d2644b2cb4fd60f1e21cd8245423ea86983",
+          "reviewNote": "Describes the issue-injection burden while retaining the conditions elsewhere in the section."
+        },
+        {
+          "number": 3,
+          "title": "Voluntary intoxication evidence and jury instructions",
+          "bodySha256": "f28e6d5af8f401f3a0eb9517f8031ca5eb5cb252057a6a2659610aa17746acd8",
+          "reviewNote": "Distinguishes relevant conduct evidence from use to negate an element mental state and includes the jury-instruction requirement."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Read involuntary incapacity exception, burden of injecting intoxicated/drugged condition and voluntary evidence allowed for relevant conduct but never negating mental state, with required jury instruction. This is not independent legal review."
+    },
+    {
+      "id": "562.086:29206",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=562.086&bid=29206",
+      "sourceSha256": "cf622f3169906f0dddb2ed16466953c795f6353c67760b9d8ff625a9f881a15f",
+      "textSha256": "0da7fc341b484443f0348c7b54df2aa0e3cfbdc1c90213e530ca4b4f2703dc85",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mental disease or defect and criminal responsibility",
+          "bodySha256": "95e5518d100c2ca5bbefa7b717700ee4d604df4593c5d7ce8f6587666b52ce68",
+          "reviewNote": "Preserves incapacity at the time of conduct and the statutory knowing/appreciating standard; not a blanket exemption for diagnoses."
+        },
+        {
+          "number": 2,
+          "title": "Defense procedures under chapter 552",
+          "bodySha256": "84c4abae518482a40e62482cfae13cd41523d07ad7c6dc2f0426913f013a39ed",
+          "reviewNote": "Retains the exact procedural cross-reference without inventing procedures or burdens."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Read mental-disease/defect incapacity at time of conduct and referral of defense procedures to chapter552; headings avoid diagnosing or broadening eligibility. This is not independent legal review."
+    }
+  ]
+}

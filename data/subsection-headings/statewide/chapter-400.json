@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafting followed by a separate agent editorial review against complete archived source; not independent legal review.",
+  "entries": [
+    {
+      "id": "400.8-117:22550",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=400.8-117&bid=22550",
+      "sourceSha256": "c084656f6a912431054f54e10ada7f58d4984f53260e95ce64d90d0008b0b4b4",
+      "textSha256": "67738ff56e024e2e6dc15b4827e928a5a00f7b603f80301355c6887d01a8e027",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Depositing, holding, and transferring securities",
+          "bodySha256": "30835b04333e04fe5883982551a95093f58fb403efde16bb7c6799841d45b114",
+          "reviewNote": "Read all authorizations, ownership records, book-entry transfers, regulatory conditions, certifications on demand, scope and clearing-corporation definition; title describes broad activities without extending eligibility."
+        },
+        {
+          "number": 2,
+          "title": "Safekeeping and verification of state deposit collateral",
+          "bodySha256": "4f171692071a1e361c18dc0a055f2d913e00711b9c24cc41ebd639bc0699bc05",
+          "reviewNote": "Addresses bonds securing state-treasurer deposits, permissible custody methods and agreed verification procedures, rather than general private collateral."
+        },
+        {
+          "number": 3,
+          "title": "Insurance securities deposits and withdrawal controls",
+          "bodySha256": "50410efe8cf7cfb88870aeba3ee40c1a7ce17ab425677659c184f629be99e954",
+          "reviewNote": "Covers eligible insurance investment securities, verification procedures, and director approval before withdrawal; does not imply unrestricted withdrawal."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Read all custody and bookkeeping clauses, named fiduciary/insurance/bank capacities, demand certifications, regulatory limits, and clearing-corporation definition. Separate headings correctly distinguish state-treasurer collateral verification from insurance deposits and approval-controlled withdrawals. This is not independent legal review."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafting followed by a separate agent editorial review against complete archived source; not independent legal review.",
+  "entries": [
+    {
+      "id": "183.010:9247",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=183.010&bid=9247",
+      "sourceSha256": "ef45c8411fc73c83fcce684c79641373ada07551dddf11038188b21df2a31848",
+      "textSha256": "730465448d08fcfc5d6d17fce3ff1f0bf4db402f365d901786a03a25b66cd67a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Society trusteeship and property restrictions",
+          "bodySha256": "559e61a6644d561fe206ccda6739762ee39944e9aeff1f5cf48a6f162f253886",
+          "reviewNote": "Covers holding collections and property for the state, encumbrance restrictions, and qualified sale/exchange/reinvestment provisions."
+        },
+        {
+          "number": 2,
+          "title": "Executive committee membership and powers",
+          "bodySha256": "3391a7d5b8400ee00f72e065787b5fee7f2e729a7f79bb7a276d5f0696f8ebba",
+          "reviewNote": "Describes continuation of the committee, membership set by the society constitution, and retained powers."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Both headings fit the society trusteeship and property limits, including qualified exchanges/reinvestment, and continuation of the executive committee; historical revision notes read. This is not independent legal review."
+    }
+  ]
+}

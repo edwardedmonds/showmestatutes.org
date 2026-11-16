@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex draft and separate editorial review against complete archived source versions and notes; not independent legal review.",
+  "entries": [
+    {
+      "id": "10.120:332",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=10.120&bid=332",
+      "sourceSha256": "9f06b443bc7e48017df55faf131d7dc3574463ac4517ab3185d3ffd1faf19cdf",
+      "textSha256": "333db685ffb40282a59a5c72390bb62f43396f75cc3baa30abe3c9c1bf4b71d5",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Meaning of square dance",
+          "bodySha256": "feb92ce23f38390fbb0c9397aee63c912b87007ee9882ed75e1318c25a1f9de1",
+          "reviewNote": "Separately checked against the complete archived version and notes. Broad statutory square-dance definition separated from official folk-dance designation."
+        },
+        {
+          "number": 2,
+          "title": "State folk dance designation",
+          "bodySha256": "741f586fa67176adea13de8dad0bf99f7ffab335b595096c8fe1dbd3c33179f0",
+          "reviewNote": "Separately checked against the complete archived version and notes. Broad statutory square-dance definition separated from official folk-dance designation."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Broad statutory square-dance definition separated from official folk-dance designation."
+    }
+  ]
+}

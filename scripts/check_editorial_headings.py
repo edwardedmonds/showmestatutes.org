@@ -30,7 +30,8 @@ def main():
             identity = text['id']; entry = entries[identity]; seen.add(identity)
             section = text['section']
             if section not in pages:
-                html = (args.dist/'statutes'/section/'index.html').read_text()
+                # Preserve CR characters in archived notes for exact comparison.
+                html = (args.dist/'statutes'/section/'index.html').read_bytes().decode('utf-8')
                 pages = {section: (BeautifulSoup(html, 'html.parser'), audit.ReadingPage(html))}
             soup, doc = pages[section]
             assert ''.join(doc.parts[(identity, 'heading')]) == text['headingText'], identity
