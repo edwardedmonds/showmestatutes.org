@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "540.021:28590",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=540.021&bid=28590",
+      "sourceSha256": "71fdbc0fba154445f7bf5213662abc338daef675b06022d2919a40ca89735c42",
+      "textSha256": "b55f4962d9d87db1b53ce4ec3325fdfe8519c84ae66eec148f520323748c4106",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Random selection, summons, and qualification forms",
+          "bodySha256": "2288758cf08310ca06b23d733dae3578e443d61839f48fb3059d34cd1f8c3910",
+          "reviewNote": "Read presiding/designated judge order, master list and board manner, mailed or personal summons/form."
+        },
+        {
+          "number": 2,
+          "title": "Disqualification, notice, and removal from the grand jury list",
+          "bodySha256": "2882b9c78b67c00fca700d2d8b61bb06a4349bef0fa377b39520f7e5c0cb12b8",
+          "reviewNote": "Disqualified candidates not required to comply with summons; no punishment implied."
+        },
+        {
+          "number": 3,
+          "title": "Grand jury list and later disqualification",
+          "bodySha256": "47376946b9c3ca310db259d157574998a75c01e879b8b1f476d5bc4f3cc67f58",
+          "reviewNote": "Later deletion specifically from master list, unlike prior grand-jury-list provision."
+        },
+        {
+          "number": 4,
+          "title": "Selection of twelve grand jurors and alternates",
+          "bodySha256": "e58e571e54e51b6cc271eb150af32892e96861f97a888acfda92b38543d576f5",
+          "reviewNote": "Judge supervision, alternates on death/disqualification/inability, selected names removed from grand jury list."
+        },
+        {
+          "number": 5,
+          "title": "Convening, service terms, and limited extensions",
+          "bodySha256": "9c225ae7386aa3441b6d3a7eb3e831a6f44c639f674ddc63104605c1855a1dc5",
+          "reviewNote": "Six-month service plus up-to-sixty-day extension only existing matters; another jury may convene."
+        },
+        {
+          "number": 6,
+          "title": "Grand juror compensation",
+          "bodySha256": "2ff87c642a914631877109c5ca024fc13fd77ccd9b07b3f44b4e5d1ecb85e1f2",
+          "reviewNote": "Amount cross-referenced to petit jurors, no unsupported current dollar figure."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read all six subsections and history. Random selection precedes judicial choice of twelve members and alternates. Source distinguishes deletion from grand-jury list versus master list in subsection 3. Six-month term and up-to-sixty-day extension solely for existing matters are not described as general new-case authority."
+    },
+    {
+      "id": "540.045:28592",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=540.045&bid=28592",
+      "sourceSha256": "bc3f62151d6091d1d5b6cb43cdd169907a64f8a2242cceb6268a80992c2b7319",
+      "textSha256": "c39b190594fbd08ae24fa6f5e45b707be0567d8ca874931b2f195d32cae0172e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Petit-juror qualification and exemption rules",
+          "bodySha256": "66346373155091c8158223a0875c025b31f26ee3bdbdbd015272475681fbda05",
+          "reviewNote": "Incorporates494.400–505rules for chapter grand jurors."
+        },
+        {
+          "number": 2,
+          "title": "Ten-year ineligibility after regular or alternate grand jury service",
+          "bodySha256": "db703085c9ea5215ba3f5a0332d734c38aa1816dbf127192264530926c1b888f",
+          "reviewNote": "Includes members and alternates, preserves repeated alternate source wording."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read both subsections and history. Petit-juror rules are incorporated for grand jurors, and ten-year restriction includes alternate service. Repeated source reference to alternate is retained rather than silently repaired."
+    }
+  ]
+}

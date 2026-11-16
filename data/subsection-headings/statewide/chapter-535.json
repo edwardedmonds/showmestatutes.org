@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "535.030:35186",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=535.030&bid=35186",
+      "sourceSha256": "aebc8b0d8d1702ad4df6442862279ee1d3a04bd95551cc60d28a87e8ffabb016",
+      "textSha256": "7f3f4013cd49fc63fbb05a5da50c4edd2407c48724206afbee47a87f4eef43f0",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Summons service and court-date timing",
+          "bodySha256": "30a7c88da53892560bcda8630808f5e7234540bfa4f34c911ba36cc2be618386",
+          "reviewNote": "Read four-day service and twenty-one-business-day court date, subject to written consent to later date."
+        },
+        {
+          "number": 2,
+          "title": "Requested posting and mailing with limits on default judgments",
+          "bodySha256": "2b5c723436efd9777a21a06cedffe148dbd9c7cbbdbdfb4437470e66a32ee93d",
+          "reviewNote": "Includes attempted personal service, both ten-day steps, return/affidavit proof and no money judgment on posting-based default."
+        },
+        {
+          "number": 3,
+          "title": "Alias summons and service by posting and mailing",
+          "bodySha256": "6e43d4d287a871846ba4d45b1751e0344f560ee373426ca66cd611da61e85c8a",
+          "reviewNote": "Includes adult plaintiff/agent option, affidavit proof and repeated default-money-judgment limit; no universal personal-service equivalence claimed."
+        },
+        {
+          "number": 4,
+          "title": "Postjudgment motions, final possession, and default notice",
+          "bodySha256": "3471557229fa058e7836e4815199281bebd1053105e60b39c4a43d14bc236d35",
+          "reviewNote": "Read ten-day relief routes and finality/eviction notice; topic does not resolve interaction with other appeal statutes."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read all four subsections and legislative history. Four-day service, twenty-one-business-day court date, and ten-day posting/mailing are distinct. Posting remains additional to attempted personal service, default money judgments are restricted, and subsection 4 concerns postjudgment timing rather than an unconditional eviction entitlement."
+    },
+    {
+      "id": "535.040:28369",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=535.040&bid=28369",
+      "sourceSha256": "00533fb6923b9073c9be0425689d16351fcfdbd293ec26ebecc729f432679ba4",
+      "textSha256": "69e92a18c7b884fdfc84d720a9289ced35b8b8158473e960c57b5a84d2db2b76",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Hearing, judgment, and execution for rent and possession",
+          "bodySha256": "59d029369c5bbe781025ec9b2a16e66559a8321bdfab0f9b6166a03d7497066c",
+          "reviewNote": "Read rent demand/nonpayment/tender, posting-default exception, five-day possession delivery and possession-only election."
+        },
+        {
+          "number": 2,
+          "title": "Qualified liability protection for removing tenant property",
+          "bodySha256": "db1aef598621661fd58dcbbd19a2db0628d074e2281a2d1f1119cdbcfe069d43",
+          "reviewNote": "Limited to court-ordered execution and preserves willful/wanton/malicious exception."
+        },
+        {
+          "number": 3,
+          "title": "Notice and recovery of marked third-party property",
+          "bodySha256": "eede142699092cc64f33771a39fe2f306baaa0c266010bfa543ecbae8d69d6bc",
+          "reviewNote": "Read post-execution conspicuous permanent marking, certified notice, five-business-day recovery and inability-to-notify disposal."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read all three subsections and Rice annotation. Possession-only election, tender, and default/posting money-judgment restriction retained. Removal immunity excludes willful, wanton, or malicious conduct, and marked third-party property requires separate notice and recovery opportunity. Historical jury-review annotation not expanded into present procedural advice."
+    },
+    {
+      "id": "535.185:28384",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=535.185&bid=28384",
+      "sourceSha256": "c1760d25769ea3acb49048295da52db620f11463e48fb04b77d22d3d3f092dee",
+      "textSha256": "34232a2234a3a82bea61a9a1db484db1c1ca8d44c952b4033396763fc7fd9efd",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written disclosure of management and service contacts",
+          "bodySha256": "460a8f38da292bbb56a1e8f7140c4dc51c4cd36651233733f2a77dfbbad5cd23",
+          "reviewNote": "Includes owner/authorized agent and special post-office-box mailing provisions."
+        },
+        {
+          "number": 2,
+          "title": "Keeping information current and successor obligations",
+          "bodySha256": "84727cf5afe0b01d9f42ca76550c222bbbb33f72ff96e8e2efa9296f67d4979c",
+          "reviewNote": "Read enforceability against successor landlord/owner/manager."
+        },
+        {
+          "number": 3,
+          "title": "Agency consequences of failing to disclose",
+          "bodySha256": "b091d6a2d8e7ef97ed0927222c8004848ed95af74206832678c60d56a560355a",
+          "reviewNote": "Read service/notice and performance/rent obligations; unusual expending wording retained without repair."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete body and history. Disclosure includes both names and addresses, post-office-box service details, current information, and successor obligations. Noncompliance agency consequences retain both service and landlord-duty branches; awkward final collection wording preserved without repair."
+    },
+    {
+      "id": "535.200:35189",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=535.200&bid=35189",
+      "sourceSha256": "246c6e16860880d9c5b44a767120bceac35024d480bfa715b33c0246209cb60a",
+      "textSha256": "678fa0812a03644101c5ecfb1d936f669c66f543a18a87d88bc1b7c093c0926e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishing the court and appointing commissioners",
+          "bodySha256": "1a8e64c65bc98e080a154233e7bd8a549de3fa880bbe15f87e7fee06b405c659",
+          "reviewNote": "City ordinance/funding and judges discretionary establishment; two-commissioner maximum and mixed judicial/mayoral appointment body."
+        },
+        {
+          "number": 2,
+          "title": "Commissioners’ authority and limits",
+          "bodySha256": "87f67fa94398a1b68755e7377d1ed1540f101ad00a3f796ca706f4e67eef0a34",
+          "reviewNote": "Read money/possession/equity authority and no ex-parte cases/orders."
+        },
+        {
+          "number": 3,
+          "title": "Commissioner qualifications, compensation, and restrictions",
+          "bodySha256": "34abb16a3e8941ebb4a5ce7df855a85eb69110f045ad032fdddad2027e82bf34",
+          "reviewNote": "City residency, licensure, one-third judge compensation, conflicts and excluded state employment/retirement benefits retained."
+        },
+        {
+          "number": 4,
+          "title": "Court procedures and staffing",
+          "bodySha256": "0f1e94d6d49bc87e12b0b8ce8fd09cf9a4235340f1fa951d35fbee66d101e70a",
+          "reviewNote": "Nonjury hearing, affirmative merits/defenses inquiry, questioning and clerical/computer staffing."
+        },
+        {
+          "number": 5,
+          "title": "Requesting an associate circuit court hearing",
+          "bodySha256": "beb21e136414dbc117e076217b6a32bc8e5e4a31d6273eb066f15f229ad929d4",
+          "reviewNote": "Ten days after mailing or service; source does not specify object of mailing/service, not invented."
+        },
+        {
+          "number": 6,
+          "title": "Recording proceedings and seeking review",
+          "bodySha256": "51a0ce549079403532eb0646d8ff010ffd3be989a0b4bfcf5591032f55e871c1",
+          "reviewNote": "City-funded electronic recording, de-novo or appellate routes with exact source cross-references."
+        },
+        {
+          "number": 7,
+          "title": "Summons return dates and service attempts",
+          "bodySha256": "3f7b1f889b126ac78bb33b0e3bb7b3e6a57814bd819b9d276cfe34689dd6637b",
+          "reviewNote": "Ten-day return and sheriff attempt within four days, no guarantee of completed service."
+        },
+        {
+          "number": 8,
+          "title": "City funding to establish and operate the court",
+          "bodySha256": "69951521018d2b8b4014f80d559e71e1a8140f951d71d69791b0b13fbd35e872",
+          "reviewNote": "StLouisCity cost obligation distinct from JacksonCounty535.210pilot."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read all eight subsections and history. Establishment depends on city ordinance and judicial action; commissioner powers exclude ex parte proceedings. Subsection 5 source omits the object of mailing/service, so title does not invent it. Four days concerns attempted summons service, not guaranteed completion; city funding and review routes are accurately distinguished."
+    }
+  ]
+}

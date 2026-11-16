@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "541.033:28626",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=541.033&bid=28626",
+      "sourceSha256": "25b77ddddda57af3b7fbbca683b1ea9b7b5562f4212d22173fa935185f99186b",
+      "textSha256": "101b8b31bc216350f1f04f1b729f46702dab29a059f9b41af12d434ce6bbf554",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "General county venue for criminal prosecutions",
+          "bodySha256": "87d045debafa16fdd7dbcc2820d7a8b5683ec8b6a263a9a873603b326064381c",
+          "reviewNote": "Offense county or any element county subject to other law; no nationwide jurisdiction claim."
+        },
+        {
+          "number": 2,
+          "title": "Additional venue options for specified identity-theft offenses",
+          "bodySha256": "2cd7f9abc9618b8fd87c4395e124e8ba16a3a3f13b19906a1932c9755219db17",
+          "reviewNote": "Read all four options including victim residence and obtained/attempted property location; exact offense cross-references preserved."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read both complete subsections and history. General venue has an otherwise-provided-by-law qualification; listed identity-theft provisions add victim residence and property-location choices. No extension to other offenses is implied."
+    },
+    {
+      "id": "541.070:28631",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=541.070&bid=28631",
+      "sourceSha256": "27df3e391b731e44213abcb4ce50e4c80dc37a0e1fa4312e60f46a6ed1af84ad",
+      "textSha256": "b7b6628721a0fbf25afb6c4b5b60313d75021486c25826f62d95d544054d71f4",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Venue when stolen or wrongfully taken property crosses counties",
+          "bodySha256": "f72d7f50c9dca3d3159c24d4092b3f766d7bd286ce66fdaaa1b164167c7661ad",
+          "reviewNote": "Any connected offense in originating or receiving county; no unrelated-offense extension."
+        },
+        {
+          "number": 2,
+          "title": "Meaning of wrongfully taken property",
+          "bodySha256": "98d10f4aebb792cdf3aa90636c74172a50543c0e2766946ed11167fb9d4451f4",
+          "reviewNote": "Trick/deception and listed nonexclusive crimes, no narrowing to completed theft."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read both subsections and prior-revision notes. Property-related offense venue includes origin and destination counties; wrongfully taken is broader than stealing alone and includes the specified nonexclusive offenses. Titles do not invent a required conviction or narrow the definition."
+    },
+    {
+      "id": "541.191:28644",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=541.191&bid=28644",
+      "sourceSha256": "ccdaafa652a9282749b423cf8f43f11dd00db76ed089b397d8960fedf1e71be7",
+      "textSha256": "efe39f068e9b1ad14f62ef0be4a4ae2b2dee28935131813fa3d527dbdc997215",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Bases for Missouri jurisdiction over offenses",
+          "bodySha256": "84ac06a777b33f6a8b4d73955fa54354e9b1a55e1ee0a1de8c9197cc68fe2354",
+          "reviewNote": "Read all five clauses and original or/and conjunctions; broad topic label does not repair the conjunction before5."
+        },
+        {
+          "number": 2,
+          "title": "Homicide results and presumption from a body found in Missouri",
+          "bodySha256": "8559e39d6bbe4f045e34bfe844d43ce0dd2fc1db87cf98c8223e2d4919f6a53b",
+          "reviewNote": "Death or fatal impact and presumption, not conclusive proof."
+        },
+        {
+          "number": 3,
+          "title": "Territory included within the state",
+          "bodySha256": "7c90eabe7dcf24c0188883f9818f32b7e1cae1f993a1183e65f88ab26cfd7520",
+          "reviewNote": "Land, water, and airspace above both."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read all three subsections and history. Source connects subdivision (4) to (5) with and after earlier or clauses; neutral jurisdiction title does not resolve or rewrite that conjunction. Homicide impact/death results, a presumption rather than conclusive fact from finding a body, and land/water/airspace scope remain distinct."
+    }
+  ]
+}
