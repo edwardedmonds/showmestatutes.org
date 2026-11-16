@@ -43,3 +43,5 @@ Each opted-in build saves an ignored audit snapshot at `data/editorial-work/last
 ## Progress
 
 Expansion is in progress. The live ledger is generated from the archived source and current chapter files; a file count or a drafted heading count is not a completion claim. Run the inventory command for current totals. The local work log records the active assignments and preview/build state so drafting and review can resume without duplicate work.
+
+The November 15 local checkpoint displays 9,098 reviewed headings across 2,283 exact source versions. Its build audit confirmed that 263 draft versions retained numbered navigation and checked the original heading, body, notes, and source structure for every registered version in that build. Chapters 99, 104, 137, and 140 have complete separately reviewed coverage of their numbered versions. Chapter 140's reprinted and constitutionally flagged versions remain distinct; ambiguous source wording is preserved rather than repaired. The search dataset remains byte-identical. Work continues toward 54,759 headings; this checkpoint is not statewide completion or publication.
