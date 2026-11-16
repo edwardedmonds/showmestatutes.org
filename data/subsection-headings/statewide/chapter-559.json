@@ -1,0 +1,641 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "559.016:29097",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=559.016&bid=29097",
+      "sourceSha256": "793c7040927ddefa245b51fa79501fd4a8c8f54f2cbc6d381600839c627aa50f",
+      "textSha256": "73a5e3519bf3f9da1785ba42dc6b99fc01d1620a0f948f8d7bcf82882d420aa6",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Probation term ranges by offense class",
+          "bodySha256": "206e64a202cad508c5ad954824fec70e936bd0625c11a063a5544f0a46d318df",
+          "reviewNote": "Read felony/misdemeanor/infraction bounds and termination/modification exceptions; not all probation automatically lasts maximum."
+        },
+        {
+          "number": 2,
+          "title": "Setting the specific term and statutory modification",
+          "bodySha256": "667369ef2b50283cffd658b128c85b0b3666c76a6aa21726b05e1a4cec3c734c",
+          "reviewNote": "Court designates at sentencing or SIS; division may modify under217.703."
+        },
+        {
+          "number": 3,
+          "title": "Extensions and additional time after probation violations",
+          "bodySha256": "271f668ae801578f6299cac99ebea9cd8a5523ef246b595c5cf2348ce5590bf7",
+          "reviewNote": "Includes one-extension rule, admitted/found violation extra year and overall cap; no interpretation of other revocation provisions."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read all three subsections and legislative history. Term ranges, designation, modification, and violation-dependent extension limits remain topic labels rather than promises of an extension."
+    },
+    {
+      "id": "559.021:29099",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=559.021&bid=29099",
+      "sourceSha256": "7e16d5022291c7d28d37670ef5f49c532cd81e817ee9f05bc87ac4b61999bac4",
+      "textSha256": "ba819b8d412bcfadf164af457c286081a7d0402d4748d81a6933891d35802a07",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Probation conditions and written notice",
+          "bodySha256": "73e5f7d78ab4fb1f54aa2d3aaaf218c001d5835d9f33691f9d745fa1ab651a58",
+          "reviewNote": "Court reasonableness/discretion and explicit certificate, not oral-only notice."
+        },
+        {
+          "number": 2,
+          "title": "Restitution, work, treatment, and restorative conditions",
+          "bodySha256": "04033c4fc080132467d6f095aced525a32654562f533f523b2cbc2f0c6af2272",
+          "reviewNote": "Read all five alternatives and other just methods; beneficiaries include dependents/funds/society, not only direct victim."
+        },
+        {
+          "number": 3,
+          "title": "Refusing free-work probation, supervision immunity, and employment status",
+          "bodySha256": "7feb96d85aef18970b646e293fa357aeabca54cdc16d25c2448926fe7157192e",
+          "reviewNote": "Includes resulting sentencing, intentional-tort/gross-negligence limits and287/288status; not blanket immunity."
+        },
+        {
+          "number": 4,
+          "title": "County law enforcement restitution-fund contributions",
+          "bodySha256": "8bde3133fd6c7f177264ecf0e428ef0bc059d0b98d9c85eea4ba5cb1e7c35780",
+          "reviewNote": "Permissive assessment after guilt,300dollar charged-offense cap and50.565uses."
+        },
+        {
+          "number": 5,
+          "title": "Fund creation before sentencing and limits on judicial control",
+          "bodySha256": "f36092d0209df1e805ecca5d9055ca6fdfb6f4c7c2795a7b3296cc396eba10a5",
+          "reviewNote": "Requires county ordinance/resolution pre-sentencing and no judge administration/supervision."
+        },
+        {
+          "number": 6,
+          "title": "Revocation limits for unpaid restitution-fund contributions",
+          "bodySha256": "eb8dbde46880e7ea6e2d47511ce27093adb5c8853d39cbc8d987d66e1f7c9eee",
+          "reviewNote": "Requires hearing/preponderance and specified willful failure; no assertion that nonpayment always or never justifies revocation."
+        },
+        {
+          "number": 7,
+          "title": "Changing conditions before probation ends",
+          "bodySha256": "b318aab05209f876870bcc3a5168535487ec94f03f47e7d9b8770a90e3a497dc",
+          "reviewNote": "Modification/enlargement before expiration or termination, not indefinite power."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read all seven subsections and the 2017 effective-date note. Restitution, free-work refusal, intentional-tort and gross-negligence exceptions, fund prerequisites, willful nonpayment findings, and changes before expiration are not broadened by the titles."
+    },
+    {
+      "id": "559.036:51057",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=559.036&bid=51057",
+      "sourceSha256": "a99e1636d5de84de2c74efd92ac7fbef3b39af9b52dce4505542bb90aa055cfa",
+      "textSha256": "eab01529e220d245487a21b9df4738ca07343e6426934650146f789ee4d417b4",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Probation commencement and concurrent terms",
+          "bodySha256": "d6ee621d5bc3e23123b38057ee4d5e7c909484ee178ae672788e7992183ff186",
+          "reviewNote": "Includes other Missouri probation and federal/other-state custody, probation or parole terms."
+        },
+        {
+          "number": 2,
+          "title": "Early termination, extensions, and suspended time",
+          "bodySha256": "fa27389eb6f741028e0b074923f72fe3fcaba2e6d347e74d5ff14b7c017fce62",
+          "reviewNote": "Read ends-of-justice condition, extension limits, one-year violation allowance and no counting suspended period; source wording preserved alongside559.016."
+        },
+        {
+          "number": 3,
+          "title": "Continuing probation after a violation",
+          "bodySha256": "a8888afdb98a0f85feb549e22d6e69519a11e093b1c62e19a34e5c58d71c0ac3",
+          "reviewNote": "Existing/modified/enlarged conditions or extension available before term expiration/termination."
+        },
+        {
+          "number": 4,
+          "title": "Eligibility and procedures for 120-day violation programs",
+          "bodySha256": "8122c7f530977c96230717d34f0f594ea0d979f220258596d1dac903c1662541",
+          "reviewNote": "Read full offense/exclusion list, absconder definition, weapon/stay-away limits, prior placement bar, assessment and timing, success/unsuccessful exit and sentence credit."
+        },
+        {
+          "number": 5,
+          "title": "Revocation, sentencing options, and a second probation term",
+          "bodySha256": "d6211f740cccd0c8c571e624508cf2b781ac5da9d40aca2c7ce1e80ba70e4a28",
+          "reviewNote": "Includes consent/ineligibility context, executing versus imposing sentence, possible mitigation for probation time and second term without subtracting first."
+        },
+        {
+          "number": 6,
+          "title": "Revocation notice, hearing, and possible appointed counsel",
+          "bodySha256": "2e36c8277a87e6763ac821bef96ff375fb93271f3d46a487b296f42b7c4af695",
+          "reviewNote": "Includes five-business-day notice with good cause, necessity decision and recorded denial grounds; not universal appointed counsel."
+        },
+        {
+          "number": 7,
+          "title": "Revocation motions, warrants, and suspended probation time",
+          "bodySha256": "8337e5037fbd2db840565905732988e4b8cc0007355a12edfbe1634257f1d62f",
+          "reviewNote": "Includes personal notice, court suspension, tolling and possible credited tolled period after reinstatement."
+        },
+        {
+          "number": 8,
+          "title": "Revocation proceedings after the probation term expires",
+          "bodySha256": "498bae738efb01668b845931bb5d3b11f7f906e808b59dd4175814f5ecf1cd07",
+          "reviewNote": "Requires pre-expiration affirmative intent and reasonable efforts, with defendant-caused/consented delay rule; no automatic unlimited extension."
+        },
+        {
+          "number": 9,
+          "title": "Program eligibility for sentences imposed before January 1, 2017",
+          "bodySha256": "07f84d1c99d3f19e1b0581650bee8dd759ede741dd41c15e728c9dcff482f14a",
+          "reviewNote": "Keeps former eligibility with all other subsection4requirements, not categorical inclusion of everyone sentenced before date."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read all nine subsections and history. The 120-day program eligibility conditions, department placement discretion, successful and unsuccessful exit procedures, notice and counsel considerations, tolling, and qualified post-expiration jurisdiction remain distinct."
+    },
+    {
+      "id": "559.100:29109",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=559.100&bid=29109",
+      "sourceSha256": "38079fd9a005c93d82b067ca63c12775f21db6f2c457a137efef73f030a243c8",
+      "textSha256": "a599e213cc8210987d1f1ebdc08842410b1e768f8cf4e96465d2d441d63ce9f5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Circuit-court probation and parole authority with statutory exceptions",
+          "bodySha256": "41e210fdc5780534956545203a5b7389a79e7e094006dddf56c1191a22167e85",
+          "reviewNote": "Read full enumerated exceptions; title does not imply unrestricted authority for every offense."
+        },
+        {
+          "number": 2,
+          "title": "Conditions, revocation, restitution, and credit for supervision",
+          "bodySha256": "2f2518b4ef73236cc3c4fe11482738e461994daeb95bc95147e01d5bc02616a7",
+          "reviewNote": "Includes extensions, revocation under559.036 and discretionary probation/parole-time credit, not automatic credit."
+        },
+        {
+          "number": 3,
+          "title": "Restitution collection, handling fees, and fund administration",
+          "bodySha256": "1aab225b5236cc91711677e8ca73ba018608d250699047c576ef345480ad17b6",
+          "reviewNote": "Read prosecutor collection/contracting, court-ordered interest, fee tiers/cap, separate fund and warrant process."
+        },
+        {
+          "number": 4,
+          "title": "Permitted uses of the handling-cost fund",
+          "bodySha256": "dbc350976dbe47a8bff555988b428d3869d73b1f8f6a469cbb1ffd4d44c27216",
+          "reviewNote": "Includes staff, trial preparation, supplies/equipment and other lawful office expenses."
+        },
+        {
+          "number": 5,
+          "title": "Audit of the handling-cost fund",
+          "bodySha256": "5425987f46e733eca58401fa92b3b3e72bb23c6fcc00568994800d2ed241af12",
+          "reviewNote": "State auditor or appropriate agency, permissive audit."
+        },
+        {
+          "number": 6,
+          "title": "Retention of unspent fund balances",
+          "bodySha256": "7884b4ee7ec8052713726f976087c87099de6b14a05ace31b1316247ee13e146",
+          "reviewNote": "Unspent money remains and accumulates year to year."
+        },
+        {
+          "number": 7,
+          "title": "Other victim restitution remedies remain available",
+          "bodySha256": "b73fc3054e747b9cd1c8ae1b07fb3ff41800bac5b45bf4b471acaa68b45962b3",
+          "reviewNote": "Preserves other lawful remedies without inventing a cause of action."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete seven-subsection version and 2017 effective-date note. Circuit authority retains listed statutory exceptions; restitution collection and administrative fund uses are separate from the preserved other remedies."
+    },
+    {
+      "id": "559.105:50133",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=559.105&bid=50133",
+      "sourceSha256": "3f66b39e50072587fefe2eab4b1954fde364a5d1b4497eafc0980ec262286fd2",
+      "textSha256": "ffc2f2a5180f06bf5cc91afd14d8a69cc5338e82a47fc2404ac7f04dcb2fec3e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Restitution for victims’ losses and prosecution expenses",
+          "bodySha256": "2c13526d4778d29839f744044586f33f66b051153b567fb291f10d543c84a2ad",
+          "reviewNote": "Includes guilty finding/plea and reasonable participation costs, permissive court order."
+        },
+        {
+          "number": 2,
+          "title": "Restitution completion and probation duration",
+          "bodySha256": "59365eb3f8e51f95ff71e1273d79563ad05efb9deb420be46b1b256bdfbbd5e6",
+          "reviewNote": "Read no release until complete and maximum authorized term direction; title does not assert indefinite detention."
+        },
+        {
+          "number": 3,
+          "title": "Restitution as a parole condition and ending supervision",
+          "bodySha256": "ca749fe388ae583359a779284c537ee0994247882fd9432441e2f9555924ac21",
+          "reviewNote": "Includes completion or maximum parole-term endpoint; does not conflate release from prison with release from parole term."
+        },
+        {
+          "number": 4,
+          "title": "Setting, collecting, and enforcing unpaid restitution",
+          "bodySha256": "f569b66ed56363b238eace2b0a3d236f539a9643f11726ce306fbe1774331007",
+          "reviewNote": "Includes inmate-account collection, release conditions, prosecutor role and board referral. Bellamy ex-post-facto annotation retained without resolving applicability."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read all four subsections and Bellamy annotation. Titles describe restitution, supervision duration, and collection without implying retroactive authority; the source expressly identifies unconstitutional ex post facto application to a defendant who pleaded guilty before the 2013 amendment."
+    },
+    {
+      "id": "559.106:50134",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=559.106&bid=50134",
+      "sourceSha256": "16969c6d9b7268f8bf1a1a47f0a540f6f9aebe15706df56f1038d35a0a7956fc",
+      "textSha256": "3f1e595545e2756f3356bad67a899d50ffd0bf53563f8f1ec8436ca9169cc275",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Qualifying offenses and conditions for lifetime supervision",
+          "bodySha256": "03e82c1f3aae4ef5e0f8c48b38813095175146513f1e5f0d17280cdb92870c8c",
+          "reviewNote": "Read both offense-date groups, victim age and prior-offender language as supplied; neutral label avoids expanding ambiguous scope."
+        },
+        {
+          "number": 2,
+          "title": "Meaning of prior sex offender",
+          "bodySha256": "efc77fbf6dee81182e14c688180ae3f24a87ea7c06859e1bbb48a75bab46bcaf",
+          "reviewNote": "Read specified chapter566/568offenses and sexual-conduct qualification; not every prior conviction."
+        },
+        {
+          "number": 3,
+          "title": "Electronic monitoring during lifetime probation",
+          "bodySha256": "cc2d79098a0052b0641687f6c282422316bb47bd24926c575a9ab3f6ff3edd04",
+          "reviewNote": "GPS or other continuous-location-recording technology, mandatory when lifetime probation ordered."
+        },
+        {
+          "number": 4,
+          "title": "Possible termination at age sixty-five or older",
+          "bodySha256": "c6046672c847c58044d77b56bcf594247f55ca95a1d8abcc2441973b84987877",
+          "reviewNote": "Requires appropriate case/risk assessment; not automatic termination on birthday."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read all four subsections and history. The offense/date branches and victim-age/prior-offender syntax are preserved without resolving their scope in a title; termination at age sixty-five remains conditional on appropriate cases and risk assessment."
+    },
+    {
+      "id": "559.107:29114",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=559.107&bid=29114",
+      "sourceSha256": "80bd66a81eac36812dee94e287c36a0f059b88d0aa9d1c73f13397b6cb35fac5",
+      "textSha256": "5713a3cd8d3c4b4c51cffb8f3d3ede01246fd352177b6d004f6a373e18eeb1c8",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Notice of mandatory monitoring and termination of supervision",
+          "bodySha256": "c2df69733b79789c4567b7afde1f607b0c1381a8e0357f3ded88de37d59b51b7",
+          "reviewNote": "DOC notifies patrol of monitoring and qualifying age65/risk-based termination."
+        },
+        {
+          "number": 2,
+          "title": "Recording monitoring status in MULES and the registry",
+          "bodySha256": "c5e61fee5b242ebaf27b4bd7753b9218be1428d321301b557bf23e843b34925d",
+          "reviewNote": "Read authorized criminal-justice/other legally permitted access; no new public-disclosure claim."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read both subsections and the June 5, 2006 effective-date note. Notification concerns mandatory lifetime monitoring and qualifying supervision termination; registry entry is distinct from public availability assumptions."
+    },
+    {
+      "id": "559.115:51058",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=559.115&bid=51058",
+      "sourceSha256": "5cbc12e7a10fb9717fa1730378755998251330b2df564afe396f0a053644ecbe",
+      "textSha256": "0ef98288be2677cbf4d731bd1dc6fa71e6022feb4454bddcba18fe86dd5b820c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Restriction during the pending appeal period",
+          "bodySha256": "3a9bd964258c041ee7d46cbc8aa61e26b0978e93330b194eb9786e33e44deb73",
+          "reviewNote": "From transcript filing to appellate disposition; not all time after conviction."
+        },
+        {
+          "number": 2,
+          "title": "Court-initiated probation within 120 days after DOC delivery",
+          "bodySha256": "6455d65158d540813cae045ac55e00d5001e8d6aacca9e595f477512ee15dc3d",
+          "reviewNote": "Court own motion only, exclusions and request for DOC input; no offender-motion entitlement."
+        },
+        {
+          "number": 3,
+          "title": "Assessment, placement, and release decisions for 120-day programs",
+          "bodySha256": "83548988cd0ced2c466434f5c178ec20bb0dfea801b26e3f8c094c2e450d5da1",
+          "reviewNote": "Read department discretion/bed space, successful release notice,90–120daydenial hearing, unsuccessful exit and court options; not automatic release for everyone."
+        },
+        {
+          "number": 4,
+          "title": "Alternatives when a program is unavailable or the offender is ineligible",
+          "bodySha256": "2a5a1a875f4998aea2837e59b02898eb0341500afc4f99aeb35f25d7d53364ed",
+          "reviewNote": "Other dispositions, approved/private/other programs and interim probation for specified nonviolent felonies."
+        },
+        {
+          "number": 5,
+          "title": "Sexual-offender assessment for specified class B sexual abuse",
+          "bodySha256": "cccbde2265f2f59dba43095b3e89cb88844863e96912309b61c0ec254370225e",
+          "reviewNote": "Excludes predatory offenders, not itself120-dayprogram, prescribed probation procedures."
+        },
+        {
+          "number": 6,
+          "title": "Notice to the state and hearing requests before probation",
+          "bodySha256": "7a24fb7fc73a0579a95973e4f7bf0a4c58ea8650ffd880c71dfd113cd5648125",
+          "reviewNote": "Successful-program exception, written notice and ten-day response/hearing request; no automatic grant from silence."
+        },
+        {
+          "number": 7,
+          "title": "First incarceration under this section and prior-commitment counting",
+          "bodySha256": "182333e7a885411d5ae89fc7c7c62887e3cc606b176d68610909b4bab8edd72f",
+          "reviewNote": "Describes the first incarceration under this section before probation, not only placement in a 120-day program; the minimum-term counting limitation remains in the source."
+        },
+        {
+          "number": 8,
+          "title": "Offenses and offender statuses excluded from probation here",
+          "bodySha256": "93f865d411719086e9098aa14d174574958c5a2b6285c6b93f5be9325a97e24b",
+          "reviewNote": "Read complete current/historical offense labels, predatory status,557.045and other statutory prohibitions; revisor2028note retained."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read all eight subsections and the Revisor warning retaining the 2022 version until January 1, 2028 after repeal of an intermediate 2026 amendment. Corrected subsection 7 title to refer to first incarceration under this section, not narrowly program incarceration. Court-initiated authority, program alternatives, assessment exceptions, notice, and excluded offenses retain their separate conditions."
+    },
+    {
+      "id": "559.115:60705",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=559.115&bid=60705",
+      "sourceSha256": "7fb8b3db8af8307f7fe15fef5e0e52e2e7b172e13b56f0e88b23230748070f4a",
+      "textSha256": "979a85783e213125e30a6d129a2dcf4c6c9dc7475070b85061f08107374dc2dd",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Restriction during the pending appeal period",
+          "bodySha256": "3a9bd964258c041ee7d46cbc8aa61e26b0978e93330b194eb9786e33e44deb73",
+          "reviewNote": "Separately read2028version, transcript-filing-to-disposition period."
+        },
+        {
+          "number": 2,
+          "title": "Court-initiated probation within 120 days after DOC delivery",
+          "bodySha256": "ff0640b23070e9078fec6c6adde7de5110a0c72e3ad7df4f05833ce4fb001c22",
+          "reviewNote": "Future version references subsection7exclusions, not8; only court motion."
+        },
+        {
+          "number": 3,
+          "title": "Assessment, placement, and release decisions for 120-day programs",
+          "bodySha256": "83548988cd0ced2c466434f5c178ec20bb0dfea801b26e3f8c094c2e450d5da1",
+          "reviewNote": "Separately read full future procedures and success/unsuccessful distinction, ninety-to-one-hundred-twenty-day denial hearing."
+        },
+        {
+          "number": 4,
+          "title": "Alternatives when a program is unavailable or the offender is ineligible",
+          "bodySha256": "2a5a1a875f4998aea2837e59b02898eb0341500afc4f99aeb35f25d7d53364ed",
+          "reviewNote": "Includes private approved/other programs and nonviolentC/D/Einterimprobation; no guaranteed treatment slot."
+        },
+        {
+          "number": 5,
+          "title": "Sexual-offender assessment for specified class B sexual abuse",
+          "bodySha256": "cccbde2265f2f59dba43095b3e89cb88844863e96912309b61c0ec254370225e",
+          "reviewNote": "Future assessment provisions remain separate from120-dayprogram; predatory exception preserved."
+        },
+        {
+          "number": 6,
+          "title": "Notice to the state and hearing requests before probation",
+          "bodySha256": "7a24fb7fc73a0579a95973e4f7bf0a4c58ea8650ffd880c71dfd113cd5648125",
+          "reviewNote": "Full future notice/ten-day process read, successful-program exception retained."
+        },
+        {
+          "number": 7,
+          "title": "Offenses and offender statuses excluded from probation here",
+          "bodySha256": "2dff0d77315d64798f1f5448810b16238a637fbcebd59f507582db3426ea4514",
+          "reviewNote": "Future7corresponds to old8; no copied old prior-commitment subsection. Effective2028and intermediate repeal notes preserved."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read all seven subsections and the January 1, 2028 effective-date, repealed intermediate amendment, and severability notes. This future version removes the prior-commitment exclusion and renumbers the offense exclusions to subsection 7; no title imports the removed provision."
+    },
+    {
+      "id": "559.117:29119",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=559.117&bid=29119",
+      "sourceSha256": "f5d856429f930613e193a76b9b84693a4d4c2db8f536f5e6ac9d1e9d2a117852",
+      "textSha256": "2da0dbc99a189a8e29969e6f746cf2d9fc777d97b8505ecbb53278d63bbe150f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority for a three-year mental-health assessment pilot",
+          "bodySha256": "10fb02ed6f30d41bee4301d6ceee27f28b2a86956197bf567207f0cf1b94e41e",
+          "reviewNote": "Historical pilot authorization, not claim of currently operational statewide program."
+        },
+        {
+          "number": 2,
+          "title": "Prosecutor motion, assessment eligibility, and victim input",
+          "bodySha256": "e4ef0eaa997a40a96469cdad00e1a2001fdc2720a5d8ea5191c936f173703b01",
+          "reviewNote": "Participating county,120-dayassessment/treatment, public safety, victim notice/opportunity and department eligibility decision."
+        },
+        {
+          "number": 3,
+          "title": "Assessment report and possible supervised probation",
+          "bodySha256": "0e527439eface7e9f96052c8cf3117815250dca6ef2a5154e55579973331cfac",
+          "reviewNote": "Includes cooperative community psychiatric rehabilitation enrollment for eligible offenders, not guaranteed release."
+        },
+        {
+          "number": 4,
+          "title": "Offenses and offender statuses excluded from pilot probation",
+          "bodySha256": "244c45b39bc8470281b63f0e0d7433907cabf3c6ee4f2ce4087aaf1b0d84d241",
+          "reviewNote": "Read full eight-item list and transferred-section note without inventing eligibility."
+        },
+        {
+          "number": 5,
+          "title": "Pilot recommendations due by December 31, 2015",
+          "bodySha256": "b9335e6fed8597e944b2c895a69c47dc612a94bcaf27fb645150e67e8e479044",
+          "reviewNote": "Keeps historical deadline explicit, joint directors to governor/assembly, not a future reporting obligation."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete five-subsection pilot and transferred-section note. Prosecutor initiation, department eligibility, victim opportunity, and conditional release remain separate. The December 31, 2015 report deadline is explicitly historical rather than presented as a current new deadline."
+    },
+    {
+      "id": "559.125:50137",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=559.125&bid=50137",
+      "sourceSha256": "e88e349cc19bc2225f7ded43bb5c81d22021910ad7db4255ea3e29608ecf13ce",
+      "textSha256": "2ae7b4c1e13fc21584ed4e18986f3f7d8c803ddb9b9be4b83f9271633bad68dd",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Permanent probation and parole records and copies of orders",
+          "bodySha256": "4461fd94e200168221847fabba90601f7e72f84ef4032f20dfc10615db79aae1",
+          "reviewNote": "Read applications, investigations, grants/revocations/terminations/discharges, division copies and preservation of former-board records."
+        },
+        {
+          "number": 2,
+          "title": "Confidentiality, evidentiary privilege, and permitted inspection",
+          "bodySha256": "98be1266bb0571fb635ba3cc0437661eb5d84624ab8d3d827a9f9ab435a21278",
+          "reviewNote": "Includes limited disclosure and discretionary proper-interest inspection; not an unconditional secrecy claim."
+        },
+        {
+          "number": 3,
+          "title": "State access to presentence reports and related information",
+          "bodySha256": "7962838f7149fd92f6f66f97a165c16118e413f6f60761db0d8f44d9952b9083",
+          "reviewNote": "Report available to state; underlying information discretionary with best-interest showing, not identical access standards."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read all three subsections and history. Permanent records, qualified confidentiality and inspection, and mandatory presentence-report availability versus discretionary related information remain distinct."
+    },
+    {
+      "id": "559.201:29125",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=559.201&bid=29125",
+      "sourceSha256": "4737c90c5e4978a0ad6420af217c7d61e8da6afe89725295fc97275aab89a00a",
+      "textSha256": "2bbec7395cb70f68d9410fdbffa981c68ef5c72af3c3ddba7a638e8b07648af1",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Circuit-board creation and composition",
+          "bodySha256": "ef7b8223bf4b3c5e2d2e013729017dd3979c227e73081e65293fce83436608c2",
+          "reviewNote": "Preserves single-county/city-population criteria in body instead of assuming heading’s named circuits define all coverage."
+        },
+        {
+          "number": 2,
+          "title": "Choosing the chair and exercising board powers",
+          "bodySha256": "a5e9ab13868f94923eeaafa87b2613d4b07fa1185babff1a858631bede9765bc",
+          "reviewNote": "Majority selects chair, chair plus two or more judges may act as law provides."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read both subsections and history. Titles track the single-county circuit and city-population body criteria without substituting the broader circuit list in the official heading; chair selection and board powers are accurately separated."
+    },
+    {
+      "id": "559.600:50138",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=559.600&bid=50138",
+      "sourceSha256": "a38a52ee10f66aa9c76f9c8b40a8ae4128a36fb862a8c401b8066e33db2f675f",
+      "textSha256": "f9560adb16c0cca9d2ebba8a6c7a9bd8438e6fc9760bb048c163e87a591d47f7",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Contracted misdemeanor supervision and continuing public supervision",
+          "bodySha256": "a50c11b84eea26c498f0d8b064ee58f5f7b2d82fa3d00ff8f341e5c463491482",
+          "reviewNote": "Available where division not required, includes class A–D and referenced577.023; public/court supervision still permitted."
+        },
+        {
+          "number": 2,
+          "title": "Drug and alcohol screening cutoff standards",
+          "bodySha256": "bfa9e8c7234de62c3a9cce7872f8da11cbd2f71eefc108500af2f1d50bfecbf7",
+          "reviewNote": "Department cutoff standard, positive at or above and negative below/no detection; not adding specific chemical amounts."
+        },
+        {
+          "number": 3,
+          "title": "Fifty-mile limit for regular probation meetings",
+          "bodySha256": "42d1f35935fa1eb64d42e7ce210ecdd1d9e8e0289c17feec284159e9716e94f2",
+          "reviewNote": "Applies private entity clients and regular meetings, not every possible travel purpose."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read all three subsections and history. Contract authority retains statutory prerequisites and public supervision; screening thresholds and the fifty-mile regular-meeting travel limit concern private providers."
+    },
+    {
+      "id": "559.607:50140",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=559.607&bid=50140",
+      "sourceSha256": "ac994bbfc69dd5cf7beb10085f6da248bf9dcdf1adca121f6668df7a681cee6a",
+      "textSha256": "20ceaf70c1f1f215edf938e0f7aa1e4f09323351bfcafe5b1aa2682961e6eb08",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Municipal probation staffing, contracts, and service fees",
+          "bodySha256": "0d437dbb285e5e81fecc51a9b5c5d02d8e4b18004eea15872be744cdaff08c21",
+          "reviewNote": "Read public/private contracts or employment, ordinance offenders, city cost provision and defendant fees; no general affordability rule invented."
+        },
+        {
+          "number": 2,
+          "title": "Filing approvals and operating municipal probation services",
+          "bodySha256": "93b452fdcb3f5eaf52932c1ae33242b4e5ba2511f944b5f99df46fd8ed49fae1",
+          "reviewNote": "Includes division filing, contract/employment conditions and continuation/new municipal arrangements."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read both subsections and history. Municipal staffing and contracting options, offender service fees, filing approval, and continuing service authority are described without treating the city as required to pay."
+    },
+    {
+      "id": "559.633:29144",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=559.633&bid=29144",
+      "sourceSha256": "f70ea08f07081a53e08af295e57aa18b3d767c8981cdc7e808830c877dc1739a",
+      "textSha256": "06fa8e5a9f456c310fdb42c1fd58e1a7d32e416c094e53c00ef3005b6a7133f4",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Required assessment and treatment for qualifying drug-offense probation",
+          "bodySha256": "902d54116d7653d85b11264c6a0d2c870e9ebae70f12992c9bcf62d7febbbd06",
+          "reviewNote": "Includes first sixty days, statutory probation/parole exclusions and possible559.115post-incarceration exception."
+        },
+        {
+          "number": 2,
+          "title": "Program fees, supplemental charge, and remittance",
+          "bodySha256": "dfd8adadd64f88c410095ce2fbcdcde648639f7556ee46109a189228f9ee37dd",
+          "reviewNote": "Includes department-determined fee portion,60dollar supplement,2percent administrative retention and fund deposit."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read both subsections and 2017 effective-date note. Qualifying felony probation has exclusions and a post-incarceration exception; the title does not extend assessment to every offender. Program fees and remittances remain separate."
+    },
+    {
+      "id": "559.635:29146",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=559.635&bid=29146",
+      "sourceSha256": "f06b380703c893ea36274e81100aa33d88e73dabd76ba2c122b61f7e588d67a4",
+      "textSha256": "29570298f27df9dec46f44391fc4b3b80c75ab509020d0a8a5941a914a01f9fc",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Substance-abuse fund creation, interest, and retained balances",
+          "bodySha256": "b9da87409652dd108b7c85d9aa1e3a9fc31bb9e8f0e396927b4b03fa6ee59d3f",
+          "reviewNote": "Treasury fund, investment interest, no biennial general-revenue transfer."
+        },
+        {
+          "number": 2,
+          "title": "Program-fee deposits and restricted rehabilitation uses",
+          "bodySha256": "e1214f2e2348639981c0a6334265dd6b30c5a9b70a1f97ef8c78761437117613",
+          "reviewNote": "Fees appropriated solely for assistance securing alcohol/drug rehabilitation."
+        },
+        {
+          "number": 3,
+          "title": "Implementing rules and required procedures",
+          "bodySha256": "46def12139a54ae3b1ffd3903104472c63ef824befb0bb018638a7b62a816e5b",
+          "reviewNote": "Both departments and chapter536effectiveness requirement, no invented procedural content."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read all three subsections and history. Fund interest and retained balances, restricted alcohol/drug rehabilitation appropriations, and chapter 536 rulemaking prerequisites are accurately distinguished."
+    }
+  ]
+}

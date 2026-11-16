@@ -1,0 +1,759 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "558.002:29076",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=558.002&bid=29076",
+      "sourceSha256": "294352e22e6bd1e0d3fae2dc732390b7395fb3b6401601c2680cb9643fc21f1b",
+      "textSha256": "5eff76b805b1efedd6108fa32cc76650363bf0c3d313a94314c241757d7a2c36",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Fine limits for individuals and gain-based fines",
+          "bodySha256": "fc1fac3a7d0081fc33996f74ea738a23cb282488bab23183dfe15ca8d5e216bf",
+          "reviewNote": "Includes listed felony/misdemeanor/infraction limits, outside-code exception and twice-gain alternative; broader body than official felonies heading."
+        },
+        {
+          "number": 2,
+          "title": "Corporate fine limits and gain-based fines",
+          "bodySha256": "a330ec5ce3767ab480a79dc934c677ba9452d19c5860abe1ee3d2caf75a0868a",
+          "reviewNote": "Includes code offenses and outside-code offenses without corporate fine, with separate amounts and twice-gain option."
+        },
+        {
+          "number": 3,
+          "title": "Meaning of gain, deductions, and findings",
+          "bodySha256": "f55dac5bd01eb7d6416123849b86360fa0c772bb67e7aa95565113d2835019cf",
+          "reviewNote": "Read returned/seized/surrendered property deduction from fine as source says; court finding and possible hearing, no source repair."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked individual/corporate schedules, outside-code exceptions, gain-based caps, deductions and findings; transfer and January 2017 effective notes retained."
+    },
+    {
+      "id": "558.004:29077",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=558.004&bid=29077",
+      "sourceSha256": "8d5c35ccc5e708ab62629bc70f196fadc5470e2b3c1a2c6185056181f425e409",
+      "textSha256": "e5d3afcb9ddd322a096b680b94940fabd3099f277e63e2e2e045863adb8f2091",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Financial burden and protection of restitution",
+          "bodySha256": "4e47dce7184a9f4590ec1574964434cdffe1aef871276212ab16c21ce95a1ea6",
+          "reviewNote": "Includes practicable proportionality to resources and no fine preventing restitution or reparation."
+        },
+        {
+          "number": 2,
+          "title": "When a fine alone is an appropriate disposition",
+          "bodySha256": "26f55b7713e0de5c90593c1d2249823655038f61af2260014312edb9a438cfd1",
+          "reviewNote": "Where another disposition authorized, requires court opinion about public protection and offense/offender context."
+        },
+        {
+          "number": 3,
+          "title": "When a fine may accompany another sentence",
+          "bodySha256": "f7dc96e14c0d1da4d4a528edecb6fc45b2a1c5caba88e404d70c89ccd4b984a7",
+          "reviewNote": "Includes pecuniary gain or unique deterrence/correction suitability, not any additional fine."
+        },
+        {
+          "number": 4,
+          "title": "Payment deadlines and installments",
+          "bodySha256": "651f0fc0dad197dc8de06f017a20d90e564a535fc7b367f9a9b12e49cce89811",
+          "reviewNote": "Court may set period/installments; absent that fine payable forthwith."
+        },
+        {
+          "number": 5,
+          "title": "Timing of the court’s response to nonpayment",
+          "bodySha256": "6efe8b3172c05ad9436490e8929170df41817e735f52741552f7b83633466700",
+          "reviewNote": "No simultaneous alternative sentence; later response under558.006, not immunity from consequences."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked financial burden/restitution safeguard, fine-only and additional-fine conditions, payment schedules and prohibition on advance alternative nonpayment sentences."
+    },
+    {
+      "id": "558.011:50128",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=558.011&bid=50128",
+      "sourceSha256": "c52de0cdace1630c53c7eb4475b4dac454d0b25d417d95bf8224e2cf8ac67b1c",
+      "textSha256": "9f82908afdb4a5147298b4693344e604b1874ae33ce2409567c4657d8f45cd5c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorized imprisonment terms by offense class",
+          "bodySha256": "c1cd4dd695f52df6950b65e4b04d98a0346e83b43069ef00897ead0f28fc40a4",
+          "reviewNote": "Read all A–Efelony/A–Cmisdemeanor ranges; no new2028parole percentages imported."
+        },
+        {
+          "number": 2,
+          "title": "Class D and E felonies: shorter terms and confinement location",
+          "bodySha256": "dba5f3d36c0a8f5b3aee4b2e29a70857e31101c2bc749ee1f9f8c445651ef3f7",
+          "reviewNote": "One-year county/institution option versus DOC for longer term; discretionary shorter term."
+        },
+        {
+          "number": 3,
+          "title": "Commitment for felony and misdemeanor sentences",
+          "bodySha256": "cbad6999a3e0fc1c95ff62529b1299ef901f8026a5839f9860f6381a6b7f3339",
+          "reviewNote": "Separate DOC and county/institution commitments, authorized early-release procedures remain."
+        },
+        {
+          "number": 4,
+          "title": "Prison and conditional-release portions of eligible sentences",
+          "bodySha256": "99d9c209b7d0e294e49d4b6c9628bdcebcaca71ebdc92af6427cd7e918c8d71b",
+          "reviewNote": "Includes dangerous-felony and fourth-remand exclusions, all time ratios, definition/conditions and extension reference; not universal automatic release."
+        },
+        {
+          "number": 5,
+          "title": "Extending conditional release: petitions, hearings, and deadlines",
+          "bodySha256": "2265c39b990dde7b20907d34dcb7a731602cec1af4c80600f613b6c85176b166",
+          "reviewNote": "Read petition roles, hearing protections, ten-/fifteen-working-day limits, prior affirmative intent, required release if undecided and final board decision. Revisor future-version and constitutional notes retained."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked all five archived 2021 provisions, felony/misdemeanor confinement, exclusions and conditional-release fractions, petitions/hearings/deadlines. Revisor retains this version until January 1, 2028; Rentschler annotation retained."
+    },
+    {
+      "id": "558.011:60700",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=558.011&bid=60700",
+      "sourceSha256": "c141b9995b7d0de6f94d68e9ab44f6daf781dce0160505fb8385374aa27f17f4",
+      "textSha256": "56c59e9aba91962b0cd289bf5292a3ab324eb1eb9f057aa7a45443b6d91cdd36",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Imprisonment terms and parole-eligibility percentages",
+          "bodySha256": "ff854b84eb68b84f374ebedf6b247ef2ca537677cd38cd2fc853f49083ff6865",
+          "reviewNote": "Read every felony class, sex-registration/prior-conviction branch and misdemeanor range; version effective2028, no declaration of present applicability."
+        },
+        {
+          "number": 2,
+          "title": "Parole percentage when sentencing uses a higher offense class",
+          "bodySha256": "868fa51584bb86a490c04110e352598626a0f850fd67e5c2e49e200bd0f40a8a",
+          "reviewNote": "Limited to listed higher-class sentencing statutes; not every enhancement."
+        },
+        {
+          "number": 3,
+          "title": "Higher parole percentages required by other statutes",
+          "bodySha256": "99ed78622a881bbc953a4a7b2a7e8b76295815fd70d52f0a3f5063d230155715",
+          "reviewNote": "Preserves rule of higher statutory percentage, not lowest favorable one."
+        },
+        {
+          "number": 4,
+          "title": "Suspended imposition and adult treatment-court exception",
+          "bodySha256": "71189bc8e5de6600e4c943b19ae5b9c0e1570603556fc675e78ccc132bad011c",
+          "reviewNote": "Names exception to subsection1 terms without expanding it to all sentencing rules."
+        },
+        {
+          "number": 5,
+          "title": "Class D and E felonies: shorter terms and confinement location",
+          "bodySha256": "6811a88eac2a625c7aefb9879bcbb27142bdb0687252e16816ad9c214232d5ef",
+          "reviewNote": "Separately read future version’s discretionary one-year county term and longer-term DOC commitment."
+        },
+        {
+          "number": 6,
+          "title": "Commitment for felony and misdemeanor sentences",
+          "bodySha256": "bfa040a76d89b92db395ed948eddfce122984642df098a19a6d08164fbd595f3",
+          "reviewNote": "Distinct placement and release-procedure provisions read in future version."
+        },
+        {
+          "number": 7,
+          "title": "Prison and conditional-release portions of eligible sentences",
+          "bodySha256": "387dfab119820a806b8a98b570a93a718b273ab5f62924540048c775970fead6",
+          "reviewNote": "Read ratios, definitions and exclusions; later subsection9 adds date-dependent restrictions, not generalized eligibility."
+        },
+        {
+          "number": 8,
+          "title": "Extending conditional release: petitions, hearings, and deadlines",
+          "bodySha256": "b73fa657c4340db343523ba67ade2e1a4a4a4c4e99f4176aba5074e1fafc1adc",
+          "reviewNote": "Read full future-version hearing rules, petition roles and temporary hold limits; no automatic extension inferred."
+        },
+        {
+          "number": 9,
+          "title": "Conditional-release exclusions for offenses committed from January 1, 2028",
+          "bodySha256": "58c3fc8de4cb9d1d35391b08d2c1118bfceaa263d1124f402ac6621169abefc1",
+          "reviewNote": "Includes class A/B and listed registration-requiring offenses, applies by offense date not conviction date."
+        },
+        {
+          "number": 10,
+          "title": "Dangerous felonies: minimum service before parole eligibility",
+          "bodySha256": "1478588afcf30fbb9d25d2d041b3765a7b633578c34ac61748768da530d27220",
+          "reviewNote": "Retains85percent and DOC commitment; eligibility not release guarantee."
+        },
+        {
+          "number": 11,
+          "title": "Life and long-sentence calculations for parole eligibility",
+          "bodySha256": "e38181f2413ab71f17deb48775f1e2f44da51db4b65a12941cf8449ae883fac6",
+          "reviewNote": "Life calculated30years and over75-year qualifying aggregate calculated75 solely for minimum-service calculation, not changed sentence."
+        },
+        {
+          "number": 12,
+          "title": "Consecutive sentences: each felony’s parole minimum",
+          "bodySha256": "3aa99032db392b3499657e161ec73979a9cf5f6c6da5d14715c91d54406706ac",
+          "reviewNote": "Each respective minimum percentage required; no combined percentage invented."
+        },
+        {
+          "number": 13,
+          "title": "Concurrent sentences: minimum percentage for the longest sentence",
+          "bodySha256": "30ee68fca95b7a7ecfcad7fd09c76c208008704b07f47410f44f477f11e50310",
+          "reviewNote": "Follows longest-sentence wording, not highest individual percentage; future effective and repealed-intermediate-version notes preserved."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked all thirteen future provisions, offense/conviction-specific parole percentages, enhancement/higher-statute rules, suspended-imposition/treatment exception, conditional-release exclusions dated January 1, 2028, dangerous felonies and concurrent/consecutive calculations. Future effective date, repealed intermediate amendment, severability and Rentschler notes preserved."
+    },
+    {
+      "id": "558.016:60384",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=558.016&bid=60384",
+      "sourceSha256": "761823efb8902a0a92f2f67367cd483f4fc618c23d9562c5dbdce0caa1817d8b",
+      "textSha256": "6a056c4785d35134ae7d5f261ac8cc2644ff2089bd1df9b5a0a64c707303495f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Sentencing authority and required enhancements for prior conduct",
+          "bodySha256": "b5705df0204a3ef07c85c9d5d1b687a08527277376fd3efb303a631be68816c8",
+          "reviewNote": "Distinguishes may for prior/persistent misdemeanor offenders from shall for specified extended-term cases and more-specific statutes."
+        },
+        {
+          "number": 2,
+          "title": "Meaning of prior offender",
+          "bodySha256": "93e9ebb5ea11b27fafc78134b1ba22aa74a71766b579b45698f574c41b05c287",
+          "reviewNote": "One felony finding of guilt, subject to timing in subsection6."
+        },
+        {
+          "number": 3,
+          "title": "Meaning of persistent offender",
+          "bodySha256": "b8ddfc8bcb19256cf1f00e6794fbe333e3f46d59e29c2b8886684f7455561775",
+          "reviewNote": "Includes two separate-time felonies or one prior dangerous felony; not only repeat convictions."
+        },
+        {
+          "number": 4,
+          "title": "Meaning of dangerous offender",
+          "bodySha256": "a491f7c048e00b3c2ef0523df781069353599e5ec5a18d537b685c87de5daf80",
+          "reviewNote": "Read both current knowing violence/threat and qualifying prior felony requirements; not just any dangerous conduct."
+        },
+        {
+          "number": 5,
+          "title": "Meaning of persistent misdemeanor offender",
+          "bodySha256": "41e3216e0f0b44549b035df8fa44766875fcf66c5e89f7b41e89f609d7bdce06",
+          "reviewNote": "Two or more different-time class A/B misdemeanors under state law, not any infractions."
+        },
+        {
+          "number": 6,
+          "title": "Prior guilt findings must precede the present offense",
+          "bodySha256": "7c012c8f71374f8b15f4c9eac24b68393e8c5463b08568e607bca8234de4c8cd",
+          "reviewNote": "Preserves date of commission, not merely date of current sentencing."
+        },
+        {
+          "number": 7,
+          "title": "Higher-class terms for persistent or dangerous offenders",
+          "bodySha256": "292993425b517b694dc5a3000f5f5824e0108df548cdb77bb2999f7e1b62d472",
+          "reviewNote": "Mandatory one-class-higher terms for specified B–Efelonies; no addition for class A in this subsection."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked ordinary versus required enhanced sentencing, all offender definitions, timing of prior findings and one-class-higher terms; 2026 severability notes retained."
+    },
+    {
+      "id": "558.019:54808",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=558.019&bid=54808",
+      "sourceSha256": "41acde87a3e62bd9a668ed6ecfa4609ba6481ab0f5b06047f023c4af7906c90e",
+      "textSha256": "1ae54e56f244d8b8699158850ce93b9a9b9813d3876332b1e1ef362118ff4599",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Preserved gubernatorial powers and other sentencing provisions",
+          "bodySha256": "4c849b1575cd8878d23a6b5d4c3900f37dafd65d1a6b32e852cb9234ce45e9bd",
+          "reviewNote": "Read constitutional pardon power reference and specific minimum-term/probation statutes without deriving broader immunity."
+        },
+        {
+          "number": 2,
+          "title": "Covered offenses, prison commitments, and prior-commitment minimum terms",
+          "bodySha256": "97eafb218ef3c67817a1cefc770fefb4ccfed9667ae7ab0b934a8144198912f4",
+          "reviewNote": "Read full enumerated offense list, definition/exclusion of first incarceration, all percentages and age70alternatives; not any prior conviction."
+        },
+        {
+          "number": 3,
+          "title": "Minimum service for dangerous felonies",
+          "bodySha256": "976b6ebdfa6af797b0ed0807b81e9c4b34ee03da88839b4c64875d8c15dd51f4",
+          "reviewNote": "Includes85percent or age70plus40percent whichever first; not copying future version’s different rule."
+        },
+        {
+          "number": 4,
+          "title": "Life and long-sentence calculations for minimum terms",
+          "bodySha256": "5518e4b365734d41b17b43ef08356b45a9106ab99334f7f9b798e6bdb55676a2",
+          "reviewNote": "Life30years and qualifying over75-year single/aggregate calculation, not conversion of actual sentence."
+        },
+        {
+          "number": 5,
+          "title": "Meaning of minimum prison term",
+          "bodySha256": "286293b51457c0eb59fd9d7c428a2cf55ea506bda9985c0361e0eb6b38040e8c",
+          "reviewNote": "Eligibility for parole, conditional release or other early release; eligibility is not guaranteed release."
+        },
+        {
+          "number": 6,
+          "title": "Relief from minimum terms for certain pre-August 28, 2019 convictions",
+          "bodySha256": "cbae308d498b88eef653ed9eaa628ececf8d1387a25428c1b734b944c14c9e8f",
+          "reviewNote": "Offenses not listed in subsection2, conviction or plea before date and departmental rules; no automatic discharge."
+        },
+        {
+          "number": 7,
+          "title": "Sentencing advisory commission: membership, studies, and support",
+          "bodySha256": "c3b69abfd9bbf1692c94cea6682cb5b0a9792fba0731bbf0cfb353f80d4d4243",
+          "reviewNote": "Read six subdivisions on11members, appointments, disparities/death penalty studies, alternatives, meetings, expenses and agency staffing/cooperation."
+        },
+        {
+          "number": 8,
+          "title": "Judicial discretion and restorative justice",
+          "bodySha256": "782f856f12dea2cfb0c13a7858f22d6f1db1e926b5b4690d04d82e0bab6faf64",
+          "reviewNote": "Retains otherwise-lawful departure from recommendations and applicable restorative methods."
+        },
+        {
+          "number": 9,
+          "title": "Restorative options with suspended sentences",
+          "bodySha256": "f3e5072aa315050e946c39b51bd3465495b78ab1df3786b18d704044799c1ac6",
+          "reviewNote": "Includes victim/fund restitution, treatment, community service, work release and residential/nonresidential options, plus other just methods."
+        },
+        {
+          "number": 10,
+          "title": "County law enforcement restitution-fund payments",
+          "bodySha256": "3944c93c6840ed662ba614c743e5ee96b67aa9e0012b7af9e9d1ada2e7e9dc63",
+          "reviewNote": "Includes300dollar per-charged-offense cap and50.565spending limits, not mandatory contribution."
+        },
+        {
+          "number": 11,
+          "title": "Fund creation before sentencing and limits on judicial control",
+          "bodySha256": "fa8b1c2a3f3d53db198c1a2c288c293c37f1338edf51848e83e2b4d65623bcde",
+          "reviewNote": "Requires county ordinance/resolution before sentencing and excludes judge supervision/administration."
+        },
+        {
+          "number": 12,
+          "title": "Limits on probation revocation for unpaid fund contributions",
+          "bodySha256": "0e9baa6153f4e812ef4de61bf7d0f67addef91f26d29699e24890a35fe9b1634",
+          "reviewNote": "Read evidentiary hearing, preponderance, willful refusal or willful failure of bona fide efforts; not absolute immunity for nonpayment."
+        },
+        {
+          "number": 13,
+          "title": "No commission recommendations in specific pending cases",
+          "bodySha256": "b700bcd3391aed011df1aea5a538783df2abae6818a445778d3d50f527c8f2e1",
+          "reviewNote": "Distinguishes general advisory study from case-specific recommendation; revisor2028and2018prospectivity notes preserved."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked full covered-offense list and prison-commitment exclusions, minimums with age alternatives, life/long terms, pre-August-28-2019 relief and all advisory/restorative/restitution provisions. Archived 2024 version retained until January 1, 2028 and Wagner nonretroactivity note preserved."
+    },
+    {
+      "id": "558.019:60701",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=558.019&bid=60701",
+      "sourceSha256": "0b0b798be9bfe62e8bbec7de5b1bb4939f67df88ab191d4c5c1195baa9bbc7f6",
+      "textSha256": "3b59f58f70f8db6647ea740e23a38f9578bc497e206db1f45a9a11df306fefa9",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Sentencing advisory commission: membership, studies, and support",
+          "bodySha256": "7eda8d20ed8ce0d41057d247c5b5142c0dd137778e3a77ad4d2338e3041cbe5a",
+          "reviewNote": "Separately read future2028version all six subdivisions; old minimum-term provisions are absent, not retained by label copying."
+        },
+        {
+          "number": 2,
+          "title": "Judicial discretion and restorative justice",
+          "bodySha256": "56f4ef95da263f16cfd2c101ddb3939b7afe156675955b9534bcc30c4a16ae4d",
+          "reviewNote": "Otherwise-lawful departures from recommended sentences and applicable restorative methods retained."
+        },
+        {
+          "number": 3,
+          "title": "Restorative options with suspended sentences",
+          "bodySha256": "45971f081922c312a2777679d2b4b4b28fe0db3837e287ce796efd8677cc60a5",
+          "reviewNote": "Full alternatives read; labels do not imply imprisonment-only cases qualify under this paragraph."
+        },
+        {
+          "number": 4,
+          "title": "County law enforcement restitution-fund payments",
+          "bodySha256": "6d2cb838a6badaa733aeeb3273373b62572fb576f16755bcffc0d65d48a14abd",
+          "reviewNote": "Read300dollar-per-offense cap and statutory expenditure restriction, with corrected future internal reference3."
+        },
+        {
+          "number": 5,
+          "title": "Fund creation before sentencing and limits on judicial control",
+          "bodySha256": "e04e7339fd36e33ec319c7a9f841e8780b8a7d86c149a7e0b88fba70aa8bef4d",
+          "reviewNote": "County creation before sentencing and no ordering judge’s administration/supervision."
+        },
+        {
+          "number": 6,
+          "title": "Limits on probation revocation for unpaid fund contributions",
+          "bodySha256": "411f1aaceddb8356b29943f02bf28d262bd541717dc8aebff978932ae144abb3",
+          "reviewNote": "Read evidentiary hearing, proof standard and distinct willful failure grounds in this future version."
+        },
+        {
+          "number": 7,
+          "title": "No commission recommendations in specific pending cases",
+          "bodySha256": "84ad722579613e19b3fa98004e3668f98bf07d23618bc719450828df34e98cee",
+          "reviewNote": "Preserves limitation; future-effective/repealed-intermediate enactment and prospectivity notes unchanged."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked future seven-subsection advisory/restorative version independently from thirteen-subsection version; minimum-prison-term material absent here. January 1, 2028 effective date, repeal/severability and Wagner notes retained."
+    },
+    {
+      "id": "558.021:29087",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=558.021&bid=29087",
+      "sourceSha256": "5f37a14121b443914ba74f9fa1b0ae3631983244eb0e0f43f64917d15c4ba867",
+      "textSha256": "03dc48368dfbcc1eb0c68dfca45ebc903855736c344b7f86c376bbad6ce56c4e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Pleading, proof, and findings for enhanced offender status",
+          "bodySha256": "c31398dca35572630b413b269a37b135c9e80f8f2a0ce0447bca14904a716c2c",
+          "reviewNote": "All three requirements and beyond-reasonable-doubt standard read; includes listed sexual-offender statuses."
+        },
+        {
+          "number": 2,
+          "title": "Timing of offender-status findings in jury trials",
+          "bodySha256": "c988e2b6da0dfc8554302f4e5c5d5a493e8d653604aceb75fe134de7ca0bed51",
+          "reviewNote": "Before submission outside jury hearing, with specified dangerous-offender factual exception before sentencing and judicial notice."
+        },
+        {
+          "number": 3,
+          "title": "Timing after a guilty plea or nonjury trial",
+          "bodySha256": "47d585b1913c08ed9ce62e95e852667adb123fecbc0d7dcbd6f199c5a94d1295",
+          "reviewNote": "Deferral only before sentencing; judicial notice of specified facts from testimony/plea permitted."
+        },
+        {
+          "number": 4,
+          "title": "Confrontation, cross-examination, and defense evidence",
+          "bodySha256": "c3434b07c7148f0e7ac48f665349ad3f83d794e243c20f5416dbce39e8bc61d2",
+          "reviewNote": "Preserves full hearing protections without inventing different procedural stages."
+        },
+        {
+          "number": 5,
+          "title": "Waiver of proof of alleged facts",
+          "bodySha256": "c495b206bf61d8047defeb2a27f0a04367adfd14d7f997e1c5cf4d84c3cfec26",
+          "reviewNote": "Permissive defendant waiver, not waiver automatically inferred from silence."
+        },
+        {
+          "number": 6,
+          "title": "Presentence investigations and commitments remain available",
+          "bodySha256": "67cf1a240b5db4d346ec430b1e0099f8f7d95016816ae30145ee27f52e7c42c2",
+          "reviewNote": "Exact two statutory procedures preserved."
+        },
+        {
+          "number": 7,
+          "title": "Additional sentencing information from both parties",
+          "bodySha256": "989a68944587897491a16ad12f33411e8965f201dc0006ab2a9eddfdff493b67",
+          "reviewNote": "Both state and defendant may present sentence-related information at hearing."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked pleading/proof/findings, jury/nonjury timing exceptions, confrontation/evidence/waiver and presentence/sentencing information rights."
+    },
+    {
+      "id": "558.026:50129",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=558.026&bid=50129",
+      "sourceSha256": "2af4e9558049036da93163351c031c88d84bc09ec7089c7b3a005a619bd2cf84",
+      "textSha256": "44a9fbb58a2f6f781763e6a5a6a46ea99b05d127feaa7c9d079bc6a39d097e24",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Concurrent sentences and specified consecutive-sentence exceptions",
+          "bodySha256": "ac2a11c5c64d31a78a2abca8ade797786059364493632922b7de0edf17828367",
+          "reviewNote": "Read listed offenses/attempts and concurrent other-offense allowance; differing historic case annotations retained without resolving them."
+        },
+        {
+          "number": 2,
+          "title": "New sentences and revocation terms",
+          "bodySha256": "2d54c9b265394fa3572337678b7a6d9c24a0234a5733d850feca20012954b847",
+          "reviewNote": "Includes probation/parole/conditional-release timing and foreign-jurisdiction sentence direction."
+        },
+        {
+          "number": 3,
+          "title": "Concurrent service with another state or federal sentence",
+          "bodySha256": "5eeecb2ec58904859700ae17ed555c55717406d593a1b379cc595b76ab9d327b",
+          "reviewNote": "Includes current/to-be-served foreign sentence,558.011(4)/217.690application and no personal board-hearing requirement; no blanket parole promise."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked concurrent default, specified sexual-offense consecutive exceptions, revocation and foreign-sentence treatment with 558.011(4) reference. Revisor retention through 2028 and historical Adams/Harger annotations retained; apparent tension not resolved by heading."
+    },
+    {
+      "id": "558.026:60702",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=558.026&bid=60702",
+      "sourceSha256": "48744adae6d4011aecb10093cf5dc613e66c203f24bf2aec17546f26438bae41",
+      "textSha256": "a3375a696a56164a2671601be62d949a532a3f803e45367593f57521e76af050",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Concurrent sentences and specified consecutive-sentence exceptions",
+          "bodySha256": "ac2a11c5c64d31a78a2abca8ade797786059364493632922b7de0edf17828367",
+          "reviewNote": "Separately read future2028version and1991annotation; title avoids categorical application that would resolve case-note tension."
+        },
+        {
+          "number": 2,
+          "title": "New sentences and revocation terms",
+          "bodySha256": "2d54c9b265394fa3572337678b7a6d9c24a0234a5733d850feca20012954b847",
+          "reviewNote": "Read same future-version probation/parole/conditional-release and foreign-sentence directions."
+        },
+        {
+          "number": 3,
+          "title": "Concurrent service with another state or federal sentence",
+          "bodySha256": "56c6ad7eac0989d4d7743565e61b05bd37d3c7687cb6f61c195c8feacf1d7eef",
+          "reviewNote": "Future reference is558.011(7), with217.690and personal-hearing exception preserved; effective/repeal notes retained."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked future concurrent/consecutive provisions independently, including changed reference to 558.011(7). January 1, 2028 effective date and Harger historical annotation retained without treating it as a blanket current exception."
+    },
+    {
+      "id": "558.031:54285",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=558.031&bid=54285",
+      "sourceSha256": "6e2299b6b94dd27f3e034a046db6ea28a125302bcfd220d2fb1d7430fbc8926f",
+      "textSha256": "ee0d1feb722a8a73a75a1709b2564ebe377f5c55f9ca6dc394cdd25be61fb92f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "When an imprisonment sentence begins",
+          "bodySha256": "274c927def72d399d71436092d95f4ed9020e8e4891fb90fee6b1a864daa1a8f",
+          "reviewNote": "Receipt in DOC or other sentenced confinement, not conviction date."
+        },
+        {
+          "number": 2,
+          "title": "Credit for related custody before the sentence begins",
+          "bodySha256": "6692491f90bf94271339c186c163f7d4dc9cc0238ea1ef6601616903e52b78d4",
+          "reviewNote": "Includes offense-related custody after offense and sheriff/other-jurisdiction certification; later applicability date preserved."
+        },
+        {
+          "number": 3,
+          "title": "Delivery officer’s record of custody dates and credit",
+          "bodySha256": "e20c7fe858dddef1d2074d3d180ec2248e3b29eab0c6982a1569f666ab8af7ba",
+          "reviewNote": "Preserves unusual except-as-endorsed wording without attempting repair."
+        },
+        {
+          "number": 4,
+          "title": "Escape interrupts sentence service and custody credit",
+          "bodySha256": "ad8f3d817686dfede85f8e3e8be3e458c37554f169261642d2e867eec34d34cc",
+          "reviewNote": "Includes return-to-center conditions and uncommenced-sentence jail credit."
+        },
+        {
+          "number": 5,
+          "title": "Credit after a sentence is vacated and replaced",
+          "bodySha256": "89731a787af932e2b83510983d0679404bcdfe83b34351aea64d8a11a73b3875",
+          "reviewNote": "Includes already-credited-to-other-sentence exception and supplied subsection1 reference, not silent renumbering."
+        },
+        {
+          "number": 6,
+          "title": "Service after parole or conditional-release revocation",
+          "bodySha256": "7887583ddb14dc3cfff0fdec74e510b357673ca4f878983ceb59fbfe6753a311",
+          "reviewNote": "Distinguishes remaining prison/conditional portions and later parole possibility."
+        },
+        {
+          "number": 7,
+          "title": "Custody-credit rule for sentencing from August 28, 2023",
+          "bodySha256": "4b2e7e48f2c42391370e8df696ea5253a4355415488cfeb7d7ffb7391f66139f",
+          "reviewNote": "Applies subsection2 by sentencing date, not offense date."
+        },
+        {
+          "number": 8,
+          "title": "Cap on total custody credit",
+          "bodySha256": "c18e0d34576a4ac41152e4537ed41f36ef51a6c14da2ec0adeba732a6b5c71b9",
+          "reviewNote": "Actual days after offense and before sentence commencement; not a new cross-sentence calculation. Future-version notes preserved."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked sentence commencement, related-custody certification, delivery papers, escape, vacated sentences, revocation, August 28, 2023 sentencing applicability and credit cap. Source except-as-endorsed wording and subsection-1 cross-reference retained without repair; archived version retained until 2028."
+    },
+    {
+      "id": "558.031:60703",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=558.031&bid=60703",
+      "sourceSha256": "70164e5e61234ce74b7aa64e6334bb85cc83203b5f6cec52446e8c2fa4aac329",
+      "textSha256": "c7d5001f1df89afc64ce6ee527cb75623639db2093299e5e540f75ab89319eb6",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "When an imprisonment sentence begins",
+          "bodySha256": "274c927def72d399d71436092d95f4ed9020e8e4891fb90fee6b1a864daa1a8f",
+          "reviewNote": "Separately read future version, receipt at sentenced confinement."
+        },
+        {
+          "number": 2,
+          "title": "Court calculation, pronouncement, and recording of jail credit",
+          "bodySha256": "2c35c6ecd182a3bb64856ffc880af1c92b90a076d83548d9cf52df41912d3628",
+          "reviewNote": "Includes SIS/SESprobation and execution contexts, certification, dates and days; not merely prison arrival credit."
+        },
+        {
+          "number": 3,
+          "title": "Related custody, house arrest, and release exclusions",
+          "bodySha256": "48ecb488477e32562dcd6e31a5d5b2839fdcfc796372a68ff65f72ecc7d135e3",
+          "reviewNote": "Read charge/warrant/service criteria and no credit when released through bond/recall/otherwise; keep source house-arrest treatment without invented reconciliation."
+        },
+        {
+          "number": 4,
+          "title": "Judicial notice and stipulations about custody credit",
+          "bodySha256": "a94199cae4684abf0368717ec225fb74e3da0f8e85fc870ddacd5044fb039d5c",
+          "reviewNote": "Includes house arrest and source-document comparisons; stipulation cannot exceed or fall below related custody time."
+        },
+        {
+          "number": 5,
+          "title": "Possible credit for juvenile detention before adult trial",
+          "bodySha256": "1a57c0dd38efe859ea0e055693e02bbe2e285c2f39e1d6aadc400fa95d37c2e2",
+          "reviewNote": "Conditional motion/notice and later adult-trial adjudication, discretionary may award."
+        },
+        {
+          "number": 6,
+          "title": "Consolidation of dismissed proceedings for credit calculation",
+          "bodySha256": "3816d650b10455c984311af480bc8d21a66b06730bc114ae8ce72a9237084e04",
+          "reviewNote": "Dismissed without prejudice or nolle prosequi, on motion/notice, limited calculation purpose."
+        },
+        {
+          "number": 7,
+          "title": "Delivery officer’s record and additional custody days",
+          "bodySha256": "762eb4a6a29fc19ebba4eff5b389323972214619d9cddd2a2ef2e1977f866c50",
+          "reviewNote": "Includes judgment/SIScredit and additional post-pronouncement/pre-DOCdelivery days."
+        },
+        {
+          "number": 8,
+          "title": "Escape interrupts sentence service and custody credit",
+          "bodySha256": "392b58a266598eb5c325af18366563f891d01d36a1e27cf7e68db67201b9f0e7",
+          "reviewNote": "Full future-version return and uncommenced-credit conditions read."
+        },
+        {
+          "number": 9,
+          "title": "Credit after a sentence is vacated and replaced",
+          "bodySha256": "529283bf0f6d6d71d7c5d4c4f75dd7d5f6bfc5e5e15de9064c8557ea86842654",
+          "reviewNote": "Preserves supplied subsection1cross-reference and already-credited exception without correcting source."
+        },
+        {
+          "number": 10,
+          "title": "Service after parole or conditional-release revocation",
+          "bodySha256": "8e0d9cc11b56d39859636f831d2a0c92d306163cccf51a89ccb49c1f207c96de",
+          "reviewNote": "Distinct remaining-term consequences and unless-released-on-parole condition retained."
+        },
+        {
+          "number": 11,
+          "title": "Habeas petitions to challenge awarded or denied credit",
+          "bodySha256": "b879b34ddc96a3227d319c9977346725f653a0411a064d57fcd7c7c9afd6a5c8",
+          "reviewNote": "Describes stated exclusive procedure in future version, not presently applicable procedural advice; notes preserved."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked future court credit calculations/recording, warrant and house-arrest rules, stipulations, discretionary juvenile/dismissed-case credit, additional delivery days, escape/replacement/revocation and habeas-only challenge. Source subsection-1 cross-reference retained; January 1, 2028 effective/repeal notes preserved."
+    },
+    {
+      "id": "558.041:29091",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=558.041&bid=29091",
+      "sourceSha256": "0628698dd0fb1cb79e707e4a71971872f37e0fa5f1801f8330849d2d364d4d9a",
+      "textSha256": "acded0174d7b12a0d41aecd59be1b7917901f272be4d70acfab16b6dddb1b034",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Good-time eligibility, recommendation, and rescission",
+          "bodySha256": "8347c823e67144f16763e7e83743a2e0a429fb4ee49f99be9ad261ffe024d7f0",
+          "reviewNote": "Includes specified offender exclusions, superintendent recommendation and director/designee rescission authority."
+        },
+        {
+          "number": 2,
+          "title": "Credit applies only to the sentence currently served",
+          "bodySha256": "3192588f9de11c79da5fbe18daecd3b13c00473b79576606e1e605645e046553",
+          "reviewNote": "No implied transfer to later sentences."
+        },
+        {
+          "number": 3,
+          "title": "Credit-award policy and loss for violations",
+          "bodySha256": "791517ee71d8bd5e3d0f51030bc58fa483e44bf2b3c320b44cacbfece037b3c6",
+          "reviewNote": "Includes rehabilitation/peaceable conduct and possible partial/all loss; discretionary reward not guaranteed credit."
+        },
+        {
+          "number": 4,
+          "title": "Publication of the credit policy",
+          "bodySha256": "b00d8a0590e7079a5ce134b68ea40a95870ee5bbab871cf175449764ace17e63",
+          "reviewNote": "Code of state regulations publication requirement."
+        },
+        {
+          "number": 5,
+          "title": "Rulemaking requirements for effectiveness",
+          "bodySha256": "e78ea0c1a88ef7369a58bb28cdd228c65e62ab3f2168dd6dfca3ff8ddab99f14",
+          "reviewNote": "Exact536.024reference, no description of unprovided procedures."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked credit exclusions, superintendent recommendation/rescission, current-sentence restriction, policy/loss/publication and rulemaking requirement."
+    },
+    {
+      "id": "558.047:33574",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=558.047&bid=33574",
+      "sourceSha256": "0ddbcfb843d2543839a269bd9b2c9b82ef6edd2eda1f4c063d0523646cedd89a",
+      "textSha256": "55cc7b6699784822765cdc341bb475bc2b5d25e7332d11e520e3bc6fce58ba69",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Review petitions for qualifying sentences imposed for offenses before age eighteen",
+          "bodySha256": "bad25ff0498521d80c68c26cda0db324bab8bfe3d145ff184327680299157ee0",
+          "reviewNote": "Read separate pre-August28,2016LWOP and later specified first-degree-murder sentences,25-year threshold and later35-year petition; no automatic parole."
+        },
+        {
+          "number": 2,
+          "title": "Petition contents and service on the prosecutor",
+          "bodySha256": "f8854a7af80ffff3360c15b594c39ab4987f6ff7771b281288f672d3c0a84986",
+          "reviewNote": "Required age, eligibility, review request and service in original circuit."
+        },
+        {
+          "number": 3,
+          "title": "Incomplete petitions and missing proof of service",
+          "bodySha256": "1c155904ac9ef4257e4c3fce15d78b706488a3fe2a56233b2055f0064bbd8048",
+          "reviewNote": "Return with advice missing information needed, not dismissal with prejudice."
+        },
+        {
+          "number": 4,
+          "title": "Parole hearing and retained victim rights",
+          "bodySha256": "213c0d8975d3437e72474af1267e6c00fb169b451698b2c3df5bd7b9fe9a081d",
+          "reviewNote": "Board decides parole, retains595.209rights for victim/family."
+        },
+        {
+          "number": 5,
+          "title": "Additional factors for parole review",
+          "bodySha256": "803ae12d203ef5171e0f877992cea845f208e7a8c1f63b47b7f8f0ba79709b47",
+          "reviewNote": "Includes rehabilitation, maturity, accountability exception for maintained innocence, institutional record and changed risk plus565.033factors."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Checked distinct pre/post-August-28-2016 sentencing cohorts, twenty-five/thirty-five-year petition opportunities, service/completeness, victim rights and all review factors including maintained-innocence exception; no automatic parole entitlement inferred."
+    }
+  ]
+}
