@@ -67,7 +67,7 @@ ${sourceBody(text.blocks.slice(s.block, starts[i + 1]?.block))}</section>`;
   }).join('') : `<div class="law-unsectioned">${sourceBody(text.blocks)}</div>`;
   return `<div class="reading-layout">
 <aside class="reading-guide" aria-label="Reading guide for source version ${escape(text.versionId)}"><h3>In this section</h3>
-<p>Navigate this source version.</p><nav class="reading-links" aria-label="Subsections for source version ${escape(text.versionId)}">${starts.map(s => `<a href="${fragment(subsectionId(text.id, s.number))}"><span>${s.number}</span> Subsection ${s.number}</a>`).join('') || `<a href="${fragment(bodyId)}">Statutory text</a>`}</nav>
+<p>${starts.length ? 'Jump to subsection' : 'Navigate this source version.'}</p><nav class="reading-links${starts.length ? ' subsection-links' : ''}" aria-label="Subsections for source version ${escape(text.versionId)}">${starts.map(s => `<a href="${fragment(subsectionId(text.id, s.number))}" aria-label="Subsection ${s.number}"><span class="subsection-number" aria-hidden="true">${s.number}</span><span class="subsection-label" aria-hidden="true">Subsection ${s.number}</span></a>`).join('') || `<a href="${fragment(bodyId)}">Statutory text</a>`}</nav>
 <a class="notes-link" href="${fragment(notesId)}">History &amp; source notes ↓</a>
 <p class="guide-note">Navigation labels are reading aids. Original numbering and wording appear alongside them.</p></aside>
 <div class="reading-content"><div class="text-heading" id="${escape(bodyId)}"><h3>Statutory text</h3></div>
