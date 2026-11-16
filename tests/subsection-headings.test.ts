@@ -17,7 +17,7 @@ describe('Editorial subsection heading pilot', () => {
     const titles = headingsFor(text, registry);
     expect(titles.size).toBe(8);
     const html = renderFullText(text, titles);
-    expect(html).toContain('Deposit returns and itemized deductions');
+    expect(html).toContain('Deposit returns and itemized damage statements');
     expect(html).toContain('Editorial heading');
     expect(html).toContain('editorial reading aids added by Show Me Statutes');
     expect(html).toContain('id="version-535.300:35191-subsection-3"');

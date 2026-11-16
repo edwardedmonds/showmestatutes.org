@@ -25,9 +25,9 @@
         },
         {
           "number": 3,
-          "title": "Deposit returns and itemized deductions",
+          "title": "Deposit returns and itemized damage statements",
           "bodySha256": "f0cc072a40fbb9bead0046828f8504a35645382fdcc7ffe015f616e718186c2d",
-          "reviewNote": "Includes the alternative outcomes, deadline, mailing rule, and continuation paragraph."
+          "reviewNote": "Names the written damage statement rather than suggesting this subsection authorizes deductions; reviewed both alternatives, the deadline, and the mailing continuation."
         },
         {
           "number": 4,
@@ -49,9 +49,9 @@
         },
         {
           "number": 7,
-          "title": "Additional damages and rent payments",
+          "title": "Landlord damages beyond the deposit and rent obligations",
           "bodySha256": "d4203f1a4a7bb824dae6ca48e6c1777a634f23facb7820c179ccce616bb03a87",
-          "reviewNote": "Covers both excess-damage recovery and limits on substituting the deposit for rent."
+          "reviewNote": "Identifies the landlord as the party recovering excess actual damages, distinguishes this from the tenant remedy in subsection 6, and retains the separate restriction on using the deposit as rent."
         },
         {
           "number": 8,
@@ -107,15 +107,15 @@
         },
         {
           "number": 7,
-          "title": "Summons and service deadlines",
+          "title": "Summons return dates and service attempts",
           "bodySha256": "7f939d6c07f2b5c5ea96c7af09f60b5fff30284fe30da7de32f3aa996f5bf66f",
-          "reviewNote": "Keeps the distinct return and service-attempt periods in the source text."
+          "reviewNote": "Distinguishes the summons return date from the deadline to attempt service; does not imply completed service within four days."
         },
         {
           "number": 8,
-          "title": "County responsibility for court costs",
+          "title": "County funding to establish and operate the court",
           "bodySha256": "47a3b18ff39d02d9131e355f04676da6e40f80e8868948479473236301067ef2",
-          "reviewNote": "Refers to establishing and operating the court, not individual litigants’ fees."
+          "reviewNote": "Names establishment and operation funding expressly; avoids suggesting Jackson County pays individual litigants’ court fees."
         }
       ]
     },
@@ -147,9 +147,9 @@
         },
         {
           "number": 4,
-          "title": "Seat-belt evidence and damage reductions",
+          "title": "Seat-belt evidence and reductions in damages",
           "bodySha256": "67c825e212535795d69396852a0d752ba0ebb380e6df9e6dc52ab1d8070966df",
-          "reviewNote": "Includes comparative-negligence treatment, expert evidence, and the limit on reduction."
+          "reviewNote": "Uses damages to identify monetary recovery rather than physical damage; preserves the comparative-negligence exclusion, expert-evidence conditions, and reduction limit in the source text."
         },
         {
           "number": 5,
@@ -165,15 +165,15 @@
         },
         {
           "number": 7,
-          "title": "Public information and program evaluation",
+          "title": "Seat-belt education, evaluation, and reporting",
           "bodySha256": "8024f691ac8cb04783ac683eb02dafb419c443c8dc9dda39b683ea58dcd79476",
-          "reviewNote": "Includes public education, effectiveness evaluation, and reporting."
+          "reviewNote": "Covers public information, evaluation of the section’s effectiveness, and the required reporting without implying only the education program is evaluated."
         },
         {
           "number": 8,
-          "title": "When passengers outnumber seat belts",
+          "title": "When occupants outnumber seat belts",
           "bodySha256": "ab57caf3c1dfa59c6d5527b42b17b8599ebec0a7daceb5550b7ec1ccfec00fa1",
-          "reviewNote": "Preserves seating conditions and the exception concerning drivers licensed under 302.178."
+          "reviewNote": "Uses occupants because the triggering comparison counts persons, including the driver; the source then addresses qualifying passengers and seating conditions, with the 302.178 exception."
         }
       ]
     },
@@ -193,15 +193,15 @@
         },
         {
           "number": 2,
-          "title": "Inspection, copying, and access restrictions",
+          "title": "Record inspection, copying, removal, and exclusive access",
           "bodySha256": "99cb3c78c280e47cdb2b8c9f2abb8836e3aa9e0aa831081021f9305e3a734f33",
-          "reviewNote": "Includes original-record removal permission and limits and exceptions on exclusive access arrangements."
+          "reviewNote": "Names the actual subjects; access restrictions was too broad and could suggest general grounds for denying public access. The source addresses original-record removal and exclusive-access arrangements."
         },
         {
           "number": 3,
-          "title": "Request timing, format, and delays",
+          "title": "Response timing, record formats, and delays",
           "bodySha256": "71b945c4fa50270372a8e41ceaf3942f729b24871428bd4c70a825319ef5f0f7",
-          "reviewNote": "Does not promise production within three days; distinguishes action on a request from reasonable production delays."
+          "reviewNote": "Clarifies that timing concerns action on the request, and format concerns the records. Does not imply a requester filing deadline or guarantee production within three days."
         },
         {
           "number": 4,
