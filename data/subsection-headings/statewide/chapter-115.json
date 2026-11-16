@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "scope": "local-statewide",
-  "reviewMethod": "Complete archived-source drafting followed by separate complete-source editorial review. Partial chapter coverage remains visible in the inventory.",
+  "reviewMethod": "Complete archived-source drafting followed by separate complete-source editorial review. Chapter coverage is accounted for in the inventory.",
   "entries": [
     {
       "id": "115.019:5921",
@@ -3904,6 +3904,2427 @@
       ],
       "reviewedBy": "headings_c",
       "reviewSummary": "Read full certification form, four subsections and notes. No self-selection certification by chair, chair-only statutory route, declaration/fees/oaths and deadline/nullity rules preserved; form wording left exact."
+    },
+    {
+      "id": "115.379:35780",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.379&bid=35780",
+      "sourceSha256": "e6cb925afca751fb1d6fe4030ff5c4fb6892df5b5ffc59564e94b9724e3ed5f6",
+      "textSha256": "2258ef49294dabc7f1fb5a880df2115ea7f7c5ee8e36da5617cd88c501ab13b0",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Ballots and vacancies after a candidate dies",
+          "bodySha256": "05d3136b4f1351b48a18d3d6e3aacabc98e06eb3de46bb94f42e611a771aa7f5",
+          "reviewNote": "Distinguishes sole-party candidate and later death of others, replacement exceptions, continued election and sufficient-vote vacancy."
+        },
+        {
+          "number": 2,
+          "title": "Late disqualification and resulting ballot or office vacancies",
+          "bodySha256": "77d1651a803f6b0b3ff685c738bb7a0b903cc13c579138c21b280abc98982651",
+          "reviewNote": "After eighth Tuesday deadline, name remains and sufficient votes create a vacancy rather than electing the disqualified candidate."
+        },
+        {
+          "number": 3,
+          "title": "Removing departed candidates when no exception applies",
+          "bodySha256": "8a4357fec4cfdfd202775b153d5651bfe73331124b89c88d7781056e3b70d5d7",
+          "reviewNote": "Death, withdrawal or disqualification removal rule expressly preserves cited retention exceptions."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all three subsections and effective-date note. Death and disqualification retain distinct deadlines, replacement exceptions, vote-dependent vacancies and general removal exceptions; neutral titles do not collapse these conditions."
+    },
+    {
+      "id": "115.385:6124",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.385&bid=6124",
+      "sourceSha256": "bc2521190577dfc1d6bd04d4d15ef2c4f3eb7f161b4ad03f73e9d56dcb7c8345",
+      "textSha256": "5d7a398f95606e36a16e3e5f68fc889f10b41e2e2e9b3d56e2b6ac71ec85a447",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Selecting and submitting party emblems",
+          "bodySha256": "fa0c18133e336da917371f00c5c2c669abb837692d1742f690a4ca370bc8eea9",
+          "reviewNote": "Includes deadline, authorized party officers, flag prohibition and deceptive similarity restriction with exceptions."
+        },
+        {
+          "number": 2,
+          "title": "Shared emblem for simultaneously formed local parties",
+          "bodySha256": "189fdf3590d054683a0faf0a3226636afb093408e31f462f9a7f6b45c0b65670",
+          "reviewNote": "Same time, name and provisional chairman required."
+        },
+        {
+          "number": 3,
+          "title": "Committee permission to use an emblem elsewhere",
+          "bodySha256": "71e8f037d4597e43682a1ba98992fa1230d1a5e105e4c645e7b7f455eeefe0f1",
+          "reviewNote": "Majority committee vote permits other districts, counties and statewide use."
+        },
+        {
+          "number": 4,
+          "title": "Certifying properly submitted party emblems",
+          "bodySha256": "23d04cd8438e2897eb1e3bf102d1cc0e3972b60f4f724b95ce8d8c30cda53e3a",
+          "reviewNote": "Secretary certifies alongside candidates to relevant election authorities."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Emblem restrictions, common chairman/name conditions for simultaneous local parties, majority committee authorization and certification timing retained."
+    },
+    {
+      "id": "115.395:6129",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.395&bid=6129",
+      "sourceSha256": "dc4c1795e23a1afe7ad0bdd2d9e156b7a17ab27ecb0e21e4c1d9601471a09b1e",
+      "textSha256": "41814ffe5df45d9b024a7330d34e559ea85ddca8559d5e0fa6cf275e93edad93",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Separate primary ballots for participating parties",
+          "bodySha256": "952460f6583da0c9866ca7a39bfbf21c35221e95c2fa0998457bf5b1d43a01be",
+          "reviewNote": "One ballot for each party entitled to participate."
+        },
+        {
+          "number": 2,
+          "title": "Candidate order and first-day random drawings",
+          "bodySha256": "7be50ab93840d643bc6ee24330b80c7d600e40f4a78b97181ca22a3f4b5e4325",
+          "reviewNote": "Secretary drawing mandatory for stated first-day filings; other election authorities may draw, with filing-line rules otherwise."
+        },
+        {
+          "number": 3,
+          "title": "Primary ballot format and limited write-in voting",
+          "bodySha256": "562a820d7690b57ac443c323e8f340f0c3529e4a5efda203b8c504b22e6bc709",
+          "reviewNote": "Preserves formatting exceptions and counting write-ins only for offices filled, not merely nominated, at primary."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Separate ballots, filing order, mandatory first-day secretary of state drawing versus discretionary other-authority drawing, representatives, and restricted primary write-in votes all preserved."
+    },
+    {
+      "id": "115.399:6131",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.399&bid=6131",
+      "sourceSha256": "cdaa66998a3a77818be284389d33b1260e06b4fd1d86dba3aa016825955c98fd",
+      "textSha256": "ca4660934660819bb4e910cbadc0100be4a541031c35f6d6c2e20c04eda7b85a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Certifying presidential and vice-presidential nominees",
+          "bodySha256": "b9d8bd912d6d1c5dbfdad5cd794077788845aaa5d20e56dba20671a1a08b2404",
+          "reviewNote": "Established party state committee uses later of specified Tuesday or post-nomination working-day deadline."
+        },
+        {
+          "number": 2,
+          "title": "Certifying presidential elector nominees",
+          "bodySha256": "c19b7ef3f7c8e54e35ad2eedddbeae309db40ffc4a39caeaecc7cfe80b5c648a",
+          "reviewNote": "Includes third-Tuesday deadline, congressional-district representation and total slate size."
+        },
+        {
+          "number": 3,
+          "title": "Declarations and oath for presidential elector candidates",
+          "bodySha256": "e4da917d26ebc73248131ef52bb4a3d87fae684ae58e601bef31ffebd74778dd",
+          "reviewNote": "Complete form and continuing oath paragraph read; each certified elector needs declaration."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text including complete declaration form and notes. Certification deadlines differ for presidential nominees and electors, district representation and total elector count remain intact, and declaration oath is not replaced with a new qualification."
+    },
+    {
+      "id": "115.413:6138",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.413&bid=6138",
+      "sourceSha256": "53cf81b54175a77e4b0cce1a18f9557d0c3ff87a53e99ea526660f0b14e2dc7a",
+      "textSha256": "af4b0f8fc605217986b4481ca0cc78888876b132e0111396b7615938ff764244",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Providing and preserving election-law pamphlets",
+          "bodySha256": "44d7f0420bea839a1ae91ca437bd8d5b90aecc5cee74c6c31a7c21000b86a94c",
+          "reviewNote": "Includes state distribution, polling-place copy at each election and return with supplies."
+        },
+        {
+          "number": 2,
+          "title": "Optional instructions for election judges",
+          "bodySha256": "fa3be8b5d0e6c34ebb6a17d41565c08ffa7203e9aa0d7995a6fcd2df8c03ed0b",
+          "reviewNote": "Secretary may publish instructions for election authorities to distribute."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Required pamphlet provision, preservation, polling-place copy and return obligations are distinct from optional judge instructions."
+    },
+    {
+      "id": "115.417:51454",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.417&bid=51454",
+      "sourceSha256": "c629be30afd9006634a59a8e741b9da1ba59538f38a6a494fdcf77ad65e50b6d",
+      "textSha256": "4c8edc607f9bedfeee79b9c46661ed9c3d6d9edd624f11403231888fef140cd4",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Delivering voter instruction cards before polls open",
+          "bodySha256": "4e65c6e510ab6fd827cf78ed53851b50928b8dac52feb22fb67bd256d4b2a7a0",
+          "reviewNote": "Cards cover obtaining, marking and depositing ballots and replacing accidental spoilage."
+        },
+        {
+          "number": 2,
+          "title": "Posting instructions, sample ballots and voting-rights information",
+          "bodySha256": "2ec769b27c55537a0689ab9472dee5c83e0d169f0c3550bf12af8a34b9fb9782",
+          "reviewNote": "Full broad posting requirements, demonstration notice, absentee period and rulemaking provisions read."
+        },
+        {
+          "number": 3,
+          "title": "Optional multilingual voting instructions",
+          "bodySha256": "cb3fb44528225fbda15edac0443293bb7c1d975015baec296202035e1714e95f",
+          "reviewNote": "Secretary may develop them for election authorities."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all text and notes including posting dimensions, demonstration, absentee/election-day sample and rights information, chapter 536 rule condition, and discretionary multilingual instructions."
+    },
+    {
+      "id": "115.420:6142",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.420&bid=6142",
+      "sourceSha256": "95da60fb5a675519b9fcc0297051f51b362f767b3221b5e2a0b3b8936fed9c28",
+      "textSha256": "49f3361d90ab86a07c4d8c6846de9a10cb72c9d77b270cf73366deb1046cc89b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written approval required for a butterfly ballot",
+          "bodySha256": "293d03f80bd10a7b5116e188d4ce5ab46d65eaff2f5ceec14131781176c1b44f",
+          "reviewNote": "Restriction has an express secretary-of-state approval exception for the particular election."
+        },
+        {
+          "number": 2,
+          "title": "Definition of butterfly ballot",
+          "bodySha256": "150a8345b29907a4924e14a103d92c0e4459fe2519182725858fe6d20cdd027b",
+          "reviewNote": "Uses side-by-side pages with voting on candidates or issues on both sides as defined in source."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read complete text and notes. Written approval is election-specific and is preserved as an exception rather than labeling the provision an absolute butterfly-ballot prohibition."
+    },
+    {
+      "id": "115.427:60120",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.427&bid=60120",
+      "sourceSha256": "23200c93cdf4536346e686e3c3386aa51ac3e25c3cc95c153cd78e0412f70133",
+      "textSha256": "628ce4f22510cd57385805d90dbb66e10af3a434d0c33e6ac98a5013a7729ef6",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Photo identification forms for polling and in-person absentee voting",
+          "bodySha256": "c6d8c6dd08a73df2d923ab09245fd676795f4dd8994e028d85ed52f3128f2e2d",
+          "reviewNote": "Enumerated forms, expiration alternatives and designated locations retained; the historical Priorities USA annotation remains visible without a new enforceability conclusion."
+        },
+        {
+          "number": 2,
+          "title": "Provisional ballots when required identification is missing",
+          "bodySha256": "9946dc8e823b85543afef143e9a7495e74781878037ca79b02e61d13603e1e16",
+          "reviewNote": "Otherwise qualified voter, affidavit, identity-unverified notation and distinguishable ballot requirements all included."
+        },
+        {
+          "number": 3,
+          "title": "Provisional envelope certificate and secure storage",
+          "bodySha256": "d20c397d7f199467db710c981a80ac1e9cf41b2069e3647c37690d3973f14274",
+          "reviewNote": "Full form read, including alternative identification or signature verification and other counting conditions; not a mandatory return-only summary."
+        },
+        {
+          "number": 4,
+          "title": "Conditions for counting an identification-related provisional ballot",
+          "bodySha256": "083c588e51778abb0c662e783ac1271043be82a419815704c0d1d7d1fc86e6fb",
+          "reviewNote": "Return with identification or authority signature verification, plus eligibility and other statutory requirements; includes in-person absentee return deadline."
+        },
+        {
+          "number": 5,
+          "title": "Online notice of photo identification requirements",
+          "bodySha256": "65509e1bda246ec762b8073452e25615e203167eab4971f970edca1ed2aa93f4",
+          "reviewNote": "Secretary provides notice on official website."
+        },
+        {
+          "number": 6,
+          "title": "Free voter identification and supporting documents",
+          "bodySha256": "91beafcb4aed89f8dacbc7e54d3c3ef23ee7ecad30c3beb3afcfa7944ea9e7e1",
+          "reviewNote": "Includes qualifying nondriver license, document copies, assistance, outside fees and local issuance contracts; no claim that every license or document request is free."
+        },
+        {
+          "number": 7,
+          "title": "Annual report on voter identification requests and denials",
+          "bodySha256": "8bb09bd60b060970386ce770c14e31506895d5f4df91d46779d8cd4acb69484e",
+          "reviewNote": "Covers requested and received licenses, unsuccessful requests and reasons for denial."
+        },
+        {
+          "number": 8,
+          "title": "Precinct-register voter identification certificate",
+          "bodySha256": "8d79ab975de2d6968645f976b0583c94b864a3bcebe23621a38e074c7286d288",
+          "reviewNote": "Complete warning and form read, including signature and address initials."
+        },
+        {
+          "number": 9,
+          "title": "Rules implementing identification provisions",
+          "bodySha256": "71055f07e8d73d56dfdf7a2cfb84c9dc73a7ee02c3c386ff80a09532a00dc27d",
+          "reviewNote": "Secretary required to promulgate implementing rules."
+        },
+        {
+          "number": 10,
+          "title": "Rulemaking requirements and nonseverability",
+          "bodySha256": "27024e9b14fc2bd097c6dd02a101093b9e6a15d76230b48ed99e76792af28989",
+          "reviewNote": "Includes chapter 536 conditions and consequences of invalidating specified legislative review powers; not a declaration that the rules are currently invalid."
+        },
+        {
+          "number": 11,
+          "title": "Witnessed mark for a voter unable to sign",
+          "bodySha256": "52dd9b38089986e0a3473ce0919b236f39aaa85915e3a9b42540ce04bcf3e84d",
+          "reviewNote": "Official enters name and address, voter makes mark and official witnesses it."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Independently read all11subsections, full certificate forms and notes. Accepted photo-ID types differ in expiration criteria; missing-ID provisional option, return-with-ID OR signature verification, eligibility and other counting conditions preserved. No-cost documents, reporting, certificate, rule nonseverability and witnessed mark distinguished. Historical2020 Priorities USA note does not establish status of2026version; source severability crossreference retained."
+    },
+    {
+      "id": "115.429:35782",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.429&bid=35782",
+      "sourceSha256": "7d91fdc74c363006311bb93fd47bcef6a031e7178c925bd8c730168b48099dd7",
+      "textSha256": "6071f798b2872b2e54c44fef9ed60a557f79922d00e0eee9ed183233b15d112d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Matching a voter to the precinct-register identity",
+          "bodySha256": "b4787ef8762cca8dd10491700c8d969b7ae0e567f1124c7da7777b452766f418",
+          "reviewNote": "Judges must be satisfied as to identity; this subsection is not summarized as resolving all eligibility procedures."
+        },
+        {
+          "number": 2,
+          "title": "Challenges to voter identity or qualifications",
+          "bodySha256": "a788204855022c904840fc4d03c9dc77bc9334ab75e0e997ffb04c1ffb696755",
+          "reviewNote": "Lists who may challenge and determination before receiving ballot; other statutory provisional routes not rewritten here."
+        },
+        {
+          "number": 3,
+          "title": "Judges deciding doubts and avenues after refusal",
+          "bodySha256": "75e8607079c2d27f1e80a5832549b2ebc6483e9efb621ac29785ba373d6ce31d",
+          "reviewNote": "Major-party judge majority, application to authority or secretary complaint described."
+        },
+        {
+          "number": 4,
+          "title": "Election authority resolves undecided voter questions",
+          "bodySha256": "279e6835a26bfda240632d218e08cd5d0f4b4dcb29a2594e9dca9cc2aecea36b",
+          "reviewNote": "Authority decides when election judges cannot reach a decision."
+        },
+        {
+          "number": 5,
+          "title": "Qualification affidavits and false-statement offense",
+          "bodySha256": "bd765a1e6eb9c0213b815f441b558bc1c91027cbde22fd7adf1beebd33395276",
+          "reviewNote": "Optional affidavit requirement, supplied forms, remarks, return and class-one false-affidavit offense."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read complete text and merged-bill effective notes. Register identity, permissible challengers, majority of major-party judges, election-authority escalation and complaint path, optional qualification affidavits and class-one offense retained without converting to an unconditional voting exclusion."
+    },
+    {
+      "id": "115.430:60121",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.430&bid=60121",
+      "sourceSha256": "421e577376b1af22552aaad487a8c2d14be8e99a8b58a209de1e6b6a5e54cd65",
+      "textSha256": "0c3081a042e181834f401115198de4ea0be7eecc91371896c4bfddd81ddd7d9e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application to all public elections",
+          "bodySha256": "2df5bac4a66a60330f54e9621a69d2cf1e00fd7b5d2cb34ff5ae5576eefa541e",
+          "reviewNote": "Scope statement only."
+        },
+        {
+          "number": 2,
+          "title": "Establishing eligibility and offering provisional ballots",
+          "bodySha256": "d3bdc927203a2904659cf63716a0426a8f0f707c6191c0ef2b383c5a541f7b4f",
+          "reviewNote": "Full pathways include precinct and state-register checks, central or correct polling place, in-person absentee requests and identity consistency; wrong-location ballots not assumed countable."
+        },
+        {
+          "number": 3,
+          "title": "Affidavits, distinguishable ballots and sealed envelopes",
+          "bodySha256": "359a0fa323f70beaf8d9aa183e2bb06be90c3d7745494663bfdd1ce5fcf95366",
+          "reviewNote": "Requires affidavit before receipt and specifies envelope color, ballot mark and sealing."
+        },
+        {
+          "number": 4,
+          "title": "Provisional voter certificate and ballot deposit",
+          "bodySha256": "15d070b812cb675aeb45ca6bbb77c4c8e380fbe85a3e53cb019b687875031c85",
+          "reviewNote": "Complete form, deposit instruction, false-information warning and optional registration details read."
+        },
+        {
+          "number": 5,
+          "title": "Eligibility review, documentation and acceptance or rejection",
+          "bodySha256": "46cb30259b95cd6f2df12815c01eb06ba640ff4a411e156fae869a64d54d94c1",
+          "reviewNote": "All eight subdivisions read, including place, registration, no duplicate vote, envelope accuracy, records checks, bipartisan handling and rejected-envelope registration use."
+        },
+        {
+          "number": 6,
+          "title": "Counting eligibility and processing before certification",
+          "bodySha256": "9beac4b377e45bf0db1f39cb301aa676146ac147993675f5e321954c407ebd17",
+          "reviewNote": "Includes wrong-polling-place exclusion, determination before counting and future-registration use of qualified unregistered voters affidavits."
+        },
+        {
+          "number": 7,
+          "title": "Bipartisan tabulation and preservation of provisional ballots",
+          "bodySha256": "ca3d526f04e5da507e79ab1a4fb200769ea431d9102c668309b548b80a9e40e9",
+          "reviewNote": "Includes delivery records, opening eligible ballots, keeping rejected envelopes sealed and separately sealing both groups."
+        },
+        {
+          "number": 8,
+          "title": "Observers and party notice during provisional-ballot review",
+          "bodySha256": "5124ced0986440a19becb09b1c094398bc1ece3ae05f461342142a210394387a",
+          "reviewNote": "Challengers and watchers may observe eligibility and counting; county major-party chairs receive time and location."
+        },
+        {
+          "number": 9,
+          "title": "Recording provisional envelopes on the ballot-card certificate",
+          "bodySha256": "cd26895d4ec87da214d6d252b5ee9c583aa5774871186e42f3941a32a981e9f1",
+          "reviewNote": "Records envelopes delivered and sealed voted envelopes deposited."
+        },
+        {
+          "number": 10,
+          "title": "Provisional ballots in counties using nonpaper systems",
+          "bodySha256": "ee17068ad5cdc6ea97c90cd7ca1fe1059149b60afc0b906be514361cbc358211",
+          "reviewNote": "Describes the supplied conditional text without inferring current county voting-system practices."
+        },
+        {
+          "number": 11,
+          "title": "Rules for uniform provisional-ballot procedures",
+          "bodySha256": "d708a567dbb8f2bc24ee3fe6ed74669190ce8fe68d18c990f7cc4e7511c3e819",
+          "reviewNote": "Optional rules subject to chapter 536."
+        },
+        {
+          "number": 12,
+          "title": "State-provided provisional envelopes and forms",
+          "bodySha256": "f0a345fc78d7daa4ff856b84eece9777765559495e8c6e3ac2889d53800f898b",
+          "reviewNote": "Secretary designs and supplies necessary materials."
+        },
+        {
+          "number": 13,
+          "title": "Free access to counting status and rejection reasons",
+          "bodySha256": "53c30488169e8e461eeaafb039fd367e6e5e82b9b86d61cb487020113a936b64",
+          "reviewNote": "Requires system and written information to each provisional voter; not public disclosure of individual voting choices."
+        },
+        {
+          "number": 14,
+          "title": "Extended-hours provisional voting and state-court jurisdiction",
+          "bodySha256": "1ab2280507cb15ca105db860e432c2ed7c89a38168028e9f0838f8d98e14bab4",
+          "reviewNote": "Includes segregation, validation before counting and express state-court jurisdiction limitation; does not infer an extension order currently exists."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read complete14subsections including certificate and nested eligibility/tabulation procedures and notes. Correct precinct/central place requirements, in-person absentee provisional eligibility, envelope/form safeguards, acceptance/rejection and registration reuse, verification before certification, bipartisan review/watchers, free status access, and separately held extended-hours ballots preserved. State-court jurisdiction statement not generalized to all courts. Source crossreferences and severability note retained."
+    },
+    {
+      "id": "115.436:6152",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.436&bid=6152",
+      "sourceSha256": "9a2133dcc80aac455f840a35a31f5a2f79281e8f483c62b479ced27ea12cbf90",
+      "textSha256": "948bcd9a373efec1e28e634bd5f6c505e69a428614ee369be4b190fd93392871",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Voting outside inaccessible paper-ballot or electronic polling places",
+          "bodySha256": "2b3ad7f2579f93c5b79f5e64a44b334f2a3e66ab26516093e7a27d911bcbbc63",
+          "reviewNote": "Two opposite-party judges assist a physically disabled voter unable to enter and within two hundred feet; materials and ballot-box handling included."
+        },
+        {
+          "number": 2,
+          "title": "Outside assistance in voting-machine jurisdictions",
+          "bodySha256": "a1cf93e7f091fe32cae6a2db81c052326284b77eb6b9e613707507f50acea290",
+          "reviewNote": "Same distance and inability conditions, using an absentee ballot delivered by two major-party judges."
+        },
+        {
+          "number": 3,
+          "title": "Alternative accessible polling assignments",
+          "bodySha256": "8b8f1b1a919352c5c2a273c733aa377486c9b7bc665a9eb78810d9c050b6bfa3",
+          "reviewNote": "Matching candidates/issues required, optional household/caregiver assignment and voter objection protection preserved."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read complete text and notes. Two-hundred-foot and inability-to-enter conditions, different paper/electronic versus voting-machine ballots, consistent candidates/issues for alternate location, discretionary household/caregiver assignment and voter objection preserved."
+    },
+    {
+      "id": "115.439:6153",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.439&bid=6153",
+      "sourceSha256": "83fd9a6578bf38686fb7088b9cca5899ae0c83393b747a39fe59a8c2639a34a3",
+      "textSha256": "6b1d83554c53d785f36dc00f316a115cfc8a371fb6f94bb236d4400ed0ae0831",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Marking paper ballots, write-ins and ballot questions",
+          "bodySha256": "158b3fa2b6e3004a2914f88ca750d1f0f8967f04ff4dbf245b81a1dc238d91bf",
+          "reviewNote": "Covers marks, write-in line, questions and prohibition on repeat votes for the same person and office."
+        },
+        {
+          "number": 2,
+          "title": "Replacing accidentally spoiled or mistaken ballots",
+          "bodySha256": "1cdf6b2abc0c0288363d02adf9f5b2f40afd65d950dd13cdeb51b0e347da8bcb",
+          "reviewNote": "Judge marks and stores spoiled ballot before replacement is prepared."
+        },
+        {
+          "number": 3,
+          "title": "Rulemaking conditions and nonseverability",
+          "bodySha256": "a25c490d512462c7859c1111514d81f8fbb9407ab4f46ad7d23d0fb78bf6747c",
+          "reviewNote": "Conditional invalidity concerns chapter 536 legislative review powers; no present invalidity inferred."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read complete text and notes. Marking and available write-in lines, no duplicate same-person vote, spoiled-ballot replacement and rule nonseverability retained."
+    },
+    {
+      "id": "115.443:6155",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.443&bid=6155",
+      "sourceSha256": "d86c9a066ed55cfbb193e24aeca540a32cfa770f8dda55d9782fc6b12e9226f8",
+      "textSha256": "f952e144d528ffdcfcb5b7fbae688b81492ff480b6cae1c0a21d340c42395c11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Folding and depositing a paper ballot",
+          "bodySha256": "06f88d1d6b63f430bf8583130c9b3f05772912f521aa9c8a383b318ea891478a",
+          "reviewNote": "Conceal marks, deposit ballot and leave polling place."
+        },
+        {
+          "number": 2,
+          "title": "Registering a vote on an electronic machine",
+          "bodySha256": "450ed4ffd8e88c764826d3521532dcf577e69c154ccd07b9938dc8895c7bf467",
+          "reviewNote": "Follow machine instructions and then leave polling place."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read complete text and notes. Concealed markings and paper-ballot deposit differ from machine instructions; departure requirement preserved in source."
+    },
+    {
+      "id": "115.445:6156",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.445&bid=6156",
+      "sourceSha256": "8284ece57ffe0ddf722c2c494edc09d5afb3459b345140958293ed813ce4d721",
+      "textSha256": "fe120d583ec58e89b4e8b566def71daac9be536893615f78d19081173c2afe58",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Voting-booth privacy and stated exceptions",
+          "bodySha256": "388152d592bba8cca95f39c2e4895d90c0e2dfe14e9c84cfe038719834e9b85a",
+          "reviewNote": "General exclusion and sightline protection; later subsection4 separately permits accompanying children."
+        },
+        {
+          "number": 2,
+          "title": "Further voting instructions from bipartisan judges",
+          "bodySha256": "433b256a95b21fd0bf76a9d4e6e6b91e5a15fce25f92c16cc2b83eb694fe5cb0",
+          "reviewNote": "Judges enter booth only if otherwise impossible and restore secret voting afterward."
+        },
+        {
+          "number": 3,
+          "title": "Voter-directed assistance and limits on assistants",
+          "bodySha256": "54c823f5749b8d026a2459948bfde611732d98e8af0d02ad814bc4e2e7f2ea46",
+          "reviewNote": "Sworn inability qualification, chosen assistant or bipartisan judges and one-voter limit with judge/immediate-family exceptions."
+        },
+        {
+          "number": 4,
+          "title": "Children accompanying parents, grandparents or guardians",
+          "bodySha256": "cf07d2078a833428fdc5d939b4c519959c5c8c8cb40eb237df9eb04ebe126e5f",
+          "reviewNote": "Under-eighteen child may accompany the named adult into booth."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all text and notes. Privacy exceptions include instruction and sworn inability assistance as well as separate under-eighteen accompaniment. Bipartisan judges, secrecy, voter direction and one-voter assistant limit with family/judge exceptions preserved."
+    },
+    {
+      "id": "115.447:51457",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.447&bid=51457",
+      "sourceSha256": "b3e954a329ab7f789e580eb45b5cfc4cf675c12e4d2d0114c0ddc3f5b7f3afda",
+      "textSha256": "389bf04a099b2bc5f6cc0b13d565de3f73d18a76313b22ac1346b1447801049d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Counting, receiving and recording judge functions",
+          "bodySha256": "a7dc83ec1708475f759e152760c90c09d17327024b8fc4d1f5034cb4fdef04b0",
+          "reviewNote": "Defines bipartisan functions; same individual may perform more than one."
+        },
+        {
+          "number": 2,
+          "title": "Defective, rejected and spoiled ballot definitions",
+          "bodySha256": "b37a50b794c689948f71eef5dfaa0a67181ed501c3029f1643822584378bd7dd",
+          "reviewNote": "Distinct categories, overvote scope, damage, assistance and affidavit grounds retained; defective does not mean wholly rejected."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full nested definitions and notes. Judge labels are functions permitting multiple roles; defective, rejected and spoiled ballot criteria remain distinct, without asserting all defective ballots rejected."
+    },
+    {
+      "id": "115.449:6158",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.449&bid=6158",
+      "sourceSha256": "7caacf9e920e50be9e68b0e0f64992d8cba2bafaa5e43e8b8d701c70a575dd3b",
+      "textSha256": "10e9fe2fbda63533da51010adcb1f434b6082176ef0386dd6ff9d5f8b27338a0",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Beginning and completing the paper-ballot count",
+          "bodySha256": "61b7d3fcdb69ab6742b0d9f833aac5979de16687ee2f1230c769ae6c638d95cb",
+          "reviewNote": "Poll closing or permitted earlier start; no adjournment or postponement before all proper votes counted."
+        },
+        {
+          "number": 2,
+          "title": "Reading votes aloud and recording parallel tallies",
+          "bodySha256": "c4a27fc91435e97a66114cb10808233e12a9d5e74d0183c8fbd90c18c5e76dc1",
+          "reviewNote": "Mutual observation, each recording judge tally and optional separation of concurrent jurisdictions ballots."
+        },
+        {
+          "number": 3,
+          "title": "Reconciling, signing and announcing the tallies",
+          "bodySha256": "879881392e2288fc338f25f8ccb9c8a948452dca88286b6b2c673a9238285085",
+          "reviewNote": "Agreement precedes signatures and public announcement."
+        },
+        {
+          "number": 4,
+          "title": "Entering vote totals on returns",
+          "bodySha256": "56b684823411f00695064739a9e337ff15316d31182673030065bf9500706d31",
+          "reviewNote": "Includes writing missing question headings on sheets or returns."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read complete text and notes. Closing/early-count distinction, continuous count, observed reading and dual tallies, reconciliation and return headings accurately represented."
+    },
+    {
+      "id": "115.456:6162",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.456&bid=6162",
+      "sourceSha256": "01ea9af4c4b91b249a0705bf1b9f62ae04b95f8d10b0dccc15d2ebae6ea952c8",
+      "textSha256": "fc10b49c8429c8cf3d289f1617ea79a550f1221d356c69da783b0f1f6788a21a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Optical-scan counting, voter intent and write-in standards",
+          "bodySha256": "5f1296c2011151c7f513b79b1f9dd9e73365c3cb869029a339b985730d867f38",
+          "reviewNote": "Full machine-programming, precinct-voter review, central bipartisan review, damaged duplicates, write-ins and hand-recount provisions read."
+        },
+        {
+          "number": 2,
+          "title": "Paper-ballot voter intent and write-in standards",
+          "bodySha256": "50f2e0dbfc90fad4d7e1b6458b8c544260446e706bdcd76cac527d411d40fabf",
+          "reviewNote": "Specific marks, candidate identity, office and recount use preserved."
+        },
+        {
+          "number": 3,
+          "title": "General party preference is not a candidate vote",
+          "bodySha256": "acb6821a5d665499507483714510190518528133a850599705d37778ec971110",
+          "reviewNote": "Distinguishing party-level mark does not count for or against a particular candidate."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all nested optical-scan and paper standards and notes. Precinct versus central rejection review, damaged-ballot duplication/matching, voter-intent alternatives, write-in requirements and hand-recount applicability retained; party-preference marks not treated as candidate votes."
+    },
+    {
+      "id": "115.461:6165",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.461&bid=6165",
+      "sourceSha256": "31ad9fb6db14a6a716c48cec84482c82ddc6bc0b04e1c1043b7fc11312637f5c",
+      "textSha256": "14a49c15a3257582a1c4fa4e287206973f37d895dad9d949a7e5e799d91a12d5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Paper-ballot tally-book certification form",
+          "bodySha256": "5913a1629d706d08af00c114b37932caf1d67598250f0e427e1775266b1ca896",
+          "reviewNote": "Complete received, cast, rejected, spoiled and unused ballot counts and officer attestations read."
+        },
+        {
+          "number": 2,
+          "title": "Two tally sheets and their form",
+          "bodySha256": "27ed239912bacbc4caf1646812d94d56fdc600e39648c21fb3fd2a4ec71f81a5",
+          "reviewNote": "Complete candidate and question tables and opposite-party recording signatures read."
+        },
+        {
+          "number": 3,
+          "title": "Two statements of returns and their form",
+          "bodySha256": "4d5f01c3dec0bac87d89cf1ed5f7173ee1476f8455b44c9742346188901ad0e3",
+          "reviewNote": "Complete candidate/question totals and full accurate return certification read."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read complete tally-book certificate, two tally-sheet tables and return forms plus notes. Headings identify separate required forms without paraphrasing or changing source forms."
+    },
+    {
+      "id": "115.465:6167",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.465&bid=6167",
+      "sourceSha256": "421af55c31c2cee8d50638189cc512a4937e759251f5dc5d19083569309cc60d",
+      "textSha256": "5a10b19b4fa87594ebcbf30ff2f91e405074e54dfac40cce0a36c4dc2676fbf3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Locking and sealing a returned ballot box",
+          "bodySha256": "88d8d4b5873bbbd2b50ebbcb76b392baeaee858fba6b5d5b4a04a83ff0db8e97",
+          "reviewNote": "Judges sign tamper-evident strip across keyhole and opening; key removed."
+        },
+        {
+          "number": 2,
+          "title": "Sealing other returned ballot containers",
+          "bodySha256": "89ffa443ff98e48c0503c2474db3a567f1b8dd54bed9cf9821c0f9bd3392efd1",
+          "reviewNote": "Judges signed strip must reveal opening or removal."
+        },
+        {
+          "number": 3,
+          "title": "Labeling containers with polling place and election date",
+          "bodySha256": "5271cfe6d79978ae1e94daced07679cb773bcf4631707c6ffe8f8edaf5cb20f8",
+          "reviewNote": "Exterior information applies to ballot box or other return container."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read complete text and notes. Separate lock/keyhole and other-container tamper-evident seals, judge signatures and exterior location/date retained."
+    },
+    {
+      "id": "115.467:6168",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.467&bid=6168",
+      "sourceSha256": "81ea239ba263dfb93db3e711a988241a0a4ec047da7992c85635192dbb340e17",
+      "textSha256": "891f61b1df36d0cd84c51b6f203e6a13cf232121ce38a8f588415d4b8d526ca7",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Securing electronic voting and completing write-in counts",
+          "bodySha256": "63249df82ce9e0400c58bf5022343accb891a3bdbf7f6a8278fe9cf47d957e71",
+          "reviewNote": "Close-poll securing, earlier authorized counting and uninterrupted completion included."
+        },
+        {
+          "number": 2,
+          "title": "Separating write-ins and identifying defective ballot cards",
+          "bodySha256": "072a15950e1870467dba7d646a35c5f75985768d18a7f412de5d03fd5563f83f",
+          "reviewNote": "Includes matching numbers, comparing votes when tallied locally, overvote or repeated vote notation and return envelope."
+        },
+        {
+          "number": 3,
+          "title": "Counting proper write-ins and the multiple-seat exception",
+          "bodySha256": "71404bafbd929336ef14d96df7cb392a5801f7b9edad729bdce0384e9925bb7d",
+          "reviewNote": "Listed-candidate restriction has explicit multi-seat exception; title does not prohibit all such write-ins."
+        },
+        {
+          "number": 4,
+          "title": "Returning damaged cards as defective ballots",
+          "bodySha256": "5a31e688f47f930c0ce47f3458fb377cdcf47632abca2e04b148efe8c594dc62",
+          "reviewNote": "Cards uncountable by equipment are noted and returned to counting location."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all text and notes. Continuous post-close or earlier-started write-in count, matching numbered forms, overvotes/duplicate votes and damaged cards, and multiple-seat write-in exception preserved."
+    },
+    {
+      "id": "115.469:6170",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.469&bid=6170",
+      "sourceSha256": "efffb8950ebdac7229fae49de882a2eb97d0cd2e1616629085edf5f9a1a72dd1",
+      "textSha256": "ac7b8585f60831d1e9832d3dfe766c7318368085e08de3c46d2d38f68be60803",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorized early write-in counting and ballot-box exchange",
+          "bodySha256": "bbe612b6f35d346ac9ff8e7d12dc231e6e74ddd792389a80336529e5ea085534",
+          "reviewNote": "Full timing, private counting area, second-box visibility and locking safeguards read."
+        },
+        {
+          "number": 2,
+          "title": "Separating, sealing and watching early-counted materials",
+          "bodySha256": "37cddfc5cfd1776b15496feb35376a0bbac20c33572d687328f7cf0132303617",
+          "reviewNote": "Includes ballot cards, proper write-in forms, defective ballots and labeling; preserves source handling sequence."
+        },
+        {
+          "number": 3,
+          "title": "Bipartisan transport of early-counted ballot containers",
+          "bodySha256": "6fc105cf6547f3db241e273ed67f2cd706596b01bdebedde7da1ab3b35d1502b",
+          "reviewNote": "Delivery window, immediate transfer and unsealed-container written explanation included."
+        },
+        {
+          "number": 4,
+          "title": "Hand counting or duplicating damaged delivered ballots",
+          "bodySha256": "98a36d640756af681f54ab539c7d3bf5143818cc7a42a525dff06560d6158a8e",
+          "reviewNote": "Cross-referenced damaged-ballot procedure, not unrestricted alteration."
+        },
+        {
+          "number": 5,
+          "title": "Recording votes on tapes without reading them before polls close",
+          "bodySha256": "80bcb99edd2ee51496cead20f4d98e4e37b714049c6b6c67aef30fd3191217fd",
+          "reviewNote": "Transfer may precede closing; reading or interpretation expressly deferred."
+        },
+        {
+          "number": 6,
+          "title": "Alternative write-in counting procedure",
+          "bodySha256": "aa68e39627b9a5bcbe63915998a7c6ad03fac37732bc8fb82576b8bdb23122ec",
+          "reviewNote": "Cross-reference to 115.451 preserved."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all text and notes. Authorized early count and specified box-exchange/transport windows, secure containers and bipartisan team, damaged-ballot options, magnetic-tape recording but no pre-close reading, and alternative statutory procedure retained as written without modernizing source."
+    },
+    {
+      "id": "115.473:6172",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.473&bid=6172",
+      "sourceSha256": "dcab3a9590a1d2230d8007305d1731aa648637c3fca15011b96f54aedb744026",
+      "textSha256": "7950e2ba02be9f40d88d317e71f7ccde1387b05dbd502cae4684ce2dceb5cc57",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Electronic-system tally-book certification form",
+          "bodySha256": "bd79abed73e296a1d510bc35cca2f74ebab35884f1ade173610363aad85cb834",
+          "reviewNote": "Full form includes received, cast, defective, spoiled, proper-write-in and unused counts."
+        },
+        {
+          "number": 2,
+          "title": "Two tally sheets for locally counted write-ins",
+          "bodySha256": "732f3da4beecf2df7e2f9b0f8fa9bd3a6fe8dafd506719a721cbfb1f0fe30cd5",
+          "reviewNote": "Applies when write-ins counted at polling place and references paper-ballot tally form."
+        },
+        {
+          "number": 3,
+          "title": "Write-in statements of returns and certification form",
+          "bodySha256": "aff6352206efb0e8a674626986be660b6c45613ff4b6416256fdb79ddde59346",
+          "reviewNote": "Two statements required for local tallying; complete certification form read."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read complete electronic-system certification form and all text/notes. Two sheets and two returns conditioned on local write-in tallying, distinct from general tally-book certification."
+    },
+    {
+      "id": "115.475:6173",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.475&bid=6173",
+      "sourceSha256": "6e97c8af6b0610404dee7411bac45486136ce970fac793168832d0bec74df91b",
+      "textSha256": "a20e9dc4aa4e630e1e61ace962a3c6494315770b31ab44564cb4bb94004321c6",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Sealing ballots, memory cards and election supplies",
+          "bodySha256": "8babb2c76700bc1083d0e5212c628915e2f5e4bb72927ec0b127f6e64f0ce86a",
+          "reviewNote": "Materials enclosed as soon as possible after returns signed."
+        },
+        {
+          "number": 2,
+          "title": "Joint delivery by supervisory judges",
+          "bodySha256": "2fee1324946423cb8e946f1192fe3b15859934c4a46e0b1dda9af5df8a83fd99",
+          "reviewNote": "Immediate joint delivery to designated location, with unsealed-container report on receipt."
+        },
+        {
+          "number": 3,
+          "title": "Bipartisan transfer from an intermediate return location",
+          "bodySha256": "3973ea8784a03b548851dbbce33f0e4a0edc99588976bd2a254a762f1118d430",
+          "reviewNote": "Applies only when authority designates location other than counting place."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Sealing includes memory cards and specified forms; joint supervisory-judge delivery, unsealed-container statement and bipartisan intermediate transport preserved."
+    },
+    {
+      "id": "115.477:6174",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.477&bid=6174",
+      "sourceSha256": "7e861707cdbb8ddf97db420a13e6c2d6bf566a840eba9d3ff32253a123705aa5",
+      "textSha256": "1a38038d2d06e76a402b58d29ba8cf9302238d248027fa1f648344b4eff0c97e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Public counting, bipartisan observation and restricted handling",
+          "bodySha256": "48474149c7fc709cd982330d2db77cec9ac9ef4223ef0b453a70e585cb88f22c",
+          "reviewNote": "Authority directs, appointed major-party judges observe; public attendance does not permit touching materials."
+        },
+        {
+          "number": 2,
+          "title": "Tabulated returns for each polling place and jurisdiction",
+          "bodySha256": "9c8b7ddfd8d1c41c343c9b46f36d63b033c45275deb27316449aec9982b24ef6",
+          "reviewNote": "Equipment produces candidate and question totals at both levels."
+        },
+        {
+          "number": 3,
+          "title": "Handling damaged ballots and overvotes",
+          "bodySha256": "e42b89941f180678aa37c29e88f05947eb56adc152972d17a4819a2e21424b4c",
+          "reviewNote": "Includes hand counting, true duplicates, optional removable labels, bipartisan observation and matching serial numbers; invalid votes omitted as specified."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read complete text and notes. Public observation does not permit public handling; separate precinct/jurisdiction totals, damaged and overvote remedies, duplicate linkage and bipartisan observation retained."
+    },
+    {
+      "id": "115.483:6177",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.483&bid=6177",
+      "sourceSha256": "a327f5c25b1240652d0b9ff54535102d339cceb92c15dcda6a89700ddf123c0f",
+      "textSha256": "b0c61948e6265e12eda1baf803281503ed2b82be1b7c33fde75a96862d438ac3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Securing voting machines and completing the count",
+          "bodySha256": "91e4e6fc06a032408e71c26eea563f67db5994eaf586b62c8f8b8818761aa7fe",
+          "reviewNote": "After polls close, secure against further voting and count without postponement."
+        },
+        {
+          "number": 2,
+          "title": "Reading, verifying and recording machine counters",
+          "bodySha256": "f0f2de8ad6d2c8bd8af65695d4a152d020495a75783d9aaf0624d0838d9860e4",
+          "reviewNote": "Includes counter records produced by machines and two independent recordings."
+        },
+        {
+          "number": 3,
+          "title": "Counting machine write-ins and multiple-seat exceptions",
+          "bodySha256": "1e65d7b5b0e6a5d8b47cf8d024bd5005bf572396a7d4d52bcde2bd1d98ac3056",
+          "reviewNote": "Includes proper place on machine and distinction for candidates already printed on ballot label."
+        },
+        {
+          "number": 4,
+          "title": "Combining totals from multiple machines and write-ins",
+          "bodySha256": "9e1239a5866f67a3add7246591b3f75d150ae4a720956738519b0c9c30ddaf01",
+          "reviewNote": "Finish one machine before next and add write-in totals to machine votes."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all text and notes. Continuous secured-machine count, counter-record options and parallel verification, valid write-in location/multiple-seat exception, and serial machine totals plus write-ins preserved without current-machine-practice assumption."
+    },
+    {
+      "id": "115.491:6181",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.491&bid=6181",
+      "sourceSha256": "810686ac8c23b5f62c7808538f99ebb6bede5ba6ea170ed795d26585a48a7e22",
+      "textSha256": "7e4289c889d770306890bb112c809e4091037593c49df85f0f5ea0f0c006fcce",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Returning ballots, records and supplies after the count",
+          "bodySha256": "6ac5b5ade20aa92aeaad9edefb5c9d5994c8e6cc44b9f3e636273d4069fa7481",
+          "reviewNote": "Bipartisan supervisors, two-hour outside deadline, open authority office and unsealed-container report; express exceptions preserved."
+        },
+        {
+          "number": 2,
+          "title": "Dividing return materials between supervisory judges",
+          "bodySha256": "3dd169cd6459732173aa0645c6c591aa6c13856b68da6b31eff1c4bda526da64",
+          "reviewNote": "Separates ballot container and keys where box used, and assigns parallel tally sheets and returns."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read complete text and notes. Two-hour return maximum subject to express subchapter exceptions, office open until returns, unsealed-container report, and separation of box/keys or containers and records retained."
+    },
+    {
+      "id": "115.495:6183",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.495&bid=6183",
+      "sourceSha256": "1b0083fec00cdaa0dc96b14ab45ef110002499e1d0b407a5e2de7906242dfd3e",
+      "textSha256": "362eaa7f75be692cd84dbba80b275c6ba56b005d631d13341d93d95d06b963ed",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Keeping voting machines secured for contests and investigations",
+          "bodySha256": "847e7c03711c57641fcc300e70b8bf54f5f64b2371559b2e128a6b2e8658b22d",
+          "reviewNote": "Includes filing period, longer need for threatened or pending matters, and permitted court/grand-jury/legislative orders."
+        },
+        {
+          "number": 2,
+          "title": "Securing earlier election data before machine reuse",
+          "bodySha256": "61c4d8901ae9eff927af0dba9a237edf3f89aa1707969d7c3b2e6d09c4aea303",
+          "reviewNote": "Subsequent legally required election allows machine reuse after initial-election data removed and secured."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Securing through contest/investigation periods with specified order exceptions distinct from lawful subsequent-election reuse after removal and securing earlier data."
+    },
+    {
+      "id": "115.499:6185",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.499&bid=6185",
+      "sourceSha256": "83db894a7b778c8459de43c35915f1379a560bc6c60f0061fdb9a60f7ed66a5d",
+      "textSha256": "6031bb03f2d89f8ddbeae5f746ebfd03a7709b78e187a34830c947aad041fd32",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Election commissioners serving as the verification board",
+          "bodySha256": "7646d8c4ed1b5494d630535e3ff72f1d4c1aee47aa903df0fa64ff09d3b6858b",
+          "reviewNote": "Applies where election authority is a commissioners board."
+        },
+        {
+          "number": 2,
+          "title": "County-clerk verification boards and bipartisan appointments",
+          "bodySha256": "b7970b9a93beb99cf0e6f2b8371790ffb54634756b93e38e5416b665e808ea5a",
+          "reviewNote": "Includes additional even-numbered judges, qualifications, party lists, deadlines and fallback appointments."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Commissioner board versus clerk plus bipartisan judges, additional even-number appointments, qualifications, submission/appointment deadlines and party-list fallback retained."
+    },
+    {
+      "id": "115.503:6187",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.503&bid=6187",
+      "sourceSha256": "ef61bc37181a60638dbd2ea5802009efce7dfc551edca5e139ddc7131ccba43f",
+      "textSha256": "fbad0b20afdf2618e0262840be48df6aa2d569a427746af6654bac105fef5406",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Inspecting machine results and preserving certified printouts",
+          "bodySha256": "0cfb72449dd631413a14105f0f5c52b3055d700045e57925cb32dd2dc92c225a",
+          "reviewNote": "Board or bipartisan committee inspection; printed-return exception to counter opening, retention and committee qualifications included."
+        },
+        {
+          "number": 2,
+          "title": "Comparing and correcting machine election returns",
+          "bodySha256": "ee221018e87ebdd8870cdf177c2d5f9a85bbf25b7501666af4ac30c2bbe19226",
+          "reviewNote": "Verification record supersedes inconsistent election-day returns; both retained."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Inspection and printout-based official returns, write-ins, retention, bipartisan committee and corrections superseding election-day returns preserved."
+    },
+    {
+      "id": "115.507:35784",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.507&bid=35784",
+      "sourceSha256": "fbd65f371fc800e32d2823905f8a4de0292bfb66b85722ec8e8594b767de59a8",
+      "textSha256": "cb103ef41db1ee56d4d6c69d15e9bd049725c4f9d1c5f9ce8eda7a71c0115c98",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Announcing and certifying local results with voter privacy",
+          "bodySha256": "8ab49ee8cea334eb3b06e97e75306547fb1de5b5e3a3b9d66f13da4a429c7db1",
+          "reviewNote": "Includes reporting deadline and regular/absentee categories, single-voter disclosure exception and no election-night precinct-absentee mandate."
+        },
+        {
+          "number": 2,
+          "title": "Vote abstracts as the official election returns",
+          "bodySha256": "632eeb890636a1dbc2f98ff73f6b2ff843dcc673d47c8588ccfdd6e8356617bf",
+          "reviewNote": "Abstract includes candidates and questions from state and local entities."
+        },
+        {
+          "number": 3,
+          "title": "Consolidated verification for specified multi-county cities",
+          "bodySha256": "240d4f6239ba7557d32d8b0130540e5d155b5ab18e21d6a9b1324f40a3e25fc8",
+          "reviewNote": "Limited home-rule population and geographic class, ordinance designation, interboard certification and later cumulative announcement."
+        },
+        {
+          "number": 4,
+          "title": "Sending precinct-level abstracts to the secretary of state",
+          "bodySha256": "472ba667eac2b4ebfb83ae3592c27e53ca6dfb791b5fb6fb5537cdf33c0b5710",
+          "reviewNote": "Enumerated offices and statewide questions, deadline and envelope form included; nonexistent original-roll constitutional cross-reference note retained."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Absentee individual-voter privacy exception and reason, no election-night precinct tabulation mandate, official abstracts, optional designated multicounty city verification and distinct deadlines retained. Original-roll nonexistent constitutional sections and merged effective dates preserved."
+    },
+    {
+      "id": "115.511:6192",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.511&bid=6192",
+      "sourceSha256": "524a95ecb0af87b9e3f96d28546cccb9ca6beaa7f346a7caef449f7263010651",
+      "textSha256": "d207665b4445c244cac8027a38db2874467b7e670d1b74fd0069f281ab9bded0",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "State canvass and announcement of primary results",
+          "bodySha256": "23b7b20485cb5ccb6a946a0532e908e9b29aea2301c3473b6e2e4053a7029da2",
+          "reviewNote": "Specified offices and two-week-after-all-abstracts deadline; Black annotation about official announcement retained."
+        },
+        {
+          "number": 2,
+          "title": "State canvass and announcement of general-election results",
+          "bodySha256": "4b4fd22e7be90413c6e0fe7d23f4df9e4f2adc0e766320f3369c935d3224a68b",
+          "reviewNote": "Enumerated offices and judicial retention categories, second Tuesday in December deadline."
+        },
+        {
+          "number": 3,
+          "title": "State canvass and announcement of specified special elections",
+          "bodySha256": "ac2a58df0c865c6c8e12730a12c9c5983c3bb1c7e494b44d1906dbf29e5de639",
+          "reviewNote": "Enumerated offices and initiative/referendum/amendment questions, two-week-after-abstracts timing."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and Black annotation. Primary/general/specified special election scopes and differing announcement deadlines preserved. Annotation on state-board rather than county announcement retained without broader inference."
+    },
+    {
+      "id": "115.515:35785",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.515&bid=35785",
+      "sourceSha256": "6d9f6f40db23007e0da4f15dc31c0aafa50d677d713a25c48bd3febdac7414eb",
+      "textSha256": "3cb02d354244ffb4d0ad77c6ea162ebe6aa3a10a0e5842049b9bc0be1fbc464d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Special primary for tied federal and specified state nominations",
+          "bodySha256": "37795dbb30cc90b25d6f4ad9c808a3952f45217a6ff3ffc2c0d6a58bf57d8ca9",
+          "reviewNote": "Governor proclamation for equal highest votes, fourteen-to-thirty-day timing and candidates stated; judicial exception and original-roll annotation preserved."
+        },
+        {
+          "number": 2,
+          "title": "Special primary for other tied nominations",
+          "bodySha256": "a835577e8b8ebcf5017213d7a6e8aaedda67614cd69517382838e4642393d9a1",
+          "reviewNote": "Filing officer proclamation; party committeeman and committeewoman excluded."
+        },
+        {
+          "number": 3,
+          "title": "Agreed drawing by lot instead of a special primary",
+          "bodySha256": "aa64243f4caff54f5d5e2602b1efe308fcf26763d358605a7931c908c5ac1065",
+          "reviewNote": "Requires tied candidates agreement, advance notice and right to decline participation."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Tied highest vote, distinct governor/filing-officer primary calls, party committee exception,14to30daywindow, and optional agreed lots with notice/decline preserved. Original-roll nonexistent constitutional reference retained."
+    },
+    {
+      "id": "115.517:6196",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.517&bid=6196",
+      "sourceSha256": "725849420cbdd5c387bb9f33371ae2f4547d55f5e293129f02f483c31b7a23bd",
+      "textSha256": "7a7bafb0bccbd56737b71c37521400fa6c5bf77a39d57195060bbc2f2baea2ac",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Legislative choice after tied statewide executive elections",
+          "bodySha256": "eabeef015f5a0f08475085ca9f5f8ff6c6dcd7d9c77f1e09334b1a1cd6d11737",
+          "reviewNote": "Only six listed executive offices, equal highest votes, joint vote and speaker certificate."
+        },
+        {
+          "number": 2,
+          "title": "Special election for tied federal, legislative or circuit-judge races",
+          "bodySha256": "e462e5d69ec84de8345a243ec00d0ede26e8448a30767345464de50328874e04",
+          "reviewNote": "Governor calls election; judicial constitutional exception preserved."
+        },
+        {
+          "number": 3,
+          "title": "Special election for other unresolved nomination or election ties",
+          "bodySha256": "71c195e98115732bc61b75b8f4b48f89f3317d653d9efc25c4255d41824a669b",
+          "reviewNote": "Residual offices not otherwise covered by this section or115.515, with filing-officer proclamation."
+        },
+        {
+          "number": 4,
+          "title": "Agreed drawing by lot as an alternative tie procedure",
+          "bodySha256": "03f7b36aa60c509d9a20d66fcb9c1b1caae7be4af0dd992005896c111c92223d",
+          "reviewNote": "May replace listed procedures only by agreement with advance notice and individual right to decline."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Statewide executive legislative selection differs from special-election regimes; nomination/election residual scope and voluntary agreed lots with five-day notice accurately identified."
+    },
+    {
+      "id": "115.523:6199",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.523&bid=6199",
+      "sourceSha256": "01120a8296eac94430b616097fbf9855927778adbc4d86ceda9166c94cf6fde7",
+      "textSha256": "8c71ab33a7287553742fca9a18b4d8b7feb97208d2e14938f325d64a2afcf8a6",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Issuing nomination certificates after a primary",
+          "bodySha256": "290106127eda5527e8bca102eff9d4801055005530626d85f219022fe93e0192",
+          "reviewNote": "As soon as possible after primary to each person nominated."
+        },
+        {
+          "number": 2,
+          "title": "Issuing election certificates after other elections",
+          "bodySha256": "17710d78150c941fd0e1c94355e1488201106c144f1d5076feef498cfd5cd8ab",
+          "reviewNote": "As soon as possible to each person elected."
+        },
+        {
+          "number": 3,
+          "title": "Officer responsible for issuing certificates",
+          "bodySha256": "255946c9e3b258d6fdf10391b8858c04c2967f88acdda07b2da927bc913366ba",
+          "reviewNote": "Officer responsible for accepting that persons declaration issues certificate."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read complete text and notes. Primary nomination and other election certificates, and responsible filing officer, distinguished."
+    },
+    {
+      "id": "115.526:6201",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.526&bid=6201",
+      "sourceSha256": "07bf92fd69e7946c04f2474ba5ddc294eb35db606215a4429b5febe476f58c3c",
+      "textSha256": "2887a4d6953aac4d0d39a7b26dcd046b91be23a559a5bc620e1bb66b80e44231",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Candidate challenges to rival declarations or qualifications",
+          "bodySha256": "db0a0a6e0f1d6e814899fa69ac6055c4fe4b49f9958ae6c1ec74898bdb080727",
+          "reviewNote": "Same-office candidate standing, verified petition, grounds, facts and appropriate court; cited exceptions retained."
+        },
+        {
+          "number": 2,
+          "title": "Challenge deadlines, later disabilities and answers",
+          "bodySha256": "aa3c31c0eb016ba832f597e87aa746a21722eb48da9040afa745856782a9e536",
+          "reviewNote": "Primary versus general/special deadlines and five-day later-disability discovery rule included."
+        },
+        {
+          "number": 3,
+          "title": "Challenge procedures, court ruling and appeal",
+          "bodySha256": "f324c88aaa22c72863ec2f4168fafdcb39ff7d849f2962aa87d53160ed7c88e1",
+          "reviewNote": "Incorporates applicable contest rules, maps contestant/contestee and allows appeal."
+        },
+        {
+          "number": 4,
+          "title": "Final disqualification and removal from the ballot",
+          "bodySha256": "ba29a39bae81b1cb44ea404f7a9a7b0dcf73ce16630e49b540e96d82760c8d98",
+          "reviewNote": "Final lack of qualifications disqualifies; name-removal rule subject to other-law exceptions."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Same-office candidate standing, verified petition, distinct nomination/general/special deadlines and later disability, applicable contest procedure/appeal and final disqualification with ballot exceptions preserved."
+    },
+    {
+      "id": "115.531:6204",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.531&bid=6204",
+      "sourceSha256": "1135bfb8cc52231b5867fbe02ec4e8c69cec8ad08bfec2b3ca1d7acfd8dd4c3a",
+      "textSha256": "8b042935d4ebf61a4dcca60482bdcfe97c8c34e5d7715425ef328a25508b56d0",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Filing a primary-election contest and scheduling its hearing",
+          "bodySha256": "55eb49c3711b461aec35e367aba9bd9e4ddf453269993ab8981c5967a736bc1f",
+          "reviewNote": "Full venue exceptions, five-day filing and preliminary hearing periods, petition requirements and exclusive jurisdiction read; Black official-announcement note retained."
+        },
+        {
+          "number": 2,
+          "title": "Transfer when a primary contest is filed in the wrong circuit",
+          "bodySha256": "5c2e99e2504206f4857a77abc914b209dba6820ce79babf857cc3a8d24f2c279",
+          "reviewNote": "Incorrect circuit retains jurisdiction for prompt transfer, not dismissal described."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and Black note. Five-day filing and preliminary hearing, irregularity venue and special adjoining circuit for judges, exclusive jurisdiction, wrong-circuit transfer and state announcement annotation retained."
+    },
+    {
+      "id": "115.533:6205",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.533&bid=6205",
+      "sourceSha256": "89011e182c15060b09f09ba4873a47e8b6993b92756ee7e14d6c40cccdd4a18d",
+      "textSha256": "da0fa7ba7a46d8a5c233cd66553a1851c252bcd3e37452b36ba643485f2379a2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Summons and service in a circuit-court primary contest",
+          "bodySha256": "d9d49a27e70cc2f67b62f325b04a17032f72c5f06ca5b3e08183a954e7612b00",
+          "reviewNote": "Includes substitute residence-and-posting procedure if contestee not found within two days."
+        },
+        {
+          "number": 2,
+          "title": "Notifying election officers and suspending action on the office",
+          "bodySha256": "545595985d973b316a7bdca61adc5a913e32b2d08290a835743cf99448a9f1fa",
+          "reviewNote": "Certified petition to result-issuing officer and relevant authorities; suspension tied to office pending contest, not all elections."
+        },
+        {
+          "number": 3,
+          "title": "Answering and challenging votes for the contestant",
+          "bodySha256": "0e2f7ea93c81f8095f5c3a696e2d33887420b5c44475c5070c00eb58e11a7d15",
+          "reviewNote": "Four-day answer period, reasons and facts for contesting opponents votes."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Circuit-court service fallback, notice and suspension of office action, four-day answer and opposing-vote particulars retained."
+    },
+    {
+      "id": "115.541:6209",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.541&bid=6209",
+      "sourceSha256": "47c810260fe94ee10dfba33050cf33e56c9df0c5ac4e626a8c8ac26c144871ef",
+      "textSha256": "ecebd12fb395d1b1f4c18bcd58eed1259dbd473a7bae04f1b8c73d6af705f42c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Recount records, disputed votes and voter qualifications",
+          "bodySha256": "9ace5a9f36b980bbe0059669684b13b6c9601059ddcd1bdacf11a4f0f4148037",
+          "reviewNote": "Includes prima facie register evidence and unregistered voters entitled under115.277; not registered-voters-only rule."
+        },
+        {
+          "number": 2,
+          "title": "Opening, counting and tabulating paper ballots",
+          "bodySha256": "04e959e7319291c2b0bd5a7bd59b9102c72515af73569763a618ee4184db39fd",
+          "reviewNote": "Court tabulates contestant and contestee votes by voting district."
+        },
+        {
+          "number": 3,
+          "title": "Recording machine counters without enabling voting",
+          "bodySha256": "6331c4a450feb8de237b7e5b067ce30ec4ccbf3ae7c8afb9b3319dce9e85d9a0",
+          "reviewNote": "Counters visible without unlocking machine against voting."
+        },
+        {
+          "number": 4,
+          "title": "Testing and recounting ballot-card votes",
+          "bodySha256": "3b27fa2c1975a42c4640ec32ac8ab2b4b911c0bb36064bf90537afe7f3696e7b",
+          "reviewNote": "Automatic or hand count, optional new program and required tests before automatic recount."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Prima facie registration evidence, statutory unregistered-voter exception, paper/machine/card recount differences, tests and optional new program preserved."
+    },
+    {
+      "id": "115.553:6215",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.553&bid=6215",
+      "sourceSha256": "402cefbf4dc6be51bf0793cf8f1f17778841b47d6189d5d6b5f59a4e4975cf63",
+      "textSha256": "8a2b4bd452b92df79525ccdd04b4a3e1ef59185434920025852de5fa44b7c5df",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Candidate challenges to election returns for an office",
+          "bodySha256": "cbaa6214095662a989a2a6c660afec95d99554861df046dd3922f2907f51ab6d",
+          "reviewNote": "Candidate may challenge correctness alleging election irregularities."
+        },
+        {
+          "number": 2,
+          "title": "Registered-voter contests of ballot-question results",
+          "bodySha256": "cc592329b8f10ff2ac8eac6943e35403d9778c975dc60dd39dd8578bcca3611c",
+          "reviewNote": "Area voter standing, contestant/contestee roles and proponents/opponents counsel rights; Dotson prior-litigation caveat retained in notes."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and Dotson annotation. Candidate returns challenge versus local registered-voter ballot-question standing, official contestee and proponents/opponents counsel rights preserved; previously litigated caveat not generalized."
+    },
+    {
+      "id": "115.559:6218",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.559&bid=6218",
+      "sourceSha256": "54803e735318333d0f87c1f20779a3df8c8bae23bca8f1d7a09ad979b6edc797",
+      "textSha256": "9817e46864bb238d067bf1ec7a26ab1289e27fe8dbdd03e5ef9e74541daff2e1",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Supreme-court contest summons and service",
+          "bodySha256": "ee603e561f1080229fba6efa6649a0bc1a83d28b42298c5f622b157c29fcc782",
+          "reviewNote": "Includes substitute service after two days and summons return as court directs."
+        },
+        {
+          "number": 2,
+          "title": "Sending the petition to state and local election officials",
+          "bodySha256": "9b3550318fbcc74f8f33a529c5b9531bd63a5b7e43240cea4540dbe67ea71bcc",
+          "reviewNote": "Certified or registered-mail copies to secretary and authorities where irregularity alleged; no suspension language added from533."
+        },
+        {
+          "number": 3,
+          "title": "Contestee answer and challenges to opposing votes",
+          "bodySha256": "0554b8b4bc6fb88e57e3a95d451b1c450226963b72a7cf61f982a3d59acff94a",
+          "reviewNote": "Fifteen-day period; supplied text says nomination, preserved without attempting repair."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Supreme-court service and election notices, fifteen-day answer and vote challenges distinguished from circuit primary procedures; source nomination wording not repaired."
+    },
+    {
+      "id": "115.561:6219",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.561&bid=6219",
+      "sourceSha256": "38467c5a6366a424cac0f10403ca11ee984da1ab4290d63151e3041b02d9c82e",
+      "textSha256": "c2d933731ba3417bab19d209ffdd63b51070a270a66f5cc012a6934f08c0dbc0",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Appointing a commissioner to take contest testimony",
+          "bodySha256": "105c8ccb002378135f4a065020121d5876abdbbafa9d2f0babc4b35854ea8ecf",
+          "reviewNote": "Court specifies points, facts, places, times and reporting deadline after petition and any answer."
+        },
+        {
+          "number": 2,
+          "title": "Commissioner powers and parties’ examination rights",
+          "bodySha256": "8bccf72088ed9fc9e3f57f8c9eee90bf65472113c9a513715c31f27ad715d27f",
+          "reviewNote": "Includes attendance, cross-examination, order-limited testimony, oaths, depositions, compulsion and civil discovery."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Court-defined points/report timing, commissioner testimony/discovery powers and both parties examination/cross-examination rights preserved."
+    },
+    {
+      "id": "115.563:6220",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.563&bid=6220",
+      "sourceSha256": "9ee5ca98de0fbc78a960b7f8e7056f9ca0bc96b369c563f082eafa24f6873972",
+      "textSha256": "5b71ad78f8a83667cd808d5fc1d6b0650bb70b03ff9d48c84b61e32e27867ab5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Legislative chambers decide their own election contests",
+          "bodySha256": "ce3928962d002363353d45893ce6dada3c081ce4e21aa8ed6ef03047c442c0d0",
+          "reviewNote": "State senate and house determine contests for their respective offices."
+        },
+        {
+          "number": 2,
+          "title": "Unresolved legislative-candidate qualifications after the general election",
+          "bodySha256": "f8800c8f01bdcb6ee90b77ff684738773dc32ae235c38c7753596458c4f1767a",
+          "reviewNote": "Qualifications not adjudicated before general election are determined by the respective chamber."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read complete text and notes. Each legislative chamber decides its own contests and unresolved pre-general-election qualifications; no court procedure substituted."
+    },
+    {
+      "id": "115.567:6222",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.567&bid=6222",
+      "sourceSha256": "e5290bee3a9ecce5c416b847ba4d8aff77aede6346d904d6ebf7744ddb6297b1",
+      "textSha256": "4a9b424ea7f3c041502aaae0d10e1a934f299640f9dcadf0a8ed4e674a0c852f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Serving a legislative-contest petition and deposition notice",
+          "bodySha256": "8fc12a2c4252e5762472ad061a6558c7426652d92f2c0057b4e07b57f1a700c1",
+          "reviewNote": "Includes grounds, witnesses, deposition place/time and residence-plus-posting fallback after two days."
+        },
+        {
+          "number": 2,
+          "title": "Sending petition and notice to election officials",
+          "bodySha256": "ae6cde00c5b0f8dc224586a06057fe1a9b812216097749689e9a241b41676273",
+          "reviewNote": "Transmission at filing to secretary of state and authorities where irregularities alleged."
+        },
+        {
+          "number": 3,
+          "title": "Answering and notifying challenges to the contestant’s votes",
+          "bodySha256": "acdcbbebe57fcb8ef2d687b3e5d3d37fa6dd9b2ecf96e26863aa607ce9e72437",
+          "reviewNote": "Fifteen-day answer, copy to contestant and deposition details for counterchallenge."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Contestee petition/deposition notice, two-day fallback, officials copies, fifteen-day answer and notice of opposing-vote evidence preserved."
+    },
+    {
+      "id": "115.571:6224",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.571&bid=6224",
+      "sourceSha256": "9aab010b36a27fe99e83155ebd9eabcbfbbe0475f6887ada2b766c2b2f4c86c9",
+      "textSha256": "b37e6ad4d7b86e3ae4e7180c46a93e0ceb2a85ca6eede9c5cf8947495f886e8a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Deposition or live testimony before the legislature",
+          "bodySha256": "821af7ecdb587bffce3a1f0a62c2bf6bb31d5104acca4855bec3c907a818a52d",
+          "reviewNote": "Evidence may come from prescribed depositions or subpoenaed personal appearances."
+        },
+        {
+          "number": 2,
+          "title": "Limiting deposition testimony to noticed points",
+          "bodySha256": "a38ada7dc56ffa3c41cf23af02edc40810f95ac2c7ddd78732126f9f31bb5625",
+          "reviewNote": "No unrelated deposition testimony received."
+        },
+        {
+          "number": 3,
+          "title": "Certifying testimony to the legislative presiding officer",
+          "bodySha256": "fd95dc5fd71530139e47d67e4aeea4d7d68a0f64721edb308c7f2fbc51ab5b96",
+          "reviewNote": "Appointed deposition takers certify to senate president or house speaker."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all text and notes. Depositions versus subpoenaed live witnesses, noticed-point limitation for depositions and certification to chamber presiding officers retained."
+    },
+    {
+      "id": "115.575:6226",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.575&bid=6226",
+      "sourceSha256": "a1abb3edb5ad3286c66e9af87ef5291e6ea811a65b2c72df4bc5c0fd4db4068c",
+      "textSha256": "fbfedf1bc7ebc43c8f8571ab0d69281b2a05cc2fb9bc13f4e47238d579f796f9",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Adjoining-circuit venue for specified judicial-election contests",
+          "bodySha256": "e9b60de531d2765e70e717bb9aa6118b2c428c3b7a18cce1a4a79c22c6ad4ec0",
+          "reviewNote": "Covers primary/general, qualifications/irregularities/other grounds and nonautomatic recounts for judges outside cited constitutional plan."
+        },
+        {
+          "number": 2,
+          "title": "Circuit-court venue for other election contests",
+          "bodySha256": "8b766128b40a4b979e3a4359ac4a7b124c4f29a58b14f6a78bf0a92dc1536600",
+          "reviewNote": "Residual offices and questions, occurrence and irregularity requirements, single petition despite multiple counties."
+        },
+        {
+          "number": 3,
+          "title": "Transferring contests filed in the wrong circuit",
+          "bodySha256": "f7d230a76363a47fd481df6bcdcbcc32474bac82e1801f2a9b838babe094571e",
+          "reviewNote": "Incorrect circuit has jurisdiction and must promptly transfer."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Adjoining-circuit judicial contest requirement excludes specified constitutional judges and automatic recount; residual circuit venue, single petition and wrong-circuit transfer preserved."
+    },
+    {
+      "id": "115.579:6228",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.579&bid=6228",
+      "sourceSha256": "1aff736386cfb2e30abf318f77327ddb078c807ec7116c044109afb24ebbab4a",
+      "textSha256": "71dde18277006b585ce8c7c6450bab2bcde32c1f657f6f39526239eea80f8833",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Circuit-court summons and service in election contests",
+          "bodySha256": "d9d49a27e70cc2f67b62f325b04a17032f72c5f06ca5b3e08183a954e7612b00",
+          "reviewNote": "Includes residence-plus-posting service if contestee not found within two days."
+        },
+        {
+          "number": 2,
+          "title": "Notifying the result-issuing and other election authorities",
+          "bodySha256": "da6283702b8965b57da97da622b8269e49d182bf438b8efd805f4e5f7c32a659",
+          "reviewNote": "Certified petition by specified mail; no suspension requirement imported from primary-contest provision."
+        },
+        {
+          "number": 3,
+          "title": "Answering and contesting votes for the opposing party",
+          "bodySha256": "0554b8b4bc6fb88e57e3a95d451b1c450226963b72a7cf61f982a3d59acff94a",
+          "reviewNote": "Fifteen-day answer and factual counterchallenge; source says nomination, not silently revised."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Circuit-court summons fallback, notice to election authorities and fifteen-day answer plus opposing-vote challenge preserved; source nomination wording unchanged."
+    },
+    {
+      "id": "115.585:6231",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.585&bid=6231",
+      "sourceSha256": "b8a1ef6165d226d6036a88f80bb393b1271cf0f9c8d1ca7df51f2e05ce00fa9a",
+      "textSha256": "094ba8e976b1512af1854e8f0b097a82ac45b03d05259a2a26152804c2d6babc",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Ordering and scheduling recount preparations",
+          "bodySha256": "c431373e06f0a603edb5a8a1752fde9b5cea07ade777f541dd30d3ea46766c8d",
+          "reviewNote": "Court or legislative writ, sheriff service, twenty-day preparation limit and notice of selected day."
+        },
+        {
+          "number": 2,
+          "title": "Deciding disputed votes and voter qualifications",
+          "bodySha256": "3cb9b8ca2db40315aa477ae7dbff4c5a8ea57ac1ddbaa6b85a91d1db090e6275",
+          "reviewNote": "Preserves prima facie register proof, comparison and expressly entitled unregistered voters under both cited provisions."
+        },
+        {
+          "number": 3,
+          "title": "Recounting and tabulating paper ballots",
+          "bodySha256": "2c545110276e1bec31dcf36a0a7dea274f907b85024cda3d5e9066910144cd0c",
+          "reviewNote": "Court or legislative body counts and tabulates contestant and contestee by voting district."
+        },
+        {
+          "number": 4,
+          "title": "Reading machine counters without reopening voting",
+          "bodySha256": "3178087136c5dc2fb2730f1161765617602789392e916a863235413038a3b6fe",
+          "reviewNote": "Counters made visible but machine not unlocked against voting."
+        },
+        {
+          "number": 5,
+          "title": "Testing and recounting ballot cards",
+          "bodySha256": "2efb981f59deba9e25e8fe62e2a078b1b620119b749394c37bdb9431d92086bf",
+          "reviewNote": "Automatic or hand recount, optional replacement computer program and prior testing."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Writ/service and twenty-day preparation, specified registration exceptions and prima facie register evidence, separate paper/machine/card recount procedures and testing preserved."
+    },
+    {
+      "id": "115.595:6236",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.595&bid=6236",
+      "sourceSha256": "f88c83d833bb9d4dee5bbf1e1ccabf4b3d6f3036b67e7444a95b50617c0d9cc1",
+      "textSha256": "bbd7e3ccfdb47d2cfc4968298f6aafd71c9dbed645d89fa4531285a6d467a318",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Holding office during a contest and transferring it after decision",
+          "bodySha256": "b772205684323172ddbe8d684252ba4a0fa4d02d32f59ba3b59b97406d987575",
+          "reviewNote": "Certificate holder may serve pending decision; includes surrender of records/property, enforcement and vacancy if winner cannot serve."
+        },
+        {
+          "number": 2,
+          "title": "Effect of a pending contest on ballot-question results",
+          "bodySha256": "584b4684537e3fb7bac5c1ec7c291538260422f41fb849a9179a4bb53020833e",
+          "reviewNote": "Official returns govern pending decision; ultimate change effective at later of decision or otherwise applicable approval date."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Certificate holder may serve pending contest, compelled transfer/property delivery and potential vacancy, ballot-question status pending outcome and later-of effective decision preserved."
+    },
+    {
+      "id": "115.601:6240",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.601&bid=6240",
+      "sourceSha256": "3f67ce39f9b7d370031d1c83efd708e0d363d577a4953620cbeaf79392a42a1c",
+      "textSha256": "86eef6212312adb7966691f584c22651edaf54a4c8d6b159b80ed52874b74bc5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Recount entitlement under the one-percent contest provision",
+          "bodySha256": "0475a3151e7cab010703cdfdbaed203ba7c51e028799ceaafffe7e455ccdd7d5",
+          "reviewNote": "Body expressly says less than one percent, with multi-seat wording and question contestants; heading says half percent, not silently reconciled."
+        },
+        {
+          "number": 2,
+          "title": "Court-directed recounts for locally filed races or questions",
+          "bodySha256": "f6cd466ae85823cbd41495d9b14413a16559383b8b3a55c2271684d995832e9b",
+          "reviewNote": "Uses cited contest request and court/commissioner direction."
+        },
+        {
+          "number": 3,
+          "title": "Secretary-of-state recount requests under the half-percent provision",
+          "bodySha256": "3cd32dc5ce41ec492e1cb2307d115ca539cd8d5324d9eededb0ca3ef785f875c",
+          "reviewNote": "Separately states less than half percent, seven-day request and twenty-day certification timing; distinct from subsection1."
+        },
+        {
+          "number": 4,
+          "title": "Staffing, observation and reports for state-supervised recounts",
+          "bodySha256": "55a90f02ea36720a8148993aff06964dd5a27f9005f0df95ad19d25cb40a8f72",
+          "reviewNote": "Complete qualification, balanced appointment, pay, oath, restricted attendance, sworn observers and evidentiary report provisions read."
+        },
+        {
+          "number": 5,
+          "title": "Definition of recount",
+          "bodySha256": "9947da095bcf8f2a169617f485475ada9512947195fe8081a20ad3feb8d6b821",
+          "reviewNote": "One additional counting of all votes previously counted for the office or question, not an open-ended series."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all full text and notes. Subsection1 one-percent entitlement differs from official half-percent heading and subsection3 half-percent secretary-of-state requests; no harmonization. Local filing court route, seven-day request/twenty-day certification, balanced disinterested staffing, restricted observers/oath/report evidentiary status, and one additional count definition preserved."
+    },
+    {
+      "id": "115.607:33214",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.607&bid=33214",
+      "sourceSha256": "06d05d597053add1e902bba851a1d4eb7a4dc3ca57dca00342152c4144aac564",
+      "textSha256": "c15570bfb94c6c45834e374a3767f6ed36e14a77f147976aacc95ad1b41fa4d9",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Local party-committee eligibility and general membership",
+          "bodySha256": "95cdbb464faf5f4da7ba3e3c31f0c19d948b3feef032c3a3b90c851a151219f4",
+          "reviewNote": "One-year voter/residency requirements including predecessor districts; general man-and-woman representation subject to listed exceptions. Tompras annotation retained."
+        },
+        {
+          "number": 2,
+          "title": "Committee seats in counties containing most of a large city",
+          "bodySha256": "b44fc85040b78f874b841592323389bf356672d6c2535e0bec6ddc264ca46208",
+          "reviewNote": "Specific county/city class, city wards and outside township/subdistrict allocations, timing and numbering read."
+        },
+        {
+          "number": 3,
+          "title": "Ward redistricting in specified large-city areas",
+          "bodySha256": "7b6d1c371f730d715b4735ff061f1d58b9d3ddfb56e3b21a67ec4395763652da",
+          "reviewNote": "Charter-county major-portion criteria, twenty-four-to-twenty-five wards and five-percent population variation preserved."
+        },
+        {
+          "number": 4,
+          "title": "Committee districts in counties containing part of a large city",
+          "bodySha256": "f7262445d733361fa4e2a84c4f601f5af903f645e2ce51107194dc35edd77471",
+          "reviewNote": "Specific minority-portion class, legislative districts, allocation and equal-population compactness rules included."
+        },
+        {
+          "number": 5,
+          "title": "Ward representation in cities outside counties",
+          "bodySha256": "36b083a262728536226cb292ca3259bd8da92a54d77151a9a41d720ed0cb1dc4",
+          "reviewNote": "One man and one woman per ward."
+        },
+        {
+          "number": 6,
+          "title": "Township representation in large charter counties",
+          "bodySha256": "8c790f122bddbb6218e3c73d6db091dd724b56fe156419aa42def308effafdd0",
+          "reviewNote": "Over-nine-hundred-thousand class, twenty-eight townships and historic and recurring redistricting deadlines."
+        },
+        {
+          "number": 7,
+          "title": "Backup reapportionment and incumbent term protection",
+          "bodySha256": "0f0e01ea3d8b78a2a5d2d33cd67bb3a7bf087bcf9f8184eb8a44e47a2404db23",
+          "reviewNote": "County commission acts on missed deadline; boundary changes do not affect incumbent terms."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full nested composition rules and Tompras note. One-year voter/residence eligibility, different large-city/county/township allocations and reapportionment deadlines, fallback commission and incumbent term protection preserved. Case annotation retained without new enforceability inference."
+    },
+    {
+      "id": "115.611:33216",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.611&bid=33216",
+      "sourceSha256": "93e1eeadeea7ca67bbc94d1f8aee7f2e6f7c6385b9096d96b4be2b9519e1500c",
+      "textSha256": "97245fa56e4b0a79f9e33e9e7ff7526dbe2e334ddf2bce56d6ae967af7ecc6f8",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Filing for county or city party-committee positions",
+          "bodySha256": "3462984c5a0325d59f41d7acc3ab3491d87cf0ac70461b9daf334376528db06b",
+          "reviewNote": "Registered voter filing route and required fee, subject to115.613(4)."
+        },
+        {
+          "number": 2,
+          "title": "Committee-candidate fees and payment recipients",
+          "bodySha256": "bb736b4b4c2c8b617822009143e82489ab2c238cf8f412b6cd645a23c1cfb1cd",
+          "reviewNote": "Different population classes and no-fee remainder; permitted authority forwarding to party treasurer."
+        },
+        {
+          "number": 3,
+          "title": "Fee waiver through declaration and petition",
+          "bodySha256": "5a74e76d2af480bdfd84261c2226c5b30401985874bc9f80492a2f2a79a5b509",
+          "reviewNote": "Applies inability-to-pay procedures under115.357, not a declaration alone."
+        },
+        {
+          "number": 4,
+          "title": "Filing deadline for committee candidates",
+          "bodySha256": "4571c624faf653f543f271c737f0dca25157411187a5c26bece50a7cfab0bcc0",
+          "reviewNote": "Last Tuesday in March at5p.m. before primary, proper authority required."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Declaration and fee regimes differ by location, poverty declaration/petition waiver and lastTuesdayMarch5pmdeadline preserved."
+    },
+    {
+      "id": "115.613:33217",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.613&bid=33217",
+      "sourceSha256": "e915529d3beaad91df8a350c45d90776806304dc5332072b7fa525d8e4c20c3a",
+      "textSha256": "bddd97c39aa28fddd18389bbf6a89beb9b010cc0e35745503242fd8ec26cf665",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Highest-vote committee candidates and the no-election exception",
+          "bodySha256": "c665a6fe082b8cc516667cd89983b16b890b7455cc99945fc563688395ebffb0",
+          "reviewNote": "Qualified man and woman, subject to subsection4."
+        },
+        {
+          "number": 2,
+          "title": "Filling a committee vacancy created by a tie",
+          "bodySha256": "3e4a3d8d3da2f2689920451bd88e82f29b3b78897d97b7d086f92e56c7821be8",
+          "reviewNote": "Equal highest qualified vote produces vacancy filled by committee majority, not automatic runoff."
+        },
+        {
+          "number": 3,
+          "title": "Vacancy when no qualified committee member is elected",
+          "bodySha256": "8d6cda358684179d29985d3a2ae1536b0632464529627f523ed736f46bed5b7f",
+          "reviewNote": "Committee majority fills under115.617."
+        },
+        {
+          "number": 4,
+          "title": "No election for unopposed or absent candidates in no-fee districts",
+          "bodySha256": "bfdc9303a4eca2d2ee6e6256761a33e1d39baa8ad9e3dd5701ef2627a184fa0a",
+          "reviewNote": "Limited to no-filing-fee jurisdictions; lone qualified filer certified, none creates vacancy."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Qualified highest-vote members, tied/no-qualified-person vacancies, and no-election rule limited to no-fee districts with sole/no candidate preserved."
+    },
+    {
+      "id": "115.619:33219",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.619&bid=33219",
+      "sourceSha256": "9c14abc7dc95d3520c5d7e2c7fb32ee13d2a626f859ff751a321deaf0260a710",
+      "textSha256": "37b22619df54683c0ad5297bd494fb0873768a28c49af9aa9fbb8a34d21c4db8",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Legislative-district committee membership, officers and voting",
+          "bodySha256": "f8fd85067e69e412603c86d1c82257978e00e41111f78a33631da0b1fa12843c",
+          "reviewNote": "Includes whole/partial precincts, paired-gender offices and optional state-committee proxy/weighted voting."
+        },
+        {
+          "number": 2,
+          "title": "District committees whose areas include whole counties",
+          "bodySha256": "16e868167679f651606ad075c747d5686598b683e637ae4a593608a960a56529",
+          "reviewNote": "Congressional/senatorial/judicial committees; whole counties with or without partial counties and the named county/district members."
+        },
+        {
+          "number": 3,
+          "title": "District committees covering partial counties or independent cities",
+          "bodySha256": "a30b6b2b7b5af60b51aed4399c4d253850b3fb3b61718e90144882bf7dbec33e",
+          "reviewNote": "Four enumerated geographic categories and precinct/ward/township plus legislative-district chairs membership."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full nested committee composition and notes. Legislative committee roles/proxy authority distinct from whole-county and partial-county/independent-city district membership."
+    },
+    {
+      "id": "115.621:48338",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.621&bid=48338",
+      "sourceSha256": "27ecf1dcbc8b7670a658abc6ec7c13e5685384b9065993e93d22b3e076dd55a9",
+      "textSha256": "62d1ae883dc18d9c762cc3b417dd46dec8d19c9b00d1436c9fcafc9c13e93f1a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Option for wholly local district committees to meet together",
+          "bodySha256": "4f5da82b0b2d3668f2b2dd95f6581a68362188bdd3092034a10958a7cdcbd7d3",
+          "reviewNote": "Legislative, senatorial or judicial committees wholly within county or independent city may use local-committee meeting day."
+        },
+        {
+          "number": 2,
+          "title": "County and city committee meetings and organization",
+          "bodySha256": "1df05ea64fa25b72fbc6ba784c3b7bafee2318c00208c6d4dc930a8106f2acd9",
+          "reviewNote": "Full timing, locations, specified free public facilities and officer selection read."
+        },
+        {
+          "number": 3,
+          "title": "Congressional committee meetings and organization",
+          "bodySha256": "df727a77c3da36861985bc117b94a3e2fb13cbcb8f5b45fd6f4fbcc4fceb65ad",
+          "reviewNote": "Five-to-six-week timing window, designated location, free courthouse and officers."
+        },
+        {
+          "number": 4,
+          "title": "Legislative committee meetings and organization",
+          "bodySha256": "a50f34675fcdddef68c36b75fbe9f69a6d75b9fa8222a6586f3101b64a162c34",
+          "reviewNote": "Three-to-four-week timing, district or containing county venue, free courthouse and officers."
+        },
+        {
+          "number": 5,
+          "title": "Senatorial committee meetings and organization",
+          "bodySha256": "da3fa08af4ead056bee041c8a64e3039d6c2ff64a518205e5d4b3bce257a83d3",
+          "reviewNote": "Four-to-five-week timing, alternative designating chair, free courthouse and officers."
+        },
+        {
+          "number": 6,
+          "title": "Senatorial-district selection of state committee members",
+          "bodySha256": "85e56eecf26620214c7cfeb3586375595d9969952b898180aa926d8769960356",
+          "reviewNote": "Saturday after general election or authorized concurrent officer election; district registered-voter man/woman pair."
+        },
+        {
+          "number": 7,
+          "title": "Judicial committee meetings and organization",
+          "bodySha256": "6786449c4323e4f424fd85e8b9dd06fb2ed4fb8b22743b1f6ddf79eb6f890d56",
+          "reviewNote": "Source says may meet, with timing, venue, free courthouse and paired officer requirements if meeting."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Local co-meeting option, separate postprimary timing windows and venues, officer membership rules, free facilities, state-committee selection alternate timing and discretionary judicial meeting retained."
+    },
+    {
+      "id": "115.628:51458",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.628&bid=51458",
+      "sourceSha256": "a7d82da1416176758fef894bcafcba323f1daeb41460f9115afc7f0049c42d9a",
+      "textSha256": "bebd908445a5f52ab5f2ae5f72d7a519f254e3e1deddbf475841f0d89d443d27",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Maintaining voter registration records",
+          "bodySha256": "faa732475b42605d023a1aa4b6b8c8a5dab5c8306ada315bb0a371cd7254ed27",
+          "reviewNote": "Secretary uses Missouri voter registration system."
+        },
+        {
+          "number": 2,
+          "title": "Party-affiliation notices in mailings before January 2025",
+          "bodySha256": "dda6639b193621702138735e9442d75b16d0589e66e44ad96b5636cf1bdb3259",
+          "reviewNote": "Historical mailing window retained, not phrased as indefinite present obligation."
+        },
+        {
+          "number": 3,
+          "title": "Party-affiliation choice on registration forms from January 2023",
+          "bodySha256": "59d10f505a6d276f335d63df37e13f16856c28e447124f7eea97d9d6bf3d9e45",
+          "reviewNote": "Express January1,2023 commencement retained."
+        },
+        {
+          "number": 4,
+          "title": "Declaring party affiliation at election check-in",
+          "bodySha256": "30b887c32ee688eadeda62fa36b4e3b916ccb9ded2ce0f96558e62a410808539",
+          "reviewNote": "January2023start, software or signed-paper route and normal administrative processing."
+        },
+        {
+          "number": 5,
+          "title": "Preserving existing voter-registration processes",
+          "bodySha256": "582f4bf1c06ad58044c8cd1226cd2fb192277acb57dc8a56db3ab62afd0a54a9",
+          "reviewNote": "County registration processes remain in place; not a claim that every election procedure is unchanged."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read complete text and notes.2025mailing cutoff and2023form/check-in start dates retained, with paper alternative and existing registration processes preserved."
+    },
+    {
+      "id": "115.639:6261",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.639&bid=6261",
+      "sourceSha256": "72c6fd2f580beaa7b6c28b7a32c69fc7e3bd8a2d001982bff180840c34c57e31",
+      "textSha256": "6bdfb39b166c94ef95c1531c4fed482c04f3eccfad30613c4eb7937734f9ea87",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conditional time off to vote and employment protections",
+          "bodySha256": "2a3c9f515854d0c6d14f49449993db44e8dbc66319da30c4a3d9b085bc163293",
+          "reviewNote": "Prior request, actual-voting pay condition, three successive free hours exception and employer-selected time window all retained."
+        },
+        {
+          "number": 2,
+          "title": "Employer violations as class-four election offenses",
+          "bodySha256": "bcfa159c1d06c5916e5b5d10f362f2f924f464513998134ec24c33fe90b30d98",
+          "reviewNote": "Classification for violating this section, not all workplace voting disputes."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Three-hour leave conditional on advance request and absence of three successive off-duty poll hours; employer timing choice and voting condition for pay/discipline protection preserved."
+    },
+    {
+      "id": "115.642:48339",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.642&bid=48339",
+      "sourceSha256": "47aca247a160203da5e523b5ad1e7bc113886759ce88891479ec889710f0d0af",
+      "textSha256": "83717d15a363b0c9d36c2561c4010b86f8f5262102fc5fe160d24c15295e328c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Sworn complaints of specified election offenses",
+          "bodySha256": "9c27b256fdcd8f580a40c332f479dab2fe5f2466faf5ebf5d7471574b043189b",
+          "reviewNote": "Any person may complain, identifying alleged violator and facts under perjury penalty; limited cited offense range."
+        },
+        {
+          "number": 2,
+          "title": "Complaint review, frivolous-complaint liability and referral",
+          "bodySha256": "195a8dcef7625b5807da3a2034ff6b59e497f6fef9ce78efd65ab50079e01c8e",
+          "reviewNote": "Thirty-day notice, dismissal, damages definition, probable-cause statement and discretionary referral included."
+        },
+        {
+          "number": 3,
+          "title": "Requested assistance to local prosecutors",
+          "bodySha256": "23717466d93911472f2aace50f5c8ff64c1bd84b074900cfad797bab4671b4ec",
+          "reviewNote": "Secretary assistance depends on prosecuting or circuit attorney request."
+        },
+        {
+          "number": 4,
+          "title": "Investigations and the August 2025 subpoena-power sunset",
+          "bodySha256": "29e4a104bf35d64d5be9651097124f39bcbd1444db85ad231be03044e9b9cb66",
+          "reviewNote": "Investigative authority plus separately time-limited record production, written direction, court enforcement and contempt; exact subdivision expiry note preserved, not presented as continuing unlimited subpoena power."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and explicit sunset note. Sworn complaints,30daynotice, frivolous complaint damages, probable-cause referral and requested prosecutor aid distinguished. Investigation authority remains text separate from subsection4(2)subpoena authority expressly expiringAugust28,2025."
+    },
+    {
+      "id": "115.655:6266",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.655&bid=6266",
+      "sourceSha256": "6b93a452f9cc283da4721a632de3d6bbb4b421e7c56a88b69c104b23faf0cb60",
+      "textSha256": "256fc820af7e2ff540a8d2601e36e54282b5d102aa2dbdb986525b6361b25ae3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Delivering mail-election ballots and instructions",
+          "bodySha256": "e7d0f537f6e523436e04e73a81d0a2a5726a0a9b1f5791dda3bc8c90a0fc280b",
+          "reviewNote": "Mail-in process under115.650–660, not universal absentee delivery; mailed or bipartisan residence delivery, envelopes and instructions."
+        },
+        {
+          "number": 2,
+          "title": "Marking, sealing and returning mail-election ballots",
+          "bodySha256": "f42f4d4fd0fd1f2a09217e7ddc9049a73e978f76dd969c9bfda7f7640d2f327c",
+          "reviewNote": "Nested secrecy and signed identification envelopes, mail or personal office return."
+        },
+        {
+          "number": 3,
+          "title": "Additional return sites and optional return postage",
+          "bodySha256": "8e0f608385e1252f1e22c1163b7f610118ddd8b16f80423abee93e6e052b2c97",
+          "reviewNote": "Authority may provide either; no inference permitting drop boxes for all absentee elections."
+        },
+        {
+          "number": 4,
+          "title": "Return-envelope declaration form",
+          "bodySha256": "7ba1a02c9dc1e34d2677d773eedf39d9f435910a90f657276c1431cde7689d50",
+          "reviewNote": "Complete qualification, no-double-voting and information-required declaration read."
+        },
+        {
+          "number": 5,
+          "title": "Replacement ballots and application deadlines",
+          "bodySha256": "9f86c2ddb62d65098e8e1d47bb7f7bb89a3d45c834bbe1a5f9c9560b2a00851a",
+          "reviewNote": "Destruction, spoilage, loss or nonreceipt; oath, noon election-day statement and earlier mailing cutoff, delivery and record."
+        },
+        {
+          "number": 6,
+          "title": "Receipt, signature verification and mail-election counting",
+          "bodySha256": "4050d038b8483c2b3e04bd252860321bde02a402ab1f0a6f7f3c0570109f1454",
+          "reviewNote": "Full7p.m.return rule, bipartisan teams, envelope integrity, possible early verification, election-day counting and no early results release."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read complete text including return declaration and notes. Specific115.650to660mail-election scope, mailing or bipartisan delivery, double envelopes, signed return, optional sites/postage, replacement deadlines,7pmreceipt/signature verification/secrecy and no early release of results preserved; not generalized absentee instructions."
+    },
+    {
+      "id": "115.658:6267",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.658&bid=6267",
+      "sourceSha256": "ebb0919b3c53f005958162a28e3254ac4ef21309b82a5da3573a0a0d500c1cbe",
+      "textSha256": "694d3ea662dd8e01bc36f6890740cec98567b6a0cff278e84d364b7cfba27f90",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Absentee voting in the specified mail-in elections",
+          "bodySha256": "70b5e5cd726edfab263e49ffde1323b142fff5f44b594564726034ed4872ed08",
+          "reviewNote": "References115.650–660 and ordinary chapter absentee requirements; not a general expansion of eligibility."
+        },
+        {
+          "number": 2,
+          "title": "Registered-voter contests of mail-in election results",
+          "bodySha256": "219dc57b33472f2930bca466b29ad0e9a68799a0e07868e15ce99f51570b9018",
+          "reviewNote": "Voters of subdivision may contest under chapter procedures."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Absentee voting and registered-voter contest concern specific mail-in elections and retain general chapter procedure crossreferences."
+    },
+    {
+      "id": "115.801:6279",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.801&bid=6279",
+      "sourceSha256": "11037b1dd0ec3638043599bf226f832ac8dadacbf10b59b215d76a132f569282",
+      "textSha256": "53f84b3aedee8499587cc2657106dedeeb5cdce1b597783c14239addb758bbb1",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Youth voting aid subject to federal appropriation",
+          "bodySha256": "700632f021dac9802ea4287686f6e40c8730ce9297271e14fa411cc6bcf0d33e",
+          "reviewNote": "Secretary grant/loan/aid administration and optional rules; federal-funds condition retained."
+        },
+        {
+          "number": 2,
+          "title": "Aid for improving federal election administration",
+          "bodySha256": "957aa801ff3e0a3e9bb744edfa4b021cbd7e0c76081c75f631d43c4157e02597",
+          "reviewNote": "Assistance allows local authorities to receive federal grants and permits rules."
+        },
+        {
+          "number": 3,
+          "title": "Rulemaking requirements and nonseverability",
+          "bodySha256": "751142e2899289f96a7b8e61bac83cdcfe8e61ced889a79c96f79ccf2e68dedf",
+          "reviewNote": "Chapter536compliance and conditional invalidation of rulemaking authority preserved."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Youth aid appropriation condition and election-authority federal grants distinct; optional rulemaking and nonseverability retained."
+    },
+    {
+      "id": "115.906:6283",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.906&bid=6283",
+      "sourceSha256": "0f585ca95b62d2e4091db4e0237d514447ee6c019d9ea70d6ace8c402e20f77e",
+      "textSha256": "3014a74b4cb25dd652eba05d418052a3aa7563089d09f752d1736c10c17dbe1d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "State responsibility for military and overseas voting laws",
+          "bodySha256": "aff4dc41ee3e62afca66425d55cb7f1654862a37ae9b5534402b35fc05e3b96d",
+          "reviewNote": "Secretary implements cited Missouri provisions and federal UOCAVA; historic federal citation preserved."
+        },
+        {
+          "number": 2,
+          "title": "Registration and voting information for covered voters",
+          "bodySha256": "53df1208ee16ea7d092e1cdb66834f4bd1d35240ba1a43ba06e884d99bcee3b7",
+          "reviewNote": "Includes limited delegation to the designated state office."
+        },
+        {
+          "number": 3,
+          "title": "Electronic applications and receipt of voting materials",
+          "bodySha256": "138c9d99fad0566d34828dfa107eb8ff2ba99cdc4cbfba377d5e4da4893c7f0b",
+          "reviewNote": "Applies to requests and receipt, not a general authorization for returning voted ballots electronically."
+        },
+        {
+          "number": 4,
+          "title": "Standardized military-overseas voting materials",
+          "bodySha256": "1e432607652a222b8a3c6c99c59bfe192e2ddb9d3ca9eeeda49e80ce3032cc0a",
+          "reviewNote": "Privacy/transmission envelopes, authentication and instructions; interstate coordination when reasonably possible."
+        },
+        {
+          "number": 5,
+          "title": "Covered-voter declaration contents and placement",
+          "bodySha256": "ce1cf2b05c983c9e1f4a2338173d4ca0c8d9e262cc2e2dd612e757813efe836a",
+          "reviewNote": "Identity, eligibility, status and timely proper completion; based on federal write-in declaration and prominent execution-date form."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all text and notes. Covered-voter scope, restricted information delegation, electronic receipt of materials not a general electronic ballot-return claim, standardization/coordination and prominent sworn declaration accurately identified."
+    },
+    {
+      "id": "115.908:6284",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.908&bid=6284",
+      "sourceSha256": "e55ba2fdff4f55285feba87b942593b81e7db565f26dee33e26fb80613048262",
+      "textSha256": "b8235dc43b3989e4c420fb907700df3ffb85fbec7cf7fb1a9e0a0e5c646b6a48",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Using a federal postcard application to register",
+          "bodySha256": "2f6ce1130158165010b80add6ec362edfeaad01d8414abf9be3befb7e563138a",
+          "reviewNote": "Covered voters may use paper or electronic equivalent in addition to approved methods."
+        },
+        {
+          "number": 2,
+          "title": "Registration through a federal write-in ballot declaration",
+          "bodySha256": "05aa3f547aa0745a95d00f6d4b0d3044fc8693ff1a595935554088fb41b41114",
+          "reviewNote": "Fourth-Tuesday5p.m.receipt deadline for that election; later receipt becomes subsequent-election application."
+        },
+        {
+          "number": 3,
+          "title": "Electronic acceptance of covered-voter registration applications",
+          "bodySha256": "152a512d968221503bf3dbd3b70454afa6fd7a5f6899c727577bfc3d578cc66d",
+          "reviewNote": "System accepts postcard and other approved electronic applications; original-roll subsection reference note retained."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and original-roll note. Covered-voter postcard/equivalent registration, fourthTuesday5pmdeclaration deadline and later-election treatment, and electronic acceptance distinguished from ballot application deadlines."
+    },
+    {
+      "id": "115.910:35791",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.910&bid=35791",
+      "sourceSha256": "7e36e4171943eb5fb7dadc536f65b1e2c06ac2975686db1577962fc96cce11dd",
+      "textSha256": "57cafc28f5c85964ec51014c00eccb79b7374d53ece9bf05bd5685e4c7a54ea1",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Ballot applications for registered covered voters",
+          "bodySha256": "2e3105b6632a09cdf670d76ac1d9bde4211e9e2ca0a1879368cf5e0d34869ca9",
+          "reviewNote": "Absentee application or federal postcard/electronic equivalent."
+        },
+        {
+          "number": 2,
+          "title": "Applying together for registration and a military-overseas ballot",
+          "bodySha256": "305bdc1387d13aa077a2d06df8c49bdae4d47668aa22764caaf5703db6efbee4",
+          "reviewNote": "Unregistered covered voter uses postcard or electronic equivalent under115.908."
+        },
+        {
+          "number": 3,
+          "title": "Electronic submission of military-overseas ballot applications",
+          "bodySha256": "08cf2822552a2a746924985041e0906714af97d1cfff2049328cd5a1ae825bd9",
+          "reviewNote": "Approved application system and other methods; does not authorize every electronic voted-ballot return."
+        },
+        {
+          "number": 4,
+          "title": "Ballot applications through federal write-in declarations",
+          "bodySha256": "457b2a51a955eafefe91c337042ea5b987f19112fc778ac7078994431a268358",
+          "reviewNote": "Second-Wednesday5p.m.receipt cutoff for simultaneous application; distinct from registration deadline."
+        },
+        {
+          "number": 5,
+          "title": "Notifying the election authority of covered-voter status",
+          "bodySha256": "936fb6f8b3f8e78429a4f61aa41fe2e3c15627a0f8762d8af1ac137546d8e360",
+          "reviewNote": "Lists postcard/write-in, overseas address and other identifying information routes."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and effective date. Registered/unregistered covered-voter application paths, electronic submission, secondWednesday5pmdeclaration ballot-application cutoff, and covered-status notice methods preserved."
+    },
+    {
+      "id": "115.914:6287",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.914&bid=6287",
+      "sourceSha256": "aa6dcc5fbe603446ab414ea71b1e4979bcdc00bf868428d1d7eb2f6f35b98095",
+      "textSha256": "1028fad8b62b4984672a98fec4c1b9dfee2e3fdd56c476b5f5f7ed3e57b99f0b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Advance transmission deadline for military-overseas ballots",
+          "bodySha256": "9875c26af1de4df0daa33486706ef6ca073dbfb5a35cb20a92df9088a1a44eb2",
+          "reviewNote": "Forty-five-day rule with preceding-business-day adjustment, valid applications by then and federal-waiver exception."
+        },
+        {
+          "number": 2,
+          "title": "Voter choice of electronic ballot-delivery method",
+          "bodySha256": "12b5c341bc13a790c9ea9205c19ff0249953c7385b0a042c78fa4f215753f962",
+          "reviewNote": "Fax or email, internet only if offered; this is transmission to voter."
+        },
+        {
+          "number": 3,
+          "title": "Sending ballots after later applications arrive",
+          "bodySha256": "2d1da3a49dd280cb30f92cabbbf41ace102f0487cad33ea49f2333956cb196e5",
+          "reviewNote": "No later than two business days after application when transmitting already begun."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes.45daydelivery deadline qualified by federal waiver and weekend/holiday adjustment, choice of delivery medium including conditional internet availability, two-business-daylaterapplication transmission preserved; delivery not ballot return."
+    },
+    {
+      "id": "115.920:6290",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.920&bid=6290",
+      "sourceSha256": "daf4b1cac29da06730415378cecc096392a9c3c08f05c81af9e5544b66c228d7",
+      "textSha256": "a68a9e21721ecba2d65a4fd9c1a82831d9bc1bc5e2bea5cac62f01d644f61ece",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Post-election receipt deadline for qualifying military-overseas ballots",
+          "bodySha256": "64147de88a38331488eec20160826e72a5d2cab25a7a45702c6b8af6986c2002",
+          "reviewNote": "Before Friday noon, with valid timely casting under115.916; does not extend casting deadline. Source codification note retained."
+        },
+        {
+          "number": 2,
+          "title": "Timely-submission declaration and postmark defects",
+          "bodySha256": "8c9246aa59ac53ef72e3ab4198c2a03d81af6531c5a0455e4fb35907748740d9",
+          "reviewNote": "Perjury declaration at completion protects against rejection solely for late, unreadable or missing postmark."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and corrected-crossreference note. Fridaynoonreceipt requires valid timely-cast military-overseas ballot under115.916; sworn timely submission prevents rejection solely for postmark defects without removing other conditions."
+    },
+    {
+      "id": "115.926:6293",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.926&bid=6293",
+      "sourceSha256": "47fc11d395c3e26551a3eeac3e387554ccd1db9d4e82c84d63529d89dabb1522",
+      "textSha256": "89427e84344cab0ca6323c641ecef13cea41e97ebbbbd957c9be53a88517bb81",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Requesting and protecting covered-voter email addresses",
+          "bodySha256": "08523124963fc8ed0228c0563479d81811f1e23145f97bdd5cae382781a5dec7",
+          "reviewNote": "Official voting uses only, disclosure restriction and notice of purposes; voter receipt request required for email ballots."
+        },
+        {
+          "number": 2,
+          "title": "Standing requests for electronic ballot delivery",
+          "bodySha256": "eff473f13c6612d85303f7306192cb11b6aa57679c8e47f0c38abe9f3935ad6c",
+          "reviewNote": "Through end of following calendar year or shorter chosen period; applicable elections and primary-to-general continuation included."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Requested email limited official use and authorized agents, standing delivery until followingyearDecember31or shorter chosen period, and primary/general link preserved."
+    },
+    {
+      "id": "115.928:6294",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.928&bid=6294",
+      "sourceSha256": "95a2938a52b32f67ff97fd2e99e1324ca740e8e887ab7a5bed4fce7869b97a51",
+      "textSha256": "2ce154b325be8b6bbdb0bbad7728e66f0b2b272a380f8b5c14871bf776b1d601",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Preparing election notices for federal write-in ballots",
+          "bodySha256": "c7efac82f7bdebe858f7370b6da7cec883f621cdbe413f4101171f8a7fdf2b4f",
+          "reviewNote": "Tenth-Tuesday or practicable special timing, expected measures/offices and instructions for choices."
+        },
+        {
+          "number": 2,
+          "title": "Sending notices by the voter’s requested method",
+          "bodySha256": "a32f6c939f2a24a7177baf2fe095b81c69e4bb592c71968b620d95aa5b3741dd",
+          "reviewNote": "Covered voter request, fax/email/regular mail choices."
+        },
+        {
+          "number": 3,
+          "title": "Updating and publishing certified candidate and question information",
+          "bodySha256": "ec5500b8b5c3d6131c91968eb1f488085b6afbbf496964b5598eea773452ecca",
+          "reviewNote": "Forty-five-day deadline for updated public notice."
+        },
+        {
+          "number": 4,
+          "title": "Posting notices on existing local election websites",
+          "bodySha256": "3fdf884f8b5e0f1b95bcfd209d47aab6a400760d2c40db0dcf3d064bd2c46580",
+          "reviewNote": "Applies to jurisdictions maintaining a website; original and updated notices regularly available."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Initial expected-ballot notice and timing, requested medium,45daycertified update and website posting for existing sites distinguished."
+    },
+    {
+      "id": "115.930:6295",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.930&bid=6295",
+      "sourceSha256": "2a6dbf027582bf710bb6bd544510591cb74138dc0d7d08245d034638e00849ff",
+      "textSha256": "866cc4820a6fbe3b173d00745c4fd983ef9416a946146e45ad921f0082b1e41e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Minor errors, nonsubstantive requirements and discernible write-ins",
+          "bodySha256": "0bc8f53b50f0416aeb9b47493a2bde5c870e5ee7f9ec4f7195d66df59cda2b82",
+          "reviewNote": "Eligibility must remain determinable; name variations accepted only when intent discernible under state standard."
+        },
+        {
+          "number": 2,
+          "title": "No notarization and limited authentication requirements",
+          "bodySha256": "f86e53f3114a59db40e9084c032a48d21e21574076c06be620300ae5e1af69ab",
+          "reviewNote": "Applies to documents under military-overseas provisions; specified declarations and information comparisons retained."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full text and notes. Error tolerance conditional on eligibility determination, nonsubstantive format requirements, discernible write-in intent, narrow military-overseas document scope and declaration verification retained."
+    },
+    {
+      "id": "115.960:51463",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=115.960&bid=51463",
+      "sourceSha256": "59ecfc6e62485b0cbdf7bb3594d6331bf1fcdbaedff7d6b1f9bd3d65c3b066a2",
+      "textSha256": "53d5d215a61c44ab3351a0eb2fd02ebcda07d9d746ddfc031d51f1ec9ee2483e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Local approval and consent for electronic registration",
+          "bodySha256": "5b344861a4162994269d61671a4e9f1677a8dc411651ec37ac44fb6250c08026",
+          "reviewNote": "Full party agreement, system approval, format/data consent and cross-jurisdiction referral rules with express exceptions."
+        },
+        {
+          "number": 2,
+          "title": "State electronic registration system and local acceptance",
+          "bodySha256": "c40b303cc7503eeb640d2e2b7043ee22a23d27ded8ea52794c1863aa7c683503",
+          "reviewNote": "Secretary system, mandated local transmission acceptance and avoiding data re-entry."
+        },
+        {
+          "number": 3,
+          "title": "Effective registration date for accepted electronic applications",
+          "bodySha256": "8eccb09ce740c0d4948b6528aafe6771619b64cafa39643aef58bbb97b81a107",
+          "reviewNote": "Submission date conditional on acceptance/nonrejection and verification notice not returned undeliverable."
+        },
+        {
+          "number": 4,
+          "title": "Exclusion for separately authorized electronic voter records",
+          "bodySha256": "771c0a14c2c229e6aea1b61113bd2ba0924d31908cd29809959652294ed4e96b",
+          "reviewNote": "Federal and cited absentee/military-overseas authorizations excluded from this section."
+        },
+        {
+          "number": 5,
+          "title": "Copies of paper signatures for petition verification",
+          "bodySha256": "02966f75bfaf428dd1cf0373aed3d1aa1b782550552ccc36efe6cf3c82cad7d0",
+          "reviewNote": "High-quality copies, including electronic, usable and retainable; not authorization of electronic original petition signatures."
+        },
+        {
+          "number": 6,
+          "title": "Handwritten paper signatures for chapter 116 petitions",
+          "bodySha256": "e17dfa46760597ee22ade6121679358b9163e4ac23b1e686ba263c5890a7136d",
+          "reviewNote": "Required submission signatures handwritten on paper."
+        },
+        {
+          "number": 7,
+          "title": "Approval limits and required motor-vehicle record acceptance",
+          "bodySha256": "1d5be88f6261b30fbe66ac19d6ebb4085bd65dc6e60396e9202befb6e1271e87",
+          "reviewNote": "Preserves secretary-system and statutory exceptions, motor-vehicle duty and prior local approval for other electronic collection."
+        },
+        {
+          "number": 8,
+          "title": "Consent to one electronic transaction does not require others",
+          "bodySha256": "a18732ea96e57421cb12a02758b4cd9eb960566c349289dfffe66e32466f371e",
+          "reviewNote": "Authority may refuse other electronic transactions despite agreeing to one."
+        },
+        {
+          "number": 9,
+          "title": "Restrictions on public disclosure of registration-system data",
+          "bodySha256": "4b6eacf079770f8d531954a55d5f17683b9b3a919ee040e5433be980564a6536",
+          "reviewNote": "Disclosure only as authorized by referenced115.157subsections, not total secrecy."
+        },
+        {
+          "number": 10,
+          "title": "Preserving an existing state registration application",
+          "bodySha256": "4fa0cbc9b3ed833c01aaa54a4cba7460ef56757b7fa26a0bd73c02ae4650af0b",
+          "reviewNote": "No required cessation; source note gives multiple2016effective dates and2022date, not silently assigned one date."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read complete nested source and multiple-effective-date note. Local/state consent and approval paths, conditional submission-date registration, separately authorized electronic-record exemption, copies for verification versus handwritten chapter116petition originals, DMVacceptance mandate, transaction-specific consent and disclosure exception preserved. No effective-date repair or general electronic-petition authorization."
     }
   ]
 }
