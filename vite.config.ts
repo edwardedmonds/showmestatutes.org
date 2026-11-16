@@ -1,10 +1,11 @@
 import { defineConfig } from 'vite';
-import { readFileSync } from 'node:fs';
+import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { assertDataset, todayInMissouri } from './src/data';
 import { buildIndex } from './src/search';
 import { loadFullText } from './src/full-text-build';
 import { headingsFor, parseHeadingRegistry } from './src/subsection-headings';
+import { headingCoverage, loadStatewideHeadings } from './src/subsection-headings-build';
 import { browseAssets, homepageSeo } from './src/seo';
 
 const source = readFileSync(process.env.STATUTES_DATASET ?? 'public/data/statutes.json', 'utf8');
@@ -13,18 +14,24 @@ const parsed: unknown = JSON.parse(source);
 assertDataset(parsed);
 const dataset = parsed;
 const fullText = process.env.STATUTES_FULL_TEXT ? loadFullText(process.env.STATUTES_FULL_TEXT, dataset, datasetHash, process.env.STATUTES_FULL_TEXT_ALLOW_PILOT === '1') : undefined;
-if (process.env.STATUTES_SUBSECTION_HEADINGS && process.env.STATUTES_SUBSECTION_HEADINGS !== 'pilot') throw new Error('Unknown subsection heading mode');
-const headingRegistry = process.env.STATUTES_SUBSECTION_HEADINGS === 'pilot' ? parseHeadingRegistry(JSON.parse(readFileSync('data/subsection-headings-pilot.json', 'utf8'))) : undefined;
-if (headingRegistry && !fullText) throw new Error('The subsection heading pilot requires a full-text candidate');
+const headingMode = process.env.STATUTES_SUBSECTION_HEADINGS;
+if (headingMode && !['pilot', 'statewide'].includes(headingMode)) throw new Error('Unknown subsection heading mode');
+if (headingMode && !fullText) throw new Error('Subsection headings require a full-text candidate');
+const pilot = headingMode ? parseHeadingRegistry(JSON.parse(readFileSync('data/subsection-headings-pilot.json', 'utf8'))) : undefined;
+const headingRegistry = headingMode === 'statewide' ? loadStatewideHeadings('data/subsection-headings/statewide', fullText!, pilot!) : pilot;
+const coverage = headingRegistry && fullText ? headingCoverage(fullText, headingRegistry) : undefined;
+if (process.env.STATUTES_REQUIRE_COMPLETE_HEADINGS === '1' && (!coverage || !coverage.complete))
+  throw new Error('Editorial headings: statewide review is incomplete');
+if (coverage) console.info(`Editorial heading coverage: ${JSON.stringify({complete: coverage.complete, counts: coverage.counts})}`);
 if (headingRegistry && fullText) {
   let accepted = 0;
   for (const id of headingRegistry.keys()) {
     const text = fullText.get(id);
     const count = text ? headingsFor(text, headingRegistry).size : 0;
     accepted += count;
-    if (!count) console.warn(`Editorial heading pilot: ${id} uses numbered navigation; its source or review needs attention.`);
+    if (!count && headingRegistry.get(id)?.reviewStatus === 'source-checked') console.warn(`Editorial headings: ${id} uses numbered navigation; its source or review needs attention.`);
   }
-  console.info(`Editorial heading pilot: ${accepted} source-matched headings across ${headingRegistry.size} registered versions.`);
+  console.info(`Editorial headings: ${accepted} source-matched headings; ${headingRegistry.size} registered versions including drafts.`);
 }
 const browseCss = readFileSync('src/style.css', 'utf8') + '\n' + readFileSync('src/browse.css', 'utf8') + (fullText ? '\n' + readFileSync('src/full-text.css', 'utf8') : '');
 const browseStylesheet = `assets/browse-${createHash('sha256').update(browseCss).digest('hex').slice(0, 12)}.css`;
@@ -70,6 +77,17 @@ export default defineConfig({
     transformIndexHtml(html) { return homepageSeo(html, dataset); },
     generateBundle() {
       for (const [fileName, source] of Object.entries(assets())) this.emitFile({ type: 'asset', fileName, source });
+    },
+    writeBundle() {
+      if (!headingRegistry || !fullText || !coverage) return;
+      // Keep the audit snapshot outside the site output. Reviewers may continue
+      // editing chapter files after this build; the audit must check what it used.
+      mkdirSync('data/editorial-work', {recursive: true});
+      writeFileSync('data/editorial-work/last-build.json', JSON.stringify({
+        schemaVersion: 1, mode: headingMode, datasetSha256: datasetHash, coverage,
+        entries: [...headingRegistry.values()].filter(entry => fullText.has(entry.id)).map(entry => ({...entry,
+          displayed: headingsFor(fullText.get(entry.id)!, headingRegistry).size > 0})),
+      }, null, 2) + '\n');
     },
     configureServer(server) {
       const files = assets();

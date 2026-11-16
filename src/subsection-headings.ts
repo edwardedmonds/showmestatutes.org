@@ -2,10 +2,11 @@
 import { createHash } from 'node:crypto';
 import { textContent, type FullText } from './full-text';
 
-interface HeadingReview {
+export interface HeadingReview {
   id: string; sourceUrl: string; sourceSha256: string; textSha256: string;
   reviewStatus: 'source-checked' | 'draft'; reviewedOn: string;
   headings: { number: number; title: string; bodySha256: string; reviewNote: string }[];
+  draftedBy?: string; reviewedBy?: string; reviewSummary?: string;
 }
 export type HeadingRegistry = ReadonlyMap<string, HeadingReview>;
 const object = (v: unknown): v is Record<string, unknown> => !!v && typeof v === 'object' && !Array.isArray(v);
@@ -15,7 +16,7 @@ function assert(v: unknown, message: string): asserts v {
 }
 
 export function parseHeadingRegistry(value: unknown): HeadingRegistry {
-  assert(object(value) && value.schemaVersion === 1 && value.scope === 'local-pilot' && Array.isArray(value.entries), 'invalid pilot registry');
+  assert(object(value) && value.schemaVersion === 1 && ['local-pilot', 'local-statewide'].includes(String(value.scope)) && Array.isArray(value.entries), 'invalid local registry');
   const result = new Map<string, HeadingReview>();
   for (const entry of value.entries) {
     assert(object(entry) && typeof entry.id === 'string' && !result.has(entry.id), 'missing or duplicate version');

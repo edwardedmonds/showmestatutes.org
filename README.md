@@ -36,6 +36,8 @@ This branch is not published. Normal builds keep the existing heading pages unle
 
 An optional [subsection-heading pilot](docs/subsection-heading-pilot.md) adds 30 editorial reading aids across five sections. Each heading is checked against its archived source version and marked as editorial in the preview. Changed sources fall back to numbered navigation until reviewed again. Enable it locally with `STATUTES_SUBSECTION_HEADINGS=pilot` alongside the full-text candidate. The labels stay outside MiniSearch; they have not received independent legal review or been published.
 
+The [local statewide heading expansion](docs/subsection-heading-statewide.md) is in progress. Its target is all 54,759 numbered subsections in the archive. New batches get a separate drafting and review pass; drafts stay out of the preview. `STATUTES_SUBSECTION_HEADINGS=statewide` displays only accepted labels, with numbered navigation elsewhere. The progress inventory distinguishes reviewed headings from unfinished work and accounts separately for unnumbered and complex source layouts. This expansion is not published.
+
 ## Browse without searching
 
 The [chapter directory](https://showmestatutes.org/chapters/) gives every populated chapter a readable page. It includes all 30,434 collected source versions, their headings, source-check dates, version labels and notices. The ten empty indexes link directly to the Revisor. These pages work without JavaScript and are generated from the same validated snapshot as search.
