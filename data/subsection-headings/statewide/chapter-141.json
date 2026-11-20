@@ -1,0 +1,1857 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Complete archived-source drafting followed by separate complete-source editorial review. Chapter coverage is accounted for in the inventory.",
+  "entries": [
+    {
+      "id": "141.060:7000",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.060&bid=7000",
+      "sourceSha256": "3381cd4e59ecfc3da8a86374944aed7096b2fd54d8c8928ef9d9d6cb6b1167aa",
+      "textSha256": "892c9aacfb22d3427d5c68bf4c9d72a0edd563789665b176b09e291757ea8fc9",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Employing an attorney and setting compensation",
+          "bodySha256": "f9094207843c021ec63866e8143ba0fbf927963f192207eed3d1fb9cf08c3a32",
+          "reviewNote": "Collector authority is tied to141.010–141.160; the stated monthly compensation cap concerns first-class counties using those provisions exclusively."
+        },
+        {
+          "number": 2,
+          "title": "Salary coverage and combined-law compensation",
+          "bodySha256": "6ed73b5d23d1cf8c35277197ecd557a3ff6e31b2e879a44fa7305863bd79292a",
+          "reviewNote": "Salary replaces other fees for the stated services; counties operating both these sections and the land tax collection law instead compensate under that law. Does not apply the subsection1 cap universally."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read both subsections/history. Exclusive firstclass collection-law salary300cap differs combinedlandtaxlaw compensation; servicesreplacefees retained."
+    },
+    {
+      "id": "141.070:7001",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.070&bid=7001",
+      "sourceSha256": "adc83c52e5e00739d7669cf1b9189979b3e753a418e164e465bdbd36866a8872",
+      "textSha256": "c88fafecbfdf480d29448d46fd047e7be54a42b44e14fd3e91e556d638d4eb1c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Employing abstracters and filing certified title memoranda",
+          "bodySha256": "3abfbac2258f8d7e9873ab3c107d342bbe648ae1c807e4019f8aae87b295d421",
+          "reviewNote": "Applies to the stated first-class counties with charter government enforcing liens by real-estate suit; covers all recorded conveyances, liens and charges, filing with petition, and eventual purchaser ownership of the abstracts."
+        },
+        {
+          "number": 2,
+          "title": "Abstract fees as litigation costs",
+          "bodySha256": "6a1ceac80fce5ae5ab1d24b6e61e1aab52b187835829ace5e9be7768ac040c81",
+          "reviewNote": "Covers the per-abstract ceiling and treatment of compensation as costs, without describing it as a general title-search price limit."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read both subsections/history. Firstclassnoncharter exception, certifiedconveyance/lien abstracts filedwithpetition and purchaserproperty, ten-dollarcap litigationcost retained."
+    },
+    {
+      "id": "141.1006:7111",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.1006&bid=7111",
+      "sourceSha256": "8aa4b9115f2d0b4a4e7865949b648f1487e9f0a88ec12dcdf9007f160524ab8c",
+      "textSha256": "bad537c39a8903eb1bb3d7fb3c7b8e89132c2e9b9bd810f46a12463f5a79d363",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Optional contributions of taxes on ancillary parcels",
+          "bodySha256": "ace14e9833638fd64802c9adb9685ded9546fdccc516f399896279597857e845",
+          "reviewNote": "Taxing authorities may contribute all or part of received tax distributions when the acquired ancillary parcel is encumbered by their tax lien or claim."
+        },
+        {
+          "number": 2,
+          "title": "Remitting tax-lien payments and credits through the collector",
+          "bodySha256": "4cc956d5efa074abc205c5267d3a8301e10e8ee83850f771c004d23e6326c6f1",
+          "reviewNote": "Covers the agency’s duty concerning amounts attributable to taxing-authority real-property liens or claims; does not treat its optional contribution as eliminating the remittance requirement."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read both subsections/history. Ancillaryparceltaxlien context, taxingauthorityoptional contribution of receivedtaxes, agencyremittanceofattributablepayments/credits retained."
+    },
+    {
+      "id": "141.1009:60378",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.1009&bid=60378",
+      "sourceSha256": "7748bb26eba046c3dc459b0e3d3c8c6f34e08b3917d37b54791d90ec666d3911",
+      "textSha256": "6e38383ca522f359535ab673e6363056f85cc68b55834dd399b04a8d6db35fc3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Land-bank authority and standing to quiet title",
+          "bodySha256": "e77d36c40196f79b2ba0490ac075ecfec81f813a1ae0c87a27a81719a0f03bf8",
+          "reviewNote": "Authority concerns real property in which the agency has an interest, with sufficient legal, equitable and possessory interests specified for the action."
+        },
+        {
+          "number": 2,
+          "title": "Title examination and notice to interested parties",
+          "bodySha256": "e0ea1c9ee2481c04eebf6b4e2b53d85a56e48143f552bbb846e2d7f556ade3a6",
+          "reviewNote": "All five notice methods read: recorded identities by registered/certified mail, occupied-property occupant mail, posting, newspaper and court/due-process methods. This version says prevailing notions, distinct from wording in140.1009."
+        },
+        {
+          "number": 3,
+          "title": "Affidavit identifying interests and notice methods",
+          "bodySha256": "0dc980769de9b41575e26c063a8172408034aa6409ec2366ee613fef3f1ed24c",
+          "reviewNote": "Affidavit identifies all potentially interested parties and the form of notice provided, not only parties actually appearing."
+        },
+        {
+          "number": 4,
+          "title": "Hearing schedule and judgment on unanswered matters",
+          "bodySha256": "632aa26f5569e01ee1cab89f623865647c7f3c0de7c1cb5d4188246630af6337",
+          "reviewNote": "Ninety-day hearing scheduling and120-day final judgment are distinct; the latter applies only to matters without an interested party’s answer."
+        },
+        {
+          "number": 5,
+          "title": "Joining parcels in one quiet-title petition",
+          "bodySha256": "041220beb69842cffbbcf06041c3996a2616a7625afa8b2bea9b2c6cb8f6ef6d",
+          "reviewNote": "Allows one or more parcels in a single petition, without expanding subject matter or eliminating notice.2026severability note preserved."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all five subsections/allservice methods/2026notes. Interestbasedstanding, titleexamination, occupiedmail/posting/publication/courtmeans, affidavit and90dayhearing/120dayunansweredjudgment preserved; exactmunicipalitypublication differschapter140 wording."
+    },
+    {
+      "id": "141.130:7008",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.130&bid=7008",
+      "sourceSha256": "b269ce341f2acddc626dde5af3885c255eb90bab3706a1d6c2d078da54101b5c",
+      "textSha256": "70ad723390c571a281d3286a160ba6354af2ca84b02fe118534d68c507f4ea7c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conditional sale announcement, reporting, and appraisal",
+          "bodySha256": "65b0ce5ab440f0a77d7c9e7fca26a0025150777f626dba3e2620cd284e582a2c",
+          "reviewNote": "Sheriff announces court approval condition and reports bid; court appoints two disinterested competent appraisers of property and improvements."
+        },
+        {
+          "number": 2,
+          "title": "Confirmation when bids exceed half the value",
+          "bodySha256": "c7615b1273bde44edf7a8a2c04435f75f6955b2edf72e8435916d933db68d317",
+          "reviewNote": "Source uses exceeds fifty percent, not at least; do not fill the exact-equality gap by inference. Powell annotation concerning inadequacy of consideration remains visible."
+        },
+        {
+          "number": 3,
+          "title": "Confirmation considering superior tax liens",
+          "bodySha256": "ee7e8cc16172e6147b471d17f8bae1835970e63467e94e2d97fb81a9b74a76ac",
+          "reviewNote": "Applies when the bid is below half the appraised value but combined with superior tax liens exceeds half; does not count all debts or any liens."
+        },
+        {
+          "number": 4,
+          "title": "Bid increases or disapproval below the threshold",
+          "bodySha256": "cfcc79711b892011c996d33cfa62aacab1e98e8e9327a062ff5d8e07fae6c034",
+          "reviewNote": "Court may request increase to half the appraisal when bid plus prior tax liens is less; acceptance and payment lead to approval, refusal to disapproval and continued judgment lien. Preserve distinct strict comparisons."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all four subsections/Powellnote. Courtconditionalapproval/twodisinterestedappraisers, strictabovehalf and belowhalfwithsuperiorlien provisions, bidincrease alternative; no invented rule at exacthalf, annotation notgeneralized to negate procedures."
+    },
+    {
+      "id": "141.160:7011",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.160&bid=7011",
+      "sourceSha256": "6825424605e3b902d762e72e78395750a29405c69fe6db56b98aa260f4458bd8",
+      "textSha256": "98bf12cacd91030c0d8a5ffdad0e0b5f75faa2042dba81f63f596279ff718912",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "General tax law and charter-county election of chapter 140",
+          "bodySha256": "d2adc4388d4cb8555dffea7654d29c0fd6f8262466376c2eb2c3bb9b3800449f",
+          "reviewNote": "Applies compatible general law to first-class charter counties and permits a legislative ordinance electing chapter140 procedures."
+        },
+        {
+          "number": 2,
+          "title": "Additional collection fee in qualifying charter counties",
+          "bodySha256": "f2db6814da04c6613466759526ccf0584b4d659b511d3ebf88a5d04de7f7c505",
+          "reviewNote": "The five-percent fee is limited to charter counties above600000 inhabitants, added to the bill, paid by the taxpayer and deposited into county general fund."
+        },
+        {
+          "number": 3,
+          "title": "Chapter 140 procedures for first-class noncharter counties",
+          "bodySha256": "5a8271ae2e77ddbd32c6922b67b29998542e34c3c9eba098675488f8b74cc5ed",
+          "reviewNote": "Excludes those counties from141.010–141.160 and directs use ofchapter140; does not extend the exclusion to all ofchapter141."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read three subsections/history. Inconsistencyqualification, chartercounty ordinanceoption, over600000fivepercentfee and mandatorychapter140noncharterfirstclass route retained. Added missing spaces in chapter references."
+    },
+    {
+      "id": "141.170:7012",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.170&bid=7012",
+      "sourceSha256": "634a4b623df883daf541fe43f2891f974d459d8ac6a1c91fc8b08b792c13603d",
+      "textSha256": "cd487bdb07b5c1ff421ccf6c3751bd2b0243e66166971fe07621764efd7f078e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Personal-tax debts in first-class charter counties",
+          "bodySha256": "80c226d5b3775bb94f16f4d959d2c937dbd7bf05b02702fa00dc1e21c6ed5494",
+          "reviewNote": "Includes the historical January1,1946 assessment/delinquency scope and personal-judgment remedy, while excluding first-class noncharter counties."
+        },
+        {
+          "number": 2,
+          "title": "Collection suits, certified tax bills, and costs",
+          "bodySha256": "858e6e434ed3a298779c6a3b79e8de565bec7ac730393aeff03bc3d645d7e16b",
+          "reviewNote": "Covers parties, multiple delinquent years in one count, prima facie certified-bill proof, applicable civil procedure and appeal rules, and no costs against listed public entities."
+        },
+        {
+          "number": 3,
+          "title": "Delinquency, suit periods, and debtor-estate claims",
+          "bodySha256": "ea0c57d78ca3f26aa170bf876b5ea60b102da068657eb6ffe8f670045ec1cba7",
+          "reviewNote": "This version uses January after delivery of bills to collector, April commencement and five years; do not import140.730’s February/three-year scheme. Also includes deceased and insolvent estate claims."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read three subsections/history. Firstclasscharter scope, certifiedbill prima facie/civilcostlimits, Januarydelinquency and April/five-year suit timing distinctfrom140.730February/three-year, estates retained."
+    },
+    {
+      "id": "141.180:7013",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.180&bid=7013",
+      "sourceSha256": "aec4d9fcc172a19f119871e96aee4f012743f1fdfce7d0acbf2fe9a0bb433093",
+      "textSha256": "a4ec80923f230ab318156816db6265ec67a4cfd1aeb5be36fbb2d341e7f23b09",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Tax-attorney employment under the land tax collection law",
+          "bodySha256": "9f5281e324d7cb97f99c2921fa6a67f82a9ca8d3a022c5eb2fefc4161739d342",
+          "reviewNote": "For first-class counties governed by141.210–141.810, covers duties collecting delinquent tangible personal-property taxes and salary in lieu of fees with the stated annual cap."
+        },
+        {
+          "number": 2,
+          "title": "Assistant attorneys and other collection staff",
+          "bodySha256": "93e0772f22dd5fc9523cf638ee04b4b471d04e27658ca54d1085e5d5c10c5e75",
+          "reviewNote": "Additional hiring and pay require county-commission approval and include clerical and other necessary assistants."
+        },
+        {
+          "number": 3,
+          "title": "Attorney compensation outside the land tax collection law",
+          "bodySha256": "aaaf4657a1ab4bb8c14531c0954367063b2d396583d967de69a028a979aeecaa",
+          "reviewNote": "For specified first-class charter counties not adopting that law, covers combined personal/real-estate collection representation and the separate salary cap; not the same coverage as subsection1."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read three subsections/history. Participatinglandtaxlaw6500salary versus nonparticipatingcharter3600salary, feeinlieu and countyapproval assistants retained."
+    },
+    {
+      "id": "141.230:60353",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.230&bid=60353",
+      "sourceSha256": "5d88ea6b0fcb8c259222254175411f8918e947e230a5e73b4d93f2f697f8deb8",
+      "textSha256": "4fa10336160ca608f0cf84d9928245b8354b6435d6cbd9ba357edc598616b4c8",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "County adoption of the land tax collection law",
+          "bodySha256": "70674204cb18392f06652a602ba25a18d4778cd1c2a58a0935723c9fa10f7d62",
+          "reviewNote": "County election is by commission resolution or order and refers specifically to141.210–141.810."
+        },
+        {
+          "number": 2,
+          "title": "Partial county adoption and parcel selection",
+          "bodySha256": "eb59368127d31e02a5cd06f072214a4e3c431f1c78b33e23da65bc82bceb4565",
+          "reviewNote": "After county adoption as partial opt-in, collector may elect the procedure parcel by parcel; not automatic conversion of all parcels."
+        },
+        {
+          "number": 3,
+          "title": "Land-bank prerequisite for qualifying partial opt-in counties",
+          "bodySha256": "42a75e2976300356493f81aada3a12bcd80a9a04a865f383a51adbc65ea96d7b",
+          "reviewNote": "The prerequisite is limited to counties eligible under140.981(1), not every county choosing partial adoption."
+        },
+        {
+          "number": 4,
+          "title": "Filing certified copies of the adoption action",
+          "bodySha256": "c59d78ebc3d0347265a96eab8a0760bb2bb848ae04e3cd4dbcd60f5d998b37f4",
+          "reviewNote": "Ten-day filing covers county clerk and collector plus specified municipal officials; label does not imply filing only at county level."
+        },
+        {
+          "number": 5,
+          "title": "Municipal cooperation and rescinding county adoption",
+          "bodySha256": "a7ee74a7b9a6ba580d51d03d357ca4e047d3046a08eeed1149a02e73f13e18d8",
+          "reviewNote": "Includes cooperation, a year before rescission can be adopted, another year before rescission takes effect, preservation of pending proceedings and treatment of earlier participating counties."
+        },
+        {
+          "number": 6,
+          "title": "Municipalities spanning participating county boundaries",
+          "bodySha256": "9cae8962ba371988126baa500e0f05da72134959026a8ad932b57dafc8377dd9",
+          "reviewNote": "Cooperation applies to municipalities partly in the county, but taxes on out-of-county property follow other law; no extraterritorial collection power implied."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read full six subsections/2026notes. Optionalwhole orpartial countyadoption, eligiblelandbankfirst, ten-daycopies, waitoneyearbefore rescission plusoneyear effectiveness and ongoingforeclosure preserved, outsidecounty municipalparcels excluded retained."
+    },
+    {
+      "id": "141.250:60354",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.250&bid=60354",
+      "sourceSha256": "441a81b47a32b57de1bea7d5b7f0345bb93861df5fe7023cab8968ed3beed557",
+      "textSha256": "e8527cc89fc60da41ec1567cf597fe833d4ac6870ac79bde52a7b3b557029f8f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Equal general-tax liens and priority by year",
+          "bodySha256": "2cd4621a9ef6fdee8d35f05cf4776cab6565454d27ba5000428ec0a2dda8a4f5",
+          "reviewNote": "Same-year listed governmental general-tax liens are equal first liens; newer unpaid years outrank older years, not the reverse."
+        },
+        {
+          "number": 2,
+          "title": "Priority of nongeneral-tax liens",
+          "bodySha256": "05a615d38b1bbb1fe6281547772c93735b93618821a6ea7639af50393dd26089",
+          "reviewNote": "These liens are junior to general-tax liens; among themselves newer issues outrank older ones."
+        },
+        {
+          "number": 3,
+          "title": "Allocating proceeds by lien rank and amount",
+          "bodySha256": "26b6193c21e91304e39e21184a92a1f04f679e86a761b47f5ba7bb69b7048c42",
+          "reviewNote": "Senior liens receive priority and equal-ranked liens share in proportion to their amounts; does not promise full payment to all."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read three subsections/notes. Sameyear general taxliens equal, newer senior, nongeneraljunior and neweramongthose, equalrankprorata distribution retained."
+    },
+    {
+      "id": "141.260:7022",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.260&bid=7022",
+      "sourceSha256": "0408aef39bd247eff714c0281e14ac9dd841c61794c5b033c2d831fad2b9d8bc",
+      "textSha256": "f081e5ded573eaffba27bbdb7c456113bf43b40c12d8b1a4ef190bbf83e99641",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Foreclosure of tax liens after two years",
+          "bodySha256": "15dda0129fdbfc28aeadc12e70a54aaba9aa7bdadc67913931eb410a428af62d",
+          "reviewNote": "General-tax timing runs from delinquency and special-tax timing from the bill or installment due date.2004HousingAuthority annotation limits availability for involuntary special-assessment liens; title is a topic, not unconditional eligibility."
+        },
+        {
+          "number": 2,
+          "title": "Uncancelled tax instruments as evidence of nonpayment",
+          "bodySha256": "097bbb088f0a1b31606b8225fc429aff149acd27f3c799a722dfa0ea5cf83156",
+          "reviewNote": "Covers ownership of listed instruments without evidence of payment or cancellation as prima facie, not conclusive, evidence of nonpayment."
+        },
+        {
+          "number": 3,
+          "title": "Municipal tax-certificate holders’ priority and foreclosure rights",
+          "bodySha256": "19f24872311e6deceb8eef0a859f6f6732a108bea959684ce82c404c90c4e5ae",
+          "reviewNote": "Covers holders of municipal tax sale certificates, purchase certificates or tax deeds at parity with same-year general-tax authorities; preserve the housing-authority source annotation."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read three subsections and HousingAuthority2004annotation. Two-year generaldelinquency/specialdue trigger, uncancelledinstrument prima facie and municipalcertificate sameyear parity retained; annotation exception not presented as universally available foreclosure."
+    },
+    {
+      "id": "141.270:60355",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.270&bid=60355",
+      "sourceSha256": "e99e2bd5321ff944298456dfd9c7ebcca0feca32a5315e24d3f116e625129f49",
+      "textSha256": "48b197ca18c447e8ce37414b8216b6906515fa2eb9c843d9278dccec22cb1e5b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual lists of parcels with delinquent tax liens",
+          "bodySha256": "734ee3c4f3448180582c8de7e62985fd17df1208d97b95f217f2130f65f97f4d",
+          "reviewNote": "January5 filing concerns parcels with liens delinquent at least two years and includes delinquent bills for all years, subject to subsection3’s exemption."
+        },
+        {
+          "number": 2,
+          "title": "Per-parcel filing fees and their collection",
+          "bodySha256": "573d7a939b998443d7ba3d2e706170b34586d75b58a050ccb5d5c9b5a7c60ce2",
+          "reviewNote": "Covers the specified filing fee paid to collector, charged against the parcel and accounted as costs."
+        },
+        {
+          "number": 3,
+          "title": "Exemption for collector-collected taxing authorities",
+          "bodySha256": "766ff60c40c3f02ae5a774609be350f0bd57ca31d0e61af2c8581c106d8a7aa5",
+          "reviewNote": "School districts and other authorities whose taxes must be collected by collector do not file lists or pay the filing fee; not an exemption from taxes or liens."
+        },
+        {
+          "number": 4,
+          "title": "Including younger liens on qualifying parcels",
+          "bodySha256": "e58de7329b8a1293334e7ca0abeefe160c559ffa27890a55014f600cb1d64026",
+          "reviewNote": "Where any authority’s taxes are two or more years delinquent, other listed liens are included even if themselves newer; distinguishes parcel qualification from each lien’s age."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read four subsections/notes. January5two-yearparcels with all delinquentyears,1.50parcelcost, collector-requiredtax exemption and youngerlien inclusion if anyqualifying taxes retained."
+    },
+    {
+      "id": "141.290:60356",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.290&bid=60356",
+      "sourceSha256": "7c9bf22879dbf49d32c19ccec2fee8db0b0b57077d875da432e001a06e5da0cf",
+      "textSha256": "8014e67e166fab0476b330b997d6bfc38516c0f31e21878e8dd551e0d43a0b8f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Combining delinquent-tax lists",
+          "bodySha256": "666a7f1934c6f18ebf61dc3b145b7149af77562ace0b0e4929cbb627ad339004",
+          "reviewNote": "Collector combines delinquent state, county, school and other collectible bills with lists from other authorities and bill owners."
+        },
+        {
+          "number": 2,
+          "title": "Selecting parcels in partial opt-in counties",
+          "bodySha256": "142d205cd83afa0928dc38553b2c72fa6b89608fc9e4285d25780b9722772297",
+          "reviewNote": "Collector chooses parcels proceeding under this chapter; remaining parcels follow other applicable provisions."
+        },
+        {
+          "number": 3,
+          "title": "Parcel identifiers and consolidation of pending suits",
+          "bodySha256": "1bc506059711c06b74e4d18e7cba8fbe2e650dc0d2fc2ac3a5f8a027296dccbf",
+          "reviewNote": "Covers serial numbers, docket and court designations, and automatic consolidation/abatement of listed pending suits into the specified statutory proceeding."
+        },
+        {
+          "number": 4,
+          "title": "Delivering combined lists to the tax attorney",
+          "bodySha256": "bc77ea8bbdc2720582da60ba041d6303ea59388379cecb899250989a5ba61f15",
+          "reviewNote": "Delivery may occur from time to time but no later than April1 each year."
+        },
+        {
+          "number": 5,
+          "title": "Preparing and filing foreclosure petitions",
+          "bodySha256": "370160b3109908944424e24006d909fb857fe779f879c413991f951100bbb981",
+          "reviewNote": "Tax attorney incorporates lists in the141.410form and files by June1; distinct from the collector’s April delivery deadline."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all five subsections and 2026 severability note. Collector chooses partial-opt-in parcels; pending suits automatically consolidated and abated, April list delivery and June petition deadlines remain distinct. Titles unchanged."
+    },
+    {
+      "id": "141.300:60357",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.300&bid=60357",
+      "sourceSha256": "195d7a07a70210093a2278451fb96793f35d084cb3a2609b96cac93a41d7b74b",
+      "textSha256": "dcdd54a6d79761d397f07a80d3f52d19a0656fa112fbc2d42d83732f2375fd4b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Receipts for listed delinquent tax bills",
+          "bodySha256": "2ae1dff64be05b8d9346a32ffbe6ef5dee959b42d638575f1b740de242929e25",
+          "reviewNote": "Receipt states the aggregate listed amount and is held by the bill owner or appropriate taxing-authority financial officer."
+        },
+        {
+          "number": 2,
+          "title": "Monthly collection reports, remittances, and credits",
+          "bodySha256": "2ea02e037eb0e4a8fec4d10f26a1b3a2e4c6d61e8fee5b3a2a8489150004018e",
+          "reviewNote": "Includes affidavit-verified statements by the fifth, payment net of commissions/county costs by the fifteenth, and full-bill credits for specified land-trust and land-bank acquisitions."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read both subsections and 2026 severability note. Aggregate receipts, fifth-day verified statements versus fifteenth-day net remittances, and specified land-trust/land-bank credits retained. Titles unchanged."
+    },
+    {
+      "id": "141.310:7028",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.310&bid=7028",
+      "sourceSha256": "377e441eacdf74c9094e0a1f49b3dfcfff8196684626495cb14198190ed071ee",
+      "textSha256": "8c9e18ff3409352405cbaaa14179673c8300b0fc62b08413b4a26bc7de2ffd93",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Collector authority and suits by other lienholders",
+          "bodySha256": "393efc8b62d316367b854d8310af07805b10ae2a9f978b4d8ad9027656ec0f2a",
+          "reviewNote": "Describes exclusive collection authority with an alternative when collector fails to sue in a year; other authorities or owners sue in collector’s name and provide petition ten days before filing."
+        },
+        {
+          "number": 2,
+          "title": "Advancing suit expenses and the collector-funded exception",
+          "bodySha256": "809692c26d012b02e40d9f7654a4d4d3603edd49c841bc0e91d2873d0e15d3be",
+          "reviewNote": "The bringing party generally advances costs, except specified same-parcel general-tax liens delinquent at least two years shift advances to collector. Source note records original-rolls word or rather than of; preserved."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read both subsections and original-rolls note. Collector exclusivity after suit, other holder route on failure to sue with ten-day advance copy, and two-year general-tax condition for collector-advanced costs retained. Original or/of discrepancy not repaired. Titles unchanged."
+    },
+    {
+      "id": "141.320:60358",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.320&bid=60358",
+      "sourceSha256": "8c51a41a3e9d4cb10397a964a264aa4dad0e5b114ff7f2296453931b0e1bbb0a",
+      "textSha256": "b7436d2369045ddbab336d8b8a15e00962315705d2498a905119983ac9011f66",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Appointing a tax attorney or designating county counsel",
+          "bodySha256": "57c71d23c363f5053fec5c34af139fb8858607f2ad232b07bc52f5d2f79c4f3f",
+          "reviewNote": "Collector chooses appointed attorney or, where available, county counselor and needed assistants; no mandatory outside attorney is implied."
+        },
+        {
+          "number": 2,
+          "title": "Approved assistants, clerical employees, and expenses",
+          "bodySha256": "7fadb6f81234ea86cb00f96c9a978e02c6605dc6de86a353ac3224216a422dd7",
+          "reviewNote": "A tax attorney who is not county counselor may appoint with collector approval and incur necessary reasonable expenses."
+        },
+        {
+          "number": 3,
+          "title": "Collector representation and limits on other clients",
+          "bodySha256": "dad6b561ffb028fc92c7bc9bc27a0434206fe0b7cfc567dcc11bc55568972a68",
+          "reviewNote": "Covers collection litigation and expressly prohibits the attorney and collector from legal services for land trusts or land-bank agencies; not a general restriction on all government representation."
+        },
+        {
+          "number": 4,
+          "title": "County payment when designated funds are insufficient",
+          "bodySha256": "a6ccd3c33889d74d3b1e59baf48407e02a3178c2adb865f6c4e68de40726e9fa",
+          "reviewNote": "Monthly salary/expense payment for non-counselor attorney and staff comes from the stated treasury funds when cross-referenced funding is inadequate."
+        },
+        {
+          "number": 5,
+          "title": "Total compensation for appointed attorneys and staff",
+          "bodySha256": "eef7de25d9017dfef396d4342e3528438652b2823bea2252db47dc8a6a12c07e",
+          "reviewNote": "Applies to the tax attorney who is not county counselor and the attorney’s assistants/employees; does not impose the same rule on every lawyer in the county."
+        },
+        {
+          "number": 6,
+          "title": "Quarterly verified compensation and expense returns",
+          "bodySha256": "b03bb0d70440759ba80a84e7583560c6529b85cbff10cb7aaf10a708634d33b9",
+          "reviewNote": "Non-counselor attorney reports received compensation, amounts owed and staff salaries/expenses to county commission with affidavit verification."
+        },
+        {
+          "number": 7,
+          "title": "Attorney fees taxed and collected as suit costs",
+          "bodySha256": "9453691425ee8b402aa349778170f42870e9f1792ccda1a6bf63e886310e0c6f",
+          "reviewNote": "Identifies statutory treatment of fees without inventing an amount or extending it beyond the suit."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read seven subsections and 2026 severability note. Appointment/counsel designation options and approval, non-counsel qualifications for salary/returns, county fallback funds, and prohibition on land-trust/land-bank legal services retained. Titles unchanged."
+    },
+    {
+      "id": "141.350:7032",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.350&bid=7032",
+      "sourceSha256": "17283ba0778fae6dd367df8553f1bf42f8af30be871b4974c52668727eaabba8",
+      "textSha256": "ddafba48eab62da7ce4826a34b3cdf93c5451bdcc1a09c09236d0f5713472a65",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Consolidating pending suits and carrying forward liens",
+          "bodySha256": "44c7de3c14f2059b07267fdad55a3afee83f2b9bac9a2c113159a0ddb9db38d4",
+          "reviewNote": "Includes answer requirement generally and exception where bills are included in the collector petition, pending-suit abatement, and preservation of listed charges and liens."
+        },
+        {
+          "number": 2,
+          "title": "Preserving existing rights and defenses after consolidation",
+          "bodySha256": "d01c6ad1abaea9db3f4aedd401e1a56cb6ec48e1f927bbd600359b4e7e4dd56c",
+          "reviewNote": "Limitation statutes do not prevent assertion of rights/defenses already held in the pending actions; does not abolish every limitation period."
+        },
+        {
+          "number": 3,
+          "title": "Asserting existing liens and refiling dismissed claims",
+          "bodySha256": "18d95839862803467a252ffa1e361b1a1c24b91b4f76eb3488715f6ab3435374",
+          "reviewNote": "Covers preexisting liens, inclusion or answer, a three-year action requirement if collector brings none, and one-year refiling after erroneous dismissal without prejudice."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all three subsections and history. List inclusion abates pending suit and excuses answer, existing rights/defenses retained, three-year action period differs from one-year dismissed-claim refiling. Titles unchanged."
+    },
+    {
+      "id": "141.400:7037",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.400&bid=7037",
+      "sourceSha256": "ead7505f2355026880b31cd0779ec3e634d0da2a0b085640c63295ef40751155",
+      "textSha256": "349558e4866f6c4fef2b82905a5b78dc741b60ca26ac91423ae3a3ae64ad3d94",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "In-rem proceedings and permitted pleadings",
+          "bodySha256": "ec481050b0d15d1a8ba6aac4cb0b742fb70fecde8cac3898dbf7cb90e997d0cc",
+          "reviewNote": "The statutory suit is in rem and pleadings consist of petition and answers; heading does not characterize it as a personal money-judgment action."
+        },
+        {
+          "number": 2,
+          "title": "Who may answer and what answers include",
+          "bodySha256": "be8c476d4959e27d7d6b00105cb2b369625f8101bce830313eeef685d1275493",
+          "reviewNote": "Includes bill-interest and real-estate-interest claimants, nature and amount, defenses or objections, and optional cross/intervening allegations."
+        },
+        {
+          "number": 3,
+          "title": "Answer contents, service, and filing deadline",
+          "bodySha256": "aed1d2b23c1fd5c84857c3b58e782d9a8e6517928d1919612e9e5520a2c638ff",
+          "reviewNote": "Covers concise pleadings liberally construed, case/parcel identifiers, clerk filing and service on attorney within sixty calendar days after first publication, with Sunday/legal-holiday extension."
+        },
+        {
+          "number": 4,
+          "title": "Failure to answer and potential default judgments",
+          "bodySha256": "e8817a3cb86623277199c5e4755b8504613f74cd25ea2467d57aca299dccb64d",
+          "reviewNote": "Petition is taken as confessed and default may be taken for unanswered parcels; title preserves may rather than promising automatic final judgment."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read four subsections and history. In-rem scope, eligible interests and answer contents, sixty-day first-publication deadline with stated Sunday/holiday extension, and permissive default judgments retained. Titles unchanged."
+    },
+    {
+      "id": "141.410:60361",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.410&bid=60361",
+      "sourceSha256": "6f3f6eb233a77141d829eaba6c2c8de0b72fb0e9ba54a700c325205db41ad235",
+      "textSha256": "fd5828666ac89746781eea8b85c2bb1354876ddc4d6b8cdc8f045be2657bfcc5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Filing foreclosure petitions and identifying interested persons",
+          "bodySha256": "b1404e523821d91eba4c4e208d49217ee09cd0308290b636c461c74d4d3b3f0f",
+          "reviewNote": "Covers the circuit-clerk petition, caption, collector list and prayer, plus naming legal-interest holders reasonably discoverable from public records."
+        },
+        {
+          "number": 2,
+          "title": "Prescribed caption for the in-rem foreclosure petition",
+          "bodySha256": "559bfbf7817b865023ed0669685609c4339678931b272feb2bbb203c8fb00ad9",
+          "reviewNote": "Read the complete caption naming collector as plaintiff and encumbered land parcels as defendants; do not recast it as a personal action against owners."
+        },
+        {
+          "number": 3,
+          "title": "Required parcel and tax information",
+          "bodySha256": "0de28074464f409351508efcf83a12522d43c0b299460dac3eeefadb0672f998",
+          "reviewNote": "All six categories read: petitioner/collector identity, street address, full legal description, tax ID, delinquency period and principal plus interest, penalties and fees."
+        },
+        {
+          "number": 4,
+          "title": "Requested foreclosure, priorities, sale, and further proceedings",
+          "bodySha256": "a60edab7eb21174dc9fa26f6ae186ea406a27fe8483c4a22ccdcb6a1023ec7f1",
+          "reviewNote": "Prayer seeks lien foreclosure, amounts/priorities, sheriff sale and report for further proceedings under the cited provisions; not an automatic sale on filing."
+        },
+        {
+          "number": 5,
+          "title": "Notifying those who filed delinquent-tax lists",
+          "bodySha256": "124006acada0b8449e0c7b1ada99a153ef4cd9d3da500c22f7986c3140b87570",
+          "reviewNote": "Tax attorney sends registered notice within ten days identifying filing time/place and publication newspaper; this is distinct from notice to owners and occupants."
+        },
+        {
+          "number": 6,
+          "title": "Separate-suit effect for each listed parcel",
+          "bodySha256": "e026fe7ab94e0758a6124eed63f957b91b734cf9cae29917bb6522866678c0c4",
+          "reviewNote": "One petition has the same effect for each described parcel as an individual foreclosure suit."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read six subsections, complete prescribed caption, nested information requirements and 2026 severability note. Reasonably discoverable interests, parcel/tax details, requested priority/sale relief, ten-day registered list-filer notices and separate-parcel suit effect retained. Titles unchanged."
+    },
+    {
+      "id": "141.420:7039",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.420&bid=7039",
+      "sourceSha256": "43b3dc37b58cc0fa9f6cc66b034321e6dc6e0946157b43662717df528e0cfe05",
+      "textSha256": "d9a8a48fd01a2385894a93230fe4ca445b3a2953383c6fbc208e3f07e1e19f19",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Redemption before the sheriff’s foreclosure sale",
+          "bodySha256": "8c9610e021beaf5125f750132405ed38e4550881750e9ab87f5f822c1aaeb493",
+          "reviewNote": "Covers interested persons and payment of all listed amounts, with the express141.520(3) exception preserved; not a claim that there are no timing exceptions."
+        },
+        {
+          "number": 2,
+          "title": "Foreclosure of interests after failure to redeem",
+          "bodySha256": "24ec5cdca88f06fea874b28b2c161dee99eddb76fbc3ef8db16e03d5c9a04b98",
+          "reviewNote": "Describes the subsection’s consequence at the foreclosure sale without erasing subsection1’s cross-referenced exception."
+        },
+        {
+          "number": 3,
+          "title": "Redemption certificates and collector records",
+          "bodySha256": "fa299a359afb19e82c20c1f9cd901880315b1c79bfaadb3aa64d612187193676",
+          "reviewNote": "Redeemer receives certificate with petition-matching description, and collector records redeemed status and date."
+        },
+        {
+          "number": 4,
+          "title": "Redemption notice, lien release, and suit dismissal",
+          "bodySha256": "4975d68460524d1560db4b94b554623e5abff852aec59a2afff17434dd510a29",
+          "reviewNote": "Collector notifies authority and tax attorney; payment releases and dismisses only the affected tax bills, not necessarily every parcel in a combined suit."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read four subsections and history. Redemption includes charges and cross-referenced exception; failure before sheriff sale, certificate/record, prompt notices and bill-specific release/dismissal retained. Titles unchanged."
+    },
+    {
+      "id": "141.430:7040",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.430&bid=7040",
+      "sourceSha256": "480d97f17eca232d5c8b117a29dbf4c9b687d09a0287cf93722d51432e74a545",
+      "textSha256": "2fe92cea797525a4b00d13a6d3371d3977e7f5bcef29e8fc847d91d34a24b273",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Publishing the foreclosure notice",
+          "bodySha256": "ddf02812fb7b11b36e29e932bd914bdb68ad998d20a69c3ef5f98cfc1cf368a8",
+          "reviewNote": "Covers four successive weekly insertions on the same weekday in a legally qualified daily county newspaper after filing."
+        },
+        {
+          "number": 2,
+          "title": "Prescribed foreclosure notice and explanation of rights",
+          "bodySha256": "9b00f6e85f73556f6f10c54fdcfd2526de820e59c19ca2cc97c9314c8de0dad4",
+          "reviewNote": "Entire long form read: in-rem character and federal-lien exception, parcel/bill information, answer and redemption rights, default warning, later redemption until sale, signatures and publication blanks. Original-rolls note on word in retained; title does not invent a different answer or redemption deadline."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read both subsections and entire prescribed notice form, including all answer/redemption/default paragraphs and original-rolls in note. Four weekly publications, federal-lien exclusions in form, no personal judgment and redemption up to sale distinct from answer deadline retained. Titles unchanged."
+    },
+    {
+      "id": "141.440:60362",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.440&bid=60362",
+      "sourceSha256": "cbb20ffb2e635cdf52c1657ff0afd82e4e685a655656e79a6f9fca4bd6565053",
+      "textSha256": "974fe9efcbf4b87a1c79e90c8bbf8a8763297884e86e46290349b9b579b3c68c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Tax-record and owner notices, returned mail and affidavits",
+          "bodySha256": "4f30ba12c123fa35f307bd169ee8ab3fba2435f19df473971852df6ed5f8938c",
+          "reviewNote": "Covers thirty-day initial mail, addressee-only/return-receipt definition, successor-record search and remailing when returned other than refused, and affidavit at least thirty days before judgment describing failed or missing addresses."
+        },
+        {
+          "number": 2,
+          "title": "Mailing petition copies to property occupants",
+          "bodySha256": "7ff6e2df341e1cd43cc90417fff2bca214057f53f6a1587c324ec4abda1773fc",
+          "reviewNote": "First-class occupant copy is due within thirty days after filing, separate from the owner-notice methods in subsection1."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read both subsections and 2026 severability note. Recipient includes last billed/charged person and different record owner, not only owners; revised first title accordingly. Defined restricted mail, search/remail for nonrefusal nondelivery, thirty-day pre-judgment affidavit and separate first-class occupant copy retained."
+    },
+    {
+      "id": "141.470:7044",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.470&bid=7044",
+      "sourceSha256": "2659edc7f83c9cbfc727496ece20662b40966473d1ffc81c04a0b2fa7a5f24e6",
+      "textSha256": "6f9def44dfa2f755c9677086f0b3d85b7732821b02cf369ba233e3584f20aa98",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Notice to representatives and guardian appointments",
+          "bodySha256": "4d18a6a23355251c762fa94e231e7a38def0fdba75d947b639e2da78858410f7",
+          "reviewNote": "Read the trigger for an infant, disabled person or confined convict answering or disability being raised; source specifies conservators, trustees and guardian-ad-litem alternatives. Do not silently infer an unrestricted representation right beyond the supplied wording."
+        },
+        {
+          "number": 2,
+          "title": "Appealing notice and representation failures",
+          "bodySha256": "7a94ffb9dae7fef368d324f117099d7c5c8dc6b24a00859b57ecc3d4486620cd",
+          "reviewNote": "After disability is raised, the failure is reviewable error but does not invalidate judgment absent appeal; a competent person may appeal on the protected party’s behalf."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read both subsections and history. Disability/answer trigger, conservator/trustee notification or guardian appointment, reviewable error without automatic invalidation absent appeal, and competent-person appeal retained. Titles unchanged."
+    },
+    {
+      "id": "141.480:7045",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.480&bid=7045",
+      "sourceSha256": "13fe772a61351aa569bd879d26c99c8be28ddbda78dac357e40beac023cec73c",
+      "textSha256": "7602a50e1e47c842892bd78e4ee1bae1c80230d1b45317aab07360eb133dc574",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Tax-bill evidence and pleading invalidity defenses",
+          "bodySha256": "cdef148cefa0d16654fe106f0373960292e23f79ade252f69398f88c4a556ef7",
+          "reviewNote": "Prima facie proof concerns assessment and nonpayment; absent answer allegations are confessed. Jurisdictional or invalidity defenses must be specified and affirmatively established, not presumed unavailable."
+        },
+        {
+          "number": 2,
+          "title": "Hearings, evidence, amounts, and lien priorities",
+          "bodySha256": "8414dc38cfb877a64343cd35b3d269ccb0fc82ed0109ac8b66ece5c5393247b1",
+          "reviewNote": "Includes optional informal issue clarification, attempted fact stipulation, amounts/interest accrual, tax-lien adjudication and other interests properly put in issue with service or appearance."
+        },
+        {
+          "number": 3,
+          "title": "Foreclosure judgments, sale outcomes, and continuing claims",
+          "bodySha256": "1ae36906090fc01b1cb98744f550dc573afbcf6cd771eb6e1b71ca43f1aa5ffd",
+          "reviewNote": "Entire long subsection read: validity/priority findings, redemption dismissal, exact-amount versus surplus sales, confirmation/appeal qualifications, distribution and surviving claims. Avoids a universal dismissal rule."
+        },
+        {
+          "number": 4,
+          "title": "Severance, appeals, and equitable bench trials",
+          "bodySha256": "ebcf41948df748e875cf67d4df5788cd02a6b09f6605b11bad1cdc85990d7c34",
+          "reviewNote": "Answer produces parcel-specific severance without delaying others; specified appeals do not stay tax foreclosure, trial is without jury, and precedence requires an interested party’s motion."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read four complete lengthy subsections and history. Prima-facie tax bill and affirmative invalidity defense, optional informal hearings, required tax-lien versus optional other-interest adjudication, exact-payoff versus surplus distribution/continuing-claim paths, severance, unstayed specified appeals and equitable bench trial retained. Titles unchanged."
+    },
+    {
+      "id": "141.500:60363",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.500&bid=60363",
+      "sourceSha256": "4f9d73d24600a49541b5a4a87709263c7225866fde1616fc69849ce5eb772c60",
+      "textSha256": "73c23b109f281b4adeea16445f6c90ea242c1dc123bbfe93475a96392abb3511",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Dismissal or foreclosure judgments and included amounts",
+          "bodySha256": "fda7406d092b03ca279e4a5289931275cf21cf87949d6b2ca4a571636f814e50",
+          "reviewNote": "Includes absence-of-delinquency dismissal, evidence-dependent principal and charges, recited rates/fees and sale decree. Source’s fifteen-dollar language sits in a list of fees; label does not invent a cap covering all penalties or resolve its grammatical scope."
+        },
+        {
+          "number": 2,
+          "title": "Judgment notices and redemption-contract information",
+          "bodySha256": "05833a623c502cfbe3aadd1a90f584c4772a00cbc4c4ba4a59ba974d483efe47",
+          "reviewNote": "Includes thirty-day owner notices, addressee-only mail, successor searches and remailing, and affidavit before confirmation hearings; notice also describes written-redemption-contract availability."
+        },
+        {
+          "number": 3,
+          "title": "Mailing foreclosure judgments to occupants",
+          "bodySha256": "29530edbeb2733919ca7ed5b539a2bdc8c9cd210d491f763d37fe7a85c08801c",
+          "reviewNote": "Collector sends a first-class judgment copy within thirty days after judgment, distinct from owner notice and its return-receipt procedure."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all three subsections and2026severability note. Dismissal absent qualifying delinquency; neutral included-amounts title avoids resolving fifteen-dollar fee-cap grammatical scope. Thirty-day defined-mail notice, successor search and pre-confirmation affidavit, redemption-contract information and separate occupant judgment copy retained. Titles unchanged."
+    },
+    {
+      "id": "141.510:7048",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.510&bid=7048",
+      "sourceSha256": "4fe5c8f56044355a51547f73863e6bb4d4ebfcfba8a2c9d638b2e21d2b6cf014",
+      "textSha256": "c9dd32cf9aa161876bfe4018cdd4ae4ad0d69dbfa51075e51482aca2c95aba7a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Who may appeal and the appeal period",
+          "bodySha256": "26fb0098b921d6abc77e8bf53ded149fb9fb00533c8e04ffa1c8305ae19a6fc6",
+          "reviewNote": "Includes collector, any party, and anyone on behalf of a chapter475disabled person, with twenty days from foreclosure judgment."
+        },
+        {
+          "number": 2,
+          "title": "Appeal bonds and exempt appellants",
+          "bodySha256": "2f4922bad58deb9e9e4fdebfa9dd89d086cd1dce0e099dcc43094a11ea69a06f",
+          "reviewNote": "Collector, taxing authorities and appeals for disabled persons are exempt; other appellants need a court-approved bond securing diligent prosecution and resulting damages/costs including brief printing."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read both subsections/history. Twenty-day appeal, collector/taxing-authority/disabled-person-representative bond exemptions versus court-approved bond for others, damages/cost conditions retained. Titles unchanged."
+    },
+    {
+      "id": "141.520:60364",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.520&bid=60364",
+      "sourceSha256": "be2718b5c36c707cfaa82bed758d0de6c86c88c83d1e54e4299c2a7a6d105e86",
+      "textSha256": "194f04644c50c4e147c9d2062ede7fb9d1f2ac8b0aa59040b0392829f62b018b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Waiting before advertising the sheriff’s sale",
+          "bodySha256": "2b72e93c2ee89193d68fed4f02a184722f7fdff5d9d436672ceb0f376ceb1da3",
+          "reviewNote": "Six-month starting points differ after judgment, new-trial ruling or notice of appellate affirmance/mandate; subsection3 supplies an exception, so not an unconditional delay."
+        },
+        {
+          "number": 2,
+          "title": "Advertising and scheduling after the waiting period",
+          "bodySha256": "6d62f45827954b19846072e56161853cdd40001107c1861cd34cbc2230a35104",
+          "reviewNote": "Preserves the source’s redemption/contract wording and rehearing/appeal timing; sale date falls within thirty days after first publication. Does not harmonize the or phrasing by inference."
+        },
+        {
+          "number": 3,
+          "title": "Vacant residential property: redemption and waiting-period exception",
+          "bodySha256": "2ed50400a741c36afbacadbcfd7474aef581c59bdf7e90334ef45ae962b1d70c",
+          "reviewNote": "Requires residential assessment and a judgment finding at least six months’ vacancy; after finality the stated redemption bar and immediate execution-sale procedure apply only to that category."
+        },
+        {
+          "number": 4,
+          "title": "Title searches in partial opt-in counties",
+          "bodySha256": "4874852ff46b81733b3ea3767ce1dfe9ee69c4980add0e7e77f9d54534133c97",
+          "reviewNote": "Licensed title company or attorney search of conveyances, liens and charges is due at least120days before sale for the specified judgments; cost may be recovered from proceeds."
+        },
+        {
+          "number": 5,
+          "title": "Locating interested parties through records and additional searches",
+          "bodySha256": "f5db2c05cb6a39c8cabc3d9ec4930657d9a9c15da99ae9d999ae79cceb890018",
+          "reviewNote": "All five required record categories read, plus optional web-based searches and reasonable-cost recovery. Does not describe every supplemental search as compulsory."
+        },
+        {
+          "number": 6,
+          "title": "Mailed sale notices to interested parties",
+          "bodySha256": "a4a3bb1079242cfb9b57167858eda166d36dcce9e75bd8573e72672a317460d0",
+          "reviewNote": "First-class notice at least thirty days before sale identifies time/date/place and redemption cross-references; does not erase the separate vacant-property exception."
+        },
+        {
+          "number": 7,
+          "title": "Posting and documenting notices on the property",
+          "bodySha256": "32ec382e5b5811a5bffac465042ac98fc22eeee216efdbac9a93764688855ad3",
+          "reviewNote": "Includes twenty-day timing, content, placement, dimensions/weatherproofing, removal prohibition, timestamped photograph, public availability and affidavit verification."
+        },
+        {
+          "number": 8,
+          "title": "Attempting and documenting in-person notice",
+          "bodySha256": "dd80f284f50d5b86e085908127668b0b9dbcb03efa63e893cb8586c634f9e1a8",
+          "reviewNote": "Requires an attempt at least twenty days before sale, permits notice to anyone found there, and documents attempt/person with affidavit. Does not promise completed personal service on an owner."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read eight subsections, nested record searches and2026severability note. Six-month waiting/appeal events, vacant-residential judgment finding and redemption exception, partial-opt-in title search, thirty-day mail versus twenty-day posting and attempted in-person notice, photographs/affidavits/cost recovery retained. Attempt not misrepresented as completed service. Titles unchanged."
+    },
+    {
+      "id": "141.530:7050",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.530&bid=7050",
+      "sourceSha256": "a7cabfd6f109370de6ee22e656a85e6e11fa67e98bf0a1b130d37885da46a65c",
+      "textSha256": "b20c532fdb3760d2fffde42ad34cb9c053dd93a2b7ee10bfa486f8079d13e3a0",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Redemption contracts, installment limits, and discretionary extensions",
+          "bodySha256": "7bd033989b61dc5bc206e5ce8e1a086160ab2417fa0f2bbcdeac5f01618f04c2",
+          "reviewNote": "Includes141.520exception, optional monthly/bimonthly contract, general twelve-installment/twenty-four-month limits and good-cause court discretion for specified homestead or low-value income property up to forty-eight months."
+        },
+        {
+          "number": 2,
+          "title": "Extending the waiting period and installment defaults",
+          "bodySha256": "de0dfac3336070a56f9602366d3f4c42f966479c17ead0b53449a32dec2b0a2f",
+          "reviewNote": "Timely contractual payments extend the wait; a missed installment ends the extension without notice and triggers advertising or inclusion in next sale notice."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read both subsections/history. Cross-referenced exception, optional collector contract and normal twelve-installment/twenty-four-month limit, qualifying good-cause discretionary forty-eight-month extensions, continued waiting only while payments timely and default without notice retained. Titles unchanged."
+    },
+    {
+      "id": "141.535:60365",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.535&bid=60365",
+      "sourceSha256": "8433d371fa24ba0344d7d1aa445cdc7ede1cb09fb4a1a4e553abcf0a8b89387e",
+      "textSha256": "ff0c749e6513030a114fb99cedddccc5ffa160ee41b8f3cab7f8120da8963c7a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Staying tax sales during specified property actions",
+          "bodySha256": "49b123e6097e6c5a6f721edd66077a540ddcae7c8639ddf164a530834607a2b6",
+          "reviewNote": "Applies to447.620–447.640actions after pre-sale deposit of delinquent principal, with notice/certificate to court administrator; covers return of deposit if action dismissed before temporary possession."
+        },
+        {
+          "number": 2,
+          "title": "Deed orders, extinguished charges, and tax remittances",
+          "bodySha256": "54e38fb863a2c3982c7fc39020095c09b6c1623db428d13a55d2fb40ac1c90c9",
+          "reviewNote": "Orders under447.625/.640extinguish listed penalties, interest, attorney fees and costs against grantee/successors and remit principal deposits to collector; not cancellation of all principal taxes."
+        },
+        {
+          "number": 3,
+          "title": "Owner restoration payments and repayment of earlier deposits",
+          "bodySha256": "237b55805216ed315d7fd27c3f29524d5153b3ecf5c229ca7c042e0d5854a2c6",
+          "reviewNote": "Restoration motion requires all current taxes and retroactive charges; if owner regains possession, owner funds go to collector while initial action-bringer’s deposit is returned."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read three subsections and2026severability note. Specified action plus principal deposit before sale and notice/certificate required; dismissal refund only before temporary possession, deed extinguishment versus owner-restoration full charges and payer reimbursement retained. Titles unchanged."
+    },
+    {
+      "id": "141.540:60366",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.540&bid=60366",
+      "sourceSha256": "20ee07fb8e818cd0eec90b49d21c4eb808db1ef0c60de1fb0120483d9b46578e",
+      "textSha256": "13268e6c318bb6de264211cf4c590bdbe7b2a055b01ab4712857a3e4df0e0fb2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Courthouse location of sheriff’s foreclosure sales",
+          "bodySha256": "9c50c3eaa09339952315c536b3a73be3e959ff5738bb4bc5f1c5e1c6fd38387a",
+          "reviewNote": "Sale uses the courthouse front door customarily used for execution sales, within the stated county circumstances."
+        },
+        {
+          "number": 2,
+          "title": "Prescribed sheriff’s sale advertisement",
+          "bodySha256": "bc9d2f21399db73f2d1d93e81bc0d276042694a0bd0c894d5c86556deac9336b",
+          "reviewNote": "Complete form read, including grouped parcels, judgment amounts, public cash auction, land trust/bank provision, court confirmation and signature/date fields. No inference from form wording overrides the detailed sale statutes."
+        },
+        {
+          "number": 3,
+          "title": "Weekly publication before the sale",
+          "bodySha256": "d236888dd6ce459684a982db250cf05f70a95e2175aa886dc09cc904e2be7b59",
+          "reviewNote": "Requires four successive weekly publications on the same weekday in a qualified daily county newspaper, distinct from the sale schedule itself."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read three subsections, complete prescribed sale advertisement and2026severability note. Customary courthouse front door, public auction cash/highest bidder and confirmation in form, four weekly same-day publications retained. Titles unchanged."
+    },
+    {
+      "id": "141.550:60367",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.550&bid=60367",
+      "sourceSha256": "a4854cf970ac510d8a4c4682429b644b279bd9121fc74bb60a2a605035abfb70",
+      "textSha256": "bb53081b7ebf495892e0edc7b09b26c85202232c9c99e560a554141e0d6e2c96",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Execution-sale procedures and court-session independence",
+          "bodySha256": "8e765df7a0767deb4301022670ad7f064a73ba9c7b5f4d8fa30a88cd8ebe4e70",
+          "reviewNote": "General execution-sale procedure governs conduct, return and deed except statutory variations; sale need not be during court term or session."
+        },
+        {
+          "number": 2,
+          "title": "Sale schedule, minimum bids, and bidder eligibility",
+          "bodySha256": "9f9cf88dc2aa7104a87ba1a8f9185242c802c4fd75362e462d780dc6033e7ce3",
+          "reviewNote": "All four subdivisions read: partial-opt-in August timing, charges that may differ from judgment plus nonreimbursable bidder fee, sewer-debt exclusion, county delinquency screening, registered agents and foreign authority. No single condition described as the only requirement."
+        },
+        {
+          "number": 3,
+          "title": "Code-violation screening in specified municipalities",
+          "bodySha256": "a8b6f87c7f4cacef7efe317c511ef83ac4d30d102d80172ae7518784eb0d8dd3",
+          "reviewNote": "Population/geography qualification and two-violation demonstration preserved; taxing authorities and land banks are exempt from this demonstration, not necessarily all sale rules."
+        },
+        {
+          "number": 4,
+          "title": "Interests conveyed and retained utility and federal interests",
+          "bodySha256": "89771cea5fc7b69a65c5409c33d2a4be76a65010fe81a245f53c69118363d0c3",
+          "reviewNote": "Whole interests transfer whether parties answered, subject to specified paid-tax utility rights-of-way and United States lien; title does not say unconditionally free of every lien."
+        },
+        {
+          "number": 5,
+          "title": "Advancing and allocating publication costs",
+          "bodySha256": "2092ccd6bfd650177a9e2f483322748920b8863ac11f8e9a982b0dc9dec5952e",
+          "reviewNote": "Collector advances/accounting credits and parcel allocation covered; enumerated costs do not remain liens after sale."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read five subsections and all nested bidder criteria plus2026note. Partial-opt-in August date, actual taxes possibly different from judgment, nonrefundable200fee and sewer-debt exclusion; ten-day delinquency and registered-agent/authority screening; narrow municipal code test with governmental exception retained. Utility rights-of-way/federal lien and no publication-cost lien after sale retained. Titles unchanged."
+    },
+    {
+      "id": "141.560:60368",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.560&bid=60368",
+      "sourceSha256": "88feb4003c4b104a7ec2f3dc10a5c919b5435d01e124fe95b1a0e2f6e744244c",
+      "textSha256": "e7aabaab85a80a766681bb277b1ed812bcf20efa7b69f505ac4a1976512fd32f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Daily adjournments and reoffering unsold parcels",
+          "bodySha256": "cd72890a531d1c24786e61be78b6854d1aade80d1abe6fc6d3f1c8fb484085f9",
+          "reviewNote": "Applies when no bidders or inadequate time/opportunity, with same place/hour and announced reoffering."
+        },
+        {
+          "number": 2,
+          "title": "Deemed land-trust bids and cancellation of tax bills",
+          "bodySha256": "e5f83ce9060c7771c94a76862e15e938aa3a3b85693ddbcfda8525fe050c9d3e",
+          "reviewNote": "Applies outside wholly covered land-bank territory after three different offering days; preserves required public bid versus deemed judgment-based bid distinction, higher-bid qualification, confirmation and accounting."
+        },
+        {
+          "number": 3,
+          "title": "Deemed land-bank bids and cancellation of tax bills",
+          "bodySha256": "8bd38291ee8ea67e57df704f4064f5f09f640fd71a9b15c4c31ed57d692b2a58",
+          "reviewNote": "Applies to wholly covered territory after three offering days and confirmation. Does not copy the preceding subsection’s express no-higher-bid clause into this differently worded provision."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all three subsections and2026note independently. Three offerings need not be successive, outside/inside land-bank geography distinct. Trigger amount differs from deemed judgment-based bid; land-trust no-higher-bid clause is not supplied to land-bank text. Confirmation-dependent cancellation and credits retained. Titles unchanged."
+    },
+    {
+      "id": "141.580:60370",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.580&bid=60370",
+      "sourceSha256": "766ddd400d82e23852eee25187ab5c3c2cd63255bcfa879fcf7143ebdf46631c",
+      "textSha256": "d185d3bbb4f7365184ef73202a2b84a0aec6478022b91ae9086f93e40c24f980",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Confirmation hearings, notice findings, and quiet-title claims",
+          "bodySha256": "2218ee22d1912134f36c4477a4fe12591e705f0d3eec7a0328412e5980414dcf",
+          "reviewNote": "Includes hearing setting within six months, interested-party notice, value evidence and specific adequate-notice findings, plus preservation of purchaser’s quiet-title claim."
+        },
+        {
+          "number": 2,
+          "title": "Adequacy of consideration and conditional sale confirmation",
+          "bodySha256": "324653b8b9ebd0750dd90ea21ba24a43c6fb1ef53940b9cb839ce0c11414d7fb",
+          "reviewNote": "Read all alternatives: increased bid OR unpaid full tax judgment may permit confirmation; disapproval requires refusal to increase plus full payment by interested parties. Special land-trust/bank presumption is retained without treating price alone as decisive."
+        },
+        {
+          "number": 3,
+          "title": "Distribution priorities, surplus claims, and pending appeals",
+          "bodySha256": "94833096407c7e4f6e93b2be441119cabc66d144c419df7e47ccbd559a74b93f",
+          "reviewNote": "All three priorities and continuation read, including land-bank exception to tax-bill distribution, other surplus issues, special-appeal custody and pro-rata shortfalls by class."
+        },
+        {
+          "number": 4,
+          "title": "Unclaimed sale proceeds after two years",
+          "bodySha256": "fa78f57fa9a40d64a319909a6dac49060d7fc6446d4b3c2eabcc8b2b7ebe38af",
+          "reviewNote": "Remaining funds go to appropriate taxing authorities unless partial opt-in county, where county school fund receives them; not immediate forfeiture after sale."
+        },
+        {
+          "number": 5,
+          "title": "Funding defense of notice-sufficiency claims",
+          "bodySha256": "473101625631ab4d5e33fc53350d71e539ae89673fa25e1f8ecd4c0542508b7a",
+          "reviewNote": "County may allocate a portion of its own proceeds share; discretionary and limited to this defense purpose."
+        },
+        {
+          "number": 6,
+          "title": "Redemption deposits before post-deed challenges",
+          "bodySha256": "8d08705963a2029c7a4a2e2f026c4fc96d7f692d9e8bd52d97ef9c82b82a3359",
+          "reviewNote": "Interested parties other than the sheriff-sale purchaser must deposit the cross-referenced redemption amount before hearing a motion to set aside after deed issuance; not a prerequisite applied equally to the purchaser."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all six subsections, nested priority list and2026note. Six-month setting of hearing, notice/due-process finding, quiet-title claim; inadequate bid may still be confirmed absent full interested-party tax payment, disapproval requires purchaser refusal plus full payment. Land-bank tax-payment exception, pro-rata and appeal retention, two-year unclaimed destination difference, optional defense fund and purchaser exception to post-deed redemption deposit retained. Titles unchanged."
+    },
+    {
+      "id": "141.620:60372",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.620&bid=60372",
+      "sourceSha256": "92b75e48fb22f4ac15fa18366066f01bb3999b9510b24974d5073ab893879697",
+      "textSha256": "b9614babb481d56fdab936f4708ad62999f905baf48ef62930b26c0a10febeb5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Five-percent suit penalty upon petition filing",
+          "bodySha256": "f746aa9cf19330eca1d8c0182941e68051f5a2f0d1c52f462438bb1263abfd64",
+          "reviewNote": "Penalty is calculated on principal and imposed as costs due to collector upon filing, in addition to the other charges; not five percent of the entire judgment."
+        },
+        {
+          "number": 2,
+          "title": "Penalty funds, litigation expenses, and remaining balances",
+          "bodySha256": "83b224f280ba441680fb8615eecba4994f2a03f80c495404bb602e46266da083",
+          "reviewNote": "Separate fund includes recovered penalties/costs, retains needed advances including staffing and notices, transfers remainder annually to land trust or retains it where no trust exists."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read both subsections and2026note. Five-percent principal penalty due on petition filing; separate fund includes other recovered costs, retained expenses and January1 remainder to land trust or collector retention when none exists. Titles unchanged."
+    },
+    {
+      "id": "141.650:7063",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.650&bid=7063",
+      "sourceSha256": "45f5f19e2aa8b67f538d3d02254003d7bbaa3f397caa93c504c68ad4260ffe77",
+      "textSha256": "742d9df34ecb9bad55fd30666fcfc03a290db032b16db64aadf060cdbb0f2ab7",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prorating costs among tax bills",
+          "bodySha256": "02fcaf0625b8cb95dfcf1e629845f45829f4af594611b1df5fe0649bc8a8c934",
+          "reviewNote": "Includes publication and court costs, apportioned pro rata among bills rather than an invented equal parcel fee."
+        },
+        {
+          "number": 2,
+          "title": "Additional costs payable upon redemption",
+          "bodySha256": "e216f2c04f45a349fe98a4d47be18800bb5d3c6834d46e57db8dee16bb4262f6",
+          "reviewNote": "All four fee items read, including distinct amounts triggered by begun publication and sheriff-sale notice and the clerk’s dismissal charge."
+        },
+        {
+          "number": 3,
+          "title": "Crediting costs and reimbursing advances",
+          "bodySha256": "fcbd0b5e4e3c94c66c84370a182d04a17c3336600042289071ee6c861cc4cb94",
+          "reviewNote": "Collector credits proper accounts and is reimbursed from costs for advances under the statutory procedures."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read three subsections and four nested redemption charges/history. Pro-rata bill costs, event-dependent additional parcel charges and circuit-clerk payment, account credits and advance reimbursement retained. Titles unchanged."
+    },
+    {
+      "id": "141.680:60373",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.680&bid=60373",
+      "sourceSha256": "d54c27fd629ca37c92ec55037e367ea59cb614c15140b430530858c18374663e",
+      "textSha256": "cef27c49724d26413cca6094bb12ed1a43936d6c5cea9f80f8a35429558db1a8",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exclusive collection procedures and partial opt-in exception",
+          "bodySha256": "bdff28c3304041808f23c67d749997b9024ee76ea3043c41341c9ac3c91e9435",
+          "reviewNote": "Exclusivity for electing counties expressly excepts partial opt-in counties; conflict clause retained without claiming exclusivity statewide."
+        },
+        {
+          "number": 2,
+          "title": "Court judgment before selling parcels in pending petitions",
+          "bodySha256": "c9f64d8dec9e73e0424ba7c901b6cd4da89a03e6bcce17a5dbb3185e3a735abc",
+          "reviewNote": "Prohibits authorities/bill owners from advertising or selling petition-included parcels absent a court judgment ordering it; does not impose the rule on all property in all contexts."
+        },
+        {
+          "number": 3,
+          "title": "Adding later tax claims before judgment",
+          "bodySha256": "71633ad6b3f088e7211b34c2679cbc2e73782c40d9e48de27a7e4588fa14b988",
+          "reviewNote": "Tax authority or bill owner may assert later-due taxes by amendment or answer, subject to court allowance; these are not automatically included."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read three subsections and2026note. Partial-opt-in exception to exclusivity, court-judgment prerequisite only for parcels in pending petitions, optional later-tax claims before judgment subject allowance retained. Titles unchanged."
+    },
+    {
+      "id": "141.720:7070",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.720&bid=7070",
+      "sourceSha256": "bf8090efcb036a6cf24a07322d77c6e8fdbdad69d8bfe91497e94d1133e7e473",
+      "textSha256": "16ec7b1f8551bd103cbd6a8848baf5cfaa4971deb89f1041f4254ce2a96223ce",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Land-trust membership and appointing authorities",
+          "bodySha256": "0868297b1fc79b62c4368ad6f5bf375bc1520f5c1dbc4ae99103fe469329dabe",
+          "reviewNote": "Three positions derive from county and eligible largest municipality/school district, excluding specified land-bank appointing authorities; county fills failures after expired terms."
+        },
+        {
+          "number": 2,
+          "title": "Trustee terms and changes after land-bank establishment",
+          "bodySha256": "5a7350fac3dce3b109bb3b15d71f87413f18f4e97f65a76f90505c8958268ab0",
+          "reviewNote": "Includes four-year terms, historical initial appointment window and early termination tied to land-bank transfers or one year, whichever first."
+        },
+        {
+          "number": 3,
+          "title": "Residence, experience, and conflicting-office qualifications",
+          "bodySha256": "0658320953a7e648eeb1675bdb85f0e92103ea714613c8ad7fee486d2c2f1fc5",
+          "reviewNote": "Includes five-year county residence, ten-year real-estate experience and prohibition on compensated public office whose duties conflict, not every other public role."
+        },
+        {
+          "number": 4,
+          "title": "Initial staggered terms and service until succession",
+          "bodySha256": "ffa98dd565cfb64daa38492a2df0e9b6f4f3b030c72d47558daf02d8ea49f775",
+          "reviewNote": "Preserves historical1946–1948expiration dates and holding office until successor appointment/qualification rather than applying those dates to new terms."
+        },
+        {
+          "number": 5,
+          "title": "Vacancies and county fallback appointments",
+          "bodySha256": "b04f60021814437405d4276aaa1a1a052f61848e68fa83b1f462922719b0c76f",
+          "reviewNote": "Original appointing authority fills unexpired term; county acts after specified initial appointment or thirty-day failures."
+        },
+        {
+          "number": 6,
+          "title": "Annual trustee salaries",
+          "bodySha256": "4ae4fa528a761cf30f75dfe97c94366b362ebde5737570b06c5e0678cfb250df",
+          "reviewNote": "Neutral topic for the statutory annual salary, without assertion of a current adjusted compensation amount."
+        },
+        {
+          "number": 7,
+          "title": "Removal for cause and opportunity to be heard",
+          "bodySha256": "53e6e8ff105026e78ce780b866321cc021f8fc9ce9ca073d50ef43211c88e3ba",
+          "reviewNote": "Includes respective appointing authority, public hearing if requested, counsel and evidence opportunity; hearing request qualification preserved."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read seven subsections/history. Eligible appointing authorities exclude land-bank appointors, transition ends on earlier transfer completion/one year, experience/residence/conflicting-office qualifications, historical1946–1948 terms, fallback appointments and requested hearing/counsel retained. Titles unchanged."
+    },
+    {
+      "id": "141.730:7071",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.730&bid=7071",
+      "sourceSha256": "a0976d5f7df39d004d8de8a601178d48b80ab13743b7da42dd9aab8ae4d48c52",
+      "textSha256": "e420f490b395f923a5079c6c9b5d41a635942470e5195336478f712f9632beed",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Selecting land-trust officers",
+          "bodySha256": "24cff315ca1d97ee09ee739d3c1b6aa434c935bfec5e2d4eddb8e8cceea3aada",
+          "reviewNote": "Initial meeting follows all three appointments and qualification; listed officers include an assistant secretary who need not be a trustee."
+        },
+        {
+          "number": 2,
+          "title": "Trustee surety bonds and county-paid premiums",
+          "bodySha256": "596eb3ba29a82ca51864ce645ee36b736f46874072bf94e3d35480734d0ca874",
+          "reviewNote": "Includes stated ceiling, collector approval, licensed surety, county-clerk deposit and coverage of all trustees; not confused with commissioner’s minimum bond in141.740."
+        },
+        {
+          "number": 3,
+          "title": "Prescribed trustee oath before taking office",
+          "bodySha256": "b52eaa70dabaa324f0f0625c307c17d88967086da582e168e694c0feb65c3fdc",
+          "reviewNote": "Complete oath/form read including public-body and tax-bill-owner benefit, impartial duties, signatures and notarization; not an invented additional oath."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read three subsections and complete sworn oath/history. Four offices with assistant secretary not necessarily trustee, each-furnish versus cover-all bond wording left unaltered, premium county advance and oath beneficiaries retained. Titles unchanged."
+    },
+    {
+      "id": "141.740:7072",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.740&bid=7072",
+      "sourceSha256": "cd76e1450d8a75bd93e169bcc6cfff194d9c71c7fbb0697663c0150f6a30bff4",
+      "textSha256": "c4a952065fd40abdc879b9ce845ad4765d5edf4945ca6bc1445b13febe1ee34a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Appointing staff and setting compensation and expenses",
+          "bodySha256": "5dbdd570bde8ad999736ebc79bd83ae6539ac245da5f7394aa759603fe469ff6",
+          "reviewNote": "Board may appoint commissioner, other employees and required attorneys, with salaries, benefits and reasonable related costs."
+        },
+        {
+          "number": 2,
+          "title": "Land commissioner’s bond",
+          "bodySha256": "e45116e9ac975c9c9d357ac4218de145ef04885528d9bd5562474669a7ffa6d7",
+          "reviewNote": "Trust pays premium, trustees approve, amount has a minimum not the trustee-bond ceiling, and bond is filed with county clerk."
+        },
+        {
+          "number": 3,
+          "title": "Commissioner qualifications and executive responsibilities",
+          "bodySha256": "82e0b9d3e91ff92ed0615b51c5150958f83ebb1f2f0dc6d4c5fc93fd83f415cf",
+          "reviewNote": "Requires real-estate management/sale experience; commissioner administers trust business under trustees’ supervision and control."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read three subsections/history. Discretionary appointments and compensation, land-trust-paid minimum10000bond, experienced commissioner under trustee control retained. Titles unchanged."
+    },
+    {
+      "id": "141.750:7073",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.750&bid=7073",
+      "sourceSha256": "c893a129168f079c4e9eb945d78b42de9f8e30f6f2c5c0bd81b0737a2764c6b4",
+      "textSha256": "8530b142bf37b60968f0070fa7d0b41ae4aa13acad3ae4511521aabe9a1a5412",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Land-trust corporate powers, seal, and deed execution",
+          "bodySha256": "7901bc7f1c43323213fe0ee2626f39fe3c98b6afb9da27c992efd975abf0a9e2",
+          "reviewNote": "Covers continuing body, official seal, suit/deed authority, specified signers and attestation, and general business administration."
+        },
+        {
+          "number": 2,
+          "title": "Conveyances, appraisal thresholds, and small-tract exception",
+          "bodySha256": "108ad6f11fdc0655c3defdadc7a67b9d677c3c81a306b85b4f418ba4a3a9a5d9",
+          "reviewNote": "Includes warranty/fee conveyance without beneficiary instruments, deed recital of appraisal comparison, two appointing-authority consents below two-thirds, and limited contiguous-owner small-vacant-tract sale without appraisal."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read both subsections/history. Deed signatures/attestation and corporate powers, appraisal two-thirds threshold and two appointor consents, narrow vacant-residential/contiguous-owner half-assessed-price exception retained. Titles unchanged."
+    },
+    {
+      "id": "141.770:7076",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.770&bid=7076",
+      "sourceSha256": "d3562008293875145587dba82744e4f81b7849aab6398a3f073fb3e722325351",
+      "textSha256": "e717a03c5c6976b0a796e622ad253be1438c99af586e2de02728375d1d18c417",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual budget preparation, approval, and carryover",
+          "bodySha256": "e4e806f552ad8e80b7ddb3ffd11e26b475bdb210c508ba90d8b8d100c1594ed4",
+          "reviewNote": "Read October1submission, November20deemed approval, prior-year fallback on January1when objections unresolved, and deduction of prior unexpended funds."
+        },
+        {
+          "number": 2,
+          "title": "Public budget access, hearings, and amendments",
+          "bodySha256": "d1a5d6d3c596d421da728273b42fe505894a4b369bff71916fadcef657f36423",
+          "reviewNote": "Separate October10public copies and pre-October20hearing; amendments require appointing bodies’ approval."
+        },
+        {
+          "number": 3,
+          "title": "Expense advances, requisition limits, and county reimbursement",
+          "bodySha256": "3073f58431d3c98eae1a108f0c48d862d0099564de6b8f832a8f12f57766ec3f",
+          "reviewNote": "Entire long formula read: county7percent, qualifying taxing bodies93percent, proportional base,25percent budget limit absent additional approval, county advance of other shares and reimbursement/withholding."
+        },
+        {
+          "number": 4,
+          "title": "Fiscal year, claim audits, and payment warrants",
+          "bodySha256": "71b18ad9e56b365867d980a0e5c0c292baf178832f4a3f950f9b487d25978518",
+          "reviewNote": "January1fiscal start and trust audit of expenditure claims precede warrants drawn through chair or vice chair."
+        },
+        {
+          "number": 5,
+          "title": "Payment certifications, commissioner liability and removal",
+          "bodySha256": "d4f7dc93d22f758a030697d74dd1e51e8f1d5c887eb64eebd45fc8de4baf2faa",
+          "reviewNote": "Approval and certification of both appropriation balance and cash required; contrary certification entails personal/bond liability and removal."
+        },
+        {
+          "number": 6,
+          "title": "Performance audits and public availability",
+          "bodySha256": "e28e8bd42208ee165a49d84bb6e629edc94babbead568428af701c48800dc94e",
+          "reviewNote": "Optional state or qualifying city audit supplements annual audit; trust pays and supplies copies within thirty days. Does not authorize any city auditor regardless of statutory class."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read six complete subsections/history. October/November budget dates, deemed approval and prior-budget carryover, unexpended deduction,7/93allocation and25percent requisition ceiling with excess approval, county advances/reimbursement retained. Revised(5) to name certification liability and removal because contrary certification, not necessarily completed improper payment, triggers it. Narrow city auditor category and30-day public copies retained."
+    },
+    {
+      "id": "141.785:7078",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.785&bid=7078",
+      "sourceSha256": "6f0ccf2c1e750eaf75928c530a4c944e47a19343c738d62814e0d14c0bd433a2",
+      "textSha256": "461f7017f7bd7d2b40551857dc6898b5def744f033604e1ada196663de7535b0",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Land-trust authority and standing to quiet title",
+          "bodySha256": "c0fd40c276c5746fe6c3a1ff46ec7da36f792c545993837c7ef67602de3c0a53",
+          "reviewNote": "Applies to trust-held interests under527.150and deems adequate legal, equitable and possessory interests; distinct actor from land-bank provisions."
+        },
+        {
+          "number": 2,
+          "title": "Title examination and service on interested parties",
+          "bodySha256": "7725740240b54f5583f38e48a824fa46377e8529592d5d547da773bc747418e9",
+          "reviewNote": "All five methods read, including occupied-property mailing, posting, publication and court-ordered methods; does not insert the additional due-process phrase from141.1009."
+        },
+        {
+          "number": 3,
+          "title": "Affidavit identifying interested parties and notice",
+          "bodySha256": "7d986b9922305eb99cf51b194225fdd9f5ccce28f54fde9633e54d9fde36b514",
+          "reviewNote": "Identifies potentially interested parties and notice form, not merely recipients who answered."
+        },
+        {
+          "number": 4,
+          "title": "Hearings and judgment on unanswered matters",
+          "bodySha256": "d419458667dbfac9346ff1eca2b35059d639c6fc32e96a5b508e92389adfc759",
+          "reviewNote": "Ninety-day hearing schedule and120-day judgment only for unanswered matters remain distinct."
+        },
+        {
+          "number": 5,
+          "title": "Joining parcels in one quiet-title petition",
+          "bodySha256": "0e317ecab2eeb55801cf68e71feda07fcc0e44b066bdf39f0ca73b588e0e371e",
+          "reviewNote": "Trust may join one or more parcels, without eliminating each parcel’s required notice."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read five subsections/all five notice methods/history. Sufficient-interest standing, title examination and multiple notice routes, ninety-day hearing versus120-day judgment on unanswered matters, parcel joinder retained. Titles unchanged."
+    },
+    {
+      "id": "141.810:7081",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.810&bid=7081",
+      "sourceSha256": "4015e11e6e1f5c9cddab0a3261ff5edb7946951a32858202fbc979be37f73c6a",
+      "textSha256": "3727b5c74d67b71ed0aae6ae0d519f13304097b6d76915d4e78f4ce1460ea9b4",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Limits on trustees’ and employees’ property-related profits",
+          "bodySha256": "5c1d320b9ccb8aa82f761df54c9c50561a86cba69acc9afb1545bec1924674a0",
+          "reviewNote": "Covers direct/indirect compensation from trust-land transactions beyond provided salaries, expenses and emoluments; unlike141.819(5), this text expressly has an allowance."
+        },
+        {
+          "number": 2,
+          "title": "Criminal penalty for violating compensation restrictions",
+          "bodySha256": "b439683d077fdce5684fec80e61a8e8514ed4cc84421129182207a1d235fe441",
+          "reviewNote": "Describes conviction-based felony sanction rather than asserting any payment automatically results in imprisonment."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read both subsections/history. Trustees and salaried employees restricted except authorized salaries/expenses/emoluments; conviction-based felony penalty retained without broadening employee category. Titles unchanged."
+    },
+    {
+      "id": "141.819:60375",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.819&bid=60375",
+      "sourceSha256": "25acf716ea2a096d321358adec173da98e94ec7fe71278d083a6450ed30fde49",
+      "textSha256": "11e0724ff8e2269178feeb353679d4a0f8088ca7bc704bf1d34f43c4d06bd6ed",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Creating partial opt-in land trusts and appointing trustees",
+          "bodySha256": "451781c5169c644de9d4d55613015c94159073d604bbf81f378f2aaf2bfdad5c",
+          "reviewNote": "Before confirmation of the specified deemed bid, county establishes trust with one or three trustees; initial two/three-year and later two-year terms and unexpired vacancies preserved."
+        },
+        {
+          "number": 2,
+          "title": "No land trust when the county establishes a land bank",
+          "bodySha256": "9b0c40a3454d0beaf20253eced94ec536f0b4ff27ec0abbdc78aa1f769337304",
+          "reviewNote": "Exclusion applies to county election under140.981(1) and the specified statutory trust span; not every municipal land bank."
+        },
+        {
+          "number": 3,
+          "title": "Property disposition votes and appraisal-based approval",
+          "bodySha256": "b875c872bf59c2ff23af77838dc64152002f493b54ee60c97737fc2499605638",
+          "reviewNote": "Trustee majority acts; below-two-thirds appraisal consideration requires county-commission majority, distinct from141.750two-appointing-authority consent."
+        },
+        {
+          "number": 4,
+          "title": "Operating accounts and distribution of disposition proceeds",
+          "bodySha256": "ad7ee50a81c4a8a6fcd49fb457a9be88ecf1dc341f64fa3da8aa28b77d3f12f6",
+          "reviewNote": "Both subdivisions read: operating accounts and order of sale expenses, listed property costs, then county general fund."
+        },
+        {
+          "number": 5,
+          "title": "Prohibition on trustee profits from trust-held land",
+          "bodySha256": "2b930cf7cc40e3fcf421de877e12a267893af9c36c4eb624b8e3a357e825dd6d",
+          "reviewNote": "This version prohibits the listed compensation, emoluments or profits without141.810’s salary/expense allowance; do not import that exception."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read five subsections/nested distribution order and2026note. Partial-opt-in trust before deemed-bid confirmation unless county land bank, one-or-three trustees and initial/subsequent terms, two-thirds threshold and county approval, expenses/property costs/general-fund priority and uncompromised trustee-profit prohibition retained. Titles unchanged."
+    },
+    {
+      "id": "141.980:60376",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.980&bid=60376",
+      "sourceSha256": "ce0e8b646219ae9ba2d8c2033368090211e40a3f2d5c3b36388e3aefc76f8ae1",
+      "textSha256": "1fd1bb01c0386b57583d39192d0c6af2ec3fe8f30c9a641e7f77f3a7be716009",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Municipal land-bank establishment, purpose, and eligibility",
+          "bodySha256": "9da4202de8d8b614149b7abdd867192bc9f8f025223117648769474d93e6f7b5",
+          "reviewNote": "Both subdivisions read: named act, municipality within wholly operating county, ordinance or resolution, return to private or public use, municipal boundary restriction, and exclusion of partial opt-in counties."
+        },
+        {
+          "number": 2,
+          "title": "Taxing-authority beneficiaries and proportional interests",
+          "bodySha256": "41e6ac76014ba033422d8302761f175c127f2fdaa4fa4bce3c1d46d80a5e1d94",
+          "reviewNote": "Identifies three specified acquisition routes and court-determined priorities and principal-tax-bill proportions; does not extend beneficiary treatment to every donated parcel."
+        },
+        {
+          "number": 3,
+          "title": "Public corporate status and duration until dissolution",
+          "bodySha256": "12b273605f9f921f5800dc6f2838dc5a1092a035769869f5d8bd00cd781e4fa4",
+          "reviewNote": "Permanent public body corporate and politic remains subject to termination and dissolution under141.1012; not an assertion that dissolution is impossible."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all three subsections, nested act/purpose provisions and2026severability note. Municipality in wholly operating county only, no partial-opt-in or outside-boundary ownership; beneficiaries tied to listed acquisition routes and court principal-based priorities; permanent duration subject dissolution retained. Titles unchanged."
+    },
+    {
+      "id": "141.981:7100",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.981&bid=7100",
+      "sourceSha256": "5fc747d6e65f0db6074ecaa69f4c358249793cbebb2592463d6024171e36b069",
+      "textSha256": "2e43a2984434333f170ff5426d12893ae708c89353376dfc8d34bf47c8076b33",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board appointments, terms, vacancies, and appointing authorities",
+          "bodySha256": "094f65f98b1b32a35c8a1d4283fd27bdca7b81d8f06dc5cda422166f286cf3c1",
+          "reviewNote": "Full five-member allocation, county and largest-population school district representation, municipal remainder, four-year terms, pleasure service, no compensation, sixty-day fallback appointments and141.720exception read."
+        },
+        {
+          "number": 2,
+          "title": "Eligibility of public officers and subdivision employees",
+          "bodySha256": "4aef00b9cedbc6e47e84d0d726f17fd6f6cd3415ba842f22e323ae40ea0d8ca6",
+          "reviewNote": "Elected political-subdivision officers may retain their offices while serving; employees are also eligible. Does not broaden the defined public officer to all offices."
+        },
+        {
+          "number": 3,
+          "title": "Annual selection of board officers and their duties",
+          "bodySha256": "a9eca7415467fd6cbda3a605f0fa420f111483925e6118e3ad6ec7371dba80db",
+          "reviewNote": "Board chooses chair, vice chair, treasurer and other officers annually from members and establishes duties subject to board rules."
+        },
+        {
+          "number": 4,
+          "title": "Agency organization, personnel compensation, and expense reimbursement",
+          "bodySha256": "50a9c36fc3b793150c654ab51a88d7ff678092e2c9aee1bf1557383d1483c700",
+          "reviewNote": "Board may reorganize departments and fix employees’, agents’ and consultants’ duties, powers and compensation; member reimbursement is for actual performance-related expenses."
+        },
+        {
+          "number": 5,
+          "title": "Regular and special meetings and quorum",
+          "bodySha256": "ee519105d3256c96950761f78389a2b3f55343aa3e48b1540569d602cc4c971a",
+          "reviewNote": "Board-adopted schedule, chairman or majority-signed special-session notice, and majority of total membership quorum all read."
+        },
+        {
+          "number": 6,
+          "title": "Voting requirements and matters requiring full-board majorities",
+          "bodySha256": "dc17377c61c7b01cf44cccd39643119f3c40d1131d2de0f09cf36f85793bd383",
+          "reviewNote": "General present-and-voting majority differs from six listed matters requiring roll-call majority of entire membership; hiring delegation, low-price sales and fifty-thousand-dollar value threshold retained."
+        },
+        {
+          "number": 7,
+          "title": "Commissioner surety bonds and governmental coverage exception",
+          "bodySha256": "f2f41abac918db557c32489b800c13e0d2af5da6466b9b4afc63ef132743e52e",
+          "reviewNote": "Bond requirement subject to existing governmental surety coverage, maximum penal sum, municipal approval, licensed surety, county deposit and faithful-performance/all-commissioner coverage."
+        },
+        {
+          "number": 8,
+          "title": "Commissioner oath before taking office",
+          "bodySha256": "335c77c39472c3743e31b94dadebbea4dfd43ed242c8eb27334b32d7a9ff77fa",
+          "reviewNote": "Complete oath and notarial form read, including constitutional support, impartial administration of tax-delinquent and other lands, and represented public bodies and tax-bill owners."
+        },
+        {
+          "number": 9,
+          "title": "Protection from personal liability for agency obligations",
+          "bodySha256": "82735b7751bb3e67ae3ea3404fae772156aff1961e5917b99d5692d192b56065",
+          "reviewNote": "Members not personally liable on agency bonds or other obligations; creditors’ rights run solely to agency assets. Does not imply immunity for all individual misconduct."
+        },
+        {
+          "number": 10,
+          "title": "No proxy voting and requests for recorded votes",
+          "bodySha256": "bae3db2d073275b3bb81a5d81e05da610613c0269cced012e347ea915b48a9ad",
+          "reviewNote": "Every member may request a recorded vote on a resolution or action; proxy voting prohibited."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read ten subsections, six special voting matters, complete oath and history. Five-member allocation, appointor pleasure/no compensation and fallback, elected-officer definition, actual-expense reimbursements, ordinary versus full-board roll-call votes/delegable staffing, bond coverage exception and no personal agency-obligation liability retained. No proxy voting distinguished from recorded-vote request. Titles unchanged."
+    },
+    {
+      "id": "141.984:60377",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.984&bid=60377",
+      "sourceSha256": "990ee489e6aa2cbee932179f20ac32cc45c2cd7a18bce29b4b601cf6cea9be67",
+      "textSha256": "bf2716689fa7f61a4a2de375be42248286154b631f8fba3dbd251ae81222eb7c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Transfer of land-trust property within the municipality",
+          "bodySha256": "23f42345a17f72c0dcd0ad3f996bff889235487e3b52c15f5a6658afc61d2a2e",
+          "reviewNote": "One-year deadline after establishing ordinance or resolution applies to land-trust real property wholly within the creating municipality, not all county trust land."
+        },
+        {
+          "number": 2,
+          "title": "Tax exemptions, ownership notices, and ground-lease occupancy",
+          "bodySha256": "2a4c02bdf78caa538d260dfb0ac38690eb00106d71f6cb6a2338d8e792a232a3",
+          "reviewNote": "Income exemption and ownership-period property exemption distinguished; immediate assessor/collector notices for acquisition, disposition and first occupancy that ends exemption for improved occupied ground-leased property."
+        },
+        {
+          "number": 3,
+          "title": "Property acquisition methods subject to municipal limits",
+          "bodySha256": "7997e137b8315242349f586785ca6c40cc102e95240a4d2eefe317601f95a83d",
+          "reviewNote": "Gift, devise, transfer, exchange, foreclosure, purchase and other acquisition remain subject to141.980(1)rather than unrestricted statewide acquisition."
+        },
+        {
+          "number": 4,
+          "title": "Purchase contracts, public transfers, and foreclosure bidding",
+          "bodySha256": "41014e4128beb19d642cccfdab84ab11c77b9f77a40e7d2a4290d5c1dc5ea602",
+          "reviewNote": "Repeated141.980(1)limits, agreed public-transfer conditions,141.550sheriff-sale bidding and subdivision transfer procedures all read; source’s “land contacts” wording retained in body."
+        },
+        {
+          "number": 5,
+          "title": "Compliance with property maintenance laws and ordinances",
+          "bodySha256": "fe3ba5b41565ec6e59dc2a3d86d25c918894c39ab56934edaf922891b7175a85",
+          "reviewNote": "Agency must maintain all real property under laws and ordinances of the jurisdictions where it is located."
+        },
+        {
+          "number": 6,
+          "title": "Payment of excess bids and cancellation of tax bills",
+          "bodySha256": "fa4ab27973c4f98060876f589876cd286fc3d7054ac6f72ed30730c10bca8938",
+          "reviewNote": "Confirmed specified foreclosure-sale acquisition requires payment only of bid excess over listed judgment amounts, prescribed distribution excluding141.580(3)(3), and collector cancellation/credit of included bills and charges."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read six subsections and2026severability note. One-year wholly municipal transfer; ownership notices, public-real-estate exemption and first ground-lease occupancy termination; municipal limits on acquisition and bidding, maintenance compliance and confirmed excess-bid payment/cancelled tax bills retained. Source land contacts wording not repaired. Titles unchanged."
+    },
+    {
+      "id": "141.985:7104",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.985&bid=7104",
+      "sourceSha256": "627a44cb82bcf57c1b03a4a91c83e91f22ed5043c26f05bc67fa6db30e9e9daf",
+      "textSha256": "b6fa4f73b09b6055bb1215ac2aace14c7e3c24fd5dbbbdba0082aaedc5fd39e6",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Holding acquired property in the agency’s own name",
+          "bodySha256": "26cb1418d615fcafb3c4323edf2ac13d39fe6187dd1dfe6ce914d501455f3931",
+          "reviewNote": "Applies regardless of the transferor’s identity; no claim that agency title resolves all encumbrances."
+        },
+        {
+          "number": 2,
+          "title": "Public property inventory and required website information",
+          "bodySha256": "aac69e555eb2fccade86d1e7d10a49d51ef3b66b4b3197ca233198e9fb5c4725",
+          "reviewNote": "Inventory must be inspectable and online with sale availability, assigned address or unaddressed parcel number, and acquisition year."
+        },
+        {
+          "number": 3,
+          "title": "Policies on consideration for property transfers",
+          "bodySha256": "54c7561993cb53dfbc8c1791e9f33b07aeaf72a05c964c7c5776da8b3da8e024",
+          "reviewNote": "Consideration includes monetary/secured obligations, use covenants and conditions, transferee commitments and other board-determined forms; not necessarily cash or market value alone."
+        },
+        {
+          "number": 4,
+          "title": "Property transfer and encumbrance powers within statutory limits",
+          "bodySha256": "f305cd91ba5c5ff0ad3cc8d7b4843502340b845f77b9c75d0c4002885d2d0379",
+          "reviewNote": "All conveyance, lease, pledge and related powers remain subject to141.980(1)."
+        },
+        {
+          "number": 5,
+          "title": "Municipal priorities for conveyed property uses",
+          "bodySha256": "ffd1e2a14b554287438b2c3eb335ebe32a74526d258134ea3da922d68e8a6716",
+          "reviewNote": "Optional priority hierarchy, listed public/affordable housing/commercial/wildlife uses, subsection7limit and consistency with/no greater restrictiveness than planning and zoning all read."
+        },
+        {
+          "number": 6,
+          "title": "Delegating execution of property conveyance documents",
+          "bodySha256": "12a7739bdf45c122d94783c7bf6a29db1de200b12627073bb40a2680513620dd",
+          "reviewNote": "Board may delegate officers/employees authority for agreements, conveyance instruments and related documents; not an unlimited delegation of all board powers."
+        },
+        {
+          "number": 7,
+          "title": "Fair-market-value offers and judicial review of rejection or delay",
+          "bodySha256": "2a19d1d8ec5759f4371d73baa752c42f9ff35976c18b7879420964012cea922e",
+          "reviewNote": "Written offers at or above fair market value, sixty-day nonresponse, competing accepted qualifying offer exception and county venue read. Original-roll “is” note retained; no invented automatic transfer."
+        },
+        {
+          "number": 8,
+          "title": "Proceeds from specified tax-sale and land-trust acquisitions",
+          "bodySha256": "b7a9b124946be524e8b65dbf464b3f68bf8235c6569b05b53fbb08fd33621a48",
+          "reviewNote": "Three acquisition routes and ordered sale/financing/budget distributions distinguished from ancillary parcels; reasonable carryover, ancillary-profit exclusion, current taxing authorities’ levy proportions and January/July dates retained."
+        },
+        {
+          "number": 9,
+          "title": "Ancillary-parcel proceeds and payment priorities",
+          "bodySha256": "ce159367b9d9cb10290de904b992ebce9e9e59be8eabec1295dc8dff9be1619c",
+          "reviewNote": "Land taxes and charges paid before sale costs, financing obligations and operating balance. Excess provision refers to subsection8(3), not8(4); preserves that reference without silently substituting taxing-authority distribution."
+        },
+        {
+          "number": 10,
+          "title": "Price reductions for unsold properties in the same block",
+          "bodySha256": "5c36852cc1256cf8acb54b703cef2c1faa1166e0009bfcc0201bc678485bf016",
+          "reviewNote": "Mandatory discount and public advertisement require more than five owned parcels in a single block and no offer for any of them in preceding twelve months; not a general annual price cut."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all ten subsections, nested proceeds priorities and original-rolls note. Agency ownership and inventory, discretionary consideration/use priorities, mandatory fair-market-value offer path with pending accepted-offer exception, review after rejection or sixty days, three acquisition routes and distinct ancillary proceeds retained. Subsection 9 points to 8(3), not 8(4); did not repair that reference. Block price reduction requires more than five properties and twelve months without an offer. Titles unchanged."
+    },
+    {
+      "id": "141.988:7105",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.988&bid=7105",
+      "sourceSha256": "302a23b96bea3fceb16481706a167e809d434bd15c1126ba1e40d6e09b8eb861",
+      "textSha256": "0c85b2e8fff5cd2c8b801a30cf505021a06393fa0d00ca1eca2998ea9b518850",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Grants and loans from public and private sources",
+          "bodySha256": "2941da8945ace8bbeeadf6792b1851754d4e0ff2b32510d11fad0c14e76dde99",
+          "reviewNote": "Agency may receive grants/loans from subdivisions, state, federal and other public/private sources."
+        },
+        {
+          "number": 2,
+          "title": "Retaining operating and asset income subject to distribution rules",
+          "bodySha256": "21fc8f962a413fe761b628aec40e7cf3a4268e0c62c621adfc04fa227635a09a",
+          "reviewNote": "Service/rent/lease/disposition/insurance/investment and other lawful income are subject to141.985(8)and(9)exceptions."
+        },
+        {
+          "number": 3,
+          "title": "Post-disposition tax distributions, exclusions, and offsets",
+          "bodySha256": "79860071f9b60bb720169f7e4228ea1a9a17e60374d6dda1a5137b74ae0f6570",
+          "reviewNote": "Three tax years following sale, collected-not-refunded condition, fees/deductions, following March1deadline, protested/impounded-tax exclusion and erroneous-prior-distribution offsets all read."
+        },
+        {
+          "number": 4,
+          "title": "County fee on reserve-period tax collections",
+          "bodySha256": "dd1ae83a879fcf78d650c94a588d10837721fb0cf86f572c67e1148a6152aeb6",
+          "reviewNote": "Four-percent fee on reserve-period taxes is collected for and deposited in county general fund, additional to other collection-fee law."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all four subsections and history. Funding permissions distinguished from retained-income distribution exceptions; three post-disposition tax years, exclusions for protested/impounded and refunded taxes, fees, March deadline and erroneous-distribution offsets retained. Four-percent county reserve-period fee distinct from agency distribution. Titles unchanged."
+    },
+    {
+      "id": "141.994:7107",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=141.994&bid=7107",
+      "sourceSha256": "0654eb5116ed84bab4f3b8bcc4d13d4fb815b4d7482758e3d4963fefc4c7acfd",
+      "textSha256": "99c828d0fc5b4728c6e402679a0fe7c17ada167f254b226edfe6c96cfff3fefe",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "draftedBy": "root",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Municipally approved revenue bonds and security",
+          "bodySha256": "92970254755ded08282bc57f847d80b3b0c00db61544b6bb52353d7baf32e98d",
+          "reviewNote": "Special limited agency obligations require creating municipality’s approval, specified asset revenues and possible additional revenue pledges or property security; not general taxing-power bonds."
+        },
+        {
+          "number": 2,
+          "title": "Bond debt limitations, public liability, and personal liability",
+          "bodySha256": "d34c430e26b45e357aea162a660fe9fdbfe6219af76d1ab1c58279ed03901d51",
+          "reviewNote": "Excludes constitutional/statutory indebtedness classification and state/subdivision liability subject to subsection4exception; required recital and issuance-related personal liability protection read."
+        },
+        {
+          "number": 3,
+          "title": "Board authorization, bond terms, and public or private sales",
+          "bodySha256": "1d13d22cdc2e91871cc9de6be591be3ba472346e8352d6e9c081e3c2718f68e2",
+          "reviewNote": "Resolution and approved financing documents govern form, denominations, interest, maturity, redemption and execution; board selects sale method/price in agency’s interests."
+        },
+        {
+          "number": 4,
+          "title": "Optional political-subdivision guarantees and obligations",
+          "bodySha256": "5d61af9e7fb24e71c7f6ff1662e7adae8884957a61bff6099982b101bbc9d16d",
+          "reviewNote": "Election to guarantee/insure or assume obligation remains subject to Missouri debt law; no obligation absent election."
+        },
+        {
+          "number": 5,
+          "title": "Refunding bonds for existing valid obligations",
+          "bodySha256": "56c6098cfed9647c2a12a6ffcfd24c853e1384509f53efc3bc0959b3b45b22e8",
+          "reviewNote": "Board-authorized refunding, extending and unifying valid outstanding bonds, identified revenue sources and investment proceeds; not all future expenditures."
+        },
+        {
+          "number": 6,
+          "title": "Negotiability under Missouri’s Uniform Commercial Code",
+          "bodySha256": "cb02a1ca2abb493edd97e6837f3bd235ab90db8cc5507f0fdad6d077a5839e37",
+          "reviewNote": "Applies negotiable-instrument treatment to bonds issued by the agency."
+        },
+        {
+          "number": 7,
+          "title": "State tax exemption with estate and transfer tax exceptions",
+          "bodySha256": "784ee3b403801569a0da5e975a6cef9e2826283c0cce2220ef4b2306f307810c",
+          "reviewNote": "Bonds and income/interest exempt from state taxes except estate and transfer taxes; no assertion of federal exemption."
+        },
+        {
+          "number": 8,
+          "title": "Temporary notes and refunding authority",
+          "bodySha256": "343e48a50792c680d85093b8324a7b06084afc4f3bc735592f04e24a39590e65",
+          "reviewNote": "Temporary notes carry bond terms/restrictions and may be refunded with authorized notes or bonds."
+        }
+      ],
+      "reviewedBy": "headings_c",
+      "reviewSummary": "Read all eight subsections and history. Municipal approval, special limited revenue obligations and possible additional security preserved; general public-debt exclusion subject optional lawful political-subdivision guarantee, personal liability exclusion, board terms and public/private sale discretion checked. Refunding outstanding valid bonds, negotiability, estate/transfer tax exceptions and restricted temporary notes retained. Titles unchanged."
+    }
+  ]
+}

@@ -1,0 +1,785 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Complete archived-source drafting and separate complete-source editorial reviews; entry status determines acceptance.",
+  "entries": [
+    {
+      "id": "148.030:7529",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.030&bid=7529",
+      "sourceSha256": "0e408e46907ed37ba72183775bebafe22d3cac991eb2fa7f35cba0e953a05ed1",
+      "textSha256": "0b0ba5b15336c4c940ae1b3b8ad93e59a4379e36153b5b6346a065d1cb72387d",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual bank franchise tax",
+          "bodySha256": "06208afd25d454e914c8b0d2770c1db6305ff66f3d060ad2c26089da94c377c3",
+          "reviewNote": "Complete text/history read; two-component calculation and zero floor, own-purchase versus collected sales/use taxes, leased-property and unemployment exclusions preserved. Separate review: Annual privilege tax applies to banking institutions and directs computation to subsection2."
+        },
+        {
+          "number": 2,
+          "title": "Computing the bank franchise tax",
+          "bodySha256": "c82bbebdbd4d472e5cfd7e045d0c5fa1cc53376f89b25df632285a52e7d51e4f",
+          "reviewNote": "Complete text/history read; two-component calculation and zero floor, own-purchase versus collected sales/use taxes, leased-property and unemployment exclusions preserved. Separate review: Both franchise and income-based components, credit subtraction and zero floor are included."
+        },
+        {
+          "number": 3,
+          "title": "Allowable tax credits and excluded taxes",
+          "bodySha256": "6595e8da46ef4b2f5fd3ce857d0ef4a4d4f5514402d0877ad5daecbac5cbdfe7",
+          "reviewNote": "Complete text/history read; two-component calculation and zero floor, own-purchase versus collected sales/use taxes, leased-property and unemployment exclusions preserved. Separate review: State/local paid taxes are distinguished from excluded leased-property, unemployment, franchise and collected sales taxes."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read the complete three-subsection tax computation and 1988 effective-date note. Credits and zero-floor computation remain qualified; no current-rate inference from this older version."
+    },
+    {
+      "id": "148.040:7531",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.040&bid=7531",
+      "sourceSha256": "b2f3be94b49720dca5e844ca2712de70fa92a142ff8487595d7548bdf9b612d3",
+      "textSha256": "dfc250f7e94946e05469f39b88b7dd4a536cf679031d20f4ec551d899a7eeada",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Gross income and excluded recoveries or dividends",
+          "bodySha256": "ceebbb5beb0ffd35ef62c9736ab0a719d98aea5c1c296fb84909f33039742177",
+          "reviewNote": "Complete body/history read, including loss-recovery excess limitation, bank-stock dividend exclusion, five-percent charitable cap and director accounting override. Separate review: Gross-income sources, post1946 loss recoveries, excess-deduction exception and bank-stock dividends all checked."
+        },
+        {
+          "number": 2,
+          "title": "Net income after deductions and adjustments",
+          "bodySha256": "2cea3f5e3c4de5a4c6d4df9ce8fa519d40805c5d5b1861c940d6c4378a0b30c7",
+          "reviewNote": "Complete body/history read, including loss-recovery excess limitation, bank-stock dividend exclusion, five-percent charitable cap and director accounting override. Separate review: Net income subtracts subsection3 deductions and includes148.097 adjustments."
+        },
+        {
+          "number": 3,
+          "title": "Business expenses and other allowable deductions",
+          "bodySha256": "d6fc80c35ad135c3b1cee5d278641c38b0c97b78c2515e68a8e143d696756c0c",
+          "reviewNote": "Complete body/history read, including loss-recovery excess limitation, bank-stock dividend exclusion, five-percent charitable cap and director accounting override. Separate review: Read entire expense/loss list including five-percent charitable contribution limit and uncompensated losses."
+        },
+        {
+          "number": 4,
+          "title": "Accounting methods for computing net income",
+          "bodySha256": "3c4ed80a274bc66a793ec525c4846acec3e3bad6b616eba602ff402281b5e8bc",
+          "reviewNote": "Complete body/history read, including loss-recovery excess limitation, bank-stock dividend exclusion, five-percent charitable cap and director accounting override. Separate review: Regular accounting method yields to director-selected method only when income is not clearly reflected."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read all income definitions, deductions and accounting provisions and history. Recovery exclusion depends on prior-period excess deductions; charitable deduction ceiling and director accounting override retained."
+    },
+    {
+      "id": "148.060:7534",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.060&bid=7534",
+      "sourceSha256": "12726eb76f063e9e077aadd213b0b0c8547c145fa289482a0aab8bcad1aacb8f",
+      "textSha256": "0399e006726f380f79d5194188039a1435749c418a61bac0bacbe46e11fd857b",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Reviewing returns, deficiencies and overpayment refunds",
+          "bodySha256": "c1f0afc45794743d9cc926fceada362a184f909641181003ec560f64e0676996",
+          "reviewNote": "Full source/history read; offset before refund, over-one-dollar threshold and terminated-taxpayer recipient exceptions retained. Separate review: Deficiency proposal and overpayment offset/refund are distinct; greater-than-one-dollar threshold retained."
+        },
+        {
+          "number": 2,
+          "title": "Estimated assessments when no return is filed",
+          "bodySha256": "435cb4bbca638a5e11f43ae565ad5ceb055b4cd254e842ecc621f1d328780fa6",
+          "reviewNote": "Full source/history read; offset before refund, over-one-dollar threshold and terminated-taxpayer recipient exceptions retained. Separate review: No-return estimates cover shares, Missouri surplus, net income and resulting tax."
+        },
+        {
+          "number": 3,
+          "title": "Contents and mailing of deficiency notices",
+          "bodySha256": "1b0e603e1c12dc6d74727e541287c226a473d3d1f776a380a936f97798801770",
+          "reviewNote": "Full source/history read; offset before refund, over-one-dollar threshold and terminated-taxpayer recipient exceptions retained. Separate review: Reasons, mailing method, last-known address and designated recipient for terminated taxpayer checked."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read complete assessment/refund provisions and May15,1986 note. Refunds follow offsets and the more-than-one-dollar threshold; certified/registered deficiency notice rules include terminated entities."
+    },
+    {
+      "id": "148.064:47797",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.064&bid=47797",
+      "sourceSha256": "3aa6afb7d41a6992f284e654d1ac08afb39ede1587b9c9f3b39706097918d5c2",
+      "textSha256": "afa9249cfe4736167dd29e94d618b965165ca7e65191ea56ec37ac1b1b4a048d",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Order for applying bank tax credits",
+          "bodySha256": "0b4bdc0de6641a2f38ecaad2b21e69eb97681702423789fe3f0cbe8d5415af7b",
+          "reviewNote": "Complete nine subsections, nested credits/exceptions and Revisor note read. Subsection 6 ends credits beginning 2020. Repeal-contingent 7/9 distinguished from note describing phaseout completed 2016; not inferred identical triggers. Original credit limits survive pass-through. Separate review: Ordering among two bank-tax components and state income tax is conditional on listed adjustments."
+        },
+        {
+          "number": 2,
+          "title": "Credit calculations and consolidated income-tax allocation",
+          "bodySha256": "9a138c93b92091995ec72ba8824b35e8bb44ce984cf9535dd77dd3e543b06517",
+          "reviewNote": "Complete nine subsections, nested credits/exceptions and Revisor note read. Subsection 6 ends credits beginning 2020. Repeal-contingent 7/9 distinguished from note describing phaseout completed 2016; not inferred identical triggers. Original credit limits survive pass-through. Separate review: Credit bases and consolidated liability allocation are unreduced by listed economic-development credits."
+        },
+        {
+          "number": 3,
+          "title": "Reducing taxes with specified tax credits",
+          "bodySha256": "04cf32b426fd58dff030fcd375dbf98bdcf9c61c42ebc2883d327c9de78c36fc",
+          "reviewNote": "Complete nine subsections, nested credits/exceptions and Revisor note read. Subsection 6 ends credits beginning 2020. Repeal-contingent 7/9 distinguished from note describing phaseout completed 2016; not inferred identical triggers. Original credit limits survive pass-through. Separate review: Subsection5 credits may reduce the referenced taxes despite subsection2 adjustments."
+        },
+        {
+          "number": 4,
+          "title": "Transfers within consolidated taxpayer groups",
+          "bodySha256": "54fd0110e9d7c0435ee32774ebfec98fd9d1539588ec75997f821403c860b18f",
+          "reviewNote": "Complete nine subsections, nested credits/exceptions and Revisor note read. Subsection 6 ends credits beginning 2020. Repeal-contingent 7/9 distinguished from note describing phaseout completed 2016; not inferred identical triggers. Original credit limits survive pass-through. Separate review: Transfers concern otherwise transferable credits; other transferability is unaffected."
+        },
+        {
+          "number": 5,
+          "title": "Economic-development, housing and neighborhood tax credits",
+          "bodySha256": "8e3af15fa64aafa30785b7b18869635c1fc207a69a2d830af1bd261eb56dcc7e",
+          "reviewNote": "Complete nine subsections, nested credits/exceptions and Revisor note read. Subsection 6 ends credits beginning 2020. Repeal-contingent 7/9 distinguished from note describing phaseout completed 2016; not inferred identical triggers. Original credit limits survive pass-through. Separate review: Examples are nonexclusive and require credits taxpayer is entitled to claim."
+        },
+        {
+          "number": 6,
+          "title": "Historical credit for outstanding shares and surplus",
+          "bodySha256": "27c97ebe8954e85b9b66a480386bba51fcdd63e9c8eb2e5c4504062aa6eec998",
+          "reviewNote": "Complete nine subsections, nested credits/exceptions and Revisor note read. Subsection 6 ends credits beginning 2020. Repeal-contingent 7/9 distinguished from note describing phaseout completed 2016; not inferred identical triggers. Original credit limits survive pass-through. Separate review: Read one-sixtieth-percent rate, million-dollar threshold, sequencing and express2020termination; historical title is apt."
+        },
+        {
+          "number": 7,
+          "title": "Credit linked to corporation franchise-tax repeal",
+          "bodySha256": "cae19229dafedb275a43215fed9efea8dccec6658e87a92cca0a195b1bf5cd26",
+          "reviewNote": "Complete nine subsections, nested credits/exceptions and Revisor note read. Subsection 6 ends credits beginning 2020. Repeal-contingent 7/9 distinguished from note describing phaseout completed 2016; not inferred identical triggers. Original credit limits survive pass-through. Separate review: One-and-one-half-percent credit and effective trigger tied to legislative repeal, not assumed from phaseout note."
+        },
+        {
+          "number": 8,
+          "title": "Passing specified credits through S corporation banks",
+          "bodySha256": "3b19009ced2a62069087a617a90d08e8f39d0c109b61abb01493b845dc21b91b",
+          "reviewNote": "Complete nine subsections, nested credits/exceptions and Revisor note read. Subsection 6 ends credits beginning 2020. Repeal-contingent 7/9 distinguished from note describing phaseout completed 2016; not inferred identical triggers. Original credit limits survive pass-through. Separate review: Eligible S corporation bank or holding company passes through on original terms and limits."
+        },
+        {
+          "number": 9,
+          "title": "Tax pass-through provisions linked to franchise-tax repeal",
+          "bodySha256": "2a584eb877800838c225ce9f890888fc54a843268f7de85dbf0b6ca7395ae650",
+          "reviewNote": "Complete nine subsections, nested credits/exceptions and Revisor note read. Subsection 6 ends credits beginning 2020. Repeal-contingent 7/9 distinguished from note describing phaseout completed 2016; not inferred identical triggers. Original credit limits survive pass-through. Separate review: Post-repeal pass-through retains leased-property taxes, unemployment and collected sales/use exclusions."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read all nine subsections and Revisor phaseout note. Subsections7/9 depend on legislative repeal while note describes phaseout; headings do not equate them. Shares/surplus credit ends for2020tax years. Pass-through exceptions and original limitations remain operative text."
+    },
+    {
+      "id": "148.065:7537",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.065&bid=7537",
+      "sourceSha256": "2745b6b69b758c8b00081b436a9594380e0d3f02f7ccf990b691180c20968a66",
+      "textSha256": "624938144987c804ed5d20a48d667f917487472b4c8c63c95ddbc07784f2230b",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Intangible tax fund deposits and banking institutions",
+          "bodySha256": "0b08bc924a902eb087b8a054b9f041fff3bcb842a36ccf7b5227ca08be9cdb5e",
+          "reviewNote": "Full body/history read; tax distribution timing, county and subdivision proportional shares retained, historical repeal/amendment line not repaired. Separate review: Specified tax receipts and banking institution approvals checked."
+        },
+        {
+          "number": 2,
+          "title": "Fund investments and proportional interest distributions",
+          "bodySha256": "ebd44b53186b3311ebef8bb13b9162e89e472953b6f73fbf9c2de40887e54748",
+          "reviewNote": "Full body/history read; tax distribution timing, county and subdivision proportional shares retained, historical repeal/amendment line not repaired. Separate review: Investment until distribution, thirty-day interest return, county proportional shares and subdivision statement all checked."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read full fund custody/investment/distribution text and history including repeal/amendment entries; title describes archived provisions without interpreting legislative survival."
+    },
+    {
+      "id": "148.068:7538",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.068&bid=7538",
+      "sourceSha256": "bc5c7cb554a8c9a31d3a90c0d6a95734643c91d1d0546c9a41213e9a1ce7c657",
+      "textSha256": "03af169de5d9c5ec1eb058f5238c543ffaaeca5dd4ed133b2da427d270da0651",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Dates when taxes and deficiencies are assessed",
+          "bodySha256": "00f18673d01bd7147e387be68c83445fd7a2b947be9a4c28d908cad0f35a6fd8",
+          "reviewNote": "Full body/history read. Return, payment, no-protest and final protested determination dates distinct; supplemental assessment limited by prescribed period. Separate review: Filing, amended increase, director computation, sixty-day no-protest period, later final determination and payment receipt all covered."
+        },
+        {
+          "number": 2,
+          "title": "Regulations for unspecified assessment methods or timing",
+          "bodySha256": "21211f4a4c7c78f03031c2b522c3859d93bae982f3d511f4343da8edd341f999",
+          "reviewNote": "Full body/history read. Return, payment, no-protest and final protested determination dates distinct; supplemental assessment limited by prescribed period. Separate review: Regulation fills otherwise unspecified methods or timing including interest/additions/penalties."
+        },
+        {
+          "number": 3,
+          "title": "Supplemental assessments for materially incomplete assessments",
+          "bodySha256": "a978eb7de813a49f410492f5da11eac413baefcd4a70117091fe8ed3135a35ad",
+          "reviewNote": "Full body/history read. Return, payment, no-protest and final protested determination dates distinct; supplemental assessment limited by prescribed period. Separate review: Supplemental assessment requires material imperfection/incompleteness, within assessment period and148.060when applicable."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read entire deemed-assessment timing, regulation and supplemental-assessment provisions with May15,1986 note. Protest finality, payment receipt and assessment-period limits remain distinct."
+    },
+    {
+      "id": "148.070:7539",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.070&bid=7539",
+      "sourceSha256": "b015423bfcc9706e0e82a97dc10e8b67cf92a621e8ab8f304b93f131abbcdc9b",
+      "textSha256": "f6245ffb76cd3393885e6cb6f975f052ed39509ef8cce2538d93037ae4f77d41",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Ordinary deadline for deficiency notices",
+          "bodySha256": "77f21f1d08e677b54239d54fc263de4901ee32e529c3ec6123840117b250bd64",
+          "reviewNote": "Full text/history read. Three-year ordinary and six-year greater-than-25-percent omission rules, adequate disclosure exclusion, fraudulent intent, written extensions and early filing disregard of extensions retained. Separate review: Three-year notice rule and exceptions distinguish notice from assessment/collection."
+        },
+        {
+          "number": 2,
+          "title": "Extended notice period for substantial income omissions",
+          "bodySha256": "3fc50f13797667a7555269c0d0f5e683911c9e22aea8f08bb4bc3cdcea41e239",
+          "reviewNote": "Full text/history read. Three-year ordinary and six-year greater-than-25-percent omission rules, adequate disclosure exclusion, fraudulent intent, written extensions and early filing disregard of extensions retained. Separate review: More-than25percent omission and adequate-disclosure exception checked."
+        },
+        {
+          "number": 3,
+          "title": "Missing or fraudulent returns and unlimited notice period",
+          "bodySha256": "34f40fc3903c0523cc8284f3577b1e9f56d1bb68a2203932d826b61dff23525b",
+          "reviewNote": "Full text/history read. Three-year ordinary and six-year greater-than-25-percent omission rules, adequate disclosure exclusion, fraudulent intent, written extensions and early filing disregard of extensions retained. Separate review: No return or false fraudulent return with evasion intent permits notice at any time."
+        },
+        {
+          "number": 4,
+          "title": "Written agreements extending assessment periods",
+          "bodySha256": "8923a2890b602500a67b8b31d558397d546191d5152c5c714f78220dc08a83dc",
+          "reviewNote": "Full text/history read. Three-year ordinary and six-year greater-than-25-percent omission rules, adequate disclosure exclusion, fraudulent intent, written extensions and early filing disregard of extensions retained. Separate review: Both parties must agree in writing before existing period expires; subsequent extensions likewise timely."
+        },
+        {
+          "number": 5,
+          "title": "Deemed filing date for early returns",
+          "bodySha256": "d751921c5b5f37f83b362e78693a12ddbf4db5ea445f37700316f9140838e0d4",
+          "reviewNote": "Full text/history read. Three-year ordinary and six-year greater-than-25-percent omission rules, adequate disclosure exclusion, fraudulent intent, written extensions and early filing disregard of extensions retained. Separate review: Early return deemed filed on prescribed unextended last day."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read complete limitations text and1986effective note. Ordinary period excludes erroneous refunds; six-year period excludes adequately disclosed items; fraud requires intent to evade."
+    },
+    {
+      "id": "148.074:7541",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.074&bid=7541",
+      "sourceSha256": "7ed35b4418b1ffb14fc8718bea55b03c9b9c8a00a6623978f23a1cf87c42e38e",
+      "textSha256": "8c57d30b96a35fe11d6f9ca867fd3120e302474e78ac6572e1a204978fe1bef8",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Applying overpayments to other tax liabilities",
+          "bodySha256": "fbbabe10c79feb4e4552eb90fa656a6e583fe2727139fbeb3ad364c068b4b289",
+          "reviewNote": "Complete text/history read; applicable limitations and refund balance exceeding one dollar retained. Separate review: Overpayment plus interest may offset any state-tax liability of same taxpayer; residual refund threshold checked."
+        },
+        {
+          "number": 2,
+          "title": "Treating time-barred assessments or collections as overpayments",
+          "bodySha256": "4297371ab1f199b307b48942e94953483f3767be2dd7528dffe5401db9cfd05b",
+          "reviewNote": "Complete text/history read; applicable limitations and refund balance exceeding one dollar retained. Separate review: Either assessment or collection after applicable limitations creates overpayment."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read both overpayment provisions and1986note. Offset authority extends to taxpayer own state-tax liabilities within limitations; refund balance must exceed one dollar."
+    },
+    {
+      "id": "148.076:7542",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.076&bid=7542",
+      "sourceSha256": "8138a5b01a7bb93d13ad718753335cb0e277db837ed8dcf9c6be1ce33459ab42",
+      "textSha256": "534f874a1927031ace21e70fca029c89d98bbf0509450cfc33e2319b35f98caf",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Refund claims, deadlines and written grounds",
+          "bodySha256": "f54d8c0fc42b128c7c8ace06a5b2924132241775017f32fe1ac1451d45cfc1ef",
+          "reviewNote": "Full source/history read; later-of-three-or-two-year filing versus amount lookback, no-return condition, filing extensions and six-month extension-agreement floor kept distinct. Separate review: Later three-year-return/two-year-payment rule, no-return rule, timely claim and written grounds checked."
+        },
+        {
+          "number": 2,
+          "title": "Payment lookback limits on credits and refunds",
+          "bodySha256": "fafd7a707f890c2bc9e665fd00539726db1f5145ba1b1b2536409f054218954a",
+          "reviewNote": "Full source/history read; later-of-three-or-two-year filing versus amount lookback, no-return condition, filing extensions and six-month extension-agreement floor kept distinct. Separate review: Three-year plus return extension versus two-year payment lookbacks, and hypothetical claim date where none filed, checked."
+        },
+        {
+          "number": 3,
+          "title": "Refund periods following assessment-extension agreements",
+          "bodySha256": "67b5a64bbd9364575f397dc69ca3b8df2195c5b9653a6b885c47ffd1cdb2d020",
+          "reviewNote": "Full source/history read; later-of-three-or-two-year filing versus amount lookback, no-return condition, filing extensions and six-month extension-agreement floor kept distinct. Separate review: Timely assessment agreement gives at least six months after assessment period; recoverable amounts use specified before/after agreement windows."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read all refund deadlines, lookback calculations and assessment-extension agreement conditions with history. Claim filing period differs from recoverable-payment lookback; no automatic unconditional refund stated."
+    },
+    {
+      "id": "148.097:7547",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.097&bid=7547",
+      "sourceSha256": "70449d3be1f23297d630b9af5d49958f200af913936b2fb2e7e603bea277ee81",
+      "textSha256": "29487065405b3796cc8ed3349a926aa7f87805cd0f5ee37bea492bb83dd3c11b",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Business activity and taxation in another state",
+          "bodySha256": "31946dd7091f91ef73d7844bc3fd830ff0b353fc3302895b3f2c6b2334b2a04b",
+          "reviewNote": "Complete body/history including all nested payroll situs rules read. Voluntary minimal payments without nexus do not establish taxability; denominator removes zero factors, debt-settlement property exclusion preserved. Separate review: Business activity, specified tax types, payment and exclusions for voluntary or insufficient nexus activity checked."
+        },
+        {
+          "number": 2,
+          "title": "Apportioning multistate bank income",
+          "bodySha256": "d01adcb907de258f043c0d3a160e652df1aa997b130ac7474d7d23b7cb15794d",
+          "reviewNote": "Complete body/history including all nested payroll situs rules read. Voluntary minimal payments without nexus do not establish taxability; denominator removes zero factors, debt-settlement property exclusion preserved. Separate review: Property/payroll/deposits sum divided by three minus zero-denominator factors; gross income less148.040deduction."
+        },
+        {
+          "number": 3,
+          "title": "Property factor and valuation methods",
+          "bodySha256": "b3f3160ed0c5c89667d255dcb3acb1acd79df226c1baabc320e39db48257a6bc",
+          "reviewNote": "Complete body/history including all nested payroll situs rules read. Voluntary minimal payments without nexus do not establish taxability; denominator removes zero factors, debt-settlement property exclusion preserved. Separate review: Debt-settlement held-for-sale exception, original cost, eight-times net rent and beginning/end or required monthly averages checked."
+        },
+        {
+          "number": 4,
+          "title": "Payroll factor and Missouri compensation",
+          "bodySha256": "3db53a8afeddcf26ca2ad47dcfdeb610da671df1693d24645d323dde3bdc4322",
+          "reviewNote": "Complete body/history including all nested payroll situs rules read. Voluntary minimal payments without nexus do not establish taxability; denominator removes zero factors, debt-settlement property exclusion preserved. Separate review: Entire location test read including incidental services, base, control and residence alternatives."
+        },
+        {
+          "number": 5,
+          "title": "Deposits factor and annual averaging",
+          "bodySha256": "1887f02fec97f9bb9b1949904b23a5ff5a4d8cdc0e56156b426cda6c42493ff0",
+          "reviewNote": "Complete body/history including all nested payroll situs rules read. Voluntary minimal payments without nexus do not establish taxability; denominator removes zero factors, debt-settlement property exclusion preserved. Separate review: Missouri main-house/branch versus worldwide deposit averages use first and last day balances."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read all multistate apportionment provisions and history. Out-of-state tax must arise from qualifying activity and actually be paid; voluntary/minimal nexus-insufficient payments do not qualify. All factor valuation and sourcing branches read."
+    },
+    {
+      "id": "148.140:7553",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.140&bid=7553",
+      "sourceSha256": "d9073fcec8e04361c95c124bb00f8704225fec94afd6d1245fa8a99cb6e6bcc5",
+      "textSha256": "56d6fd6ab96ee4d011a3be1f47777c088734f55ec96dc8d40a76f2d09c8de6d9",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual credit-institution franchise tax",
+          "bodySha256": "2e63d5b75967673a92ee0086ce8e75f084f041e592d1875375dd47221fcb4be2",
+          "reviewNote": "Full text/history read; seven-percent statutory rate is topic only, not asserted present rate given 148.720 adjustments. Real-estate, unemployment and own-tax exclusions retained. Separate review: Annual franchise tax measured by preceding calendar-year net income."
+        },
+        {
+          "number": 2,
+          "title": "Credit-institution tax rate",
+          "bodySha256": "598c79a09fae40b2293d457ccabba851e0401023f7cad61b9692c6286248df3d",
+          "reviewNote": "Full text/history read; seven-percent statutory rate is topic only, not asserted present rate given 148.720 adjustments. Real-estate, unemployment and own-tax exclusions retained. Separate review: Exact version provides seven-percent rate; no present-law assurance added."
+        },
+        {
+          "number": 3,
+          "title": "Tax credits and excluded payments",
+          "bodySha256": "51dbab920a817d3b5c54e59d920d9c1d96a92e07c524362b846dbfe692fc6051",
+          "reviewNote": "Full text/history read; seven-percent statutory rate is topic only, not asserted present rate given 148.720 adjustments. Real-estate, unemployment and own-tax exclusions retained. Separate review: Paid state/local taxes eligible except real estate, unemployment and taxes under specified sections."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read all credit-institution tax provisions and1945/1949history. Neutral rate label describes this exact older seven-percent text without resolving later rate changes in148.720."
+    },
+    {
+      "id": "148.150:7554",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.150&bid=7554",
+      "sourceSha256": "afbb477b03b2fc06524951bf42317c6148bf03a8535c37e78529a7973e84a37c",
+      "textSha256": "251ff11f2ef130a356bf7c0cb414cd5ed31db85383654403607a25b06a02bedc",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Net income after allowable deductions",
+          "bodySha256": "4b2a971d4f61dd36364ed8cb1034e16c9b3feaf4f52faf87c7cef7327b0bc1a5",
+          "reviewNote": "Complete source/history read; credit-institution dividends and loss-recovery exclusions, loan-versus-merchandise pawnbroker allocation, five-percent charity cap and separate multistate accounting preserved. Separate review: Net income uses gross definition in2minus deductions in3."
+        },
+        {
+          "number": 2,
+          "title": "Missouri gross income and pawnbroker limitations",
+          "bodySha256": "4e47ed4860586134b773b166a170cd505fa8000b7669aed9870d9d1c43db774a",
+          "reviewNote": "Complete source/history read; credit-institution dividends and loss-recovery exclusions, loan-versus-merchandise pawnbroker allocation, five-percent charity cap and separate multistate accounting preserved. Separate review: Entire income list and prior excess-deduction recovery exception checked; pawnbroker merchandise excluded."
+        },
+        {
+          "number": 3,
+          "title": "Deductible expenses and pawnbroker allocation",
+          "bodySha256": "30309e8d641f5fdc728489a522f665fe19d77433d1d2956b0ef7a18c5e6dcd13",
+          "reviewNote": "Complete source/history read; credit-institution dividends and loss-recovery exclusions, loan-versus-merchandise pawnbroker allocation, five-percent charity cap and separate multistate accounting preserved. Separate review: Entire expense/loss list, five-percent charitable cap and pawnbroker loan-to-total-business allocation checked."
+        },
+        {
+          "number": 4,
+          "title": "Accounting methods for multistate income",
+          "bodySha256": "0a3e85e6cc3be3a8995c4b9809e335db00c00d1eb44da147e4879cefa4e33741",
+          "reviewNote": "Complete source/history read; credit-institution dividends and loss-recovery exclusions, loan-versus-merchandise pawnbroker allocation, five-percent charity cap and separate multistate accounting preserved. Separate review: Ordinary method subject to director override; mixed-source income, deductions and net income separately accounted."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read full credit-institution income/deduction definitions and1947history, including all recovery and dividend exclusions, pawnbroker lending-only income and proportional deductions. Separate accounting applies to mixed in/out-state income."
+    },
+    {
+      "id": "148.330:7564",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.330&bid=7564",
+      "sourceSha256": "398da195a0d9f3f710d0eda4197187fd570a86cfbc2974247f44ba298136b7e0",
+      "textSha256": "49f9ff381b2c3b253a5892fed7585155a8e555ef9a06e9687bd6c6b382772c06",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual premium returns and tax certification",
+          "bodySha256": "c126bef8245ed4d9e0dbad098bbc9e8e32297de3a06d96d51c3e2f707aa432ab",
+          "reviewNote": "Complete source/history read. All installment dates/reconciliation and eighty-percent interest threshold checked; premium credits only reduce state general revenue, local apportionment and St. Louis definition retained. Separate review: March sworn prior-year premium return, verification and April certification to revenue director checked."
+        },
+        {
+          "number": 2,
+          "title": "Installments, reconciliation and county stock insurance fund",
+          "bodySha256": "412c4c9acbdaaea5829a8c3eea0478c65cca0b5c479cce205d2645506de9d7cf",
+          "reviewNote": "Complete source/history read. All installment dates/reconciliation and eighty-percent interest threshold checked; premium credits only reduce state general revenue, local apportionment and St. Louis definition retained. Separate review: Four estimates plus reconciliation, June balance/credit, March shortfall interest test, fund creation and state-revenue inclusion all read."
+        },
+        {
+          "number": 3,
+          "title": "Business suspension for unpaid estimated installments",
+          "bodySha256": "8ff6086264b0beddd74b14422789d7dbebfe1899d147ff13cb9784f25d99f21e",
+          "reviewNote": "Complete source/history read. All installment dates/reconciliation and eighty-percent interest threshold checked; premium credits only reduce state general revenue, local apportionment and St. Louis definition retained. Separate review: Unpaid estimated installments trigger certification and business suspension until payment."
+        },
+        {
+          "number": 4,
+          "title": "Apportioning county stock insurance fund revenues",
+          "bodySha256": "e24cfbc800bd90eb762351cb7ab2cf3d6ad249e344af5664028b4314b0f9e558",
+          "reviewNote": "Complete source/history read. All installment dates/reconciliation and eighty-percent interest threshold checked; premium credits only reduce state general revenue, local apportionment and St. Louis definition retained. Separate review: September levy-ratio allocation, protected county/school shares, prior-year proceeds and St. Louis definition checked."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read complete insurer return, installment, suspension and apportionment provisions and legislative history. County/school shares are protected from specified credits; installment deficiency interest has an eighty-percent threshold."
+    },
+    {
+      "id": "148.350:7566",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.350&bid=7566",
+      "sourceSha256": "5ff0e445212ff28f3a056ae5107de59fbb34b668a9d3357d4b1e28b72cfde8d3",
+      "textSha256": "3df1d624046ff32ec8691584fde52653a2aeaec506d13943c7e85f1d317322b6",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual premium returns and tax certification",
+          "bodySha256": "db3788fad00e7aea21bdf009948df68fa995690fd46b5fd93e00475ed0e17d07",
+          "reviewNote": "Complete source/history read; quarterly plus fifth reconciliation, March underpayment threshold, suspension and half allocation checked. Credits reduce general revenue only. Separate review: March premium returns verified by officers and April certification under148.340 checked."
+        },
+        {
+          "number": 2,
+          "title": "Installment payments, reconciliation and delinquency suspension",
+          "bodySha256": "1cad04a91e66c553ac8951d6382dc47f597ff4e0ac97cd291203ce8cd554526e",
+          "reviewNote": "Complete source/history read; quarterly plus fifth reconciliation, March underpayment threshold, suspension and half allocation checked. Credits reduce general revenue only. Separate review: All five payments, prior-year estimate basis, June reconciliation/credit, March eighty-percent interest condition and delinquency suspension read."
+        },
+        {
+          "number": 3,
+          "title": "Allocating taxes to state and county insurance funds",
+          "bodySha256": "91280a58bd574880e72936b341a5b2af3d4066119dad5ffb43914b003b95d3ea",
+          "reviewNote": "Complete source/history read; quarterly plus fifth reconciliation, March underpayment threshold, suspension and half allocation checked. Credits reduce general revenue only. Separate review: Half state and half county foreign fund allocation subject to specified credits affecting only state portion."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read complete return, quarterly/reconciliation and fund allocation text with prior revisions. Suspension sits within subsection2; credits reduce state share only, not county foreign insurance fund."
+    },
+    {
+      "id": "148.376:7570",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.376&bid=7570",
+      "sourceSha256": "02a1c93f6ff064289097cf544cd5ce1ba2a46b650820a694eeb821200c57f261",
+      "textSha256": "7e652aace3e83b1fe31dd6c630bf61f706b753d37da8d8e7f3fecd03a9b1c97c",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Extended mutual insurer premium taxes and credits",
+          "bodySha256": "3b444a4a8597ea37128ee4953c1483e01232d42d8dfde2ed102c82c8c0f541f0",
+          "reviewNote": "Complete body/history read; tiered excess premium thresholds and tax exceptions retained; initial 1985 payments based on 1984 premiums identified as historical. Separate review: One-percent rate above one million and two-percent above five million, specified other taxes and cancelled/returned premium credit checked."
+        },
+        {
+          "number": 2,
+          "title": "Estimated installments, historical transition and distributions",
+          "bodySha256": "72f7ff6dc49df53c0b327d1c50eb89b96265af362dd5fa6ae480bbc8eea32ae1",
+          "reviewNote": "Complete body/history read; tiered excess premium thresholds and tax exceptions retained; initial 1985 payments based on 1984 premiums identified as historical. Separate review: Domestic-insurer quarterly/delinquency method,1985first year/1984estimate base and148.380distribution cross-reference checked."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read both extended-mutual insurer provisions and January1985effective note. Rate bands, exceptions to in-lieu taxation, actual returned premiums and historical transition remain qualified."
+    },
+    {
+      "id": "148.380:7571",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.380&bid=7571",
+      "sourceSha256": "cb575bb400f19e8962a835d038aa83d6993cedf3dcc0efdaa2b963fdf06fdf0b",
+      "textSha256": "5787b606a8c1bb8b972e07102841e895d84894e462954433c213b5e4d1d29cd4",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Direct-premium returns and tax certification",
+          "bodySha256": "bddc47ceaa9e20603b34a8cbf2bb048ca5c1465255507d897cdbd43eee342a29",
+          "reviewNote": "Complete body and both original-roll word notes read. Direct premiums, deductions, March installment interest condition and one-half fund allocation retained without source repair. Separate review: Direct premiums from state policyholders, officer affidavit, lawful deductions and April certification checked."
+        },
+        {
+          "number": 2,
+          "title": "Estimated installments and annual reconciliation",
+          "bodySha256": "fb3bdd18549351d24587321eee9d8dc09196c5e0947d3faf4e27402fc060dc22",
+          "reviewNote": "Complete body and both original-roll word notes read. Direct premiums, deductions, March installment interest condition and one-half fund allocation retained without source repair. Separate review: Four estimates plus reconciliation, June underpayment/credit and March eighty-percent interest test checked."
+        },
+        {
+          "number": 3,
+          "title": "Business suspension for unpaid estimated installments",
+          "bodySha256": "4ed7a9c0b6581a4bb39b2523e7468200796b948b8691a0f17b8d5797f461ff47",
+          "reviewNote": "Complete body and both original-roll word notes read. Direct premiums, deductions, March installment interest condition and one-half fund allocation retained without source repair. Separate review: Revenue director notice leads to insurer business suspension until payment; statutory cross-reference retained."
+        },
+        {
+          "number": 4,
+          "title": "Allocating premium taxes between state and county funds",
+          "bodySha256": "c854c2bc92dfc94c402db521ea1a20d0210b3e38f2d872196071bea2267c1f15",
+          "reviewNote": "Complete body and both original-roll word notes read. Direct premiums, deductions, March installment interest condition and one-half fund allocation retained without source repair. Separate review: One-half state general revenue and one-half county foreign insurance fund for148.360purposes."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read all return/payment/suspension/distribution text plus both original-roll notes. Added and and immediate/immediately discrepancy retained without editorial repair; all historical installment conditions checked."
+    },
+    {
+      "id": "148.390:7572",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.390&bid=7572",
+      "sourceSha256": "1f340cc15671686d9f1f16434494cedf805b2b69dacd7c61ec29d8f28d4475dc",
+      "textSha256": "7dcbf2f0a156350558f8a7c0a53efa965067ca5392bdbbbcec691dc008aba256",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Premium exclusions, refunds and dividend deductions",
+          "bodySha256": "f00bed8eb51a5ca23a8dff6d85e11d902e38fb653dd6bc452537b014c94ae979",
+          "reviewNote": "Full source/history read including all four historical benefit percentages. Pension/annuity exclusions, title company proportional credit and group health benefits scope preserved. Separate review: Retirement-qualified and other annuity premiums excluded; cancelled/returned premiums and dividends deductible; title-company proportional limit retained."
+        },
+        {
+          "number": 2,
+          "title": "Deductions for employee or union health benefits",
+          "bodySha256": "38acb32964173679404e47a6c0f0ec03a335b06d7cc7c67ec8e0e385978e4699",
+          "reviewNote": "Full source/history read including all four historical benefit percentages. Pension/annuity exclusions, title company proportional credit and group health benefits scope preserved. Separate review: Employee/union health benefits and trustee irrelevance checked;1972through1975fractional phase-in read in full."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read all premium exclusions, paid/credited deductions, title-company allocation and health-benefit phase-in with January1987effective note. Health deduction concerns employee/union policy benefits rather than all health payments."
+    },
+    {
+      "id": "148.440:7577",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.440&bid=7577",
+      "sourceSha256": "cb70512ac3c8f400d9e9d4f265f15e0923d10bee5068940c373407e5a8cbd5ed",
+      "textSha256": "3a31350e9fb7b9feb378a3e28384f710b21260070a4bddae968a25586e2233cc",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Insurance-agency taxes in cities over 500,000 population",
+          "bodySha256": "18b11bdbca8689e048d3fd7f4e46c40d6fd6ab48c0f00c9c62eb94b437c0d5c8",
+          "reviewNote": "Full source/history read; over-500,000 city single company tax distinguished from over-100,000/under-500,000 city tax per agent/agency/office, ordinance contingency and differing due dates retained. Separate review: Over500000city ordinance condition, February deadline, fire/other caps and agency license replacement checked."
+        },
+        {
+          "number": 2,
+          "title": "One tax per insurer regardless of agents",
+          "bodySha256": "939a4e8886ce7a873424d80977db6118f45c018dc7e567dc5928abbc1b538aac",
+          "reviewNote": "Full source/history read; over-500,000 city single company tax distinguished from over-100,000/under-500,000 city tax per agent/agency/office, ordinance contingency and differing due dates retained. Separate review: One company tax irrespective of agent count is distinguished from subsection3."
+        },
+        {
+          "number": 3,
+          "title": "Insurance-office taxes in cities between population thresholds",
+          "bodySha256": "5ce6290b8d2df72fa4b7e098dbdeca09641472ee3e428c54e141eb35ab4fc178",
+          "reviewNote": "Full source/history read; over-500,000 city single company tax distinguished from over-100,000/under-500,000 city tax per agent/agency/office, ordinance contingency and differing due dates retained. Separate review: Strictly above100000/below500000cities, January4deadline and per-agent/agency/office basis checked; no invented rule for equality boundaries."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read all three occupation-tax provisions and history. Optional city ordinances, differing population bounds, annual dates and per-company versus per-agent/office basis remain distinct."
+    },
+    {
+      "id": "148.620:7584",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.620&bid=7584",
+      "sourceSha256": "605076cc058633dee306eb91876685bc2fe1fc8b2c04c54de0a36d1597dca9b4",
+      "textSha256": "3ebff954b1b0920137cc56a14ef17926eb4fe5f3a6172bc263f1a844cd19c8bd",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual credit-union and association franchise tax",
+          "bodySha256": "328db20f66f554072bfe2e40599d0bfd6c1d5df1b33b0c9db5fd5f0bacf9872e",
+          "reviewNote": "Full source/history read with 148.720 reduction context; in-lieu tax exceptions differ from credit exclusions, especially leased versus all property and social security/sales taxes. Separate review: Corporate franchise privilege tax uses preceding-year net income."
+        },
+        {
+          "number": 2,
+          "title": "Credit-union and association tax rate",
+          "bodySha256": "598c79a09fae40b2293d457ccabba851e0401023f7cad61b9692c6286248df3d",
+          "reviewNote": "Full source/history read with 148.720 reduction context; in-lieu tax exceptions differ from credit exclusions, especially leased versus all property and social security/sales taxes. Separate review: Neutral title accurately identifies the older stated rate without a current-rate claim."
+        },
+        {
+          "number": 3,
+          "title": "Taxes replaced by the franchise tax and exceptions",
+          "bodySha256": "8de6cf8ee0028a5545c2e939c411e439dd8e9f0ec23da4bed8d1c5336f0b34fb",
+          "reviewNote": "Full source/history read with 148.720 reduction context; in-lieu tax exceptions differ from credit exclusions, especially leased versus all property and social security/sales taxes. Separate review: In-lieu rule excepts all property, unemployment, Social Security, sales and use taxes."
+        },
+        {
+          "number": 4,
+          "title": "Allowable tax credits and excluded payments",
+          "bodySha256": "0c6ac09f2702bc754e941a39df0e7f10c5ed05aa8f3414dbb06cd79fb571ec85",
+          "reviewNote": "Full source/history read with 148.720 reduction context; in-lieu tax exceptions differ from credit exclusions, especially leased versus all property and social security/sales taxes. Separate review: Credit exclusion differs from in-lieu exception: leased/rented real and tangible property plus listed contributions/taxes checked."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read full credit-union/association annual tax, seven-percent archived rate and two distinct exception lists plus history. Later148.720reductions are not resolved into this exact-version label."
+    },
+    {
+      "id": "148.630:7585",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.630&bid=7585",
+      "sourceSha256": "3d779f93c33c784dd3336f9d6d5b7e5ed9d20fabe0169a99291f28eb79ebb0a6",
+      "textSha256": "cf757ea80035f242f145854dc740cb9e93d5820930f0dd44c49814b5cb9d731b",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Gross income and excluded recoveries or subsidiary income",
+          "bodySha256": "e6006f258280b8362ea621e70e1b4f54539dcbcdd865ed85d339dcb3f67c4639",
+          "reviewNote": "Full nine subsections/all payroll subclauses and original-roll or/of note read. Four-factor formula distinct from bank three factors; no imported charitable cap or bank property exception; subsidiary interest/dividend exclusion preserved. Separate review: All income sources, post-May25,1982recoveries, prior excess-deduction exclusion and wholly-owned subsidiary income exclusion checked."
+        },
+        {
+          "number": 2,
+          "title": "Net income after allowable deductions",
+          "bodySha256": "cc8f7c23ba84415a7dd3e96f13d92789528787e16713e632a12609dddc7a46cb",
+          "reviewNote": "Full nine subsections/all payroll subclauses and original-roll or/of note read. Four-factor formula distinct from bank three factors; no imported charitable cap or bank property exception; subsidiary interest/dividend exclusion preserved. Separate review: Net income subtracts subsection3 deductions."
+        },
+        {
+          "number": 3,
+          "title": "Business expenses and other allowable deductions",
+          "bodySha256": "c2a37ff69e5cb1d04cf7c74afc4aef9766da8f2ae7b5fe08dc17e000a0c574f6",
+          "reviewNote": "Full nine subsections/all payroll subclauses and original-roll or/of note read. Four-factor formula distinct from bank three factors; no imported charitable cap or bank property exception; subsidiary interest/dividend exclusion preserved. Separate review: All expenses and losses read including dividends and charitable contributions; no unstated five-percent limit added."
+        },
+        {
+          "number": 4,
+          "title": "Accounting methods for computing net income",
+          "bodySha256": "3c4ed80a274bc66a793ec525c4846acec3e3bad6b616eba602ff402281b5e8bc",
+          "reviewNote": "Full nine subsections/all payroll subclauses and original-roll or/of note read. Four-factor formula distinct from bank three factors; no imported charitable cap or bank property exception; subsidiary interest/dividend exclusion preserved. Separate review: Regular method subject to director clear-reflection override."
+        },
+        {
+          "number": 5,
+          "title": "Apportioning multistate income using four factors",
+          "bodySha256": "261aa035da3d38a782cdb058f5550a362acaaf7b12b03c3f2acdbbfc3fdaf49d",
+          "reviewNote": "Full nine subsections/all payroll subclauses and original-roll or/of note read. Four-factor formula distinct from bank three factors; no imported charitable cap or bank property exception; subsidiary interest/dividend exclusion preserved. Separate review: Four-factor numerator and zero-denominator adjustment checked for taxable multistate activities."
+        },
+        {
+          "number": 6,
+          "title": "Property factor and valuation methods",
+          "bodySha256": "b6df62af8cbace01dc496c33499c7d0c24c8f0eb2894a79a82bd8f84b4e117c0",
+          "reviewNote": "Full nine subsections/all payroll subclauses and original-roll or/of note read. Four-factor formula distinct from bank three factors; no imported charitable cap or bank property exception; subsidiary interest/dividend exclusion preserved. Separate review: Original cost, eight-times net rental, subrent adjustment and annual/monthly averaging checked."
+        },
+        {
+          "number": 7,
+          "title": "Payroll factor and Missouri compensation",
+          "bodySha256": "017616cf9afc4d65da76343a5ac33e6c9908923e01c0fa27024df85f9405d20e",
+          "reviewNote": "Full nine subsections/all payroll subclauses and original-roll or/of note read. Four-factor formula distinct from bank three factors; no imported charitable cap or bank property exception; subsidiary interest/dividend exclusion preserved. Separate review: All service-location, incidental, base/control/residence alternatives read."
+        },
+        {
+          "number": 8,
+          "title": "Receivables factor for contract obligations",
+          "bodySha256": "dcd23a5b5b4a01d743ce70df89715acc06649c5f2d5df788dd2ff3e5c5457eb8",
+          "reviewNote": "Full nine subsections/all payroll subclauses and original-roll or/of note read. Four-factor formula distinct from bank three factors; no imported charitable cap or bank property exception; subsidiary interest/dividend exclusion preserved. Separate review: Receivables concern average contract obligations on open account held by state office/facility/branch versus everywhere."
+        },
+        {
+          "number": 9,
+          "title": "Deposits factor for in-state and total holdings",
+          "bodySha256": "d91e1cb387647b0f8e4b9af0f0f3cadb598941fa9bd3ec75fa0fc4f2e0ee7c47",
+          "reviewNote": "Full nine subsections/all payroll subclauses and original-roll or/of note read. Four-factor formula distinct from bank three factors; no imported charitable cap or bank property exception; subsidiary interest/dividend exclusion preserved. Separate review: Deposit averages compare state locations with all holdings; no bank-section calendar endpoint rule imported."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read full income/deductions and all four allocation factors with original-roll of/or note. No invented charitable cap from neighboring bank provisions; receivables and deposits remain distinct factors."
+    },
+    {
+      "id": "148.650:7587",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.650&bid=7587",
+      "sourceSha256": "1fb659f84c1e7a3df87ed2b1e05d1c52b5da83071d33499212cea5840c51b08a",
+      "textSha256": "4b4f6b3fca75553671a480bdb3ff573fc8a938385d4eada40bacd07fe5edf8c5",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Tax payment deadline tied to return filing",
+          "bodySha256": "02f9e408f2308b9c8f16ad85b14f602f5d65e0bbddc821a998a95e6ff1748d21",
+          "reviewNote": "Full body/history read; excess payment allows credit, not invented cash refund; interest accrues after due date. Separate review: Due date is last permissible148.640return date."
+        },
+        {
+          "number": 2,
+          "title": "Return examination and credits for excess payments",
+          "bodySha256": "b1c21c4ef117c32811e8300d8dff62c207124eaaa50f5e059317c22abde09dc8",
+          "reviewNote": "Full body/history read; excess payment allows credit, not invented cash refund; interest accrues after due date. Separate review: Full computed tax accompanies return; director determines correct tax and permits excess credit."
+        },
+        {
+          "number": 3,
+          "title": "Interest on overdue taxes",
+          "bodySha256": "ca51579510d78d5280980fa5727e27ef3e512fd2df97eaa91c67f907166e7f69",
+          "reviewNote": "Full body/history read; excess payment allows credit, not invented cash refund; interest accrues after due date. Separate review: Interest runs from due date to payment at32.065rate as part of tax."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read all payment, examination/credit and overdue-interest text plus1987effective note. Excess payment creates credit here, not an invented cash-refund entitlement."
+    },
+    {
+      "id": "148.720:35253",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=148.720&bid=35253",
+      "sourceSha256": "be18c7b0baa550bc3fd3d96e0b71d4d6189d9195ac4376f44923933f4c438db0",
+      "textSha256": "702dd415fa2c3fa1f42708c3a61a03946d5223bff8fc17119deb1a66dd89ae18",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Proportional financial-institution tax-rate reductions",
+          "bodySha256": "decb745175b98d54470199946f9662be60897b730c6badf3cee2eace7d96b9b5",
+          "reviewNote": "Full source/history read; corresponding proportional rate reduction persists subsequent years and includes other-law/constitutional reductions, without computing or claiming current rates. Separate review: 143.071rate reduction produces proportional reductions for three named institution taxes, persisting in later years."
+        },
+        {
+          "number": 2,
+          "title": "Repeated reductions tied to corporate income-tax changes",
+          "bodySha256": "31fd1c768bfb418d7f9711d05a9ac7a12097cf758fd1b378769c993df4f41cb2",
+          "reviewNote": "Full source/history read; corresponding proportional rate reduction persists subsequent years and includes other-law/constitutional reductions, without computing or claiming current rates. Separate review: Every reduction year qualifies, including operation of other law or constitution."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read both rate-reduction provisions and2018history alongside older bank/credit-institution rate text. Labels describe proportional future operation without calculating a current rate."
+    }
+  ]
+}

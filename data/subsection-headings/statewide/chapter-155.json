@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Drafted and separately reviewed by different Codex agents against complete archived sources and notes; editorial topic labels, not legal review.",
+  "entries": [
+    {
+      "id": "155.040:7727",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=155.040&bid=7727",
+      "sourceSha256": "50ddfaf4fe79d3d36911aa5b719f5bf6edbee36d993d6b4047d618b51b047dde",
+      "textSha256": "e7f2a848b823095f45d39631bbdf16f7a455511a174fb575bccae238385342e9",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Airline aircraft valuation and state apportionment",
+          "bodySha256": "37c666ba94ed9457042e1d4b29ce88ffe00c834af081c0005168f35d6b460d1a",
+          "reviewNote": "Read five subsections, nested mileage ratios and full Delta/United annotation. Airline two-ratio average versus other-aircraft flight ratio; May1 assessor information, June15 certification and August15 direct appeal distinguished. Annotation tax-year aircraft scope and no inferred mandatory plane-type method retained."
+        },
+        {
+          "number": 2,
+          "title": "Apportionment when only one ratio applies",
+          "bodySha256": "d395df6fb34cd14fe256d9f265011fb78128da0d48b578a91207771a3d9cabea",
+          "reviewNote": "Read five subsections, nested mileage ratios and full Delta/United annotation. Airline two-ratio average versus other-aircraft flight ratio; May1 assessor information, June15 certification and August15 direct appeal distinguished. Annotation tax-year aircraft scope and no inferred mandatory plane-type method retained."
+        },
+        {
+          "number": 3,
+          "title": "Other commercial aircraft assessment and reporting",
+          "bodySha256": "39441350dd1eaa97755068849c745138cd47f1c57e751a458ad4adcde08e8cb7",
+          "reviewNote": "Read five subsections, nested mileage ratios and full Delta/United annotation. Airline two-ratio average versus other-aircraft flight ratio; May1 assessor information, June15 certification and August15 direct appeal distinguished. Annotation tax-year aircraft scope and no inferred mandatory plane-type method retained."
+        },
+        {
+          "number": 4,
+          "title": "Certification of commercial aircraft values",
+          "bodySha256": "807d307e3d81156019f79eab41c5cc90981c1a07d93f4503d80da92fdf3c7616",
+          "reviewNote": "Read five subsections, nested mileage ratios and full Delta/United annotation. Airline two-ratio average versus other-aircraft flight ratio; May1 assessor information, June15 certification and August15 direct appeal distinguished. Annotation tax-year aircraft scope and no inferred mandatory plane-type method retained."
+        },
+        {
+          "number": 5,
+          "title": "Direct appeals of commercial aircraft assessments",
+          "bodySha256": "f8c2c68f9971f6a0ced07bf7dc48a57108fbd72b5e87f6beaa1683c17b58558e",
+          "reviewNote": "Read five subsections, nested mileage ratios and full Delta/United annotation. Airline two-ratio average versus other-aircraft flight ratio; May1 assessor information, June15 certification and August15 direct appeal distinguished. Annotation tax-year aircraft scope and no inferred mandatory plane-type method retained."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Both airline ratios, one-ratio fallback and other commercial aircraft mileage formula read. Assessor/owner reporting, certification and direct appeal dates checked with Delta/United actual-operation annotation. This is not independent legal review."
+    },
+    {
+      "id": "155.080:7731",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=155.080&bid=7731",
+      "sourceSha256": "7d5b12782046ba18061a5c2c8ed15da7d7e12ee15f4789b4172689369d38ffa6",
+      "textSha256": "266132c2458008bb58ebcad31666a988bbfa591232a7cce0fbe32fcb912d09fd",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Use tax on reciprocating-engine aviation fuel",
+          "bodySha256": "5b797a4b3ebaf9925b6cb88f47e3b4739d80a7bca45b31be016a0f8ef2018bf5",
+          "reviewNote": "Read all three subsections/history. Reciprocating-engine scope, nine-cent rate, incorporated chapter142 collection and enforcement, commercial agricultural refund procedure and unclaimed aviation trust allocation retained."
+        },
+        {
+          "number": 2,
+          "title": "Motor-fuel tax administration and enforcement provisions",
+          "bodySha256": "6cbf36b5eb9106cc79b123ef7f0a70ff98cb526996459ce8800837627d9c8f63",
+          "reviewNote": "Read all three subsections/history. Reciprocating-engine scope, nine-cent rate, incorporated chapter142 collection and enforcement, commercial agricultural refund procedure and unclaimed aviation trust allocation retained."
+        },
+        {
+          "number": 3,
+          "title": "Agricultural aircraft refunds and unclaimed refund amounts",
+          "bodySha256": "12999db88b851bf6c3621a528c4b02aeb187f9f4ba747897740ab9c7eac9cce9",
+          "reviewNote": "Read all three subsections/history. Reciprocating-engine scope, nine-cent rate, incorporated chapter142 collection and enforcement, commercial agricultural refund procedure and unclaimed aviation trust allocation retained."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Reciprocating-engine aviation fuel only, incorporated motor-fuel administration and commercial agricultural aircraft refund eligibility checked; unclaimed refund destination retained. This is not independent legal review."
+    }
+  ]
+}

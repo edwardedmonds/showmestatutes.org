@@ -1,0 +1,477 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Complete archived-source drafting and separate complete-source editorial reviews; entry status determines acceptance.",
+  "entries": [
+    {
+      "id": "150.010:7623",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=150.010&bid=7623",
+      "sourceSha256": "5735ecfc72983c9c36fa874fb5c660f8b5e8dbcf67f5f74e4daf8afda9ba3486",
+      "textSha256": "072141944f1710817c302193238d9928b05fcac3ca9d43e9f685c59526a5fbce",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of merchant and covered sales",
+          "bodySha256": "44bf20d2b8d08e3417ec8e48e18f294b804f256d16802884baa6da160bf0c085",
+          "reviewNote": "Full text/history read with neighboring 150.013 unconstitutional per-sale-tax annotation; heading identifies topic without asserting tax enforceability. Subsection 1 dealer exclusion reconciles with explicit subsection 2 inclusion, not source-repaired. Separate review: Store-based and practice-based wholesale/retail sales include accommodation, ordered and atypical goods; dealer exception checked."
+        },
+        {
+          "number": 2,
+          "title": "Motor vehicle dealers and alternative property taxation",
+          "bodySha256": "860f60740b21fdab091590cd134a145f70ec575223737454f7d6810b7c5e6ae0",
+          "reviewNote": "Full text/history read with neighboring 150.013 unconstitutional per-sale-tax annotation; heading identifies topic without asserting tax enforceability. Subsection 1 dealer exclusion reconciles with explicit subsection 2 inclusion, not source-repaired. Separate review: Dealers included as merchants but stock ad valorem replaced by specified motor-vehicle tax in archived text."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read both merchant-definition paragraphs, motor-dealer inclusion and1975effective/history notes. Awkward first-subsection grammar retained; second subsection separately includes dealers with alternative tax."
+    },
+    {
+      "id": "150.013:7624",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=150.013&bid=7624",
+      "sourceSha256": "074530e338bce63e47f411c38e19f814c09926edcfe88af9b68102c3e160cb8c",
+      "textSha256": "53e160f91900c5edf4e8f946ceb0b6586531e9b5f0279d1c8b8655216924c900",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions of dealers and motor vehicles",
+          "bodySha256": "85af3bafb732df45ba9dd5f897abd532330b75914b98140a7ffd036e1398e017",
+          "reviewNote": "Complete eight subsections/all nested provisions, original-roll number note and McKay Buick annotation read. Source annotated unconstitutional insofar as per-sale property tax; all labels describe archived subject matter without presenting operative requirements. Farm tractors excluded and dealer-to-dealer exception preserved. Separate review: Dealer, internal-combustion motor vehicle and primarily engaged motor dealer definitions with farm tractor exclusions read."
+        },
+        {
+          "number": 2,
+          "title": "Dealer-property classifications and specified tax amounts",
+          "bodySha256": "fceaabd9d19a5147518a0d3d4b88775baad633b0caedfbdd0c781d60fbb69a69",
+          "reviewNote": "Complete eight subsections/all nested provisions, original-roll number note and McKay Buick annotation read. Source annotated unconstitutional insofar as per-sale property tax; all labels describe archived subject matter without presenting operative requirements. Farm tractors excluded and dealer-to-dealer exception preserved. Separate review: Separate property class and three fixed tax amounts described without validity claim."
+        },
+        {
+          "number": 3,
+          "title": "Sale-based tax timing and interdealer exception",
+          "bodySha256": "284320a1d9710cfa1171d243cd2cb9ebca032932033f596209547006d9799b67",
+          "reviewNote": "Complete eight subsections/all nested provisions, original-roll number note and McKay Buick annotation read. Source annotated unconstitutional insofar as per-sale property tax; all labels describe archived subject matter without presenting operative requirements. Farm tractors excluded and dealer-to-dealer exception preserved. Separate review: New/used sale timing, interdealer exception and goods tax per new vehicle read with cross-reference note."
+        },
+        {
+          "number": 4,
+          "title": "Dealer payment and purchaser-charge restriction",
+          "bodySha256": "062500fc1b9ec80d99ca27f2c1f2f5f14ce66e780f80a70533c5f564fe7ce6a7",
+          "reviewNote": "Complete eight subsections/all nested provisions, original-roll number note and McKay Buick annotation read. Source annotated unconstitutional insofar as per-sale property tax; all labels describe archived subject matter without presenting operative requirements. Farm tractors excluded and dealer-to-dealer exception preserved. Separate review: Dealer pays and cannot charge purchaser directly."
+        },
+        {
+          "number": 5,
+          "title": "Tax stamps on title applications",
+          "bodySha256": "459d07e24a7597685064cf65e9b2a42c8b35185c2709b0e6b3ca38b5be3382d3",
+          "reviewNote": "Complete eight subsections/all nested provisions, original-roll number note and McKay Buick annotation read. Source annotated unconstitutional insofar as per-sale property tax; all labels describe archived subject matter without presenting operative requirements. Farm tractors excluded and dealer-to-dealer exception preserved. Separate review: Stamp affixed to title application and corresponding registration condition checked."
+        },
+        {
+          "number": 6,
+          "title": "Stamp production, distribution and dealer purchases",
+          "bodySha256": "432d575a533da1868dd8317aaabf18d60665a3dab5c933fff4d4ef17ce867225",
+          "reviewNote": "Complete eight subsections/all nested provisions, original-roll number note and McKay Buick annotation read. Source annotated unconstitutional insofar as per-sale property tax; all labels describe archived subject matter without presenting operative requirements. Farm tractors excluded and dealer-to-dealer exception preserved. Separate review: All director design/bond powers, local distribution/custody/accounting and dealer purchase location read."
+        },
+        {
+          "number": 7,
+          "title": "Monthly apportionment and administrative deductions",
+          "bodySha256": "9aa0f33a50d89853373d676bfadc0f8df78736edf12576aa90a9bb583f7c3b63",
+          "reviewNote": "Complete eight subsections/all nested provisions, original-roll number note and McKay Buick annotation read. Source annotated unconstitutional insofar as per-sale property tax; all labels describe archived subject matter without presenting operative requirements. Farm tractors excluded and dealer-to-dealer exception preserved. Separate review: Monthly ad-valorem-basis allocation subtracts two distinct two-percent administrative shares."
+        },
+        {
+          "number": 8,
+          "title": "Treasury deposits and annual revenue distributions",
+          "bodySha256": "b2ef01315cb5055260239d94c595d2380133087f34784e22af04675b6607dc18",
+          "reviewNote": "Complete eight subsections/all nested provisions, original-roll number note and McKay Buick annotation read. Source annotated unconstitutional insofar as per-sale property tax; all labels describe archived subject matter without presenting operative requirements. Farm tractors excluded and dealer-to-dealer exception preserved. Separate review: Treasury deposit, January statement of proportions and February distribution checked separately from monthly apportionment."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read complete eight-subsection dealer tax scheme, all subdivisions,1975effective date, original-roll number note and McKay Buick constitutional annotation. Neutral topic labels do not assert enforceability of invalidated sale-based property tax."
+    },
+    {
+      "id": "150.050:7630",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=150.050&bid=7630",
+      "sourceSha256": "69fd63297e110cc49a981e9d0b1939badcd031d9ab514dd9a273c33b7932533e",
+      "textSha256": "68c9346e5a15e5bae6d827c57d3efd68d7c5e1aab8db7a21f227807fe7e30b49",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual merchant statements of peak inventory",
+          "bodySha256": "e3de9956b468d68c78c86579b2298462c140e55b1c47198f0b9517ba65224761",
+          "reviewNote": "Complete body/history including quoted affidavit read. January-to-April peak amount, consigned goods, signatory alternatives and township assessor route retained. Separate review: May first-Monday statement covers peak between January and April first Mondays, owned and consigned goods."
+        },
+        {
+          "number": 2,
+          "title": "Signatures and verification of merchant statements",
+          "bodySha256": "841d73257c3293b1136aae08d5dc7d18d1ce0db475700927dfb0b0a9aa7a6ff5",
+          "reviewNote": "Complete body/history including quoted affidavit read. January-to-April peak amount, consigned goods, signatory alternatives and township assessor route retained. Separate review: Authorized individual/member/manager/officer signs and swears taxable aggregate account."
+        },
+        {
+          "number": 3,
+          "title": "Merchants’ tax book and assessor verification",
+          "bodySha256": "2d2a81f26b06493e36bbbc0dbb03ede4e7703a8ab66c9aff29829ce362af5e47",
+          "reviewNote": "Complete body/history including quoted affidavit read. January-to-April peak amount, consigned goods, signatory alternatives and township assessor route retained. Separate review: All tax-book columns and entire diligent-efforts assessor affidavit read."
+        },
+        {
+          "number": 4,
+          "title": "Statement procedures in township-organization counties",
+          "bodySha256": "685f332df1d5fa8006ba40354b316ce163bb000fcb60ba2b20c4f7ed61838ea6",
+          "reviewNote": "Complete body/history including quoted affidavit read. January-to-April peak amount, consigned goods, signatory alternatives and township assessor route retained. Separate review: Township assessor delivers to clerk, then board on July second Monday and ordinary proceedings follow."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read all statements, verification, full assessor oath and township process with revision history. Inventory peak period differs from filing date; consigned goods included."
+    },
+    {
+      "id": "150.060:7632",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=150.060&bid=7632",
+      "sourceSha256": "a351f7894a0c9135cb678ed27812cc0793eff47fdb050c1a2a6f1610621062eb",
+      "textSha256": "82cf29a65c4d6bd50a00dd259ece07247113f5100e3ee10b229d3147abe64aab",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Equalizing merchant valuations and notifying increases",
+          "bodySha256": "90cd6baaa93c62a267dca9c23a5c81641cf37b0fd7f31b30de97acb20fd89df7",
+          "reviewNote": "Full body/history and Wilson Chevrolet notice annotation read; July equalization and August objection hearing separate, mailed notice prerequisite retained. Separate review: July book/reports and comparisons, ordinary equalization powers, mailed amount notice and August hearing checked."
+        },
+        {
+          "number": 2,
+          "title": "Board compensation and total assessed valuations",
+          "bodySha256": "11b99af7b83aa7630637ce2bd51b112a9cd98117afc20d20eb7b783cc4b72105",
+          "reviewNote": "Full body/history and Wilson Chevrolet notice annotation read; July equalization and August objection hearing separate, mailed notice prerequisite retained. Separate review: Same per diem and inclusion of equalized merchant valuation in total taxable value."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read complete equalization, mailed notice/hearing and board compensation text plus Wilson Chevrolet annotation voiding an increase without recorded notice. No waiver of notice inferred."
+    },
+    {
+      "id": "150.090:7635",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=150.090&bid=7635",
+      "sourceSha256": "8a6b87342d5fe283bc22135b91b03392dad339193ce3e18d98fae4cb00cbf5cc",
+      "textSha256": "6588aea3c6f68349a9fb318a7392a07a9164524a813c86ed6af244b56cf44497",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "St. Louis license collector duties and compensation",
+          "bodySha256": "c1a141b00847e8fc11b3fe21ba18b62d2dfc726a8caee029c68d73943e4b773a",
+          "reviewNote": "Complete source/history read; city board residence/appointment conditions, annual July filing, record abstract alternative, discretionary bond and post-January new-business estimation preserved. Separate review: Collector performs specified county duties for salary without extra fees."
+        },
+        {
+          "number": 2,
+          "title": "City tax equalization board and hearings",
+          "bodySha256": "920217d359307364ce438f7a50c8ed41b87d9628d6172c7b5ca1222d339ab5e2",
+          "reviewNote": "Complete source/history read; city board residence/appointment conditions, annual July filing, record abstract alternative, discretionary bond and post-January new-business estimation preserved. Separate review: Three qualified real-estate owners with ten-year residence, annual May appointment, July equalization/August hearing and ordinance compensation."
+        },
+        {
+          "number": 3,
+          "title": "Merchant statements, tax bills and licenses",
+          "bodySha256": "c5ad12f28eb19e903eb06aebb1ed9231ffa2fe64500c69e76d274b358e076f9a",
+          "reviewNote": "Complete source/history read; city board residence/appointment conditions, annual July filing, record abstract alternative, discretionary bond and post-January new-business estimation preserved. Separate review: July first-Monday statements, final valuation approval, tax computation/mail and license after payment."
+        },
+        {
+          "number": 4,
+          "title": "Collector records and discretionary merchant-bond waiver",
+          "bodySha256": "e58691ed1084e8cff26115046017d9b0aa537caa1621a1508cbf8a8296f0eb28",
+          "reviewNote": "Complete source/history read; city board residence/appointment conditions, annual July filing, record abstract alternative, discretionary bond and post-January new-business estimation preserved. Separate review: Required records, optional commission-report abstract and discretionary waiver of specified merchant bond."
+        },
+        {
+          "number": 5,
+          "title": "Prorated taxes for merchants beginning business",
+          "bodySha256": "3539b654c586596258ca67e3a1ee61e5fb996a7cbbe577e5947a9443b0a4a3a9",
+          "reviewNote": "Complete source/history read; city board residence/appointment conditions, annual July filing, record abstract alternative, discretionary bond and post-January new-business estimation preserved. Separate review: Post-January1business start requires estimated peak owned/consigned controlled goods and prorated tax."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read all five St. Louis collector/board and merchant-tax provisions and history. Specific dates, board qualifications, discretionary bond waiver and new-business proration checked."
+    },
+    {
+      "id": "150.310:7651",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=150.310&bid=7651",
+      "sourceSha256": "55fee89aae2f293a4596df985c6c83b3f35a5bd2c6dd2ccc6aab0d15cb394b33",
+      "textSha256": "1497a4a83297db1cce0f1e0d59fc7de8bf06b8b2c1da3a125c7e36248bed2f9f",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Manufacturer taxation, licensing and agricultural exemptions",
+          "bodySha256": "8525be7636ab96ab84bda2b2ba04f51697c8be4edf0741da8ebf616aeb1995ef",
+          "reviewNote": "Complete source/history and Metal Form constitutional annotation read; unmanufactured grain/crops assessment exception, no greater tax than merchants, calendar expiry and less-than-one-thousand-dollar aggregate threshold retained. Separate review: Raw/finished goods and tools taxed like merchants, agricultural crops follow cited alternate assessment, and local tax cannot exceed merchant rate for period."
+        },
+        {
+          "number": 2,
+          "title": "Annual manufacturer license period",
+          "bodySha256": "7744a6345f39d820dea90c9be4d5dafb988cef3aff7eb9edc35df1f8f72a2d46",
+          "reviewNote": "Complete source/history and Metal Form constitutional annotation read; unmanufactured grain/crops assessment exception, no greater tax than merchants, calendar expiry and less-than-one-thousand-dollar aggregate threshold retained. Separate review: One-year licenses end December31of current year."
+        },
+        {
+          "number": 3,
+          "title": "Small manufacturers excluded from specified provisions",
+          "bodySha256": "dd78b6d7bc1f5a030da99c483b5afe13c060da705312255073ad57164ba78024",
+          "reviewNote": "Complete source/history and Metal Form constitutional annotation read; unmanufactured grain/crops assessment exception, no greater tax than merchants, calendar expiry and less-than-one-thousand-dollar aggregate threshold retained. Separate review: Aggregate below1000excludes manufacturers from150.300to150.370; label broadened to avoid limiting exclusion to licensing alone."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read all manufacturer taxation/licensing provisions,1982effective date and Metal Form constitutional annotation. Corrected subsection3 label because exclusion extends to specified statutory provisions, not merely licensing."
+    },
+    {
+      "id": "150.330:7653",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=150.330&bid=7653",
+      "sourceSha256": "7d7fade4acfe7a4d1274c598285000ed2c83fe4e7eae0977862f8e3bbff6c54e",
+      "textSha256": "46d4797c52bc6927bb139d80ae7c7b43f2e300566c9279fd49558200c5b08c1b",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Equalizing manufacturers’ reported valuations",
+          "bodySha256": "2371103f0fedee7a9ffc029a0b4897d44ef755775f81b6d8ee325d2185d2f84f",
+          "reviewNote": "Full body/history read; July book return compared with assessor reports, mailed raise notice and August hearing retained. Separate review: Book and assessor reports due by second Monday July; comparison and ordinary property equalization powers subject to specified sections."
+        },
+        {
+          "number": 2,
+          "title": "Notice and hearings after valuation increases",
+          "bodySha256": "cafa9f3281b6194584d4933e1da037c1df99a16b1641f94a8adb4cae8b790655",
+          "reviewNote": "Full body/history read; July book return compared with assessor reports, mailed raise notice and August hearing retained. Separate review: Mailed personal notice states increase and second-Monday-August hearing."
+        },
+        {
+          "number": 3,
+          "title": "Including equalized amounts in total taxable valuation",
+          "bodySha256": "40ba81f7d993e6654aa1d4649af908d4b9797cdbffc32230ffa4041937ec6a13",
+          "reviewNote": "Full body/history read; July book return compared with assessor reports, mailed raise notice and August hearing retained. Separate review: Equalized statements enter total property value taxable for all purposes."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read full manufacturer equalization, notice/hearing and total-valuation provisions with prior revisions. Notice after increase and August opportunity remain distinct from July submission."
+    },
+    {
+      "id": "150.340:7654",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=150.340&bid=7654",
+      "sourceSha256": "82fc8eb313fb6554ee12fcfe5f5de20f678d6b76b81a60c01573b1ee6c562162",
+      "textSha256": "0bc7840bb99de9dcb7682de26f7fd2d4409a3ef5419d5c037d01b302386ab33c",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Extending taxes and delivering the certified tax book",
+          "bodySha256": "63a982bf0d918c41483e284f48adfb51de919f0cde366009710f58e2332978f2",
+          "reviewNote": "Complete body/history read; same rate as real estate and November delivery, split county/state clerk payment and first-class/St. Louis treasury exception preserved. Separate review: After equalization, real-estate-equivalent rate extension and certified November1delivery with collector receipt and charge checked."
+        },
+        {
+          "number": 2,
+          "title": "Clerk compensation and equalization-board payments",
+          "bodySha256": "da225f7b24f7dad998e06eaf25d547c608b6e87d86cb73ddb3a89b2ff739f08b",
+          "reviewNote": "Complete body/history read; same rate as real estate and November delivery, split county/state clerk payment and first-class/St. Louis treasury exception preserved. Separate review: Six cents per name/firm split state/county, equalization per diem and treasury-payment exception all checked."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read both tax-book delivery and compensation provisions with1978effective note. First-class county/St. Louis payments go treasury, not individuals."
+    },
+    {
+      "id": "150.350:7655",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=150.350&bid=7655",
+      "sourceSha256": "7fc32c0024065150f72ae9241471c54b1d3914cf962024f96a2c37b1003ff9dd",
+      "textSha256": "1d0b1c7be98fd802410ecb616d2f4951bd02732ff59a3665ffe251bb16ff6351",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "St. Louis license collector duties",
+          "bodySha256": "cbceaed1fe7d01631954267f128912ba7c03fafd9bfa2a28425961a921b27c61",
+          "reviewNote": "Full body/history read; five-day minimum after raise notice differs merchant August fixed date; July first filing and abstract reporting alternative preserved. Separate review: License collector substitutes for specified county officials."
+        },
+        {
+          "number": 2,
+          "title": "City equalization board and valuation-increase hearings",
+          "bodySha256": "5efe5c1d0158388279b8fe27ca24608268bfdc303b3a6976fed0ae44d939ba1b",
+          "reviewNote": "Full body/history read; five-day minimum after raise notice differs merchant August fixed date; July first filing and abstract reporting alternative preserved. Separate review: Three qualified property owners with ten-year residence, May appointments, July equalization and five-day notice-to-hearing minimum checked."
+        },
+        {
+          "number": 3,
+          "title": "Manufacturer statements, tax bills and licenses",
+          "bodySha256": "c13ceca6f916c53cbdf98ea49e065506ad460c93b1a7110aada66b408e458d76",
+          "reviewNote": "Full body/history read; five-day minimum after raise notice differs merchant August fixed date; July first filing and abstract reporting alternative preserved. Separate review: July1statement deadline, approved valuation, computed mailed bill and license on payment."
+        },
+        {
+          "number": 4,
+          "title": "Collector records and alternative valuation reports",
+          "bodySha256": "19509f5e4fb739c0bd09cca2e56d2009cc0c9ae87281333072732b3cc2e9e44a",
+          "reviewNote": "Full body/history read; five-day minimum after raise notice differs merchant August fixed date; July first filing and abstract reporting alternative preserved. Separate review: Required books/reports and optional abstract to tax commission checked."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read all St. Louis manufacturer administration rules and1992effective history. Hearing is at least five days after receipt, unlike fixed August date elsewhere; July1filing also distinct."
+    },
+    {
+      "id": "150.380:7658",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=150.380&bid=7658",
+      "sourceSha256": "c657c441454497b7b488590a7e1723625ba466bc4e185fed57bde5d9dd1c9a3a",
+      "textSha256": "9beaf412fdbbd4de98f50e305ccbd9d1bda624b15eaf597dd570a6a7f6be28cc",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of itinerant vendor",
+          "bodySha256": "3fb7d98204bdb419e00152f9c9bac4d0323f94190e8819ab8b4e6ce5b2aad8ed",
+          "reviewNote": "Complete text/history read; temporary120-day intent and absence permanent Missouri business jointly qualify, list of commercial/samples/fair/customary-auction exclusions retained. Separate review: Principals/agents, single-location or traveling sales, intended120-day maximum and premises/permanent-place conditions checked."
+        },
+        {
+          "number": 2,
+          "title": "Excluded sales, peddlers and auctioneers",
+          "bodySha256": "d3da979742dc2b211c12cf520bc681eab418ab3be259c06c797ed2116addb30e",
+          "reviewNote": "Complete text/history read; temporary120-day intent and absence permanent Missouri business jointly qualify, list of commercial/samples/fair/customary-auction exclusions retained. Separate review: Dealer commercial sales, samples for future delivery, hawkers/peddlers, agricultural fair and customary-fee auctioneers excluded."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read both itinerant-vendor definition and exclusion provisions with history. Definition requires temporary business, occupied premises and no permanent Missouri business, not merely travel."
+    },
+    {
+      "id": "150.390:7659",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=150.390&bid=7659",
+      "sourceSha256": "8687b95e4deaaa9d9141b4d50abe3c57b77026da0c240d4a4d40943e46ceeb25",
+      "textSha256": "877fe98ebdf5aa9f3aaac15055591a1060e20a8640e90948f4c5f1bec55efb87",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "State and local licensing and municipal authority",
+          "bodySha256": "6160120b8528215b4169db44223e21f1fc4cd1eb45dcae7c92ea134d6ce669b9",
+          "reviewNote": "Full source/history read; licensee personal sales versus permitted assistance distinguished; deposit versus fee and municipal powers retained. Separate review: Both state and local licenses before business with preserved lawful municipal ordinance power."
+        },
+        {
+          "number": 2,
+          "title": "Special deposit, state license fee and duration",
+          "bodySha256": "5981097c646964e9593d35cdca483e55f190e10600daf99bbc0273aa1c7b1d36",
+          "reviewNote": "Full source/history read; licensee personal sales versus permitted assistance distinguished; deposit versus fee and municipal powers retained. Separate review: 500special deposit,25fee and proper application yield one-year state license subject to cited provisions."
+        },
+        {
+          "number": 3,
+          "title": "Nontransferable licenses and limits on selling assistance",
+          "bodySha256": "9360c8e1454f47d644ae9bc45e86faf96b2979e48f7f8381a9a4e24e3aed7154",
+          "reviewNote": "Full source/history read; licensee personal sales versus permitted assistance distinguished; deposit versus fee and municipal powers retained. Separate review: Application copied, license nontransferable and in-person selling restricted; assistants limited to aiding with licensee."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read all itinerant licensing and assistance restrictions with history. Assistants may aid but cannot sell for licensee or without licensee; title does not imply general delegation permission."
+    },
+    {
+      "id": "150.430:7663",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=150.430&bid=7663",
+      "sourceSha256": "4a6c62944bb96f69a58ddf2fe5027417f3ac62e0d120522377b3d6612eea7b4a",
+      "textSha256": "f477d97462fc24a7cb2a8a0121abee67b9f69b61e60fef17b1ed2978c25ce420",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Court jurisdiction over itinerant-vendor prosecutions",
+          "bodySha256": "ae8aed326f151f102046a31329bd987a0cab87b36dab2460584f6ee5416bf290",
+          "reviewNote": "Complete body/history read; one-year license and sixty-day further deposit hold after return/surrender, claims paid before balance return retained. Separate review: Court must have criminal jurisdiction over comparably punishable offenses."
+        },
+        {
+          "number": 2,
+          "title": "License expiration, surrender and cancellation",
+          "bodySha256": "bd5454fd0b9ea3facc334c6f2ef661fc74082717ef41ef1ed28769e23f6c35a7",
+          "reviewNote": "Complete body/history read; one-year license and sixty-day further deposit hold after return/surrender, claims paid before balance return retained. Separate review: One-year expiration, earlier surrender and director cancellation/date/file duties checked."
+        },
+        {
+          "number": 3,
+          "title": "Deposit retention, claims and return of balances",
+          "bodySha256": "80fad2cc92b7be73b93d791c58aac48e097d32f7c0fd28845ac5f84691531dda",
+          "reviewNote": "Complete body/history read; one-year license and sixty-day further deposit hold after return/surrender, claims paid before balance return retained. Separate review: Further sixty-day hold,150.440claims and only remaining balance returned."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read all jurisdiction, cancellation and deposit-return provisions with history. Deposit return follows sixty-day retention and satisfaction of claims, not immediate license surrender."
+    },
+    {
+      "id": "150.465:7667",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=150.465&bid=7667",
+      "sourceSha256": "f65638059576b23a6fb435b8b1406e7cec5480b700b6fdb8ec43d1fea6f81e28",
+      "textSha256": "9f07de36c1955b1ebca04909dfe4cf562477534992b7886e32cffa83c195592c",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Restricted baby-food, drug, device and cosmetic sales",
+          "bodySha256": "6bc00fba82504bea8ef9bca727b6073b70a78dd3de71554c6d67dfc0b78318a9",
+          "reviewNote": "Complete source/history read; child-under-two food scope, agents exception,72-hour request response for new/unused property and forgery cross-reference retained. Separate review: Food solely made/packaged for under-two consumption and196.010drugs/devices/cosmetics covered."
+        },
+        {
+          "number": 2,
+          "title": "Authorized manufacturer-agent exception",
+          "bodySha256": "1e2598b7fc0be6dbef994be4daf8191138000da38f2688f40afadb99a2d637a0",
+          "reviewNote": "Complete source/history read; child-under-two food scope, agents exception,72-hour request response for new/unused property and forgery cross-reference retained. Separate review: Authorized manufacturer agents excepted by section language."
+        },
+        {
+          "number": 3,
+          "title": "Misdemeanor penalty for violations",
+          "bodySha256": "63ae32cdca0e79cda2480fc84b5fa97d34e25a4e8a0f4220a4d98fd8ae6ad4cc",
+          "reviewNote": "Complete source/history read; child-under-two food scope, agents exception,72-hour request response for new/unused property and forgery cross-reference retained. Separate review: Violation designated class A misdemeanor."
+        },
+        {
+          "number": 4,
+          "title": "Proof of purchase upon law-enforcement request",
+          "bodySha256": "2eac3334964358306e35ab59097ed046f612076156ed78d021d6a430d642292e",
+          "reviewNote": "Complete source/history read; child-under-two food scope, agents exception,72-hour request response for new/unused property and forgery cross-reference retained. Separate review: Requested producer/manufacturer/wholesaler/retailer purchase proof for new/unused property due within72hours."
+        },
+        {
+          "number": 5,
+          "title": "Prosecution for forged purchase receipts",
+          "bodySha256": "f4ac80a606329f6765e497764f7d2273bf7e4e3418c15ab76aa93c4772869e2a",
+          "reviewNote": "Complete source/history read; child-under-two food scope, agents exception,72-hour request response for new/unused property and forgery cross-reference retained. Separate review: Forged receipt under proof provision prosecuted by570.090cross-reference."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read all restricted-product, manufacturer-agent exception, penalty and purchase-proof provisions with history. Subsection2says section exception; no unsupported limitation to first sales prohibition."
+    },
+    {
+      "id": "150.500:7671",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=150.500&bid=7671",
+      "sourceSha256": "71d0759eb74da8a0b7f747af56ed640bca846322b714ac9cb1139521df098fc0",
+      "textSha256": "18e79d925cfdd17bd0e762493b1da4b11185e6eb8717429e0a0c509f4c51fa34",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "State peddler-license rates and renewal periods",
+          "bodySha256": "685b515c37b3d593e93fa96e8d19898c78d83d0579e7b5cedc4c01cd7768e21d",
+          "reviewNote": "Complete source/history and all four transport-specific nested rates read; foot/beast/cart/vessel terms, differing renewal periods and county ceiling preserved without assuming current practical use. Separate review: Foot, beast, land carriage and vessel rates read in full, including six-month renewals and vessel five-day minimum."
+        },
+        {
+          "number": 2,
+          "title": "County peddler-license taxes and state-rate limit",
+          "bodySha256": "70435854fcffc211fbf1d7407e5985a50d97e703a2af198f2ecda9ed5cb63b1d",
+          "reviewNote": "Complete source/history and all four transport-specific nested rates read; foot/beast/cart/vessel terms, differing renewal periods and county ceiling preserved without assuming current practical use. Separate review: County recorded order may impose license tax no greater than state amount."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read complete four-mode peddler rate/renewal schedule and county authority with revision history. Different land and vessel renewal units and minimum vessel period retained."
+    }
+  ]
+}

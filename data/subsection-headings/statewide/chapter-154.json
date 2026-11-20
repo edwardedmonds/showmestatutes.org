@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Drafted and separately reviewed by different Codex agents against complete archived sources and notes; editorial topic labels, not legal review.",
+  "entries": [
+    {
+      "id": "154.010:7720",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=154.010&bid=7720",
+      "sourceSha256": "2b1aa7a578c0bfd8374ab94240c01cbd1bd3977d7c38347ef232d543fc494f76",
+      "textSha256": "9b2e5ac2ae57d879537247544efb201f9bbaa9c2eb07454484d5259cb2b66687",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Boats and vessel interests as a tax class",
+          "bodySha256": "9bb1421b6644ae3916972f12a2fc787ecea59d64f6fd31db49890d23af8b4b3c",
+          "reviewNote": "Read both subsections and full Leggett annotation. Boats navigating state waters and shares/interests, residence at assessment, and nonresident commercial-barge exclusion in annotation retained; no universal all-vessel taxation claim."
+        },
+        {
+          "number": 2,
+          "title": "Owner-residence location for boat taxation",
+          "bodySha256": "5649f42ad82ddfa422f6d9b312d6115f971bf3ebb439f6166fd71950ae5644d3",
+          "reviewNote": "Read both subsections and full Leggett annotation. Boats navigating state waters and shares/interests, residence at assessment, and nonresident commercial-barge exclusion in annotation retained; no universal all-vessel taxation claim."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Boat special class and owner-residence situs checked with Leggett annotation excluding nonresident-owned commercial barges; no assertion of universal in-state navigation tax. This is not independent legal review."
+    },
+    {
+      "id": "154.020:7721",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=154.020&bid=7721",
+      "sourceSha256": "bc5577ddf4db68a0e3f2446afca340ff8605b03285d237e5e05cfdcaadc400c2",
+      "textSha256": "29e895d42ff70b1fc3742c7afc5e3bc0ef7e6c82464856ab6cfaecc6c32c53d8",
+      "draftedBy": "headings_c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-15",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Assessor certificates and their evidentiary effect",
+          "bodySha256": "6e1e8f3ed62ffdc126b18929f49c5fb6c8673cbca77bc73c71dbf0b36bbfcfb4",
+          "reviewNote": "Read both subsections/history. Due owner return and demand precede certificate, required particulars and conclusive evidence status, framed conspicuous cabin display retained."
+        },
+        {
+          "number": 2,
+          "title": "Displaying certificates in boat cabins",
+          "bodySha256": "605765dd861dd0bf155dedf699ac59c122ed76478d48c69e70a7da9f45b91efd",
+          "reviewNote": "Read both subsections/history. Due owner return and demand precede certificate, required particulars and conclusive evidence status, framed conspicuous cabin display retained."
+        }
+      ],
+      "reviewedBy": "headings_a",
+      "reviewSummary": "Separate Codex editorial pass against the full archived version and notes: Demand-based assessor certificate after due return, specific facts and conclusive evidence language checked separately from cabin display. This is not independent legal review."
+    }
+  ]
+}
