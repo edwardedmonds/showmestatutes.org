@@ -1,0 +1,347 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Complete archived-source drafting and separate complete-source editorial reviews; entry status determines acceptance.",
+  "entries": [
+    {
+      "id": "165.011:36027",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=165.011&bid=36027",
+      "sourceSha256": "a8ec231472aed02a00274dc6e88099d78c72c02e7fe8beb48d6438f3953a2634",
+      "textSha256": "6339e7b602904544063d6cbf011bb411df1069d9cde264184039eec68859a38c",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "School accounting funds and allocation of receipts",
+          "bodySha256": "6bd528bf173dfe6d5dd8d2693c6ce98df40d261fd3e289ea23492cefddedcbee",
+          "reviewNote": "Complete source and all nested formulas read. Mandatory versus optional transfers, same-year temporary loan repayment, board resolution for excess project transfers and mutually exclusive alternative formula distinguished. Financial-stress transfers exclude general-obligation bond proceeds; older official-heading Carthage item absent from current body not invented. Separate review: All four funds, revenue-source allocations, separate debt-service bank account, delinquent-tax exception, refunds and purpose-bound donations checked."
+        },
+        {
+          "number": 2,
+          "title": "Authorized transfers, excess balances and temporary borrowing",
+          "bodySha256": "84360975567ccd8a275f3b9577aa2efe352ccf425813a7d921a73ece6ea6e34b",
+          "reviewNote": "Complete source and all nested formulas read. Mandatory versus optional transfers, same-year temporary loan repayment, board resolution for excess project transfers and mutually exclusive alternative formula distinguished. Financial-stress transfers exclude general-obligation bond proceeds; older official-heading Carthage item absent from current body not invented. Separate review: Permissive and mandatory transfers, excess incidental balance test, completed debt/project balances, interest and same-year interfund borrowing repayment all read."
+        },
+        {
+          "number": 3,
+          "title": "Funds for tuition and certificated employee benefits",
+          "bodySha256": "c661683f96ad2ddcb2e865d7f1029fc8af46b5ddd5da874ce0710b73fdeb41a8",
+          "reviewNote": "Complete source and all nested formulas read. Mandatory versus optional transfers, same-year temporary loan repayment, board resolution for excess project transfers and mutually exclusive alternative formula distinguished. Financial-stress transfers exclude general-obligation bond proceeds; older official-heading Carthage item absent from current body not invented. Separate review: Tuition can use teachers or incidental funds; certificated benefits use teachers fund."
+        },
+        {
+          "number": 4,
+          "title": "Incidental-to-capital transfers for specified costs and projects",
+          "bodySha256": "b5e1322f20443a35f00a326f75cb70722215a7b629075ee1527ad8a42475381d",
+          "reviewNote": "Complete source and all nested formulas read. Mandatory versus optional transfers, same-year temporary loan repayment, board resolution for excess project transfers and mutually exclusive alternative formula distinguished. Financial-stress transfers exclude general-obligation bond proceeds; older official-heading Carthage item absent from current body not invented. Separate review: All five allowed capital-transfer categories,1997lease cutoff, energy-savings condition, greater-of formula and majority resolution for excess transfers checked."
+        },
+        {
+          "number": 5,
+          "title": "Alternative incidental transfers to debt or capital funds",
+          "bodySha256": "80caf35757df73855a16eca045bfdd6615f5d4b9f38071a9a6f4513049845802",
+          "reviewNote": "Complete source and all nested formulas read. Mandatory versus optional transfers, same-year temporary loan repayment, board resolution for excess project transfers and mutually exclusive alternative formula distinguished. Financial-stress transfers exclude general-obligation bond proceeds; older official-heading Carthage item absent from current body not invented. Separate review: Alternative transfer bars specified other transfers/expenditures and uses greater historical state aid or five-percent adequacy-weighted attendance formula."
+        },
+        {
+          "number": 6,
+          "title": "State aid deductions for unlawful transfers",
+          "bodySha256": "3fe993378398b6033a20008c17b962a8c60218dda613e459e76cba704224982b",
+          "reviewNote": "Complete source and all nested formulas read. Mandatory versus optional transfers, same-year temporary loan repayment, board resolution for excess project transfers and mutually exclusive alternative formula distinguished. Financial-stress transfers exclude general-obligation bond proceeds; older official-heading Carthage item absent from current body not invented. Separate review: Prior-year unlawful transfers offset state aid over no more than five years under approved plan."
+        },
+        {
+          "number": 7,
+          "title": "Unrestricted capital transfers and balance thresholds",
+          "bodySha256": "36abab8639d6a0def747ebc31c3ddd712d6682a5351b5c49a46ca2d24b0b15ff",
+          "reviewNote": "Complete source and all nested formulas read. Mandatory versus optional transfers, same-year temporary loan repayment, board resolution for excess project transfers and mutually exclusive alternative formula distinguished. Financial-stress transfers exclude general-obligation bond proceeds; older official-heading Carthage item absent from current body not invented. Separate review: Stress-prevention and next-year below-twenty-percent balance paths both read; bond proceeds treated restricted and excluded."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read all seven subsections and entire revision history, including every transfer formula. Official heading retains a Carthage reference not supplied as a separate provision in this body; no rule invented. Broadened subsection7 label to cover both stress and balance-threshold transfer provisions."
+    },
+    {
+      "id": "165.012:8196",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=165.012&bid=8196",
+      "sourceSha256": "9082c7bcb1aff5e26b1b4bedacc34431579eb67f73417c949eeefe035413ad01",
+      "textSha256": "fa1ca67b66eacdcfaa8e514f6e2d3effe0997b2c12ad06e45d7da54c47245962",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual midyear balances, borrowing and transfer reports",
+          "bodySha256": "b366292a77600eaae67f5a4ec835ca1fd5e3935fb5f91d3d2201a56615dea028",
+          "reviewNote": "Complete source and effective-date note read.2005–06historical report requirement precedes July2006effective note; preserved without correction. Current plus prior four years only to extent required reporting. Separate review: All three balance/borrowing/net-transfer categories, current-school-year December31snapshot and thirty-day reporting language checked."
+        },
+        {
+          "number": 2,
+          "title": "Historical supplemental financial reports",
+          "bodySha256": "d5f2ebc838c646a5c950b1dbed1955936cbf455a1e3a3d8fc1bd92a003a6f460",
+          "reviewNote": "Complete source and effective-date note read.2005–06historical report requirement precedes July2006effective note; preserved without correction. Current plus prior four years only to extent required reporting. Separate review: 2005-06year requires same information for December31,2003and2004."
+        },
+        {
+          "number": 3,
+          "title": "Website publication of current and prior reports",
+          "bodySha256": "9c843187dedaa90d5cc704f8caa0290023a4226802f862ab7fe7c2c6dc523534",
+          "reviewNote": "Complete source and effective-date note read.2005–06historical report requirement precedes July2006effective note; preserved without correction. Current plus prior four years only to extent required reporting. Separate review: Website includes current and prior four years only to extent reporting was required."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read all financial reporting provisions and July2006effective note. Historical2005-06 reporting of2003/2004balances retained without shifting dates; annual report uses December31snapshot."
+    },
+    {
+      "id": "165.021:8200",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=165.021&bid=8200",
+      "sourceSha256": "f24a7f8d75131d74ae0bc5b427a82a035327589c135aaeecf17f2cecd3172801",
+      "textSha256": "a4d17019b89c4c1792e7b56e5026f706c93b095281b46c39fdf93d9c946a5a8b",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Disbursements limited to the purposes of receipts",
+          "bodySha256": "e3ddb745c41aa886429a52a776f193d399f57d1df72f37cddab657f27361d800",
+          "reviewNote": "Complete source including check table and notes read. Board orders and dual signatures/facsimile authority distinct from sufficient proper-fund balance and whole-school-year revenue ceiling. Separate review: Money usable only for purposes levied, collected or received."
+        },
+        {
+          "number": 2,
+          "title": "Payment authorization, check contents and signatures",
+          "bodySha256": "e1c37e64fd44c7d0d34e0ec4ce3f837e5ce0ef3292937577944e68584bb40e0e",
+          "reviewNote": "Complete source including check table and notes read. Board orders and dual signatures/facsimile authority distinct from sufficient proper-fund balance and whole-school-year revenue ceiling. Separate review: Treasurer payments follow board orders; full check contents, president/treasurer signatures and resolution-based facsimiles checked."
+        },
+        {
+          "number": 3,
+          "title": "Form of school district checks",
+          "bodySha256": "a3974d52a5297f4dc1f8f5e9b82c41b7a917f0d8ee743e3c633e1c49cde42dd5",
+          "reviewNote": "Complete source including check table and notes read. Board orders and dual signatures/facsimile authority distinct from sufficient proper-fund balance and whole-school-year revenue ceiling. Separate review: Read complete form including district/address, date, payee, amount words/numerals, fund, purpose and both signature spaces; substantial conformity preserved."
+        },
+        {
+          "number": 4,
+          "title": "Available treasury and fund balances before payment",
+          "bodySha256": "7969080a74bffefc45751ef28b738e97852528a0480c9c9654762bdd28c7940d",
+          "reviewNote": "Complete source including check table and notes read. Board orders and dual signatures/facsimile authority distinct from sufficient proper-fund balance and whole-school-year revenue ceiling. Separate review: Sufficient money required in treasury and proper fund before check/order for debt."
+        },
+        {
+          "number": 5,
+          "title": "Payment from the appropriate school funds",
+          "bodySha256": "4cac2878ef5feaed4fb3ea84b0ee289b795df8ee774c5dda51e05928624b9433",
+          "reviewNote": "Complete source including check table and notes read. Board orders and dual signatures/facsimile authority distinct from sufficient proper-fund balance and whole-school-year revenue ceiling. Separate review: Every payment draws appropriate fund or funds."
+        },
+        {
+          "number": 6,
+          "title": "School-year revenue limit on checks and payment orders",
+          "bodySha256": "c87b85598325ba906efb7e683b67aead8741237293431ebe331d45fb95cef1e3",
+          "reviewNote": "Complete source including check table and notes read. Board orders and dual signatures/facsimile authority distinct from sufficient proper-fund balance and whole-school-year revenue ceiling. Separate review: Checks/orders cannot exceed July-to-June school-year income and revenue."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read six disbursement provisions, complete check form/table and history. Refined form heading to avoid suggesting exact layout mandatory where statute says substantially."
+    },
+    {
+      "id": "165.071:8204",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=165.071&bid=8204",
+      "sourceSha256": "115f3d309c8c54b7e6a38003beff430319f23c783123063e92e2f79f42acd200",
+      "textSha256": "c157edcd556036e28e62b80dc56981cc57d90018cfc1dcd92028081dedbbb750",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Direct monthly remittances in specified county classes",
+          "bodySha256": "e96d7cc71407999726280e3fd8d6c1044cdc6bf5e27b54cee59002467d77e477",
+          "reviewNote": "Complete source and notes read. First/second-class and township direct route differs from third/fourth-class nontownship county-treasurer route; duplicate receipt filing follows each actor and source wording unchanged. Separate review: Specified collectors remit at least monthly directly to seven-director board treasurer with duplicate filing duties."
+        },
+        {
+          "number": 2,
+          "title": "County-treasurer remittances in other qualifying counties",
+          "bodySha256": "19941dea6160298221d9b3aed68afef646bc61fa417077328522265216b310fd",
+          "reviewNote": "Complete source and notes read. First/second-class and township direct route differs from third/fourth-class nontownship county-treasurer route; duplicate receipt filing follows each actor and source wording unchanged. Separate review: Third/fourth non-township collector first pays county treasurer, who then remits monthly to board with separate duplicate receipts."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read both monthly-remittance routes and legislative history. First/second-class and township counties differ from third/fourth non-township routing; seven-director recipient and duplicate receipts retained."
+    },
+    {
+      "id": "165.111:8208",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=165.111&bid=8208",
+      "sourceSha256": "26363fd58b1cdc6aeb41a953b44f7c346c8bb1b6dbb6434d2a479b72214ad927",
+      "textSha256": "3a68ced7a2a7a6e1080e0c73635e2ca95e215d5c6cddb000117c216126a70984",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Financial statement publication when no timely audit occurs",
+          "bodySha256": "9ca26b9eb60739fbec4fef02c1c4ed141833c76d20e34f4eb7a8e9fd3be810e0",
+          "reviewNote": "Complete body and history read. September publication tied to absence of audit by October31, not all districts annually regardless of audit. Aid requires receipt and approval; officers penalty tied to board order. Separate review: No audit by October31condition, September1newspaper publication, location alternatives, all financial statement topics, attestation and state copy read."
+        },
+        {
+          "number": 2,
+          "title": "State aid conditions, reporting penalties and audit summaries",
+          "bodySha256": "29d778865cf3a5d61d421c1d187cd2482862e59ae70c2badb61f27cd300f2787",
+          "reviewNote": "Complete body and history read. September publication tied to absence of audit by October31, not all districts annually regardless of audit. Aid requires receipt and approval; officers penalty tied to board order. Separate review: Next-year aid withheld pending approved copy; distinct board/officer failures, misdemeanor fine up to100and audit-summary cross-reference checked."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read full publication and enforcement provisions plus history. September1publication and October31audit condition preserved exactly without resolving temporal tension; state-aid release requires receipt and approval."
+    },
+    {
+      "id": "165.121:8209",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=165.121&bid=8209",
+      "sourceSha256": "3e6fbeec3403bc6d1cc420fd2c2dbc4ae41adb80521ba608b3a7d4a4a70013b9",
+      "textSha256": "ab211a126d2458eb64f27760989e33c119e1c74e5b024ec2d42ea6d552188bed",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Biennial independent audits of district records",
+          "bodySha256": "b3d04dee8aa16e8ea8a2fc79022d98a006d19c6dfcac0f8e32fa57975da4728b",
+          "reviewNote": "Complete source and eight report items plus Bond annotation read. At least biennial, sixty-day maximum extension for prior good cause, thirty-day summary then immediate publication/five-place posting fallback retained. Note says section does not supersede29.230, no exclusivity inferred. Separate review: At least biennial seven-director financial/transportation/attendance audit under applicable auditing standards by nonemployee independent auditor."
+        },
+        {
+          "number": 2,
+          "title": "Audit report distribution and incidental fund costs",
+          "bodySha256": "59498ca1d90ae50040d9c7f4148e2717d23b2e7759bd0d732a8179028dbae34c",
+          "reviewNote": "Complete source and eight report items plus Bond annotation read. At least biennial, sixty-day maximum extension for prior good cause, thirty-day summary then immediate publication/five-place posting fallback retained. Note says section does not supersede29.230, no exclusivity inferred. Separate review: Board member, department and county superintendent copies; incidental fund pays cost."
+        },
+        {
+          "number": 3,
+          "title": "Required audit opinions, disclosures and financial statements",
+          "bodySha256": "d93fa7bf413d7447e1fe4a0286883f8eaa12f0a1c22f1a1649a1c7abb7b142b0",
+          "reviewNote": "Complete source and eight report items plus Bond annotation read. At least biennial, sixty-day maximum extension for prior good cause, thirty-day summary then immediate publication/five-place posting fallback retained. Note says section does not supersede29.230, no exclusivity inferred. Separate review: All eight scope/opinion/reason/budget/attendance/transportation and fund-statement items read."
+        },
+        {
+          "number": 4,
+          "title": "Filing deadline, extensions and state aid withholding",
+          "bodySha256": "bc9b9800f0f3207828ee7b28bbcdaef0bc27b1affec2477c1846aff64a53cb81",
+          "reviewNote": "Complete source and eight report items plus Bond annotation read. At least biennial, sixty-day maximum extension for prior good cause, thirty-day summary then immediate publication/five-place posting fallback retained. Note says section does not supersede29.230, no exclusivity inferred. Separate review: October31filing, timely good-cause request, maximum sixty-day extension and further aid withholding until receipt checked."
+        },
+        {
+          "number": 5,
+          "title": "Audit summary preparation, publication and public access",
+          "bodySha256": "33ab1f62ec1b9c2a04ae0e8ca0a7099521f346390be69baa85a8c3cb4f4ee3fb",
+          "reviewNote": "Complete source and eight report items plus Bond annotation read. At least biennial, sixty-day maximum extension for prior good cause, thirty-day summary then immediate publication/five-place posting fallback retained. Note says section does not supersede29.230, no exclusivity inferred. Separate review: Thirty-day summary preparation, complete three content items, newspaper or five public postings and continuing report inspection checked."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read entire audit procedure, eight report items, publication/access rules and Bond annotation that this section does not supersede29.230. Independent accountant requirement is statutory content, not a claim about this editorial review."
+    },
+    {
+      "id": "165.122:8210",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=165.122&bid=8210",
+      "sourceSha256": "ad748cba2c45bc875f76bc1a236f2072241e3161cf986b100f41122efd46da8b",
+      "textSha256": "538951f5489823c8a65ec41d4140276d8dc3337e2024e5dfe3566d229c603a65",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Independent enrollment audits and unannounced student counts",
+          "bodySha256": "7255418095cf5bbffacfe9afe9a841588be7994df55a2158b872e95ad1ec9068",
+          "reviewNote": "Complete source and notes read. Commissioner may cause audit, not mandatory universal schedule; independent auditor uses random unannounced physical count and reports to commissioner/board. Separate review: Enrollment/attendance records, internal controls, unannounced random physical count and nonemployee auditor report to commissioner and board all checked."
+        },
+        {
+          "number": 2,
+          "title": "Department payment of necessary audit costs",
+          "bodySha256": "73d3568a5786fd8aa2ad940ec89df4ff55b54ea225fa991021c80ba712e4ea59",
+          "reviewNote": "Complete source and notes read. Commissioner may cause audit, not mandatory universal schedule; independent auditor uses random unannounced physical count and reports to commissioner/board. Separate review: Department pays actual and necessary audit costs."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read both enrollment audit provisions and1998history. Commissioner has discretion; physical count is mandatory within audit and randomly scheduled without district notice."
+    },
+    {
+      "id": "165.141:8212",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=165.141&bid=8212",
+      "sourceSha256": "6ffe00d147ff832b7f75a74d999a3a9a9f2a6d689a45aee2b42f6905f546f0d1",
+      "textSha256": "224b8b013e97f9c6f1c432cf802b335043d108522c83e659fce41d445035023b",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Tax anticipation note execution, certification and registration",
+          "bodySha256": "0ae5d44ea852b7feb9e85c1e72926eaac5f3aa425da107bc7bfd88bdc0ffd9ea",
+          "reviewNote": "Complete source/history read. Free registration before delivery, prior unpaid principal certification, county and district records distinct; cancelled paid notes cannot be repurchased and reissued. Separate review: President signature, clerk attestation and back certification of board order/prior unpaid principal; all registry fields and cancellation submission read."
+        },
+        {
+          "number": 2,
+          "title": "District note records, cancellation and reissue prohibition",
+          "bodySha256": "959c54c782a2ec0aa7d473c0eb3372be10a66d73ec660bc09a2da7babacadede",
+          "reviewNote": "Complete source/history read. Free registration before delivery, prior unpaid principal certification, county and district records distinct; cancelled paid notes cannot be repurchased and reissued. Separate review: Secretary true issuance/payment record with treasurer duplicate, cancellation and no purchase/reissue checked."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read complete note certification/registration and district record provisions with source history. Free prerelease registry differs from district duplicate record; paid notes cannot be repurchased and reissued."
+    },
+    {
+      "id": "165.271:35073",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=165.271&bid=35073",
+      "sourceSha256": "e9b1b0ed6063ba9a4a1523181b35b1d153eb963d5a443e02c7cbfce3746f6187",
+      "textSha256": "8c08d5a387034f6efce2f4f11e5f1c3ecd288fe414fb0c253ac8c88c2108cfb2",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Depositary qualification and initial transfer of funds",
+          "bodySha256": "4e2e11d628ffa7293e94f2ea768f048bfe0698bb2ef592e9a5d1ffcca0e6de2d",
+          "reviewNote": "Complete source and history read. Securities prerequisite, approximate bid proportions and unaffected liability checked. Failed security permits expedited protective deposit but requires new bids and replacement. Separate review: Satisfactory security qualifies selected bank until next selection; treasurer transfers designated shares after order."
+        },
+        {
+          "number": 2,
+          "title": "Funds for debts payable outside the district",
+          "bodySha256": "b9f8b46a3c03c19796b3590290ed5e0ead0545792915dd9e856151e67716d18d",
+          "reviewNote": "Complete source and history read. Securities prerequisite, approximate bid proportions and unaffected liability checked. Failed security permits expedited protective deposit but requires new bids and replacement. Separate review: Outside-district debt maturity payments may be funded at specified payment place."
+        },
+        {
+          "number": 3,
+          "title": "Proportional deposits and continuing depositary liability",
+          "bodySha256": "2b301c0575f8f5e0df6b08ff75e54f9a41844ae581d6af37620138b25a64af79",
+          "reviewNote": "Complete source and history read. Securities prerequisite, approximate bid proportions and unaffected liability checked. Failed security permits expedited protective deposit but requires new bids and replacement. Separate review: Approximate accepted-bid shares maintained for seven-director funds; excess/short deposits do not impair legal obligations."
+        },
+        {
+          "number": 4,
+          "title": "Replacement after failure to deposit required security",
+          "bodySha256": "62e0504090f34a0f2191b39f41669278c42cf758df78661154469c87e6caca13",
+          "reviewNote": "Complete source and history read. Securities prerequisite, approximate bid proportions and unaffected liability checked. Failed security permits expedited protective deposit but requires new bids and replacement. Separate review: Failure within165.241time prompts safeguards including expedited other-bank deposits and new bids/selection."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read four depositary provisions and2018amendment history. Security precedes qualification; proportional imbalance does not relieve depositary liability; failed security requires safeguards and replacement bidding."
+    },
+    {
+      "id": "165.301:8226",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=165.301&bid=8226",
+      "sourceSha256": "b8653b4d07acbd92b56bad35965cf9da4a6bfef2ae31c96b05b215b624584c44",
+      "textSha256": "a81d1bb0b1ae45c9ea954ea057544fca7276521f6d6f9af7d4ff9788cc4762bf",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Metropolitan depositary bidding, awards and fund allocation",
+          "bodySha256": "52007d30b23a596146409eb0d98822f94c74ad68f5fc37a7a10a1d82d59d8eba",
+          "reviewNote": "Complete source and history read. At least five-year advertising, highest secured interest bid, multiple depositories and designated state/city payors retained. Separate review: At least five-year advertisement, interest/security terms, highest qualified rate, contracts and board allocation discretion checked."
+        },
+        {
+          "number": 2,
+          "title": "Payment instructions and duplicate deposit receipts",
+          "bodySha256": "d0d979998294b4ee312004b5351c06c43840133527b22b6c52a02cb1d970a8a1",
+          "reviewNote": "Complete source and history read. At least five-year advertising, highest secured interest bid, multiple depositories and designated state/city payors retained. Separate review: President names payee bank to state treasurer/city tax collector; depositing officers retain one receipt and send duplicate to board treasurer."
+        }
+      ],
+      "reviewedBy": "root",
+      "reviewSummary": "Read both metropolitan bidding and payment-notification provisions plus full history. Highest interest award requires specified security, multiple depositaries permitted; five-year maximum interval not annual."
+    }
+  ]
+}

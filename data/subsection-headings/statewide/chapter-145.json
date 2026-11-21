@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Codex drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "145.101:7495",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=145.101&bid=7495",
+      "sourceSha256": "101f110c67937a612fd9cb7202db72c1fd4210cd0bc389faa2b6a7c405db9bc1",
+      "textSha256": "29fc79f1ccdfcddb1c4ba03ff958479e162b447e49886e65aa498bd1978c0fc9",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of executor and substitute property possessors",
+          "bodySha256": "89621ea28efc971cc384df6fe8b9d19eac3c36c1ab9e6afef0d8d058d3d0f447",
+          "reviewNote": "Complete text and effective note read. Executor definition reaches possession only absent executor or administrator; resident tied to death."
+        },
+        {
+          "number": 2,
+          "title": "Definition of nonresident",
+          "bodySha256": "6de88d7996513216b0e343dfc7ce6c040eaec4befd82df0adae7c2b1e71080a5",
+          "reviewNote": "Complete text and effective note read. Executor definition reaches possession only absent executor or administrator; resident tied to death."
+        },
+        {
+          "number": 3,
+          "title": "Resident status based on domicile at death",
+          "bodySha256": "f9044dcfbf862d0d808f806020954754d8142e5dc60843aa05fadc227e53ada4",
+          "reviewNote": "Complete text and effective note read. Executor definition reaches possession only absent executor or administrator; resident tied to death."
+        },
+        {
+          "number": 4,
+          "title": "States, territories and District of Columbia",
+          "bodySha256": "20b31905a40e1526a95ceafae98c6cb76962b0be2b402a6643cc67d7ae6aa51c",
+          "reviewNote": "Complete text and effective note read. Executor definition reaches possession only absent executor or administrator; resident tied to death."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Read all four definitions and 1981 effective note. Substitute property possessor applies only absent executor/administrator; domicile determines residency at death. No current estate-tax liability inferred."
+    },
+    {
+      "id": "145.551:7501",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=145.551&bid=7501",
+      "sourceSha256": "3329e6de6f003c6e74b1bc5f15d2a5e2093cddef263eaa912c942b19e412cd57",
+      "textSha256": "d67ec055fcac25796a116ebb2630a537f1453eacf4a7b665acadc82153814d75",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Discretionary payment and filing extensions",
+          "bodySha256": "cd77e33b3aa2716faae9f72e8487ba1a0a9f0c03166ab24b69c14b67acb786ea",
+          "reviewNote": "Entire source including asset fractions and federal interest provisions read. Filing and payment extensions distinct, installment acceleration federal-linked; no assumption about present federal credit availability."
+        },
+        {
+          "number": 2,
+          "title": "State filing extension based on federal extension",
+          "bodySha256": "5c129ebb95fc6e7b0de179b76fa3f3a400c29b7244eabe8eb86c82ae0ef5e130",
+          "reviewNote": "Entire source including asset fractions and federal interest provisions read. Filing and payment extensions distinct, installment acceleration federal-linked; no assumption about present federal credit availability."
+        },
+        {
+          "number": 3,
+          "title": "Deferred estate-tax payments, allocation and interest",
+          "bodySha256": "3916fa51ce880999f042077399443b547e5ab60302e5bcba3bbf23f382d0effb",
+          "reviewNote": "Entire source including asset fractions and federal interest provisions read. Filing and payment extensions distinct, installment acceleration federal-linked; no assumption about present federal credit availability."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Read all three subsections, complete federal-linked deferral allocation, acceleration and interest rules and 1987 effective note. Six-month limit expressly on filing extensions; automatic federal-based extension requires filing copy. Titles describe archived mechanics without asserting present federal-credit availability."
+    },
+    {
+      "id": "145.711:7504",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=145.711&bid=7504",
+      "sourceSha256": "d4aecc22693dbdee264d5742e7fa82814353f120d14e36fe804fa9cd5a9995dd",
+      "textSha256": "33f421a5ee4fd4a95f09d316c867d606c34a70f6e5510de9126890638e07f7f5",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "General three-year deficiency notice limitation",
+          "bodySha256": "80b180fd0e5274e1765260ec0dce8b6d1c0bddb9c76b3a1239d44000a676d315",
+          "reviewNote": "Full text and note read. Federal-change scope restricted and one-year trigger differs reported versus unreported; missing return separately triggers unlimited notice."
+        },
+        {
+          "number": 2,
+          "title": "Missing returns or fraudulent returns with evasion intent",
+          "bodySha256": "87ae76ffc545abe108cf1ccb0016b07c86a917865e4afb96ebfa73ddede2c99c",
+          "reviewNote": "Full text and note read. Federal-change scope restricted and one-year trigger differs reported versus unreported; missing return separately triggers unlimited notice."
+        },
+        {
+          "number": 3,
+          "title": "Unreported federal changes and director-awareness deadline",
+          "bodySha256": "8335b15581f82b2e159c191bb4d97eadb96bfa09bed367631776ce353a2c95e6",
+          "reviewNote": "Full text and note read. Federal-change scope restricted and one-year trigger differs reported versus unreported; missing return separately triggers unlimited notice."
+        },
+        {
+          "number": 4,
+          "title": "Assessment period after reported federal changes",
+          "bodySha256": "4f22f59c9b973e82ca849b64452e750749f29649a675f3a99592cc9865d4fa16",
+          "reviewNote": "Full text and note read. Federal-change scope restricted and one-year trigger differs reported versus unreported; missing return separately triggers unlimited notice."
+        },
+        {
+          "number": 5,
+          "title": "Written agreements extending assessment periods",
+          "bodySha256": "51e16aa49ddd8fd01a56f266b189aa14bc58548d624392b6a17b809a4cbeac83",
+          "reviewNote": "Full text and note read. Federal-change scope restricted and one-year trigger differs reported versus unreported; missing return separately triggers unlimited notice."
+        },
+        {
+          "number": 6,
+          "title": "Deemed filing dates for early returns",
+          "bodySha256": "ec506b92e8ac6d3d682d6e0338e15cdeaf1a1fd5c0fcdd1810d169d60bb1ed8e",
+          "reviewNote": "Full text and note read. Federal-change scope restricted and one-year trigger differs reported versus unreported; missing return separately triggers unlimited notice."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Read all six limitations provisions and effective note. Three-year rule concerns mailed notice; fraud requires evasion intent. One-year federal-change routes have different starting events and limited issue scope; written extensions must precede expiration and early returns use prescribed last day."
+    },
+    {
+      "id": "145.801:7505",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=145.801&bid=7505",
+      "sourceSha256": "a7c951981765bbc3af0ed41138529476c496757317f544c2a97d5e6fb6118937",
+      "textSha256": "6dcacf4a5350e2aa0d60896998a187aa06035d63ec32faa9056905b9ecd1c2ae",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "General deadlines for refund or credit claims",
+          "bodySha256": "8093ae0fde82e63c4d08e3a2d300a29505e13fd7a1b0292c4c72af375156c4ae",
+          "reviewNote": "Complete text/note read. Claim filing period differs amount lookback; ninety-day report delay stops interest, one-year claim limited to changed federal issues."
+        },
+        {
+          "number": 2,
+          "title": "Refund amount limits based on payment timing",
+          "bodySha256": "cfd7d88e1125b7d6f5883f97f2b0fc8284dba971a1cb39e265dc77707574b075",
+          "reviewNote": "Complete text/note read. Claim filing period differs amount lookback; ninety-day report delay stops interest, one-year claim limited to changed federal issues."
+        },
+        {
+          "number": 3,
+          "title": "Refund periods after agreed assessment extensions",
+          "bodySha256": "8cfa566783dda0bb88cded9930251c29ff6a2d94b0e27fbfbcc6b77195ebd609",
+          "reviewNote": "Complete text/note read. Claim filing period differs amount lookback; ninety-day report delay stops interest, one-year claim limited to changed federal issues."
+        },
+        {
+          "number": 4,
+          "title": "Refunds and interest following federal estate-tax changes",
+          "bodySha256": "449cdb9a710cb7026c5f983a217917a94e6172595399c4515c22739d92b29c7d",
+          "reviewNote": "Complete text/note read. Claim filing period differs amount lookback; ninety-day report delay stops interest, one-year claim limited to changed federal issues."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Read all four complete refund provisions and effective note. Later-of filing/payment periods, separate amount lookbacks, agreement extension window and one-year federal-change deadline kept distinct. Late federal reporting stops interest after ninety days rather than necessarily extinguishing refund entitlement."
+    },
+    {
+      "id": "145.961:7508",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=145.961&bid=7508",
+      "sourceSha256": "b06d33c6bcfd100183dcf9a9e2f8e63eefe9b0aca27abad88b1e17c995e254da",
+      "textSha256": "3a3dfbe3403abd7aa2060cbc93c5ee780c29d29bdb88dff0b0a5dfe7410014ab",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Tax administration, enforcement and information requirements",
+          "bodySha256": "8a3f9dbb0f9183e4e765035e393654f72f4d44d0a497ca613f4444ed74d49349",
+          "reviewNote": "Full body/note read; conformity qualified as nearly practicable."
+        },
+        {
+          "number": 2,
+          "title": "Following federal rules where practicable",
+          "bodySha256": "f4435baeb2d2765c8213c0a4d8143363c0caf709d8ec5f7dae0ed1af241a0e5b",
+          "reviewNote": "Full body/note read; conformity qualified as nearly practicable."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Read both full subsections and effective note. Federal conformity qualified by as-nearly-as-practicable language; enforcement heading describes statutory authority, not present tax assessment."
+    },
+    {
+      "id": "145.971:7509",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=145.971&bid=7509",
+      "sourceSha256": "6094769e345205436498889e85426f5ba8e8bbac26715410eee0e6675c5304b4",
+      "textSha256": "5a2ae474f839a20e6c978a0eaede850e546c886f811c69e557f8f16dabe8e0ae",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prescribing tax forms and required federal-return copies",
+          "bodySha256": "ca846e1ee5d3f4e2621c428c2660a86809325c3f7ba3d45e48271a002aca0aae",
+          "reviewNote": "Full body and note read. Source corrections/estimate-of-any-person wording left as archived; four years plus until destruction order not fixed expiration."
+        },
+        {
+          "number": 2,
+          "title": "Examining records and requiring testimony and proof",
+          "bodySha256": "35423a9e4d38b06964a4a425b57f89ecc6d3df4769c7d45729b3e814f389bbdf",
+          "reviewNote": "Full body and note read. Source corrections/estimate-of-any-person wording left as archived; four years plus until destruction order not fixed expiration."
+        },
+        {
+          "number": 3,
+          "title": "Preserving filed reports and returns",
+          "bodySha256": "c3ea2d7f50ada220a1c2c6467ee8e7b4d9e872639d83d88af51800515a97b44e",
+          "reviewNote": "Full body and note read. Source corrections/estimate-of-any-person wording left as archived; four years plus until destruction order not fixed expiration."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Read complete form, examination and retention provisions and note. Four-year retention continues until destruction ordered; source unusual corrections/estimate phrasing is not rewritten by neutral examination label."
+    },
+    {
+      "id": "145.995:7511",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=145.995&bid=7511",
+      "sourceSha256": "9a0ed69327cd9beecce4a831b4ea7a4388fe07a981895a81f9208901067b468f",
+      "textSha256": "b7ca8d06270d1f010237f65cb42cf8fa6fa4a195b735f14d8a7937e912d5747c",
+      "draftedBy": "headings_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-20",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Generation-skipping credit tax and Missouri tax situs",
+          "bodySha256": "57245884c063afe7e407651d476c09c64aaaad66c46b2ab84f0df97de0daa3e1",
+          "reviewNote": "Complete body and1990note read. Amount tied to referenced federal maximum credit; topic does not assert present collectible liability or repair federal cross-reference."
+        },
+        {
+          "number": 2,
+          "title": "Substitutions applying estate-tax provisions to generation-skipping transfers",
+          "bodySha256": "ce78b567e0d2aab366c77c5d703ff682e6ce1c1bc92c94e9eaa6449f9a7a5d97",
+          "reviewNote": "Complete body and1990note read. Amount tied to referenced federal maximum credit; topic does not assert present collectible liability or repair federal cross-reference."
+        }
+      ],
+      "reviewedBy": "headings_b",
+      "reviewSummary": "Independently read the complete archived version and all source notes; verified identity and every subsection fingerprint. Read full federal-credit-linked tax formula and all five substitution rules with 1990 effective note. Labels describe archived generation-skipping tax structure without asserting a presently available federal credit or current amount due."
+    }
+  ]
+}
