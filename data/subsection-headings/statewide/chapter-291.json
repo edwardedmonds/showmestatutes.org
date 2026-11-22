@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "291.030:15358",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=291.030&bid=15358",
+      "sourceSha256": "8a75b481d9b742732b6f4e2bf93f0da64bf9e7e50c91a4bbd578dd2d5c19c520",
+      "textSha256": "b7c0698cf2a0d725e3796bd7558195d444593a2c21c68942f1fb5ae2d9175506",
+      "draftedBy": "antigravity_drafter_d28",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Merit-system employment, duties, and appropriated expenditures",
+          "bodySha256": "471972ff29a4829a89c7492f12fa17e44c3eddb1972330dc823f7a86c35f1942",
+          "reviewNote": "Read complete text of subsection 1 and source notes (RSMo 1939 § 10147, as amended through A.L. 1972 H.B. 1260; prior revision 1929 § 13173). Covers the director of the department of labor and industrial relations employing personnel, prescribing their duties and powers subject to the chapter 36 merit system law, and making necessary expenditures within appropriations."
+        },
+        {
+          "number": 2,
+          "title": "1972 qualifying-exam transition and merit-system appointments",
+          "bodySha256": "5e0af64881f0cb3a2a4230d516161981d756eb2fada5e820480c41f43c2e8cae",
+          "reviewNote": "Read complete text of subsection 2 and source notes (A.L. 1972 H.B. 1260). Covers transitional admission to qualifying examinations and discretionary retention upon passing for inspection-section employees employed more than six months prior to August 13, 1972, and merit-system appointment requirements for employees appointed within six months prior to or from and after August 13, 1972."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r35",
+      "reviewSummary": "Independently read complete archived version 291.030:15358, both subsections, and all source notes (RSMo 1939 § 10147 through A.L. 1972 H.B. 1260; prior revision 1929 § 13173); verified sourceUrl, sourceSha256, textSha256, and both subsection bodySha256 values. Checked chapter 36 merit-system personnel employment, duties/powers prescription, and within-appropriation expenditure limit in subsection 1, and August 13, 1972 transitional qualifying-exam retention (>6 months prior) versus ongoing merit-system appointments (within 6 months prior and from and after August 13, 1972) in subsection 2. Revised both titles for precision (capturing duties and appropriation limits in sub 1, and avoiding 'around August 1972' ambiguity for ongoing post-1972 appointments in sub 2)."
+    },
+    {
+      "id": "291.060:15361",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=291.060&bid=15361",
+      "sourceSha256": "24504d4c245697a91d03abebd9d7aa749a43a3413e0e04b51c24ef3d527aad78",
+      "textSha256": "745b5677c5f596de671ef18e9b03c0ffc81c2af3a2f584b68a68c1ec6104febb",
+      "draftedBy": "antigravity_drafter_d28",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Inspection districts and deputy inspector assignments",
+          "bodySha256": "7156255d96c80cd04cde756f3814467ff4f7944c67a67ff7104c7cb69dab8d03",
+          "reviewNote": "Read complete text of subsection 1 and source notes (RSMo 1939 § 10179; prior revisions 1929–1909; cross-references to §§ 294.090, 205.920, and chapter 421). Covers the inspection section director's authority to divide the state into districts, assign deputy inspectors, and transfer them at the director's discretion."
+        },
+        {
+          "number": 2,
+          "title": "Establishment inspections, enforcement, and prosecution duties",
+          "bodySha256": "534a7e619b902608b2537554fd34f2c5f8c8be92c564b41198fb5e762d25ff23",
+          "reviewNote": "Read complete text of subsection 2 and source notes (including cross-references to child labor § 294.090, county superintendent of welfare § 205.920, and mattress laws in chapter 421). Covers the duty of the director, assistants, or deputy inspectors to make at least two annual inspections of enumerated establishments with the last completed on or before October 1, enforce related inspection laws and municipal ordinances, and prosecute violators."
+        },
+        {
+          "number": 3,
+          "title": "Oaths, affidavits, and small-town mercantile exemption",
+          "bodySha256": "155d98eede38e6eda54328cfc6997502018bf129f17c93346a5734a49ec0eb3c",
+          "reviewNote": "Read complete text of subsection 3 and source notes (RSMo 1939 § 10179 and cross-references). Covers authority of the director, assistants, and deputy inspectors to administer oaths and take affidavits in enforcing inspection laws, and the proviso exempting mercantile establishments employing fewer than ten persons in towns and cities of 3,000 inhabitants or less from the provisions of section 291.060."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r35",
+      "reviewSummary": "Independently read complete archived version 291.060:15361, all three subsections, and all source notes (RSMo 1939 § 10179; prior revisions 1929–1909; cross-references to §§ 294.090, 205.920, and chapter 421); verified sourceUrl, sourceSha256, textSha256, and every subsection bodySha256. Checked inspection districts and discretionary deputy transfers, minimum two-per-year inspections (last completed by October 1) with statutory/ordinance enforcement and prosecution duties, and oath/affidavit authority with the small-town (<10 employees, <=3,000 inhabitants) mercantile exemption. Revised subsection 2 to remove 'Annual' (which could suggest once-yearly rather than at least twice-yearly inspections); retained subsections 1 and 3."
+    },
+    {
+      "id": "291.130:15366",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=291.130&bid=15366",
+      "sourceSha256": "fdc08cc995bc18d15c733567620aba7fdeb4f2816f5e31a6a23000464a2bae11",
+      "textSha256": "7b3ccf62214e73517a21e921e5416e472c5db9d949d7ffdacffcea5bb349f088",
+      "draftedBy": "antigravity_drafter_d28",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Inspection fee schedule by employee count",
+          "bodySha256": "ddb4acf9206f06a83af8ea5168c697e19e7a49f2918b81bbe066796bd5f14a48",
+          "reviewNote": "Read complete text of subsection 1, subdivisions (1)–(5), and source notes (RSMo 1939 § 10180, A.L. 1947 V. I p. 357, A.L. 1965 p. 440; prior revisions 1929–1909). Covers fees payable to the state director of revenue upon completion of inspections under §§ 196.270 to 196.305, chapters 292 and 421, or other law, tiered by employee count from ten or fewer (no charge) upward and due immediately upon completion; retains verbatim source boundary phrasing ('less than twenty-five', 'more than twenty-five ... and less than fifty', 'more than fifty') without supplying omitted exact boundary counts at 25 and 50."
+        },
+        {
+          "number": 2,
+          "title": "Employee-count statements and penalty for violations",
+          "bodySha256": "dc669a653742796e4e0c24eddd0cddbd2efba51bf00ed8022138353c6384fb8f",
+          "reviewNote": "Read complete text of subsection 2 and source notes (RSMo 1939 § 10180, as amended through A.L. 1965 p. 440). Covers the duty of the owner, superintendent, manager, or person in charge to furnish a true statement of the number of persons employed at the time of inspection, and the misdemeanor offense and $25 to $100 fine upon conviction for failing, refusing, or understating."
+        },
+        {
+          "number": 3,
+          "title": "Inspection refusal, interference, nonpayment, and conditional fee cap",
+          "bodySha256": "810f9342196ecd26ae64400a0d8305bb784087b78ad8b5eaffdc525d13b539a3",
+          "reviewNote": "Read complete text of subsection 3 and source notes (RSMo 1939 § 10180, as amended through A.L. 1965 p. 440). Covers the misdemeanor offense and $25 to $100 fine for refusing or attempting to prevent inspector admission during reasonable business or working hours, interfering with official duties, or neglecting or refusing to pay the fee upon completion, subject to the exception capping payment at two inspections between October 1 and September 30 unless noncompliance with written orders makes additional inspections necessary."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r35",
+      "reviewSummary": "Independently read complete archived version 291.130:15366, all three subsections including subdivisions (1)–(5) of subsection 1, and all source notes (RSMo 1939 § 10180 through A.L. 1965 p. 440; prior revisions 1929–1909); verified sourceUrl, sourceSha256, textSha256, and every subsection bodySha256. Verified verbatim employee-count boundary gaps at exactly 25 and 50 in subdivisions (1)(3)–(5) and immediate due-on-completion timing in (1)(5), employee-count statement duties and misdemeanor penalties in subsection 2, and admission refusal, official-duty interference, fee nonpayment, and the conditional two-inspection Oct. 1–Sept. 30 cap (except when noncompliance with written orders requires extra inspections) in subsection 3. Revised subsection 3 to include interference and the conditional nature of the fee cap; retained subsections 1 and 2."
+    }
+  ]
+}
