@@ -1,0 +1,1823 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "205.020:10764",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.020&bid=10764",
+      "sourceSha256": "60dcb2107d02536c827ff203358319a226d265e72a8f6819c52895203d995564",
+      "textSha256": "1983d565256c3286ca0a3deecbf2fc62ced8cbc4d035ccc5821a146a2e6ce4e9",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.020:10764 (both subsections, including the indented ballot question in subsection 1) and history note (L. 1945 p. 969 § 2 through A.L. 1985 S.B. 81); verified sourceUrl, sourceSha256, textSha256, subsection count/numbering, and all bodySha256 fingerprints. Checked ballot-form substantial-compliance scope and majority-vote trigger for county commission tax levy, health center fund deposit, and expenditure; retained both drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Ballot form for county health center tax",
+          "bodySha256": "09b31bf6ef82fa2f0c0504e947b895335b5ee560e66d870d9b56829113348b4d",
+          "reviewNote": "Read complete text of subsection 1 (including indented ballot question) and history note (L. 1945 p. 969 § 2 through A.L. 1985 S.B. 81). Sets out the substantially required ballot question for a maximum county health center tax per hundred dollars assessed valuation."
+        },
+        {
+          "number": 2,
+          "title": "Majority approval, tax levy, and health center fund",
+          "bodySha256": "7c776e52c482df96f905737601a533ec7a1b07a1f93437f99e8181f77229e036",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers county commission levy and collection upon majority voter approval, deposit to the health center fund in the county treasury, and expenditure as provided in following sections."
+        }
+      ]
+    },
+    {
+      "id": "205.031:10765",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.031&bid=10765",
+      "sourceSha256": "4b8dabf70b6bfaddf486dc76f19e549f7f10ff1f77fb2a3e1ca340e9fcddced1",
+      "textSha256": "8229aa39389795dfb8eb47da8834e995b2b5fe52872f89e96e3e94ea149776b1",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.031:10765 (all six subsections) and history note (L. 1951 p. 779 § 205.030 through A.L. 1986 S.B. 553 & 775 merged with H.B. 1471, et al.); verified all source and subsection fingerprints. Checked residence caps, staggered terms, the dual-topic scope of subsection 3 (health center trustee four-year terms plus post-January 1, 1987 four-year elections for elective officers in specified fourth-class cities—Raytown in catchline), the competitive-bidding exception in subsection 5, and verbatim \"directors\" wording in subsection 6. Revised subsection 3 title to \"Subsequent four-year trustee and specified city officer elections\" to clarify both topics; retained subsections 1, 2, 4, 5, and 6.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Initial trustee appointments and residence limits",
+          "bodySha256": "77523604cd58610f6f76a729404fd6d92aa6996dd705799a5edd316a3b4bb372",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1951 p. 779 § 205.030 through A.L. 1986 S.B. 553 & 775 merged with H.B. 1471, et al.). Covers appointment of five county-voter trustees by the county governing body and the cap of three trustees from the municipality where the health center is located."
+        },
+        {
+          "number": 2,
+          "title": "Initial trustee election and staggered terms",
+          "bodySha256": "ea385f0d28b0b3d2ece81f968a2eaf9258523eb77a8a1fa13b8d76107c93a21b",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers appointees serving until the next municipal election, election of five trustees (three for two years, two for four years), and specification of terms by county governing body order of record."
+        },
+        {
+          "number": 3,
+          "title": "Subsequent four-year trustee and specified city officer elections",
+          "bodySha256": "be91a078404da8ea1f77efae38146f434b7e79b8e2a10f1ee408a393441c15fe",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers both subsequent four-year health center trustee elections and the separate post-January 1, 1987 four-year election schedule for all elective officers in specified fourth-class cities (30,000–33,000 population) within charter first-class counties containing the greater part of a 450,000+ city (noted as Raytown in official catchline); revised title to make clear the four-year election rule covers both groups."
+        },
+        {
+          "number": 4,
+          "title": "Filling board vacancies and replacement tenure",
+          "bodySha256": "4e6fea11a8a1e6366743f94c28d8c4f11d12a84f2d5e5324ffde396f96be7754",
+          "reviewNote": "Read complete text of subsection 4 and history note. Covers reporting vacancies to the county governing body, appointment in the same manner as original appointments, and holding office until the next municipal election to elect a successor for the unexpired term."
+        },
+        {
+          "number": 5,
+          "title": "Trustee financial interest in supply purchases",
+          "bodySha256": "9d2c0fa63dab7657595b6ac51d3bfd2ea9cb787a9f48a25a4245557cf8d119f5",
+          "reviewNote": "Read complete text of subsection 5 and history note. Prohibits direct or indirect personal pecuniary interest by trustees in purchasing health center supplies, qualified by the competitive bidding exception."
+        },
+        {
+          "number": 6,
+          "title": "Candidate filing, withdrawal, and uncontested elections",
+          "bodySha256": "e7148698138f370abedd0538d1f6df324ef4ef2a106a8be152a79d708206446e",
+          "reviewNote": "Read complete text of subsection 6 and history note. Applies chapter 115 to candidate filing and withdrawal, except that no election is held when candidates do not exceed offices to be filled; preserves source wording referring to \"directors\" rather than \"trustees\"."
+        }
+      ]
+    },
+    {
+      "id": "205.041:10766",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.041&bid=10766",
+      "sourceSha256": "9a1eb8825e76f9ca11f11686a1a8beb13288fdea2cccf1a28691ea5ee41910ec",
+      "textSha256": "7500b9aa3e0223dd54d8b6ea606c6f8613e77426f7af977500f204b8e13cd78a",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.041:10766 (all three subsections, including the full embedded nonpartisan ballot table in subsection 2) and history note (L. 1951 p. 779 § 205.040 through A.L. 1993 H.B. 551 & 552); verified all source and subsection fingerprints. Checked fee-free candidacy announcements, county commission appointments for unfilled seats, nonpartisan ballot contents, and election declaration/commissions; retained all three drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Candidacy announcements and appointments for unfilled seats",
+          "bodySha256": "6b0583ca838711cfe092713cab9af5045a8ef6de0e1d83b8e287b3a9ba367674",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1951 p. 779 § 205.040 through A.L. 1993 H.B. 551 & 552). Covers written filing with the county election authority specifying full or unexpired term without a filing fee, and county commission appointments until the next municipal election when insufficient announcements are filed."
+        },
+        {
+          "number": 2,
+          "title": "Nonpartisan ballot contents and form",
+          "bodySha256": "2ad30d8f12331019e1e2e4ed66de6150fbd74b58d6624ce045444d8b7f0cc628",
+          "reviewNote": "Read complete text of subsection 2 including the embedded ballot table and history note. Prohibits party affiliation designations, requires stating the number of trustees and any unexpired terms, and sets out the ballot form for full and unexpired terms."
+        },
+        {
+          "number": 3,
+          "title": "Declaring elected trustees and issuing commissions",
+          "bodySha256": "a1539f98d9361245ceb6050f1d4d950372cd7b78070565416fe84e9551f684f8",
+          "reviewNote": "Read complete text of subsection 3 and history note. Directs the county commission to declare the highest vote-getters elected and issue commissions."
+        }
+      ]
+    },
+    {
+      "id": "205.042:10767",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.042&bid=10767",
+      "sourceSha256": "5c12bd52a62d2bfdc5fac107b5f431146cd95a60c2f972dfbb2028882e7d475b",
+      "textSha256": "03d8560d126aae597a0c66cfe230e4d5f8780a3ba94c16bb9519a11a7dd560eb",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.042:10767 (all nine subsections) and history note (L. 1951 p. 779 § 205.045 through A.L. 2012 H.B. 1094); verified all source and subsection fingerprints. Checked oath/bond exemption, sworn unanimous-vote expense reimbursement, EFT/warrant disbursements, voter-approved tax rate cap, and qualified contracting power (\"except as hereafter prohibited\"). Revised subsection 4 title to \"Personnel authority and implementing sections 205.010 to 205.150\" to preserve the exact statutory range rather than over-generalizing to the entire chapter; retained subsections 1–3 and 5–9.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Trustee oath, board organization, and bond exemption",
+          "bodySha256": "0688a2858d89d2bd8de7e39778528cd4dc4ea70ea2851f5d0d55c0c9d549c4bf",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1951 p. 779 § 205.045 through A.L. 2012 H.B. 1094). Covers qualifying by civil-officer oath within ten days, electing chairman, secretary, treasurer, and other officers, and exempting trustees from bond."
+        },
+        {
+          "number": 2,
+          "title": "Unpaid service and expense reimbursement procedure",
+          "bodySha256": "c1d1928d042224207b70adec812de2b5073aeef20bae167b53c67c8992c9e169",
+          "reviewNote": "Read complete text of subsection 2 and history note. Prohibits trustee compensation while allowing reimbursement of actual personal cash expenses upon a sworn itemized statement filed with the secretary and unanimous approval of trustees present."
+        },
+        {
+          "number": 3,
+          "title": "Bylaws, fund control, property, and disbursement methods",
+          "bodySha256": "4d9389b7274f730686986a8c88a91be558c67b0f26b22737d36b6e51db176344",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers bylaws and rules, exclusive control over county health center fund expenditures and real property/buildings, sole-use depository deposits under sections 205.010 to 205.150, and disbursement via board-approved electronic funds transfer or treasurer warrants on authenticated vouchers."
+        },
+        {
+          "number": 4,
+          "title": "Personnel authority and implementing sections 205.010 to 205.150",
+          "bodySha256": "6471964f1f9fe796a7d5e042a238500989644683cac3cea408450f10e3570944",
+          "reviewNote": "Read complete text of subsection 4 and history note. Authorizes appointing, removing, and setting compensation for necessary personnel and carrying out the spirit and intent of sections 205.010 to 205.150 pertaining to county health centers; revised title to preserve the exact statutory range rather than over-generalizing to the full chapter."
+        },
+        {
+          "number": 5,
+          "title": "Monthly meetings, records, and quorum",
+          "bodySha256": "245f6a8429f6117f75ec93a12205c99dec95fb526a298a9393e24ce21a587cb5",
+          "reviewNote": "Read complete text of subsection 5 and history note. Requires at least monthly meetings, a complete record of proceedings, and sets a three-member quorum."
+        },
+        {
+          "number": 6,
+          "title": "Twice-monthly trustee visits and examinations",
+          "bodySha256": "511bc1df22385b6a6620c2861118e4d0bd6afdb3f3b769df0c92c968dcd82d68",
+          "reviewNote": "Read complete text of subsection 6 and history note. Requires one trustee to visit and examine the county health center at least twice each month."
+        },
+        {
+          "number": 7,
+          "title": "Applicability of board rules to persons and property",
+          "bodySha256": "a11b36ab032cfd96022421ab6705e2fe351dd4aedb8f22a10bbdd6127a75c00c",
+          "reviewNote": "Read complete text of subsection 7 and history note. Subjects personnel, persons coming within health center limits, and furniture or articles used or brought there to board rules and regulations once established."
+        },
+        {
+          "number": 8,
+          "title": "Annual tax rate determination and voter-approved limit",
+          "bodySha256": "e8ef9fc720e1ba6d3e2ac97a506d5ff8810414c6d332925b821f21b8df934431",
+          "reviewNote": "Read complete text of subsection 8 and history note. Directs the board to determine the annual tax levy rate without exceeding the voter-authorized maximum rate."
+        },
+        {
+          "number": 9,
+          "title": "Contracts with public bodies and private entities",
+          "bodySha256": "ccccd3d23e4a3badd1e04e74b84ce46f43103a93b5a61f718945f739492e053e",
+          "reviewNote": "Read complete text of subsection 9 and history note. Permits contracting with federal, state, county, school, municipal, and private parties to further health activities, qualified by \"except as hereafter prohibited\"."
+        }
+      ]
+    },
+    {
+      "id": "205.090:10772",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.090&bid=10772",
+      "sourceSha256": "27bec1d51b2db6665756c252fd55344e0a5d1ac28e24723b86593c6a34406626",
+      "textSha256": "6d2f61ce39d608a291bc55d78e4358ee2b2dec8675337fdcaf6869fbdb8ff532",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.090:10772 (both subsections) and history note (L. 1945 p. 969 § 5, A.L. 1951 p. 779); verified all source and subsection fingerprints. Checked the January 7 annual proceedings report and sworn financial statement deadline in subsection 1 and county budget law submission requirement in subsection 2; retained both drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual proceedings report and sworn financial statement",
+          "bodySha256": "ff60d15f3052e484f26ef7cedca010fe789814ea9809dea703ae5a7a5b25fd42",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1945 p. 969 § 5, A.L. 1951 p. 779). Requires filing a report of proceedings and sworn statement of prior-year receipts and expenditures with the county commission on or before January 7."
+        },
+        {
+          "number": 2,
+          "title": "Annual budget submission under county budget law",
+          "bodySha256": "7d32667e9ce7675bde985e5a135ee22b28034699096b68cb66da58150ac128a0",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires preparing and submitting an ensuing-year budget to the county budget officer in accordance with applicable county budget law."
+        }
+      ]
+    },
+    {
+      "id": "205.161:10780",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.161&bid=10780",
+      "sourceSha256": "9d8379598624ab885a08ce0831e6542f840a62875a085d569ff4ab4b0a2e8966",
+      "textSha256": "017885ec2779be90e76be71330ec05dee1e9081c08bae0097e92c3597b5fef9d",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.161:10780 (both subsections) and history note (L. 1972 H.B. 1262 §§ 1, 2, A.L. 1981 H.B. 258); verified all source and subsection fingerprints. Checked supplemental hospital/medical-office/parking revenue bond authority under sections 205.160 to 205.340, non-tax payment limits, and exclusion from state, county, board, and trustee indebtedness under sections 205.161 to 205.169; retained both drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Revenue bond authority, purposes, and payment sources",
+          "bodySha256": "e5f886d7c8500c8d6fb553be1478bdb899de1a6ab79b7736f26647d1325a5b9d",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1972 H.B. 1262 §§ 1, 2, A.L. 1981 H.B. 258). Authorizes county commissions under sections 205.160 to 205.340 to issue hospital and related-facility revenue bonds (including medical office buildings and offstreet parking) in addition to section 205.160 bonds, payable solely from net operating revenues or non-tax funds."
+        },
+        {
+          "number": 2,
+          "title": "Exclusion from state, county, and board indebtedness",
+          "bodySha256": "46f8b088bc9b785925fc5cdf8372d5c14962c5054e64a139dc82bceb46eb83aa",
+          "reviewNote": "Read complete text of subsection 2 and history note. Excludes bonds issued under sections 205.161 to 205.169 from being indebtedness of the state, county, hospital board, or individual trustees, including under constitutional or statutory debt limits."
+        }
+      ]
+    },
+    {
+      "id": "205.162:10781",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.162&bid=10781",
+      "sourceSha256": "3a0ab9dfd7b436ceb27c6be2fd4214027484ee2d4e50b469188f915978d51ff4",
+      "textSha256": "92d8f979a20bcabab9da904ea35a3eebd683d151a894dcc0cb6576705b1ad556",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.162:10781 (both subsections) and history note (L. 1972 H.B. 1262 § 3); verified all source and subsection fingerprints. Checked county commission bond terms (lawful interest, 35-year maximum maturity, optional call/premium) under sections 205.161 to 205.169, chapter 400 negotiability, and the Missouri state and local income tax exemption on bond interest. Revised subsection 2 title to \"Negotiability under chapter 400 and income tax exemption\" so the tax exemption is not over-generalized; retained subsection 1.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Bond denominations, interest, maturity, and redemption",
+          "bodySha256": "2b2129525f1cbb655bb0b0a798e3d2396ca5f8a18010a697b036b8023270f0b2",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1972 H.B. 1262 § 3). Covers county commission determination of denominations, lawful interest rates, maximum 35-year maturity, serial or term forms, and optional prior-redemption and premium terms for bonds under sections 205.161 to 205.169."
+        },
+        {
+          "number": 2,
+          "title": "Negotiability under chapter 400 and income tax exemption",
+          "bodySha256": "9495cba0ced42b73c3f26e9264a7b96ed422276f97533fedcf4dfef052cd7589",
+          "reviewNote": "Read complete text of subsection 2 and history note. Designates issued and sold bonds as chapter 400 negotiable instruments and exempts bond interest specifically from Missouri state and local income taxes; revised title to specify income tax exemption."
+        }
+      ]
+    },
+    {
+      "id": "205.165:54872",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.165&bid=54872",
+      "sourceSha256": "d2c154fc9fcdad9bca27271b9352f7147a764990e69a36eb573c0463cc74e549",
+      "textSha256": "5d92a5ceed9a07be1e637b84fbaa8dab82966ac2c7a64919f26915751a4fda95",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.165:54872 (both subsections, including all subdivisions (1)–(3) and nested paragraphs in subsection 1) and history note (L. 2016 S.B. 988, A.L. 2024 S.B. 1359); verified all source and subsection fingerprints. Checked the 15%/35%/remainder investment tiers, verbatim \"authorized under this subsection\" wording, narrower pre-2024 catchline, and the strict under-3% county/state tax-revenue threshold in subsection 2; retained both drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Permitted investment categories and percentage limits",
+          "bodySha256": "1f5ea98d18ad704b0188c3eae48eac0b3e232d8a88241b049014f527e684bd3e",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1) through (3) and history note (L. 2016 S.B. 988, A.L. 2024 S.B. 1359). Covers permissive investment tiers (up to 15% including stocks, up to 35% in specified mutual funds/rated bonds/money-market investments, and remainder in state-treasurer-eligible investments) for boards of hospitals under sections 205.160 to 205.340; retains verbatim \"authorized under this subsection\" wording and notes catchline reflects narrower pre-2024 wording."
+        },
+        {
+          "number": 2,
+          "title": "Tax-revenue threshold for section applicability",
+          "bodySha256": "7e28a70baa2f3d564e3c6e790b4081fdb16a888ae70b0b5bb19757dc83f796e4",
+          "reviewNote": "Read complete text of subsection 2 and history note. Restricts section applicability solely to hospitals receiving less than three percent of annual revenues from county or state taxes."
+        }
+      ]
+    },
+    {
+      "id": "205.169:10782",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.169&bid=10782",
+      "sourceSha256": "501ff68a11ce615e7f4b894e4a128ba6a827c6c51a7bad3414eb2effefca839d",
+      "textSha256": "47f61bb6da79c30d93ce6f2bccfc1a4d1c179b35f00c724836db3a1449e311cb",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.169:10782 (all three subsections), history note (L. 1972 H.B. 1262 § 4), and Revisor footnote (*Word \"thereof\" appears in original rolls); verified all source and subsection fingerprints. Checked county commission form/covenant authority, bondholder/coupon-holder civil enforcement actions, and nonexclusive alternative-financing status for sections 205.161 to 205.169; retained all three drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Commission bond terms and payment covenants",
+          "bodySha256": "44f84c577fc2919c4ebad2c1c335abcee44454e8ee348d44de99995289ba0e6b",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1972 H.B. 1262 § 4). Directs the issuing county commission to prescribe bond form, details, incidents, and security covenants consistent with sections 205.161 to 205.169."
+        },
+        {
+          "number": 2,
+          "title": "Bondholder civil actions to compel duties and covenants",
+          "bodySha256": "3c89f29db8fbc42f152cce8d8902b415e6ef0ba6c297fccf9d95a692d1e8f81e",
+          "reviewNote": "Read complete text of subsection 2 and notes, including Revisor footnote (*Word \"thereof\" appears in original rolls for \"thereon*\"). Authorizes bond or interest-coupon holders to bring a civil action to compel statutory duties and enforce bond covenants against the issuing county commission."
+        },
+        {
+          "number": 3,
+          "title": "Alternative, nonexclusive hospital financing method",
+          "bodySha256": "28e3290c5dafe1aa87670d0cd4713dd31033ada146575fb2f476c824edec29d2",
+          "reviewNote": "Read complete text of subsection 3 and notes. Clarifies that sections 205.161 to 205.169 furnish an alternative rather than exclusive legal method of financing hospitals and related facilities."
+        }
+      ]
+    },
+    {
+      "id": "205.170:10783",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.170&bid=10783",
+      "sourceSha256": "b5197f33dc1d206badee089e09f49fe6ed43358750edd529f30554fa805636ba",
+      "textSha256": "b386dbfaa92c19a89f9c7242daae90896d8f9901529b21d7f8aceba8e817bb1c",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.170:10783 (all seven subsections, including subdivisions (1)–(5) in subsection 2 and all subdivisions/paragraphs in subsection 3) and history/prior-revision notes (RSMo 1939 §§ 15194, 15196 through A.L. 1994 H.B. 1042); verified all source and subsection fingerprints. Checked municipal residence cap, initial 1–5 year staggered terms by lot, archived pre-1995 transition schedules, distinct subsection 4 lot rule referencing subsection 3, subsequent five-year terms, vacancy replacements, and the competitive-bidding exception in subsection 7; retained all seven drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Initial trustee appointments and residence limits",
+          "bodySha256": "c97725c2478328c8c98395dd53a39de0dc9501bed5c71ef13b44b17ec8e60cb6",
+          "reviewNote": "Read complete text of subsection 1 and history/prior-revision notes (RSMo 1939 §§ 15194, 15196 through A.L. 1994 H.B. 1042). Covers county commission appointment of five county-resident public hospital trustees with at most three from the hospital municipality."
+        },
+        {
+          "number": 2,
+          "title": "Initial trustee election and staggered terms by lot",
+          "bodySha256": "b4b7fa256fbd57b31078bb284c0f3b1536113909f1decb3ff9b6d4d188ac62b0",
+          "reviewNote": "Read complete text of subsection 2 including subdivisions (1) through (5) and notes. Covers appointees holding office until the next municipal election and electing five hospital trustees to staggered one- through five-year terms determined by lot."
+        },
+        {
+          "number": 3,
+          "title": "Transition terms for trustees elected before 1995",
+          "bodySha256": "c99ab936a7819caac5846e36abb38d7337d093e032e95ec561cb28d0510e2f4e",
+          "reviewNote": "Read complete text of subsection 3 including subdivisions (1) through (4) and paragraphs (a) through (c) and notes. Preserves the archived post-January 1, 1995 transition schedules for trustees elected prior to January 1, 1995 depending on whether two or three terms expire next."
+        },
+        {
+          "number": 4,
+          "title": "Determining subsection 3 transition terms by lot",
+          "bodySha256": "7efd219a4c44ab1a8f07dd3b8091bd65fc5f173b7170ee4f969303bb7052b2e5",
+          "reviewNote": "Read complete text of subsection 4 and notes. Distinguished from subsection 2 by providing that terms of trustees elected under the subsection 3 transition schedule are determined by lot."
+        },
+        {
+          "number": 5,
+          "title": "Five-year terms for subsequent hospital trustees",
+          "bodySha256": "91a60ca1665c6de2700c46c941227e2933fe29362c746fbad7c3563f090a979e",
+          "reviewNote": "Read complete text of subsection 5 and notes. Establishes five-year terms for trustees elected to succeed subsection 3 trustees and for each trustee subsequently elected."
+        },
+        {
+          "number": 6,
+          "title": "Filling board vacancies and replacement tenure",
+          "bodySha256": "ea415f68ae9506d5096baeb7f9c2a57af672cf605fd438cebd1ff162b5a5857b",
+          "reviewNote": "Read complete text of subsection 6 and notes. Covers reporting vacancies to the county commission, filling them as original appointments, and serving until the next municipal election when a trustee is elected for the predecessor's remaining term."
+        },
+        {
+          "number": 7,
+          "title": "Trustee financial interest in hospital supply purchases",
+          "bodySha256": "90970de5df72b0e0e1f13b5af3cb7e98fd8bd9ea310d4c6b52ff398d6e2a3633",
+          "reviewNote": "Read complete text of subsection 7 and notes. Prohibits direct or indirect personal pecuniary interest by trustees in hospital supply purchases, qualified by the competitive bidding exception."
+        }
+      ]
+    },
+    {
+      "id": "205.180:10784",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.180&bid=10784",
+      "sourceSha256": "6d2db1fca7c722ff4893424fe758d11313b118922ca6a310042423f6ea5f676c",
+      "textSha256": "eccb79fbc453532efec6199b2152f9bbd5959258a79ec723a82aa700df62d700",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.180:10784 (all three subsections, including the embedded hospital trustee ballot table in subsection 2), history note (L. 1947 V. I p. 323 § 15193a through A.L. 1999 H.B. 676), and Revisor footnote (*Word \"is\" appears in original rolls); verified all source and subsection fingerprints. Checked county-clerk filing, uncontested no-election rule, expiration-vacancy appointments, nonpartisan ballot form, and county commission declarations/commissions; retained all three drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Candidacy filings, uncontested races, and vacancy appointments",
+          "bodySha256": "e032a4cdfc605641b0e2dc4ce3c30c8c6f88f55077d0ac9f901e669cd58465a3",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1947 V. I p. 323 § 15193a through A.L. 1999 H.B. 676). Covers written candidacy announcements filed with the county clerk without fee, dispensing with an election if candidates do not exceed seats, and county commission appointments until the next general election when insufficient filings are made."
+        },
+        {
+          "number": 2,
+          "title": "Nonpartisan ballot contents and form",
+          "bodySha256": "2ad4cbe829b9cc0dbc664cfe8a7009ace277166ab38e093982bbc1bc1592e567",
+          "reviewNote": "Read complete text of subsection 2 including the embedded ballot table and Revisor footnote (*Word \"is\" appears in original rolls for \"are*\"). Prohibits political party affiliation designations, requires stating unexpired terms, and sets out the ballot form."
+        },
+        {
+          "number": 3,
+          "title": "Declaring elected trustees and issuing commissions",
+          "bodySha256": "ee5e66cd225f470dfcc2ffb687dd9baa6615a5a8f4b398566e55fcb98db967a4",
+          "reviewNote": "Read complete text of subsection 3 and notes. Directs the county commission to declare elected and commission the highest vote-getters placed on the ballot under section 205.170 and this section."
+        }
+      ]
+    },
+    {
+      "id": "205.190:54873",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.190&bid=54873",
+      "sourceSha256": "46c1f4fd434190e84e01e54fad49703669536c384af9bd7f5707b82fffc0f5b4",
+      "textSha256": "70b19da557f3da747a3ef4ff72e56509e74a02070634541621df2d44f59ab401",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.190:54873 (all eight subsections) and history/prior-revision notes (RSMo 1939 § 15195 through A.L. 2024 S.B. 1359); verified all source and subsection fingerprints. Checked oath/organization, unanimous-vote expense reimbursement, CEO/treasurer/employee bonding and warrant disbursement in subsection 3 (noting cross-reference mismatch in 205.379(2)), extraterritorial limits and county commission lease approvals in subsection 4, CEO/assistant appointment, employee day care licensure under sections 210.201 to 210.245, monthly meetings/quorum, and twice-monthly visits/January reporting. Revised subsection 3 to \"Bylaws, bonding, fund control, property, and warrants\" and subsection 6 to \"Employee child day care centers, licensing, and funding\"; retained subsections 1, 2, 4, 5, 7, and 8.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Trustee oath and board organization",
+          "bodySha256": "355d63294d9f854282574d1eab7d0cbfb6219d70cf041226165381b3f1724e31",
+          "reviewNote": "Read complete text of subsection 1 and history/prior-revision notes (RSMo 1939 § 15195 through A.L. 2024 S.B. 1359). Requires qualifying by civil-officer oath within ten days and electing chairman, secretary, treasurer, and other needed officers."
+        },
+        {
+          "number": 2,
+          "title": "Unpaid service and expense reimbursement procedure",
+          "bodySha256": "31c060ee97ea82f76544ab90bb7040276a5c2567b34e287466e92b906f086840",
+          "reviewNote": "Read complete text of subsection 2 and notes. Prohibits trustee compensation while allowing reimbursement of actual personal cash expenses upon a sworn itemized statement filed with the secretary and unanimous approval of trustees present."
+        },
+        {
+          "number": 3,
+          "title": "Bylaws, bonding, fund control, property, and warrants",
+          "bodySha256": "172abc3547ccb1758a8f32daae3dfed2c7401ca3c2c6de8e76a7289cd4798a3b",
+          "reviewNote": "Read complete text of subsection 3 and notes. Covers hospital bylaws/rules consistent with sections 205.160 to 205.340 and municipal ordinances, mandatory CEO bonding and optional treasurer/employee bonds paid from the hospital fund, exclusive control (except as in subsection 4) over deposit, investment, expenditure, sites, and buildings, depository requirements, and disbursement only upon treasurer warrants on authenticated vouchers; revised title to include employee bonding and warrant disbursement."
+        },
+        {
+          "number": 4,
+          "title": "Operations, contracts, leases, and territorial limits",
+          "bodySha256": "2573fe6b74c60af44cc100083bb40415eba14174a636fec14b1f56088bf594a8",
+          "reviewNote": "Read complete text of subsection 4 and notes. Covers authority within and outside the county (excluding other third- or fourth-class counties with an existing chapter 205 hospital, without barring continuation of existing lawful activities), operating/contracting/health care activities, leases of equipment/property/hospital (requiring county commission approval for leasing substantially all of a section 197.020 hospital and appropriating lease income to county health care in 2nd–4th class counties), definite lease termination dates and renewals, and separate lease-approval contracts in noncharter first-class counties."
+        },
+        {
+          "number": 5,
+          "title": "Chief executive officer, assistants, and general duties",
+          "bodySha256": "96a82a98c6f83f3c8c3175d46755159b542e303404b700622f463b4b029f5b7f",
+          "reviewNote": "Read complete text of subsection 5 and notes. Empowers the board to appoint, compensate, and remove a chief executive officer and necessary assistants and carry out the spirit and intent of sections 205.160 to 205.340."
+        },
+        {
+          "number": 6,
+          "title": "Employee child day care centers, licensing, and funding",
+          "bodySha256": "94b09fbcf7526f07604be9fcccda08380aeb3bb016c92c0406258fd3e75cfdfc",
+          "reviewNote": "Read complete text of subsection 6 and notes. Authorizes establishing a day care center exclusively for hospital employees' children, licensed under sections 210.201 to 210.245, funded by employee fees, with authority to accept private donations and federal agency grants; revised title to include licensing."
+        },
+        {
+          "number": 7,
+          "title": "Monthly meetings, records, and quorum",
+          "bodySha256": "9611a7957a56a24e41d659f7ea9d55d5af8b964f98780e7c8a7bc34cf450627f",
+          "reviewNote": "Read complete text of subsection 7 and notes. Requires at least monthly meetings, a complete record of proceedings, and sets a three-member quorum."
+        },
+        {
+          "number": 8,
+          "title": "Twice-monthly visits, annual report, and funding certification",
+          "bodySha256": "97301add016b2515eff4a59b6cb9b1141cdf9919ea45e2e7f77793a5f9ce24dc",
+          "reviewNote": "Read complete text of subsection 8 and notes. Requires twice-monthly trustee visits and examinations, an annual first-week-of-January report of proceedings and receipts/expenditures to the county commission, and certification of the amount needed to maintain and improve the hospital for the ensuing year."
+        }
+      ]
+    },
+    {
+      "id": "205.195:10787",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.195&bid=10787",
+      "sourceSha256": "4412a3773c90f7315d63508fad1d4d32965a06171b06a92cbaf9212b3fdaf151",
+      "textSha256": "d56b06a5fee3fe8761c93fbe7c1c1704e78056af80939f550fc67bb0308db60e",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.195:10787 (both subsections) and history note (L. 1971 H.B. 301); verified all source and subsection fingerprints. Checked written staff-membership application bylaws for physicians, podiatrists, and dentists, administrator-office availability of bylaws and amendments, organized professional staff rulemaking subject to board approval, and board-authorized general practitioner privileges; retained both drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Staff membership applications and bylaw availability",
+          "bodySha256": "f9f4a8b68e671e7219a36e99d8200a9d6fc90f5499090041d41546d0d6ea64d6",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1971 H.B. 301). Requires board bylaws to mandate written staff applications from physicians, podiatrists, and dentists detailing training, qualifications, acceptance of board authority, bylaw compliance, and ethical practice, and requires keeping copies of bylaws and amendments accessible in the administrator's office."
+        },
+        {
+          "number": 2,
+          "title": "Professional staff governance and general practitioner privileges",
+          "bodySha256": "eacb07a41b1ebc4cce99b47011c2c88946bc91ffeb6d45649e65724b1b675298",
+          "reviewNote": "Read complete text of subsection 2 and history note. Provides for an organized professional staff adopting rules and policies with board approval and permits general practitioners to practice according to competence as recommended by staff and authorized by the board."
+        }
+      ]
+    },
+    {
+      "id": "205.200:10788",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.200&bid=10788",
+      "sourceSha256": "adcd7a535d1128309ce8d7ed5a65f1a2937f0b9304f9f04dd1d80061068b1df3",
+      "textSha256": "2fd8e64cf4017ad0ccdb92d39bd290e33db35aaee4397c968dd18e1c4371ce17",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.200:10788 (all three subsections) and history/prior-revision notes (RSMo 1939 § 15195 through A.L. 1999 S.B. 348); verified all source and subsection fingerprints. Checked the express charter-county exclusion and one-dollar cap in subsection 1, pre-/post-October 13, 1965 tax and operating fund use for additions in subsection 2, and newspaper summary publication for ballot proposals over fifty cents in subsection 3. Revised subsection 1 title to \"Noncharter county hospital tax levy, rate cap, and use\" to surface the charter-county exclusion; retained subsections 2 and 3.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Noncharter county hospital tax levy, rate cap, and use",
+          "bodySha256": "6dc4c26d1f6f56f1b0cb99da6d57ee814a431221f02253dd0e07aafa06eb1777",
+          "reviewNote": "Read complete text of subsection 1 and history/prior-revision notes (RSMo 1939 § 15195 through A.L. 1999 S.B. 348). Directs county commissions (expressly excluding charter counties) to levy an annual property tax certified by hospital trustees up to one dollar per hundred dollars assessed valuation, solely for the levied hospital purposes; revised title to preserve the charter-county exclusion."
+        },
+        {
+          "number": 2,
+          "title": "Use of tax and operating funds for additions",
+          "bodySha256": "57c92a9a4509610c030a321e8438cf490f527f3be479f8b12fe4a6c180ec4571",
+          "reviewNote": "Read complete text of subsection 2 and notes. Permits using hospital tax or operating funds, whether collected before or after October 13, 1965, to construct and furnish necessary hospital additions."
+        },
+        {
+          "number": 3,
+          "title": "Publishing operating plans for higher levy proposals",
+          "bodySha256": "b9ca274e147af7f73eb2dc1c16a7cfacee1c21d881b3d5a997eb244a6f4935a7",
+          "reviewNote": "Read complete text of subsection 3 and notes. Requires the board of trustees to publish and make available on request a summary of ongoing operating plans for any ballot proposal exceeding fifty cents per hundred dollars assessed valuation."
+        }
+      ]
+    },
+    {
+      "id": "205.202:48841",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.202&bid=48841",
+      "sourceSha256": "471e851e8663c6c98ff8cefb573f1c0d8e46a25bab3e3c5a3ed52d905d6bcac1",
+      "textSha256": "660a28d0dc0833590402b70efd1ec214a520a1bee1e4bc3dcad53492ffc51cb9",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.202:48841 (all seven subsections, including subdivisions (1) and (2) in subsection 7) and history note (L. 2009 S.B. 307, A.L. 2020 H.B. 1682); verified all source and subsection fingerprints. Checked Ripley County population bracket applicability, chapter 144 sales tax replacing property tax, voter approval/effective date/resubmission, Hospital District Sales Tax Fund rules, distinct governing-body versus voter-petition repeal procedures, subsection 6's express exclusion of subsection 7 dissolutions, and subsection 7's 25%/75% post-dissolution distribution. Revised subsection 6 title to \"Post-repeal notice, fund use, and reserve outside dissolution\" to preserve the non-dissolution scope; retained subsections 1–5 and 7.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Replacing property tax with district sales tax",
+          "bodySha256": "c9554f98e24ee2e0d9f9084fceb9b5b73a8b6bf7e701c7028ad9e7b1dcf5041c",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 2009 S.B. 307, A.L. 2020 H.B. 1682). Authorizes hospital districts under sections 205.160 to 205.379 in specified non-township third-class counties (13,500–13,600 inhabitants; Ripley County in catchline) to abolish their chapter property tax by resolution and impose up to a one-percent separate chapter 144 retail sales tax solely for hospital district funding."
+        },
+        {
+          "number": 2,
+          "title": "Voter approval, effective date, and resubmission",
+          "bodySha256": "0477fbe80a1d91067855840fdc725c14f9e6fe18d9c478dfc4b5aded1adc616c",
+          "reviewNote": "Read complete text of subsection 2 and history note. Conditions resolution effectiveness on district voter approval at a state general, primary, or special election, sets effective timing after revenue director notification, and governs resubmission if rejected."
+        },
+        {
+          "number": 3,
+          "title": "Collection, Hospital District Sales Tax Fund, and investments",
+          "bodySha256": "ce9dc01ac932051d123f0d5e5b29f5eb6225983823a27c4e1e1776fd8d9e0fc6",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers department of revenue collection, one-percent state collection fee, creation and non-state status of the Hospital District Sales Tax Fund, refunds and dishonored checks, and investment of surplus balances."
+        },
+        {
+          "number": 4,
+          "title": "Governing-body election to repeal sales tax",
+          "bodySha256": "c26f9645cb4efa1bced90e0ac44782a3ec20fa8c83eec0725fb0b4b9f7eeb10f",
+          "reviewNote": "Read complete text of subsection 4 and history note. Distinguished from subsection 5 by authorizing the hospital district governing body to submit repeal to voters, with December 31 effective date upon approval and continuation if rejected."
+        },
+        {
+          "number": 5,
+          "title": "Voter-petition election to repeal sales tax",
+          "bodySha256": "b3003d46654d629fb87629039740f9178d24d1b898c8ddd1ec3a9c286e37fcb1",
+          "reviewNote": "Read complete text of subsection 5 and history note. Distinguished from subsection 4 by requiring submission of repeal upon a petition of registered voters equal to at least ten percent of district voters in the last gubernatorial election, with December 31 effective date if approved."
+        },
+        {
+          "number": 6,
+          "title": "Post-repeal notice, fund use, and reserve outside dissolution",
+          "bodySha256": "8d6667eece07126ef7b2823460da971083974b54cba0f1d4828b7dcfa5de8e1d",
+          "reviewNote": "Read complete text of subsection 6 and history note. Applies to repeal or termination by any means other than district dissolution under subsection 7; preserves designated fund use, requires 90-day notice to the director of revenue, permits one-year retention of two percent for refunds/dishonored checks, and directs remittance and account closure; revised title to distinguish non-dissolution repeal from subsection 7."
+        },
+        {
+          "number": 7,
+          "title": "District dissolution, automatic repeal, and fund distribution",
+          "bodySha256": "4858ac5c37fc395ee90aba9810b404024ec3ecdab0ad642564cd0d5d51f79ff4",
+          "reviewNote": "Read complete text of subsection 7 including subdivisions (1) and (2) and history note. Automatically repeals the sales tax upon district dissolution and distributes remaining trust funds 25% to the county public health center under sections 205.010 to 205.150 and 75% to an in-county federally qualified health center under 42 U.S.C. Section 1396d(l)(1) and (2)."
+        }
+      ]
+    },
+    {
+      "id": "205.205:10790",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.205&bid=10790",
+      "sourceSha256": "fa0256c58628323f65df11b511018170e6bbe96b2542d1ee039279b6ef0c434e",
+      "textSha256": "1a2f0476be71f84c7a1dda8a925d5ae75a4f66d767a5cfd3e818fa288d791cfe",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.205:10790 (all six subsections) and notes (L. 2011 H.B. 111 merged with S.B. 117; effective 6-09-11 S.B. 117, 7-08-11 H.B. 111); verified all source and subsection fingerprints. Checked Iron and Madison County population brackets, inclusion of section 144.032 domestic utility sales alongside chapter 144 retail sales, voter approval/effective timing, trust fund administration, distinct governing-body and voter-petition repeal tracks, and post-repeal notice/retention rules; retained all six drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Replacing property tax with district sales tax",
+          "bodySha256": "d893554e8a32afb28490e3b478df52b89d8c8efeb88938d01614b77c8659bbf1",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 2011 H.B. 111 merged with S.B. 117; effective 6-09-11 S.B. 117, 7-08-11 H.B. 111). Authorizes hospital districts under sections 205.160 to 205.379 in two specified non-township third-class county population brackets (Iron and Madison counties in catchline) to replace their property tax with up to a one-percent sales tax covering both chapter 144 retail sales and section 144.032 domestic utility sales."
+        },
+        {
+          "number": 2,
+          "title": "Voter approval, effective date, and resubmission",
+          "bodySha256": "0477fbe80a1d91067855840fdc725c14f9e6fe18d9c478dfc4b5aded1adc616c",
+          "reviewNote": "Read complete text of subsection 2 and notes. Conditions effectiveness on voter approval at a state general, primary, or special election, sets effective timing after revenue director notification, and governs resubmission if rejected."
+        },
+        {
+          "number": 3,
+          "title": "Collection, Hospital District Sales Tax Fund, and investments",
+          "bodySha256": "ce9dc01ac932051d123f0d5e5b29f5eb6225983823a27c4e1e1776fd8d9e0fc6",
+          "reviewNote": "Read complete text of subsection 3 and notes. Covers department of revenue collection, one-percent state collection fee, Hospital District Sales Tax Fund creation and non-state status, refunds and dishonored checks, and investment of unneeded balances."
+        },
+        {
+          "number": 4,
+          "title": "Governing-body election to repeal sales tax",
+          "bodySha256": "c26f9645cb4efa1bced90e0ac44782a3ec20fa8c83eec0725fb0b4b9f7eeb10f",
+          "reviewNote": "Read complete text of subsection 4 and notes. Distinguished from subsection 5 by authorizing the district governing body to submit repeal to voters, effective December 31 if approved."
+        },
+        {
+          "number": 5,
+          "title": "Voter-petition election to repeal sales tax",
+          "bodySha256": "b3003d46654d629fb87629039740f9178d24d1b898c8ddd1ec3a9c286e37fcb1",
+          "reviewNote": "Read complete text of subsection 5 and notes. Distinguished from subsection 4 by requiring submission of repeal upon a petition of registered voters equal to at least ten percent of district voters in the last gubernatorial election."
+        },
+        {
+          "number": 6,
+          "title": "Post-repeal fund use, notice, and retention reserve",
+          "bodySha256": "f99ee8b1919930f9be25cdc1d83387521e1271ae7e818fffa9233c6b293df977",
+          "reviewNote": "Read complete text of subsection 6 and notes. Covers repeal or termination by any means, continued designated use of remaining funds, 90-day notice to the director of revenue, optional one-year two-percent retention for refunds/dishonored checks, and final balance remittance."
+        }
+      ]
+    },
+    {
+      "id": "205.300:10800",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.300&bid=10800",
+      "sourceSha256": "e5321906273beb9d58e1f089697801e3892631e90faa056f9b7fb5c0e6811b00",
+      "textSha256": "0c68d30c7f756a5aaa750a19a010f68ec3de645755c7a01759a56437a168e375",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.300:10800 (both subsections), history/prior-revision notes (RSMo 1939 § 15205), and 1953 case annotation (Stribling v. Jolley, 253 S.W.2d 519, holding osteopathic physicians and surgeons are practitioners of a recognized school of medicine and a county hospital exclusion rule is unlawful); verified all source and subsection fingerprints. Checked equal practitioner privileges in subsection 1 and patient employment of a private physician, physician care/nurse authority, and express subjection to board rules under sections 205.160 to 205.340 in subsection 2. Revised subsection 2 title to \"Patient's own physician, treatment authority, and board rules\"; retained subsection 1.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Equal hospital privileges for recognized medical practitioners",
+          "bodySha256": "0b7ee55fe801c6a49c96ec73fdc470dfa463185341bb1d723b605cb277189292",
+          "reviewNote": "Read complete text of subsection 1, history/prior-revision notes (RSMo 1939 § 15205), and 1953 case annotation (Stribling v. Jolley, 253 S.W.2d 519, holding osteopathic physicians and surgeons within recognized schools of medicine). Prohibits discrimination against practitioners of any school of medicine recognized by Missouri law and grants equal hospital treatment privileges."
+        },
+        {
+          "number": 2,
+          "title": "Patient's own physician, treatment authority, and board rules",
+          "bodySha256": "951464415c247442970c5c1a893611dfd84fff7ac1153f5fc7d975231a933f30",
+          "reviewNote": "Read complete text of subsection 2 and notes. Grants patients the right to employ their own physician at their own expense, gives that employed physician exclusive charge of care and direction of nurses for that patient, and expressly makes the subsection subject to general board rules under sections 205.160 to 205.340; revised title to reflect physician authority and the board-rules qualification."
+        }
+      ]
+    },
+    {
+      "id": "205.354:10806",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.354&bid=10806",
+      "sourceSha256": "a7f1832a00e136d461faa69584e151702ab41a34de89da134e4c4fea83ca80e2",
+      "textSha256": "704a58fb5995c8f1d68c8a80002dddc96e3cff8e2fd29e59a5a3feda46aa1c68",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.354:10806 (all three subsections, including the embedded yes/no ballot table in subsection 3) and notes (L. 1986 H.B. 1471 et al. merged with S.B. 553 & 775; effective 5-15-86 and 6-9-86); verified all source and subsection fingerprints. Checked Boone County applicability, date-specific 1986 primary/general nonbinding preference election authorization, election administration/certification/costs, and ballot wording; retained all three drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorization for 1986 nonbinding hospital sale election",
+          "bodySha256": "3cb4dd1e79bbe3131eb09d40ad2931617aaa85c1e747ae615f2ce03eb3d3980a",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1986 H.B. 1471 et al. merged with S.B. 553 & 775; effective 5-15-86 and 6-9-86). Preserves archived date-specific authority for second-class counties of at least 100,000 population operating a county hospital (Boone County in catchline) to call a nonbinding preference election on the 1986 primary or general election day."
+        },
+        {
+          "number": 2,
+          "title": "Election conduct, certification, costs, and notice",
+          "bodySha256": "2789b55c7d36bfab923e8c180cf1f1e635a038935ea8ede51e91562307917862",
+          "reviewNote": "Read complete text of subsection 2 and notes. Directs the county election authority to conduct the election like state and county elections, with county commission certification and payment of costs and notice as otherwise provided by law."
+        },
+        {
+          "number": 3,
+          "title": "Ballot form for hospital sale preference question",
+          "bodySha256": "8e4285e0cc1a9f91e2a7fe04f99f4f0cc7c28b77f573488d01c7f91119833da5",
+          "reviewNote": "Read complete text of subsection 3 including the embedded yes/no ballot table and notes. Sets out the required wording for the nonbinding hospital sale proposition."
+        }
+      ]
+    },
+    {
+      "id": "205.371:10809",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.371&bid=10809",
+      "sourceSha256": "b83cf5b78aa1785c6cabde29faeab236297a409608395804ed56f4b8cc457c92",
+      "textSha256": "263af4d1d3c60cce58102c6cad1bf55ac2db07e994c75e4576a9e9906b1cc767",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.371:10809 (both subsections) and history note (L. 1978 H.B. 1769 § 205.990); verified all source and subsection fingerprints. Checked county commission and township board supplemental nursing home revenue bond authority under section 205.375, non-tax revenue payment restriction, and exclusion from state, county, township, board, and trustee indebtedness under sections 205.371 to 205.373; retained both drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Nursing home revenue bond authority and payment sources",
+          "bodySha256": "3c695ce960b1fc18edfbc74d43403c46b89b83e4c05cbd834ae5bf82698e626e",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1978 H.B. 1769 § 205.990). Authorizes county commissions and township boards acting under section 205.375 to issue revenue bonds (in addition to section 205.375 bonds) for nursing homes, related facilities, sites, and parking, payable solely from net operating revenues or non-tax funds."
+        },
+        {
+          "number": 2,
+          "title": "Exclusion from public and board indebtedness",
+          "bodySha256": "e8b5dcff4ad755b4fe4101538c893c956506cc6a65f63c8bd1a75f9cb2f61836",
+          "reviewNote": "Read complete text of subsection 2 and history note. Excludes bonds under sections 205.371 to 205.373 from indebtedness of the state, county, township, nursing home board, or individual trustees, including under constitutional or statutory debt limits."
+        }
+      ]
+    },
+    {
+      "id": "205.372:10810",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.372&bid=10810",
+      "sourceSha256": "60ad341719afd37f5219e1fc2165c40f1527254c2ea8a8f445e60553d908f9f5",
+      "textSha256": "abe359cb4a66be39e6becf25168f131d709d2d886cc91eaf7028d86f620ae06a",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.372:10810 (both subsections) and history note (L. 1978 H.B. 1769 § 205.991); verified all source and subsection fingerprints. Checked county commission and township board bond terms under sections 205.371 to 205.373, chapter 400 negotiability, and the Missouri state and local income tax exemption on interest. Revised subsection 2 title to \"Negotiability under chapter 400 and income tax exemption\" to avoid over-generalizing the exemption; retained subsection 1.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Bond denominations, interest, maturity, and redemption",
+          "bodySha256": "4177665a7e60066a629cac9532688bf06aa837a4908f823739248d54f700a742",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1978 H.B. 1769 § 205.991). Covers county commission or township board determination of denominations, lawful interest rates, maximum 35-year maturity, serial or term forms, and optional early call and redemption-premium covenants for bonds under sections 205.371 to 205.373."
+        },
+        {
+          "number": 2,
+          "title": "Negotiability under chapter 400 and income tax exemption",
+          "bodySha256": "9495cba0ced42b73c3f26e9264a7b96ed422276f97533fedcf4dfef052cd7589",
+          "reviewNote": "Read complete text of subsection 2 and history note. Designates issued and sold bonds as chapter 400 negotiable instruments and exempts bond interest specifically from Missouri state and local income taxes; revised title to specify income tax exemption."
+        }
+      ]
+    },
+    {
+      "id": "205.373:10811",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.373&bid=10811",
+      "sourceSha256": "0987d7ed35724cc8bca396b2f2bba95e3218b42c5732c40397160c4377a0706d",
+      "textSha256": "36ca3b6e8925c609cd343bc5fcbbb7dba845fc541385ae1ba0805625348dc57b",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.373:10811 (all three subsections) and history note (L. 1978 H.B. 1769 § 205.992); verified all source and subsection fingerprints. Checked county commission/township board form and payment covenant powers, bondholder/coupon-holder civil enforcement actions, and nonexclusive alternative-financing status under sections 205.371 to 205.373; retained all three drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Bond terms and payment covenants",
+          "bodySha256": "70939f5e0330fc5e697bd18ae675ede9b3b6ed3816c756188744c13ee08db103",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1978 H.B. 1769 § 205.992). Directs the issuing county commission or township board to prescribe bond form, details, incidents, and security covenants consistent with sections 205.371 to 205.373."
+        },
+        {
+          "number": 2,
+          "title": "Bondholder civil actions to compel duties and covenants",
+          "bodySha256": "6dae29816ebdf264b1881305201eac6e38178fe3eb1fdbea10dd5a3b46e8c0f6",
+          "reviewNote": "Read complete text of subsection 2 and history note. Authorizes bond or interest-coupon holders to bring a civil action to compel statutory duties and enforce bond covenants against the issuing county commission or township board."
+        },
+        {
+          "number": 3,
+          "title": "Alternative, nonexclusive nursing home financing method",
+          "bodySha256": "75e2dec46716186e8c799994f44248118860195daca69ffc53b7334d3cf54b63",
+          "reviewNote": "Read complete text of subsection 3 and history note. Clarifies that sections 205.371 to 205.373 furnish an alternative rather than exclusive legal method of financing nursing homes and related facilities."
+        }
+      ]
+    },
+    {
+      "id": "205.374:10812",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.374&bid=10812",
+      "sourceSha256": "e6b0049c9fa086d14a84217bf6a19eb04879a8fe7dd9e1e74e728455b30c23ed",
+      "textSha256": "870771b89330b39c56b1d8693a3e06f1ef623413dbda604509cfb7e2cb8f7bbc",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.374:10812 (all three subsections, including subdivisions (1) and (2) in subsection 3) and notes (L. 1975 S.B. 74 through A.L. 1999 H.B. 796 merged with S.B. 276; effective 5-13-99 S.B. 276, 7-13-99 H.B. 796); verified all source and subsection fingerprints. Checked hospital board resolution, county commission agent appointment and deed conveyance, debt application and continuing tax on taxable tangible property if needed, and county-class division of remaining proceeds and section 205.290 donated assets; retained all three drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Resolution, sale agent appointment, and property conveyance",
+          "bodySha256": "32f05d42231e1964c395f52cb6b4129d14a7fd577c65b6b08a803661cd6c50b9",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1975 S.B. 74 through A.L. 1999 H.B. 796 merged with S.B. 276; effective 5-13-99 S.B. 276, 7-13-99 H.B. 796). Covers filing a hospital board sale resolution with the county clerk, county commission desirability determination, appointing an agent to sell real and personal property like other county property, and the agent's deed conveying county title."
+        },
+        {
+          "number": 2,
+          "title": "Applying sale proceeds to debt and continuing tax",
+          "bodySha256": "a0c286f654048255bf25559064c3bd04fcc8d2398ddebdf7f36e30833172d8f5",
+          "reviewNote": "Read complete text of subsection 2 and notes. Directs applying sale proceeds to outstanding valid county hospital debt and continuing an annual tax on taxable tangible property if proceeds and interest are insufficient to pay bonded indebtedness as due."
+        },
+        {
+          "number": 3,
+          "title": "Remaining proceeds and donated assets by county class",
+          "bodySha256": "ed70abfec84aba7168ecabedffafc0263061c76812893caf31d6e849076bc90f",
+          "reviewNote": "Read complete text of subsection 3 including subdivisions (1) and (2) and notes. Directs remaining sale proceeds to the county general fund in first-classification counties, while in second-, third-, or fourth-classification counties remaining proceeds and section 205.290 donated assets (unless otherwise prescribed by gift terms) must be used to provide county health care services."
+        }
+      ]
+    },
+    {
+      "id": "205.375:53937",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.375&bid=53937",
+      "sourceSha256": "f5da17c009e9ff066c9185ae70e4d599e3ebaa8cf58ab22b36ba6d50ea955cb6",
+      "textSha256": "c202964ea0bad59d323564090a9f749ac0c44ac8554ad94e78ace1c58c6fbf1b",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.375:53937 (all four subsections, including subdivisions (1) and (2) in subsection 1), history notes (L. 1957 p. 689 through A.L. 2023 H.B. 402), and 1971 case annotation (State ex rel. Phelps County v. Holman, 461 S.W.2d 689, upholding single-proposition submission of combined hospital expansion and on-grounds nursing home bonds); verified all source and subsection fingerprints. Checked section 198.006 definition scope, county/township construction and contracting powers, general-bond chapter 198 district tax exclusion and chapter 176 revenue bonds, and leasing/renting authority; retained all four drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Meaning of nursing home for this section",
+          "bodySha256": "dda1b6cfc0cb174f121004adcf206a2f2deae2aa453adb8055aa179fede664f0",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1) and (2), history notes (L. 1957 p. 689 through A.L. 2023 H.B. 402), and 1971 case annotation (State ex rel. Phelps County v. Holman, 461 S.W.2d 689). Defines \"nursing home\" for this section via specified section 198.006 facility types operated with a hospital or under licensed physician/surgeon direction."
+        },
+        {
+          "number": 2,
+          "title": "County and township acquisition, construction, and contracting",
+          "bodySha256": "aec670048d8140a869ee60407c70f27002d943ff4a64cd22a3349e52f38bd134",
+          "reviewNote": "Read complete text of subsection 2 and notes. Authorizes county commissions and township boards to acquire sites, construct and equip nursing homes, and contract for necessary materials, supplies, and services."
+        },
+        {
+          "number": 3,
+          "title": "Bond financing, district tax exclusion, and chapter 176 bonds",
+          "bodySha256": "cb3bb635641b654063d33396ae96b8d60c809706859a729267fd31436b982462",
+          "reviewNote": "Read complete text of subsection 3 and notes, including 1971 Holman bond-submission annotation. Authorizes general county-indebtedness bonds (excluding property taxed within a chapter 198 nursing home district) or revenue bonds issued and paid subject to chapter 176."
+        },
+        {
+          "number": 4,
+          "title": "Leasing and renting nursing homes and equipment",
+          "bodySha256": "1f11df0446172ee5d60d570dd889a384e472528520d327019893249311b7ed79",
+          "reviewNote": "Read complete text of subsection 4 and notes. Authorizes leasing and renting nursing homes and equipment on proper terms to private or nonprofit operators to operate as subsection 1 nursing homes or other in-county/in-township health care facilities providing nursing care or medical services."
+        }
+      ]
+    },
+    {
+      "id": "205.376:10814",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.376&bid=10814",
+      "sourceSha256": "cd27420ed79a15b10349ace60fc9cdd8ce9eb07f5f3d9e9a7141996dee6a1e2d",
+      "textSha256": "2dc3ee1154695a7f180e65b503af7f54138573d744b1fc6ccd71ae4059d2624b",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.376:10814 (all five subsections, including subdivisions (1) and (2) and the embedded deed-effect sentence in subsection 1) and history note (L. 1978 H.B. 1036 § 2); verified all source and subsection fingerprints. Checked intra-county nursing home district conveyance covenants, debt-assumption consideration, debt application and continuing tax on taxable tangible property, general-fund remainder, and pre-conveyance revenue bondholder civil actions; retained all five drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conveyance procedure, mandatory covenants, and deed effect",
+          "bodySha256": "7d505b915f2e7ac6cbd4be83060c8d98c4027fcd6d66c5310f87cb93140e7751",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1) and (2) and history note (L. 1978 H.B. 1036 § 2). Authorizes conveying a section 205.375 county nursing home to a wholly intra-county nursing home district via an appointed agent, subject to mandatory non-refusal of county residents and assumption of statutory duties and bond covenants; accounts for the deed-conveyance sentence placed at the end of subdivision (2)."
+        },
+        {
+          "number": 2,
+          "title": "Debt assumption as consideration for conveyance",
+          "bodySha256": "89e3deb181d6664240fbd2335a21a0db9039b367435488408c2dd7d54eb1c1bd",
+          "reviewNote": "Read complete text of subsection 2 and history note. Allows consideration for conveyance to consist exclusively of assuming outstanding facility indebtedness or bonds, in the county commission's discretion."
+        },
+        {
+          "number": 3,
+          "title": "Applying consideration to debt and continuing tax",
+          "bodySha256": "53978d8fabada942e157483026d9ff0b3e28c7cd61553fdd6164d07e4acfc460",
+          "reviewNote": "Read complete text of subsection 3 and history note. Applies conveyance consideration to valid county nursing home debt and requires continuing an annual tax on taxable tangible property if consideration and interest are insufficient to pay bonded indebtedness."
+        },
+        {
+          "number": 4,
+          "title": "Deposit of remaining consideration in general fund",
+          "bodySha256": "74a3a47dfb73a3bc1d5de0a0ffdf1756995d4903f7f1c4dd2655b08e9cef32bb",
+          "reviewNote": "Read complete text of subsection 4 and history note. Directs placing any balance of conveyance consideration remaining after all nursing home debt is paid into the county general fund."
+        },
+        {
+          "number": 5,
+          "title": "Bondholder civil actions against nursing home district",
+          "bodySha256": "456068c058e68054972de204839d49ae11f547e7df248347ee3512fbc9ae3e91",
+          "reviewNote": "Read complete text of subsection 5 and history note. Authorizes pre-conveyance revenue bond or interest-coupon holders to bring a civil action compelling the nursing home district board to perform statutory duties and bond covenants."
+        }
+      ]
+    },
+    {
+      "id": "205.377:53938",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.377&bid=53938",
+      "sourceSha256": "129956bb6398451b0507c0042eab86bba6388b4ce23a88a8fd9b96e8fd32e68a",
+      "textSha256": "ed597af1431a82618bd2d39744fedd7cb157fd6c8b51c2163fe50ac0589b3e4d",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.377:53938 (all four subsections) and history note (L. 2023 H.B. 402); verified all source and subsection fingerprints. Checked county commission sale/agent/deed procedure, verbatim \"all taxable personal property\" continuing-tax wording in subsection 2 (contrasting with \"taxable tangible property\" in 205.374 and 205.376), general-fund health-care dedication in subsection 3, and non-binding \"plan to operate\" ten-year purchaser limitation covering similar facilities or other medical services in subsection 4. Revised subsection 2 to \"Sale proceeds for debt and continuing personal property tax\", subsection 3 to \"Remaining proceeds to general fund for county health care\", and subsection 4 to \"Purchaser limitation based on ten-year operating or care plans\"; retained subsection 1.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Sale determination, agent appointment, and conveyance",
+          "bodySha256": "9888680908845bf343a8f85835faa96fcc53713da499f0cbda356052e6631d66",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 2023 H.B. 402). Authorizes a county commission with a section 205.375 nursing home, upon determining sale is desirable, to appoint an agent to sell the real and personal property like other county property and convey title by acknowledged, recorded deed."
+        },
+        {
+          "number": 2,
+          "title": "Sale proceeds for debt and continuing personal property tax",
+          "bodySha256": "91bb5770b6f885d1c619bfb7faef75e77928b5241cde547e170a7a01ff30ed58",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs applying sale proceeds to outstanding valid nursing home debt and continuing an annual tax if proceeds and interest are insufficient for bonded indebtedness; revised title to retain verbatim source scope of \"all taxable personal property\" (contrasting with \"taxable tangible property\" in sections 205.374 and 205.376)."
+        },
+        {
+          "number": 3,
+          "title": "Remaining proceeds to general fund for county health care",
+          "bodySha256": "46182e43b2e7c99f0599025910415e0628a43c209922a912fb069b45efce9591",
+          "reviewNote": "Read complete text of subsection 3 and history note. Directs placing any post-debt balance of sale proceeds to the credit of the county general fund to be used to provide health care services in the county; revised title to include general-fund placement."
+        },
+        {
+          "number": 4,
+          "title": "Purchaser limitation based on ten-year operating or care plans",
+          "bodySha256": "46b2c57883ac3a819db728bee7a15de4117e9c9e37fe8e80faf6519368842c85",
+          "reviewNote": "Read complete text of subsection 4 and history note. Limits sales under this section to purchasers who \"plan to operate\" a similar facility or otherwise provide medical services to patients (including county residents) for at least ten years; revised title to preserve the non-binding \"plan to operate\" framing while covering both similar facilities and other medical services."
+        }
+      ]
+    },
+    {
+      "id": "205.379:10816",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.379&bid=10816",
+      "sourceSha256": "e886efd003e47fe29c412c639f446daeb0e29c868f082cf133e911f3fd0d21af",
+      "textSha256": "ad59fe1cd9117a0c8933f58ef2dc3326e2a78b77b96e7aac94ef424f624ab6d5",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.379:10816 (both subsections) and history note (L. 1977 H.B. 378 §§ 1, 2); verified all source and subsection fingerprints. Checked sole-discretion authority to employ special counsel notwithstanding chapter 56 and subsection 2's verbatim cross-reference to \"subsection 4 of section 205.190\" (retaining the archived statutory reference without silent repair while documenting that hospital fund warrant disbursement appears in subsection 3 of current archived 205.190:54873). Revised subsection 2 title to \"Payment of counsel from hospital fund under 205.190(4)\"; retained subsection 1.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority to employ special legal counsel",
+          "bodySha256": "bec50746f836e91d0768835bc4f7ad254626fd433b8170c04cca52b02359fbda",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1977 H.B. 378 §§ 1, 2). Authorizes county hospital boards organized under sections 205.160 through 205.378, notwithstanding chapter 56, to employ counsel other than the prosecuting/circuit attorney or county counselor when the board in its sole discretion finds special counsel necessary."
+        },
+        {
+          "number": 2,
+          "title": "Payment of counsel from hospital fund under 205.190(4)",
+          "bodySha256": "76578e86a18510f1c645d09a4053eb8fd7d73a957e1ba27eee09572543c9c7f1",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs payment of special legal counsel from the hospital fund \"in the manner provided in subsection 4 of section 205.190\"; revised title to retain the exact archived statutory cross-reference without silently repairing it, while noting that hospital fund warrant disbursement currently appears in subsection 3 of archived section 205.190:54873."
+        }
+      ]
+    },
+    {
+      "id": "205.460:10825",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.460&bid=10825",
+      "sourceSha256": "a0505d061c9c02ac97168b3d32487fb51d24c1416c46a77ff1b977862c127fad",
+      "textSha256": "1b3f6b2f51b8d699d88275b7fd07a3d13d26de8a671a552f222fe8034385eb99",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.460:10825 (all three subsections, including the indented ballot question in subsection 2) and history/prior-revision notes (RSMo 1939 § 15210, A.L. 1978 H.B. 971); verified all source and subsection fingerprints. Checked 25% voter petition with 40% outside-town threshold, first-year/subsequent rate limits, substantial ballot form, rate notice, two-thirds township approval, Hospital Fund deposit, and two-thirds termination vote; retained all three drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Voter petition and rate limits for township hospital tax",
+          "bodySha256": "1dc4f3244616d2a07fd4f40b6f273688634736a144b3b0fda089bbb844a4bbcb",
+          "reviewNote": "Read complete text of subsection 1 and history/prior-revision notes (RSMo 1939 § 15210, A.L. 1978 H.B. 971). Requires the county commission to call an election when petitioned by 25% of township voters (40% residing outside any town) for a first-year tax up to one-half cent per dollar and subsequent annual tax up to two mills per dollar for a township hospital."
+        },
+        {
+          "number": 2,
+          "title": "Ballot form for township hospital tax",
+          "bodySha256": "6527d5141e85fab9441a87385b9014d24868d32fcee6cf808f3b0fa44f90238a",
+          "reviewNote": "Read complete text of subsection 2 including the indented ballot question and notes. Prescribes the substantially required ballot question stating the first-year and subsequent tax rates."
+        },
+        {
+          "number": 3,
+          "title": "Notice, two-thirds vote, Hospital Fund, and tax termination",
+          "bodySha256": "b02cadff57df4094830a56fc2b7e69e91213685290919140f597c4ab64448a78",
+          "reviewNote": "Read complete text of subsection 3 and notes. Requires rate notice, two-thirds approval in each township to levy and collect the \"Hospital Fund\" paid to the hospital treasurer, and allows ending the tax by a two-thirds vote of total votes cast at a municipal election."
+        }
+      ]
+    },
+    {
+      "id": "205.510:10830",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.510&bid=10830",
+      "sourceSha256": "d2b90ed8e91da939f32768da3d9a68e9d4da21c9201d9bfebd7c7b8d009c22ac",
+      "textSha256": "d9d4266f757d1835091f1d188a654e28bd87867d41de21e9b87d4a32d8619a2d",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.510:10830 (both subsections) and history/prior-revision notes (RSMo 1939 § 15215); verified all source and subsection fingerprints. Checked secretary board-membership optionality, trustee-agreed salary, public board proceedings and financial/patient recordkeeping duties, and the one-dollar annual salary for the township hospital treasurer; retained both drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Secretary eligibility, salary, and recordkeeping duties",
+          "bodySha256": "e8c5ea17578ec22a1e877375d4d677a540227e335ee2a4228a3555e83522d389",
+          "reviewNote": "Read complete text of subsection 1 and history/prior-revision notes (RSMo 1939 § 15215). Provides that the secretary need not be a board member, draws a trustee-agreed salary, and must keep public records of board proceedings as well as financial and patient records."
+        },
+        {
+          "number": 2,
+          "title": "Annual salary of hospital treasurer",
+          "bodySha256": "1bdc75044e9b67db7d0e0ae64bd0944845add68797a3b8a837459ed32da3b636",
+          "reviewNote": "Read complete text of subsection 2 and notes. Sets the township hospital treasurer's annual salary at one dollar."
+        }
+      ]
+    },
+    {
+      "id": "205.563:10836",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.563&bid=10836",
+      "sourceSha256": "44c116c80516a3ab9e32780678eac573904276d91e9a00c7a42f919dabe412ac",
+      "textSha256": "fdaf5c8792082a969e674f409a7cc2b59a6ae5ec6ffd7ead7e4098c00d753c7c",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.563:10836 (all seven subsections, including the embedded ballot table and continuation paragraph in subsection 3) and history note (L. 2007 S.B. 22 merged with S.B. 30); verified all source and subsection fingerprints. Checked Centerview population bracket, catchline-versus-body discrepancy (\"rural health clinic\" in official catchline versus \"community health center\" in subsections 1 and 3), order-or-ordinance voter submission requirement, continuation paragraph covering majority approval, next-tax-year effectiveness, and resubmission, tax collection, city-initiated vs. voter-petition repeal, and post-repeal dedicated fund use. Revised subsection 1 to \"Community health center tax, cap, and outside-city agreements\", subsection 2 to \"Voter submission requirement for tax order or ordinance\", and subsection 3 to \"Ballot form, majority vote, effective date, and resubmission\"; retained subsections 4–7.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Community health center tax, cap, and outside-city agreements",
+          "bodySha256": "ee7dfed2b76fac0e004b6e4f3f7c96a6a98c3f8d7212560a68b5919fec002bff",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 2007 S.B. 22 merged with S.B. 30). Authorizes a specified fourth-classification city (200–300 inhabitants) in a second-classification county (48,200–48,300 inhabitants; Centerview in catchline) to impose up to a 35-cent separate real property tax for a \"community health center\" (contrasting with \"rural health clinic\" in the official catchline) and to agree with partially overlapping taxing jurisdictions to levy the tax outside city limits with voter approval; revised title to reflect the body's community health center terminology."
+        },
+        {
+          "number": 2,
+          "title": "Voter submission requirement for tax order or ordinance",
+          "bodySha256": "9785fdf0d0876f187f69d0809e5c6909c6c82263e1ef1acd2eb37cd1a11f97e9",
+          "reviewNote": "Read complete text of subsection 2 and history note. Conditions effectiveness of any order or ordinance on submission of the tax proposal to city voters at a state general, primary, or special election; revised title to include orders as well as ordinances and distinguish submission from subsection 3 approval and effective-date rules."
+        },
+        {
+          "number": 3,
+          "title": "Ballot form, majority vote, effective date, and resubmission",
+          "bodySha256": "4f068eea9f4a3968e52030d05ea5a05b765904a2b6954fb42fc989b8d94ca2af",
+          "reviewNote": "Read complete text of subsection 3 including the embedded ballot table and continuation paragraph and history note. Sets out the community health center ballot question and voting instructions, makes an approved tax effective the immediately following tax year, and bars effectiveness upon rejection unless resubmitted and approved; revised title to include resubmission from the continuation paragraph."
+        },
+        {
+          "number": 4,
+          "title": "Levy and collection with city property taxes",
+          "bodySha256": "fc3f29b51c0dd85397cb135f26a7de6e092ab717a69e35b8a1fe579b6521ae80",
+          "reviewNote": "Read complete text of subsection 4 and history note. Provides for levying and collecting the tax in the same manner as other city real property taxes."
+        },
+        {
+          "number": 5,
+          "title": "City-initiated election to repeal property tax",
+          "bodySha256": "cd78988edcfba1d872121078fb96b2f49f50135cc54d7a30652a19eb368f450f",
+          "reviewNote": "Read complete text of subsection 5 and history note. Distinguished from subsection 6 by permitting the city governing body to submit repeal on any available election date, effective the first day of the next tax year if approved."
+        },
+        {
+          "number": 6,
+          "title": "Voter-petition election to repeal property tax",
+          "bodySha256": "de42c3d416a7c10586524b054e21d146a05eef57caf977e9bc600713e6a3397d",
+          "reviewNote": "Read complete text of subsection 6 and history note. Distinguished from subsection 5 by requiring repeal submission upon a petition of registered city voters equal to at least two percent of city voters in the last gubernatorial election."
+        },
+        {
+          "number": 7,
+          "title": "Continued designated use of funds after repeal",
+          "bodySha256": "9b0685e1a1a046b758dbec096435b3ee3248c9cc76f8e0a31e47f5943b73a3a0",
+          "reviewNote": "Read complete text of subsection 7 and history note. Requires all funds collected under the tax to continue being used solely for the designated purposes if the tax is repealed or terminated."
+        }
+      ]
+    },
+    {
+      "id": "205.765:10857",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.765&bid=10857",
+      "sourceSha256": "074a8c9c793b4ae3cba792425d1a94df1884b69c24506ebe0946251748d8a77f",
+      "textSha256": "fe56614e0f2cd8101d787685cc347843016e39078a028c4a1c87be6b7931f3b6",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.765:10857 (both subsections) and history note (L. 1951 p. 786 § 1, A.L. 1973 H.B. 642); verified all source and subsection fingerprints. Checked first-class county resolution authority in subsection 1 and the subsection 2 prohibition for noncharter first-class counties with a county health center established under sections 205.010 to 205.150. Revised subsection 1 title to \"First-class county health and welfare department authority\" to preserve county-class scope; retained subsection 2.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "First-class county health and welfare department authority",
+          "bodySha256": "d96a5432258b6bbfb992c424c1b12d96013078eaf79fe8e9e2f4a83c9a1ed9c4",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1951 p. 786 § 1, A.L. 1973 H.B. 642). Permits county commissions of first-class counties to create a department of health and welfare by resolution; revised title to preserve first-class county applicability."
+        },
+        {
+          "number": 2,
+          "title": "Exception for noncharter counties with health centers",
+          "bodySha256": "82d6045dfb7774bd4fba1077535aa995cb2a2cdb2fa9f17994e0a91d88e56692",
+          "reviewNote": "Read complete text of subsection 2 and history note. Prohibits creating such a department in noncharter first-class counties where a county health center has been established under sections 205.010 to 205.150, regardless of when first-class status was attained."
+        }
+      ]
+    },
+    {
+      "id": "205.766:10858",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.766&bid=10858",
+      "sourceSha256": "4131994d239ae70263605cec0ad1eb01395947a37531755c6cce58a6bf029277",
+      "textSha256": "cf152e013e9bbdd84e866a14530e0e79ed8fe8b6a5836a8f11dba36c8dbf11c3",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.766:10858 (all four subsections) and history note (L. 1951 p. 786 § 2); verified all source and subsection fingerprints. Checked county commissioners' ex officio institution control (excluding county jail and juvenile court detention), sheriff-approved supervision of convicted state prisoner rehabilitation in county jail, investigational case work (excluding juvenile adoption/probation/detention), and poor relief/juvenile boarding home care. Revised subsection 2 title to \"Supervising state prisoner rehabilitation with sheriff approval\" to reflect the sheriff-approval condition; retained subsections 1, 3, and 4.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Commissioners' service and control over county institutions",
+          "bodySha256": "7edad47e80b5db98fb5f3977ef12907e6b8e422ffb1e4033ff4be4f45de2bc1c",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1951 p. 786 § 2). Designates county commissioners as commissioners of health and welfare with control of county hospitals, clinics, health centers, and listed welfare/corrective institutions, excluding the county jail and juvenile court detention place."
+        },
+        {
+          "number": 2,
+          "title": "Supervising state prisoner rehabilitation with sheriff approval",
+          "bodySha256": "5a35cc1838bd43c307a47be51af6efaf7f91546bc6b690e8a1f69eb84a498a4f",
+          "reviewNote": "Read complete text of subsection 2 and history note. Assigns supervision of rehabilitating convicted and sentenced state prisoners in the county jail, expressly subject to county sheriff approval; revised title to preserve both supervisory scope and the sheriff-approval condition."
+        },
+        {
+          "number": 3,
+          "title": "Investigational case work for county fund expenditures",
+          "bodySha256": "2b932c50679e03d5b0c2e2ff0a5df64f196d657a68c088c9f2a396a5f65add04",
+          "reviewNote": "Read complete text of subsection 3 and history note. Assigns investigational case work in all cases involving county fund distribution and expenditure, excepting juvenile adoption, probation, and detention."
+        },
+        {
+          "number": 4,
+          "title": "Poor relief, juvenile boarding care, and other duties",
+          "bodySha256": "975f81f56ac758566868c974bbaec6cacd1a9a565bbda1b7d86b80782aa4477b",
+          "reviewNote": "Read complete text of subsection 4 and history note. Assigns administration of county poor-support laws, charge of boarding home care for juveniles under juvenile court jurisdiction, and other statutory duties."
+        }
+      ]
+    },
+    {
+      "id": "205.769:10860",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.769&bid=10860",
+      "sourceSha256": "9a3ec70c3c6d7f52bd4fa4086877df07cea7178f7b6b2dc4c8036aaa6359af19",
+      "textSha256": "354c1df48c358298a77be8725499435dfba3bf834c0f0f0904f364951e90c5c5",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.769:10860 (all six subsections) and history note (L. 1986 H.B. 1196 § 1); verified all source and subsection fingerprints. Checked St. Charles County bracket, chapter 197/198 exclusions, annual DHSS-standard inspections, 10-day deficiency cure/suspension/class B misdemeanor penalty, preconstruction plan exemption for existing businesses, all five fee-exempt organization categories (religious, educational, nonprofit, fraternal, civic), and post-August 13, 1986 county/state exclusivity with municipal exception. Revised subsection 5 title to \"Inspection fee exemptions for specified organizations\" to avoid selectively omitting listed groups; retained subsections 1–4 and 6.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Inspection, licensing, fee authority, and facility exceptions",
+          "bodySha256": "46ee1aa9ec2208eaeeedb70217a93925b033da006110691be8e56f94cf3ac048",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1986 H.B. 1196 § 1). Authorizes specified noncharter first-class counties (St. Charles County in catchline) to conduct public food-establishment health inspections, issue licenses, and charge cost-capped fees, excluding chapter 197 hospitals and chapter 198 nursing homes."
+        },
+        {
+          "number": 2,
+          "title": "Inspection frequency, state standards, and inspector qualifications",
+          "bodySha256": "9deb6a3b3697b675d02ae1ea5830ede3c897805d1ea9a7dfd6b9a95dc97537a3",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires at least annual cost-efficient inspections following department of health and senior services procedures, performed by qualified county employees or contracted on a fee basis meeting state qualifications."
+        },
+        {
+          "number": 3,
+          "title": "Licensing prerequisite, deficiency cure, suspension, and penalty",
+          "bodySha256": "dccf0eca2da501414292148d29ab082865ad773b3daed194e0b493227caabaf8",
+          "reviewNote": "Read complete text of subsection 3 and history note. Requires passing inspection for licensing, gives ten days to cure failed inspections before license and operation suspension, continues suspension until cured, and makes operating without a license a class B misdemeanor."
+        },
+        {
+          "number": 4,
+          "title": "Preconstruction plan submission for new establishments",
+          "bodySha256": "ee78d04d12be3748d4110e761548456d86d00923a5ebdfa5f6a7263d102c3116",
+          "reviewNote": "Read complete text of subsection 4 and history note. Requires new establishments to submit operational plans to the county health department before construction and licensing, while exempting establishments already doing business in the county."
+        },
+        {
+          "number": 5,
+          "title": "Inspection fee exemptions for specified organizations",
+          "bodySha256": "5a25223e7221f3465f2d12cbc2d96478e419bf67f5f3e7e0c1811096507f0dd1",
+          "reviewNote": "Read complete text of subsection 5 and history note. Exempts religious, educational, nonprofit, fraternal, and civic organizations from subsection 1 inspection fees without exempting them from inspection; revised title to avoid selectively omitting educational and fraternal organizations."
+        },
+        {
+          "number": 6,
+          "title": "County and state inspection exclusivity and municipal exception",
+          "bodySha256": "215f593cbfbfcb80d9539c6e96f31626ce067cec804e3c319bb068cf4279e0cb",
+          "reviewNote": "Read complete text of subsection 6 and history note. Limits food-establishment inspections from and after August 13, 1986 to the county and state, allowing municipal inspections only in counties without countywide health inspection."
+        }
+      ]
+    },
+    {
+      "id": "205.770:10861",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.770&bid=10861",
+      "sourceSha256": "a553e54da33fb85dad6ead23cc1b6446f7465a194ac40c93b5ce02820597ea98",
+      "textSha256": "9edefe8cc963763c7c7dfac502d5121e820b549e5dfd6d848b75278bf1ba81c2",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.770:10861 (all five subsections) and history/prior-revision notes (RSMo 1939 § 9578 through A.L. 1989 H.B. 452); verified all source and subsection fingerprints. Checked second-class county creation and statutory title, exclusive welfare powers excepting both the mentally ill and contagious/infectious/transmissible diseases, donations/funds/legal capacity, bylaws/rules, and retention after changing to first- or third-class status. Revised subsection 2 title to \"Exclusive welfare powers and mental illness or disease exclusions\" to cover both exclusions explicitly; retained subsections 1, 3, 4, and 5.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Creation and title of county social welfare board",
+          "bodySha256": "07ed14bb314edb1f0936749998d92f80b9901108b306adab350bd113d72f1c44",
+          "reviewNote": "Read complete text of subsection 1 and history/prior-revision notes (RSMo 1939 § 9578, A.L. 1945 p. 1754, A.L. 1989 H.B. 452). Permits second-class county commissions to establish a county social welfare board by order and specifies its statutory title."
+        },
+        {
+          "number": 2,
+          "title": "Exclusive welfare powers and mental illness or disease exclusions",
+          "bodySha256": "9ca7a30429696037715975fc5bcb0aaa39da4723e009c0d8e2917580247e7437",
+          "reviewNote": "Read complete text of subsection 2 and notes. Vests exclusive authority over dependency betterment, indigent relief, and care of sick dependents in the board, excepting both the mentally ill and persons with contagious, infectious, or transmissible diseases; revised title to cover both exclusions explicitly."
+        },
+        {
+          "number": 3,
+          "title": "Donations, public funds, charitable powers, and legal capacity",
+          "bodySha256": "6ff374f757756479df71178657e602d5d58d11f552468c54b057dbefe8bb0c16",
+          "reviewNote": "Read complete text of subsection 3 and notes. Covers receiving donations, exclusive control of county and city funds for the temporarily dependent, social/sanitary and self-dependence initiatives, suing and being sued, acquiring/disposing of property for charity, and using a common seal."
+        },
+        {
+          "number": 4,
+          "title": "Board bylaws, employee rules, and fund-distribution rules",
+          "bodySha256": "92b9f6f943a8fae90c6d0331b69bf7fc885c7217d38c51c0c0fdea5e5fbe74bd",
+          "reviewNote": "Read complete text of subsection 4 and notes. Authorizes board bylaws, rules governing agents and employees, and regulations for distributing funds under board control."
+        },
+        {
+          "number": 5,
+          "title": "Retaining board after county classification change",
+          "bodySha256": "ab0a11823c5d025a4ec59703ad11c9459e4e22a6ea15e0a808e4c2462125dd96",
+          "reviewNote": "Read complete text of subsection 5 and notes. Permits a second-class county that becomes a first- or third-class county to retain its social welfare board and continue functioning under sections 205.770 to 205.840."
+        }
+      ]
+    },
+    {
+      "id": "205.790:10863",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.790&bid=10863",
+      "sourceSha256": "1f636b121730cae2cf1e7365c747d8f2f0d22213949e898d5a5605229988f5aa",
+      "textSha256": "d5c924543c1a672f76e49bffded5678cb4513c967242e60d4755e09568d59185",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.790:10863 (all four subsections) and history/prior-revision notes (RSMo 1939 § 9580); verified all source and subsection fingerprints. Checked nonpartisan/nonsectarian unpaid character, ex officio mayor and presiding commissioner plus six staggered appointed members, three-year successor terms dating from June 1, and vacancy/removal procedures for city and county appointees; retained all four drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Nonpartisan, nonsectarian character and unpaid service",
+          "bodySha256": "4409ad21cdf60db79f713cd7523f1ca4269730c424278f4ba1d6571ccafc68de",
+          "reviewNote": "Read complete text of subsection 1 and history/prior-revision notes (RSMo 1939 § 9580). Requires the social welfare board to be nonpartisan and nonsectarian and prohibits compensation for members and officers."
+        },
+        {
+          "number": 2,
+          "title": "Board composition, appointments, and initial staggered terms",
+          "bodySha256": "856f61a4666ee7df5447df9fe770c6cce6e80c5230b06f3cd8060178126c7ead",
+          "reviewNote": "Read complete text of subsection 2 and notes. Designates the mayor and presiding county commissioner as ex officio members alongside six appointed members (three by the county commission, three by the mayor and common council) serving staggered one-, two-, and three-year terms."
+        },
+        {
+          "number": 3,
+          "title": "Three-year successor terms and June 1 start date",
+          "bodySha256": "1a3c314a8d8df5de1f2fcdf73efe6f1b134e39101aed6b0b8cd798fe14c98780",
+          "reviewNote": "Read complete text of subsection 3 and notes. Sets successor terms at three years and specifies that appointments date from the first of June following appointment."
+        },
+        {
+          "number": 4,
+          "title": "Filling vacancies and removal for misconduct or neglect",
+          "bodySha256": "624aa4fd25663db08ac871a23d12b0afc6f83236a776281c175a47de1da4495e",
+          "reviewNote": "Read complete text of subsection 4 and notes. Directs filling vacancies as original appointments and authorizes removal for misconduct or neglect of duty by the mayor (for city appointees) or county commission majority vote (for county appointees)."
+        }
+      ]
+    },
+    {
+      "id": "205.830:10867",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.830&bid=10867",
+      "sourceSha256": "067fa18fd22344c0a22c935b4cb8fa69c10a69b7e0ca1f382ba57781e562607d",
+      "textSha256": "eac69e618506bfc8d3ad9eac9209ee5d6f975a1f9d793f774c708ac0aca52a7b",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.830:10867 (all three subsections) and history/prior-revision notes (RSMo 1939 § 9584); verified all source and subsection fingerprints. Checked relief inquiries, archived able-bodied male/female work-for-aid provisions and dependency investigations, charitable agency coordination and confidential registration bureau, and imposter prosecutions/family self-dependence/hardship reforms; retained all three drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Relief inquiries, work requirements, and dependency investigations",
+          "bodySha256": "66941c313ab2a6fe9dc84795ba321af385f53f718dd6f45d6cb435fa5fabdb85",
+          "reviewNote": "Read complete text of subsection 1 and history/prior-revision notes (RSMo 1939 § 9584). Covers immediate applicant inquiries, temporary relief, archived able-bodied male/female work-for-aid provisions involving city engineering/street departments, and dependency investigations/reports for charitable organizations."
+        },
+        {
+          "number": 2,
+          "title": "Charitable agency coordination and confidential registration bureau",
+          "bodySha256": "a958e1d4b16a6d2c4009ddf8acd8f1f334dc6c109a1a4075ed94fe654034a768",
+          "reviewNote": "Read complete text of subsection 2 and notes. Directs the board office to coordinate city charitable agencies, prevent overlapping relief, and maintain a confidential registration bureau."
+        },
+        {
+          "number": 3,
+          "title": "Prosecuting imposters, family self-dependence, and hardship reforms",
+          "bodySha256": "5baa31957d918e26b996935cbb18192e34df2451dbe62fae1f7478d4327cf8e3",
+          "reviewNote": "Read complete text of subsection 3 and notes. Covers prosecuting imposters when mendicancy cannot otherwise be repressed, planning family self-dependence, and addressing social hardship causes including unsanitary housing, child labor, and listed lending practices."
+        }
+      ]
+    },
+    {
+      "id": "205.962:10882",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.962&bid=10882",
+      "sourceSha256": "911198eaac54176299ebceb1a63da83d2534406ade58af7974dcb1d25a0f8b11",
+      "textSha256": "2e473ee1c35e8bfddda4ddd0cedd281351ff97f5e9ce932a132557872603e85c",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.962:10882 (both subsections) and history note (L. 1969 S.B. 23 § 205.970 through A.L. 2014 H.B. 1299 Revision); verified all source and subsection fingerprints. Checked mandatory family support division agreements, federal/division rules, and 15% county cost cap for commodity distribution in subsection 1, and banking/county agreements and state treasury special account deposits for food stamp distribution in subsection 2; retained both drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "County commodity distribution agreements and cost sharing",
+          "bodySha256": "891937d03a2f4481f0a1b15d771320597befa842e82648d65d57fd0ff77baa6f",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1969 S.B. 23 § 205.970 through A.L. 2014 H.B. 1299 Revision). Requires a written family support division agreement for county participation in federally donated agricultural commodity distribution, requires federal/division regulatory terms, allocates expenses, and caps a contracting county's share at fifteen percent of county distribution costs."
+        },
+        {
+          "number": 2,
+          "title": "Food stamp distribution agreements and deposited contributions",
+          "bodySha256": "8c4e55ce5e858f493db451f07566536ba4262231272b003100087de2d114fa98",
+          "reviewNote": "Read complete text of subsection 2 and history note. Authorizes division agreements with banking corporations and counties for federal food stamp distribution programs, accepting moneys, services, or quarters, and depositing funds in a state treasury special account for the division."
+        }
+      ]
+    },
+    {
+      "id": "205.965:10885",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.965&bid=10885",
+      "sourceSha256": "0b11952b04ec478f6061f023267391222d0b5cd0e6cc3a86364ef154aca851ff",
+      "textSha256": "da020c335c4405b065fcb40fb5891eb09b064ec02fe155b7791ef1b1d78acdec",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.965:10885 (all three subsections) and notes (L. 1969 S.B. 23 § 205.985 through A.L. 2014 H.B. 1299 Revision merged with S.B. 491; effective 1-01-17); verified all source and subsection fingerprints. Checked state/federal compliance and division audit/inspection, federally authorized food stamp vendor licensing, cost-linked fees, 20-day injunction hearings, misdemeanor/felony penalties, and chapter-wide section 536.024 rulemaking requirement; retained all three drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Program compliance and division inspection and audit",
+          "bodySha256": "90caa6e5064bbf7022b9d8be1e53b4ff706a3269b687773c0ede68ed5fe174b8",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1969 S.B. 23 § 205.985 through A.L. 2014 H.B. 1299 Revision merged with S.B. 491; effective 1-01-17). Requires participating counties, agencies, outlets, concerns, banks, and persons in commodity or food stamp programs to follow applicable state and federal laws/rules and submit to family support division inspection and audit."
+        },
+        {
+          "number": 2,
+          "title": "Food stamp vendor licensing, fees, injunctions, and penalties",
+          "bodySha256": "c0c6d070ea9f46e9be7b2ace4925d5e86b4f3fa99f1ac7d5cf6fa6fbec575e16",
+          "reviewNote": "Read complete text of subsection 2 and notes. Requires division approval and licensing of food stamp vendors to the extent authorized by federal law, authorizes rulemaking and cost-linked fees, allows injunctive actions heard within twenty days of filing and service, and classifies unlicensed business as a class A misdemeanor or class E felony for a second offense within five years."
+        },
+        {
+          "number": 3,
+          "title": "Chapter rulemaking compliance with section 536.024",
+          "bodySha256": "4b18961d1cd37c4cb7da7772f33bc7d9e7991ad1a46f195dbc1ba8e9684868dd",
+          "reviewNote": "Read complete text of subsection 3 and notes. Conditions effectiveness of any rule or portion of a rule promulgated under the authority of chapter 205 on promulgation pursuant to section 536.024."
+        }
+      ]
+    },
+    {
+      "id": "205.967:10887",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.967&bid=10887",
+      "sourceSha256": "85c66ac638dd57558d874e8b1c6716d5ccd674cbedbddc1270f412719456560f",
+      "textSha256": "e69baeb36642176dafa17fa45cae4c631ae1de648a5eaa8153f4b77ad99e682f",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.967:10887 (all five subsections, including subdivisions (1) and (2) in subsection 1) and notes (L. 1975 S.B. 255 § 1, A.L. 1981 H.B. 901; effective 6-16-81); verified all source and subsection fingerprints. Checked section-specific definitions, stealing liability under section 570.030 covering obtaining, attempting, and aiding/abetting, 10-day reporting of new resources, prima facie evidence rule, and recovery against living recipients, estates, or dissolving corporations. Revised subsection 2 title to \"Fraudulently obtaining or aiding public assistance as stealing\" and expanded subsection 5 reviewNote to note corporate dissolution; retained subsections 1 and 3–5 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions for public assistance fraud provisions",
+          "bodySha256": "0aefef3e29b2c154fdbf094783c0f715871c864c973f500f4cec2b2bc44db3c3",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1) and (2) and notes (L. 1975 S.B. 255 § 1, A.L. 1981 H.B. 901; effective 6-16-81). Defines \"public assistance benefits, programs and services\" (covering chapters 198, 207, 208, 209, and 660 and department of social services programs) and \"person\" (individual or corporation) for this section."
+        },
+        {
+          "number": 2,
+          "title": "Fraudulently obtaining or aiding public assistance as stealing",
+          "bodySha256": "35e914c7a343180a351252f5ebe7c453ccafdce94afa6fb66959f49e2b5a738e",
+          "reviewNote": "Read complete text of subsection 2 and notes. Classifies obtaining, attempting to obtain, or aiding/abetting the obtaining of public assistance through willful falsehood, concealment, failure to report, impersonation, collusion, or other fraud as stealing punishable under section 570.030; revised title to capture attempts and aiding/abetting rather than only receipt."
+        },
+        {
+          "number": 3,
+          "title": "Reporting new income or property and benefit modification",
+          "bodySha256": "88674ea4e44d78a7a2c20d1ed689aacd6a2a706dbd0587349b987532f886af3c",
+          "reviewNote": "Read complete text of subsection 3 and notes. Requires assistance recipients to notify their assigned case worker within ten days of receiving money, property, or income, allowing cancellation or modification after investigation if required."
+        },
+        {
+          "number": 4,
+          "title": "Prima facie evidence of unlawful receipt",
+          "bodySha256": "a9cb883b4d04b8310adb2ba8c656c98e9bb9a15775648336e9e789f515ac0843",
+          "reviewNote": "Read complete text of subsection 4 and notes. Makes proof of possessing disqualifying property or income prima facie evidence of unlawful receipt in recovery proceedings or criminal prosecutions."
+        },
+        {
+          "number": 5,
+          "title": "Recovery from estates or living ineligible recipients",
+          "bodySha256": "690a6b7293ad86c8f7cc28df83f2597b072c628273681ba01782d6afecff5e5a",
+          "reviewNote": "Read complete text of subsection 5 and notes. Authorizes the director of social services to recover total assistance obtained by an ineligible individual (during life or at death) or corporation (during life or at dissolution) possessing excess unreported income or property, as a seventh-class estate claim or in an action against the recipient while living."
+        }
+      ]
+    },
+    {
+      "id": "205.968:10888",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.968&bid=10888",
+      "sourceSha256": "2d66e528a1ee4ae283b9eb7a69222cb5d68d9ecc915fee1db37314a845f98101",
+      "textSha256": "a160fb5050cc211864c3fd5259f9775c02083aa4d7dd0f5917144a0a73654035",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.968:10888 (all three subsections, including subdivisions (1) and (2) and nested clauses in subsection 3) and history note (L. 1969 S.B. 40 § 1 through A.L. 2014 H.B. 1064); verified all source and subsection fingerprints. Checked board powers and section 70.600 political subdivision status, subsection 2's verbatim mental-illness drafting quirk under section 630.005 (\"shall not be eligible ... except that those persons may participate\") without silently reconciling it, age-independent eligibility with a 16-year sheltered-workshop employment minimum, reasonable board limits, and subsection 3's verbatim \"paragraph (a) or (b) of this subsection\" wording. Revised subsection 2 title to \"Service eligibility, age rules, and board service limits\" to avoid implying upper age caps; retained subsections 1 and 3.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board creation, powers, facilities, and political subdivision status",
+          "bodySha256": "143ffc429854965f2d56a2fa72ff2eea7edcd698c4e171739b597d0d9191a0ce",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1969 S.B. 40 § 1 through A.L. 2014 H.B. 1064). Requires establishing a board of directors when a section 205.971 levy is approved, empowers the board to operate section 178.900 sheltered workshops, residences, or related services, grants contracting, property, and borrowing powers (capped at published division of finance market rate), and designates the board a section 70.600 political subdivision for sections 70.600 to 70.755."
+        },
+        {
+          "number": 2,
+          "title": "Service eligibility, age rules, and board service limits",
+          "bodySha256": "36eec072033c371942936e5134acedc681825e7a3d5bb4b27af0fa42e792f37b",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers eligible disability categories (section 178.900, this section, developmental disability), preserves verbatim the archived source sentence stating persons with mental illness under section 630.005 \"shall not be eligible... except that those persons may participate\" without silently reconciling the apparent drafting discrepancy, states age-independent eligibility except a 16-year minimum for sheltered workshop employment, and allows reasonable discretionary board service limitations; revised title to avoid implying upper age limits and to distinguish board-imposed limits."
+        },
+        {
+          "number": 3,
+          "title": "Definitions for sections 205.968 to 205.972",
+          "bodySha256": "1ced23ff34bc038201310283bad895e35bad9343c1d7fd5e0bbe1dfc69bad6d1",
+          "reviewNote": "Read complete text of subsection 3 including subdivisions (1) and (2) and history note. Defines \"developmental disability\" (including section 630.005 cross-reference; retains verbatim \"paragraph (a) or (b) of this subsection\" reference) and \"person with a disability\" for sections 205.968 to 205.972."
+        }
+      ]
+    },
+    {
+      "id": "205.969:10889",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.969&bid=10889",
+      "sourceSha256": "c7ada1b535cd5466aecf7b9c2ae0edc7c56b29285ca15102d783972a3b6f9378",
+      "textSha256": "f11ba86bee819613d618a3290f92f148c313601fa796038410fdf9662e15c93e",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.969:10889 (both subsections) and history note (L. 1969 S.B. 40 § 2 through A.L. 1993 S.B. 366); verified all source and subsection fingerprints. Checked sheltered workshop and section 178.910 work/developmental program authority under DESE rules and standards in subsection 1 and residences/activity or social centers in subsection 2; retained both drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Sheltered workshop and developmental programs under section 178.910",
+          "bodySha256": "f03dc0f149143b3a6ae8a664d53342daf1dc4288ca280f8b9182aecbf6e11dac",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1969 S.B. 40 § 2 through A.L. 1993 S.B. 366). Permits the board to provide a sheltered workshop program and directs conducting section 178.910 work and developmental programs under department of elementary and secondary education rules and standards."
+        },
+        {
+          "number": 2,
+          "title": "Residences and related activity or social centers",
+          "bodySha256": "616e6301214e7e9726cb544096cae58ff844d97b72d0ab756ba3d0e2c694677b",
+          "reviewNote": "Read complete text of subsection 2 and history note. Permits the board to provide residences and related activity or social centers for eligible persons."
+        }
+      ]
+    },
+    {
+      "id": "205.970:10890",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.970&bid=10890",
+      "sourceSha256": "4cf3f26be8f11559730d762be2bfa05aa0bf4cfcf2e3b4d9b0f9b133080cf7d6",
+      "textSha256": "fa49867c02460486a27946f4a5d13e51be3192d2fe97d85a1708b40d317f1b75",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.970:10890 (all eleven subsections, including subdivisions (1)–(3) and embedded hearing procedures in subsection 8) and history note (L. 1969 S.B. 40 § 3 through A.L. 1993 S.B. 366); verified all source and subsection fingerprints. Checked nine-member composition (noting archived \"handicapped person as defined in section 205.968\" phrasing), post-September 28, 1979 staggered/three-year terms, contracting/nonprofit powers, treasurer bond, section 94.645 transportation fund exception, removal grounds/hearing rules, vacancy filling, and 12-month/relative employment bars; retained all eleven drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board appointments, qualifications, terms, and expense reimbursement",
+          "bodySha256": "ffec09c538fb197d7893045f8315fdbaabefd52c128a43ddb44db8760167690c",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1969 S.B. 40 § 3 through A.L. 1993 S.B. 366). Covers appointing a nine-member board after section 205.971 voter approval (two relatives of a \"handicapped person as defined in section 205.968\"—noting 205.968 now uses \"person with a disability\"—four public members, seven residents), archived post-September 28, 1979 staggered and three-year terms, reappointment, unpaid service, and expense reimbursement."
+        },
+        {
+          "number": 2,
+          "title": "Facility management, personnel, quarters, and equipment",
+          "bodySha256": "3db5e5b0ece020a0457c5963b5fa3d88a1467d8e2ad64c23b0bb25a202406872",
+          "reviewNote": "Read complete text of subsection 2 and history note. Places sole administrative control and management in the board and directs employing personnel, fixing pay, and providing quarters and equipment from available funds."
+        },
+        {
+          "number": 3,
+          "title": "Contracting and expending funds for disability services",
+          "bodySha256": "1a0e142fa55d069c006ab82d04fd89ec151728c8b90e7be82374ba60a81ffd15",
+          "reviewNote": "Read complete text of subsection 3 and history note. Authorizes contracting for related services and expending tax or other funds notwithstanding contrary law and whether or not a sheltered workshop or residence facility has been established."
+        },
+        {
+          "number": 4,
+          "title": "Board officers and treasurer surety bond",
+          "bodySha256": "9a120734d678e93f7772a7448a059857e2d067ff78baec47d308763c72baa467",
+          "reviewNote": "Read complete text of subsection 4 and history note. Directs electing chairman, vice chairman, treasurer, and other officers, and requires a Missouri-authorized surety bond for the treasurer paid by the board before taking office."
+        },
+        {
+          "number": 5,
+          "title": "Admission rules and carrying out sections 205.968 to 205.972",
+          "bodySha256": "4c49f398538116f2395b495471df3b13a1f99d4f5655b49a06757f0429545c1c",
+          "reviewNote": "Read complete text of subsection 5 and history note. Directs the board to set facility admission rules and do all other things necessary to carry out sections 205.968 to 205.972."
+        },
+        {
+          "number": 6,
+          "title": "Contracts with nonprofits for common services or property",
+          "bodySha256": "1d86c74585853fce43341228ed97d3ab15ee5d15439635b79e9285b51fd7b9e9",
+          "reviewNote": "Read complete text of subsection 6 and history note. Permits contracting with not-for-profit corporations (including those implementing sections 178.900 to 178.970) for common services or common use of property."
+        },
+        {
+          "number": 7,
+          "title": "Gifts, property sales, and exclusive control of funds",
+          "bodySha256": "ded7dc79288c8efb3e8caed78a032bad860360519ac38a83439cd1602ef7ff85",
+          "reviewNote": "Read complete text of subsection 7 and history note. Authorizes accepting, selling, or exchanging gifts for exclusive facility benefit and grants exclusive board control over gifts, investment/sale proceeds, county tax revenues, and government grants/appropriations/loans, excepting transportation funds under section 94.645."
+        },
+        {
+          "number": 8,
+          "title": "Grounds and hearing procedure for removing board members",
+          "bodySha256": "dd81b0ceb259e26569c4e6a4b15131a3532a525a2c44e88ae01b6aa89da85b12",
+          "reviewNote": "Read complete text of subsection 8 including subdivisions (1) through (3) and history note. Covers removal by majority vote of other board members after notice and hearing for five unexcused absences, prejudicial conduct, or neglect of duty, and accounts for the presiding-officer, sworn-testimony, and party-expense recording rules located inside subdivision (3)."
+        },
+        {
+          "number": 9,
+          "title": "Reporting and filling board vacancies",
+          "bodySha256": "9300805ee88112accaf5beaa3bbd7e225b45459b874b4e68d1ffd86427a9b62f",
+          "reviewNote": "Read complete text of subsection 9 and history note. Directs the chairman to report vacancies to the mayor of a city not within a county or to the county commission/executive to be filled as original appointments, limited to the unexpired portion of an unexpired term."
+        },
+        {
+          "number": 10,
+          "title": "Twelve-month employment bar for former board members",
+          "bodySha256": "138255723d560b7bbd2dbd240657ad941d456de19f27539e2cc344881b378659",
+          "reviewNote": "Read complete text of subsection 10 and history note. Bars individual board members from employment by the board within twelve months after ending board service."
+        },
+        {
+          "number": 11,
+          "title": "Employment bar for board members' relatives",
+          "bodySha256": "e3af088e83861bc88e522acf55ac1f8cfb743fb7c0df1661b2ff5ad92df4bd11",
+          "reviewNote": "Read complete text of subsection 11 and history note. Prohibits board employment of any person related within the third degree by blood or marriage to any board member."
+        }
+      ]
+    },
+    {
+      "id": "205.972:10892",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.972&bid=10892",
+      "sourceSha256": "be5511a1f9505c7236b4d754bcacf0045b3d17e64070274c95dd98cb7aacce73",
+      "textSha256": "242783c0174f20f1c45fb688b79273bc986a9d97b40214c766988aad3610f4ae",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.972:10892 (both subsections, including the embedded official ballot table in subsection 2) and history note (L. 1969 S.B. 40 § 5 through A.L. 1993 S.B. 366); verified all source and subsection fingerprints. Checked forty-cent general levy cap versus twenty-cent cap for specified first-class charter counties and substantially required official ballot wording; retained both drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Maximum tax rates and charter-county limits",
+          "bodySha256": "db7bc0a7316c644f23695000ab2ad39aa982c1603b619f1726ffd42ba0227083",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1969 S.B. 40 § 5 through A.L. 1993 S.B. 366). Caps the tax levy at forty cents per hundred dollars assessed valuation, with a twenty-cent cap for specified first-class charter counties (containing part of a 350,000+ city or having 900,000+ population)."
+        },
+        {
+          "number": 2,
+          "title": "Official ballot form for facility tax",
+          "bodySha256": "082dc8b62e262152a925fb09b0306e085a4c42fc484f7e4a9bb44cef21ea4fae",
+          "reviewNote": "Read complete text of subsection 2 including the embedded ballot table and history note. Prescribes the substantially required ballot wording for establishing, improving, or maintaining sheltered workshops, residence facilities, or related services."
+        }
+      ]
+    },
+    {
+      "id": "205.979:10897",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.979&bid=10897",
+      "sourceSha256": "5b88722de99a4e2bebabbc06c10a231be4717bb74078fa60aa598776e69710d2",
+      "textSha256": "1c28a04cc47b48bca68737f09d58960f94fbcdff909a9c627b34e7134cd9886b",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.979:10897 (all four subsections, including the embedded official ballot table in subsection 3), notes (L. 1969 S.B. 168 § 5 through A.L. 1990 H.B. 1383; effective 1-1-91), and Revisor footnote (*Words \"at a\" do not appear in original rolls); verified all source and subsection fingerprints. Checked board election requests, 60-day two-newspaper notice, section 115.063 status, forty-cent cap, ballot form, and election conduct/canvassing; retained all four drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Election requests, newspaper notice, and section 115.063 status",
+          "bodySha256": "8f2b438ff8efc5c794a994ba5c607def63e1fc6e6650f097765c25bffb9787fd",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1969 S.B. 168 § 5 through A.L. 1990 H.B. 1383; effective 1-1-91), including Revisor footnote (*Words \"at a\" do not appear in original rolls). Covers board requests for submitting the subsection 3 proposition, 60-day legal notice in at least two newspapers, and treatment as a county or independent-city request under section 115.063."
+        },
+        {
+          "number": 2,
+          "title": "Maximum community mental health tax rate",
+          "bodySha256": "e4a8562223071c4377c7811d4ebe3debd11b5cee61ede5eb34bb3feb5e4eb4fe",
+          "reviewNote": "Read complete text of subsection 2 and notes. Caps the community mental health tax levy at forty cents per hundred dollars assessed valuation."
+        },
+        {
+          "number": 3,
+          "title": "Official ballot form for community mental health tax",
+          "bodySha256": "262f6f79bac72c1f7ee295cc97b42f430b6315faf8eff4b099301d1cbfdf330a",
+          "reviewNote": "Read complete text of subsection 3 including the embedded ballot table and notes. Sets out the substantially required official ballot form for establishing a community mental health fund and levying the tax."
+        },
+        {
+          "number": 4,
+          "title": "Election conduct and vote canvassing",
+          "bodySha256": "d3b6c39ba83b1ce9c40434315a27e900f072ef79d0d3bdf7439bc6be298b8242",
+          "reviewNote": "Read complete text of subsection 4 and notes. Directs conducting the election and canvassing votes in the same manner as other county elections."
+        }
+      ]
+    },
+    {
+      "id": "205.980:10898",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.980&bid=10898",
+      "sourceSha256": "0b0043e6411c726ca32ccd5aa03779f11fcb8aaab6cfd3664c98a5739c61075f",
+      "textSha256": "a769b2af2b81efe49bdb0ae7065ddbf8f13e62fa9e507c06633e6ce2b43129c9",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.980:10898 (all three subsections) and notes (L. 1969 S.B. 168 § 6 through A.L. 1990 H.B. 1383; effective 1-1-91); verified all source and subsection fingerprints. Checked voter-approved tax levy up to forty cents for section 205.977 purposes, Community Mental Health Fund deposit and board-approved disbursement, and continuation of an existing approved levy when a resubmitted increase/decrease fails; retained all three drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Tax levy after voter approval and rate limit",
+          "bodySha256": "b4d8a48b98ae6dfe0bde19174af73679b7582d71368d14cf2f6192a7a673d0dd",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1969 S.B. 168 § 6 through A.L. 1990 H.B. 1383; effective 1-1-91). Directs the county governing body, upon majority voter approval, to levy and collect the ballot-specified tax up to forty cents per hundred dollars assessed valuation for section 205.977 purposes."
+        },
+        {
+          "number": 2,
+          "title": "Tax collection and Community Mental Health Fund disbursements",
+          "bodySha256": "96db28cce8df19df1fb5ca488e3d42fec54ff0ad4d2d5b23972276f6137c7825",
+          "reviewNote": "Read complete text of subsection 2 and notes. Provides for collection with other county taxes, deposit into the dedicated \"Community Mental Health Fund\" for section 205.977 purposes only, and expenditure solely upon board of trustees approval."
+        },
+        {
+          "number": 3,
+          "title": "Continuation of existing levy when resubmission fails",
+          "bodySha256": "d48e5c9c90baf3af77dba9abd42427bac3a7406fd5bd670cb7def6a0d5d3e9aa",
+          "reviewNote": "Read complete text of subsection 3 and notes. Keeps a previously voter-approved tax levy in effect if a resubmitted proposal to raise or lower the levy fails to receive a majority vote."
+        }
+      ]
+    },
+    {
+      "id": "205.981:10899",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.981&bid=10899",
+      "sourceSha256": "2c773213c08acf81aa52a483604e092febc9e05d1cdcc11f0b053829ac138a2a",
+      "textSha256": "5f8bf955aa0b2361823eb27b094e151051c4e08e8fb2b8b0311e3cb8b7d0267f",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.981:10899 (all three subsections) and history note (L. 1969 S.B. 168 § 7 through A.L. 1995 S.B. 454); verified all source and subsection fingerprints. Checked board contracting with department-designated public or nonprofit providers, appropriation from community mental health or county general revenue funds capped by sections 205.977 to 205.980 tax capacity, and five-year renewable contract limits; retained all three drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board authority to contract for mental health services",
+          "bodySha256": "72a87b17ee47ed063a5c25454cbc1082fea87824cb1cc8d2abc9d24b7c493746",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1969 S.B. 168 § 7 through A.L. 1995 S.B. 454). Permits the board of trustees to contract with a department-designated community mental health center, clinic, public facility, or not-for-profit corporation for mutually agreeable comprehensive mental health services for county residents."
+        },
+        {
+          "number": 2,
+          "title": "Funding sources and maximum contract appropriations",
+          "bodySha256": "8475c8ac7876019d9f4c25681f1663bb03c6b3a00a5437f8e422d4e3f446bbc2",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs appropriating contract consideration from the community mental health fund or county general revenue fund, capped at the revenue derivable from a tax levy authorized under sections 205.977 to 205.980."
+        },
+        {
+          "number": 3,
+          "title": "Five-year maximum contract term and renewals",
+          "bodySha256": "344b541062ca808efa6854065033fcde650af601a796e49a7e7313e3891e67c4",
+          "reviewNote": "Read complete text of subsection 3 and history note. Limits each service contract to a term not exceeding five years while allowing renewal from time to time."
+        }
+      ]
+    },
+    {
+      "id": "205.982:10900",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.982&bid=10900",
+      "sourceSha256": "85e3fc4e1b7cbf36b307d33cd32385ba76229fd786ec94685337094fcbfd5df4",
+      "textSha256": "48fdd274440ab77d36d5fc39caf06cf9840bb768b29fbc05e778b36859e70001",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.982:10900 (all three subsections, including subdivisions (1)–(4) in subsection 1) and notes (L. 1969 S.B. 168 § 8 through A.L. 1990 H.B. 1383; effective 1-1-91); verified all source and subsection fingerprints. Checked multicounty contractual purposes, pre-budget proportionate cost estimates (without inventing an \"annual\" requirement absent from the text), and withdrawal resolution/asset-debt division plan with two-year waiting period subject to funded-entity consent or unanimous participating-county vote. Revised subsection 2 to \"Proportionate cost estimates for participating counties\" and subsection 3 to \"County withdrawal plan, consent, and two-year wait\"; retained subsection 1.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorized purposes of multicounty contractual agreements",
+          "bodySha256": "1430b8b9289a4b04646eaf23aa5a26fd7cbf8542367b0e330a8793a28cc4e700",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1) through (4) and notes (L. 1969 S.B. 168 § 8 through A.L. 1990 H.B. 1383; effective 1-1-91). Permits county governing bodies in a service area to contract with each other to jointly fund, supplement, purchase, or have one county operate comprehensive mental health services and facilities."
+        },
+        {
+          "number": 2,
+          "title": "Proportionate cost estimates for participating counties",
+          "bodySha256": "558b5f11d593d20db97d2abff8ad62fc2b3606cfc530e12dd35b964ac20825a2",
+          "reviewNote": "Read complete text of subsection 2 and notes. Obligates governing boards of entities receiving joint-agreement funds to submit proportionate cost estimates to each participating county prior to its budget submission date; revised title to omit \"Annual\" which does not appear in the statutory text."
+        },
+        {
+          "number": 3,
+          "title": "County withdrawal plan, consent, and two-year wait",
+          "bodySha256": "c09c7c4b68ac73517ae8e73075775f5db7571a83727fdc235eaed4d5f0334aaa",
+          "reviewNote": "Read complete text of subsection 3 and notes. Covers submitting a withdrawal resolution with an equitable asset/debt adjustment plan, barring withdrawal earlier than two years without consent of funded entities unless all participating counties vote to allow earlier withdrawal; revised title to reflect the division plan and consent/unanimous-vote exceptions."
+        }
+      ]
+    },
+    {
+      "id": "205.983:10901",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.983&bid=10901",
+      "sourceSha256": "865117c05677afe9e697a52de45a6b60de905ac2e00d9213230c129e78a0b6c0",
+      "textSha256": "e1f10bd7f110b4bc9e93651fef0026505dee48d9a92ada0708e201537e8a6621",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.983:10901 (all three subsections) and history note (L. 1969 S.B. 168 § 9, A.L. 1978 S.B. 652); verified all source and subsection fingerprints. Checked single-county financing procedures under sections 205.977 to 205.981 for section 205.982 joint shares, joint Community Mental Health Fund deposit and board-approved disbursement, and two-surety treasurer bond filed with each participating county; retained all three drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Financing county shares of joint agreements",
+          "bodySha256": "e779318c2ed9a62f5f07dbce82955265ef81fa09ce3ae8e7e163e3c434cd913b",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1969 S.B. 168 § 9, A.L. 1978 S.B. 652). Permits any participating county to finance its share of section 205.982 joint agreements using the same single-county financing procedures under sections 205.977 to 205.981."
+        },
+        {
+          "number": 2,
+          "title": "Joint Community Mental Health Fund deposit and disbursement",
+          "bodySha256": "2d5744192fba103209339bb72444fb8e0ca8e9c809bfe817eaa5170d79d99f0f",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs depositing moneys received from participating counties into a special \"Community Mental Health Fund\" and disbursing them with board approval under the joint agreements."
+        },
+        {
+          "number": 3,
+          "title": "Treasurer bond requirements for participating counties",
+          "bodySha256": "32dddfb396a8f25a3944bd070f97103b2eb4f271286630922371c3cd821d4f6b",
+          "reviewNote": "Read complete text of subsection 3 and history note. Requires the board treasurer, before receiving county funds, to execute a board-approved bond with two or more sureties to each participating county and file it with each county."
+        }
+      ]
+    },
+    {
+      "id": "205.984:10902",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.984&bid=10902",
+      "sourceSha256": "9958e7cab9c50102e8d2c9a41666682d0abac9f51c8024e974ffef764373633c",
+      "textSha256": "1a9563abe10ec45274d2eb00e4b3221301672f79a806856536240b42e168523f",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.984:10902 (all four subsections, including subdivisions (1) and (2) in subsection 4) and notes (L. 1969 S.B. 168 § 10 through A.L. 1990 H.B. 1383; effective 1-1-91); verified all source and subsection fingerprints. Checked nine-member minimum, section 632.040 nominations, archived one-year post-January 1, 1991 appointment timeline, one-third provider/consumer ratios, funded-entity employee bar, demographic representation, licensed physician and at-least-one-half nonprovider requirement, multicounty apportionment, and staggered three-year terms. Revised subsection 2 title to \"Demographic representation, physician, and nonprovider minimum\" because at least one-half is not a majority on even-numbered boards; retained subsections 1, 3, and 4.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board size, nominations, composition limits, and employee bar",
+          "bodySha256": "8fd416ed17caae5bcfc22db7a9792fb393e296a125db532f5b5f3c3f7d120086",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1969 S.B. 168 § 10 through A.L. 1990 H.B. 1383; effective 1-1-91). Covers minimum nine-member board, nominations by the section 632.040 regional advisory council or interested parties, archived appointment deadline within one year of January 1, 1991, one-third provider cap, one-third consumer/family minimum, and prohibition on employees of entities funded under sections 205.975 to 205.990."
+        },
+        {
+          "number": 2,
+          "title": "Demographic representation, physician, and nonprovider minimum",
+          "bodySha256": "55e7ee2fa51ddd9ae338f37ff34077e774ba0b9b19d1e7dd60965969f6023a28",
+          "reviewNote": "Read complete text of subsection 2 and notes. Requires board composition to reflect service-area resident demographics, include at least one licensed physician, and have at least one-half non-health-care providers; revised title to replace \"majority\" with \"minimum\" because one-half is not a majority on even-numbered boards."
+        },
+        {
+          "number": 3,
+          "title": "County representation in multicounty service areas",
+          "bodySha256": "fce61ceab124e5246cf2d9fca289e539cb46b9b3611940b9ea5fe52eb977989c",
+          "reviewNote": "Read complete text of subsection 3 and notes. Guarantees at least one board representative for each participating county in a multicounty service area, with remaining members apportioned by county population."
+        },
+        {
+          "number": 4,
+          "title": "Three-year terms and initial staggered terms",
+          "bodySha256": "d1386b2535713d474f89df81ef5746a80c7fcfcfa0c8549fd2c9bce5c7aaf0fc",
+          "reviewNote": "Read complete text of subsection 4 including subdivisions (1) and (2) and notes. Establishes three-year terms and sets staggered one-, two-, and three-year initial appointment schedules for multicounty and single-county service areas."
+        }
+      ]
+    },
+    {
+      "id": "205.985:10903",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.985&bid=10903",
+      "sourceSha256": "0b3c81f65445c7e23c8dccc3ab83ae32adff7862514bd6a4f4bb2c84040e2ed4",
+      "textSha256": "b3ab2ef88a19e52f9f10583213ca5235cf5703766b6159025d96b136cccb1db1",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.985:10903 (both subsections) and notes (L. 1969 S.B. 168 § 11 through A.L. 1990 H.B. 1383; effective 1-1-91); verified all source and subsection fingerprints. Checked preserved validity and optional reconstitution of pre-existing designated providers/governing boards and permitted board contracting with existing public or nonprofit providers under sections 205.975 to 205.990; retained both drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Validity and possible reconstitution of existing providers",
+          "bodySha256": "e130780b8d2d2c36379d6eecb79699a91406b394bff8b1024508cca318100980",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1969 S.B. 168 § 11 through A.L. 1990 H.B. 1383; effective 1-1-91). Preserves the validity of pre-existing department-designated community mental health centers, providers, and their governing boards without precluding reconstitution to include all or part of the board of trustees."
+        },
+        {
+          "number": 2,
+          "title": "Permitted contracts with existing public or nonprofit providers",
+          "bodySha256": "c3ce99ff609ff2d058500c8ebb2d666381c36e2f2fd3e4f72846c0bb0f54068b",
+          "reviewNote": "Read complete text of subsection 2 and notes. Clarifies that nothing in sections 205.975 to 205.990 precludes a county or multicounty service-area board from contracting with an existing public facility or not-for-profit organization for comprehensive mental health services."
+        }
+      ]
+    },
+    {
+      "id": "205.987:10905",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.987&bid=10905",
+      "sourceSha256": "eeea58334ae9094bae6274075fdf726bf56137ecda4f5aa5b02edfbcf24059e4",
+      "textSha256": "5d8b1b5d71014b412dc276ca630a652ed30fa3e999f52f2e52c4a4a47fd60eec",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.987:10905 (both subsections) and history note (L. 1969 S.B. 168 § 13, A.L. 1978 S.B. 652); verified all source and subsection fingerprints. Checked distinct applicability of department-promulgated construction/staffing/operation/service standards and annual review/inspection for local sections 205.975 to 205.990 fund disbursement (subsection 1) versus federal community mental health grant applicants (subsection 2); retained both drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Department standards and annual review for local-funded entities",
+          "bodySha256": "f87a753dff242f646001143a938db51f79fc8c65dcf748d561699bd4d70ee19a",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1969 S.B. 168 § 13, A.L. 1978 S.B. 652). Distinguished from subsection 2 by directing the department (in consultation with the state advisory council and existing providers) to set construction, staffing, operation, and service standards required before disbursing sections 205.975 to 205.990 funds, with annual department review or inspection."
+        },
+        {
+          "number": 2,
+          "title": "Department standards and annual review for federal-grant applicants",
+          "bodySha256": "ef90c6d8afad19cd67cb22aca3c53094523b777cec5d9bdb4edc938bfd0f7523",
+          "reviewNote": "Read complete text of subsection 2 and history note. Distinguished from subsection 1 by requiring entities applying for federal community mental health grants to meet department-promulgated construction, staffing, operation, and maintenance standards and undergo annual department review and inspection."
+        }
+      ]
+    },
+    {
+      "id": "205.989:10907",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.989&bid=10907",
+      "sourceSha256": "eb899c4826ebdd1c8da3c9200672e7baea181c70542df03a4ae841b03752f445",
+      "textSha256": "ec7551afff2fcd9a956f9c503770b118d2141ace7e07538b2194a8deef040343",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.989:10907 (both subsections) and history note (L. 1978 S.B. 652); verified all source and subsection fingerprints. Checked prohibition on denying county-established or county-funded sections 205.975 to 205.990 mental health services for inability to pay in subsection 1 and ability-to-pay charges tied to actual inpatient/outpatient/examination/other service costs in subsection 2; retained both drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition on denying services for inability to pay",
+          "bodySha256": "54722697139479b0772830f4e75b1736c9e720a2262133c165355747f82a0464",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1978 S.B. 652). Prohibits denying services due to inability to pay at any center, clinic, public facility, or nonprofit where counties have established services or provided funds under sections 205.975 to 205.990."
+        },
+        {
+          "number": 2,
+          "title": "Ability-to-pay charges tied to actual service costs",
+          "bodySha256": "cd6869a9c264254e25ed7d6d11321e6eb66d9c5cdaceef1a3eff0155e65446e8",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs charging recipients of comprehensive mental health services funded in whole or part under sections 205.975 to 205.990 based on ability to pay and related to actual inpatient, outpatient, examination, or other service costs."
+        }
+      ]
+    },
+    {
+      "id": "205.990:10908",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=205.990&bid=10908",
+      "sourceSha256": "3b9875d3d0b3e1abbdf72a6c585de3c60a1c92c87ad44b93e7d1e63a3e2b85e1",
+      "textSha256": "54afe2a6533f1499f6fc01207bcfbbcd0addba1cd68ee4033bfddd9510945a82",
+      "draftedBy": "antigravity_drafter_d4",
+      "reviewedBy": "antigravity_reviewer_r11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 205.990:10908 (all three subsections, including subdivisions (1) and (2) in subsection 3) and notes (L. 1978 S.B. 652, A.L. 1990 H.B. 1383; effective 1-1-91); verified all source and subsection fingerprints. Checked charging nonparticipating service-area counties for residents unable to pay, proportionate actual-cost calculation matching participating counties' expense share, and primary-residence rules for services with versus without nighttime sleeping accommodations. Revised subsection 1 title to \"Charging nonparticipating counties for residents unable to pay\" to follow the statute's own phrasing; retained subsections 2 and 3.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Charging nonparticipating counties for residents unable to pay",
+          "bodySha256": "04ed941683bdce0c7dbc8c493c41532a36f792852b852cc2c0f2df8d57ee3fb8",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1978 S.B. 652, A.L. 1990 H.B. 1383; effective 1-1-91). Requires a center or clinic supported by some but not all counties in a service area to charge nonparticipating counties for services rendered to their residents not able to pay; revised title to follow the statutory \"unable to pay\" phrasing rather than introducing \"indigent\"."
+        },
+        {
+          "number": 2,
+          "title": "Proportionate cost calculation for nonparticipating counties",
+          "bodySha256": "eec1ae2afbe7ce39e24b5708a5c24c980f548212c012cfc6c91ecbb721c95f4e",
+          "reviewNote": "Read complete text of subsection 2 and notes. Ties nonparticipating-county charges to the same proportion of actual inpatient, outpatient, examination, or other service costs as the proportion of actual service expenses borne by participating counties."
+        },
+        {
+          "number": 3,
+          "title": "Determining county of residence for service recipients",
+          "bodySha256": "c11e34c5fbbe15cd60ea2b96772da58fd5d920435b830a7a64f474f7e96e4298",
+          "reviewNote": "Read complete text of subsection 3 including subdivisions (1) and (2) and notes. Defines county of residence for this section as primary residence at entry for services with nighttime sleeping accommodations, and primary residence for services without nighttime sleeping accommodations."
+        }
+      ]
+    }
+  ]
+}

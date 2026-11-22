@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "206.010:10909",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=206.010&bid=10909",
+      "sourceSha256": "a53be536b2a3ce25aa4c366c712cd5d14f0b37fae47863c9a74ae0205d9e4986",
+      "textSha256": "7f97200745ddcc2a21d44a0b155618bac584d179c0cb548be617673476063cc5",
+      "draftedBy": "antigravity_drafter_d3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Creation, territory, population exclusion, and non-overlap",
+          "bodySha256": "0dc96c180d56b1673b01f538fe5a496c6bdf4aa1123ca426fff3d4abe934b394",
+          "reviewNote": "Read complete text of subsection 1, history note (L. 1961 p. 524 § 2), and 1985 sovereign immunity annotation. Covers permissive creation, incorporation, and management of hospital districts, permissible municipal/unincorporated/multicounty territory, exclusion of counties over 400,000 inhabitants, and bar on incorporating territory within an existing hospital district."
+        },
+        {
+          "number": 2,
+          "title": "Corporate status, name, and general powers",
+          "bodySha256": "6e05014def3c2213b3566073a402a065f515ecd06d1b16e82f125b7928a4aa99",
+          "reviewNote": "Read complete text of subsection 2, history note, and 1985 annotation (State ex rel. New Liberty Hospital District v. Pratt, 687 S.W.2d 184, holding 'may sue and be sued' does not waive sovereign immunity for negligence actions). Covers corporate and political-subdivision status, naming, capacity to sue and be sued, taxing within chapter and constitutional limits, and bond issuance."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r10",
+      "reviewSummary": "Independently read complete archived version 206.010:10909, both subsections, 1961 history note, and 1985 sovereign-immunity annotation (State ex rel. New Liberty Hospital District v. Pratt, 687 S.W.2d 184, holding 'may sue and be sued' does not waive sovereign immunity for negligence); verified all fingerprints. Checked permissive creation, over-400,000 county exclusion, non-overlap bar, and corporate/tax/bond powers without implying immunity waiver. Retained both titles as accurate."
+    },
+    {
+      "id": "206.030:10911",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=206.030&bid=10911",
+      "sourceSha256": "28f6d0e5491acbc352679de7b460fb20c879e02f40d3eeba9925440d75c07637",
+      "textSha256": "6bd3a257b56dcf385c764a21824ba0b158d203cc88e90fc64fbf1657f9fff045",
+      "draftedBy": "antigravity_drafter_d3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Presenting petition and setting hearing date",
+          "bodySha256": "9bb14c66f3dcb8c3b0dbcb6e253649398d705e3ad5542e928e1fb60a54f15334",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1961 p. 524 § 4). Covers county clerk presenting the filed petition to county commission commissioners and setting a hearing 30 to 40 days after filing."
+        },
+        {
+          "number": 2,
+          "title": "Publication, posting, and contents of hearing notice",
+          "bodySha256": "d35a465c17fa3dec9f0903e6969eb96c07048ed5e59cbaf26cf97425da33e9ec",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers notice by 'the commissioner of the county commission' (archived singular phrasing retained) via newspaper publication on three separate days (or posting in ten public places if no newspaper exists) at least 20 days before the hearing, including territory description, municipality names, proposed name, and district creation question."
+        },
+        {
+          "number": 3,
+          "title": "Advance payment and reimbursement of notice costs",
+          "bodySha256": "616d914b59184b67c64f2a1a90bba06ca1dbbe7c628daab7efde2ba56f0a8ceb",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers petitioners advancing printing, publication, or posting costs and receiving reimbursement from district tax or other funds if a district is organized."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r10",
+      "reviewSummary": "Independently read complete archived version 206.030:10911, all three subsections, and 1961 history note; verified all fingerprints. Checked 30-to-40-day hearing schedule, newspaper/posting notice timing and contents (noting archived singular 'commissioner' in subsection 2), and petitioner advance payment with conditional reimbursement. Retained all three titles as accurate."
+    },
+    {
+      "id": "206.060:10914",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=206.060&bid=10914",
+      "sourceSha256": "5da0d6a7bc952e25bbbde6e6df3069888e83d4f90ccd2f7529b2a2d805af57c4",
+      "textSha256": "86b6be84232a66a14c0b70c166fd62fc0dcd45d500dc5a77f7dd73d9fbfa307d",
+      "draftedBy": "antigravity_drafter_d3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Election notice contents and maximum tax statement",
+          "bodySha256": "969ca1c1c22d0f1b62b8f4c8a562d3618b13d8ff5585e9bb54f7dd4dd803916d",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1961 p. 524 § 7 through A.L. 1999 S.B. 348). Covers required notice elements (purpose, question, ballot form, territory description) and statement of chapter powers and property tax authority not exceeding one dollar per one hundred dollars valuation."
+        },
+        {
+          "number": 2,
+          "title": "Publishing operations plans for levies over fifty cents",
+          "bodySha256": "58c6c6f29aea9f803528723405580b39846b1504a5b06af713577cf9c8b2d7cd",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers board duty, for any ballot proposal exceeding fifty cents per one hundred dollars of assessed valuation, to publish in newspaper(s) and make available upon request a summary description of plans for using the money for ongoing hospital operations."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r10",
+      "reviewSummary": "Independently read complete archived version 206.060:10914, both subsections, and history note (1961 through 1999 S.B. 348); verified all fingerprints. Checked election notice contents, $1.00/$100 maximum tax statement, and operations-plan summary publication and availability requirement for levies exceeding 50 cents per $100 valuation. Retained both titles as accurate."
+    },
+    {
+      "id": "206.090:10917",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=206.090&bid=10917",
+      "sourceSha256": "04d9a05755a6e2ff47b51ff54cea95d884e56da855b21c8859c677e5a6549f39",
+      "textSha256": "6b54fadad6096e8c3c939b221b632a15072cd28f930cc1b6896b138831f44a9b",
+      "draftedBy": "antigravity_drafter_d3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Election districts, director voting, terms, and vacancies",
+          "bodySha256": "cacfe98be1e7eb4ff5b437f192c4c2e644681b1abec59bedfbb4d7ab29bd4449",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1961 p. 524 § 10 through A.L. 2007 S.B. 22 merged with S.B. 298). Covers dividing the district into six equal-population numbered election districts, 90-day initial election, voting for six directors (except one resident-district director in specified third-class non-township counties of 10,600 to 10,700 inhabitants), staggered six-year or commission-established shorter terms, holdover service, and board-filled vacancies until the next municipal election."
+        },
+        {
+          "number": 2,
+          "title": "Candidate qualifications and declaration of candidacy",
+          "bodySha256": "cc3fe8b38f3072277c49eec46a1d8e501c6600107b8ca7a707f7455bb2748552",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers U.S. citizenship, district voter status, one-year prior Missouri residency, age at least 30, and filing declarations with the county commission (organizational election) or board secretary (subsequent elections)."
+        },
+        {
+          "number": 3,
+          "title": "Dispensing with election when uncontested",
+          "bodySha256": "87f753803192df383bb3f669fdbe991c63c81ed72d90311061224f498b55bcd4",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers the 'notwithstanding' rule holding no election when candidates do not exceed directors to be elected, with candidates assuming office as if elected."
+        },
+        {
+          "number": 4,
+          "title": "Abolishing election districts for at-large elections",
+          "bodySha256": "ebd701e851c6e1bcc2dd5d56971ac4b51dd8cfe1f68695a4b60e3ad7a774aaea",
+          "reviewNote": "Read complete text of subsection 4 and history note. Distinguished from subsection 1 by overriding subsections 1 to 3 to allow a board majority, with county commission majority consent on an order of record, to abolish the six election districts, elect directors at large, preserve sitting directors' terms, and fill subsequent vacancies by at-large election."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r10",
+      "reviewSummary": "Independently read complete archived version 206.090:10917, all four subsections, and history note (1961 through 2007 S.B. 22 merged with S.B. 298); verified all fingerprints. Checked six election districts, 90-day initial election, third-class non-township county (10,600-10,700) voting exception, staggered terms/vacancies, candidate qualifications, uncontested election waiver, and at-large conversion procedure (noting archived possessive 'districts''). Retained all four titles as accurate."
+    },
+    {
+      "id": "206.100:10918",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=206.100&bid=10918",
+      "sourceSha256": "ab2f5275b6b34c836e97aaf400d2d71285745240d3ca5522834b280b9664c6dc",
+      "textSha256": "0d7d0664251ce0e793fe4877269b0e8e5352d83c3eea0951cb12b29ce4a13dc2",
+      "draftedBy": "antigravity_drafter_d3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board powers, first meeting, officers, and bylaws",
+          "bodySha256": "a6ab6137d74aaaf3ef4d863cddc3bb4af2fdd5127c90381d0b1ef96851386b38",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1961 p. 524 § 11). Covers board legislative and executive powers, first meeting within 30 days at county-commission-designated time and place, electing a chairman and selecting secretary, treasurer (need not be board members), and other officers/employees, defining fiscal years by ordinance, and adopting a corporate seal and bylaws."
+        },
+        {
+          "number": 2,
+          "title": "Director time commitment and uncompensated service",
+          "bodySha256": "a052717215f88dbf79da53270d7c6b1662c3a70b90832eec1276f5d1c96ec4ee",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers each director's duty to devote required time to office duties and service without compensation."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r10",
+      "reviewSummary": "Independently read complete archived version 206.100:10918, both subsections, and 1961 history note; verified all fingerprints. Checked board legislative/executive powers, 30-day first meeting, officer selection (non-member secretary/treasurer), fiscal-year ordinance, seal/bylaws, and uncompensated director service. Retained both titles as accurate."
+    },
+    {
+      "id": "206.105:10919",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=206.105&bid=10919",
+      "sourceSha256": "0ea04539eae9397efe52a18d07e6a58d44f1238514098377463a1dbd04e1b0ea",
+      "textSha256": "167b4ccb3fb298e67259a9eb4c0b3a576ecaa32ac69fd82f7a1ae6c45ddcfffc",
+      "draftedBy": "antigravity_drafter_d3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board bylaws, staff applications, and bylaw access",
+          "bodySha256": "f9f4a8b68e671e7219a36e99d8200a9d6fc90f5499090041d41546d0d6ea64d6",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1971 H.B. 301). Covers board bylaws requiring written staff-membership applications on board-approved forms from every physician, podiatrist, and dentist (archived source wording 'every physician, a podiatrist and dentist'), required statements on training, board authority, bylaws, and ethical practice, and maintaining written bylaws in the administrator's office during normal business hours."
+        },
+        {
+          "number": 2,
+          "title": "Professional staff organization, bylaws, and general practitioners",
+          "bodySha256": "eacb07a41b1ebc4cce99b47011c2c88946bc91ffeb6d45649e65724b1b675298",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers organized professional staff initiating and adopting (with board approval) bylaws, rules, regulations, and policies for hospital professional activities, and permitting general practitioners to practice according to competence as recommended by staff and authorized by the board."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r10",
+      "reviewSummary": "Independently read complete archived version 206.105:10919, both subsections, and 1971 H.B. 301 history note; verified all fingerprints. Checked trustee bylaw mandates for staff applications (retaining archived phrasing 'every physician, a podiatrist and dentist'), bylaw inspection access, organized professional staff bylaws with board approval, and general practitioner competence rules. Retained both titles as accurate."
+    },
+    {
+      "id": "206.110:60143",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=206.110&bid=60143",
+      "sourceSha256": "defa54acd127520af9497ab4f196acb59fb9d0419bf368498643069e3f1d200f",
+      "textSha256": "bb942bd63c8085f9d4dca3f4a19b788c15aa857b3da5ecbe4bb36f4f9b219aca",
+      "draftedBy": "antigravity_drafter_d3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Governmental powers and third- or fourth-class county limit",
+          "bodySha256": "c601ac8aaf70519111af1b6954005e2fa5c24cd4a7acee81589ade724e6aee94",
+          "reviewNote": "Read complete text of subsection 1 (subdivisions (1) to (9)) and history note (L. 1961 p. 524 § 12 through A.L. 2026 H.B. 2372 merged with S.B. 1019). Covers district governmental and incidental powers inside and outside the district, the territorial exception for third- or fourth-class counties where a chapter 206 hospital already exists (subject to continuation/expansion proviso), and enumerated powers over facilities, land acquisition/condemnation, operations/leases with definite termination dates, fees, borrowing/bonds, personnel, nondiscriminatory hospital use/rules, policing, and higher-education facility leases/use."
+        },
+        {
+          "number": 2,
+          "title": "Board regulation of hospital and facility use",
+          "bodySha256": "f56e54813f56ce1b129ca56acfe0e0e162272cfeaccdb02715e2637ed958f8a4",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers subjecting use of any district hospital or hospital facility to reasonable district regulation, control, and board-established terms and conditions."
+        },
+        {
+          "number": 3,
+          "title": "Suspension or revocation for ordinance violations",
+          "bodySha256": "9ad8f1be5a1524210d9bcca93241384c448df51844074fa568f7fd8443d51a2d",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers permissive regulatory ordinance provisions for suspending or revoking district-controlled rights or privileges for violating a regulatory ordinance."
+        },
+        {
+          "number": 4,
+          "title": "Limit against conflicts with federal or state law",
+          "bodySha256": "221fdb66f039cab53492f9a40201f008ded0b3c7d59b2ebea99021bf49685a72",
+          "reviewNote": "Read complete text of subsection 4 and history note. Covers rule of construction prohibiting any district or board hospitalization or facility operation/maintenance rule that conflicts with applicable federal or state law or regulation."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r10",
+      "reviewSummary": "Independently read complete archived version 206.110:60143, all four subsections including subdivisions (1)-(9), and history note (1961 through 2026 H.B. 2372 merged with S.B. 1019); verified all fingerprints. Checked extraterritorial third- or fourth-class county exception and continuation/expansion proviso, lease termination-date requirement, higher-education use power, facility regulation, permissive ordinance-violation sanctions, and federal/state conflict limit. Retained all four titles as accurate."
+    },
+    {
+      "id": "206.120:10921",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=206.120&bid=10921",
+      "sourceSha256": "0221452d34977a8eeb90a75ae7f849f798a2ea089f95d5fe5f6b955502c5206e",
+      "textSha256": "c31b4897c7b43ace6bdc8367c5bf0e830d1fc12fba8ca2a4827634f154b817ee",
+      "draftedBy": "antigravity_drafter_d3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Borrowing purposes and submitting loan question",
+          "bodySha256": "aadfc9417ca1ab251b41ef0544332544772d3ab09e0e3e19f4ac6de43fdcbd23",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1961 p. 524 § 13 through A.L. 1978 H.B. 971). Covers board borrowing and bond issuance for hospital sites, buildings, furnishings, additions, and repairs, and board order submitting the loan question to voters."
+        },
+        {
+          "number": 2,
+          "title": "Ballot form for hospital loan proposition",
+          "bodySha256": "3f262e8e55e15d45bc415bba2f725ad92b716350940bdb0cc1d712c7bb27dcb0",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers the substantially prescribed ballot wording for submitting the hospital district borrowing and bond question."
+        },
+        {
+          "number": 3,
+          "title": "Board borrowing authority upon voter approval",
+          "bodySha256": "0719afb6822b1c5c0bdfa7aeba73d507660aa569255f1274411b7a24cd20b60b",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers vesting board authority to borrow money and issue bonds for ballot-specified amounts and purposes upon the constitutionally required majority vote, subject to subsection 5 restrictions."
+        },
+        {
+          "number": 4,
+          "title": "Defeated loans, five-year dissolution, and operating-hospital exception",
+          "bodySha256": "c3013f02e2498e3a6087d1b0e1333ea10c5a231837b1abfe41202d50b2fe17ee",
+          "reviewNote": "Read complete text of subsection 4 and history note. Covers submitting up to three loan questions after organization, mandatory county commission dissolution and pro rata taxpayer refunds if all three fail or no successful submission occurs within five years, and the proviso exempting districts operating a hospital without voted bonds."
+        },
+        {
+          "number": 5,
+          "title": "Debt duration, amount, interest limits, and tax levy",
+          "bodySha256": "95a093bd99d5a5a62a75d47eeffa0f87c66b7031ca4907f0ecf8098f7cda517a",
+          "reviewNote": "Read complete text of subsection 5 and history note. Covers the 20-year loan limit, 10-percent aggregate taxable tangible property debt cap, contract interest ceiling, and mandatory annual tax to pay interest and create a principal sinking fund."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r10",
+      "reviewSummary": "Independently read complete archived version 206.120:10921, all five subsections, and history note (1961 through 1978 H.B. 971); verified all fingerprints. Checked borrowing purposes, ballot form, constitutional majority approval, three-defeat/five-year dissolution rule with operating-hospital exemption proviso, and 20-year / 10-percent / interest / sinking-fund tax limits. Retained all five titles as accurate."
+    },
+    {
+      "id": "206.126:10924",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=206.126&bid=10924",
+      "sourceSha256": "1fcba4c725e02696bf3599ab6d6faed35d3140ad53f8c3d932504bd3b874e409",
+      "textSha256": "a56d5d664f5ad18aac3e310735ffed1c72b705b5db3074108092f7c35a82e87d",
+      "draftedBy": "antigravity_drafter_d3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Revenue bond terms, maturity, and call provisions",
+          "bodySha256": "53210db99926071a2c9c086de62208be2a78f73e5b9761b0c9a383373ff3f163",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1971 S.B. 142). Covers denomination, lawful maximum interest rate, maturity, serial or term form, and optional advance call/redemption terms (with notice and optional premium covenant) for revenue bonds issued under section 206.122."
+        },
+        {
+          "number": 2,
+          "title": "Negotiable status and interest income tax exemption",
+          "bodySha256": "52c33488a5be8255733acbef1074fc563659eecfaa5347c52176d5721afcf607",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers negotiable-instrument status of issued and sold revenue bonds and exemption of their interest from Missouri income taxes. Revised during review to clarify that the state income tax exemption applies specifically to bond interest."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r10",
+      "reviewSummary": "Independently read complete archived version 206.126:10924, both subsections, and 1971 S.B. 142 history note; verified all fingerprints. Checked section 206.122 revenue bond terms, serial/term forms, optional advance call/premium provisions, negotiability, and Missouri income tax exemption specifically for bond interest. Retained subsection 1; revised subsection 2 to specify interest income tax exemption."
+    },
+    {
+      "id": "206.128:10925",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=206.128&bid=10925",
+      "sourceSha256": "39e270361de0cc4c1f50fc46925b81fa8e79adc0455cd23b87756bea8a2bcb67",
+      "textSha256": "ac5ca9fc1d57b32f723d440629f9cb0e4b601908dec7f91d65976f04e279b024",
+      "draftedBy": "antigravity_drafter_d3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Bond form, details, and board covenants",
+          "bodySha256": "9f2412c52da8fd1d33097f78463591644417f5cea920badc80ee9338684ec4fb",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1971 S.B. 142). Covers board authority to prescribe form, details, incidents, and payment-security covenants for section 206.122 bonds, consistent with sections 206.122 to 206.128."
+        },
+        {
+          "number": 2,
+          "title": "Bondholder and couponholder civil enforcement remedies",
+          "bodySha256": "f8f8a83d801b8395e606f984decc9b85b97cba0add209bd637260c8aec2b1ad7",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers civil actions at law or equity by bondholders or couponholders to compel board performance of duties under sections 206.122 to 206.128 and bond covenants."
+        },
+        {
+          "number": 3,
+          "title": "Nonexclusive alternative financing under 206.122 to 206.128",
+          "bodySha256": "c8e7e612bb97f9d92e4dcd7a5687e663855123c1cade30c3d88ee3ff81cb18c6",
+          "reviewNote": "Read complete text of subsection 3 and history note. Clarifies that sections 206.122 to 206.128 furnish an alternative financing method and do not exclude other legal financing methods."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r10",
+      "reviewSummary": "Independently read complete archived version 206.128:10925, all three subsections, and 1971 S.B. 142 history note; verified all fingerprints. Checked board authority over section 206.122 bond forms and covenants, bondholder/couponholder civil actions at law or equity, and nonexclusive alternative-financing construction for sections 206.122 to 206.128. Retained all three titles as accurate."
+    },
+    {
+      "id": "206.130:10926",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=206.130&bid=10926",
+      "sourceSha256": "a9dc97a67f410d148c451fcdb3ef3fe4aefa0767f6e87eb708fdcd91bba731f7",
+      "textSha256": "2a8dfd17c78497c641f84db1f387431df90f3ca26dd781b217b3a7aa3b58847d",
+      "draftedBy": "antigravity_drafter_d3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annexation petition, hearing, and election submission",
+          "bodySha256": "e6fd6145cf027ef10e811700c997fbe29143b78aaf981b2d6c1e36e7aa5aa5ab",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1961 p. 524 § 14, A.L. 1978 H.B. 971). Covers annexation petition signed by at least 10 percent or 50 voters (whichever is fewer) in the proposed territory, county clerk filing, formation-style hearing before county commission, compliance finding, and election submission under section 206.060."
+        },
+        {
+          "number": 2,
+          "title": "Ballot form for territory annexation",
+          "bodySha256": "4cca4f719099f3fcf73b37b3760565089cafbdb2dd78198121f1b52ed4c082cc",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers the substantially prescribed ballot wording for submitting the territory annexation question."
+        },
+        {
+          "number": 3,
+          "title": "Dual majority approval and annexation order",
+          "bodySha256": "cd10e4a57fc16fb92ffcd65fc769324421daa288a7408b3e44480dc5b58c3cfa",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers requiring separate majority votes in both the district and the petitioned territory before the county commission orders annexation and describes altered boundaries."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r10",
+      "reviewSummary": "Independently read complete archived version 206.130:10926, all three subsections, and history note (1961, 1978 H.B. 971); verified all fingerprints. Checked annexation petition signature threshold (10 percent or 50 voters, whichever is fewer), formation-style hearing, section 206.060 election submission, ballot form, and separate majority approval in both district and proposed territory. Retained all three titles as accurate."
+    },
+    {
+      "id": "206.140:10927",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=206.140&bid=10927",
+      "sourceSha256": "5f506dfe7afb35b75bd138e579257d9ac32646959bfd3d87d5df7f98c46a1ead",
+      "textSha256": "0da91e641d89db748494293e80a41d163c12ab08528b34a1a3dcec4996f69e5b",
+      "draftedBy": "antigravity_drafter_d3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Permanent records, receipts accounting, and annual audit",
+          "bodySha256": "7278cabebaf1a75ac1c756395ef4beddf26b85107d78e4fa40bca083ac37b441",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1961 p. 524 § 15). Covers board duties for safekeeping permanent records, recording corporate action, keeping accurate receipts accounts, and ensuring an annual audit of books, records, and accounts."
+        },
+        {
+          "number": 2,
+          "title": "Surety bonds for covered officers and employees",
+          "bodySha256": "86d0fb0ff77c7ee102a47763792f2a5987d0556fdea32d5c87a394b9f1dea638",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers surety bond requirements (amount fixed and form approved by the board) specifically for officers and employees authorized to receive/hold money or sign vouchers, checks, warrants, or binding indebtedness. Revised during review to avoid over-generalizing to all district personnel."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r10",
+      "reviewSummary": "Independently read complete archived version 206.140:10927, both subsections, and 1961 history note; verified all fingerprints. Checked permanent-record safekeeping, corporate-action recording, receipts accounting, annual audit, and surety bond scope limited to officers and employees authorized to receive/hold money or sign vouchers, checks, warrants, or indebtedness. Retained subsection 1; revised subsection 2 to avoid over-generalizing to all district personnel."
+    },
+    {
+      "id": "206.157:10929",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=206.157&bid=10929",
+      "sourceSha256": "1df39c882f0f86a30b35ff0dce89729ae6fd4e8b2898bbb89cd6ca7b613645b6",
+      "textSha256": "777a7a2f9d15dc4451ac121c3a9037bf4450ea7c4d56f5d0fd1db1bbf81094b1",
+      "draftedBy": "antigravity_drafter_d3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority to sell excess property and bond conditions",
+          "bodySha256": "9fb0c67c6955e27e6a6c81e2f84f343bd8e7b5b61d58144ff9f58cf7ddb0be58",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1976 S.B. 648, A.L. 1996 S.B. 676). Covers permissive sale/conveyance of unneeded real (via subsection 2) or personal (via subsection 3) district property, including adequately replaced hospital buildings and grounds, conditioned on full payment of liened general obligation or revenue bonds, full fiscal-agent deposit, or written consent of all bondholders."
+        },
+        {
+          "number": 2,
+          "title": "Procedure for selling excess real property",
+          "bodySha256": "9edd7f6bfa8a28ebbbf46e824f52eb1a668cfb8c634e2c2e8c40c44142e0d2d0",
+          "reviewNote": "Read complete text of subsection 2 and history note. Distinguished from subsection 3 by requiring county commission order approval of the board's resolution (filed with the county clerk of the organizational county) in addition to board review, sale/disposition, and deed execution by the board secretary; retains archived wording 'board of director's'."
+        },
+        {
+          "number": 3,
+          "title": "Procedure for selling excess personal property",
+          "bodySha256": "e7675e4bd9721ffc2d6f3f555424897c881d1767c3ae067361f48e34880fadc0",
+          "reviewNote": "Read complete text of subsection 3 and history note. Distinguished from subsection 2 by allowing excess personal property sale/disposition upon board review and resolution alone (without county commission approval), with any required bill of sale executed by the board secretary."
+        },
+        {
+          "number": 4,
+          "title": "Deposit and use of net sale proceeds",
+          "bodySha256": "c0cd0897379db8d3981b700bd0a06a4043a648c95f39890218e1beb1f9b76304",
+          "reviewNote": "Read complete text of subsection 4 and history note. Covers placing net proceeds from real or personal property sales (remaining after property expenses) into the district treasury for organizational purposes."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r10",
+      "reviewSummary": "Independently read complete archived version 206.157:10929, all four subsections, and history note (1976 S.B. 648, 1996 S.B. 676); verified all fingerprints. Checked bond-payment/deposit/bondholder-consent prerequisites in subsection 1, distinction between real property (requiring county commission approval; retaining archived 'board of director's') and personal property (board resolution only), and net-proceeds treasury deposit. Retained all four titles as accurate."
+    },
+    {
+      "id": "206.158:60144",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=206.158&bid=60144",
+      "sourceSha256": "a14848e61c843228ff2038adab5cbe1bb8b017556f69d93f1a8a4547c6ae933e",
+      "textSha256": "5bf387eaeb9140008953727bd700f0c8ad8ff81393ede09415f694e358b4486d",
+      "draftedBy": "antigravity_drafter_d3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Investing available funds of eligible hospital districts",
+          "bodySha256": "4603e8a0cd211df6110aaa2a2681404e847e679092349cf216fded8638df8178",
+          "reviewNote": "Read complete text of subsection 1 (subdivisions (1) and (2), including (1)(a)-(d)) and history note (L. 2026 H.B. 2372 merged with S.B. 1019). Qualified by subsection 2 eligibility; defines 'available funds', permits investing up to 50 percent in specified mutual funds, top-rated bonds maturing in ten years or less, or money market investments, and requires remaining available funds to be invested in state-treasurer-eligible investments. Revised during review to signal subsection 2 eligibility and cover both the permissive 50-percent cap and mandatory remaining-funds rule."
+        },
+        {
+          "number": 2,
+          "title": "Three-percent tax revenue eligibility limit",
+          "bodySha256": "a24f423c3b6c3d0abec949be5793fbde0234c29464f126cbf4264a2f3d93b135",
+          "reviewNote": "Read complete text of subsection 2 and history note (L. 2026 H.B. 2372 merged with S.B. 1019). Limits applicability of this section exclusively to hospital districts receiving less than three percent of annual revenues from hospital district or state taxes."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r10",
+      "reviewSummary": "Independently read complete archived version 206.158:60144, both subsections including subdivisions (1)(a)-(d) and (2), and 2026 H.B. 2372 / S.B. 1019 history note; verified all fingerprints. Checked subsection 2 three-percent tax revenue eligibility limit, 'available funds' definition, permissive 50-percent cap on mutual funds/rated <=10-year bonds/money market instruments, and mandatory state-treasurer-eligible investment of remaining available funds. Revised subsection 1 to reflect subsection 2 eligibility and both investment rules; retained subsection 2."
+    }
+  ]
+}
