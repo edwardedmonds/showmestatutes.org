@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "175.021:8994",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=175.021&bid=8994",
+      "sourceSha256": "2dc27ab6dcabd3746f2331f9230fe3387d233dea59fc3d91ebde5dfb6ea9ed92",
+      "textSha256": "c753a560907f4ce4fab5238fb8862a2f9fd0a7b1aa7c7a3fca36ae2d1110fd5c",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all seven subsections and history note (L. 1986 S.B. 602 § 3, A.L. 2001 H.B. 218) of 175.021:8994 and verified sourceUrl, sourceSha256, textSha256, and all seven bodySha256 fingerprints against data/full-text/statewide-4/chapter-175.json. Checked parties, gubernatorial appointment and senate advice-and-consent, nonvoting participation versus the cross-section closed-meeting exclusion in 175.023, the archived January 1, 1989 initial-appointee date in subsection 3, vacancy filling (subsection 4) versus vacancy triggers and sickness/accident absence exceptions (subsection 5), exact 175.030 expense-reimbursement cross-reference (subsection 6), and fee-payment alternative-arrangement exception (subsection 7). Noted that the official Revisor catchline includes 'limit — actions — removal from office' beyond the archived seven-subsection text; headings reflect only the archived body. Revised subsection 2 title from 'Student qualifications and nomination panel' to 'Qualifications, enrollment, and nomination panel' so U.S. citizenship, Missouri residency, and the second sentence's actual-enrollment requirement are not narrowed to student status; retained the other six titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Appointment, participation, and nonvoting status",
+          "bodySha256": "48b4848671fb005dced782545c2308bd2bbe7b532610d6cba7f7f3abf3f52042",
+          "reviewNote": "Read complete text of subsection 1 and section history note (L. 1986 S.B. 602 § 3, A.L. 2001 H.B. 218). Covers gubernatorial appointment with senate advice and consent, meeting attendance and deliberation participation, and absence of voting rights; leaves cross-section closed-meeting exclusion in 175.023 unaffected."
+        },
+        {
+          "number": 2,
+          "title": "Qualifications, enrollment, and nomination panel",
+          "bodySha256": "e502bd60e69d16edb61300b4e0762a258561baaa63997c0c0a242b758094f666",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers board-defined full-time student status, U.S. citizenship, Missouri residency, selection from a three-name panel submitted by the student government association, and the second sentence barring appointment unless actually enrolled during the appointment term. Revised during independent review from 'Student qualifications and nomination panel' to avoid narrowing qualifications to student status and to cover the enrollment sentence."
+        },
+        {
+          "number": 3,
+          "title": "Two-year term and initial appointee exception",
+          "bodySha256": "904b2fe64ca42e160e2b200da055d8f675daf1202ce85f8bbd71cdfff74032ac",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers the two-year term length and retains the archived historical exception for the first appointed representative serving until January 1, 1989."
+        },
+        {
+          "number": 4,
+          "title": "Filling vacancies and replacement service",
+          "bodySha256": "5c0651a6ba8f09672ef5871afe8d03462a4b8fdf09923abccf6ca834f87bb6f1",
+          "reviewNote": "Read complete text of subsection 4 and history note. Distinguished from subsection 5 by covering how vacancies are filled rather than what triggers vacancy; replacement must meet subsection 2 qualifications and serves until a successor is appointed and qualified."
+        },
+        {
+          "number": 5,
+          "title": "Events causing vacancy and absence exceptions",
+          "bodySha256": "369eadbf9b8b8b2daeb6511ec93f99c95d9defde81144694af90921fc139edbf",
+          "reviewNote": "Read complete text of subsection 5 and history note. Distinguished from subsection 4 by specifying triggers for immediate vacancy—ending student status, ending Missouri residency, or missing a duly noticed regularly called meeting—qualified by the sickness or accident exception."
+        },
+        {
+          "number": 6,
+          "title": "Expense reimbursement under section 175.030",
+          "bodySha256": "b43ff4b953ed9db0263e51db184e5551a9d03fc8cec114a3e2b756b77880ac4e",
+          "reviewNote": "Read complete text of subsection 6 and history note. Ties expense reimbursement to the same standard received by other curators under section 175.030 rather than implying broader compensation."
+        },
+        {
+          "number": 7,
+          "title": "Student and tuition fee payment and alternative arrangements",
+          "bodySha256": "b90d5cc4bff980458360e3ad27aa5f9d8d554a498785d79316c46cbe78d65bd0",
+          "reviewNote": "Read complete text of subsection 7 and history note. Covers pre-appointment and in-term payment of student and tuition fees, subject to the exception for alternative payment arrangements agreed to by the student and the university."
+        }
+      ]
+    },
+    {
+      "id": "175.023:8995",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=175.023&bid=8995",
+      "sourceSha256": "998f34af4a4131b6e56f3d98d540a86384a6b290f8213aa705115dc516d87d59",
+      "textSha256": "73e38e773431cae0492c9f1b8b8331d8268da750f1930aa9e11a11fec3ab0cd8",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all three subsections and history note (L. 2001 H.B. 218) of 175.023:8995 and verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints against data/full-text/statewide-4/chapter-175.json. Checked chapter-scoped confidentiality as determined by the board and provided by law for both members and representatives (subsection 1), permissive recusal for deliberations or proceedings (subsection 2), and conditional exclusion of the student representative from a specific meeting closed under sections 610.021 and 610.022 upon a unanimous affirmative vote of present non-student board members (subsection 3). Revised subsection 3 title from 'Closing 610.021 and 610.022 meetings to student representative' to 'Excluding student representative from closed 610.021 and 610.022 meetings' so it clearly applies to meetings closed under those sections rather than suggesting authority to close open meetings; retained subsections 1 and 2.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Confidentiality for board members and representatives",
+          "bodySha256": "9c737e1614742cc2e81096a1a8711d1498ad49f27f09ef5e5b47b2d852f9dde8",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 2001 H.B. 218). Applies chapter-scoped confidentiality to both board members and representatives, qualified as determined by the board and provided by law."
+        },
+        {
+          "number": 2,
+          "title": "Recusal from board deliberations or proceedings",
+          "bodySha256": "b25b6101170e2ddb82fbf7b70c8fee0b67be774bcf2c4094d65f0525df83b12f",
+          "reviewNote": "Read complete text of subsection 2 and history note. States permissive ('may') recusal authority for any board member or representative rather than mandatory recusal grounds."
+        },
+        {
+          "number": 3,
+          "title": "Excluding student representative from closed 610.021 and 610.022 meetings",
+          "bodySha256": "6511ea5acc3b3ac733708b20ae33cb55ab50b54f47ca60f1df5a85db22195553",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers excluding the student representative from a specific meeting closed under sections 610.021 and 610.022, conditional on a unanimous affirmative vote of present non-student board members. Revised during independent review from 'Closing 610.021 and 610.022 meetings to student representative' to make explicit that the meeting is already closed under sections 610.021 and 610.022."
+        }
+      ]
+    }
+  ]
+}

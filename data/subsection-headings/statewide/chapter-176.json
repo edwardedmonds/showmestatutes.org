@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "176.020:9001",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=176.020&bid=9001",
+      "sourceSha256": "b3c1d1bc9caeb557fcf396bf2010a1b35eccfeca605b55ad6a0cc5147675a7da",
+      "textSha256": "ec566407eeab3ac3b5043a7a31a2b447e6c4e4150d515a60b4e41fd654a09507",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all three subsections and history note (L. 1945 p. 1715 § 2) of 176.020:9001 alongside the 176.010 definitions and verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints against data/full-text/statewide-4/chapter-176.json. Checked governing-body authority over defined student-use projects (subsection 1), use of institutional real property as sites and voluntary acquisition of real or personal property (subsection 2), and condemnation of necessary public or private property/rights following telegraph, telephone, or railroad right-of-way appropriation procedure (subsection 3). Retained all three drafted titles as accurate, neutral, and distinct.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority to acquire, construct, and operate projects",
+          "bodySha256": "c94e8974b03ce4d1f2c898d2c615136b4de5564cb9878ff0e0b519a79ef94f26",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1945 p. 1715 § 2). Covers powers of defined Missouri state educational institutions, acting through their governing bodies, to acquire, build, equip, furnish, operate, manage, and regulate student projects deemed necessary, advisable, and suitable."
+        },
+        {
+          "number": 2,
+          "title": "Project sites and real or personal property acquisition",
+          "bodySha256": "eb7ad76e8df2654726a9350f1fce5076f22cf53c8bf33e6a2d92f91f264fac92",
+          "reviewNote": "Read complete text of subsection 2 and history note. Distinguished from subsection 1 (project authority) and subsection 3 (condemnation) by covering use of institutional real property as project sites and voluntary acquisition of real or personal property by purchase, lease, gift, or otherwise."
+        },
+        {
+          "number": 3,
+          "title": "Condemnation power and applicable procedure",
+          "bodySha256": "fe485af33b74b0868fe17b78b9617510ab4ff45d5d2742f8fd262365dbad2c5f",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers power to condemn necessary public or private property or rights for project purposes, following the statutory procedure for telegraph, telephone, or railroad rights-of-way."
+        }
+      ]
+    },
+    {
+      "id": "176.050:9005",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=176.050&bid=9005",
+      "sourceSha256": "b7272d26e1febeff49281d44ec134e10a8da6f6799b52898edac557c90f6f77c",
+      "textSha256": "ec25357aac38fad026e59affcdf94d862dfdfc93658acc4c860856fc1a3d6c9f",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all five subsections and history note (L. 1945 p. 1715 § 5, A.L. 1955 p. 540, A.L. 1965 2d Ex. Sess. p. 896) of 176.050:9005 and verified sourceUrl, sourceSha256, textSha256, and all five bodySha256 fingerprints against data/full-text/statewide-4/chapter-176.json. Checked governing-body bond terms and 40-year maturity cap under sections 176.010 to 176.080 (subsection 1), optional call/redemption reservation and premium covenants for serial bonds (subsection 2) versus required pre-maturity call/redemption reservation for term bonds (subsection 3), public-sale 98%-of-par-plus-accrued-interest floor and federal direct-sale par-plus-accrued-interest exception without public sale or notice (subsection 4), and archived law-merchant/negotiable-instruments-law wording plus Missouri-only income-tax exemption strictly for bond interest (subsection 5). Revised subsection 2 title from 'Optional early redemption and premiums for serial bonds' to 'Optional early redemption reservation and premiums for serial bonds' to align with subsection 3 and clarify that the option concerns reserving call/redemption rights; retained the other four titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Denominations, interest, maturity, and serial or term bonds",
+          "bodySha256": "7f8e73b443965127f39e9f13f4e314c7660af8fad55a8fbde2210de61c58a3b0",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1945 p. 1715 § 5, A.L. 1955 p. 540, A.L. 1965 2d Ex. Sess. p. 896). Covers governing-body authority over denominations, interest rates, maturities within forty years, and issuance as serial or term bonds under sections 176.010 to 176.080."
+        },
+        {
+          "number": 2,
+          "title": "Optional early redemption reservation and premiums for serial bonds",
+          "bodySha256": "b75ceb865c55fa0b9be0af7fc28a9b9f180a66317029c261da51abd890d4b8b2",
+          "reviewNote": "Read complete text of subsection 2 and history note. Distinguished from subsection 3 by making reservation of early call/redemption rights and redemption-premium covenants optional for serial bonds, as determined by the governing body. Revised during independent review from 'Optional early redemption and premiums for serial bonds' to include 'reservation' in parallel with subsection 3."
+        },
+        {
+          "number": 3,
+          "title": "Required early redemption reservation for term bonds",
+          "bodySha256": "b75c31be62d112975f1478b7fb4f37045e9c80ecf12718735b30fcf172752a84",
+          "reviewNote": "Read complete text of subsection 3 and history note. Distinguished from subsection 2 by requiring term bonds to reserve a right of pre-maturity call and redemption, while leaving timing, notice, and any premium to the governing body."
+        },
+        {
+          "number": 4,
+          "title": "Public sale terms and federal direct-sale exception",
+          "bodySha256": "21bc8ea9699999a5077cf8a602591627b7dea2fa9d220df52dcc31f1927c44db",
+          "reviewNote": "Read complete text of subsection 4 and history note. Covers public sale after governing-body-determined notice with a 98-percent-of-par-plus-accrued-interest floor, and the separate exception for nonpublic, no-notice sales to the United States or federal agencies/instrumentalities at not less than par plus accrued interest."
+        },
+        {
+          "number": 5,
+          "title": "Negotiability and Missouri income tax exemption for interest",
+          "bodySha256": "614612af00711dbea1b75ea8171be4cb75452be9978ab0be61dfba8b694b2185",
+          "reviewNote": "Read complete text of subsection 5 and history note. Covers negotiable-instrument status under the archived law-merchant and negotiable-instruments-law wording, and limits the stated interest tax exemption to Missouri income taxes."
+        }
+      ]
+    },
+    {
+      "id": "176.060:9007",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=176.060&bid=9007",
+      "sourceSha256": "c96f89804144603d0263afd4d49f4aed280cfe92c1c1e2e7bf1c756ce4ac3042",
+      "textSha256": "e28bb9efade8a2760b3e85b72fd38b26e8295594714d9891c50884fd92cf6b26",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all three subsections, subdivisions (1) through (3), and history note (L. 1945 p. 1715 § 6, A.L. 1955 Ex. Sess. p. 30) of 176.060:9007 and verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints against data/full-text/statewide-4/chapter-176.json. Checked the three permissive whole-or-partial refunding triggers for sections 176.010 to 176.080 revenue bonds (subsection 1), refunding of revenue or prior refunding bonds, amount components, sale or par-value exchange, cancellation of old obligations, and archived 40-year maturity and 6% interest-rate limits preserved without asserting interaction with other statutes (subsection 2), and mandatory continuity of pledged payment sources, discretionary additional pledgeable sources, and single-issue refunding of multiple bond issues (subsection 3). Retained all three drafted titles as accurate and complete.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Circumstances permitting refunding of revenue bonds",
+          "bodySha256": "4192a90aeda7e7888e3c30a5f406ed4e1b6a8017ae61a5a8fdb954e15c6a8170",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1) through (3) and history note (L. 1945 p. 1715 § 6, A.L. 1955 Ex. Sess. p. 30). Covers permissive whole or partial refunding of sections 176.010 to 176.080 revenue bonds upon insufficient sinking-fund payment at maturity, due call of callable bonds, or voluntary surrender for exchange."
+        },
+        {
+          "number": 2,
+          "title": "Refunding bond amounts, sale or exchange, and limits",
+          "bodySha256": "f69f9359d5504c40faa8b2121b0d4bf0d13a1bb76b709cf8b4f1b531ecf640f1",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers refunding of revenue or prior refunding bonds, authorized principal covering past-due interest, premiums, and issuance costs, sale or par-value exchange, cancellation of old obligations, and the archived forty-year maturity and six-percent interest-rate caps."
+        },
+        {
+          "number": 3,
+          "title": "Payment sources and combined refunding issues",
+          "bodySha256": "919c7e8a3d6c94f91764f91f0f9e1ff4c9abffadbb7d53f399d1935083f4fb8f",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers mandatory continuity of previously pledged payment sources, discretionary addition of other sections 176.010 to 176.080 pledgeable sources, and refunding multiple bond issues in a single refunding issue."
+        }
+      ]
+    },
+    {
+      "id": "176.510:9013",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=176.510&bid=9013",
+      "sourceSha256": "e1c582c4b74e11ad117be06d8cddd84f2ddbbb3c994e900b9a4a24ce5a70fa62",
+      "textSha256": "8b8e3e186abc4d2087be3a34871e8130f4fb381841ac8127fe747a67f3213f67",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all three subsections, subdivisions (1) through (6), and history note (L. 1986 H.B. 1387 § 3) of 176.510:9013 alongside 176.500 and 176.515, and verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints against data/full-text/statewide-4/chapter-176.json. Checked permissive risk-sharing categories for sections 176.500 to 176.540 associations and the subdivision (6) carve-out for life insurance and dealing in annuities (subsection 1), permissive whole or partial reinsurance authority (subsection 2), and exclusive limitation of membership and loss coverage to institutions qualifying under section 176.500 (subsection 3). Revised subsection 1 title from 'Permitted shared risks and life or annuity exclusions' to 'Permitted shared risks, excluding life insurance and annuities' to replace clipped 'life' wording with the exact statutory 'life insurance and annuities' exclusion; retained subsections 2 and 3.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Permitted shared risks, excluding life insurance and annuities",
+          "bodySha256": "8a9edb2cf789f53892f076d01040c84e0195c7fc30258f2565e91fdfe9ce49da",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1) through (6) and history note (L. 1986 H.B. 1387 § 3). Covers permissive risk sharing for property, automobile, liability, employee health and disability, money/securities loss, and other insurable risks, explicitly noting the subdivision (6) exclusion for life insurance and dealing in annuities. Revised during independent review from 'Permitted shared risks and life or annuity exclusions' to retain exact 'life insurance and annuities' wording."
+        },
+        {
+          "number": 2,
+          "title": "Authority to obtain whole or partial reinsurance",
+          "bodySha256": "20c765ae0f4d4007b47a61bc43dda0398fd7c5e0f345f9105446ad17cfe33882",
+          "reviewNote": "Read complete text of subsection 2 and history note. States permissive ('may') authority for a sections 176.500 to 176.540 association to obtain whole or partial reinsurance on terms and to an extent it deems proper."
+        },
+        {
+          "number": 3,
+          "title": "Membership and coverage limited to 176.500 institutions",
+          "bodySha256": "7bfa56c7d1b600cd0d3e2ce02147f02ab03bca7fc5783864e2bec42a4bdfc480",
+          "reviewNote": "Read complete text of subsection 3 and history note. Restricts both association membership and loss coverage exclusively to institutions qualifying under section 176.500; preserves the exact statutory cross-reference."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+- Preserve compatibility with the project's existing deployment architecture.
+- Prefer extending MiniSearch rather than replacing it without justification.
+- Maintain accurate Missouri statute numbers and legal text.
+- Avoid changing source statute data when implementing search features.
+- Don't commit, push, or deploy without explicit authorization.
+- Explain proposed architectural changes before implementing them.
