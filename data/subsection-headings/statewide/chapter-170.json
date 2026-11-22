@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "scope": "local-statewide",
-  "reviewMethod": "Codex draft against complete archived source; awaiting separate review.",
+  "reviewMethod": "Complete archived-source drafting and separate complete-source editorial reviews; entry status determines acceptance.",
   "entries": [
     {
       "id": "170.011:33180",
@@ -9,8 +9,10 @@
       "sourceSha256": "0353f0ca3f9617cc9a84000cdf3d093cc8e989c928f495632b6beea07506d175",
       "textSha256": "635d2f6f2184983185115cc6143820991716bad9f4afb67af4b4ad050906096b",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all five subsections and history/source notes (L. 1963 p. 200 § 10-1 through A.L. 2016 H.B. 1646, 2132 & 1621 merged with S.B. 638; RSMo 1959 §§ 163.200-163.240) of 170.011:33180 and verified sourceUrl, sourceSha256, textSha256, and all five bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked distinct school exclusions (proprietary schools in subsection 1 vs. private trade schools in subsection 3), 1990-91+ high-school course and optional documented out-of-state transfer waivers, timeline-sequence racial equality instruction (subsection 2), graduation exams and college-transfer exemption (subsection 3), 15 annual state board awards (subsection 4), and DESE-recognized national-sponsor foreign exchange student exemption (subsection 5). Noted that the official Revisor catchline retains \"penalty\" not present in the archived five-subsection body; headings strictly reflect the archived text. Retained all five drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -50,8 +52,10 @@
       "sourceSha256": "ef94ffa997d6d9db86d2490311db7ed2b22b42fe7b75085f89ac09afa5eda662",
       "textSha256": "13b769d33edf19fcb141aac3b7211fa96c0ee41c418cbffeb028a0c961170164",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all five subsections and history note (L. 1986 S.B. 602 § 2) of 170.012:8589 and verified sourceUrl, sourceSha256, textSha256, and all five bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked primary-and-secondary English-primary-country test vs. prior U.S. residence test (subsections 1-3), special-case chief academic/executive officer exception (subsection 1), no-cost oral classroom English testing (subsection 2), cultural orientation (subsection 3), biennial CBHE reporting of TA counts, language backgrounds, and selection policy (subsection 4), and pre-August 13, 1986 employment-contract exception expressly covering this section and sections 174.310 and 175.021 (subsection 5). Retained all five drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -91,8 +95,10 @@
       "sourceSha256": "2f13443e5e26fe4e8ce30e9d5eac1804c19fbeb5809b950dc83a13f2df3394d8",
       "textSha256": "92a3e896b6765b8f1054b9ceb1d5b7af25bd714872009fd77dd4790be2638232",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all four subsections and history note (L. 2018 S.B. 807 & 577) of 170.013:35512 and verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked scope limited to first-time public higher-education entrants after July 2019 pursuing associate's or bachelor's degrees and 70% passing threshold (subsection 1), 50-to-100 USCIS-style questions and five required topics (subsection 2), permissive combination with section 170.011(3) exams (subsection 3), and permissive online testing (subsection 4). Retained all four drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -126,8 +132,10 @@
       "sourceSha256": "3df4e396aa8a239ae33d686651974ae80c5b42600f1cbdb15893565d551f164c",
       "textSha256": "76fca407764ef73c403d70cae94ba4807014039c782bea29f6c11b6feffd4dcc",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all three subsections, subdivisions (1) and (2)(a)-(c) of subsection 2, history note (L. 2002 H.B. 1711, A.L. 2022 S.B. 681 & 662, A.L. 2025 S.B. 68), and severability cross-reference (§ 82.293) of 170.014:57301 and verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked K-5 research-based reading programs, evidence-based definition, five essential components, and new K-3 reading-teacher training (subsection 1), three-cueing (MSV) definition, primary phonics decoding/encoding requirement, bar on primary reliance on three-cueing or visual memory for word reading, and visual-strategy allowance strictly for comprehension (subsection 2), and universal K-5 public-school offering mandate (subsection 3). Revised subsection 2 title from \"Phonics priority and limits on three-cueing strategies\" to \"Phonics priority, three-cueing limits and visual strategies\" to cover paragraphs (2)(b)-(c) on visual memory and visual comprehension strategies; retained subsections 1 and 3.",
       "headings": [
         {
           "number": 1,
@@ -137,9 +145,9 @@
         },
         {
           "number": 2,
-          "title": "Phonics priority and limits on three-cueing strategies",
+          "title": "Phonics priority, three-cueing limits and visual strategies",
           "bodySha256": "04f48615551ca49444084c72517bdb61c444d35554b5dd1b10c81a03063c167f",
-          "reviewNote": "Read threesubsections, allnestedinstruction distinctions/history/severabilityxref. K–5program versusnewK–3readingteachertraining, primary phonics/notprimarythreecueing orvisualmemory, visualcontextallowedforcomprehension butnotwordreading retained."
+          "reviewNote": "Read threesubsections, allnestedinstruction distinctions/history/severabilityxref. K–5program versusnewK–3readingteachertraining, primary phonics/notprimarythreecueing orvisualmemory, visualcontextallowedforcomprehension butnotwordreading retained. Separate review: Revised from \"Phonics priority and limits on three-cueing strategies\" to account for paragraph (2)(b)'s limit on visual memory in word reading and paragraph (2)(c)'s allowance of visual strategies for comprehension only."
         },
         {
           "number": 3,
@@ -155,14 +163,16 @@
       "sourceSha256": "92f37f3296078e05d1b6c9dff0a847bc5d8b80c11009ff07e6d3885ee9e4fa34",
       "textSha256": "a6f844562a5453a1670676bbd724ae839861983d95f66cccd6c93d98f4af3ebe",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all eight subsections, subdivisions (1)-(9) with consent/harassment/violence definitions, and subdivision (8)(1)-(2) abortion definitions plus history note (L. 1999 S.B. 163 through A.L. 2018 H.B. 1606) of 170.015:35986 and verified sourceUrl, sourceSha256, textSha256, and all eight bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked that subsection 1 sets content and factual-accuracy standards for any sexuality/STD materials and instruction offered rather than mandating that a course be offered; checked contraception/42 U.S.C. § 710 alternative, consent definitions, local policies under 167.611, optional gender separation, age-appropriateness, parent notice and removal rights, chapter 610 public inspection prior to instruction, abortion-services provider restrictions, and life-saving exceptions within the section 188.015-linked definitions without expressing any external enforceability view. Revised subsection 1 title from \"Required sexuality instruction content and factual accuracy\" to \"Content and factual-accuracy standards for sexuality instruction\" to avoid implying a mandate to offer sexuality instruction; retained the other seven titles.",
       "headings": [
         {
           "number": 1,
-          "title": "Required sexuality instruction content and factual accuracy",
+          "title": "Content and factual-accuracy standards for sexuality instruction",
           "bodySha256": "db9cd56a086cb2aa78c08bbb5551896661815a273987360e80507f5794718d0c",
-          "reviewNote": "Read eight subsections, fullnineinstructionrequirements/consentdefinitions and three abortion-service branches/history. Conditionalcourse-content requirements not universalmandate tooffer course; contraceptive-information alternatives, consent cannotbeinferredfromresistanceabsence/relationship/dress, localpolicies and parentalremoval retained. Life-saving exception within abortionservices definition and source actor restrictions retained without external enforceability opinion."
+          "reviewNote": "Read eight subsections, fullnineinstructionrequirements/consentdefinitions and three abortion-service branches/history. Conditionalcourse-content requirements not universalmandate tooffer course; contraceptive-information alternatives, consent cannotbeinferredfromresistanceabsence/relationship/dress, localpolicies and parentalremoval retained. Life-saving exception within abortionservices definition and source actor restrictions retained without external enforceability opinion. Separate review: Revised from \"Required sexuality instruction content and factual accuracy\" so the heading describes standards governing any human sexuality and STD instruction offered, without implying an unconditional mandate to offer such instruction."
         },
         {
           "number": 2,
@@ -214,8 +224,10 @@
       "sourceSha256": "fffafb63010c0dbbb0dd8ff3a832cf5d22e011204825d0a63e60e91d792f85e2",
       "textSha256": "590a3ee56e3a15b67309883c78e2b2ff11110c48ed83383fd1cc08e1425d9195",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all eight subsections, all nested subdivisions and paragraphs, and history note (L. 2018 1st Ex. Sess. H.B. 3, A.L. 2022 S.B. 681 & 662 merged with S.B. 718) of 170.018:51247 and verified sourceUrl, sourceSha256, textSha256, and all eight bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked course definition, graduation substitution policy with EOC course condition and mandatory parent/guardian math-admission acknowledgment (subsection 1), K-12 standards work group, optional frameworks, and 160.514 exclusion (subsection 2), section 168.021 teacher endorsement procedure (subsection 3), Computer Science Education Fund nonreversion under 33.080 and six grant criteria (subsection 4), July 1, 2023+ high-school offering requirement, June 30 reporting with 1-5/deducible small-cell suppression, and Sept 30/June 30 DESE posting duties (subsection 5), DESE supervisor (subsection 6), public-college science/practical-arts (not math) admission equivalency (subsection 7), and chapter 536 / 536.028 rulemaking with post-Dec 18, 2018 conditional nonseverability (subsection 8). Retained all eight drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -273,8 +285,10 @@
       "sourceSha256": "6cfcb6d2af90fd590fe89fd16563236a719871698f9f959b7024226de07f3503",
       "textSha256": "a7b6dae99b56e2ecf421061a5c0003a8fa79c62cd626c63f6266d6d1794f8327",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all three subsections, subdivisions (1) through (4) of subsection 1, and history note (L. 2019 H.B. 604) of 170.020:47871 and verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked 2020-21 voluntary elementary pilot authorization, 16-school target (or fewer if fewer apply), local board full-funding and 3-year commitment, optional teacher hire, collaborative grade-appropriate model, and third-year legislative committee evaluation (subsection 1), regional certified DESE staff for K-12 support (subsection 2), and express non-mandate for public elementary schools (subsection 3). Retained all three drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -302,8 +316,10 @@
       "sourceSha256": "fc1c0c52e35bd848598effa3289a14a98c0936e1bbfd6873891feebfda1f4fe8",
       "textSha256": "a76dd917bec77f69d111946eba0c5a3dc347f71b502c82ecae4809edbbf531dc",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all five subsections, all nested subdivisions, and history note (L. 2018 H.B. 1415) of 170.028:35569 and verified sourceUrl, sourceSha256, textSha256, and all five bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked definitions of section 178.550 council, industry certification, and occupational competency assessment (subsection 1), annual council review/recommendation (subsection 2), permissive district use under section 170.029 (subsection 3), dual-condition DESE identification of course providers (Perkins TSA leading to MSIP credential AND nationally recognized college-credit recommendation) (subsection 4), and annual list, permissive council recommendation, permissive DESE governing agreement, and permissive LEA contracting (subsection 5). Retained all five drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -343,8 +359,10 @@
       "sourceSha256": "875012a8c8d9d64fe31634e895e9b3e264641b19c03652c42f45c9e509cbe8f0",
       "textSha256": "33684bf3a08a1d1ca651f387321a5919324cb7a8d6ea8087b6f0291d96056ac4",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all seven subsections and history note (L. 2016 S.B. 620 & 582, A.L. 2021 H.B. 297) of 170.029:49734 and verified sourceUrl, sourceSha256, textSha256, and all seven bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked statewide CTE plan (subsection 1), section 178.550-consulted certificate requirements for 2017-18+ high-school entrants (subsection 2), employability-skills goal and defined academic-tracking prohibition (subsection 3), local offerings, MSIP minimums, economic-feasibility strive, and optional industry standards (subsection 4), DESE standards work groups, optional model curricula, and 160.514 exclusion (subsection 5), DESE certificate-program recognition process with its past January 1, 2017 development deadline (subsection 6), and chapter 536 / 536.028 rulemaking with post-August 28, 2016 conditional nonseverability (subsection 7). Revised subsection 6 title from \"Historical deadline for certificate-program recognition process\" to \"Recognition process for district CTE certificate programs\" so the ongoing recognition process is not implied to be defunct while noting the January 1, 2017 deadline in notes; retained the other six titles.",
       "headings": [
         {
           "number": 1,
@@ -378,9 +396,9 @@
         },
         {
           "number": 6,
-          "title": "Historical deadline for certificate-program recognition process",
+          "title": "Recognition process for district CTE certificate programs",
           "bodySha256": "1490981329648906ce63d473fa330ac7a36e675bf4b9fd1d200cc493794a5d04",
-          "reviewNote": "Read sevensubsections/history. Certificateadditiontodiploma2017–18entrants, workforce-resourcealignment, definedtrackingguardrail, localneeds/minimumofferings/economicfeasibilitystrive, optionalindustrycredentials/modelcurriculum,160.514exclusion andJanuary2017recognitiondeadline retained."
+          "reviewNote": "Read sevensubsections/history. Certificateadditiontodiploma2017–18entrants, workforce-resourcealignment, definedtrackingguardrail, localneeds/minimumofferings/economicfeasibilitystrive, optionalindustrycredentials/modelcurriculum,160.514exclusion andJanuary2017recognitiondeadline retained. Separate review: Revised from \"Historical deadline for certificate-program recognition process\" so the heading identifies the recognition process itself without implying it is defunct, while preserving the past January 1, 2017 development deadline in the review notes."
         },
         {
           "number": 7,
@@ -396,8 +414,10 @@
       "sourceSha256": "6656047343a3cffb1d20a4a9dc1877ae7508d3cfe664c7ee967cd6335efb6e3d",
       "textSha256": "ae0b3a20fcb040ee60bbee52b85cc9556442be1155a180eeb6e65bacb5624036",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all eight subsections, 18-member composition across subdivisions (1)-(8), nine mission items in subsection 3, and history note (L. 2022 S.B. 681 & 662 merged with S.B. 718) of 170.036:51248, and verified sourceUrl, sourceSha256, textSha256, and all eight bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Noted two archived-source features preserved without alteration: (1) subsection 3 subdivisions (5) and (6) are near-verbatim duplicates on teacher preparation, and (2) subsection 8 dissolved the task force on June 30, 2024 (with subsections 6 and 7 setting past 2022 meeting and June 30, 2023 legislative-report deadlines). Neutral topic headings describe the archived text without implying current task-force operation. Retained all eight drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -455,8 +475,10 @@
       "sourceSha256": "51407c75ce46f787ba8675278e1c4542e51578f1a89be01f9bac5d3e4da959d0",
       "textSha256": "6fc89f98cb3cf48388c8da1e6fd73b7b077c20864f191ea1b683969bc1f98d7a",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all three subsections and history note (L. 2004 S.B. 945 and S.B. 803 & 1257) of 170.037:8594 and verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked encouragement and definition of service-learning programs (subsection 1), state board assistance upon request of electing districts in leveraging alternative financial resources for teacher training (subsection 2), and permissive high-school graduation-credit integration and any-grade instructional strategy support (subsection 3). Retained all three drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -484,8 +506,10 @@
       "sourceSha256": "8589b8e5a1c0994173c88ffa571903694a5f2533537526197ece1f87fdc26119",
       "textSha256": "dae0020254b2edf60790cffe7d9b87a887eb6ad1741375d15318a13067e20b00",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all four subsections, subdivisions (1)-(4) of subsection 1, history note (L. 2019 H.B. 604), and original-roll footnote (*Word \"parent\" appears in original rolls) of 170.045:47872, and verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked 2020-21+ grade 6+ trauma-informed developmentally appropriate sexual-abuse training and four core topics (subsection 1), DESE guidance and optional materials developed with the section 210.1200 task force (subsection 2), advance parent/guardian notice and excusal upon written request preserving the original-roll footnote (subsection 3), and permissive chapter 536 / 536.028 rulemaking with post-August 28, 2019 conditional nonseverability (subsection 4). Retained all four drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -519,8 +543,10 @@
       "sourceSha256": "6543bd10101f7974c4470d633898acfd13de7462436c06b026dcbb0a62d9a8e9",
       "textSha256": "9b38b4400d16f83f2778e6f0019b5986ca69fde2fcfd21bed92d74912ff07dec",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read both subsections, subdivisions (1)-(2), and history note (L. 1995 H.B. 174, et al. § 7) of 170.046:8596 and verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked DHSS development in consultation with DESE emphasizing nonviolence and moral/ethical decision making (subsection 1) and permissive K-12 district presentation, availability to public, private, parochial schools, and the general public, and bar on academic credit (subsection 2). Retained both drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -542,8 +568,10 @@
       "sourceSha256": "a91a3c82bd6afece4c901c01b84625c45a86dda665f8fee324e80021042597ab",
       "textSha256": "fe242184e0bddadd50cd1ad7d8c9bfaa6412d81b392c3c203c65b1549fd4481f",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all six subsections, subdivisions (1)-(2) of subsection 2, and history note (L. 2016 H.B. 1583 merged with H.B. 2379, A.L. 2022 S.B. 681 & 662) of 170.047:51401 and verified sourceUrl, sourceSha256, textSha256, and all six bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked act title (subsection 1), permissive 2017-18 to 2022-23 training and permissive 2023-24+ section 168.400 in-service offerings / educator attendance or self-review counting as two section 168.021 contact hours without converting \"may\" into a mandate (subsection 2), mandatory DESE guidelines with optional DESE or third-party materials (subsection 3), licensed-educator definition (subsection 4), permissive rulemaking (subsection 5), and chapter 536 / 536.028 compliance plus post-August 28, 2016 conditional nonseverability (subsection 6). Retained all six drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -589,8 +617,10 @@
       "sourceSha256": "b8ae06f5abaac350bcbbce64e719fc89590df066b744ac78fc8de5329c564778",
       "textSha256": "3927c8fe0e3a66cd7633ce481a4c44be8da7eb82ad219cd04d8a0c9e29a7f435",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all four subsections, subdivisions (1)-(3) of subsections 2 and 4, and history note (L. 2016 H.B. 1583 merged with H.B. 2379, A.L. 2022 S.B. 681 & 662, A.L. 2024 S.B. 727) of 170.048:54637 and verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked July 1, 2018 district policy and employee-training plans (subsection 1), three required protocol areas (subsection 2), July 1, 2017 optional DESE model policy, July 1, 2021+ triennial district feedback, and privacy bar against posting confidential or personally identifying student/employee information (subsection 3), and July 1, 2025+ grades 7-12 public/charter pupil ID card printing (mandatory 988 and local police nonemergency number, optional 741741 and local hotline, unissued-stock depletion, first-time and replacement cards) (subsection 4). Retained all four drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -624,8 +654,10 @@
       "sourceSha256": "d9746d61c53f1128d767f245fd33541f45a195ce8a0383b6511f4fed33530fce",
       "textSha256": "64b6937b370608bf192c711c3a638ed86ea35101ea3a280c30115e9a40babf4a",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all three subsections and history/source notes (L. 1963 p. 200 § 10-5 through A.L. 2018 S.B. 975 & 1024 Revision; RSMo 1959 §§ 170.200, 170.220) of 170.051:36028 and verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked textbook definition (subsection 1), mandatory K-12 free textbook loans vs. optional prekindergarten purchases (subsection 2), and incidental-fund purchases (noting subsection 3's \"all grades and preschool programs\" wording alongside subsection 2's permissive prekindergarten clause without harmonizing them away), optional supplementary supplies, district ownership, and free furnishing except for abuse or willful destruction (subsection 3). Retained all three drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -653,8 +685,10 @@
       "sourceSha256": "52270503b2c897bccaa3574740d1b12afc109d790ceed22ebb6c468f940a19f3",
       "textSha256": "09fca953cfbed48c7f05f510955727165cf5b2c4d85a73d13c7115c37b7798ef",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all four subsections, all nested subdivisions, and history note (L. 2007 H.B. 181) of 170.135:8610 and verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked definitions of captions, closed/open captions, and electronic video instructional materials (subsection 1), January 1, 2008+ captioning requirement with rights and non-physical broadcast/internet exceptions (subsection 2), publisher/manufacturer liability of three times actual captioning costs paid by the purchaser (subsection 3), and enumerated claimants authorized to assert claims on the purchasing entity's behalf (subsection 4). Retained all four drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -688,8 +722,10 @@
       "sourceSha256": "62fb8e6d0bc1907f26e45afda8a81eec05865abdaffd69adeb5a3e0b3db42b24",
       "textSha256": "c772eebc067369cc169bd5aebfd4390d4840844f8118bed5164772355796de14",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read both subsections and history/source notes (L. 1963 p. 200 § 10-21; RSMo 1959 §§ 165.537, 165.733) of 170.211:8616 and verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked permissive urban-district library/free reading room establishment and funding (subsection 1) and permissive acceptance, holding, investment, and disbursement of gifts in accordance with donor terms (subsection 2). Retained both drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -711,8 +747,10 @@
       "sourceSha256": "cd12cfc0590fafccd27dfb07cc364d3b1bbc2c8108deedd046cc981aa5495260",
       "textSha256": "fb7305f202a7e063db4a73b49c137f4467a082d437456fbbd3c4aadf86cb17f8",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all three subsections and history note (L. 2022 S.B. 681 & 662) of 170.307:51403 and verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked 2022-23+ graduation requirement for mental-health awareness training during four years of public or charter high school (subsection 1), grades 9-12 instruction in existing health/PE curriculum based on DESE program with IDEA/Section 504 appropriate-participation standard (subsection 2), and DESE model-curriculum rulemaking under chapter 536 / 536.028 with post-August 28, 2022 conditional nonseverability (subsection 3). Revised subsection 2 title from \"Required instruction, curriculum placement and disability accommodations\" to \"Required instruction, curriculum placement and disability participation\" to match the statutory IDEA/Section 504 appropriate-participation phrasing; retained subsections 1 and 3.",
       "headings": [
         {
           "number": 1,
@@ -722,9 +760,9 @@
         },
         {
           "number": 2,
-          "title": "Required instruction, curriculum placement and disability accommodations",
+          "title": "Required instruction, curriculum placement and disability participation",
           "bodySha256": "03962992cc5a1a4268ba78085755de65b84e4c1ec1764051f21b292dcdf11608",
-          "reviewNote": "Read threesubsections/history.2022–23start anyfouryearhighschooltime, public/charter9–12existinghealth/PE andDESEprogram, disabilityparticipationappropriateunderIDEA/504 retained."
+          "reviewNote": "Read threesubsections/history.2022–23start anyfouryearhighschooltime, public/charter9–12existinghealth/PE andDESEprogram, disabilityparticipationappropriateunderIDEA/504 retained. Separate review: Revised from \"Required instruction, curriculum placement and disability accommodations\" to reflect the statute's exact standard that students with disabilities may participate to the extent appropriate under IDEA or Section 504."
         },
         {
           "number": 3,
@@ -740,8 +778,10 @@
       "sourceSha256": "cc39f21654abf32e0b573241b05b594146a18f80e4a02aef60cca8c0aaebdda8",
       "textSha256": "8bac2cba048ff40e59f3b83112d90e81a64c6c99902dcfd42a41de8ddae330de",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all four subsections, history note (L. 2012 S.B. 599 through A.L. 2023 S.B. 24 merged with S.B. 186), and cross-reference note (167.624) of 170.310:54143, and verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked 2017-18+ graduation requirement for 30 minutes of CPR and choking-response training during public or charter high school (subsection 1), grades 9-12 AHA/Red Cross/national-guideline instruction, health/PE placement, hands-on psychomotor skills definition, and IDEA/Section 504 appropriate-participation clause (subsection 2), certification-dependent instructor requirements and optional agreements with voluntary first-responder chapters including section 650.320 telecommunicator first responders (subsection 3), and permissive chapter 536 / 536.028 rulemaking with post-August 28, 2012 conditional nonseverability (subsection 4). Revised subsection 2 title from \"Instructional standards, practice and disability accommodations\" to \"Instructional standards, practice and disability participation\" to match the statutory IDEA/Section 504 participation language; retained subsections 1, 3, and 4.",
       "headings": [
         {
           "number": 1,
@@ -751,9 +791,9 @@
         },
         {
           "number": 2,
-          "title": "Instructional standards, practice and disability accommodations",
+          "title": "Instructional standards, practice and disability participation",
           "bodySha256": "b922defbe245adad6c4b716b543b447b19e58b1e065f7afe9cc666bde3873c0c",
-          "reviewNote": "Read foursubsections/history/crossreference167.624. ThirtyminutesCPR pluschokingtraining2017–18, approvednationalguidelines/hands-onpsychomotorpractice, certification-outcome determinesinstructorauthorization, optionalagreements includetelecommunicators retained."
+          "reviewNote": "Read foursubsections/history/crossreference167.624. ThirtyminutesCPR pluschokingtraining2017–18, approvednationalguidelines/hands-onpsychomotorpractice, certification-outcome determinesinstructorauthorization, optionalagreements includetelecommunicators retained. Separate review: Revised from \"Instructional standards, practice and disability accommodations\" to reflect the statute's exact standard that students with disabilities may participate to the extent appropriate under IDEA or Section 504."
         },
         {
           "number": 3,
@@ -775,8 +815,10 @@
       "sourceSha256": "f34c4c1cef794e05695fb83572ba55d45d8745b30e14bf44259f4e86eed5fed1",
       "textSha256": "ae9b41fde247f99ca6c34621cf277d646f093e8226896c7a92fbf245d1ad4e7c",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read both subsections and history note (L. 2018 H.B. 2129) of 170.311:35094 and verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked mandatory 30-minute board presentation upon request of a recognized unbiased organ/eye/tissue donation organization followed by local board discretion on whether and how to present to students and parents (subsection 1), and student exemption for contrary sincerely held religious or emotional beliefs (subsection 2). Retained both drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -798,8 +840,10 @@
       "sourceSha256": "c157f0a8d609c37af58bff9e3eb2300525d77d36ec883e337a43f706f6f44439",
       "textSha256": "1cead0a351ff21cd4b207704a6ebf1f8f5c7bdb62df52f778f303f65656a54d1",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read both subsections, subdivisions (1)-(5) of subsection 2, and history note (L. 2013 S.B. 256 § 1) of 170.312:8626 and verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked permissive annual 30-minute high-school health instruction referencing the Safe Place for Newborns Act under section 210.950 (subsection 1) and five required instructional topics conditional on a district or charter school electing to offer the instruction (subsection 2). Retained both drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -821,8 +865,10 @@
       "sourceSha256": "c2d9ecc4b34534b5e28449058118cb008c9c60556c225dee9d599139048faff0",
       "textSha256": "5f21b5d4b0c6b5490f98661f6d1a0b36d25203786fbe895271d8f0398e4287a4",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all seven subsections, all nested subdivisions/paragraphs, and history note (L. 2013 S.B. 75, A.L. 2025 S.B. 68, A.L. 2026 H.B. 1866) of 170.315:59921 and verified sourceUrl, sourceSha256, textSha256, and all seven bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Explicitly preserved two statutory drafting tensions in the 2026 text without harmonizing them away: (1) overlapping school-year windows in subsection 1(2) (ending before July 1, 2027) and 1(3) (2026-27 and subsequent years), and (2) subsection 1's mandatory \"shall include\" vs. subsection 2's \"that elects to provide such training\". Checked optional employee simulated drills with safety briefings (subsection 3), POST instructor certification (subsection 4), optional emergency-agency collaboration (subsection 5), public-school student reporting environment and annual Courage2ReportMO (C2R) training (subsection 6), and mandatory 2026-27+ age-appropriate active-shooter exercises for students and staff (subsection 7). Revised subsection 2 title from \"Annual training and locally determined duration\" to \"Annual training frequency and duration for electing schools\" to preserve subsection 2's exact \"elects\" phrasing; retained the other six titles.",
       "headings": [
         {
           "number": 1,
@@ -832,9 +878,9 @@
         },
         {
           "number": 2,
-          "title": "Annual training and locally determined duration",
+          "title": "Annual training frequency and duration for electing schools",
           "bodySha256": "bde2f03a92778ecf253c865994dcf0af8f1b4928381bbf8d867eeb1da69fae37",
-          "reviewNote": "Read sevensubsections/all datedcomponents/history2026. BeforeJuly2027 and2026–27overlappingtrainingperiods preserved. Subsection2 expressly says elects despite subsection1shall, notharmonized. Optionalemployee simulateddrill distinct from2026–27 requiredparticipatoryexercise; qualifiedleaders, POSTinstructors and annualC2Rinformation retained."
+          "reviewNote": "Read sevensubsections/all datedcomponents/history2026. BeforeJuly2027 and2026–27overlappingtrainingperiods preserved. Subsection2 expressly says elects despite subsection1shall, notharmonized. Optionalemployee simulateddrill distinct from2026–27 requiredparticipatoryexercise; qualifiedleaders, POSTinstructors and annualC2Rinformation retained. Separate review: Revised from \"Annual training and locally determined duration\" to preserve subsection 2's explicit \"elects to provide such training\" wording alongside subsection 1's \"shall include\" without smoothing over the statutory drafting tension."
         },
         {
           "number": 3,
@@ -874,8 +920,10 @@
       "sourceSha256": "edb89125733f3acee34cf39446730be5cdc7f86d7255cba6c7dec6827664973e",
       "textSha256": "34374c4cb456e5dab2c9bd3bd0f5714d99d9d7db792124aa3cf2637a42bce881",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all five subsections, all nested subdivisions/paragraphs, and history note (L. 2023 S.B. 34) of 170.341:53795 and verified sourceUrl, sourceSha256, textSha256, and all five bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked permissive elective social-studies courses on Hebrew Scriptures and/or New Testament (subsection 1), educational/cultural/literary purposes (subsection 2), student translation choice (subsection 3), religious neutrality, diversity accommodation, and bar on favoring or disfavoring any religion or nonreligious perspective (subsection 4), and constitutional/statutory/regulatory compliance limits (subsection 5). Retained all five drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -915,8 +963,10 @@
       "sourceSha256": "225fa9c2ceff696672c458f2e53176564af0251a03b104a284d570443c79273f",
       "textSha256": "799734e52493d1b7a4e8ae9b45323a1e4cf2fe5daad249968730cbd512923052",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all six subsections and history note (L. 2016 H.B. 1646, 2132 & 1621 merged with S.B. 638) of 170.345:33181 and verified sourceUrl, sourceSha256, textSha256, and all six bodySha256 fingerprints against data/full-text/statewide-4/chapter-170.json. Checked initiative title (subsection 1), graduation civics-exam mandate for students entering ninth grade after July 1, 2017 at public, charter, or private schools except private trade schools without importing section 170.013's 70% threshold (subsection 2), 100 USCIS-style questions (subsection 3), permissive combination with section 170.011(3) exams (subsection 4), permissive online testing (subsection 5), and district policy permitting IEP-committee-recommended disability waivers (subsection 6). Retained all six drafted titles.",
       "headings": [
         {
           "number": 1,

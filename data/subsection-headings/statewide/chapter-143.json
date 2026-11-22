@@ -2485,8 +2485,8 @@
       "sourceSha256": "f3e841588a62ad4e2e5ca9b54ed28c858cbd6ce576f43bff83c0972a7c4e1255",
       "textSha256": "27b3d97e29dd71334c2c0b2c143748cc15ec59772c7b35abdf46d7e23d1dc783",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -2500,7 +2500,9 @@
           "bodySha256": "202ade1e4a4c31b9e56881adeb4672a95fa3af05b82f3d404b30e3575fc7baec",
           "reviewNote": "Full body and effective note read; proration is conditioned on a resulting period under twelve months."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.271:7230, both subsections, and L. 1972 S.B. 549 / Effective 1-1-73 (see § 143.109) notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked federal taxable-year conformity (1) and federal-change conformity with regulatory deduction proration conditioned on a resulting taxable period under twelve months (2). Retained both drafted titles as accurate and concise."
     },
     {
       "id": "143.281:7231",
@@ -2508,8 +2510,8 @@
       "sourceSha256": "89a6ec89ee694675b6ef7450ec8b5a78441da1a6b8628000cff8ce66fd139ab1",
       "textSha256": "94424917507af34d7565a7cc256bb0ad301edb921c89aa11dcee50954d8dcb5a",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -2523,7 +2525,9 @@
           "bodySha256": "1dec8e5bcd1d6f2575b412d640e4b8cbecbdde62f09c8bad74cdbb4aca9e2bee",
           "reviewNote": "Full body and note read; director selects a fair method only where none regularly used."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.281:7231, both subsections, and L. 1972 S.B. 549 / Effective 1-1-73 (see § 143.109) notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked federal accounting-method conformity and director fallback only where no method is regularly used (1), plus conformity to federal accounting-method changes (2). Retained both drafted titles as accurate."
     },
     {
       "id": "143.341:57725",
@@ -2531,8 +2535,8 @@
       "sourceSha256": "26085599b224ede9d4b616203bfa673fb611bcf1ce62e01786e9d7f8916d2629",
       "textSha256": "0e3d87ab71717b9b0c3510457c48db80e9e9b72016f9c1e2917582b00719f8f9",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -2564,7 +2568,9 @@
           "bodySha256": "f0e544417b3d6af02d2b9dade49f2bff8d8b60dc9b65cca4e668eaa1851f07d0",
           "reviewNote": "Complete 2025 merged source read. New 2026 subtraction and other modifications limited to items not determining federal distributable net income; not a blanket trust tax exemption."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.341:57725, all five subsections, and 1972/2025 merged (H.B. 754 merged with S.B. 98) history note; verified sourceUrl, sourceSha256, textSha256, and all five bodySha256 fingerprints. Checked resident estate/trust taxable-income baseline (1), excess federal personal exemption subtraction (2), the tax-years-beginning-on-or-after-Jan. 1, 2026 nonresident-comparison subtraction referencing section 143.371 and limited to non-DNI determinants (3), non-DNI section 143.121/143.141 modifications and 143.171 federal tax deduction (4), and section 143.351 fiduciary adjustment share (5). Retained all five drafted titles as accurate and well-scoped."
     },
     {
       "id": "143.351:7238",
@@ -2572,12 +2578,12 @@
       "sourceSha256": "6fbf717587c448bffe6ffb5a42a8b085df181bdfdfbacf291031b1bd46bedd17",
       "textSha256": "140f56308564acf33767f5ad2a615b6e91fb0131703d6ed4c8b3f57981e3737c",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
-          "title": "Fiduciary adjustments for estates, trusts and beneficiaries",
+          "title": "Fiduciary adjustments for resident estates, trusts, and beneficiaries",
           "bodySha256": "cd5258b7b1070f9b49a28638172499cd4ffb7d406b8c5466a3ffcfcbf2fc21be",
           "reviewNote": "Read all nested text and note. Nonresident and charitable beneficiaries included solely for allocation; absence of distributable net income and substantial inequity permit distinct methods. Source government instrument wording preserved."
         },
@@ -2593,7 +2599,9 @@
           "bodySha256": "bc16d0e6d4ed83fa41ba43cc9ac40c7784992a1afb6dcc2c3ffd49eb3606862d",
           "reviewNote": "Read all nested text and note. Nonresident and charitable beneficiaries included solely for allocation; absence of distributable net income and substantial inequity permit distinct methods. Source government instrument wording preserved."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.351:7238, all three subsections including subdivisions (1)-(3) of subsection 3, and 1972/1973 notes; verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints. Checked resident estate/trust (143.341) and resident beneficiary (143.121(4)) scope in (1), DNI-determinant limitation in (2), proportional allocation including nonresident and charitable beneficiaries solely for allocation, no-DNI fallback retaining archived 'government instrument' wording verbatim, and substantial-inequity regulatory alternatives in (3). Revised (1) from 'Fiduciary adjustments for estates, trusts and beneficiaries' to 'Fiduciary adjustments for resident estates, trusts, and beneficiaries' to reflect resident-only scope; retained (2) and (3)."
     },
     {
       "id": "143.381:7241",
@@ -2601,8 +2609,8 @@
       "sourceSha256": "137d71b662d1eec6522d3cd29bcfd442cd5621b09a2781926ffa21cdc8893af4",
       "textSha256": "aa13b0fc6ce6170a6dc6d71c481294d787470e9151de17eae3141e9c57f02b79",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -2616,7 +2624,9 @@
           "bodySha256": "f69730aee1293a4790ad85f0df4337c017bb9f1aa30389b60d515f2fb62f5948",
           "reviewNote": "Complete body and note read; proportional exemption and modifications distinguish distributable from excluded net income."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.381:7241, both subsections including subdivisions (1)-(4) of subsection 1, and 1972/1973 notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked nonresident estate/trust taxable-income components (143.391 DNI share, Missouri-source non-DNI items, non-DNI 143.121/143.141/143.171 modifications, and Missouri-source DNI fractional personal exemption) in (1) and section 143.181 nonresident-individual sourcing regulations in (2). Retained both drafted titles as accurate."
     },
     {
       "id": "143.391:7242",
@@ -2624,12 +2634,12 @@
       "sourceSha256": "9be817de92531af6b3b72f3428e244d46963688a9fc938c370d4d6b4dc05f05f",
       "textSha256": "b67d027158b3f89661bf64e74fb6c75693de106f1e3186b93b5d2d0269e008da",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
-          "title": "Allocating Missouri-source income among trusts and beneficiaries",
+          "title": "Missouri-source estate, trust, and beneficiary income shares",
           "bodySha256": "030116bd0f63878f011f66979ec23ef52cbcf34dc96d90035161c279c8f25620",
           "reviewNote": "Complete nested allocation rules and note read. Federal character retained, duplicate modifications barred, resident and charitable participants included only for allocation; equitable methods conditioned on substantial inequity."
         },
@@ -2639,7 +2649,9 @@
           "bodySha256": "882d83cebaca937a685cba9901711f166813709c1ec4bdc6cd21006fd7c66848",
           "reviewNote": "Complete nested allocation rules and note read. Federal character retained, duplicate modifications barred, resident and charitable participants included only for allocation; equitable methods conditioned on substantial inequity."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.391:7242, both subsections including all subdivisions and paragraphs, and 1972/1973 notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked nonresident estate/trust (143.381(1)(1)) and nonresident beneficiary (143.181(1)) sourcing, non-duplicative modifications, proportional allocation (including resident and charitable beneficiaries solely for allocation), and federal character in (1), plus no-DNI allocation and substantial-inequity regulatory alternatives (retaining source duplicate 'total amount of the amount of the modifications') in (2). Revised (1) from 'Allocating Missouri-source income among trusts and beneficiaries' to 'Missouri-source estate, trust, and beneficiary income shares' to include estates and encompass sourcing, modifications, allocation, and character; retained (2)."
     },
     {
       "id": "143.411:7244",
@@ -2647,8 +2659,8 @@
       "sourceSha256": "ccea04b6c39ab390bddfa48d2d0bb7023bb19a9825bd977a8a39d1d133570d16",
       "textSha256": "2e57db1c30db17daaad4028c07eff7b74b1fc8d0bbcc3aadaa6da2868c54fd65",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -2658,7 +2670,7 @@
         },
         {
           "number": 2,
-          "title": "Character of partnership income and deductions",
+          "title": "Character of partnership items",
           "bodySha256": "dd5aef2969df2187dc7a253972902ff38ca7bcbfbdbd0cf600383e13d3280879",
           "reviewNote": "Read all nested clauses and merged effective notes. Agreement reference in subsection 6 and later recovery-for wording are retained without correction; withholding exceptions and carry-forward agreement status distinguished."
         },
@@ -2698,7 +2710,9 @@
           "bodySha256": "c8ffd5a49bca10fc2d245f53710174371c2f40b8d745c870bd839ad4d448d96a",
           "reviewNote": "Read all nested clauses and merged effective notes. Agreement reference in subsection 6 and later recovery-for wording are retained without correction; withholding exceptions and carry-forward agreement status distinguished."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.411:7244, all eight subsections including subdivisions, 1972-1997 merged effective notes, and original-roll footnote (*'results'); verified sourceUrl, sourceSha256, textSha256, and all eight bodySha256 fingerprints. Checked distributive-share modifications (1), character of income/gain/loss/deduction (2), tax-avoidance special provisions (3), composite returns (4), withholding-or-agreement rule, carryforward timeliness, and five withholding exceptions (5), filing/jurisdiction agreements retaining archived cross-reference to 'subdivision (1) of subsection 5' (6), rate and withholding-table calculation (7), and recovery wording ('recover for a partner') (8). Revised (2) from 'Character of partnership income and deductions' to 'Character of partnership items' so gain and loss are not omitted; retained remaining seven titles."
     },
     {
       "id": "143.421:7245",
@@ -2706,8 +2720,8 @@
       "sourceSha256": "374dc62aeae5584bdfe8752541b0bedd619321194cb5d244749b14fcac5c7df3",
       "textSha256": "23860c955e883effb42a86cfab60a603e99e5c61685d8d0d9fbf7717668b300a",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -2739,7 +2753,9 @@
           "bodySha256": "e72cc95dd1d2fb61fd0898f086cd26555c98d3122ae98f2d2abd5c13191cee39",
           "reviewNote": "Complete text and note read. Alternative methods require director approval on application; differing subsection cross-references not repaired."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.421:7245, all five subsections including subdivisions (1)-(2) of subsection 2, and 1972/1973 notes; verified sourceUrl, sourceSha256, textSha256, and all five bodySha256 fingerprints. Checked 143.181 nonresident partner sourcing (1), disregarded partnership-agreement provisions retaining archived cross-references to subsections 4 and 5 without repair (2), Missouri-source 143.121(2)-(3)/143.141 modifications (3), director-authorized equitable methods on application (4), and cross-references to 143.411(1)-(3) (5). Retained all five drafted titles as accurate."
     },
     {
       "id": "143.425:48732",
@@ -2747,8 +2763,8 @@
       "sourceSha256": "4d77890194119a8d4583d65d309267eb17c40103cb9ed01c86d12db228fb509a",
       "textSha256": "1e8a86e2a6a96509fb876e1ed695cd5ffb407140cc3f9111ed88e5a13dbc91b5",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -2764,7 +2780,7 @@
         },
         {
           "number": 3,
-          "title": "Partnership audit adjustments and payment procedures",
+          "title": "Partnership audit and administrative adjustment procedures",
           "bodySha256": "26c3b84d2e4f2e126d02e8eb406065b5ee4bbfe2d8e37fd39ff1b7d3ad49fc87",
           "reviewNote": "Read complete 15-subsection text, all 24 definitions, calculations and original-roll notes. Ninety-day partnership and 180-day direct-partner periods differ; election excludes administrative requests and certain corporate allocations. Subsection 8 references subdivision 2 of 6 although calculation sits in 1; neutral label avoids repairing it. Limitations, conditional ninety-day extension for 100 partners, resident other-jurisdiction credit exception and 2021 final-determination cutoff preserved."
         },
@@ -2840,7 +2856,9 @@
           "bodySha256": "dd392fb641c78ebc0d90320dc9ea175d9c541956752ba945a9bce0faa3c36b92",
           "reviewNote": "Read complete 15-subsection text, all 24 definitions, calculations and original-roll notes. Ninety-day partnership and 180-day direct-partner periods differ; election excludes administrative requests and certain corporate allocations. Subsection 8 references subdivision 2 of 6 although calculation sits in 1; neutral label avoids repairing it. Limitations, conditional ninety-day extension for 100 partners, resident other-jurisdiction credit exception and 2021 final-determination cutoff preserved."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.425:48732, all fifteen subsections including 24 definitions and nested calculations, L. 2020 S.B. 676 note, and original-roll footnotes (*'subdivisions', **'section'); verified sourceUrl, sourceSha256, textSha256, and all fifteen bodySha256 fingerprints. Checked 180-day general rule with carve-outs (2), partnership audit and administrative adjustment request coverage (3), state partnership representative (4), 90-day partnership / PTP thresholds / 180-day direct-partner rules (5), partnership-pays election, exclusions for corporate apportionable income and AARs, and jurisdiction consent (6), tiered partners (7), irrevocability, in-lieu treatment retaining archived cross-reference to 'subdivision (2) of subsection 6' and 'directors'' designee' wording, and resident 143.081 credit savings clause (8), failure assessments (9), assessment deadlines (10), pending-audit estimated payments (11), refund/credit claims and continuation paragraph (12), post-limitations scope, 100-partner 90-day extension, and reciprocal extensions (13), chapter 536 nonseverable rulemaking (14), and Jan. 1, 2021 final-determination cutoff (15). Revised (3) from 'Partnership audit adjustments and payment procedures' to 'Partnership audit and administrative adjustment procedures' to include administrative adjustment requests; retained remaining fourteen titles."
     },
     {
       "id": "143.431:35299",
@@ -2848,8 +2866,8 @@
       "sourceSha256": "0df3011958833250eaca42a0e435b6c6bf9389071ec3a3c590432e72915f6713",
       "textSha256": "ebd18811ef025b88abcf394d7c1503de6715e514723291d6c6355bc14488a3d5",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -2859,7 +2877,7 @@
         },
         {
           "number": 2,
-          "title": "Corporate income modifications and dividend subtraction",
+          "title": "Corporate modifications, federal tax deduction, and dividend subtraction",
           "bodySha256": "ecf8e485cf36a65f6bd30a8025d54599d65959f304ff611607e3ea19319168bd",
           "reviewNote": "Complete five subsections and Acme case read. Source explicitly notes nonexistent paragraph(d) cross-reference; not repaired. Federal consolidated group election, five-year restriction exceptions and July2002 loss-year limitation retained."
         },
@@ -2881,7 +2899,9 @@
           "bodySha256": "623397d5cf41bbb779158b4220e79654751c0c454cd6a157455a0918f8fa3a69",
           "reviewNote": "Complete five subsections and Acme case read. Source explicitly notes nonexistent paragraph(d) cross-reference; not repaired. Federal consolidated group election, five-year restriction exceptions and July2002 loss-year limitation retained."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.431:35299, all five subsections, 1972-2018 history notes, Revisor footnote on nonexistent 'paragraph (d)' of 143.121(2), and Acme Royalty Co. (2002) annotation; verified sourceUrl, sourceSha256, textSha256, and all five bodySha256 fingerprints. Checked corporate taxable-income baseline and 143.071 rates (1), 143.121/143.141 modifications (except 143.121(2)(5)), 143.171 federal income tax deduction, and Missouri-source corporate dividends (2), consolidated return election, withdrawal/5-year bar, separate-return computation, and regulations (3), NOL modification and definitions preserving nonexistent paragraph (d) cross-reference (4), and July 1, 2002 effective cutoffs (5). Revised (2) from 'Corporate income modifications and dividend subtraction' to 'Corporate modifications, federal tax deduction, and dividend subtraction' so the section 143.171 federal tax deduction is not omitted; retained remaining four titles."
     },
     {
       "id": "143.436:54669",
@@ -2889,8 +2909,8 @@
       "sourceSha256": "2a12951e860919c728523e2dcba0f786b7154972185fc25e4e3f6264ee38cd41",
       "textSha256": "2d16b58b0707de4365aadf54f68fdb2874330ca54cd4440891a4dd8e067a0563",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -2948,7 +2968,7 @@
         },
         {
           "number": 10,
-          "title": "Corporate and fiduciary member credits",
+          "title": "Corporate and fiduciary member credits and carryforwards",
           "bodySha256": "dba6c221835b3dc3e0873fb55efd8a29b5a7bd4b6f76391fee9095bf57a9a6db",
           "reviewNote": "Read complete 2024 version and all nested provisions. Own-entity credits permit carryforward while similar-other-state credit does not; neither refundable. Nonresident exception includes joint spouse sources and entity actual payment. Annual entity election differs from continuing member opt-out, and source fiduciary credit tax-section discrepancy left unchanged."
         },
@@ -2982,7 +3002,9 @@
           "bodySha256": "a9df1e42df3126145270c3c293cf6ca00888bdc2343b8cc861eeab5c56899f00",
           "reviewNote": "Read complete 2024 version and all nested provisions. Own-entity credits permit carryforward while similar-other-state credit does not; neither refundable. Nonresident exception includes joint spouse sources and entity actual payment. Annual entity election differs from continuing member opt-out, and source fiduciary credit tax-section discrepancy left unchanged."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.436:54669 (SALT Parity Act), all fifteen subsections, and 2022/2024 history notes; verified sourceUrl, sourceSha256, textSha256, and all fifteen bodySha256 fingerprints. Checked short title (1), seven definitions excluding PTPs (2), electing partnership and S corp taxes and loss carryforwards (retaining archived 'subdivision (1) of this section' in 4(2)) (3)-(4), tiered adjustments and continuing member opt-outs with nonresident 143.181/jurisdiction agreement (5), nonresident sole-source/joint-spouse return exemption (6), member reporting and entity returns excluding penalties/interest (7), nonrefundable individual credits with carryforward (8), resident/part-year other-jurisdiction credits without carryforward under 143.081(2) limits (9), corporate/fiduciary credits applied last with carryforward (retaining archived 143.071-only credit reference in 10(1) alongside 143.061/143.071 in 10(2)) (10), annual entity election and signatures (11), 143.425/143.601 federal-return modifications (12), binding entity representatives (13), tax years ending on or after Dec. 31, 2022 (14), and chapter 536 nonseverable rulemaking (15). Revised (10) from 'Corporate and fiduciary member credits' to 'Corporate and fiduciary member credits and carryforwards' to cover subdivision (2) and contrast with subsection 9; retained remaining fourteen titles."
     },
     {
       "id": "143.441:48735",
@@ -2990,12 +3012,12 @@
       "sourceSha256": "916f4bf8f182e7da1d97e02a948cb852d5b0bc2082987f42376a42f04992ff36",
       "textSha256": "92c1ba077861770b432d81d6e3223cd0f966de21a5ff41bd959defa6de656e63",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
-          "title": "Corporations and transportation entities included in definition",
+          "title": "Definition of corporation and included multistate entities",
           "bodySha256": "ef9cbe8a95cfb619695c1be0abf7dc46f14443abacaaa50684fed985a9135a46",
           "reviewNote": "Read full source including air-freight forwarder requirements and exempt-entity taxable-income exception. Exemption is not absolute for unrelated business income."
         },
@@ -3005,7 +3027,9 @@
           "bodySha256": "d0ef35dfbc8a5c69d92a38440e552cf165701540259bd06541473f3f880a8d94",
           "reviewNote": "Read full source including air-freight forwarder requirements and exempt-entity taxable-income exception. Exemption is not absolute for unrelated business income."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.441:48735, both subsections including all subdivisions and paragraphs, and 1972-2020 history notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked corporate definition covering domestic/foreign entities and receivers (1)(1), railroads, transportation carriers, and qualified air freight forwarders (1)(2), interstate bridges (1)(3), and interstate telephone/telegraph lines (1)(4), plus corporate tax exemptions in (2) preserving the UBTI and IRC chapter 1 taxable-income carve-out in (2)(1). Revised (1) from 'Corporations and transportation entities included in definition' to 'Definition of corporation and included multistate entities' so interstate bridge and telephone/telegraph corporations are not omitted; retained (2)."
     },
     {
       "id": "143.451:35585",
@@ -3013,8 +3037,8 @@
       "sourceSha256": "5d6c50ceb896125524c4f143289ebe4684eb80b0b8f4588375545372c4a8310f",
       "textSha256": "cff075c1b2a9009cf406c02cf1aeb2b7a6e95b13d5ab4d1fe8339c0d3def84c2",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3076,7 +3100,9 @@
           "bodySha256": "e437bed94f98db9179075d65ff803f82531e621df94bfded3e899595e4a09ea1",
           "reviewNote": "Entire ten-subsection text, extensive sales and investment-service definitions, formulas and Wolff Shoe note read. Subsection2 explicitly limited to years ending on or before Dec31,2019; destination, beneficiary and investment exclusions not generalized across transportation/bridge/telecom rules. Other elections preserved only absent explicit contrary provision."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.451:35585, all ten subsections including nested sales/market/investment-funds-service formulas, 1972-2018 history notes, and Wolff Shoe Co. (1988) annotation; verified sourceUrl, sourceSha256, textSha256, and all ten bodySha256 fingerprints. Checked Missouri-source corporate income (1), pre-2020 (years ending on or before Dec. 31, 2019) apportionment elections, investment-funds-service definitions/formulas, and consolidated intercompany exclusions (retaining archived 'principle office' and 'a sales of intangible property' wording) (2), passenger-carrier earnings reports excluding railroads (3), transportation mileage/facilities election (4), interstate bridges (5), telephone/telegraph mileage/facilities election (6), Missouri expenses/losses (7), federal tax and IRC 172 NOL deduction apportionment (8), investment-funds service corporations with Missouri-residenced shareholders (9), and preservation of other statutory elections (10). Retained all ten drafted titles as accurate."
     },
     {
       "id": "143.455:35300",
@@ -3084,8 +3110,8 @@
       "sourceSha256": "7be7d6e6ed958ff46c125b08682676615596e7f26a04d6ea6441becc7752c7ff",
       "textSha256": "c09481a16a16327182871fb0ef45b65d37493c63142e2d93a34a1b9045b7a32c",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3207,7 +3233,9 @@
           "bodySha256": "8bb6b85707b8e6079528e6cd75e8401313cacd76ec29e2d8419ba39a12dcb6be",
           "reviewNote": "Read all twenty subsections, definitions and nested formulas. 2020 beginning-year cutoff differs preceding section ending-year cutoff. Jurisdiction suffices for taxable-elsewhere definition; nonapportionable classifications, receipts exclusions and director burden exception retained. Reasonable-reliance penalty protection is limited; subsection19 only names net operating losses, unlike older federal-tax rule."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.455:35300, all twenty subsections including all definitions, allocation/apportionment rules, and nested industry subsections, and L. 2018 S.B. 884 history note; verified sourceUrl, sourceSha256, textSha256, and all twenty bodySha256 fingerprints. Checked Missouri-source baseline (1), tax years beginning on or after Jan. 1, 2020 cutoff (2), six definitions including receipts exclusions (3), taxable-in-another-state tests (4), nonapportionable allocation categories and rules (5)-(9), single-sales/receipts apportionment (10), tangible-property destination sourcing (11), market-based sourcing and reasonable approximation (12), uniform industry rules, alternative apportionment, preponderance burden with 2-of-5-year variance exception, reliance penalty bar, and non-revocation of written permission (13), passenger-carrier, transportation, bridge, and telecom rules (14)-(17), Missouri expenses/losses (18), IRC 172 NOL-only deduction apportionment (19), and investment-funds service corporations (20). Retained all twenty drafted titles."
     },
     {
       "id": "143.461:35301",
@@ -3215,8 +3243,8 @@
       "sourceSha256": "f669d0dbe4ea053039a80eeae7691b349e8a027185b817e1d642e98a24268f62",
       "textSha256": "49d161a698164d1523c3469081acb369f3650970b451bb518bacb74b1d41a977",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3242,7 +3270,9 @@
           "bodySha256": "e5789394d8784d0fac266a6e5291f48865ab8df498cb45d3ddc4631defcaf28e",
           "reviewNote": "Full body and history read. Source says beginning on or before January1,2020 twice, differing neighboring143.455 on or after; neutral titles avoid correcting date. Five-year maximum and notice deadlines preserved."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.461:35301, all four subsections, and 1972/2018 history note; verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints. Explicitly verified and preserved without silent correction the source date discrepancy in both (1) and (4) stating 'for all tax years beginning on or before January 1, 2020, in the manner set forth in section 143.455' (differing from section 143.455(2)'s 'on or after'). Checked notice/recordkeeping election (1), 60-day petition and 30-day director approval for up to five years (2), expiration/90-day revocation and re-petition (3), and default statutory apportionment on failure to submit or follow approved method (4). Retained all four drafted titles as accurate and neutral."
     },
     {
       "id": "143.471:35302",
@@ -3250,8 +3280,8 @@
       "sourceSha256": "6eb46cd5828c4a6ab0052a39dd2d8f72888fdce5c27a96c8f925e7c7c2964e78",
       "textSha256": "aafc7b96ae16b6a7f96417ca313294e951cfa6871ce86a17b423eec83a5a3909",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3285,7 +3315,7 @@
         },
         {
           "number": 6,
-          "title": "Nonresident shareholder withholding and agreement exceptions",
+          "title": "Nonresident shareholder withholding, agreements, and exceptions",
           "bodySha256": "2242ffffe8d185f14de6970909be586b8d7738723d1256be6b0cb1200c3cd363",
           "reviewNote": "Complete twelve subsections, nested credit conditions and Wolff annotation read. Source agreements and recovery-for language preserved; resident case not generalized to nonresidents. Distinct institution credits share restricted carryforward, qualified stock and holding-company pass-through conditions."
         },
@@ -3325,7 +3355,9 @@
           "bodySha256": "9aa7ce6384d7d2fb4b85282832d885139f3c2b4624368f071fb5311053ad1993",
           "reviewNote": "Complete twelve subsections, nested credit conditions and Wolff annotation read. Source agreements and recovery-for language preserved; resident case not generalized to nonresidents. Distinct institution credits share restricted carryforward, qualified stock and holding-company pass-through conditions."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.471:35302, all twelve subsections including bank, savings association, and credit institution credit subdivisions, 1972-2018 history notes, and Wolff v. Director of Revenue (1990) annotation; verified sourceUrl, sourceSha256, textSha256, and all twelve bodySha256 fingerprints. Checked S corp corporate-tax exemption (1), shareholder modifications and item character (2), nonresident sourcing under 143.451/143.461/32.200 (3) and Jan. 1, 2020 transition to 143.455/143.461 (4), composite returns (5), withholding-or-agreement rule, carryforward timeliness, and five exceptions (6), filing/jurisdiction agreements preserving archived cross-reference to 'subdivision (1) of subsection 6' (7), rate/table withholding calculation (8), recovery wording ('recover for a shareholder') (9), and chapter 148 shareholder credits with holding-company flow-through and 5-year carryforward limits (10)-(12). Revised (6) from 'Nonresident shareholder withholding and agreement exceptions' to 'Nonresident shareholder withholding, agreements, and exceptions' to avoid suggesting exceptions to agreements rather than withholding; retained remaining eleven titles."
     },
     {
       "id": "143.491:7252",
@@ -3333,8 +3365,8 @@
       "sourceSha256": "557e3724bcaf581b00eec37bbcc76886455306209488711c6f36f008e74df955",
       "textSha256": "b274b565e6a01bed1b96244beb4416f488dfeeabf157e3b8f01a46966de5c2cf",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3348,7 +3380,9 @@
           "bodySha256": "232f3ff0e0a44dacfe388bf9909ea6f9c553dac529b4f08832b6ad54a77ab748",
           "reviewNote": "Full source and note read. Combined state filing expressly does not create joint-and-several liability."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.491:7252, both subsections, and 1972/1973 notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked mandatory combined Missouri return when filing a joint federal return with separate (non-joint-and-several) liability (1) and separate Missouri returns when not filing a joint federal return (2). Retained both drafted titles as accurate."
     },
     {
       "id": "143.501:7253",
@@ -3356,8 +3390,8 @@
       "sourceSha256": "fa5a0d65a5b8e01b3a09daecd12bc2ea83d2cdfadbd41ec527d7af6bd55b22b3",
       "textSha256": "1121475fdb02950fbf9764d8862bc4b636eaa9c3bec5c962187616d5334214d9",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3385,11 +3419,13 @@
         },
         {
           "number": 5,
-          "title": "Partnership returns under statutory filing requirements",
+          "title": "Partnership returns under section 143.581",
           "bodySha256": "ce21a104a382a05ee65ae744e41c192ca0158531dcc37644baa553da1351aff5",
           "reviewNote": "Full source and note read. A cofiduciary may file; decedent death does not change ordinary due date."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.501:7253, all five subsections, and 1972/1973 notes; verified sourceUrl, sourceSha256, textSha256, and all five bodySha256 fingerprints. Checked decedent return filing and unchanged due date (1), minor/disabled individual returns (2), estate/trust fiduciary returns (3), filing by any one joint fiduciary (4), and partnership returns cross-referencing section 143.581 (5). Revised (5) from 'Partnership returns under statutory filing requirements' to 'Partnership returns under section 143.581' to preserve the exact defining statutory cross-reference; retained (1)-(4)."
     },
     {
       "id": "143.521:7255",
@@ -3397,8 +3433,8 @@
       "sourceSha256": "07b4a2619942628d670e4894a0cb7a77bdbf687ff5821109a65158819aebe738",
       "textSha256": "565f31b9409ba1d2b85210f8e05699e7432b1c0e02207c0a2687bd8fbb16b0f3",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3448,7 +3484,9 @@
           "bodySha256": "50a0f2a13c520a545743248c0d8de383be547caeecfc806688f385f6955f2a6a",
           "reviewNote": "Full text/history read. Combined declarations have joint-and-several liability unlike143.491 combined returns. Threshold floors, credit subtraction and qualifying early full payment requirements preserved."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.521:7255, all eight subsections, and 1972-1998 history notes; verified sourceUrl, sourceSha256, textSha256, and all eight bodySha256 fingerprints. Checked individual ($100 floor) and corporate ($250 floor) thresholds with director adjustment authority (1)-(2), definition net of credits and withholding (3), optional combined spousal declarations with joint-and-several liability (distinct from 143.491) (4), amendments (5), Jan. 31 / March 1 farmer full-payment early returns (6), short taxable years under regulations (7), and disabled-individual filing under 143.501 (8). Retained all eight drafted titles as accurate."
     },
     {
       "id": "143.531:7256",
@@ -3456,8 +3494,8 @@
       "sourceSha256": "1afadcc9d9ae7e7ff648b3d5dff2ed9cb9d1d9433bf9689756ae5bb640a08131",
       "textSha256": "43ec8078a64d9093269812ee72a7bd5416f4c95fa302ac950ca190014ceb0d39",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3471,7 +3509,9 @@
           "bodySha256": "96f42806d35e667d9b4a3d74c9f95a79fc8548728b55195150db56129776f838",
           "reviewNote": "Full text and1990effective note read. Farm income must reach two-thirds; corporate December date differs individual January date."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.531:7256, both subsections, and 1972/1989 (Effective 1-01-90) notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked non-farmer April 15 / June 15 / Sept. 15 / Jan. 15 (individual) or Dec. 15 (corporate) filing triggers under 143.521 (1) and optional Jan. 15 filing for individuals with at least two-thirds estimated Missouri gross income from farming (2). Retained both drafted titles as accurate."
     },
     {
       "id": "143.541:7257",
@@ -3479,8 +3519,8 @@
       "sourceSha256": "81a50b1d48ea73340b0c214920a52273799e0ca61622ed52d6bc30b6b2edf459",
       "textSha256": "c7c46ddba0306655cbc2bf2260dca586be38e0f10bd5ee0778f282f075cc6280",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3508,7 +3548,7 @@
         },
         {
           "number": 5,
-          "title": "Corresponding payment months for fiscal-year taxpayers",
+          "title": "Corresponding months for fiscal-year taxpayers",
           "bodySha256": "25ba21de1374f90a5af4ead57ae6f7c6908c193427d7f3a13c2bbb6f1eeaa880",
           "reviewNote": "Entire nested schedule and note read. Late filing even with extension does not gain reduced installment schedule; corporate December substitution, postSeptember amendment acceleration and individual early-pay scope retained."
         },
@@ -3524,7 +3564,9 @@
           "bodySha256": "a2dc98cad807c83a7f29e184a199f0afd3b0477e696defe2067ab579ba88fdca",
           "reviewNote": "Entire nested schedule and note read. Late filing even with extension does not gain reduced installment schedule; corporate December substitution, postSeptember amendment acceleration and individual early-pay scope retained."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.541:7257, all seven subsections including subdivisions (1)-(6) of subsection 1, and 1972/1973 notes; verified sourceUrl, sourceSha256, textSha256, and all seven bodySha256 fingerprints. Checked 4/3/2/1 installment schedules, late-declaration catch-up (even with filing extension), and corporate Dec. 15 substitution (1), full payment on post-Sept. 15 farmer declarations (2), ratable amendment adjustments and immediate payment after Sept. 15 (3), short-year regulations (4), fiscal-year corresponding-month substitution applying to sections 143.521, 143.531, and 143.541 (5), individual early-installment election (6), and credit on account of annual tax (7). Revised (5) from 'Corresponding payment months for fiscal-year taxpayers' to 'Corresponding months for fiscal-year taxpayers' so coverage of 143.521 and 143.531 is not narrowed to payments; retained remaining six titles."
     },
     {
       "id": "143.551:7258",
@@ -3532,8 +3574,8 @@
       "sourceSha256": "c8fca809353aabc51f482824dd571e7b16b29cbf34c7872e8346fc6b469f7e72",
       "textSha256": "6f310936560a3b0dc60d8098945401a4c5d60a911d03ebdc7b5aa18d518ae58b",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3559,7 +3601,9 @@
           "bodySha256": "c6d3cd2af592a9c8593a67d3f0eefd297de7290c5e39adad5be8be48961437c6",
           "reviewNote": "Full source and note read. Filing extension alone does not postpone payment; six-month limit addresses filing with abroad exception."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.551:7258, all four subsections, and 1972/1973 notes; verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints. Checked director discretionary filing/payment extensions with 6-month filing cap except outside the United States (1), automatic state filing (2) and payment (3) extensions upon filing copies of federal extensions, and required timely estimated payment when only filing time is extended (4). Retained all four drafted titles as accurate."
     },
     {
       "id": "143.561:7259",
@@ -3567,8 +3611,8 @@
       "sourceSha256": "2c1753e98dc75abc5c591000ed8ffe50acb9dcc7e6ea3433350a6107dd55363e",
       "textSha256": "d5ab7420e1999e4ed9564b74de5a63c111a5d071a310fa7da8524202163b5a08",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3588,7 +3632,9 @@
           "bodySha256": "c942e8f5d07383dc192325d98c095b199bb64095892f1d356ede32e46f8e159e",
           "reviewNote": "Full source and note read. Prima facie signature evidence and truth certification distinguished; differing143.966/996 source references not repaired."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.561:7259, all three subsections, and 1972/1973 notes; verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints. Preserved archived range discrepancy ('143.011 to 143.966' in (1) vs '143.011 to 143.996' in (2)) without repair. Checked signing requirements and prima facie evidence of individual signature (1), filing as truth certification of statements and copies (2), and discretionary preparer-disclosure regulations (3). Retained all three drafted titles as accurate."
     },
     {
       "id": "143.611:59945",
@@ -3596,8 +3642,8 @@
       "sourceSha256": "24149e5c1fdebf7d018bb0c3b6ee990cb009657dd6219cdfed65e5b0fb954cd7",
       "textSha256": "15891c0de3e82a3fe44ef154fdbe9e3e0274b29035637b2fa61062d23a35b48a",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3617,7 +3663,9 @@
           "bodySha256": "7216f779869004bd4cd53fb6b401f3122b693d2a6700101b1c8d0825e18bd3e1",
           "reviewNote": "Complete2026source read. Electronic delivery at taxpayer request, separate spouse notices upon notification, fiduciary-address exception and greater-than-one-dollar minimum retained."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.611:59945, all three subsections, and 1972/2026 (A.L. 2026 H.B. 2180) history note; verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints. Checked return examination, proposed deficiencies, overpayment crediting/refunds, and the >$1 threshold (1), estimated assessments for unfiled returns (2), and deficiency notice contents, first-class mail or taxpayer-requested electronic delivery, combined-return separate spouse notices on notification, and deceased/disabled/terminated-corporation address rules (3). Retained all three drafted titles as accurate."
     },
     {
       "id": "143.631:7266",
@@ -3625,8 +3673,8 @@
       "sourceSha256": "67b39fcb0924109323b4f487f27a0a84eb85cc8e4d39d24dccbf4787c2794a78",
       "textSha256": "5f23efd86a715e4f55bb7b1165c78a0948eaf38f17c1489b12221cef9fdb9bcb",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3664,7 +3712,9 @@
           "bodySha256": "f3c6c5d99befc466ec18f84cd2bd1fb234857f6dc2a37fd470f491708d1464d9",
           "reviewNote": "Read entire version. Longer protest period abroad, mandatory hearing upon request, noninterest return before final assessment or court action and not-refund-claim distinction retained. Subsection4 cross-reference to2 despite deposit in3 left unchanged."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.631:7266, all six subsections including subdivisions (1)-(3) of subsection 3, and 1972-1996 history notes; verified sourceUrl, sourceSha256, textSha256, and all six bodySha256 fingerprints. Checked 60-day (150-day abroad) written protests and reconsideration (1), mandatory informal hearing on request and settlement consideration (2), pre-finality protest deposits and required statements (3), receipts, general-revenue deposit, and rejected tenders preserving archived cross-reference 'under subsection 2 of this section' even though deposits sit in subsection 3 (4), non-interest deposit returns before finality or Cole County action under 143.841(5) not treated as 143.821 refund claims (5), and chapter 143 exclusivity barring incorporation by reference (6). Retained all six drafted titles as accurate."
     },
     {
       "id": "143.701:7273",
@@ -3672,8 +3722,8 @@
       "sourceSha256": "14229f408663c8fce253a7878845fd5eaed67d0e78b3b694d159640fec9019d2",
       "textSha256": "fc01d50a8c152178be138055b56fae38d9472793c4210ad74c50a4eb0b7de2e6",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3693,7 +3743,9 @@
           "bodySha256": "91007b894009287c3ac29f02dbbb350dada7ecec713db7d6f7969fc7526d4957",
           "reviewNote": "Complete source read. Federal-change concessions and payment receipts have distinct deemed-assessment rules; withholding/estimated payments excluded from last receipt rule."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.701:7273, all three subsections, and 1972/1978 history note; verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints. Checked deemed assessment dates across filed/amended returns, director-computed returns, unprotested/protested deficiency notices, 143.601 federal-change concessions, and tax payments excluding withholding and estimated tax (1), regulatory gap-filling for mode/time including interest/additions/penalties (2), and timely supplemental assessments for materially imperfect or incomplete assessments subject to 143.611 (3). Retained all three drafted titles as accurate."
     },
     {
       "id": "143.711:7274",
@@ -3701,8 +3753,8 @@
       "sourceSha256": "f91ba630137b2e6e25d5771183da219f251b1eecc288da3959d28a44f37c06aa",
       "textSha256": "37c0f50d407b4549330a156ab5ac65b1e394360916e2d11d48518e75b86afffb",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3746,7 +3798,9 @@
           "bodySha256": "175cc0dbe497a9714721ac69f2e8df003b3f7e48db46b70307788fd97a71ed68",
           "reviewNote": "Complete source and note read. Adequate disclosure excludes amounts from25percent calculation; missing returns differ fraudulent intent requirement. Federal-change notices limited to affected issues and tax deduction."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.711:7274, all seven subsections, and 1972/1973 notes; verified sourceUrl, sourceSha256, textSha256, and all seven bodySha256 fingerprints. Checked general 3-year mailing limit with 143.721 exception (1), 6-year limit for >25% Missouri AGI/gross-income omissions excluding adequately disclosed items (2), no time limit for missing or fraudulent returns with intent to evade (3), 1-year director-awareness period and narrow scope for unreported 143.601 federal increases (4), 1-year assessment period with same scope limits after reported federal changes (5), mutual written extensions (6), and deemed filing dates for early returns (7). Retained all seven drafted titles."
     },
     {
       "id": "143.731:7276",
@@ -3754,8 +3808,8 @@
       "sourceSha256": "c6d60e3ae8ff778ba875b1f378b89edb78d8ecab2293cf233ef8c09e093a5d5e",
       "textSha256": "f4009c6f74b892603693b243f2fdd519cb5063fa4a8800c51292a7f99f3bace2",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3817,7 +3871,9 @@
           "bodySha256": "ecedcc1b15dd3f1d42b20bd2044cfa9d67db95cf11a77b899784d7ccabbdcaa3",
           "reviewNote": "Full ten subsections and history read. Under-one-dollar and estimated-tax exclusion, ten-day grace versus retroactive penalty-interest calculation, and deposit cross-reference anomaly retained without repair."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.731:7276, all ten subsections, and 1972-1988 history notes; verified sourceUrl, sourceSha256, textSha256, and all ten bodySha256 fingerprints. Checked 32.065 underpayment interest, <$1 exclusion, and 143.541 estimated-tax exclusion (1), unextended payment date (2), post-30-day interest suspension after waiver (3), assessing/collecting interest as tax (4), 10-day grace and retroactive notice-date interest on penalties/additions (5), 10-day post-demand relief (6), overpayment credit interest offset (7), protest-deposit interest relief retaining archived 'subsection 2 of section 143.631' reference (8), erroneous-refund interest (9), and coextensive assessment/collection limitations (10). Retained all ten drafted titles as accurate."
     },
     {
       "id": "143.732:47882",
@@ -3825,8 +3881,8 @@
       "sourceSha256": "c57ceeb13c48758a0846ff777dc2496dcebf62a3bbb1f8af4f52f3af7647a326",
       "textSha256": "6984329d151588149b4375b9d3ad74923fd0e2db9242d9022764e8e486d69ef3",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3846,7 +3902,9 @@
           "bodySha256": "29c5b539215f881fd33a51dcb00c838b90b754de4871b458ac7604e5fa52570a",
           "reviewNote": "Read complete body and explicit2019sunset/2020termination notes. Historical relief conditional on timely return and good-faith payment-plan participation; not represented as active program."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.732:47882, all three subsections, and L. 2019 S.B. 87 notes explicitly recording Effective 7-11-19, Sunset date 12-31-19, and Termination date 12-31-20; verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints. Verified titles neutrally identify the historical 2018 individual tax-year relief (conditioned on timely filing and good-faith payment-plan participation, with May 15, 2019 interest/refund cutoff) (1), chapter 536 nonseverable rulemaking after July 11, 2019 (2), and section 23.253 sunset/termination provisions (3) without implying current enforceability. Retained all three drafted titles."
     },
     {
       "id": "143.741:7277",
@@ -3854,8 +3912,8 @@
       "sourceSha256": "b9320e9b9034c43b20d94fc979ededb858a42ecaefc8c3a46bef17f7877ea56a",
       "textSha256": "2f0bc6a6a686bed3bf21f5d78684fd575f0642fc870abbd1683947507b499c42",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3869,7 +3927,9 @@
           "bodySha256": "4aa1ceb22d38a90fe40dbac3d3ba2588647220864ca5f595469348f8290cfc63",
           "reviewNote": "Full source and note read. Extensions honored for filing; reasonable cause requires absence of willful neglect; annual statement penalty cap differs percentage tax additions."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.741:7277, both subsections, and 1972/1973 notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked 5%-per-month (25% cap) late-return addition honoring filing extensions, reduced by timely payments/credits, with reasonable-cause/no-willful-neglect exception (1), and $2-per-statement ($1,000 annual cap) penalty for missing payment/withholding statements with the same filing-extension and reasonable-cause rules (2). Retained both drafted titles."
     },
     {
       "id": "143.751:7278",
@@ -3877,8 +3937,8 @@
       "sourceSha256": "358a5e77a7107fd6b2edc95b2cdcd19d82bfa218c4b741783baea3eb5329414c",
       "textSha256": "c7d87a395c06e2a78d05cafd66b63b6c2969eecff597cdf0d6646a258945b07e",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3916,7 +3976,9 @@
           "bodySha256": "124aff1aaca17ca3b5f9eaabf568c61f982d98280960eb39d81b4f7e75a70f84",
           "reviewNote": "Full body and Goldberg annotation read. Employer addition still depends on negligence or intentional disregard per case; employee cannot bear charges. Subsection4 tax-sized penalty excludes1/2additions, while5has different cap and fraudulent intent."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.751:7278, all six subsections, 1972/1998 history notes, and Goldberg v. AHC (1980) annotation; verified sourceUrl, sourceSha256, textSha256, and all six bodySha256 fingerprints. Checked 5% negligence/intentional-disregard addition with mandatory factual/rule notice and bar on invalidated rules (1), 50% fraud addition in lieu of (1) (2), non-evasion employer withholding liability, bar on charging employees, and Goldberg negligence-condition annotation (3), 100% willful-failure penalty excluding (1)/(2) additions (4), up-to-$1,000 fraudulent-intent penalty (5), and definition of responsible 'persons' including dissolved-corporation officers/employees (6). Retained all six titles."
     },
     {
       "id": "143.761:7279",
@@ -3924,8 +3986,8 @@
       "sourceSha256": "e78e699aa7899b447b58056684d19bf74b8dcc4e7439449a10d446df86fe9cb9",
       "textSha256": "8e7e0d8ee51b25c36d091b25902b27ef89ce02b94b01bf7cc7c8a886596d8438",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3963,7 +4025,9 @@
           "bodySha256": "b5b5136c216eac9dc2bc19b0cd7fe150f4b4bd2ada64c31bfb3d231526080733",
           "reviewNote": "Full nested annualization schedules and effective note read. Farmers use different fraction, withholding treated as payments rather than estimate reduction, large-corporation definition requires both income thresholds and only two safe harbors excluded."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.761:7279, all six subsections including nested safe-harbor and annualization provisions, and 1972-1988 (Effective 1-1-89) notes; verified sourceUrl, sourceSha256, textSha256, and all six bodySha256 fingerprints. Checked 32.065 underpayment addition (1), 90% / 66-2/3% farmer underpayment formula (2), duration and payment-ordering rules (3), five alternative safe-harbor benchmarks including corporate 3/5/6/8/9/11-month annualization (4), section 143.211 withholding treatment as installment payments unless actual dates established (5), and exclusion of dual-threshold large corporations ($1M federal / $100K Missouri taxable income) from (4)(1) and (4)(4) (6). Retained all six titles."
     },
     {
       "id": "143.773:7281",
@@ -3971,8 +4035,8 @@
       "sourceSha256": "78ca6d1149b521da85af6c9d27fe5177d0adf0a8643bdc248cea63b1fdb12a82",
       "textSha256": "07f175c06f8966cb2af12cda0926f6fb9b777869b6d42ca1a7c4070a51887829",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -3992,7 +4056,9 @@
           "bodySha256": "bcd37af4ce393da2be4fd37b3f7605f7a399b496e9e49c0b47d8153713e8927d",
           "reviewNote": "Full source read. Defective content alone insufficient: intentional frivolous/delay purpose and failure to cure after notice required. Abroad150daycure differs30dayreview; director carries burden."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.773:7281, all three subsections, and L. 1984 H.B. 1229 § 1 note; verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints. Checked individual up-to-$500 penalty requiring conjunctive defect, intentional frivolous/delay/impede conduct, and failure to cure within 90 days (150 days abroad) after notice (1), cumulative penalty status (2), and certified-mail assessment notice, 30-day finality/AHC review right, director burden of proof notwithstanding 143.661, and return-form notice printing beginning Jan. 1, 1985 (3). Retained all three drafted titles as accurate."
     },
     {
       "id": "143.781:7282",
@@ -4000,8 +4066,8 @@
       "sourceSha256": "b22010c14413c7fb81968434c24224524362e0af61c867ae393a11288190ee4c",
       "textSha256": "660bf6f611cd34982a076506705756d6d9ec59034083dc241cffbddeac4262d6",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4039,7 +4105,9 @@
           "bodySha256": "5a32da718995c7d4eac1d64e644b7766709bde6115074a3cf9ab371d214cdb0e",
           "reviewNote": "Full text and effective note read. Taxpayer can prevent spouse offset, employer refund excludes amounts actually withheld, setoff refund interest begins sixty days after setoff."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.781:7282, all six subsections, and 1972-1993 (Effective 7-1-93) notes; verified sourceUrl, sourceSha256, textSha256, and all six bodySha256 fingerprints. Checked crediting overpayments/interest against state tax liabilities, >$1 refund balance, unreturned 143.631 deposits, and optional spouse offset unless directed otherwise (1), excess withholding as overpayment (2), employer refund limit for unwithheld amounts under 143.191 (3), estimated-tax credit regulations (4), post-limitations assessments/collections as overpayments (5), and 143.782-143.788 agency debt setoffs with 143.811 interest beginning 60 days after setoff upon final entitlement determination (6). Retained all six drafted titles."
     },
     {
       "id": "143.783:7284",
@@ -4047,8 +4115,8 @@
       "sourceSha256": "520755146cba15e80529f9a7d32d04f1f67545f50f90d1368c803fe13a45b127",
       "textSha256": "727bab590977d60b357526cab8a92f40fa119848112c4eaa803c3c10affe0826",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4058,7 +4126,7 @@
         },
         {
           "number": 2,
-          "title": "Requested refund setoffs and collection-cost exception",
+          "title": "Requested refund setoffs and refund-determination cost exception",
           "bodySha256": "d167f0038285e961078c06cdb77fa4adf9fa0b4ed1a6de513fcd6e8812379a89",
           "reviewNote": "Full body and child-support cross-reference read; debt exceeds25 while neighboring refund minimum is at least25. Cost exception specifically determination of refund."
         },
@@ -4074,7 +4142,9 @@
           "bodySha256": "a9f25a25a7140907c0d124b96d56cbbf9480449d95d09d33218b262ca916d429",
           "reviewNote": "Full body and child-support cross-reference read; debt exceeds25 while neighboring refund minimum is at least25. Cost exception specifically determination of refund."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.783:7284, all four subsections, 1982/1984 history note, and Chap. 454 child-support setoff cross-reference; verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints. Checked >$25 agency debt threshold and federal-funding loss exception (1), requested refund setoff with exception when cost of determining the refund exceeds the refund amount (2), revenue department priority under 143.781 (3), and non-exclusive additional remedy status (4). Revised (2) from 'Requested refund setoffs and collection-cost exception' to 'Requested refund setoffs and refund-determination cost exception' to match the exact statutory trigger; retained (1), (3), and (4)."
     },
     {
       "id": "143.784:7285",
@@ -4082,8 +4152,8 @@
       "sourceSha256": "64fd848c6095b64e166d8ebeb25baac306268f3d3f0a8c6abd22c324f0cb7876",
       "textSha256": "9c368339fb42027de93ce36085e4d31be3c0bc4dd586db6765c2b5d98bf80c53",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4115,7 +4185,9 @@
           "bodySha256": "4e93c18cd70666d08fb817490f78606f0d3c129b1827b6845f7d65156d0220d8",
           "reviewNote": "Read all lengthy hearing/apportionment clauses. Receipt-based initial30days differs mailing-based final review; contemporaneous return request has separate15workingday path. Prior orders restrict defenses; escrow retained pending final determination, reciprocal agreement requires like comity."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.784:7285, all five subsections, and 1982-1994 history notes; verified sourceUrl, sourceSha256, textSha256, and all five bodySha256 fingerprints. Checked agency debtor identification/debt certification (1), >=$25 refund setoff notice/certification and excess refund return (2), certified-mail taxpayer notice, 30-day receipt-based hearing request/waiver, chapter 536 evidentiary hearing, post-order defense restrictions, and nonobligated-spouse apportionment (30-day agency application vs original-return request with 15-working-day DOR forwarding, 90-day agency determination, and 30-day mailing-based finality) (3), treasury escrow and interest (4), and reciprocal like-comity state agreements (5). Retained all five drafted titles as accurate."
     },
     {
       "id": "143.785:7286",
@@ -4123,8 +4195,8 @@
       "sourceSha256": "139b219cf53aefd3e3a65f784c9ac4cf45f074ebb5011b014ec8ab5bef23b351",
       "textSha256": "853b2f90098546e5d7708b7fe0bf34e9df157b898d2d95408d8ebb72ac2f712c",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4150,7 +4222,9 @@
           "bodySha256": "d81ba9bfbd4aeefa33df5d46c4ffa13b6bc7b418afb39c2966d4d42c6a76688c",
           "reviewNote": "Full text read. No factual issue or already litigated issues permits decision without evidentiary hearing but preserves judicial review."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.785:7286, all four subsections, and 1982/1984 history note; verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints. Checked chapter 536 agency hearing for unlitigated factual issues and sum adjustment (1), displacement of DOR hearings (2), final orders without evidentiary hearing when no factual issue or only previously litigated issues are raised with judicial review under 536.100-536.140 (3), and chapter 536 appeals from hearing actions (4). Retained all four titles."
     },
     {
       "id": "143.786:7287",
@@ -4158,8 +4232,8 @@
       "sourceSha256": "5a64175d1537fdca3cdf4c6e124a4fed4cb943cccdbec5b6bbbe2f344a1a5653",
       "textSha256": "3df4397578c1f662d89d021b16d9d7c4f850f37148c3af3fe9459312965591f5",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4173,7 +4247,9 @@
           "bodySha256": "321bfa23969d4ef37d6611935b9ea289c534a3ee1fb0e0a0e7ee164f90c0f0e5",
           "reviewNote": "Full body and effective note read. Final determination can follow default; surplus escrow interest transfer differs interest due debtor refund."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.786:7287, both subsections, and 1982-1993 (Effective 7-1-93) notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked finalization upon 143.785 determination or 143.784 default, debtor/treasurer notice and final accounting, refund of excess setoff with 143.781 interest, fund transfers, and monthly transfer of surplus escrow interest to general revenue (1), plus deeming the setoff refund granted (2). Retained both drafted titles."
     },
     {
       "id": "143.788:7289",
@@ -4181,8 +4257,8 @@
       "sourceSha256": "45e639c9b4a458c5c399a834d16582389b23edc752cb72f1e9d3a111a00a52bb",
       "textSha256": "8ecdc1f3ce5f5e576760c6b9832ec5456e0950c7b48495cc6c126bc9bb72d862",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4196,7 +4272,9 @@
           "bodySha256": "0ea7a197db5ce59e373b9f97774bddb42babb03c2e559322e5e73419296bfd8b",
           "reviewNote": "Complete body and note read; confidentiality retained and former employees included, statutory authorization exception preserved."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.788:7289, both subsections, and L. 1982 H.B. 946 § 9 (Effective 3-16-82) notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked DOR interagency disclosure notwithstanding 32.057 subject to IRC 6103(d) prohibition (1) and retained confidentiality, debt-collection-only use, and 32.057 unauthorized-disclosure penalties covering current and prior agency employees except as specifically authorized by law (2). Retained both drafted titles."
     },
     {
       "id": "143.790:7290",
@@ -4204,8 +4282,8 @@
       "sourceSha256": "7bc36e92f4cd0b777b8feb62b54a3c770f16f3550e8bc7620c6fa8596c42336b",
       "textSha256": "fc98c4282e0bbedabc226dbddf68b7345c744f24e85491f4103863dcba11ea2a",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4245,7 +4323,7 @@
         },
         {
           "number": 7,
-          "title": "Priority for delinquent taxes and other obligations",
+          "title": "Priority for delinquent taxes, agency debts, and child support",
           "bodySha256": "7fae8a511433389e7c764c6085169904bb3da4d1399485acc751494a4d8b8fa5",
           "reviewNote": "All eight subsections read. Eligibility source uses uninsured or ineligible public-benefits wording, not rewritten as both. More-than90days unpaid, facial merit review and final-debt settlement prerequisites retained; administrative charge imposed on provider."
         },
@@ -4255,7 +4333,9 @@
           "bodySha256": "86dd22d04465a869efae9e417c642dcf4f4b25f5dc7b2400efe1a5cd865c9507",
           "reviewNote": "All eight subsections read. Eligibility source uses uninsured or ineligible public-benefits wording, not rewritten as both. More-than90days unpaid, facial merit review and final-debt settlement prerequisites retained; administrative charge imposed on provider."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.790:7290, all eight subsections, and 2007/2014 Revision history notes; verified sourceUrl, sourceSha256, textSha256, and all eight bodySha256 fingerprints. Checked provider/hospital claims >90 days unpaid for uninsured or public-benefits-ineligible patients, DHSS facial-merit review, and 143.782-143.788/143.783 certification (1), debtor identification (2), DOR setoff notice and excess refund (3), certified-mail notice incorporating 143.784(3) retaining archived 'notify the debtor by certified mail the taxpayer' phrasing (4), provider settlement with <=20% admin-expense charge (5), 313.321 lottery-payout setoffs (6), priority for delinquent state taxes followed by agency debts and 454.425 family-support-division child support (7), and chapter 536 nonseverable joint rulemaking after Aug. 28, 2007 (8). Revised (7) from 'Priority for delinquent taxes and other obligations' to 'Priority for delinquent taxes, agency debts, and child support' to name the specific statutory priorities; retained remaining seven titles."
     },
     {
       "id": "143.801:7292",
@@ -4263,8 +4343,8 @@
       "sourceSha256": "e53b44238a51bd7643bff1bf7a86cebda8869c837c27c44369811a0f3e483d0e",
       "textSha256": "a1772b0e96c26daf256517173ae7c473051b311c64f9ce4fa2b5373903ca5c4d",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4308,7 +4388,9 @@
           "bodySha256": "0cd66bb67d62649f02b054cfba557415ade2409b0ea8e543313e0995c8246b0b",
           "reviewNote": "Full nested provisions and Hackman/Hamacher cases read. Filing deadline and amount lookback distinct; subsection7 still requires claim within one year of amendment, not unlimited refund eligibility. Corporate carrybackmonth39 differs40; timely federal change scope limits retained."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.801:7292, all seven subsections, 1972/2015 history notes, and Hackman (1989) and Hamacher (1989) annotations; verified sourceUrl, sourceSha256, textSha256, and all seven bodySha256 fingerprints. Checked general 3-year/2-year claim deadlines (1), payment-timing lookback caps (2), 6-month post-extension refund period under 143.711(6) (3), 1-year deadline, 90-day late-report interest cutoff, and timely-federal-issue scope limits for 143.601 changes (4), 7-year worthless debt/security claims (5), 40th-month (39th-month corporate) loss-carryback period and cap override (6), and post-limitations federal amendment/IRS change reopening subject to a 1-year filing requirement (7). Retained all seven drafted titles."
     },
     {
       "id": "143.811:35049",
@@ -4316,8 +4398,8 @@
       "sourceSha256": "ce1b10437938cc97c946e8173ee09b843e8dc0c8492de9838253b10793f77654",
       "textSha256": "17c3698789994d2db7aa5bdef0d5e43840eff7ccc77ea489081ec1a94e325e16",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4361,7 +4443,9 @@
           "bodySha256": "9386425904963cd1162b932a776589af4f5f8fa7e06981bb8c43f91d5193645e",
           "reviewNote": "Complete body and both effective dates read. Late amendment uses6percent rate, corporate/fiduciary fourmonths differs individual45days, deposits cross-reference left as archived."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.811:35049, all seven subsections, and 1972-2018 history notes including dual effective dates (8-28-18 S.B. 975 & 1024 Revision; 7-01-19 H.B. 1858); verified sourceUrl, sourceSha256, textSha256, and all seven bodySha256 fingerprints. Checked 32.068 interest, 6% late-amendment rate, and deposit-date interest retaining archived 'subsection 2 of section 143.631' reference (1), deemed early filing/payment dates (2), April 15 deemed withholding dates (3), 4-month corporate/fiduciary (143.061/143.071) and 45-day individual (143.011/143.041) interest-free refund windows (4)-(5), and loss-carryback and tax-credit-carryback (253.557/348.432) deemed overpayment dates (6)-(7). Retained all seven drafted titles."
     },
     {
       "id": "143.841:7296",
@@ -4369,8 +4453,8 @@
       "sourceSha256": "2fb59fd314053776d93786cc990af89ed8e21d907567029d920a176d7c18addf",
       "textSha256": "4cf9a66b3afed58d25cdd45e113fe7f82152b96e2828f62b0438b1dd808d54ff",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4402,7 +4486,9 @@
           "bodySha256": "80eba323a83a9d6734b54724cf48975aca66c80b511a01e22e845a35b63c818e",
           "reviewNote": "Complete body and history read. Deposit route substitutes ColeCounty nonjury court for commission review with same filing period; source deposit subsection2crossreference retained."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.841:7296, all five subsections, and 1972-1988 history notes; verified sourceUrl, sourceSha256, textSha256, and all five bodySha256 fingerprints. Checked 60-day denied-claim protest and reconsideration (1), 90-day certified/registered-mail determination notice with adverse findings (2), 30-day finality/AHC review deadline (3), taxpayer-county hearing venue (4), and Cole County circuit-court nonjury recovery action in lieu of AHC review for 143.641/143.841(2) determinations retaining archived 'subsection 2 of section 143.631' deposit reference, with 143.811 interest, DOR counsel, and appeal rights (5). Retained all five drafted titles."
     },
     {
       "id": "143.861:7298",
@@ -4410,8 +4496,8 @@
       "sourceSha256": "5cc365f939cfdd568a5f7d64ffa6c766d1599043ae8143897b039d49500cc8eb",
       "textSha256": "478b6d6f819a259fe5375e5ec7ea84d29aadfbccbf80943206d01f158b850b6f",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4431,7 +4517,9 @@
           "bodySha256": "44c1a55c1910cd77ca6e03bf586ac6bab32199f8c5539150b972a8e315593358",
           "reviewNote": "Full source and note read. Requested receipts, ten-day demand and director certificate prima facie but explicitly not conclusive retained."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.861:7298, all three subsections, and 1972/1973 notes; verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints. Checked director collection authority, receipts on request, and bank/trust company payment authorization including federal-withholding depositories (1), 10-day notice and demand for unpaid assessments (2), and AG/prosecuting-attorney civil collection suits where the director's certificate is prima facie but expressly not conclusive evidence (3). Retained all three drafted titles."
     },
     {
       "id": "143.871:7299",
@@ -4439,8 +4527,8 @@
       "sourceSha256": "a1a974e61d624a25a8d1625d3adfe5b32bc0c7e196aa44bad0da5116fe06e132",
       "textSha256": "6978ce9856cea6ff1ff79d21467c24300a4c0debbf65f8518ad5142e0cb42da8",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4454,7 +4542,9 @@
           "bodySha256": "f7b0e05800e43ff9010979fc9dc2f09ee981702d0a447c2ab41f6d664853de81",
           "reviewNote": "Full source and note read. Like comity required; other states includes political subdivisions andDC, unlike foreign sovereigns. Officer-authority certificate conclusive, distinct tax amount evidence."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.871:7299, both subsections, and 1972/1973 notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked reciprocal court enforcement conditioned on like comity, conclusive secretary-of-state officer-authority certificate, and inclusion of additions/interest/penalties (1), plus definition of 'any other state' covering U.S. states, political subdivisions, and D.C. while barring foreign sovereign tax enforcement (2). Retained both drafted titles."
     },
     {
       "id": "143.881:7300",
@@ -4462,8 +4552,8 @@
       "sourceSha256": "472fa1fe33aa124c0157e5b72f317e783c17d8b22a49fe90cb3ea40ae719cb00",
       "textSha256": "f95b0a2dcf45bfb3b8a98c757261ef775cd4e19e82ed85edddc38143967f93cd",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4489,7 +4579,9 @@
           "bodySha256": "3eee2233a5bb066e4bceb9e7dcb4b68c557cf0911f87aa9db7bfcbbe5dc4d053",
           "reviewNote": "Read whole text and original-roll repeated-language note. Three-year outer successive-transferee limit and extension effects on refunds retained; no repair to source duplication."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.881:7300, all four subsections, 1972/1973 notes, and original-roll footnote (*'of a transferee' repeated twice); verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints. Checked transferee liability at law/equity and covered recipients (1), 1-year initial and successive transferee assessment periods capped at 3 years post-original transferor (retaining original-roll duplication note) (2), written extensions and linked 143.801(1)-(3) refund-limitation effects (3), and unaffected limitation periods upon death (4). Retained all four drafted titles."
     },
     {
       "id": "143.891:7301",
@@ -4497,8 +4589,8 @@
       "sourceSha256": "ec309d757cdd94103cb65d091c0a6b9f08015529ed00895912941103b8731c58",
       "textSha256": "5615eb383f395b840f8bc0c0300c2182ec0f09507050da8e4713532f7e3ae310",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4530,7 +4622,9 @@
           "bodySha256": "d532d15508b6569acd1bc776b8a1185312e3af0f7244a66fad9e98197dd07a71",
           "reviewNote": "Full version read. Ten-day secured request prevents finality and stays collection; thirty-day subsequent review distinct. Abatement discretionary upon finding."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.891:7301, all five subsections, and 1972/1978 history note; verified sourceUrl, sourceSha256, textSha256, and all five bodySha256 fingerprints. Checked jeopardy findings and immediate payment demand (1), immediate termination of current taxable period (2), immediate collection and 10-day secured reassessment request to stay collection and prevent finality (3), reconsideration and 30-day finality/AHC review window (4), and discretionary abatement if jeopardy does not exist (5). Retained all five drafted titles."
     },
     {
       "id": "143.901:7302",
@@ -4538,8 +4632,8 @@
       "sourceSha256": "07f7dfe242b1acbdd51aaccb8bfaf669f8b1c73637bf8c2d8f1be98bb3b2c350",
       "textSha256": "8b80f81a78a8510dcb9d38c63197f80824b526fdd042b17d9eb50271f998a76d",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4553,7 +4647,9 @@
           "bodySha256": "bd1dfa77e6d4110f1ca8ea546e44db5fd87ab6756e6bd93dc12fcedf3566f01a",
           "reviewNote": "Full source read. Pending commission protest does not bar court claim; new protest forbidden after adjudication or receiver appointment."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.901:7302, both subsections, and 1972/1978 history note; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked immediate deficiency assessment upon bankruptcy adjudication or receiver appointment (1) and presenting claims to the bankruptcy/receivership court despite pending 143.651 AHC protests while barring new protests after adjudication or appointment (2). Retained both drafted titles."
     },
     {
       "id": "143.902:7303",
@@ -4561,8 +4657,8 @@
       "sourceSha256": "27f9b3767e5e29b6a585079efb0b8045185305fad01cde884a000198c2d79498",
       "textSha256": "81b6be285b56074c5fe4fab6c7ea81ab593a560fcf750e0a5895fd69c9aa1253",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4600,7 +4696,9 @@
           "bodySha256": "a5cc87269f0e6b1a02219818cf5095deba77d3d1e896e3a666402937c2adf0d1",
           "reviewNote": "Read all nested clauses. Final assessment prerequisite, one-time10yearrefiling, special withholding execution exemption exclusion, erroneous-filing expungement and creditor notices preserved. Public departmental record expressly neither official nor conclusive; partial release does not release otherproperty."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.902:7303, all six subsections including subdivisions (1)-(4) of subsection 1, and 1988/1992 history note; verified sourceUrl, sourceSha256, textSha256, and all six bodySha256 fingerprints. Checked final-assessment prerequisite, pre-filing notice of intent and 20-day post-filing notice, 10-year duration with one-time refiling, circuit-court default-judgment force/effect (and Cole County delinquency filing for nonresidents), execution without exemption for 143.191-143.265 withholding taxes, cumulative remedies, and erroneous/improvident lien release, creditor notices, public-record determination, and certified-mail expungement (1), whole/partial lien release (2), specific-property release under 443.090 not affecting other property (3), recorder fees ($3/$1.50), quarterly reimbursement, and cost-matching taxpayer penalty (4), public inspection notwithstanding 32.057 of non-official/non-conclusive director records (5), and judgment modification/satisfaction after alteration or abatement including 143.791 (6). Retained all six titles."
     },
     {
       "id": "143.903:7304",
@@ -4608,8 +4706,8 @@
       "sourceSha256": "8cfc8538e45d83914bc03a54b3bd520c69fba840ce91be951622e4a442e86177",
       "textSha256": "505fb417ce25e64e5928457da8a7c10291e6240f6e1d0f0583e9cefd9dc76925",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4623,7 +4721,9 @@
           "bodySha256": "02da284afbf57e17f5fb26a9b3be0c3543c365be55a7cde8fc8b0eecf3762c21",
           "reviewNote": "Full source/effective note read. Court or commission determination of unexpectedness required; only specified postOct1,1990 final decisions, not every unfavorable ruling."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.903:7304, both subsections, and L. 1990 H.B. 960 § 2 (Effective 10-1-90) notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked prospective post-most-recently-ended-tax-period application of unexpected court/AHC decisions for chapter 143 and 144 taxes including credits, refunds, and assessments (1), plus applicability only to final decisions after Oct. 1, 1990 determined unexpected by a court or the AHC under the reasonable-person standard (2). Retained both drafted titles."
     },
     {
       "id": "143.961:7311",
@@ -4631,8 +4731,8 @@
       "sourceSha256": "dc60123aeb2cf0a194ddc1656b060b8dbb6da41f02173959cf6a268d4f286a94",
       "textSha256": "8c8ccd85a1fe4039a1b612cf49215ccc987e27e06f47097fd1e45e36424999f8",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4646,7 +4746,9 @@
           "bodySha256": "25b216dd06d33c3a7ad97b049c5d26d967ad1f287b872d9ba41b8b712fc76b8e",
           "reviewNote": "Full body/note read; federal-rule following qualified as nearly as practicable."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.961:7311, both subsections, and 1972/1973 notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked director administration, enforcement, rulemaking, reporting requirements, and temporary/permanent branch offices (1), plus following federal Treasury income-tax rules 'as nearly as practicable' and stated statutory construction purposes (2). Retained both drafted titles."
     },
     {
       "id": "143.971:7312",
@@ -4654,8 +4756,8 @@
       "sourceSha256": "7f09528944a98caeee80324ae927a7fb44938e8496de909464482e59d92be34d",
       "textSha256": "c91df24665701ae81b370f7f60d4752fde9e7fd27f6dfc2d960c1304499cf16a",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4675,7 +4777,9 @@
           "bodySha256": "2be452931970111369b0eae07fe5bba427aa296318ec20d7519d8bd6ae42c1af",
           "reviewNote": "Full body/note read. Four-year retention continues until destruction order, not automatic four-year deletion."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.971:7312, all three subsections, and 1972/1973 notes; verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints. Checked discretionary prescribing of return/document forms and contents (1), examination of books/records, compelling attendance/testimony/proof, and administering oaths (2), and preserving filed reports/returns for four years and thereafter until the director orders destruction (3). Retained all three drafted titles."
     },
     {
       "id": "143.980:47883",
@@ -4683,8 +4787,8 @@
       "sourceSha256": "18748338d85e17077de8573b41e24008d92727abf6ea11c4c0a49487aac46446",
       "textSha256": "d55fc61e1ea122de92f4008ae9036bc0354be45f7c3d949da378e95239fbb589",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4710,7 +4814,9 @@
           "bodySha256": "da0cb0742d1117e758f94cd18132c994cbef3544ce233fdce9468f193172ccd5",
           "reviewNote": "Read entire nested misconduct list and original-roll note. CPAs/employees and enrolled agents excluded by definition; practice ban needs repeated conduct and lesser injunction insufficiency. Prior injunction creates prima facie case, not automatic prohibition."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.980:47883 (Taxpayer Protection Act), all four subsections including all subdivisions and paragraphs, L. 2019 S.B. 87 note, and original-roll footnote (*'person'); verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints. Checked short title (1), definitions excluding actively licensed CPAs, CPA employees, and 31 C.F.R. 10.4 enrolled agents (2), Jan. 1, 2020 signature/IRS PTIN mandates and $50/$25,000-capped penalties with reasonable-cause/no-willful-or-reckless-conduct exception (3), and judicial injunctions against 11 enumerated acts, practice bans requiring continual/repeated conduct where narrower injunctions are insufficient, and 5-year federal/other-state injunction prima facie evidence (4). Retained all four drafted titles."
     },
     {
       "id": "143.986:7313",
@@ -4718,8 +4824,8 @@
       "sourceSha256": "de1f9e773d192cbb05fd76d3f52128b590fa77f3be19ddb755518157d13e58ae",
       "textSha256": "dbf9879b67dd540f224e09bfd645941bd517e08995ccdb9bde5ec1750ed450c9",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4729,11 +4835,13 @@
         },
         {
           "number": 2,
-          "title": "Finality of agreements and exceptions for misconduct",
+          "title": "Finality of agreements and fraud or misrepresentation exceptions",
           "bodySha256": "341b7f5f444065dfa36bf845496d01f68fb47c23c835f4fbba4cfada6c4f39de",
           "reviewNote": "Full body and note read. Fraud, malfeasance or material-fact misrepresentation qualify finality."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.986:7313, both subsections, and 1972/1973 notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked director or written-designee authority to enter tax-liability closing agreements (1) and finality barring reopening, modification, or annulment except upon a showing of fraud, malfeasance, or misrepresentation of a material fact (2). Revised (2) from 'Finality of agreements and exceptions for misconduct' to 'Finality of agreements and fraud or misrepresentation exceptions' so material-fact misrepresentation is not narrowed to misconduct; retained (1)."
     },
     {
       "id": "143.991:48733",
@@ -4741,8 +4849,8 @@
       "sourceSha256": "789cf6e7a54fb65e1f6dfd6434b037ba54bdb05261f7c5d1affb2702e6e5b18d",
       "textSha256": "e0b727819ad992a3e557448affaa058ca6fa0d469c6dcd43e3c21e21497a986c",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4762,7 +4870,9 @@
           "bodySha256": "adf9a4bad94e2eb8df2b2fe91162e379dd34f7d82d6a0dd8838ff706967421ef",
           "reviewNote": "Full body and original-roll note read. Continuous hospitalization outside state and180days, induction-period death requirements, specified2001attacks and participant exclusion preserved. Subdivision3 internal name-clause reference anomalous, not corrected."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.991:48733, all three subsections, 1972/2020 history notes, and original-roll footnote (*'Subdivision \"(3)\" appears in original rolls'); verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints. Checked combat-zone service, continuous out-of-state hospitalization, and 180-day timing disregard (1), induction-period active-service combat-zone death tax relief (2), and Christopher J. Bosche Memorial Act tax relief for Sept. 11, 2001 and late-2001 anthrax victims (excluding Attorney General-identified participants/conspirators), 143.801(1) refund-limitation waiver, and 26 U.S.C. 692(d)(3) carve-out preserving the archived anomalous reference to 'subdivision (1) of this subsection' (the short-title clause) without repair (3). Retained all three drafted titles."
     },
     {
       "id": "143.999:7318",
@@ -4770,8 +4880,8 @@
       "sourceSha256": "980a26226e97a71449bd222de01ae84136e181afc9a5514cd48986bc8d791e1a",
       "textSha256": "7e274d027755e1db9bb6706b192d72c1c4367b55d4f8b37b23d95296daae9b3d",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-15",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
       "headings": [
         {
           "number": 1,
@@ -4791,7 +4901,9 @@
           "bodySha256": "1ae8cabe2a5163c2830a490bfb3aff90db820d241c74b55977dd2cfca9281223",
           "reviewNote": "Read all coverage, account balance and withdrawal clauses plus repealed374.126note. Exemption only extent not federal exclusion, excess withdrawals taxable, medical spending differs other use; obsolete cross-reference retained."
         }
-      ]
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 143.999:7318, all three subsections including subdivisions (1)-(4) of subsection 1, 1993/1995 history note, and footnote recording repeal of section 374.126 by S.B. 732 § A, 1994; verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints. Checked employer individual-medical-account contribution exemption (only to extent not excluded under 26 U.S.C. 105/106), major-medical/IMA funding rules, carryover and taxable excess withdrawals, tax-free medical spending, and plan administration (1), DCI/DHSS regulatory definition of bona fide medical/health-care expenses (2), and DCI rulemaking under 536.024 retaining the obsolete repealed-374.126 cross-reference (3). Retained all three drafted titles."
     }
   ]
 }

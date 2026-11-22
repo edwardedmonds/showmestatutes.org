@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "scope": "local-statewide",
-  "reviewMethod": "Codex draft against complete archived source; awaiting separate review.",
+  "reviewMethod": "Complete archived-source drafting and separate complete-source editorial reviews; entry status determines acceptance.",
   "entries": [
     {
       "id": "166.021:8228",
@@ -9,8 +9,10 @@
       "sourceSha256": "b50d0f76fcb964694c16041315c19f6b55b6e81eef2dc653f59c6c559cf46920",
       "textSha256": "80ea031f6726d968180ac8a431d22bdac1afaed8d95bba50eda2a87dc0ec3b70",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all three subsections, history/source notes (L. 1963 p. 200 § 7-2, A.L. 2007 H.B. 264; RSMo 1959 § 161.201), and the section 409.950 cross-reference note for 166.021:8228, and verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints against data/full-text/statewide-4/chapter-166.json. Checked exclusion of fund interest from the investment mandate, specified federal/state/school-district/U.S.-guaranteed securities without silently importing cross-referenced multinational bank authority, requisition/warrant payment mechanics, and treasurer-as-trustee registration, deposit, and receipt duties. Retained all three drafted titles as accurate and distinct.",
       "headings": [
         {
           "number": 1,
@@ -38,8 +40,10 @@
       "sourceSha256": "fee113b2313abe2c4e6c0ab2964ffd72e60cb124053d109b5abe7336675269a4",
       "textSha256": "a96b0e0bd25b51e7d5266cd6b40041788cb9e472c6a1269a5eaba647c2e3a8b3",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all three subsections and history/source notes (L. 1963 p. 200 § 7-3; RSMo 1959 § 161.211) of 166.031:8229 and verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints against data/full-text/statewide-4/chapter-166.json. Checked state treasurer custody and official-bond/surety responsibility under sections 166.011 to 166.121 (subsection 1), investment-account recordkeeping and certification to the board retaining the unusual source phrase \"quarterly-yearly\" without resolving frequency (subsection 2), and joint treasurer/director-of-revenue inclusion of receipts, expenditures, and fund information in the section 32.060 annual report (subsection 3). Retained all three drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -67,8 +71,10 @@
       "sourceSha256": "1b275fda7f6c5d5658d9d5aad0f15e45e61d4e07a43e8b8df124faf4aa1870d3",
       "textSha256": "3b31e285fa6f0806b7bdea8e3f8f9204d1f1da113872ba311597e1c05e79e14d",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read both subsections and history/source notes (L. 1963 p. 200 § 7-4; RSMo 1959 § 161.221) of 166.041:8230 and verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints against data/full-text/statewide-4/chapter-166.json. Checked board accounting with the state treasurer and other persons (subsection 1) and mandatory settlement of accounts plus permissive suit authority in the board's name to recover moneys due for the fund or income (subsection 2). Retained both drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -90,14 +96,16 @@
       "sourceSha256": "32ef134f424ef3cb3f0952104bdfff8495a2d9b8041848f7227cc91813e9db90",
       "textSha256": "aeca4abf8417a0d75fff1e11a6ee0e5e38299df68fa356a62da0c9e00618a443",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all three subsections, ballot language, history/source notes (L. 1963 p. 200 § 7-16, A.L. 1978 H.B. 971, A.L. 1982 Initiative Proposition C; RSMo 1959 § 171.030; Effective 1-1-83) of 166.161:8242 and verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints against data/full-text/statewide-4/chapter-166.json. Checked county-voter submission (subsection 1), ballot form (subsection 2), and majority-vote annual apportionment on or before August 31 under section 166.131 until liquidation with exclusion from equalization-quota deductions under section 163.031 (subsection 3). Revised subsection 1 title from \"County voter decision on fund distribution\" to \"Submitting distribution proposal to county voters\" to distinguish submission from majority approval in subsection 3; retained subsections 2 and 3.",
       "headings": [
         {
           "number": 1,
-          "title": "County voter decision on fund distribution",
+          "title": "Submitting distribution proposal to county voters",
           "bodySha256": "62013e4c3ed11f3a4c2a8f79fb1fe562e5efbdfbbce2ada371f074c5da1ba479",
-          "reviewNote": "Complete source including ballot/history read. Majority approval, August31annual apportionment until liquidation and no equalization-quota deduction retained."
+          "reviewNote": "Complete source including ballot/history read. Majority approval, August31annual apportionment until liquidation and no equalization-quota deduction retained. Separate review: Revised from \"County voter decision on fund distribution\" so subsection 1 accurately reflects submitting the proposal to county voters, distinct from majority approval and distribution in subsection 3."
         },
         {
           "number": 2,
@@ -119,8 +127,10 @@
       "sourceSha256": "9f623d1a74230f74ba249094e5a514022117840dca1e3ed274c2c29e96190e58",
       "textSha256": "cdcf8b6a8a7b96fe804c27a89a46cc29fafb6467b9c564f9bef30bd57121a596",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read both subsections, subdivisions (1) through (3), and history/effective-date notes (L. 1993 S.B. 380 § 8 subsec. 2 through A.L. 2005 S.B. 287; Effective 7-01-06) of 166.275:8263 and verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints against data/full-text/statewide-4/chapter-166.json. Checked FY 1999 vs. FY 1994 Fourteenth Amendment equal-protection judgment appropriation difference plus FY 1998 unexpended funds (subsection 1), and FY 2000+ vs. FY 1999 baseline savings distributed in priority order across up to $75M foundation (163.031(1)-(2)), next $25M transportation/other categorical aid with the 1999-2000-only capital-projects-fund proviso, and remainder subject to appropriation sufficiency (subsection 2). Retained both drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -142,8 +152,10 @@
       "sourceSha256": "3ac5b80e879c790cbecfd394a1b547e664570df8087fa18d3b5f7d225dc60dcc",
       "textSha256": "95ca0024826e3a027f89b28836e3c43951b25acf1ea3e9ab941999dd61f507d8",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all ten subsections, all nested subdivisions, history note (L. 1993 S.B. 380 § 12 through A.L. 2003 S.B. 675), and the split effective-date footnote (S.B. 675 effective 8-28-03 except § 339.105 effective 1-1-04) of 166.300:8264 and verified sourceUrl, sourceSha256, textSha256, and all ten bodySha256 fingerprints against data/full-text/statewide-4/chapter-166.json. Checked definitions excluding administrative/support buildings, $440M aggregate deposit cap and long-range plan prerequisite, four eligibility thresholds (including 90% constitutional bonding limit under Art. VI § 26(b)), three ranking tiers and same-day tie-breaker, disaster waiver, 10-year/3% repayment terms, unobligated-proceeds return, section 162.091 violation and attorney general referral, state ownership/180-day repossession/liability allocation, and the post-August 28, 2003 transfer of all deposits to the state school moneys fund under 166.051. Revised subsection 8 title from \"Nonpayment notice and prosecution procedures\" to \"Nonpayment violation under 162.091 and prosecution referral\" to preserve the exact 162.091 cross-reference and accurately describe the violation and attorney general notification; retained the other nine titles.",
       "headings": [
         {
           "number": 1,
@@ -189,9 +201,9 @@
         },
         {
           "number": 8,
-          "title": "Nonpayment notice and prosecution procedures",
+          "title": "Nonpayment violation under 162.091 and prosecution referral",
           "bodySha256": "399295465b7d0d7296cb0f38d54428c08546965129a76c4f2cfe07e5a7eb94ca",
-          "reviewNote": "Complete full source and effective-date note read. Eligibility90percentbonding/valuation/accreditation, tiered priorities and same-day tie rule retained. Final2003transfer of all subsequent deposits means no assumed current loan availability; maximumtenpayments/3percentinterest,180dayrepossession and distinct prosecution notice read."
+          "reviewNote": "Complete full source and effective-date note read. Eligibility90percentbonding/valuation/accreditation, tiered priorities and same-day tie rule retained. Final2003transfer of all subsequent deposits means no assumed current loan availability; maximumtenpayments/3percentinterest,180dayrepossession and distinct prosecution notice read. Separate review: Revised from \"Nonpayment notice and prosecution procedures\" to preserve the exact section 162.091 violation for board members and superintendent after nonpayment notice and the state board's referral to the attorney general."
         },
         {
           "number": 9,
@@ -213,8 +225,10 @@
       "sourceSha256": "df2b0b8c112cf178efec2153d77b6a8480e3e84a2a43d71f72a9d2728fe2c8e1",
       "textSha256": "ddf590078a7097f7f7ee62a8f80310afa9805ddf967f250b9fa6a8bcaa3f9c50",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all seven subsections, subdivisions (1) through (12), and history note (L. 1998 H.B. 1694 through A.L. 2021 H.B. 297, including the source's duplicate \"A.L. 2012 S.B. 563\" citation preserved without alteration) of 166.415:49727 and verified sourceUrl, sourceSha256, textSha256, and all seven bodySha256 fingerprints against data/full-text/statewide-4/chapter-166.json. Checked eight-member board composition, section 105.452 conflict removal, 12 powers, single-meeting proxies (max 3 toward quorum), four-member quorum and majority-present voting, meeting notice/quarterly schedule, section 105.688 prudent-person investment/SEC-registered counselor delegation/good-faith qualified liability protection, substantial-interest/profit bar, and trustee/employee/agent forfeiture plus bribery penalties. Revised subsection 7 title from \"Improper gains, influence payments and forfeiture\" to \"Improper gains, gratuities, forfeiture and bribery penalties\" so bribery penalties are not omitted; retained the other six titles.",
       "headings": [
         {
           "number": 1,
@@ -254,9 +268,9 @@
         },
         {
           "number": 7,
-          "title": "Improper gains, influence payments and forfeiture",
+          "title": "Improper gains, gratuities, forfeiture and bribery penalties",
           "bodySha256": "e8afec74b77cac0d9fc8bd346d3856b3cb23d83a7fb8761ca73cc9c693fd4d41",
-          "reviewNote": "Complete full source and12powers read, including duplicate2012history citation preserved. Eight-member composition and four quorum, maxthreeproxies, SEC-registered delegate and prudent good-faith immunity qualifications distinguished; no assumption protections guarantee returns."
+          "reviewNote": "Complete full source and12powers read, including duplicate2012history citation preserved. Eight-member composition and four quorum, maxthreeproxies, SEC-registered delegate and prudent good-faith immunity qualifications distinguished; no assumption protections guarantee returns. Separate review: Revised from \"Improper gains, influence payments and forfeiture\" to cover both office forfeiture and bribery penalties for gratuities or compensation accepted to influence program investment or management."
         }
       ]
     },
@@ -266,8 +280,10 @@
       "sourceSha256": "fc5412583d4edd16ccb72013dba55d8731063a28cc318919f91e208a931516d8",
       "textSha256": "0e2f5d9cb6dd5e46b0eb7e821f62cf327eb4283ad0c198fe54520703bd17aa30",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all four subsections, subdivisions (1) through (6), and history note (L. 1998 H.B. 1694 through A.L. 2021 H.B. 297) of 166.420:49728 and verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints against data/full-text/statewide-4/chapter-166.json. Checked permissive participation agreements, return calculation, no-admission/continuation/graduation disclaimer, risk/load-charge disclosures, annual vs. IRC § 529 aggregate beneficiary contribution limits and safeguards, and board-established minimum holding period tied to sections 166.435 and 166.430. Retained all four drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -301,8 +317,10 @@
       "sourceSha256": "c573ee63658029ede0c2055903ae1813624bac44d27a920affa0457759cdd2d1",
       "textSha256": "4012c6b48d70d4665ece1a74ef2b2e6f1549bcaed38c77343aee1243fe803cb9",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all three subsections and history note (L. 2015 S.B. 366) of 166.421:8269 and verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints against data/full-text/statewide-4/chapter-166.json. Checked direct-deposit tax-refund contribution elections ($25 minimum, refund-issue tax year only, irrevocable) (subsection 1), department-prescribed form and maximum account limit qualified by the parent/legal-guardian exception for each child's account (subsection 2), and complete voiding of the election upon any taxpayer refund offset (subsection 3). Revised subsection 2 title from \"Election procedures and beneficiary account limits\" to \"Election forms, account limits and parent exception\" so the statutory parent/guardian carve-out is not flattened into an unqualified limit; retained subsections 1 and 3.",
       "headings": [
         {
           "number": 1,
@@ -312,9 +330,9 @@
         },
         {
           "number": 2,
-          "title": "Election procedures and beneficiary account limits",
+          "title": "Election forms, account limits and parent exception",
           "bodySha256": "46a488e6f194d9ba34e6387af1c2cac3348b70b26e66c495c90cb4cbeab03cda",
-          "reviewNote": "Complete source and history read. At least25dollars, contribution year is refund year, all offset voids election; parent/guardian exception to account-number limit preserved."
+          "reviewNote": "Complete source and history read. At least25dollars, contribution year is refund year, all offset voids election; parent/guardian exception to account-number limit preserved. Separate review: Revised from \"Election procedures and beneficiary account limits\" to reflect the department's taxpayer account-number limit and preserve the explicit exception allowing a parent or legal guardian to contribute to each child's account."
         },
         {
           "number": 3,
@@ -330,8 +348,10 @@
       "sourceSha256": "c1049e7ffc4b64c6752206855787ee27e20d93934e4a22fb0d536785ca56f78d",
       "textSha256": "2f2ab10c97a6f58ebfc2a457c432ca16f1e87269609b7b3943230c4d3d0e46d6",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all three subsections and history note (L. 1998 H.B. 1694 through A.L. 2021 H.B. 297) of 166.435:49730 and verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints against data/full-text/statewide-4/chapter-166.json. Checked state/local tax exemption conditioned on qualified program maintenance and use, 60-day recontribution of withdrawal refunds, $8,000/$16,000 Missouri AGI subtraction under section 143.121 (subsection 1), Missouri AGI add-back for nonqualifying distributions except transfers permitted under 26 U.S.C. § 529(c)(3)(C)(i) and IRS guidance (subsection 2), and applicable tax years starting January 1, 2008 (or January 1, 2004 for sections 166.500 to 166.529) (subsection 3). Retained all three drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -359,8 +379,10 @@
       "sourceSha256": "d7d191620653e0046f13e74967007b9040b6090df16a027bdff23127294914df",
       "textSha256": "aa4ce620a540d38f667eafbefa648f600a59a4c3d8480c49b4e29881faef0310",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all five subsections, subdivisions (1) through (14), history note (L. 2004 H.B. 959 § 166.515, A.L. 2018 S.B. 882), and the section 3.060 name-change footnote (H.B. 297, 2021) of 166.505:35178, and verified sourceUrl, sourceSha256, textSha256, and all five bodySha256 fingerprints against data/full-text/statewide-4/chapter-166.json. Checked board administration of the Higher Education Deposit Program (subsection 1), 14 powers including private (non-governmental) clearinghouse intermediary with at most one direct-interest board member, two-business-day transfers, and FDIC deposit-insurance maximization (subsection 2), section 105.688 prudent-person standard, CD/deposit limitation, board-tested qualified student deposit advisors, and qualified liability protection (subsection 3), personal-gain bar, intermediary-influence forfeiture/bribery penalties, and financial-institution employee disclosure/recusal (subsection 4), and Reg DD rate disclosures, uniform deposit categories, clearing-entity titling, and board compliance authority subject to IRC § 529 / IRS enforcement (subsection 5). Retained all five drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -400,8 +422,10 @@
       "sourceSha256": "4897efc32d86e86af2c80778748fe5ea05b795bbc6673d7116766d804af82047",
       "textSha256": "6beb6c46089098357cdf19442b76afbefe84f0e41d5b5a92ae669c0a08aa032e",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all four subsections, subdivisions (1) through (6), and history note (L. 2004 H.B. 959 § 166.520) of 166.508:8283 and verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints against data/full-text/statewide-4/chapter-166.json. Checked permissive deposit participation agreements, no-admission/continuation/graduation disclaimer, federal deposit insurance availability/coverage and pre-maturity withdrawal penalty disclosures, fee disclosures (subsection 1), per-participant annual contribution cap (subsection 2), IRC § 529 aggregate beneficiary deposit limit and safeguards (subsection 3), and board minimum holding period tied to sections 166.435 and 166.514 (subsection 4). Retained all four drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -435,14 +459,16 @@
       "sourceSha256": "3b1a7e8e27c0f9a4b6d525e3b6549cce524a359074d524994a093474f466a3d6",
       "textSha256": "9ed8d341556bda45b56dc6ce02438acf136c3680412da02a721b466e14fe0155",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all seven subsections, subdivisions (1) through (5) with paragraphs (a)-(l) and (a)-(c), and history note (L. 2021 H.B. 349) of 166.705:49830 and verified sourceUrl, sourceSha256, textSha256, and all seven bodySha256 fingerprints against data/full-text/statewide-4/chapter-166.json. Checked written agreement terms including state-custody exception to resident-district non-enrollment, retained district disability-evaluation duty, permitted expenses, and prohibited expenses (consumables, out-of-state private tuition, payments to third-degree relatives) (subsection 1); annual renewal and test-score submission wording (subsection 2); section 167.031 compulsory attendance satisfaction (subsection 3); refund/rebate ban (subsection 4); closure and return of district educational obligation upon withdrawal OR disqualification under section 166.710 (subsection 5); year-end rollover vs. graduation return (subsection 6); and exclusion from Missouri taxable income for the parent (subsection 7). Revised subsections 1, 5, and 7 to cover prohibited expenses alongside permitted expenses, include disqualification alongside withdrawal, and explicitly scope the income-tax exclusion to Missouri taxable income; retained subsections 2, 3, 4, and 6.",
       "headings": [
         {
           "number": 1,
-          "title": "Scholarship agreements, educational duties and permitted expenses",
+          "title": "Scholarship agreements, duties and allowed or barred expenses",
           "bodySha256": "13e306ef83c2be2ad1afbf383ff96b5bf50fb66bd1119bebe11cd81028f78dcc",
-          "reviewNote": "Complete source and all expense restrictions read. State-custody exception to residence-district enrollment bar and retained disability evaluation obligation preserved. Third-degree-relative reimbursements prohibited, renewal wording includes examination score condition, carryover differs from graduation redistribution."
+          "reviewNote": "Complete source and all expense restrictions read. State-custody exception to residence-district enrollment bar and retained disability evaluation obligation preserved. Third-degree-relative reimbursements prohibited, renewal wording includes examination score condition, carryover differs from graduation redistribution. Separate review: Revised from \"Scholarship agreements, educational duties and permitted expenses\" so subdivision (5)'s prohibited expenses (consumables, out-of-state private tuition, third-degree relative payments) are covered alongside subdivision (4)'s permitted expenses."
         },
         {
           "number": 2,
@@ -464,9 +490,9 @@
         },
         {
           "number": 5,
-          "title": "Account closure and educational obligations after withdrawal",
+          "title": "Closure and district obligations after withdrawal or disqualification",
           "bodySha256": "35527e56463f644b499639d0bffa0beccaf8a4d538a1e2f4d29816c67cb3c184",
-          "reviewNote": "Complete source and all expense restrictions read. State-custody exception to residence-district enrollment bar and retained disability evaluation obligation preserved. Third-degree-relative reimbursements prohibited, renewal wording includes examination score condition, carryover differs from graduation redistribution."
+          "reviewNote": "Complete source and all expense restrictions read. State-custody exception to residence-district enrollment bar and retained disability evaluation obligation preserved. Third-degree-relative reimbursements prohibited, renewal wording includes examination score condition, carryover differs from graduation redistribution. Separate review: Revised from \"Account closure and educational obligations after withdrawal\" because subsection 5 applies both upon withdrawal to a nonqualified school and upon disqualification under section 166.710."
         },
         {
           "number": 6,
@@ -476,9 +502,9 @@
         },
         {
           "number": 7,
-          "title": "Exclusion of scholarship money from parental taxable income",
+          "title": "Exclusion of scholarship funds from parents' Missouri taxable income",
           "bodySha256": "9eb6f5d49a11a93f82fc4461e648d1da6a35e8a2542a7bdd5dadd7903c25b326",
-          "reviewNote": "Complete source and all expense restrictions read. State-custody exception to residence-district enrollment bar and retained disability evaluation obligation preserved. Third-degree-relative reimbursements prohibited, renewal wording includes examination score condition, carryover differs from graduation redistribution."
+          "reviewNote": "Complete source and all expense restrictions read. State-custody exception to residence-district enrollment bar and retained disability evaluation obligation preserved. Third-degree-relative reimbursements prohibited, renewal wording includes examination score condition, carryover differs from graduation redistribution. Separate review: Revised from \"Exclusion of scholarship money from parental taxable income\" to scope the exclusion explicitly to Missouri taxable income rather than implying federal tax treatment."
         }
       ]
     },
@@ -488,8 +514,10 @@
       "sourceSha256": "7864f58ff605d38a4075f761d4fa7e77cb2378128a9b0e4afb8355a52e5fc681",
       "textSha256": "05b62f993311b94257960271c72210a25743b0c3ca58a0b9d4d924691d4ee7c4",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all five subsections, subdivisions (1) through (5), and history note (L. 2021 H.B. 349) of 166.710:49831 and verified sourceUrl, sourceSha256, textSha256, and all five bodySha256 fingerprints against data/full-text/statewide-4/chapter-166.json. Checked mandatory annual audits from 2023-24 onward vs. permissive random/quarterly audits (subsection 1), disqualification of parent/student/vendor for intentional material violation and parent appeal path to the administrative hearing commission and resident-county circuit court (subsection 2), permissive attorney general referral upon evidence of fraudulent use (subsection 3), five required rule subjects including fraud hotlines and EAO surety bonds (subsection 4), and chapter 536 / 536.028 compliance plus post-August 28, 2021 conditional nonseverability (subsection 5). Retained all five drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -529,8 +557,10 @@
       "sourceSha256": "aaa814ed934f429907ba289007ca8cc9be5d35066484f16b7b1660ff38b5a16b",
       "textSha256": "0759c108ff7e2d2b97eb91bd07ecbe5d315feba1fa7987f1a8f08b38df9ef773",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read both subsections and history note (L. 2021 H.B. 349) of 166.715:49832 and verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints against data/full-text/statewide-4/chapter-166.json. Checked class A misdemeanor for knowingly using section 135.714 grant moneys outside sections 166.700 to 166.720 (subsection 1) and financial-institution civil immunity for providing account financial information to the state treasurer unless false information is provided knowingly and with malice (subsection 2). Retained both drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -552,8 +582,10 @@
       "sourceSha256": "0e89e7c228cd67622ffecc2c5db24dad396da96a3734388a474b17266198ff46",
       "textSha256": "39bbe518643fdfd8d895445712ec2590ec7d82b55bb22797df82004a6c1fa3b7",
       "draftedBy": "headings_a",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all six subsections, subdivisions (1) through (4) of subsection 4, history note (L. 2021 H.B. 349), and the termination footnote (*Subsection 4 terminates 8-28-26) of 166.720:49833 and verified sourceUrl, sourceSha256, textSha256, and all six bodySha256 fingerprints against data/full-text/statewide-4/chapter-166.json. Checked nonpublic qualified school scope in subsections 1 and 2 vs. broader \"qualified school\" wording in subsection 3, statutory termination of subsection 4's continued weighted-ADA aid counting on August 28, 2026 (five years after August 28, 2021) properly labeled as historical without asserting current operative effect, state burden of proof in legal challenges (subsection 5), and exclusion from Missouri Sunset Act section 23.253 (subsection 6). Retained all six drafted titles.",
       "headings": [
         {
           "number": 1,

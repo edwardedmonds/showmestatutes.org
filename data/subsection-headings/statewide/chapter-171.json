@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "scope": "local-statewide",
-  "reviewMethod": "Codex draft against complete archived source; awaiting separate review.",
+  "reviewMethod": "Complete archived-source drafting and separate complete-source editorial reviews; entry status determines acceptance.",
   "entries": [
     {
       "id": "171.021:33183",
@@ -9,8 +9,10 @@
       "sourceSha256": "ca66823c249ae5d6dcc13a3a672c4d6771be3836cfc01fe3be18621c14c28ade",
       "textSha256": "f2608a1910d7053ee8f6914937c271b5dad4556b96e4910a2490179015b98ca2",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read both subsections and history/source notes (L. 1963 p. 200 § 11-2, A.L. 2002 S.B. 718, A.L. 2016 S.B. 638; RSMo 1959 § 163.030) of 171.021:33183 and verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints against data/full-text/statewide-4/chapter-171.json. Checked U.S. flag display while school is in session for schools supported in whole or in part by public moneys (subsection 1) and daily classroom Pledge of Allegiance recitation, optional voluntary donations of classroom flags, and explicit bar on requiring any student to recite the Pledge (subsection 2). Revised subsection 2 title from \"Daily classroom pledge and voluntary student participation\" to \"Daily pledge, flag donations and voluntary student participation\" to cover all three sentences of subsection 2; retained subsection 1.",
       "headings": [
         {
           "number": 1,
@@ -20,9 +22,9 @@
         },
         {
           "number": 2,
-          "title": "Daily classroom pledge and voluntary student participation",
+          "title": "Daily pledge, flag donations and voluntary student participation",
           "bodySha256": "ff1ffeff49c2f7f7fc2ce7461bc43579a05ad4393719c3078096fda00a358ae7",
-          "reviewNote": "Read bothsubsections/history/predecessor. Schools supportedwholeorpartpublicfunds, building/yarddisplay, at leastoneclassdaily eachpupil but no studentcompelledtorecite, optionalflagdonations retained."
+          "reviewNote": "Read bothsubsections/history/predecessor. Schools supportedwholeorpartpublicfunds, building/yarddisplay, at leastoneclassdaily eachpupil but no studentcompelledtorecite, optionalflagdonations retained. Separate review: Revised from \"Daily classroom pledge and voluntary student participation\" so the heading accounts for the middle sentence permitting voluntary donations of classroom flags alongside daily recitation and the non-compulsion protection."
         }
       ]
     },
@@ -32,8 +34,10 @@
       "sourceSha256": "5f22f3d3653b912c610adc3fe2dd5af6d25141ace39847d320ab2295c4abf027",
       "textSha256": "f4a232bc2b83a3e37797ddc7b28e3f925f769e0d5719888f9d32a322128e9be3",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all three subsections, ballot form/checkboxes, and history note (L. 2024 S.B. 727) of 171.028:54638 and verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints against data/full-text/statewide-4/chapter-171.json. Checked applicability restricted exclusively to school districts wholly or partially in a charter county or a city exceeding 30,000 inhabitants from the 2026-27 school year onward (subsection 1), majority vote of elected board members to refer, chapter 115 election by July 1, voter majority approval/resubmission, and 10-year ballot wording (subsection 2), and section 171.031 DESE calendar filing with minimum 142 school days (160.041) and 1,044 actual pupil attendance hours (subsection 3). Retained all three drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -61,8 +65,10 @@
       "sourceSha256": "2a848505de75de83b6a1caf544deab53ca83251199eca6ab695bbd15217caf7a",
       "textSha256": "a531fed9a41eabfa1187bb1fe43ea568e22cf7a53d46b39c3cfc1d159d801916",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all six subsections and history/effective-date notes (L. 1963 p. 200 § 11-3 through A.L. 2024 S.B. 727; Effective 7-01-26) of 171.031:54639 and verified sourceUrl, sourceSha256, textSha256, and all six bodySha256 fingerprints against data/full-text/statewide-4/chapter-171.json. Checked 1,044-hour minimum, 169-day (or 142-day under 171.028) minimum for charter-county/>30,000-city districts, and 6-day vs. 2019-20+ 36-hour inclement-weather allowances (subsection 1), 14-calendar-day pre-Labor-Day opening limit and unavailability of subsection 3 from 2020-21 onward (subsection 2), historical pre-2020-21 public-meeting procedure (subsection 3), 1/4 daily section 163.031 state-funding withholding for violations (subsection 4), year-round 12-month district exemption from subsections 2 to 4 (subsection 5), and discretionary one-year state board exemption for highly unusual and extenuating circumstances (subsection 6). Revised subsection 5 title from \"Opening-date exceptions for year-round districts\" to \"Subsections 2 to 4 exemption for year-round districts\" to preserve the exact statutory scope covering subsection 4's withholding provision as well as subsections 2-3; retained the other five titles.",
       "headings": [
         {
           "number": 1,
@@ -90,9 +96,9 @@
         },
         {
           "number": 5,
-          "title": "Opening-date exceptions for year-round districts",
+          "title": "Subsections 2 to 4 exemption for year-round districts",
           "bodySha256": "a5d8c08c7d70477e6c1a3f2a3b3856f31cce6f439422d352071cbad704ec4844",
-          "reviewNote": "Read sixsubsections/history/July2026effective.1044hours all versus169/142daysspecifieddistricts, sixmakeupdays overwrittenby2019–20thirtysixhour/no-dayminimum,14calendardaysbeforeSeptemberfirstMonday, historicalpre2020–21meetingroute notcurrent, quarterfundingperdate, exceptionssubsections2–4 retained."
+          "reviewNote": "Read sixsubsections/history/July2026effective.1044hours all versus169/142daysspecifieddistricts, sixmakeupdays overwrittenby2019–20thirtysixhour/no-dayminimum,14calendardaysbeforeSeptemberfirstMonday, historicalpre2020–21meetingroute notcurrent, quarterfundingperdate, exceptionssubsections2–4 retained. Separate review: Revised from \"Opening-date exceptions for year-round districts\" to preserve the exact cross-reference exempting 12-month year-round districts from subsections 2 to 4 (including subsection 4's funding-withholding provision)."
         },
         {
           "number": 6,
@@ -108,8 +114,10 @@
       "sourceSha256": "88799da31f7a1f24435b712d1112e2d0beb50a48aabab002da564a138249e6ac",
       "textSha256": "0e8167b13deb0ff4c116685a35204a9d8142321b44fe354deb6553f89e449ae4",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all six subsections, all nested AMI application paragraphs (a)-(h), history/effective-date notes (L. 1978 S.B. 954 § 2 through A.L. 2024 S.B. 727; Effective 7-01-26), and section 160.041 cross-reference of 171.033:54640, and verified sourceUrl, sourceSha256, textSha256, and all six bodySha256 fingerprints against data/full-text/statewide-4/chapter-171.json. Checked inclement-weather definition (subsection 1), day-based vs. 2019-20+ 36-hour-based make-up formula (subsection 2), 10-day / 60-hour permissive make-up caps (subsection 3), discretionary commissioner waivers for uncontrollable closures (subsection 4), 2020-21+ DESE-approved AMI plans with 36-hour annual cap, mandatory make-up of subsequent hours notwithstanding subsections 2-3, and application elements (a)-(h) (subsection 5), and 2022-23+ proportional application of subsections 2-5 to one-half-day education programs (subsection 6). Revised subsection 6 title from \"Proportional requirements for half-day education programs\" to \"Proportional application to half-day education programs\" because subsection 6 proportionally applies exemptions, waivers, and AMI provisions as well as make-up requirements; retained subsections 1 through 5.",
       "headings": [
         {
           "number": 1,
@@ -143,9 +151,9 @@
         },
         {
           "number": 6,
-          "title": "Proportional requirements for half-day education programs",
+          "title": "Proportional application to half-day education programs",
           "bodySha256": "93d1b40a3c1ce2b0eaf169dff1eaf41c2371e5af1f23bbbad909fa84e0df3373",
-          "reviewNote": "Read sixsubsections andallnestedAMIapplicationcriteria/history/effective2026/crossreference160.041. Historicaldays versus2019hours thresholds36+halfadditional48max60, optionalwaiver,2020approvedplan/noharm demonstration, dailyfamilydecisions, materials/offline/IEP/attendance/personnelrequirements,36AMIannualhourcap then subsequenthoursmakeup notwithstanding2/3 retained. Halfday2022proportionalapplication allfourroutes."
+          "reviewNote": "Read sixsubsections andallnestedAMIapplicationcriteria/history/effective2026/crossreference160.041. Historicaldays versus2019hours thresholds36+halfadditional48max60, optionalwaiver,2020approvedplan/noharm demonstration, dailyfamilydecisions, materials/offline/IEP/attendance/personnelrequirements,36AMIannualhourcap then subsequenthoursmakeup notwithstanding2/3 retained. Halfday2022proportionalapplication allfourroutes. Separate review: Revised from \"Proportional requirements for half-day education programs\" because subsection 6 applies not only subsection 2 make-up requirements but also subsection 3 exemptions, subsection 4 waivers, and subsection 5 AMI provisions."
         }
       ]
     },
@@ -155,8 +163,10 @@
       "sourceSha256": "da5c4b406c0ae0249d5b675419e9b87f499720f041d740226a144ad64184a8e5",
       "textSha256": "baec740d02df24f55cdd6492139856806cbdaa44f8cacb02522c3c34e847302c",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all four subsections, subdivisions (1)-(4) of subsection 1, and history note (L. 2004 S.B. 968 and S.B. 969) of 171.053:8638 and verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints against data/full-text/statewide-4/chapter-171.json. Checked legislative findings for FFA, FCCLA, 4-H, and Missouri state fair competitions (subsection 1), local-board discretion purpose (subsection 2), conditional excused-absence duty for districts allowing athletics/extracurricular excused absences subject to written policy, sponsoring employee approval, and recognized local chapter except for state fair or 4-H (subsection 3), and regular-school-day ADA attendance credit under sections 163.011 and 163.031 (subsection 4). Retained all four drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -190,8 +200,10 @@
       "sourceSha256": "7261876e5e2719afe8fab773d21f27f902763ad1d45f2dea35ce0328a3467bfb",
       "textSha256": "ef30ce9327db4a47852614234c9fe88eec852db3a358fd046929700bf1ae2776",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all three subsections and history note (L. 2023 S.B. 40) of 171.097:53819 and verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints against data/full-text/statewide-4/chapter-171.json. Checked narrow applicability to non-ADA-counted adults 18+ seeking enrollment in courses on school property during regular hours with ADA-counted students under section 163.011 for open-records state criminal history checks (subsection 1), pre-enrollment highway-patrol processing and applicant-paid section 43.530 fee (subsection 2), and mandatory enrollment bar for section 168.071(6) or similar out-of-state/federal/foreign convictions regardless of imposition of sentence (subsection 3). Retained all three drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -219,8 +231,10 @@
       "sourceSha256": "8933270ae96e2f014e030d6f5db3be96d01f8e70690ca9f559beaa64a3e5e263",
       "textSha256": "b485f23edb94b6a3483ca3b9cba61fd64da68abda4772bb7c0554cf3aad02447",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all three subsections and history/source notes (L. 1963 p. 200 § 11-14; L. 1961 p. 348 §§ 1, 2) of 171.141:8645 and verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints against data/full-text/statewide-4/chapter-171.json. Checked selective-membership definition of school fraternity or sorority (subsection 1), permissive board prohibition rule upon detrimental-conduct finding plus mandatory organization aim/eligibility rules (subsection 2), and board suspension/discipline/expulsion powers vs. board-directed interim superintendent suspension/discipline pending board consideration (subsection 3). Retained all three drafted titles.",
       "headings": [
         {
           "number": 1,
@@ -248,8 +262,10 @@
       "sourceSha256": "22ff6d56e42c7ad3a046a3b8d6aa1b8b3cef01a3a331fc6680e2f5786a1cab96",
       "textSha256": "d64926ad23413b94532dec7a2eac127a1c27fa2b75b8263e2d928529a128432f",
       "draftedBy": "headings_c",
-      "reviewStatus": "draft",
-      "reviewedOn": "2026-11-20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_a",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all five subsections and history note (L. 2013 S.B. 75) of 171.410:8650 and verified sourceUrl, sourceSha256, textSha256, and all five bodySha256 fingerprints against data/full-text/statewide-4/chapter-171.json. Checked permissive annual first-grade Eddie Eagle Gunsafe or substantially similar qualified/successor program for districts and charter schools (subsection 1), child-safety purpose, encounter response, and bar on instructor value judgments about firearms (subsection 2), bar on including, using, or demonstrating firearms (subsection 3), IDEA/Section 504 appropriate participation for students with disabilities (subsection 4), and permissive public/private/nonprofit grant seeking (subsection 5). Retained all five drafted titles.",
       "headings": [
         {
           "number": 1,

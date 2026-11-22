@@ -1,0 +1,848 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "172.035:8654",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.035&bid=8654",
+      "sourceSha256": "4840f37ad78db94172c7ce60025ca5e20caa8bb122289b4799509b100dbb9151",
+      "textSha256": "25d3a0671c6b6cdd259df69e5877b78f99fae93fcc85c76010179d26cc6e2481",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Appointment, participation, and nonvoting status",
+          "bodySha256": "aeb17644099ef53f540ef1e7fd4ad51539256390d597bbb7b0a237758ae67d4f",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1984 H.B. 998 § 1 through A.L. 1999 H.B. 889). Covers gubernatorial appointment with senate advice and consent, meeting attendance and deliberation participation, and absence of voting rights; cross-section closed-meeting exclusion sits in 172.037."
+        },
+        {
+          "number": 2,
+          "title": "Student qualifications and nomination panel",
+          "bodySha256": "fe3df3943aa425344ba5c94367807f9b9d5b4add2e7b92dc1fc779003856bffb",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers board-defined full-time status, U.S. citizenship, Missouri residency, actual enrollment during the term, and selection from a three-name panel submitted by campus student government presidents."
+        },
+        {
+          "number": 3,
+          "title": "Two-year term and initial appointee exception",
+          "bodySha256": "0c4d9eefe4c1253c60893c17a12e8c0d5992a64d75c26767779f794fbccea761",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers the two-year term length and preserves the archived historical exception for the first appointee serving until January 1, 1986."
+        },
+        {
+          "number": 4,
+          "title": "Filling vacancies and replacement service",
+          "bodySha256": "4071de99e5bdb0054bb7734749bfee97f5d5c2d57a2b081248b2f67b6cfdfec6",
+          "reviewNote": "Read complete text of subsection 4 and history note. Distinguished from subsection 5 by covering replacement appointment by the governor meeting subsection 2 qualifications until a successor is appointed and qualified."
+        },
+        {
+          "number": 5,
+          "title": "Events causing vacancy and absence exceptions",
+          "bodySha256": "9c45d5ecf90ae75fcd3999d2f698e0f63767200e1c876cca46acf5fe963a38a4",
+          "reviewNote": "Read complete text of subsection 5 and history note. Distinguished from subsection 4 by specifying immediate vacancy upon ending student status, ending Missouri residency, or failing the board's attendance policy, qualified by sickness or accident exceptions."
+        },
+        {
+          "number": 6,
+          "title": "Expense reimbursement under section 172.040",
+          "bodySha256": "c8c232d23050fb5215327dabbd2bdd25d6fb4e6b18450ebd084e2993da6845c2",
+          "reviewNote": "Read complete text of subsection 6 and history note. Ties expense reimbursement to what other curators receive under section 172.040 rather than implying broader compensation."
+        },
+        {
+          "number": 7,
+          "title": "Four-campus appointment rotation order",
+          "bodySha256": "14055deb18dc58b932b0019c5a85c1efe277c9037acf32215bbeefd4167a0ad0",
+          "reviewNote": "Read complete text of subsection 7 and history note. Establishes sequential rotation across Columbia, Rolla, Kansas City, and St. Louis campuses."
+        },
+        {
+          "number": 8,
+          "title": "Student and tuition fee payment and alternative arrangements",
+          "bodySha256": "3aec274ee37ab4c661990399bc47835ec695ed496e3ce6f3cf6d317e3a7bcddc",
+          "reviewNote": "Read complete text of subsection 8 and history note. Covers pre-appointment and in-term payment of student and tuition fees, qualified by mutually agreed alternative payment arrangements."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.035:8654, all eight subsections, and 1984-1999 history notes; verified sourceUrl, sourceSha256, textSha256, and all eight bodySha256 fingerprints. Checked gubernatorial/senate appointment and nonvoting deliberation participation (1), full-time/citizenship/residency/enrollment qualifications and three-name student-government-president panel (2), two-year term and historical Jan. 1, 1986 initial exception (3), vacancy replacements (4), immediate vacancy triggers with sickness/accident absence exceptions (5), section 172.040 expense reimbursement (6), Columbia-Rolla-Kansas City-St. Louis rotation (7), and fee-payment duty subject to agreed alternative arrangements (8). Retained all eight drafted titles."
+    },
+    {
+      "id": "172.037:8655",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.037&bid=8655",
+      "sourceSha256": "3c3435c8aa2a1dac95ec5cee95aeb42dd7df39c8be6e56a38561d1a94def42bc",
+      "textSha256": "c68908237e8e35f03eb775cd307eb4c6642197ad94c3e483d0ed4eff4ff06f5d",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Confidentiality for board members and representatives",
+          "bodySha256": "9c737e1614742cc2e81096a1a8711d1498ad49f27f09ef5e5b47b2d852f9dde8",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1999 H.B. 889, A.L. 2001 H.B. 218). Applies chapter-scoped confidentiality to all board members and representatives, qualified as determined by the board and provided by law."
+        },
+        {
+          "number": 2,
+          "title": "Recusal from board deliberations or proceedings",
+          "bodySha256": "b25b6101170e2ddb82fbf7b70c8fee0b67be774bcf2c4094d65f0525df83b12f",
+          "reviewNote": "Read complete text of subsection 2 and history note. States permissive ('may') recusal authority for any board member or representative from deliberations or proceedings."
+        },
+        {
+          "number": 3,
+          "title": "Closing 610.021 and 610.022 meetings to student representative",
+          "bodySha256": "6511ea5acc3b3ac733708b20ae33cb55ab50b54f47ca60f1df5a85db22195553",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers excluding the student representative from a specific meeting closed under sections 610.021 and 610.022, conditional on a unanimous affirmative vote of present non-student members."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.037:8655, all three subsections, and 1999/2001 history note; verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints. Checked board- and law-defined chapter confidentiality for all board members and representatives (1), permissive recusal (2), and closing specific sections 610.021 and 610.022 meetings to the student representative upon unanimous affirmative vote of present non-student members (3). Retained all three drafted titles."
+    },
+    {
+      "id": "172.070:8659",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.070&bid=8659",
+      "sourceSha256": "04792e4ec104e62da2736729019af4b4f799c3d70eddbef73afc2e16b546f556",
+      "textSha256": "02d8e3a20d6c31d8cb1482a90028ac591aaa29ec5fe7b42b9b4121b5fa547606",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Attendance bylaws and coordinating board fallback",
+          "bodySha256": "83ddab3a383fabd44b4fd21e7e15b23ddbd37a73a9eba3301a117b3fba39b06d",
+          "reviewNote": "Read complete text of subsection 1 and history/prior-revision notes (RSMo 1939 § 10795, A.L. 1996 H.B. 980). Covers curators' attendance bylaws due by August 28, 1996, and fallback policy adoption by the coordinating board for higher education by January 1, 1997."
+        },
+        {
+          "number": 2,
+          "title": "Vacancy by unanimous vote for relocation or attendance",
+          "bodySha256": "b8b89cf584799860877204cbe41ba62cda3be2adc27e8b01c0d328bdf854b9ab",
+          "reviewNote": "Read complete text of subsection 2 and notes. Distinguished from subsection 3 by specifying vacancy upon unanimous vote of other curators finding removal of residence from the appointment district or violation of a subsection 1 bylaw."
+        },
+        {
+          "number": 3,
+          "title": "Vacancy notice and interim gubernatorial appointments",
+          "bodySha256": "cfaf9451808911e7e282feb9eaa61fda5470c7806b7f4662280c4767201fc6b5",
+          "reviewNote": "Read complete text of subsection 3 and notes. Covers thirty-day vacancy notice by the board president to the governor, prompt gubernatorial filling of vacancies from any cause, and service until the next regular general assembly session and successor qualification."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.070:8659, all three subsections, and RSMo 1939 / 1996 / prior-revision notes; verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints. Checked historical Aug. 28, 1996 curator attendance bylaws and Jan. 1, 1997 CBHE fallback (1), vacancy upon unanimous vote of other curators for district relocation or bylaw violation (2), and 30-day board-president vacancy notice plus interim gubernatorial appointment until next general assembly session and successor qualification (3). Retained all three drafted titles."
+    },
+    {
+      "id": "172.273:8679",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.273&bid=8679",
+      "sourceSha256": "ab0cd93430f9ae330f4784369ee65cced0c097c2616ca3531badbd87373228c5",
+      "textSha256": "678f0d955be97d3cda00e31cf4ba2f45cd85e4fece07f64a70c7d66d1bf3f045",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorization and purpose of research and office parks",
+          "bodySha256": "637cbb8378ae375a4da50357c27ffceb65595fdc3cc147a664673e91a54d07df",
+          "reviewNote": "Read complete text of subsection 1, history note (L. 1986 S.B. 657 through A.L. 1996 H.B. 1237), and 1997/2000/2003 case annotations. States permissive authority to establish research, development, and office park projects for cooperative relationships and shared resources; constitutional annotations affect leasehold tax exemptions in subsections 3 and 8."
+        },
+        {
+          "number": 2,
+          "title": "Leases and agreements with participating entities",
+          "bodySha256": "9f3073c008615ecdfecbfa87d34976d9990bc227484329451475627eb59d5d8f",
+          "reviewNote": "Read complete text of subsection 2 and annotations. Covers permissive written, mutually binding leases or agreements with individuals, businesses, corporations, and professional firms to expand opportunities and share expertise."
+        },
+        {
+          "number": 3,
+          "title": "Land acquisition, local zoning exemption, and tax provisions",
+          "bodySha256": "8ff232a547a976543ed91d333c94493e991c56ac83609cfec517fbf56ed83624",
+          "reviewNote": "Read complete text of subsection 3 and case annotations. Covers land/facility acquisition, eminent domain, options, local zoning exemption with city/county master-plan consultation, conveyance without section 172.020 concurrent resolution, and archived property-tax exemption language; 2000 Mo. banc annotation (25 S.W.3d 159) held the leasehold property-tax exemption unconstitutional under Mo. Const. Art. X, § 6."
+        },
+        {
+          "number": 4,
+          "title": "Cooperative agreements under section 70.220",
+          "bodySha256": "fbe665c4094043d6339b7e12a3762fd694b11e7c2f7ccc20d69a07dc641d382f",
+          "reviewNote": "Read complete text of subsection 4 and notes. Authorizes cooperative agreements, including leases, for project development and operation to the same extent political subdivisions are authorized under section 70.220."
+        },
+        {
+          "number": 5,
+          "title": "Relocation assistance for displaced occupants or entities",
+          "bodySha256": "c781386ed86db381b55e53afaed91426e8ec80af6501bd8bc3a8bd697e97c677",
+          "reviewNote": "Read complete text of subsection 5 and notes. Requires relocation assistance and monetary benefits identical to subchapter II of the federal Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4621 et seq.) whenever project land acquisition causes displacement."
+        },
+        {
+          "number": 6,
+          "title": "Optional local permits, licenses, certificates, and inspections",
+          "bodySha256": "ce8863a0b0f0dbf0889881fe0acb0317bc46925e50ea79bed924feea70247b7a",
+          "reviewNote": "Read complete text of subsection 6 and notes. Notwithstanding subsection 3's exemption from municipal regulation, allows project lessees or cooperative entities to request local permits, licenses, certificates (after review of licensed Missouri architect/engineer plans), and normal building-code inspections."
+        },
+        {
+          "number": 7,
+          "title": "Sovereign, official, and public-duty immunities for local actions",
+          "bodySha256": "f25f39725f6715d2f9239c3f222b21b39ff32dd614e352e594c997b387702278",
+          "reviewNote": "Read complete text of subsection 7 and notes. Applies existing sovereign immunity, official immunity, and public-duty doctrines to cities, counties, officials, and employees for damage claims arising from permits, licenses, certificates, or inspections under subsection 6."
+        },
+        {
+          "number": 8,
+          "title": "Cutoff and exclusions for leasehold tax exemption text",
+          "bodySha256": "4cad603ff1c2ddc1fbd60aae82dd20ac7c8e28cf07cfb9870c40e8d5ec7582fd",
+          "reviewNote": "Read complete text of subsection 8 and case annotations. Sets August 28, 1996 cutoff, grandfather text for prior nonrecreational leases/pre-1996 options, and taxability of recreational leaseholds (retaining archived trailing clause); 2000 Mo. banc (25 S.W.3d 159) and 2003 Mo.App. (122 S.W.3d 615) annotations invalidate leasehold tax exemptions under Mo. Const. Art. X, § 6."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.273:8679, all eight subsections, 1986-1996 history notes, and 1997/2000/2003 case annotations including St. Charles County v. Curators (25 S.W.3d 159, Mo. banc 2000, holding leasehold property-tax exemptions unconstitutional under Mo. Const. Art. X, § 6) and Nike IHM v. Zimmerman (122 S.W.3d 615, Mo.App. E.D. 2003); verified sourceUrl, sourceSha256, textSha256, and all eight bodySha256 fingerprints. Verified neutral topic phrasing in (3) and (8) that describes archived tax provisions/text without asserting current constitutional enforceability, alongside eminent domain, local zoning exemption with city/county consultation, conveyance without 172.020 concurrent resolution, 70.220 cooperative agreements, federal Uniform Relocation Act benefits, optional local permits/inspections, local immunities, and Aug. 28, 1996 / pre-1996 option / recreational-leasehold text (retaining archived trailing clause). Retained all eight drafted titles."
+    },
+    {
+      "id": "172.287:8681",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.287&bid=8681",
+      "sourceSha256": "bcdc8cecc6f36046ef7cc164143c8c2dcf98a9bce77c33496431310c5050cb31",
+      "textSha256": "a676ad2b371ce5e52a58edfe0f6391c42064a3416f520bc1b915e30885c5840e",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Engineering laboratory equipment grant requests and limits",
+          "bodySha256": "31578aa60f4ae7de0b260f5e884ee07656dfb6a2cc430b95fb6a1d97e60224eb",
+          "reviewNote": "Read complete text of subsection 1 and expiration note ('Expires 6-30-17'; L. 1985 S.B. 233 through A.L. 2007 H.B. 134). Describes archived annual capital-improvements appropriation request, ABET bachelor's-degree and nonstate-match grant caps, and furniture exclusion without asserting current operation after June 30, 2017."
+        },
+        {
+          "number": 2,
+          "title": "In-kind contributions and carryover of excess nonstate funds",
+          "bodySha256": "9777515f56d889644a3b66f6c5853e9917313e4a5fe483dc4562a25b3065e9a7",
+          "reviewNote": "Read complete text of subsection 2 and expiration note (Expires 6-30-17). Covers counting fair market value of in-kind laboratory equipment donations as nonstate funds and carrying excess nonstate equipment funds to the next fiscal year."
+        },
+        {
+          "number": 3,
+          "title": "Pro rata reduction when appropriations are insufficient",
+          "bodySha256": "1256653a923e9a01f7d277499ce9e9c19deeb0b7a26b76a76093624a1b0e7888",
+          "reviewNote": "Read complete text of subsection 3 and expiration note (Expires 6-30-17). Requires pro rata reduction of approved grants when fiscal-year appropriations do not cover all approved grants."
+        },
+        {
+          "number": 4,
+          "title": "Program termination on June 30, 2017",
+          "bodySha256": "182b9c2b40ab1ed1898e5f07e15a9dad7f3b0fd440f76b12dd61eb529c1d3ca0",
+          "reviewNote": "Read complete text of subsection 4 and expiration note (Expires 6-30-17). Explicitly states that section 172.287 terminates on June 30, 2017."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.287:8681, all four subsections, 1985-2007 history notes, and explicit 'Expires 6-30-17' note; verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints. Checked archived capital-improvements grant request, ABET bachelor's-degree ($1,200) and nonstate-match caps, and furniture exclusion (1), in-kind equipment valuation and excess carryover (2), pro rata reduction on insufficient appropriations (3), and express June 30, 2017 program termination (4), confirming titles neutrally describe archived provisions without asserting active post-2017 operation. Retained all four drafted titles."
+    },
+    {
+      "id": "172.320:8685",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.320&bid=8685",
+      "sourceSha256": "030fa5cc6f277d0c2eca6e4747449b1afd9ede0f7c011038252fd085a0290468",
+      "textSha256": "bd3983949050d206138ec374e5b5066f551500f44f400509e19d791b49af68ba",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Lowest-and-best-bid rules for depositories and purchases",
+          "bodySha256": "0f60883a6d2fd95bd4cdf5ca2d4eedab5ac494dfbd2201435ade5c276356cf17",
+          "reviewNote": "Read complete text of subsection 1 and history/prior-revision notes (RSMo 1939 § 10811, A.L. 1989 H.B. 493). Requires curators to adopt policies and rules selecting the lowest and best bid for bank depository agreements and purchases of supplies or personal property."
+        },
+        {
+          "number": 2,
+          "title": "Conflict-of-interest policy and regulations",
+          "bodySha256": "e7f1f2572bb71f5b81c093329cef6beb58827b4d7af08b029567b208d4cba26f",
+          "reviewNote": "Read complete text of subsection 2 and notes. Requires curators to promulgate and approve a conflict-of-interest policy and regulations, referenced by subsection 3."
+        },
+        {
+          "number": 3,
+          "title": "Employee contract interest disclosures and potential sanctions",
+          "bodySha256": "2fc498348fafc21c1a0f897788335c64a9ee70404525cceadc5caf6dc50b3eb5",
+          "reviewNote": "Read complete text of subsection 3 and notes. Allows employee contract interests only upon prior disclosure and compliance with subsection 2 policy; states nondisclosure 'may' be grounds for discipline and/or contract cancellation."
+        },
+        {
+          "number": 4,
+          "title": "Curator conflict disclosure and nonparticipation",
+          "bodySha256": "371479c80984d3d2f30f77d197a35ce95ffa08b7d50539c1300f01644fa5f4fa",
+          "reviewNote": "Read complete text of subsection 4 and notes. Requires curators in their individual capacity to disclose possible conflicts of interest and refrain from board decision participation as otherwise provided by law."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.320:8685, all four subsections, and RSMo 1939 / 1989 / prior-revision notes; verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints. Checked lowest-and-best-bid rules for bank depositories and supplies/personal property (1), mandatory conflict-of-interest policy/regulations (2), employee contract interest disclosure and permissive ('may') discipline or cancellation sanctions (3), and individual curator conflict disclosure and nonparticipation (4). Retained all four drafted titles."
+    },
+    {
+      "id": "172.493:8704",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.493&bid=8704",
+      "sourceSha256": "cc7032d94c1211a93c121cb1d91a41ad82966e7ffdbc6a0e55a3b50057e7c0cb",
+      "textSha256": "2d8af4c84a4b67d068a78dac2ff9d1938c423886699d85d917cc871e6123f7c2",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishment of the Delta Research Center",
+          "bodySha256": "4899bb95fc18c45d64625245a2fb172e0e677e53c4df279410c34ec91bd25082",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1957 p. 429 §§ 1, 2). Directs curators to establish an experimental farm and crop research facility with outlying fields in southeast Missouri."
+        },
+        {
+          "number": 2,
+          "title": "College of Agriculture research and demonstration duties",
+          "bodySha256": "b008fe42955b9096e48ad83f13f253aba7c7f196fd498114918cfc0e4421e1cd",
+          "reviewNote": "Read complete text of subsection 2 and history note. Assigns investigations, research, experiments, and demonstrations aiding southeastern Missouri agriculture under the dean of the College of Agriculture."
+        },
+        {
+          "number": 3,
+          "title": "Land purchases, donations, and purchase options",
+          "bodySha256": "b73162db0793e154b18ad6bfbf90239725d3c5e0759722f4786335abbf7d2f24",
+          "reviewNote": "Read complete text of subsection 3 and history note. Authorizes land purchase from available funds, acceptance of donated land in the name of the state of Missouri, and acquisition of purchase options."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.493:8704, all three subsections, and L. 1957 p. 429 §§ 1, 2 note; verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints. Checked establishment of the Delta Research Center in southeast Missouri (1), College of Agriculture research and demonstration duties under its dean (2), and land purchases, state-named donations, and purchase options (3). Retained all three drafted titles."
+    },
+    {
+      "id": "172.495:8705",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.495&bid=8705",
+      "sourceSha256": "61a5cbbfa64745ec20b9ea5d3c12d9150b3eac3b43fe82dba4bad850fb02818e",
+      "textSha256": "c706a799c48accb8195693dafeaed886ba4e55a3ba26929a51f9370f33d83ae1",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishment of Southwest Missouri Agricultural Research Center",
+          "bodySha256": "11bd4fb7a50ac6084c5595827e77d85c6b377112ea42a4d80a44f375bdcfa928",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1957 p. 480 §§ 1, 2). Directs curators to establish an experimental farm and research facility in southwest Missouri."
+        },
+        {
+          "number": 2,
+          "title": "Supplemental agricultural research under College of Agriculture",
+          "bodySha256": "6a5a36a1247d231651e3a7efb82dba28632a2b16d88a04f680bbd13ff9e98c0c",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs investigations, research, experiments, and demonstrations under the dean of the College of Agriculture as supplemental to, not in lieu of, existing area facilities."
+        },
+        {
+          "number": 3,
+          "title": "Nonexclusive scope of research and study topics",
+          "bodySha256": "ec14b406838412bfad8eb62691b4a8852a5bc7efc874ad0918d7846f0a22349a",
+          "reviewNote": "Read complete text of subsection 3 including subdivisions (1) through (4) and history note. Lists nonexclusive topics ('by way of extension but not of limitation'): agricultural/horticultural products, soil conservation and irrigation, marketing and production patterns, and other advisable area studies."
+        },
+        {
+          "number": 4,
+          "title": "Land purchases, donations, and adjoining-land options",
+          "bodySha256": "8b6e279eae5a510cb399e6afdb51a63a09c01c3241267115ffcaf9bf5b758a53",
+          "reviewNote": "Read complete text of subsection 4 and history note. Authorizes purchasing land from available funds, accepting donated land in the state's name, and acquiring options on adjoining land; retains archived source typo ('In may also acquire') without modifying source text."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.495:8705, all four subsections including subdivisions (1)-(4) of subsection 3, and L. 1957 p. 480 §§ 1, 2 note; verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints. Checked establishment of Southwest Missouri Agricultural Research Center (1), supplemental College of Agriculture research duties (2), nonexclusive research/study topics (3), and land purchases, donations, and adjoining-land options (retaining archived source typo 'In may also acquire') (4). Retained all four drafted titles."
+    },
+    {
+      "id": "172.611:8713",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.611&bid=8713",
+      "sourceSha256": "f5adc0fe4305c3c356d389506ca678f98cd3f2396c207558af90910ae7a72b48",
+      "textSha256": "6b6aa4eca9b1fb475abfa8d1d26a2da2df7c3440cd3c245ed94fe6ecbdc7cba1",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Consolidated 1951 seminary fund certificates and interest uses",
+          "bodySha256": "092f269632d29481eb7e4bf4afab07cbde6f64e2297ec9c818c93f85b9350b0d",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1) through (6) and history note (L. 1951 p. 472 § 2). Covers July 1, 1951 issuance of six twenty-year consolidated state certificates of indebtedness to the seminary fund, detailing principal amounts, 5% or 6% semiannual interest, and dedicated university, College of Agriculture, Rolla, and Rollins scholarship uses."
+        },
+        {
+          "number": 2,
+          "title": "Execution, dedication terms, and deposit of certificates",
+          "bodySha256": "a37fcae8dc0b4f187fb2d64ffb3ead4ceab3f6e071baa0ba849b34f391c853aa",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires execution by the governor, countersignature by the secretary of state, state seal, specified dedication/interest terms, and deposit with the state treasurer."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.611:8713, both subsections including subdivisions (1)-(6) of subsection 1, and L. 1951 p. 472 § 2 note; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked July 1, 1951 issuance of six 20-year consolidated seminary fund certificates, principal amounts, 5%/6% semiannual interest, and dedicated university/College of Agriculture/Rolla/Rollins scholarship uses (1), plus gubernatorial execution, secretary-of-state countersignature, great seal, dedication terms, and state-treasurer deposit (2). Retained both drafted titles."
+    },
+    {
+      "id": "172.640:57464",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.640&bid=57464",
+      "sourceSha256": "20b96dc7d5938eeabef47df850a86e844ea71eb3e3647ac0e5b235b9ec98e409",
+      "textSha256": "6cd56d9cb9a21001644b66f19d4cc1fe260243ac6b2350100082b17102220dc8",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Seminary fund custodial account agreement under 30.286",
+          "bodySha256": "b174a285b919974738508652e1d8d3c7b47a684367ba38c716c264387270ce5d",
+          "reviewNote": "Read complete text of subsection 1 and history/prior-revision notes (through A.L. 2025 H.B. 419). Directs the state university to contract with the state treasurer under section 30.286 for a separate financial-institution custodial account holding seminary fund moneys."
+        },
+        {
+          "number": 2,
+          "title": "Investment of custodial account moneys under 172.630",
+          "bodySha256": "3c562ef313241f2819320bf9f06dbabe9b0d7fc54699e4ac8404c475e57e2943",
+          "reviewNote": "Read complete text of subsection 2 and notes. Directs the state university to invest custodial-account moneys in government bonds pursuant to section 172.630."
+        },
+        {
+          "number": 3,
+          "title": "Withdrawal and maintenance uses of bond earnings",
+          "bodySha256": "4f9f1f68d701b57387404bd563648cfdd65c07b532e1f02adf3efd9847dbb755",
+          "reviewNote": "Read complete text of subsection 3 and notes. Permits the state university to withdraw custodial-account bond earnings and restricts withdrawals to maintaining the state university, its college of agriculture, and its Rolla campus."
+        },
+        {
+          "number": 4,
+          "title": "Custodial account reports to the state treasurer",
+          "bodySha256": "ae2f6e2d436ffd18c0cc2c2db3d2e96bcb7fd417a2767fa94eb833d449e19107",
+          "reviewNote": "Read complete text of subsection 4 and notes. Requires the state university to provide a financial-institution report of custodial-account receipts and expenditures to the state treasurer at least annually."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.640:57464, all four subsections, and RSMo 1939-2025 (A.L. 2025 H.B. 419) / prior-revision notes; verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints. Checked section 30.286 financial-institution custodial account agreement (1), section 172.630 government-bond investment (2), withdrawal and university/College of Agriculture/Rolla maintenance use of bond earnings (3), and state-university submission of financial-institution receipts/expenditures reports to the state treasurer 'no less often than annually' (4). Revised (4) from 'Annual financial institution reporting to state treasurer' to 'Custodial account reports to the state treasurer' to avoid implying direct financial-institution filing or strictly annual frequency; retained (1)-(3)."
+    },
+    {
+      "id": "172.650:57465",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.650&bid=57465",
+      "sourceSha256": "e4a2cb465331fffecda9ea02b6d02a8e40feaae82e5e4c40db1b5792c9c2853a",
+      "textSha256": "62345e5487bcbaa6d0f168a5234d41ca19f164e63880472ce220a26701de1e26",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Nonnegotiable status of seminary fund certificates until liquidation",
+          "bodySha256": "046f0d869cda16ee1513d3f48a2fb63101404d35fa37a631cc000fdd17a9ec01",
+          "reviewNote": "Read complete text of subsection 1 and history/prior-revision notes (through A.L. 2025 H.B. 419). Confirms original and renewal seminary fund certificates of indebtedness as nonnegotiable, unconvertible, untransferable obligations until liquidated by general assembly appropriation and payment."
+        },
+        {
+          "number": 2,
+          "title": "Partial liquidation and replacement balance certificates",
+          "bodySha256": "06931e6b46482c82bf460ada930732e936a134a3ff600a6011c31a7c58bec0d0",
+          "reviewNote": "Read complete text of subsection 2 and notes. Authorizes the general assembly to partially liquidate certificates by appropriation and payment, with a new certificate issued for any remaining unpaid face balance."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.650:57465, both subsections, and RSMo 1939-2025 (A.L. 2025 H.B. 419) / prior-revision notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked nonnegotiable, unconvertible, untransferable status of original and renewal seminary fund certificates until general-assembly liquidation by appropriation and payment (1), and partial liquidation with replacement balance certificates (2). Revised (1) from 'Permanent nonnegotiable status of seminary fund certificates' to 'Nonnegotiable status of seminary fund certificates until liquidation' to preserve the express liquidation qualification; retained (2)."
+    },
+    {
+      "id": "172.740:8724",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.740&bid=8724",
+      "sourceSha256": "de1b1f6d7368b514e4ccc9ee643a68abbf6742196ff7b794b6bcd966a171c9cf",
+      "textSha256": "05e992ab6aa851bcf5c2ca5647debac6b8abf44cc17eaf77df2bd1775c37c8dd",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Legislative purpose and findings on 1870 college lands",
+          "bodySha256": "f5bdb2e65b40ab2c105dee5c6f6860511df6b1bb1a5ac2799c96db32f79a965c",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1) through (3) and history note (L. 1963 p. 349 §§ 1 to 4). Recites compliance with the 1862 Morrill Act and 1870 state act, unsuitability of original tracts, allocation of larger replacement acreage, and finding to enlarge permissible land uses."
+        },
+        {
+          "number": 2,
+          "title": "Enlarged university uses and transfer authority",
+          "bodySha256": "fd6f570d2cf8fa3c495d8e2afe07157179274296bc5ce9e8b3e84d25703eaf09",
+          "reviewNote": "Read complete text of subsection 2 and history note. Allows lands acquired under the February 24, 1870 act to be used as curators determine in the university's best interest, including title transfer under subsection 3."
+        },
+        {
+          "number": 3,
+          "title": "Fee-simple conveyances to state or federal entities",
+          "bodySha256": "521398653f684aad6a1f41bea30d065cfbdca4ad71656aba81b390a3c6578fb9",
+          "reviewNote": "Read complete text of subsection 3 and history note. Authorizes fee-simple conveyance of portions of the land to Missouri state agencies/subdivisions or the United States upon a best-interests finding, for monetary or nonmonetary benefit consideration."
+        },
+        {
+          "number": 4,
+          "title": "Execution and attestation of land conveyances",
+          "bodySha256": "37e5775002b78b9beb18027afdfc891fed5e1d2707127bdb19df6302193c5887",
+          "reviewNote": "Read complete text of subsection 4 and history note. Requires conveyances in the curators' name to be signed by the board president, sealed with the corporate seal, and attested by the board secretary."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.740:8724, all four subsections including subdivisions (1)-(3) of subsection 1, and L. 1963 p. 349 §§ 1 to 4 note; verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints. Checked legislative purpose and Morrill Act / Feb. 24, 1870 land findings (1), enlarged university-interest uses and transfer power (2), fee-simple conveyances to Missouri or federal entities for monetary or benefit consideration (3), and execution/seal/attestation rules (4). Retained all four titles."
+    },
+    {
+      "id": "172.775:8730",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.775&bid=8730",
+      "sourceSha256": "e1bbbca5ad2149683cbfd94e7e6cb37ce6b3b20e63337da512f5930c74bb3267",
+      "textSha256": "94aad6775afcc969f9e9108ccd580c89d4100896488710c7ddb13b588a5e7227",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorization for interstate school of optometry agreement",
+          "bodySha256": "00b83b4b4dfdfb88c82dfe1055a5ebb0623b7eea85fb2b4339fb4f03e69a7a86",
+          "reviewNote": "Read complete text of subsection 1 and history/effective note (L. 1978 H.B. 1691 § 1, A.L. 1980 H.B. 1868; Effective 5-12-80). Authorizes curators to contract with other states under the Federal Public Health Service Act; source text ends with 'provided that:' whose condition continues in subsection 2."
+        },
+        {
+          "number": 2,
+          "title": "Pro rata multistate sharing of operating costs",
+          "bodySha256": "b4fa16d90a702d8ce7f89096d696f517e02d60249757c1d04c032dfb09dede39",
+          "reviewNote": "Read complete text of subsection 2 and notes. Sets the operating-cost proviso referenced by subsection 1: once full student complement is enrolled, net operating costs including equipment and supplies beyond federal/nonstate funds are shared equally by party states on a pro rata, per-student basis."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.775:8730, both subsections, and 1978/1980 (Effective 5-12-80) notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked interstate optometry-school agreement authorization under the Federal Public Health Service Act (noting trailing 'provided that:' leading into subsection 2) (1) and equal pro rata, per-student multistate sharing of net operating costs after full enrollment (2). Retained both drafted titles."
+    },
+    {
+      "id": "172.780:8731",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.780&bid=8731",
+      "sourceSha256": "cdffacbc5a1352d89c957033495446866d1396c22ddb37d89f0d60b8f029b63a",
+      "textSha256": "8ca7f7a62981f9bd0b0a693ae718f1dc7866ac5a81dc268b0163e535e4192640",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "UMSL school of optometry authorization and student fees",
+          "bodySha256": "d1e85720b6322e912f35c504b4be61ab965ecc6beaeb4642a43da953bf1f280a",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1978 H.B. 1691 § 2, A.L. 1980 H.B. 1868, A.L. 1985 H.B. 675). Authorizes developing an optometry school at UM-St. Louis and directs setting resident and nonresident fees in line with other university health sciences programs."
+        },
+        {
+          "number": 2,
+          "title": "Pro rata interstate sharing of operating costs",
+          "bodySha256": "4ffaf305c92eba80518d163db56bfe7ad4206dcc1ecf53a0400b584bc88488ce",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires net operating costs including supplies and equipment amortization (beyond federal/nonstate funds, after full student complement) to be borne equally by agreement-party states on a pro rata, per-student basis."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.780:8731, both subsections, and 1978-1985 history notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked UMSL optometry school authorization and resident/nonresident fees aligned with university health sciences programs (1), plus pro rata per-student interstate operating-cost sharing including supplies and equipment amortization after full enrollment (2). Retained both drafted titles."
+    },
+    {
+      "id": "172.792:8733",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.792&bid=8733",
+      "sourceSha256": "825d108fa34304c62e70a5331a7446c0729813f1f8fe429288a872757e6d9bdb",
+      "textSha256": "6de4984eb1ba4ba06775b6962f1e55ca60126b315b6052bdc6a1d5d64c93b8f5",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Research awards, appropriation requests, and overhead cap",
+          "bodySha256": "d4f72bd8628289481cc0bd57f877f660be583f90e66af9d982cfe8abe67b1252",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 2001 H.B. 218). Directs curators to award funds for specified disease-process or injury research and permits annual appropriation requests plus up to ten percent administrative overhead."
+        },
+        {
+          "number": 2,
+          "title": "Proposal selection, external peer review, and public access",
+          "bodySha256": "feb842b74de18b50369b4644321782aae3451ce72b689d51c177c3cb0199c71d",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers advisory-board proposal solicitation and NIH/NSF-style unaffiliated peer review, closing external evaluation results and related board discussion while keeping final awards and other proceedings open to the public."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.792:8733, both subsections, and L. 2001 H.B. 218 note; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked disease-process/injury research awards, annual appropriation requests, and 10% overhead cap (1), plus advisory-board solicitation, NIH/NSF-style unaffiliated peer review, closed evaluation/discussion, and open final awards/other proceedings (2). Retained both drafted titles."
+    },
+    {
+      "id": "172.794:8734",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.794&bid=8734",
+      "sourceSha256": "78304c100ac6ca6c63c1acc88ef3955bd0127ec643fa8003ae9637bbd6e41890",
+      "textSha256": "c572dfd36787610356e012a059c0413790fbb6fdc4844f64ae3a871f43834107",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Award limits, eligibility, purpose, and Missouri location",
+          "bodySha256": "e4a390f3950664501c8d7f4654e72a905d3765c811e442ce934b8e297badb251",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1) through (5) and history note (L. 2001 H.B. 218, A.L. 2010 S.B. 987). Covers $250,000/year cap and 1-to-2-year duration, grantee overhead prohibition, institutional affiliation and official designation, preliminary-data purpose, and Missouri-location requirement."
+        },
+        {
+          "number": 2,
+          "title": "Inclusion of unawarded funds in next appropriation request",
+          "bodySha256": "d7d6cfbc514d4ebd811977862807b8fa6ee5efe0d48e74c7114f3105fa5e6c4f",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs that appropriated but unawarded research funds in any year be included in the curators' succeeding-year appropriation request."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.794:8734, both subsections including subdivisions (1)-(5) of subsection 1, and 2001/2010 history note; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked $250,000/year cap, 1-to-2-year term, grantee overhead ban, institutional affiliation/official, preliminary-data purpose, and Missouri-location requirement (1), plus including unawarded appropriated funds in the next year's appropriation request (2). Retained both drafted titles."
+    },
+    {
+      "id": "172.796:8735",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.796&bid=8735",
+      "sourceSha256": "4de907d415108d264fe66bf5fc42f3c89d0a1b017589d2a53eb4f7ed2a7a1516",
+      "textSha256": "af204b57785f3ccba431e9891f4954ca3533e7076a8048af55baa80761c37a2e",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Advisory board membership composition",
+          "bodySha256": "6dce26b7f37f4d5d4dc73751386dbf9ef2c9b4dc5a7a99692655a6216df12bc8",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1) through (5) and history note (L. 2001 H.B. 218). Establishes the eight-member composition across physician-researchers, nonphysician researchers, a nonphysician care provider, disease/injury organization nonresearchers, and a curators' representative."
+        },
+        {
+          "number": 2,
+          "title": "Three-year terms and staggered initial appointments",
+          "bodySha256": "c1b2afb6e2604df7ac1a4cf3de16142824a42030d91fa79be4d13752f47545b9",
+          "reviewNote": "Read complete text of subsection 2 and history note. Sets three-year terms for advisory board members, qualified by staggered two-, three-, and four-year initial terms."
+        },
+        {
+          "number": 3,
+          "title": "Appointment by curators and successor nominations",
+          "bodySha256": "11c1a448e2de57646a8bca3b54bbf4a89bf422aab99a4807069d98391b2fa28c",
+          "reviewNote": "Read complete text of subsection 3 and history note. Assigns appointment authority to the board of curators and successor nominations to the advisory board itself."
+        },
+        {
+          "number": 4,
+          "title": "Dismissal of advisory board members",
+          "bodySha256": "d1ca979e4c60b5a7f4fd34e01b9535688db85ec1e05164501e801fd34585d46d",
+          "reviewNote": "Read complete text of subsection 4 and history note. Permits dismissal of advisory board members upon a two-thirds affirmative vote of the members."
+        },
+        {
+          "number": 5,
+          "title": "Expense reimbursement under sections 172.790 to 172.798",
+          "bodySha256": "51d5afbb2b5c4b9681bbb94c494cc33003c6c16e3b691dcf40aca2b8c3dfe115",
+          "reviewNote": "Read complete text of subsection 5 and history note. Provides reimbursement by curators for actual expenses of advisory board and peer review committee members serving under sections 172.790 to 172.798."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.796:8735, all five subsections including subdivisions (1)-(5) of subsection 1, and L. 2001 H.B. 218 note; verified sourceUrl, sourceSha256, textSha256, and all five bodySha256 fingerprints. Checked eight-member composition (1), three-year terms with staggered 2/3/4-year initial terms (2), curator appointments and advisory-board successor nominations (3), two-thirds dismissal vote (4), and actual-expense reimbursement for advisory board and peer review committee under sections 172.790 to 172.798 (5). Retained all five drafted titles."
+    },
+    {
+      "id": "172.801:8738",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.801&bid=8738",
+      "sourceSha256": "e4ebf238a310b70b9f576f7037162cbc93ebb76009fccd5cb60d4bd7a2164d81",
+      "textSha256": "59d94c333c051aced0f223f368b026d74252a0d1156c22619ee72f79888ff130",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Alzheimer's research awards, minimum request, and overhead cap",
+          "bodySha256": "4db053fc3f5ff13ad8c4345c890fc33ee60338be1d8465a74060a336db2b72a9",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1987 S.B. 200 § 2, A.L. 1991 S.B. 113). Directs curators to award Alzheimer's research funds, request annually at least $200,000 adjusted for inflation, and request up to ten percent for administrative overhead."
+        },
+        {
+          "number": 2,
+          "title": "Advisory board research priorities and expert advice",
+          "bodySha256": "09f3345715712f06b340f21327b9dd8aab7b61c16f51f336e1b290ebc8ed8046",
+          "reviewNote": "Read complete text of subsection 2 and history note. Assigns research-priority setting to the advisory board (listing nonexclusive care, cause, diagnosis, cost-containment, and caregiver topics) with required advice from national experts."
+        },
+        {
+          "number": 3,
+          "title": "Proposal selection, peer review, and public-access rules",
+          "bodySha256": "ca124a95f342095fdea0b23bf03e294ede01da6057f8ded655437fc14d3c2e16",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers NIH/NSF-style and Missouri research assistance act peer review, closing external evaluation and related discussion due to proprietary-interest findings while keeping final awards and other proceedings open."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.801:8738, all three subsections, and 1987/1991 history note; verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints. Checked Alzheimer's research awards, inflation-adjusted $200,000 minimum annual request, and 10% overhead cap (1), advisory-board research priorities with national expert advice (2), and NIH/NSF/Missouri-research-assistance-act peer review with proprietary-interest closed evaluations/discussion and open final awards/proceedings (3). Retained all three drafted titles."
+    },
+    {
+      "id": "172.803:8739",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.803&bid=8739",
+      "sourceSha256": "fdb5a71a0b9fd55843a68719aaf83239b0766cb15c78e535f12a1977b5b2f046",
+      "textSha256": "ef52b9b0a642394854a4d9245eddb60f6d8eeadbe0ee35442264df9e4a7ff3e3",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Award caps, preferences, eligibility, and Missouri requirement",
+          "bodySha256": "3d0d90580c47090fac8cff852cebbf12dd7371a943c859cf3f95405f6316a4db",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1) through (6) and history note (L. 1987 S.B. 200 § 3, A.L. 1997 H.B. 663, A.L. 2012 S.B. 563). Covers $50,000/year cap, 1-to-2-year term, grantee overhead ban, institutional employment, new-investigator/new-direction preference subject to 172.801(3), preliminary-data purpose, and Missouri location."
+        },
+        {
+          "number": 2,
+          "title": "Inclusion of unawarded funds in next appropriation request",
+          "bodySha256": "d7d6cfbc514d4ebd811977862807b8fa6ee5efe0d48e74c7114f3105fa5e6c4f",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs including appropriated but unawarded research funds in the curators' succeeding-year appropriation request."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.803:8739, both subsections including subdivisions (1)-(6) of subsection 1, and 1987-2012 history notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked $50,000/year cap, 1-to-2-year term, grantee overhead ban, institutional employment, new-investigator/new-direction preference subject to 172.801(3), preliminary-data purpose, and Missouri location (1), plus including unawarded appropriated funds in the next year's appropriation request (2). Revised (2) from 'Carryforward of unawarded funds in appropriation requests' to 'Inclusion of unawarded funds in next appropriation request' to match 172.794(2) and avoid implying automatic unspent-funds carryforward; retained (1)."
+    },
+    {
+      "id": "172.805:8740",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.805&bid=8740",
+      "sourceSha256": "b17a4ae0c54b2e65b070e2522e14b59612d9cd900684bfe7ba916e0e2bcc3daf",
+      "textSha256": "6186084b9628ac130b8cf2c1ee97bf445fa93b9c334a07fb8b2fd5d960827f01",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Advisory board membership composition",
+          "bodySha256": "56b961c3d49b1f221b4df5a14c2d0df47d9607462a2e1d7f301e7d19b944a95c",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1) through (7) and history note (L. 1987 S.B. 200 § 4). Sets membership across Alzheimer's physician-researchers, nonphysician researchers, a care provider, association nonresearchers, a curator representative, a task-force representative while in existence, and a general assembly member."
+        },
+        {
+          "number": 2,
+          "title": "Three-year terms and staggered initial terms",
+          "bodySha256": "55276337a97fa12017e81d9ca6f6e8ddb6a37972f3cfc6628b1c11536c01cd38",
+          "reviewNote": "Read complete text of subsection 2 and history note. Establishes three-year terms with staggered two-, three-, and four-year terms for original members."
+        },
+        {
+          "number": 3,
+          "title": "Appointment by curators and nomination process",
+          "bodySha256": "c088025e769b01a31a18b9af1364da8d082f4159ce271a8b02a2d3e386f03b26",
+          "reviewNote": "Read complete text of subsection 3 and history note. Directs appointment by curators from task-force nominations while the task force exists, shifting nominations to the advisory board thereafter."
+        },
+        {
+          "number": 4,
+          "title": "Dismissal of advisory board members",
+          "bodySha256": "d1ca979e4c60b5a7f4fd34e01b9535688db85ec1e05164501e801fd34585d46d",
+          "reviewNote": "Read complete text of subsection 4 and history note. Permits dismissal of advisory board members by an affirmative two-thirds vote of the members."
+        },
+        {
+          "number": 5,
+          "title": "Expense reimbursement under sections 172.800 to 172.807",
+          "bodySha256": "b13851bb90f60d35ee9c57e54edd5ea5acd46457f3b8e23213802388bad4d5be",
+          "reviewNote": "Read complete text of subsection 5 and history note. Provides curator reimbursement for actual expenses of advisory board and peer review committee members serving under sections 172.800 to 172.807."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.805:8740, all five subsections including subdivisions (1)-(7) of subsection 1, and L. 1987 S.B. 200 § 4 note; verified sourceUrl, sourceSha256, textSha256, and all five bodySha256 fingerprints. Checked advisory-board composition including task-force representative while in existence and general assembly member (1), three-year terms with 2/3/4-year initial stagger (2), curator appointments from task-force then advisory-board nominations (3), two-thirds dismissal vote (4), and actual-expense reimbursement under sections 172.800 to 172.807 (5). Retained all five drafted titles."
+    },
+    {
+      "id": "172.812:8743",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.812&bid=8743",
+      "sourceSha256": "bf0638d2167024efe88d090fc780c8e9e8bbb160d19e0243ceb6be66cba6bf7a",
+      "textSha256": "4e95a65bbf1ae21264790cdaee017a7844efc93b552ef2eab1ca8f74948058b8",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Transfer of state cancer center property by agreement",
+          "bodySha256": "ecee3620ee87c4053177792854b09cf0ee9be2931c09c370c870ba135bf867c7",
+          "reviewNote": "Read complete text of subsection 1 and history/effective note (L. 1990 H.B. 1725 merged with S.B. 737; Effective 11-1-90). Permits transfer of real, personal, and mixed cancer-center property by agreement between the state cancer commission and curators, empowering the governor to convey governor-titled land."
+        },
+        {
+          "number": 2,
+          "title": "Transfer and use of unexpended appropriations",
+          "bodySha256": "4d0f6cf6c5fe1883fab449927727eabf219b466f0d3de439d95a4aca799ee5b0",
+          "reviewNote": "Read complete text of subsection 2 and notes. Transfers control of unexpended cancer-center appropriations to curators for expenditure on the center's behalf in accordance with those appropriations."
+        },
+        {
+          "number": 3,
+          "title": "Authority to accept gifts and grants for cancer center",
+          "bodySha256": "907a4a9953bc1b87d4e44f39c20126f9742edd210554f86fa451aa68b1b18fe4",
+          "reviewNote": "Read complete text of subsection 3 and notes. Authorizes curators to accept gifts, grants, or other property transfers of any sort on behalf of the state cancer center."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.812:8743, all three subsections, and L. 1990 H.B. 1725 merged with S.B. 737 (Effective 11-1-90) notes; verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints. Checked agreement-based transfer of state cancer center property and gubernatorial conveyance authority (1), transfer of control over unexpended appropriations (2), and authority to accept gifts, grants, or property transfers for the center (3). Retained all three drafted titles."
+    },
+    {
+      "id": "172.815:8744",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.815&bid=8744",
+      "sourceSha256": "e78acd0ad99d1f6bf60e42ae8167fbdb3118fa73533a58373dab0b1692cdb8d4",
+      "textSha256": "cc6761e8fcde7dab225c4792fb0ba2f9a021ba23ccaa5e692852942c88f8de20",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Transfer of cancer center employees, leave, and benefit elections",
+          "bodySha256": "7c19dc31fbd060b962f712b9be7093beb1920c2ad79931caa727956b135eda05",
+          "reviewNote": "Read complete text of subsection 1 and history/effective note (L. 1990 H.B. 1725 merged with S.B. 737; Effective 11-1-90). Covers agreement-triggered employee transfer on November 1, 1990, university personnel/leave rules, ninety-day written election to retain state benefits (defaulting to university benefits), good-health-evidence exemption conditions, and retirement service credit."
+        },
+        {
+          "number": 2,
+          "title": "Reimbursement of curators and MOSERS actuarial formula",
+          "bodySha256": "0267c5e7f5ff6703074eed9b6064f4b2c07b903fa3d60534dbfea628f41bab74",
+          "reviewNote": "Read complete text of subsection 2 and notes. Provides reimbursement to curators for benefit-transfer liabilities and sets the ratio-based MOSERS pension-trust actuarial-value transfer formula."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.815:8744, both subsections, and L. 1990 H.B. 1725 merged with S.B. 737 (Effective 11-1-90) notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked Nov. 1, 1990 agreement-triggered employee transfer, unused leave credit, 90-day written election to keep state benefits (defaulting to university benefits), good-health-evidence conditions, and retirement service credit (1), plus curator liability reimbursement and MOSERS actuarial-accrued-liability ratio formula (2). Retained both drafted titles."
+    },
+    {
+      "id": "172.852:8750",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.852&bid=8750",
+      "sourceSha256": "d35bc8cdbcb9371655709e049c7d88615fbaa477d8375bb776b81f367bcebc13",
+      "textSha256": "00965df07b28239e10b9dab07713147cfc4ad24bd6b6dc70a4c8b60cd7c05f9d",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Transfer and sale authority for rehabilitation center property",
+          "bodySha256": "ec2252b6163bc15f442c2a659d7992e1b3a0a3a605a322793a6a0c0ec956c3c7",
+          "reviewNote": "Read complete text of subsection 1 and history/effective note (L. 1996 S.B. 540; Effective 4-1-96). Permits transfer of DHSS Missouri rehabilitation center property by agreement, empowers gubernatorial conveyance of governor-titled land, and authorizes curators to sell transferred land with proceeds used consistent with section 172.850."
+        },
+        {
+          "number": 2,
+          "title": "Transfer of unexpended appropriations and lab exception",
+          "bodySha256": "8b3b079b96c592f014a16fea28e588da74abd90b2547e21cace430c37adec0b6",
+          "reviewNote": "Read complete text of subsection 2 and notes. Transfers control of unexpended rehabilitation-center appropriations to curators, excepting portions retained by DHSS for the tuberculosis testing laboratory."
+        },
+        {
+          "number": 3,
+          "title": "Transfer of trust, endowment, and other center funds",
+          "bodySha256": "b12bd7c51e7cdf77816d1f47c577952f80e81f74cac052b88e6405b0e38b1efe",
+          "reviewNote": "Read complete text of subsection 3 and notes. Permits transfer of unexpended trust, endowment, pledge, special, and general funds unless prohibited by law, subject to agreed tuberculosis-laboratory reservations and expenditure consistent with section 172.850."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.852:8750, all three subsections, and L. 1996 S.B. 540 (Effective 4-1-96) notes; verified sourceUrl, sourceSha256, textSha256, and all three bodySha256 fingerprints. Checked agreement-based transfer of DHSS rehabilitation center property, gubernatorial conveyance power, and curator sale authority consistent with 172.850 (1), transfer of unexpended appropriations excepting DHSS tuberculosis-testing-laboratory funds (2), and permissive transfer of trust, endowment, pledge, special, and general funds subject to law and TB-lab reservations (3). Retained all three drafted titles."
+    },
+    {
+      "id": "172.854:8751",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.854&bid=8751",
+      "sourceSha256": "186070c1d189125537d50b461d8bbacb933160d706df429e96038b88c0c9e66f",
+      "textSha256": "e44961d0651c53517d4909e97d5ccead79fd73637ff94fea1627946ce1b3290d",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Transfer of rehabilitation center employees and benefit elections",
+          "bodySha256": "93b0e2527654daf839e316c470974c2e44a8db8849a652a222f9874848610078",
+          "reviewNote": "Read complete text of subsection 1 and history/effective note (L. 1996 S.B. 540; Effective 4-1-96). Covers agreement-triggered transfer of rehabilitation-center employees (excluding DHSS-reserved tuberculosis-laboratory staff), leave credit, ninety-day written election to remain in state benefits (defaulting to university benefits), good-health-evidence conditions, and retirement service credit."
+        },
+        {
+          "number": 2,
+          "title": "Reimbursement of curators and MOSERS actuarial formula",
+          "bodySha256": "57f03aefccc2bea4e93521f5dc895de592f28dbed865e929e3f3e35a27185926",
+          "reviewNote": "Read complete text of subsection 2 and notes. Requires reimbursement of curators for benefit-transfer liabilities and specifies the MOSERS actuarial-accrued-liability ratio formula for transferred retirement service."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.854:8751, both subsections, and L. 1996 S.B. 540 (Effective 4-1-96) notes; verified sourceUrl, sourceSha256, textSha256, and both bodySha256 fingerprints. Checked agreement-triggered employee transfer excluding DHSS-reserved tuberculosis-laboratory staff, leave credit, 90-day written state-benefits election (defaulting to university benefits), good-health-evidence conditions, and retirement service credit (1), plus mandatory curator reimbursement and MOSERS actuarial ratio formula (2). Retained both drafted titles."
+    },
+    {
+      "id": "172.875:8756",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=172.875&bid=8756",
+      "sourceSha256": "2f2a27d2da319757e1ee9ab5ae5d7c3a0a2f94cc8de9117e38be0937873bb54e",
+      "textSha256": "795447ec6df290b3cd90028170babb28dd09bae02fc02e02b812e3bad3e44976",
+      "draftedBy": "antigravity_drafter_a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Separate organ transplant assistance program and guidelines",
+          "bodySha256": "f02c10fb1521c995252f15e9f9381e2174ce88ddf09796ee5ae50c203fd1cb12",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 2001 H.B. 821, A.L. 2014 H.B. 1299 Revision). Directs the Missouri kidney program to administer a separate assistance program for immunosuppressive pharmaceuticals and other services for other organ transplant patients, with guidelines and eligibility similar to renal-disease patients."
+        },
+        {
+          "number": 2,
+          "title": "Administrative costs paid by new program participants",
+          "bodySha256": "5ebe8826ade38c86dc6a0602c69a710c2b164664ae3c6a1cbd0e780ea857deb1",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires new participants receiving assistance under this section to pay administrative costs associated with their participation."
+        },
+        {
+          "number": 3,
+          "title": "Coordination with family support and MO HealthNet divisions",
+          "bodySha256": "5497bedf05f759e3c9f7b9182eed91c3dd117ecb03158ad896efa1b874a727a3",
+          "reviewNote": "Read complete text of subsection 3 and history note. Directs coordination between the Missouri kidney program and DSS's family support and MO HealthNet divisions for efficient, cost-effective assistance."
+        },
+        {
+          "number": 4,
+          "title": "Priority for pharmaceutical services and other available funds",
+          "bodySha256": "1440bd462a1d18d74322a4531d190b105ca9eb87b06ed573d79dcece10ceca13",
+          "reviewNote": "Read complete text of subsection 4 and history note. Establishes pharmaceutical services as the priority use of appropriated funds, while permitting other organ-transplant treatment services if other program funds are available."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_b",
+      "reviewSummary": "Independently read complete archived version 172.875:8756, all four subsections, and 2001/2014 Revision history note; verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints. Checked separate Missouri kidney program assistance and renal-similar guidelines for other organ transplant patients (1), new-participant payment of administrative costs (2), coordination with DSS family support and MO HealthNet divisions (3), and pharmaceutical-service priority with permissive other treatment services from available transplant-program funds (4). Retained all four drafted titles."
+    }
+  ]
+}
