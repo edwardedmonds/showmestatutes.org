@@ -1,0 +1,968 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "381.011:21434",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.011&bid=21434",
+      "sourceSha256": "f24bf57604f0222eab811d533a79f0503afcf33f7ee75dd64d097346fb1582ab",
+      "textSha256": "0475b6b566913843df31fa19dbcab1d750852e5a937b6b3f4e4356538a26078c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Title of act",
+          "bodySha256": "cb449ed083fbe92c3447733ae3aa4c0edd6259c1b4934c846dd65b63dd8f70cd",
+          "reviewNote": "Cites sections 381.011 to 381.412 as the Missouri Title Insurance Act."
+        },
+        {
+          "number": 2,
+          "title": "Regulatory purpose under McCarran-Ferguson Act",
+          "bodySha256": "c556b338c60179fe439a6213832538e84802d1d53b401307a5720bf0294f7019",
+          "reviewNote": "Specifies comprehensive regulation of title insurance business in response to federal McCarran-Ferguson Act."
+        },
+        {
+          "number": 3,
+          "title": "General insurance law applicability",
+          "bodySha256": "d99afd1a653039f0ae10077b7379cff2ef9ef273f209c751ab23e09624392d6a",
+          "reviewNote": "Applies general state insurance laws to title insurance, title insurers, and title agents."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 3 subsections and Effective 1-01-08 note against archived text; confirmed Missouri Title Insurance Act citation, McCarran-Ferguson regulatory purpose, and general insurance law applicability."
+    },
+    {
+      "id": "381.015:21435",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.015&bid=21435",
+      "sourceSha256": "0f36a3871e09df867d392c15f8fa235e595994e63d5df9cfcd9d0ec1ce45d8f9",
+      "textSha256": "7dcfa5cba1e323b2b0a2e3d240e51b5c89819c40d55cb24a2e2ed59d7a418436",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of title insurance commitment",
+          "bodySha256": "b91432a402ef2b899800c3e00f940d045f3b6e0d6b2533bfee9b5df065fcf07d",
+          "reviewNote": "Defines title insurance commitment and distinguishes it from an abstract of title."
+        },
+        {
+          "number": 2,
+          "title": "Notice to purchaser-mortgagor regarding owner policy",
+          "bodySha256": "ce75127134acab91f006e80258607ab7b33c515f7813fe247dd5aaa40904eee6",
+          "reviewNote": "Requires written notice to purchaser-mortgagor when only lender policy requested; 15-year file retention."
+        },
+        {
+          "number": 3,
+          "title": "Level one violation classification",
+          "bodySha256": "671752e68ce84d7ee8cea0124421f1797b5cdb553043aa4057de2d3bf7c03b1e",
+          "reviewNote": "Classifies violations of section as level one violations under section 374.049."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 3 subsections and Effective 1-01-08 note against archived text; confirmed title commitment definition, purchaser-mortgagor notice with 15-year file retention, and level one penalty."
+    },
+    {
+      "id": "381.018:21436",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.018&bid=21436",
+      "sourceSha256": "f9952654c2d198711dd3a478a736f2edeed9b174b3c766398f778b37478d0201",
+      "textSha256": "074eb70eb9c1670952549bae2687f18953051ef98f040ce899dde50056419be4",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written contract required for unaffiliated agency or agent",
+          "bodySha256": "b49caa7eb486ea5acaef2b294c8da01b39a7ffb3e347a96aef38d03bfe50baf6",
+          "reviewNote": "Prohibits issuance of commitments or policies without written contract between parties."
+        },
+        {
+          "number": 2,
+          "title": "Policy number inventory maintenance",
+          "bodySha256": "02db2da8885c92686c8c96d15d134465dfd9632cc0512f22b521113031a17caa",
+          "reviewNote": "Requires title insurer to maintain inventory of policy numbers allocated to agencies and agents."
+        },
+        {
+          "number": 3,
+          "title": "Verification of title agency or agent licensure",
+          "bodySha256": "5bd21504c80812ae6aca1ebc4af262cb9868ac4b70ac4a55181a59fac5a246dd",
+          "reviewNote": "Requires proof of agent or agency licensure on file prior to contract effectiveness."
+        },
+        {
+          "number": 4,
+          "title": "Underwriting guidelines and claims settlement limits",
+          "bodySha256": "a928df5cc19826956be418a002fd35a8714236ee9a2cea5b9af903b372a70694",
+          "reviewNote": "Mandates insurer establish underwriting guidelines and claims settlement limitations in contracts."
+        },
+        {
+          "number": 5,
+          "title": "Notice to director upon contract termination",
+          "bodySha256": "f61be4c91c0dec66a8173aaf36bd80c66b08cbb2490bace75096077b6fa0a07c",
+          "reviewNote": "Requires notice to director within seven days of terminating agency contract with reasons."
+        },
+        {
+          "number": 6,
+          "title": "Level two violation classification",
+          "bodySha256": "4c7de8e2c64410be345758ca2abc5350841d978674c232c7647ec97070e732f5",
+          "reviewNote": "Classifies violations of section as level two violations under section 374.049."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 6 subsections and Effective 1-01-08 note against archived text; confirmed written agency contracts, policy number inventory, licensure proof, underwriting guidelines, 7-day termination notice, and level two penalty."
+    },
+    {
+      "id": "381.019:21437",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.019&bid=21437",
+      "sourceSha256": "ff95ffb9214777b03fae1ff56d99df508b1ab6b499cd2967b022d1da8692362b",
+      "textSha256": "d7503c8df4ca8c9171e9ef0a9c40a0a6c3cac5242121b93e933b15e497a40a78",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Clear disclosure of premiums and settlement charges",
+          "bodySha256": "c05fab63a480256fbef0c5ee303380cc43f23d0516197b5208b13d67cf5132f1",
+          "reviewNote": "Requires disclosure of premiums, search fees, and settlement fees under RESPA-compliant rules."
+        },
+        {
+          "number": 2,
+          "title": "Level two violation classification",
+          "bodySha256": "ec048a50104ea7fb48eda317027a17dbd9ebc71be695cf46a8a5f28d0dc24846",
+          "reviewNote": "Classifies violations of section as level two violations under section 374.049."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and Effective 1-01-08 note against archived text; confirmed RESPA-compatible disclosure of premiums, search fees, and closing fees, and level two penalty."
+    },
+    {
+      "id": "381.022:33398",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.022&bid=33398",
+      "sourceSha256": "4c99eb581f4172cfb12847b72725be4050329a80da75765e63e2badb94af5d66",
+      "textSha256": "a7d846b973071cdaea65af35b422bd54cbfde0489e9414f27f034b8530db76a4",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions of escrow, qualified depository, and security",
+          "bodySha256": "089e3cdda081881e570ace21059d1d30650f67b62e2aa189deeb622b57ff659e",
+          "reviewNote": "Defines escrow, qualified depository institution, and security or security deposit."
+        },
+        {
+          "number": 2,
+          "title": "Fiduciary account deposit deadline and fund segregation",
+          "bodySha256": "b96fad80ef058176c57ff647604c9cac451e8e19cce69f4c8d63624d4213e30f",
+          "reviewNote": "Requires deposit in separate fiduciary account by second business day and segregation of funds."
+        },
+        {
+          "number": 3,
+          "title": "Prohibited uses of escrow and security funds",
+          "bodySha256": "c3efa5aee75a08e910d47b3fbf589d6a207d69cee880480a2291dc0b2b197945",
+          "reviewNote": "Prohibits commingling, debt payment, improper disbursements, and sets written disbursement conditions."
+        },
+        {
+          "number": 4,
+          "title": "Retention of bank credits and interest as compensation",
+          "bodySha256": "8b97505119524f049682dc03aa226e06382da4ee0c690e51867430caef85998a",
+          "reviewNote": "Allows title insurer, agency, or unaffiliated agent to retain bank credits, services, or interest as escrow administration compensation unless written instructions or statute state otherwise."
+        },
+        {
+          "number": 5,
+          "title": "Residential closing authorization and protection notice",
+          "bodySha256": "4804e081a95a54e1df0e64af319bfe4485a11acd6806ca092928516631bea1af",
+          "reviewNote": "Restricts residential escrow/closing services unless commitment/policy and closing protection letters are issued, or approved written non-protection notice is given."
+        },
+        {
+          "number": 6,
+          "title": "Prohibition on residential closing without policy or notice",
+          "bodySha256": "2cce25076ef8264dd88f5bb4d660326d9aa023e2bc5335b6a3a27e95fb9bc55d",
+          "reviewNote": "Prohibits residential escrow/closing unless conducted with title policy and closing protection letter or prior clear disclosure of no title-insurer protection."
+        },
+        {
+          "number": 7,
+          "title": "Level three violation classification",
+          "bodySha256": "ea8e8f51857d47052c4c9bd1efe85d73941629baeab970836d57241bcd54c752",
+          "reviewNote": "Classifies violations of this section as level three violations under section 374.049."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 7 subsections and history note against archived text; replaced mismatched subsections (4)–(7) titles/notes (bank credit retention, residential CPL/non-protection notices, level three penalty) and confirmed 2nd-business-day deposit and escrow prohibitions."
+    },
+    {
+      "id": "381.023:21440",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.023&bid=21440",
+      "sourceSha256": "0bcd733ce1c17627c9afb734a2e89544c3e17ea907be8f8b12fb240ce733a7ba",
+      "textSha256": "2d52f73f34a4b4a80116f2a2afc5fef30abb7226fe514e3fea7c229c8c4b18f1",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual on-site review of contracted agencies and agents",
+          "bodySha256": "81ae03a206ff03bfc665af3a7603ffd1e07a790611070cf08037a539498ad387",
+          "reviewNote": "Mandates at least annual on-site insurer review of contracted agency/agent underwriting, claims, and escrow practices, verifying ascertainability of funds."
+        },
+        {
+          "number": 2,
+          "title": "On-site review standards, retention, and required findings",
+          "bodySha256": "fd37c0d70ee7ebfc020b921f0f4027564c1b4071f82b57a838ee2c81fd18618c",
+          "reviewNote": "Establishes on-site review standards, 4-year retention of work papers and reports, and 12 mandatory review findings including 3-way escrow reconciliation."
+        },
+        {
+          "number": 3,
+          "title": "Cooperation and liability exemption for shared agencies",
+          "bodySha256": "20390900649667a770a05f00b26ee327473ee30fcb8c0f33841e681f3f723189",
+          "reviewNote": "Permits multiple title insurers sharing an agency or agent to cooperate on reviews and exempts them from liability for sharing findings."
+        },
+        {
+          "number": 4,
+          "title": "Submission of review reports and director rulemaking",
+          "bodySha256": "4b70c32871e41c839369aeb5d73032f3db05011c649603f845c9439157d7fc38",
+          "reviewNote": "Requires submitting copy of each review report to director and directs rulemaking on thresholds, standards, and report form."
+        },
+        {
+          "number": 5,
+          "title": "Level two violation classification",
+          "bodySha256": "62019c17b5b0a75416797b73e191cae4acf7339424b99b2b365050c9d7989eb4",
+          "reviewNote": "Classifies violations of section as level two violations under section 374.049."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 5 subsections and Effective 1-01-08 note against archived text; replaced mismatched subsections (1)–(4) titles/notes to match annual on-site insurer reviews, 4-year retention/12 findings, multi-insurer cooperation, and director report/rulemaking."
+    },
+    {
+      "id": "381.024:21441",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.024&bid=21441",
+      "sourceSha256": "6ed1c6a628ec82229522c319e5ec81e17280bceb354c9ae8bf38b2e2fe69cf55",
+      "textSha256": "9d326d475595c344f3ba0f28632f148ee4b8b0a6a4ea3c3242e0176f8123f04a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition on denying access or failing to cooperate",
+          "bodySha256": "f92b47e80585b0b9468cb525bdc85465ed534ee52b363c297feccdc9bfd92a06",
+          "reviewNote": "Prohibits title agencies and unaffiliated agents from unreasonably denying access or failing to cooperate in underwriters' escrow/closing account reviews."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory trust account access for appointing insurers",
+          "bodySha256": "c3eea8ad27c2c1b26fd88eb3b94ff2a1de43f0969770282b3cf6629633389bf2",
+          "reviewNote": "Prohibits multi-insurer title agencies and unaffiliated agents from denying any appointing insurer access to fiduciary trust accounts and supporting information."
+        },
+        {
+          "number": 3,
+          "title": "Level two violation classification",
+          "bodySha256": "90cf8422a7f9d50b128de43bde175178750e0b7ea0529728315b340569e9a714",
+          "reviewNote": "Classifies violations of section as level two violations under section 374.049."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 3 subsections and Effective 1-01-08 note against archived text; replaced mismatched subsections (1)–(2) titles/notes (drafted as E&O/bond) to match denial-of-access and fiduciary trust account access prohibitions."
+    },
+    {
+      "id": "381.025:21442",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.025&bid=21442",
+      "sourceSha256": "8ac6328c88cb08943626b4d73a0234f839211268e2ae671773a8ebd0faa7f69a",
+      "textSha256": "59c5488ec65aed518091eabe1e57b3179944f147aed7619465404c17ce2b9a85",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of county to include city not within county",
+          "bodySha256": "b307cdecb376aa513f299824757287403ca5b4382ded14dc31bf1b880ab9d116",
+          "reviewNote": "Defines \"county\" or \"counties\" in this section to include any city not within a county."
+        },
+        {
+          "number": 2,
+          "title": "Permitted division of premiums and charges under RESPA",
+          "bodySha256": "bbd96c176801dfcc178733dee5f409b38ebda5495623ec0c683e1a8c2aeabdd3",
+          "reviewNote": "Clarifies chapter does not prohibit division of premiums and charges among title insurers, agencies, and agents if compliant with RESPA (12 U.S.C. § 2601 et seq.)."
+        },
+        {
+          "number": 3,
+          "title": "Level three violation classification for section 381.141",
+          "bodySha256": "b4a00822beb1df4610dbe2614fd2384c988753a0214a1ea4f46b2f45f1054887",
+          "reviewNote": "Classifies violation of section 381.141* as level three violation under section 374.049; retains repeal/unconstitutionality footnote on S.B. 894 (2000)."
+        },
+        {
+          "number": 4,
+          "title": "Private injunctive action after 45-day director inaction",
+          "bodySha256": "317c884fc62f75a91749ac2bac669622fa945c92b2734cc45fc0a4f5efd97921",
+          "reviewNote": "Permits same-county title entity to seek injunctive relief and attorney fees if director does not enforce section 381.141* within 45 days of written notice."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections, Effective 1-01-08 note, and *§ 381.141 repeal/S.B. 894 unconstitutionality footnote; replaced all 4 mismatched draft titles/notes to match county definition, RESPA premium division, level three § 381.141* penalty, and 45-day private injunctive action."
+    },
+    {
+      "id": "381.026:21443",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.026&bid=21443",
+      "sourceSha256": "2dfea3d0bc6b896143004e5c11c1caf519bb5fa1cac3eb09affff1b0e7230393",
+      "textSha256": "b018da64c31388e953e13ad3f80a26ec18b259760129d97a6f29d4b757312a1e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Five-business-day deadline for recording closing instruments",
+          "bodySha256": "5976b339336d28488993adf9c91cf33d54cbbb7c24d6394f72be5e477a8a12aa",
+          "reviewNote": "Requires settlement agent to present deeds and security instruments for recording within five business days after conditions precedent unless all parties instruct otherwise."
+        },
+        {
+          "number": 2,
+          "title": "Pre-disbursement recording with written party consent",
+          "bodySha256": "b71ab571a3c259ef5837d2c9bd29b73b167b23b9d2bc47fd1b8835f73da40685",
+          "reviewNote": "Clarifies chapter does not prohibit recording before disbursement funds are available if all parties due payment consent in writing."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and Effective 1-01-08 note against archived text; replaced both mismatched draft titles/notes to match 5-business-day recording deadline and pre-disbursement recording with written consent."
+    },
+    {
+      "id": "381.029:21445",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.029&bid=21445",
+      "sourceSha256": "29b1713b4ac21e4aa2e1c8038e0816c996f732d640440a1ebf70f16450ac15a3",
+      "textSha256": "c725c8bcc90b5fe1c3b7e3211df01b9c3f119cc0262139ab5332596a655a6fd4",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of affiliated business",
+          "bodySha256": "133597c83750c6f5604aefd33e8454542628106e01a0cc0b66686c426c21d324",
+          "reviewNote": "Defines affiliated business regarding producer ownership or financial interest in title entity."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory customer disclosure of affiliated business arrangement",
+          "bodySha256": "2156caad4fd19d34bf9f449df41fa27eff082d4492e7e7f4a3c724b9583aed73",
+          "reviewNote": "Requires written disclosure of affiliated relationship and estimated charges prior to transaction."
+        },
+        {
+          "number": 3,
+          "title": "Rules for reporting agency ownership interests",
+          "bodySha256": "8bbfa32b6b2f70aa6d47af84c22822ad95f4ce9f25d152939e96c310d9edccc8",
+          "reviewNote": "Directs director to establish rules for recording and reporting agency owners and material transactions."
+        },
+        {
+          "number": 4,
+          "title": "Annual reports of producer financial interests",
+          "bodySha256": "ace63d8eddc53eecace26c656cfa33c8f7c1e1c8bfe94201680e1e65dd74c7e4",
+          "reviewNote": "Requires reporting names and addresses of persons with financial interests who are business producers."
+        },
+        {
+          "number": 5,
+          "title": "Conditions permitting affiliated business arrangements",
+          "bodySha256": "08ca0a284e04b9ed1898ee2544037a61e3879a7c2952d0a2d114814dd92d7452",
+          "reviewNote": "Permits affiliated arrangements conforming to disclosure, non-required use, and RESPA return on equity."
+        },
+        {
+          "number": 6,
+          "title": "Level two violation classification",
+          "bodySha256": "4c7de8e2c64410be345758ca2abc5350841d978674c232c7647ec97070e732f5",
+          "reviewNote": "Classifies violations of section as level two violations under section 374.049."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 6 subsections and Effective 1-01-08 note against archived text; confirmed affiliated business definitions, customer disclosures, agency ownership reporting rules, RESPA conditions, and level two penalty."
+    },
+    {
+      "id": "381.038:21449",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.038&bid=21449",
+      "sourceSha256": "519f0adb73b4d664ead2757df43610c4086faa943dbd943097adc88721812183",
+      "textSha256": "ee589ca74ecdd0fb30d8cb86689dd958ed760555ae875d14c6711dc4c04ce7fb",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of direct operations",
+          "bodySha256": "a3a44aa0f97912fc20d2a1f9123e7e350dd96e78d357d5b161fe5ef0418a3f3e",
+          "reviewNote": "Defines direct operations as insurer operations attributable to business written by bona fide employee."
+        },
+        {
+          "number": 2,
+          "title": "Seven-year retention requirement for escrow and security records",
+          "bodySha256": "3ddefbb7db9cb6a76f617b4348ac4a53a666efeb0e270d551534ec08e9c492f5",
+          "reviewNote": "Requires preservation of escrow and security records for at least seven years after account closure."
+        },
+        {
+          "number": 3,
+          "title": "Premium remittance and policy issuance deadlines",
+          "bodySha256": "5ee512a7b78ec17b0cc45cc82b26b3ea377bbf1e2c94b5d0268218d07e1769bf",
+          "reviewNote": "Requires premium remittance within 60 days of invoice and policy issuance within 45 days of commitment compliance."
+        },
+        {
+          "number": 4,
+          "title": "Exemption for coinsurers and reinsurers",
+          "bodySha256": "a7116b9e68401a5969f29554071f5bc020d5072d503e3a1631dbb497e5a587ee",
+          "reviewNote": "Exempts coinsurers where another coinsurer complies, and reinsurers from section."
+        },
+        {
+          "number": 5,
+          "title": "Level two violation classification",
+          "bodySha256": "62019c17b5b0a75416797b73e191cae4acf7339424b99b2b365050c9d7989eb4",
+          "reviewNote": "Classifies violations of section as level two violations under section 374.049."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 5 subsections and Effective 1-01-08 note against archived text; confirmed direct operations definition, 7-year escrow record retention, 60-day remittance/45-day policy issuance, coinsurer/reinsurer exemption, and level two penalty."
+    },
+    {
+      "id": "381.042:21451",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.042&bid=21451",
+      "sourceSha256": "2138313b8e5100f07f8c016dffb04d68ddf04a89d8a01fbf68fcb3e9184f3c9d",
+      "textSha256": "254f5a84f350f2c8234f1d7f19c3dfbfc2d727f5f18ffdda841cd844d96de05c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Rulemaking and regulatory orders authorized",
+          "bodySha256": "5ec22de150fe448be0b88adc7f7dd9eea00837912acc1c11af01c220872176d7",
+          "reviewNote": "Authorizes director under section 374.045 to issue rules and orders to carry out chapter."
+        },
+        {
+          "number": 2,
+          "title": "Compliance with chapter 536 and nonseverability clause",
+          "bodySha256": "2da0ee3169ced1a02e6914e3cf95031d55a797cfd47a31be9fbe4343cd6185a8",
+          "reviewNote": "Conditions rule effectiveness on chapter 536 and sets nonseverability clause for post-2008 rules."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and Effective 1-01-08 note against archived text; confirmed section 374.045 rulemaking authority and chapter 536/post-Jan 1, 2008 nonseverability clause."
+    },
+    {
+      "id": "381.045:21452",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.045&bid=21452",
+      "sourceSha256": "6539f076c4797ecd0f2d58a466dde0d18868c589f66306341ecd54b14155ba98",
+      "textSha256": "b7ff33d70d0575a77d8f2943068f190c8d5dbf12d46fa620839d587faa6b3c7c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Administrative enforcement orders and producer license sanctions",
+          "bodySha256": "694914bf611612e16308600e88119671e38e1a7f80b2a181bf1d6047c4d78155",
+          "reviewNote": "Authorizes administrative orders under section 374.046 and license suspension under section 375.141."
+        },
+        {
+          "number": 2,
+          "title": "Civil actions in circuit court for injunctive relief",
+          "bodySha256": "a97c2d76c0a7ba6b34e2323ade4b001171776317e2c7e264fa02e9666e23db49",
+          "reviewNote": "Authorizes director to maintain civil court action under section 374.048 for chapter violations."
+        },
+        {
+          "number": 3,
+          "title": "Cumulative nature of statutory insurance penalties",
+          "bodySha256": "1c22e4eecfdd49ff2d2e1720838e07e48ad2ca2cd66d0cae67f29eb046cbc99a",
+          "reviewNote": "Preserves director authority to impose other statutory penalties provided under insurance laws."
+        },
+        {
+          "number": 4,
+          "title": "Reservation of policyholder, claimant, and creditor rights",
+          "bodySha256": "763f17882d68ec73af516a228b6737329cff207c70c6fd04cc9aac272b47c21e",
+          "reviewNote": "Clarifies chapter does not limit or restrict rights of policyholders, claimants, or creditors."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections and Effective 1-01-08 note against archived text; confirmed § 374.046 administrative orders/license sanctions, § 374.048 civil actions, cumulative penalties, and preservation of policyholder/creditor rights."
+    },
+    {
+      "id": "381.048:21453",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.048&bid=21453",
+      "sourceSha256": "617ae3162275295aaa2a9a8736261255a04f76a6b016feecd1901c806d72a64b",
+      "textSha256": "ad0a8c1b6542676d949f43fa0a77b04a0efeda56f5b6adc93bc1c3473c123931",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Civil actions to enjoin federal RESPA violations",
+          "bodySha256": "36776e522a1063fb499ea761442447b47baa038c5e1165ee5142f534d1a31b02",
+          "reviewNote": "Authorizes director to bring action in court of competent jurisdiction to enjoin 12 U.S.C. 2607 violations."
+        },
+        {
+          "number": 2,
+          "title": "Level two violation classification for RESPA violations",
+          "bodySha256": "9ac0349cfbc60f4c563d58f7c6fe356e862d3703f03439c288c6e803c196855c",
+          "reviewNote": "Classifies violations of federal Real Estate Settlement Procedures Act as level two violations."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and Effective 1-01-08 note against archived text; confirmed director injunctive actions for 12 U.S.C. § 2607 RESPA violations and level two classification."
+    },
+    {
+      "id": "381.058:33399",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.058&bid=33399",
+      "sourceSha256": "1a5b2d043174f290eab8b1f34870c5bc01e2a458a70559eb845e07d3728fdbb4",
+      "textSha256": "f14a0a2ee13bea3c05b1b1d17aa211d80489d643bf3e8d1c24e2bf4c81d98c13",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Single-line restriction to title insurance business",
+          "bodySha256": "2433f788b996763222a18fc4d35540d4459bcb617a9161e58ca99ce39111abb5",
+          "reviewNote": "Bars multi-line insurers from transacting title insurance and prohibits non-title business by title insurers."
+        },
+        {
+          "number": 2,
+          "title": "Prohibition on bond or mortgage principal and interest guarantees",
+          "bodySha256": "0e418e4a5fc8592f7c2755444ef3c7910e71cc681b002f9a87f54581eb38756e",
+          "reviewNote": "Prohibits title insurers from guaranteeing payment of principal or interest of bonds or mortgages."
+        },
+        {
+          "number": 3,
+          "title": "Closing or settlement protection letters, filed rates, and scope",
+          "bodySha256": "05265bf29a156e300806719656d7a33abb8e4d1859f10cdd82ee5b4ffe11c6b2",
+          "reviewNote": "Authorizes closing protection letters in residential transactions, sets filing rules, and limits coverage."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 3 subsections and history note against archived text; confirmed single-line title restriction, mortgage/bond guarantee ban, and closing protection letter authorization, filed rates, and scope."
+    },
+    {
+      "id": "381.065:21460",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.065&bid=21460",
+      "sourceSha256": "ad72aac2d6209fc9050f2c8b837084b0a6a315bf2c26ec761b60eb6833a81eee",
+      "textSha256": "736e0b4e0336fb1095a73e2d0b133a7afe1663ace25e7c91c618c43f6633e8cc",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Single risk net retained liability limitation",
+          "bodySha256": "b5a52792ad22b0a71e82ea91e1a03dbd4f0be3b3001bb61e20b9c88a2b71c2cf",
+          "reviewNote": "Caps single risk liability at 50% of surplus plus statutory premium reserve less title plant investment."
+        },
+        {
+          "number": 2,
+          "title": "Calculation of single risk sum",
+          "bodySha256": "d2ea6569c156f9eed1c481d62a5a8af27b679d9a08a49a7695cc6ed418634a10",
+          "reviewNote": "Defines single risk as insured amount and specifies calculation for multiple estates or reduced policies."
+        },
+        {
+          "number": 3,
+          "title": "Authority and capital requirements for obtaining reinsurance",
+          "bodySha256": "66dc407d6b6d5b834967a37e5dd67fe0000c6f2a2d8ee99ec88ef1d1e63b8902",
+          "reviewNote": "Authorizes reinsurance and requires $1.6 million combined capital and surplus for reinsurers."
+        },
+        {
+          "number": 4,
+          "title": "Director waiver of single risk limitation",
+          "bodySha256": "c5dd3b65924374f02af12e796b481646a07a70d30e6aaa59c90098750b697d81",
+          "reviewNote": "Allows director to waive single risk limitation upon insurer application for good cause shown."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections and Effective 1-01-08 note against archived text; confirmed 50% surplus single-risk cap, single-risk sum calculation, $1.6M reinsurer capital requirement, and good-cause waiver."
+    },
+    {
+      "id": "381.071:21462",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.071&bid=21462",
+      "sourceSha256": "09f34f9b0105c8f0342ab611c22374536bf3af2b46dd4276a4cfaf0f12e4c3cd",
+      "textSha256": "4399ee40a597f126ea0b0cfcc12a108e9c36f5c40c4913307f5db1b186dc3b43",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Title search and plant continuous record requirements",
+          "bodySha256": "63bb43c25bb21199a51075f1bd7e8c63ef1764b9514bf5c415a08ba7cb253c17",
+          "reviewNote": "Requires title search from county title plant or best evidence, and 27-year record chain; exempts attorneys."
+        },
+        {
+          "number": 2,
+          "title": "Prohibition on omitting outstanding recorded liens or interests",
+          "bodySha256": "bc7f80ac0814270108d5ccb963cb10013cef84713054d214e42041ffbf225acd",
+          "reviewNote": "Prohibits knowingly issuing owner policy or commitment without showing recorded liens unless allowed by rule."
+        },
+        {
+          "number": 3,
+          "title": "Fifteen-year retention period for title search evidence",
+          "bodySha256": "13e9c0ab9eb5283c9e486cfab19fc3bd5456a0f33ebe54291532e8acf10c545d",
+          "reviewNote": "Requires preservation of title search and insurability evidence for at least 15 years in original or electronic form."
+        },
+        {
+          "number": 4,
+          "title": "Exceptions for reinsurance, coinsurers, and 1987 policies",
+          "bodySha256": "049c6c9d4edc46e52216a497f3e57c99c751b6a91b509941d578e10c95581b46",
+          "reviewNote": "Exempts reinsurers, coinsurers when another coinsurer complied, and policies issued within one year after September 28, 1987."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections and history note against archived text; corrected subsection (4) title/note (reinsurance, coinsurers, and pre-1988 policies) and confirmed 27-year title plant chain, attorney exemption, lien disclosure, and 15-year retention."
+    },
+    {
+      "id": "381.072:21463",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.072&bid=21463",
+      "sourceSha256": "45e33cb96681586925cdf46cb9f61300c0042651bcaf76eab3a8c561761a7677",
+      "textSha256": "66405328f67cc28de7daf6946d1aa11f3eb1bbb16b5465e84d619088845adc3d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Known claim, unearned premium, and supplemental reserves",
+          "bodySha256": "29e4ea7d7eab2106c90973f236ae31d5c8e7d354e374671aea1bb7baf806c43f",
+          "reviewNote": "Mandates known claim reserve, statutory/unearned premium reserve (15 cents per $1,000, scheduled release), annual NAIC-compliant actuarial certification, and supplemental reserve."
+        },
+        {
+          "number": 2,
+          "title": "Reserve parity for foreign and alien title insurers",
+          "bodySha256": "09264313b0af7851111dda9d6d04eb24dbcfe0c165d73cd79dbaec4c6d3eb7be",
+          "reviewNote": "Requires licensed foreign and alien title insurers to maintain at least domestic reserve levels on Missouri properties unless domiciliary law requires more."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and Effective 1-01-08 note against archived text; replaced both mismatched draft titles/notes (drafted as title plant maintenance) to match known claim, unearned premium, actuarial certification, supplemental, and foreign insurer reserves."
+    },
+    {
+      "id": "381.075:21464",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.075&bid=21464",
+      "sourceSha256": "d2707a71993645de79fe95605f935636b1bff8ad5afa1489a5ac37ab58ee2a83",
+      "textSha256": "b8b9c285ac4b2e8eb9181a0c95675843a9073e4f2c1f8ff141c52a0356067d20",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Applicability of general insurer rehabilitation and liquidation laws",
+          "bodySha256": "781acf37c3a3191396466b8ccce3178f4bfdae11367ca8e70aa05e1a8be895ff",
+          "reviewNote": "Applies sections 375.570-375.750 and 375.1150-375.1246, directing court to consider title insurance uniqueness."
+        },
+        {
+          "number": 2,
+          "title": "Administration of security and escrow funds as secured claims",
+          "bodySha256": "65cd321b82adda61bc3c41560060327eddab46338fa4c1b94ba08fa355a075fb",
+          "reviewNote": "Bars security and escrow funds from becoming general assets and treats them as secured claims."
+        },
+        {
+          "number": 3,
+          "title": "Restriction on policy cancellation during liquidation",
+          "bodySha256": "f85cbb2f8a936445951da100787b930b867a849f628cdca48c56fc9e07e34349",
+          "reviewNote": "Prohibits cancellation of in-force policies in liquidation absent court finding of good cause."
+        },
+        {
+          "number": 4,
+          "title": "Claim filing deadlines established by court",
+          "bodySha256": "33b3c80abf393ae2f98b4cbcf66a4d297f02cb8ac7342115a73036b117a411a7",
+          "reviewNote": "Empowers court to set separate claim filing deadlines for policy claims and general claims."
+        },
+        {
+          "number": 5,
+          "title": "Fully earned premiums upon insolvency and duty to pay",
+          "bodySha256": "1590e7b82c796a185d588bf26aaeb62b9e0996b04debb20216870c516df08c5d",
+          "reviewNote": "Deems premiums fully earned upon insolvency order and requires payment to liquidator."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 5 subsections and Effective 1-01-08 note against archived text; confirmed insolvency/liquidation law applicability, secured-claim treatment of escrow funds, policy cancellation limits, claim deadlines, and fully earned premiums."
+    },
+    {
+      "id": "381.085:21467",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.085&bid=21467",
+      "sourceSha256": "78449689452807288198833aef26fb375752600ae2a92e9a46349944f12f5d92",
+      "textSha256": "216ecda96133fbd43e8f812e9f00e72832105eb6e7629996b3a73ddf31c45f34",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions of title search terms",
+          "bodySha256": "aa7e8f70f16549d0b151e7a0d29ccf2e5d5e8c2c0ee2517a28944331482c0f94",
+          "reviewNote": "Defines search, search of public records, and search of title as searches of constructive notice records."
+        },
+        {
+          "number": 2,
+          "title": "Thirty-day prior filing requirement for standard policy forms",
+          "bodySha256": "46f47840d5c7f15df0ece2c88df205a91d2a172a1a90c46d078b3c31d3a22ea8",
+          "reviewNote": "Prohibits issuing standard title forms unless filed with director thirty days prior to use."
+        },
+        {
+          "number": 3,
+          "title": "Scope of covered title insurance forms",
+          "bodySha256": "815da5eec4f8c31255eda0ae0bb1acd06ebe0ebadf2e47526c3c759bc976246b",
+          "reviewNote": "Includes policies, endorsements, preliminary commitments, and closing protection letters."
+        },
+        {
+          "number": 4,
+          "title": "Filing requirement for non-survey terms and coverage conditions",
+          "bodySha256": "08246f045fb8a1a629095a7fd6fe5e88e5dd70c5a18b6153b4f77def6ff6775a",
+          "reviewNote": "Requires filing terms, conditions, or exceptions other than survey or title search exceptions."
+        },
+        {
+          "number": 5,
+          "title": "Director review and sixty-day hearing procedure",
+          "bodySha256": "5856933dbe99be650794643aa7a647103a0170aa1acc4b45b4af4677d7d7d7e6",
+          "reviewNote": "Provides 30-day director review and 60-day hearing procedure for nonconforming or ambiguous forms."
+        },
+        {
+          "number": 6,
+          "title": "Disapproval orders, judicial review, and waiting period",
+          "bodySha256": "08d7a89c0724f32a8c4f3d4acaf2eacc4af53602246a5e6aaf97f247241eaad6",
+          "reviewNote": "Requires written disapproval order with findings under chapter 536, permitting judicial review."
+        },
+        {
+          "number": 7,
+          "title": "Non-disapproval not endorsement and misrepresentation ban",
+          "bodySha256": "4be929fbf41a35cfe58e44c7106af25ca550dee6c0c9bd0138b90fabd4df8e52",
+          "reviewNote": "Provides director failure to seek disapproval is not approval or endorsement and bars representing director approval of filed forms."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 7 subsections and Effective 1-01-08 note against archived text; corrected subsection (7) title/note (non-disapproval is not endorsement; representation of approval unlawful) and confirmed 30-day form filing and disapproval hearings."
+    },
+    {
+      "id": "381.115:21479",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.115&bid=21479",
+      "sourceSha256": "47846199dbae5a75bf08fc941f7241ad60c928c0f3fbaa9fc801cfdd11132f20",
+      "textSha256": "c041946031a17d0e57693e256fe0df79a70d0f1d6333c5e4371090071cb4ff52",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorization required to transact title insurance business",
+          "bodySha256": "9030e8a1a706bde7c915b2605d6da8cbcebf205948e635efb33226092a00269a",
+          "reviewNote": "Prohibits transacting title insurance business unless authorized as a title insurer, title agency, or title agent."
+        },
+        {
+          "number": 2,
+          "title": "Insurance producer licensing for title agencies and agents",
+          "bodySha256": "ce1546cbbb885d6a5374bab7e43668333a6153263f7cb2bb5edb4ece234ae3fd",
+          "reviewNote": "Requires business entity producer license (§ 375.015(2)) for title agencies and individual producer license (§ 375.015(1)) for nonexempt title agents."
+        },
+        {
+          "number": 3,
+          "title": "Licensure exemption for non-substantive salaried employees",
+          "bodySha256": "a1d59d021c119d0503076a9956596aa21b4bd48f3f3f2a77b4a4b2c4aa1c6ac3",
+          "reviewNote": "Exempts salaried employees who do not materially perform or supervise seven listed title insurance, search, policy execution, or escrow functions."
+        },
+        {
+          "number": 4,
+          "title": "Prohibition on insurer contracts with unlicensed entities",
+          "bodySha256": "792e03326df1918a6fe8484fa04f740089154b9dd4061e4149fc550884be8c79",
+          "reviewNote": "Prohibits title insurers from contracting with unlicensed persons to act as title agency or agent for Missouri risks."
+        },
+        {
+          "number": 5,
+          "title": "Licensing rules, provisional waivers, and clerical work",
+          "bodySha256": "16546a1150bc3e69a12b9a80b9b4e8ab2907b3692a58a4f8eead8fd0cb42689c",
+          "reviewNote": "Directs licensing rulemaking, provisional licensure/waivers until January 1, 2010 for supervised new employees, and excludes supervised clerical staff."
+        },
+        {
+          "number": 6,
+          "title": "Agency business name limits and insurer reporting duty",
+          "bodySha256": "c3a016d1cd1a9f8bd32cca31b90fb5ea59f2b157f69887c4a584e6bcf51ac839",
+          "reviewNote": "Bars \"insurer\", \"insurance company\", or \"underwriter\" in agency name unless \"agency\" is included, and requires timely reporting to title insurers."
+        },
+        {
+          "number": 7,
+          "title": "Ninety-day compliance period for existing licensees",
+          "bodySha256": "1b8ac99ae4b4eef7f7c07e48db3d1ba72ff7e232f0c48dcc651efbc5a256ae42",
+          "reviewNote": "Grants title agencies and agents licensed prior to chapter effective date ninety days to comply with this section."
+        },
+        {
+          "number": 8,
+          "title": "Delegation of title searches to compliant third parties",
+          "bodySha256": "fdd57fa257f2733176514d38ff4da6b8e227e574e90d723a9864a0617be12d30",
+          "reviewNote": "Requires compliance proof (effective 3 years) and record access before delegating title searches to third parties such as abstract companies."
+        },
+        {
+          "number": 9,
+          "title": "Level three violation classification",
+          "bodySha256": "7722249ffdd3831e731afdee955546791d0279d89d2a5912076315aeada2d175",
+          "reviewNote": "Classifies violations of this section as level three violations under section 374.049."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 9 subsections and Effective 1-01-08 note against archived text; replaced all 9 mismatched/shifted draft titles/notes to match authorization, producer licensing, salaried employee exemptions, insurer contract ban, provisional rules, name rules, 90-day grace, third-party searches, and level three penalty."
+    },
+    {
+      "id": "381.118:21480",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.118&bid=21480",
+      "sourceSha256": "2c3669f43fb43f0b532284f56d794fd90f1b834cd1c17d3713adaebd0ea2b1ea",
+      "textSha256": "fe4889789a56bb7664016f058a9f7c42d7831ee5d1b11ca75a5619a1e5c4523d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Examination requirement and 2008 grandfather waiver",
+          "bodySha256": "500826d143aebfb50a8ea6be43ff59e99047985ea243dd4869ec1df9057a4a26",
+          "reviewNote": "Requires qualified principal and title agents to pass producer advisory board exam, allowing good-cause waivers and waiving exam for agents/principals licensed Jan 1, 2008."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory eight-hour biennial continuing education",
+          "bodySha256": "64e819d34c57276645e3aa1f69f6e2fda790fff08d3c9712f99989e14ab444e6",
+          "reviewNote": "Requires nonexempt licensed title agents to complete at least eight hours of approved instruction every two years beginning January 1, 2008."
+        },
+        {
+          "number": 3,
+          "title": "Approval of course sponsors and Missouri Bar CLE credits",
+          "bodySha256": "e48d1f1524740254cb3ed1a96c23809defd0104f2080558062461d9ce2e98fe2",
+          "reviewNote": "Authorizes insurance associations, trade providers, and Missouri Bar CLE credits."
+        },
+        {
+          "number": 4,
+          "title": "Instructor continuing education credit",
+          "bodySha256": "7545b21a7e5f36b8fd448aa3db7e79e3869febb65be2f43b6abab54db2eac0a5",
+          "reviewNote": "Grants uncompensated instructors 1.5 times classroom credit hours once per year."
+        },
+        {
+          "number": 5,
+          "title": "Carryover of excess continuing education hours",
+          "bodySha256": "e0cb95ede3ef0f309475d4ca9624787386a592abd505f24cb4072141abfbc651",
+          "reviewNote": "Allows excess classroom hours to carry forward to the immediately following two-year period."
+        },
+        {
+          "number": 6,
+          "title": "Extensions of time and hardship waivers",
+          "bodySha256": "b11e745306a066847742cebebcc58189ca62f622736def2e9a27b81fe09db402",
+          "reviewNote": "Authorizes one-year extensions and waivers for military, illness, foreign residence, or age 70."
+        },
+        {
+          "number": 7,
+          "title": "Written certification of course completion",
+          "bodySha256": "266c33f658e8f6a35f80a3af51709b012af790bae76f6a0d0b2b9f5f09b1497a",
+          "reviewNote": "Requires licensees to submit satisfactory written proof of completed continuing education."
+        },
+        {
+          "number": 8,
+          "title": "Reciprocity and non-resident title agent exemptions",
+          "bodySha256": "b33baf239c6c39f28f5258e734c3598c3821c6b7c316cac53ed363cc9b240aa2",
+          "reviewNote": "Exempts agents residing in states with mandatory CE; applies full rules to others."
+        },
+        {
+          "number": 9,
+          "title": "Promulgation of rules, advisory board, and course filing fees",
+          "bodySha256": "92d50288a9acbbd3285346f3a5635cded2d2cb92f94cd91a5b5d0bf1418b03c4",
+          "reviewNote": "Directs rulemaking, consultation with producer advisory board, and $50 filing fee per course."
+        },
+        {
+          "number": 10,
+          "title": "Deposit of fees into insurance dedicated fund",
+          "bodySha256": "1f0e73ea03fd8c639b10e6cb544d7c2676ef859dd0ff256ef1570a3f6a122cb3",
+          "reviewNote": "Requires transmission of fees to state treasury for credit of insurance dedicated fund."
+        },
+        {
+          "number": 11,
+          "title": "Biennial renewal fee and certification submission",
+          "bodySha256": "6b7d514b8750461700eba06f0a322d6a65d08c7a5f7daa471035ad7045d6cbf2",
+          "reviewNote": "Mandates submission of written CE certification concurrent with biennial renewal fee."
+        },
+        {
+          "number": 12,
+          "title": "Compliance with chapter 536 and nonseverability clause",
+          "bodySha256": "c17c4ce3ee45ba1e39139a80392ac2bb117273548bb5b6a59f334896616baa3e",
+          "reviewNote": "Conditions rule validity on chapter 536 and establishes post-2008 nonseverability."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 12 subsections and Effective 1-01-08 note against archived text; corrected subsections (1)–(2) titles/notes (qualified principal/agent exam with Jan 1, 2008 waiver; 8-hour biennial CE) and confirmed approved courses, instructor credit, waivers, fees, and nonseverability."
+    },
+    {
+      "id": "381.161:21487",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.161&bid=21487",
+      "sourceSha256": "f33d91b7ea4a783aab9e3939a63a738aad792b25749179be250d2c3ddd0c0e0d",
+      "textSha256": "dc32dca12f7b889d66fe082a2fc69054f8697ee430273cdc3c749945df39aa22",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition on conditioning financing or sale on specific title insurer",
+          "bodySha256": "e9d777db8c126b4a28fdd485895941a1c720995a73a3c33230afdf547433ec7c",
+          "reviewNote": "Bars lenders and property sellers from conditioning loans or sales on using a specific title agency or insurer."
+        },
+        {
+          "number": 2,
+          "title": "Level three violation classification",
+          "bodySha256": "f326711d0ee17850b8f64efd334d261603fe31555732ac7b669b629c5bcc8960",
+          "reviewNote": "Classifies violations of section as level three violations under section 374.049."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and Effective 1-01-08 note against archived text; confirmed anti-tying prohibition for specific title agents/agencies/insurers and level three penalty."
+    },
+    {
+      "id": "381.400:21496",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.400&bid=21496",
+      "sourceSha256": "5411674d560a3075b9205ab2406f3e308681a6831590bfc8339184f911a4d79a",
+      "textSha256": "7736e5d7dd454809762680f1c370704eb5540445c9d1b50eb41cc464ef3cc16d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions for construction guaranty and closing provisions",
+          "bodySha256": "eb375868092aba8584995d8d920590c59b7a78c600a076d631601b20c01b61fb",
+          "reviewNote": "Defines construction completion guaranty, deposit guaranty, escrow agreement, insured closing letter, and licensee."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified subsection (1) and history note against archived text; confirmed five definitions for construction guaranties, escrow agreements, insured closing letters, and licensees under §§ 381.400–381.405."
+    },
+    {
+      "id": "381.412:21500",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=381.412&bid=21500",
+      "sourceSha256": "08bd0b75cec8c4795c0427fb393ce6f79a0f40f96f7980bd996c2ef7eeb4c8c9",
+      "textSha256": "4cbe45863a605046ffcb4990b7f7ab1306f3c0479465e942dc4d99742d263730",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Certified funds requirement for real estate closing disbursements",
+          "bodySha256": "e86a03d02bc040b17426a1b845c0ff07b84b34e996a9761a307bba261adc5356",
+          "reviewNote": "Requires certified funds for amounts over $2,500; exempts broker/title escrows, governments, and banks."
+        },
+        {
+          "number": 2,
+          "title": "Disbursement conditions for public settlement escrow accounts",
+          "bodySha256": "db314fc0d572f3a8337bbc0a40888dfe377bdfd008752f134210d434ca859221",
+          "reviewNote": "Bars escrow disbursements unless corresponding deposit was made 10 days prior, in certified funds, or by exempt check; retains footnote noting repeal of § 381.009* by S.B. 66 (2007)."
+        },
+        {
+          "number": 3,
+          "title": "Level two violation classification",
+          "bodySha256": "5c9f245e94ae7ae3b0dfaa1add2a475edc397e7687916e78a163436636e782aa",
+          "reviewNote": "Classifies violations of section as level two violations under section 374.049."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 3 subsections, Effective 6-10-08 note, and *§ 381.009 repeal footnote; confirmed $2,500 certified funds rule, 10-day/certified/exempt check disbursement rules, and level two penalty."
+    }
+  ]
+}

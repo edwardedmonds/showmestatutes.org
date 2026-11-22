@@ -1,0 +1,835 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "390.021:21925",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.021&bid=21925",
+      "sourceSha256": "63aed01a87211a37a514016d5bf5453898c39085eb15cb72f96374f0e171180d",
+      "textSha256": "b6da40903bdfb001f48624bc7b4a587be7de43366d71c3380c61f97a39be5286",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Applicability notwithstanding statutory motor carrier exemptions",
+          "bodySha256": "1255220fe3f4321c086d350f03e428b4beb5cc01cc40c80853bd9c93d49b4925",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 2008 H.B. 1422 merged with S.B. 930 & 947). Specifies section applies notwithstanding any contrary provisions of section 390.030."
+        },
+        {
+          "number": 2,
+          "title": "Definitions of UCR implementing regulations and UCR Act",
+          "bodySha256": "15ec5d07c2f867c478ac43add7c16991cf12fb7c55a2f9db434be64d3a8d7714",
+          "reviewNote": "Read complete text of subsection 2. Defines \"UCR implementing regulations\" and \"Unified Carrier Registration Act\" (or \"UCR Act\") under federal SAFETEA-LU legislation."
+        },
+        {
+          "number": 3,
+          "title": "Application of federal statutory definitions",
+          "bodySha256": "a9b51a245a5c1b7b2e6ffc52c877061d8fd72435a811c903efb4e4b19591f2ba",
+          "reviewNote": "Read complete text of subsection 3. Incorporates federal definitions in 49 U.S.C.A. Sections 13102, 13908, and 14504a for words used in this section."
+        },
+        {
+          "number": 4,
+          "title": "Commission powers to administer UCR plan, collect fees, and make rules",
+          "bodySha256": "8d4e7c5c45d99c325e186d28653086e218f1a499c4423c899e4c84e3b3ccd7f7",
+          "reviewNote": "Read sub 4 (7 subdivisions). Permits commission to submit base state UCR plan, register carriers, handle UCR nonstate funds (Mo. Const. Art. IV, § 15), promulgate rules under ch. 536 (nonseverable after Aug. 28, 2008), enter intergovernmental agreements, and delegate functions."
+        },
+        {
+          "number": 5,
+          "title": "Precedence of UCR agreement over conflicting state laws",
+          "bodySha256": "533eec9fe49e03496e17e2cbf051f3aa2764d7be6955c41d718f5269ee0b9e1c",
+          "reviewNote": "Read complete text of subsection 5. Mandates that UCR agreement requirements take precedence over any conflicting requirements under chapter 622 or chapter 390."
+        },
+        {
+          "number": 6,
+          "title": "Mandatory UCR form filing and fee payment by base entities",
+          "bodySha256": "7bafc53e72dd7be6c46b9381ff6bcb5e24ef5844b5cd767436ef2a845cb0aad2",
+          "reviewNote": "Read complete text of subsection 6. Requires Missouri-domiciled carriers, brokers, freight forwarders, and leasing companies to timely file UCR forms and pay required registration fees."
+        },
+        {
+          "number": 7,
+          "title": "Enforcement authority under section 226.008 without administrative exhaustion",
+          "bodySha256": "a34b759a2187fff782b69a40b1bc6813bcd098516877ec3dc73d0db3d9ed083e",
+          "reviewNote": "Read complete text of subsection 7. Applies section 226.008 enforcement powers, allowing chief counsel to commence court actions without exhausting administrative remedies under chapter 622 procedures."
+        },
+        {
+          "number": 8,
+          "title": "Retention of state intrastate carrier regulatory requirements",
+          "bodySha256": "62cd9a4440a345ab62ddcc19340d24081e673596c5fc440a65a16b0128d469c2",
+          "reviewNote": "Read complete text of subsection 8. Clarifies that UCR compliance does not exempt motor carriers from state laws governing intrastate transportation of passengers or property."
+        },
+        {
+          "number": 9,
+          "title": "State election exempting intrastate farm and livestock transportation",
+          "bodySha256": "23e08243a41080a48aff21da97a06acaa5e56b6803c56b5af7e5ca7f9b7bb719",
+          "reviewNote": "Read complete text of subsection 9. Records state election exempting sole intrastate carriers of farm products, dairy, and livestock from UCR Act and agreement provisions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 9 subsections and source notes (L. 2008 H.B. 1422 merged with S.B. 930 & 947). Confirmed all 9 draft titles covering UCR definitions, commission powers (including ch. 536 nonseverability after Aug. 28, 2008), precedence, filings, § 226.008 enforcement, and intrastate farm/livestock exemption."
+    },
+    {
+      "id": "390.030:21926",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.030&bid=21926",
+      "sourceSha256": "53d6e694b34dab36afe7c2fb1fe1aabd73e8d01c6215b45cfb4c9039821981ea",
+      "textSha256": "78b953f30bda7876049de04ce5ce2481ebf12803d3a865681506b06f19a2684b",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exempted motor vehicles, operations, and transportation services",
+          "bodySha256": "4642d1a1a42809f5f62d0065252d9431fafe300c0a5bad2f99ae402ca0f64b5c",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 § 5721, A.L. 1945 p. 1206 through A.L. 2007 H.B. 28/S.B. 30; Smithco dairy cooperative, vehicle applicability, and school bus annotations). Enumerates twelve categories exempt from chapter, including school buses, taxicabs, farm hauling, mail, local commercial zones (with bulk/large-county limits), and tow trucks."
+        },
+        {
+          "number": 2,
+          "title": "Inapplicability of exemptions to driveaway operators",
+          "bodySha256": "0785bbfa01d9a86bd39d2f10084fa4345330407df12f09a44d2adcb02023b474",
+          "reviewNote": "Read complete text of subsection 2. Explicitly provides that nothing in this section shall be deemed to exempt the vehicles of driveaway operators."
+        },
+        {
+          "number": 3,
+          "title": "Exemption of private carriers subject to safety exception",
+          "bodySha256": "3037467a892a78791e8a3e24c90bd0e7d25d0fef2a7cad398efd956543290291",
+          "reviewNote": "Read complete text of subsection 3. Exempts private carriers from provisions of chapter 390, except for safety regulations under subdivision (5) of section 390.041."
+        },
+        {
+          "number": 4,
+          "title": "Prohibition against governmental access discrimination against carriers",
+          "bodySha256": "f2c297ea7d535ffe2136e042b8df11c0786566a5e56dabde0316b637fa9f4a97",
+          "reviewNote": "Read complete text of subsection 4. Prohibits state and local government agencies in St. Louis city and charter county from discriminating against or denying public facility access to carriers, except for vehicle size/weight."
+        },
+        {
+          "number": 5,
+          "title": "Exclusion of intrastate household goods carriers from zone exemptions",
+          "bodySha256": "4793c03932bd7409bc450ad2d9e7bb85aee6c80dca43082e7aebcf626268fd6f",
+          "reviewNote": "Read complete text of subsection 5. Eliminates municipal and commercial zone exemptions for intrastate household goods motor carriers beginning January 1, 2008."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 5 subsections and source notes (RSMo 1939 § 5721 through A.L. 2007 H.B. 28/S.B. 30; § 226.008 transfer note; Smithco, State v. PSC, Toedebusch, and Hering annotations). Confirmed all 5 draft titles."
+    },
+    {
+      "id": "390.045:21928",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.045&bid=21928",
+      "sourceSha256": "312f70c9d9f57d9ee0c03815da4f9461c4bbabd0c18ce6e36aa9bddd2f74f953",
+      "textSha256": "625522f7a8a35948717e50db92651525fa57b572efe574c096d1646d05fd6888",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Probable cause stops, vehicle detention, and complaint filing",
+          "bodySha256": "bac7624d3a6fed7d114edce01e2052ab03c97db287a12157adb712ab6a92e322",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1986 H.B. 1428, A.L. 1988 S.B. 423; 226.008 transfer note). Authorizes enforcement personnel to stop commercial motor vehicles on probable cause, detain vehicles, and file administrative complaints."
+        },
+        {
+          "number": 2,
+          "title": "Emergency vehicle status, firearm prohibition, and training standards",
+          "bodySha256": "78dc85b75971ee929e60ca512098389e9b4a434b63c6021fef925fc4fc58e811",
+          "reviewNote": "Read complete text of subsection 2. Designates enforcement vehicles as emergency vehicles under section 304.022, prohibits bearing firearms, and mandates 120 hours basic peace officer training."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1986 H.B. 1428, A.L. 1988 S.B. 423, effective 5-13-88; § 226.008 transfer note). Confirmed draft titles for probable-cause stops/detention and emergency vehicle status, firearm ban, and 120-hour training."
+    },
+    {
+      "id": "390.051:21929",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.051&bid=21929",
+      "sourceSha256": "c5c510a515817a22064baa85ba67213d16db3755e7b1a21929c7c645520e8908",
+      "textSha256": "01dbbd559e2d27b0a1fe3787ad65a29950729d6f8085970b7fe67f4dee66b1a0",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Certificate requirement for intrastate common carriers",
+          "bodySha256": "4845d9befef43613694af0453ee074606676164e7a76fa5d9e4f04ad05e5fcf3",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 § 5724, A.L. 1951 p. 547 through A.L. 2012 H.B. 1402/S.B. 470; 226.008 transfer note; competition and furniture shipment annotations). Prohibits common carrier operations of household goods or passengers in intrastate commerce without active commission certificate."
+        },
+        {
+          "number": 2,
+          "title": "Application contents, route restrictions prohibited, and hazardous cargo",
+          "bodySha256": "65753df9943ed123bd5911dee04a33b2c32f3faff557fc4f49ceb21be1aca999",
+          "reviewNote": "Read complete text of subsection 2. Prescribes application contents (ownership, finances, equipment, rates/schedules), forbids route restrictions on passenger/household goods, and requires restricting unqualified hazardous material carriers."
+        },
+        {
+          "number": 3,
+          "title": "Issuance of certificate upon finding of carrier fitness",
+          "bodySha256": "9904e3b35efc2080baff242c92666efd13f41bf1fefdb9556ab3cfc49fe246e8",
+          "reviewNote": "Read complete text of subsection 3. Directs commission to issue certificate if applicant seeking to transport household goods or passengers is found fit, willing, and able to perform service."
+        },
+        {
+          "number": 4,
+          "title": "Streamlined certification process and interagency safety agreements",
+          "bodySha256": "b1499c0afb377eb3d043d0df75311d13165812812198bf3b4c7c591568c11ec8",
+          "reviewNote": "Read sub 4 and original-rolls footnote ('section' appears in original rolls for 'sections*67.1800 to 67.1822'). Directs commission to streamline certification and authorizes interagency public safety agreements under §§ 67.1800–67.1822."
+        },
+        {
+          "number": 5,
+          "title": "Dismissal of previously denied applications refiled within six months",
+          "bodySha256": "f7d13e57c518333e2606ee3edcf09ba7a310f2be72bfdd9c8058b89262a8afa6",
+          "reviewNote": "Read complete text of subsection 5. Requires commission to dismiss on its own motion any application for substantially same common authority denied within preceding six months."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 5 subsections and source notes (RSMo 1939 § 5724 through A.L. 2012 H.B. 1402/S.B. 470; original-rolls footnote 'section' in sub 4; § 226.008 transfer note; 5 case annotations). Confirmed all 5 draft titles and added original-rolls footnote to sub 4 note."
+    },
+    {
+      "id": "390.061:21931",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.061&bid=21931",
+      "sourceSha256": "f0a949a97ef20e3465cbad327ef0f224f97177deba9880f26a37ed962b3a0001",
+      "textSha256": "1c9f11610b1b9eb6d4f914113124f6115e25cf35e344b1fcd58614fdad2b9e2b",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Permit requirement for intrastate contract carriers",
+          "bodySha256": "b7be6a4c3cf633c0dc33ebd805684d44b577d93545a0d586ba7a9a7bc727d6ce",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 § 5727, A.L. 1951 p. 547 through A.L. 2012 H.B. 1402/S.B. 470; 226.008 transfer note; through rate annotations). Prohibits engaging in contract carrier business of household goods or passengers in intrastate commerce without active commission permit."
+        },
+        {
+          "number": 2,
+          "title": "Application requirements, route restrictions prohibited, and hazardous cargo",
+          "bodySha256": "ace71898f81bba9099131419c83befd3a3be62f6351d4223eaa7db8997bb00eb",
+          "reviewNote": "Read complete text of subsection 2. Prescribes permit application requirements, prohibits route restrictions on household goods or passenger service, and mandates hazardous material restrictions for unqualified applicants."
+        },
+        {
+          "number": 3,
+          "title": "Issuance of permit upon finding of applicant fitness",
+          "bodySha256": "bbfc51244db472951031b2966dc7fda7777a6c6c724353b64ff3f888950bd83b",
+          "reviewNote": "Read complete text of subsection 3. Mandates permit issuance if applicant is found fit, willing, and able to properly perform service and conform to statutory requirements."
+        },
+        {
+          "number": 4,
+          "title": "Mandatory permit specifications of service, parties, and area",
+          "bodySha256": "e2bb05a741f10ca17c86a3724dc0e4ab8c691b3edff6773f812b32af12d145c9",
+          "reviewNote": "Read complete text of subsection 4. Requires every issued permit to specify service to be rendered, contracting parties, and authorized service area."
+        },
+        {
+          "number": 5,
+          "title": "Exclusion of contract rate jurisdiction and contract filing rules",
+          "bodySha256": "416e536efbbde74d95feb88a4ca0377a221e858a0e28bf2b0013f4b5019e59bf",
+          "reviewNote": "Read complete text of subsection 5. Denies commission jurisdiction over contract rates, requires contract filing (or rate schedule incorporation by reference), and allows amending permits for additional parties."
+        },
+        {
+          "number": 6,
+          "title": "Interagency public safety agreements with local authorities",
+          "bodySha256": "f93bfbae00bac05c154c90283aa57139e4747d59b93b05df076a01d288ed3a96",
+          "reviewNote": "Read sub 6 and original-rolls footnote ('section' appears in original rolls for 'sections*67.1800 to 67.1822'). Authorizes commission to enter interagency public safety agreements with entities created under §§ 67.1800–67.1822."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 6 subsections and source notes (RSMo 1939 § 5727 through A.L. 2012 H.B. 1402/S.B. 470; original-rolls footnote 'section' in sub 6; § 226.008 transfer note; 1953 through-rate annotations). Confirmed all 6 draft titles and added original-rolls footnote to sub 6 note."
+    },
+    {
+      "id": "390.062:21932",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.062&bid=21932",
+      "sourceSha256": "a81fd1eb4da135dd2b00cc5435f1bd8eb5062f1a14a6f3220f00697a9d0dfaf9",
+      "textSha256": "461a7e6ae8e7f9bf9f3f109770db84ea0a629e472cf2ecb1330d0bd47d13102d",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Publication and service of application notice register",
+          "bodySha256": "05eb79aaaa5c1333a9b2ede4524f5b1c58a99578cc4d11f1a8bd243ff94a1cff",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1986 H.B. 1428; 226.008 transfer note). Directs division to publish and serve notice register of certificate, permit, and rate relief applications."
+        },
+        {
+          "number": 2,
+          "title": "Fifteen-day deadline for filing motions to intervene",
+          "bodySha256": "c5f3f0506d0a1c0a5a2d328f05d6f8821f0b7dc1960d54f462c86439b2aaa921",
+          "reviewNote": "Read complete text of subsection 2. Sets fifteen-day deadline following publication for interested parties providing service to file motion to intervene."
+        },
+        {
+          "number": 3,
+          "title": "Evidence by verified statement in unopposed proceedings",
+          "bodySha256": "ec27b6713e617ccc1986a4df0d32ec0402917a3a2cb10dbf578dd160bd444c56",
+          "reviewNote": "Read complete text of subsection 3. Authorizes division to take evidence by verified statement and issue final order without hearing in unopposed proceedings."
+        },
+        {
+          "number": 4,
+          "title": "Hearing timeline and verified statements in opposed proceedings",
+          "bodySha256": "a1940a43990fc061baded673534728cc38b064451d2e8b2d96f9928e9e0c0ff6",
+          "reviewNote": "Read complete text of subsection 4. Directs division to hold hearing within forty-five days on opposed proceedings unless continuance is granted, or require verified statements with hearing for conflicts."
+        },
+        {
+          "number": 5,
+          "title": "Ninety-day decision deadline and automatic approval",
+          "bodySha256": "d98e05d29c9cd5e3d5003728835a40dbc1737fdf0dec8b67ae380bf771690d78",
+          "reviewNote": "Read complete text of subsection 5. Mandates final order granting or denying relief within ninety days after final argument submission, or application stands approved."
+        },
+        {
+          "number": 6,
+          "title": "Thirty-day extension for complex proceedings with substantial record",
+          "bodySha256": "a2f76c42798e87632d82d3769ab7fda60377d1b52d72d81631e1e1138fd62834",
+          "reviewNote": "Read complete text of subsection 6. Permits division upon written finding of complex nature requiring substantial record to extend decision deadline by thirty days."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 6 subsections and source notes (L. 1986 H.B. 1428; § 226.008 transfer note). Confirmed all 6 draft titles for notice register, 15-day intervention, verified statements, 45-day hearing, 90-day decision/automatic approval, and 30-day complex extension."
+    },
+    {
+      "id": "390.063:21933",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.063&bid=21933",
+      "sourceSha256": "baf57982cc6db2bb6e226026650c88ca8982f25f3fe41f9f5898ecb5ad94cf51",
+      "textSha256": "00a7643d76e36b9eefff38983e518322b4313430ccec9eb6a0d791f5d51b59f1",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions of elderly, handicapped, and urbanized area",
+          "bodySha256": "6e5b35e1a33eaf2533f271b27d252e6c3eb2748589af02ee7284c08cc3e1c41f",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1992 H.B. 1433, A.L. 2012 H.B. 1402; 226.008 transfer note). Defines \"elderly\" (60+ years), \"handicapped\" (physical/mental impairment to travel), and \"urbanized area\" under federal Urban Mass Transportation Act."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory operating authority for eligible not-for-profit transportation",
+          "bodySha256": "34c797e4d69156c233a86a13bbd580751fa99ae3a6f2660ff94a29a71e1acb81",
+          "reviewNote": "Read complete text of subsection 2. Directs division to issue certificate or permit to not-for-profit corporations transporting elderly, handicapped, Head Start children, or Section 18 rural subsidized riders."
+        },
+        {
+          "number": 3,
+          "title": "Application requirements, fitness findings, and prevention of misuse",
+          "bodySha256": "aefcfb4f5e0bf6f6b107dd0e693f515790bac1fb071abd8b05a19d79c9745f85",
+          "reviewNote": "Read complete text of subsection 3. Prescribes written application content, requires finding applicant willing and able to perform service, and authorizes rules preventing unauthorized passenger carriage."
+        },
+        {
+          "number": 4,
+          "title": "Exemption from rate jurisdiction and tariff filing requirements",
+          "bodySha256": "0e1cf5c6f4b1c9476391c03910cf33228abd14a3877a0b892208c6747cada2c7",
+          "reviewNote": "Read complete text of subsection 4. Deprives division of rate jurisdiction over not-for-profit passenger carriage and exempts carriers from filing tariff schedules."
+        },
+        {
+          "number": 5,
+          "title": "Exemption from annual regulatory vehicle licensing fees",
+          "bodySha256": "9e4ac5ad90220273a2b79ce563b90942b4008ea87f3acc1e739511a38b82c1f7",
+          "reviewNote": "Read complete text of subsection 5. Exempts vehicles used exclusively for eligible not-for-profit passenger transportation from section 390.136 regulatory license requirements."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 5 subsections and source notes (L. 1992 H.B. 1433, A.L. 2012 H.B. 1402; § 226.008 transfer note). Confirmed all 5 draft titles for elderly/handicapped/Head Start/rural not-for-profit passenger certificates, rate exemption, and § 390.136 license exemption."
+    },
+    {
+      "id": "390.066:21934",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.066&bid=21934",
+      "sourceSha256": "66b9c7375b7557a3cdc8cee1e0d4481c55f995986c0188f7dc652fbf6bbb058f",
+      "textSha256": "c730b167d83db9aa3a1e5f0b38763b11346ec848c4d18f9a9380b9a58dd604c5",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Ten-year employment history required from driver applicants",
+          "bodySha256": "cb015e357596b6148ed514e7c78fdd910b4c9977053b3949fafa532cc2bc7076",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1991 H.B. 262; 226.008 transfer note). Requires commercial motor vehicle driver applicants to provide ten years of prior commercial driving employment history as prescribed by U.S. Secretary of Transportation."
+        },
+        {
+          "number": 2,
+          "title": "Employer duty to obtain driving history and inform applicant",
+          "bodySha256": "92663d81f56e5fc30b16ec72de5af8445cd7b2f974bf532afbcfd7fd06842db7",
+          "reviewNote": "Read complete text of subsection 2. Mandates employers require ten-year driving history and advise applicant of statutory purpose."
+        },
+        {
+          "number": 3,
+          "title": "Prohibited employment of disqualified drivers and bulk dump truck rates",
+          "bodySha256": "d5b3829057239fb2773aa7be9f21c3a33b950b6bfc83474ee13baa9fb126e407",
+          "reviewNote": "Read complete text of subsection 3. Imposes class A misdemeanor on employers/shippers permitting suspended/disqualified drivers to operate, and directs division to audit and set minimum rates for bulk dump truck carriers with weight/distance exemptions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 1991 H.B. 262; § 226.008 transfer note). Confirmed all 3 draft titles for 10-year driver employment history, employer duty, disqualified-driver class A misdemeanor, and bulk dump truck minimum rate audits/exemptions."
+    },
+    {
+      "id": "390.081:21936",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.081&bid=21936",
+      "sourceSha256": "7c4323a1de90c2137c5880818113c3f743c3eaa423584108199fe09c7ce92d9c",
+      "textSha256": "0679a2661c60d36690d5164656fe0d55e6104a83331a034d2b5d4773ab5a29ad",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Ninety-day temporary operating authority for urgent needs",
+          "bodySha256": "558dd7bf6f8497ca109938dd52ee3e69ea16bb14e4bf38b08b75be630d3a6b2e",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1951 p. 547 § 390.080, A.L. 1986 H.B. 1428, A.L. 1988 S.B. 423; 226.008 transfer note). Authorizes division without hearing to grant temporary authority up to ninety days for immediate urgent need, creating no presumption for permanent authority."
+        },
+        {
+          "number": 2,
+          "title": "Fee payment and regulatory compliance for temporary service",
+          "bodySha256": "5c6f5db797eb842ac9d7376496b66597ef4f55e7a778662de378be4eda0130b1",
+          "reviewNote": "Read complete text of subsection 2. Conditions temporary authority on payment of fees and compliance with division rules, subjecting service to non-conflicting chapter provisions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1951 p. 547 § 390.080 through A.L. 1988 S.B. 423, effective 5-13-88; § 226.008 transfer note). Confirmed draft titles for 90-day temporary authority without hearing and fee/rule compliance."
+    },
+    {
+      "id": "390.111:21939",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.111&bid=21939",
+      "sourceSha256": "32d44ee4bb177b75e147fd30d3ebe81a82d362875922886d260ecbd60fad5e01",
+      "textSha256": "4db77bce7896573c7c5a0ddf65e694ec50d5d484424d54b0187ff83583082d01",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application and qualification standards for certificate or permit transfer",
+          "bodySha256": "4af243017af814f3411e5d55fc9ae3a561d39f5d593b94b3f14c29c57e2f2b32",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 §§ 5724, 5727, A.L. 1951 p. 547 § 390.120, A.L. 1986 H.B. 1428; 226.008 transfer note). Directs division to transfer certificate/permit to qualified purchaser upon joint application; requires hearing and public interest finding before splitting general commodity routes."
+        },
+        {
+          "number": 2,
+          "title": "Authorization of through service upon certificate consolidation",
+          "bodySha256": "685a39175f1dc81630d68bb3ad27b4467559b9a63ba8775c9a4b30a355fe65e8",
+          "reviewNote": "Read complete text of subsection 2. Empowers division to authorize through service resulting from consolidation of operating rights when beneficial to the public."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (RSMo 1939 §§ 5724, 5727 through A.L. 1986 H.B. 1428; § 226.008 transfer note). Confirmed draft titles for certificate/permit transfer qualification and consolidated through-service authorization."
+    },
+    {
+      "id": "390.116:21940",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.116&bid=21940",
+      "sourceSha256": "a148704af1f214cd89278c65dfd19acd088bc2c3f620416435ef63c8c502f01e",
+      "textSha256": "80376b3da2e9e3269432d010ee73f01a1690d77ff5ed313a964037119f9fc974",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Through routes, joint tariffs, and rate division agreements",
+          "bodySha256": "ba091d62c8ad63e563ea68eac06a0d7e8479843a860dea822d3492726157fb04",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1951 p. 547 § 390.130, A.L. 1986 H.B. 1428, A.L. 2012 H.B. 1402/S.B. 470; 226.008 transfer note; through route power annotation). Authorizes household goods and passenger carriers to establish through routes and joint rates, mandating just practices, non-preferential divisions, and published tariffs under chapter 387."
+        },
+        {
+          "number": 2,
+          "title": "Commission power to order passenger through routes and joint rates",
+          "bodySha256": "23374caca9eaf6051f24644e11c9644a453280e05441bc2703b869070169b21f",
+          "reviewNote": "Read complete text of subsection 2. Authorizes commission in public interest after hearing to order establishment of just and reasonable through routes and joint fares for passenger carriers."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1951 p. 547 § 390.130 through A.L. 2012 H.B. 1402/S.B. 470; § 226.008 transfer note; 1975 Philipp Transit Lines annotation). Confirmed draft titles for through routes/joint tariffs and commission passenger through-route orders."
+    },
+    {
+      "id": "390.126:21942",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.126&bid=21942",
+      "sourceSha256": "7da494e0e198bb177982c582bba5dd1f222e12d64829b1cc5176d4db6da6c6ba",
+      "textSha256": "f0730deb92413912df0cc844383e7d873462bb103c58f4ef2cbe348c8f441a53",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Liability insurance or bond filing and self-insurance exemption",
+          "bodySha256": "9b285148f9ad1161b002812ce8e18dfff98f92e245c5d6c65432bf3854282db8",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 §§ 5724, 5729, A.L. 1951 p. 547 § 390.150, A.L. 1961 p. 416, A.L. 1986 H.B. 1428; 226.008 transfer note). Prohibits highway operation without approved liability insurance certificate or bond for public injury and property damage, exempting approved financial self-insurers."
+        },
+        {
+          "number": 2,
+          "title": "Prohibition on local licensing requirements and local property taxes",
+          "bodySha256": "1baac653956a1357fb41de71cb328ffc617ad07ccc05395c8a93eefe7c532841",
+          "reviewNote": "Read complete text of subsection 2. Prohibits cities and political subdivisions from requiring additional policies, bonds, or licenses, while preserving local authority to levy and collect property taxes."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (RSMo 1939 §§ 5724, 5729 through A.L. 1986 H.B. 1428; § 226.008 transfer note). Confirmed draft titles for liability insurance/bond/self-insurance filing and ban on extra local licenses preserving local property taxes."
+    },
+    {
+      "id": "390.128:21943",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.128&bid=21943",
+      "sourceSha256": "152cc7efa14983a317ba29ea545eb8ee40f0746269e3a754f555ad32fb60e178",
+      "textSha256": "21badf96e7af9d9eb3ceac58bea525cce7c7bf20dc9352d36acb1f59aa80eb92",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Electronic filing rules, clearinghouse verification, and out-of-state insurers",
+          "bodySha256": "9b2fee7fe0bc401f8f15502fab4d16b9df1cdddb9a515e737b36d5fa6ee2ef93",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 2000 H.B. 1797; 226.008 transfer note). Directs division to provide by rule for electronic filing of insurance certificates, clearinghouse coverage confirmation, and acceptance of proof from out-of-state insurers."
+        },
+        {
+          "number": 2,
+          "title": "Rulemaking compliance under chapter 536 and nonseverability clause",
+          "bodySha256": "4d74d29431d67dcbceb75813c5087ee4ec62bd3df0d70f1a77f7f0e7d517efa5",
+          "reviewNote": "Read complete text of subsection 2. Subjects rules to chapter 536 procedures, including nonseverability provision invalidating rules if legislative review powers are held unconstitutional."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 2000 H.B. 1797; § 226.008 transfer note). Confirmed draft titles for electronic insurance filing/clearinghouse/out-of-state rules and ch. 536 nonseverability after Aug. 28, 2000."
+    },
+    {
+      "id": "390.136:21944",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.136&bid=21944",
+      "sourceSha256": "8ecaf11872de472fbb7cc4ae311e9a7c330b0431380479cdaec9d445e0690ae8",
+      "textSha256": "80629d37ea75da55ccd1f9f308e489871112017738643412bc90d5829c422bb9",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Regulatory license requirement, vehicle election, and annual fee",
+          "bodySha256": "37703d88a5bbbd2f72fb7bded2b6615b4a3f8ca40b111a91fece390602547f24",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 § 5728, A.L. 1951 p. 547 § 390.170 through A.L. 2004 H.B. 928 et al.; 301.267 fee cross reference; Maag partnership dump truck annotation). Requires motor vehicles to carry regulatory license ($10 annual fee), allowing carrier to elect licensing truck-tractor, trailer, or semitrailer."
+        },
+        {
+          "number": 2,
+          "title": "Interchangeable regulatory licenses for driveaway operations",
+          "bodySha256": "2cdc023c1434d6ff38deb0419dfab3d3b7bc30dc77080aa81f7e7e16fe5c16d2",
+          "reviewNote": "Read complete text of subsection 2. Authorizes issuance of regulatory licenses for driveaway operations without reference to specific vehicle, usable interchangeably on any movement."
+        },
+        {
+          "number": 3,
+          "title": "Emergency seventy-two-hour vehicle licenses and five-dollar fee",
+          "bodySha256": "a49486efed69a58183041480f0516cf614ff69a910b96451bd466f99bf52742b",
+          "reviewNote": "Read complete text of subsection 3. Authorizes seventy-two-hour licenses for emergency or peak demand at five dollars per vehicle, requiring license to accompany vehicle."
+        },
+        {
+          "number": 4,
+          "title": "Fee collection, deposit in state fund, and reciprocal agreements",
+          "bodySha256": "63fee5c3945819fd616b14a65cd16fe2fd62f05bfa7463e5230afbad1f2e053a",
+          "reviewNote": "Read complete text of subsection 4. Directs collection of fees prior to issuance and deposit into state highways and transportation department fund, subject to section 622.095 or reciprocal agreements."
+        },
+        {
+          "number": 5,
+          "title": "Misdemeanor penalty for operation without regulatory license",
+          "bodySha256": "d1967b86b5a558ab5bb073c5b035868b61045317bbf155d82c756d1e188ded76",
+          "reviewNote": "Read complete text of subsection 5. Imposes misdemeanor fine up to one hundred dollars for operating as motor carrier in violation of section."
+        },
+        {
+          "number": 6,
+          "title": "Payment of regulatory license fees at state weigh stations",
+          "bodySha256": "d2a05001ac59a7cd0472a5cc8921381c72edf69fc5664fc03b1d06d62d6fd320",
+          "reviewNote": "Read complete text of subsection 6. Authorizes payment of regulatory license fees at any state weigh station."
+        },
+        {
+          "number": 7,
+          "title": "License expiration, quarterly staggering, and transition terms",
+          "bodySha256": "02a4ac17f2782053a49cb10ba7569cb1b87f0b101e9544dd10e79a4555c90933",
+          "reviewNote": "Read complete text of subsection 7. Empowers commission to stagger license dates quarterly, set annual renewal deadlines, and issue partial or multi-year transitional licenses."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 7 subsections and source notes (RSMo 1939 § 5728 through A.L. 2004 H.B. 928 et al.; § 301.267 cross-ref; 1964 Maag v. PSC annotation). Confirmed all 7 draft titles for $10 annual/$5 72-hour regulatory licenses, driveaway licenses, weigh station payment, and quarterly staggering."
+    },
+    {
+      "id": "390.138:21945",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.138&bid=21945",
+      "sourceSha256": "b7d1104c72a8fad335ed83b51093fd802d64f6cfe455c2c28975b6b194304f67",
+      "textSha256": "4da5acf727c0d27095af1e3d17f7d8846586a40c678ccb07ef15eca2a5153050",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Replacement of mutilated licenses upon affidavit and one-dollar fee",
+          "bodySha256": "cb705ade3a7ae8002c4555fe60939d59076e886c011a6b4533ab920c55c2023d",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1955 S.B. 215 §§ 1, 2, A.L. 1986 H.B. 1428; 226.008 transfer note). Authorizes issuance of duplicate or replacement annual license upon affidavit of loss/destruction, surrender of serial number portion, and one-dollar fee."
+        },
+        {
+          "number": 2,
+          "title": "Law enforcement notification and license cancellation upon default",
+          "bodySha256": "73d93e97ffdf455bb3ba063c840ad60d93294c15d1e798017a513bb1b2c1408f",
+          "reviewNote": "Read complete text of subsection 2. Authorizes officer to report illegible license and order replacement application within fifteen days, permitting division to cancel license upon failure to apply."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1955 S.B. 215 §§ 1, 2, A.L. 1986 H.B. 1428; § 226.008 transfer note). Confirmed draft titles for $1 replacement of mutilated licenses and 15-day officer notice/cancellation."
+    },
+    {
+      "id": "390.150:21948",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.150&bid=21948",
+      "sourceSha256": "769b5843a9adb9e3e590fd3af737b997e6fabb42f0cbf8b99f5ba3166c888369",
+      "textSha256": "05843b39f3ca881b5907396a4c1b14b3061279043457eb6758f36bfe1128d17b",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual financial statement deadline of April fifteenth",
+          "bodySha256": "142bbb9b651191053597d0ec60e529f4bbd46168357a4cb389dce590d165fe5b",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1986 H.B. 1428, A.L. 1996 H.B. 991 merged with S.B. 780; 226.008 transfer note). Requires intrastate common/contract carriers of household goods or passengers to submit annual balance sheet by April 15."
+        },
+        {
+          "number": 2,
+          "title": "Division prescribed forms for annual financial statement",
+          "bodySha256": "45212961977093f38dc5a066e6210bc8d60a8a795383b403bf5944ed8b40a20f",
+          "reviewNote": "Read complete text of subsection 2. Directs division to determine format and furnish blank financial statement forms to carriers."
+        },
+        {
+          "number": 3,
+          "title": "Additional statistical reporting, amendments, and filing extensions",
+          "bodySha256": "dbca2c274a110824a2d4f4f02256a6d8de9645cd0c317d08807630fa68b7eed3",
+          "reviewNote": "Read complete text of subsection 3. Authorizes division to require statistical filings, order corrections to defective statements, or grant filing extensions up to sixty days."
+        },
+        {
+          "number": 4,
+          "title": "Mandatory bookkeeping and division inspection of carrier records",
+          "bodySha256": "5ad3c3d270439132fce474ff664e3a520f29da1c6f54caf78751fe696516745e",
+          "reviewNote": "Read sub 4. Requires motor carriers of passengers or property to keep prescribed books and records, subjecting carrier, affiliate, and related-party records to division inspection at any time. Fixed 'book keeping' spelling to 'bookkeeping'."
+        },
+        {
+          "number": 5,
+          "title": "Authority suspension and civil penalties for reporting defaults",
+          "bodySha256": "a0f3557145f168d26c36d70ca9641b408d47e4ec5c4f0edbb4a38dd771a0e4e3",
+          "reviewNote": "Read complete text of subsection 5. Authorizes division to suspend certificate, permit, or registration and seek penalties payable to public school fund for failure to file statements or maintain records."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 5 subsections and source notes (L. 1986 H.B. 1428, A.L. 1996 H.B. 991 merged with S.B. 780; § 226.008 transfer note). Fixed 'book keeping' spelling in sub 4 title; confirmed subs 1–3 and 5."
+    },
+    {
+      "id": "390.176:21953",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.176&bid=21953",
+      "sourceSha256": "04fe7ed147d1244b80a02e2c9020d562edc259987236fd2f5d912fd5b1a34fc0",
+      "textSha256": "5d9abdf3a87e27d33c69ca272e91de277a2f2807254ba22797b19ce43c61c0cd",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Civil forfeiture penalty of one hundred to two thousand dollars",
+          "bodySha256": "96ac898f32483b3385a9ef46a5fabd7c6228a55d125a4a6956a52e3cb7514f3f",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1951 p. 547, A.L. 1986 H.B. 1428; 226.008 transfer note). Imposes penalty between $100 and $2,000 per offense on motor carriers violating constitutional, statutory, or division requirements."
+        },
+        {
+          "number": 2,
+          "title": "Separate offense status for distinct and daily continuing violations",
+          "bodySha256": "32c4ad46871d147b2925008eb6ed27916ce825b19c7ca489f98473693f1a70e4",
+          "reviewNote": "Read complete text of subsection 2. Establishes each violation and each day of continuing violation as a separate and distinct offense."
+        },
+        {
+          "number": 3,
+          "title": "Vicarious carrier liability for acts of officers and employees",
+          "bodySha256": "4fa6b93309539ff15b909b6c63a870666ef61717d6eca1b1da0c6898f85de23e",
+          "reviewNote": "Read complete text of subsection 3. Imputes acts, omissions, or failures of officers, agents, or employees within employment scope to motor carrier."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 1951 p. 547, A.L. 1986 H.B. 1428; § 226.008 transfer note). Confirmed all 3 draft titles for $100–$2,000 penalties, separate/daily offenses, and vicarious carrier liability."
+    },
+    {
+      "id": "390.250:21956",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.250&bid=21956",
+      "sourceSha256": "5726b96fd673b497deb6ecb93a64475dba0b4fc518f59620051a214722a446ff",
+      "textSha256": "bc14e452b2981c6cb8a8743ad03da8f4b5643ede472e2ad97edb5fbc7af7c80d",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions of division, household goods, and property carrier registration",
+          "bodySha256": "2de6d23f07fb5ddde7a34390f62ac557dfcd3266bf47fe5f0b0dcc26bfe098e0",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1996 H.B. 991 § 1; 226.008 transfer note). Defines \"division\", \"household goods\" (excluding crated general freight), \"property carrier registration\", and \"registered property carrier\"."
+        },
+        {
+          "number": 2,
+          "title": "Applicability of statutory definitions across regulatory chapters",
+          "bodySha256": "c77af16668d60c84ae07248334f58617744950b2b52cf7009909dbaa88cf2869",
+          "reviewNote": "Read complete text of subsection 2. Applies section definitions throughout chapters 390 and 622, harmonizing general definitions unless context clearly requires otherwise."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1996 H.B. 991 § 1; § 226.008 transfer note). Confirmed draft titles for §§ 390.250–390.350 definitions and cross-chapter applicability across chs. 390 and 622."
+    },
+    {
+      "id": "390.260:21957",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.260&bid=21957",
+      "sourceSha256": "11e827950420dd8cf0ed090d0a31b042c7cfc8ffbe9502d1753d890c10b997b0",
+      "textSha256": "6799f17ada7d8d5704813665aa278fdd5dcd1c0d9d8e35c11f72df55faf36b34",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition on economic regulation of property carrier prices and routes",
+          "bodySha256": "e1d2825459b623de116e1da4fb0cd68433b936e27168f7f80e9791a01720f066",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1996 H.B. 991 § 2; 226.008 transfer note). Prohibits division from enforcing laws or rules governing prices, routes, or services of property carriers, except for household goods, passengers, or specific statutory grants."
+        },
+        {
+          "number": 2,
+          "title": "Retention of safety powers and terminal equipment inspection",
+          "bodySha256": "1446819a77471dc454b3dd9b4c6066cece633bc9c9c65e04c022a5e757dbd7c6",
+          "reviewNote": "Read complete text of subsection 2. Retains non-preempted safety powers and terminal safety inspection authority under section 307.400 consistent with Federal Aviation Administration Authorization Act of 1994."
+        },
+        {
+          "number": 3,
+          "title": "Inapplicability of economic certification provisions to general property",
+          "bodySha256": "cd01beae75b361a2d759288cf4113770a7bf87f8f57783ce64c5d26dfc0ac78b",
+          "reviewNote": "Read complete text of subsection 3. Declares sections 390.051, 390.061, 390.062, 390.081, and 390.111 inapplicable to intrastate property carriage except household goods."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 1996 H.B. 991 § 2; § 226.008 transfer note). Confirmed all 3 draft titles for FAAAA economic deregulation, retained terminal safety inspection authority (§ 307.400), and inapplicability of §§ 390.051–390.111 to general property."
+    },
+    {
+      "id": "390.280:21959",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.280&bid=21959",
+      "sourceSha256": "353bba2aeb0cfc1e0bf18b6267818777df4b2c9e433d4a5db71d56ed692b081a",
+      "textSha256": "c1e30d48e9cd37ca2106fda3afc8e24b2290f1ad10f4bbc90c9d2ebad66fd9d3",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Voiding of pre-1995 operating rights and retained passenger exceptions",
+          "bodySha256": "61547239b393a8f4370af3df7e4a9f1bf272f50cc43fb98e860c4b00bf0c8c56",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1996 H.B. 991 § 4, A.L. 2012 H.B. 1402/S.B. 470, A.L. 2014 H.B. 1245; 226.008 transfer note). Voids pre-1995 intrastate property certificates/permits, preserving authority for irregular-route household goods, passengers, and interstate commerce."
+        },
+        {
+          "number": 2,
+          "title": "Grandfather qualification as registered property carriers",
+          "bodySha256": "99a1116ec3db823c53cb518ac44f812b297ad4ace7b172dbe59d31bd01a3e5fa",
+          "reviewNote": "Read complete text of subsection 2. Deems active 1994 certificate/permit holders qualified as registered property carriers without new applications upon complying with insurance and licensing."
+        },
+        {
+          "number": 3,
+          "title": "Hazardous materials transport restrictions and chapter 260 compliance",
+          "bodySha256": "9292afbcde6e152b23c1520a3d4e86453463f9a9f15e377a24de4f76982f8cf2",
+          "reviewNote": "Read complete text of subsection 3. Prohibits transporting federal hazardous materials without express August 28, 1996 authority, requiring new application for additions and chapter 260 compliance."
+        },
+        {
+          "number": 4,
+          "title": "Invalidation of route restrictions for household goods carriers",
+          "bodySha256": "c16810f652ec733da95243643520b375345d5c9458dff38f63749b5f29267617",
+          "reviewNote": "Read complete text of subsection 4. Voids pre-2012 geographic route restrictions on intrastate household goods carriers, establishing interim statewide authority and preserving section 67.1802 passenger rules."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 4 subsections and source notes (L. 1996 H.B. 991 § 4 through A.L. 2014 H.B. 1245; § 226.008 transfer note). Confirmed all 4 draft titles for voiding pre-1995 property certificates, grandfathering, hazmat limits, and voiding pre-Aug. 28, 2012 household goods route restrictions."
+    },
+    {
+      "id": "390.290:21960",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.290&bid=21960",
+      "sourceSha256": "b2c158dc7a6c94a6d9e11e00e0db1a17a7812e25f1266877a1ac01e997eec928",
+      "textSha256": "301e80cf7cad1ed1d813c46ab0126e5a1b9db7494c787765348b6eea62429ac6",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application filing prerequisites, insurance verification, and fees",
+          "bodySha256": "748b94d7b19ec010f77895420d81bc3aea815145347a6f1a474272f655c61c87",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1996 H.B. 991 § 5; 226.008 transfer note). Requires verified application with liability insurance/bond certificate under section 390.126, license fees under section 390.136, and safety/hazmat compliance information."
+        },
+        {
+          "number": 2,
+          "title": "Administrative law judge determination and hearing timelines",
+          "bodySha256": "c68559d30be47481ef2d29d509270045ec14d7492d9e470f9f38de3009173f9a",
+          "reviewNote": "Read complete text of subsection 2. Directs administrative law judge to determine applicant qualifications without hearing, authorizing staff investigations, hearings within 20 days of request, and decisions within 45 days."
+        },
+        {
+          "number": 3,
+          "title": "Prohibition on route restrictions and mandatory hazmat cargo limits",
+          "bodySha256": "e0c220b1e2f3c62167c02c109ee516f7376799b854f3dd7268bc4a593d7b0506",
+          "reviewNote": "Read complete text of subsection 3. Forbids restricting registration by routes or commodities, except mandating restrictions against household goods and unqualified hazardous materials transport."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 1996 H.B. 991 § 5; § 226.008 transfer note). Confirmed all 3 draft titles for verified property carrier registration applications, ALJ determination/20-day hearing/45-day decision timelines, and household goods/hazmat restrictions."
+    },
+    {
+      "id": "390.300:21961",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.300&bid=21961",
+      "sourceSha256": "30a2b0c5b7a874ebda0fbe08d0aacafbe65a10f80f6cc65ba4e8931be7100411",
+      "textSha256": "8a2d396d8f14f1115f4cc5af5b5f528bd965ca8b4ab486dd83ce02a44efb80ad",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Entirety transfer of property carrier registration and qualification",
+          "bodySha256": "cbc698567366551c980749c81c1ef55db57be2713490c034ac32ead0fba3d2bd",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1996 H.B. 991 § 6; 226.008 transfer note). Permits transfer of registration in entirety upon joint application showing proposed transferee is fully qualified under section 390.290."
+        },
+        {
+          "number": 2,
+          "title": "Entirety transfer approval and hazardous materials restrictions",
+          "bodySha256": "a2c7c0710f88c7b35f8d2362d8749842350a0ea7cc68e85367bc0bb6514ae371",
+          "reviewNote": "Read complete text of subsection 2. Directs division to transfer registration in entirety, requiring restriction against hazardous materials unless transferee proves qualification under federal rules."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1996 H.B. 991 § 6; § 226.008 transfer note). Confirmed draft titles for entirety transfer of property carrier registration and hazmat qualification restrictions on transfer."
+    },
+    {
+      "id": "390.350:21966",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.350&bid=21966",
+      "sourceSha256": "a3dc3befa5fdd3a3755ba4481b3eabee1abb2c1fe9401c39fe8ed317cbb37010",
+      "textSha256": "3e9605b9e8ec8aedf5e6ea5fc206c7f9f3782cbffecb73e6f97547d31f0a0586",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Enforcement personnel training requirements without peace officer mandates",
+          "bodySha256": "c8f353d854d8f6ee3e3fd3761274773326dec2fa0d01f431f43e29efb2f0b8d6",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1996 H.B. 991 § 11; 226.008 transfer note). Directs division to adopt job-specific training for enforcement personnel, exempting them from general chapter 590 peace officer training."
+        },
+        {
+          "number": 2,
+          "title": "Rulemaking promulgation pursuant to section 536.024",
+          "bodySha256": "51927d8ea0afad9ca4437abe684f4467f6d847ccab13bcb202917ff9da61f274",
+          "reviewNote": "Read complete text of subsection 2. Conditions validity of rules promulgated under sections 390.250 to 390.350 on compliance with section 536.024 administrative procedures."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1996 H.B. 991 § 11; § 226.008 transfer note). Confirmed draft titles for job-specific enforcement training (exempt from ch. 590) and § 536.024 rulemaking."
+    },
+    {
+      "id": "390.372:21967",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=390.372&bid=21967",
+      "sourceSha256": "f50ecdcc0f71e1f9fa4e7b681e47ec8361c59076a4a724d00aa6c1766d3b85f4",
+      "textSha256": "9b61376c49bb701fc08661cc1985fe75273c02f52c9e5fa36fc7de31240af2b1",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Unenforceability of promisee indemnity clauses in transportation contracts",
+          "bodySha256": "bfe714ca3c678ab6bd83ffa93db9c48fd7c367e3646dd1cce01436d9bcf47d41",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 2008 S.B. 930 & 947). Declares indemnity, hold harmless, or defense provisions protecting promisee from liability for promisee's own negligence or intentional acts void and unenforceable."
+        },
+        {
+          "number": 2,
+          "title": "Definitions of motor carrier transportation contract and promisee",
+          "bodySha256": "b4cde38999ba09e6e9d217e531c788c8a9bcadf9ffbfd724b909dcfd3e0145c7",
+          "reviewNote": "Read complete text of subsection 2. Defines \"motor carrier transportation contract\" (excluding UIIA intermodal agreements) and \"promisee\" (excluding party motor or rail carriers)."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 2008 S.B. 930 & 947). Confirmed draft titles for unenforceability of promisee-negligence indemnity clauses and definitions (excluding UIIA intermodal agreements)."
+    }
+  ]
+}

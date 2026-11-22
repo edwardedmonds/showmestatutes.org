@@ -1,0 +1,1306 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "382.020:21502",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.020&bid=21502",
+      "sourceSha256": "98556abf879a15246c40e451c9430996511aeced44d3ba661188b25648b0df5a",
+      "textSha256": "0dcf5039a1fe31cb5b5ef18afc2440fb8ce898cd80954f7972b40c1974e2f92c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorized subsidiary businesses for domestic insurers",
+          "bodySha256": "ef3c58739dc64bfe7ce9c5728a77448037102b71fbd322e9685d508f9cc9fab5",
+          "reviewNote": "Authorizes domestic insurers to invest in or operate subsidiaries in insurance, securities, finance, or related fields."
+        },
+        {
+          "number": 2,
+          "title": "Direct engagement in permitted subsidiary businesses",
+          "bodySha256": "edf5cab756012e5380f4343e9a697c7b764f97c56a1d104e976d06d5d63b54f2",
+          "reviewNote": "Allows direct engagement in specified businesses with separate accounting to the extent incidental or approved."
+        },
+        {
+          "number": 3,
+          "title": "Additional subsidiary investments up to statutory asset caps",
+          "bodySha256": "6d2abad1fa8dd89214b63babfeb74b557e8805312cbf5ac00fa80c837abf3a64",
+          "reviewNote": "Authorizes subsidiary investments up to lesser of 10% assets or 50% surplus under specified capital tests."
+        },
+        {
+          "number": 4,
+          "title": "Statutory investment compliance requirements",
+          "bodySha256": "d3208699348fdbed16519c3d0fceae00424554293c6589fc65efff00c19486d3",
+          "reviewNote": "Requires subsidiary investments under subsection 3 to conform to statutory investment laws."
+        },
+        {
+          "number": 5,
+          "title": "Timing and valuation of investment compliance tests",
+          "bodySha256": "d4e401d1aa1e47c4be3adcc311ff607d42a39c7536c706fded9294b3e51e343a",
+          "reviewNote": "Determines compliance immediately after investment based on outstanding debt balance and equity cost."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 5 subsections, history note, and cross-references (§§ 70.377, 409.950, 369.194) against archived text; confirmed authorized subsidiary lines, direct engagement, 10% assets/50% surplus cap, and compliance valuation."
+    },
+    {
+      "id": "382.040:21504",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.040&bid=21504",
+      "sourceSha256": "905a264eb1523b73d91521bd606d7cbf958ed931745ce1ef573f5405565b9d35",
+      "textSha256": "5e0e9cd0f415037d7496d905abf125ddd9ec50473bb9d99d3fe5041f5e472065",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prior approval and filing required for domestic insurer change of control",
+          "bodySha256": "42bf275b3f40538fb5b1e25a87cda494b4c02331c66f00fe992667a50f34423b",
+          "reviewNote": "Prohibits tender offers, mergers, or acquisitions of control of domestic insurer without approved statement."
+        },
+        {
+          "number": 2,
+          "title": "Thirty-day confidential divestiture notice to director",
+          "bodySha256": "1952d01cc8fda54fd2305ad60ebc067793aa4ebda422dabc4fa89cbf20a30254",
+          "reviewNote": "Requires controlling persons seeking divestiture to file confidential notice with director 30 days prior."
+        },
+        {
+          "number": 3,
+          "title": "Preacquisition notification requirements under section 382.095",
+          "bodySha256": "48b25f8cb4a8094fec709e90b3231fd0f52fdd3008e5b3180c2b8d03f816ce2f",
+          "reviewNote": "Requires acquiring persons to file preacquisition notification subject to section 382.095 penalties."
+        },
+        {
+          "number": 4,
+          "title": "Application to controlling persons of domestic insurers",
+          "bodySha256": "fefaa8c4da775ac201bee06a762c267e5a6d2b310ab4d55cfd4025d330461004",
+          "reviewNote": "Applies change of control rules to holding companies unless primarily engaged in non-insurance business."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections and 1982 National City Lines v. LLC Corp. annotation against archived text; confirmed prior approval for change of control, 30-day confidential divestiture notice, preacquisition filing, and broker exclusion."
+    },
+    {
+      "id": "382.050:21505",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.050&bid=21505",
+      "sourceSha256": "d4a4c8f6a06ddc2ac387e15810ba019418dda58e6b4a27c925f533a3087599f9",
+      "textSha256": "4e004608a7202a821a68bd99d739d0beb6f522c228ef3c21253174c08b652646",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Contents and verified statement required of acquiring party",
+          "bodySha256": "8c7dd93a0eb3741fd84f3caaa4d4469758be1a603813ddfa7b37f44b6d370006",
+          "reviewNote": "Enumerates statement contents under oath, including identity, financing, financial statements, and plans."
+        },
+        {
+          "number": 2,
+          "title": "Partnership and corporate disclosure requirements",
+          "bodySha256": "9e2bc5a60f2e77ee3a1bc77edb3ee614fb660126c59f07cb3a15152b6624f5ee",
+          "reviewNote": "Requires specified biographical and financial information for partners, directors, and executive officers."
+        },
+        {
+          "number": 3,
+          "title": "Material changes and amendment filing deadline",
+          "bodySha256": "d308b61920153df5a4018324643e722dc797a4d8b6884a487c9e601c9364b95a",
+          "reviewNote": "Requires filing amendment within two business days after any material change occurs in filed information."
+        },
+        {
+          "number": 4,
+          "title": "Use of federal securities filings and consolidated statements",
+          "bodySha256": "170540fb524030e806e8f8dba57d33d6b95cb8a6ba40a9e90d78e788c02bc686",
+          "reviewNote": "Permits utilizing SEC registration statements or joint filings when tender offers involve federal filings."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections and history note against archived text; confirmed 15 sworn statement items, partnership/corporate disclosures, 2-business-day material change amendments, and SEC filing use."
+    },
+    {
+      "id": "382.060:21506",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.060&bid=21506",
+      "sourceSha256": "8d9efee2c7bfd25bc10abf71f17f1021675a109e71a49ab38cd3d74e200aa238",
+      "textSha256": "eaedb65b5722aa8bbaf72141b9b761ed18fa9b99ab39c30083de01c5739106f7",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Approval standard and statutory grounds for disapproval",
+          "bodySha256": "b55970bff8fbfa60bf67ef1eac19a564ece370ce02a4d77439ada1f80018917e",
+          "reviewNote": "Requires director approval unless acquisition impairs licensing, lessens competition, or harms policyholders."
+        },
+        {
+          "number": 2,
+          "title": "Written disapproval order and required factual findings",
+          "bodySha256": "dbc02966feee7e4afd86c9fea0406eaa9aff444f89a2f4a83d1881677373694a",
+          "reviewNote": "Mandates any disapproval by director be in writing with specific supporting findings of fact."
+        },
+        {
+          "number": 3,
+          "title": "Thirty-day hearing schedule and notice requirements",
+          "bodySha256": "b6709e6a0ada9493738c11064f0282299c6b91a76f8e75b52358ea7966e37b16",
+          "reviewNote": "Requires public hearing within 30 days of filing with 20 days' notice to applicant and 7 days to insurer."
+        },
+        {
+          "number": 4,
+          "title": "Consolidated public hearings across multiple state regulators",
+          "bodySha256": "6b3a84bcee61f3d086bc1e3f827f4f13b6099fd9737bbedf783b0b413f3cb6f3",
+          "reviewNote": "Allows consolidated multi-state public hearing upon request of acquiring party."
+        },
+        {
+          "number": 5,
+          "title": "Sixty-day deadline for capital maintenance determinations",
+          "bodySha256": "8e5f546c6e4d613ff824ede8ed2c9a77123fa16da2b9d00308794a5456694267",
+          "reviewNote": "Requires director capital restoration or maintenance orders to be made within sixty days of statement filing."
+        },
+        {
+          "number": 6,
+          "title": "Retention of independent experts at acquiring party expense",
+          "bodySha256": "fe3db0a2d8503a0f26b9cc5e60785e89e542962e0008c4430f352dc754af21c3",
+          "reviewNote": "Authorizes director to retain attorneys, actuaries, and experts at acquiring party's expense."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 6 subsections and history note against archived text; confirmed disapproval grounds, written findings, 30-day hearing schedule, multistate consolidated hearings, 60-day capital determinations, and outside experts."
+    },
+    {
+      "id": "382.095:21510",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.095&bid=21510",
+      "sourceSha256": "461399f17118f364efe51e69207e5eae01c216a9f98d7410cf81e69d898a9b5a",
+      "textSha256": "e54ba63a6606f3e9553fbf2aa70c3b8903fee22067420266cd2b4a2bfc0a439e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions for acquisition competitive impact provisions",
+          "bodySha256": "3dcd4969adcd1e950ba4dd3e263482021aa1f0337c65445321802376ac244685",
+          "reviewNote": "Defines acquisition and involved insurer for competitive impact review."
+        },
+        {
+          "number": 2,
+          "title": "Scope of competitive impact review and exempted transactions",
+          "bodySha256": "36ce2a659fb869b1bb38fc445430907777c18d59a24a682e8748b33b8d014a2e",
+          "reviewNote": "Applies to change-of-control acquisitions; exempts securities investments, parent-subsidiary, and de minimis."
+        },
+        {
+          "number": 3,
+          "title": "Preacquisition notification filing and waiting periods",
+          "bodySha256": "f42c86d70b9f4febb9a233683b01fabeaf592b6b5b9ababee3864c53fd21a4b8",
+          "reviewNote": "Requires 30-day waiting period after notification; permits director to request additional data."
+        },
+        {
+          "number": 4,
+          "title": "Standards for determining substantial lessening of competition",
+          "bodySha256": "01565ac2dfb9c703faeddfa1a43fd020996e98fc6d1e32fc81368cba4c7cd21e",
+          "reviewNote": "Establishes competitive market share tests, Herfindahl-Hirschman metrics, and rebuttable trends."
+        },
+        {
+          "number": 5,
+          "title": "Cease and desist orders and denial of license",
+          "bodySha256": "b186cb8124a6896f0d195a2815050f4ef903e0723ee87a08101c562cec213256",
+          "reviewNote": "Authorizes cease and desist orders or license denial for anticompetitive acquisitions."
+        },
+        {
+          "number": 6,
+          "title": "Fines and license suspension for violating cease and desist order",
+          "bodySha256": "f9b9065e650e9d81593b868794836a47637db45d079938ea89b12dde87ab8b7e",
+          "reviewNote": "Imposes monetary penalties up to $10,000/day and license suspension for violating cease and desist orders."
+        },
+        {
+          "number": 7,
+          "title": "Penalties for failure to file preacquisition notification",
+          "bodySha256": "4c6dacf6d31fc97a57bbeb862aefe264955e6aa3d49a6b4fff9392de54e95dd6",
+          "reviewNote": "Imposes fines up to $50,000 for failing to file preacquisition notice without good faith effort."
+        },
+        {
+          "number": 8,
+          "title": "Inapplicability of securities seizure and receivership sections",
+          "bodySha256": "681cd317b65a929ad480e204d9ec46f6170b6f9480c4779815ccfcc19710ee7c",
+          "reviewNote": "Exempts transactions under this section from sections 382.260 and 382.280."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 8 subsections and both embedded market-share concentration tables in subsection (4) against archived text; confirmed competitive impact scope/exemptions, 30-day waiting period, cease-and-desist orders, and $10k/day and $50k penalties."
+    },
+    {
+      "id": "382.110:49884",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.110&bid=49884",
+      "sourceSha256": "a2488f738b55a36f9a49f62f8eb4641f7a5a54c0c1995d0877354738b8905c9b",
+      "textSha256": "04aff46b5f1707512993aff202a8daf42a44b413ec6088c85bc4c49db019a5ef",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Required contents of holding company registration statement",
+          "bodySha256": "867bda838d09ad1571a00b8d67705aec2c4867eb261c8597cee9d40723f75b80",
+          "reviewNote": "Enumerates registration statement contents, including capital, corporate charts, and financial statements."
+        },
+        {
+          "number": 2,
+          "title": "Summary of changes from prior registration statement",
+          "bodySha256": "5edcb6eef1c21e78a29d70b0bad3e631eee26253c1470ce4dc909a35131a62fb",
+          "reviewNote": "Requires every registration statement to contain a summary outlining all items representing changes from the prior registration statement."
+        },
+        {
+          "number": 3,
+          "title": "Exemption for nonmaterial information and asset threshold",
+          "bodySha256": "c46e13317109cb2a3d4dc1979067e2459cc4517f1148d55ad9ce08377007e1ad",
+          "reviewNote": "Exempts nonmaterial information (0.5% or less of admitted assets unless ordered otherwise), excluding group capital calculation and liquidity stress test framework."
+        },
+        {
+          "number": 4,
+          "title": "Duty of holding company system persons to furnish data",
+          "bodySha256": "b23a64b2f157b04f1085ec66d14ff5c50c5cd440c77e6d8ac5470b8ae3c3e9f3",
+          "reviewNote": "Requires any person within a registered holding company system to furnish complete and accurate information reasonably necessary for insurer compliance."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections and history note against archived text; replaced mismatched subsections (2)–(4) titles/notes to match prior-statement change summary, 0.5% nonmaterial exemption, and system-person data duty."
+    },
+    {
+      "id": "382.176:49885",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.176&bid=49885",
+      "sourceSha256": "2161b001099a2d6fde38a739ad639d3dce955db9d430145209a9c674eeed1c03",
+      "textSha256": "660ab56b279279110054dd2dfdce8c23d48c542c784edeecfed58076b980b553",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual group capital calculation filing and exemptions",
+          "bodySha256": "25b13a3331e3288933e0cc80bc9da4c99cb3d36de4a5535f39438f4f9f13473b",
+          "reviewNote": "Requires annual NAIC group capital calculation filing with lead state director and sets four exemptions; retains footnote (*Subdivisions (5), (6), and (7) of subsection 1 do not exist)."
+        },
+        {
+          "number": 2,
+          "title": "Group capital calculation for U.S. operations of foreign groups",
+          "bodySha256": "b83aff630e3b21aa584d0d456435c36443b0b6adb187fdbf144e75c2ebce562b",
+          "reviewNote": "Mandates lead state director require group capital calculation for U.S. operations of non-U.S. groups when deemed appropriate for prudential oversight or competitiveness."
+        },
+        {
+          "number": 3,
+          "title": "Discretionary exemption or limited group capital filing",
+          "bodySha256": "08b29375d38c723ccf7b51ce22d1e1287b6da3bfa705013306b37501b10ddc81",
+          "reviewNote": "Grants lead state director discretion to exempt ultimate controlling person or accept limited group capital filing under regulatory criteria."
+        },
+        {
+          "number": 4,
+          "title": "Filing deadline upon loss of group capital exemption",
+          "bodySha256": "d449b6f2a1cb013572219fd28b9088ebdefb03c9b6ae89debd8e9ee1657755d6",
+          "reviewNote": "Requires filing at next annual filing date (absent extension for reasonable grounds) when lead state director determines exemption criteria are no longer met."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections, history note, and *Subdivisions (5), (6), and (7) do not exist footnote; replaced mismatched subsections (2)–(4) titles/notes to match U.S. operations of foreign groups, discretionary exemptions/limited filings, and exemption loss."
+    },
+    {
+      "id": "382.177:49886",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.177&bid=49886",
+      "sourceSha256": "8cdb5fbaf8cba689e2c0ceebe6d36953d928f8f14d9ba03e33e8946e3c0666a0",
+      "textSha256": "7b0e66745b4a8da0132b8b6fd65ab83576ddc8bce5c8a061e15e56e4a0aded7b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual liquidity stress test filing requirement",
+          "bodySha256": "35f3e3165e4cbc36f0844f8ab0560c021eeea6428e81fdb0623a9dd219b75aa4",
+          "reviewNote": "Requires ultimate controlling person meeting NAIC liquidity scope criteria to file annual stress test."
+        },
+        {
+          "number": 2,
+          "title": "NAIC scope criteria and lead state scoping determinations",
+          "bodySha256": "5d8d7a504815d842b2268613e563e63a8975233f9614ca0150e2dc4e6e824969",
+          "reviewNote": "Governs NAIC liquidity stress test scope criteria, annual task force review, Jan 1 effective date, and lead state director scoping-in or scoping-out determinations."
+        },
+        {
+          "number": 3,
+          "title": "Compliance with NAIC liquidity stress test instructions",
+          "bodySha256": "3ef5ef3c2e9d9fb97415ac799fbbff0e63e09f9138544759e9d0f8ef5398c0d4",
+          "reviewNote": "Requires performance and filing of liquidity stress test to comply with NAIC framework instructions, templates, and lead state director determinations."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 3 subsections and history note against archived text; corrected swapped subsections (2)–(3) titles/notes to match NAIC scope criteria/scoping determinations and NAIC instruction/template compliance."
+    },
+    {
+      "id": "382.195:21522",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.195&bid=21522",
+      "sourceSha256": "b91ddebd7c08f8aa7e28700a4517b9d3f11df9b264e0b687fd775a63f8f52528",
+      "textSha256": "fbb18b6e0e53d55e819b8954ce7bc34a3625b2923c4cf77b9555d75755583d65",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prior notice requirement for material intercompany transactions",
+          "bodySha256": "e69b9fac4bfe481c0b39d1a777843c50db750d024af8ff35d23b61cbe69cadfc",
+          "reviewNote": "Requires 30 days' advance notice to director for sales, loans, reinsurance, or service agreements."
+        },
+        {
+          "number": 2,
+          "title": "No authorization of otherwise unlawful transactions",
+          "bodySha256": "2decccf70d3aa39aec965438112671c56e9c1b24a8cefc15e67d45e84a0e6fa4",
+          "reviewNote": "Clarifies subsection 1 does not authorize or permit transactions otherwise contrary to law for insurers outside a holding company system."
+        },
+        {
+          "number": 3,
+          "title": "Prohibition on structured transactions avoiding thresholds",
+          "bodySha256": "f8cff10e2832ae67ac0c37054406cffd89fc128631718f612387a1218b408cce",
+          "reviewNote": "Prohibits series of separate like transactions over any 12-month period to avoid statutory thresholds, authorizing section 382.265 enforcement."
+        },
+        {
+          "number": 4,
+          "title": "Director review standards under section 382.190",
+          "bodySha256": "4f615e438ded35b232c27932a9cda307ba076352235a2dd13411b5d514b65d67",
+          "reviewNote": "Directs director in reviewing subsection 1 transactions to consider section 382.190 standards and potential adverse effects on policyholders."
+        },
+        {
+          "number": 5,
+          "title": "Thirty-day notice for ten percent corporate investments",
+          "bodySha256": "7068c2c01999106f22e7b9a229df4e1fbe0cfc6278bf798e1ad478e58447ff2c",
+          "reviewNote": "Requires notifying director within 30 days of domestic insurer investment in any corporation where total system holdings exceed 10% of voting securities."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 5 subsections and history note against archived text; replaced mismatched subsections (2)–(5) titles/notes to match non-authorization of unlawful transactions, anti-structuring rule, § 382.190 review standards, and 30-day 10% investment notice."
+    },
+    {
+      "id": "382.210:21524",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.210&bid=21524",
+      "sourceSha256": "af42c009c07358c6014c105a6c06c69164c861cd57a9364e8867902d4a2b22b0",
+      "textSha256": "9a80f8e48cd006e00d6e037ea0c8164bc1b854d024ea7f18ff7335007b3a3bbe",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Thirty-day notice and thresholds for extraordinary dividends",
+          "bodySha256": "e7f09713734250d4b97a6797139806fe3f839b32ea276cb18f07a63dd92c8c96",
+          "reviewNote": "Requires 30-day advance notice and non-disapproval for extraordinary dividends/distributions and defines thresholds for life/title/P&C and other insurers."
+        },
+        {
+          "number": 2,
+          "title": "Earned surplus requirement for shareholder dividends",
+          "bodySha256": "5e766bb52a4466b166890398496435961e25fcfdc12ebde2f0e7c2af3f08818e",
+          "reviewNote": "Restricts life, title, and P&C shareholder dividends to earned surplus unless prior director approval is obtained."
+        },
+        {
+          "number": 3,
+          "title": "Post-dividend surplus adequacy and review factors",
+          "bodySha256": "bad228ef90fbec5b512c3b97e4cfbfbae5c682f1bea3437b4a6b575750e60405",
+          "reviewNote": "Bars extraordinary dividends by life, title, or P&C insurers unless post-transaction surplus is reasonable and adequate under section 382.200 and earnings/trend factors."
+        },
+        {
+          "number": 4,
+          "title": "Conditional extraordinary dividend declarations",
+          "bodySha256": "77816c7e76be6fe0f9211e19fed445c078f3415b2f3714dc5ad0206e2447bb8c",
+          "reviewNote": "Permits conditional extraordinary dividend declarations conferring no shareholder rights until director approval or expiration of 30-day period."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections and history note against archived text; replaced all 4 mismatched draft titles/notes (drafted as examinations) to match extraordinary dividend notice/thresholds, earned surplus rule, surplus adequacy, and conditional declarations."
+    },
+    {
+      "id": "382.220:21525",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.220&bid=21525",
+      "sourceSha256": "2326f3e68caf10a8ebbb11270cb5cfe0016a15da2b147f2902e398c5680e1d75",
+      "textSha256": "15828a46a78dbb43d4b353737ad8847412ad43ca3229c2a2be8a120936b288ba",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Examination of registered insurers and enterprise risk",
+          "bodySha256": "280b06128365fc06bd80a06c035074f8588b9ca4e1350a9420786dabb183f0ae",
+          "reviewNote": "Authorizes director to examine registered insurers and affiliates to ascertain financial condition and enterprise risk."
+        },
+        {
+          "number": 2,
+          "title": "Orders to produce insurer and affiliate records",
+          "bodySha256": "2e0ddb1e289f587d82c437f4494a7fa677c55a89b9a3a7b73c2efd530893644b",
+          "reviewNote": "Authorizes director to order registered insurers to produce books, records, and information papers held by insurer or affiliates."
+        },
+        {
+          "number": 3,
+          "title": "Production of accessible non-possessed information",
+          "bodySha256": "70f6eeda968ec71aebd5ad8cd7ba77abb12fde85a3947fe663d0d71109efc6a1",
+          "reviewNote": "Authorizes ordering production of accessible non-possessed records, requires detailed explanation if unobtainable, and permits examination if explanation lacks merit."
+        },
+        {
+          "number": 4,
+          "title": "Retention of outside experts at insurer expense",
+          "bodySha256": "7d6937dc8e2d9b75b5fa516fb9d99821ee96e29a2cf3cca843276cac062914a0",
+          "reviewNote": "Permits retaining outside attorneys, actuaries, accountants, and experts at registered insurer expense in a purely advisory capacity."
+        },
+        {
+          "number": 5,
+          "title": "Insurer liability for examination expenses",
+          "bodySha256": "4f5bd567acfe7fcce5d903a4dd1aa4a934fb11729a4690e5e3436a7ca070615b",
+          "reviewNote": "Makes each registered insurer producing records liable for examination expenses under section 374.220."
+        },
+        {
+          "number": 6,
+          "title": "Affiliate exams, subpoenas, contempt, and witness fees",
+          "bodySha256": "7718510e8e09f650f56edd5da96b7fa6f093a712e1c72685e7ea8a5c8c128fca",
+          "reviewNote": "Authorizes affiliate examinations upon noncompliance, subpoenas, oaths, court contempt enforcement, and witness fees/mileage under section 491.280."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 6 subsections and history note against archived text; replaced all 6 mismatched draft titles/notes (drafted as supervisory colleges) to match holding company examinations, record production orders, outside experts, expenses, and affiliate exams/subpoenas."
+    },
+    {
+      "id": "382.225:21526",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.225&bid=21526",
+      "sourceSha256": "08a8ca4699d8b108e518f2f17774594ae4fd484bfd2227dec4f71a1cfc961f4e",
+      "textSha256": "a7710cbe8fc12df8557ec979dd78e9dcf360287d395ea1159fc4afe777dfd443",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Director powers to participate in supervisory colleges",
+          "bodySha256": "31179a66145f0785d17173a8cada8827bfe37201db54de203c54e7bf22ac9c0b",
+          "reviewNote": "Authorizes director to participate in, initiate, coordinate, and establish crisis management plans for supervisory colleges of international holding company systems."
+        },
+        {
+          "number": 2,
+          "title": "Insurer liability for supervisory college expenses",
+          "bodySha256": "e2d11577152a4a3b1f5262d8e962010e67f463648f4dc134566021e2085261c0",
+          "reviewNote": "Requires registered insurer to pay reasonable supervisory college participation and travel expenses, permitting regular assessments."
+        },
+        {
+          "number": 3,
+          "title": "Regulatory cooperation agreements and non-delegation",
+          "bodySha256": "46eef49b261ec28e817445cbb244110b59143dd35489b3fe296539d1909dc37c",
+          "reviewNote": "Authorizes cooperation agreements under section 382.230(3) with state, federal, and international regulators without delegating director authority."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 3 subsections and history note against archived text; replaced all 3 mismatched draft titles/notes (drafted as IAIG supervision) to match supervisory college participation/powers, insurer expense liability, and cooperation agreements/non-delegation."
+    },
+    {
+      "id": "382.227:47753",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.227&bid=47753",
+      "sourceSha256": "c74b3742fd2786339c00f9892b078f744167c84232fd929b4853ac3a10fdff9c",
+      "textSha256": "14e6d19109bac828ea9b69c1851dd513b2a2235e0af3a538976f49ec98eb8f20",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Groupwide supervisor authority and acknowledgment criteria",
+          "bodySha256": "29d114dc12b25375032f6da909c8f1563ba8fbd2de2bdfb74a1a6cbec0c80bfa",
+          "reviewNote": "Authorizes director to act as groupwide supervisor for IAIGs or acknowledge another official based on U.S./Missouri operations and statutory factors."
+        },
+        {
+          "number": 2,
+          "title": "Supervisor determination request by non-IAIG systems",
+          "bodySha256": "a6ed4de0aa13757c22e8b8bb332c28103683cd87c3c02e187f6ff9e64afd965d",
+          "reviewNote": "Allows insurance holding company systems not otherwise qualifying as IAIGs to request groupwide supervisor determination or acknowledgment."
+        },
+        {
+          "number": 3,
+          "title": "Identification of single supervisor and statutory factors",
+          "bodySha256": "9348be9f217371f618b8b7dcbb7e24f3d1946a9a49590a6797bf202c780f7bf5",
+          "reviewNote": "Directs identifying a single groupwide supervisor in cooperation with other regulators using five statutory domicile, operations, and reciprocity factors."
+        },
+        {
+          "number": 4,
+          "title": "Acknowledgment of another regulator by identified director",
+          "bodySha256": "4720f114364dc18e4cd173624ebfe9aaae7fa9bb785213ab73e710f3629611b3",
+          "reviewNote": "Permits an identified director to acknowledge another regulatory official as groupwide supervisor after considering subsection 3 factors and consulting regulators and IAIG."
+        },
+        {
+          "number": 5,
+          "title": "Acknowledgment of non-director groupwide supervisor",
+          "bodySha256": "478289d034fda8ea9356f002ec690cd7d8e4048479fc076b9de16fdd739b6e04",
+          "reviewNote": "Directs acknowledgment of qualified supervisor from accredited jurisdiction."
+        },
+        {
+          "number": 6,
+          "title": "Contested determination and notice hearing procedure",
+          "bodySha256": "dfd93dbc6db91a5a9727dfbfc4c495121a1354c0cd3dca52e9afaacde13f491a",
+          "reviewNote": "Requires notice and hearing before director decides not to acknowledge existing supervisor."
+        },
+        {
+          "number": 7,
+          "title": "Collection of data to verify groupwide supervisory status",
+          "bodySha256": "cca3d559096985b97a973d5e1676f1a398d13f83d1346ab06a59c7e25f83b328",
+          "reviewNote": "Authorizes director under section 382.220 to collect data necessary to evaluate supervisor role."
+        },
+        {
+          "number": 8,
+          "title": "Authorized supervisory activities when acting as supervisor",
+          "bodySha256": "ac068cdd11d74aa8bf8e2c4d9c6c0289c8ddccf0c969b6f5077a86d6feaee709",
+          "reviewNote": "Details powers including enterprise assessments, capital adequacy checks, and emergency planning."
+        },
+        {
+          "number": 9,
+          "title": "Cooperation with non-accredited supervisory jurisdictions",
+          "bodySha256": "1c799a5c4bf13a02cc978f819042cb6949fba4c4bb323cca0da37408fc16b70d",
+          "reviewNote": "Authorizes reasonable cooperation through colleges with non-accredited supervisory authorities."
+        },
+        {
+          "number": 10,
+          "title": "Bilateral and multilateral supervisory agreements",
+          "bodySha256": "55b89efaee7c1d80a3dd3c037673ee23b04ddf331db1c259fc7069e6fe53411f",
+          "reviewNote": "Authorizes agreements with registered insurers, affiliates, and regulators regarding supervision."
+        },
+        {
+          "number": 11,
+          "title": "Rulemaking authority for groupwide supervision",
+          "bodySha256": "859cdf775c6edce29be495bfb27f969472edbf9ebf2a87d34d3fe375460022fd",
+          "reviewNote": "Authorizes rulemaking under chapter 536 for groupwide supervisory administration."
+        },
+        {
+          "number": 12,
+          "title": "Insurer liability for groupwide supervision expenses",
+          "bodySha256": "aa280457efcca620ec50bba996965563d86bc92829b549d7f4e18ce65061a2b1",
+          "reviewNote": "Makes registered insurer liable for reasonable expenses of director's groupwide supervision."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 12 subsections and history note against archived text; replaced shifted subsections (1)–(4) titles/notes to match IAIG supervisor authority, non-IAIG requests, single-supervisor factors, and acknowledgment by identified director; confirmed website publication, activities, rulemaking nonseverability, and expenses."
+    },
+    {
+      "id": "382.230:49887",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.230&bid=49887",
+      "sourceSha256": "aa402d79a002a308895a045ebf8bb4426fb2c29dfb0cc09cf449e11819d18abb",
+      "textSha256": "6f928d952f5cc0ced99a45b3f7a1f6bf3a70ac38aec80a13bf30edd190460ab0",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Confidential and privileged status of holding company filings",
+          "bodySha256": "a8c0bc5dea5b356b7b5c4537baaecfb8aeb877beef49d04c923f7da2527c627a",
+          "reviewNote": "Declares examination reports, enterprise filings, and work papers confidential and exempt from chapter 610."
+        },
+        {
+          "number": 2,
+          "title": "Testimonial immunity for director and department personnel",
+          "bodySha256": "9469f4c2b1a04f9cec17c9e78ca585ab17227d92227dc0d6d6b7635fe1c17410",
+          "reviewNote": "Bars director and department staff from testifying in private civil actions concerning confidential records."
+        },
+        {
+          "number": 3,
+          "title": "Authorized information sharing with domestic and foreign regulators",
+          "bodySha256": "66423d332f5c294e5bf9e930d7382e43aeeabc6df19c34338d96835f13db305b",
+          "reviewNote": "Permits sharing confidential records with NAIC, regulators, law enforcement, and consultants."
+        },
+        {
+          "number": 4,
+          "title": "Non-delegation of regulatory and rulemaking authority",
+          "bodySha256": "e472eb9a6a49f46607ce1b411907218026d4430aa336ab56a33e309b68c805e3",
+          "reviewNote": "Provides information sharing does not delegate director's statutory authority."
+        },
+        {
+          "number": 5,
+          "title": "Nonwaiver of privilege and confidentiality claims",
+          "bodySha256": "fdb18a060ca81080bf50db00a19a0cd54eca3628c30267568b64efb7287d52b8",
+          "reviewNote": "Preserves confidentiality and evidentiary privileges upon disclosure to director or shared agencies."
+        },
+        {
+          "number": 6,
+          "title": "NAIC and third-party consultant confidentiality obligations",
+          "bodySha256": "dd14afb3db7c3bccaf4ec837310bed8dfec31312fd64fa1c0bbbd7ee2d115c44",
+          "reviewNote": "Declares records held by NAIC or consultants confidential, privileged, and immune from subpoena."
+        },
+        {
+          "number": 7,
+          "title": "Prohibition on commercial ranking using capital calculation or stress test",
+          "bodySha256": "c9d45cdcac04e585d51ce62a957d680b4e4d00ffbaa1f402b3e88441c87dda8e",
+          "reviewNote": "Prohibits using group capital or liquidity stress test results for marketing or ranking insurers."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 7 subsections and history note against archived text; confirmed proprietary/trade-secret confidentiality, testimonial immunity, regulator/NAIC/consultant sharing, nonwaiver, and subsection (7) commercial ranking prohibition for group capital and liquidity stress tests."
+    },
+    {
+      "id": "382.260:21530",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.260&bid=21530",
+      "sourceSha256": "ebaf2b94fce4c11288ef677a06bcea5f4a0c078174a76d17f2e4fe1585632e50",
+      "textSha256": "cf390b88d6e9272be06ce342b795ace43e4d8471b2f15c9256dd862c6101ff10",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Voting prohibition on securities acquired in violation of chapter",
+          "bodySha256": "323faf3d33d3e55740fea01c88d981682d27a779ebe735bcc9eda821e0c547c2",
+          "reviewNote": "Bars voting or counting for quorum any securities acquired in violation of holding company laws."
+        },
+        {
+          "number": 2,
+          "title": "Sequestration and judicial seizure of unlawfully acquired securities",
+          "bodySha256": "81724615fcc186f5d5c3d5017130cfe6cece83816a2fce2f8e51e9d0ed219b83",
+          "reviewNote": "Authorizes circuit court on director's application to seize or sequester unlawfully acquired shares."
+        },
+        {
+          "number": 3,
+          "title": "Situs of domestic insurer voting securities",
+          "bodySha256": "80132ac32556edd1362259b94c2b4a624e3534e82f9587a3ceebed5ce0b664c4",
+          "reviewNote": "Establishes legal situs of domestic insurer securities within the state of Missouri."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 3 subsections and history note against archived text; confirmed voting prohibition and injunctive relief for unlawfully acquired securities, court sequestration/seizure, and Missouri situs."
+    },
+    {
+      "id": "382.265:21531",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.265&bid=21531",
+      "sourceSha256": "1935efb59b4afa0f890c723c3cfffd4e09b8496e77a907bae348a7812ef8b1a5",
+      "textSha256": "8fb668d6f8e7b74d2ee3e5477ab36bbbbd7744fa39603f7540a47f643f48c61d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Daily administrative penalty for delinquent registration filings",
+          "bodySha256": "255e83ca65700eb17fada9a703cbc4c797daf3231276b69d26760e6feca77cda",
+          "reviewNote": "Imposes $500/day penalty up to $50,000 for failure to file registration statement without just cause."
+        },
+        {
+          "number": 2,
+          "title": "Individual penalties on officers and directors for knowing violations",
+          "bodySha256": "b85985b1b3a058aa81a9a5fba08eba0121051d1ad0807be777e96fb88150f078",
+          "reviewNote": "Imposes personal fines up to $100 per violation on officers knowingly assenting to unapproved transactions."
+        },
+        {
+          "number": 3,
+          "title": "Cease and desist orders for unapproved intercompany transactions",
+          "bodySha256": "c71b4b3683642d84ffbbdf08ca71ad4fc05c6c6b1141c8bd0e128296b842c1b2",
+          "reviewNote": "Authorizes director to order immediate cessation and rescission of unapproved intercompany contracts."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 3 subsections and history note against archived text; confirmed $500/day ($50k max) delinquent registration penalty, $100 individual officer/director penalties, and cease-and-desist/voiding orders."
+    },
+    {
+      "id": "382.285:21538",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.285&bid=21538",
+      "sourceSha256": "ea1fc5b3d02092eecb31754b7f9bc7aeef998580fbb16862749e777db8bd72b5",
+      "textSha256": "50fff2012560d6167ec8d0e012be8ce08ced403546513f8f493ff4f2ca49178a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Receiver recovery of improper distributions to parent or controlling affiliate",
+          "bodySha256": "974333263a33aec05b74f84c386a61db8dbc978630d11ef6cba7d8bc58794310",
+          "reviewNote": "Authorizes receiver in liquidation or rehabilitation to recover distributions and extraordinary executive payments made during the one year preceding petition."
+        },
+        {
+          "number": 2,
+          "title": "Affirmative defense of lawful distribution without known adverse impact",
+          "bodySha256": "2af6060a1dac370dcda0a9c9470d9e6590772f2aba5b385a53aa66e097bf7478",
+          "reviewNote": "Bars recovery if distribution was lawful, reasonable, and not known to impair solvency."
+        },
+        {
+          "number": 3,
+          "title": "Liability of controlling persons and affiliates receiving distributions",
+          "bodySha256": "b779e0f893d8b4177150bd49240377b1cae33d4ecbb50e0df27431da2480b24a",
+          "reviewNote": "Imposes liability on parent or controlling person up to distributions received or declared."
+        },
+        {
+          "number": 4,
+          "title": "Maximum recovery limited to unpaid contractual obligations and guaranty funds",
+          "bodySha256": "7eb0b82134b44ecae18e32337d3ad02748e6e0e975486d1291ce432f7454a137",
+          "reviewNote": "Caps total recovery at amount needed to satisfy unpaid contractual claims and guaranty funds."
+        },
+        {
+          "number": 5,
+          "title": "Joint and several liability of parent entities for insolvent subsidiaries",
+          "bodySha256": "51bc1f2696df399ae4567661a29e6feda7bb50211499e713c7e5a283220136b9",
+          "reviewNote": "Imposes joint and several liability on parent company for uncollectible deficiency from affiliate."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 5 subsections and history note against archived text; confirmed receiver recovery of distributions and extraordinary executive payments within one year preceding petition, lawful-distribution defense, controlling-person liability, recovery cap, and parent deficiency liability."
+    },
+    {
+      "id": "382.300:21540",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.300&bid=21540",
+      "sourceSha256": "5e330464ae02de41ffc76283ddf919bfbc270508c1893bfeec80fa918cbf5553",
+      "textSha256": "d851daf3213f5694df75e3add548400997748e8b89283420f204c241ccf20fc4",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Judicial review in Cole County Circuit Court and trial de novo",
+          "bodySha256": "2b91fc857b1844c5cd372129ba9cf06c528cfa38b79d0e23c54402725108a855",
+          "reviewNote": "Authorizes de novo appeal without jury to Cole County Circuit Court from director orders."
+        },
+        {
+          "number": 2,
+          "title": "Automatic stay upon appeal and exceptions for public interest",
+          "bodySha256": "fd2f4e770d0236f6fc17cbc19276c42d2ce4b9c5705c140e291ba43519747878",
+          "reviewNote": "Provides appeal stays order unless court finds stay detrimental to policyholders or public."
+        },
+        {
+          "number": 3,
+          "title": "Mandamus actions for failure of director to act",
+          "bodySha256": "05e705e77c6961ea3f59f4a46c44dedbbb80a35c61cf6f61fbc60cdd984956fa",
+          "reviewNote": "Authorizes petition for writ of mandamus in Cole County if director fails to take required action."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 3 subsections and history note against archived text; confirmed Cole County de novo judicial review without jury, automatic stay subject to public-interest exception, and mandamus for failure to act."
+    },
+    {
+      "id": "382.302:21541",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.302&bid=21541",
+      "sourceSha256": "a1d397df173b5fafc51e07be400d287ce7fccaa0dd418edf5d317726c0fa311d",
+      "textSha256": "b4adeb90f49331d187e718d6e0046fdd99f853a4401d9a82c7749401994fdaac",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Interpretation of definitions for asset disposition provisions",
+          "bodySha256": "411750e600c62002fcd0cde1d0d780aaf7bae55cecbc24c4f0de6a9d3adf14d3",
+          "reviewNote": "Applies definitions from sections 382.010 and 375.1152 to asset disposition provisions."
+        },
+        {
+          "number": 2,
+          "title": "Prior notice, examination, and director approval before disposing of insurer",
+          "bodySha256": "57377bc1658e1152427ddfd8d407ac7ba5c017d24a6124cabb695a9a99957791",
+          "reviewNote": "Requires notice, examination, and director approval before controlling person disposes of insurer."
+        },
+        {
+          "number": 3,
+          "title": "Voidability of transfers made in violation of notice and approval rules",
+          "bodySha256": "3556f97193355d3235d4f8b983a8fff6217a6f574c5529d1e075817f1ccd45f1",
+          "reviewNote": "Allows director within five years to void unauthorized asset transfers in circuit court."
+        },
+        {
+          "number": 4,
+          "title": "Insolvent dividend ban, personal liability, and 10-year limit",
+          "bodySha256": "6ee5fcc0ff07708c03ea22f1b77e039867ea51e82a54e6ca1c6800c96067f7ae",
+          "reviewNote": "Bars dividends by registered insurers or controlling persons while insurer or insurance subsidiary is insolvent, creating personal/pass-through liability with 10-year suit limit."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections and history note against archived text; corrected subsection (4) title/note to match insolvent dividend ban, personal/shareholder pass-through liability, and 10-year suit limit, and confirmed 5-year voidability of unapproved asset dispositions."
+    },
+    {
+      "id": "382.405:21544",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.405&bid=21544",
+      "sourceSha256": "3b88cb376ded3382580532ed4f82fdab399f13e129c35e6675636480f4b7dcc2",
+      "textSha256": "1e54f19089ece47f4e86ea8c960c3701929f7b570d3fe59d556a7a3371af9892",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Applicability threshold for business placed by controlling producer",
+          "bodySha256": "48ef650ea0a9be49084658c0806d437b15cada77663c7e5fbd5ee5fd005fa88b",
+          "reviewNote": "Applies section when controlling producer places gross premium equal to or exceeding 5% of assets."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory written contract terms between controlling producer and insurer",
+          "bodySha256": "5371e8a96578f55857037196f79904077c0d1f8118e077a81400d3084f4e3a50",
+          "reviewNote": "Requires written contract containing cancellation rights, quarterly accounting, and claim limits."
+        },
+        {
+          "number": 3,
+          "title": "Independent audit committee requirement for controlled insurer",
+          "bodySha256": "9d489c694ff01ad6461e578696bf1b38ffc291c97bdedd0b812c2676fd3973a1",
+          "reviewNote": "Mandates board audit committee of independent directors meeting annually with actuaries."
+        },
+        {
+          "number": 4,
+          "title": "Annual independent actuarial opinion on loss reserves",
+          "bodySha256": "8dfa5fa8bf1ede77fe7897b1097dd7d2729ded7ea733913371b7aa919b1afffe",
+          "reviewNote": "Requires filing independent actuarial opinion on loss reserves annually by April 1."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections and history note against archived text; confirmed 5% admitted-asset applicability threshold, 11 mandatory written contract terms, independent board audit committee, and April 1 actuarial opinion/commission report."
+    },
+    {
+      "id": "382.409:21546",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.409&bid=21546",
+      "sourceSha256": "c18035d6001d231fe6d56396d07e8eaacf4690a223f40426cce5b0e4063b0e91",
+      "textSha256": "c70eed55a581bf04adac32568d4ddede9aef6d26fc850d36132be7f7083157c5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Cease placing business orders and director damage actions",
+          "bodySha256": "d058d1f74d00b1a956a1fffe741011aeebe143cae1c9a9049dfffdd387722d9b",
+          "reviewNote": "Authorizes ordering noncompliant controlling producer to cease placing business and director civil action/intervention for compensatory damages; retains § 382.410* repeal footnote."
+        },
+        {
+          "number": 2,
+          "title": "Receiver action for reimbursement against controlling producer",
+          "bodySha256": "a1142b44a05729ff54ad3914cc8206b071475382896ad8c89e03f5c6734be138",
+          "reviewNote": "Authorizes receiver in liquidation to sue controlling producer for damages caused by noncompliance."
+        },
+        {
+          "number": 3,
+          "title": "Cumulative nature of statutory penalties",
+          "bodySha256": "fe4f368a06f4bf93477e62b6f73f9dec2fcdc5693b6e7a53e7f3c0badcfbfc03",
+          "reviewNote": "Preserves director authority to impose other penalties provided by law."
+        },
+        {
+          "number": 4,
+          "title": "Preservation of policyholder and third-party rights",
+          "bodySha256": "2d6fc2d5af222acb2e87aeaa04246c823d5cfcbcf868d5a6d498e675aae378d4",
+          "reviewNote": "Clarifies section does not alter or impair rights of policyholders, creditors, or third parties."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections, history note, and *§ 382.410 repeal footnote; corrected subsection (1) title/note (cease placing business orders and director compensatory damage actions) and confirmed receiver actions and cumulative remedies."
+    },
+    {
+      "id": "382.500:21548",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.500&bid=21548",
+      "sourceSha256": "e47518cc5d0ce4bec424e200b347418ac98e034540d6f1b3f27fded8f2c78160",
+      "textSha256": "580364f0f59f32248cdf2218e8d4bbd5cc89015a1dd5e0719ce537bce7ed3f00",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Scope of own risk and solvency assessment requirements",
+          "bodySha256": "3a305aa8abb043ea37e74cf1c356743c8f882e6d99020fee10449d83c51ddd9a",
+          "reviewNote": "Applies ORSA provisions to all non-exempt domestic insurers."
+        },
+        {
+          "number": 2,
+          "title": "Legislative finding of confidentiality and trade secret status of ORSA",
+          "bodySha256": "2a9fa5991675fe88f4943af85692a76f48dd6aacbcf10f07b02167c839e1c463",
+          "reviewNote": "Declares ORSA summary reports contain sensitive, proprietary trade secrets and market strategies."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and Effective 1-01-16 (§ 382.550) note against archived text; confirmed ORSA applicability to nonexempt domestic insurers and legislative finding of confidentiality and trade secret status."
+    },
+    {
+      "id": "382.520:21552",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.520&bid=21552",
+      "sourceSha256": "ef79db62039c730fb1e92f5d85b1e5307eb8b902d5d06cd2a3910d635011f619",
+      "textSha256": "0e6899ad6a6cc24ad53a33d090eb9d3a2f5d740058a7805bc50dc421460c4c24",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual submission of ORSA summary report upon director request",
+          "bodySha256": "0ef7b375e63818db43ee6d12ee031915b7967aa69eee761a381abfba8674dc09",
+          "reviewNote": "Requires insurer upon request, up to once annually, to submit ORSA summary report."
+        },
+        {
+          "number": 2,
+          "title": "Executive attestation by chief risk officer",
+          "bodySha256": "287791c52030df91820908dc8dc9c5d5cb7d6bdc34bff96a572df0a2443c3266",
+          "reviewNote": "Requires signature and attestation of chief risk officer regarding enterprise risk process."
+        },
+        {
+          "number": 3,
+          "title": "Compliance via report submitted to lead state regulator",
+          "bodySha256": "e9bf1c2f4a8f111198f9939a68670c1f92a72a0183cf7651f014497d94441783",
+          "reviewNote": "Permits compliance by submitting substantially similar report filed with another state regulator."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 3 subsections and Effective 1-01-16 (§ 382.550) note against archived text; confirmed annual ORSA summary report submission, chief risk officer attestation, and compliance via lead-state/foreign reports."
+    },
+    {
+      "id": "382.525:21553",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.525&bid=21553",
+      "sourceSha256": "1361841dbbf7d897d6a727d4a3b1f9b170eff3c0df54fd05fc899ba3404394eb",
+      "textSha256": "3c3a15e24725a6f18c62919098f1e0edae8292452fb4146be898a47c4562dad4",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Premium threshold exemptions from ORSA requirements",
+          "bodySha256": "2074e340b9aa474e12d2de3a1e4c199b9cf12a55f0895c6a39e22e97c3872f05",
+          "reviewNote": "Exempts insurers under $500M premium and insurance groups under $1B premium."
+        },
+        {
+          "number": 2,
+          "title": "ORSA requirement where group exceeds threshold but insurer is exempt",
+          "bodySha256": "758a50f1406c898c26f2ba9b66e84dc92a01baeda277a3e425c63c4dc7d9ca0f",
+          "reviewNote": "Requires group-level ORSA report when group exceeds $1B even if individual insurer is under $500M."
+        },
+        {
+          "number": 3,
+          "title": "ORSA requirement where insurer exceeds threshold but group is exempt",
+          "bodySha256": "c90e8749aa09f5afb081257bb0d0ff8a0192238a7c3c5cfc188aa067b4a22f4c",
+          "reviewNote": "Requires individual ORSA report when insurer exceeds $500M even if group is exempt."
+        },
+        {
+          "number": 4,
+          "title": "Application for hardship or unique circumstances waiver",
+          "bodySha256": "c73d0294fb3ab232f5bad878863d3cb382eaa643690ec1af4c8f79b353460f15",
+          "reviewNote": "Allows non-exempt insurers to apply for waiver based on unique circumstances and capital strength."
+        },
+        {
+          "number": 5,
+          "title": "Discretionary authority of director to require ORSA regardless of exemption",
+          "bodySha256": "4758fc93b627fab59965fbf53c14f8712149b62dfbba9fb1af3966441f994874",
+          "reviewNote": "Authorizes director to require ORSA based on unique risk, solvency concerns, or federal request."
+        },
+        {
+          "number": 6,
+          "title": "Loss of exemption due to premium growth and compliance timeframe",
+          "bodySha256": "9d8cdf3745156bb2da86826941fb3730503b42bf6df04dc53fc725df5d60f6e8",
+          "reviewNote": "Requires insurer losing exemption due to premium growth to comply within one year."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 6 subsections and Effective 1-01-16 (§ 382.550) note against archived text; confirmed $500M insurer / $1B group exemptions, partial exemption rules, hardship waiver, discretionary override, and 1-year compliance period."
+    },
+    {
+      "id": "382.530:21554",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.530&bid=21554",
+      "sourceSha256": "aeb2b7950796ab1f4c4ddf7be9d7eb4fb0fac202eca02e1544d383e86f30449c",
+      "textSha256": "8118dfbdc376d5967da108909100cdcbebe4ddf78c6030ed90bb399e33a54905",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Preparation consistent with ORSA guidance manual and records maintenance",
+          "bodySha256": "92e7af2ef903f5c8aca43ea00c99bd5914ad95c991286a17304c17a8ef20b239",
+          "reviewNote": "Requires preparation under ORSA guidance manual and documentation availability upon examination."
+        },
+        {
+          "number": 2,
+          "title": "Standardized review procedures for multistate groups",
+          "bodySha256": "ce6c06dc21e9b942cc89196f117bba551144313e862de25751b80d37e130c0b4",
+          "reviewNote": "Directs review using procedures established for examining multistate and global insurance groups."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and Effective 1-01-16 (§ 382.550) note against archived text; confirmed ORSA guidance manual preparation, documentation maintenance, and multistate/global review procedures."
+    },
+    {
+      "id": "382.535:21555",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.535&bid=21555",
+      "sourceSha256": "6f993ddc497a53e1f63f527899c70a275ddb74b3a7e82078ad74b40cad97b480",
+      "textSha256": "6fd0ff6e6d4b50f8dff26ac1e434c64dbc4fa2907b24ce97e173b81327dfaca3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Proprietary trade secret and privileged status of ORSA records",
+          "bodySha256": "d1f57301b112285db0c8c269c1d0e0b326fdd248ab36e0a78ad31c6f9aaf7492",
+          "reviewNote": "Classifies ORSA materials as proprietary trade secrets, privileged, and exempt from chapter 610/subpoena; retains original-rolls footnote (*Word \"is\" appears in original rolls)."
+        },
+        {
+          "number": 2,
+          "title": "Testimonial immunity for regulatory personnel",
+          "bodySha256": "80a304902dfddf9f9c6b8a78f5736ab271847ed8043674ad776245e18b1400c8",
+          "reviewNote": "Prohibits regulatory personnel from testifying in private civil actions concerning ORSA records."
+        },
+        {
+          "number": 3,
+          "title": "Authorized information sharing with domestic and foreign regulators",
+          "bodySha256": "c020636c7f2e37420758e0c6ac0b1ba2452602bd6cb227f227fe8d5c2ff283eb",
+          "reviewNote": "Permits director to share ORSA materials with state, federal, and international regulators and NAIC."
+        },
+        {
+          "number": 4,
+          "title": "Non-delegation of regulatory and rulemaking authority",
+          "bodySha256": "fa2e91fc1d0232293ec777c3187df774af004880265a46190827c32798357add",
+          "reviewNote": "Provides sharing ORSA records does not delegate director's authority."
+        },
+        {
+          "number": 5,
+          "title": "Nonwaiver of privilege and confidentiality claims",
+          "bodySha256": "d2cbf8ad954f9d36dc7c76e8508cd2487737310b43ce5fc71b88b816cd4da7ec",
+          "reviewNote": "Preserves confidentiality and evidentiary privileges upon disclosure to director or shared agencies."
+        },
+        {
+          "number": 6,
+          "title": "NAIC and third-party consultant confidentiality requirements",
+          "bodySha256": "03c08abe24b5cb330dbc37f3ebb4e36753d629bb2fbfd41f4554849a584b09a4",
+          "reviewNote": "Binds NAIC and consultants to statutory confidentiality, privilege, and subpoena immunity."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 6 subsections, Effective 1-01-16 (§ 382.550) note, and original-rolls footnote (*Word \"is\" appears in original rolls) in subsection (1); confirmed ORSA confidentiality, testimonial immunity, sharing agreements, non-delegation, and nonwaiver."
+    },
+    {
+      "id": "382.540:21556",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.540&bid=21556",
+      "sourceSha256": "a2e1e0272fa2dee7207b471ef4c3efa49abed4a6c0c20f0e43b41917febeb006",
+      "textSha256": "059ca0a1c4704c4476449c5f0d23b97026ca626e6647739be895522829f0ad83",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Daily level two violation penalty for delinquent ORSA filing",
+          "bodySha256": "9b4f60a7e7781b19bbec7536bd54ab21d2e18a0e3aa698297d99fd2156ed4665",
+          "reviewNote": "Classifies failure to timely file ORSA without just cause as level two violation per day's delay."
+        },
+        {
+          "number": 2,
+          "title": "Director enforcement authority under general insurance statutes",
+          "bodySha256": "8079557a3656b9ee0a97a27442a9a43b2a1458ac20dfb163bc9dbfa39fb3ec97",
+          "reviewNote": "Authorizes director to enforce ORSA provisions under sections 374.046 to 374.049."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and Effective 1-01-16 (§ 382.550) note against archived text; confirmed daily level two penalty for delinquent ORSA filing and enforcement under §§ 374.046–374.049."
+    },
+    {
+      "id": "382.600:35495",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.600&bid=35495",
+      "sourceSha256": "7d029500b48510827fbbed53cba85db3e792dcda4f9f13ec3f855f7ea4680253",
+      "textSha256": "bcc866cb867197197a3c644123524e6f864c2d08df3672fc461f0683445e6109",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Purpose of corporate governance annual disclosure act",
+          "bodySha256": "1d1f58fd828ada213d8445a7776697333c6250e2d7f6fe599c430ff25900e233",
+          "reviewNote": "States three-part purpose of sections 382.600 to 382.640: corporate governance summary, CGAD completion requirements, and confidential trade secret protection."
+        },
+        {
+          "number": 2,
+          "title": "No added governance standards or limit on chapter 374 exams",
+          "bodySha256": "1035eea377a78ff8d21143df5fee3f67c7ffa29dc3c68371eef444b3b5b964e6",
+          "reviewNote": "Clarifies act does not impose governance standards beyond state corporate law or limit chapter 374 examination authority and third-party rights."
+        },
+        {
+          "number": 3,
+          "title": "Applicability to Missouri domiciled insurers",
+          "bodySha256": "a933d7b2a9ac5d568a53433b3b77f736d0a65dd3f6ff5357007508b22407b076",
+          "reviewNote": "Applies sections 382.600 to 382.640 to all insurers domiciled in Missouri."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 3 subsections and Effective 1-01-19 note against archived text; replaced all 3 shifted draft titles/notes to match three-part CGAD purpose, no added corporate governance standards/no limit on chapter 374 exams, and Missouri domiciled applicability."
+    },
+    {
+      "id": "382.610:35497",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.610&bid=35497",
+      "sourceSha256": "ce09b637eabd6f43f96afd76f8ba28f78a44876b55d59dafe9fd9f50df67b0c2",
+      "textSha256": "b30a811f8faf4bc8d02ceaee62d8865724c4b9dc53bc5d868e69e4a6e20ae48f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual filing deadline of June first for corporate governance disclosure",
+          "bodySha256": "2b9b1c27d274a4d00926bc0bd9963dcf7bccd1de1499c7a68a88fddc81ced716",
+          "reviewNote": "Requires domestic insurers or holding companies to file CGAD with director by June 1 each year."
+        },
+        {
+          "number": 2,
+          "title": "Executive signature and attestation requirement",
+          "bodySha256": "2fd74275eb004862f637fdeefc4fbb052340a240159b54c1e0862f2ecfb7e4bb",
+          "reviewNote": "Requires CEO or corporate secretary signature attesting governance practices implementation and board/committee delivery."
+        },
+        {
+          "number": 3,
+          "title": "CGAD submission upon director request",
+          "bodySha256": "671bb10b0ef8377891c12904ffac23dd1a06d59205dce737cf2fe3efb808bd1b",
+          "reviewNote": "Requires insurers not otherwise required to submit a CGAD under this section to submit one upon director request."
+        },
+        {
+          "number": 4,
+          "title": "Determination of reporting level based on corporate structure",
+          "bodySha256": "713dca1dd4b34c617b686303524492c4a7202f73699b1b702beee066d84b9ffe",
+          "reviewNote": "Allows insurer to file disclosure at ultimate controlling parent, intermediate holding, or entity level."
+        },
+        {
+          "number": 5,
+          "title": "Lead state review and additional information requests",
+          "bodySha256": "ba45fb10bab96f3346cf95681b7b96742b706e91944f52c89834727857da9196",
+          "reviewNote": "Directs CGAD review and additional information requests through the lead state per NAIC Financial Analysis Handbook."
+        },
+        {
+          "number": 6,
+          "title": "Cross-referencing substantially similar regulatory filings",
+          "bodySha256": "c402799f48d16e570a6f9a948c0f65969de995437a2cf61ee90a7c05ede64691",
+          "reviewNote": "Permits cross-referencing substantially similar information in other state or federal filings to avoid duplication."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 6 subsections and Effective 1-01-19 note against archived text; corrected shifted subsections (2), (3), (5), and (6) titles/notes to match CEO/secretary attestation, on-request filing, lead-state review, and cross-referencing without duplication."
+    },
+    {
+      "id": "382.615:35498",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.615&bid=35498",
+      "sourceSha256": "1dd57a71067dd53f25d60450da862a1568d491d805f6883d3ecdb4a2de92cd15",
+      "textSha256": "bb6cd02711f33d86285acddfc0cf507e6a156e393de6dbf4c40b224998ec5ca6",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Discretionary flexibility in corporate governance disclosures",
+          "bodySha256": "05f322ff8c123b07e2d19151cf44f344fc98ef28570c876e08d308c17320d219",
+          "reviewNote": "Permits insurer flexibility in format while addressing board oversight, policies, and committees."
+        },
+        {
+          "number": 2,
+          "title": "Maintenance of supporting documentation for examination",
+          "bodySha256": "438f43675023354b745fa1c0694518e014e274046f634ba4a040342ab1a8bd4d",
+          "reviewNote": "Requires maintaining documentation and supporting records for regulatory review upon request."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and Effective 1-01-19 note against archived text; confirmed insurer response discretion with material governance disclosures and regulatory preparation/supporting documentation rules."
+    },
+    {
+      "id": "382.620:35499",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.620&bid=35499",
+      "sourceSha256": "aec95ab738225d75b4c6eda55171e7a56d7fcaec7c27e284097945a21d364780",
+      "textSha256": "f25142c10ba2ba796eb40d0e16772bbd915cd8102c74234c34c7fcd78c84f5c9",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Proprietary trade secret and privileged status of CGAD records",
+          "bodySha256": "708a8b4b217f6b5ad7eff457f3896785276cb40c805b32ffb7ee36d71ecb82ce",
+          "reviewNote": "Classifies CGAD materials as trade secrets, privileged, exempt from chapter 610, and immune from subpoena."
+        },
+        {
+          "number": 2,
+          "title": "Testimonial immunity for regulatory personnel in civil actions",
+          "bodySha256": "4e7d67faa7265539243352253cef68cbea877d017fa9001e7dc39c3513d6d641",
+          "reviewNote": "Prohibits regulatory personnel from testifying in private civil litigation concerning CGAD files."
+        },
+        {
+          "number": 3,
+          "title": "Authorized information sharing with domestic and foreign regulators",
+          "bodySha256": "ee948beeb18f65734bf955525c4b954972ac40b562bf114b042401a7b996ac76",
+          "reviewNote": "Permits sharing confidential CGAD records with state, federal, and international regulators."
+        },
+        {
+          "number": 4,
+          "title": "Non-delegation of regulatory and rulemaking authority",
+          "bodySha256": "ce6b047eb897d1e7080ed2e7718f2897440ae8c310f1a66089db5b9cb425f6cc",
+          "reviewNote": "Clarifies sharing CGAD data does not delegate regulatory authority to other officials."
+        },
+        {
+          "number": 5,
+          "title": "Nonwaiver of privilege and confidentiality claims",
+          "bodySha256": "4da6b7cc094331b70fbe2f81483f692fe634bdde76a26e14327baefe9603bd26",
+          "reviewNote": "Preserves confidentiality and evidentiary privileges upon disclosure to director or shared agencies."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 5 subsections and Effective 1-01-19 note against archived text; confirmed CGAD proprietary/trade-secret confidentiality, testimonial immunity, regulator/NAIC/consultant sharing, non-delegation, and nonwaiver."
+    },
+    {
+      "id": "382.625:35500",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.625&bid=35500",
+      "sourceSha256": "404cd08da694447802d5808fe48447da14f0b9bef3a3246b4febb92022ee7ef4",
+      "textSha256": "55e3928b89173fd6d28f317dd6a35352d193e0380ac68872009dd510af30c528",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Retention of outside consultants and experts at insurer expense",
+          "bodySha256": "b00ee0f53075e19b8bb1d313bec0106128870e8b2e27092936fcb74cd9f191b4",
+          "reviewNote": "Authorizes director to retain third-party consultants at insurer's expense to review CGAD."
+        },
+        {
+          "number": 2,
+          "title": "Advisory role and control by director",
+          "bodySha256": "5d3996984598514933822dac6161a659a212808d9635a2452bce8a86c7ba7431",
+          "reviewNote": "Specifies retained consultants act in purely advisory capacity under director control."
+        },
+        {
+          "number": 3,
+          "title": "Confidentiality obligations of NAIC and outside consultants",
+          "bodySha256": "f5f248c346d272c492db08c3787987ca6825466b5025815ede9100747f428c2f",
+          "reviewNote": "Subjects NAIC and third-party consultants to same confidentiality standards as director."
+        },
+        {
+          "number": 4,
+          "title": "Conflict of interest verification and internal monitoring",
+          "bodySha256": "bf9b4667e055bdc363f2c635e722f2d89e2d30b85f4afaa13d52d3c49f730f2c",
+          "reviewNote": "Requires consultants to verify lack of conflict and maintain internal conflict monitoring procedures."
+        },
+        {
+          "number": 5,
+          "title": "Written confidentiality and data security agreements",
+          "bodySha256": "18cb8f29984cb47872d00e7ac942ef4b7ac45317d3f0c49806565bfbdc73d670",
+          "reviewNote": "Mandates written agreements requiring insurer consent before publication and data destruction protocols."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 5 subsections and Effective 1-01-19 note against archived text; confirmed third-party consultant retention at insurer expense, advisory role, confidentiality, conflict verification, and written agreement terms."
+    },
+    {
+      "id": "382.630:35501",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=382.630&bid=35501",
+      "sourceSha256": "e0d5194e1440dfa4bfab670ae64602a958d39352dae4cb3718cad8666e26c399",
+      "textSha256": "e377eb51df2a26c5b9222443c4becae03bc444bac4cf3c45cb81c55766d79add",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Daily level two penalty for delinquent filing and maximum cap",
+          "bodySha256": "13d8299fa72cd7165a81ac56f72e5307c638ad09d2b05023a433fe6c132b582b",
+          "reviewNote": "Imposes level two penalty per day's delay up to $5,000 max, with hardship reduction."
+        },
+        {
+          "number": 2,
+          "title": "Enforcement authority under general insurance statutes",
+          "bodySha256": "5eecc2cd3c9bd22de197bc2cdc83f9e49cc2893880068a737f80551e37688395",
+          "reviewNote": "Authorizes director to enforce provisions under sections 374.046 to 374.049."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and Effective 1-01-19 note against archived text; confirmed daily level two delinquent CGAD penalty ($5,000 max, hardship reduction) and enforcement under §§ 374.046–374.049."
+    }
+  ]
+}

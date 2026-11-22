@@ -1,0 +1,842 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "387.040:21767",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.040&bid=21767",
+      "sourceSha256": "289a7cc50ad7a4d5fc2ddb66079b2302cf080bfb95db4df3543411472db7cb75",
+      "textSha256": "6cc8ccaac8162a8a2984a7944f8e04f9f753ee38501f098490a0bbb160c28f75",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prior filing and publication of passenger rate schedules",
+          "bodySha256": "c12db653a62eec04ca3aa38d9dad9a49b39334c7560e2a423eaab5da9b67e497",
+          "reviewNote": "Motor carriers transporting passengers cannot operate until schedules are filed with state highways and transportation commission and published; forfeiture under 390.156-390.176 for operating without filed/published rates."
+        },
+        {
+          "number": 2,
+          "title": "Household goods exemption from commission filing",
+          "bodySha256": "d82c9fd45ef9deff6205943a5d7d55441d2565fdde1e3a05d891011ac3f254cd",
+          "reviewNote": "Intrastate household goods carriers exempt from filing schedules with state highways and transportation commission; must maintain and publish schedules in stations/offices under 387.050(3) for inspection; forfeiture under 390.156-390.176."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 1939-2012 history notes; both headings retained and notes aligned to the state highways and transportation commission and sections 390.156-390.176 forfeiture cross-references."
+    },
+    {
+      "id": "387.050:21768",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.050&bid=21768",
+      "sourceSha256": "bf9247ad0fd5e708bdb921bd0ca7c08ba4803ec9d15b268a77da0191bdb77811",
+      "textSha256": "c2c6b86f171f4df6739e6d55b5e4bbcd18655d7af94f1ccfaf62fd49aa2b2c1d",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Filing, printing, and inspection of rate schedules",
+          "bodySha256": "ac30c120d4f5d1eee578040a5c08c0fe607c37b20581de70bd54f4214a29ee71",
+          "reviewNote": "Motor carriers must file, print, and keep open to inspection passenger and household goods rate schedules (including leased and through/joint routes); household goods carriers exempt from filing since August 28, 2012 but must print and keep open."
+        },
+        {
+          "number": 2,
+          "title": "Plain statement of routes, classifications, and terminal charges",
+          "bodySha256": "f4a6307dda148cda6304ec0ce205b68fcced33f369814a47c066e4cc62d06216",
+          "reviewNote": "Schedules must plainly state routes, classifications, terminal, storage, and icing charges, and service rules."
+        },
+        {
+          "number": 3,
+          "title": "Public accessibility of printed schedules at carrier stations",
+          "bodySha256": "0f56efe637f0c5e10d414bf40958e237f1b0275a2128aca600809a5891f8bc7a",
+          "reviewNote": "Schedules printed in large type and kept readily accessible at stations where passengers or goods are received."
+        },
+        {
+          "number": 4,
+          "title": "Station notice of schedule availability and agent assistance",
+          "bodySha256": "e0c13cbde0320180911d9eca8ae92ab16cda4b7971148c2e72930e0293742e0f",
+          "reviewNote": "Carrier must post bold notice in stations stating schedules are on file and agent will assist inspection."
+        },
+        {
+          "number": 5,
+          "title": "Schedule form prescribed by highways and transportation commission",
+          "bodySha256": "3e447af07afb76c5ec426c5effeac8292c962fe481ea85dd161bd047eb993328",
+          "reviewNote": "Form of every rate schedule is prescribed by the state highways and transportation commission."
+        },
+        {
+          "number": 6,
+          "title": "Commission power to change form or modify requirements",
+          "bodySha256": "e44870c964aae9eba095e5d9ed98c7dab89493c8cc50a63cd16c868fd43c6e09",
+          "reviewNote": "State highways and transportation commission may order changes in schedule form and modify publishing, posting, and filing requirements in particular instances or by general order for special circumstances."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 1939-2012 history notes; retained subsections 2-4, refined subsection 1, and replaced hallucinated headings in subsections 5-6 to reflect commission-prescribed form and modification authority."
+    },
+    {
+      "id": "387.060:21769",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.060&bid=21769",
+      "sourceSha256": "9c4794442a3f38c8cded7c0f19d8cc1cb9d3abed2d90ad91bf8584433dc51b23",
+      "textSha256": "46a05013a7d866e79ff7e0478a56c70dd9d4fdef3954b9ed37d954967b0ac9b3",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written rate statements on request and carrier liability",
+          "bodySha256": "3852906e82529df30526b6019fd41b8196e48860ae3bde332feac53947ea8344",
+          "reviewNote": "Intrastate motor carrier must furnish written rate statement for described household goods shipment on request; refusal, omission, or misstatement triggers 390.156-390.176 civil action by division of motor carrier and railroad safety plus shipper damages, 6% interest, and attorney's fee (subject to division approval and dismissal for collusive rebate)."
+        },
+        {
+          "number": 2,
+          "title": "Immunity from other penalties for approved settlements",
+          "bodySha256": "a5473dfa5cffb0aa2452e7a839dd9d5335d0a49b894475c16207b9b4842ab438",
+          "reviewNote": "Carrier making settlement or payment upon division approval or court judgment/order under this section is not liable for penalties, forfeitures, or prosecution under other state laws."
+        },
+        {
+          "number": 3,
+          "title": "Division information requests on claims and refusal consequences",
+          "bodySha256": "f199a0d7327cd8aca9499673104d1ffa152df327041bc7ae425992ae4e245555",
+          "reviewNote": "Division may require information to decide claim approval; injured person's refusal bars suit, while carrier's refusal or evasion results in endorsement supporting suit as if approved."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 1939/1996 history notes; replaced all 3 hallucinated rate-notice headings to reflect written rate quotes for household goods shipments, settlement immunity, and division information requests."
+    },
+    {
+      "id": "387.075:21771",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.075&bid=21771",
+      "sourceSha256": "8a5bf47a76830686e415b494539895ab74f04bbea29df5d5f24cbe383f2bd57d",
+      "textSha256": "23b16b2dc6d3a6d16784ae1f7a0d23570774f6fbc2a1081c5ab758fb18c9dcb3",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Applications for household goods periodic rate adjustments",
+          "bodySha256": "07f66fafac14812c6942058a06feda177e3672c49aa4c3b78075cc5b5f46ef6e",
+          "reviewNote": "Certificated household goods common carrier (390.051) may apply to state highways and transportation commission for periodic rate adjustments outside general rate proceedings on the same terms as section 386.266."
+        },
+        {
+          "number": 2,
+          "title": "Commission review under section 386.266 standards",
+          "bodySha256": "26a7150df6cc891359d16cf2a9dcf13aeaba80ee4736369a706c0e6ace5de600",
+          "reviewNote": "State highways and transportation commission considers and determines subsection 1 applications on the same terms and conditions as PSC review under section 386.266."
+        },
+        {
+          "number": 3,
+          "title": "Applicable motor carrier procedural statutes and rules",
+          "bodySha256": "ff0b657c9d201daed6f3994ad40a32ae2b4a2df08f30eb38619fbf6a8b86307c",
+          "reviewNote": "Proceedings are governed by motor carrier statutes and procedural rules under chapters 387, 390, and 622 unless inconsistent; general PSC utility procedural rules do not apply."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 2007 history note; replaced all 3 hallucinated online-publication headings to reflect household goods periodic rate-adjustment applications under section 386.266 terms and motor carrier procedural governance."
+    },
+    {
+      "id": "387.080:21772",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.080&bid=21772",
+      "sourceSha256": "2f0b5c44a02af5332e04eb134b4af5c51ec90132082d9a56382242bcf149e0af",
+      "textSha256": "5501b703dc7986f9e6960aed011600e732a297050ed189ce4244d6414648f4e4",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Joint tariff carrier names, concurrences, and household goods",
+          "bodySha256": "98c514b0334be7a536cbfb85cb68f231da585020d96a3944e6c62b308db86d56",
+          "reviewNote": "Joint tariffs must name participating carriers and non-filing carriers must file concurrence with state highways and transportation commission (excusing duplicate filing); household goods carriers instead publish through-route/interline joint or individual tariffs under 387.040 and 387.050."
+        },
+        {
+          "number": 2,
+          "title": "Filing of inter-carrier passenger transportation agreements",
+          "bodySha256": "894be49025203b54df5d562489b14ba95f5ffc5fc5e9cf05e1b4f9f4ae815816",
+          "reviewNote": "Every motor carrier must file sworn copies of every contract, agreement, or arrangement with other motor carriers relating to passenger transportation."
+        },
+        {
+          "number": 3,
+          "title": "Prohibition on household goods joint tariffs with exception",
+          "bodySha256": "1944874b861808e464b923b67df0bb54d31bf092f544736dfd56d91f31ed7e3a",
+          "reviewNote": "Prohibits household goods carriers from participating in joint tariffs except for joint rates over through routes or interline service performed by two or more separate carriers."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 1939-2012 history notes; expanded subsection 1 and replaced shifted headings in subsections 2-3 to reflect passenger inter-carrier agreements and the household goods joint-tariff prohibition/interline exception."
+    },
+    {
+      "id": "387.100:21773",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.100&bid=21773",
+      "sourceSha256": "755e8b36930acf5960c30118e8d71b190fcca75f817536df66744b60f643801f",
+      "textSha256": "46ba0a14f041e462facd98794966ca22b63a18238331168a7e52b9c862c16b4a",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Adherence to filed and effective rate schedules",
+          "bodySha256": "8d0b3bcd8b001fd7546b0f4640bec437845e91efc94534651dee47390013da62",
+          "reviewNote": "Motor carrier may not charge, demand, collect, or receive different compensation for passenger or household goods service than specified in filed and effective schedules."
+        },
+        {
+          "number": 2,
+          "title": "Prohibition on rebates and unjust rate discrimination",
+          "bodySha256": "0004adfb4b8eb4e8e407362ffb41a22a0f078f87b53d22fabc0788204298c7cf",
+          "reviewNote": "Bars direct or indirect special rates, rebates, drawbacks, or other devices charging different compensation for like and contemporaneous service under substantially similar circumstances, except as authorized in chapter."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 1939-1996 history notes; corrected both headings to separate adherence to filed schedules (subsection 1) from the bar on rebates and unjust rate discrimination (subsection 2)."
+    },
+    {
+      "id": "387.139:21778",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.139&bid=21778",
+      "sourceSha256": "35228aec3035059979e68378fa3fdc5442b0c04f7bbf2afc01ffca8038f64e32",
+      "textSha256": "8ed20e4414109180f929015a13a65f4a5058cd7deb5562ea781e33dc5b022cf0",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Information file for intrastate household goods complaints",
+          "bodySha256": "509236aaba04aa4e6bf9cff30320ab6671777c262f14ac11b18ef85ed839d318",
+          "reviewNote": "Division of motor carrier services must keep a current information file on each intrastate household goods complaint recording contacts, summary of findings, dismissal reasons, and other relevant information."
+        },
+        {
+          "number": 2,
+          "title": "Quarterly status notices to written complainants",
+          "bodySha256": "82d2e6ee53a1d27379d00d014f7cbc3c2388b53f28cffeee0be3848e6dea0381",
+          "reviewNote": "Division must notify written complainants of complaint status at least quarterly until final disposition unless notice would jeopardize an ongoing investigation."
+        },
+        {
+          "number": 3,
+          "title": "Standardized complaint form and complainant information rules",
+          "bodySha256": "ff975d434c357e305393bf92cd09f69b35dd65e55dfb9764ff31bf766de589c6",
+          "reviewNote": "State highways and transportation commission must adopt by rule a standardized complaint form for division of motor carrier services (original-rolls footnote: 'motor carriers' in S.B. 470, 2012) and prescribe information provided to complainants."
+        },
+        {
+          "number": 4,
+          "title": "Rulemaking authority and chapter 536 nonseverability",
+          "bodySha256": "d6df343951906a53b617920f186516076d585e20f10c608db3b55f6b36bc8a38",
+          "reviewNote": "Directs commission to promulgate implementing rules subject to chapter 536 and section 536.028; nonseverable with legislative review powers (rules after Aug 28, 2012 void if review powers held unconstitutional)."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text, 2012 history, and original-rolls footnote ('motor carriers' in S.B. 470, 2012); replaced all 4 hallucinated estimate/lien headings to reflect complaint information files, quarterly complainant updates, standardized form rules, and chapter 536 rulemaking."
+    },
+    {
+      "id": "387.180:21780",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.180&bid=21780",
+      "sourceSha256": "d3a9ab5af4d2ee210557f202caae9335cd8f1c2bda0605118743606df1f6ba81",
+      "textSha256": "347b0f0838128eeab037cf607a41bf2fc397c058ff26cf7dd5420abb7adfc996",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Receipts, bills of lading, and non-exemption from transit liability",
+          "bodySha256": "e52bfeca907a4b5b24f6a7c4426d067ff61684728ae28672ff20be8b02697587",
+          "reviewNote": "Motor carrier must issue receipt or bill of lading on demand for household goods; no contract clause may exempt carrier from liability for loss, damage, or injury from delivery until reasonable removal time after arrival notice."
+        },
+        {
+          "number": 2,
+          "title": "Liability for negligent delay in transit and burden of proof",
+          "bodySha256": "eb81f8c1daece3d67a21dbb58f7d7f764a7d2837a85372e222714c445b805eae",
+          "reviewNote": "Motor carrier liable for loss, damage, or injury to household goods from negligent transit delay; defendant carrier bears burden of proving delay was not due to negligence."
+        },
+        {
+          "number": 3,
+          "title": "Baggage liability, declared value over $150, and preserved remedies",
+          "bodySha256": "ad8b083d66ef995c9ff1ff04df3eed8a21f7fc3be88a3ac4aa03a3b2dc56fbef",
+          "reviewNote": "Carrier liable up to full value for household goods carried as baggage, requiring declared value over $150 and written receipt with reasonable extra charge over $150 or 150 pounds; preserves existing legal remedies."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 1939/1996 history notes; replaced all 3 hallucinated equipment/rate headings to reflect bills of lading and non-exemption from transit liability, negligent-delay liability/burden of proof, and baggage valuation/preserved remedies."
+    },
+    {
+      "id": "387.190:21781",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.190&bid=21781",
+      "sourceSha256": "1adadfd8581a2aa05eccad45b255d14034f4c9a32852faeab93cff67529cbf12",
+      "textSha256": "fc03d931702d3a2d193fa2b9785e23c1ee73083297d6f2599f307d1412daaf39",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Division authority to fix maximum rates and charges",
+          "bodySha256": "9506576bcaedd22f5f903a0d23847f9e4ff5cbe1ebe4a17c2ecad0dccef6886c",
+          "reviewNote": "After hearing on own motion or complaint, division of motor carrier and railroad safety may determine and fix just and reasonable maximum passenger or household goods rates with due regard to return and reserves."
+        },
+        {
+          "number": 2,
+          "title": "Maximum rates and restoration of reduced-fare passenger tickets",
+          "bodySha256": "851b84ecec98d4af155a078f0f8ab4395ea114eaa686112f525817d58c5403e4",
+          "reviewNote": "Division may fix maximum rates and order restoration of excursion, school/family commutation, children's half-fare (under 12), reduced-rate, and joint interchangeable mileage passenger tickets."
+        },
+        {
+          "number": 3,
+          "title": "Orders fixing safe and adequate regulations, equipment, and service",
+          "bodySha256": "4ad1cadd5480e30f31de02e1e6e328e06b35286c702cf0530b46284516abc227",
+          "reviewNote": "After hearing, division may prescribe just, reasonable, safe, adequate, and proper regulations, practices, equipment, appliances, and service by order binding on carriers and their personnel."
+        },
+        {
+          "number": 4,
+          "title": "Through routes, joint rates, and division of joint revenues",
+          "bodySha256": "fd18d13ffea5177ede193d35a4809147c20d1ca4f38ca2ec2bb373a38ae4ab46",
+          "reviewNote": "Division may order connecting motor carriers to establish through routes and joint rates, prescribe maximum joint rates, and apportion joint revenues by supplemental order if carriers fail to agree."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 1939/1996 history notes; corrected agency naming to division of motor carrier and railroad safety and fixed shifted headings in subsections 2-4 covering reduced-fare tickets, service/equipment orders, and through routes/joint rates."
+    },
+    {
+      "id": "387.207:21784",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.207&bid=21784",
+      "sourceSha256": "cdee2de7b163a894facdd140b52e4fc9444cb9f3de7b59885c618097bc34fd59",
+      "textSha256": "10efdc0f140280bd7966de28a9bdd451d5dd03615bd1762fdd8b4bd3a7a4214f",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prima facie lawfulness of fixed passenger rates and regulations",
+          "bodySha256": "a40e80a056f4b42ff6239f7957254cdcb340760ba0f19ecb214478b1f85d4cd5",
+          "reviewNote": "Passenger rates, tolls, charges, schedules, and joint rates fixed by state highways and transportation commission are in force and prima facie lawful, and prescribed regulations/services are prima facie lawful and reasonable until found otherwise in suit."
+        },
+        {
+          "number": 2,
+          "title": "Prima facie lawfulness of published household goods rates",
+          "bodySha256": "8f637f26ea90a51e40b25a9fd2bc9bf674b6c70511ae7927d4dbdf4809a05f6b",
+          "reviewNote": "Household goods rates, tolls, charges, schedules, and joint rates published under section 387.050(3) are in force and prima facie lawful, and commission-prescribed regulations/services are prima facie lawful and reasonable until found otherwise in suit."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 1996/2012 history notes; replaced both hallucinated flexibility-zone headings to reflect prima facie lawfulness of fixed passenger rates and published household goods rates (387.050(3))."
+    },
+    {
+      "id": "387.210:21785",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.210&bid=21785",
+      "sourceSha256": "06ccf88c8660561e5aa852e68a0d681048023226127d398fe60e3b1bd3ba8939",
+      "textSha256": "e4a02edeaa2a49b17092b7e9db2b48928651bfd5b4e151d10c89663b01d8a7cf",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Division orders for repairs, improvements, and additional facilities",
+          "bodySha256": "1b5b1ad43c5665848df617c31aeca48e6235623e1ed40a818cc0806b1eb794c0",
+          "reviewNote": "After hearing on own motion or complaint, division of motor carrier and railroad safety may order motor carriers to provide additional terminals/equipment or make repairs, improvements, changes, or additions for public/employee safety or adequate service."
+        },
+        {
+          "number": 2,
+          "title": "Joint facility orders and cost apportionment between carriers",
+          "bodySha256": "03c337813cbc6cfb43d5ac3a3ea777fadde5c3999445ee7409d91ce14f7d8d1a",
+          "reviewNote": "Division notifies carriers of required joint improvements and allows 30 days (or longer) to agree on cost sharing before apportioning costs by order after further hearing."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text, 1939/1996 history, and section 77.200 cross-reference; corrected agency naming from commission to division of motor carrier and railroad safety and tightened both headings."
+    },
+    {
+      "id": "387.270:21787",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.270&bid=21787",
+      "sourceSha256": "b38457e2ff3fbb9dacf249c5ccd4be2644262b6310a68fd826097f4e40033573",
+      "textSha256": "20ee99c64d5fe69f0ffe45240c316e8ff0a4f2335953d6be87c4d945f6fc9a0a",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Issuance of long-term stocks, bonds, and debt securities",
+          "bodySha256": "b307cd2df1932df1b5bdf7ae46acb6ecf6b977a14314a60dd47c5d4682cf3756",
+          "reviewNote": "Motor carrier may issue securities payable after 12 months for capital acquisitions or debt refunding upon agency order."
+        },
+        {
+          "number": 2,
+          "title": "Agency investigation and restriction on proceeds use",
+          "bodySha256": "e03d602cf4a0daa1acba3be8cc7965fb14e34c95ad69d0f5fdb63f48a6266310",
+          "reviewNote": "Division investigates application and issues order; proceeds cannot be applied to unauthorized purposes."
+        },
+        {
+          "number": 3,
+          "title": "Short-term notes and prohibition on capitalizing franchises",
+          "bodySha256": "748f7c116cd4dc0352a0f9e2b31f0363c0a7e002b6ba7c900cfcd076493d7066",
+          "reviewNote": "Notes up to 12 months allowed without consent; cannot capitalize franchises, mergers, or contracts above actual fees paid."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 1939-1996 history notes; all 3 headings retained covering division-authorized long-term securities (>12 months), investigation/proceeds restriction, and short-term notes (<=12 months) plus franchise/merger capitalization bars."
+    },
+    {
+      "id": "387.280:21788",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.280&bid=21788",
+      "sourceSha256": "b212551ef7a7d7dc29ff260cc552300da14c6f1a462f49b5278a75b7a0493fb4",
+      "textSha256": "82da7369e6211e1e1b184f28d023eaaa89dec053ec2f33cc0c1c81fe793c336a",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prior certification required before issuing securities",
+          "bodySha256": "b66de4740af38dd74262da5acf99cf15abf517794cf6083e166c11f01dc1ed54",
+          "reviewNote": "Motor carrier cannot issue securities or receive consideration until authorization certificate is recorded on company books."
+        },
+        {
+          "number": 2,
+          "title": "Authorization required for stock dividends or scrip distribution",
+          "bodySha256": "c6ecf4b5f1e385d69b9f897481faa42ead9b91c76b075f146aa51b5dd9051826",
+          "reviewNote": "Motor carrier cannot declare stock, bond, or scrip dividends or divide proceeds among stockholders without authorization."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 1939/1996 history notes; both headings retained covering recording of division certificate before issuing securities and division authorization for stock, bond, or scrip dividends."
+    },
+    {
+      "id": "387.290:21789",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.290&bid=21789",
+      "sourceSha256": "efb9982112147b2c9890dc265e3fd2f259ed5ab9ec927ec8365c55eec88d1eaa",
+      "textSha256": "a9290aa4c634c656cce01abb28af5f5030588e2bddd3cb90a980f7f522da501e",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Agency accounting requirements for securities sale proceeds",
+          "bodySha256": "ae2763ebae9b001407193674c5bd856228e04ef38539657ff489dafbf9c4c1fa",
+          "reviewNote": "Division may require carriers to account for proceeds of securities sales to insure compliance with authorizing orders."
+        },
+        {
+          "number": 2,
+          "title": "Invalidity of unauthorized securities and good faith exception",
+          "bodySha256": "37587a84b124acdf735bc74b179c2ed51bab7b4a1d66220f6a1a3acc8cbda1d0",
+          "reviewNote": "Securities issued without order or nonconforming are void; innocent holders taking in good faith for value protected."
+        },
+        {
+          "number": 3,
+          "title": "Civil penalty for unauthorized securities issues or proceeds misuse",
+          "bodySha256": "75012fc941aa0bdb6dfb805950f60a5b5a91dd9d23845ceaf601665c212a51ab",
+          "reviewNote": "Carrier issuing unauthorized securities or misapplying proceeds subject to penalty of $500 to $20,000 for each offense."
+        },
+        {
+          "number": 4,
+          "title": "Felony penalties for fraudulent security statements or misuse",
+          "bodySha256": "9c0b151458ca4afc76aa5f5f3ad2b5d72815be3605a085370ac2e230936d1318",
+          "reviewNote": "Officers, agents, employees, or others knowingly executing unauthorized securities, making false statements, or misapplying proceeds commit a felony ($1,000-$5,000 fine, 2-5 years imprisonment, or both)."
+        },
+        {
+          "number": 5,
+          "title": "State nonobligation on carrier securities and debt",
+          "bodySha256": "10261328ab213bfba1753c0464cfc6f28e9e775ab1df12ae3e41c50a1d717542",
+          "reviewNote": "No statutory provision or regulatory action obligates state of Missouri to pay or guarantee carrier securities."
+        },
+        {
+          "number": 6,
+          "title": "Pre-existing corporate authority subject to statutory order",
+          "bodySha256": "fc0cb27f85e2af62b4feb7eb84583ff4fbd1653969383a849e168d7927dd10af",
+          "reviewNote": "Securities issued under prior charter provisions invalid without division order if issued after chapter takes effect."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 1939/1996 history notes; all 6 headings retained covering proceeds accounting, void unauthorized securities/good-faith holder protection, $500-$20,000 carrier penalties, felony penalties, state nonobligation, and pre-existing charter issues."
+    },
+    {
+      "id": "387.300:21790",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.300&bid=21790",
+      "sourceSha256": "aa4ba0354020a8c2a80738c0457f0227e414c1d96aeb3ec5aebffe10b89fbb19",
+      "textSha256": "e0b37a32ee534d3b22a413a0fe2d4cdb68ebd8daef2b7f24afb49455bb5dfefc",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Division authority to value and revalue carrier property",
+          "bodySha256": "79ad6e5f3470ef19aefe911a9ea58ced2d2fb9bba25dfb644b62744cf6886d96",
+          "reviewNote": "Division of motor carrier and railroad safety may ascertain motor carrier property value, make periodic revaluations, and ascertain new construction, extensions, and additions."
+        },
+        {
+          "number": 2,
+          "title": "Valuation hearings, thirty-day notice, and certified evidence",
+          "bodySha256": "f63608cd87dc168503eb644819564d626c82f7de8dbcb3e6a9981d6c0cbf31f7",
+          "reviewNote": "Division may hold valuation hearings upon at least 30 days' written notice to affected carriers; carriers may be heard and present evidence; evidence is reduced to writing and certified under division seal."
+        },
+        {
+          "number": 3,
+          "title": "Written findings of fact, circuit court review, and evidentiary effect",
+          "bodySha256": "61efa3afe941bef970f2964757cae80775b1281622467702b08c2f69a2037b8b",
+          "reviewNote": "Division files written valuation findings reviewable in circuit court; certified findings are admissible and conclusive evidence of stated facts as of that date absent subsequent changed conditions."
+        },
+        {
+          "number": 4,
+          "title": "Supplemental revaluation hearings and modifying findings",
+          "bodySha256": "06a6dd60cd0fcff39bf92c04f9d8f38a1fc9591861ac01d985a7254dea232460",
+          "reviewNote": "Division may hold supplemental hearings on same notice to revalue betterments, additions, or extensions and issue supplemental findings modifying or combining with original findings."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 1939/1996 history notes; replaced all 4 hallucinated rate-suspension headings to reflect carrier property valuation/revaluation, 30-day notice hearings, conclusive certified findings, and supplemental revaluations."
+    },
+    {
+      "id": "387.310:21791",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.310&bid=21791",
+      "sourceSha256": "e1d3b378411280bb15ad40f5ff3ef341b87ad355aa7506dec598be88f0a18916",
+      "textSha256": "2338400e454676d724171952ebbfa05e78527aa498960418dd1ca0c60994d6d4",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Uniform system of accounts and six-month alteration notice",
+          "bodySha256": "b326176ebe871104d035c207b7e1d49d523653b85b4890261723623ed8e9f9c9",
+          "reviewNote": "Division of motor carrier and railroad safety may establish uniform accounting systems, classify carriers, and prescribe account/record forms; alterations require at least six months' notice."
+        },
+        {
+          "number": 2,
+          "title": "Division access and inspection of carrier accounts",
+          "bodySha256": "f9745e0b73648cfdf3a88f8a3a2e16fa316f6dc9d3729f95d5ec4e9364ec9216",
+          "reviewNote": "Division has access at all times to carrier accounts, records, and memoranda and may designate officers or employees to inspect and examine them."
+        },
+        {
+          "number": 3,
+          "title": "Prescribed outlay/receipt entries and bar on other accounts",
+          "bodySha256": "1519f69edbc216ed38c9cf777f0fe6b58ff2947fc50c16e753a55ce685bdfaec",
+          "reviewNote": "Division may prescribe by order after hearing how outlays and receipts are entered; unlawful for carriers to keep accounts/records other than those prescribed by division or federal authority."
+        },
+        {
+          "number": 4,
+          "title": "Misdemeanor penalty for divulging inspection information",
+          "bodySha256": "ab95e8cc3c05a04f83a8a0bf44cc631cb593ff6de0a00ba1eb1422ee312b92d7",
+          "reviewNote": "Division employee or agent who divulges facts learned during inspection or examination without division, court, or legal authorization is guilty of a misdemeanor."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 1939/1996 history notes; replaced all 4 hallucinated annual-report headings to reflect uniform accounting systems/6-month notice, division inspection access, exclusive prescribed accounts, and misdemeanor disclosure penalty."
+    },
+    {
+      "id": "387.404:34464",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.404&bid=34464",
+      "sourceSha256": "9fd9274c5675ba73d62b6ab20398b8fc9b6ed82e21316183bf726458ec73ef83",
+      "textSha256": "cc706a24a2d85601159a3492379b6f3b80cb24961b59cb316065ea562ed86a2f",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Transportation network company license requirement",
+          "bodySha256": "1ef8caf5758f7386b56fc7a4df0f0ce5dd6de20511d3c93aa73dd1fd33a48c28",
+          "reviewNote": "Beginning August 28, 2017, no person may operate a TNC in Missouri without first obtaining a license from the department."
+        },
+        {
+          "number": 2,
+          "title": "License issuance criteria and five-thousand-dollar annual fee",
+          "bodySha256": "057ed1e9b150e6e1c0f2477cdc4355b672e4cba546be72304dfe5d5b7d35d7a8",
+          "reviewNote": "Department issues license to applicant meeting sections 387.400-387.440 requirements and paying $5,000 annual fee covering all affiliated drivers with no per-driver or per-vehicle fee."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 2017 H.B. 130 history note; aligned subsection 1 to 'license' (effective Aug 28, 2017) and replaced hallucinated subsection 2 heading to reflect license criteria and the $5,000 annual fee."
+    },
+    {
+      "id": "387.418:34472",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.418&bid=34472",
+      "sourceSha256": "9318bf56892b9a9f7a3af1535a018e572b1ad427fa0d5a51dcb3f091f27ba2f8",
+      "textSha256": "d1acd1a3d6afc137e1deabca67a1f25919454d96c55084aa889b6fa7b3aa005d",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Zero-tolerance intoxicating substance policy and website notice",
+          "bodySha256": "1649a869b5b9cc5ce077f9d4d480ddcec406de62bfdd775f87da1735e05816ef",
+          "reviewNote": "TNC must implement zero-tolerance intoxicating substance policy for drivers providing TNC services and post policy notice and rider complaint procedures on its website."
+        },
+        {
+          "number": 2,
+          "title": "Immediate driver suspension and investigation upon complaint",
+          "bodySha256": "615f9900bb71c51c1a979b0500780fd61e76b59a571a101ec8e7b2ae2de6f2ac",
+          "reviewNote": "Upon receiving rider complaint alleging zero-tolerance violation, TNC must suspend driver's trip-request access as soon as possible and investigate, with suspension lasting through investigation."
+        },
+        {
+          "number": 3,
+          "title": "Two-year retention of complaint enforcement records",
+          "bodySha256": "12a5587641cd6de253740e1f4c79448334668e139882ac440dcf7a80b09de299",
+          "reviewNote": "TNC must maintain records relevant to enforcing this section for at least two years from receipt of a rider complaint."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 2017 H.B. 130 history note; replaced all 3 swapped headings to reflect the zero-tolerance intoxicating substance policy/notice, complaint-triggered suspension and investigation, and two-year record retention."
+    },
+    {
+      "id": "387.420:34474",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.420&bid=34474",
+      "sourceSha256": "f2931b83ec1327aaeb53d7169ece12b2f02698b361f8916505f261e56f6d50bf",
+      "textSha256": "764466be16a6472b99c543041dcfbcfedfc3e2dd8d7040436c35a5d0de221001",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Driver registration, background checks, and driving history",
+          "bodySha256": "aefb0b9db04b9d85a3f69a68986b6e591ec7b5b871a83d97f7e5c03ce047b0c7",
+          "reviewNote": "Before allowing driver trip requests, TNC must require registration (address, age, license, registration, insurance), conduct local/national criminal and DOJ sex offender checks, and review driving history report."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory disqualifications for TNC drivers",
+          "bodySha256": "aa4bcf78ed22a866b4714baab7a0bd2550e4feb0c223f0b1c5d56903a98c4bcb",
+          "reviewNote": "Bars drivers with >3 moving violations or a 6-point violation in 3 years, specified 5-year or 7-year convictions, DOJ sex offender match, missing license/registration/insurance, or age under 19."
+        },
+        {
+          "number": 3,
+          "title": "Exemption of qualified drivers from other licenses or permits",
+          "bodySha256": "8c43f82681bac2f9e9b06919e4ed1048213b071ed92c012a0bf46372d1c5903f",
+          "reviewNote": "Qualified TNC driver is not required to obtain any other state or local license or permit to provide prearranged rides."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 2017 H.B. 130 history note; replaced all 3 swapped headings to reflect driver registration/background checks, mandatory disqualifications, and exemption from other state or local licenses."
+    },
+    {
+      "id": "387.426:34478",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.426&bid=34478",
+      "sourceSha256": "8c5608ef127071de59dd5c7790d9b5f107f73ac5fc2d35de1f5616bd80f83269",
+      "textSha256": "fac7228ef9cf04db08c17703eed612485a9fd6edb0715a85084e6394d2d36ee5",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "TNC nondiscrimination policy and driver notification",
+          "bodySha256": "4787a3fbb5eb31642818b54618a7ffae95dcd11902b5bab48e56f27734d23619",
+          "reviewNote": "TNC must adopt a nondiscrimination policy for riders and potential riders and notify TNC drivers of the policy."
+        },
+        {
+          "number": 2,
+          "title": "Driver compliance with nondiscrimination laws",
+          "bodySha256": "4029b1a449f51d19a6fcd93a0b57b10d40b9be48de8aa61d8d2a3f523a5fe94f",
+          "reviewNote": "TNC drivers must comply with all applicable laws regarding nondiscrimination against riders or potential riders."
+        },
+        {
+          "number": 3,
+          "title": "Driver compliance with service animal accommodation laws",
+          "bodySha256": "040fbfe5427a08a0d5867beef8f720839cfbef952eaf07e10efb9ac9efbebd8a",
+          "reviewNote": "TNC drivers must comply with all applicable laws relating to accommodation of service animals."
+        },
+        {
+          "number": 4,
+          "title": "Prohibition on extra charges for physical disabilities",
+          "bodySha256": "1ad88d6ba66e7139878aff874a85f12ec9797d8660493e7f93ba3a25e144b490",
+          "reviewNote": "TNC shall not impose additional charges for providing services to persons with physical disabilities because of those disabilities."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 2017 H.B. 130 history note; replaced all 4 hallucinated fare-disclosure headings to reflect TNC nondiscrimination policy, driver compliance, service animal accommodation, and bar on disability surcharges."
+    },
+    {
+      "id": "387.430:34481",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.430&bid=34481",
+      "sourceSha256": "bc44f68d9b4873617f86cf1470ca97e050562ac2cfef05a5e81ce285c888f699",
+      "textSha256": "11b334b2a95e12be20d5afb0665a2e37f2b8b79dbc7700fb651fdbb4fe8e8f72",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exclusive state governance and local regulation preemption",
+          "bodySha256": "9183412d8a656b1bf70ca09558028763fc34fe8c7349d6c4e0297d8ff640bfc0",
+          "reviewNote": "TNCs and drivers governed exclusively by sections 387.400-387.440 and department rules; bars municipal/local/state ride-related taxes, licenses, or operational requirements and voids inconsistent local ordinances upon enactment (footnote: enacted Apr 24, 2017; effective Aug 28, 2017)."
+        },
+        {
+          "number": 2,
+          "title": "Preservation of state income and earnings taxes",
+          "bodySha256": "5d6b297e48090c12aaa08529dc84747e04b1abd9e63a253af2bd6a873b5de66a",
+          "reviewNote": "Section does not prohibit a state income tax or an earnings tax."
+        },
+        {
+          "number": 3,
+          "title": "Department of revenue rulemaking and chapter 536 nonseverability",
+          "bodySha256": "bd61919500d2ca3a4984f6f5f3a03b234835746fe224118298e91b697542bf06",
+          "reviewNote": "Authorizes department of revenue to promulgate rules under chapter 536 and section 536.028; nonseverable with legislative review powers (rules after Aug 28, 2017 void if review powers invalid)."
+        },
+        {
+          "number": 4,
+          "title": "Airport fees, operating procedures, and authorization agreements",
+          "bodySha256": "054143c8bc49e17bf7d3449843dd0ad5ecc29033c03ead76968e784ecc47558d",
+          "reviewNote": "Allows airports to charge reasonable non-per-passenger facility/pickup/dropoff fees and set staging/pickup/dropoff procedures; bars additional regulatory/licensing rules (e.g., background checks, trade dress) and requires TNC airport agreement/authorization before pickups."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text, 2017 H.B. 130 history, and enactment/effective date footnote (enacted Apr 24, 2017; effective Aug 28, 2017); replaced all 4 hallucinated headings to reflect state preemption, income/earnings tax preservation, DOR chapter 536 rulemaking, and airport fee/agreement rules."
+    },
+    {
+      "id": "387.436:34485",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.436&bid=34485",
+      "sourceSha256": "1568b30ddda9164bf42e9ce9effee2f6714f1cb6374ae4da02d65064223d5f69",
+      "textSha256": "58f141399316fe7a8b6740386a73953d0e164da90a58e16fff93fe1924b2c0c1",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Immediate driver platform revocation and department notification",
+          "bodySha256": "64d149a95cb7208d46ae12f2c51720dfd10657d34252a6898f8fb0f96a63e463",
+          "reviewNote": "Upon information of disqualifying conviction (577.010/577.012, fraud, sex offense, motor-vehicle felony, property damage, theft, violence, terror) or lapse of chapter 303 financial responsibility, TNC must immediately revoke platform access and notify department of driver name, license, and plate."
+        },
+        {
+          "number": 2,
+          "title": "Department notice of serious injury or fatal accidents",
+          "bodySha256": "c56396be062a0c7fbd76f374577ba7e99ca926506775020ae230280d5215cae5",
+          "reviewNote": "Upon information of driver involvement in a traffic accident or incident resulting in serious bodily injury or fatality, TNC must notify department of driver name, license, and plate."
+        },
+        {
+          "number": 3,
+          "title": "Department sharing of driver notices with licensed TNCs",
+          "bodySha256": "b8de39bc628192bd6acf831c8c169a97797c7ce0ee8367947d580f8a15403d37",
+          "reviewNote": "Department must develop and implement a process to provide information received under subsections 1 and 2 to all other Missouri-licensed TNCs."
+        },
+        {
+          "number": 4,
+          "title": "Chapter 610 open-records exemption for reported information",
+          "bodySha256": "025b2c8cf012cb0671ffedc6366450d04061e9ceaa71f91a5ba3106fc93dcd21",
+          "reviewNote": "Information provided to department under this section is exempt from disclosure under chapter 610."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 2017 H.B. 130 history note; replaced all 4 hallucinated preemption headings to reflect mandatory driver revocation/department notice, serious-accident reporting, inter-TNC information sharing, and chapter 610 confidentiality."
+    },
+    {
+      "id": "387.438:34486",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.438&bid=34486",
+      "sourceSha256": "36cb6eb81ac8fe26a16fa7d44acef4956a8d4166e177b6b77d77d3d8c692b914",
+      "textSha256": "c4d597fc4fadab1cb6baf9e20d573c5ab1133e25f07195650d2a2e1717a0402c",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Class F license sufficient for qualifying light-vehicle drivers",
+          "bodySha256": "b706e1e05080d410727d2e8c3f93708de035b94cdfa3fb70bba82d6d030aee65",
+          "reviewNote": "Department shall not require more than a class F license (10-24.200(6) CSR) for TNC drivers, taxicab drivers, or food delivery drivers operating motor vehicles <=12,000 pounds GVW."
+        },
+        {
+          "number": 2,
+          "title": "Definition of food delivery services",
+          "bodySha256": "524109330ece46b25ddeaf9410b6581c500ef907b2ad70649ba7c88cca8c7d1b",
+          "reviewNote": "Defines food delivery services as delivery of prepared food (section 192.081) by an individual, including fast food restaurant, delicatessen, or other off-premises food facility."
+        },
+        {
+          "number": 3,
+          "title": "Department rulemaking and regulation updates",
+          "bodySha256": "2227d2c90ed9001970d1e6e94466b633627e3883cf62193d393b5b2c4028bf69",
+          "reviewNote": "Department must promulgate or amend necessary regulations to implement section as soon as practicable after August 28, 2017."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 2017 H.B. 130 history note; replaced hallucinated subsection 1 heading to reflect the Class F license limit for <=12,000 lb vehicles and retained subsections 2-3 with updated notes."
+    },
+    {
+      "id": "387.439:34487",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.439&bid=34487",
+      "sourceSha256": "8aa4a4f01da159e7ee7af8de1d1836cfc0a6d34b2105313fd4717be813d97f06",
+      "textSha256": "f5e37f9f072db3843c2769387b5437f917065a0dc7b54e0b1550eb832c4fa614",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition on manipulating access to evade law enforcement",
+          "bodySha256": "ec972dd313dc4c8030ec3d6ace7f11ce0d917b087fe4e51a58320293b084d1e2",
+          "reviewNote": "TNC prohibited from manipulating digital network to evade police; civil fines tiered from $50,000 to $300,000."
+        },
+        {
+          "number": 2,
+          "title": "Prohibition on phantom vehicle displays on digital network",
+          "bodySha256": "248eed595dca2fb0f33cf608d7768ea01e4d827ddf446e3ca64038244359f37b",
+          "reviewNote": "TNC cannot operate digital network falsely displaying available vehicles to mislead prospective riders."
+        },
+        {
+          "number": 3,
+          "title": "Prohibition on geographic redlining based on race or income",
+          "bodySha256": "faba5ea66fdad02c195da37820c275509fb6d793d2bc337a03e17effa35c0d46",
+          "reviewNote": "TNC cannot use geolocation data to exclude service areas based on income, racial, or ethnic composition."
+        },
+        {
+          "number": 4,
+          "title": "One-month license suspension penalty for violations",
+          "bodySha256": "bc8726130cb37950b6c7284008ac51c58a7b71fb4a0127ee039f28bfdf4c1f54",
+          "reviewNote": "Violation of section provisions punishable by one-month suspension of TNC operating license."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 2017 H.B. 130 history note; all 4 headings retained covering law-enforcement evasion bar and $50k-$300k fines, false vehicle display bar, geolocation redlining bar, and one-month license suspension."
+    },
+    {
+      "id": "387.440:34488",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=387.440&bid=34488",
+      "sourceSha256": "a8ce15d4c4155db2c620be7dad6a15120500bdd59df1a793f5188c15bb81c8a6",
+      "textSha256": "aec12a20e0d93521dff001ced2c7381cf94efcf446cfabd5ec20254f6f65abc3",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Limited compliance audits by qualifying city and taxicab commission",
+          "bodySha256": "eb37f3c5954c56d78929fdaffa51a8605eba73d25a753da35e1a0178a519ad3e",
+          "reviewNote": "Twice per calendar year, qualifying home rule city (>400,000 in >1 county) and section 67.1804 regional taxicab commission may audit up to ten records selected from an anonymous list at a mutually agreed Missouri location."
+        },
+        {
+          "number": 2,
+          "title": "Annual audit cost fee cap of five thousand dollars",
+          "bodySha256": "3b33d735074f4a259156900ac0ddda354be0888be84b5764a6bcdf53bd67a5ba",
+          "reviewNote": "Qualifying city and regional taxicab commission may charge each TNC up to $5,000 per year to cover review costs, not exceeding compliance costs."
+        },
+        {
+          "number": 3,
+          "title": "Inspection of records for specific criminal complaint investigations",
+          "bodySha256": "9947a724f5dad0e7975d99dc7214f11747b8004030cdc01c8dceb4da108d2a1a",
+          "reviewNote": "Auditing entities may inspect necessary TNC records to resolve specific criminal complaints against drivers or TNC."
+        },
+        {
+          "number": 4,
+          "title": "Confidentiality and open records exemption for inspected records",
+          "bodySha256": "453bebc4c4256aa934827a82bcd6a3fce3a22267705e5a650c30e6674dfe1d0d",
+          "reviewNote": "Inspected records confidential, exempt from Sunshine Law disclosure under chapter 610, and barred from third-party disclosure."
+        },
+        {
+          "number": 5,
+          "title": "Municipal audit fines up to five hundred dollars per violation",
+          "bodySha256": "2798289b9c369e0ce1ae21cdb18bf3ebfafd65827a3c7635cc5c9637cf7b4436",
+          "reviewNote": "Auditing entities may fine TNC up to $500 per violation; fines remitted to department with appeal jurisdiction."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 2017 H.B. 130 history note; refined subsection 1 to match qualifying-city and section 67.1804 regional taxicab commission scope and retained subsections 2-5 covering the $5,000 audit fee cap, criminal-complaint inspections, chapter 610 confidentiality, and $500 audit fines."
+    }
+  ]
+}

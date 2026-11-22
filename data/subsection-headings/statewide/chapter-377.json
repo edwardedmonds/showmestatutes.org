@@ -1,0 +1,540 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "377.020:21017",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=377.020&bid=21017",
+      "sourceSha256": "4304363691f03b11808e05651a977af661f34da8ae3bf237c987815cda829c8f",
+      "textSha256": "f39aed3cae18c39c53d6aa7554e19566d065f75e39a2b8b996a5095df059eac2",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Circuit court application for incorporation on assessment plan",
+          "bodySha256": "19f78ea8ae09b8cb4b6a058f8578e6871f64b754ef4e5a1a98bf23d13c92b5eb",
+          "reviewNote": "Seven or more Missouri citizens may apply to circuit court with articles setting forth objects, methods, and plans."
+        },
+        {
+          "number": 2,
+          "title": "Recording of court decree and state filing",
+          "bodySha256": "ecac367f1f174f63e793e0c3c5a35d4be4028663374291e1ce3a5d741ef9e059",
+          "reviewNote": "Applicant must record certified articles and decree with county recorder of deeds and file with secretary of state."
+        },
+        {
+          "number": 3,
+          "title": "Charter issuance, name approval, policyholder minimums, and deposit",
+          "bodySha256": "3a11db779bb667b56872a1d21d90151958c53ea5535f13574efb3057072981ef",
+          "reviewNote": "Secretary of state issues charter after director certifies distinct name, 100+ applicants for $100,000+ insurance, and $30,000 beneficiary fund deposit; defines casualty insurance."
+        },
+        {
+          "number": 4,
+          "title": "Prohibition on new assessment incorporations after 1953",
+          "bodySha256": "ca58720ad4f9095d6fc6c98ab14b48d02c269b693a31c4ff5ebebde53693581e",
+          "reviewNote": "Bars incorporation of new assessment plan companies after September 1, 1953, preserving rights of existing licensed companies."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1939–1953); tightened subsections 2 and 4 titles; assessment incorporation, casualty definition, and post-September 1, 1953 bar on new assessment incorporations verified."
+    },
+    {
+      "id": "377.030:21018",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=377.030&bid=21018",
+      "sourceSha256": "a506158efe324d7bb4b64a8c28488ad447c0a09353464b7e53daf5875e97de27",
+      "textSha256": "2d2b13045f16fefb8342ac4c19d60539d30d2694ee988bce26ac7e043a4182a8",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application for release of beneficiary trust funds",
+          "bodySha256": "27988cf8ab7f8f9a07b4a63546f5de5892509992c474d5adda35c80840c6887e",
+          "reviewNote": "Board of directors applies in writing to director to release beneficiary funds for paying policy beneficiaries."
+        },
+        {
+          "number": 2,
+          "title": "Board certification of beneficiary claims",
+          "bodySha256": "9b694b6ce402af64d001d794312b382d41af959ad47704e229b9b53dd94cb700",
+          "reviewNote": "Board certifies beneficiary names and claim amounts, swearing funds will be used solely to pay certified claims."
+        },
+        {
+          "number": 3,
+          "title": "Twelve thousand dollar limit on released funds",
+          "bodySha256": "f2a5c96fcf82c6464e63c3f09c7a15508b2bafd6f1607c0d31fbe22b2fe4a7c7",
+          "reviewNote": "Released amount cannot exceed twelve thousand dollars and must be used solely to pay beneficiaries."
+        },
+        {
+          "number": 4,
+          "title": "Quarterly replacement of released funds within twelve months",
+          "bodySha256": "5528a6cfac74e6d2c43f208e67b278c204f1018ff782b406ba8d30788f4c057e",
+          "reviewNote": "Company must replace released funds within twelve months in four equal installments, subject to director extension."
+        },
+        {
+          "number": 5,
+          "title": "Inapplicability to certain existing companies",
+          "bodySha256": "9f96395c118ae58fce57f9b06263ccc71cc0214876af234fceb195f98d5f5ce4",
+          "reviewNote": "Exempts previously incorporated Missouri companies from §§ 377.020–377.030 and preserves authority to combine life and casualty clauses in one policy."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and 1939 note; beneficiary trust release up to $12,000, quarterly replacement, and existing-company exemption verified."
+    },
+    {
+      "id": "377.040:21019",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=377.040&bid=21019",
+      "sourceSha256": "19581fe76f7c7c918296dd795abe7d73f1d9cec30e7d4b0ccb2df2a0f4e2a382",
+      "textSha256": "82d01ba64498e0f2c5b63688251f771b7bb432a916b44dfbd6067e4a7431a0c2",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Declaration for reincorporation or assessment plan authorization",
+          "bodySha256": "4091f21fdd91dee7569396ce9b49efad3d552aabbb99d404c85eeabe5c3678be",
+          "reviewNote": "Domestic company with 500+ members and $500,000+ insurance may file declaration, charter, bylaws, and one assessment in bank."
+        },
+        {
+          "number": 2,
+          "title": "Director certificate authorizing transaction of business",
+          "bodySha256": "33bbef3ee59da1a822c1b8764cabdd73ddec2f6f653bad559e54d14034e554ae",
+          "reviewNote": "Director issues certificate permitting business under department supervision upon full compliance."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and 1939 note; 500-member/$500,000 declaration and director certificate for assessment plan authorization verified."
+    },
+    {
+      "id": "377.050:21020",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=377.050&bid=21020",
+      "sourceSha256": "28306b8e557af2ef575f63c7f52a1d0b36ed915b8256eafa15df1ae7d4f65d95",
+      "textSha256": "6c381dd2bca9c8ad4f5f934489ebad4de980c6ae4cbb84dbdd739680e060a0d3",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Accumulation and investment of trust emergency fund",
+          "bodySha256": "065c6ba369b5b2f814e193b9fa5d79155b199beedb54087ba0920ab2f08d2c18",
+          "reviewNote": "Life companies accumulate one death assessment, casualty companies maximum policy, within six months; invested in legal securities."
+        },
+        {
+          "number": 2,
+          "title": "Deposit of emergency securities and exchange rights",
+          "bodySha256": "ca21e04730257b0a19011ff9b1ac8edfdc4e0d4d03dccfde6b83959456615279",
+          "reviewNote": "Securities deposited in trust with director, with company retaining right to exchange for equivalent securities."
+        },
+        {
+          "number": 3,
+          "title": "Requisition to draw securities during excess mortality",
+          "bodySha256": "637bf67e491218106a8dc52fcd0c7e0d40480706888f83f7258658fe0efdd7e6",
+          "reviewNote": "Requisition by two-thirds of directors permitted if six-month death rate exceeds American life tables mortality rate."
+        },
+        {
+          "number": 4,
+          "title": "Six-month deficiency replenishment and joint credit safe deposit",
+          "bodySha256": "1f2b2a1544a38749587552fa5eff78effebe62deecd160253f5f0e0827836eab",
+          "reviewNote": "Company must replace deficiency within six months; securities held in St. Louis safe deposit to joint credit."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and 1939 note; tightened subsection 2 title; emergency fund accumulation, St. Louis joint-credit safe deposit, excess mortality requisition, and 6-month replenishment verified."
+    },
+    {
+      "id": "377.080:21023",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=377.080&bid=21023",
+      "sourceSha256": "59ee1636fef600ecbf2874401b17a15beb5e73d6e4720060cce3be0aa2136ac4",
+      "textSha256": "830fc4cb18aaa79ba7570b2909fc086d8e3087274ed41d2ad63ca255fac1ca82",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Age limits, insurable interest requirement, and payment calls",
+          "bodySha256": "51cf6e281049545b492cc216b30004a813aff205649d756d9a711047ddd31e5e",
+          "reviewNote": "Prohibits policies on persons over sixty, without insurable interest, or living endowments; payment calls must state purpose."
+        },
+        {
+          "number": 2,
+          "title": "Invalidity of policy assignments lacking insurable interest",
+          "bodySha256": "abcbf36865942adb84e2511735d148f8de04a12667e76d4414ed8984f19c9c1f",
+          "reviewNote": "Assignment of policy or certificate to person lacking insurable interest in insured life is void and of no effect."
+        },
+        {
+          "number": 3,
+          "title": "Insurable interest of qualified charitable organizations",
+          "bodySha256": "3ec3d5ef0381a56b1e9de74864726f16503159c8c6a3a9410eb34a48205de40b",
+          "reviewNote": "Section 501(c)(3) entities deemed to have insurable interest upon beneficiary designation, gift, or consent under section 376.531."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1939–1997); age-60 limit, void assignment without insurable interest, and 501(c)(3) insurable interest under § 376.531 verified."
+    },
+    {
+      "id": "377.170:21029",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=377.170&bid=21029",
+      "sourceSha256": "1351e3c431098f6818b13069200b822c178338304df9cf5f045dfaa4d1bd5103",
+      "textSha256": "486de520bb828580e0d3fa102d11fea8cd18111e0ca5ec2dec28f38c5ac1ed57",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board vote and filings for regular life reincorporation",
+          "bodySha256": "d64ab6762c634894a2a3a1641aa3334d3253c0e3603dacacf1eaccbb7fb213e8",
+          "reviewNote": "Assessment company board may vote to accept sections 376.010 to 376.670, amend articles with attorney general approval, and deposit securities."
+        },
+        {
+          "number": 2,
+          "title": "Rights and privileges of reincorporated regular life company",
+          "bodySha256": "3bd07936cd116695921fb5ceb532ca292d086aa724112e6795217c2e1f389ab0",
+          "reviewNote": "Reincorporated company exercises all rights and privileges of companies originally formed under chapter 376."
+        },
+        {
+          "number": 3,
+          "title": "Continuity of existing contracts and prospective statutory construction",
+          "bodySha256": "3727b88d4c32d6178eb83639533cfb3b2182b478b05a5c6664e64d16e4086ac7",
+          "reviewNote": "Existing contracts continue in force; subsequent contracts construed under chapter 376."
+        },
+        {
+          "number": 4,
+          "title": "Preservation of pending actions and previously acquired rights",
+          "bodySha256": "19618e4c6408145ccd3f88be762020dcd8243595ab743298a6e6d9273b89f103",
+          "reviewNote": "Compliance does not prejudice, impede, or impair pending proceedings or previously acquired rights."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and 1939 note; board reincorporation under §§ 376.010–376.670 and preservation of existing contracts and pending actions verified."
+    },
+    {
+      "id": "377.220:21035",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=377.220&bid=21035",
+      "sourceSha256": "7f450d7a29092b6427e59b8bd94ac107e97c52ce7fdf0225823155c62f93aebe",
+      "textSha256": "8a682359eceba806800722832b3cf96e128fd89a92e9d31eca292005f70c4908",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Articles of agreement for stipulated premium life company",
+          "bodySha256": "dd3834caad7f2497fa9182a9ca0596f21050c5cf1bf4007a56169430a7269a7d",
+          "reviewNote": "Corporators execute articles detailing name, office, minimum $50,000 capital and $50,000 surplus, board, duration, and 1963–1965 $25,000 capital grandfathering."
+        },
+        {
+          "number": 2,
+          "title": "Approval of articles by director and attorney general",
+          "bodySha256": "19b0cc90062409cef5f6b679d876923c4af3d20538e15ad3c9a8f11201146309",
+          "reviewNote": "Articles submitted to director and attorney general for approval of statutory compliance."
+        },
+        {
+          "number": 3,
+          "title": "Filing and issuance of certificate of incorporation",
+          "bodySha256": "46b211cb80c6dbad38a325d65a50643efa85d66fba4a1df8f7b352d25ae8d826",
+          "reviewNote": "Approved articles filed with secretary of state, who issues certificate creating body corporate and politic."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1939, 1963); tightened subsection 3 title; stipulated premium articles, $50,000 capital/surplus with 1963–1965 $25,000 grandfathering, and approvals verified."
+    },
+    {
+      "id": "377.230:21036",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=377.230&bid=21036",
+      "sourceSha256": "0eca2917c71edc5463de5357cde7a445c857457e7979b636470c743b72b1dfd2",
+      "textSha256": "b521f1218e77d461676382b4da9e9ac5c3e71cc97bafcbcb941c733adccf37a9",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Subscription minimums, premium trust, and security deposit",
+          "bodySha256": "eb6070061df347d895439422f643c3fe749fcb8c32ab732ebc21c0356c262c2e",
+          "reviewNote": "Requires 200+ subscribers for $250,000+ insurance, cash annual net premium in trust, certifications, and $5,000 security deposit."
+        },
+        {
+          "number": 2,
+          "title": "Security deposit as corporate insurance asset",
+          "bodySha256": "0b017cb3a34bfbd5502ca3926e9318445e3fc683cbe3ec56f70e972ad30a0abe",
+          "reviewNote": "Deposited five thousand dollars constitutes part of insurance fund and corporate asset."
+        },
+        {
+          "number": 3,
+          "title": "Trust deposit held for protection of policyholders",
+          "bodySha256": "9674f0fe580592c86aef592f9fc7edb6720ffa1714b7a74359facd397a0a8871",
+          "reviewNote": "Securities held in trust by director for benefit, protection, and security of policyholders and beneficiaries."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and 1939 note; 200-subscriber/$250,000 threshold, $5,000 security deposit asset status, and policyholder trust verified."
+    },
+    {
+      "id": "377.240:21037",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=377.240&bid=21037",
+      "sourceSha256": "695948a2ce5d43c797d7d862e0ea5f22e4ac68425f1b32d1c85c191b4469601e",
+      "textSha256": "14c4084a5ec97b53771b807a673ba47de83daecf78e4ae9be6e222b10f1fe4c9",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application and published notice of business relinquishment",
+          "bodySha256": "c8af70ea4444395bf10bf97ff603e98d866d686e90b13ed233ca96df96824d35",
+          "reviewNote": "Company president and secretary apply under oath; director publishes notice twice in Jefferson City newspaper."
+        },
+        {
+          "number": 2,
+          "title": "Surrender of deposited securities upon satisfaction of liabilities",
+          "bodySha256": "a412639434d636838dd4b648b58db4622056dafe1e2093acdeea11e08a22b447",
+          "reviewNote": "Director delivers deposited securities to company upon proof that all debts and liabilities are paid or provided for."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text, 1939 note, and § 375.480 cross-reference; relinquishment notice in state capitol newspaper and securities surrender verified."
+    },
+    {
+      "id": "377.250:21038",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=377.250&bid=21038",
+      "sourceSha256": "6deb54a3db38e19882aa768bbf5c98858a40e6f316ae168a0b059b565a76384f",
+      "textSha256": "01de39e85f241d4e6b60615bb370237e92299b443122ce3b40b8850c9b508a49",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Minimum mortuary premium calculation and expense loading",
+          "bodySha256": "d2042d6d7435ec87132de3ceb035c1c52866fa1fe2de2b1c3aaef27b3118cf81",
+          "reviewNote": "Requires mortuary premium at least equal to yearly term based on actuaries' table at 4 percent, plus age-based loading."
+        },
+        {
+          "number": 2,
+          "title": "Authorized premium payment schedules in advance",
+          "bodySha256": "265ef185c11885592baa9df057bc72baf284e9de6bcbc6abf9753adad589b66b",
+          "reviewNote": "Premiums payable annually, semiannually, quarterly, bimonthly, or monthly in advance."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text, 1939 note, and 1954 Old Reliable Soc. v. Leggett annotation; 4% combined experience minimum mortuary premium, loading, and payment schedules verified."
+    },
+    {
+      "id": "377.260:21039",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=377.260&bid=21039",
+      "sourceSha256": "a28617e42c3fe87fa31fcd4acc99230b05f6c2476919c790d15fd5cf4739937b",
+      "textSha256": "ad2fb31e14356719541e9480c10f609a1831a971b1cc5b1aeb257ec6c188b550",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Insurance fund composition and emergency fund reserve",
+          "bodySha256": "6932c6e5424eaaa7e247340c0b73c78e708c3708954433cd0beb15278c683d45",
+          "reviewNote": "Mortuary premiums, loadings, and interest constitute insurance fund; excess held as emergency fund and may be deposited with department."
+        },
+        {
+          "number": 2,
+          "title": "Extra premium assessment upon emergency fund exhaustion",
+          "bodySha256": "33c62b70116cc175475f3e40b5dbcaa4326944fe4c7903821094a73cf55e2f15",
+          "reviewNote": "If emergency fund exhausted, director requires officers to notify policyholders to pay extra equitable premium within thirty days."
+        },
+        {
+          "number": 3,
+          "title": "Proportionate policy commutation for nonpayment of extra premium",
+          "bodySha256": "57eea9b106355b6a569a5bdbd86dfb84442ed60ed7d627920b55fc166a264bee",
+          "reviewNote": "Failure to pay extra premium within thirty days results in proportionate commutation of policy liability."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text, 1939 note, and 1954 Old Reliable Soc. annotation; insurance/emergency fund, 30-day extra premium call on exhaustion, and proportionate commutation verified."
+    },
+    {
+      "id": "377.270:21040",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=377.270&bid=21040",
+      "sourceSha256": "a5232bce0805cfe51807146fb3253d2a7bd2eea7fd45bb9f260b5222d080f136",
+      "textSha256": "4b20c4e70e6e2c41b757617f8f9c1616cd543e2380ea853b21615597e5342498",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Issuance of limited payment and investment policies",
+          "bodySha256": "c329a19069e424a8df015d816929b62a29727b81b0beedb130a8a27299561dda",
+          "reviewNote": "Companies may issue limited payment or investment policies with actuarially increased net term premiums improved at 4 percent."
+        },
+        {
+          "number": 2,
+          "title": "Separate reserve fund and deposit for paid-up policies",
+          "bodySha256": "6f7c7405049e4b95612964445128e472ccb94ab145539c5b201a7abc04499c09",
+          "reviewNote": "Premium increases reserved in separate fund to sustain policies after premium cessation; deposited with department."
+        },
+        {
+          "number": 3,
+          "title": "Statutory valuation upon failure to specify reserve portion",
+          "bodySha256": "148e174970a6adb7e17a354fd5de5950d78d573fe53dc5f87030607d5f75d9eb",
+          "reviewNote": "Failure to state sustaining portion in policy triggers valuation under combined experience table at four percent."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text, 1939 note, and 1954/1968 case annotations; tightened subsection 2 title; limited payment policy reserves, deposit, and 4% valuation verified."
+    },
+    {
+      "id": "377.300:21043",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=377.300&bid=21043",
+      "sourceSha256": "d29cbe43d3b3699120b5f84a91a6d7af7180e1d469a878c19e02487131f838aa",
+      "textSha256": "d1fee06ae2735b65f06e0c626f6eb7b65d16e6be8ee3da17cd28e66c3e039306",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Policy specification of payment sums and contingencies",
+          "bodySha256": "2ebc8e26a8c10f10fced6e13b644d2f1d8ce26ae90a6d443be852afabe95d7b6",
+          "reviewNote": "Policies must specify sums promised and payment times upon contingency; company obligated absent fraud, breach, or commutation."
+        },
+        {
+          "number": 2,
+          "title": "Suspension of policy issuance upon unpaid final judgment",
+          "bodySha256": "fadb71c90525c0650660b14bd9226a08baf4352ecdd1abcb5fafd6176e427189",
+          "reviewNote": "Refusal to pay claim for ninety days after final judgment triggers director notice prohibiting issuance of new policies."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and 1939 note; policy payment specification and suspension of new policies after 90-day unpaid final judgment verified."
+    },
+    {
+      "id": "377.310:21044",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=377.310&bid=21044",
+      "sourceSha256": "d1d007d8bfa56981ce93536dbe37fe309b91d6f0e1d73ce5a4416a4adfea1a0a",
+      "textSha256": "12cb63c70e74a64068791e8fad214065686a9c3a78dfc906388bd5e129a38b25",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Medical examination requirement and eligible beneficiaries",
+          "bodySha256": "68100cf0a42b7170a57f22d1dcd0e3568e03bb151898943b9960789906fc8202",
+          "reviewNote": "Applicant must be examined by appointed physician; beneficiaries limited to spouse, representative, relative, heir, creditor, or insurable interest."
+        },
+        {
+          "number": 2,
+          "title": "Beneficiary change and wife's consent for creditor substitution",
+          "bodySha256": "249094b350686809b5fd1839fc1012ce09a534dc48f2c6f2db235e6917a00a4f",
+          "reviewNote": "Beneficiary changeable under bylaws; change from wife to creditor requires her written consent."
+        },
+        {
+          "number": 3,
+          "title": "Insurable interest of qualified charitable organizations",
+          "bodySha256": "3ec3d5ef0381a56b1e9de74864726f16503159c8c6a3a9410eb34a48205de40b",
+          "reviewNote": "Section 501(c)(3) entities have insurable interest upon designation, gift, or written consent under section 376.531."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1939–1997); tightened subsection 2 title; medical exam, eligible beneficiaries, wife's written consent for creditor change, and 501(c)(3) insurable interest verified."
+    },
+    {
+      "id": "377.360:21049",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=377.360&bid=21049",
+      "sourceSha256": "2d767a16c8b63b7bf79f2ef2b9e1171e05a48dc4bbca152c3d3508cce79508aa",
+      "textSha256": "26721b3602103223668381531ce66b4f00e4fd729136609fe9548e1234fe99d5",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition of premium and dividend discrimination",
+          "bodySha256": "f181c016987ad51fd7c1e8174bda0c7e93938e075ca49d10857c810ce612102c",
+          "reviewNote": "Prohibits discrimination between policyholders of same class and life expectancy regarding premiums, returns, or dividends."
+        },
+        {
+          "number": 2,
+          "title": "Requirement that policy express entire insurance contract",
+          "bodySha256": "dffe4b6bb111249a9a9892f9efe48d02618b18e2e2733c157fdf90cc3aa0ed04",
+          "reviewNote": "Agent cannot make insurance agreement other than as plainly expressed in issued policy."
+        },
+        {
+          "number": 3,
+          "title": "Director referral of policy violations to attorney general",
+          "bodySha256": "6c210723f389cdfde2f72751bb24be923e3c702d83b2a35b38c1087de574312a",
+          "reviewNote": "Director reports discriminatory or improper policies to attorney general, who demands compliance within thirty days."
+        },
+        {
+          "number": 4,
+          "title": "Attorney general injunction proceedings for noncompliance",
+          "bodySha256": "f4ead768822b946b34756fcd59fb27627142e7ff470dd0b0c3fc99e66a6d03f9",
+          "reviewNote": "Attorney general institutes restraining proceedings if company or agent fails to comply with demand."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text, 1939 note, and §§ 376.500/376.510 cross-reference; discrimination ban, entire-contract rule, and attorney general 30-day demand/injunction verified."
+    },
+    {
+      "id": "377.430:21054",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=377.430&bid=21054",
+      "sourceSha256": "7bc365ae0bd17ee0de8e5d2f762c6da3700cece11225c1bb6eafdbc394d1f450",
+      "textSha256": "8b81e3217fa8360c176711de5575ce611a6fd404a4d4fec03a77fad855411d08",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Foreign company emergency reserve and investment standards",
+          "bodySha256": "7aca94f91ae134203ff85f8a29e02648fd5b38702f94271d610627010a64c3e5",
+          "reviewNote": "Foreign company must prove emergency reserve equal to Missouri requirement, held for policyholders and invested per home state law."
+        },
+        {
+          "number": 2,
+          "title": "Foreign company net premium standard and premium tax",
+          "bodySha256": "1c8c2c19bbb92f92846b33519b759f77608575836c25e882bd74193c9ccf1778",
+          "reviewNote": "Foreign company must collect net premiums in advance and pay annual one percent tax on Missouri gross premiums in lieu of other taxes."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and 1939 note; tightened subsection 2 title; foreign company emergency reserve, net premium standard, and 1% Missouri gross premium tax verified."
+    },
+    {
+      "id": "377.450:21055",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=377.450&bid=21055",
+      "sourceSha256": "8d61cdc08e8f82b079066af0fdea1dce396115b18e21414a09a46aecdb353877",
+      "textSha256": "9497f1f7360ab37ff9343cb8b07c2d921ed7aff2d55dedf5fdde8f565136921f",
+      "draftedBy": "antigravity_swarm_drafter_3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board reincorporation under regular life insurance law",
+          "bodySha256": "23508fc1193af7ccec34dbed455f2dad42d649be1d6d99d79c938d47d87a1023",
+          "reviewNote": "Board may accept chapter 376, amend articles with attorney general approval, file with secretary of state and director, and deposit securities."
+        },
+        {
+          "number": 2,
+          "title": "Powers and privileges of reincorporated regular life company",
+          "bodySha256": "3bd07936cd116695921fb5ceb532ca292d086aa724112e6795217c2e1f389ab0",
+          "reviewNote": "Reincorporated company exercises all legal rights and privileges of companies originally incorporated under chapter 376."
+        },
+        {
+          "number": 3,
+          "title": "Continuation of existing contracts and pending legal actions",
+          "bodySha256": "d0f22dbb34fe293cafeb0fb428b2f7a5e2d961c3856952a2f3a09b6f184df357",
+          "reviewNote": "Reincorporation does not modify existing contracts or liabilities, nor prejudice pending legal actions or acquired rights."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and 1939 note; tightened subsection 1 title; stipulated premium reincorporation under §§ 376.010–376.670 and contract/action continuity verified."
+    }
+  ]
+}

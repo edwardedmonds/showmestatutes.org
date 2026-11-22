@@ -1,0 +1,1366 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "385.020:21634",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.020&bid=21634",
+      "sourceSha256": "7586ab4e2d24561c305e7e26f1e51666f41b4de0982aba591f7d6f0ebca34c77",
+      "textSha256": "7c677dc283ebe53ed7360aaf7ce8c1eb50991bd11cbb93297467cb09df0d5254",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions of credit insurance terms",
+          "bodySha256": "69d4756abc426a8bcf6251e5a327f692d2568408dbb4f2bf675112ddbe12ac4f",
+          "reviewNote": "Read sub 1 (14 subdivisions): defines credit accident and sickness, credit casualty, credit involuntary unemployment, credit life, credit property, creditor, debtor, decreasing/level/joint life, director, identifiable charge, indebtedness, and insurer for §§ 385.010–385.080."
+        },
+        {
+          "number": 2,
+          "title": "Definitions of technical actuarial terms",
+          "bodySha256": "64041ffa663ae0f2d7627836fa6572796b0f78b5a1fb428512e282ed5283e260",
+          "reviewNote": "Read sub 2 (4 subdivisions): defines technical terms 'claims', 'claims incurred', 'credibility period' (at least 3 years), and 'premiums earned' for §§ 385.010–385.080."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1977 H.B. 610 § 3, A.L. 1992 S.B. 519). Confirmed both draft titles and corrected both notes to list the exact 14 general terms and 4 technical terms defined for §§ 385.010–385.080."
+    },
+    {
+      "id": "385.030:21636",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.030&bid=21636",
+      "sourceSha256": "bd226efdb5bffa18a6be46ad29266537b54356a8359820a0b22ebd88897a965b",
+      "textSha256": "df0b0cc43c818940aec6917872e4be43f6d7d249a116e5d18518d0d527fa63b4",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Maximum amount of credit life insurance",
+          "bodySha256": "d0b20bbadc3a348b3c4922ba6a438edb40ca37922692dd503e3d679ab8a1739f",
+          "reviewNote": "Read sub 1: caps initial credit life insurance at total repayable indebtedness and ongoing equal-installment coverage at the greater of scheduled or actual unpaid indebtedness."
+        },
+        {
+          "number": 2,
+          "title": "Level term coverage for agricultural loan commitments",
+          "bodySha256": "4af4410d0e103b76f1ad48d4d9b5a8cce1e15f0574f0d7a1a2fd15db63224089",
+          "reviewNote": "Read sub 2: permits writing credit life insurance on agricultural credit commitments up to 48 months on a nondecreasing or level term plan up to the loan commitment."
+        },
+        {
+          "number": 3,
+          "title": "Coverage for educational loan commitments",
+          "bodySha256": "dcd0aa3982f2d33d0023ba8bf83c65672f62771266b16b87cc1811c1c4a6c921",
+          "reviewNote": "Read sub 3: permits writing insurance on educational credit transaction commitments for the unadvanced portion of the commitment."
+        },
+        {
+          "number": 4,
+          "title": "Periodic indemnity limits for credit accident and sickness",
+          "bodySha256": "15ff2669ed5c02cea0d81d4d924213f74cc863958612d645ca7b762bf3d4bcd4",
+          "reviewNote": "Read sub 4: caps total credit accident and sickness periodic indemnity at aggregate scheduled unpaid installments and each payment at original indebtedness divided by installments (or months for sub 2 agricultural commitments)."
+        },
+        {
+          "number": 5,
+          "title": "Coverage on residential real estate loan commitments",
+          "bodySha256": "2a2515b6a2121d438adf9b2be4041aeaae6adce7baaf7b12209183d1fdd11396",
+          "reviewNote": "Read sub 5: permits writing insurance on residential real estate secured credit transaction commitments up to the amount of the loan commitment."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 5 subsections and source notes (L. 1977 H.B. 610 § 5, A.L. 1987 H.B. 510, A.L. 1991 S.B. 352, effective 7-10-91). Confirmed all 5 draft titles covering credit life caps, permissive agricultural/educational/residential real estate commitment coverage, and accident and sickness periodic indemnity limits."
+    },
+    {
+      "id": "385.040:21638",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.040&bid=21638",
+      "sourceSha256": "ff6cbafa8fb70a2d4f5a970079953137190ec68d0aee3c5035946918b9259d5e",
+      "textSha256": "52eeaf261e9457dbf3ca83296bf8f77d22d7ede200b204823e4997072c84ccac",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Individual policy or group certificate requirement",
+          "bodySha256": "3fc407b2785ae1d9f2d871ff439fca9a28ce0771fec78b0b36eceadb0c6b1750",
+          "reviewNote": "Read sub 1: requires all credit life and credit accident and sickness insurance to be evidenced by an individual policy or group certificate delivered to the debtor."
+        },
+        {
+          "number": 2,
+          "title": "Required disclosures in policy or group certificate",
+          "bodySha256": "2e550b2bd03c2a8ba908d33e1ade2972efcf40b604dccae34e52528b99874279",
+          "reviewNote": "Read sub 2: lists required disclosures in policies/certificates including insurer name/address, debtor name, separate premiums, coverage/term/exclusions, creditor payment, and beneficiary/estate excess payment."
+        },
+        {
+          "number": 3,
+          "title": "Delivery of policy or certificate at loan inception",
+          "bodySha256": "9623ded3615f3b52a56ad990ae78dfffe34fb89beccbfb476793000c5c03c62e",
+          "reviewNote": "Read sub 3: requires delivery of the individual policy or group certificate to the insured debtor when indebtedness is incurred, except as provided in sub 4."
+        },
+        {
+          "number": 4,
+          "title": "Notice of proposed insurance and substitute delivery procedure",
+          "bodySha256": "3ca9e1e0f94fdd60108ae28a1b51fbb3ecdef75cfbfbb59e0adab7b13c373059",
+          "reviewNote": "Read sub 4: allows delivering signed application copy or notice of proposed insurance at loan inception, followed by policy/certificate delivery within 30 days of indebtedness upon insurer acceptance (§ 385.035)."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 4 subsections and source notes (L. 1977 H.B. 610 § 7). Confirmed all 4 draft titles for credit life and credit accident and sickness policy/certificate requirements, disclosures, inception delivery, and substitute application/notice delivery within 30 days."
+    },
+    {
+      "id": "385.045:21639",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.045&bid=21639",
+      "sourceSha256": "6717482012a42ddd70b584a4bc6cd2e581d85876f2c587d63adfadde30444963",
+      "textSha256": "a7021674f95d56cb3e2e8d4d4bcb8aeeff9dc5b840e1ea33aa7b38598840f238",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prior filing requirement for credit insurance forms and rates",
+          "bodySha256": "9cca63849b5decc6cae0c30f98804c19b893b042fabc799ed0c1dc87e6d5665e",
+          "reviewNote": "Read sub 1: requires filing all credit insurance policies, certificates, notices, applications, endorsements, riders, and premium rate schedules with director prior to use."
+        },
+        {
+          "number": 2,
+          "title": "Director review and sixty-day disapproval period",
+          "bodySha256": "2c1cfe7a69be7ea37467b9b4fd85252b5bba45a4e1e1709b76b1354ab4f2da81",
+          "reviewNote": "Read sub 2: requires director disapproval within 60 days (extendable up to 60 more days) on § 385.070 or unfairness grounds, applies § 536.024 rulemaking rule, and deems >=50% claims-to-earned-premium rates reasonable."
+        },
+        {
+          "number": 3,
+          "title": "Disapproval, sixty-day waiting period, and withdrawal of approval",
+          "bodySha256": "0dad273cd35d045615d47a8d1f13ebb40712280b8fa087f24476a25081cc3e96",
+          "reviewNote": "Read sub 3: bars using disapproved forms, grants hearing within 20 days of written request, imposes 60-day waiting period after filing unless prior written approval, and permits withdrawal of approval after 20-day written notice and hearing. Fixed inaccurate draft."
+        },
+        {
+          "number": 4,
+          "title": "Filing rules for existing and out-of-state group policies",
+          "bodySha256": "6b78ed4ce7bc7ae858c5e9fcf15810d4fe752dfcd650e94e9584e4920e3dd328",
+          "reviewNote": "Read sub 4 (2 subdivisions): limits filing to group certificate and notice of proposed insurance for group policies delivered before Sept. 28, 1977, or delivered in another state insuring Missouri citizens, with approval conditions. Replaced shifted draft."
+        },
+        {
+          "number": 5,
+          "title": "Judicial review of director orders and determinations",
+          "bodySha256": "0baeab08313946a43d9bd504bce795b31e33f28ff2603ee65ebe6f95b3943495",
+          "reviewNote": "Read sub 5: subjects any order or final determination of the director under this section to judicial review. Replaced shifted draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 5 subsections and source notes (L. 1977 H.B. 610 § 8, A.L. 1981 S.B. 200, A.L. 1995 S.B. 3). Confirmed subs 1–2 and replaced shifted/hallucinated draft titles in subs 3–5 (60-day waiting period and withdrawal in sub 3, pre-Sept. 28, 1977 and out-of-state group policies in sub 4, judicial review in sub 5)."
+    },
+    {
+      "id": "385.050:21640",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.050&bid=21640",
+      "sourceSha256": "208942d43d491554f656181dedcb39968ef7f5c77d526a4509dbef37bb4a0b7d",
+      "textSha256": "b93b6f5293b5c4f18ac74fa6c0250e8f3aa942b274ca2ef75ea11447609abc8d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Revision and filing of premium rate schedules",
+          "bodySha256": "01fdf93ed8836aa810ab670ad8541bf15763da11d9ced467df97581f7a845c57",
+          "reviewNote": "Read sub 1: permits insurers to revise premium rate schedules, requires filing revised schedules with director, and bars issuing credit life or accident and sickness policies exceeding approved schedules. Removed nonexistent refund formulas from draft."
+        },
+        {
+          "number": 2,
+          "title": "Unearned premium refunds and actuarial calculation method",
+          "bodySha256": "ccce3f1e1a2031106fcc854b33cdd71d4949699782606ee5e1b405d614af338a",
+          "reviewNote": "Read sub 2: requires prompt refund/credit upon early termination (except refunds under $1), mandates actuarial sum-of-remaining-balances refund formula, and sets monthly earned-premium timing rules. Replaced shifted draft."
+        },
+        {
+          "number": 3,
+          "title": "Notice and credit when required insurance is unissued",
+          "bodySha256": "638593591a472c3eadbbeb1762a55c2484964e7f573374873cbe0eec9add96a3",
+          "reviewNote": "Read sub 3: requires creditor to immediately give written notice and promptly credit debtor's account if debtor paid for required credit life or accident and sickness insurance that was not issued. Replaced shifted draft."
+        },
+        {
+          "number": 4,
+          "title": "Cap on creditor charges to debtor",
+          "bodySha256": "f0f88ada51d55353a2c6d0555e3e8571370fdcc1415a5d3988bb148aa6851ba1",
+          "reviewNote": "Read sub 4: prohibits charging a debtor for credit life or credit accident and sickness insurance more than the premiums charged by the insurer as computed when determined. Replaced shifted draft."
+        },
+        {
+          "number": 5,
+          "title": "No authorization of otherwise prohibited insurance payments",
+          "bodySha256": "b60ba44898bb998e70ec063212b362b289ba3d282bdc456f9023bef0ac24830a",
+          "reviewNote": "Read sub 5: clarifies nothing in §§ 385.010–385.080 authorizes insurance payments prohibited under any credit transaction statute or rule. Replaced shifted draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 5 subsections and source notes (L. 1977 H.B. 610 § 9, A.L. 2002 S.B. 895, A.L. 2008 H.B. 1893 merged with S.B. 1168). Replaced all 5 shifted/inaccurate draft titles to match rate revisions (sub 1), actuarial refunds and $1 threshold (sub 2), unissued-policy notice/credit (sub 3), debtor charge cap (sub 4), and construction clause (sub 5)."
+    },
+    {
+      "id": "385.060:21642",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.060&bid=21642",
+      "sourceSha256": "a2a682f99fcef1809be9a09c8651e7818ae857f7f7492cc55fd1fb86bc0c9129",
+      "textSha256": "57186fc8244bab104f00c12a03073b13aafad05fb7313ff242d0c417d96ac08d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prompt claim reporting, files, and settlement",
+          "bodySha256": "fe0f031e07ffa4bfd34015a20edc0dea03059d5eef9827f4292f3e5dfb643876",
+          "reviewNote": "Read sub 1: requires prompt reporting of claims to insurer or designated claims representative, adequate claim files, and prompt settlement per insurance contract terms. Replaced hallucinated draft."
+        },
+        {
+          "number": 2,
+          "title": "Payment of claims by insurer draft or check",
+          "bodySha256": "fc548895e26d6aac750568890dd7e5510c690b76a5688b28829eda3b80efd589",
+          "reviewNote": "Read sub 2: requires claims to be paid by draft drawn on insurer or insurer check payable to claimant or claimant's designee. Replaced hallucinated draft."
+        },
+        {
+          "number": 3,
+          "title": "Restrictions on claim adjustment and creditor prohibition",
+          "bodySha256": "319822dd38b91dff44f28b9cc491172f08a787cdad21b571beb1e796b5f53cb5",
+          "reviewNote": "Read sub 3: prohibits authorizing any person other than insurer or its designated claims representative to settle or adjust claims, and bars designating the creditor as claims representative. Replaced hallucinated draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 1977 H.B. 610 § 11). Replaced all 3 completely hallucinated draft titles (which described credit insurance producer licensing) with accurate headings for claim reporting, payment, and adjustment restrictions."
+    },
+    {
+      "id": "385.070:21644",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.070&bid=21644",
+      "sourceSha256": "7bd38cbe8a5c215a024b4899b0d010967c081af2311d408e531e5c5195cb6830",
+      "textSha256": "6e9070e149ef0cc503e70962325ea6cb79d67d31a4c115651acc2f6402b0d879",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Standard prima facie rates, coverage criteria, and cancellation",
+          "bodySha256": "d5a00af0806a4f44e6956ff39e0ba438c0d9fca21c01fd004cb50e6921a420f3",
+          "reviewNote": "Read sub 1 (6 subdivisions + 2 tables): sets presumed-reasonable standard rates, coverage/disclosure rules, and rate-deviation formula for credit life, accident and sickness (with rate table), casualty (75% ratio), involuntary unemployment, and property insurance, plus triennial director rate revisions after Dec. 31, 1992, and 15-day debtor cancellation right."
+        },
+        {
+          "number": 2,
+          "title": "Maximum creditor compensation limits and remittance rules",
+          "bodySha256": "a22bfda93e15436049b3e97d9c4d4e43d26b2245511c0c30b909358545dba9c2",
+          "reviewNote": "Read sub 2 (5 subdivisions): caps creditor compensation at 40% of standard/established rates (plus up to 10% for unaffiliated independent general agents), defines compensation broadly, requires 45-day premium remittance, regulates CD deposits, and excludes reinsurance premiums/underwriting profits. Replaced hallucinated draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections, both embedded tables (credit accident and sickness rate schedule and experience-rating formula), and source notes (L. 1977 H.B. 610 § 13 through A.L. 1992 S.B. 519). Corrected sub 1 title/note and replaced hallucinated sub 2 title (40% creditor compensation cap and 45-day remittance rule)."
+    },
+    {
+      "id": "385.202:21648",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.202&bid=21648",
+      "sourceSha256": "3535dffbbd8cd6012eb857b9ee371a0bd5f60ee63cbb32a1de32abaca9165e2e",
+      "textSha256": "5004df5b987541caabdba49e8e81593d79b11cba6ce654e8e4b40c4949e573eb",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prerequisites for issuing or selling extended service contracts",
+          "bodySha256": "25ee4d8d9e47b8cfde10ccc1d71f4a21a799e5ac354008e11a0d91fc90c2cab9",
+          "reviewNote": "Read sub 1 (3 subdivisions): bars issuing/selling/offering motor vehicle extended service contracts unless provider/designee gives a purchase receipt, delivers a contract copy within a reasonable time, and complies with §§ 385.200–385.220. Replaced shifted draft."
+        },
+        {
+          "number": 2,
+          "title": "Provider registration with director",
+          "bodySha256": "f904b01e575ba2121b8cf952c491e64cab0cb88859f4b7d3c3a3641dfab5929f",
+          "reviewNote": "Read sub 2: requires all providers of motor vehicle extended service contracts sold in Missouri to file a registration with director on prescribed form, fee, and frequency. Replaced hallucinated draft."
+        },
+        {
+          "number": 3,
+          "title": "Financial security compliance options for providers",
+          "bodySha256": "1fb0892a9cb343581a7b78b4a72e5122152881d7414c3b0dd7907ddcc23490ff",
+          "reviewNote": "Read sub 3 (3 subdivisions): requires providers to assure performance via reimbursement insurance, a 40% funded reserve account plus 5%/$25,000 trust security deposit, or $100M net worth (with SEC Form 10-K/audited statements and parent guarantee if applicable)."
+        },
+        {
+          "number": 4,
+          "title": "Exemption of provider fees from premium taxes",
+          "bodySha256": "468e439995a486db02e9248ab6b41695d3409e36f995743773e2f94b275e695e",
+          "reviewNote": "Read sub 4: exempts provider fees on motor vehicle extended service contracts from premium taxes while keeping reimbursement insurance premiums taxable."
+        },
+        {
+          "number": 5,
+          "title": "Exemption of marketing personnel from producer licensing",
+          "bodySha256": "87828419d2138a772cef5713a0e759047c667f5555b0904b73b47a523568d928",
+          "reviewNote": "Read sub 5: exempts persons marketing, selling, or offering contracts for compliant providers from state licensing requirements, except for sub 2 registration."
+        },
+        {
+          "number": 6,
+          "title": "Exemption of compliant providers from general insurance laws",
+          "bodySha256": "da554ae8d4cbf1aba5fb827071e308c26ea3d9a5071a3c38dec960d941460926",
+          "reviewNote": "Read sub 6: exempts providers complying with §§ 385.200–385.220 from other provisions of chs. 374 and 375 or other insurance company laws unless specifically provided. Replaced hallucinated draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 6 subsections and source notes (L. 2007 H.B. 221). Confirmed subs 3–5 and replaced shifted/hallucinated draft titles in subs 1, 2, and 6 (purchase receipt/copy prerequisites, provider registration, and exemption from chapters 374/375)."
+    },
+    {
+      "id": "385.205:21650",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.205&bid=21650",
+      "sourceSha256": "d14e244a4dc01a138d0d258bab6f13e85cde6d0b4842a73445cb66cb80dc5cf4",
+      "textSha256": "bd921dae83be3b793a7c797df3a73a283a38b0a2b291bee5ce1738add7655e28",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Forty-five-day delivery deadline for executed contracts",
+          "bodySha256": "d029d28ebd64c04ab09507ff09d6f1811e556e9ab1214f5e2826b683336f4f9e",
+          "reviewNote": "Read sub 1: makes it unlawful for a provider to fail to deliver a fully executed contract within a commercially feasible time, max 45 days from initial payment processing; earliest of mailing or delivery starts § 385.206(14) free look period. Replaced hallucinated draft."
+        },
+        {
+          "number": 2,
+          "title": "Pre-payment delivery of unsigned contract upon request",
+          "bodySha256": "573e37a8bf6e4416d0427589fee801e748e4ce82b971ed64cbe47d69742d3079",
+          "reviewNote": "Read sub 2: makes it unlawful for any offeror to fail upon request to deliver an unsigned written copy (or website link) to the consumer before initial payment is processed. Replaced hallucinated draft."
+        },
+        {
+          "number": 3,
+          "title": "Level two violation classification",
+          "bodySha256": "5010996babca63ce1882899afd7f90124114d08b66e830f9c4ea1eba1d7e8c76",
+          "reviewNote": "Read sub 3: classifies a violation of this section as a level two violation under § 374.049. Replaced hallucinated draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 2011 S.B. 132, effective 1-01-12). Replaced all 3 completely hallucinated draft titles (which described reimbursement insurance policies) with accurate headings for 45-day executed contract delivery, pre-payment unsigned copy delivery, and level two violation penalty."
+    },
+    {
+      "id": "385.206:33863",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.206&bid=33863",
+      "sourceSha256": "5767be6fb89b66d19b6f39764606792ba875a0a6e7b66c434d6bff1248914108",
+      "textSha256": "c68cbba7f33dd4d1b1d590192399d2ad6c91531d1c46cd3f62cd238202f094ce",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorized sellers and prohibition on unauthorized sales",
+          "bodySha256": "4c1bfa7e4ce9215aaac7e906f0a4fc27dd5173e2ee3e479025fbf679c5b3b37a",
+          "reviewNote": "Read sub 1 (8 subdivisions): bars selling, offering, negotiating, or soliciting consumer motor vehicle extended service contracts except by 8 authorized categories (dealers, manufacturers, depository institutions, ch. 367 lenders, registered providers, § 385.207 producers, licensed administrator employees, transferring owners). Broadened draft title."
+        },
+        {
+          "number": 2,
+          "title": "Prohibition on using motor vehicle dealer as fronting company",
+          "bodySha256": "9c689953bd2d183addec7b21568f33153af10eaa8d9136a75f255a6821a9c068",
+          "reviewNote": "Read sub 2: prohibits administrators/providers from using dealers as fronting companies and dealers from acting as fronting companies; defines 'fronting company'."
+        },
+        {
+          "number": 3,
+          "title": "Clear and understandable language requirement",
+          "bodySha256": "06faced4255055aa0c0fbb0b423dfbabba538daab8d42fff304b86e5d0d1b597",
+          "reviewNote": "Read sub 3: requires clear, understandable language, easy-to-read print/type, and conspicuous disclosure of applicable section requirements."
+        },
+        {
+          "number": 4,
+          "title": "Mandatory disclosures for reimbursement-insured contracts",
+          "bodySha256": "4eecfb2f7d3089cb8ee4d24ad5b765b26d424cba0d560aaff414d3b6e49799a4",
+          "reviewNote": "Read sub 4: requires reimbursement-insured contracts to include statutory guarantee/60-day direct-claim statement, unearned fee claim right, and conspicuous insurer name and address. Corrected 'policies' to 'contracts'."
+        },
+        {
+          "number": 5,
+          "title": "Mandatory disclosures for non-insured contracts",
+          "bodySha256": "5454c297bffe78eedb21a759e4897168a90400c3a6564535cbbf208ac30a84a9",
+          "reviewNote": "Read sub 5: requires non-insured contracts to include statutory full-faith-and-credit/non-insured statement, unearned fee claim right, and conspicuous provider name and address. Corrected 'policies' to 'contracts'."
+        },
+        {
+          "number": 6,
+          "title": "Identification of administrator, provider, and seller",
+          "bodySha256": "354318fb10807a949c33360668b8f5de9d7e982a63a2b56fdf6225379a1bdb7f",
+          "reviewNote": "Read sub 6: requires identifying administrator, obligated provider, seller, and service contract holder (to the extent furnished by holder)."
+        },
+        {
+          "number": 7,
+          "title": "Conspicuous statement of total purchase price and terms",
+          "bodySha256": "2e97ea7a69a23f89cdb7943e289572a190918085354be918987e3e1adbb74866",
+          "reviewNote": "Read sub 7: requires conspicuous statement of total purchase price and sale terms; price need not be preprinted and may be negotiated at sale."
+        },
+        {
+          "number": 8,
+          "title": "Prior approval procedures for repair work",
+          "bodySha256": "8758532a143bcf98530c4da3f4909671cbe0810f9af35079fd0d376ac37d35b9",
+          "reviewNote": "Read sub 8: if prior approval is required, requires conspicuous statement of prior-approval and claim procedures, toll-free claim number, and after-hours emergency repair procedure."
+        },
+        {
+          "number": 9,
+          "title": "Conspicuous disclosure of deductible amounts",
+          "bodySha256": "03ea469deef0d10173e62966c72ca7563d45afe1be4297b7b5a4239bca061a32",
+          "reviewNote": "Read sub 9: requires conspicuous statement of the existence of any deductible amount."
+        },
+        {
+          "number": 10,
+          "title": "Specification of covered parts, services, and exclusions",
+          "bodySha256": "e01e766c69f13977eb45655765467924bb4e1da2bcf0eb442aeeadb228f0f395",
+          "reviewNote": "Read sub 10: requires specifying merchandise and services provided and any limitations, exceptions, and exclusions."
+        },
+        {
+          "number": 11,
+          "title": "Disclosure of nonoriginal manufacturer parts",
+          "bodySha256": "c4040420383fafa877630a6d6eeec21103f699596086c764829f445e071f6e5b",
+          "reviewNote": "Read sub 11: requires stating conditions for nonoriginal manufacturer's parts, like-kind-and-quality parts, or substitute service, complying with state and federal law."
+        },
+        {
+          "number": 12,
+          "title": "Governing terms for contract transferability",
+          "bodySha256": "34012610ef2cf6b54811e6eaab1c1777bacd836f0e7f8fbca62aec9a5b6357b2",
+          "reviewNote": "Read sub 12: requires stating any terms, restrictions, or conditions governing transferability."
+        },
+        {
+          "number": 13,
+          "title": "Cancellation terms and refund calculation after free look",
+          "bodySha256": "dd6e544da4df6e77bbeaa13d5ea36a2fef246603a74912cf822f3d38b4765d9c",
+          "reviewNote": "Read sub 13: requires stating post-free-look cancellation right at any time with 100% unearned pro rata refund less claims paid, max $50 administrative fee, termination terms, and written notice within 45 days of termination."
+        },
+        {
+          "number": 14,
+          "title": "Mandatory free look cancellation period and full refund",
+          "bodySha256": "21e162c01a6403be48bd7aab6d3c862cea30e267c9782f56368e3aa19279c8f5",
+          "reviewNote": "Read sub 14: requires free look period of at least 20 business days from mailing or contract date for full refund (less claims paid if claim made), 10% monthly penalty after 45 days, limited to original purchaser."
+        },
+        {
+          "number": 15,
+          "title": "Specification of contract holder duties and maintenance",
+          "bodySha256": "2d2925de405184ee6645e48548bf9322c1458c737768bc72da89b739b3540c6b",
+          "reviewNote": "Read sub 15: requires setting forth all holder obligations and duties, such as protecting against further damage and required service/maintenance."
+        },
+        {
+          "number": 16,
+          "title": "Clear statement regarding consequential damages and preexisting conditions",
+          "bodySha256": "a887c7ebdca96308c0892aac8d6d685ee3f328a7718bcb22a89324ca4bd1c7f8",
+          "reviewNote": "Read sub 16: requires clearly stating whether consequential damages or preexisting conditions are provided for or excluded."
+        },
+        {
+          "number": 17,
+          "title": "Applicability to consumer contracts and level two violation",
+          "bodySha256": "2ee784a48a5d45b72211a9fbea3df18d83741207910b763610c9ec1567c0a431",
+          "reviewNote": "Read sub 17: applies subs 3–16 to motor vehicle extended service contracts made with consumers in Missouri and classifies violations of subs 3–16 as level two violations under § 374.049. Replaced erroneous 'commercial vehicle' draft."
+        },
+        {
+          "number": 18,
+          "title": "Level three violation classification for unlawful marketing",
+          "bodySha256": "555d93bfab8176bfa5b16f2e6f07146d912ffcb3f94abc500a276be70db4edcf",
+          "reviewNote": "Read sub 18: classifies a violation of sub 1 or 2 as a level three violation under § 374.049."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 18 subsections and source notes (L. 2007 H.B. 221, A.L. 2011 S.B. 132, A.L. 2016 H.B. 1976; effective 10-14-16 after July 1, 2016 veto was overridden Sept. 14, 2016, see § 21.250). Corrected subs 1, 4, 5, and 17 titles (sub 17 applies to consumer contracts, not commercial vehicles) and fixed factual errors in subs 13–14 notes ($50 admin fee; 20-business-day free look)."
+    },
+    {
+      "id": "385.207:21652",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.207&bid=21652",
+      "sourceSha256": "b83942f77f91d41e8d089e50df8e8c1cad6e56fbbf6e4c950a74d4f4c9371dc3",
+      "textSha256": "5ae0f9dd6475770c316d0229688a5131e2e6897be697e15246b10468a85a5e28",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Business entity producer license requirement for extended service",
+          "bodySha256": "ed07c80161f851368c00634db2d0e45afb0eee42249bd2113600a636031b66b8",
+          "reviewNote": "Read sub 1: requires business entities to obtain a business entity producer license from director before selling, offering, negotiating, or soliciting consumer contracts under § 385.206(1)(6) or (7)."
+        },
+        {
+          "number": 2,
+          "title": "Business entity producer application contents and fee",
+          "bodySha256": "4cefc1ed04af7e1f52bb10ce6bfc613d073507b6163c91fa6d2f0cb5f613b64a",
+          "reviewNote": "Read sub 2: requires application on director form, initial/renewal fee up to $100, ownership/officer/director/member disclosures by entity type, § 385.209 info, and list of salaried/commissioned sales staff for LLCs. Replaced hallucinated draft."
+        },
+        {
+          "number": 3,
+          "title": "Individual producer license requirement",
+          "bodySha256": "76a395b83f733931b5100c6d12d61253a2d5302b0877f97e61a0a6d45458bd3c",
+          "reviewNote": "Read sub 3: requires individuals to obtain an individual producer license from director before selling, offering, negotiating, or soliciting consumer contracts under § 385.206(1)(6). Replaced hallucinated draft."
+        },
+        {
+          "number": 4,
+          "title": "Individual producer application, fee, and exam exemption",
+          "bodySha256": "11b9b58f68d272c733ed96f9931248396e1f7d928a0bc60fb66a0ba6b1b4dd08",
+          "reviewNote": "Read sub 4: requires application on director form and initial/renewal fee up to $25; exempts individual producer applicants from examination. Replaced hallucinated draft."
+        },
+        {
+          "number": 5,
+          "title": "Two-year license term and biennial renewal",
+          "bodySha256": "1974209214a3c4298b597910c7155b38122ba08d0c8c4d8aeb2a11d09698b7f5",
+          "reviewNote": "Read sub 5: sets 2-year license term (unless refused under § 385.209) with biennial renewal upon application and fee payment, continuing unless terminated or sanctioned. Replaced hallucinated draft."
+        },
+        {
+          "number": 6,
+          "title": "Termination of unrenewed license on expiration date",
+          "bodySha256": "1452dcb9e014efad2b6049ac3070e5af6acc20fb81b4f1d3327313ffe49922b5",
+          "reviewNote": "Read sub 6: terminates an unrenewed producer license on its expiration date and ends authority to sell, offer, negotiate, or solicit contracts. Replaced hallucinated draft."
+        },
+        {
+          "number": 7,
+          "title": "List of Missouri locations for business entity producers",
+          "bodySha256": "3672951f04ac2fcdfdf68caf68be164dd805f05e4a8ba3857d4a5d4f8dc831e7",
+          "reviewNote": "Read sub 7: requires business entity producer at application and renewal to provide director a list of all Missouri locations where it offers contracts. Replaced hallucinated draft."
+        },
+        {
+          "number": 8,
+          "title": "Rulemaking authority for producer licensing and practices",
+          "bodySha256": "da301e3de2f09f380a0e278b1584d0bbd26dafba84b6fd231ba7f4bb92996e7f",
+          "reviewNote": "Read sub 8: mandates director to adopt rules under § 385.218 relating to licensing and practices of producers under this section. Replaced hallucinated draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 8 subsections and source notes (L. 2011 S.B. 132, effective 1-01-12). Confirmed sub 1 and replaced all 7 completely hallucinated draft titles in subs 2–8 (business entity application/fee, individual licensure/fee/exam exemption, 2-year term/renewal, expiration termination, Missouri location list, and § 385.218 rulemaking)."
+    },
+    {
+      "id": "385.208:21653",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.208&bid=21653",
+      "sourceSha256": "664abe1bee90574398d6e90f5190f645edfdfec706f5c6b78e9505002dfbe0c2",
+      "textSha256": "f4e04d6e9557aa224493df69c6a0a4cbabc3a844c3937f876adfd32f8a6cbe3b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibited names and deceptive marketing representations",
+          "bodySha256": "b7e4605ba77bdf367665efd0a3c65ad77184492c09c85df33a3736ece7291267",
+          "reviewNote": "Read sub 1 (2 subdivisions): bars insurance/warranty/surety names (with pre-Jan. 1, 2011 grandfathering and non-insurance disclosure) and false/deceptive/misleading marketing statements about manufacturer affiliation, warranty status, or terms; level three violation under § 374.049. Broadened draft title."
+        },
+        {
+          "number": 2,
+          "title": "Fraudulent schemes and material misrepresentations prohibited",
+          "bodySha256": "ca32db92980b95fade6f5dc3129eab491592fb8e5302413882ef3870b14a0614",
+          "reviewNote": "Read sub 2 (4 subdivisions): prohibits schemes to defraud, material misrepresentations/concealment, patterns of false material statements, or fraudulent business practices in offer/sale/solicitation/negotiation; level three violation under § 374.049. Refined draft title."
+        },
+        {
+          "number": 3,
+          "title": "Felony penalty and restitution for intentional fraud",
+          "bodySha256": "24c80651ed18b7314146e26183db804e791a30dcb26df5359de5213adb5c0b10",
+          "reviewNote": "Read sub 3: makes knowing violation of sub 2 with intent to defraud a felony punishable by up to 10 years' imprisonment, plus discretionary court-ordered victim restitution. Replaced shifted draft."
+        },
+        {
+          "number": 4,
+          "title": "Prohibition on requiring contract for loan or sale",
+          "bodySha256": "fa1cacdaad6d4505ba673afec0937d421ff30dda27f0ea5a271a4f83b4106fbd",
+          "reviewNote": "Read sub 4: prohibits banks, lenders, manufacturers, or sellers from requiring service contract purchase as a condition of a loan or property sale; level one violation under § 374.049. Replaced hallucinated draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 4 subsections and source notes (L. 2007 H.B. 221, A.L. 2011 S.B. 132, effective 1-01-12). Corrected all 4 shifted/hallucinated draft titles (prohibited names and deceptive marketing in sub 1, fraudulent schemes in sub 2, felony/restitution penalty in sub 3, and loan/sale conditioning ban in sub 4)."
+    },
+    {
+      "id": "385.209:21654",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.209&bid=21654",
+      "sourceSha256": "1bac2ba32390880fa61934bc3ae728cb0776c27edcac1586d0659b81ba945a64",
+      "textSha256": "7d456190227a2eec4c9f2f2321e9d2ad725890583165314c598152ab4be1ab88",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Grounds for license or registration disciplinary action",
+          "bodySha256": "ba9f8b132e34cbe11f00ae323ff56000567de2403c446137ddfae14f420a3ae9",
+          "reviewNote": "Read sub 1 (14 subdivisions): permits director to suspend, revoke, refuse to issue, or refuse to renew any registration or license under §§ 385.200–385.220 for 14 enumerated causes involving applicant, licensee, or affiliated entities. Broadened from business entity only."
+        },
+        {
+          "number": 2,
+          "title": "Notice of license denial or nonrenewal and right of appeal",
+          "bodySha256": "4fe5e2ee84d50abfb7e13123226b426b503969fc37fecd548eb2123254b337a5",
+          "reviewNote": "Read sub 2: requires written notice of reasons for denial or nonrenewal with ch. 621 appeal rights; director retains refusal discretion notwithstanding § 621.120."
+        },
+        {
+          "number": 3,
+          "title": "Business entity liability for acts of individual representatives",
+          "bodySha256": "5aa3fff261c396779124bd3128057877562260ce62a51536842a168107ae8bf1",
+          "reviewNote": "Read sub 3: permits sanctioning a business entity producer if partners, officers, or managers knew or should have known of an individual's violation and failed to report or correct it."
+        },
+        {
+          "number": 4,
+          "title": "Discipline of expired or surrendered licenses",
+          "bodySha256": "27327603d07cd9749a8170b3a4458e9c6135227289679bd442cfe6df7262fae3",
+          "reviewNote": "Read sub 4: permits director to revoke or suspend under sub 1 any license that the licensee failed to renew or surrendered."
+        },
+        {
+          "number": 5,
+          "title": "Thirty-day notice of producer address change",
+          "bodySha256": "569886917bf18e5f13ef986a365201caab2beeccd96314a8128ed59f574e4514",
+          "reviewNote": "Read sub 5: requires every licensed producer to report any address change within 30 days on prescribed forms; permits immediate revocation until service is obtained if failure prevents §§ 621.045–621.198 complaint service. Broadened from business address."
+        },
+        {
+          "number": 6,
+          "title": "Thirty-day reporting of revocations and civil actions",
+          "bodySha256": "074a92646690c95d99b9fa4769281f4b1bb574a08605cc4b8f381a1d6097667f",
+          "reviewNote": "Read sub 6: requires producer to report any license revocation or civil action in another jurisdiction or by another Missouri government agency within 30 days of final disposition, with orders/legal documents. Refined scope."
+        },
+        {
+          "number": 7,
+          "title": "Reporting of criminal felony proceedings within thirty days",
+          "bodySha256": "338d7c27377b75c9b27371749ff9d4f9c687327f7f6aabf54fbfebbff70361e0",
+          "reviewNote": "Read sub 7: requires producer to report any state or federal felony proceeding within 30 days of initial pretrial hearing or arraignment, with indictment/information and hearing orders."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 7 subsections and source notes (L. 2011 S.B. 132, effective 1-01-12). Refined subs 1, 5, and 6 titles (sub 1 covers all registrations/licenses, not just business entities; sub 5 covers any producer address change; sub 6 covers revocations and civil actions in other jurisdictions or by Missouri agencies)."
+    },
+    {
+      "id": "385.210:21655",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.210&bid=21655",
+      "sourceSha256": "064ac613d53c57b643c668a649c03ec7e67d975e2d6613dd796c435b547a1535",
+      "textSha256": "7a90e62e4b585c08db17b34dcf114d4c5ca70bf190a913537ab2690154751623",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Duty to keep accurate books and accounts",
+          "bodySha256": "f172ca573446e34ccc06ca634cdc79db10b7b6ce52d73e325f30660b8d382cc3",
+          "reviewNote": "Read sub 1: requires administrators, providers, and other intermediaries to keep accurate accounts, books, and records of §§ 385.200–385.220 transactions."
+        },
+        {
+          "number": 2,
+          "title": "Required contents of books and transaction records",
+          "bodySha256": "d88a3be3882103e32cf883d06716ec22e19f0c5d304002dc49766d4a16b123e0",
+          "reviewNote": "Read sub 2 (4 subdivisions): requires records to include copies of each contract type, furnished holder names/addresses, provider sales locations, and claims files with dates, amounts, and descriptions."
+        },
+        {
+          "number": 3,
+          "title": "Three-year record retention period after coverage expiration",
+          "bodySha256": "10df7174f6bae68c6503df98feb801fea71a690eec7314e69de9cbc6e2456850",
+          "reviewNote": "Read sub 3: requires an administrator to retain records for each contract holder for at least 3 years after specified coverage expires (except as provided in section)."
+        },
+        {
+          "number": 4,
+          "title": "Electronic recordkeeping and terminal access for director",
+          "bodySha256": "1456b4fb7dd7f7bd94af3ba4900743dea50e4fa3df9c234de441fd9592497aa4",
+          "reviewNote": "Read sub 4: permits electronic recordkeeping on computer disk or similar technology if accessible from a terminal available to director and duplicable to legible hard copy."
+        },
+        {
+          "number": 5,
+          "title": "Record maintenance upon discontinuing business",
+          "bodySha256": "20640b10cf9caab59c39c2aa7739a8218c1865ae0a978a9990360b77a0b956ab",
+          "reviewNote": "Read sub 5: requires discontinuing administrators, providers, or intermediaries to maintain records until furnishing director satisfactory proof all Missouri holder obligations are discharged."
+        },
+        {
+          "number": 6,
+          "title": "Records availability for director examination",
+          "bodySha256": "af0e3f59550f628222228fe812348131da88d026c0e4a40a10a726f37900e5b0",
+          "reviewNote": "Read sub 6: requires making all accounts, books, and records concerning regulated transactions or pertinent laws available to director upon request."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 6 subsections and source notes (L. 2007 H.B. 221, effective 1-01-08, see § 385.321). Confirmed all 6 draft titles covering books and records, required contents, 3-year administrator retention, electronic storage, discontinuance retention, and director inspection."
+    },
+    {
+      "id": "385.211:21656",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.211&bid=21656",
+      "sourceSha256": "586ee5034ee18a1a1b4c1eaf848ee7a677a4e0d58b5c124b75c22c53665a2498",
+      "textSha256": "00df33aacb142ab97d42b96af03285a56e86e6c681d4295e1b6dd634b0978778",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Registry of authorized business entity producers",
+          "bodySha256": "29b6a10cc91c85cb87dbe99b50ad425aa95d8f79462e17ac110097457dbc896c",
+          "reviewNote": "Read sub 1: requires registered providers to maintain an inspectable register of authorized business entity producers and enter names/license numbers within 30 days of authorization."
+        },
+        {
+          "number": 2,
+          "title": "Termination of producer appointment and notice of cause",
+          "bodySha256": "99a251b2590726cbe6207deb63364188fbe541dc800f2f667d7f0a4ca850fa22",
+          "reviewNote": "Read sub 2: requires updating registry within 30 days of terminating a business entity producer's appointment, notifying director in writing of any § 385.209 disciplinary cause, with § 375.022 privileges and immunities."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 2011 S.B. 132, effective 1-01-12). Confirmed both draft titles for registered provider's business entity producer registry and 30-day termination updates with § 385.209 cause reporting."
+    },
+    {
+      "id": "385.214:21658",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.214&bid=21658",
+      "sourceSha256": "eaf92b7aa48bb752a03cda9ccc1bc5260e0d5e56ee44ec96b6f63292654368fc",
+      "textSha256": "5039528a547041db2dd2259e28b043a36b23007e28fc54bd7348c3fe9ece0a53",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Provider considered agent of reimbursement insurer",
+          "bodySha256": "f2d7b5c24d7d8302a25ec8dd29729cedb3d635c964ab03fb322b04e37a8fb04f",
+          "reviewNote": "Read sub 1: considers providers agents of the reimbursement insurance policy issuer; requires provider-administrators enlisting other providers to notify the insurer of their existence and identities."
+        },
+        {
+          "number": 2,
+          "title": "Insurer subrogation and indemnification rights against provider",
+          "bodySha256": "72b0314434f84d00add629435ab111f2ad10aa7594909a4e783ac67b620da927",
+          "reviewNote": "Read sub 2: preserves a reimbursement insurer's right to seek indemnification or subrogation against a provider when paying or obligated to pay sums owed by the provider."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 2007 H.B. 221). Confirmed both draft titles for provider agency status with reimbursement insurers and preserved insurer indemnification/subrogation rights."
+    },
+    {
+      "id": "385.216:21659",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.216&bid=21659",
+      "sourceSha256": "ae242d65359b245c358f4f14754c2a5f59503b3d51cfbe618546c087e3d4b7d6",
+      "textSha256": "bd7098d60f9d9b53f2dcd6ec7c6ccadcccb5f2e0a70d22afaf3189883dbc37f5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Director authority to investigate and examine providers",
+          "bodySha256": "42d484f1cb7534bc6e7c974fce3baafec292544f56a5fd1b729c4fe8a00d19f7",
+          "reviewNote": "Read sub 1: permits director to conduct investigations or examinations of providers, administrators, insurers, or other persons to enforce §§ 385.200–385.220 and protect holders."
+        },
+        {
+          "number": 2,
+          "title": "Administrative enforcement orders and cease and desist remedies",
+          "bodySha256": "63061062553332c44ddd265b85e834b4326faeabc464e776f831c6f4e9188a92",
+          "reviewNote": "Read sub 2: permits director administrative orders under § 374.046 for §§ 385.200–385.220 violations; classifies violation as level two under § 374.049."
+        },
+        {
+          "number": 3,
+          "title": "Civil actions for service contract violations",
+          "bodySha256": "1303358b831e859493ac16970538cbde6efa90d1c74f5db6cb8d252d6d73be9e",
+          "reviewNote": "Read sub 3: permits director to maintain a civil action for relief under § 374.048 for §§ 385.200–385.220 violations (level two under § 374.049). Removed 'in circuit court' not stated in text."
+        },
+        {
+          "number": 4,
+          "title": "Cumulative nature of statutory enforcement powers",
+          "bodySha256": "65d9fea497527d33ed36a4417b73de7835fa4cc4d6cb22bc23a0c9fa2e091f81",
+          "reviewNote": "Read sub 4: declares director's enforcement authority under this section cumulative to any other statutory authority."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 4 subsections and source notes (L. 2007 H.B. 221). Confirmed subs 1, 2, and 4 and removed unsupported 'in circuit court' phrase from sub 3 title."
+    },
+    {
+      "id": "385.220:49889",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.220&bid=49889",
+      "sourceSha256": "17c0d3a6bb498c7311cad87209c28322343990f00c5161d8f8cfeffe29729a38",
+      "textSha256": "48788ac485ad93e3409a770a2736403b3fd7a9127af7c215d73e355ac214a08c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exempted transactions and contracts",
+          "bodySha256": "019d4daa21a8244a240cdeaa633c8566a8b508ad9d19162ee98ab595c378de1b",
+          "reviewNote": "Read sub 1 (5 subdivisions): exempts warranties, maintenance agreements, commercial transactions, non-consumer service contracts, and § 385.450 motor club contracts from §§ 385.200–385.220."
+        },
+        {
+          "number": 2,
+          "title": "Limited compliance for manufacturer product contracts",
+          "bodySha256": "7d8734a1f5e3500a954b5eb7434f65739477133807c9354a42ccf4086b5d2a9d",
+          "reviewNote": "Read sub 2: requires manufacturer's contracts on the manufacturer's own products to comply only with §§ 385.206, 385.208, and 385.216."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 2007 H.B. 221, A.L. 2021 S.B. 6). Confirmed both draft titles for exempted transactions (including § 385.450 motor club contracts) and limited manufacturer contract compliance."
+    },
+    {
+      "id": "385.302:21663",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.302&bid=21663",
+      "sourceSha256": "78f6b8a4807e7dd2f158d0f8e56721d8ab3130f678a6ac3724db27049911b02c",
+      "textSha256": "eeb3202ddc577989024cdc6fcb99f2e846900114bf58d01ba25948bc6f5a718e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Registration and annual fee requirement for non-vehicle service providers",
+          "bodySha256": "4c47de7d105f12663530d40d3e956db5256c15a4b75a1468a33c151ac6dbcc9d",
+          "reviewNote": "Read sub 1: bars issuing/selling/offering service contracts unless each provider registers on director form and pays annual fee set by rule up to $300."
+        },
+        {
+          "number": 2,
+          "title": "Appointment of third-party contract administrator",
+          "bodySha256": "1787debda32b91551a65b90a66eb3e801a65670c67bfe5067ab45eedacd2d022",
+          "reviewNote": "Read sub 2: permits (but does not require) a provider to appoint an administrator or designee for administration and §§ 385.300–385.320 compliance."
+        },
+        {
+          "number": 3,
+          "title": "Delivery of copy of service contract to holder",
+          "bodySha256": "fc741e2fc658d6b8a6879a238fe8e048f9d41f10ed4457a2f03503b7eaab10cd",
+          "reviewNote": "Read sub 3: requires provider or designee to deliver a copy of the service contract to the holder within a reasonable time after purchase."
+        },
+        {
+          "number": 4,
+          "title": "Financial security compliance options for providers",
+          "bodySha256": "7663e97301b41219847dda4f66ff837b4581b6967e2a44603a46a640c16a4c5e",
+          "reviewNote": "Read sub 4 (4 subdivisions): requires financial assurance via 40% funded reserve + 5%/$25k security deposit, $100M net worth (with Form 10-K/20-F or audited statements and parent guarantee), or qualifying reimbursement insurance; footnote notes original rolls use 'above' in (4)."
+        },
+        {
+          "number": 5,
+          "title": "Exemption of provider fees from premium taxes",
+          "bodySha256": "f0f5409a0b542dc1cbcaf988ef1ce0c4a630f1dccd01acaf46123e5fc5d67e96",
+          "reviewNote": "Read sub 5: exempts provider fees on service agreements from premium taxes while keeping reimbursement insurance premiums taxable."
+        },
+        {
+          "number": 6,
+          "title": "Exemption of marketing personnel from producer licensing",
+          "bodySha256": "8188889b5d1decacde9a66f89708def7aff4ba48bed246ca232f80d943b9bf7c",
+          "reviewNote": "Read sub 6: exempts persons marketing, selling, or offering contracts for registered providers from insurance producer licensing, except sub 1 provider registration."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 6 subsections and source notes (L. 2007 H.B. 221, effective 1-01-08, see § 385.321; footnote notes word 'above' appears in original rolls at sub 4(4)). Confirmed all 6 draft titles and corrected sub 4 note ($100M net worth, not $25M)."
+    },
+    {
+      "id": "385.306:33865",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.306&bid=33865",
+      "sourceSha256": "ceca3343437eda6a32308329864abda344461bd1c18fbfcbbac1d3e3c601639b",
+      "textSha256": "20e8e67973751dfe685238b88d0ca8cb0c26512f123150ce2cf6406d1b610989",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Clear and understandable language requirement",
+          "bodySha256": "acea64c934eaaf0e50a90b23c4fadc94291750a322ece19c53a258946af8ea12",
+          "reviewNote": "Read sub 1: requires clear, conspicuous, understandable language and easy-to-read print/type conspicuously disclosing applicable section requirements."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory disclosures for insured reimbursement contracts",
+          "bodySha256": "01486f489d210640368801874cf89ec15d8e120c4a61ea84a960affa073c63d9",
+          "reviewNote": "Read sub 2: requires reimbursement-insured contracts to include statutory guarantee/60-day direct-claim statement, optional unearned fee claim note, and insurer name and address."
+        },
+        {
+          "number": 3,
+          "title": "Mandatory disclosures for non-insured service contracts",
+          "bodySha256": "c6c38decbe8b3e61f89c8f8240244758463751987e68ff9d507401d01fc6c068",
+          "reviewNote": "Read sub 3: requires non-reimbursement-insured contracts to include statutory full-faith-and-credit/non-insured statement, unearned fee claim right, and provider name and address. Broadened from 'reserve contracts' to all non-insured contracts."
+        },
+        {
+          "number": 4,
+          "title": "Identification of administrator, provider, and seller",
+          "bodySha256": "78e34ee54dd74fc58b2250cecbb62e8e45f3cf2495808018db445617ee034ab4",
+          "reviewNote": "Read sub 4: requires identifying any administrator, obligated provider, and seller (if different); identities need not be preprinted and may be added before delivery."
+        },
+        {
+          "number": 5,
+          "title": "Conspicuous statement of total purchase price and terms",
+          "bodySha256": "468b659cd064cfd987e5adc08984d13d4a7b5ee39243ec36faa341f3d684fad9",
+          "reviewNote": "Read sub 5: requires stating total purchase price and sale terms; purchase price need not be preprinted and may be negotiated at sale."
+        },
+        {
+          "number": 6,
+          "title": "Prior approval procedures for repair work",
+          "bodySha256": "a0859093ec5efea22421b6f6b7ba768efb28d715424ac26a91ad481804ffac06",
+          "reviewNote": "Read sub 6: if prior approval is required, requires stating prior-approval and claim procedures, toll-free claim number, and after-hours emergency repair procedure."
+        },
+        {
+          "number": 7,
+          "title": "Conspicuous disclosure of deductible amounts",
+          "bodySha256": "668d409a5dd3fadca5f4845aef2f7e608ed085e5e7d5391c1b58c49594a5f426",
+          "reviewNote": "Read sub 7: requires stating the existence of any deductible amount."
+        },
+        {
+          "number": 8,
+          "title": "Specification of covered merchandise, services, and exclusions",
+          "bodySha256": "1b3328b421c2f44607b03be67a7d7ed21ccff51e8cb97da44315c413ba8633f3",
+          "reviewNote": "Read sub 8: requires specifying merchandise and services provided and any limitations, exceptions, or exclusions."
+        },
+        {
+          "number": 9,
+          "title": "Disclosure of nonoriginal or refurbished replacement parts",
+          "bodySha256": "894a3ed63ee076484cc1799c578d18bafab404a5003df06156dfb53dec4c0739",
+          "reviewNote": "Read sub 9: requires stating conditions for nonoriginal manufacturers' parts, refurbished merchandise, or substitute service, complying with state and federal law."
+        },
+        {
+          "number": 10,
+          "title": "Governing terms for contract transferability",
+          "bodySha256": "d745748eb00794c15fbe7f75b0ef490ec378c8065e87ccf1ce4c463d25e20368",
+          "reviewNote": "Read sub 10: requires stating any terms, restrictions, or conditions governing contract transferability."
+        },
+        {
+          "number": 11,
+          "title": "Terms and conditions governing contract termination",
+          "bodySha256": "eb31486daebcc95b37cef27e1abef029a535f4fff4f08e2d68036088c05930cf",
+          "reviewNote": "Read sub 11: requires stating any terms, restrictions, or conditions governing termination of the service agreement by holder and provider. Removed draft's fabricated refund/10% fee claim."
+        },
+        {
+          "number": 12,
+          "title": "Mandatory free look cancellation period and full refund",
+          "bodySha256": "f4ee175bff172691f389d04a3645d9a8b9b58c17bb22091bfb3f5db413ba531f",
+          "reviewNote": "Read sub 12: for contracts with separate identified consideration, requires 20-day (mailed) or 10-day (delivered at sale) free look for full refund if no claim made, 10% monthly penalty after 45 days, original purchaser only."
+        },
+        {
+          "number": 13,
+          "title": "Specification of contract holder duties and care",
+          "bodySha256": "03ed9e3bf9aae50ea6e2a23573f09b30fdb4b9e42fccb3c1654e02b88ec9fe9d",
+          "reviewNote": "Read sub 13: requires setting forth all holder obligations and duties, such as protecting against further damage and required service/maintenance."
+        },
+        {
+          "number": 14,
+          "title": "Clear statement regarding consequential damages and preexisting conditions",
+          "bodySha256": "5b0ab9718025ded925e9782404569d591c4a1b9d0917d58423c142ae4f6d1759",
+          "reviewNote": "Read sub 14: requires clearly stating whether consequential damages, preexisting conditions, or events covered under original manufacturer's warranty are provided for or excluded."
+        },
+        {
+          "number": 15,
+          "title": "Limitations on number or value of repairs or replacements",
+          "bodySha256": "c3c489802fa37ddf9b6d1c2a77757d5084ddd2e1c050048e1736001654510b79",
+          "reviewNote": "Read sub 15: requires stating any limitations on number or value of repairs, replacements, or monetary settlements during coverage term."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 15 subsections and source notes (L. 2007 H.B. 221, A.L. 2016 H.B. 1976; effective 10-14-16 after July 1, 2016 veto was overridden Sept. 14, 2016, see § 21.250). Corrected subs 3 and 11 titles (sub 11 requires stating termination terms only, with no 10% fee formula) and fixed inaccurate draft notes in subs 4 and 5."
+    },
+    {
+      "id": "385.308:21666",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.308&bid=21666",
+      "sourceSha256": "c86d6a2e7925a059d8f2795645d807af696e9b232b244298608ba24cbb271705",
+      "textSha256": "477efe0c6a7df59472dd10ba9b8b17dd489e81ec1126d7f2126a7f8296174000",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition on deceptive or misleading names",
+          "bodySha256": "8fa276ac45cc1f2f5c1b20f1e24aa0fa775f2a047534536014daa32321b94011",
+          "reviewNote": "Read sub 1: bars providers from using insurance, casualty, guaranty, surety, mutual, or deceptively similar insurance/provider words in their names."
+        },
+        {
+          "number": 2,
+          "title": "Pre-2007 name grandfathering and non-insurance disclosure",
+          "bodySha256": "3205ffe0d4183a8160b421f0005a266ed7cab8d8674943a38765942b4f59d3f1",
+          "reviewNote": "Read sub 2: exempts companies using prohibited language before Aug. 28, 2007, provided they disclose in service contracts 'This contract is not an insurance contract.'. Replaced shifted draft."
+        },
+        {
+          "number": 3,
+          "title": "Prohibition on false or misleading statements and omissions",
+          "bodySha256": "b909be187a48bfb44fd4b90217e03f92bbb87aaea4f5cb70256576062ba5c30b",
+          "reviewNote": "Read sub 3: makes it unlawful for a provider or representative to make false/misleading statements or deliberately omit material statements in contracts, literature, sales, or ads. Replaced shifted draft."
+        },
+        {
+          "number": 4,
+          "title": "Prohibition on conditioning loans on service contract purchase",
+          "bodySha256": "2ab45afdbe66dd6e749d2ff6ad1b21bf3b7fd082fb8c24712d602a45aac18913",
+          "reviewNote": "Read sub 4: makes it unlawful for a bank, savings and loan, or lending institution to require purchasing a service contract as a condition of a loan or financing. Replaced hallucinated draft."
+        },
+        {
+          "number": 5,
+          "title": "Prohibition on conditioning sales on service contract purchase",
+          "bodySha256": "865958df8ca85329f24e6963b3cc01b80ed75c6c0f736b357934eebcd4b9ef64",
+          "reviewNote": "Read sub 5: makes it unlawful for a manufacturer or retailer to require purchasing a service contract as a condition to the sale of goods or services. Replaced hallucinated draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 5 subsections and source notes (L. 2007 H.B. 221). Confirmed sub 1 and replaced shifted/hallucinated draft titles in subs 2–5 (pre-Aug. 28, 2007 name grandfathering, false/misleading statements, loan conditioning ban, and goods/services sale conditioning ban)."
+    },
+    {
+      "id": "385.310:21667",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.310&bid=21667",
+      "sourceSha256": "483b8e15cfab5587053828bda8a3b078ebff993e91e221474f4909106a9dae7c",
+      "textSha256": "1984d205d2ab618102aa105aee82664b7444a407b1221e6908db96574d8eba24",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Duty to keep accurate books and accounts",
+          "bodySha256": "5caefc9c234b6b9fbab248a6c918af963d7bb9bfcc58fca86abc198659e6b272",
+          "reviewNote": "Read sub 1: requires providers or administrators to keep accurate accounts, books, and records for §§ 385.300–385.320; allows single set maintained by third parties."
+        },
+        {
+          "number": 2,
+          "title": "Required contents of books and transaction records",
+          "bodySha256": "b2458e07a0ae9e5e99e5b1fd022ec3177e5fcf673159ab3944e682ac193dd44c",
+          "reviewNote": "Read sub 2 (4 subdivisions): requires copies of each contract type, furnished holder names/addresses, provider sales locations, and claims files with dates, amounts, and descriptions."
+        },
+        {
+          "number": 3,
+          "title": "Three-year record retention period after coverage expiration",
+          "bodySha256": "f75311a10dac84bf6343bee154f3550000783e492065f6cd38c647954ab4d84e",
+          "reviewNote": "Read sub 3: requires administrator or provider (except under sub 5) to retain or arrange retention of holder records for at least 3 years after coverage expires."
+        },
+        {
+          "number": 4,
+          "title": "Electronic recordkeeping and terminal access for director",
+          "bodySha256": "ed41ff7ec9ff601e4e22880c5585c5f748ea46488ba2c0f6bb35741bfb937d7c",
+          "reviewNote": "Read sub 4: permits electronic recordkeeping on computer disk or similar technology if accessible from a terminal available to director and duplicable to legible hard copy."
+        },
+        {
+          "number": 5,
+          "title": "Record maintenance upon discontinuing business",
+          "bodySha256": "919025a1adfd50a88a09a4e0cc76cb20f088f7dbac1d319a33867094c6a64ba4",
+          "reviewNote": "Read sub 5: requires discontinuing administrator or provider to maintain or arrange maintenance of records until proving discharge of all Missouri holder obligations."
+        },
+        {
+          "number": 6,
+          "title": "Records availability for director examination",
+          "bodySha256": "140585d408f594da90b1fb7697cc3aeafe391d0a0f3064a418132876a139c05d",
+          "reviewNote": "Read sub 6: requires making all accounts, books, and records concerning §§ 385.300–385.320 transactions or pertinent laws available to director upon request."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 6 subsections and source notes (L. 2007 H.B. 221, effective 1-01-08, see § 385.321). Confirmed all 6 draft titles for non-vehicle service contract recordkeeping, required contents, 3-year retention, electronic storage, discontinuance, and director access."
+    },
+    {
+      "id": "385.314:21669",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.314&bid=21669",
+      "sourceSha256": "d7df8360b1578e421c07a2d8e4d94580ee0b0c05cc4ec5977ae34104f256357c",
+      "textSha256": "629f22ae3afed67ad9da184178d317ca51940a838e5ce9392e90b388ead79947",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Provider considered agent of reimbursement insurer",
+          "bodySha256": "2a1608fdff6ce7ab2d5b32aedc14586ecc541c845470ef9341c58295885f57ba",
+          "reviewNote": "Read sub 1: considers providers agents of the reimbursement insurer for obligating the insurer to contract holders; provider's premium payment is not a condition to insurer obligations for validly issued contracts."
+        },
+        {
+          "number": 2,
+          "title": "Insurer subrogation and indemnification rights against provider",
+          "bodySha256": "77ce185b0f57d5954546e31caa472160d85e2c59963b13707624150b08d53206",
+          "reviewNote": "Read sub 2: preserves reimbursement insurer's right to seek indemnification or subrogation against a provider when paying or obligated to pay sums owed under the product service contract."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 2007 H.B. 221). Confirmed both draft titles and fixed sub 1 note (payment of premium by provider is not a condition to insurer's obligations; no enlisted-provider notice requirement here)."
+    },
+    {
+      "id": "385.316:21670",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.316&bid=21670",
+      "sourceSha256": "c66deb1c694d6d47802f93a2515a50e182c0952863d280a697ae786012d31c06",
+      "textSha256": "e7127b89d936c0b8eb891f3220347cbc63e454d5ad4444361b745ade488ee9f4",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Director authority to investigate and examine providers",
+          "bodySha256": "626bddc6cdedf498f48b70a950e15b645b111c6a98a901d6641e5ed693410a00",
+          "reviewNote": "Read sub 1: permits director to conduct investigations or examinations of providers, administrators, insurers, or other persons to enforce §§ 385.300–385.320 and protect holders."
+        },
+        {
+          "number": 2,
+          "title": "Administrative enforcement orders and cease and desist remedies",
+          "bodySha256": "d4603e894d26e1798d9281c63a35c9a220ac57a01a70465b3128e427f14464b6",
+          "reviewNote": "Read sub 2: permits director administrative orders under § 374.046 for §§ 385.300–385.320 violations; classifies violation as level two under § 374.049."
+        },
+        {
+          "number": 3,
+          "title": "Civil actions for service contract violations",
+          "bodySha256": "792301f19b225e68c935b36976348de8092f75fec92cbca9ed36f59ca7918a73",
+          "reviewNote": "Read sub 3: permits director to maintain a civil action for relief under § 374.048 for §§ 385.300–385.320 violations. Removed 'in circuit court' not stated in text."
+        },
+        {
+          "number": 4,
+          "title": "Cumulative nature of statutory enforcement powers",
+          "bodySha256": "65d9fea497527d33ed36a4417b73de7835fa4cc4d6cb22bc23a0c9fa2e091f81",
+          "reviewNote": "Read sub 4: declares director's enforcement authority under this section cumulative to any other statutory authority."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 4 subsections and source notes (L. 2007 H.B. 221). Confirmed subs 1, 2, and 4 and removed unsupported 'in circuit court' phrase from sub 3 title."
+    },
+    {
+      "id": "385.320:49890",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.320&bid=49890",
+      "sourceSha256": "463eb26c9e79045d44810abd4293c7ece0b072d2777a738cd1892e705c22a38b",
+      "textSha256": "9896f85ab4e6a8802c344500086e6552a8b9f0e3aeb98e101ff5210320a7c4e3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exempted transactions and contracts",
+          "bodySha256": "37627cc2fa4d266f66f61afaf176bc77e61e31ab889d3701496e99ff29dd58e7",
+          "reviewNote": "Read sub 1 (8 subdivisions): exempts warranties, maintenance agreements, regulated utility transmission contracts, non-consumer contracts, nonresident sales, § 385.200 motor vehicle contracts, § 385.450 motor club contracts, and real-property system/appliance/structural agreements."
+        },
+        {
+          "number": 2,
+          "title": "Limited compliance for manufacturer product contracts",
+          "bodySha256": "4ae1be278ae86a445a013a528db9c3bcc0780176d22d92226140d2e79115c9cd",
+          "reviewNote": "Read sub 2: requires manufacturer's service contracts on the manufacturer's own products to comply only with §§ 385.306, 385.308, and 385.316."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 2007 H.B. 221, A.L. 2021 S.B. 6). Confirmed both draft titles and expanded sub 1 note to cover all 8 exempted categories."
+    },
+    {
+      "id": "385.406:21676",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.406&bid=21676",
+      "sourceSha256": "3596efceb4121ac9834ccb7e88073aa6024c522c628e07e4852d0cb73fbe9c9a",
+      "textSha256": "a47ea53fdab6008278c744b6372f118e9ddf90d987e9790741c476728e433093",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Compliance required to sell vehicle protection products",
+          "bodySha256": "6f64ace05af0286b35f1acf1356c3dca7ffe9840d60205f484c8f3221b065096",
+          "reviewNote": "Read sub 1: prohibits selling or offering a vehicle protection product in Missouri unless seller, warrantor, and administrator comply with §§ 385.400–385.436. Replaced hallucinated draft."
+        },
+        {
+          "number": 2,
+          "title": "Exemption of compliant warrantors from state insurance code",
+          "bodySha256": "ba04e25c5ff04d8d79f2ee955a8b980713e264a7b58797f0b1a0b5a72d96bcc7",
+          "reviewNote": "Read sub 2: exempts compliant vehicle protection product warrantors, sellers, and warranty administrators from all other state insurance code provisions. Replaced hallucinated draft."
+        },
+        {
+          "number": 3,
+          "title": "Mutual exemptions with motor vehicle service contracts",
+          "bodySha256": "296e041f70b50eebc09bc820ecbef5fe6797a13cbfbc7dd01a4963a1bf7f6660",
+          "reviewNote": "Read sub 3: exempts service contract providers not selling vehicle protection products from §§ 385.400–385.436 and exempts vehicle protection product sales from §§ 385.200–385.220. Replaced hallucinated draft."
+        },
+        {
+          "number": 4,
+          "title": "Exemption for non-vehicle-protection warranties and guarantees",
+          "bodySha256": "8f668abacf8c9d87c8b14c98811ec0fe4043250586731ecfe4d3b2c1ad3d62d0",
+          "reviewNote": "Read sub 4: exempts warranties, indemnity agreements, and guarantees not provided as part of a vehicle protection product from §§ 385.400–385.436. Replaced hallucinated draft."
+        },
+        {
+          "number": 5,
+          "title": "Authority of licensed lenders to sell service contracts",
+          "bodySha256": "096aafae0b76536d3b8e532960278f45c10e1051845400323fb79338237194de",
+          "reviewNote": "Read sub 5: permits businesses licensed under §§ 367.100–367.215 or §§ 367.500–367.533 to offer/sell §§ 385.200, 385.300, and 385.403 service contracts notwithstanding §§ 408.140 and 408.233 if compliant with chapter. Replaced hallucinated draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 5 subsections and source notes (L. 2008 S.B. 930 & 947, effective 1-01-09). Replaced all 5 completely hallucinated draft titles (which described warrantor registration and financial security) with accurate headings for applicability, mutual exemptions, and licensed lender sales authority."
+    },
+    {
+      "id": "385.409:21677",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.409&bid=21677",
+      "sourceSha256": "5d05ff350459c8e25b12d63cef5d102007166e8ea43e18cce4fc3f4953b82e02",
+      "textSha256": "e70b8ee33a01b6bccb865835648688998735e785cfa2eee27d92af049a3846ed",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory warrantor registration with department",
+          "bodySha256": "729e244a539b03e016fdfd3fba6495999bd5a263fdf35c5fed23b03de22de9c8",
+          "reviewNote": "Read sub 1: prohibits operating or representing oneself as a warrantor unless registered with the department on director-prescribed form. Replaced hallucinated draft."
+        },
+        {
+          "number": 2,
+          "title": "Annual registration records, updates, and required contents",
+          "bodySha256": "6882fdac8ede8f2e966e85bceaf517602edebb4971c66d231d10c9632411f840",
+          "reviewNote": "Read sub 2 (7 subdivisions): requires annual registration filings updated within 30 days of change, detailing names/address/phone, service agent, executive officers, administrators, § 385.412 financial proof, warranty copies, and qualification basis. Replaced hallucinated draft."
+        },
+        {
+          "number": 3,
+          "title": "Annual registration fee and public record disclosures",
+          "bodySha256": "f09b51dd991326611ceec95dcf6c42a5f1bffc285713d2e692543bfc0207c468",
+          "reviewNote": "Read sub 3: permits director to charge a reasonable registration fee up to $500 annually (or as set by rule) and makes sub 2(1)–(2) information publicly available. Replaced hallucinated draft."
+        },
+        {
+          "number": 4,
+          "title": "Notice and thirty-day grace period before suspension",
+          "bodySha256": "7c14682b7a2ad062529f2ebd9a80c3414311ad78b73f71cba09142cb042c87ef",
+          "reviewNote": "Read sub 4: requires written notice when a registrant misses the renewal deadline, granting 30 days to complete renewal before registration suspension. Replaced hallucinated draft."
+        },
+        {
+          "number": 5,
+          "title": "Exemption of sellers and administrators from registration",
+          "bodySha256": "26ea46c4151650ef4668a72c5c1d7c6658ac5bf3d1500927779224c0f4a34579",
+          "reviewNote": "Read sub 5: exempts non-warrantor administrators and sellers/solicitors of vehicle protection products from warrantor registration and state insurance licensing. Replaced hallucinated draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 5 subsections and source notes (L. 2008 S.B. 930 & 947, effective 1-01-09). Replaced all 5 completely hallucinated draft titles (which described reimbursement insurance policies) with accurate headings for warrantor registration, annual records, fee, renewal grace period, and seller/administrator exemption."
+    },
+    {
+      "id": "385.418:21680",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.418&bid=21680",
+      "sourceSha256": "e95ccb433a0e28a7f40a456e996307f76311c26524b58af74f0395ca815c92c5",
+      "textSha256": "8033915d6c1b085800a47106b12d9bb61581729313aec36e07c51b8b0926f896",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Required language, terms, and disclosures in warranties",
+          "bodySha256": "8c815a5594dfd1c747b900bd873a23c66ee565658cc689d772e5ea17469752a2",
+          "reviewNote": "Read sub 1 (11 subdivisions): requires readable language/font and 11 mandatory warranty terms including § 385.412 guarantee/full-faith statement, 60-day direct insurer claim right, parties, price/terms, claim procedure, deductible, coverage/exclusions, holder duties, transferability, and 'not insurance' disclosure. Replaced inaccurate draft."
+        },
+        {
+          "number": 2,
+          "title": "Delivery of warranty or receipt at sale",
+          "bodySha256": "5bb1da53dfe1369b1c6b68e8e0b0d8f395b8d161d5c04bbf0035cb0754e0a25f",
+          "reviewNote": "Read sub 2 (2 subdivisions): requires seller or warrantor at sale to provide either a copy of the warranty or a receipt/written evidence of purchase followed by a warranty copy within 30 days. Replaced inaccurate draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 2008 S.B. 930 & 947, effective 1-01-09). Replaced both swapped/inaccurate draft titles (sub 1 sets 11 mandatory warranty terms and disclosures; sub 2 governs delivery of warranty or receipt at sale)."
+    },
+    {
+      "id": "385.421:21681",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.421&bid=21681",
+      "sourceSha256": "45b121fc1daa86ae6414e5f07b26d38ade189fb37c9e0ae48f1b99954dcb4253",
+      "textSha256": "1d00d158bd528c5a29c5c2a1319509113ac12cf13b0ca37a8108da8c5192fbe8",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Disclosure of warranty cancellation terms and conditions",
+          "bodySha256": "e039d9446f4e1e0442a30a725c2213a66006c56445837b67fffcb40f05040527",
+          "reviewNote": "Read sub 1: prohibits selling or offering a vehicle protection product unless the warranty states the terms and conditions governing cancellation of the sale and warranty, if any. Replaced hallucinated draft."
+        },
+        {
+          "number": 2,
+          "title": "Grounds permitting cancellation by warrantor",
+          "bodySha256": "3666bfc98121a53390d88de6a87dafc700b9a841b670b048f07fd59b0f211db6",
+          "reviewNote": "Read sub 2 (4 subdivisions): limits warrantor cancellation strictly to nonpayment, material misrepresentation, fraud, or substantial breach of warranty holder duties."
+        },
+        {
+          "number": 3,
+          "title": "Thirty-day written notice required for warrantor cancellation",
+          "bodySha256": "289cab5c48b4d41153271c05694a03eb18e2913ab74bb4c85d0731ce54ff9a89",
+          "reviewNote": "Read sub 3: requires warrantor to mail written cancellation notice to holder's last known address at least 30 days before effective date, stating effective date and reason."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 2008 S.B. 930 & 947, effective 1-01-09). Replaced hallucinated sub 1 title (which fabricated a 30-day free look and 10% late penalty) and confirmed subs 2–3 warrantor cancellation grounds and 30-day written notice."
+    },
+    {
+      "id": "385.424:21682",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.424&bid=21682",
+      "sourceSha256": "4a1d6bf78b8d00ae19599963b0f99342e3c7be522b1e9ec3fc25e0df14ea9a58",
+      "textSha256": "85d5b4e49f56cde097431af9b7008f137485219753b56c3fc21dbda89b326a22",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibited insurance names and misleading statements",
+          "bodySha256": "9f289bd9a24c76a596ea344cfd0791d47c56a0133b4d2f99bceef45cb86fc5cc",
+          "reviewNote": "Read sub 1: bars unlicensed warrantors from using insurance/casualty/surety/mutual or deceptively similar words (while permitting 'guaranty') and prohibits false/misleading statements or deliberate material omissions in warranties, literature, or ads. Broadened draft title."
+        },
+        {
+          "number": 2,
+          "title": "Prohibition on conditioning financing on product purchase",
+          "bodySha256": "499dd04ce5e966ea2ce9247d1dda34bb9435f45a8a9fa84c7297fadd7a9fb66f",
+          "reviewNote": "Read sub 2: prohibits a vehicle protection product seller or warrantor from requiring purchase of a vehicle protection product as a condition of financing for a retail motor vehicle purchaser."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 2008 S.B. 930 & 947, effective 1-01-09). Broadened sub 1 title to include prohibited false/misleading statements and omissions (noting 'guaranty' is permitted) and confirmed sub 2 financing-conditioning prohibition."
+    },
+    {
+      "id": "385.427:21683",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.427&bid=21683",
+      "sourceSha256": "63bfe3e38ef25eade33fd539cc209495a6e88dd6eaa1cef1981242dba13eaaf2",
+      "textSha256": "b41c78b78501e317d881e406e969c18a007bbb53a9dfb458641fa6c40fac6132",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Duty to keep accurate books and transaction records",
+          "bodySha256": "045ac8701e7acc80763a6f0cf741ebd96887bbb56fc89ad135e95f044bf5c46f",
+          "reviewNote": "Read sub 1: requires all vehicle protection product warrantors to keep accurate accounts, books, and records of §§ 385.400–385.436 transactions."
+        },
+        {
+          "number": 2,
+          "title": "Required contents of books and warranty records",
+          "bodySha256": "eb324fd74a4ce47cfc0a4d44e018d47e813758bdda7968240e21715a67fb3347",
+          "reviewNote": "Read sub 2 (3 subdivisions): requires records to include copies of all warranties, warranty holder names and addresses, and claims files with dates, amounts, and descriptions of receipts, claims, and expenditures."
+        },
+        {
+          "number": 3,
+          "title": "Three-year record retention period after coverage expiration",
+          "bodySha256": "47259afb6cd23855ea06b2c90ff65b27b4eff83110d9686f6b7eafb2301a50a8",
+          "reviewNote": "Read sub 3: requires retaining holder records for at least 3 years after coverage expires, and requires discontinuing warrantors to keep records until proving discharge of all Missouri holder obligations."
+        },
+        {
+          "number": 4,
+          "title": "Records availability for director examination",
+          "bodySha256": "894378d9f32ce58a8779ab87529b59bac61f822eb86103f0eedb267adc707170",
+          "reviewNote": "Read sub 4: requires warrantors to make all accounts, books, and records concerning §§ 385.400–385.436 transactions available to director for examination."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 4 subsections and source notes (L. 2008 S.B. 930 & 947, effective 1-01-09). Confirmed all 4 draft titles for warrantor books/records, required contents, 3-year retention (and discontinuance retention), and availability for director examination."
+    },
+    {
+      "id": "385.430:21684",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.430&bid=21684",
+      "sourceSha256": "f66e13cbc87c64206a92bf5a421514bf9f6cbf4be8f8e1b6702a5f679c00a611",
+      "textSha256": "35f72e62cf44793d244e141898d17d6e0259b87f76999c44f8decce6c86730d2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Director authority to investigate and examine warrantors",
+          "bodySha256": "c047b6b012570439bec0869fe3346f0458e1dad1f8461400dc7b137df28f4006",
+          "reviewNote": "Read sub 1: permits director to examine warrantors, administrators, or other persons to enforce §§ 385.400–385.436 and protect holders, and requires warrantors to make necessary records available upon request."
+        },
+        {
+          "number": 2,
+          "title": "Administrative enforcement orders and cease and desist remedies",
+          "bodySha256": "c4f2110a9d75f7253d39e61d2f7188d4206360989ecacc751e4770a0984fdbd2",
+          "reviewNote": "Read sub 2: permits director administrative orders under § 374.046 for §§ 385.400–385.436 violations (level two violation under § 374.049)."
+        },
+        {
+          "number": 3,
+          "title": "Civil actions for vehicle protection product violations",
+          "bodySha256": "447eadb6289a127be427dacaa63bf13b46e38424b60af0c07fde59acbea2634b",
+          "reviewNote": "Read sub 3: permits director to maintain a civil action for relief under § 374.048 for §§ 385.400–385.436 violations (level two under § 374.049). Removed 'in circuit court' not stated in text."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 2008 S.B. 930 & 947, effective 1-01-09). Confirmed subs 1–2 and removed unsupported 'in circuit court' phrase from sub 3 title."
+    },
+    {
+      "id": "385.450:49891",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=385.450&bid=49891",
+      "sourceSha256": "e95b643e357e259dc597600b703446c04da19d3f9ca0bb80d82f086496ce31d2",
+      "textSha256": "6092cbfde34442f756c3a2da789dd5ae1971b3fb01b07c39f3f22012afa3716a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions of motor club terms",
+          "bodySha256": "05a367acc7531c3a9353a50570e05bc03cc41df1c8b061b1c7c067a6e0a1330b",
+          "reviewNote": "Read sub 1 (3 subdivisions): defines 'motor club', 'motor club contract', and 'motor club services' (towing, emergency road, bail/arrest bond, discount, theft, map/touring, traffic defense legal fee reimbursement, and authorized-insurer benefit programs) for this section."
+        },
+        {
+          "number": 2,
+          "title": "Exemption of motor club fees from premium taxes",
+          "bodySha256": "678baae4f985eab933027fcd1a01d884c2610d541d942b90dae9b4134a04a8b3",
+          "reviewNote": "Read sub 2: exempts fees collected from the sale of motor club contracts from premium taxation under chapter 148."
+        },
+        {
+          "number": 3,
+          "title": "Exemption of compliant motor clubs from general insurance laws",
+          "bodySha256": "5841984f82d87da967c7c43a5ea82c3ea9f126f4d5dec64ff8df0a7019f5d800",
+          "reviewNote": "Read sub 3: exempts motor clubs complying with this section from chapters 374 and 375 and other insurance company laws, except as specifically provided."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 2021 S.B. 6). Broadened sub 1 title to cover all three defined motor club terms (including 'motor club services') and confirmed subs 2–3 premium tax and insurance law exemptions."
+    }
+  ]
+}

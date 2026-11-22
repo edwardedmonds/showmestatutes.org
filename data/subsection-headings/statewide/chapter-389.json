@@ -1,0 +1,748 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "389.1005:21921",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.1005&bid=21921",
+      "sourceSha256": "1d89e510ce133a4ff70482f4b3464b0e22b46fad9785a1f2dd50cb2428d00b27",
+      "textSha256": "7476e468e656af95a8ea57115fa95986c411090290c58e965770dab9879ab9f9",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Safety rulemaking, inspection powers, and federal compliance",
+          "bodySha256": "e39ed829e117a217425d67dc7c8227628e6ef9b76d6d45093e82d9b2d49bf5c6",
+          "reviewNote": "Read sub 1 and notes (L. 1996 H.B. 876 § 1; § 226.008 transfer). Directs division after hearing to adopt (§ 622.027) and enforce light rail safety and crossing rules, providing that compliance with federal standards satisfies division compliance, and applying ch. 386 and § 622.030 procedures. Replaced 'federal preemption' with 'federal compliance' to match text."
+        },
+        {
+          "number": 2,
+          "title": "Exclusion of light rail rates, fares, and service schedules",
+          "bodySha256": "4af67fca229be66d52ddced311f338fd024bfd2c63081196fe438f75dd378fd5",
+          "reviewNote": "Read complete text of subsection 2. Explicitly denies division authority to examine individual or joint rates, fares, tolls, charges, tariffs, hours of service, frequency, or accommodations of light rail operators."
+        },
+        {
+          "number": 3,
+          "title": "Safety consultation contracts with bi-state development agency",
+          "bodySha256": "3b9b84139d7cbd52717514ff7685f6d67747445f01eb330a08cc88445bd47506",
+          "reviewNote": "Read complete text of subsection 3. Authorizes division to contract with bi-state development agency (§ 70.370) for safety consultation, depositing moneys in light rail safety fund under section 389.1010."
+        },
+        {
+          "number": 4,
+          "title": "Assessment statements, payment deadlines, and installment options",
+          "bodySha256": "834af34e82bde1dc90a44ee5ce280428e9ee12282c5a63fc98dea9cce357d96a",
+          "reviewNote": "Read complete text of subsection 4. Directs division to render assessment statements by July 1, payable in full by July 15 or in four quarterly installments to director of revenue for state treasurer."
+        },
+        {
+          "number": 5,
+          "title": "Credit of assessments to dedicated light rail regulation fund",
+          "bodySha256": "ab4d7d8b4de311ab4c7cbd490a3de735fe42a903b165dd0453956334c5111dfc",
+          "reviewNote": "Read complete text of subsection 5. Mandates crediting payments to railroad expense fund (§ 622.015), restricting use solely to division expenditures attributable to light rail regulation."
+        },
+        {
+          "number": 6,
+          "title": "Annual mileage reports and division estimation authority",
+          "bodySha256": "01830bfd0f41fa42e4caf9454b45ca0fe770a72fd0446d344a665396a262b99e",
+          "reviewNote": "Read complete text of subsection 6. Requires light rail operators to file sworn annual train miles statements by March 31, authorizing division to estimate binding mileage upon operator default."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 6 subsections and source notes (L. 1996 H.B. 876 § 1; § 226.008 transfer note). Edited sub 1 title ('federal preemption' -> 'federal compliance') to match statutory satisfaction-of-compliance wording; confirmed subs 2–6."
+    },
+    {
+      "id": "389.300:21860",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.300&bid=21860",
+      "sourceSha256": "c5687e6ac7d267200ab35cd8b30692df40d21b7e42aacc8fe4f8b8b1225904bf",
+      "textSha256": "2bde14ccf45e09a51e8951f8696e0a43467404e54510fe875e0419ec929032b7",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Freight facilities, daily train stop, and station agent duties",
+          "bodySha256": "b7d7995302b7829befc91d09046f7ff1787b4aed2bdc26942c5dddd4434859d2",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 § 5229; 226.008 transfer note). Requires railroads to receive and deliver freight at junctions, maintain switches and freight houses with daily train stop in towns of 200+ population, and station freight agent upon division order."
+        },
+        {
+          "number": 2,
+          "title": "Misdemeanor penalty for failure to maintain freight facilities",
+          "bodySha256": "018d4c21743869a1536740cf5138d3da13c347485079e437ede095d4de2a3345",
+          "reviewNote": "Read complete text of subsection 2. Imposes ten-dollar misdemeanor fine following thirty days notice for noncompliance, treating each continuing day as separate offense."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (RSMo 1939 § 5229; § 226.008 transfer note). Confirmed draft titles for junction freight handling, switches/daily stops in towns of 200+, freight agents, and $10 daily misdemeanor penalty."
+    },
+    {
+      "id": "389.310:21861",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.310&bid=21861",
+      "sourceSha256": "9882fc5e8d78bd833713ce1d96d15370981b6579b67cb0af26b8da78c397e2ac",
+      "textSha256": "2d9c7a7e5374f956679b4d55b6cfe28a134221255380d971b806a8550b8a8cb8",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Shipper right to furnish cars on carrier failure",
+          "bodySha256": "2451306b023d524852e8e8a39582ccc38dff9953db5f57aa27cebc871f7b5f0f",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 § 5230; 226.008 transfer note). Authorizes shipper to supply cars when railroad fails to furnish cars within reasonable time after station agent demand, requiring prompt nondiscriminatory switching and hauling."
+        },
+        {
+          "number": 2,
+          "title": "Reasonable carrier compensation and division rate fixing",
+          "bodySha256": "79a3ba1402f2f0b10042bd2d0b6f84f29415a4c509a0ab464ce231e8833804e3",
+          "reviewNote": "Read complete text of subsection 2. Requires shipper to pay reasonable service compensation, authorizing division to fix compensation as prima facie reasonable if parties cannot agree."
+        },
+        {
+          "number": 3,
+          "title": "Civil damages and attorney fees for failure to transport cars",
+          "bodySha256": "0d20ab7e56b4a9a9ac12287f27770491ddfbb0d7bb04914c188a862a0d539137",
+          "reviewNote": "Read complete text of subsection 3. Imposes five hundred dollar penalty plus reasonable attorney's fees per offense for railroad refusal to transport or return shipper-furnished cars, treating each day as separate offense."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (RSMo 1939 § 5230; § 226.008 transfer note). Confirmed draft titles for shipper-furnished cars, division-fixed reasonable compensation, and $500/day civil penalty plus attorney's fees."
+    },
+    {
+      "id": "389.540:21865",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.540&bid=21865",
+      "sourceSha256": "01fc945286624cf686d73d58335ca1b89caef2a123eac40ff47557d1fb923d23",
+      "textSha256": "c637e08792f06486a5bc5b5b1208f942ea245f85e3ae22e94c9e8fd5696c2c92",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Bulk grain delivery and public warehouse track connections",
+          "bodySha256": "0738fab3a79f803b7bfeff663b66091d346a98dd13d45bbe5ffb340e0b9c682a",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 § 5225). Requires railroads receiving bulk grain to deliver to designated consignee, elevator, or warehouse reachable by track, and permit connections to public grain warehouses."
+        },
+        {
+          "number": 2,
+          "title": "Civil damages and attorney fees for delivery refusal",
+          "bodySha256": "5f3c32d386beaec613443dca8802821cee8f50e8590c810d8c74db01ca617219",
+          "reviewNote": "Read complete text of subsection 2. Makes railroad liable to injured persons and warehouse proprietors for all damages, property depreciation, costs, and reasonable attorney's fees resulting from delivery refusal."
+        },
+        {
+          "number": 3,
+          "title": "Enhanced state penalties for second or subsequent refusal",
+          "bodySha256": "617e904a9c4c43df925a4c00dbe5c2e914cd4e9b33a96b8d63a6c661d90c618d",
+          "reviewNote": "Read complete text of subsection 3. Directs court to assess penalty between one thousand and five thousand dollars for state use upon second or subsequent failure or refusal."
+        },
+        {
+          "number": 4,
+          "title": "Receivership remedy upon three or more violations",
+          "bodySha256": "ccc02591fab147353793c34048442abebdb988d66c79347534afab31d5f2860a",
+          "reviewNote": "Read complete text of subsection 4. Authorizes interested persons to apply for appointment of receiver to manage railroad until all damages, penalties, and costs are satisfied following three or more violations."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 4 subsections and source notes (RSMo 1939 § 5225). Confirmed draft titles for bulk grain delivery/public warehouse track connections, civil damages, $1,000–$5,000 repeat penalties, and receivership after 3+ violations."
+    },
+    {
+      "id": "389.580:21869",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.580&bid=21869",
+      "sourceSha256": "d9a73e1ffd5c7a2aa77388bc3307a1777caa7057a6938dca78622da20420252e",
+      "textSha256": "1b14ce0472a0bc253afc9f52fbce3f85f2a6f484e40e6bba5516fa1315700f5d",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Permit requirements and division uniform clearance rules",
+          "bodySha256": "8532681906d0669f002d976608f05a5130eceecb37cbc96f141885a49c6d2a6b",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 § 5130, A.L. 1988 S.B. 676; 226.008 transfer note). Prohibits erecting station platforms or permanent structures over or contiguous to tracks without division permission, exempting structures complying with promulgated uniform rules."
+        },
+        {
+          "number": 2,
+          "title": "Division authority to authorize clearance variances",
+          "bodySha256": "ccabe3433760f67cfa1fbafc59f8c9b04f58a1193c3afee09a71ed32f420a40f",
+          "reviewNote": "Read complete text of subsection 2. Empowers division upon application to authorize structures at less than statutory or regulatory minimum clearances upon finding prescribed clearances unreasonable."
+        },
+        {
+          "number": 3,
+          "title": "Minimum vertical clearance standard of twenty-two feet",
+          "bodySha256": "31e9be9d209bb4e1e3df0b1c8ad066db5f61f2a3a70f34647f5c781c8d279e42",
+          "reviewNote": "Read complete text of subsection 3. Establishes minimum vertical clearance of twenty-two feet above rail top for bridges, viaducts, tunnels, and overhead wires, unless found unreasonable by division."
+        },
+        {
+          "number": 4,
+          "title": "Minimum horizontal clearance standard and rule exceptions",
+          "bodySha256": "e8f79b30771ece1d209a2ff3dd73bb2636a2e5340039c5a85d8ac3b3e818bdf1",
+          "reviewNote": "Read sub 4 and original-rolls footnote ('turnables' appears in original rolls for 'turntables*'). Sets minimum horizontal clearance of 8 feet 6 inches from track center, permitting division rule exceptions after hearing for enumerated facilities."
+        },
+        {
+          "number": 5,
+          "title": "Civil forfeiture penalties for clearance violations",
+          "bodySha256": "d7ea019bf5477c4695fd0526bf60e215122c4e5c0f66fdf5b60906f444f787e1",
+          "reviewNote": "Read complete text of subsection 5. Imposes civil penalty of one hundred to two thousand dollars per offense for unauthorized structure or track construction, recoverable under section 389.998."
+        },
+        {
+          "number": 6,
+          "title": "Division orders removing nonconforming tracks from service",
+          "bodySha256": "5812ea131b64132ce82583aee7fb5c93b4211280c77de7c8a34e0c832be0d2e3",
+          "reviewNote": "Read complete text of subsection 6. Authorizes division to order nonconforming track removed from service until offending structure or track is removed or reconstructed to conform."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 6 subsections and source notes (RSMo 1939 § 5130, A.L. 1988 S.B. 676; § 226.008 transfer note; original-rolls footnote 'turnables' in sub 4; catchline typo 'tract'). Confirmed all 6 draft titles and added original-rolls footnote to sub 4 note."
+    },
+    {
+      "id": "389.610:21876",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.610&bid=21876",
+      "sourceSha256": "a32d031955c2c188323bd70dd854be0e66b914d7cc83fd71c3e3c1de524839ba",
+      "textSha256": "43bb27d7ac61e041a2229ff28d9ac4c3e22d87ec5bfe55a6f748bd1c574156e2",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Commission permission required for new grade crossings",
+          "bodySha256": "a124cd040592a4b4c62bca8e6913e23992bd851a0bc16d99dbbb174c2a778db7",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 § 5214, A.L. 1988 S.B. 676 et al.; 226.008 transfer note; common law warning duty annotation). Requires highways and transportation commission permission before constructing highway-railroad or railroad-railroad crossings at grade, exempting track replacements."
+        },
+        {
+          "number": 2,
+          "title": "Railroad duty to maintain sufficient crossings and crosswalks",
+          "bodySha256": "8cd97d9627a8001dcd6025e060ffe7c05588386fe7a12432599c85d3d5547bbd",
+          "reviewNote": "Read complete text of subsection 2. Mandates every railroad construct and maintain good and sufficient crossings and crosswalks where tracks cross public roads, streets, or sidewalks."
+        },
+        {
+          "number": 3,
+          "title": "Commission rules and minimum standards for grade crossings",
+          "bodySha256": "739a677a3ad5e1e8cdd1fb117e7cc0c1f79695acf5be2a121568390bbcbc61ad",
+          "reviewNote": "Read complete text of subsection 3. Directs commission to make and enforce reasonable rules establishing minimum standards for crossing surfaces, length, width, grades, and maintenance responsibilities."
+        },
+        {
+          "number": 4,
+          "title": "Exclusive commission power over crossing design and warning devices",
+          "bodySha256": "d2175b689e85179572327610cfca4fab380e73d6e36a08bc05a6aa40bae7a3a3",
+          "reviewNote": "Read complete text of subsection 4. Vests exclusive power in commission to prescribe crossing manner, installation, operation, maintenance, warning devices, and adopt MUTCD or national standards."
+        },
+        {
+          "number": 5,
+          "title": "Power to alter, abolish, or separate crossing grades",
+          "bodySha256": "5a3fadaad493b0da507e3a1617826b5e412a0b94b04586767bd59e167f7f0bd7",
+          "reviewNote": "Read complete text of subsection 5. Grants exclusive power to alter, abolish, or require grade separation for public safety, and to authorize track removal within thirty days after road vacation."
+        },
+        {
+          "number": 6,
+          "title": "Power to apportion crossing construction and maintenance costs",
+          "bodySha256": "d41933b7f01113e72819a9b916a2de5639fc2e238cff0170c6feed139a3a7edf",
+          "reviewNote": "Read complete text of subsection 6. Grants exclusive power to divide construction, alteration, abolition, grade separation, and ongoing maintenance expenses among railroads and public authorities."
+        },
+        {
+          "number": 7,
+          "title": "Local cost agreements and commission benefit apportionment factors",
+          "bodySha256": "038ba526d1e8d5d71e9ef0215e8930b62324aec054efdeac545597878c506987",
+          "reviewNote": "Read complete text of subsection 7. Provides that post-1963 cost agreements filed with commission are binding; otherwise commission apportions costs based on benefits, vehicular traffic, train traffic, and safety."
+        },
+        {
+          "number": 8,
+          "title": "Public safety determinations for private grade crossings",
+          "bodySha256": "3f75b944d16b973c5be311664013a49f91e640a7de3e994785d46c3a5b3e16b3",
+          "reviewNote": "Read complete text of subsection 8. Authorizes commission upon application to determine if private crossing requires public safety protection, apportion costs, and close crossing if devices not maintained."
+        },
+        {
+          "number": 9,
+          "title": "Administrative hearing commission review of crossing decisions",
+          "bodySha256": "016fbe77cb8f125ee07ccca7cfb0e9fd8944668898c9dcda5b8d87a4486f22cf",
+          "reviewNote": "Read complete text of subsection 9. Subjects commission's exclusive crossing powers to review, determination, and prescription by administrative hearing commission upon application under section 621.040."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 9 subsections and source notes (RSMo 1939 § 5214 through A.L. 2004 H.B. 795, et al.; § 226.008 transfer note; Patterson 1955, Throckmorton 1967, and Alcorn 2001 annotations). Confirmed all 9 draft titles."
+    },
+    {
+      "id": "389.612:21877",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.612&bid=21877",
+      "sourceSha256": "c0323d139cf26dbd759c97497833a729c4a94084d8f6abbd0ffdbbdbd84e58a8",
+      "textSha256": "f06f9c1230496d19610caca8543f1b9759c7b2052bc92e72fd84107fb07b71b5",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Motor vehicle registration safety fee and account creation",
+          "bodySha256": "f344e0eb3eafdbef2c133d5b02e45dda5cc3950518b8414d8a207b85ff621b40",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1992 S.B. 765 § 1, A.L. 1999 H.B. 678; 226.008 transfer note). Levies twenty-five cent railroad crossing safety fee on motor vehicle registrations for deposit into Grade Crossing Safety Account."
+        },
+        {
+          "number": 2,
+          "title": "Authorized safety expenditures, federal matching, and expense caps",
+          "bodySha256": "3a3c4810d1b6e7f277118c620efe87300101ea36023dabb8e4d0265cf517a1f3",
+          "reviewNote": "Read complete text of subsection 2. Governs expenditure of account funds for automatic signals and improvements, subject to 90% cap, federal program offsets, and $100,000 annual division administrative expense cap."
+        },
+        {
+          "number": 3,
+          "title": "Retention of account balances and biennial road fund transfer",
+          "bodySha256": "3b28376279669c91c84e2ed44f8452ea67650557d9add8e3ab50adb16686310e",
+          "reviewNote": "Read complete text of subsection 3. Exempts account from biennial unexpended fund lapsing under section 33.080 until balance exceeds twice previous year's encumbrances."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 1992 S.B. 765 § 1, A.L. 1999 H.B. 678; § 226.008 transfer note). Confirmed draft titles for 25-cent registration fee, Grade Crossing Safety Account expenditures/caps, and biennial transfer threshold."
+    },
+    {
+      "id": "389.650:21883",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.650&bid=21883",
+      "sourceSha256": "52a885398c67941f5fc716b25721a0420b3a2996fca4621ce179957b0d1d482b",
+      "textSha256": "5e7d75f6ad31af4bd71480764f0875e270aaffdcebc63de22a868d19aee0e391",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Duty to maintain fences and cattle guards and double damages",
+          "bodySha256": "69ea34dd03eee0c532b6bbff988df397c00856f6e4718223af251884fb506499",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 § 5218; cross reference 537.270-537.290). Requires railroads to construct lawful fences, gated farm crossings, and cattle guards adjoining fields, imposing double damages for animal injury or escape upon default."
+        },
+        {
+          "number": 2,
+          "title": "Exemption from liability absent negligence or willful misconduct",
+          "bodySha256": "f438bed8af353fec5aae68b161939925551f3646874c390bb54bb88070a3d17b",
+          "reviewNote": "Read complete text of subsection 2. Shields railroad from liability for animal damages after required fences and guards are maintained, except for negligent or willful acts."
+        },
+        {
+          "number": 3,
+          "title": "Landowner repair rights, expense recovery, and interest",
+          "bodySha256": "bcf85696ab9302da238775c7e69901535d0699e484cddf16242690cc112a9afc",
+          "reviewNote": "Read complete text of subsection 3. Permits adjoining landowners to build or repair fences after three months and five days written notice, recovering costs, compensation, and ten percent interest."
+        },
+        {
+          "number": 4,
+          "title": "Taxation of reasonable attorney fees as costs",
+          "bodySha256": "605fa7d621b99ec99e7712a362d5df99cea1f932acf658e3356e38238ab4676f",
+          "reviewNote": "Read complete text of subsection 4. Directs taxation of reasonable attorney's fees as costs in favor of prevailing landowner, suspended during pending appeals."
+        },
+        {
+          "number": 5,
+          "title": "Forfeiture and damages for driving animals on right-of-way",
+          "bodySha256": "283c959bcd86b64676f6ec4341c6afad133fb29330db95ffcde43bcdb099904b",
+          "reviewNote": "Read complete text of subsection 5. Imposes forfeiture up to ten dollars plus damages for riding, leading, or driving animals inside railroad enclosures without consent."
+        },
+        {
+          "number": 6,
+          "title": "Unauthorized walking on railroad tracks deemed trespass",
+          "bodySha256": "09086db39856400fe7f672a3206b0d985ca06b02ce9fe921e37a92497a1837bf",
+          "reviewNote": "Read complete text of subsection 6. Designates unauthorized persons walking on tracks outside public crossings as trespassers in harm actions against railroad."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 6 subsections and source notes (RSMo 1939 § 5218; §§ 537.270–537.290 cross-ref). Confirmed all 6 draft titles covering fences/cattle guards/double damages, post-fence liability limit, landowner repairs/10% interest, attorney's fees, animal forfeiture, and track walking trespass."
+    },
+    {
+      "id": "389.653:21884",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.653&bid=21884",
+      "sourceSha256": "dabd8c198fb8125f56841e4c64c670a68861fdc867e217f2dcdc1edbcf21ae57",
+      "textSha256": "6595659916faaa8f704fdcd40ac5c35994399bd924d2c12a0265e5c44ce6472a",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of trespass to railroad property defined",
+          "bodySha256": "f8d00ebc496494b1cb7f1a5cb1b8a9ddc8e0581070bb3409f4d6ada54753a9f2",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1996 S.B. 780 § 13, A.L. 2014 S.B. 491, effective 1-01-17). Defines trespass to railroad property as throwing objects at trains/equipment or maliciously/wantonly causing derailment."
+        },
+        {
+          "number": 2,
+          "title": "Offense grading as misdemeanor or class E felony",
+          "bodySha256": "1f27ce17e61feff9c00bf2f558dc384685281f37db768af76ea91a3acff2b26b",
+          "reviewNote": "Read complete text of subsection 2. Classifies offense as class A misdemeanor, elevated to class E felony if damage exceeds $1,500, injury/death occurs, or firearm/weapon is discharged."
+        },
+        {
+          "number": 3,
+          "title": "Exceptions for lawful crossing use and labor representatives",
+          "bodySha256": "bf719ec4d611c16b5505b6806b6deb09f636bf5a05440bd47758ebff8ede4c0b",
+          "reviewNote": "Read complete text of subsection 3. Protects lawful use of public/private crossings and activities of labor organization representatives under Railway Labor Act."
+        },
+        {
+          "number": 4,
+          "title": "Definition of railroad property",
+          "bodySha256": "bdfd3a9180f1351fe0eb97c2f584213bfcfa40a3be1577b9ffe097e21ac86b71",
+          "reviewNote": "Read complete text of subsection 4. Defines railroad property broadly including trains, locomotives, work equipment, switches, signals, tracks, bridges, and rights-of-way."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 4 subsections and source notes (L. 1996 S.B. 780 § 13, A.L. 2014 S.B. 491, effective 1-01-17). Confirmed draft titles for railroad trespass offense, class A misdemeanor/class E felony grading, crossing/RLA exceptions, and 'railroad property' definition."
+    },
+    {
+      "id": "389.665:21887",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.665&bid=21887",
+      "sourceSha256": "f10e901d4ca4c893919bfd87ad734f34c7fbf3cf4a2f5d82ff4d37fdfabfacd2",
+      "textSha256": "79227b2e8a47a0ed2689bd4987ca310b006c60b0f0d116980f29f0b1e8198879",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Duty to clear brush and weeds and landowner remedies",
+          "bodySha256": "e33b903f424cc067b3ea91400da9e1bd704e640380eebedb9fd0374447eaa36a",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1988 S.B. 676). Mandates keeping right-of-way reasonably clear of brush and weeds to prevent fire, authorizing adjoining landowners to clear after three days notice and recover double expenses."
+        },
+        {
+          "number": 2,
+          "title": "Vegetation clearing within 250 feet of public grade crossings",
+          "bodySha256": "92e40fc3dfbb29fbbb6fa40d559a114be5605810e5541aae2bae90edbc7169a0",
+          "reviewNote": "Read complete text of subsection 2. Requires railroads to maintain right-of-way clear of obscuring vegetation and debris for two hundred fifty feet each way from public grade crossings."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1988 S.B. 676). Confirmed draft titles for right-of-way brush/weed clearing with landowner double-expense remedy and 250-foot public grade crossing sightline clearing."
+    },
+    {
+      "id": "389.670:21888",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.670&bid=21888",
+      "sourceSha256": "962b6d4fa534244b4af210bfdc3b0fd581a3ee997edbc7768dcc27c2f08e45a6",
+      "textSha256": "d2eb7577bf275460b36a916735ea8a769ecfc97b753a6382b4b757cebd2b379c",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Duty to construct surface water drainage sewers",
+          "bodySha256": "ab08883d2d0c2464cb425349510c170873aa4195f61c454552b1a67bbbf00789",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 §§ 7530-7532; North Kansas City surface water drainage annotations). Requires railroads passing through municipalities of 30,000 or fewer to construct surface water drainage sewers at own expense."
+        },
+        {
+          "number": 2,
+          "title": "Construction standards, cemented surfaces, and crossings",
+          "bodySha256": "a24baba556923120d4bcd904d40206cb1d45a0975b3d885bae907b9649f395ed",
+          "reviewNote": "Read complete text of subsection 2. Mandates sewers be constructed substantially with cemented sides/bottoms and sufficient depth, providing safe wagon and foot crossings as directed by municipal ordinance."
+        },
+        {
+          "number": 3,
+          "title": "Transverse sewers under tracks required by local ordinance",
+          "bodySha256": "6076f73d4533b9656a8007f98e000675380eaab9c4b63819cde5ba748b5baecb",
+          "reviewNote": "Read complete text of subsection 3. Directs railroads to build sewers under tracks from one side of right-of-way to other when deemed necessary by municipal legislative body."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (RSMo 1939 §§ 7530–7532; 1960 and 1963 North Kansas City surface-water drainage annotations). Confirmed draft titles for storm sewers in municipalities <=30,000, cemented construction/crossings, and transverse track sewers."
+    },
+    {
+      "id": "389.680:21889",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.680&bid=21889",
+      "sourceSha256": "59d0a02220bb36db926ce1b131063f22855a36b8251545763c8b9c80e3391fce",
+      "textSha256": "97700e15a28522eef05f84292187758fb7860fe4a6b08e7e3543e4fb4bf90f13",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Municipal sewer ordinance, plans, and construction notice",
+          "bodySha256": "a80984a6687e9251c0e31752e52a437f461467ce41ed3782c30a324ab8e0418e",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 §§ 7533, 7534). Details procedure for municipality to adopt sewer ordinance, file plans/profile, and serve notice directing railroad to build transverse section within thirty days to three months."
+        },
+        {
+          "number": 2,
+          "title": "Service of notice and plans on railroad station agent",
+          "bodySha256": "065ebcf46eab022f107f8c9429c78874e1186993ed5e5216db7f54ade50812cf",
+          "reviewNote": "Read complete text of subsection 2. Provides that chief of police or marshal serves notice and plans on nearest station agent, filing return with municipality, whereupon railroad must construct sewer at own expense."
+        },
+        {
+          "number": 3,
+          "title": "Daily forfeiture penalty for failure to construct sewer",
+          "bodySha256": "7acf063038f1836a9d08dc21e9f5c7f89aa92e385331d9826756c7447256841c",
+          "reviewNote": "Read complete text of subsection 3. Imposes forfeiture of twenty-five dollars per day recoverable in circuit court for railroad's neglect or failure to construct sewer section within specified time."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (RSMo 1939 §§ 7533–7534). Confirmed draft titles for municipal sewer ordinances/plans/30-day-to-3-month notice, police/marshal service on station agent, and $25/day forfeiture."
+    },
+    {
+      "id": "389.690:21890",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.690&bid=21890",
+      "sourceSha256": "815ba0f9b4ad6adf11bb693904732780a0d370638ba485608e455d7acfe52b89",
+      "textSha256": "fe37fbc6ea15e55aa72dc5e59e8008cfc11b044fb580fbb1bd8fc478fc75550c",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Civil liability for property damage caused by sewer failure",
+          "bodySha256": "dba0705a732049deeb2b9c1790de67960bcf63e3b34c6b5dbcbc0cf450a3b788",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 §§ 7535, 7536). Holds railroad liable in circuit court damages to any person whose premises or property is overflowed or damaged by failure to construct sewer."
+        },
+        {
+          "number": 2,
+          "title": "Self-enforcing drainage duty and double damages without notice",
+          "bodySha256": "378eaa5195be12ba5680d36e12e55dd26b6d64f6ba7b4aa0fc120f2e54fb7f8f",
+          "reviewNote": "Read complete text of subsection 2. Provides section 389.670 is self-enforcing without notice, authorizing recovery of double damages in any court of competent jurisdiction for overflow damage."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (RSMo 1939 §§ 7535–7536). Confirmed draft titles for circuit court overflow damage liability and self-enforcing § 389.670 double damages without notice."
+    },
+    {
+      "id": "389.700:21891",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.700&bid=21891",
+      "sourceSha256": "c61a5af6f073d7e724ef9ba98f259741bf088ef2a02862dac5aea878df36850f",
+      "textSha256": "f11078ea130b30dc5b15039882015d9a5634ca712c2636cd7cb98eebc4facf42",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Applicability of safety provisions to railroad common carriers",
+          "bodySha256": "f4645a509a39cfa9bb8d4323c83df35c3a16fc72eeacadb6db8ebbe18f406f7d",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 § 5281, A.L. 1988 S.B. 676). Applies sections 389.700 to 389.730 to common carriers, officers, agents, and employees transporting passengers or property by rail in Missouri."
+        },
+        {
+          "number": 2,
+          "title": "Definition of railroad including bridges, ferries, and light rail",
+          "bodySha256": "76ac7a48844ce879035cde71314d5fc55f767af67d2a52d65056a71df8ee8596",
+          "reviewNote": "Read complete text of subsection 2. Defines railroad to include bridge and ferry companies, terminal and switching companies used with any railroad, light rail, or railway."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (RSMo 1939 § 5281, A.L. 1988 S.B. 676). Confirmed draft titles for applicability of §§ 389.700–389.730 and broad definition of 'railroad' including bridges, ferries, terminals, and light rail."
+    },
+    {
+      "id": "389.780:21894",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.780&bid=21894",
+      "sourceSha256": "9321763a058dfdcb37acca8da6ace54fb5992d42fc45cc798c8ea82fd24028c2",
+      "textSha256": "45d80f508fb22044bf61dedbdaa1da52827280834597ad5cca4c7872290e2d69",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Shipper application for switch connections and sidetracks",
+          "bodySha256": "9c177a53a03257d89fad478f68508adcf2f7a4b9f6a369f783c298269727e63b",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 § 5604; 226.008 transfer note). Requires railroad upon shipper application to construct and maintain switch connection with lateral line/sidetrack on reasonable terms where safe and practicable."
+        },
+        {
+          "number": 2,
+          "title": "Division investigation, orders, compensation, and discontinuance",
+          "bodySha256": "91cf7a9350682d0a757a52482e6effacf97760fe166750ab4b70e2ab5624297e",
+          "reviewNote": "Read complete text of subsection 2. Authorizes interested parties to petition division upon railroad's failure, empowering division after hearing to order switch construction, fix compensation, or order discontinuance."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (RSMo 1939 § 5604; § 226.008 transfer note). Confirmed draft titles for shipper switch/sidetrack applications and division petition, hearing, compensation, and discontinuance orders."
+    },
+    {
+      "id": "389.790:21895",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.790&bid=21895",
+      "sourceSha256": "abcdbfb305ca9a2eaef2c3c1c4e36021e94792813042ee6a1291a1eb81c81f34",
+      "textSha256": "6bebe46d02ffbfb3f36cc139290e901363073eadc1eafcae251bbcf149a117f4",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory blocking appliances for switches, frogs, and guard rails",
+          "bodySha256": "69e7142c118e3dfcf442d4c02ee6ec4113781ca56efdfb30ac1a552b2e41fca7",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 § 5233). Requires railroads to adopt and maintain appliances to fill or block all switches, frogs, and guard rails in yards and stations to prevent catching employees' feet."
+        },
+        {
+          "number": 2,
+          "title": "Daily forfeiture penalty and grand jury inquiry charge",
+          "bodySha256": "8823e96cf95a2d90e9a89dd2de46e8fcd8d40abbfc58b81f3e6ba0c794c53750",
+          "reviewNote": "Read complete text of subsection 2. Imposes ten-dollar fine per offense treating each day as separate offense, and directs judges of criminal courts of record to charge grand juries to inquire into violations."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (RSMo 1939 § 5233). Confirmed draft titles for switch/frog/guard rail blocking appliances (since Sept. 1, 1907) and $10 daily forfeiture with grand jury inquiry charge."
+    },
+    {
+      "id": "389.945:21911",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.945&bid=21911",
+      "sourceSha256": "9fc9654406df0d5183933e601260b5084575ed53884f315b53a57ec4b404f230",
+      "textSha256": "8c901aeb34f6f71a5595891cc5117719e8398a69a3fb5e8abbe95f7fc1c79a77",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Safety standards for vehicles transporting railroad employees",
+          "bodySha256": "1e3d2506ec9f412dc7e2e785028a78005dc5ebde7d024f602237e7e93f5fcc6c",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1965 p. 590 §§ 1-5; 226.008 transfer note). Directs division to make safety rules for highway vehicles used by rail carriers to transport employees and tools, establishing standards for equipment, loading, seating, heating, and emergency use."
+        },
+        {
+          "number": 2,
+          "title": "Public hearing and stakeholder input before rule promulgation",
+          "bodySha256": "8b640534040f038b92c1eb0bf030614dfc77604b01663d332933d0a9ff67e933",
+          "reviewNote": "Read complete text of subsection 2. Requires division to conduct hearings and invite suggestions from interested groups regarding minimum standards prior to formulating rules."
+        },
+        {
+          "number": 3,
+          "title": "Authority to amend rules on division motion or complaint",
+          "bodySha256": "9ae9ade8b34faff3df9bb4b74f52ec2f26cc518430892ba1a9b7b3a4fbd13086",
+          "reviewNote": "Read complete text of subsection 3. Authorizes division to amend safety regulations at any time upon its own motion or upon complaint in accordance with rulemaking procedures."
+        },
+        {
+          "number": 4,
+          "title": "Vehicle inspection powers and highway patrol assistance",
+          "bodySha256": "e78994d5454161abdc63a369a6b38cdbb09803925c90470562bd08c72f9b9e5a",
+          "reviewNote": "Read complete text of subsection 4. Authorizes division to inspect subject motor vehicles and request assistance from superintendent of state highway patrol."
+        },
+        {
+          "number": 5,
+          "title": "Misdemeanor penalties for vehicle owner noncompliance",
+          "bodySha256": "bdc0952d7ca07b9de2c704ed964d86c4a849428553823dc239c318ab86b7ee84",
+          "reviewNote": "Read complete text of subsection 5. Classifies rule or order violations by vehicle owners as misdemeanors punishable by up to one year imprisonment, fine up to five hundred dollars, or both."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 5 subsections and source notes (L. 1965 p. 590 §§ 1–5; § 226.008 transfer note). Confirmed all 5 draft titles for employee-transport motor vehicle safety rules, hearings, amendments, highway patrol-assisted inspections, and misdemeanor penalties."
+    },
+    {
+      "id": "389.993:21915",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.993&bid=21915",
+      "sourceSha256": "8372cbbf4104940c5ad830b005621f5cdd068028af3556769899d7d95d07bbfa",
+      "textSha256": "ab2cdfce98d0e4ad72701d33119d60666bee94aa3efee63381fb15f3e5cbe540",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Rulemaking hearings and compatibility with federal safety act",
+          "bodySha256": "c995d92f883caee97a6d20cc6e0772a8cf623c388d9217096ef442cc42c1c74f",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1971 H.B. 288 §§ 3, 4; 226.008 transfer note). Requires division to conduct hearings with interested groups and formulate rules conforming with Federal Railroad Safety Act of 1970 standards."
+        },
+        {
+          "number": 2,
+          "title": "Amendment of rules upon division motion or complaint",
+          "bodySha256": "1b43eefe9d3a806ab5569b8b22ee3ca9c18fdc3277cf04f6166f216ae23446ec",
+          "reviewNote": "Read complete text of subsection 2. Authorizes division to amend safety and sanitation rules at any time on its own motion or upon complaint."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1971 H.B. 288 §§ 3, 4; § 226.008 transfer note). Confirmed draft titles for hearings/Federal Railroad Safety Act of 1970 compatibility and rule amendments."
+    },
+    {
+      "id": "389.994:21916",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.994&bid=21916",
+      "sourceSha256": "5608a7904a727fe81db0379ca835991c418feb6f71bc0391c0ec3df2111de3df",
+      "textSha256": "3854d207631c38bdf031c3e34bce34d7f730d48ced2a90f770a420a9b7eac7c5",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Rulemaking for walkways adjacent to industrial railroad trackage",
+          "bodySha256": "373db5234c2c4cd2554969090652ac7607802784eeb88bf69179038ca3f069c3",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1996 S.B. 780). Directs division to make reasonable rules and regulations governing construction, reconstruction, and maintenance of walkways along industrial tracks."
+        },
+        {
+          "number": 2,
+          "title": "Definition of industrial railroad trackage",
+          "bodySha256": "b787bde1ce7dd71348a8d5019794e22c36987af68d071415df9e8f07f1c0b433",
+          "reviewNote": "Read complete text of subsection 2. Defines industrial railroad trackage as tracks owned, leased, or used by non-railroads connecting with railroad tracks where cars or locomotives are operated."
+        },
+        {
+          "number": 3,
+          "title": "Hearings and suggestions before formulating walkway rules",
+          "bodySha256": "01fe5b4662d73b33d9ec287d4c9f3fc1d19c28c66acdf6963d72f3469345a057",
+          "reviewNote": "Read complete text of subsection 3. Mandates division conduct hearings and invite interested groups to submit suggestions on minimum standards before promulgating rules."
+        },
+        {
+          "number": 4,
+          "title": "Division authority to amend walkway regulations",
+          "bodySha256": "d5ac1f899c391e6a5a06affd74cfad67cef80459212b6b205c2e984f56885b36",
+          "reviewNote": "Read complete text of subsection 4. Authorizes division to amend walkway rules at any time upon its own motion or upon complaint."
+        },
+        {
+          "number": 5,
+          "title": "Cease and desist orders for hazardous or nonconforming trackage",
+          "bodySha256": "01486d14be818e9e86ff653321f2500988d3ec3b52556554a373f2594a7f55bc",
+          "reviewNote": "Read complete text of subsection 5. Authorizes division to order railroad to cease and desist from operating or switching over industrial tracks failing to conform or creating unusual hazard."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 5 subsections and source notes (L. 1996 S.B. 780). Confirmed all 5 draft titles for industrial trackage walkway rules, definition, hearings, amendments, and cease-and-desist orders."
+    },
+    {
+      "id": "389.997:21918",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.997&bid=21918",
+      "sourceSha256": "4ae6269d0566c4cc8f358020c8d41602bed1a9a944e1c81077a5763dbd8155b7",
+      "textSha256": "726ef83d64a731cc9371850a56a570a4915f68df482f8b4339abf10824662d8c",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibited train placement of shifting-load flat cars and gondolas",
+          "bodySha256": "cb174399bb821e2c9074138b2295c8dc5ad2b62e7bec38404e1f76b31f4ee834",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1977 H.B. 75 § 1; 226.008 transfer note). Prohibits placing flat cars with shifting loads or high-loaded bulkhead/gondola cars next to occupied caboose or locomotive where creating unreasonable risk."
+        },
+        {
+          "number": 2,
+          "title": "Exemption for railroad yard switching movements",
+          "bodySha256": "a032f601f513d7f75060ef5aea74b6fe009d86a643cb60557702510e8883c0f0",
+          "reviewNote": "Read complete text of subsection 2. Explicitly exempts yard switching movements from train makeup load-placement restrictions."
+        },
+        {
+          "number": 3,
+          "title": "Division enforcement and prosecution under section 386.570",
+          "bodySha256": "5b461e2649b271ee27dd92cfed9e6a3f98556e2afe6a9b9408c90209a82ae675",
+          "reviewNote": "Read complete text of subsection 3. Directs division of motor carrier and railroad safety to enforce section and prosecute violations as provided in section 386.570."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 1977 H.B. 75 § 1; § 226.008 transfer note). Confirmed draft titles for shifting-load flat car/gondola train placement prohibition, yard switching exemption, and § 386.570 enforcement."
+    },
+    {
+      "id": "389.998:21919",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=389.998&bid=21919",
+      "sourceSha256": "afc496fbf3e03b94cc1776c332e1218fe5c39a35a6436bbd1342601e350ea439",
+      "textSha256": "646cc7f2173252c4319c917502f55d0c7edfcd08228f732abcd220d847fe7a42",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Civil forfeiture penalties, prosecution, and school fund payment",
+          "bodySha256": "09e147366e70ffe6fe0051f0830e882fee7607b5a2fd2d9f00cd99aa7d3406a0",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1988 S.B. 676; 226.008 transfer note). Establishes civil penalty of $100 to $2,000 for chapter violations, prosecuted by general counsel in circuit court, remitting penalties during bona fide chapter 622 review, payable to public school fund."
+        },
+        {
+          "number": 2,
+          "title": "Separate offense status for distinct and daily continuing violations",
+          "bodySha256": "53ee6b136eb58492cfb0e80f31da64720e932404b74cbee2be6add1f96abbcb8",
+          "reviewNote": "Read complete text of subsection 2. Designates each violation of law, order, rule, or requirement as separate offense, treating each day of continuing violation as separate offense."
+        },
+        {
+          "number": 3,
+          "title": "Corporate liability for acts and omissions of officers and agents",
+          "bodySha256": "2d56baed6ab08c5351e16e49abcf8b8a01799c319a497c333bc66eb90f6ac5d6",
+          "reviewNote": "Read complete text of subsection 3. Imputes acts, omissions, or failures of officers, agents, or employees within employment scope to corporation or person."
+        },
+        {
+          "number": 4,
+          "title": "Cumulative nature of statutory penalties and forfeitures",
+          "bodySha256": "abb4e928c586defeafd7b0bdfea08d08dbf1d7111a6e7d49288a6310914c4eb9",
+          "reviewNote": "Read complete text of subsection 4. Provides that all penalties and forfeitures under chapter are cumulative, and recovery of one penalty does not bar recovery of any other."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 4 subsections and source notes (L. 1988 S.B. 676; § 226.008 transfer note). Confirmed all 4 draft titles for $100–$2,000 civil penalties/school fund payment, separate/daily offenses, vicarious liability, and cumulative remedies."
+    }
+  ]
+}

@@ -1,0 +1,661 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "383.010:21560",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=383.010&bid=21560",
+      "sourceSha256": "6241f34cf2dd9c9abe6f701b70cea850c4a1c1e3f0ab941e3a22b2779ea292dc",
+      "textSha256": "4f1bcfa7e35fcbeedd799ebb43f853889b7523f01e4a916a2e3d1345e35eb0a7",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Formation of malpractice insurance entities",
+          "bodySha256": "950dc8e6cc80e1147626caa5381589a42f425707c8aaba61b80e35d3d9f39b67",
+          "reviewNote": "Read sub 1: permits 3+ Missouri-resident licensees (chs. 327, 330–332, 334–336, 338–339, or Supreme Court Rule 8) to form an assessment-plan business entity for malpractice insurance/indemnification; also allows liability/ambulance auto coverage for ch. 197 entities and defines 'persons'."
+        },
+        {
+          "number": 2,
+          "title": "Eligibility of out-of-state licensed professionals",
+          "bodySha256": "7b817bb4c09566ec343a0ea09d32ba3d48002c7f7a44759b50e9c733837b2863",
+          "reviewNote": "Read sub 2: permits nonresidents licensed in another state to become members and insureds if employed by or affiliated with an insured entity."
+        },
+        {
+          "number": 3,
+          "title": "Exclusion of professional malpractice from commercial casualty definitions",
+          "bodySha256": "0c7dfd5a5d27409c6beb19a1d173a5022a54b23f98947afacc29e1dd93d8d0a7",
+          "reviewNote": "Read sub 3: excludes professional malpractice insurance policies issued in Missouri from commercial casualty insurance definitions in §§ 379.882 and 379.888."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 1975 S.B. 458 through A.L. 2006 H.B. 1837). Refined sub 1 title to reflect statutory 'business entity' terminology and chapter 197 coverage; confirmed nonresident membership and commercial casualty exclusion."
+    },
+    {
+      "id": "383.015:21561",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=383.015&bid=21561",
+      "sourceSha256": "1fcfa09787a3156c8f2d9d570b804e9b34f7cb18cf89a8cb5364cb7489c8a8ab",
+      "textSha256": "ae1cdbc854f1d0c03405259e53aaa9af3a717e59f8576b5abc4949c6a375882d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Articles of association and license fee payment",
+          "bodySha256": "b2ef77d25754cbb9166416f6e60444bf919067cd2e545677689ed3961ea5c79a",
+          "reviewNote": "Read sub 1: requires $100 license fee and filing articles of association with director under §§ 375.201–375.236, including initial assessment, maximum assessment, and amendment provisions."
+        },
+        {
+          "number": 2,
+          "title": "Registered agent designation and service of process",
+          "bodySha256": "7f221c3b794968f4fea0f07dcfc50c17d4e03ee1349e42774306997892c31a98",
+          "reviewNote": "Read sub 2: requires designating and maintaining an in-state registered agent; service on the agent constitutes service on the association and each member."
+        },
+        {
+          "number": 3,
+          "title": "Initial bylaws, governing body, and assessment classifications",
+          "bodySha256": "52e406f0920e23d77d780a028229bab85d08cbbfac0d857a03e6ef287162924f",
+          "reviewNote": "Read sub 3: requires filing initial bylaws covering governing body, elections, assessment methods, uniform-within-class assessments, and optional risk transfer or reinsurance."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 1975 S.B. 458 § 2, effective 6-26-75). Confirmed all 3 draft titles accurately match articles/fee, registered agent, and initial bylaws requirements."
+    },
+    {
+      "id": "383.030:21565",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=383.030&bid=21565",
+      "sourceSha256": "2875789a1dd0b1742a9c7679b5c75bf3138f403368be754a88bc839aaaac5103",
+      "textSha256": "d376a97aa8269cde28ed96bcc10d301dd90f2f8bb1b61078aeb1d7b9175b0db3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Financial examinations and annual license renewal fee",
+          "bodySha256": "f7f15e7f6facf942a2e6d9f5db5763cd0178f60cc59d9e7e328c4b6a503d9b7e",
+          "reviewNote": "Read sub 1: authorizes director financial examinations under §§ 374.202–374.207 (or successor sections) at association expense (§§ 374.160, 374.220) and requires $100 renewal fee within 30 days before license expiration."
+        },
+        {
+          "number": 2,
+          "title": "Annual filing of amendments to articles or bylaws",
+          "bodySha256": "ae16d055f4273f73f1cfeba5c5866e5a10c631befeef94d2664d5468e967f7ba",
+          "reviewNote": "Read sub 2: requires existing associations to file any amendments to articles of association or bylaws adopted in the preceding year upon license renewal."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1975 S.B. 458 § 5, A.L. 1992 S.B. 831, A.L. 2008 S.B. 788). Confirmed draft titles for director financial examinations, $100 renewal fee, and annual amendment filings."
+    },
+    {
+      "id": "383.035:21567",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=383.035&bid=21567",
+      "sourceSha256": "ac2875efe5f1ad98ab90eb3c9308c90910fb567e7646c76613104effbd5a480f",
+      "textSha256": "c03a57841fcc2efedf767c154090bb08f021c278317af43d20cfa04fe249afaa",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Applicability of general insurance statutes",
+          "bodySha256": "4d4424ccf9ef0f77f7adad7a26683f8ed3a02b8a835ce4809b495e9430fc41f6",
+          "reviewNote": "Read sub 1 (11 subdivisions): enumerates applicable Missouri insurance statutes; source footnotes note § 374.115 was repealed in 2018 and § 374.122 was repealed in 1998."
+        },
+        {
+          "number": 2,
+          "title": "Actuarial certification filed with annual statement",
+          "bodySha256": "3c3bd9f6c9935c37f07551b398b571eae3292569b7d976f0585b1bd572fdb9a5",
+          "reviewNote": "Read sub 2: requires filing Casualty Actuarial Society fellow/associate certification with annual statement conforming to NAIC instructions unless director provides otherwise."
+        },
+        {
+          "number": 3,
+          "title": "Director rulemaking authority and limitations",
+          "bodySha256": "997246fd5f647d422ec9c04f08015cbfb11333f40922b0e906fddcbde8d26a64",
+          "reviewNote": "Read sub 3: grants director rulemaking authority under § 374.045 to accomplish §§ 383.010–383.040, including specific-illness extensions, but bars rules limiting premium written or insurance/liability limits. Broadened draft title."
+        },
+        {
+          "number": 4,
+          "title": "Exemption from other state insurance laws",
+          "bodySha256": "aac5c930e97af451e3f168de4cefbcec0c41f766f00f73b5d5e9cf31d85fdcad",
+          "reviewNote": "Read sub 4: exempts licensed associations from all other Missouri insurance laws unless a law expressly states it applies."
+        },
+        {
+          "number": 5,
+          "title": "Voluntary surplus restoration plan after negative surplus",
+          "bodySha256": "187b8db54d9fdeb879a70f68d8eeb48cdb78390cbe8bf817b6dc731292bf07ef",
+          "reviewNote": "Read sub 5: after second full calendar year, if policyholder surplus is below $0, director may order a voluntary restoration plan within 90 days and order modifications after 3 missed consecutive quarters. Replaced inaccurate draft title."
+        },
+        {
+          "number": 6,
+          "title": "Administrative review, three-year cure period, and receivership",
+          "bodySha256": "0fd25b81ab4c39aa614d73157bcd32c7059acb0fe75dfd532330297eb9c6d64e",
+          "reviewNote": "Read sub 6: permits ch. 536 review, allows 3 years (or longer) to restore surplus to at least $0, and allows director to take charge under §§ 375.1150–375.1246 upon failure; jurisdiction terminates once restored. Fixed draft's erroneous 'sixty-day' claim."
+        },
+        {
+          "number": 7,
+          "title": "Filing of rating manuals, classifications, and underwriting rules",
+          "bodySha256": "8dfec650dec20f2c4e5f4035e57b61e3ca7cff7ea412866a94a479f60caf7407",
+          "reviewNote": "Read sub 7: requires filing manuals of classifications, rules, underwriting rules, rates, rating plans, and modifications within 10 days of effective date (except custom excess liability), grandfathers Aug. 28, 1992 filings, and allows excess member rates on written application."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 7 subsections and source notes (L. 1975 S.B. 458 § 6 through A.L. 2006 H.B. 1837; footnotes note § 374.115 repealed by S.B. 982, 2018, and § 374.122 repealed by H.B. 1090, 1998). Corrected subs 3, 5, and 6 titles (sub 5 is voluntary surplus restoration plan, not mandatory assessment; sub 6 is a 3-year cure period and receivership, not 60 days) and fixed sub 7 note."
+    },
+    {
+      "id": "383.062:21571",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=383.062&bid=21571",
+      "sourceSha256": "3617d4a785ec1f2db38fbfdc043144c0bbebb51fcbb141b6f32bd53cb6d107df",
+      "textSha256": "aae99ca0c703cb2b0b5caf3d076772d6c844023b9949a54c04537c4d619d253b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual confidential report of real estate malpractice claims",
+          "bodySha256": "e2062b38e0be674b41fd84befef9eafb521aef6c8f811618aaacc40694ba575d",
+          "reviewNote": "Read sub 1: requires insurers providing real estate malpractice coverage to ch. 339 licensees and employees to file annual confidential Jan. 1 reports of claims made in the prior 12 months. Replaced hallucinated draft."
+        },
+        {
+          "number": 2,
+          "title": "Required contents of real estate claim reports",
+          "bodySha256": "b4fddb620df319c415a79b812d1d1f00f0b9b9131cd033576c442f8afc8f6031",
+          "reviewNote": "Read sub 2 (13 subdivisions): requires written report on director-prescribed form, one form per claim, listing 13 specified claim, insured, reserve, and deductible items. Replaced hallucinated draft."
+        },
+        {
+          "number": 3,
+          "title": "Reporting final claim outcomes within six months",
+          "bodySha256": "dd4916251bb53011dd0b76da4cebf3263b3b973c3b12befb4e422784f4de571c",
+          "reviewNote": "Read sub 3: requires insurer to report final claim outcome, including any payments made, within 6 months of final disposition. Replaced hallucinated draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 1986 H.B. 1393 § 2). Replaced all 3 completely hallucinated draft titles (which described pretrial screening panels) with accurate headings for annual real estate malpractice claim reports."
+    },
+    {
+      "id": "383.077:21575",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=383.077&bid=21575",
+      "sourceSha256": "656808df310cfdee1516839607aba3d8d77f8ba4b278ba610762dcbd55b225ae",
+      "textSha256": "b38f6eb1c1c9207d9668a6407ea2d181e25ab0bc28537ba9fc4ae1df49c160c7",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual confidential report of legal malpractice claims",
+          "bodySha256": "ecb1a3805b8baed8ff72192d64597556a02c5645d408e58af6df772a9568d424",
+          "reviewNote": "Read sub 1: requires insurers providing legal malpractice coverage to Missouri attorneys, professional corporations, and employees to file annual confidential Jan. 1 reports of claims from the prior 12 months. Replaced hallucinated draft."
+        },
+        {
+          "number": 2,
+          "title": "Required contents of legal claim reports",
+          "bodySha256": "726fb0da607ea6894e39ee45e5bfeeb91591769c6986d5924e2d6887c43aabbc",
+          "reviewNote": "Read sub 2 (16 subdivisions): requires written report on director-prescribed form, one form per claim, listing 16 specified claim, practice area, activity, reserve, and deductible items. Replaced hallucinated draft."
+        },
+        {
+          "number": 3,
+          "title": "Reporting final claim outcomes within six months",
+          "bodySha256": "dd4916251bb53011dd0b76da4cebf3263b3b973c3b12befb4e422784f4de571c",
+          "reviewNote": "Read sub 3: requires insurer to report final claim outcome, including any payments made, within 6 months of final disposition. Replaced hallucinated draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 1985 H.B. 657 & 337 § 2). Replaced all 3 completely hallucinated draft titles (which described medical malpractice statistical reporting) with accurate headings for annual legal malpractice claim reports."
+    },
+    {
+      "id": "383.105:21580",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=383.105&bid=21580",
+      "sourceSha256": "e373a50b61b63f8afa2d1d569b244f39bb9fbc1af5c2a027104e97a3c703d58e",
+      "textSha256": "738e459745cd149b472e34298fe82e83d32ca3d044c8bfd478af5dd957c5319f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Reports of medical malpractice claims filed with director",
+          "bodySha256": "765bead54e672b5ab17c3097b3448f32c72d83ccae243b0256dd6e570aa721de",
+          "reviewNote": "Read sub 1: requires medical malpractice insurers and self-insured Missouri health care providers to submit quarterly reports of open and closed claims made in the preceding 3-month period."
+        },
+        {
+          "number": 2,
+          "title": "Required contents of quarterly malpractice claim reports",
+          "bodySha256": "ee9b7c204103c13de6fe97d800c49ed144306c3d620b8a69b0490a84c013e915",
+          "reviewNote": "Read sub 2 (9 subdivisions): requires written report containing insured/provider identity, specialty, policy number, claim details, claimant info, disposition/payments within 6 months, expenses, and director-requested data."
+        },
+        {
+          "number": 3,
+          "title": "Broad definition of insurer for reporting provisions",
+          "bodySha256": "f647c1131004db756493ed3b39d70b02fcec785aa20bc8f5726106f9e9904d69",
+          "reviewNote": "Read sub 3: defines 'insurer' for §§ 383.100–383.125 to include admitted companies, ch. 384 unauthorized insurers, risk retention groups, purchasing group insurers, ch. 383 entities, and self-insured providers."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 1976 H.B. 1308 § 2 through A.L. 2006 H.B. 1837). Confirmed all 3 draft titles for quarterly medical malpractice claim reports, required contents, and broad definition of insurer."
+    },
+    {
+      "id": "383.106:21581",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=383.106&bid=21581",
+      "sourceSha256": "2648bea6baba3d460277267206d8b54d9b06260d06ba12015117c1983cb81d52",
+      "textSha256": "fd1f6fc3f42a70632f8c98ef2042f956ba21da7b485d425c0e20185348541fa6",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Reporting standards for medical malpractice monitoring",
+          "bodySha256": "ad681c2a5652aabc6fb055007b644e35580f54da34e405561e6300f185f4084f",
+          "reviewNote": "Read sub 1: directs director by rule or order to establish annual reporting standards for Missouri medical malpractice premium, loss, exposure, and other data."
+        },
+        {
+          "number": 2,
+          "title": "Establishment of risk reporting categories",
+          "bodySha256": "2deff642d54999672f3f594668ffe6336deeccf225b98b6ec05aff87bf4a8044",
+          "reviewNote": "Read sub 2: directs director prior to May 30, 2007, to establish risk reporting categories under § 383.150 and rate/premium reporting rules, considering county court judgment histories."
+        },
+        {
+          "number": 3,
+          "title": "Compilation of rating information without identifying insurers",
+          "bodySha256": "f63bd3a9c0b5a3bb54e12e0e3103190f7c7baf9feebcf4037f6b9623ffee3cfc",
+          "reviewNote": "Read sub 3: directs director to compile rating data for insurers and public without identifying individual insurers; permits combining with examination data over multi-year periods."
+        },
+        {
+          "number": 4,
+          "title": "Annual reporting of actual rates by risk categories",
+          "bodySha256": "47a8bacdcbf134062f10ea8835048eb6a8937d12098ae646c616fae01a0fc313",
+          "reviewNote": "Read sub 4: requires medical malpractice insurers, beginning June 1, 2008, and at least annually thereafter, to report actual rates (including member assessments) by risk reporting category."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 4 subsections and source notes (L. 2006 H.B. 1837). Confirmed all 4 draft titles covering annual reporting standards, risk reporting categories (prior to May 30, 2007), anonymized compilation, and annual actual rate reports (beginning June 1, 2008)."
+    },
+    {
+      "id": "383.115:21585",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=383.115&bid=21585",
+      "sourceSha256": "f86c152f9afe58f49da911b96b3db9e074bdb31f9797b4754392f261e39ae2e4",
+      "textSha256": "56c9fc3c7edeb57c339cad9f1f6d5ef51bffd2ccd42483d4c44390d0d12be1e1",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Confidentiality of specified claim data and exception",
+          "bodySha256": "e58561e9fa4ddd0817e5ba96a1faecae7363bd427612272f0500902bc0534c2c",
+          "reviewNote": "Read sub 1: deems information submitted under § 383.105(2)(1), (3), and (6) confidential communication except as provided in § 383.125. Refined title to reflect statutory exception."
+        },
+        {
+          "number": 2,
+          "title": "Public record status of summary statistics",
+          "bodySha256": "06209766c507f39377649e84facc3281d0fdacb6f74fb37e9fb0522b661a8af3",
+          "reviewNote": "Read sub 2: makes summary statistics of information submitted under §§ 383.100–383.125 a public record, except as provided in sub 1."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1976 H.B. 1308 § 4). Refined sub 1 title to reflect the § 383.125 exception and confirmed sub 2 public record status for summary statistics."
+    },
+    {
+      "id": "383.124:21587",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=383.124&bid=21587",
+      "sourceSha256": "89d2cacb5ef9943697ea3620c8637485f0f8859bf585ed576791ba2baba169a7",
+      "textSha256": "b9e3cb1d2b8eda49d2898bf4ad3406fe8c8bd77d783cce5a5dfc654572de3b09",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Administrative enforcement orders for reporting violations",
+          "bodySha256": "88367d1dff49ce65fdece816a32d473fc2db4c5130e1e84513d64882c499f449",
+          "reviewNote": "Read sub 1: authorizes director administrative orders under § 374.046 for §§ 383.100–383.125 violations (level two violation under § 374.049) and license/certificate suspension or revocation under § 374.047 for willful violations."
+        },
+        {
+          "number": 2,
+          "title": "Civil actions for reporting violations",
+          "bodySha256": "fc612f5674744fb0960a5e123eece4a0a32dc11afce3a131d993c5f2c1c83cc6",
+          "reviewNote": "Read sub 2: permits director to maintain a civil action for relief under § 374.048 for §§ 383.100–383.125 violations (level two under § 374.049). Removed 'in circuit court' not stated in text."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 2006 H.B. 1837). Confirmed sub 1 administrative enforcement title and removed unsupported 'in circuit court' phrase from sub 2 title."
+    },
+    {
+      "id": "383.133:21590",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=383.133&bid=21590",
+      "sourceSha256": "f4b2d66bb15e2fa28826e91f0ff7606f672425dbdf99b6297e5b559c2ef0646c",
+      "textSha256": "0dccd4e7f463bf70eccf4afe236eee21eef46a18b708446eddb12870e0e81605",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory reporting of health care professional disciplinary actions",
+          "bodySha256": "db620eb90ef908d8f6429c15cf18396578d02d394f46c4ac88d2c644254161e0",
+          "reviewNote": "Read sub 1: requires CEOs of hospitals, ASCs, temporary nursing staffing agencies, nursing homes/facilities, and health care employers/contractors to report disciplinary actions and complaint-related voluntary resignations to licensing authorities."
+        },
+        {
+          "number": 2,
+          "title": "Deadline and required contents of disciplinary reports",
+          "bodySha256": "20301250a6487c65539956615722cf7f26ada58ffcee84ac5a55b61b05ef3349",
+          "reviewNote": "Read sub 2 (4 subdivisions): requires filing within 15 days of final disciplinary action with reporter identity, subject identity, detailed facts/dates, and known court docket info. Updated title to include 15-day deadline."
+        },
+        {
+          "number": 3,
+          "title": "Sharing of disciplinary reports among licensing and law enforcement bodies",
+          "bodySha256": "1fa45a27f857dfcb66c76b7abaa8682a12a871818065257d1352d6d920d3ba3e",
+          "reviewNote": "Read sub 3: permits licensing authorities upon request to furnish received disciplinary reports to reporting entities and their own disciplinary action reports to administrative or law enforcement agencies within statutory scope."
+        },
+        {
+          "number": 4,
+          "title": "Immunity from liability for good-faith reporting",
+          "bodySha256": "fc98385b791cef1f3c3e95f3d0d397a3ff85063c68a2c673b4f61bbae7e28a0b",
+          "reviewNote": "Read sub 4: provides good-faith, without-malice civil immunity for licensing authorities, reporting entities, and their agents/employees; source note cites Haynes-Wilkinson v. Barnes-Jewish Hospital (E.D.Mo. 2001) holding no absolute immunity absent pending proceedings."
+        },
+        {
+          "number": 5,
+          "title": "Inadmissibility of disciplinary reports in other proceedings",
+          "bodySha256": "8b807d88bccd092c8ca5ecb7d120524da0314d5f511c68580d4d059590567b7e",
+          "reviewNote": "Read sub 5: prohibits using required sub 2 reports or proceeding records against a health care professional in any other administrative or judicial proceeding."
+        },
+        {
+          "number": 6,
+          "title": "Infraction classification for reporting violations",
+          "bodySha256": "07b6f286dac6dd232b26b450d39372fe1bab6cce7b007ef10943ae72c84d1eb7",
+          "reviewNote": "Read sub 6: classifies violation of any provision of this section as an infraction."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 6 subsections and source notes (L. 1986 S.B. 663 § 2 through A.L. 2010 H.B. 2226, et al., plus 2001 E.D.Mo. annotation Haynes-Wilkinson v. Barnes-Jewish Hospital on immunity limits). Refined sub 2 title to include the 15-day deadline."
+    },
+    {
+      "id": "383.155:60312",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=383.155&bid=60312",
+      "sourceSha256": "77f3fa6d2a56cd178f31216622be49471553ecefb2d09cb16e09b52d719371ab",
+      "textSha256": "0e60e54a9a948b164e74aa9c8a3c03bffbc2b9db1de3a9b10759f4b5c6ed4f8f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Creation of Joint Underwriting Association upon market unavailability",
+          "bodySha256": "6574eaa98284d9cc90b59000c1710eec2c7ca104b9eded97fd1aaa0a0a3ef21f",
+          "reviewNote": "Read sub 1: permits creating or resuming a joint underwriting association after public hearing finding voluntary market unavailability; mandates membership for net direct premium writers."
+        },
+        {
+          "number": 2,
+          "title": "Concurrent adoption of plan of operation",
+          "bodySha256": "0fd807a1270d7551c2b3d805df9f58010d487525fde8c181a4573c45bee5da7a",
+          "reviewNote": "Read sub 2: requires adoption of a plan of operation effective concurrently with the association's effective date."
+        },
+        {
+          "number": 3,
+          "title": "Association powers regarding policies, underwriting, and reinsurance",
+          "bodySha256": "cf26e7ff90dcef5e15308df17e5049352ef02f44ff1b447ebe23d0e3c2f30d51",
+          "reviewNote": "Read sub 3 (4 subdivisions): empowers association to issue policies (up to $1M/$3M limits), underwrite/adjust/pay losses or appoint a servicing company, assume member reinsurance, and cede reinsurance. Removed erroneous 'assess' from draft title."
+        },
+        {
+          "number": 4,
+          "title": "Forty-five day deadline for submission of proposed plan of operation",
+          "bodySha256": "67489377dc084d145f5a24e7a137f8e25e714591e8b1056312c66d870302cba8",
+          "reviewNote": "Read sub 4: requires board to submit proposed plan of operation consistent with §§ 383.150–383.195 to director within 45 days of association creation."
+        },
+        {
+          "number": 5,
+          "title": "Mandatory contents and standards for plan of operation",
+          "bodySha256": "ae1d32cb7231a61a25cb89a8ac809ec11e6eaec988ab6cf23a876ef4e0dec3eb",
+          "reviewNote": "Read sub 5: specifies mandatory plan of operation elements including preliminary assessments (recouped under § 383.160(5)), underwriting standards, reinsurance, servicing company, and coverage procedures."
+        },
+        {
+          "number": 6,
+          "title": "Board composition and director terms established by plan",
+          "bodySha256": "0b082bca182f0789edf688a4987de87ab13f8f477315056759430bb133fae38b",
+          "reviewNote": "Read sub 6: provides that board composition and director terms are established by the plan of operation."
+        },
+        {
+          "number": 7,
+          "title": "Director review, public consultation, and approval of plan",
+          "bodySha256": "e312de67dc0fbbf88ffad035be29aa3cdde707ec3057a7ad4b1962919ffb8a3e",
+          "reviewNote": "Read sub 7: requires director approval after consultation; board has 15 days to submit revised plan upon disapproval, after which director promulgates plan."
+        },
+        {
+          "number": 8,
+          "title": "Amendments to plan of operation",
+          "bodySha256": "5014bb93fd5d0644bd6993e76877aad5ee6ba8fd914fe5b86b7959a9914e8368",
+          "reviewNote": "Read sub 8: permits plan amendments by board subject to director approval, or requires amendments at director's direction."
+        },
+        {
+          "number": 9,
+          "title": "Immunity from liability for association activities",
+          "bodySha256": "8155303fdcd2e94aa4c58b6aa93dcb9c16650f4763ee3c3307e38b0a6a591c58",
+          "reviewNote": "Read sub 9: grants civil immunity to member insurers and board members for omissions or actions performing powers and duties under §§ 383.150–383.195."
+        },
+        {
+          "number": 10,
+          "title": "Suspension of association operations and member dues",
+          "bodySha256": "a2eeb6c7921e71268d173d6f73b8a3721fcbab9cdd8500a36d304e4077734f6e",
+          "reviewNote": "Read sub 10 (4 subdivisions): permits board to suspend operations if voluntary market is reasonably available and <=2 physicians are insured annually for 2+ consecutive years; bars dues/fees during suspension unless director authorizes assessment or resumption; defines 'reasonably available'."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 10 subsections and source notes (L. 1976 H.B. 1309 § 2, A.L. 2020 S.B. 551, A.L. 2026 H.B. 2372). Corrected sub 3 (removed nonexistent assessment power), tightened sub 10, and corrected sub 9 note (immunity covers member insurers and board members, not department agents)."
+    },
+    {
+      "id": "383.160:48704",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=383.160&bid=48704",
+      "sourceSha256": "4fcb94002686aea80a5bac95faaa3af2d101d8c9e351e7e52de085ea21be8f27",
+      "textSha256": "d4eb94691831051c9f1f51ef2a680d1b489b642f86658905f52e387e87163763",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Policy coverage and director approval of forms",
+          "bodySha256": "6957a390d4c4138921a2050852a19f792b965fd6334f2a007da7cc96462eb482",
+          "reviewNote": "Read sub 1: requires association policies to provide coverage per plan of operation and requires filing/approval of forms (30-day deeming) with post-hearing disapproval power. Fixed draft's erroneous coverage limits claim."
+        },
+        {
+          "number": 2,
+          "title": "Cancellation of association policies governed by law",
+          "bodySha256": "a7349c7084131b040b385e4c2e8197bcae98b5a686e41b2886cfa84937eb0d97",
+          "reviewNote": "Read sub 2: provides that cancellation of association policies is governed by law."
+        },
+        {
+          "number": 3,
+          "title": "Rate regulation and actuarially sound pricing",
+          "bodySha256": "5f6bab7595314e8db4a234057f0344ae4f2d2c2ad7eac5f5908f2bb68bc310f3",
+          "reviewNote": "Read sub 3: subjects rates, plans, rules, classifications, and territories to casualty rate regulation law considering loss/expense experience, trends, and investment income; requires actuarially sound, self-supporting rates. Fixed draft grammar."
+        },
+        {
+          "number": 4,
+          "title": "Member assessments for deficits and annual cap",
+          "bodySha256": "3d5ea962a8f7b0dce782ea472c7d8b229fee59094b56f71d007154ece5c81fc4",
+          "reviewNote": "Read sub 4: requires proportional member assessments based on prior-year net direct premiums when funds are insufficient, capped at 1% of net direct premiums per calendar year. Removed erroneous 'deficit recoupment' from draft."
+        },
+        {
+          "number": 5,
+          "title": "Premium tax deduction for paid member assessments",
+          "bodySha256": "739858c48ba959a357b276ed7d192f1007740d8775d2418461de67220433cb53",
+          "reviewNote": "Read sub 5: requires members to deduct assessment amounts from past or future unpaid state premium taxes."
+        },
+        {
+          "number": 6,
+          "title": "Distribution of excess funds to state and members",
+          "bodySha256": "733d2cad9afa46d6defcfa2700f7e8f1daf466ae742866a75e0bfb7295b65ccf",
+          "reviewNote": "Read sub 6: requires excess calendar-year funds above reserves, losses, and expenses to be paid proportionately to the state general fund (for sub 5 tax credits) and to assessed members without tax credits. Replaced inaccurate draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 6 subsections and source notes (L. 1976 H.B. 1309 § 3, A.L. 2020 S.B. 551). Corrected subs 1, 3, 4, and 6 titles (sub 1 covers form approval, not $1M/$3M limits; sub 3 fixed grammar; sub 4 sets 1% annual assessment cap without rate recoupment; sub 6 distributes excess funds to state general fund and assessed members, not retention)."
+    },
+    {
+      "id": "383.170:21595",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=383.170&bid=21595",
+      "sourceSha256": "c4958e04dce88f22c99eade5067779df1ed652cbdbd3e98016fbfc05cbbc6ab1",
+      "textSha256": "79349ea626459680ed02e62daa1d2bd688465c7d772a7a1dfa1a09b0ff27adc5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Health care provider eligibility to apply",
+          "bodySha256": "9d069a6ea50273e2fb99b15cd3df4db5c97a59f1dfbc3b7d290fb49c982ab002",
+          "reviewNote": "Read sub 1: entitles any health care provider to apply to the association for medical malpractice liability insurance, directly or via an authorized broker or agent. Replaced hallucinated draft."
+        },
+        {
+          "number": 2,
+          "title": "Underwriting eligibility and policy issuance",
+          "bodySha256": "d9265740f78c7262719ae99a9f0fdcd07bbb25b77bdfbcc2e0762545e6d24fd7",
+          "reviewNote": "Read sub 2: requires association to issue a policy if applicant meets plan underwriting standards, has no unpaid uncontested prior premium, and pays required premium. Replaced hallucinated draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1976 H.B. 1309 § 5). Replaced both completely hallucinated draft titles (which described annual statements and director examinations) with accurate headings for health care provider eligibility and policy issuance."
+    },
+    {
+      "id": "383.203:21602",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=383.203&bid=21602",
+      "sourceSha256": "d0ee9e74ae89438ba412ee16ee55cd3c630fe12f43a2e2ba9b4829d74b619ac9",
+      "textSha256": "d5bdea43b930b06b2f25b5fd0598f0d34c4907caf0d7294252e8471c196c9201",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Filing of rates and supplementary information before use",
+          "bodySha256": "ed3682288a69a86ea218a6f1db0103ecdc68506db28a0046637cb9b8eb4c2c39",
+          "reviewNote": "Read sub 1: requires every insurer to file all rates and supplementary rate information to be used in Missouri with the director before use. Replaced hallucinated draft."
+        },
+        {
+          "number": 2,
+          "title": "Filing form and thirty-day deficiency notice",
+          "bodySha256": "40646b31e5f444e1196c6623b16e6c28cd3d844bca465e6a434ff047a24ba90e",
+          "reviewNote": "Read sub 2: requires filing in director-prescribed form and manner; director must inform insurer within 30 days if required information is missing. Replaced hallucinated draft."
+        },
+        {
+          "number": 3,
+          "title": "Public inspection and copies of rate filings",
+          "bodySha256": "d3f9dfe5016a63698ba505b3a276c128cc2a8a5defc6c7708ff69737e6c5a4e8",
+          "reviewNote": "Read sub 3: makes filed rates and supplementary rate information open to public inspection upon filing, with copies available upon request for a reasonable charge. Replaced hallucinated draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 2006 H.B. 1837 § 383.197). Replaced all 3 completely hallucinated draft titles (which described legislative findings and purpose) with accurate headings for rate filing, deficiency notice, and public inspection."
+    },
+    {
+      "id": "383.206:21603",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=383.206&bid=21603",
+      "sourceSha256": "fdbcd3869adec12d926fe98012c14834e1d02c37f2a1f25aa95e815d8a59318c",
+      "textSha256": "030c538c28dc673235233250b2e90862f130826e9a283c5f27a770bffdeb5281",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition on excessive, inadequate, or discriminatory base rates",
+          "bodySha256": "f5fd8ada8e7717fd3c65934935f2ced26c2583d57f16e6b6d41a6a0ae611196d",
+          "reviewNote": "Read sub 1: bars issuing/selling § 538.205 health care provider policies if director finds base rates excessive, inadequate, or unfairly discriminatory on competent and compelling evidence; permits immediate use after filing unless disapproved. Fixed draft's erroneous 'prior approval' claim."
+        },
+        {
+          "number": 2,
+          "title": "Statutory factors guiding rate reasonableness determinations",
+          "bodySha256": "24524b566fd57a830d76cdb219be748d43c117cb724165e9346bc2e46df5936a",
+          "reviewNote": "Read sub 2 (11 subdivisions): lists permissive ('may use') rate review factors including Missouri loss experience, 10-year investment income/loss window, locale, inflation, costs, and return on investment; source text reads 'insurance proved' in (2)."
+        },
+        {
+          "number": 3,
+          "title": "Rate review based on health care subcategories or subspecialties",
+          "bodySha256": "86b13ec593891942dd34714e4feba9ad06b90c74c86bda0858edf35368fce0b7",
+          "reviewNote": "Read sub 3: permits director's sub 1 base rate determination to be based on any reasonable health care industry subcategory or subspecialty."
+        },
+        {
+          "number": 4,
+          "title": "Surcharges and discounts based on actuarially supported criteria",
+          "bodySha256": "a36da105f701f018c1b00d1180c6392b024d05eedbb2f164510988a6b947d40a",
+          "reviewNote": "Read sub 4 (9 subdivisions): permits actuarially supported surcharges or discounts included in filed rating systems based on provider-specific criteria such as loss experience, training, staff size, and loss prevention."
+        },
+        {
+          "number": 5,
+          "title": "Filing of supporting actuarial data upon director request",
+          "bodySha256": "c9701cf538bbb77a06c6fedd18dbdc77b2a776ccaf9fca89d8c4380f36ccca35",
+          "reviewNote": "Read sub 5: requires filing supporting actuarial data upon director request to evaluate disapproval, whether or not the insurer has begun using the rate."
+        },
+        {
+          "number": 6,
+          "title": "Rulemaking authority and nonseverability clause",
+          "bodySha256": "3920ffa644e694749323ac47f0e221e62c700c19b71c86426c3d31cb22efb88b",
+          "reviewNote": "Read sub 6: mandates rulemaking under ch. 536 and § 536.028 and makes section and ch. 536 nonseverable for rules proposed or adopted after Aug. 28, 2006."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 6 subsections and source notes (L. 2006 H.B. 1837 § 383.198). Corrected sub 1 title (file-and-use prohibition on excessive/inadequate/discriminatory base rates, not prior approval) and noted apparent source typo 'insurance proved' in sub 2(2)."
+    },
+    {
+      "id": "383.225:21605",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=383.225&bid=21605",
+      "sourceSha256": "1fd23516475cacb2031d6838800773650ed9afcbcf477d5ce1da0e26317be572",
+      "textSha256": "761307e414d7359ae72f701d4de79621fe736ce7ec943af5bc3180aeaa32c6e3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of insurer for notice requirements",
+          "bodySha256": "a4812820a587ee37fc5ef3de67b8c90e49bab2dcc4f63c2666b85bc840534c41",
+          "reviewNote": "Read sub 1: defines 'insurer' for this section to include admitted companies, ch. 384 unauthorized insurers, risk retention groups, purchasing group insurers, and any other medical malpractice provider. Broadened from 'nonrenewal' to cover sub 2(2) withdrawal."
+        },
+        {
+          "number": 2,
+          "title": "Advance notice for nonrenewal or market withdrawal",
+          "bodySha256": "98fd0bf10c12d867e889b7cd0356518e3168749fe68b1af48eb8f4ff08ceb76b",
+          "reviewNote": "Read sub 2 (2 subdivisions): requires 60 days' certified mail notice before nonrenewal (with exceptions for nonpayment, license loss, reinsurance termination, or material practice change) and 180 days' certified mail notice to insured and department before ceasing Missouri policy issuance. Added market withdrawal omitted by draft."
+        },
+        {
+          "number": 3,
+          "title": "Thirty-day coverage extension for failure to give timely notice",
+          "bodySha256": "0a4f806d24de2ff1c0c5a2d75c5d4226e59fb7c29a5de3137b92390d038087f9",
+          "reviewNote": "Read sub 3: requires insurer failing to give sub 2(1) nonrenewal notice to continue coverage, at insured's option, for the remainder of the notice period plus 30 days at the existing policy rate."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 2006 H.B. 1837 § 383.450). Broadened subs 1 and 2 titles to reflect both 60-day nonrenewal notice and 180-day market withdrawal notice requirements."
+    },
+    {
+      "id": "383.500:21607",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=383.500&bid=21607",
+      "sourceSha256": "9478ecff58d642d0a359505fe8ecf7f2ccc463d0a34f6870e6fd4f11644db6c5",
+      "textSha256": "5eb8bf0c1bce4a0fb2b7c9a974fcf535dac51d41ee3a1bd8dfae1b0fa47f7455",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory medical malpractice coverage for hospital staff physicians",
+          "bodySha256": "dcb1269507c819bc6e81e40a8c381054d8b72c3fd3170920748a70f161fae60e",
+          "reviewNote": "Read sub 1 (2 subdivisions): effective Jan. 1, 1987, requires medical staff physicians/surgeons at hospitals in counties over 75,000 population to furnish evidence of at least $500,000 malpractice coverage, exempting hospital-exclusive practitioners insured solely under hospital coverage."
+        },
+        {
+          "number": 2,
+          "title": "Hospital authority to establish independent liability insurance standards",
+          "bodySha256": "6c029557408a6e43cb5d4588297e52a0f774db405d6a4e5998ad40ac6ad0b7bb",
+          "reviewNote": "Read sub 2: preserves every Missouri hospital's authority to adopt rules requiring minimum professional liability insurance for medical staff membership."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1986 S.B. 663 § 3). Confirmed both draft titles for mandatory $500,000 hospital staff coverage in counties over 75,000 population and preserved hospital rulemaking authority."
+    }
+  ]
+}

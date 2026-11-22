@@ -1,0 +1,446 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "384.018:21611",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=384.018&bid=21611",
+      "sourceSha256": "2f49ed90402efebb64730b5420ffb804b136cbcac8c603501cdabc97a545cba1",
+      "textSha256": "e7cc95567150bda67cc0a8b47b4a3819fda51ec0eeae1a2d7adce158b82244bf",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Criteria for designation as domestic surplus lines insurer",
+          "bodySha256": "dd9bc04fc4e26faf51e1588edeb15c509f8536a444d9c17fe0f46c68ac56283b",
+          "reviewNote": "Read sub 1 (4 subdivisions): deems a Missouri-domiciled nonadmitted insurer a domestic surplus lines insurer if it has >=$20M policyholder surplus, out-of-state eligibility, a board resolution, and director written approval."
+        },
+        {
+          "number": 2,
+          "title": "Nonadmitted status under federal 2010 act",
+          "bodySha256": "72f9acecec06f89bc6599c9a635dd78baf8f6920fe444dc882ac42ec2283697f",
+          "reviewNote": "Read sub 2: considers a domestic surplus lines insurer a nonadmitted insurer for Missouri risks under 15 U.S.C. § 8201 (source text cites 'Nonadmitted and Reinsurance Act of 2010', omitting 'Reform')."
+        },
+        {
+          "number": 3,
+          "title": "Authority to write eligible surplus lines insurance",
+          "bodySha256": "fa9adf41b4203bb67747f29481802c26b4c977795c22b25be6920986a3313325",
+          "reviewNote": "Read sub 3: deems a domestic surplus lines insurer eligible to write any kind of insurance that a non-domiciled nonadmitted insurer is eligible to write. Tightened wording."
+        },
+        {
+          "number": 4,
+          "title": "Taxation of policies issued by domestic surplus lines insurers",
+          "bodySha256": "221c998128f400504c3b0d6a86b0816e71ba8a937324b8057186537043d1d394",
+          "reviewNote": "Read sub 4: subjects policies issued in Missouri to surplus lines taxes including § 384.059 premium tax, and exempts them from admitted insurer taxes including § 148.320."
+        },
+        {
+          "number": 5,
+          "title": "Inapplicability of state guaranty associations",
+          "bodySha256": "196866ded78266955e4bf15643ccfd87cbd974f9bdde1b85adc55b5bd90fc103",
+          "reviewNote": "Read sub 5: excludes domestic surplus lines policies from Missouri property and casualty (spelled 'guarantee' in source) and life and health guaranty association acts."
+        },
+        {
+          "number": 6,
+          "title": "Applicability of general financial and solvency requirements",
+          "bodySha256": "014a7afc2e572145c13d9c24d815daa3042dd229253798ba8eb0986ec5ee655e",
+          "reviewNote": "Read sub 6: applies domestic admitted insurer financial and solvency requirements in chapters 374, 375, 379, and 382 unless specifically exempted."
+        },
+        {
+          "number": 7,
+          "title": "Exemption from form, rate, and nonrenewal regulations",
+          "bodySha256": "838f70909fd15bc58e572146f9eea6f4bdda3b9c742b1cc65078a3e4556c9420",
+          "reviewNote": "Read sub 7: exempts domestic surplus lines insurers from statutory rating plans, policy forms, cancellation/nonrenewal, and premium requirements to the same extent as foreign nonadmitted insurers."
+        },
+        {
+          "number": 8,
+          "title": "Rulemaking authority of director",
+          "bodySha256": "7d2e21337dda96e5d9396ef5b6863825c8dca289dc2b95ff8aecd877e3b3db7c",
+          "reviewNote": "Read sub 8: permits director to promulgate and amend rules under § 374.045 relating to domestic surplus lines insurers."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 8 subsections and source notes (L. 2014 H.B. 1361). Refined subs 2 and 3 titles (noting sub 2 cites 'Nonadmitted and Reinsurance Act of 2010' without 'Reform') and corrected sub 4 note (§ 148.320 admitted insurer tax, not corporate tax)."
+    },
+    {
+      "id": "384.021:21612",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=384.021&bid=21612",
+      "sourceSha256": "faf5d0f9b89f45f64297a31243b255a8788ebd058c5bc4418c0abd7dec15e556",
+      "textSha256": "d4931845b284d5ccaa396a02ba820a3e7671b4e597942098d22ec37566364bd8",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prerequisites for placing surplus lines coverage with nonadmitted insurer",
+          "bodySha256": "b66c4874679540996405ed9bfba8021935cbb82cde0f67b480a74f79f0a26a40",
+          "reviewNote": "Read sub 1 (2 subdivisions): prohibits placement unless insurer is authorized in domicile and either has >=$15M/state-minimum capital and surplus (or director acceptability finding with $4.5M floor) or appears on director's semiannual list or NAIC IID quarterly alien list."
+        },
+        {
+          "number": 2,
+          "title": "Exempt commercial purchaser due diligence search exemption",
+          "bodySha256": "7e8ce8c3f403a0ea8144760ff196794976bc2915af505b4efa425b203fdbfc3a",
+          "reviewNote": "Read sub 2 (2 subdivisions): exempts licensee from due diligence search for an exempt commercial purchaser after admitted-market disclosure and written purchaser request; source text reads 'obtained from nonadmitted insurers' verbatim."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1987 H.B. 700 § 3 through A.L. 2014 H.B. 1361). Confirmed both draft titles; corrected sub 1 note (director semiannual list/NAIC IID alien list and $4.5M floor, not foreign trust) and noted verbatim 'nonadmitted insurers' wording in sub 2."
+    },
+    {
+      "id": "384.025:21614",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=384.025&bid=21614",
+      "sourceSha256": "c066c1fcf668404ceb4024e80bd32bafb28b2b47b5b50ad08e04abb7ba05e7a1",
+      "textSha256": "bd20be0fa4bcf3ce73b7f15816b5a56393eda3d0a9b71372ca58a6cedc47ff8a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Grounds for director declaration of insurer ineligibility",
+          "bodySha256": "7f3e37ba3f8ed59057b4d9d955b0b839fcbdd0a5a44cc3fc1640ee3e424dfeee",
+          "reviewNote": "Read sub 1 (4 subdivisions): permits director to declare an eligible surplus lines insurer ineligible for unsound financial condition, loss of § 384.021 eligibility, willful violation of Missouri law, or failure to pay just losses promptly."
+        },
+        {
+          "number": 2,
+          "title": "Publication of ineligibility declaration",
+          "bodySha256": "6fb9856431e3e2fa61f4bd87fc064a69dfff673933ba19656e139ea03fe42cc4",
+          "reviewNote": "Read sub 2: requires director to promptly publish notice of all ineligibility declarations in any public electronic format."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1987 H.B. 700 § 5, A.L. 2009 H.B. 577). Confirmed both draft titles for permissive director ineligibility declarations and prompt public electronic publication."
+    },
+    {
+      "id": "384.034:21616",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=384.034&bid=21616",
+      "sourceSha256": "2b641211edf2d8eb7c5e24e8e1fec43f40ff5f7f34d8c1d62af823d63f758277",
+      "textSha256": "15b6af1b5f4cd5139732ef6ae5bf0df15a0a33a6d6738ab42c6cbe78dacbd4ac",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Formation and purposes of advisory surplus lines organization",
+          "bodySha256": "d7ca1b76719b43165ecc56d24a55a8393fea49f66613fbd58e2665c388bf6e48",
+          "reviewNote": "Read sub 1 (4 subdivisions): permits surplus lines licensees to form an advisory organization to encourage compliance, confidentially examine member coverages, communicate with admitted insurer organizations, and disseminate information. Replaced hallucinated draft."
+        },
+        {
+          "number": 2,
+          "title": "Required filings with director by advisory organization",
+          "bodySha256": "bbef761b18a57867c6f96f820a61ba3091310c93b38e7030ecedb714713e8f4e",
+          "reviewNote": "Read sub 2 (5 subdivisions): requires filing constitution/articles, bylaws/rules, current member list, resident agent for service, and an examination agreement with the director. Replaced hallucinated draft."
+        },
+        {
+          "number": 3,
+          "title": "Periodic examination, hearing rights, and violation orders",
+          "bodySha256": "7efe23dae75e01e8df9c303abccefd52b9fc710c8922a9c29b0c8f65dd0bbaac",
+          "reviewNote": "Read sub 3: mandates director examination at least once every 3 years at organization's cost, oath examination of officers/records, 20-day hearing request on examination report, and permissive orders to discontinue §§ 384.011–384.071 violations. Replaced hallucinated draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 1987 H.B. 700 § 8, effective 7-01-87). Replaced all 3 completely hallucinated draft titles (which described eligibility verification and policy advisory notices) with accurate headings for advisory surplus lines organizations."
+    },
+    {
+      "id": "384.036:21617",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=384.036&bid=21617",
+      "sourceSha256": "03f161cfc45c1e9b06c515dcadfd22e2521df92a4d834f1ebc1a96d83b6b8d38",
+      "textSha256": "19f3da7273e2a91b6c1320fb753c022919fedb5f82d1bf9566855d24bce863e3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Evidence of insurance required upon placement",
+          "bodySha256": "b6aed9531459b6eaa99497d0664e98ee734796183945bfede859bf032f7a4b2e",
+          "reviewNote": "Read sub 1: requires prompt delivery of policy or executed certificate/cover note/binder upon placement, detailing subject, coverages, limitations, premium/rate/taxes, insured/insurer names and risk proportions, and licensee name/number."
+        },
+        {
+          "number": 2,
+          "title": "Prohibition on issuing false or unauthorized evidence of insurance",
+          "bodySha256": "f379c9e33eed5583bfac16441e9acebd6c72580c8789d8f5eda3cc68ede0dbc3",
+          "reviewNote": "Read sub 2: bars licensee from issuing evidence of insurance or representing coverage by an eligible or § 384.023 nonadmitted insurer without insurer authority or regular-course confirmation."
+        },
+        {
+          "number": 3,
+          "title": "Substitute or endorsement required after material changes",
+          "bodySha256": "0dbfe12d3c3becb992ab38fa8d695551a03e6ad562bb3f208f3679f66d0bdb13",
+          "reviewNote": "Read sub 3: requires prompt substitute or endorsement accurately showing current coverage and responsible insurers after any change in insurer identity, risk proportion, or material coverage terms. Fixed shifted draft."
+        },
+        {
+          "number": 4,
+          "title": "Delivery of replacement policy or complete certificate",
+          "bodySha256": "4adfa6429f922f37bfe8e987b0d7616bd362f91cfe7011779407d8188379b567",
+          "reviewNote": "Read sub 4: requires delivering a copy of the policy (or complete certificate of insurance containing all agreements, conditions, exclusions, and endorsements) as soon as reasonably possible to replace prior evidence. Fixed shifted draft."
+        },
+        {
+          "number": 5,
+          "title": "Penalties for licensee noncompliance",
+          "bodySha256": "f601d8ed9fdeb23aa0ed8e15dcd30e52478b9872b9a809529de6a319f7ef2884",
+          "reviewNote": "Read sub 5: subjects any surplus lines licensee who fails to comply with this section to the penalties hereinafter provided. Replaced hallucinated draft."
+        },
+        {
+          "number": 6,
+          "title": "Mandatory ten-point nonadmitted insurer disclosure legend",
+          "bodySha256": "c10f6c02fe45b6619ad5be71a4b87f6d8736e2fafde6f6e7436d596e06fc0606",
+          "reviewNote": "Read sub 6: requires every evidence of insurance under §§ 384.011–384.071 to bear licensee's name and the verbatim 10-point type Missouri Surplus Lines / non-guaranty / unlicensed-insurer legend on its face or declaration page. Replaced inaccurate draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 6 subsections and source notes (L. 1987 H.B. 700 § 9, A.L. 1989 S.B. 250). Confirmed subs 1–2 and replaced shifted/hallucinated draft titles in subs 3–6 (material-change endorsements, replacement policy/certificate delivery, noncompliance penalties, and mandatory 10-point disclosure legend)."
+    },
+    {
+      "id": "384.043:49888",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=384.043&bid=49888",
+      "sourceSha256": "05045ee26822cc5ba79d63cd6b5373f4ed4ebd8983b45b023ffc92c7fb3105d5",
+      "textSha256": "a8c29d02600d4aa17472d83e090e9005968d11bf9354e047a75a71ec46d3ab5f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Surplus lines license required to procure coverage",
+          "bodySha256": "45b7152ba6a80bdfd8c69205516dc2793e50051aea3a3c4caaf0247cb291633f",
+          "reviewNote": "Read sub 1: prohibits any insurance producer from procuring surplus lines insurance with a nonadmitted insurer without a current surplus lines license from the director. Replaced mismatched draft."
+        },
+        {
+          "number": 2,
+          "title": "License issuance criteria, fee, and examination",
+          "bodySha256": "cae5090f91be3899d8ac803650f37a6e3246fcc588618919a32bda4d9aaf7480",
+          "reviewNote": "Read sub 2 (3 subdivisions): requires director to issue license to qualified resident or nonresident P&C producer upon $100 initial fee, completed application, and passing exam (pre-July 1, 1987 holders deemed passed). Replaced mismatched draft."
+        },
+        {
+          "number": 3,
+          "title": "Biennial license renewal, fee, and termination",
+          "bodySha256": "0d636be026674cd124a6c6230254e2c513a0ec1ad400927e291cab83b627fe09",
+          "reviewNote": "Read sub 3: sets 2-year renewal term on licensee's birth date ($100 biennial fee), continuing until § 384.065 refusal/revocation/suspension, with termination if unpaid by birth date. Replaced hallucinated draft."
+        },
+        {
+          "number": 4,
+          "title": "Participation in national insurance producer database",
+          "bodySha256": "c2c24313bb4608909bc70315819f59f83159f74b73aa0f028fdae59678c7b55a",
+          "reviewNote": "Read sub 4: requires director, beginning on or before July 1, 2012, to participate in NAIC's national insurance producer database (or equivalent uniform database) for licensure and renewal. Replaced hallucinated draft."
+        },
+        {
+          "number": 5,
+          "title": "Home state licensing requirement for nonadmitted insurance",
+          "bodySha256": "d9fc04643128537874ec7325c7e4713daab3d2987b0f06079ff86426bdceee6d",
+          "reviewNote": "Read sub 5: requires a Missouri surplus lines license for selling, soliciting, or negotiating nonadmitted insurance only if Missouri is the insured's home state. Replaced hallucinated draft."
+        },
+        {
+          "number": 6,
+          "title": "Rulemaking authority regarding licensing standards",
+          "bodySha256": "68115fe2f2ba30c92daf96f57e20f528744c82c77804179f6939d887aeabb5e8",
+          "reviewNote": "Read sub 6: permits director to promulgate rules (including prorating periods for biennial birth-date renewals after Jan. 1, 2022); source footnote notes original rolls cite nonexistent § '375.045' where § 374.045 appears intended."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 6 subsections and source notes (L. 1987 H.B. 700 § 13 through A.L. 2021 S.B. 6; footnote flags original-rolls typo '375.045' in sub 6, noting § 374.045 appears intended). Replaced mismatched/hallucinated draft titles in subs 1–5 and verified sub 6 rulemaking."
+    },
+    {
+      "id": "384.051:21623",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=384.051&bid=21623",
+      "sourceSha256": "c05d6c2de727240336fd719fa60749e0efb04cde9bf133393dd22bb07fbd7a4f",
+      "textSha256": "f176e2a9767befda11a4b8c51e03f4195228b0ad4300027339ed93ac64f9afcf",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual report by directly procured surplus lines insureds",
+          "bodySha256": "e98b598f0bfae6709d723f16075f53f51f5d51a19394b492b2024bb5f507b599",
+          "reviewNote": "Read sub 1 (6 subdivisions): requires Missouri home-state insureds or self-insurers procuring/renewing surplus lines coverage directly (not via a broker) to file an annual written report with director before March 2. Replaced hallucinated draft."
+        },
+        {
+          "number": 2,
+          "title": "Five percent gross premium tax and remittance",
+          "bodySha256": "4742fed8f8dc18c0496521d2a57ce85b7031ab806e8b67f92adc0bd253ddee6e",
+          "reviewNote": "Read sub 2: levies a 5% gross premium tax on sub 1 insureds/self-insurers, remitted to department of revenue before April 16, with revenue notifying director of collections. Replaced hallucinated draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1987 H.B. 700 § 16 subsecs. 1–5 through A.L. 2011 S.B. 132, effective 7-07-11). Replaced both completely hallucinated draft titles (which described monthly broker reports) with accurate headings for directly procured insured reports and 5% gross premium tax."
+    },
+    {
+      "id": "384.057:21625",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=384.057&bid=21625",
+      "sourceSha256": "0211469d377be7ec6bf72d25920c01a467955e792a0999e46cc9ad35b1394b68",
+      "textSha256": "e98705e450cf21b22ab12b13a78d5ad0582bc31d63291c616186ea2bc1325c10",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual sworn statement of gross and net premiums",
+          "bodySha256": "e2c2bdf438ef5d46d11997121fb9fa429a03020dfcb97c953126a3f1d90df35d",
+          "reviewNote": "Read sub 1 (2 subdivisions): requires each surplus lines broker to file a sworn statement before March 2 reporting prior-year gross charges and net premiums (excluding taxes, less returned premiums) for Missouri home-state insureds. Replaced hallucinated draft."
+        },
+        {
+          "number": 2,
+          "title": "Quarterly sworn statements of gross and net premiums",
+          "bodySha256": "ff65c1a5ced1cce2ba7e27345e744556c4be1047100a5536abcbf932b08b4803",
+          "reviewNote": "Read sub 2 (2 subdivisions): requires each surplus lines broker to file sworn quarterly statements within 45 days after each calendar quarter showing gross charges and net premiums for Missouri home-state insureds. Replaced hallucinated draft."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1987 H.B. 700 § 16 subsec. 7 through A.L. 2011 S.B. 132, effective 7-07-11). Replaced both completely hallucinated draft titles (which described 5-year broker recordkeeping) with accurate headings for annual and quarterly sworn premium statements."
+    },
+    {
+      "id": "384.059:21626",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=384.059&bid=21626",
+      "sourceSha256": "c477b59d399a7ccaeb2f7f6d9b6b3710c4fb403266d398a92760305851202504",
+      "textSha256": "aaddc988485bc58c407ae611cebd966c0ed620830cbf0993e3cef4f3c8e48944",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Five percent surplus lines premium tax levy",
+          "bodySha256": "c89154fce7c281163af5361bb364ac292b9c7c9e5aac18a7d0957bc0c6f3125d",
+          "reviewNote": "Read sub 1: imposes 5% tax on net premiums shown on § 384.057 annual report, payable before April 16, defines 'net premiums', and apportions airline, railroad, and motor carrier risks by Missouri revenue miles."
+        },
+        {
+          "number": 2,
+          "title": "Broker authority to collect premium tax from insured",
+          "bodySha256": "6c837fac1c0bb35118efce737807468111a4f7e91911b096f1ef437280e7c4cf",
+          "reviewNote": "Read sub 2: permits surplus lines broker to collect an amount equal to the section's tax from the insured."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1987 H.B. 700 § 17, A.L. 1989 S.B. 250). Confirmed both draft titles for the 5% surplus lines net premium tax (including carrier revenue-mile apportionment) and permissive broker tax collection from insureds."
+    },
+    {
+      "id": "384.061:21627",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=384.061&bid=21627",
+      "sourceSha256": "abb60f90dbb0dbbab340a7316b25ef7dba2eb16dedb2341b86235f52e0a36ddd",
+      "textSha256": "b5528c9b01cb886eb35863d4e648419de7858bc9950b95d5641e44bd671cb8ef",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Home state rule for five percent premium tax allocation",
+          "bodySha256": "c367a4792fbc60d3e6f1977b6a31a1c696e7fa8f974e949ae58c97971d2f77f1",
+          "reviewNote": "Read sub 1: provides that the 5% tax imposed by §§ 384.051 and 384.059 is levied upon and only upon the entire gross premium for nonadmitted or surplus lines policies where the insured's home state is Missouri."
+        },
+        {
+          "number": 2,
+          "title": "Home state jurisdictional limitation on licensing and regulation",
+          "bodySha256": "dcd45c9c8b759a1ad296a011e3a145ff95d6e94a2b8154411daed4bba6a9b117",
+          "reviewNote": "Read sub 2 (2 subdivisions): limits chapter's nonadmitted placement requirements and surplus lines broker licensing requirements solely to transactions where Missouri is the insured's home state."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1989 S.B. 250, A.L. 2011 S.B. 132, effective 7-07-11). Confirmed both draft titles for Missouri home-state allocation of the 5% tax and home-state regulatory/licensing jurisdiction."
+    },
+    {
+      "id": "384.062:21628",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=384.062&bid=21628",
+      "sourceSha256": "e79df09005d5da24e7c29dea1692a81f799bfae8d86303fca67305995d24bf50",
+      "textSha256": "8dc0a311603c5e5ea05a02b799a060e0c6ac05994eab7ab9ff749782bf4d5700",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Civil action to recover delinquent surplus lines taxes",
+          "bodySha256": "a75bbb83230c8f7a8e0f7958158d53f8308fddfb85e54fe1ae4ab112b36e2fb5",
+          "reviewNote": "Read sub 1: makes unpaid taxes, penalties, or interest under §§ 384.011–384.071 recoverable in a suit brought by the director against the surplus lines licensee."
+        },
+        {
+          "number": 2,
+          "title": "Remittance of taxes to department of revenue",
+          "bodySha256": "2df0ea94ed96571440581ddda9961dc8f5d30a266a458e7b1b9a10c97a567993",
+          "reviewNote": "Read sub 2: requires payment of chapter taxes, penalties, and interest to department of revenue (payable to director of revenue), which notifies director of sums collected."
+        },
+        {
+          "number": 3,
+          "title": "Classification under state tax collection statutes",
+          "bodySha256": "be2c4e40e5da3ac1f9b1e97da0ba9e898a3ca8d6dba39789374f2138d1e375a8",
+          "reviewNote": "Read sub 3: classifies chapter taxes as taxes collected by the director of revenue within the meaning of § 139.031."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 1987 H.B. 700 § 18 through A.L. 2009 H.B. 577). Confirmed all 3 draft titles for delinquent tax suits, remittance to department of revenue, and § 139.031 classification."
+    },
+    {
+      "id": "384.068:21630",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=384.068&bid=21630",
+      "sourceSha256": "4aa1d81536e6c49c9f39c7bc240d039676eec04fbfcdb79da0bacf36a0f2245e",
+      "textSha256": "8517e782febe7f8ae2f81e2851f4257f8a7a15d1331c98904f90c93648f9d287",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Legal actions against surplus lines insurers and service of process",
+          "bodySha256": "2d0161790201d8db20507e353a9f5bd539cb7ba6e7ef54dcf3d905907bdf0950",
+          "reviewNote": "Read sub 1: permits suing a surplus lines insurer on Missouri causes of action under §§ 375.256–375.266 and requires policies to state this section's substance and designate the director's mailing recipient."
+        },
+        {
+          "number": 2,
+          "title": "Constructive submission to jurisdiction by assuming risk",
+          "bodySha256": "81d26636d9ed3f533f0e68cdce72588820d9236e50863ea77b89605ff4e090fd",
+          "reviewNote": "Read sub 2: deems each surplus lines insurer assuming surplus lines insurance to have subjected itself to §§ 384.011–384.071."
+        },
+        {
+          "number": 3,
+          "title": "Cumulative nature of service of process remedies",
+          "bodySha256": "223052914306abed5576cfe75318be7ba601e64bf1481dbeab3e411fd5016b44",
+          "reviewNote": "Read sub 3: states that section remedies are in addition to any other legal methods for service of process upon insurers."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 1987 H.B. 700 § 20, effective 7-01-87). Confirmed all 3 draft titles for suits/service of process under §§ 375.256–375.266, constructive submission to §§ 384.011–384.071, and cumulative remedies."
+    },
+    {
+      "id": "384.071:21631",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=384.071&bid=21631",
+      "sourceSha256": "6076cbabb44f1fcea88dec4627b72a26399d195c77674a08134cc4a6c28f528e",
+      "textSha256": "d9ef7acc4badcc71e44c881c36b654502cf67e262477309d13e37e26605e41d5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Administrative enforcement orders for surplus lines violations",
+          "bodySha256": "d32ca8d83d128a05571edba9b9342be988c059e72675bf4110ac2c316414d0c2",
+          "reviewNote": "Read sub 1: permits director administrative orders under § 374.046 for §§ 384.011–384.071 violations (level three violation under § 374.049)."
+        },
+        {
+          "number": 2,
+          "title": "Civil actions for surplus lines violations",
+          "bodySha256": "b9490c05494fb970102440f16be4598241175d6753f90aaacf3d86160b386db9",
+          "reviewNote": "Read sub 2: permits director to maintain a civil action for relief under § 374.048 for §§ 384.011–384.071 violations (level three under § 374.049). Removed 'in circuit court' not stated in text."
+        },
+        {
+          "number": 3,
+          "title": "Misdemeanor penalty for unlawfully aiding nonadmitted insurer",
+          "bodySha256": "af1adce681868ef449b901c7f3049058234057b2b3e096cb560b90372b079caa",
+          "reviewNote": "Read sub 3: provides that a surplus lines licensee representing or aiding a nonadmitted insurer in Missouri in violation of §§ 384.011–384.071 may be found guilty of a class B misdemeanor and fined up to $1,000. Refined scope."
+        },
+        {
+          "number": 4,
+          "title": "Remedies nonexclusive",
+          "bodySha256": "bfef0538ffadb192e6ae4c9dea987f1edebf0bb407e3505ba5424569104b1bff",
+          "reviewNote": "Read sub 4: states that the above penalties are not exclusive remedies."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_4",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 4 subsections and source notes (L. 1987 H.B. 700 § 21, A.L. 2007 S.B. 66). Confirmed subs 1 and 4, removed unsupported 'in circuit court' from sub 2, and refined sub 3 to match statutory violation scope."
+    }
+  ]
+}

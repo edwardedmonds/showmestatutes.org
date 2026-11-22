@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "391.010:21968",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=391.010&bid=21968",
+      "sourceSha256": "910ca81794a7f9f8c9cb71c4e9bef4c91df2be2c7c2a12986c34f7db5c0f0d22",
+      "textSha256": "49e3e0f149cc28b1fa4eec096b0ac2108d285d16a083781289c7479dd0d30da4",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Formation of street railroad company and articles of association",
+          "bodySha256": "1e44191f9e861160521b820860cb353b52082cb89a97ecd025e424bc2beef442",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 § 5315, A.L. 1947 V. I p. 234). Authorizes five or more persons to form street railroad company and prescribes required contents of articles of association, including duration, route, capital stock, 5 to 13 directors, and subscriber signatures."
+        },
+        {
+          "number": 2,
+          "title": "Subscription thresholds, director affidavit, recording, and fees",
+          "bodySha256": "3926c637da1f63714efdafa3ab73155e34e4fc5e3125613e85d356c16cc8b7f6",
+          "reviewNote": "Read complete text of subsection 2. Requires half capital stock subscribed and 10% cash paid with director affidavit, recording with local recorder of deeds, filing with secretary of state, and payment of statutory capital stock fees to director of revenue."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (RSMo 1939 § 5315, A.L. 1947 V. I p. 234). Confirmed draft titles for street railroad incorporation/articles (5–13 directors) and 50% subscription/10% payment, recording, filing, and capital stock fees."
+    },
+    {
+      "id": "391.070:21974",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=391.070&bid=21974",
+      "sourceSha256": "d83e7bc0749adfc860596b47a7be47d9c1404d82093d5ecb0ae7e61e929477f1",
+      "textSha256": "3149b9e31969461ab236639044f3c5923618fbe1a5edbf90bcaa748931cfde49",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Division orders prescribing transfer rules and single-fare service",
+          "bodySha256": "a4f1f70bb9344fd57802ab7c73cc34d5248c12a94d06a2b0d0eaa21e275c444d",
+          "reviewNote": "Read complete text of subsection 1 and notes (RSMo 1939 § 5623; 226.008 transfer note). Authorizes division after hearing to prescribe reasonable transfer regulations, single fare travel distances, successive transfer limits, and prompt transfer use."
+        },
+        {
+          "number": 2,
+          "title": "Street railroad duty to comply with division transfer orders",
+          "bodySha256": "0f45227b72b29e9c3848e7e111bb9cc8fe8449dfebbcb7124a913ecb3d9602c6",
+          "reviewNote": "Read complete text of subsection 2. Mandates street railroad corporations obey and secure employee observance of every division transfer order served upon company."
+        },
+        {
+          "number": 3,
+          "title": "Single fare continuous trip and transfer issuance under contract",
+          "bodySha256": "3a495b2a147e3ff74e007300f22938f6d0a86f2769e90109665d82573d82dc7f",
+          "reviewNote": "Read complete text of subsection 3. Requires street surface railroads under joint contract to provide continuous trips for single fare and issue transfers without extra charge to promote public convenience."
+        },
+        {
+          "number": 4,
+          "title": "Forfeiture penalty for transfer refusal and municipal boundary limit",
+          "bodySha256": "bc66ca64453e783c393fe2259be2b4d5a7f5b93d3cee6badbc7a37a3ec801c4a",
+          "reviewNote": "Read complete text of subsection 4. Imposes one hundred dollar forfeiture for transfer refusal ($50 to aggrieved passenger and $50 to state public school fund), restricting subsection 3 to railroads wholly within single city or village."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 4 subsections and source notes (RSMo 1939 § 5623; § 226.008 transfer note). Confirmed all 4 draft titles for division transfer orders, carrier obedience duty, joint-contract single-fare continuous trips/transfers, and $100 forfeiture ($50 passenger/$50 school fund) within a single city or village."
+    }
+  ]
+}
