@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "274.030:14703",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=274.030&bid=14703",
+      "sourceSha256": "54ece04aa97497781a3ed703c767a9906e84d681da6fb4b46ecffbd23b21346b",
+      "textSha256": "0d4d29fc55eb63823601ad90dd52d41a474e24f670326ad7241b6d62c6d7392f",
+      "draftedBy": "antigravity_drafter_d24",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Formation, residency, exclusions, and permitted agricultural purposes",
+          "bodySha256": "bd373c21eec4c0afab7ca01eb1920a429aa968170cee9a91b114cdb7e4178685",
+          "reviewNote": "Read complete text of subsection 1 and history note (RSMo 1939 § 14335, A.L. 1996 H.B. 1237 merged with S.B. 521; prior revision 1929 § 12677). Authorizes eleven or more agricultural producers (a majority Missouri residents, excluding corporations barred from farming under section 350.015) to form a nonprofit cooperative association without capital stock for enumerated marketing, processing, supply, or financing activities; distinct from the five-person livestock cooperative option in subsection 2."
+        },
+        {
+          "number": 2,
+          "title": "Family farm cooperative associations for livestock production",
+          "bodySha256": "1d70ff9f597a6e4a6c980adc3dab70d07ce2ddd371a7118623112d424058f05c",
+          "reviewNote": "Read complete text of subsection 2 and history note. Authorizes five or more owners or operators of a family farm or family farm corporation (defined in section 350.010), all Missouri residents engaged in agricultural production, to form a chapter 274 nonprofit cooperative association without capital stock to engage in livestock production."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r31",
+      "reviewSummary": "Independently read both subsections and history/prior-revision notes (RSMo 1939 § 14335, A.L. 1996 H.B. 1237 merged with S.B. 521; 1929 § 12677) and verified source/text/subsection fingerprints. Checked 11-person general cooperative formation, majority-residency rule, section 350.015 corporate-farming exclusion, and the 5-person all-Missouri-resident family-farm livestock cooperative option referencing section 350.010. Retained both titles as accurate and cleanly distinct."
+    },
+    {
+      "id": "274.040:14704",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=274.040&bid=14704",
+      "sourceSha256": "ce7e60009feecce3594d3fb3c489ce2720521718ba43bfed338b3c74ab7a4d3f",
+      "textSha256": "25ecdb57cf08e1b51794926d415cd077c6e5d3c27afcc79b7d3a5346f8f36e3a",
+      "draftedBy": "antigravity_drafter_d24",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Eligibility of producers, tenants, and crop-share landlords",
+          "bodySha256": "d83c3996a89a4ea891ac8eb72ce8440f25b72d6644f7bb5dc71fc1f739930ff4",
+          "reviewNote": "Read complete text of subsection 1 and history note (RSMo 1939 § 14337; prior revision 1929 § 12679). Restricts admission of members, under bylaw terms and conditions, to persons engaged in producing agricultural products handled by or through the association, explicitly including land lessees/tenants and lessors/landlords receiving crop-share rent."
+        },
+        {
+          "number": 2,
+          "title": "Written authorization to represent non-natural-person members",
+          "bodySha256": "fbc859677e4d72188dd8ceb65fcb67668d3fb572ddb41966f3e580940512ac4b",
+          "reviewNote": "Read complete text of subsection 2 and history note. Permits a member other than a natural person to be represented by an individual, associate, officer, manager, or member duly authorized in writing; retains archived singular/plural phrasing (\"If a member ... such members\")."
+        },
+        {
+          "number": 3,
+          "title": "Membership of one chapter 274 association in another",
+          "bodySha256": "6c1f9abd705d929ff576970442a5b5444ae991fdc530af1aec0bb76733a3efe1",
+          "reviewNote": "Read complete text of subsection 3 and history note. Permits an association organized under chapter 274 to become a member of any other association or associations organized under chapter 274."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r31",
+      "reviewSummary": "Independently read all three subsections and history/prior-revision notes (RSMo 1939 § 14337; 1929 § 12679) and verified source/text/subsection fingerprints. Checked bylaw-governed producer/tenant/crop-share landlord admission, written authorization for non-natural-person member representation (retaining archived \"If a member ... such members\" phrasing), and inter-association chapter 274 membership. Retained all three titles as accurate."
+    },
+    {
+      "id": "274.050:14705",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=274.050&bid=14705",
+      "sourceSha256": "47d67b5412abc0a14e8792b337024deec7e91242a3c2239e361beab95dee260b",
+      "textSha256": "e2dfb34b457e252fbd56497575980d3eec8fcf1b2d0a5c6a6c69f17bc74614fe",
+      "draftedBy": "antigravity_drafter_d24",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Issuance of membership certificate upon full payment",
+          "bodySha256": "84945eef46bc359022ad8e0fbbe1fb825ef06522d5d692660b0e67d960389042",
+          "reviewNote": "Read complete text of subsection 1 and history note (RSMo 1939 § 14345; prior revision 1929 § 12687). Entitles a member to receive a certificate of membership once the membership fee is paid in full."
+        },
+        {
+          "number": 2,
+          "title": "Limit on member liability for association debts",
+          "bodySha256": "ac1070d1698ad43de6ad2f549e5165970f09c310ef1974551dd071654d69e5d5",
+          "reviewNote": "Read complete text of subsection 2 and history note. Caps a member's liability for association debts at the amount remaining unpaid on the member's marketing contract."
+        },
+        {
+          "number": 3,
+          "title": "One-vote limit per member",
+          "bodySha256": "75d7fced23c8459fb182db135841be300cbee0980e9a9df6c86ced791e1e1067",
+          "reviewNote": "Read complete text of subsection 3 and history note. Limits every member to no more than one vote."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r31",
+      "reviewSummary": "Independently read all three subsections and history/prior-revision notes (RSMo 1939 § 14345; 1929 § 12687) and verified source/text/subsection fingerprints. Checked full-payment condition for membership certificates, debt liability cap tied to unpaid marketing-contract sums, and one-vote-per-member cap. Retained all three titles as accurate."
+    },
+    {
+      "id": "274.070:14707",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=274.070&bid=14707",
+      "sourceSha256": "79e86e26d0e085b2b6bbca4f81c737fe66e1fb538fda75636dd959e1a65e41e7",
+      "textSha256": "bb6c7afca8adff8060e717363f9b0d36053f7b494ef0f6da90dab4b50190240a",
+      "draftedBy": "antigravity_drafter_d24",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Required articles contents and subdivision (6) amendment threshold",
+          "bodySha256": "5e2eabc2a34941520b4e7aec05912aecf9978ed5d6a958a0ffd25d94ab2561f6",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1) to (6) and the closing continuation sentence in subdivision (6), plus history note (RSMo 1939 § 14338, A.L. 1945 p. 78; prior revision 1929 § 12680). Lists required elements of articles of incorporation (name, purposes, principal business place, term, at least five directors, and member property rights/interests/classes) and requires three-fourths member written consent or vote to alter, amend, or repeal the subdivision (6) provision. Independent review revised title to scope the three-fourths written consent/vote threshold specifically to the subdivision (6) provision rather than implying it governs all articles contents."
+        },
+        {
+          "number": 2,
+          "title": "Execution, acknowledgment, filing, and evidentiary status",
+          "bodySha256": "218cc95d4873a0b901499ee37ab0de52f62c935e982f754b28362145abafb331",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires subscription by the incorporators, acknowledgment by one incorporator before an officer authorized to acknowledge deeds, and filing under general corporation law, giving filed articles or certified copies prima facie evidentiary status of their contents and due incorporation."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r31",
+      "reviewSummary": "Independently read both subsections including subdivisions (1) to (6) and the closing sentence in subdivision (6), plus history/prior-revision notes (RSMo 1939 § 14338, A.L. 1945 p. 78; 1929 § 12680), and verified source/text/subsection fingerprints. Checked required articles contents, the three-fourths written consent/vote amendment restriction placed within subdivision (6), and subscription, acknowledgment, general-corporation-law filing, and prima facie evidentiary status. Revised subsection 1 to scope the three-fourths amendment threshold to subdivision (6); retained subsection 2."
+    },
+    {
+      "id": "274.090:14709",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=274.090&bid=14709",
+      "sourceSha256": "75b17f7be1570f9469909ff93ef2b8f9ef118c3325878a54c9e844ba762ba402",
+      "textSha256": "c759b523d52dd51c570aae6ea509773e0a6c9185f4b8be24b67637acd6f80301",
+      "draftedBy": "antigravity_drafter_d24",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Bylaw adoption deadline, vote threshold, and permitted topics",
+          "bodySha256": "485b813fc98d65f4428ce90b1e95dc1e396ff36e50b73367f708498d5e70167e",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1) to (17) and history note (RSMo 1939 § 14340, A.L. 1943 p. 315, A.L. 1945 p. 78; prior revision 1929 § 12682). Requires adopting bylaws within thirty days of incorporation by majority vote or written assent of voting members and lists seventeen permissive governance, voting, delegate, fee, marketing contract, membership, expulsion, and interest-valuation matters."
+        },
+        {
+          "number": 2,
+          "title": "Authorized appraisal and payment upon death, withdrawal, or expulsion",
+          "bodySha256": "2758193fd84b61aeb14d8ae9fa928d2b5dce07718fbb363f5a6f24d76d1705c3",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs the board of directors, when authorized by the membership, to equitably and conclusively appraise and pay in money the property interests of a deceased, withdrawn, or expelled member within the board-authorized time and no later than usual-course payment. Independent review revised title to reflect the statutory prerequisite \"when authorized by its membership\" and name all three triggering events."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r31",
+      "reviewSummary": "Independently read both subsections including subdivisions (1) to (17) and history/prior-revision notes (RSMo 1939 § 14340, A.L. 1943 p. 315, A.L. 1945 p. 78; 1929 § 12682) and verified source/text/subsection fingerprints. Checked 30-day bylaw adoption deadline, majority vote or written assent threshold, seventeen permissive bylaw topics, and subsection 2's membership-authorized board appraisal and payment upon death, withdrawal, or expulsion. Revised subsection 2 to include the membership-authorization condition and all three triggering events; retained subsection 1."
+    },
+    {
+      "id": "274.110:14711",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=274.110&bid=14711",
+      "sourceSha256": "09e9b9daa3a239251239004ccfd556fce3ad6830a1888e45077b31ba0fb7849d",
+      "textSha256": "81eda3b0846c8e946b40b7dfcdea469835df573db9b9547aefb7c900559f78cf",
+      "draftedBy": "antigravity_drafter_d24",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board management, minimum size, and election from members",
+          "bodySha256": "1c05ba19f301b8396090364766e3d5df414ce53038d8866bb5e626b9e89400b5",
+          "reviewNote": "Read complete text of subsection 1 and history note (RSMo 1939 § 14342; prior revision 1929 § 12684). Places association affairs under a board of at least five directors elected by members from their own number."
+        },
+        {
+          "number": 2,
+          "title": "District apportionment, delegate elections, and district primaries",
+          "bodySha256": "57080cc4da35e0809f047421b2602a571994d49a2fc2c2c576bab2e6b3efa14f",
+          "reviewNote": "Read complete text of subsection 2 and history note. Permits bylaws to divide territory into districts for direct or delegate director elections, requires specifying director counts and reapportionment/redistricting methods if so divided, and permits district primary elections that may be ratified or treated as final."
+        },
+        {
+          "number": 3,
+          "title": "Public-interest appointed directors and one-fifth cap",
+          "bodySha256": "451938d1aa0a637867e1efabdb8ed0ee6a25715c3f018603b9edba6a3e9bacf5",
+          "reviewNote": "Read complete text of subsection 3 and history note. Permits bylaws to provide for directors appointed by a public official, commission, or other directors to represent the general public interest; appointed directors need not be members, hold equal powers, and cannot exceed one-fifth of the board."
+        },
+        {
+          "number": 4,
+          "title": "Remuneration for officers, directors, and executive committee",
+          "bodySha256": "9346d2be95b7cce224b1026d8f67055b6de0a5f79210d453ddebc9e14451104b",
+          "reviewNote": "Read complete text of subsection 4 and history note. Permits (\"may\") an association to provide fair remuneration for time actually spent in service by officers, directors, and executive committee members."
+        },
+        {
+          "number": 5,
+          "title": "Limits on director profit contracts and salaried positions",
+          "bodySha256": "088562ce0e3a8465fef311e2769e985e3321d022909a2f1cf3da86db7664da7b",
+          "reviewNote": "Read complete text of subsection 5 and history note. Prohibits directors during their term from entering profit contracts with the association differing from regular-member business relations or generally current district terms, and allows bylaws to bar directors (other than president and secretary) from salaried or substantially full-time association positions. Independent review revised title from \"profit-contract ban\" to \"Limits on director profit contracts\" because only contracts differing from regular-member relations or district terms are barred, and bylaws may optionally restrict salaried positions."
+        },
+        {
+          "number": 6,
+          "title": "Executive committee authorization and board oversight",
+          "bodySha256": "87302c5d3e5401c84bd554a28977c89cc6e48a50c04f568aae2574a63a618fd5",
+          "reviewNote": "Read complete text of subsection 6 and history note. Permits bylaws to establish an executive committee allotted all board functions and powers, qualified as subject to general board direction and control."
+        },
+        {
+          "number": 7,
+          "title": "Filling board vacancies and district special meetings",
+          "bodySha256": "17060e03bf2bb75717ccf81ae0edb96e61e86539b0ba793db48b9e5d0b13ebd1",
+          "reviewNote": "Read complete text of subsection 7 and history note. Directs remaining directors to fill non-expiration vacancies by majority vote, except when bylaws provide for district director elections, in which case the board must immediately call a special meeting of the district's \"members or stockholders\" (retaining archived text) to fill the vacancy."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r31",
+      "reviewSummary": "Independently read all seven subsections and history/prior-revision notes (RSMo 1939 § 14342; 1929 § 12684) and verified source/text/subsection fingerprints. Checked five-director minimum, district apportionment/delegate/primary rules, public-interest appointed directors (one-fifth cap), permissive (\"may\") remuneration, qualified profit-contract limit and optional bylaw salaried-position restriction, board-overseen executive committee, and vacancy filling retaining archived \"members or stockholders\" phrasing in subsection 7. Revised subsection 5 to avoid overstating the qualified profit-contract restriction as an unconditional ban; retained the other six titles."
+    },
+    {
+      "id": "274.140:14714",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=274.140&bid=14714",
+      "sourceSha256": "2035c10d7d441eff0e41c93f9ceba5a747e63d4718b9cf51bf85829532379c1b",
+      "textSha256": "9f33b6a6d810b81a86f6d32b6baf0796101ad403acb980767ef2b1a45b7efa59",
+      "draftedBy": "antigravity_drafter_d24",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written charges, five-percent petition, and removal vote",
+          "bodySha256": "a74486ebebfd02d78b0e36fee8252453a568fd72e38565ee256e412c358ec009",
+          "reviewNote": "Read complete text of subsection 1 and history note (RSMo 1939 § 14346; prior revision 1929 § 12688). Allows any member to file written charges against an officer or director with a five-percent member petition for a removal vote at the next regular or special meeting, where a majority of members may remove the official and fill the vacancy; distinct from district-director removal in subsection 3."
+        },
+        {
+          "number": 2,
+          "title": "Written notice and equal hearing rights for both sides",
+          "bodySha256": "beae6028fbfa5abaede2e8e1971d01cb7720072e5acd143bc0dead951d829145",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires prior written notice of charges to the accused director or officer and grants both the accused and the charging party an opportunity at the meeting to be heard in person or by counsel and to present witnesses."
+        },
+        {
+          "number": 3,
+          "title": "District removal petitions and special meetings for directors",
+          "bodySha256": "166958989bead843139d06885b38c8487761d70b0c66b7781c454e71bbe2de79",
+          "reviewNote": "Read complete text of subsection 3 and history note. Applies when bylaws provide for district director elections with district primaries: requires a twenty-percent district member petition, a special district meeting called by the board, and removal by majority vote of the district's members (retains archived singular/plural variation \"removal of the directors\" / \"the director in question\")."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r31",
+      "reviewSummary": "Independently read all three subsections and history/prior-revision notes (RSMo 1939 § 14346; 1929 § 12688) and verified source/text/subsection fingerprints. Checked five-percent member removal petitions and majority vote for officers/directors, pre-meeting written notice and equal hearing/counsel/witness rights for both sides, and 20-percent district removal petitions/special meetings for district-primary directors (retaining archived \"removal of the directors\" / \"the director in question\" wording). Retained all three titles as accurate."
+    },
+    {
+      "id": "274.190:14719",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=274.190&bid=14719",
+      "sourceSha256": "35f3e55bfd447b1709ed826c87ecf9d64e1caad1f3b972d14337c53dd5524136",
+      "textSha256": "8d2ebfd527d22a4660cc89707032aeccfa2b185edd7d547328993f44314afaca",
+      "draftedBy": "antigravity_drafter_d24",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Vote and sworn statement to adopt chapter 274",
+          "bodySha256": "611159bd91a6d2a55e266909ac88fabefc96f1e87eb72238d7b15a9ad7b7262d",
+          "reviewNote": "Read complete text of subsection 1 and history note (RSMo 1939 § 14356, A.L. 1953 p. 3; prior revision 1929 § 12698). Allows previously organized corporations or associations to come under chapter 274 by majority stockholder or member vote, adopting chapter membership limits and restrictions, and executing a duplicate sworn statement by directors. Independent review revised title from \"Member vote\" so it does not exclude stockholders of previously organized corporations (\"stockholders or members\")."
+        },
+        {
+          "number": 2,
+          "title": "Filing articles under section 274.070 and amendment fee",
+          "bodySha256": "92ca7b87d1c1f4383c1fdb35d656821728e9cd8a7a346d48bb2410e74faa9607",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires filing articles of incorporation per section 274.070, except signed by the current board of directors, with the same filing fee as an articles amendment."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r31",
+      "reviewSummary": "Independently read both subsections and history/prior-revision notes (RSMo 1939 § 14356, A.L. 1953 p. 3; 1929 § 12698) and verified source/text/subsection fingerprints. Checked majority stockholder-or-member vote, membership/restriction adoption, duplicate director-sworn statement, and section 274.070 articles filing signed by current directors at the amendment filing fee. Revised subsection 1 so it does not exclude stockholders of previously organized corporations; retained subsection 2."
+    },
+    {
+      "id": "274.210:14721",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=274.210&bid=14721",
+      "sourceSha256": "bad8544b0bc53979c238befa453a06f49d9a1a0c5ca13abbe4012177961d8d49",
+      "textSha256": "d1f7f7a72e035cb66244bb7d568e88e82f491a47b4f35b0e90e9638903ee4009",
+      "draftedBy": "antigravity_drafter_d24",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Liquidated damages and litigation cost provisions",
+          "bodySha256": "4220a1300b5517f632c9808f97a84a109a19e77f498c07b753263848968543b6",
+          "reviewNote": "Read complete text of subsection 1 and history note (RSMo 1939 § 14349, A. 1949 S.B. 1098; prior revision 1929 § 12691). Authorizes bylaws or marketing contracts to fix specific liquidated damages for sale, delivery, or withholding breaches and shift litigation costs, bond premiums, expenses, and fees to breaching members, declaring such terms valid, enforceable, and not penalties."
+        },
+        {
+          "number": 2,
+          "title": "Injunctions, specific performance, and temporary restraining orders",
+          "bodySha256": "a171e4b680eecb13f3f411f303913c7a9c34424b3c5251447ee891abd373657f",
+          "reviewNote": "Read complete text of subsection 2 and history note. Entitles an association, upon a member's breach or threatened breach of a marketing contract, to an injunction and specific performance decree, and pending adjudication to a temporary restraining order upon filing a verified complaint and sufficient bond."
+        },
+        {
+          "number": 3,
+          "title": "Conclusive presumption of landowner control over subsequent tenancies",
+          "bodySha256": "dee889ac6015f10668fc694632af8ee35c178c4ed475175e893d7c0a15527dc6",
+          "reviewNote": "Read complete text of subsection 3 and history note. Creates a conclusive presumption in marketing-agreement actions that a landowner, landlord, or lessor can control delivery of products grown by tenants or others whose tenancy, possession, work, or terms were created or changed after contract execution, making the section's remedies enforceable against that landowner, landlord, or lessor."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r31",
+      "reviewSummary": "Independently read all three subsections and history/prior-revision notes (RSMo 1939 § 14349, A. 1949 S.B. 1098; 1929 § 12691) and verified source/text/subsection fingerprints. Checked permissive liquidated-damages and litigation-cost contract/bylaw provisions (not penalties), injunctions, specific performance, verified-complaint/bond temporary restraining orders, and conclusive presumption of landowner/landlord/lessor delivery control over subsequent tenancies or changed work terms. Retained all three titles as accurate."
+    },
+    {
+      "id": "274.220:14722",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=274.220&bid=14722",
+      "sourceSha256": "b681219c517193eee52df12202dd9a022a1065157edbb293a85b692f8cad7f86",
+      "textSha256": "0a8d560a8c156ef8b957105a569ba02fad925954691c7913424c315790f6054f",
+      "draftedBy": "antigravity_drafter_d24",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Organizing, controlling, or joining product-handling entities",
+          "bodySha256": "d83bdb1f04aabff85fef4f7f0b033b7b4c10b013a9ce7428cc7da2189c59ec0a",
+          "reviewNote": "Read complete text of subsection 1 and history note (RSMo 1939 § 14353, A.L. 1996 H.B. 1237 merged with S.B. 521; prior revision 1929 § 12695). Permits an association to organize, form, operate, control, hold an interest in, or join another corporation or entity engaged in listed preserving, processing, handling, shipping, manufacturing, marketing, or selling activities for association products or by-products."
+        },
+        {
+          "number": 2,
+          "title": "Legal warehouse receipts and collateral status",
+          "bodySha256": "7879e99ef66ecb29dbce1a33d4168089f533690ddfe961a48d4e99083082b2cf",
+          "reviewNote": "Read complete text of subsection 2 and history note. Authorizes warehousing corporations under subsection 1 to issue legal warehouse receipts to the association or others against delivered commodities and treats those receipts as adequate collateral up to the usual and current commodity value."
+        },
+        {
+          "number": 3,
+          "title": "Protection of licensed warehouse receipts against ownership discrimination",
+          "bodySha256": "9358ee8e19a5cf4e20a8dbca06e6f7b65e0657c3a128767021a8abdad94bec72",
+          "reviewNote": "Read complete text of subsection 3 and history note. Protects receipts issued by state- or federally licensed (or licensed and bonded) warehouses on association or member commodities from challenge or discrimination based on whole or partial association ownership or control."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r31",
+      "reviewSummary": "Independently read all three subsections and history/prior-revision notes (RSMo 1939 § 14353, A.L. 1996 H.B. 1237 merged with S.B. 521; 1929 § 12695) and verified source/text/subsection fingerprints. Checked association authority to organize/control/join product-handling entities, warehousing corporations' legal warehouse receipts as collateral up to usual/current value, and nondiscrimination protection for state- or federally licensed warehouse receipts despite association ownership or control. Retained all three titles as accurate."
+    },
+    {
+      "id": "274.300:14730",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=274.300&bid=14730",
+      "sourceSha256": "9e169f51cb77de9aad6b7d4a9944b3cf0bdab9b875049686810700791e754c8d",
+      "textSha256": "2724823e9010ef45206d4b39d7b55cdddebd1df35ab0c38107295ca7e3c9e74b",
+      "draftedBy": "antigravity_drafter_d24",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Inapplicability of conflicting laws to chapter 274 associations",
+          "bodySha256": "bb719439b044faf6357467742d0615681c07ad52dfc5535f1e6f2200d6f3efce",
+          "reviewNote": "Read complete text of subsection 1 and history note (RSMo 1939 § 14351; prior revision 1929 § 12693). Directs that any provisions of law conflicting with chapter 274 be construed as not applying to associations provided for in the chapter."
+        },
+        {
+          "number": 2,
+          "title": "Extension of producer agricultural product exemptions to associations",
+          "bodySha256": "e788bc3ee356dfa8e8b775df09eaa06141fb71541071d22963aca54e9b6a7b7b",
+          "reviewNote": "Read complete text of subsection 2 and history note. Extends existing statutory exemptions for agricultural products in an individual producer's possession or control to products in an association's possession or control; retains the exact archived wording \"delivered by its former members\" without silently correcting it."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r31",
+      "reviewSummary": "Independently read both subsections and history/prior-revision notes (RSMo 1939 § 14351; 1929 § 12693) and verified source/text/subsection fingerprints. Checked non-application of conflicting laws to chapter 274 associations and extension of producer agricultural-product exemptions to associations while explicitly retaining the archived \"delivered by its former members\" phrasing without altering the source text. Retained both titles as accurate and neutral."
+    },
+    {
+      "id": "274.310:14731",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=274.310&bid=14731",
+      "sourceSha256": "aa5bef838799a22d1e6344aed3ce3df63c63f85da8d163f880e021b239f9d7b3",
+      "textSha256": "e9852b167cd6e48f8d9a01ff042d3e74ef7a3f7acd4caecd7350be110aa4081a",
+      "draftedBy": "antigravity_drafter_d24",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Department assistance areas and small family-producer focus",
+          "bodySha256": "1cb222fc9d43b8f2593a9edac89bc4985fbb05f5568099d1ff03dba9c16303ec",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1) to (4) and closing continuation sentence, plus history note (L. 1996 H.B. 1237 merged with S.B. 521). Directs the department of agriculture to assist agricultural producers in cooperative marketing, cooperative processing, regional/niche market development, and modern production/processing/marketing information and technology, with primary focus on small, independent family-owned or -operated producers or processors."
+        },
+        {
+          "number": 2,
+          "title": "Annual department report to the general assembly",
+          "bodySha256": "67048856bdcefca4a0f856d9d6ea7187ef5caabbd0fe0f00365d4413a3e15428",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires the department of agriculture to submit an annual report on activities, persons served, and project effectiveness to the general assembly by the archived initial date of December 1, 1996, and by December first each year thereafter."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r31",
+      "reviewSummary": "Independently read both subsections including subdivisions (1) to (4) and the closing continuation sentence in subdivision (4), plus history note (L. 1996 H.B. 1237 merged with S.B. 521), and verified source/text/subsection fingerprints. Checked department assistance areas, primary focus on small independent family-owned or -operated producers or processors, and annual legislative reporting with the archived December 1, 1996 initial deadline and recurring December 1 date. Retained both titles as accurate."
+    }
+  ]
+}

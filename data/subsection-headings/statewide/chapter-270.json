@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "270.180:49836",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=270.180&bid=49836",
+      "sourceSha256": "c7dbe58736063dd0363442d59e00228d51e08030dbd01daea72fdbdc2dafba46",
+      "textSha256": "02825f8a686e304ec940c639a62031d2221970421cebf5b2f39345ad9b6e9400",
+      "draftedBy": "antigravity_drafter_d23",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application to associate circuit judge for swine sale",
+          "bodySha256": "2e65b165ee184f67a44c7c8ede5ca7811b0695633296e9c38de903c40bdc0497",
+          "reviewNote": "Read complete text of subsection 1 and history/prior-revision notes (RSMo 1939 § 14481, A.L. 1945 p. 103, A.L. 2021 H.B. 369; prior revisions 1929–1909). Requires the taker-up of domestic swine to apply to an associate circuit judge for sale if the owner remains unknown after three days' diligent inquiry or fails to comply within three days after section 270.170 notice; notes that the official catchline retains 'magistrate' while the amended body specifies 'associate circuit judge'. Independent review verified the catchline (\"magistrate\") vs. body (\"associate circuit judge\") divergence after A.L. 2021 H.B. 369 and noted that the unknown-owner clause specifies \"domestic swine\" while the post-notice clause says \"any swine\"."
+        },
+        {
+          "number": 2,
+          "title": "Sheriff sale order, proceeds distribution, and unclaimed balance",
+          "bodySha256": "66a25b102424423044b1e2818aaf46004e277216e3ef16db464f29c968d144d5",
+          "reviewNote": "Read complete text of subsection 2 and source notes. Covers the associate circuit judge's compliance finding and 15-day sheriff sale order following execution-sale procedures, deduction of sale, keeping, and damage costs, payment of any balance to the county treasurer subject to owner claim within 12 months, and transfer of unclaimed funds to the county school fund."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r29",
+      "reviewSummary": "Independently read both subsections and history/prior-revision notes (RSMo 1939 § 14481, A.L. 1945 p. 103, A.L. 2021 H.B. 369; 1929–1909); verified all source and subsection fingerprints. Verified catchline (\"magistrate\") vs. amended body (\"associate circuit judge\") divergence, exact section 270.170 reference, source wording (\"domestic swine\" in the unknown-owner clause vs. \"any swine\" in the post-notice clause), 15-day sheriff sale order, cost deductions, and 12-month owner claim window before county school-fund transfer. Retained both headings."
+    },
+    {
+      "id": "270.260:49837",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=270.260&bid=49837",
+      "sourceSha256": "9de3d07ec711a095257990acc30a8cba561fc6e344f81cf712c522f294a22849",
+      "textSha256": "fbf17126d554f38458b6acc6f95362a66d159c0207f1687c524276d8c18af675",
+      "draftedBy": "antigravity_drafter_d23",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibited swine release and initial offense penalties",
+          "bodySha256": "8d2ea3bba57f4637a0e8236ac97a54b1cc5be6563dd5734ce8b341af0e809ff0",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 2002 H.B. 1348, A.L. 2010 S.B. 795, A.L. 2014 S.B. 491, A.L. 2021 H.B. 369). Makes recklessly or knowingly releasing swine to live in a wild or feral state on public land or inadequately enclosed private land a class A misdemeanor with a discretionary fine up to $2,000, with each swine a separate offense."
+        },
+        {
+          "number": 2,
+          "title": "Repeat offense felony penalty within ten years",
+          "bodySha256": "29b6761bc6b9dbb13a3beed04bf3db46fcd3e1d937b74937f2f72eed0a83d723",
+          "reviewNote": "Read complete text of subsection 2 and history note. Elevates a subsequent violation to a class E felony when the person was previously found guilty on a separate occasion within ten years of the present offense, with each swine released constituting a separate offense."
+        },
+        {
+          "number": 3,
+          "title": "Exceptions for accidental escapes, permitted facilities, and transport",
+          "bodySha256": "bcdb8a58e2e2092f1f6578df12cbb5f26b96851f7971e604ed9160fbfa68dfbc",
+          "reviewNote": "Read complete text of subsection 3 and history note. Excludes accidental escape of domestic swine, releases into facilities under a Department of Conservation permit, and transport of domestic swine to market or slaughter from criminalization under section 270.260."
+        },
+        {
+          "number": 4,
+          "title": "Preservation of right to farm or raise livestock",
+          "bodySha256": "99fed63cfa7a33173408e0fa86c89d8fb8fcbc2accbfa094e95e2c814ab5c031",
+          "reviewNote": "Read complete text of subsection 4 and history note. States that nothing in section 270.260 prohibits an individual's right to farm or raise livestock."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r29",
+      "reviewSummary": "Independently read all four subsections and history note (L. 2002 H.B. 1348 through A.L. 2021 H.B. 369); verified all source and subsection fingerprints. Checked reckless/knowing mens rea, public or inadequately enclosed private land scope, class A misdemeanor and discretionary $2,000 fine vs. 10-year repeat class E felony (per-swine separate offenses), accidental-escape/conservation-permit/transport exceptions, and right-to-farm clause. Retained all four headings."
+    },
+    {
+      "id": "270.270:49838",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=270.270&bid=49838",
+      "sourceSha256": "c76ba325045a861b37002daa1d34ae3f1de93fe64728136b0b31e667cb2c1ed6",
+      "textSha256": "ceec68546e5f89e0f6370004548c1f8bf2a5e7db68b39ce4c035023958a2592b",
+      "draftedBy": "antigravity_drafter_d23",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Public-land possession or transport penalties and offspring exception",
+          "bodySha256": "a40dbd7228c3525198623f29c3538ac6ed6db8cb50b4b47faec613cff167a1bf",
+          "reviewNote": "Read complete text of subsection 1 (including all subdivisions (1)–(4)) and history note (L. 2010 S.B. 795, A.L. 2021 H.B. 369). Covers the class A misdemeanor for possessing or transporting live feral swine (as defined in section 270.400) on or through public land, class E felony enhancement for prior findings of guilt on separate occasions within ten years, separate-offense counting, and the exception for domestic-swine offspring unintentionally sired by feral swine when reported to the state veterinarian within 30 days of birth and 15 days before slaughter."
+        },
+        {
+          "number": 2,
+          "title": "Enforcement authority for sections 270.260, 270.270, and 270.400",
+          "bodySha256": "730abee74eb828c195bfd369ad810b6f6e75fda6253e991323d795c00d78e500",
+          "reviewNote": "Read complete text of subsection 2 and history note. Authorizes law enforcement officers, conservation commission agents, and the state veterinarian to enforce sections 270.270, 270.260, and 270.400."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r29",
+      "reviewSummary": "Independently read both subsections, subdivisions (1)–(4) of subsection 1, and history note (L. 2010 S.B. 795, A.L. 2021 H.B. 369); verified all source and subsection fingerprints. Checked section 270.400 feral-swine reference, class A misdemeanor and 10-year repeat class E felony penalties, reporting-conditioned offspring exception (30 days of birth / 15 days before slaughter), and enforcement authority across sections 270.260, 270.270, and 270.400. Retained both headings."
+    },
+    {
+      "id": "270.400:49839",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=270.400&bid=49839",
+      "sourceSha256": "5aee8cbddf2b647d7226626fea8f785afe842900b7a030a8f10505e1879fada4",
+      "textSha256": "f652484b6b07dda529599f0a616cf5afb775cc2384e4dc9e6e0c20262a85aefb",
+      "draftedBy": "antigravity_drafter_d23",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions of feral swine and landowner's agent",
+          "bodySha256": "a965ddb0ec474bd1adb6510305cced2f06cf5e66aff43c6c72dde5241215271b",
+          "reviewNote": "Read complete text of subsection 1 (including subdivisions (1) and (2)) and history note (L. 2002 H.B. 1348, A.L. 2010 S.B. 795, A.L. 2019 H.B. 655, A.L. 2021 H.B. 369). Defines 'feral swine' (including the nested definition of 'in the wild') and 'landowner's agent' for purposes of section 270.400."
+        },
+        {
+          "number": 2,
+          "title": "Killing feral swine on own land without liability",
+          "bodySha256": "789739f333bac886b350b6d66f47afc9e43346cc278f58aa8d8c8a2170956b77",
+          "reviewNote": "Read complete text of subsection 2 and history note. Distinguished from subsection 3 by authorizing a person to kill feral swine roaming freely on the person's own land without liability to the swine's owner for the loss."
+        },
+        {
+          "number": 3,
+          "title": "Taking with consent, hunting-season regulations, and liability protection",
+          "bodySha256": "ba3ee43b7f63732095e3b8e114c72a7f61b09a63b1012b235fd9fd351673d14c",
+          "reviewNote": "Read complete text of subsection 3 and history note. Distinguished from subsection 2 by allowing taking or killing feral swine on public or private land with landowner consent, subject to Missouri wildlife code regulations during firearms deer and turkey hunting seasons, with nonliability to the swine's owner."
+        },
+        {
+          "number": 4,
+          "title": "Artificial light and thermal imagery prohibition and exception",
+          "bodySha256": "3399fed6827dd577140193e1d3837a01d0aa03804593b0a9f3fe113c89b52507",
+          "reviewNote": "Read complete text of subsection 4 and history note. Prohibits taking, attempting to take, or killing feral swine using artificial light or thermal imagery, except for a landowner or landowner's agent on the landowner's property."
+        },
+        {
+          "number": 5,
+          "title": "Misdemeanor penalties for violating subsection 3 or 4",
+          "bodySha256": "4a0433869a0ccf12fdcdee9a78934a5a6ab8d7d0a3bce822b9dbc2805a9b97b3",
+          "reviewNote": "Read complete text of subsection 5 and history note. Makes each violation of subsection 3 or 4 a separate class A misdemeanor offense."
+        },
+        {
+          "number": 6,
+          "title": "Exclusion for accidental escape of domestic swine",
+          "bodySha256": "0a333fb25eea6fc943d9d0321870b6990e20a49e8cb13e7c940c7a826f72fcc8",
+          "reviewNote": "Read complete text of subsection 6 and history note. Clarifies that section 270.400 does not apply to the accidental escape of domestic swine."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r29",
+      "reviewSummary": "Independently read all six subsections, subdivisions (1)–(2) of subsection 1, and history note (L. 2002 H.B. 1348 through A.L. 2021 H.B. 369); verified all source and subsection fingerprints. Checked definitions of \"feral swine\" (including \"in the wild\") and \"landowner's agent\", own-land killing vs. consented taking subject to wildlife code during firearms deer/turkey seasons, artificial-light/thermal-imagery prohibition with landowner/agent exception, subsection 3/4 class A misdemeanor penalties, and accidental-escape exclusion. Retained all six headings."
+    }
+  ]
+}

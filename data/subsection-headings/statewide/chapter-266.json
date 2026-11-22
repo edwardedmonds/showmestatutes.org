@@ -1,0 +1,914 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "266.031:47639",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.031&bid=47639",
+      "sourceSha256": "c4026eb9f7449338ae6e476d660e657fb55e24a4653bcb25cd494016cc164504",
+      "textSha256": "7cbd98f8003129c6b501885852312778b6f5a621b31e6056151c6c5774dca94e",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.031:47639, all four subsections including the five-row fee schedule table and subdivisions 2(1)–(4), and history note (through A.L. 2019 S.B. 133), and verified all source/body fingerprints. Verified section 266.080 exemption, fee tiers ($20/$60/$400) retaining archived repeated phrase \"or offers for sale agricultural seed\" in rows (3) and (4), farmer/seedsman triggers, agriculture protection fund deposit, and late-renewal affidavit exception; retained all four titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Seed permit requirements, exemptions, and fee schedule",
+          "bodySha256": "6eae232e135bf3239e4f7e6017d19a4e06a6c1b8102ef070297779e83341d3b9",
+          "reviewNote": "Read complete text of subsection 1, including the five-row fee schedule table, plus history note (L. 1951 p. 5 § 266.030 through A.L. 2019 S.B. 133). Covers seed permits from the director of agriculture unless exempt under section 266.080, separate permits per sales classification, location, or non-fixed seller, and $20/$60/$400 fees; notes archived text repeats \"or offers for sale agricultural seed\" in table rows (3) and (4)."
+        },
+        {
+          "number": 2,
+          "title": "When farmers and seed producers are classed as seedsmen",
+          "bodySha256": "6e5b6c8f86797775ec7f9bbd686f0ee8995a92b7a5a789a9a090acbcd2be121f",
+          "reviewNote": "Read complete text of subsection 2, including subdivisions (1) through (4), plus history note. Lists the four activities (selling seed not of own production, common-carrier delivery, public sales service, or purity/germination advertising or labeling) that subject farmers and seed producers to sections 266.011 to 266.111."
+        },
+        {
+          "number": 3,
+          "title": "Nontransferability, posting, license year, and fee deposit",
+          "bodySha256": "779e95cc65599811f83eee0f042fbcc302d64d4552ba4e3cb7e72bf7b3eafa13",
+          "reviewNote": "Read complete text of subsection 3 and history note. Bars permit transfer, requires conspicuous business posting, sets a January first through December thirty-first licensing year, and directs permit fees to the agriculture protection fund under section 261.200."
+        },
+        {
+          "number": 4,
+          "title": "Late renewal penalty and non-sales affidavit exception",
+          "bodySha256": "e3aa44f4ec588fc05440a220836e2a6d04c25219cae1835cfe672959623d11cd",
+          "reviewNote": "Read complete text of subsection 4 and history note. Imposes a fifty-percent penalty on renewal applications not filed before expiration, subject to an exception for applicants furnishing an affidavit certifying no post-expiration seed sales or distribution."
+        }
+      ]
+    },
+    {
+      "id": "266.051:14368",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.051&bid=14368",
+      "sourceSha256": "b581f91aeee6a960a5d8164f0539aaa0254bb7f3083a2fe9858e33741e3f5a02",
+      "textSha256": "89fcf90df69177f1edb1a7fbca430ccf196a0893b300c037ceae564545254065",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.051:14368, all seven subsections including subdivisions 1(1)–(2) and 5(1)–(2), and history note (L. 1951 p. 5 § 266.050, A.L. 1979 H.B. 57), and verified all fingerprints. Confirmed subsection 1 covers both agricultural seeds over one pound and vegetable seeds in any amount despite the narrower official catchline (retaining archived \"the work 'mixture'\", \"of this section\" in 1(1)(h)c, and \"demarkation\" in subsection 3); retained all seven titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Required label contents for agricultural and vegetable seeds",
+          "bodySha256": "5d24c7b65b5e5609f4e37b8df245eb7cfdb91eec17a0c94d57122c2e72ca2dd9",
+          "reviewNote": "Read complete text of subsection 1, including subdivisions (1) and (2) and all paragraphs/subparagraphs, plus history note (L. 1951 p. 5 § 266.050, A.L. 1979 H.B. 57). Covers English label/tag contents for agricultural seed over one pound and vegetable seed in any amount (official catchline mentions only agricultural seeds); notes archived typo \"the work 'mixture'\" in 1(1)(a) and cross-reference wording \"of this section\" in 1(1)(h)c."
+        },
+        {
+          "number": 2,
+          "title": "Labeling for bulk agricultural seeds and sales copies",
+          "bodySha256": "b40f16510dc3a4d35e93966989e5a6bab94fcab344a3f84ea8261a33411621e7",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers conspicuous container labeling for bulk agricultural seed exposed for sale and furnishing an exact label copy with bulk sales over one pound."
+        },
+        {
+          "number": 3,
+          "title": "Low-germination labeling and retail ban below twenty-five percent",
+          "bodySha256": "725ccb9dcacd35cc9f5ed3a56ab316f34a7a500a19739d60420ea05d2abf643f",
+          "reviewNote": "Read complete text of subsection 3 and history note. Requires diagonal \"low germination\" marking at three times print size (\"demarkation\" in archived text) for agricultural seed below fifty percent germination and prohibits retail sale of seed below twenty-five percent germination."
+        },
+        {
+          "number": 4,
+          "title": "Optional variety labeling and ban on misleading names",
+          "bodySha256": "602105085da8e5cd029e79039d3615a45610ce0a8b054e5fb382bdb8c630018c",
+          "reviewNote": "Read complete text of subsection 4 and history note. States that variety labeling is optional for agricultural seed, but restricts any shown variety to the recognized variety name and bars misleading names or terms."
+        },
+        {
+          "number": 5,
+          "title": "Hybrid seed labeling rules and partial-hybrid disclosures",
+          "bodySha256": "7a487ff45e3af53ce838779d91074bb7a86c62c68478c27af4f4e8ed35662e3c",
+          "reviewNote": "Read complete text of subsection 5, including subdivisions (1) and (2), plus history note. Covers mandatory \"hybrid\" designation above five percent, the ninety-five percent pure-seed standard unless separately stated, mixed kinds, and required disclosures for seventy-five to ninety-five percent hybrid seed from incompletely controlled pollination."
+        },
+        {
+          "number": 6,
+          "title": "Seventy-five percent minimum threshold for hybrid labels",
+          "bodySha256": "11b2aaff57754008b8335fb5a0557061397c1e0591374152f04a1ba21abd664b",
+          "reviewNote": "Read complete text of subsection 6 and history note. Prohibits labeling any one kind or variety as hybrid if pure seed contains less than seventy-five percent hybrid seed."
+        },
+        {
+          "number": 7,
+          "title": "Labeling for seed treated with poisonous compounds",
+          "bodySha256": "357e79ee24e3ececc917bc90b5995514749d58e1475bb8a86e3f62e01b59a5b9",
+          "reviewNote": "Read complete text of subsection 7 and history note. Requires boldface \"poison treated\" labeling and the chemical or brand name for seed treated with compounds poisonous to humans or farm animals."
+        }
+      ]
+    },
+    {
+      "id": "266.071:14370",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.071&bid=14370",
+      "sourceSha256": "04088b5d8584ed926e7a0d364c0c09ff1b93070cafae514df1d76fde78d54f3e",
+      "textSha256": "62be90d3be1140f5184789d8fb43ebf4bbfdd1552113e7bd3d2cd4e7616f37a9",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.071:14370, both subsections including subdivisions 1(1)–(7) and 2(1)–(6), and history note (through A.L. 1979 H.B. 57), and verified all fingerprints. Verified germination test age with 36-month hermetically sealed exception, weed seed limits, section 266.080/266.031 cross-references, and archived \"noxious or prohibitive weed seed\" phrasing; retained subsection 1 and revised subsection 2 to clarify \"stop-sale violations\".",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Unlawful sales, distribution, and offers of noncompliant seed",
+          "bodySha256": "cde93a3249e0e8bc435e6c7244282286e71a13064d4a88e424b5ec32095c9779",
+          "reviewNote": "Read complete text of subsection 1, including subdivisions (1) through (7), plus history note (L. 1951 p. 5 § 266.070, A.L. 1957 p. 13, A.L. 1979 H.B. 57). Distinguished from subsection 2 by listing seven unlawful conditions for selling, distributing, offering, or exposing seed, including germination test age with a thirty-six-month hermetically sealed exception, labeling, advertising, weed seed limits, and certified-seed claims."
+        },
+        {
+          "number": 2,
+          "title": "Prohibited tampering, obstruction, stop-sale violations, and trade acts",
+          "bodySha256": "bc19b50839b2726a599907205ea04391d809568d80260b5fd99151374feb7b9a",
+          "reviewNote": "Independently reviewed complete text of subsection 2, including subdivisions (1) through (6), plus history note. Revised title to clarify that violating stop-sale orders (rather than stop-sale orders themselves) is prohibited; distinguished from subsection 1 by prohibiting label tampering or seed substitution, obstructing authorized personnel, violating stop-sale orders, selling \"noxious or prohibitive weed seed\" (archived wording) except under section 266.080, selling to unpermitted retailers under section 266.031(1)(1)–(4), and noncompliant inbound seed movement."
+        }
+      ]
+    },
+    {
+      "id": "266.091:14373",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.091&bid=14373",
+      "sourceSha256": "59feda5e4c1422c84fa4eef380642a5538aecc32f4e8ef9f8152b05d2a227220",
+      "textSha256": "7c21714ad50412cf2ec8c4d7f5b57382caa0870eeaf9bb9c7c493748e1022232",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.091:14373, all three subsections including subdivisions 1(1)–(4) and 2(1)–(6), and history note (through A.L. 1995 S.B. 3), and verified all fingerprints. Verified director of agriculture enforcement, AOSA/USDA standards, stop-sale orders with circuit court appeal, uniform violation publication, 10-point vegetable packet testing, PVPA info gathering, and section 536.024 rulemaking compliance; retained all three titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Director enforcement duties, rulemaking, and testing standards",
+          "bodySha256": "7f5c4fa7b535fd81ad221d674fef0331e8dcfaad34c7fbc96e67458f18560e5a",
+          "reviewNote": "Read complete text of subsection 1, including subdivisions (1) through (4), plus history note (L. 1951 p. 5 § 266.090 through A.L. 1995 S.B. 3). Vests enforcement of sections 266.011 to 266.111 in the director of agriculture and covers sampling/testing/violation notice, rulemaking after public hearing, AOSA/USDA analysis methods, and AOSA regulatory tolerances."
+        },
+        {
+          "number": 2,
+          "title": "Inspection, stop-sale, laboratory, packet testing, and cooperation powers",
+          "bodySha256": "5c983bf51a2389086cbaf50b2d68ff5e3aa54439e52f037b1a716019845b6d50",
+          "reviewNote": "Read complete text of subsection 2, including subdivisions (1) through (6), plus history note. Covers business-hours premises entry, stop-sale orders with compliance cure and circuit court appeal, laboratory maintenance and uniform publication of results/violations, ten-point composite germination testing and stop-sale for vegetable seed packets, Plant Variety Protection Act information gathering, and intergovernmental agreements."
+        },
+        {
+          "number": 3,
+          "title": "Rulemaking compliance with section 536.024",
+          "bodySha256": "153ec845dc42a6892ad00cf6af1af8f043e6f8023de6c1b5df19794c659c280d",
+          "reviewNote": "Read complete text of subsection 3 and history note. Conditions effectiveness of rules under sections 266.011 to 266.111 on promulgation pursuant to section 536.024."
+        }
+      ]
+    },
+    {
+      "id": "266.111:14377",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.111&bid=14377",
+      "sourceSha256": "8f7be16bd506bb4b14c0f1f4a7798372969d7fe993eeab7ac1c0067fefd515ee",
+      "textSha256": "6447f69e1acbb74194686f21db05d5f4ce465bb29f9ee5076ddcc7548aa4a629",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.111:14377, all four subsections, and history note (through A.L. 1979 H.B. 57), and verified all fingerprints. Verified misdemeanor fine limits ($500/$1,000), prosecutor/attorney general referrals with prerequisite private hearing before the director of agriculture, prompt enforcement duty, and court judgment publication; retained all four titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Misdemeanor classification and maximum fines",
+          "bodySha256": "8bec8294d89da086d3f8af01f871b0e794a4d870d6d50b57c6ae541539f17292",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1951 p. 5 § 266.110, A.L. 1978 H.B. 1634, A.L. 1979 H.B. 57). Classifies violations as misdemeanors punishable by fines up to $500 for a first offense and $1,000 for each subsequent similar offense."
+        },
+        {
+          "number": 2,
+          "title": "Prosecution referrals, attorney general action, and pre-suit hearing",
+          "bodySha256": "c98e6e276d710d8242a4c6d372c6798b9e74085c16b7fee248ee6db387fa160c",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers permissive reporting to the county prosecuting attorney, mandatory attorney general action if the prosecutor refuses or fails to act, and the prerequisite opportunity for a private hearing before the director of agriculture."
+        },
+        {
+          "number": 3,
+          "title": "Duty to institute proceedings when evidence warrants",
+          "bodySha256": "7b0443d2b75c8db44332fa505f139b1a73bc544b5cc5339e269eb33a50e71355",
+          "reviewNote": "Read complete text of subsection 3 and history note. Directs the director of agriculture or attorney general to institute proceedings promptly if submitted information warrants action in that officer's judgment."
+        },
+        {
+          "number": 4,
+          "title": "Publication of court judgments by the director",
+          "bodySha256": "b33a24f0160ec5f92219b4b108a88bc87c64b8672dcfc765c90a323a70f09c02",
+          "reviewNote": "Read complete text of subsection 4 and history note. Requires the director of agriculture to publish pertinent court judgment information in designated media after judgment."
+        }
+      ]
+    },
+    {
+      "id": "266.165:47640",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.165&bid=47640",
+      "sourceSha256": "b3205a6e9e8bcee395e3d81ce24257ece02fd4c1ae37a2cc2e519afe7cee576b",
+      "textSha256": "2028c80fabb4fab9ef4344b45868926eba4d3381a19b060222d7214967d8b58e",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.165:47640, all five subsections, and history note (through A.L. 2019 S.B. 133), and verified all fingerprints. Checked per-facility feed licensing (retaining archived repeated mention of independent consultants), licensed-source retail exemption, $35/$25 fees, July 31 renewal grace period, rule-based label requests, hearing prerequisite before license sanctions, and consultant disclosures under section 266.210; retained all five titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Commercial feed license requirements, retail exemption, fees, and renewal",
+          "bodySha256": "f01b21512a770081305f3b706cfcddb6df8a45c9d5c41da8c8cefab21ceebf57",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1972 S.B. 506 § 5 through A.L. 2019 S.B. 133). Covers per-facility licensing for manufacturers, distributors, label guarantors, and independent consultants (mentioned twice in archived text), the exemption for retail-only sellers of licensed-source feed, $35 fee under section 266.195 rules, July first–June thirtieth license year with July thirty-first timely-renewal extension, and $25 late fee."
+        },
+        {
+          "number": 2,
+          "title": "License application form established by department rules",
+          "bodySha256": "3576ec74cb5dea8776ea417d2333e4840a5aa80647b588054e1ddeba3e4ba118",
+          "reviewNote": "Read complete text of subsection 2 and history note. Provides that the license application is established by department of agriculture rules."
+        },
+        {
+          "number": 3,
+          "title": "Requests for feed labels and labeling to verify compliance",
+          "bodySha256": "e51e02a46915f34ba97f881bc96676faee411fc97ec6553807125215ca7ac5e4",
+          "reviewNote": "Read complete text of subsection 3 and history note. Authorizes the state, under conditions specified by rule, to request copies of labels and labeling from license applicants or licensees to determine compliance with sections 266.152 to 266.220."
+        },
+        {
+          "number": 4,
+          "title": "License refusal, suspension, revocation, conditions, and hearing right",
+          "bodySha256": "26ad709a3434b0c3fcc46a72e6895bc71334e0e253ac78cf03abc44fc0d30793",
+          "reviewNote": "Read complete text of subsection 4 and history note. Covers permissive license refusal, suspension, revocation, and production or distribution conditions for noncompliance with sections 266.152 to 266.220, conditioned on a prior opportunity to be heard before the director or a hearing officer."
+        },
+        {
+          "number": 5,
+          "title": "Independent consultant formulation disclosures and section 266.210 penalties",
+          "bodySha256": "cbe7ddd9ea8b501e1699361d0af2251f36989da901594e44bf06732373a8d5d3",
+          "reviewNote": "Read complete text of subsection 5 and history note. Authorizes requiring independent consultants, under rule conditions, to provide signed formulations, specifications, directions, and warnings to manufacturers and end users, and subjects inadequate recommendations to section 266.210 penalties."
+        }
+      ]
+    },
+    {
+      "id": "266.190:47641",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.190&bid=47641",
+      "sourceSha256": "15259f8d7c614cc7a6a79e674cde7aeb486e0e73ba3927ef7bbdec9754e542eb",
+      "textSha256": "1d2a74abe924e9abf44f62f52b8b1fc638f04e3a10262c770ee1ed26409a6504",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.190:47641, all three subsections including subdivisions 1(1)–(7) and 2(1)–(2), and notes including Revisor footnote \"*\" (\"Words 'subsection 1 of this section' appear in original rolls\" for \"this subsection*\" in 1(5) and 1(7)), and verified all fingerprints. Checked tonnage fees, exemptions, pet/specialty pet food fees, reduced $25 small-seller fee, chapter 536 / Aug. 28, 2019 rulemaking nonseverability, quarterly reports, and agriculture protection fund deposit; revised subsection 1 to surface rulemaking nonseverability and retained subsections 2 and 3.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Tonnage fee, exemptions, pet food fees, and rulemaking nonseverability",
+          "bodySha256": "75bf191e8c84914e0899724b8f81c8af33de449ac541d9dd0c0676886d7133f6",
+          "reviewNote": "Independently reviewed complete text of subsection 1, including subdivisions (1) through (7), plus notes (L. 1972 S.B. 506 § 10, A.L. 1997 H.B. 211, A.L. 2019 S.B. 133) and Revisor footnote \"*\" noting \"subsection 1 of this section\" appears in original rolls for \"this subsection*\" in subdivisions (5) and (7). Revised title to surface the chapter 536 / section 536.028 nonseverability and post-August 28, 2019 voidness clause alongside the fourteen-cent/ton fee, deferment-list assumption, prior-payment/customer-formula/ingredient exemptions, $5 quarterly minimum, annual in-lieu pet food and specialty pet food fees, late fees, and reduced small-seller fee."
+        },
+        {
+          "number": 2,
+          "title": "Quarterly tonnage reports, late penalties, records, and license cancellation",
+          "bodySha256": "4038d5ed8cc4baa9e27c86f7133e1081787cca2f918a9b831efd50d723123d24",
+          "reviewNote": "Read complete text of subsection 2, including subdivisions (1) and (2), plus notes. Covers quarterly tonnage report filing and payment deadlines, twenty-percent or $5 late penalties after fifteen days, tonnage recordkeeping and director examination, and possible license cancellation for noncompliance."
+        },
+        {
+          "number": 3,
+          "title": "Use and deposit of inspection fees in agriculture protection fund",
+          "bodySha256": "02092e03d67928ab4a92c0641069cf15bf00830229363d284c71ce641d08f6fd",
+          "reviewNote": "Read complete text of subsection 3 and notes. Dedicates collected fees to administering sections 266.152 to 266.220 and requires deposit in the state treasury to the agriculture protection fund created in section 261.200."
+        }
+      ]
+    },
+    {
+      "id": "266.195:14387",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.195&bid=14387",
+      "sourceSha256": "c7eae00965d3f2198dfbd8e0119a6c62636330ba8bfbf924058a051a9748080c",
+      "textSha256": "b4f8b324c58dc446f9d5f6f50ee4c1338a058d4786839261e418ed56786a7e16",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.195:14387, both subsections including subdivisions 1(1)–(2), and notes (through A.L. 1997 H.B. 211; Effective 1-01-98), and verified all fingerprints. Verified AAFCO and Federal Food, Drug, and Cosmetic Act adoption, notice/comment, automatic amendment adoption retaining the archived legacy reference to \"Secretary of Health, Education and Welfare\" without alteration, and section 536.024 compliance; retained both titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Feed rulemaking authority and adoption of national standards",
+          "bodySha256": "12b9f5e9b6900c2c5d4b3c87ced22cc98071f176d968da09b2d0256aaada3d36",
+          "reviewNote": "Read complete text of subsection 1, including subdivisions (1) and (2), plus notes (L. 1972 S.B. 506 § 11 through A.L. 1997 H.B. 211; Effective 1-01-98). Authorizes commercial feed, pet food, and specialty pet food rules and directs adoption of AAFCO definitions/terms and Federal Food, Drug, and Cosmetic Act rules (21 U.S.C. 301 et seq.) unless inconsistent or inappropriate for Missouri."
+        },
+        {
+          "number": 2,
+          "title": "Rulemaking notice, automatic standard updates, and section 536.024",
+          "bodySha256": "671ae0434c22f701d352834d359ea8791060dbd552a44f2d5db8c5ef691aa5b5",
+          "reviewNote": "Read complete text of subsection 2 and notes. Covers pre-adoption notice and comment for interested parties and licensees, automatic adoption of AAFCO and federal amendments (retaining archived reference to \"Secretary of Health, Education and Welfare\") unless rejected by director order, and required compliance with section 536.024."
+        }
+      ]
+    },
+    {
+      "id": "266.200:14388",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.200&bid=14388",
+      "sourceSha256": "63af7b5c3d0d4b4825e7d894b6b8c8d78739881f4b9570d1e7cbc626b1b20040",
+      "textSha256": "a4fb4b904cba0adc36ff18fd72d31cb482caf35d7a2c721876790ab91def90bf",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.200:14388, all nine subsections including subdivisions 1(1)–(2), and notes (Effective 1-01-98), and independently cross-checked archived sections 266.160 and 266.180, verifying all fingerprints. Confirmed distinct entry authorities in subsections 1 and 5 and documented both internal cross-reference discrepancies without inventing corrections: subsection 1(2) cites \"paragraph (d) of subdivision (1) of subsection 1 of section 266.180\" (archived 266.180 is unnumbered and puts promulgated GMP rules in (4)) and subsection 8 cites \"subdivision (16) of section 266.160\" (archived 266.160 defines \"Official sample\" in (17) and \"Mineral feed\" in (16)); retained all nine titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Facility and vehicle entry, inspection scope, and compliance records",
+          "bodySha256": "c8b6b3ec8ae388f16d5407dd65a4d82911e5a981d6092269c84b2c4a81027b02",
+          "reviewNote": "Read complete text of subsection 1, including subdivisions (1) and (2), plus notes (L. 1972 S.B. 506 § 12, A.L. 1997 H.B. 211; Effective 1-01-98). Distinguished from subsection 5 by requiring credentials and notice for normal-business-hours facility/vehicle entry and reasonable inspection of feed, equipment, labeling, and limited compliance/GMP records; retains archived cross-reference to \"paragraph (d) of subdivision (1) of subsection 1 of section 266.180\" (archived 266.180 is unnumbered, mentions good manufacturing practice in (1)(d), and addresses promulgated GMP regulations in subdivision (4))."
+        },
+        {
+          "number": 2,
+          "title": "Inspection notice, prompt completion, and post-inspection notice",
+          "bodySha256": "56b843c434c212969af85d76cd10360bd0caec9275fd06a7b9607828163f9787",
+          "reviewNote": "Read complete text of subsection 2 and notes. Requires separate notice per inspection (not per entry during the inspection period), commencement and completion with reasonable promptness, and completion notice to the person in charge."
+        },
+        {
+          "number": 3,
+          "title": "Receipts for samples taken during facility inspections",
+          "bodySha256": "d3556cbc01d50235a9b794275d8b55ba994336ec730a92e3148cac18a1993684",
+          "reviewNote": "Read complete text of subsection 3 and notes. Requires inspectors obtaining samples from a factory, warehouse, or establishment to give the owner, operator, or agent a descriptive receipt upon completion and before leaving."
+        },
+        {
+          "number": 4,
+          "title": "Court inspection warrants upon refusal of entry",
+          "bodySha256": "e32f9da77d62e0b77ddd6970dedfac83bf93ffaef2010b736d9af91f7391a040",
+          "reviewNote": "Read complete text of subsection 4 and notes. Authorizes the director to obtain a state court inspection warrant when a facility owner or agent refuses inspection under subsections 1 and 2."
+        },
+        {
+          "number": 5,
+          "title": "Business-hours entry for sampling and distribution record inspection",
+          "bodySha256": "f68a0d268cf19dd41cfd294fb0605b76cc11cefc2736a522f08c1a5ec31f54d7",
+          "reviewNote": "Read complete text of subsection 5 and notes. Distinguished from subsection 1 by granting regular-business-hours entry to public or private premises and transport vehicles specifically for sampling and examining commercial feed distribution records."
+        },
+        {
+          "number": 6,
+          "title": "Approved sampling and laboratory analysis methods",
+          "bodySha256": "b3f1e294eda9e8980e4f9fef589ebdaa3ca558b8943935cca80ac16ce9fcdf0a",
+          "reviewNote": "Read complete text of subsection 6 and notes. Requires sampling and analysis to follow methods published by the Association of Official Analytical Chemists or other generally recognized methods."
+        },
+        {
+          "number": 7,
+          "title": "Reporting official sample results and furnishing sample portions",
+          "bodySha256": "6b4cb84341b841800c0deaf0cdefb2f7b12fe026d075096e3d4c6c6bf25aeca6",
+          "reviewNote": "Read complete text of subsection 7 and notes. Allows forwarding all official sample analyses to the guarantor and distributor, requires forwarding when adulterated or misbranded, and requires furnishing a sample portion to the guarantor within thirty days upon request."
+        },
+        {
+          "number": 8,
+          "title": "Use of official samples for administrative deficiency determinations",
+          "bodySha256": "17c3834a1e7bd327c0aa70c714e1c44d2e49c514888e9b89c65e010a91adc167",
+          "reviewNote": "Read complete text of subsection 8 and notes. Directs the director to be guided by the official sample obtained and analyzed under subsections 3, 5, 6, and 9 in administrative deficiency determinations; notes archived cross-reference cites \"subdivision (16) of section 266.160\" whereas archived section 266.160 defines \"Official sample\" in subdivision (17) and \"Mineral feed\" in subdivision (16)."
+        },
+        {
+          "number": 9,
+          "title": "Analysis and nutritional reporting for customer-formula and noncommercial feeds",
+          "bodySha256": "6003b4fab45f3020a30e288d47846fbf3e72894ce713c1bb466bd1c4f9d5acee",
+          "reviewNote": "Read complete text of subsection 9 and notes. Covers laboratory quality analysis of customer-formula feed and noncommercial feed ingredients by generally recognized/AOAC methods and sending nutritional content results to the end user and manufacturer."
+        }
+      ]
+    },
+    {
+      "id": "266.205:14389",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.205&bid=14389",
+      "sourceSha256": "a763ac7079ae2aaecc9faf51f9f6a9d52ff51a5dc0ad9595d76faa34bc0a598d",
+      "textSha256": "a96af7cfa5f861a012a73e0ac2761dc2d6c3fa07f0f8c48add31df81ff3409ac",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.205:14389, both subsections, and notes (Effective 1-01-98), and verified all fingerprints. Verified withdrawal from distribution orders, mandatory release on compliance, 30-day permissive/requested condemnation trigger, judicial seizure, and claimant cure opportunity; retained both titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Withdrawal from distribution orders, release, and condemnation trigger",
+          "bodySha256": "4f79b796cdf98d17d7a62f9b86b222e65d1544b5abdf12eb075d4516c4b3c4d3",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1972 S.B. 506 § 13, A.L. 1997 H.B. 211; Effective 1-01-98). Covers written/printed withdrawal orders upon reasonable cause of violation, mandatory release upon compliance, and permissive condemnation proceedings after thirty days of noncompliance (mandatory upon distributor or licensee request)."
+        },
+        {
+          "number": 2,
+          "title": "Court seizure, condemnation disposal, and claimant cure opportunity",
+          "bodySha256": "7aaf403054a503e337a1123c989b8b62109a77e683e69e375ebd63794530741c",
+          "reviewNote": "Read complete text of subsection 2 and notes. Covers judicial seizure on director complaint, lawful disposal upon court condemnation, and the claimant's mandatory prior opportunity to apply for release, processing, or relabeling to achieve compliance."
+        }
+      ]
+    },
+    {
+      "id": "266.210:14390",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.210&bid=14390",
+      "sourceSha256": "d51a4c0ea3d9c8206749cc3a2be06237bfc43cb9e2a621c40fe4dfd23f78dd1f",
+      "textSha256": "c2df3b61bc5bdcc347757f5cab4c134e73f7088df1a532ffe19556edcd4820ae",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.210:14390, all six subsections including subdivisions 2(1)–(3), and notes (Effective 1-01-98), and verified all fingerprints. Checked knowing/reckless misdemeanor standard, minor-violation warning discretion, prosecution referral with informal hearing prerequisite, injunctions, chapter 536 appeals, and trade secret misdemeanor with regulatory exchange exception; retained all six titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Misdemeanor penalty for knowing or reckless violations",
+          "bodySha256": "fb20ea5740ae62d01478f70dedec9e91d4b84a2ad36f54a12ffbf0e5f38cf2dc",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1972 S.B. 506 § 14, A.L. 1997 H.B. 211; Effective 1-01-98). Classifies knowing or reckless violations of sections 266.152 to 266.220 as misdemeanors punished as provided by law."
+        },
+        {
+          "number": 2,
+          "title": "Enforcement discretion and written warnings for minor violations",
+          "bodySha256": "ae85505e2b1c2766a96e1d13222570096a9e5347211b7ab5ad1e37e86abd338e",
+          "reviewNote": "Read complete text of subsection 2, including subdivisions (1) through (3), plus notes. Clarifies that the director is not required to report for prosecution, seek seizure, or issue withdrawal orders for minor violations or when written warning best serves the public interest."
+        },
+        {
+          "number": 3,
+          "title": "Prosecution referrals, attorney general action, and informal hearing",
+          "bodySha256": "a652c689267c28832a6e483e53f58dfa53eacc78c6f84d372ec012f7dca7b0b3",
+          "reviewNote": "Read complete text of subsection 3 and notes. Covers permissive reporting to the county prosecuting attorney, mandatory attorney general action if the prosecutor refuses or fails to act, and the prerequisite opportunity for an informal hearing before the director."
+        },
+        {
+          "number": 4,
+          "title": "Temporary and permanent injunctions against feed violations",
+          "bodySha256": "2bef5ed90f6227c689fc6de0953515c482cfcee05ad6dd2ba58a7a036e8200a4",
+          "reviewNote": "Read complete text of subsection 4 and notes. Authorizes the director to apply for and courts to grant temporary or permanent injunctions against violations of sections 266.152 to 266.220 or rules notwithstanding other legal remedies."
+        },
+        {
+          "number": 5,
+          "title": "Chapter 536 appeals of adverse acts, orders, or rulings",
+          "bodySha256": "98e21451777cc50fdb1583b96d9b6fe172970f27da7e47fa40ff296afd3f9f59",
+          "reviewNote": "Read complete text of subsection 5 and notes. Allows persons adversely affected by an act, order, or ruling under sections 266.152 to 266.220 to appeal under chapter 536."
+        },
+        {
+          "number": 6,
+          "title": "Trade secret confidentiality misdemeanor and regulatory exchange exception",
+          "bodySha256": "c378b2fa7d0828e64c0d3779aa04048abed6b2befa54d58e0f378ec244941233",
+          "reviewNote": "Read complete text of subsection 6 and notes. Makes misuse or unauthorized disclosure of protected trade secrets acquired under sections 266.152 to 266.220 a misdemeanor, while permitting regulatory information exchanges with similarly bound federal or state officials."
+        }
+      ]
+    },
+    {
+      "id": "266.212:14391",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.212&bid=14391",
+      "sourceSha256": "c9641473acd51940cd1ca7c511b5e24db7e9ae729fef7d070c62059aa2d6c339",
+      "textSha256": "ba8fa0aa9d1fa949d4e8091e954890dce7446b54b8deafa5b2f718ed1649def3",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.212:14391, all five subsections, and notes (L. 1997 H.B. 211; Effective 1-01-98), and verified all fingerprints. Verified serious-violation restriction, informal hearing and 90-day cure prerequisites, collection waiver for omitted disclosures, $1,000 administrative / $5,000 civil caps, section 536.063 and de novo circuit court appeals, Mo. Const. Art. IX § 7 disposition, and two-year discovery limitation; retained all five titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Administrative penalty prerequisites, notice contents, and collection waiver",
+          "bodySha256": "87d08f0ad2d3e3c2268dd5f49dd4be150ecafd5d313389b9353c85f73b2f1320",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1997 H.B. 211; Effective 1-01-98). Covers director administrative penalty orders restricted to serious violations after offering an informal hearing and providing ninety days to correct, mandatory order disclosures, and state waiver of collection if required disclosures are omitted."
+        },
+        {
+          "number": 2,
+          "title": "Penalty rules, maximum, payment, section 536.063 appeal, and collection",
+          "bodySha256": "b99db97ee861a22827330edb576181cfd1263ce4a466d61ac560da9d8406a546",
+          "reviewNote": "Read complete text of subsection 2 and notes. Covers rulemaking defining serious violations, $1,000 per-violation cap, sixty-day payment period, thirty-day appeal to the director under section 536.063 staying the due date, and circuit court collection actions."
+        },
+        {
+          "number": 3,
+          "title": "De novo circuit court appeal, venue, and civil penalties",
+          "bodySha256": "b6f3db6d89d5bc7ac00e6954831d5bd21d58ac628140c7d7c40bd3ab8dcdb710",
+          "reviewNote": "Read complete text of subsection 3 and notes. Covers thirty-day de novo appeal of final orders to circuit court, venue at the party's option (Cole County or the party's county or corporate registered/business office), and circuit court civil penalties up to $5,000 per violation."
+        },
+        {
+          "number": 4,
+          "title": "Disposition of penalties under Article IX, Section 7",
+          "bodySha256": "acd895e4ed72df9b7d9bf344ca2a6372f55388950e9822f9f3ee1385154496e0",
+          "reviewNote": "Read complete text of subsection 4 and notes. Requires administrative and civil penalties paid under this section to be handled in accordance with Article IX, Section 7 of the Missouri Constitution."
+        },
+        {
+          "number": 5,
+          "title": "Two-year limitation period for assessing administrative penalties",
+          "bodySha256": "1103c8e1f2f6eb0e86b913d9d6d5806e0e886971f15a3b02794e47ade027eac7",
+          "reviewNote": "Read complete text of subsection 5 and notes. Requires administrative penalties to be assessed within two years of initial discovery or when the department should have discovered the alleged violation with ordinary diligence."
+        }
+      ]
+    },
+    {
+      "id": "266.321:14397",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.321&bid=14397",
+      "sourceSha256": "b14d65e7329bf662be19e24e6d0387eefe25fda0bc2d7d614d4b0f5a675d52e0",
+      "textSha256": "131b65e47dca6b4fd1207dbd29f35427ba62e334f3bbed28143e080b578f77ad",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.321:14397, both subsections including subdivisions 1(1)–(4), paragraphs (a)–(c), and bulk continuation paragraph, and history note (through A.L. 1997 S.B. 179), and verified all fingerprints. Verified packaged/bulk fertilizer statement rules, mineral/slag/organic phosphate distinctions, and variable rate technology custom blend statements; retained both titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Required statements on packaged and bulk fertilizer",
+          "bodySha256": "54207a5ea1fa0dff20990b869baffd8d5edff9263c343906b416e4469578348c",
+          "reviewNote": "Read complete text of subsection 1, including subdivisions (1) through (4), paragraphs (a) through (c), and continuation paragraph, plus history note (L. 1953 p. 9 § 266.310, A.L. 1985 S.B. 65, A.L. 1997 S.B. 179). Covers conspicuous English container statements (brand, guarantor, net weight, N-P2O5-K2O), special phosphate/fineness rules for mineral, slag, and organic materials, and accompanying statements for bulk fertilizer."
+        },
+        {
+          "number": 2,
+          "title": "Accompanying statements for variable rate technology custom blends",
+          "bodySha256": "0cf94bb31b6884d18184d6886e1563e6275edb094f35f1a8492a8b27dd7155cd",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers accompanying written statements for consumer-specified fertilizer formulations intended for variable rate technology, listing guaranteed analysis and net weight of each material plus distributor and consumer names and addresses."
+        }
+      ]
+    },
+    {
+      "id": "266.336:33284",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.336&bid=33284",
+      "sourceSha256": "1e766084fda35860112cabce32fb53ef1ccbbc3a1f4f785452c4aa16c9acf4a4",
+      "textSha256": "b2649ba535ebb753d93408589b8feafc04122fc8579870b8d572129329c82ed9",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.336:33284, all six subsections including subdivisions 2(1)–(9), 3(1)–(8), and 4(1)–(3), and history note (A.L. 2016 S.B. 655), and verified all fingerprints. Confirmed \"director\" means the director of the Missouri agricultural experiment station per section 266.291(1) (never misattributed to the director of agriculture), checked the Aug. 28, 2016 chapter 536 rulemaking nonseverability clause, and preserved archived wording \"which such order prohibiting\" in 3(5) and legacy \"advisory council\" in subsection 5; retained all six titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Fertilizer Control Board creation, composition, and selection",
+          "bodySha256": "d4d4b328dbd8daaf33d2a09791f9d17b5ee865764209e79a45e35551d5c21e0b",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1985 S.B. 65, A.L. 2016 S.B. 655). Creates the thirteen-member Fertilizer Control Board with five industry and five farmer members selected by the director (Missouri agricultural experiment station director per section 266.291) from nonprofit nominations, plus three at-large members selected with majority board approval."
+        },
+        {
+          "number": 2,
+          "title": "Board duties, rulemaking, permit hearings, fees, and supervision",
+          "bodySha256": "d5e3375dff97aa0eeaa9c88cf04ac97f5ef958ba0c44f8c9c09f6d1c50b07d57",
+          "reviewNote": "Read complete text of subsection 2, including subdivisions (1) through (9), plus history note. Covers semiannual meetings, financial approval, chapter 536 rulemaking with the August 28, 2016 nonseverability clause, permit sanctions, requested hearings, and section 266.343 penalty modifications, fee determination, laboratory access, nutrient research/outreach, general supervision, and attorney general fee collection suits."
+        },
+        {
+          "number": 3,
+          "title": "Authorized agent sampling, audit, stop-sale, reporting, and staffing powers",
+          "bodySha256": "f28a19ab469a5d14516f3df278e1d7b5f4e23e7c6f436818b5c9755665dcb63b",
+          "reviewNote": "Read complete text of subsection 3, including subdivisions (1) through (8), plus history note. Covers general-compliance sampling (with bulk sampling, five-business-day preliminary analysis, and sample-portion rules), book audits, semi-annual document filings, business-hours entry, stop-sale/use/removal orders (retaining archived phrase \"which such order prohibiting\"), annual reports, market-value determinations for deficiency damages, and staffing/contracting."
+        },
+        {
+          "number": 4,
+          "title": "Bylaws governance, three-year terms, and initial staggering",
+          "bodySha256": "05e2cb8b1bd5eb2f9fcf9354b572e0fb6ba0a65556945ef05fb43cbf21f4083c",
+          "reviewNote": "Read complete text of subsection 4, including subdivisions (1) through (3), plus history note. Assigns vacancy filling, officer selection, and meeting conduct to board bylaws and sets three-year terms with staggered initial one-, two-, and three-year appointments."
+        },
+        {
+          "number": 5,
+          "title": "Residency requirement, term limits, and reappointment waiting period",
+          "bodySha256": "945536891254a210112e9cffc7f3f0b9086b728674948ff03b818fd942609c2c",
+          "reviewNote": "Read complete text of subsection 5 and history note. Requires Missouri residency, limits members to two consecutive terms on the fertilizer control board, and allows reappointment after a three-year break; notes archived text retains legacy \"advisory council\" phrasing in the reappointment clause."
+        },
+        {
+          "number": 6,
+          "title": "Member expense reimbursement from fertilizer fees",
+          "bodySha256": "03b7f2baade98fc5e636d26a5a80acc9d330c0c30cfb690000b43a9d7b0f967e",
+          "reviewNote": "Read complete text of subsection 6 and history note. Provides for reasonable expense reimbursement under board bylaws paid from fees collected under sections 266.291 to 266.351."
+        }
+      ]
+    },
+    {
+      "id": "266.347:33286",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.347&bid=33286",
+      "sourceSha256": "d1cd2e78aa52a8d65d18b8ed4f105e12083869fb5efedfd97d92ea5df924a689",
+      "textSha256": "e8f75ba51afa1bd07e65ccbaf4a7a576d0d67c8f567994497042224c4f60d864",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.347:33286, all four subsections, and history note (A.L. 2016 S.B. 655), and verified all fingerprints. Confirmed \"director\" in subsection 1 means the Missouri agricultural experiment station director under section 266.291(1) (clarified in subsection 1 reviewNote), checked section 266.343 penalty payment/certification, chapter 536 review of Fertilizer Control Board actions, and civil recovery with attorney's fees; retained all four titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Payment of section 266.343 penalties to purchaser or director",
+          "bodySha256": "ed33a1559d3c51f3aa7070c9f85d0c603a34bf8ed80ea09fd2fdea3ccb63f1a5",
+          "reviewNote": "Independently reviewed complete text of subsection 1 and history note (L. 1959 H.B. 236 § 266.350, A.L. 2016 S.B. 655). Requires distributors to pay section 266.343 penalties to the fertilizer purchaser, or to the director (director of the Missouri agricultural experiment station per section 266.291(1)) under section 266.331 if the purchaser cannot be ascertained."
+        },
+        {
+          "number": 2,
+          "title": "Preliminary deficiency notice and written penalty certification",
+          "bodySha256": "55023ac0447efd3aa012b7379aa6817b22a4bbc2b8d8d160fbc6c822bd477656",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires two-business-day preliminary deficiency notice to the distributor by telephone or email plus mail, followed by mailed written certification of section 266.343 penalties once analysis is certified."
+        },
+        {
+          "number": 3,
+          "title": "Chapter 536 judicial review of board actions",
+          "bodySha256": "2932c256843187e01cc69237c9e6d4408dadee1f1391b252ad80b0c11a08270a",
+          "reviewNote": "Read complete text of subsection 3 and history note. Subjects decisions, findings, orders, and rulings of the Fertilizer Control Board under sections 266.291 through 266.351 to chapter 536 judicial review."
+        },
+        {
+          "number": 4,
+          "title": "Civil recovery action, attorney's fees, and costs for unpaid penalties",
+          "bodySha256": "1e83c15d9bd68e6c539565e9eb2b7bb1810490d2e150281a2cb31ee92021a5cb",
+          "reviewNote": "Read complete text of subsection 4 and history note. Authorizes the person entitled under subsection 1 to sue a nonpaying distributor after judicial review expires or judgment becomes final, recovering the penalty, reasonable attorney's fee, and action costs."
+        }
+      ]
+    },
+    {
+      "id": "266.353:14404",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.353&bid=14404",
+      "sourceSha256": "0baa57a463d811f4558a34303bdd4d3e45090bb73b866ce55c3b38c2cda4dbac",
+      "textSha256": "eda44dcbc7538278e44fe378e0d764fa70c026f5e5ca9556e7d0aefc8c90c2ba",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.353:14404, all three subsections, and notes including Revisor footnote \"*\" (\"Word 'through' does not appear in original rolls\" for \"in any county through* which\"), and verified all fingerprints. Verified section 386.020 public utility status, section 523.010 eminent domain DNR plan approval prerequisite with 60-day deemed approval and bilateral circuit court appeals, and intrastate Missouri carrier limitation; revised subsection 2 to tie environmental approval explicitly to eminent domain and retained subsections 1 and 3.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Public utility status of liquid fertilizer pipeline companies",
+          "bodySha256": "1fe2511ebe79c0e0d1a8f3473ec3ef5bf84a86c27aed0902e831ec6247078c70",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1983 S.B. 144 § 2, subsecs. 1, 2, 3). Designates liquid fertilizer solution pipeline companies referred to in section 523.010 as public utilities under section 386.020."
+        },
+        {
+          "number": 2,
+          "title": "Eminent domain environmental approval, deemed approval, and appeals",
+          "bodySha256": "b6bd684612602b30807ee0ee0319536c8584b3d6b15d2c8fd2888e25f31e368b",
+          "reviewNote": "Independently reviewed complete text of subsection 2 and notes, including Revisor footnote \"*\" noting that the word \"through\" does not appear in original rolls (\"in any county through* which\"). Revised title to explicitly connect the DNR director environmental plan approval prerequisite to the exercise of section 523.010 eminent domain; also covers sixty-day deemed approval and circuit court appeal rights for applicants upon disapproval and affected landowners upon approval."
+        },
+        {
+          "number": 3,
+          "title": "Limitation to intrastate Missouri fertilizer carriers",
+          "bodySha256": "f7d5a53166c22cc06eeb665f01ce43d244f6b7206892b1094376089566d1aea2",
+          "reviewNote": "Read complete text of subsection 3 and notes. Restricts the act to carriers providing fertilizers to Missouri consumers from points located in Missouri."
+        }
+      ]
+    },
+    {
+      "id": "266.430:14413",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.430&bid=14413",
+      "sourceSha256": "d2244e4b53fdff571d8cae3b88bc5ab09e6dedf9ce47271f9a8c9a44223d66aa",
+      "textSha256": "218cc251b2ba52b1a174ab7b9c5920eec7c571821630eec76c9e8bcdd2e02919",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.430:14413, both subsections, and history note (L. 1953 p. 6 § 1-A), and verified all fingerprints. Verified non-household swine garbage-feeding permit, $25 Agriculture Fees fund fee, cooking-facility certification, and director of agriculture investigation and issuance; retained both titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual garbage-feeding permit, household exception, and fee",
+          "bodySha256": "43b8aff13020621f19b60dfccdc90da00fb51e5fbef6c3b20b0c75e0f574a5a0",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1953 p. 6 § 1-A). Requires an annual department of agriculture permit and $25 fee (deposited in the Agriculture Fees fund for enforcing sections 266.410 to 266.460) before feeding non-household garbage to swine in Missouri."
+        },
+        {
+          "number": 2,
+          "title": "Cooking-facility certification, investigation, and permit issuance",
+          "bodySha256": "10eabcd6c29a7fac36beb407a94fa5a62ac9782ddd0d802b3b8ef52fe2531be4",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires permit applicants to certify garbage-cooking facilities and directs prompt investigation and permit issuance by the director of agriculture or deputy if facilities are adequate."
+        }
+      ]
+    },
+    {
+      "id": "266.440:14414",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.440&bid=14414",
+      "sourceSha256": "965f0a15a52df0296db7b0cb5d23788d0986894c1126f6ff194e23cc20f39db1",
+      "textSha256": "d92f00da9fc8ded7a05382d4b2272e7a9dcbee4252bbc2c990bd0cd255289687",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.440:14414, both subsections, and history note (L. 1953 p. 6 §§ 3, 4), and verified all fingerprints. Confirmed clear distinction between subsection 1 (selling or transporting unlawfully garbage-fed swine) and subsection 2 (knowingly purchasing unlawfully garbage-fed swine); retained both titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition on selling or transporting unlawfully garbage-fed swine",
+          "bodySha256": "06f9a38105e63ce952db99c88e7cb1ab9214208671b1e8fa022e69cc3f29d46a",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1953 p. 6 §§ 3, 4). Distinguished from subsection 2 by prohibiting selling or transporting swine fed garbage in violation of sections 266.410 to 266.460, without subsection 2's knowledge element."
+        },
+        {
+          "number": 2,
+          "title": "Prohibition on knowingly purchasing unlawfully garbage-fed swine",
+          "bodySha256": "9f270f2190db22ab2004c159d7a41205d4f5fb7e7d620b9f44a76d7feae09299",
+          "reviewNote": "Read complete text of subsection 2 and history note. Distinguished from subsection 1 by prohibiting knowingly purchasing swine fed garbage in violation of sections 266.410 to 266.460."
+        }
+      ]
+    },
+    {
+      "id": "266.520:14421",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.520&bid=14421",
+      "sourceSha256": "4d1672ca6bfcdacaaa9a86a8a8ce04987742283af35bd3432b01cba0e5501599",
+      "textSha256": "3a373f3f3f9a0e4bfbfe7e3f30495e83c5387403fb84a95511251ad99593a853",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.520:14421, both subsections, and notes (L. 1976 H.B. 1630 § 5, A.L. 1985 S.B. 65; Effective 5-30-85), and verified all fingerprints. Confirmed \"director\" means the Missouri agricultural experiment station director per section 266.505(6) (clarified in subsection 1 reviewNote), checked semiannual reporting, fee caps/defaults, invoice disclosure, and authorized experiment/education uses; retained both titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Semiannual sales certificates and tonnage inspection fees",
+          "bodySha256": "27903cc9353c1ef2ebecd25f63a0dd3baef2f837ce3ce46f98ec52e54d777b8f",
+          "reviewNote": "Independently reviewed complete text of subsection 1 and notes (L. 1976 H.B. 1630 § 5, A.L. 1985 S.B. 65; Effective 5-30-85). Requires producers and distributors to file semiannual sales certificates with the director (director of the Missouri agricultural experiment station per section 266.505(6)) within thirty days after June thirtieth and December thirty-first and pay a rule-prescribed fee capped at ten cents per ton or eleven cents per metric ton (or a four-cent/4.4-cent default if no fee is prescribed)."
+        },
+        {
+          "number": 2,
+          "title": "Invoice disclosure and authorized uses of inspection fees",
+          "bodySha256": "de314624c47cd6e25624b53fa854b187260096a3aed52b16ef26e7e80c68dea6",
+          "reviewNote": "Read complete text of subsection 2 and notes. Requires stating the inspection fee on sales statements or invoices and authorizes using fees for administration under sections 266.500 to 266.550, Missouri agricultural experiment station experiments, related research, publications, and farmer education."
+        }
+      ]
+    },
+    {
+      "id": "266.530:14423",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.530&bid=14423",
+      "sourceSha256": "e1d2579e7b728030adfb87b66adb8f9e1312a022e0f02b249df7500a1b728ecb",
+      "textSha256": "a31a97367e90d78fbcda0ce02871981be211cb277d397d07e60d8d98e07afef3",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.530:14423, all six subsections, and history note (L. 1976 H.B. 1630 § 7), and verified all fingerprints. Confirmed \"director\" means the Missouri agricultural experiment station director per section 266.505(6) (clarified in subsection 4 reviewNote), verified fixed-plant versus portable-plant sampling, rolling three-sample average, truck-sample exclusion, producer notice, and sieve methods; retained all six titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Production belt, stockpile, and fixed-plant sampling requirements",
+          "bodySha256": "cc5fa5ec9935851a2020f8f3edad5e482dd93c74eb4300fad95300cec2508b33",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1976 H.B. 1630 § 7). Covers obtaining samples from production belts or uncertified stockpiles, minimum eight annual samples at permanent fixed plants, and the limit of one official sample per day per stockpile or belt."
+        },
+        {
+          "number": 2,
+          "title": "Sampling requirements for portable plants",
+          "bodySha256": "90599494f2cea2ef52f3e01eb28f202461a7e699e343ce8d38dd21444a8506c5",
+          "reviewNote": "Read complete text of subsection 2 and history note. Distinguished from subsection 1 by governing monthly sampling where no permanent fixed plant exists while a portable plant is on site until at least eight annual samples accumulate."
+        },
+        {
+          "number": 3,
+          "title": "Rolling three-sample average for guaranteed analysis",
+          "bodySha256": "7c89ae4a4b3c39cbcc5e8c9ca84c09f3c4c9d9a72a8ea92bcd33d156cd94858a",
+          "reviewNote": "Read complete text of subsection 3 and history note. Establishes the initial three-sample average for guaranteed analysis and ongoing recalculation by dropping the oldest sample and adding the newest."
+        },
+        {
+          "number": 4,
+          "title": "Authorized samplers and exclusion of truck samples from averages",
+          "bodySha256": "c6581e47225692b1eb1d274fe54c5b828fd55d6bf490aecd66460fd0b64f5dc4",
+          "reviewNote": "Independently reviewed complete text of subsection 4 and history note. Distinguishes production-belt sampling (by producer/distributor in the presence of an appointee of the director, i.e., the Missouri agricultural experiment station director per section 266.505(6)) from stockpile sampling (only by director-appointed persons with prior notice), and excludes truck or other-point samples from source guaranteed-analysis averages."
+        },
+        {
+          "number": 5,
+          "title": "Producer and distributor notice for sampling",
+          "bodySha256": "8b1c73ff25974be18f14595d72b354ee91c74f8c5b863eb9041038603e12eaba",
+          "reviewNote": "Read complete text of subsection 5 and history note. Requires producers and distributors to notify the director or authorized persons of production or distribution so compliance samples may be taken."
+        },
+        {
+          "number": 6,
+          "title": "Compliance with regulatory official sieve analysis methods",
+          "bodySha256": "913f9b84e93b70f230b926238e457934fb4a7f373b4fbac45d0b41720bca6cb2",
+          "reviewNote": "Read complete text of subsection 6 and history note. Requires all samples for analysis to follow official sieve analysis methods set forth in regulations."
+        }
+      ]
+    },
+    {
+      "id": "266.540:14425",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.540&bid=14425",
+      "sourceSha256": "e1bee6b6b03fea369a46ac2662c82efa054077124a8e40a993f461afe544d1a9",
+      "textSha256": "0f0ceb33ae7f4d4c7abc579b33acf189f31a2ca732bbfc39fe4cae90e27ec34c",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.540:14425, all five subsections, and history note (L. 1976 H.B. 1630 § 9), and verified all fingerprints. Confirmed \"director\" means the Missouri agricultural experiment station director per section 266.505(6) (clarified in subsection 1 reviewNote), checked mailed section 266.535 certifications, segregated stockpiles, pre-enactment stockpiles, delivering party guarantee responsibility, and adjusting nonconforming material analyses; retained all five titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written certification of section 266.535 analysis results",
+          "bodySha256": "b221766c867812fe97e0faed2f3e664aa9980de08ff096a31a8665676e0a0a93",
+          "reviewNote": "Independently reviewed complete text of subsection 1 and history note (L. 1976 H.B. 1630 § 9). Requires the director (director of the Missouri agricultural experiment station per section 266.505(6)) to certify calcium carbonate equivalent, magnesium content, fineness, and effective magnesium and neutralizing material per ton by U.S. mail upon receiving section 266.535 analyses."
+        },
+        {
+          "number": 2,
+          "title": "Separate certification for segregated and sampled stockpiles",
+          "bodySha256": "4588ac10c80fb36261f9bf5edbc3fc67c57de501502cab061fb07a61aa77cf67",
+          "reviewNote": "Read complete text of subsection 2 and history note. Permits separate certifications for stockpiles that are kept separated from other stockpiles and sampled under sections 266.500 to 266.550."
+        },
+        {
+          "number": 3,
+          "title": "Coverage of liming materials stockpiled before enactment",
+          "bodySha256": "70cbcd06df0106d01f4baa91fcc66972076137bb9a656e6d3f63bf977837489c",
+          "reviewNote": "Read complete text of subsection 3 and history note. Subjects agricultural liming materials produced and stockpiled prior to enactment of sections 266.500 to 266.550 to the same sampling and certification provisions."
+        },
+        {
+          "number": 4,
+          "title": "Delivering producer or distributor responsibility for guarantees",
+          "bodySha256": "98f7a2163767cfed661dcc5a808236c86a3f434032d6f622316ea686dd766c58",
+          "reviewNote": "Read complete text of subsection 4 and history note. Vests final responsibility for effective magnesium and neutralizing material guarantees in the producer or distributor making delivery for soil application."
+        },
+        {
+          "number": 5,
+          "title": "Adjusting guaranteed analysis before selling nonconforming material",
+          "bodySha256": "b1cddadb600276d81741a7d9e72757e770056d17d3a970148c72aea94afe7d4a",
+          "reviewNote": "Read complete text of subsection 5 and history note. Permits a producer or distributor holding liming material that fails to meet its guaranteed analysis to sell it only after adjusting the guaranteed analysis to the correct analyses."
+        }
+      ]
+    },
+    {
+      "id": "266.543:14426",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.543&bid=14426",
+      "sourceSha256": "03bab100777335c147b781f85571b624a3950adcc0891a9f7830bcdcf81b1836",
+      "textSha256": "2509b1e110a872eff2c1adb811d3f0d456167c893590b4f9fd63caf096a2f6f2",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.543:14426, all six subsections including subdivisions 2(1)–(5) and 3(1)–(3), and notes (L. 1985 S.B. 65; Effective 5-30-85), and verified all fingerprints. Confirmed \"director\" means the Missouri agricultural experiment station director per section 266.505(6) (clarified in subsection 1 reviewNote) and verified subsection 5 faithfully preserves the archived statutory cross-reference to fertilizer-law fees under sections 266.291 to 266.351 without inventing a correction; retained all six titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Advisory council composition and appointment",
+          "bodySha256": "3f7c344f9ed60ed79d48b5a5eddeed8e8fdf99d129ce628553c7a5fb7c3aa37c",
+          "reviewNote": "Independently reviewed complete text of subsection 1 and notes (L. 1985 S.B. 65; Effective 5-30-85). Covers appointment by the director (director of the Missouri agricultural experiment station per section 266.505(6)) of the nine-member advisory council consisting of three limestone producers, three farmers, and three at-large residents selected with majority approval of the other six members."
+        },
+        {
+          "number": 2,
+          "title": "Advisory council duties, rule approval, and fee advice",
+          "bodySha256": "7043421942d13e7bfac1f114baf3e982238ddacfc5dd8a7333b269d2e0130149",
+          "reviewNote": "Read complete text of subsection 2, including subdivisions (1) through (5), plus notes. Covers annual meetings, income and expenditure review, reviewing and approving all director rules and revisions/rescissions, advising on fees in the best interests of Missouri farmers, and general advisory duties under sections 266.500 to 266.550."
+        },
+        {
+          "number": 3,
+          "title": "Three-year terms and staggered initial appointments",
+          "bodySha256": "8af2526c1cbde1a571e1a1fdb48f24c1a3b0b657a47b85099a7b44509495c670",
+          "reviewNote": "Read complete text of subsection 3, including subdivisions (1) through (3), plus notes. Sets three-year terms until successors qualify, with staggered initial one-, two-, and three-year terms."
+        },
+        {
+          "number": 4,
+          "title": "Residency requirement, term limits, and reappointment waiting period",
+          "bodySha256": "166704e947bb348095136365caea4c6e6bc3785f35ffccefd92f5a3734acc0b5",
+          "reviewNote": "Read complete text of subsection 4 and notes. Requires Missouri residency, bars serving more than two consecutive terms, and permits reappointment after at least three years off the council."
+        },
+        {
+          "number": 5,
+          "title": "Expense reimbursement from sections 266.291 to 266.351 fees",
+          "bodySha256": "3d22c038991c88c11208451f49ae43be561f3bf4333d79494d6ae576b6d11e80",
+          "reviewNote": "Read complete text of subsection 5 and notes. Provides for reasonable expense reimbursement under the director's policy and preserves the archived statutory cross-reference requiring payment from fees collected under sections 266.291 to 266.351 (fertilizer law fees)."
+        },
+        {
+          "number": 6,
+          "title": "Filling advisory council vacancies",
+          "bodySha256": "ae360d59c564cf1eb11a610c6688147012e3a9a97924dd6ee1ab48c0eef4f476",
+          "reviewNote": "Read complete text of subsection 6 and notes. Covers vacancy appointments by the director with majority approval of remaining members, matching predecessor qualifications, for the unexpired term."
+        }
+      ]
+    },
+    {
+      "id": "266.545:14427",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.545&bid=14427",
+      "sourceSha256": "45ec76c6064b3ab005cd6b24959eef8265eaa95b2237226de8835d675fdaeef4",
+      "textSha256": "f9f3d95c2daf29ae47eeccfa191fb25732328380add6720dd07e0906b2a4ea8c",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.545:14427, all three subsections including subdivisions 2(1)–(7), and history note (through A.L. 1995 S.B. 3), and verified all fingerprints. Confirmed \"director\" means the Missouri agricultural experiment station director per section 266.505(6) (clarified in subsection 1 reviewNote), verified majority advisory council rule-approval prerequisite, enforcement/audit/stop-sale/permit powers, and section 536.024 compliance; retained all three titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Enforcement duty, rulemaking, and advisory council approval",
+          "bodySha256": "3db4952882ada620bf665a83b327dc2e583e2a974c109c7df828f845cd53ed40",
+          "reviewNote": "Independently reviewed complete text of subsection 1 and history note (L. 1976 H.B. 1630 § 10, A.L. 1985 S.B. 65, A.L. 1993 S.B. 52, A.L. 1995 S.B. 3). Vests enforcement and administration of sections 266.500 to 266.550 in the director (director of the Missouri agricultural experiment station per section 266.505(6)) and requires chapter 536 rules, revisions, or rescissions to receive majority advisory council approval before filing with the secretary of state."
+        },
+        {
+          "number": 2,
+          "title": "Sampling, audit, stop-sale, reporting, and permit powers",
+          "bodySha256": "498386ad979149768a5c679fc7a5838b564217c4043f1927fbd272493e2463d4",
+          "reviewNote": "Read complete text of subsection 2, including subdivisions (1) through (7), plus history note. Covers sampling/analysis, business-hours entry, sales record audits, stop-sale/use/removal orders, laboratory and staffing, annual public reports with statewide composite financial and tonnage statements, and permit revocation, suspension, or refusal for willful violations or unpaid fees."
+        },
+        {
+          "number": 3,
+          "title": "Rulemaking compliance with section 536.024",
+          "bodySha256": "d360e662ddfbd01c1e94980b8dc019391690dfef68e28aeb15c9e11ecc61a4aa",
+          "reviewNote": "Read complete text of subsection 3 and history note. Conditions effectiveness of rules under sections 266.500 to 266.550 on promulgation pursuant to section 536.024."
+        }
+      ]
+    },
+    {
+      "id": "266.550:14428",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.550&bid=14428",
+      "sourceSha256": "cd9b9811f94636ee0a1670f151a9a41a728e10f7301f463e65aaad5fe30e9031",
+      "textSha256": "a0910ebf53e5cfd8978501a5a7a201a91a7001bd73716875e4fa279884d01206",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.550:14428, both subsections, and history note (L. 1976 H.B. 1630 § 11), and verified all fingerprints. Verified effective neutralizing material and effective magnesium per-ton guarantees and required disclosures on bills of lading, scale tickets, delivery receipts, and other instruments of sale; retained both titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Required neutralizing material and magnesium guarantees",
+          "bodySha256": "de53627042e7aed7db4b48ed1be555bcb6f45dce62f3e9e5cbc4b1c43a1e78bf",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1976 H.B. 1630 § 11). Requires all agricultural liming materials sold, offered, or exposed for sale to guarantee effective neutralizing material and effective magnesium per ton."
+        },
+        {
+          "number": 2,
+          "title": "Required disclosures on shipping and sale instruments",
+          "bodySha256": "9efe7c28448b6e79c5d761328856be58355ba1e74df066078c42a180fdb2b37b",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires sellers, shippers, transporters, and deliverers to affix net weight, effective magnesium and neutralizing material guarantees, brand name if any, and manufacturer/producer/shipper name and principal office to every bill of lading, scale ticket, delivery receipt, or other instrument of sale."
+        }
+      ]
+    },
+    {
+      "id": "266.600:35135",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=266.600&bid=35135",
+      "sourceSha256": "ab74dba460acf168d838629e16019a5aad28ef2361e1d0dcfd0963eb58a823ad",
+      "textSha256": "9056c4c95be130ebd2bf4f1a38c5d6387c82c6b407f7d73f7085c81137f18f85",
+      "draftedBy": "antigravity_drafter_d22",
+      "reviewedBy": "antigravity_reviewer_r30",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 266.600:35135, both subsections, and history note (L. 2018 S.B. 627 & 925), and verified all fingerprints. Verified local regulation preemption for seeds/fertilizers under sections 266.021 and 266.291, pre-August 28, 2018 grandfather exception, and rice seed exclusion; retained both titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Local regulation preemption and pre-August 28, 2018 exception",
+          "bodySha256": "92f96a597ffcb47a2b8aa92a89fea93f159ffd8893340814682823596fdeaf79",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 2018 S.B. 627 & 925). Prohibits political subdivisions from adopting or enforcing ordinances, rules, or regulations on labeling, cultivation, or other use of seeds or fertilizers as defined or used in sections 266.021 and 266.291, while exempting enactments adopted prior to August 28, 2018."
+        },
+        {
+          "number": 2,
+          "title": "Exclusion of rice seed",
+          "bodySha256": "d8bd48653ace67f543d629023089fc6e4f8acd5847bfe0ff903205656c09acbf",
+          "reviewNote": "Read complete text of subsection 2 and history note. Excludes rice seed from the applicability of section 266.600."
+        }
+      ]
+    }
+  ]
+}

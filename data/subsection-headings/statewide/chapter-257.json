@@ -1,0 +1,894 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "257.030:13759",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.030&bid=13759",
+      "sourceSha256": "2c8a401361eac90af96fd21cefdbb00e50c51fe689dbfc4ba4e1287e749cd2e7",
+      "textSha256": "e153aa043aabf6256194480ef061a207d5bfc804ba558143d2104b9300948928",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (2 subsections, including 2(1)-(2)) and history note (L. 1959 S.B. 199 § 3); verified source identity and all fingerprints. Checked continuing exclusive original jurisdiction qualification (\"except as hereinafter otherwise provided\"), condemnation and civil-disqualification venue exceptions, another-circuit judge retention, and expense payment. Revised subsection 1 title to \"Organization and continuing circuit court jurisdiction\" to avoid reading \"circuit court organization\" as organizing the court itself; retained subsection 2 title.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Organization and continuing circuit court jurisdiction",
+          "bodySha256": "18b8f07fa1183f0f5e9ad89eda67312f501bd5c6c8d5d114383d50d7064c2b91",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1959 S.B. 199 § 3). Covers initial circuit court jurisdiction in the county containing more lands of the proposed river basin conservancy district than any other county and continuing exclusive original jurisdiction coextensive with district boundaries and affected lands/property, qualified by \"except as hereinafter otherwise provided\"."
+        },
+        {
+          "number": 2,
+          "title": "Change-of-venue limits, judge disqualification, and expenses",
+          "bodySha256": "8ffa9095c06e5c7be64b3084f9f8a71d2f8dbeaa4ff2c4a89e146a7e8736bf3d",
+          "reviewNote": "Read complete text of subsection 2, including subdivisions (1) and (2), and history note (L. 1959 S.B. 199 § 3). Covers the bar on change of venue except in condemnation cases and civil-case judge disqualification, securing a judge from another judicial circuit to retain jurisdiction until disqualification is removed, and paying that judge's expenses under circuit court laws."
+        }
+      ]
+    },
+    {
+      "id": "257.040:13760",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.040&bid=13760",
+      "sourceSha256": "114130130d27c16c8dc644804c59ef381939c19a56e09e7361c7579f453deb2d",
+      "textSha256": "68f93b3f452b6c751333eda3627d7fca769509647c70b397b1eeac52dc9b7b0d",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (4 subsections, including 1(1)-(3) and 3(1)-(5)) and history note (L. 1959 S.B. 199 § 4, A.L. 1990 H.B. 1070); verified source identity and all fingerprints. Verified petitioner scope and explicitly preserved the statutory wording tension between \"residents\" (plus public corporations) in subsection 1, \"owners of real estate and other property\" in subsection 3(4), and \"freeholders\" / tax-record prima facie ownership evidence in subsection 4 without inventing harmonization. Revised subsection 1 title to reflect petitioner eligibility, subsection 3 title to \"Contents of the organization petition\" (accounting for optional purposes/conditions in 3(2)), and subsection 4 title to \"Petition consolidation, amendment, and signer verification\"; retained subsection 2 title.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Organization petitioners, filing, and signature thresholds",
+          "bodySha256": "791c1807aeb90c144525f2778422888e2d5b7a09a0559be6d288b9df798ad6de",
+          "reviewNote": "Read complete text of subsection 1, including subdivisions (1) through (3), and history note (L. 1959 S.B. 199 § 4, A.L. 1990 H.B. 1070). Covers filing the organization petition with the court clerk by county residents (and optionally public corporations) and sets county-based signature thresholds: 100+ in each of a majority of counties (more than two counties), 50+ in each county (two counties), or 25+ (one county)."
+        },
+        {
+          "number": 2,
+          "title": "Petition execution by public corporations",
+          "bodySha256": "ac4ab88cc9c67c3e9e7c852852ae82dbac2c86493f3a5d137c083609724abc58",
+          "reviewNote": "Read complete text of subsection 2 and history note (L. 1959 S.B. 199 § 4, A.L. 1990 H.B. 1070). Specifies that a public corporation petitioner signs through appropriate person(s) only after due and proper action by its governing body."
+        },
+        {
+          "number": 3,
+          "title": "Contents of the organization petition",
+          "bodySha256": "9b3ac1141b63ac18e9aba6b67f0acd6042a8a81af70379ab106cb9e6721d64e8",
+          "reviewNote": "Read complete text of subsection 3, including subdivisions (1) through (5), and history note. Covers mandatory petition elements: river- or stream-based \"Conservancy District\" name, public-benefit statement and optional conforming purposes/conditions, general drainage-area description, property owners' expense obligation regardless of outcome, and prayer for a validity order and referendum."
+        },
+        {
+          "number": 4,
+          "title": "Petition consolidation, amendment, and signer verification",
+          "bodySha256": "e81d88cd16ecc975d36e8169daa767c9dc706af2ab17a8e1612c2802500fb3ab",
+          "reviewNote": "Read complete text of subsection 4 and history note (L. 1959 S.B. 199 § 4, A.L. 1990 H.B. 1070). Covers treating similar or duplicate petitions filed before the hearing as one petition, discretionary court-permitted amendments in form and substance, and using tax records as prima facie evidence of ownership for determining requisite freeholders (retaining the source's \"freeholders\" wording here alongside \"residents\" and public corporations in subsection 1 and \"owners of real estate and other property\" in subsection 3(4))."
+        }
+      ]
+    },
+    {
+      "id": "257.070:13763",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.070&bid=13763",
+      "sourceSha256": "0018bae12844ff9a9312f0f0c2433d4911d590d394b389ec383b2101d7533ce0",
+      "textSha256": "34c08dbbf93beb2a2386a29aadab2b43ab1571ac056281ef9eab5a3e7b70cc87",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (7 subsections, including 5(1)-(2)) and history note (L. 1959 S.B. 199 § 7); verified source identity and all fingerprints. Checked conditional surveyor appointment, multi-county publication, non-signer/withdrawn owner objections, deficiency cure before hearing conclusion, referendum-only organization order versus county transfer, dismissal with costs against signers, and Missouri Supreme Court appeal timing, cost bond, and docket priority. Revised subsection 7 title to \"Supreme court appeals, cost bond, and docket priority\" to include docket priority; retained subsections 1-6 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Appointment of surveyor, boundary report, and map",
+          "bodySha256": "09f43fcf14c58343d93a9953bf06aab9e7496938f23543a29a15d70f9703454b",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1959 S.B. 199 § 7). Conditional on the court finding the petition worthy, covers appointing a surveyor to determine river basin and related boundaries and filing the written report and boundary map with the court clerk as part of the original petition."
+        },
+        {
+          "number": 2,
+          "title": "Published notice of petition and hearing",
+          "bodySha256": "6cee43d321e021985b2ac6fe5943ceff9818cee03fd8c36958a8998b0a713fe8",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers clerk's immediate publication of notice in each county wholly or partly within (or appearing within) the proposed district regarding petition pendency, court-fixed hearing time and place, and reference to the surveyor's report and map."
+        },
+        {
+          "number": 3,
+          "title": "Property owner objections and expedited hearing",
+          "bodySha256": "b5c906a11ac140bb7d7ee3b12a49fd24f5e9d340dcd7617c1e6339d84ab83c90",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers written objections filed on or before the hearing date by property owners in the proposed district who did not sign or withdrew in writing in open court, and directs hearing objections as an advanced case without unnecessary delay."
+        },
+        {
+          "number": 4,
+          "title": "Correcting deficiencies in required petitioners",
+          "bodySha256": "1d3f55628451db0948a7f1f6890d06355ff01e2ff2c5d0a1628dd9e778cd092b",
+          "reviewNote": "Read complete text of subsection 4 and history note. Directs the court to allow petitioners to cure a county petitioner-count deficiency discovered after filing the surveyor's report and map and before conclusion of the hearing."
+        },
+        {
+          "number": 5,
+          "title": "Organization order for referendum or transfer of jurisdiction",
+          "bodySha256": "3631f2f611173920d7027a93518ff69ad75172f159ca69ae58c212c041b1657b",
+          "reviewNote": "Read complete text of subsection 5, including subdivisions (1) and (2), and history note. Covers both hearing outcomes: (1) resolving objections, adjusting boundaries, adjudicating jurisdiction, declaring the district organized for referendum, naming it, and ordering the referendum and first board election; or (2) transferring proceedings forthwith to the proper county/court with published notice of transfer."
+        },
+        {
+          "number": 6,
+          "title": "Dismissal of petition and assessment of costs",
+          "bodySha256": "bad724662033f493ce0c8807be98fece36f6372212004c4b82c19e1aed53ee37",
+          "reviewNote": "Read complete text of subsection 6 and history note. Distinguished from subsection 5 by covering dismissal of proceedings and adjudging costs against petition signers if the court finds the area should not be organized as a district."
+        },
+        {
+          "number": 7,
+          "title": "Supreme court appeals, cost bond, and docket priority",
+          "bodySha256": "79712f0895afa38b947e22d87323253bea5811b87476c8692b0505168ca6fb70",
+          "reviewNote": "Read complete text of subsection 7 and history note. Covers appeals by any party to the Missouri Supreme Court within the court term or 20 days after grant or dismissal of the petition, conditioned on giving a cost bond, with docket priority."
+        }
+      ]
+    },
+    {
+      "id": "257.080:13764",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.080&bid=13764",
+      "sourceSha256": "a925f5af1f72b06d425cf6c0ec943f5707fff63514617de55533325b176e1d56",
+      "textSha256": "87d034ca8f999846fc8cca5d1d047ca2ef3204133052d84fc1081a8ce319f505",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (7 subsections, including 4(1)-(3)) and history note (L. 1959 S.B. 199 § 8); verified source identity and all fingerprints. Checked county-clerk/election-board commission composition, 30-day six-district apportionment, court approval/numbering, advisory/first-election/redistricting duties, pre- and post-establishment expense payment/repayment and order prerequisite, personnel/secretary transitions, and post-establishment transfer of oversight to the district board. Retained all 7 drafted titles as accurate and distinct.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Creation and composition of election district commission",
+          "bodySha256": "e14a6d03f0f3427330dea7a0f53c49a3b01a68935c563e69374440b440557378",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1959 S.B. 199 § 8). Covers court establishment of the commission upon entering the organization order, composed of county clerks (or a board of election commissioners member where one exists), with court-designated chairman and secretary."
+        },
+        {
+          "number": 2,
+          "title": "Apportionment into six election districts",
+          "bodySha256": "dd4b700a4bef339f1fc346753d1f094d91225d98ecd4d6380bbc8ac306a806f5",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers the commission's 30-day duty to divide the river basin district into six election districts as nearly equal in population as possible using the court order and surveyor's map, following existing election lines except where outer basin boundaries necessarily cut across them."
+        },
+        {
+          "number": 3,
+          "title": "Court review, approval, and numbering of election districts",
+          "bodySha256": "408f65fc1fa62a7c3d272c282a2d3b4b7241889ec9d19591c10c6ac116256788",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers commission reporting to the court, court review to approve or request corrections/changes, and numbering approved election districts one through six."
+        },
+        {
+          "number": 4,
+          "title": "Advisory, first-election, and redistricting duties",
+          "bodySha256": "7333a0b63a07168c7f37ec5d1e4057ac97244baf46e5328f99ef9dd83064edf5",
+          "reviewNote": "Read complete text of subsection 4, including subdivisions (1) through (3), and history note. Covers further commission duties: advising the court or organized board on elections and boundaries, supervising and conducting the first trustee election under court order, and redistricting upon district board request."
+        },
+        {
+          "number": 5,
+          "title": "Payment, repayment, and authorization of commission expenses",
+          "bodySha256": "c258ecd5db7b02dd42ee9859d0035dd6d1e99e04d246e5a195181a3b4be7a2e2",
+          "reviewNote": "Read complete text of subsection 5 and history note. Covers pre-establishment pro rata county commission payment of travel and necessary expenses, repayment via court costs if voters reject the district or from first annual levies if established, direct board payment thereafter, and requiring an originating court or board order to incur expenses."
+        },
+        {
+          "number": 6,
+          "title": "Personnel changes and board secretary role",
+          "bodySha256": "d8d584208659cce59623a58f906d37727805ed098129de383743de6181879ac1",
+          "reviewNote": "Read complete text of subsection 6 and history note. Covers filling commission personnel and office changes by the court (and district board once organized) like initial appointments, and designating the district board secretary as commission secretary after establishment."
+        },
+        {
+          "number": 7,
+          "title": "Transfer of election oversight to the district board",
+          "bodySha256": "6342dedcd85de3cc1169af5683b3d23d8623b1f8bf204082a4627373c8796789",
+          "reviewNote": "Read complete text of subsection 7 and history note. Clarifies that the court's duties over the election commission, districts, and areas are limited to establishing the district and board and thereafter vest in the district board as an administrative responsibility."
+        }
+      ]
+    },
+    {
+      "id": "257.090:13765",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.090&bid=13765",
+      "sourceSha256": "ce6d40b48adabc2f5ee44e288ce6cdfb886525690cadc9fd6685e1059c9287a7",
+      "textSha256": "0051c0d8f5aa9077f4d03b087903de4182530dd0e4b3d981e40b2f20cbfda257",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (2 subsections, including 2(1)-(5)) and history note (L. 1959 S.B. 199 § 9, A.L. 1978 H.B. 971); verified source identity and all fingerprints. Checked court call trigger upon election-district designation and the five minimum items required in the call for the referendum and first board election. Retained both drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Court call for referendum and board election",
+          "bodySha256": "cc68f9aab27c6f36830f4e6ff96c1bf49d7bd991ba1c338d3020ddbafdfa4425",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1959 S.B. 199 § 9, A.L. 1978 H.B. 971). Directs the court to call the referendum and board election upon designation of the election districts."
+        },
+        {
+          "number": 2,
+          "title": "Required contents of the election call",
+          "bodySha256": "943609ef0da7fb79fa8f5af39ae521b5b7d345e9bd15bd095f2c8fe35e774bc3",
+          "reviewNote": "Read complete text of subsection 2, including subdivisions (1) through (5), and history note. Lists minimum items the call must specify: district purpose, general area, voter qualifications, vote required for referendum passage, and trustee representation basis and candidate filing time."
+        }
+      ]
+    },
+    {
+      "id": "257.160:13772",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.160&bid=13772",
+      "sourceSha256": "7e09495fe059521f798d0cc1df0f27e602155271ef7a8e788cdbeb57534023ff",
+      "textSha256": "449b148ec4884afa3c487b55a9245f6f68217787560391ebb3d264d26ac83199",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (5 subsections, including 2(1)-(4), 4(1)-(2), and 5(1)-(3)) and history note (L. 1959 S.B. 199 § 16, A.L. 1978 H.B. 971); verified source identity and all fingerprints. Checked first-election exception to primary-day timing, 8-member elected/gubernatorial board with staggered first terms and qualifications, holdover clause, vacancy filling, and removal procedures; explicitly retained the source's \"court appointed trustee\" wording in subsections 4(1) and 5(2) alongside subsection 2's elected/gubernatorial selection, and noted that 5(2)-(3) omit 5(1)'s for-cause hearing clause. Retained all 5 drafted titles as accurate and neutral.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Timing of regular trustee elections",
+          "bodySha256": "97a781a05bce9c18d32923531eecfcf85ccb1da4a98bdf65933386d226e59c77",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1959 S.B. 199 § 16, A.L. 1978 H.B. 971). Sets trustee elections on primary election days, subject to the exception for the first board election."
+        },
+        {
+          "number": 2,
+          "title": "Board size, selection, staggered terms, and qualifications",
+          "bodySha256": "35dc7d358f2fbc6a3e1efafcd3d5902fc6fccae3ceeb2e049026a69c834b8e7c",
+          "reviewNote": "Read complete text of subsection 2, including subdivisions (1) through (4), and history note. Covers the eight-trustee board (six elected by election district and two appointed by the governor with senate advice and consent within 60 days after elections), staggered first-board terms and subsequent four-year terms, and citizenship, district-voter, age-30, and gubernatorial-appointee background and geographic-diversity qualifications."
+        },
+        {
+          "number": 3,
+          "title": "Holdover service until successors qualify",
+          "bodySha256": "e7f936c0b2ea36be98ecd61c879b4604f7636921d0ce9b6b4c399f7735e6f829",
+          "reviewNote": "Read complete text of subsection 3 and history note. Provides that trustees whose terms expire hold office until their successors are elected or appointed and qualified, notwithstanding contrary chapter provisions."
+        },
+        {
+          "number": 4,
+          "title": "Filling vacancies before term expiration",
+          "bodySha256": "afba55603b4915479226b8743a520b1f0d55d1c58e72cb8e43999414869e7ee2",
+          "reviewNote": "Read complete text of subsection 4, including subdivisions (1) and (2), and history note (L. 1959 S.B. 199 § 16, A.L. 1978 H.B. 971). Covers mid-term vacancy appointments by the court for an elected or court-appointed trustee until the next election and by the governor for a gubernatorial appointee until the next election/post-election appointment; retains verbatim the source's \"court appointed trustee\" reference without resolving whether it refers solely to court-appointed vacancy fillers under subdivision (1) or an unharmonized carryover alongside subsection 2's elected and gubernatorial trustees."
+        },
+        {
+          "number": 5,
+          "title": "Removal of trustees and district officers",
+          "bodySha256": "f1e6d02700f9e2d51fdaa5ea333dba80b14cf3e3c58eac51e35adff70e687be1",
+          "reviewNote": "Read complete text of subsection 5, including subdivisions (1) through (3), and history note (L. 1959 S.B. 199 § 16, A.L. 1978 H.B. 971). Covers for-cause removal after hearing on motion in the original organization case for elected trustees and non-trustee district officers, court removal of any \"court appointed trustee\" (retained verbatim alongside subsections 2 and 4(1)), and gubernatorial removal of governor-appointed trustees, noting that subdivisions (2) and (3) do not repeat subdivision (1)'s for-cause hearing wording."
+        }
+      ]
+    },
+    {
+      "id": "257.170:13773",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.170&bid=13773",
+      "sourceSha256": "ddd649128a52ccc74174d6994772db0a417d1c54b3b3ed7fd75d15abcef2e90d",
+      "textSha256": "190785b8e2c90ec7e20bce6d33d68714ccd1b32121d0d51878d1b6cfdf62f137",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (3 subsections) and history note (L. 1959 S.B. 199 § 17, A.L. 1978 H.B. 971); verified source identity and all fingerprints. Checked filing distinctions between regular elections (board secretary) and first election (election authority secretary), nonpartisan ballots, majority joint tabulation/certification, and registered-mail court returns by the commission secretary. Revised subsection 1 title to \"Filing trustee declarations of candidacy\" to remove \"candidate/candidacy\" redundancy; retained subsections 2-3 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Filing trustee declarations of candidacy",
+          "bodySha256": "0946e3f55ff20ff19b5ee871671c6003764f3c544ad4928650132c6cb2152e14",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1959 S.B. 199 § 17, A.L. 1978 H.B. 971). Requires trustee candidates to file declarations setting forth their qualifications with the board secretary, or with the secretary of the election authority for the first election."
+        },
+        {
+          "number": 2,
+          "title": "Nonpartisan trustee election ballots",
+          "bodySha256": "99f46d4d81582c5acdbd6bf716921b24324dd4e71c890fffb97dec8759b2ee71",
+          "reviewNote": "Read complete text of subsection 2 and history note. Prohibits ballots from designating candidates' political parties."
+        },
+        {
+          "number": 3,
+          "title": "Tabulating, certifying, and returning election results",
+          "bodySha256": "aefba59e2cee4b351899f58ea91c50b5727e3032a22e6f0684411d714b8457d1",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers joint tabulation and certification of highest-vote candidates by at least a majority of qualified board members or election district commission members, and registered-mail transmission of complete returns to the court by the commission secretary when the commission acts."
+        }
+      ]
+    },
+    {
+      "id": "257.180:13774",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.180&bid=13774",
+      "sourceSha256": "bbba4458a900a6a13fad06506f9c0ae782ed0fe0906c7b320d0bc2aea0ed5484",
+      "textSha256": "806e9b95864e237ffed670bc0b5e0695e48258d672a764f033e64ed3e338fdbf",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (4 subsections) and history note (L. 1959 S.B. 199 § 18); verified source identity and all fingerprints. Checked trustee oath (including faithful-performance and no-contract-interest pledge) and court-clerk filing, president/secretary selection, corporate seal and records open to interested parties, and in-district meetings, majority quorum, and majority-of-present action. Retained all 4 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Trustee oath of office and filing",
+          "bodySha256": "a1cdf6066b7c00c4de00079777f10e9cc8063e530ac8be6ed43b19a7f301ea77",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1959 S.B. 199 § 18). Requires each trustee before entering duties to take and subscribe an oath of honest, faithful, impartial performance and no direct or indirect interest in district contracts, filed with the court clerk in the original case."
+        },
+        {
+          "number": 2,
+          "title": "Selection of board president and secretary",
+          "bodySha256": "57b6b045954c59907462c27df059985e2b4bcc87b723859610b17fe3b84d4573",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs the board of trustees to choose a trustee as president and elect a suitable person as secretary (who may be a board member or paid employee)."
+        },
+        {
+          "number": 3,
+          "title": "Corporate seal, official records, and inspection",
+          "bodySha256": "d7cb54ec09bbe1fc5f3176b464eadf34bd4056e9bdf1e665148280267e3e4469",
+          "reviewNote": "Read complete text of subsection 3 and history note. Requires adopting a seal and maintaining records of proceedings, minutes, certificates, contracts, employee bonds, and corporate acts open to inspection by all interested parties."
+        },
+        {
+          "number": 4,
+          "title": "Board meetings, quorum, and majority action",
+          "bodySha256": "b662ebe47abf25c21b235c7c869d17ad01e0f636211b780b02f717e7edf173f4",
+          "reviewNote": "Read complete text of subsection 4 and history note. Covers holding meetings at board-designated times and places within the district, majority quorum, and determination of matters by concurrence of a majority of trustees present."
+        }
+      ]
+    },
+    {
+      "id": "257.190:13775",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.190&bid=13775",
+      "sourceSha256": "0ac3263018b52096053df7042e829b2dbf23a9887a49f0b3c8f1cd12cc0d51fa",
+      "textSha256": "7ce96373f4e54467a5707630cf346db90dcd350e6d1638807eadeebe2a21ae1d",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (4 subsections) and history note (L. 1959 S.B. 199 § 19); verified source identity and all fingerprints. Checked secretary/default-treasurer and registered-professional-engineer chief engineer/acting-chief-engineer roles, compensation cost allocation, required officer/employee bonds, trustee travel expenses and $15/day meeting cap, and fiscal-year-end CPA audit with 30-day publication. Revised subsection 2 title to \"District officer and employee bonds\" to avoid inserting non-statutory \"fidelity\"; retained subsections 1, 3, and 4 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Secretary, chief engineer, staff duties, and compensation",
+          "bodySha256": "d221d9b27980a574c1916e00cebf66d92986511af146b69ad5158a37a336bcfd",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1959 S.B. 199 § 19). Covers the secretary as records/seal custodian and default treasurer unless otherwise provided, hiring a registered professional engineer as chief engineer and other needful personnel, charging compensation as administration/improvement/operating costs, chief engineer superintendence and annual/requested reports, delegation to an acting chief engineer, and assigning administrative/business tasks to other staff."
+        },
+        {
+          "number": 2,
+          "title": "District officer and employee bonds",
+          "bodySha256": "335317a14651c60eb425087790f0d728441f89e5f6eba60f0f05bb0934436af2",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs the board to require and pay for adequate bonds for the secretary-treasurer (or secretary and treasurer) and other employees whose duties require bonding."
+        },
+        {
+          "number": 3,
+          "title": "Trustee travel expenses and meeting per diem",
+          "bodySha256": "bd236d8b15659f5039c7129c5cc67db817cf48f6758cffa9a30a75d29002f239",
+          "reviewNote": "Read complete text of subsection 3 and history note. Provides actual travel expenses for district business and up to $15 per day for each day the board sits in meeting."
+        },
+        {
+          "number": 4,
+          "title": "Annual CPA audit and published statement",
+          "bodySha256": "f13e16f154aaca59f84552523e115d6a5d69517162ae5106b0f6c6c72d80d4dd",
+          "reviewNote": "Read complete text of subsection 4 and history note. Requires a fiscal-year-end CPA audit of district books reported to the board and publication of the statement by the board within 30 days thereafter."
+        }
+      ]
+    },
+    {
+      "id": "257.200:13776",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.200&bid=13776",
+      "sourceSha256": "6322fe707a8789fd81f39af879178cd746c99eda05f266b7c22c2aa78259e26f",
+      "textSha256": "6e32f9c25e37a1bdb337e70c4e7e3cb18e3867bfca7e8a1ca167fdb4a08fe1f1",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (2 subsections, including 1(1)-(11)) and history note (L. 1959 S.B. 199 § 20); verified source identity and all fingerprints. Checked permissive (\"may\") enumerated board powers within chapter limits, preservation of unenumerated necessary powers, and the permanent-lodging exclusion with its operations/maintenance personnel housing exception. Retained both drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Enumerated powers of the board of trustees",
+          "bodySha256": "bb47e6f9f174d73e34cf905f256454740c76c2ef0c2a1933c5bb410db6e0ad6c",
+          "reviewNote": "Read complete text of subsection 1, including subdivisions (1) through (11), and history note (L. 1959 S.B. 199 § 20). Lists permissive (\"may\") powers to accomplish district purposes: litigation, watercourse alterations, property transactions, engineering works, relocating interfering structures, acquiring easements/riparian rights/cemeteries, replatting and roads, fees, taxing/bonding/debt within chapter limits, intergovernmental/private cooperation, and designating a home office."
+        },
+        {
+          "number": 2,
+          "title": "Scope of general powers and lodging exclusion",
+          "bodySha256": "cacf02f2779f31d1fa6ce0c2752cca014fce0dba201fc65c321077c781116c08",
+          "reviewNote": "Read complete text of subsection 2 and history note. Preserves unenumerated objects and powers necessary to effectuate general district purposes while excluding permanent structures for lodging and land held for lodging, except residential accommodations necessary for operations and maintenance personnel."
+        }
+      ]
+    },
+    {
+      "id": "257.240:13780",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.240&bid=13780",
+      "sourceSha256": "6cd8f90f6a380c9d833ac2c14559ef705e344b5b9e4b0dd77adc419676bbfe70",
+      "textSha256": "27e9b1a97f1f351198d27477a286389f6a0676ebea3e7f58155e6627fe352bbb",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (4 subsections) and history note (L. 1959 S.B. 199 § 24); verified source identity and all fingerprints. Checked publication/hearing/court-appeal requirements for adopting regulations, misdemeanor penalty limited to harmful regulatory violations (up to $1,000), mandamus (including first-instance court of appeals) and removal/closure remedies, and civil liability limited to willful noncompliance by public corporations or persons. Retained all 4 drafted titles as accurate and well-distinguished.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Adopting district regulations and court appeal",
+          "bodySha256": "9562963003a4fa648bd771e725b1452a826db8393a14ef5972b4013e5e14542d",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1959 S.B. 199 § 24). Directs the board, after due publication and public hearings and subject to appeal to and decree of the court, to make regulations for district administration and coordinating watercourses, works, facilities, or operations with district works."
+        },
+        {
+          "number": 2,
+          "title": "Misdemeanor penalty for harmful regulatory violations",
+          "bodySha256": "771753df6b77e08259ab3ef0ec4c69371f415ef0e9bf1e2be75fa4603a4d5ef2",
+          "reviewNote": "Read complete text of subsection 2 and history note. Classifies construction or operation of works or facilities harmful to the district and contrary to board regulations as a misdemeanor punishable by fine up to $1,000 per offense."
+        },
+        {
+          "number": 3,
+          "title": "Mandamus enforcement, removal, and closure authority",
+          "bodySha256": "d4ba3e5578acce0d4c28ecbb607f33edbf4f9b0979ff2d190542f689f51058d7",
+          "reviewNote": "Read complete text of subsection 3 and history note. Authorizes the board to enforce necessary regulations by mandamus or otherwise (including in the court of appeals in the first instance if deemed advisable), remove harmful construction, or close improperly conducted operations."
+        },
+        {
+          "number": 4,
+          "title": "Civil liability for willful noncompliance",
+          "bodySha256": "a43167bb96d6b9c2a9c68670a938d0d49a3070541ff577b1b36e8dea7dbe6fb5",
+          "reviewNote": "Read complete text of subsection 4 and history note. Distinguished from subsections 2 and 3 by imposing civil liability on public corporations or persons willfully failing to comply with regulations for resulting damage and renewal costs of damaged or destroyed construction."
+        }
+      ]
+    },
+    {
+      "id": "257.280:13784",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.280&bid=13784",
+      "sourceSha256": "45cf4d879cb452bb5bca4a8ba43ee2c71ace7b1906fe75e8cf38281edf50c234",
+      "textSha256": "34f0bb8cdbe96cabc0234983f2cb6fc6f7cb4893981a4da30f775309ee4ece4e",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (5 subsections) and history note (L. 1959 S.B. 199 § 28); verified source identity and all fingerprints. Checked authority to prevent damaging use by persons/vessels/vehicles, general damage liability of persons and public corporations (including agents/employees), willful-damage misdemeanor (up to $500 and costs plus damages, textually naming \"All persons\"), board repair at committing party's expense, and preservation of local-option livestock laws. Retained all 5 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Preventing damaging use of district property",
+          "bodySha256": "95f2a7b95f1c0d963dab59c44b5b8d874540a1879f42543c7d8436f1f4690103",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1959 S.B. 199 § 28). Authorizes the board at any time to prevent persons, vessels, or vehicles from using or passing over or through district property, works, or facilities in a manner that would cause damage."
+        },
+        {
+          "number": 2,
+          "title": "Liability for damage to district property",
+          "bodySha256": "56e81d540f3935068df591f621a9632e27a4b7517a544b77e30939c22e1e99aa",
+          "reviewNote": "Read complete text of subsection 2 and history note. Imposes liability on persons and public corporations for damage to district domain committed by themselves, their agents, or their employees."
+        },
+        {
+          "number": 3,
+          "title": "Criminal penalty and damages for willful damage",
+          "bodySha256": "7e231331416dcd380be63e2477037cf4fda23f465e06614e8b0eb4da601e44dc",
+          "reviewNote": "Read complete text of subsection 3 and history note. Distinguished from subsection 2 by making willful damage a misdemeanor punishable by fine up to $500 and costs, in addition to liability for all damages and costs."
+        },
+        {
+          "number": 4,
+          "title": "Repairing damage at committing party's expense",
+          "bodySha256": "f7ad6f043daf0ed5f8945ad05b1f379c8f36a482b9df09d6f4da375ca5e65588",
+          "reviewNote": "Read complete text of subsection 4 and history note. Authorizes the board of trustees to repair such damage at the expense of the person or public corporation committing it."
+        },
+        {
+          "number": 5,
+          "title": "Local-option stock laws preserved",
+          "bodySha256": "11f407427a8a76dfa42423cddf4ff9320ef900287aabdeda7b75afbd293bcb26",
+          "reviewNote": "Read complete text of subsection 5 and history note. Clarifies that nothing in the section abolishes citizens' local-option rights in political subdivisions to decide whether livestock may run at large."
+        }
+      ]
+    },
+    {
+      "id": "257.290:13785",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.290&bid=13785",
+      "sourceSha256": "a60f243d519f9e4929dc3c626f042c4b34541dea5d5b952c484dc2914197ea5f",
+      "textSha256": "b86a90d146e2a40192ff5fb059e1c9dc87e424a000b75cbc6a568c4553e5a93a",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (2 subsections) and history note (L. 1959 S.B. 199 § 29); verified source identity and all fingerprints. Checked board preparation, engineer-approved adoption, numbering, and filing of \"Preliminary Plan No. ___\", and transmittal to the governor-designated state reviewing agency for 90-day certification back as a completed plan. Retained both drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Preparing, adopting, and filing preliminary plans",
+          "bodySha256": "8a10350144a60364b0489b14c45bcc2156fdba51f15fc51d3ca5283b8710c1d8",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1959 S.B. 199 § 29). Directs the organized board to prepare broad general or detailed plans with maps, profiles, specifications, and cost/operating estimates, adopt the chief engineer's report or engineer-approved modification, and number and file it with the secretary as \"Preliminary Plan No. ___\"."
+        },
+        {
+          "number": 2,
+          "title": "State agency review and certification of preliminary plans",
+          "bodySha256": "c67c66294af1a03ee19e3cd18f39b3dfb7431c52e120260b9d9389eff48b7354",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires transmitting adopted preliminary plans to the governor-designated state reviewing agency and sets a 90-day period for certifying the plan back with approval or recommended changes to constitute a completed plan."
+        }
+      ]
+    },
+    {
+      "id": "257.300:13786",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.300&bid=13786",
+      "sourceSha256": "29e1e3171e60d17d8a5221acfab90165f309ed04e846d595f0841bfbe22ec09a",
+      "textSha256": "d3f312e33cd835dc0cdf9e93659a820cab1c87545a0a2d4bbc9fabacc4fdf144",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (5 subsections, including 4(1)-(3)) and history note (L. 1959 S.B. 199 § 30); verified source identity and all fingerprints. Checked post-completion publication, inspection, and 20-to-30-day hearing notice, 10-day written board objections, official plan adoption, 15-day court objections and three court dispositions, and ongoing notice/filing with the designated state agency. Revised subsection 5 title to \"Keeping state agency informed and filing official plans\" for grammatical clarity; retained subsections 1-4 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Notice, inspection, and hearing on completed preliminary plan",
+          "bodySha256": "f60f97abb1539476999984fb867cbe5e2ee83e1276605a06c494a09463dfebc4",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1959 S.B. 199 § 30). Requires published notice in each district county after state agency completion of a preliminary plan, public inspection at the board office or convenient county locations, and setting a hearing 20 to 30 days after last publication."
+        },
+        {
+          "number": 2,
+          "title": "Filing written objections to preliminary plan",
+          "bodySha256": "3191584c873baca3e79aaa340f60a264220a5d20ed9ebdee1d7b0c816bb5c7a9",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires objections to be in writing and filed with the board secretary at the office or hearing place within 10 days after last notice publication."
+        },
+        {
+          "number": 3,
+          "title": "Board adoption of the official plan",
+          "bodySha256": "391ddddf0510db65ea1187786fa5e203d24e531ed21e2a0084092456f6e5bf97",
+          "reviewNote": "Read complete text of subsection 3 and history note. Directs the board after the hearing to adopt the plan or board-determined modifications as \"Official Plan No. ___\", retaining the preliminary plan's number."
+        },
+        {
+          "number": 4,
+          "title": "Court review and disposition of official plan objections",
+          "bodySha256": "89a9ddbd26d0c4d7e3de86ca3ad48e318fbb4098d3d8140217dd39aa20a823cf",
+          "reviewNote": "Read complete text of subsection 4, including subdivisions (1) through (3), and history note. Covers written court objections within 15 days of official plan adoption, hearing timing, and court dispositions: (1) rejecting the plan (requiring another plan), (2) referring back for amendment without republication, or (3) approving the original or amended plan and filing the certified order in district records."
+        },
+        {
+          "number": 5,
+          "title": "Keeping state agency informed and filing official plans",
+          "bodySha256": "1f0eddd6458f1a8d38a515c8df36ccd3a326453e5a5ab44fd7be439573770fa9",
+          "reviewNote": "Read complete text of subsection 5 and history note. Directs the board secretary to keep the designated state agency informed of pending official-plan proceedings and actions and to file copies of any official plan or changes forthwith."
+        }
+      ]
+    },
+    {
+      "id": "257.310:13787",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.310&bid=13787",
+      "sourceSha256": "5a040c0850b18524e986f054a2d4664e1430f8038a1f087c204146211daa6965",
+      "textSha256": "1b1016bcbc3b99b0bee8b72b42da72b647d3dbfc9acfb608494e8208d2f62bf4",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (9 subsections, including 1(1)(a)-(c), 1(2)(a)-(c), and 4(1)-(2)) and history note (L. 1959 S.B. 199 § 31, A.L. 1978 H.B. 971); verified source identity and all fingerprints. Checked primary-basin formation absorbing lesser districts (full-basin jurisdiction, lesser-district petition right, uncovered-voter referendum, trustee handover), partial-district subdistrict formation, official plan and naming prerequisites, board/petitioner election initiation with cost-bond rules, optional tax/bond questions, multi-office filing, subdistrict financial independence and absorbed-district bond-tax provisos, shared staff/expense division, and subdistrict disincorporation/consolidation. Retained all 9 drafted titles as accurate and distinct.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Primary basin district formation and absorbing lesser districts",
+          "bodySha256": "6544ac3a0e0ad6c6ec261114bd8aebc5acca0ae77f127f441416bd43944c5465",
+          "reviewNote": "Read complete text of subsection 1, including subdivisions (1)(a)–(c) and (2)(a)–(c), and history note (L. 1959 S.B. 199 § 31, A.L. 1978 H.B. 971). Covers organizing a primary drainage basin conservancy district around an existing secondary/tributary district (court jurisdiction over entire basin, lesser district right to petition alone, referendum among uncovered voters, normal trustee selection) and post-establishment conversion of the lesser district into a subdistrict, termination/handover accountability of lesser-district trustees, and board decisions on former staff."
+        },
+        {
+          "number": 2,
+          "title": "Formation of subdistricts for partial-district purposes",
+          "bodySha256": "0a631302bf200fbc8226a1ed80d10c51b84f5a4e88b5fa903302939aec5db6cb",
+          "reviewNote": "Read complete text of subsection 2 and history note. Authorizes forming a subdistrict within part of a conservancy district when chapter purposes and board powers will affect only that part, in addition to absorbed subdistricts under subsection 1."
+        },
+        {
+          "number": 3,
+          "title": "Official plan requirement for proposed subdistricts",
+          "bodySha256": "435f9b4f30f6c0bc3a4b0702d893d0ef5f506107c312e74c6e42204ea9138d2d",
+          "reviewNote": "Read complete text of subsection 3 and history note. Requires a preceding official plan (as part of a district official plan or a separate official plan) following chapter official-plan procedures and including a name for the proposed subdistrict."
+        },
+        {
+          "number": 4,
+          "title": "Board initiation and petition procedures for subdistrict elections",
+          "bodySha256": "971d5ba7269335c35dfbe658dd55f44188447fa435a063f13e705a574d4312e4",
+          "reviewNote": "Read complete text of subsection 4, including subdivisions (1) and (2), and history note. Covers board notice of plan approval and optional intent to submit the subdistrict question subject to boundary determination, and petitioner-initiated subdistrict elections if the board does not announce intent within 30 days, including optional cost bond and outcome-based cost allocation."
+        },
+        {
+          "number": 5,
+          "title": "Tax and bond questions at subdistrict elections",
+          "bodySha256": "c0843b766ec871539eb979a27ebb17df77403c7aac97f7f84e5acff2e1208841",
+          "reviewNote": "Read complete text of subsection 5 and history note. Permits submitting additional tax and bond questions at the subdistrict election when indicated in the official plan and stated by the board or requested by petitioners, following chapter tax and bond election provisions as applicable."
+        },
+        {
+          "number": 6,
+          "title": "Recording and filing subdistrict election results",
+          "bodySha256": "8300004a1e824ea1ef2a8e4afe89ed01cddcc67c9cc90a9068696b04ad624064",
+          "reviewNote": "Read complete text of subsection 6 and history note. Directs entering subdistrict election results in board records and, upon voter approval, filing certified copies with the secretary of state, county recorder(s), and state reviewing agency."
+        },
+        {
+          "number": 7,
+          "title": "Subdistrict governance, financial independence, and bond-tax limits",
+          "bodySha256": "908da5a765c627fa60803da73d4c883ebec278bbf6f69ef3505b8bf8e3cedff9",
+          "reviewNote": "Read complete text of subsection 7 and history note. Covers establishment upon record entry, district trustees serving as subdistrict trustees, independent status for subdistrict-only bonds/taxes/matters without limiting district-wide authority, and provisos restricting primary-district general obligation bond taxes on absorbed lesser districts with existing bond taxes."
+        },
+        {
+          "number": 8,
+          "title": "Shared personnel, inter-district contracts, and expense division",
+          "bodySha256": "b59fdc361ddf80f0b67a04f1179d3a83a8c7cae00d09310e9809d01085ff66db",
+          "reviewNote": "Read complete text of subsection 8 and history note. Provides for district officers, chief engineer, attorney, and employees to serve the subdistrict as necessary, allows district–subdistrict contracts, and assigns proportional administrative-expense division to the board."
+        },
+        {
+          "number": 9,
+          "title": "Disincorporation, debt retirement, and consolidation of subdistricts",
+          "bodySha256": "765df528cf6c46b029a558c9a8171b625dd964dd0f93b8f1293b8c444547ff27",
+          "reviewNote": "Read complete text of subsection 9 and history note. Applies conservancy-district vote procedures to subdistrict disincorporation and grants the board sole liquidation, debt-taxing, and post-debt consolidation responsibilities."
+        }
+      ]
+    },
+    {
+      "id": "257.320:13788",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.320&bid=13788",
+      "sourceSha256": "3529b36151d5ee85472ac8e85218d7c471656cc47acbf90c7ee8e6dbf72c1934",
+      "textSha256": "6c6fc0a347d4d69a0638437c2c5fa7f9d40cc4046e66dbaf7eafcc2a204b64d3",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (5 subsections) and history note (L. 1959 S.B. 199 § 32); verified source identity and all fingerprints. Checked preservation of existing special soil/water district powers, joint-resolution cooperative agreements, conservancy-board preapproval and court adjudication of existing or new special district final plans, optional governance by the conservancy board, and joint-employee written expense agreements filed for public inspection. Retained all 5 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Preservation of existing special district powers",
+          "bodySha256": "d2609bb1c879cefcd4b48d7d81617231cc9742aadc6a204c30ec52e9c1608580",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1959 S.B. 199 § 32). Clarifies that chapter 257 does not deprive existing levee, drainage, flood prevention, bank protection, sewer, or other special soil or water districts of rights or powers under state law."
+        },
+        {
+          "number": 2,
+          "title": "Cooperative agreements by joint board resolution",
+          "bodySha256": "9944a918d1c5aed720030ce3f39fd88751b5c15e1afeafa25a9c21d306d2bc49",
+          "reviewNote": "Read complete text of subsection 2 and history note. Authorizes mutually desirable agreements between a special district board and a conservancy district board by joint resolution passed at joint or separate meetings."
+        },
+        {
+          "number": 3,
+          "title": "Approval and adjudication of special district plans",
+          "bodySha256": "4ad2601033afccfba6c7ef06affd67e9dedb5ae97777668b1d714b39ee7dc47e",
+          "reviewNote": "Read complete text of subsection 3 and history note. Bars existing or new special districts from preparing and submitting final improvement plans and specifications until approved by the conservancy district board, with either party permitted to submit disagreements for adjudication to the conservancy district's supervising court."
+        },
+        {
+          "number": 4,
+          "title": "Appointing conservancy board to govern special district",
+          "bodySha256": "342a3363e05bf1b50ac39f20b4173cbb4fdff90f8f7f322c13db32989301f4b4",
+          "reviewNote": "Read complete text of subsection 4 and history note. Permits a special district to appoint the conservancy district board of trustees as its governing board, accepted by board vote entered in the minutes."
+        },
+        {
+          "number": 5,
+          "title": "Joint employees and written expense-division agreements",
+          "bodySha256": "6e73a4a89f7e810036c06539e9e9a94004ee2f6cfdbae3d9815032f58ca5f359",
+          "reviewNote": "Read complete text of subsection 5 and history note. Allows joint employment of the conservancy district's chief engineer, attorney, or other employees by joint board agreement, with an equitable written expense-division agreement filed for public inspection."
+        }
+      ]
+    },
+    {
+      "id": "257.330:13789",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.330&bid=13789",
+      "sourceSha256": "25c8d1ab9adc5a6628fbd4e688b71663e4a4681e3ca905667faedd5dd9f86486",
+      "textSha256": "5d16a4e29e362b133d399958475082875e7c409ab4ac561eeda2ffba17048fc1",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (4 subsections, including 1(1)-(5)) and history note (L. 1959 S.B. 199 § 33, A.L. 1961 p. 463); verified source identity and all fingerprints. Checked the five separate funds (preliminary, bond, amortization, general, aid), general improvement costs payable from bond fund proceeds, board-resolution prerequisite for drawing vouchers, and permitted uses of surplus treasury funds. Retained all 4 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Five separate funds of a conservancy district",
+          "bodySha256": "0f070aa15a63ddedd2f925643266f276c9c5965bced876cb96a45fd351215cf2",
+          "reviewNote": "Read complete text of subsection 1, including subdivisions (1) through (5), and history note (L. 1959 S.B. 199 § 33, A.L. 1961 p. 463). Establishes and defines revenue sources for the preliminary fund, bond fund, amortization fund, general fund, and aid fund."
+        },
+        {
+          "number": 2,
+          "title": "Improvement costs payable from the bond fund",
+          "bodySha256": "f6ef7fd6797a36e8909efb0d166675e912314aa8f3ebe361d2bda59d9b12bbf9",
+          "reviewNote": "Read complete text of subsection 2 and history note. Specifies that general improvement and facility costs include official plans, specifications, appraisals, property purchase or condemnation, engineering, construction, superintendence, and incidental charges, and permits paying them from general obligation bond fund proceeds."
+        },
+        {
+          "number": 3,
+          "title": "Board resolution required before drawing vouchers",
+          "bodySha256": "f799233bddab53f20730c90a8e081d886713d32f58ff0fb20c1378050be49c36",
+          "reviewNote": "Read complete text of subsection 3 and history note. Prohibits drawing vouchers against any district fund without a properly passed authorizing board resolution entered on board records."
+        },
+        {
+          "number": 4,
+          "title": "Permitted uses of surplus district funds",
+          "bodySha256": "b61bc5c449e224a20abae6d1e0a1c45507e477a149d8115c23750a6f9e830ba0",
+          "reviewNote": "Read complete text of subsection 4 and history note. Authorizes using surplus treasury funds to retire bonds, reduce assessment rates, or accomplish other legitimate district objects."
+        }
+      ]
+    },
+    {
+      "id": "257.340:13790",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.340&bid=13790",
+      "sourceSha256": "5f107c08d25684d3dac509a3ac63f8e6b1398956d1af3d54320d63db24659397",
+      "textSha256": "77fff29d9175610621a520071d0277042613f4bd43b03f583fbdf5a866c7d07a",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (2 subsections) and history note (L. 1959 S.B. 199 § 34); verified source identity and all fingerprints. Checked aid-fund deposit and purpose restriction for aid from federal, state, public-corporation, or private-person sources (broader than the official section catchline's \"public agency\") plus post-completion surplus transfer to the general fund, and public-corporation appropriation authority. Retained both drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Handling financial aid and transferring remaining surplus",
+          "bodySha256": "ba859159aea42e3d65e8da89c9c524984861032b2585ba41055af20c1e38a668",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1959 S.B. 199 § 34). Requires placing federal, state, public-corporation, or private financial aid into the aid fund for expenditure solely on the specific purposes given, while permitting transfer of remaining post-completion surplus to the general fund."
+        },
+        {
+          "number": 2,
+          "title": "Public corporation appropriations to aid districts",
+          "bodySha256": "6a284ee21140b1d9b91ac55fedf781b794ec26fcf2cdde498a28ea477f4b2a17",
+          "reviewNote": "Read complete text of subsection 2 and history note. Authorizes any public corporation to aid a conservancy district whenever its appropriating body duly makes appropriations."
+        }
+      ]
+    },
+    {
+      "id": "257.350:13791",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.350&bid=13791",
+      "sourceSha256": "7c548294626c8eaf8ffa32e8106c64f94cef36896a7d8fb66552dd3ed20919bb",
+      "textSha256": "3a9b7ed364e74c1fd5b8c0ca5d6e442b56bc3e9620f48ff7a75d554c44f9a9b8",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (2 subsections) and history note (L. 1959 S.B. 199 § 35); verified source identity and all fingerprints. Checked permissive up-to-one-mill, up-to-three-year organization tax on tangible property, permitted uses, county certification/extension, reimbursement of prior expense sources, chapter collection/nonpayment conformity, and resolution-authorized borrowing (up to 6%), negotiable warrants, tax pledge, and unpaid-warrant endorsement/interest. Retained both drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Organization tax levy, certification, and permitted uses",
+          "bodySha256": "25a4f699fb98b88e032da5d84736f98c7dd8e4434748b3044dc789ad19ea41d4",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1959 S.B. 199 § 35). Authorizes taxing district tangible property up to one mill per dollar assessed valuation annually for up to three years after organization and trustee qualification for organization expenses, preliminary surveys/plans, and incidentals; covers certification to county commissions and collectors, repayment of prior expense sources, and chapter tax-collection and nonpayment rules."
+        },
+        {
+          "number": 2,
+          "title": "Borrowing, warrants, and pledging organization tax revenues",
+          "bodySha256": "5b841f5e603009f1be378ace96d7c67db1f7da9aba0fe148deeecbd563296b5b",
+          "reviewNote": "Read complete text of subsection 2 and history note. Authorizes board-resolution borrowing up to 6% interest, issuing negotiable warrants signed by the president and secretary, pledging levied organization taxes for repayment, and endorsement and 6% interest accrual on warrants unpaid for want of treasury funds."
+        }
+      ]
+    },
+    {
+      "id": "257.360:13792",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.360&bid=13792",
+      "sourceSha256": "54e8692d21139c5a77ce622bce8961142432e7ef79d85539e7bb269bbe1b96c1",
+      "textSha256": "0eb6ab40460910ac67dc3d2d2922a02ebe4e15272e8b9b9d60ddb59f44704189",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (3 subsections, including 2(1)-(3)) and history note (L. 1959 S.B. 199 § 36); verified source identity and all fingerprints. Checked county-clerk valuation certification, board amortization/general-fund rate certification, extension, collection, and monthly remittances; the one-mill general fund cap and voter-approved increase procedure (up to two mills; majority for 1 year, two-thirds for >1 to 4 years); and collection conformity for voted increases. Retained all 3 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Assessment certification, tax levy, collection, and remittance",
+          "bodySha256": "2fc2c90f253d372a0f16997676021e458a41bdc7ef74b26872150a8d5d1cef4d",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1959 S.B. 199 § 36). Covers county clerk valuation certification, board determination and certification of amortization and general fund tax rates, county clerk tax extension, collector collection and enforcement like state and county taxes, and monthly remittances to the district treasurer."
+        },
+        {
+          "number": 2,
+          "title": "General fund rate limit and voter-approved increases",
+          "bodySha256": "6dc78aa00c19bc25e72b32cf0a20f3cc418becf767e1c2ca81b4b78a46d138b9",
+          "reviewNote": "Read complete text of subsection 2, including subdivisions (1) through (3), and history note. Sets a one-mill annual general fund cap unless the board determines greater need, submits the question like a bond election, and voters approve an increase up to two mills per year (majority vote for one year, or two-thirds vote for more than one and up to four years)."
+        },
+        {
+          "number": 3,
+          "title": "Collection of voter-approved tax increases",
+          "bodySha256": "5c134ae5a0b470afcdb797d0530cb6a964a7e97b541faa493ba6abc54877b00b",
+          "reviewNote": "Read complete text of subsection 3 and history note. Directs that collection of a voted tax-rate increase follow the same procedure as any general fund levy."
+        }
+      ]
+    },
+    {
+      "id": "257.370:13793",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.370&bid=13793",
+      "sourceSha256": "f2a902a489c0328cabce673736194bd0531bd609835ab8dfe033302ade8989e9",
+      "textSha256": "e641c66c0234720a889793cd6a050588af9b9dda874ef371e48b53de179e66e2",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (6 subsections) and history note (L. 1959 S.B. 199 § 37, A.L. 1978 H.B. 971, A.L. 1990 H.B. 1621); verified source identity and all fingerprints. Checked GO bond authority, 5% assessed-valuation debt limit, $100 denominations, 6% interest/20-year limits, execution, voter-submission notice, result recording, constitutionally required approval trigger and annual tax levy (noting source phrasing \"all the taxable property\" in subsection 4 vs. \"taxable tangible property\" in subsections 1 and 5), May 1 certification with state-auditor fallback, and state tax-collection law applicability. Retained all 6 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "General obligation bond authority, debt limit, and terms",
+          "bodySha256": "153fddc8af9fcd9bbe677badf9473fca166a14c2559f36806d28b7229d0290fc",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1959 S.B. 199 § 37, A.L. 1978 H.B. 971, A.L. 1990 H.B. 1621). Authorizes general obligation bonds to carry out official plans subject to a 5% assessed-valuation total-debt limit on taxable tangible property, $100-multiple denominations, max 6% semiannual interest, max 20-year maturity, and officer signatures, district seal, and facsimile coupon execution."
+        },
+        {
+          "number": 2,
+          "title": "Bond election requirement and notice contents",
+          "bodySha256": "f14bbb499ae2cc506f876e037431194da5fc83bc7341fbce71c36d5f27e1d21c",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires submitting proposed bond issuance to district voters and specifies notice contents (bond amount, purpose, and polling place)."
+        },
+        {
+          "number": 3,
+          "title": "Recording bond election results",
+          "bodySha256": "3c90aed86a45dbbc522820ba891fbce1bcd7809be978dd95dd3ab30119720197",
+          "reviewNote": "Read complete text of subsection 3 and history note. Requires entering results of the bond-question submission upon board of trustees records."
+        },
+        {
+          "number": 4,
+          "title": "Bond execution and tax levy after voter approval",
+          "bodySha256": "442e9dad3f9ecf2d1dccf1fa9c5bff9dc27c4b7ba124f802c62ef3102aeebf54",
+          "reviewNote": "Read complete text of subsection 4 and history note. Conditional on approval by the constitutionally required voter percentage, directs the board to order bond execution and provide for a direct annual tax on all taxable district property (noting source phrasing \"all the taxable property\" here vs \"taxable tangible property\" in subsections 1 and 5) to pay principal and interest."
+        },
+        {
+          "number": 5,
+          "title": "Annual debt-service certification and county tax extension",
+          "bodySha256": "5e0a645dd83dc06f3860aab0c2f94c418bcc20112bb04bbdbbd8a57cd4b1113c",
+          "reviewNote": "Read complete text of subsection 5 and history note. Requires annual certification on or before May 1 by the board secretary (or by the state auditor immediately thereafter upon secretary failure or neglect) of next-year debt service to county clerks, who must levy and extend the required rate on taxable tangible property."
+        },
+        {
+          "number": 6,
+          "title": "Applicability of state tax collection laws",
+          "bodySha256": "c4bcacf483d7a375f818c5fa32d4063f6286b7c8a049beebf16b9f72e2dd8df6",
+          "reviewNote": "Read complete text of subsection 6 and history note. Makes all Missouri laws, rights, and remedies for collecting state, county, school, and other taxes applicable to taxes authorized under this section."
+        }
+      ]
+    },
+    {
+      "id": "257.400:13796",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.400&bid=13796",
+      "sourceSha256": "f3c5592d4ac6c7711e0a79adbc30ca79d0e0755def7e7fd35a1d81e326a502dd",
+      "textSha256": "639a440354667ddabcdcf452b933f90c378994199f3f641907bb6a94fafc8a5a",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (3 subsections) and history note (L. 1959 S.B. 199 § 40); verified source identity and all fingerprints. Checked survival of chapter tax liens and property liability for future bond-service tax levies upon disincorporation, local tax officers' duties during disincorporation or district-officer inaction/vacancies, and enforcement at law or in equity (including mandamus) by bondholders or interested persons/officers. Revised subsection 1 title to \"Tax liens and bond-tax liability after disincorporation\" to clarify that the surviving liability is for future bond-service tax levies; retained subsections 2-3 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Tax liens and bond-tax liability after disincorporation",
+          "bodySha256": "cd0f8d7db969036bb5025a85b36763eed1cf775495b90e33924968345892720e",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1959 S.B. 199 § 40). Preserves existing chapter tax liens and district property liability for future levies paying bond principal and interest notwithstanding district disincorporation."
+        },
+        {
+          "number": 2,
+          "title": "Local tax officers' duties during disincorporation or inaction",
+          "bodySha256": "19ee010feab57023ba415919bbb5cdda4b9d0d1eabeadbee3bf2893da98b38e2",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires county clerks and local tax officers to assess, levy, and collect existing or needed bond-service taxes upon disincorporation or when officer failure to qualify/act, resignations, or vacancies prevent district action."
+        },
+        {
+          "number": 3,
+          "title": "Judicial and mandamus enforcement of statutory duties",
+          "bodySha256": "92716b7b0998a9a0c5f919bd705837572211dafe40bf87b419cc71a186e6fd7c",
+          "reviewNote": "Read complete text of subsection 3 and history note. Authorizes any chapter bondholder or interested person or officer to enforce performance of chapter duties at law or in equity by suit, action, or mandamus."
+        }
+      ]
+    },
+    {
+      "id": "257.450:13800",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=257.450&bid=13800",
+      "sourceSha256": "b5e02ebaed4c73cfc7929c465c9adf8fa98e37a63eaa8429c2ce1c9ae0178212",
+      "textSha256": "d7775473aa3ce70c94b4ebe935e7909ef50bfdff2fdee406c657be131b4bfdca",
+      "draftedBy": "antigravity_drafter_d20",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r27",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (8 subsections, including 1(1)-(2), subsection 5's ballot-form continuation paragraph, and 8(1)-(2)) and history note (L. 1959 S.B. 199 § 45, A.L. 1978 H.B. 971, A.L. 1990 H.B. 1070); verified source identity and all fingerprints (including subsection 5's full ballot block). Checked board-initiated and registered-voter-petition initiation, state-agency hearing notice, pre-conclusion petition withdrawal, official-plan prerequisite, substantial ballot form, majority-vote threshold, resident receiver appointment/powers and trustee termination, and pro-rata county fund distribution with public-record filing. Retained all 8 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Initiating disincorporation by board action or voter petition",
+          "bodySha256": "ff1bf69a95efac62992f591edf498508129253bc662120d54e0ebfd79b7f9328",
+          "reviewNote": "Read complete text of subsection 1, including subdivisions (1) and (2), and history note (L. 1959 S.B. 199 § 45, A.L. 1978 H.B. 971, A.L. 1990 H.B. 1070). Covers accomplishing disincorporation by voter submission initiated either by board determination within 30 days after a published-notice hearing or by registered-voter petition matching organization-petition thresholds followed by hearing and submission absent withdrawal."
+        },
+        {
+          "number": 2,
+          "title": "Notice of disincorporation hearing to state agency",
+          "bodySha256": "593fcb0674fdf32c5a8f5e7e0f2958f4a538dd83f0ac1bee24931f2b02836caa",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires the board secretary to report ordered publication of a disincorporation hearing notice to the governor-designated state plan-reviewing agency."
+        },
+        {
+          "number": 3,
+          "title": "Withdrawal of disincorporation petition before hearing concludes",
+          "bodySha256": "21a3d81626e5b93e8f418d1ec836867d45b667eb8b224c73485819b981af3550",
+          "reviewNote": "Read complete text of subsection 3 and history note. Allows a majority of disincorporation petitioners to withdraw the petition and terminate proceedings at any time before the hearing concludes."
+        },
+        {
+          "number": 4,
+          "title": "Official plan prerequisite for disincorporation",
+          "bodySha256": "fdfc41ed9cfeb1972a16d6996540cb24c59f78b3cf312e645b7399a8079b5101",
+          "reviewNote": "Read complete text of subsection 4 and history note. Bars initiating and carrying forward disincorporation proceedings unless at least one district plan has been prepared and finally approved as an official plan."
+        },
+        {
+          "number": 5,
+          "title": "Ballot form for disincorporation question",
+          "bodySha256": "3c4dc3b0d83f896422a3791b984be98a5a3347aca91beb98b329e1dbe25c508e",
+          "reviewNote": "Read complete text of subsection 5, including continuation ballot-form block, and history note. Sets the substantial ballot question form: \"Shall the ______ Conservancy District be disincorporated?\""
+        },
+        {
+          "number": 6,
+          "title": "Majority vote required for disincorporation",
+          "bodySha256": "db9f1c491ec08e045a70b69b93321cdceb6905638a6962787bc5e19e01a9deed",
+          "reviewNote": "Read complete text of subsection 6 and history note. Specifies that a majority of those voting is required to approve disincorporation."
+        },
+        {
+          "number": 7,
+          "title": "Receiver appointment, powers, and termination of trustees",
+          "bodySha256": "be6cf40d4863505284d8e956b54a1d8c24a6965b22959a99ba266473c474772d",
+          "reviewNote": "Read complete text of subsection 7 and history note. Covers certifying a disincorporation vote to the court, court appointment of a resident receiver with corporate-liquidation powers and court-ordered debt-taxing authority (deemed a district officer), and termination of trustees' authority and offices subject to court liquidation-aid orders."
+        },
+        {
+          "number": 8,
+          "title": "Distributing remaining funds and filing district records",
+          "bodySha256": "df98f802d04853fe2339e489594f12bf791fb313976224b1ab27be188602f713",
+          "reviewNote": "Read complete text of subsection 8, including subdivisions (1) and (2), and history note. Directs the receiver, after closing affairs and paying all debts and subject to court orders, to pay remaining moneys pro rata to county commissions based on the last full year's tax collections (or court-ordered similar pro rata) and to file all district data, plans, and official records with the court clerk as public records."
+        }
+      ]
+    }
+  ]
+}

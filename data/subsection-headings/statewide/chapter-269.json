@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "269.020:14537",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=269.020&bid=14537",
+      "sourceSha256": "e49d85c1c2f65109007df7fcd2d5fbcb14d14643abb39906488653af92dc2b03",
+      "textSha256": "ef32ed2f1c3c7e57ae6157b3729e603373c093d6d2a799c847cdc884f3752c79",
+      "draftedBy": "antigravity_drafter_d23",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Twenty-four-hour disposal from knowledge and authorized methods",
+          "bodySha256": "0b839247f77a03d121b9c38753b13c41b2cc07eac4c07d736de5207a4aa58434",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1941 p. 290 § 14493n, A.L. 1992 H.B. 878, A.L. 1993 H.B. 399). Requires owners or caretakers to dispose of dead animal carcasses within 24 hours after knowledge of death via a chapter 269 permittee, permitted sanitary landfill (notwithstanding other laws/rules), or on-site burial, incineration, composting, or state-veterinarian-approved disposal subject to subsection 2. Independent review rephrased title for clarity while retaining the knowledge-triggered 24-hour period and authorized disposal methods."
+        },
+        {
+          "number": 2,
+          "title": "On-site burial loading limits, siting, and burial standards",
+          "bodySha256": "315cf40d80408f34238936171ca9812d6ed91c82db4745f3ace5a24f11b1681a",
+          "reviewNote": "Read complete text of subsection 2 (including all subdivisions (1)–(9) and subparagraphs) and history note. Covers DNR major groundwater contamination area and other area loading limits (retaining archived July 1, 1995 dates for turkey and poultry carcasses), annual acreage caps, flood-area and terrain exclusions, 6-foot depth cap, soil cover rules, abdominal puncturing over 150 pounds, and setback distances."
+        },
+        {
+          "number": 3,
+          "title": "Conditional hide or skin removal for noncontagious deaths",
+          "bodySha256": "c2162f3ab78cef5fb1328cf1ff8cfb272cd7a0bbd3ec502a739e057b40009bea",
+          "reviewNote": "Read complete text of subsection 3 and history note. Authorizes owners or controllers of animals that did not die of a contagious disease to remove the hide or skin at the death site before disposal, conditioned on avoiding creation of any nuisance. Independent review added \"Conditional\" to signal the death-site and non-nuisance limitations qualifying the right to remove hides or skins."
+        },
+        {
+          "number": 4,
+          "title": "Prohibition on disposal outside section 269.020 methods",
+          "bodySha256": "2aa0e7ce2123e18f428439e873bff703c22c24d13f499a734337d2341a55da29",
+          "reviewNote": "Read complete text of subsection 4 and history note. Prohibits burying, burning, cooking, or otherwise disposing of any animal body except as provided in section 269.020."
+        },
+        {
+          "number": 5,
+          "title": "Dead animal composting under University of Missouri recommendations",
+          "bodySha256": "a82e56fbd93b78f816e737d3964fe36a575890a1171c96c5d71fd7c4c87d63ef",
+          "reviewNote": "Read complete text of subsection 5 and history note. Requires composting dead animals in a composter designed and constructed efficiently as recommended by the University of Missouri extension service."
+        },
+        {
+          "number": 6,
+          "title": "Noncommercial incineration under University of Missouri recommendations",
+          "bodySha256": "c5d76eb61d222fa4b9bf1b10c98b0dee0afab1528b6699e1504e7bf877af89a3",
+          "reviewNote": "Read complete text of subsection 6 and history note. Distinguished from subsection 7 by governing noncommercial dead animal incineration in an incinerator designed, constructed, and operated efficiently as recommended by the University of Missouri extension service."
+        },
+        {
+          "number": 7,
+          "title": "Commercial incineration regulated under chapter 643",
+          "bodySha256": "80e97e4ce0a1579973d93d73f86a6a7f4738957e42e1c96c55e44b52bcb34089",
+          "reviewNote": "Read complete text of subsection 7 and history note. Distinguished from subsection 6 by requiring commercial dead animal incineration to conform to chapter 643 and its promulgated rules and regulations."
+        },
+        {
+          "number": 8,
+          "title": "Disposal in sanitary landfills permitted under chapter 260",
+          "bodySha256": "26b4185ec47be3e38ce987f27542240b6e0c18fab677c4e2a6e6911bee642ef3",
+          "reviewNote": "Read complete text of subsection 8 and history note. Permits dead animal disposal in a sanitary landfill holding a current permit under chapter 260 and its promulgated rules and regulations."
+        },
+        {
+          "number": 9,
+          "title": "Emergency state veterinarian entry, disposal, and expense reimbursement",
+          "bodySha256": "4a42e1f2ddc05bb493451a2a98f24bc193503fe3713659af6b1dcd65def370cd",
+          "reviewNote": "Read complete text of subsection 9 and history note. Distinguished from subsection 10 by applying to animal-or-human health and welfare emergencies, permitting state veterinarian entry and disposal only if the owner, custodian, or recent possessor is unable or unwilling to dispose properly, and requiring reimbursement of reasonable disposal expenses."
+        },
+        {
+          "number": 10,
+          "title": "Nuisance-based state veterinarian entry, disposal, and expense reimbursement",
+          "bodySha256": "bc8f5f0c18ed1e638cbe954f99fafc9258cbef5a6de91d0529a7ce8ed9fcb70b",
+          "reviewNote": "Read complete text of subsection 10 and history note. Distinguished from subsection 9 by applying when an animal's death causes a nuisance, authorizing state veterinarian entry and disposal only if the responsible person is unlocated after 24 hours of reasonable effort, absent from the state and uncooperative, or physically/mentally unable, with reasonable-expense reimbursement."
+        },
+        {
+          "number": 11,
+          "title": "Court orders compelling disposal for emergencies or nuisances",
+          "bodySha256": "3916efc6b5f97a8ad1c8c4fa37a5b04022acd0f0c229ae18622893383ce4c4e1",
+          "reviewNote": "Read complete text of subsection 11 and history note. Authorizes the state veterinarian, in emergency health/welfare situations or nuisance cases, to apply in the county where the dead animal was found for a court order requiring disposal by the owner, custodian, or most recent possessor."
+        },
+        {
+          "number": 12,
+          "title": "No Agriculture or Natural Resources veto over extension or section decisions",
+          "bodySha256": "8bee91d6f297c8d76152390c92471448752c3bc187997a75ab08f075320fa790",
+          "reviewNote": "Read complete text of subsection 12 and history note. Denies the Department of Agriculture and Department of Natural Resources veto power over decisions of the University of Missouri extension services or any decisions made under section 269.020. Independent review named the two specific departments (Agriculture and Natural Resources) rather than over-generalizing to all agencies."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r29",
+      "reviewSummary": "Independently read all twelve subsections, all subdivisions (1)–(9) and subparagraphs of subsection 2, and history note (L. 1941 p. 290 § 14493n, A.L. 1992 H.B. 878, A.L. 1993 H.B. 399); verified all source and subsection fingerprints. Checked knowledge-triggered 24-hour disposal, DNR loading limits including July 1, 1995 poultry/turkey dates, conditional noncontagious hide removal, composting/incineration/landfill distinctions (chapter 643 vs. chapter 260), qualified emergency vs. nuisance state-veterinarian entry/reimbursement, court orders, and Agriculture/DNR veto bar. Retained subsections 2 and 4–11; revised subsections 1, 3, and 12 for phrasing clarity, conditional signaling, and agency specificity."
+    },
+    {
+      "id": "269.023:14540",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=269.023&bid=14540",
+      "sourceSha256": "5441f8dd35bbcd64554b2e2833a14bb3dcc65c1a5a899420980e7f3d6563c91c",
+      "textSha256": "0e8de22b14ce99ef76bc96c9490992358f222b2013a59b3ffcf47546558d749e",
+      "draftedBy": "antigravity_drafter_d23",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorization of department and USDA enforcement employees",
+          "bodySha256": "75a84c9c2d195cc3b3e36e1a7faaca960bf2c5de5a03e0c8e092c0bb3a79dab6",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1992 H.B. 878). Empowers the director to authorize certain department or USDA employees to assist in enforcing chapter 269. Independent review changed \"state\" to \"department\" to match the statutory scope (\"employees of the department or employees of the United States Department of Agriculture\")."
+        },
+        {
+          "number": 2,
+          "title": "Vehicle stops, wildlife exclusion, and red flashing lights",
+          "bodySha256": "dc50d8aaae268c26237228d3135fd5e6300f96ec957c1c4fe4abe87f145ab0ca",
+          "reviewNote": "Read complete text of subsection 2 and history note. Authorizes designated employees to intercept, stop, and detain vehicles suspected of transporting dead animals for inspection or inquiry—excluding wildlife taken under the Missouri wildlife code—and permits using a red flashing light."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r29",
+      "reviewSummary": "Independently read both subsections and history note (L. 1992 H.B. 878); verified all source and subsection fingerprints. Checked department and USDA enforcement authorization, vehicle stop/detention authority, Missouri wildlife-code exclusion, and red flashing light permission. Retained subsection 2; revised subsection 1 from \"state\" to \"department\" to match statutory parties."
+    },
+    {
+      "id": "269.025:14541",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=269.025&bid=14541",
+      "sourceSha256": "cc99b15b82f6dab0b96c2e52a59d9862319c538825ead0478f1d11fe854bc12c",
+      "textSha256": "fef7c9182c63eedf9fa7a824e003d33f7479039e485a2ca2d4f43c8d749406aa",
+      "draftedBy": "antigravity_drafter_d23",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Investigations, civil penalties, hearings, and section 536.150 appeals",
+          "bodySha256": "054ae879148c3d60e207c3b278f794ab607efedd82c7c944967d3a431198b3e7",
+          "reviewNote": "Read complete text of subsection 1 and history/footnote notes (L. 1992 H.B. 878). Authorizes director investigations and premises/vehicle inspections (excluding wildlife taken under the Missouri wildlife code), civil penalties up to $1,000, requested county-of-residence hearings under section 536.063, and procedures and appeals governed by section 536.150."
+        },
+        {
+          "number": 2,
+          "title": "Constitutional expenditure of civil penalties and assessments",
+          "bodySha256": "12ee430cef37ac397618f5f8785eb8c85906a03630f0a3f762b608e412c8506d",
+          "reviewNote": "Read complete text of subsection 2 and Revisor footnote. Directs expenditure of civil penalties and assessments under Article IX, Section 7* of the Missouri Constitution; explicitly retains the Revisor's footnote discrepancy stating that the words 'Article IX, Section 10' appear in the original rolls. Independent review aligned wording with the statutory verb (\"shall be expended\") while preserving the Revisor footnote discrepancy (\"Article IX, Section 10\" in original rolls vs. \"Article IX, Section 7*\" in text)."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r29",
+      "reviewSummary": "Independently read both subsections, history note (L. 1992 H.B. 878), and Revisor footnote (*Words \"Article IX, Section 10\" appear in original rolls vs. \"Article IX, Section 7*\" in subsection 2); verified all source and subsection fingerprints. Checked wildlife-code inspection exclusion, $1,000 civil penalty cap, section 536.063 hearing and section 536.150 procedure/appeal references, and constitutional penalty expenditure. Retained subsection 1; revised subsection 2 to \"expenditure\" and preserved the original-rolls discrepancy."
+    },
+    {
+      "id": "269.075:14550",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=269.075&bid=14550",
+      "sourceSha256": "b884e744ed619fa39227e70459c2a5c9a649a82a4825ec281992f6c4c3670b65",
+      "textSha256": "1d36e2786f3d1d22196c4bfa15fccfd0064ce2f9a91cf2105a38a7b41dffee06",
+      "draftedBy": "antigravity_drafter_d23",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Applicant competence and compliance proof for permits",
+          "bodySha256": "3f70573e25ebc6c9ca89e03a47187f3185ad3aaf03b71296dad5b6439fd22e6b",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1992 H.B. 878). Restricts chapter 269 permits to persons, corporations, and associations competent to operate a dead animal transportation service or substation safely and only after satisfactory proof of compliance with the chapter and rules."
+        },
+        {
+          "number": 2,
+          "title": "Discretionary grounds for refusing permit issuance",
+          "bodySha256": "ea2ab18b4492831ac92d10ad263eb8a879186372221bd3cff62b31b19c4ca9c9",
+          "reviewNote": "Read complete text of subsection 2 and history note. Authorizes the state veterinarian to refuse permits to persons known guilty of specified chapter acts/practices, previously revoked permittees, or associated partnerships, associations, or corporations where such person is a member, officer, or controlling stockholder."
+        },
+        {
+          "number": 3,
+          "title": "Denial or examination-refusal notice and chapter 536 hearing",
+          "bodySha256": "31ad837eafba3ecc8fae0bda93854b56ebac2f9771740c17be8ecb221e1b003b",
+          "reviewNote": "Read complete text of subsection 3 and history note. Requires written notice by registered or certified mail stating reasons for permit denial or refusal to examine an application and informing the applicant of the right to request a chapter 536 qualification hearing."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r29",
+      "reviewSummary": "Independently read all three subsections and history note (L. 1992 H.B. 878); verified all source and subsection fingerprints. Checked applicant competence and compliance-proof standards, permissive state-veterinarian refusal grounds (including associated entities), and registered/certified-mail notice of denial or examination refusal with chapter 536 hearing rights. Retained all three headings."
+    },
+    {
+      "id": "269.110:14553",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=269.110&bid=14553",
+      "sourceSha256": "fac3ec7835a097584e8abd63bc34d6feadeaa560a4dcf7f47ce8a96d7ba287b9",
+      "textSha256": "bba21fcac08c354719415043474357fbe4153833d638bf7a5b35f3a0a1e23315",
+      "draftedBy": "antigravity_drafter_d23",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Disciplinary grounds, chapter 536 hearings, and subpoena powers",
+          "bodySha256": "1216ffd7dcef10680d0c5e6f7255b1bfa41a46c85c4ace030b369894f2862369",
+          "reviewNote": "Read complete text of subsection 1 and history/footnote notes (L. 1941 p. 290 § 14493q, A.L. 1978 H.B. 1634, A.L. 1992 H.B. 878). Covers director authority to suspend, revoke, restrict, or discipline permittees for chapter violations or criminal convictions/guilty pleas/nolo contendere affecting business conduct (retaining the footnote noting 'affecting' in original rolls vs. 'affects*' in text), written charges, chapter 536 hearing rights, subpoena/testimony/deposition/fee/mileage powers, and oath administration."
+        },
+        {
+          "number": 2,
+          "title": "Circuit court appeal de novo after disciplinary hearing",
+          "bodySha256": "8283d32ba36d169882d9118229653bfc8e5fae61aa812157f12760a422a114f5",
+          "reviewNote": "Read complete text of subsection 2 and source notes. Permits a person aggrieved by a director's decision after a subsection 1 hearing to seek appeal de novo in the circuit court of the aggrieved person's county of residence."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r29",
+      "reviewSummary": "Independently read both subsections, history note (L. 1941 p. 290 § 14493q, A.L. 1978 H.B. 1634, A.L. 1992 H.B. 878), and Revisor footnote (*Word \"affecting\" appears in original rolls vs. \"affects*\" in subsection 1); verified all source and subsection fingerprints. Checked disciplinary grounds, written charges, chapter 536 hearing and subpoena/oath powers, county-of-residence circuit-court appeal de novo, and original-rolls footnote. Retained both headings."
+    },
+    {
+      "id": "269.200:14562",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=269.200&bid=14562",
+      "sourceSha256": "de574e0bfcdee7f1a0f6bd0d25c8d6a5e03e6ac4f2dc2852becad88d178934e5",
+      "textSha256": "223a08f03e275e9e3507f71b225e70016cf21d190c4e1bd5ec921b55a1ec875a",
+      "draftedBy": "antigravity_drafter_d23",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Persons, activities, and facilities exempt from chapter 269",
+          "bodySha256": "40425099729e53a9dc61939827222ffab2d641e4741c9b43d407ca9d09619eca",
+          "reviewNote": "Read complete text of subsection 1 (including all subdivisions (1)–(8)) and history note (L. 1941 p. 290 § 14493a, A.L. 1992 H.B. 878). Exempts eight specified categories from chapter 269: personal-consumption slaughter hauling, finished meat/carcass transport or storage, hides/skins/tanning, governmental agency emergency or approved disposal, livestock producer hauling to rendering/substation/diagnostic/on-farm sites, lawful pet cemeteries, federal Animal Welfare Act research facilities, and uncompensated burial/disposal transport."
+        },
+        {
+          "number": 2,
+          "title": "Preservation of other laws and ordinances for exempt matters",
+          "bodySha256": "0b7a9a66378b9b3091fd9f56cebb3c3f3cf088b296ab96498880b907160aaa9c",
+          "reviewNote": "Read complete text of subsection 2 and history note. Clarifies that chapter 269 neither affects nor repeals any other laws or ordinances regulating the exempted persons, matters, or vocations listed in subsection 1. Independent review added \"and ordinances\" and aligned with \"persons, matters or vocations aforesaid\"."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r29",
+      "reviewSummary": "Independently read both subsections, all eight exemption subdivisions (1)–(8) of subsection 1, and history note (L. 1941 p. 290 § 14493a, A.L. 1992 H.B. 878); verified all source and subsection fingerprints. Checked all eight exempted categories (including federal Animal Welfare Act facilities and uncompensated disposal transport) and non-repeal of other laws and ordinances. Retained subsection 1; revised subsection 2 to include ordinances and exempt matters."
+    }
+  ]
+}

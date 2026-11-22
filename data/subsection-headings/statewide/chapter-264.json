@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "264.041:14298",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=264.041&bid=14298",
+      "sourceSha256": "055e9ac2ee46a595119ef7f25dbf5e684260bcf2eaa997b48e0215f479cf3034",
+      "textSha256": "277fda23355cf2d6584bd935a03d79c3ede29502c85fe806cfdf4c5fa500c1c8",
+      "draftedBy": "antigravity_drafter_d21",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r28",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (4 subsections) and history note (L. 1978 S.B. 683 § 4, A.L. 1985 H.B. 180, A.L. 1989 H.B. 134); verified sourceUrl, sourceSha256, textSha256, and all four bodySha256 fingerprints. Checked mandatory owner-requested fee/mileage inspections (sub 1), probable-cause/notice access, 30-day/results movement restriction, non-removable-frame hive rules, and nonrequested no-fee/no-certificate rule (sub 2), permissive specialized examination fees (sub 3), and permissive Africanized bee inspection/extermination after written notice (sub 4). Revised subsection 2 title to \"Discretionary inspections, access, movement limits, and hive rules\"; retained subsections 1, 3, and 4 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Beekeeper-requested inspections, fees, and mileage",
+          "bodySha256": "9df20aea447bd9e447b3a9ab4977bc1d194da905080d7abdaa98c5e407280650",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1978 S.B. 683 § 4, A.L. 1985 H.B. 180, A.L. 1989 H.B. 134). Covers director or authorized inspector inspections upon a beekeeper's request for owned or managed bees, cost-plus-mileage fees at the commissioner of administration's state-employee rate, and owner payment at inspection regardless of certification; distinguished from nonrequested or suspicion-based inspections in subsection 2."
+        },
+        {
+          "number": 2,
+          "title": "Discretionary inspections, access, movement limits, and hive rules",
+          "bodySha256": "40125bc6253160878731c3342c0d8a664efc308e8a2df133c741162450754953",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers discretionary inspection by request or suspicion of disease or pests, probable-cause and written-notice conditions for free access and examination, the 30-day or inspection-results prohibition on moving bees or equipment, brood-access requirements for non-removable-frame hives with six-month transfer orders and discretionary destruction on noncompliance, and the no-fee/no-certificate rule for nonrequested inspections. Revised during review from 'Suspected-disease inspections, access, movement limits, and hives' to cover both request/suspicion of disease or pests and clarify hive rules."
+        },
+        {
+          "number": 3,
+          "title": "Fees for specialized department examinations",
+          "bodySha256": "3756621d1940e710458646fdcb465d4247d6cba2602379b184d7cec03f9ebc07",
+          "reviewNote": "Read complete text of subsection 3 and history note. Preserves the permissive authority ('may be charged') to charge a cost-recovery fee to persons desiring specialized Missouri department of agriculture examinations for freedom from diseases or pests."
+        },
+        {
+          "number": 4,
+          "title": "Africanized bee inspections and extermination authority",
+          "bodySha256": "82b607254bdc815a71d791a0814facf2c516cfc94bdbc8745cf7665a655baa1f",
+          "reviewNote": "Read complete text of subsection 4 and history note. Covers discretionary property inspection by request or suspicion of Apis mellifera scutellata (Africanized bee) after written notice to the property owner, and permissive ('may be exterminated') authority to exterminate bees found to be Africanized."
+        }
+      ]
+    },
+    {
+      "id": "264.051:14299",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=264.051&bid=14299",
+      "sourceSha256": "d1f24d4dc4b83c81c1445a86c3e34ac64524e95d4a32e1b7a424e8920798d8da",
+      "textSha256": "f090202e7a8504420365a85ac66a21dd83dd6585362eb7a62b048bdf458ddb62",
+      "draftedBy": "antigravity_drafter_d21",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r28",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (2 subsections) and history note (L. 1978 S.B. 683 § 5, A.L. 1985 H.B. 180); verified source identity and both bodySha256 fingerprints. Checked owner-requested inspection scope and 90-day health certificate expiration (sub 1) versus any-inspection written disease/pest notice, permissive quarantine, owner elimination, and one-year director-supervised eradication (sub 2). Revised subsection 1 title to \"Health certificates after requested inspections and expiration\" and subsection 2 title to \"Disease or pest notice, quarantine, elimination, and eradication\".",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Health certificates after requested inspections and expiration",
+          "bodySha256": "6b42065ea85aeab34153827e20356af2bc3995a8e127d024b13d93949803ba9d",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1978 S.B. 683 § 5, A.L. 1985 H.B. 180). Applies specifically to owner-requested inspections where the director is satisfied no apparent disease or pest exists, setting required certificate contents and the 90-day expiration period. Revised during review from 'Health certificates and ninety-day expiration' to preserve the owner-requested inspection condition."
+        },
+        {
+          "number": 2,
+          "title": "Disease or pest notice, quarantine, elimination, and eradication",
+          "bodySha256": "32f5e97dad582d96ccadc7a7fe8ff6a8a3e50dd67b8b7358a281082aa45b1437",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers mandatory written notice of disease or pest findings and treatment information from any inspection, permissive quarantine declaration prohibiting movement of bees, honey, wax, or used equipment, owner elimination and quarantine lifting, and director-supervised eradication or elimination if not resolved by the next inspection within one year. Revised during review from 'Disease notice, quarantine, elimination, and eradication' to include pests."
+        }
+      ]
+    },
+    {
+      "id": "264.061:47638",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=264.061&bid=47638",
+      "sourceSha256": "c781406c44ab847368aea47fe8dd85bfc95d593b83edf9d2cdbfd6a21742b21d",
+      "textSha256": "0f1fe29879806e73dafecd7586b0ac3031712c3411c8a050e62dafac063c9a72",
+      "draftedBy": "antigravity_drafter_d21",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r28",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (4 subsections) and history note (L. 1978 S.B. 683 § 6 through A.L. 2019 S.B. 133); verified source identity and all four bodySha256 fingerprints. Checked importation permit, 90-day active-brood health certificate, $10 fee, and exterior/federal/state quarantine exclusions (subs 1 and 4), permissive 90-day reentry permit without inspection (sub 2), and conditional verbal authorization pending requested written permit (sub 3). Retained all four titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Importation permits, health certificates, fee, and quarantine exclusion",
+          "bodySha256": "50a6481d46bbc34c7ab7c330d8eeec8cd3d05119898dc2904458a5c19518f439",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1978 S.B. 683 § 6, A.L. 1985 H.B. 180, A.L. 1989 H.B. 134, A.L. 2019 S.B. 133). Covers the permit requirement to move bees, combs, or used beekeeping equipment into Missouri, application form and location/colony disclosures, 90-day active-brood-rearing out-of-state health certificate, $10 per-application fee, and the exclusion for honey bees from federal, state, or Missouri exterior quarantined areas, which are governed by chapter rules."
+        },
+        {
+          "number": 2,
+          "title": "Reentry permits without inspection within ninety days",
+          "bodySha256": "d32da7d050338728807fa01e80b74a261a34e9db046092dc6cd350eb0adb3dac",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers the director's discretionary authority to issue a permit without inspection for bees and equipment certified and moved from Missouri within 90 days before desired reentry if unexposed to diseased or pest-infected bees or equipment."
+        },
+        {
+          "number": 3,
+          "title": "Verbal authorization pending requested written permit",
+          "bodySha256": "fb47d8b1bbc6463938481c0f3ff6f8a1b9742e2aa9fecb9441a3c330e8cfee4b",
+          "reviewNote": "Read complete text of subsection 3 and history note. Preserves the conditional, permissive rule allowing the Missouri director to grant verbal authorization when a written permit has been requested but not received by the time of movement."
+        },
+        {
+          "number": 4,
+          "title": "Combless bee packages, queens, and quarantine exclusion",
+          "bodySha256": "753f4fa07f99a8007c19dc42648910c23ebbde9049dca8eae683502d6c958749",
+          "reviewNote": "Read complete text of subsection 4 and history note. Covers admission of combless packages of bees or queens without a Missouri permit when accompanied by a valid origin-state inspection certificate, together with the same exclusion for federal, state, or Missouri exterior quarantined areas governed by chapter rules."
+        }
+      ]
+    },
+    {
+      "id": "264.065:14302",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=264.065&bid=14302",
+      "sourceSha256": "845aa533afef38664017c0342b28dfee699bff83b61c7895d5eb5977731f9e1a",
+      "textSha256": "1228e8f15f092ffe168a327ac679c88d2d3ec5d23513bdcf3c3a9eeaa54f7f23",
+      "draftedBy": "antigravity_drafter_d21",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r28",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (5 subsections), history note (L. 1985 H.B. 180), and Revisor footnote (*Word \"with\" appears in original rolls for \"affected by*\" in subsection 2); verified source identity and all five bodySha256 fingerprints. Checked permissive new disease/pest control and USDA/state cooperation (sub 1), quarantine rulemaking with retained roll discrepancy (sub 2), movement/carrier/seizure authority retaining archived \"living state\"/\"living stage\" wording (sub 3), permissive treatment/destruction orders on due notice (sub 4), and noncompliance action with premises expense lien (sub 5). Revised subsection 1 title to \"Control measures and cooperation for new diseases or pests\" and subsection 4 title to \"Orders for colony treatment or destruction upon notice\"; retained subsections 2, 3, and 5 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Control measures and cooperation for new diseases or pests",
+          "bodySha256": "a0c1e3e0de7018e3c21d9f48648879627613640fdf5ae66f592f120dc67c1037",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1985 H.B. 180). Covers the director's permissive authority, upon finding a harmful honey bee disease or pest new to the state, to adopt restrictive and control measures and cooperate with other state agencies and the USDA. Revised during review from 'Control measures and agency cooperation for new pests' to include both diseases and pests."
+        },
+        {
+          "number": 2,
+          "title": "Rules establishing quarantine areas and restrictions",
+          "bodySha256": "b05a5fcee86b728236bcbf28a6826ee835ca17c29aadd862745678fa6193fc72",
+          "reviewNote": "Read complete text of subsection 2, history note, and Revisor footnote (*Word 'with' appears in original rolls for 'affected by*'). Preserves permissive rulemaking authority to establish quarantines and restrictions covering affected and likely affected state areas; source roll discrepancy retained explicitly."
+        },
+        {
+          "number": 3,
+          "title": "Movement restrictions, carrier inspections, and quarantine seizures",
+          "bodySha256": "5d4a61833e99f37630219816994758c26bcbda954798544e6f8cec554e9b5ee5",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers permissive prohibitions on uninspected movement of bees, used equipment, or regulated articles from quarantined areas or infested out-of-state areas (subject to director-prescribed conditions), authority to stop, detain, and inspect carriers and containers, and discretionary seizure, treatment, destruction, or disposal of violating articles. Retains archived phrasing ('living state' and 'living stage')."
+        },
+        {
+          "number": 4,
+          "title": "Orders for colony treatment or destruction upon notice",
+          "bodySha256": "ac6895b3be5183b1861b42b6d1240ff33ab8d706021a0cbc16c74db31309dea8",
+          "reviewNote": "Read complete text of subsection 4 and history note. Covers the director's discretionary authority under quarantine to require treatment or destruction of infected or infested honey bee colonies and the owner or custodian's duty, upon due notice, to comply within the specified time and manner. Revised during review from 'Required colony treatment or destruction upon notice' to reflect permissive order authority rather than an unconditional mandate."
+        },
+        {
+          "number": 5,
+          "title": "Director action upon noncompliance and expense lien",
+          "bodySha256": "68270a006a168c69bdfb0b732a83c7feb2b18352af6989b087178a17d428b1e5",
+          "reviewNote": "Read complete text of subsection 5 and history note. Covers permissive action by the director or authorized personnel if the owner or person in charge neglects or refuses to comply within the noticed time limit, and creation and enforcement of an expense lien against the premises in the manner of labor-and-materials liens on buildings, lots, wharves, and piers."
+        }
+      ]
+    },
+    {
+      "id": "264.095:14306",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=264.095&bid=14306",
+      "sourceSha256": "51b8f90f2dc4a8df3e768177796c924c3f8e088a7cc7c62fbad22e35ee996577",
+      "textSha256": "47f521e5b2287da5dbf2ad55dcf2323a45a7b48db28e5568d9f8d118ee6e747e",
+      "draftedBy": "antigravity_drafter_d21",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r28",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version (2 subsections, including subdivisions (1)–(3) in subsection 1) and history note (L. 1985 H.B. 180, A.L. 1993 S.B. 52, A.L. 1995 S.B. 3); verified source identity and both bodySha256 fingerprints. Checked sections 264.011 to 264.101 rulemaking scope (sub 1) and both employee/contract-employee compensation and working-condition rules plus chapter-wide section 536.024 rule-effectiveness condition (sub 2). Revised subsection 2 title to \"Employee pay, working-condition rules, and section 536.024\"; retained subsection 1 title.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Rules for inspections and disease or pest control",
+          "bodySha256": "9ad0b75036c44cef605e4abe7b2f704868cf41e5f54326f23225795cdf5c71bd",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1)–(3) and history note (L. 1985 H.B. 180, A.L. 1993 S.B. 52, A.L. 1995 S.B. 3). Covers the director's rulemaking duty for sections 264.011 to 264.101, including rules governing inspector and employee apiary/equipment inspections, disease/pest investigation and eradication, and supervised treatment, control, or destruction."
+        },
+        {
+          "number": 2,
+          "title": "Employee pay, working-condition rules, and section 536.024",
+          "bodySha256": "c4f0a406d420f78f20d8be81c03e97d6a98b3909ff14178be989aae97924034b",
+          "reviewNote": "Read complete text of subsection 2 and history note. Accounts for both topics in the subsection: rulemaking for compensation and working-condition standards for employees and contract employees, and the chapter-wide condition that no rule or portion of a rule becomes effective unless promulgated under section 536.024. Revised during review from 'Employee compensation rules and section 536.024 procedure' to include working-condition standards."
+        }
+      ]
+    }
+  ]
+}
