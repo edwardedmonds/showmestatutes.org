@@ -1,0 +1,744 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "542.266:28662",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=542.266&bid=28662",
+      "sourceSha256": "b7e3e84d90097ee54e00b2c362bc1d37b191d8c8672e59044c1897ac48c826c6",
+      "textSha256": "b791834edc290c20138757787980d4d92dfee1ae19620b0551c828c24fd3581f",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Statutory definition of search warrant",
+          "bodySha256": "93a2e1cdbeb35528461b68cfddb5ac3acd6b7d9059e328695e10b07758b5b01a",
+          "reviewNote": "Defines a search warrant as a written court order commanding the search of a person, place, or thing and the seizure, photographing, or copying of property found thereon or therein."
+        },
+        {
+          "number": 2,
+          "title": "Judicial officers authorized to issue search warrants",
+          "bodySha256": "c0e11ff9555bbc590d66587e0e3a03b8640397c2eede2a31f63eff0efe343ba7",
+          "reviewNote": "Permits issuance of a search warrant by an appellate judge or any judge of a court with original criminal jurisdiction within the territorial jurisdiction where the target is located at application."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and 1985 Berkwit territorial-jurisdiction annotation for 542.266. Fixed typo ('territorial territory') in subsection 2 note."
+    },
+    {
+      "id": "542.271:28663",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=542.271&bid=28663",
+      "sourceSha256": "6a0e014aff03cce3c2f0057f10f017879a934fb512cd1572189c5aef34a08e68",
+      "textSha256": "44fcaeb6cade285dcddaf2e904a5b8f17f166e9855579c6dc19d867630a0e128",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Categories of property subject to search and seizure under warrant",
+          "bodySha256": "7ac62e0495126edc3b33493507664a4e4770232f3af761deec4bb7a0ff3643d4",
+          "reviewNote": "Permits warrants to search for, seize, photograph, copy, or record six categories of items: offense evidence, stolen/ch. 569-570 property, noticed PSC communications property, unlawful-possession property, statutorily seizable property, and manufacturing materials."
+        },
+        {
+          "number": 2,
+          "title": "Search warrant for search and rescue of kidnapped persons",
+          "bodySha256": "652018fc0d444668285c304f8f6c7b33b2767bd77d6af01c44a7233029b007ba",
+          "reviewNote": "Permits issuance of a warrant to search for and rescue a kidnapped person."
+        },
+        {
+          "number": 3,
+          "title": "Search warrant for person with outstanding felony arrest warrant",
+          "bodySha256": "b645c2e1496ea35734820bcd9926cfd4478b41676f801434acb82ad5f80b1522",
+          "reviewNote": "Permits issuance of a warrant to search for any person for whom a valid felony arrest warrant is outstanding."
+        },
+        {
+          "number": 4,
+          "title": "Search warrant for deceased human fetuses or human corpses",
+          "bodySha256": "9a4f52d674412ca1e8959aecbef2ae765e9577ebe4f7b8f331812992625de302",
+          "reviewNote": "Permits issuance of a warrant to search for and seize any deceased human fetus or corpse, or part thereof."
+        },
+        {
+          "number": 5,
+          "title": "Supremacy of statutory search warrant provisions over agency rules",
+          "bodySha256": "277ac2bde7dbb6d2da8a37463bab39e5fd7a077865b9e00efe08623771f90265",
+          "reviewNote": "Provides that sections 542.261 to 542.296 and 542.301 prevail over any contrary rules and regulations of any state governmental agency, commission, or board."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all five subsections and six subdivisions of subsection 1 for 542.271. Verified accuracy of titles and refined notes."
+    },
+    {
+      "id": "542.276:28664",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=542.276&bid=28664",
+      "sourceSha256": "0c61cdd9d2a971644010453a5f2212a9e04dbbfe318bb4f45c5b9bd3cc660546",
+      "textSha256": "be80eba2f9cd2d70bd1625093618cab222c57f28a53bc7906934c2e9ac1749b0",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Peace officers and prosecuting attorneys authorized to apply for warrant",
+          "bodySha256": "e31d91133044264f1fdee3ea4f40a0a037d2c664b99ae6e6c67f5e85b377f408",
+          "reviewNote": "Permits any peace officer or prosecuting attorney to apply under section 542.271 for issuance of a search warrant."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory written contents of search warrant application",
+          "bodySha256": "b7a7c0adace93863353672ddbb23bb55052309ccd4d183fad9c862ffce55ab77",
+          "reviewNote": "Requires the application to be written, dated, particularized as to target and items, state probable cause facts, be verified by oath/affirmation, filed in proper court, and signed by the prosecutor or assistant."
+        },
+        {
+          "number": 3,
+          "title": "Written supporting affidavits under oath or affirmation",
+          "bodySha256": "95b8637a2be41b7bc2c02424781c13e470da6a04e2a59dc5700509ad0f0bf1f6",
+          "reviewNote": "Allows sworn written affidavits to supplement probable cause and descriptions, bars oral testimony, and permits submission by facsimile or other electronic means."
+        },
+        {
+          "number": 4,
+          "title": "Judicial determination of probable cause and warrant issuance",
+          "bodySha256": "616cc9d0efa11b0c89ca8f3ab7a2a589a2321f1ec4385fe57518579dda722c5b",
+          "reviewNote": "Directs the judge to determine probable cause from the application and affidavits and immediately issue the search warrant as an original and two copies if probable cause appears."
+        },
+        {
+          "number": 5,
+          "title": "Retention of search warrant application and supporting records",
+          "bodySha256": "e9b9d67f05f755b07862d65667c501fb92b2f6725040c0da297f980bd11ae239",
+          "reviewNote": "Requires the issuing court to retain the application, supporting affidavit, and a copy of the warrant in court records."
+        },
+        {
+          "number": 6,
+          "title": "Mandatory form and textual contents of issued search warrant",
+          "bodySha256": "6e79f6e5c180487cbac171fb3e080cbec7c604dd7f79d0e78cd4da1e9e4e72aa",
+          "reviewNote": "Prescribes seven required elements of a search warrant, including writing in the name of Missouri, direction to any peace officer, time/date, particularity, search/seizure/copying command, and judge's signature and title."
+        },
+        {
+          "number": 7,
+          "title": "Execution of search warrant exclusively by peace officers",
+          "bodySha256": "569d5ca2af260aa6433849ac8fd09f121d52dd9df811562ab7eee18b905a05c2",
+          "reviewNote": "Restricts execution of search warrants to peace officers and permits issuing warrants by facsimile or other electronic means."
+        },
+        {
+          "number": 8,
+          "title": "Ten-day expiration deadline and subsequent searches of seized items",
+          "bodySha256": "fe3ef55ebec6ae63d7cd68f42009e21fc89cbc516419447254fffcbb23a3ee8b",
+          "reviewNote": "Requires execution and return within ten days of application, while allowing subsequent searches of seized/removed items subject to continuing probable cause with a supplemental return and receipt."
+        },
+        {
+          "number": 9,
+          "title": "Officer return and itemized receipt delivered to issuing judge",
+          "bodySha256": "082f95489e541ee2dd6385f23153b229d1de25931c4b3a07dcd7d7c6f71e0ded",
+          "reviewNote": "Requires delivering the executed warrant with signed return and itemized receipt (citing § 542.291(6) in source text) to the issuing judge, with copies furnished on request to the possessor and applicant."
+        },
+        {
+          "number": 10,
+          "title": "Statutory conditions rendering search warrant invalid",
+          "bodySha256": "4ac66126287759b0ed495787199e4a928dcff0ec5faa1f68254aedd44e5b7a68",
+          "reviewNote": "Lists seven defects rendering a search warrant invalid: not issued by a judge, no verified written application, no probable cause, wrong county, insufficient certainty, unsigned by judge, or untimely execution."
+        },
+        {
+          "number": 11,
+          "title": "Validity of search warrant applications using electronic signatures",
+          "bodySha256": "5bd777d796c3e619f22aac712e2be8aca0ac2190573db2c006c527ecdcf90ce1",
+          "reviewNote": "Provides that warrant application or execution is not invalid solely because it relies upon electronic signatures of the peace officer, prosecutor, or issuing judge."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all 11 subsections, subdivisions, and history notes for 542.276. Verified accuracy of titles and refined notes (including electronic submission/issuance, post-removal supplemental searches in subsection 8, and subsection 9 cross-reference to § 542.291(6))."
+    },
+    {
+      "id": "542.281:28665",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=542.281&bid=28665",
+      "sourceSha256": "e19c9e89f38d8b40cb1bb7e88117a0634249305d5b9f158f0f8eb2cc01684e7a",
+      "textSha256": "a07154840a05c4cd40062a6b52a4b1b71992d372dd77db819bc089282b3a4a1c",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application for search warrant for obscene or minor-pornographic matter",
+          "bodySha256": "1680809a0e6e4f780a20da35e5ecf67aaedb3c0a5edf4280923a3f0641661260",
+          "reviewNote": "Permits any police officer, sheriff, or deputy sheriff to apply for a search warrant for obscene matter for the public, matter pornographic for minors, or consented production raw materials/instruments."
+        },
+        {
+          "number": 2,
+          "title": "Circuit judge issuance, chapter 573 evidence, and oral testimony",
+          "bodySha256": "b7d6e82bc05df8f78ef2c2e453f658ce56302feffd7bddba67e18b0f53218757",
+          "reviewNote": "Permits a circuit judge where the matter is located to issue a warrant for chapter 573 criminal evidence governed by § 542.276, except oral testimony may be considered."
+        },
+        {
+          "number": 3,
+          "title": "Precise designation of items in application and warrant",
+          "bodySha256": "c82269b60994df19a4ed96127c928b838eebc1181180efd5fbe483b3d2f06e11",
+          "reviewNote": "Requires the application and warrant, if issued, to designate precisely by title or otherwise each item to be searched for and seized."
+        },
+        {
+          "number": 4,
+          "title": "Probable cause finding of obscenity or pornography for minors",
+          "bodySha256": "3698d49da9d9c30acac68fd385c29487cfc6c8ec9686f1ce3bf69267159a631e",
+          "reviewNote": "Prohibits issuing a warrant unless the judge finds probable cause that the item is obscene or pornographic for minors under section 573.010 and is being displayed, sold, exhibited, distributed, or circulated."
+        },
+        {
+          "number": 5,
+          "title": "Annexing copy or photograph of printed or photographable item",
+          "bodySha256": "448fd04bd71399362574004a004d4dcbf2e59cdd5cf317241fabd5fc140ea9b8",
+          "reviewNote": "Permits annexing a copy or photograph of an allegedly obscene book, magazine, paper, pamphlet, or photographable item to the warrant application."
+        },
+        {
+          "number": 6,
+          "title": "Verified affidavits supplementing film or video cassette applications",
+          "bodySha256": "fbf63a80d90627ddda5fb0b7c18398debbbfa4cf908c917414c38d8b4dcc5339",
+          "reviewNote": "Permits verified written affidavits of law enforcement officers and city or county prosecutors to supplement applications to seize motion picture films or video cassettes."
+        },
+        {
+          "number": 7,
+          "title": "Officer reliance on past viewings of same film or video cassette",
+          "bodySha256": "85d5ff8ad93a697ad779725e3cbcf35a4c9c87a1c7d46b207f3400203ed4e7ef",
+          "reviewNote": "Permits an officer applying for a warrant to rely on past viewings of the same film or video cassette if identifiable as the same or a copy by title, packaging, label, or other manner."
+        },
+        {
+          "number": 8,
+          "title": "Adversary hearing for non-evidentiary seizure and contempt penalty",
+          "bodySha256": "28d145bd1af45c1aebdcf1a1d6832ada33e7fc52f48c572492c1019af68db563",
+          "reviewNote": "Requires an adversary hearing with 24-hour personal notice and 10-day decision before non-evidentiary seizure of obscene matter, treats prior criminal obscenity findings as clear and convincing evidence, and punishes intentional alteration/removal as contempt."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all eight subsections, effective date (7-15-87), and 1998/1999 B.A.P., Inc. v. McCulloch annotations for 542.281. Replaced completely fabricated/shifted subsections 2 through 8 with actual statutory provisions."
+    },
+    {
+      "id": "542.286:28666",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=542.286&bid=28666",
+      "sourceSha256": "d0e583f617e1c4eaf69f4384e521f7a34c7cffcd76c6939571429c67d3a1e9f1",
+      "textSha256": "e53e333f4b4dd79efc41bea39015af2e32eb02e1fb954768469297899f7f42cb",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Statewide execution for person or movable thing leaving jurisdiction",
+          "bodySha256": "0b908c6ec2f809bb41a5d5d8c0acf8cae30a5f1fcaae656faeee18ed0b77d134",
+          "reviewNote": "Permits executing a warrant for a person or movable thing anywhere in Missouri if the person or thing moves or is taken outside the issuing judge's territorial jurisdiction after the application is filed."
+        },
+        {
+          "number": 2,
+          "title": "Territorial jurisdiction limits for all other search warrants",
+          "bodySha256": "8d872e4f8596f27fc2b4451bd746e86df8150c368b46766e5664f5554ecdd420",
+          "reviewNote": "Requires all other search warrants to be executed within the territorial jurisdiction of the issuing court and within the territorial jurisdiction of the executing officer."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and history note for 542.286. Corrected inverted/fabricated titles and notes: subsection 1 governs statewide execution for movable targets relocated after application; subsection 2 governs territorial execution of all other warrants."
+    },
+    {
+      "id": "542.291:28667",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=542.291&bid=28667",
+      "sourceSha256": "04b8432014cce11f821e26016539491eff12f0f70a458c71216b797761450131",
+      "textSha256": "39f9d4ded1356bb49c6dff6bac55919208cf614f768c2bbf14248cd59b709a71",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Reasonable manner of search and nighttime execution condition",
+          "bodySha256": "a9367aa58fb338efa9e5520fdd546a4643cf46a04f5882e0a7ab794a7624f8a9",
+          "reviewNote": "Requires conducting the search in a reasonable manner and permits nighttime execution if making the search during daytime is not practicable."
+        },
+        {
+          "number": 2,
+          "title": "Justified use of force under facially valid search warrant",
+          "bodySha256": "9c5b80c60a62773a39d341fbc8fbf4e0d991b63d7cfa2fabe16889b5bd54efc9",
+          "reviewNote": "Permits an officer searching under an invalid warrant whose invalidity is not apparent on its face to use the same force justified if the warrant were valid."
+        },
+        {
+          "number": 3,
+          "title": "Officer authority to summon assistants and assistant immunity",
+          "bodySha256": "7057b9011feaa38e17b26d368d497937a14b25a44bf6d4bd13eb5705ed5f6570",
+          "reviewNote": "Permits the officer to summon as many persons as deemed necessary to assist in executing the warrant and immunizes such persons from liability for illegality of the search and seizure."
+        },
+        {
+          "number": 4,
+          "title": "Delivery or leaving of warrant copy and itemized property receipt",
+          "bodySha256": "844b68299cfd527b07f2a7d55319c1ca87e150df6f86836d791acd98db786181",
+          "reviewNote": "Requires giving a copy of the warrant and an itemized receipt for seized property to the possessor if present, or leaving both at the search site if no person is present."
+        },
+        {
+          "number": 5,
+          "title": "Delivery of itemized receipt to prosecuting attorney within two days",
+          "bodySha256": "1995f7dd9dd02f67c3538efd08851f43f5ffac00db7d3c649b8b50b335f1b61d",
+          "reviewNote": "Requires delivering a copy of the itemized receipt of any seized property to the county prosecuting attorney's office within two working days of the search."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all five subsections and history notes for 542.291. Replaced completely fabricated/shifted subsections 2 through 5 and corrected subsection 1 note (nighttime search permitted only if daytime is not practicable)."
+    },
+    {
+      "id": "542.296:28668",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=542.296&bid=28668",
+      "sourceSha256": "af3fd5b4ab9c37daccc0c9b76888c91c0dfb6e7673b642cc3d6b623082ef3b5e",
+      "textSha256": "dde388448209e7df29bee5372d5c25649fdde7de4f2f354476ac07b7c463a6f9",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Motion to suppress evidence illegally obtained by search and seizure",
+          "bodySha256": "b95437f636bbd8f32dfce9f53d6e468c6beb237863b001c9d5bf9e7f32bd165a",
+          "reviewNote": "Permits a person aggrieved by an unlawful officer seizure facing a pending criminal proceeding (including an active investigation for indictment/information) to move to suppress the seized property or matter."
+        },
+        {
+          "number": 2,
+          "title": "Written motion filed in court with pending criminal proceeding",
+          "bodySha256": "6c9232cdf89279b0af992f23513940106ea11ce01b39b3cd434a3c9b99d40963",
+          "reviewNote": "Requires the motion to suppress to be in writing and filed with the court in which a criminal proceeding growing out of the seizure is pending against the moving party."
+        },
+        {
+          "number": 3,
+          "title": "Pretrial timing and trial discretion for suppression motions",
+          "bodySha256": "61850ce8ff32fc5a7811cda96cbeda8dbb4fbf79c5e5fcd49a97b758d7814ba7",
+          "reviewNote": "Requires making the motion before trial unless the movant was unaware of grounds or lacked opportunity, while giving the trial judge discretion to entertain a motion anytime during trial."
+        },
+        {
+          "number": 4,
+          "title": "Notice to prosecuting attorney of suppression hearing",
+          "bodySha256": "3ff2e00ff447c466ccd3685d30ba6788e900c958ad4369c8bb3d84417174a6d2",
+          "reviewNote": "Requires giving notice to the prosecuting attorney of the date, time, place, and nature of the suppression hearing."
+        },
+        {
+          "number": 5,
+          "title": "Statutory grounds for suppressing illegally seized evidence",
+          "bodySha256": "1fc94092e5937954af351ea259f130447716d0fd2007f94c28bd0de99212af43",
+          "reviewNote": "Enumerates five grounds for suppression: warrantless/unlawful search, facially improper/illegal warrant or lack of probable cause, undescribed property, illegal execution, or Missouri/U.S. constitutional violation."
+        },
+        {
+          "number": 6,
+          "title": "Evidentiary hearing and state burden of proof on suppression motion",
+          "bodySha256": "ccce7c5f8a7c739b445e0d094686b2430ff2f7baa51d70f5c2495dff2e308999",
+          "reviewNote": "Requires the judge to receive evidence on necessary fact issues and places the burden of going forward and risk of nonpersuasion on the state by a preponderance of the evidence."
+        },
+        {
+          "number": 7,
+          "title": "Order restoring property to moving party upon sustained motion",
+          "bodySha256": "e98394d2993a1df2d206f051481ba85393ba73b63987dd9e6818cb217c9e3704",
+          "reviewNote": "Requires the judge, if the motion is sustained, to order the property or matter delivered to the moving party unless retention is authorized or required under section 542.301 or other state law."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all seven subsections and subdivisions for 542.296. Replaced completely fabricated subsection 2 ('standing requirements') with actual text requiring a written motion filed in the court with the pending criminal proceeding."
+    },
+    {
+      "id": "542.301:60481",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=542.301&bid=60481",
+      "sourceSha256": "cfce0741fb0704e0652e17f1a53e5741a653c458c413abde16bb2c1faf96f71e",
+      "textSha256": "e2941fa01ebbdc5d1f1a5e15f1b7a68a1ed425acf98f364893287db131475bac",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Custody, return, sale, and forfeiture of seized property",
+          "bodySha256": "c8dc0e99d1fdff0df48cd8a150749c97af3407c6a80fb2b15d1d7a40ac0efcd8",
+          "reviewNote": "Governs return of stolen/ch. 569-570 property on one-year claim, prosecutor/AG disposition motions, abandoned-property cash turnover (§ 447.543), perishable/animal sales, and forfeiture of felony-used tools/devices/contraband."
+        },
+        {
+          "number": 2,
+          "title": "Forfeiture motion by prosecutor or attorney general and claimant motion",
+          "bodySha256": "ef2ada3e97f348120fb12780549e4cc2d7ee228a40e7575bef943a4189025c2f",
+          "reviewNote": "Directs custodial officers to notify the prosecutor to file a forfeiture motion (or request AG filing after 60 days), and permits claimants to move for declaration against forfeiture and delivery."
+        },
+        {
+          "number": 3,
+          "title": "Notice of forfeiture motion to all interested claimants",
+          "bodySha256": "f93e21d216132f1cbd29b0afd37c90dc7dc5ce775f30a1aa4f361c81bf14072f",
+          "reviewNote": "Requires court-ordered notice (including publication for unknown persons) to all interested persons, possessors, and lienors with reasonable opportunity to appear and be heard."
+        },
+        {
+          "number": 4,
+          "title": "Judicial declaration of forfeiture on clear and convincing evidence",
+          "bodySha256": "b203559bfcd12ff80b249bd02159a837deb6c1b8597fac8c6d6f1842f0893910",
+          "reviewNote": "Directs the judge to declare property forfeited and order destruction or sale upon clear and convincing evidence, postponing destruction or sale while needed as criminal evidence."
+        },
+        {
+          "number": 5,
+          "title": "Lawful-use sale, law enforcement retention, and bona fide lienors",
+          "bodySha256": "9af8267eb1574000d38775c91530ece228f04244a07b7926791c55835a04adec",
+          "reviewNote": "Allows altering/selling forfeited property for lawful use, law enforcement retention of devices used for child sexual abuse/obscene material, and paying innocent bona fide lienholders before county treasury deposit."
+        },
+        {
+          "number": 6,
+          "title": "Summary destruction or public sale of perishable seized property",
+          "bodySha256": "97b8b336c6de767aa7a10fba50b05a9d1ef3c512d56392ed4b02570f42b94538",
+          "reviewNote": "Permits the judge to order perishable property sold at public sale or destroyed prior to a hearing, holding net sale proceeds in lieu of the property."
+        },
+        {
+          "number": 7,
+          "title": "Adversary forfeiture proceedings for allegedly obscene matter",
+          "bodySha256": "2112615159552b77ffa75d5a9de822577941a659283ac78a361b9fba94a89efb",
+          "reviewNote": "Requires further adversary proceedings after return of a non-evidentiary obscenity forfeiture warrant, clear and convincing proof, thorough judicial examination, 10-day judgment deadline, and immediate restoration if not forfeited."
+        },
+        {
+          "number": 8,
+          "title": "Expedited appellate scheduling for appeals from obscenity forfeitures",
+          "bodySha256": "0d0ae1699b33eefc994ae4bfbe3e24e73c7305d002f0b8c12ceaf2f6c3135d6c",
+          "reviewNote": "Directs expediting appeals by dealers, exhibitors, or displayers from subsection 7 adverse judgments and postpones destruction/disposition until appeal finality and end of evidentiary need."
+        },
+        {
+          "number": 9,
+          "title": "Obscenity forfeiture findings inadmissible in criminal proceedings",
+          "bodySha256": "775aae1e1b3732f903b1ff6161ee8f4ba7f8eff876d50be06ff76c80b04844b2",
+          "reviewNote": "Bars admitting a subsection 7 obscenity determination in criminal proceedings for sale or possession, except against the dealer, distributor, or displayer from whom the matter was seized."
+        },
+        {
+          "number": 10,
+          "title": "Forfeiture motion for obscene or minor-pornographic evidentiary matter",
+          "bodySha256": "3cd29e71fe5eae8f3cddf0ff89b4a8f191dc3b2ed3b40f587c949b044ee33c46",
+          "reviewNote": "Permits a prosecutor, once matter seized under § 542.281(2) is no longer needed as criminal evidence, to move for forfeiture with five-day personal notice of the hearing."
+        },
+        {
+          "number": 11,
+          "title": "Clear and convincing standard for obscene or minor-pornographic forfeiture",
+          "bodySha256": "fde1cbeff057a9864f9f064d3864c03181da97160a0a51a0b65e597c96cc305d",
+          "reviewNote": "Requires clear and convincing proof, judicial examination, and opportunity to oppose (satisfied by prior criminal conviction on the same matter) before ordering forfeiture and destruction, or immediate restoration."
+        },
+        {
+          "number": 12,
+          "title": "Expedited appeal and stay of destruction for subsection 11 forfeiture",
+          "bodySha256": "566e1f8c43565dbf4db1882f025b27df32e59d2d2f27f5de0baff76a68d61c08",
+          "reviewNote": "Mandates expediting appeals from subsection 11 adverse judgments and postpones destruction or disposition until appeal exhaustion/expiration and end of criminal evidentiary need."
+        },
+        {
+          "number": 13,
+          "title": "Inadmissibility of obscenity determination in criminal proceedings",
+          "bodySha256": "86cc0f5095ddb041680dcb99ebcadc3c1a256757a91473b40d9f69b6b2c8fa60",
+          "reviewNote": "Provides that a determination of obscenity shall not be admissible in any criminal proceeding against any person or corporation for sale or possession of obscene matter."
+        },
+        {
+          "number": 14,
+          "title": "Right of appeal from civil forfeiture judgments",
+          "bodySha256": "676a3a393daa33a3358c004633eebbd30e5e9286aa99a0cb747b9149a05239a7",
+          "reviewNote": "Allows an appeal by any party from the judgment of the court as in other civil actions."
+        },
+        {
+          "number": 15,
+          "title": "Abandonment and turnover of unclaimed seized property after three years",
+          "bodySha256": "71d8cf8555b4bb9aac6079a379842f871774a730789d29bb7fa9bc195572b669",
+          "reviewNote": "Deems all other non-forfeited seized property still in custody after three years and no longer useful as evidence abandoned, to be converted to cash and turned over to the treasurer under section 447.543."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all 15 subsections, subdivisions, and 2026 amendment (H.B. 2273) for 542.301. Corrected subsections 10-13 (allegedly obscene matter or pornographic material for minors under § 542.281(2), not 'child pornography') and subsection 15 (three years, not one year, for abandoned property turnover under § 447.543)."
+    },
+    {
+      "id": "542.402:28672",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=542.402&bid=28672",
+      "sourceSha256": "e366cea7231760db614f5bfd37256ac6eaa9b5c9b8600dfb26b0c77416677894",
+      "textSha256": "fc052f9b0c8a44c3c73727f3fc7dd9c3238b1f2c4710309758a37144e55b78fd",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Class E felony penalty for illegal interception of wire communications",
+          "bodySha256": "8f06b4faca63c9661c0116ca36a6b78c80fe804b402116a93cffa9e1d02afa1a",
+          "reviewNote": "Makes knowing wire interception, radio/interfering oral-interception device use (except undercover law enforcement body mics/transmitters), or knowing disclosure/use of unlawfully intercepted wire contents a class E felony."
+        },
+        {
+          "number": 2,
+          "title": "Exemptions from wiretap prohibitions for authorized communications",
+          "bodySha256": "1201917da176f90d80030aeefecdea082fb21009b45310ddb50d2aa23e3b3cc7",
+          "reviewNote": "Exempts switchboard/common carrier normal-course service/protection (barring random monitoring except mechanical/quality checks), lawful party/one-party consent interceptions, and non-criminal/non-tortious private one-party consent."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections, effective date (1-01-17), and 1998 Lee v. Lee annotation for 542.402. Removed unsupported 'FCC activities' from subsection 2 note."
+    },
+    {
+      "id": "542.404:28674",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=542.404&bid=28674",
+      "sourceSha256": "7b590a6179a0cf09cf938d9e404ffc620be0e362c21d641f577d9c83ae941b39",
+      "textSha256": "307c3ca699dd483a4057a6dd075bf32a38f3f626eb1343cd095f40c8bc79eca7",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prosecutor application for wiretap order authorized by attorney general",
+          "bodySha256": "f3bd4c3256877855ff98cabe427f72c449c71291b07671f1daa20cf97ab6792f",
+          "reviewNote": "Permits an elected county prosecutor with written AG authorization to apply for a wiretap order, requires the supreme court to appoint an out-of-circuit judge, and lists qualifying controlled-substance, murder, arson, kidnapping, terrorist-threat, and conspiracy felonies."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory live monitoring of wiretaps by law enforcement",
+          "bodySha256": "53c28456c628905f865e5ebe53c3fbacd0f7dcfe41d8396cd274e217924748f9",
+          "reviewNote": "Requires every wiretap order under sections 542.400 to 542.422 to mandate live monitoring by appropriate law enforcement personnel."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and history notes for 542.404. Verified accuracy of titles and refined subsection 1 note to include supreme court appointment of an out-of-circuit judge and enumerated felonies."
+    },
+    {
+      "id": "542.406:28675",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=542.406&bid=28675",
+      "sourceSha256": "cded62bcad1017cede1fd2d24f9d07d71868e512f18618baa00856d72ada668f",
+      "textSha256": "4383898188697fd8372ff64ce1a1280e72a6cd163a78ac4cc8272b6097a67d6e",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Investigative officer disclosure of wiretap contents for official duties",
+          "bodySha256": "02d99527d2feb92bd939dde6fab0f91bf88d1e3f4161af63d42e6888856ae684",
+          "reviewNote": "Permits officers who lawfully obtained wiretap contents or derived evidence to disclose them to other investigative or law enforcement officers for investigative official duties only."
+        },
+        {
+          "number": 2,
+          "title": "Use of intercepted wire communication contents in official duties",
+          "bodySha256": "f7d5ec191c57139c7d7db5ad8d55ca0cd5e0c1a9b6f0624a712e7a3e3cadfa4f",
+          "reviewNote": "Permits officers who lawfully obtained wire or oral communication contents or derived evidence to use them to the extent necessary for proper performance of official duties."
+        },
+        {
+          "number": 3,
+          "title": "Testimonial disclosure of intercepted communications under oath",
+          "bodySha256": "152c9aa421017b2135e5484bab55fc2ab36059d50c844279169bef5709df61d0",
+          "reviewNote": "Directs any person who lawfully received wiretap information or derivative evidence to disclose it under oath or affirmation in criminal, deposition, or grand jury proceedings subject to evidence rules."
+        },
+        {
+          "number": 4,
+          "title": "Preservation of privileged communications intercepted during wiretaps",
+          "bodySha256": "f891c4a97a20f460a5b3c9d72220cb0acf42e3fbaac9ae3d8e7ef44785302bcd",
+          "reviewNote": "Provides that no otherwise privileged wire communication intercepted in accordance with or in violation of sections 542.400 to 542.422 loses its privileged character and shall be suppressed upon motion."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all four subsections and history notes for 542.406. Refined subsection 3 note (mandatory 'shall disclose' in criminal/grand jury proceedings, not just 'authorizes')."
+    },
+    {
+      "id": "542.408:28676",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=542.408&bid=28676",
+      "sourceSha256": "2bb1d95201c329f89cc697586427c71166ded13db4539179e1275f14e904a306",
+      "textSha256": "16361e8d41ff7643a3e7bf89852ed8a93858d8617e0c9df39fdd703c735d74ed",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written wiretap application submitted to attorney general",
+          "bodySha256": "0ec8fc9cefaa00d446843a1f900a4ec291d0cc5004eacf774b23d7cc1a8e3ac9",
+          "reviewNote": "Requires written wiretap applications to be submitted to the attorney general for approval and joinder, submitted under oath to a court of competent jurisdiction, and contain seven enumerated categories of facts."
+        },
+        {
+          "number": 2,
+          "title": "Judicial authority to require additional testimony or evidence",
+          "bodySha256": "7cfef7fead0bc35f138171726f6884df8ba2d236a20fdc9efb16440b41ec91c3",
+          "reviewNote": "Permits the court to require the applicant to furnish additional testimony or documentary evidence in support of the wiretap application."
+        },
+        {
+          "number": 3,
+          "title": "Ex parte judicial order authorizing wiretap interception",
+          "bodySha256": "df77e886c114d530c5cacd052645f6577d9500356feaa396a149e03de25a3c4e",
+          "reviewNote": "Permits the court to enter an ex parte order authorizing wire interception within its territorial jurisdiction upon finding probable cause as to a § 542.404 offense, communications, facilities, and inadequacy of normal procedures."
+        },
+        {
+          "number": 4,
+          "title": "Mandatory specifications and identity disclosures in wiretap orders",
+          "bodySha256": "8d61a43488370ae449d6098152d541b5d340b8c64d4806f8fe396e9fadb5748d",
+          "reviewNote": "Requires each wiretap order to specify target identity/employment, facility nature/location (including cellular/wireless), communication type and offense, authorized agency/person, and duration/termination terms."
+        },
+        {
+          "number": 5,
+          "title": "Thirty-day maximum duration for wiretap orders and extensions",
+          "bodySha256": "f5b0caa7570214940021b20f079770235be489d525c75470095576bac22ab71d",
+          "reviewNote": "Caps wiretap orders and extensions at the period necessary and no longer than thirty days, and mandates prompt execution, minimization of non-subject interceptions, and termination upon objective attainment."
+        },
+        {
+          "number": 6,
+          "title": "Periodic progress reports to issuing court during interception",
+          "bodySha256": "b55c8fd0a0888288dfd377b78aaeaf9168e88d1df38f57bd5700710884c810e5",
+          "reviewNote": "Permits a wiretap order to require progress reports to the issuing court at intervals no longer than thirty days showing progress and continued need."
+        },
+        {
+          "number": 7,
+          "title": "Law enforcement request for court-ordered pen register",
+          "bodySha256": "43c7a904bc0e487b4e27fbf20a9e823d086f612c4930f40cefc90d941d5223e6",
+          "reviewNote": "Permits any law enforcement officer with prosecuting attorney approval to request a court order upon reasonable grounds for a pen register determining only outgoing dialed phone numbers."
+        },
+        {
+          "number": 8,
+          "title": "Common carrier technical assistance, compensation, and civil immunity",
+          "bodySha256": "ad136d2d7e8c2694846158ab1e63604796eec87b9957d61159cce9c66e3def2b",
+          "reviewNote": "Permits communication common carriers furnished with a signed court order to provide technical assistance, grants civil immunity for compliance, and requires compensation by the prosecutor at prevailing rates."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all eight subsections and subdivisions for 542.408. Removed fabricated 'trap and trace devices' from subsection 7 (text covers pen registers only), preserved permissive 'may' in subsection 8, and broadened subsection 3 note to all § 542.404 offenses."
+    },
+    {
+      "id": "542.410:28677",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=542.410&bid=28677",
+      "sourceSha256": "bad2c7375b7e0a4cb08c5f7e6e9c66051cb2a922a9607e71ad9ea27ebdb6e7de",
+      "textSha256": "827a819dc17b455105f3b1b2e4bde35b3b708c7e3533b4fc8023270466cc731f",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory recording and judicial sealing of intercepted communications",
+          "bodySha256": "43162dba4a40451e4a1f4557ccb1ca91106bb7ef0c13c57221f11ec5ac305edf",
+          "reviewNote": "Requires tamper-protected recording of intercepted communications, immediate delivery and court sealing upon expiration, ten-year retention, duplicate recordings for § 542.406(1)-(2), and seal prerequisite for § 542.406(3) use."
+        },
+        {
+          "number": 2,
+          "title": "Judicial sealing and custody of wiretap applications and orders",
+          "bodySha256": "5553c6dc1eed3a64003081895223f6c763ac8b476bfcf59872c5a0fb66d715af",
+          "reviewNote": "Requires court sealing and custody of wiretap applications and orders, limits disclosure to good cause before a competent court, and requires ten-year retention and court order for destruction."
+        },
+        {
+          "number": 3,
+          "title": "Class A misdemeanor penalty for violating recording or sealing rules",
+          "bodySha256": "e67f967125aef1207ccfc24db5867237133a6d02d161c05985a157d84806743a",
+          "reviewNote": "Makes any violation of the provisions of this section punishable as a class A misdemeanor."
+        },
+        {
+          "number": 4,
+          "title": "Ninety-day post-termination inventory notice to targeted individuals",
+          "bodySha256": "d1b904a84f368eb1de6ca4f9b74a665b9c7c18621f11a43bb558003f2f650eb8",
+          "reviewNote": "Requires serving an inventory notice within ninety days after application or order termination on named persons and intercepted parties and making communications, applications, and orders available on motion."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all four subsections and subdivisions for 542.410. Verified accuracy of titles and refined notes (including 10-year retention in subsections 1-2 and inspection/copying on motion in subsection 4)."
+    },
+    {
+      "id": "542.412:28678",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=542.412&bid=28678",
+      "sourceSha256": "7797eac23c0db80add0f67a5455973f6a81b9962c4850d4e7eb71ac5fe611cb8",
+      "textSha256": "73d10f893acd7d8cfe2fbe4b76e5c64c4da786f10a214556aacc31446cbcce27",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Discovery disclosure prerequisite for evidentiary use of wiretaps",
+          "bodySha256": "d90cca61b3bae32d43c60d16428f25652d56df7a47b5c126295e82ede51477f6",
+          "reviewNote": "Bars receiving or disclosing intercepted wire contents or derived evidence in any federal, state, or administrative proceeding unless each party received the order, application, and transcript under supreme court criminal discovery rules."
+        },
+        {
+          "number": 2,
+          "title": "Defense access to non-disclosed materials in government control",
+          "bodySha256": "c76888d304ed324cd8f3235801bc85b7a1342d23c2986c466749377896cbba64",
+          "reviewNote": "Requires the state to make diligent good-faith efforts to obtain defense-designated material held by other governmental personnel and directs the court on request to issue subpoenas or orders if unsuccessful."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and history notes for 542.412. Removed fabricated 'ten-day pretrial' deadline from subsection 1 (text requires compliance with supreme court criminal discovery rules)."
+    },
+    {
+      "id": "542.414:28679",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=542.414&bid=28679",
+      "sourceSha256": "af285e80f34a6a50aaffd3cb72a5a833f195027b2d61f195bbe9aca958db96bf",
+      "textSha256": "82c17c935a566326c9fcf0e553a1f33644f88bf4e8a2abd36be6aa4ab7d5a150",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Motion to suppress unlawfully intercepted wire communications",
+          "bodySha256": "f7d9ffea119c7d524e12667cb72dfde457cfe3574e977b4cd3027e9019bffe10",
+          "reviewNote": "Permits any aggrieved person in any judicial or administrative proceeding to move before the proceeding to suppress wiretap contents or derivative evidence on four enumerated statutory or constitutional grounds."
+        },
+        {
+          "number": 2,
+          "title": "Interlocutory appeal by state from wiretap suppression orders",
+          "bodySha256": "fd347607d733c2082fbbf96b9eda44e3c257b123c2bd4788226d6298a11240a6",
+          "reviewNote": "Grants the state an additional right to appeal a subsection 1 suppression order if the prosecutor certifies the appeal is taken within thirty days and will be diligently prosecuted."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and subdivisions for 542.414. Refined subsection 2 note to include prosecutor's 30-day appeal certification and diligent prosecution requirement."
+    },
+    {
+      "id": "542.416:28680",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=542.416&bid=28680",
+      "sourceSha256": "7969c3d17540fed43c5a1cbfc0613bca3b6e4bd649c32a8891f36e1a21bd1caa",
+      "textSha256": "cd9f8cebad3d0d9ce349405f102ce60eb6985a318b00613502be596be26d5a97",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Judicial reports to state courts administrator following wiretaps",
+          "bodySha256": "1e7a0ed2cf9c648a3f8f10f4f845a72467e47fe48cedd4b51176a2d111b59034",
+          "reviewNote": "Requires the issuing court within thirty days after expiration of a § 542.408 order or extension to report seven enumerated items to the state courts administrator."
+        },
+        {
+          "number": 2,
+          "title": "Annual reports by prosecuting attorneys to state courts administrator",
+          "bodySha256": "c7214fff4ae387a639c21e3f47cf45ae5cbb8514c845408b8f2200e4c8fc491d",
+          "reviewNote": "Requires principal prosecuting attorneys each January to report prior-year wiretap applications, interceptions, resource costs, arrests, trials, suppression motions, and convictions to the state courts administrator."
+        },
+        {
+          "number": 3,
+          "title": "Annual report by state courts administrator to general assembly",
+          "bodySha256": "4de83204b1a8970a38cb86735a57505a8a6275223b6e9f1cee5dad8775f2fa25",
+          "reviewNote": "Requires the state courts administrator each April to transmit a summary and analysis report to the general assembly and permits promulgating rules on report content and form."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all three subsections and subdivisions for 542.416. Verified accuracy of titles and notes."
+    },
+    {
+      "id": "542.418:28681",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=542.418&bid=28681",
+      "sourceSha256": "c00648e630f0273bea3a3b72dca9ffaff75667cbe8863beeed6c646c6805542a",
+      "textSha256": "697f14092a9af3f563c9f7cc96d63a22b3860644030f9c768337f4d756fa18ce",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Bar on wiretap contents in civil or administrative proceedings",
+          "bodySha256": "85b11392d20824e6b7e533528a9b8f41595a66ea690cf876d7e39d08e1d5566b",
+          "reviewNote": "Bars receiving or disclosing wire communication contents or derived evidence in any civil or administrative proceeding except civil actions under this section; see 1999 Phillips annotation."
+        },
+        {
+          "number": 2,
+          "title": "Civil cause of action for unlawful wire communication interception",
+          "bodySha256": "7944694a79c1538b52c899f5c1b9b53a6e9d354b1d7352dfbd2cf7c6127434bf",
+          "reviewNote": "Grants persons whose wire communications are unlawfully intercepted, disclosed, or used a civil action for actual or liquidated damages ($100/day or $10,000 minimum), punitive damages for willful violation, and attorney fees/costs."
+        },
+        {
+          "number": 3,
+          "title": "Good faith reliance on court order as prima facie defense",
+          "bodySha256": "73dfeb891f302c03c442c0c3b1d8b46bac8f8fdf75ecaa5ceaab2f6535f2459f",
+          "reviewNote": "Makes good faith reliance on a court order or section 542.408 a prima facie defense to any civil or criminal action under sections 542.400 to 542.422."
+        },
+        {
+          "number": 4,
+          "title": "Preservation of preexisting civil causes of action",
+          "bodySha256": "8ab8b8e02388a5c931b1a142325191fea0217322cdb65bc8fd48dbeb44b26ca8",
+          "reviewNote": "Provides that nothing in this section limits any cause of action available prior to August 28, 1989."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all four subsections and 1998 Lee / 1999 Phillips annotations for 542.418. Refined subsection 1 title/note to reflect statutory text and civil-action exception."
+    }
+  ]
+}

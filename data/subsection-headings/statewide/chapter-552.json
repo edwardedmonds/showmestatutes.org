@@ -1,0 +1,476 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "552.015:29019",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=552.015&bid=29019",
+      "sourceSha256": "7f364d2f0f02444dd84db97e79a7310709aeb75d0fb9caa27999b8dd81ab0456",
+      "textSha256": "171215973df182cf58d874c7abb6ed72dfe8c659fc500760f6abe9527a8a69c7",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "General exclusion of mental disease or defect evidence in criminal trials",
+          "bodySha256": "141f6f495e62174741c2d3aee03eeedeca5d11184ac2fee1c2bc67d3f498f7e3",
+          "reviewNote": "Bars admission of evidence that defendant did or did not suffer from a mental disease or defect in criminal prosecutions except as provided in this section."
+        },
+        {
+          "number": 2,
+          "title": "Enumerated proceedings where mental disease or defect evidence is admissible",
+          "bodySha256": "0a7d739ed01bec6d4211eeaaebd316deb77844fea51b49209187f9b960a871d6",
+          "reviewNote": "Enumerates nine criminal proceedings/issues where mental disease or defect evidence is admissible, barring immediate conditional release inquiry for section 556.061 dangerous felonies or section 552.040(11)* crimes (see 1996 renumbering/repeal footnote)."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, statutory history, and footnote noting section 552.040(11) was renumbered to (12) and specific crimes repealed by S.B. 884 & 841 (1996); general inadmissibility rule and 9 admissible proceedings verified."
+    },
+    {
+      "id": "552.020:54311",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=552.020&bid=54311",
+      "sourceSha256": "34dcf4940f7cfb5d80d7ef8e50bc489b7ca8f2f7aec496fbf638ce59a45c928d",
+      "textSha256": "43712c0a71c60cb12951356a251e6c67aa38f35fb741a7feb5f8bf50ef108590",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Incompetency to stand trial as bar to trial, conviction, or sentencing",
+          "bodySha256": "a41ebafaef70015e3df85bf777af4f10dba9e7693327ff973e6e2721745f6bc1",
+          "reviewNote": "Bars trying, convicting, or sentencing any person who due to mental disease or defect lacks capacity to understand proceedings or assist in defense while incapacity endures."
+        },
+        {
+          "number": 2,
+          "title": "Judicial order for psychiatric or psychological examination",
+          "bodySha256": "6dafc0ea3d019aa11c81526e06149dd950fe3353a7f92ce4e0381c6f799dc97e",
+          "reviewNote": "Requires judge with reasonable cause to order private or DMH psychiatric/psychological examination filed within sixty days (one free pretrial DMH evaluation; subsequent costs assessed to requester)."
+        },
+        {
+          "number": 3,
+          "title": "Mandatory contents of psychiatric examination report",
+          "bodySha256": "96a04119070c2bb7c8525bf991dfed24bf17f9a845ec88ee0215b57fd472a21e",
+          "reviewNote": "Prescribes eight required elements of a mental fitness examination report, including findings, mental disease/defect opinion, capacity, restoration probability, and hospital/jail/community treatment recommendations."
+        },
+        {
+          "number": 4,
+          "title": "Continued bond during outpatient treatment and custody upon noncompliance",
+          "bodySha256": "9771b8071cb099847565b6e1f83f3464468d427940a859e548b9308154c48f72",
+          "reviewNote": "Requires court to keep eligible accused on bond during subsection 3 community treatment until subsection 12 disposition, permitting law enforcement custody upon bond or treatment noncompliance until inpatient bed availability."
+        },
+        {
+          "number": 5,
+          "title": "Responsibility opinion and conditional release factors in pretrial report",
+          "bodySha256": "c485698191ee177601ed4fcd13904b353f5467b4d2a3209b73ff54c3aab104c7",
+          "reviewNote": "Requires pretrial report to include criminal-responsibility opinion and (for non-excluded offenses) immediate conditional release opinion and five release-condition factors when lack of responsibility is pleaded or noticed under section 552.030(2)."
+        },
+        {
+          "number": 6,
+          "title": "Hospital commitment pending determination of mental fitness to proceed",
+          "bodySha256": "281a9442629cad5467cbb3c5659173e87a9cd9472c84f45be4f8f8374bd6b2d1",
+          "reviewNote": "Permits court to commit or hold accused in a suitable hospital facility pending mental fitness determination if recommended in report and accused is not on bail or other release."
+        },
+        {
+          "number": 7,
+          "title": "Report delivery, nonpublic status, and ten-day independent examination",
+          "bodySha256": "e21a7b1990d6dcd95f12f098a4dca3896120cd6fd018b46349f15920424d12dd",
+          "reviewNote": "Requires clerk to deliver nonpublic report copies to prosecutor and accused/counsel and entitles both sides within ten days to request an independent examination at own expense within sixty days."
+        },
+        {
+          "number": 8,
+          "title": "Fitness determination, contested hearing, and six-person advisory jury",
+          "bodySha256": "af1813f0d3b72675883e59114eba2cd0a3bd932ac73101db8afcddf4f0826eb8",
+          "reviewNote": "Directs court determination on uncontested report or hearing if contested, permitting an advisory six-person jury and guaranteeing cross-examination of the examiner and presentation of evidence."
+        },
+        {
+          "number": 9,
+          "title": "Presumption of fitness and preponderance burden at fitness hearing",
+          "bodySha256": "277ceda04c1e41c2269b765058e619d2822b97db17f658a6dbd9a8ad0b682cfc",
+          "reviewNote": "Presumes accused mentally fit at subsection 8 hearing, placing preponderance burden of proving unfitness and burden of going forward on the raising party (or state if court raises issue)."
+        },
+        {
+          "number": 10,
+          "title": "Suspension of proceedings, DMH commitment, and medication hearing standing",
+          "bodySha256": "8e67264dee8ca8df8844e42f1780cf1e565726bf7759176a501d5eccaf326511",
+          "reviewNote": "Suspends criminal proceedings and commits unfit accused to DMH director, requires location/treatment notice, and grants DMH counsel standing on involuntary medication motions and hearings."
+        },
+        {
+          "number": 11,
+          "title": "Habeas corpus, fitness motions, and resumption of criminal proceedings",
+          "bodySha256": "89f750faa3d30f457b71935315018e3eb4f570135b5c06416c244439c6166cf9",
+          "reviewNote": "Preserves habeas corpus for subsection 10 committees, permits DMH director or state motions alleging restored fitness with DMH counsel standing, and directs resumption of criminal proceedings upon fitness or discharge."
+        },
+        {
+          "number": 12,
+          "title": "Six-month review, continued commitment, or dismissal with civil proceedings",
+          "bodySha256": "9b5d36293a26c304d7ca897e00f67c419d46a893c92d93b27824028ad941f787",
+          "reviewNote": "Mandates six-month post-commitment reevaluation, independent exam and hearing rights, resumption if fit, six-month extension if restoration is substantially probable, or dismissal without prejudice upon chapter 632/475 proceedings with limitations tolled."
+        },
+        {
+          "number": 13,
+          "title": "Mistrial after jury impanelment and non-jeopardy effect",
+          "bodySha256": "fffa2ffb511ee1f04676d58b84af3a6acf4bfcebbfd0a673cbdc7513ee862fdc",
+          "reviewNote": "Permits declaring a mistrial when fitness is raised after jury impanelment and clarifies that such mistrial or subsection 12 dismissal does not constitute jeopardy or bar later trial after restoration."
+        },
+        {
+          "number": 14,
+          "title": "Nonpublic status of examination results",
+          "bodySha256": "50018a9dbf184583d01fbcfd62772b64685c42eb06ddf609d8661913827554b3",
+          "reviewNote": "Provides that the result of any examination made under this section shall not be a public record or open to the public."
+        },
+        {
+          "number": 15,
+          "title": "Exclusion of examination statements on guilt and nonprejudice of fitness finding",
+          "bodySha256": "fdaae7c8765cb817a91332f20e187e124d90b7191d11bbb5474d1f9a3f4d87ed",
+          "reviewNote": "Bars admitting accused's examination or treatment statements on guilt in any state or federal criminal proceeding, and prevents a fitness finding from prejudicing or being introduced on a mental-responsibility defense."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 15 subsections, statutory history, and 5 case annotations; corrected 12 consecutively shifted/mismatched subsections (#4–#15) and fixed subsection 3 note so every heading matches the 2023 S.B. 106 statutory text."
+    },
+    {
+      "id": "552.030:54312",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=552.030&bid=54312",
+      "sourceSha256": "6d5b6886a67a4d2e598bd88904696986352f4eb341d5e569fdc2f85a0ad532c2",
+      "textSha256": "ca799515ed1cfb3dc2fb41208100171e78bbfa8e33aadffb846ef692018d205c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exclusion of criminal responsibility for mental disease or defect",
+          "bodySha256": "9843c0e4f4a3b49dc51fcd825b2c0aa33f1af83aa38cf67321d0a0d30c5b4676",
+          "reviewNote": "Excludes criminal responsibility if at the time of conduct a mental disease or defect rendered the person incapable of knowing and appreciating the nature, quality, or wrongfulness of conduct."
+        },
+        {
+          "number": 2,
+          "title": "Written notice of defense of mental disease or defect",
+          "bodySha256": "02581859abc5c805f7d3f0c8956dabd841720afb6fa9ec1e295385d83674de3b",
+          "reviewNote": "Requires plea or written notice within ten days (or later for good cause) to admit mental disease defense, preserves other defenses, and permits state acceptance after pretrial evaluation triggering section 552.040 commitment."
+        },
+        {
+          "number": 3,
+          "title": "Judicial order for examination on criminal responsibility",
+          "bodySha256": "f27a0b3c30de606d658e76e3766b8e2deeef8e61d46bb4e7c8c1eeaae42ced52",
+          "reviewNote": "Requires examination upon motion if defense is not accepted, allows using prior section 552.020 report, entitles both sides to ten-day independent exam, makes reports nonpublic, and sets sixty-day completion."
+        },
+        {
+          "number": 4,
+          "title": "Commitment to hospital facility pending trial upon recommendation",
+          "bodySha256": "50bfe865ab06850d40eaec5c9153115fb1e2589d7301ce0dcdb61d869148bc9e",
+          "reviewNote": "Permits court to commit or hold accused in a suitable hospital facility pending trial if recommended in report and accused is not on bail or other release."
+        },
+        {
+          "number": 5,
+          "title": "Exclusion of examination statements on issue of guilt and jury limiting instruction",
+          "bodySha256": "ae9b456d0943a3e5116318a1a883a8b840c6889824e52928367989114a7fb2f4",
+          "reviewNote": "Bars examination statements on whether accused committed the charged act in any state or federal proceeding, allowing admission solely on mental condition with oral and written jury limiting instructions."
+        },
+        {
+          "number": 6,
+          "title": "Presumption of mental responsibility and defendant's burden of proof",
+          "bodySha256": "6af7b2504e0a9068ba2330e72769c9b84ef4cc13da8fa7bd3a30f1f574ecf00a",
+          "reviewNote": "Presumes persons free of mental disease excluding responsibility unless substantial evidence is introduced, places preponderance burden on accused, and requires section 552.040(2) instruction upon defense request."
+        },
+        {
+          "number": 7,
+          "title": "Form of verdict and commitment order to department of mental health",
+          "bodySha256": "ad5808a9172177886bec292cd95eb07c3446958306f8a6f7089748324029defc",
+          "reviewNote": "Requires verdict and judgment on acquittal by reason of mental disease or defect to state that ground and offense, with clerk sending commitment order copy to section 43.503 central repository."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 7 subsections, statutory history, and 6 case annotations; mental disease/defect defense standard, 10-day written notice and state acceptance, responsibility examination, pretrial hospital custody, statement exclusion with limiting instruction, presumption/burden, and verdict/repository reporting verified."
+    },
+    {
+      "id": "552.040:54313",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=552.040&bid=54313",
+      "sourceSha256": "bdf87197e162609a62911a4eedee5c5c882680f131f76520c6504c2bac56a5b1",
+      "textSha256": "ea007f72c4342754ae760f8ce6a1127fd8937a3648430348da02da0679b3ebf2",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions of prosecutor of jurisdiction, secure facility, and tried and acquitted",
+          "bodySha256": "13d2b2dd9ea6335290ff460b00fafd326d284347f2eabec75e99df48bc8c6d0f",
+          "reviewNote": "Defines 'prosecutor of the jurisdiction', 'secure facility', and 'tried and acquitted' for this section."
+        },
+        {
+          "number": 2,
+          "title": "Commitment to department of mental health and immediate conditional release",
+          "bodySha256": "50365ba9ae6d1562c5484b69505a1bf69bf7761abf391c271cce3a46a07b9260",
+          "reviewNote": "Requires commitment to DMH director upon NGRI acquittal, mandates immediate conditional release hearing for eligible non-excluded offenses, preserves court jurisdiction and director revocation power, and vests confinement terms in DMH director."
+        },
+        {
+          "number": 3,
+          "title": "Applicability of mental health patients' rights and required release procedures",
+          "bodySha256": "b0a0fd9e59210cd4cc1e23dcaed9c973ef9ab899454abe7d6bb2e5d7a260a3bb",
+          "reviewNote": "Applies listed chapter 630/632 patient rights, bars release solely for lack of treatment program, requires section procedures for all releases, and permits public defender appointment for indigent committees."
+        },
+        {
+          "number": 4,
+          "title": "Confinement in secure facility until court order granting release",
+          "bodySha256": "e2dac3052a7d964ffd8f51ba78585f74b96b64513780e7ae38bd42981be61629",
+          "reviewNote": "Requires keeping subsection 2 committees in a secure facility notwithstanding section 630.115 until court orders conditional or unconditional release to a nonsecure facility."
+        },
+        {
+          "number": 5,
+          "title": "Application for unconditional release, service, objections, and hearing",
+          "bodySha256": "8b262de5268d8e68f339649c3a11f116e4ae502c5965b23a2e5ffffe340a68b8",
+          "reviewNote": "Governs unconditional release applications (with one-year post-conditional-denial wait), service, thirty-day written objections, sixty-day hearing, independent exam, and examiner cross-examination."
+        },
+        {
+          "number": 6,
+          "title": "Waiver of hearing upon unanimous agreement for unconditional release",
+          "bodySha256": "0f57ba638436b2701b7d946a724a9d4de5c56b6ea0eeb2f3799563ff50652592",
+          "reviewNote": "Permits waiving unconditional release hearing by agreement of all parties and leave of court for entry of release order under subsection 8."
+        },
+        {
+          "number": 7,
+          "title": "Factors considered and clear and convincing burden for unconditional release",
+          "bodySha256": "0a32e2384e7841a5508aa8f8fe34cdbd738ef5e14b2333452538e1389a07811c",
+          "reviewNote": "Lists six mandatory hearing factors and places clear-and-convincing burden on movant to prove acquittee lacks and is not likely to have a dangerous mental disease or defect."
+        },
+        {
+          "number": 8,
+          "title": "Order granting or denying unconditional release and one-year reapplication bar",
+          "bodySha256": "244ba21523c9e544dc5cde680785ebc281945d292bc5c53711b91cecea3da141",
+          "reviewNote": "Requires order granting or denying unconditional release, with denial without prejudice to reapplication after one year."
+        },
+        {
+          "number": 9,
+          "title": "Substantive standard of nondangerousness for unconditional release",
+          "bodySha256": "845168ea73060acc79c7f107e7734314d42ad92cd9826bab95e10b8c3b146228",
+          "reviewNote": "Prohibits unconditional release absent statutory determination that person does not have and is not likely to have a mental disease or defect rendering them dangerous to self or others."
+        },
+        {
+          "number": 10,
+          "title": "Application for conditional release, court jurisdiction, and victim notification",
+          "bodySha256": "e3749423be1bd833c53698bb58b1a24d7665a5ee65d70ad1809b8073ffb259fa",
+          "reviewNote": "Governs conditional release applications in probate or committing court (for section 556.061 dangerous felonies, 565.020 murder, or 566.040* sexual assault), service, victim notification, conditions, and public-safety representation."
+        },
+        {
+          "number": 11,
+          "title": "Waiver of conditional release hearing by agreement",
+          "bodySha256": "78f536c5e98ce29d8c2e806e025d8f1a1f3183f6aabc543668356147ea3d1ba3",
+          "reviewNote": "Permits waiving conditional release hearing by agreement of all parties for entry of agreed conditional release order under subsection 13."
+        },
+        {
+          "number": 12,
+          "title": "Factors considered and clear and convincing burden for conditional release",
+          "bodySha256": "118182851c9c583958e8a400c770e049d9baa33dbccd99a6a03fb1f068bae125",
+          "reviewNote": "Lists six mandatory hearing factors and places clear-and-convincing burden on movant to prove person is not likely to be dangerous to others on conditional release."
+        },
+        {
+          "number": 13,
+          "title": "Order granting or denying conditional release and one-year reapplication bar",
+          "bodySha256": "c7d9e3bebfd63eb9646ff3cc20025cfb9f389c26c2aad159ab465cf9a5c03a7a",
+          "reviewNote": "Requires order granting or denying conditional release, with denial without prejudice to reapplication after one year."
+        },
+        {
+          "number": 14,
+          "title": "Determination of nondangerousness required prior to conditional release",
+          "bodySha256": "084fd531b1a9c085efdffef1ba8a6ef3000b44b9dd6f4bade8236e6b1f430064",
+          "reviewNote": "Prohibits conditional release until determined that the committed person is not likely to be dangerous to others while on conditional release."
+        },
+        {
+          "number": 15,
+          "title": "Trial release up to ninety-six hours and prosecutor objection procedures",
+          "bodySha256": "a1d4cb428686590e6914a1152808b548aa6cb43403990bc45e272e7a0e029651",
+          "reviewNote": "Permits up to ninety-six-hour trial release upon thirty days' notice to prosecutors if unobjected, or probate-court hearing under subsections 5, 10, and 12–14 upon prosecutor objection."
+        },
+        {
+          "number": 16,
+          "title": "Department follow-up care, monthly reviews, and specialized community monitoring",
+          "bodySha256": "859c853e7c2abb65e4d03d19de142dfe00a862becbd6ed96726a755bfc5e245b",
+          "reviewNote": "Requires DMH to provide or arrange follow-up care, monitoring, at least monthly reviews/visits, and specialized geographic aftercare services for conditionally released persons."
+        },
+        {
+          "number": 17,
+          "title": "Administrative revocation of conditional release and apprehension by peace officers",
+          "bodySha256": "271a24c7f6d06e1b6530595715e084765c472b1fbc2fa6703f62c0fe149a7a51",
+          "reviewNote": "Permits DMH director/designee to revoke conditional or trial release for reasonable cause, directs peace officer return with good-faith immunity, and requires administrative hearing within ninety-six hours on twenty-four hours' notice."
+        },
+        {
+          "number": 18,
+          "title": "Judicial notice to appear and arrest warrant for release violations",
+          "bodySha256": "9c1cd9b06a77eafecff2c7100c98d9819f693a85682155658bac188d31269060",
+          "reviewNote": "Permits releasing court during conditional or trial release to issue personally served notice to appear and arrest warrant for release violations."
+        },
+        {
+          "number": 19,
+          "title": "Notice to prosecutor and sheriff upon escape from mental health facility",
+          "bodySha256": "b86ca1daa4e63f02257c5077c54036647bbff1d3905881a5bdadfa1da3bc7d9d",
+          "reviewNote": "Requires mental health facility head to immediately notify prosecutors and sheriffs of both detention and trial counties upon escape or unauthorized departure."
+        },
+        {
+          "number": 20,
+          "title": "Additional release criteria for dangerous felonies, murder, and sexual assault",
+          "bodySha256": "43e5055151ed3f25d9669fa0ad7373d614b64d5db3aec276e09fc10dbd3fd1a3",
+          "reviewNote": "Requires two additional findings on non-likelihood of future violent crime and capacity to appreciate criminality/conform conduct before releasing committees acquitted of dangerous felonies, first-degree murder, or section 566.040* (now 566.031) sexual assault."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 20 subsections, footnote noting section 566.040 transferred to 566.031 (2013), and 5 case annotations; expanded subsection 20 title to include sexual assault alongside dangerous felonies and murder."
+    },
+    {
+      "id": "552.045:29024",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=552.045&bid=29024",
+      "sourceSha256": "aac7fef8f31d30bc4971f03eb89bb0f688e5020629bb39dfe6037a1fda9513ef",
+      "textSha256": "9d36626491e4924bc2746e2f4f3f9195ac86cb23d8684952036c41676728170c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Transcript delivery to institution upon mental commitment order",
+          "bodySha256": "a1405534cecd110e2b1f0644c3e5ce404b615d9922dbacfe298fe6151b9879a6",
+          "reviewNote": "Requires court committing a person to a state institution for observation or detention under chapter 552 to order a transcript of evidence or oral proceedings furnished at section 485.100* (now 488.2250) expense."
+        },
+        {
+          "number": 2,
+          "title": "Preliminary letter accompanying commitment order to institution",
+          "bodySha256": "5d5d5fa7f466683624d8e1f8a4c4429148da1e687f4b5aa640ce148603525310",
+          "reviewNote": "Requires an appropriate preliminary letter to accompany the commitment order with sufficient information for proper detention and preliminary evaluation."
+        },
+        {
+          "number": 3,
+          "title": "Required contents of preliminary letter to mental health facility",
+          "bodySha256": "6777ebe3826fd13880e62d4ad35b76d4cf9a1d5946b5b092f41729c4f6637318",
+          "reviewNote": "Specifies three categories of information to include if available: family/occupational/criminal history, crime summary with police reports and arrest behavior, and violence/security opinion."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections, statutory history, and transfer footnote (section 485.100* now 488.2250); mandatory transcript delivery and preliminary background letter with three listed elements verified."
+    },
+    {
+      "id": "552.050:54314",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=552.050&bid=54314",
+      "sourceSha256": "c4c6fdd00faf50f0755b034ab8a4c1e068cbbfd5c674200d0a62b3b08f2d9032",
+      "textSha256": "54797da6e790dcb57e53f68ed073c9a5f2df9f93265402cf5e685fd4640a0e8f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Transfer of mentally ill offender from prison to hospital and 96-hour limit",
+          "bodySha256": "0a57b586bd56daa459f66301e90d28dc30c641ffdf4a8dcf38a736db9ffd948d",
+          "reviewNote": "Directs transfer of mentally ill correctional offenders to a state mental hospital for up to ninety-six hours, followed by return unless voluntary admission or chapter 632 involuntary detention (up to ninety days, then up to one year)."
+        },
+        {
+          "number": 2,
+          "title": "Hospitalization time credited against prison sentence",
+          "bodySha256": "b43bdbd16e68ccfbb23acd8923b1683d7935b29081d16046924f4a3bc269c11e",
+          "reviewNote": "Credits time spent in a state mental hospital as part of and deducted from the offender's definite or indeterminate sentence."
+        },
+        {
+          "number": 3,
+          "title": "Return of recovered offender to correctional facility",
+          "bodySha256": "6e451dc527eaa95a238a36b396c57df4f2e522948916c837e363a2d88fa9a8e9",
+          "reviewNote": "Requires hospital superintendent to certify in writing to division of classification and treatment when a transferred offender recovers before sentence expiration for return to a correctional facility."
+        },
+        {
+          "number": 4,
+          "title": "Discharge of offender mentally ill at sentence expiration",
+          "bodySha256": "5778531bc146394f89c4fcaa145580c5ea00d874cf2ab843997a9cee700402de",
+          "reviewNote": "Permits superintendent, after DOC verification of sentence expiration, to discharge a still-mentally-ill offender to a willing caretaker if reasonably safe, with discretionary section 217.285 prisoner allowances."
+        },
+        {
+          "number": 5,
+          "title": "Involuntary detention proceedings for offenders needing care upon sentence expiration",
+          "bodySha256": "ee9cb8274a9a3915a4105c6478549fad5bca3af307af928136e3487affd7183b",
+          "reviewNote": "Prohibits retaining an offender in a mental hospital after sentence expiration unless chapter 632 involuntary detention proceedings are instituted and held."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 5 subsections and statutory history; 96-hour prison-to-hospital transfer and chapter 632 commitment, sentence credit, recovery return, and sentence-expiration discharge or involuntary detention verified."
+    },
+    {
+      "id": "552.060:29026",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=552.060&bid=29026",
+      "sourceSha256": "348e6454775119f2e36c24a30ce9d05708bfa15d928180c49466e8c531f08454",
+      "textSha256": "b7c0eca6b16337976a7cc6a3507c3c7b2c628b9b23a8f87ccec2caf0382cda58",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mental disease or defect as bar to execution of death sentence",
+          "bodySha256": "838abaf84dcc188b41495a78ba0b938fafe8b2311c3a26f28958b499371c3141",
+          "reviewNote": "Bars execution of any death-condemned person who due to mental disease or defect lacks capacity to understand punishment nature/purpose, extenuation matters, clemency arguments, or reasons against execution."
+        },
+        {
+          "number": 2,
+          "title": "Notice of inmate unfitness for execution and governor's stay order",
+          "bodySha256": "a86afbb8d9beec5da6650c0411e6b239998332c3b65ce532dabf9a5c134a9ab2",
+          "reviewNote": "Requires DOC director with reasonable cause to immediately notify governor for mandatory stay if needed, and notify DMH director, trial prosecutor, attorney general, and facility-county circuit court."
+        },
+        {
+          "number": 3,
+          "title": "Judicial inquiry into condemned offender's mental condition",
+          "bodySha256": "b2942be8737a02fb0f630379646cf87a71312d480f6ba774832a4693958bc96a",
+          "reviewNote": "Requires facility-county circuit court to conduct a mental-condition inquiry after granting notified parties an independent physician examination requested within five days."
+        },
+        {
+          "number": 4,
+          "title": "Certification of fitness or unfitness and execution warrant rescheduling",
+          "bodySha256": "c2b2d6fcb4a7c6c8aa15f9bc498644434c4cd0856487201addf06f03a6bdb83c",
+          "reviewNote": "Directs governor to reschedule execution warrant upon fitness certification (or later DOC recovery certification), or hold unfit offender subject to section 552.050 mental hospital transfer."
+        },
+        {
+          "number": 5,
+          "title": "Preservation of governor and judicial constitutional powers",
+          "bodySha256": "e5d28021bd1bfc3462e174022377e0a8a8bcfd3674d050df682efaca5bc564a2",
+          "reviewNote": "Clarifies that nothing in chapter 552 limits the governor or any court in exercising any other powers under Missouri law or Constitution."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 5 subsections and statutory history; mental disease/defect bar to execution, DOC notice and governor stay, circuit court inquiry with five-day independent exam request, certification/rescheduling, and constitutional power preservation verified."
+    },
+    {
+      "id": "552.080:54315",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=552.080&bid=54315",
+      "sourceSha256": "305186c18db812b78a70d240f53e6d42f22563413c1f238912821d72ab75360e",
+      "textSha256": "fda7f6d66d5e5808bfd6cbd0cfc045ad3c6e9a70eb2a3c46cc9cc83c15d14a46",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Payment and taxation of private examiner fees and prisoner transport expenses",
+          "bodySha256": "ddddf5ba52dfe124d8205fe2c791eba6c20a36c3a51b1348526c14ce0162acd0",
+          "reviewNote": "Requires court upon application and approval to order payment or tax as chapter 550 costs reasonable private psychiatrist fees (sections 552.020/552.030) and jail-to-DMH prisoner transport expenses before or after disposition."
+        },
+        {
+          "number": 2,
+          "title": "Execution levy for costs and recovery of mistaken payments",
+          "bodySha256": "4a71c513c858ace4fc2c15b2ae24420cfbe673fdda45b1940d3248cdf123d389",
+          "reviewNote": "Permits levying and collecting subsection 1 expenses under execution and entitles state or county to recover inadvertent or mistaken payments from the responsible entity."
+        },
+        {
+          "number": 3,
+          "title": "Liability of committed person or estate for hospital care and treatment",
+          "bodySha256": "a958cd159715b715d91faec72fde241634c7d6a72c95892d25fcb6d22c73f015",
+          "reviewNote": "Makes committed person, estate, or responsible support obligors liable under chapter 630 for DMH hospitalization costs following section 552.020(8) unfitness or section 552.030/552.040 NGRI commitment."
+        },
+        {
+          "number": 4,
+          "title": "Nonexclusive collection remedies for custody, examination, and treatment costs",
+          "bodySha256": "0942a3454baba7018ad98077e2f51c5c904187cd532493ad086b64809c5458f3",
+          "reviewNote": "Clarifies that statutory cost-collection methods under this section are nonexclusive and costs may be collected in any other lawful manner."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 4 subsections and statutory history; taxation/payment of private psychiatrist fees and prisoner transport under chapter 550, execution levy and mistaken-payment recovery, chapter 630 hospital liability, and nonexclusive collection verified."
+    }
+  ]
+}

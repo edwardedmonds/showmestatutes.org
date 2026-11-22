@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "534.030:28325",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=534.030&bid=28325",
+      "sourceSha256": "085182cc5aa714dc0e0a092b83bc8f8c1b7f4f1ce63b5da0dbb5cdc45d6e16e9",
+      "textSha256": "5c3c034ee0d50ef7429c88bec08dd6ea4c43bdba014ff2118a7b5654f37efdc1",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Statutory definition of unlawful detainer",
+          "bodySha256": "f896432114024f011683aba70bf3091387fdb26cf0c8d0c02f5c301b42ee1405",
+          "reviewNote": "Defines unlawful detainer to include holding over after lease termination, foreclosure after written notice or ten business days after subsection 3 notice, post-employment occupancy, or wrongful disseisin after written demand."
+        },
+        {
+          "number": 2,
+          "title": "Ten-business-day foreclosure vacate notice to residential tenants",
+          "bodySha256": "bb5100346caf21b998345ff0c6e901eb8e305ae7ee24c502f7642f3d389977e2",
+          "reviewNote": "Requires a foreclosure purchaser seeking possession from a compliant residential tenant (§ 441.020) to give at least ten business days' notice before filing an action, without creating a tenancy or barring agreement."
+        },
+        {
+          "number": 3,
+          "title": "Mailing, door posting, and form of foreclosure occupant notice",
+          "bodySha256": "5dd73caebd42fb9432c09b4fce6c6977d82b4576b21f466ab4b4f122d00be1f5",
+          "reviewNote": "Requires certified/registered mail (or regular mail to 'occupant' if unnamed) with specified envelope wording, posting on the dwelling door, and prescribed statutory notice text."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all three subsections and history notes for 534.030. Corrected subsection 2 note ('ninety days' -> 'not less than ten business days') and subsection 3 title/note (door posting is required in addition to mail in all cases, plus prescribed notice text)."
+    },
+    {
+      "id": "534.070:28329",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=534.070&bid=28329",
+      "sourceSha256": "9e61b88ff4a8e99467a603d652b3c984286f4b90b004b9bb146f80b0997cc965",
+      "textSha256": "3c196c09b1f5c1c238b764ad77e060ba11b5c20e0c851a9d9d7af48fdfbe0536",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Verified complaint and issuance of summons",
+          "bodySha256": "023994725748d0029927ff8e3466aa581c40e3504ffe819e5f62a90bf73d2928",
+          "reviewNote": "Requires the clerk, upon a signed and sworn written circuit court complaint specifying the property and unlawful or forcible detainer, to issue a summons for appearance on a specified day."
+        },
+        {
+          "number": 2,
+          "title": "Assignment of court date within twenty-one business days",
+          "bodySha256": "23e6fe761b484185f164596285347b509034cecbb202cf4ee277ba6b710ff384",
+          "reviewNote": "Requires assigning a court date at summons issuance for a day certain not more than twenty-one business days after issuance unless the plaintiff or counsel consents in writing to a later date."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and history notes for 534.070. Removed fabricated 'or thirty days in certain counties' from subsection 2 note."
+    },
+    {
+      "id": "534.090:28331",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=534.090&bid=28331",
+      "sourceSha256": "c9e36e8709fbc97fe92a38d99d5a0c6ab779029345e045fdb7893044245474a8",
+      "textSha256": "bea24f53b26d47d10085f268429c8f1453efb8eff09bd52e2d8a7e7cacca023f",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Time for personal service of summons before hearing",
+          "bodySha256": "a154faed7da8746fe96cd6d0ada7ccb963531b514ff89872790163d3a370a7a7",
+          "reviewNote": "Requires service of the summons as in other civil cases at least four days before the court date specified in the summons."
+        },
+        {
+          "number": 2,
+          "title": "Service by posting and ordinary mail upon unserved defendant",
+          "bodySha256": "4f21b11de1cfa1d9ce4b57c02c6bfe46c08ebcd244eda3efb71489e4d998fbcb",
+          "reviewNote": "Directs ten-day posting on the premises and in one public place plus ordinary mail to last known address when ordinary service fails, barring default money judgments under this procedure."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and history notes for 534.090. Refined subsection 2 note to reflect ten-day posting in two locations, ordinary mail, bar on default money judgment, and next available court date when executed."
+    },
+    {
+      "id": "534.330:28354",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=534.330&bid=28354",
+      "sourceSha256": "6c0301c6efb61eb40f58dfe524ab4e5b31522ea90997aa9c3199a5089e569095",
+      "textSha256": "a7265e34cedf6a8d3ef7c7ffc3791456b5c730553db468b2b2ca99dc2933d615",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Judgment for restitution, double damages, and double rent",
+          "bodySha256": "65898c6742fb0620ebb3895e085ace6dd5fa2a749c840784ac35a4c702e6c880",
+          "reviewNote": "Requires judgment on a complainant's verdict or finding for restitution of the premises, double assessed damages, double monthly rents and profits from judgment until restitution, and costs."
+        },
+        {
+          "number": 2,
+          "title": "Transmittal of final judgment to enforcing law enforcement agency",
+          "bodySha256": "60c79cd05568ef806927c0a5009d31d783b248d826c23072617d4fa55b8b1144",
+          "reviewNote": "Requires the court within two business days after a plaintiff's subsection 1 judgment becomes final to transmit a copy to the law enforcement agency with jurisdiction to enforce it."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and 1972/1974 annotations for 534.330. Replaced fabricated subsection 2 ('local public housing authority') with actual text requiring transmittal of final judgment to the enforcing law enforcement agency within two business days."
+    },
+    {
+      "id": "534.602:54743",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=534.602&bid=54743",
+      "sourceSha256": "0f7d7a9a7c002cb7863ed7c8efa335350daeada51a647f8e84159f00d5f2dedc",
+      "textSha256": "e4c29dfcd986dbb7f9ce9adac58b8078658890413588d8354305034f930daca9",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions under unlawful residential occupancy removal law",
+          "bodySha256": "80739db8ac91b9fb6f89bc69ea1d7598f0b7f8aea9fffcf2a592f778bdc0d3f4",
+          "reviewNote": "Defines 'petitioner', 'respondent', and 'unlawful occupant' or 'unlawful occupants' for purposes of this section."
+        },
+        {
+          "number": 2,
+          "title": "Petition for removal of unlawful occupant from residential dwelling",
+          "bodySha256": "73824283c475007e13ad921741747bed50140425dbb81758e902f30e5f3785b5",
+          "reviewNote": "Permits a property owner or authorized agent to seek removal of unlawful occupants of a residential dwelling by filing a verified petition in the county or St. Louis City where the property lies."
+        },
+        {
+          "number": 3,
+          "title": "Clerk duty to assist and explain removal petition procedures",
+          "bodySha256": "7168576b03a107adb7577190dbf04f26b15a45e8c2e1e378e921c820bf20b640",
+          "reviewNote": "Requires court clerks (except under subsection 6) to assist unrepresented filers without cost, post notices, and directs supreme court forms/instructions without constituting the practice of law (§ 484.010)."
+        },
+        {
+          "number": 4,
+          "title": "Filing fees and court costs in unlawful occupancy actions",
+          "bodySha256": "67d90d5cfb95a7dfec6daef3a6917fb2b3e7d6c984291a9d40979e1d10fdc4ca",
+          "reviewNote": "Sets filing fees and court costs under this section equal to those required when filing a claim in associate circuit court."
+        },
+        {
+          "number": 5,
+          "title": "Immediate ex parte order for removal of unlawful occupants",
+          "bodySha256": "a8b00afb013db00ca811a3ecb0c1a1cf541a563718221b2e9100482e280f9b9b",
+          "reviewNote": "Directs immediate issuance of an ex parte removal order upon a verified petition setting forth nine required facts showing good cause, with a hearing within 48 hours absent good cause for delay."
+        },
+        {
+          "number": 6,
+          "title": "Protective terms and temporary relief in ex parte removal order",
+          "bodySha256": "053ef0d6dccf5b8e05fc82abeb835c48564b6478f9a24956cf1f54efebed0722",
+          "reviewNote": "Provides that ex parte orders protect petitioners from trespass and may include safety terms restraining violence (including against pets), entry/proximity, and communication."
+        },
+        {
+          "number": 7,
+          "title": "Additional permanent relief and costs after hearing",
+          "bodySha256": "fa8d7c20c48a546066a4c123f422160973a415e108f56fe70901b78b03d92230",
+          "reviewNote": "Permits a court issuing a post-hearing permanent exclusion order to additionally grant permanent restraints, expulsion of occupant and personal property, repair costs, service costs, and court costs."
+        },
+        {
+          "number": 8,
+          "title": "Required allegations and prayer in verified removal petition",
+          "bodySha256": "131f7e877ba25ddc4e9cba87497392675a298163320d3fbd48d9f1ca05c0ebb7",
+          "reviewNote": "Requires a verified petition seeking an ex parte order under this section to contain allegations relating to those orders and pray for the orders desired."
+        },
+        {
+          "number": 9,
+          "title": "Sheriff enforcement of removal order",
+          "bodySha256": "d1184d123c467233e2f288af10fc839b3313a3037f82b72d6302b805fc04e1d3",
+          "reviewNote": "Directs the sheriff of the county or St. Louis City where the property is located to enforce a granted order by removing the respondent from the property."
+        },
+        {
+          "number": 10,
+          "title": "Sheriff authority to arrest unlawful occupants for trespass",
+          "bodySha256": "f5e90ece3f44a857f4a42c805f46b8fe62767729122fd5ca78a245f7d7f55e74",
+          "reviewNote": "Permits the sheriff, if appropriate, to arrest any person found in the dwelling for trespass, outstanding warrants, or any other legal cause."
+        },
+        {
+          "number": 11,
+          "title": "Sheriff fees, standby peace-keeping, and property damage immunity",
+          "bodySha256": "2a37f1d4243a3ed131688f27604d39bdcd57a73177ec7d493aab4ed93f311a13",
+          "reviewNote": "Entitles the sheriff to § 57.280 writ-of-possession fees and reasonable hourly standby rates while locks are changed and property removed, and limits sheriff and owner/agent liability for property damage."
+        },
+        {
+          "number": 12,
+          "title": "Civil cause of action for wrongful removal without just cause",
+          "bodySha256": "5d473358bb2d9e6ac5028259de45b9e103355c0d63beec935a3e3d2123562eac",
+          "reviewNote": "Permits a person removed without just cause to sue for restored possession, actual personal property damages (capped at value), $1,000 statutory damages, and court costs, offset by proven real property damages."
+        },
+        {
+          "number": 13,
+          "title": "Preservation of property owner rights and criminal arrest authority",
+          "bodySha256": "94c14349efc2af943518d75eb1399bed8663d719eca4ab0bef51f478d9bab88b",
+          "reviewNote": "Provides that this section does not limit property owner rights or law enforcement authority to arrest an unlawful occupant for trespassing, vandalism, theft, or other crimes."
+        },
+        {
+          "number": 14,
+          "title": "Cumulative nature of statutory removal proceedings and remedies",
+          "bodySha256": "afd534c2d65fa98bbcdaa242184ad989624b6a78d7d427b407f16a084120be79",
+          "reviewNote": "Provides that all proceedings under this section are in addition to other available civil or criminal remedies unless otherwise specifically provided."
+        },
+        {
+          "number": 15,
+          "title": "Continuing jurisdiction, compliance hearings, and contempt enforcement",
+          "bodySha256": "baf88c7437c36a801c0c26ee400144b4ce3e0b65abd329754d9efc18682bac50",
+          "reviewNote": "Retains court jurisdiction for the duration of ex parte or full orders, permits compliance review hearings, and makes orders enforceable by judgment remedies and contempt for willful violation."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all 15 subsections and subdivisions for 534.602. Corrected subsection 1 note (three defined terms, excluding 'residential dwelling'), preserved permissive 'may' in subsection 7, aligned subsection 8 with actual text, and expanded subsections 11 and 15 to cover standby peace-keeping/immunity and enforcement/contempt."
+    },
+    {
+      "id": "534.604:54744",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=534.604&bid=54744",
+      "sourceSha256": "394d74ecea6e060a8f4ac54a87e3a8f00e2893332473e257ef6517de0ffd991a",
+      "textSha256": "112593b658faf2df7543d42da62cd3f31f1dc23afa5a08f985fc7b73993eb478",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory warrantless arrest for violation of ex parte removal order",
+          "bodySha256": "929f7475c172b722c6a66659a9eab550cd2075b006695f73bec4cb53a667b796",
+          "reviewNote": "Requires a law enforcement officer with probable cause that a respondent with notice violated a § 534.602 ex parte order to arrest the respondent whether or not committed in the officer's presence."
+        },
+        {
+          "number": 2,
+          "title": "Immunity of law enforcement officers acting in good faith",
+          "bodySha256": "96425af918f858e14b30afd6f8900b5aeb8180216d3b55b7458b0be871cbfc23",
+          "reviewNote": "Grants civil immunity from false arrest, false imprisonment, or malicious prosecution claims to arresting/assisting officers, employing entities, and superiors acting in good faith reliance on this section."
+        },
+        {
+          "number": 3,
+          "title": "Class A misdemeanor penalty and deemed notice of ex parte order",
+          "bodySha256": "50092e769cd50247ab81135bb69968999ee2e403f7ec74aa6605f528c8f15a8a",
+          "reviewNote": "Makes violation of a § 534.602 ex parte order a class A misdemeanor and deems a party to have notice if a responding officer presented a copy or actual communication reasonably advised the respondent."
+        },
+        {
+          "number": 4,
+          "title": "Prohibition on implied civil cause of action for enforcement",
+          "bodySha256": "c1df3b04a0ed851fcc898a08376ebc30ed8169d8e66ac48174f1b8980c325a9d",
+          "reviewNote": "Provides that nothing in this section shall be interpreted as creating a civil cause of action for damages to enforce its provisions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all four subsections and subdivisions for 534.604. Preserved mandatory 'shall arrest' in subsection 1 and noted deemed-notice rules in subsection 3."
+    }
+  ]
+}

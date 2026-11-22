@@ -1,0 +1,657 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "574.010:29804",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.010&bid=29804",
+      "sourceSha256": "a2188fb563156ca7d0acd6c231e962323c820794090723526f608c4401d65623",
+      "textSha256": "5c1cfae0ddd86d47083f14f1d350cafbab6712627ec04d31ed4b2a7c3fec2792",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of peace disturbance",
+          "bodySha256": "4debd8d5dc6e296ad8ee2580919b7a97b607185b5fe8daf58e018d28a8361f2e",
+          "reviewNote": "Defines peace disturbance through unreasonable noise, face-to-face offensive language, threats of felonious acts, fighting, odor, or obstruction."
+        },
+        {
+          "number": 2,
+          "title": "Penalty classifications for repeat convictions",
+          "bodySha256": "016e01b47f3b503404697c39ffee28730744e7782ed6fc69a0bc19a188eff4b9",
+          "reviewNote": "Classifies peace disturbance as a class B misdemeanor for first conviction, class A misdemeanor for second or subsequent conviction, with mandatory $1,000 to $5,000 fine upon third or subsequent conviction."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified against archived text and 1987 State v. Carpenter annotation on subsection 1(1)(c); clarified second-or-subsequent misdemeanor and third-or-subsequent mandatory fine in subsection 2 note."
+    },
+    {
+      "id": "574.020:29806",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.020&bid=29806",
+      "sourceSha256": "5bf3f2c79dfb94e7f30c046862c6a7338e9ba21fb1f81626a9e249081b0ef412",
+      "textSha256": "d98cc802bf0289a932c0b4f68c41b405f349753617a2c5144d5cb4db61e7d85c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of private peace disturbance",
+          "bodySha256": "a0202ed5d0ba430d7c352de19bdb9ee3bb1594e1a2ecd81af039768ffcee9594",
+          "reviewNote": "Defines private peace disturbance on private property by purposely causing alarm through fighting or threatening offenses."
+        },
+        {
+          "number": 2,
+          "title": "Penalty classification",
+          "bodySha256": "c2bdbd92b9f2ba7b98d9651c78c2d0b9581737dcad56cdb8065176c1ef0d772e",
+          "reviewNote": "Designates private peace disturbance as a class C misdemeanor."
+        },
+        {
+          "number": 3,
+          "title": "Separately occupied units as separate premises",
+          "bodySha256": "fad3447a7e20508cd9c73b08d667e54e23a33df7e541f7d4ee64b8754326a756",
+          "reviewNote": "Deems separately occupied units within a building or structure to be separate premises."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "574.035:29810",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.035&bid=29810",
+      "sourceSha256": "55f362d13fe774722d653a7e0950438529fb65371b7a7d14e7b059e7b5d98e87",
+      "textSha256": "7a2d8661f51d1415da5a6ea5d26c2c52187862287d3850ee760ce69f79854c36",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Title of act",
+          "bodySha256": "1573858765ead611fa62a21352072659688e74b9ebf548f2b8da1e2fa2dc6ad0",
+          "reviewNote": "Cites section as the House of Worship Protection Act."
+        },
+        {
+          "number": 2,
+          "title": "Definition of house of worship",
+          "bodySha256": "6273bf811a208c297a19eb12e6d8a0889bb54ee400624008961686b8e34c488a",
+          "reviewNote": "Defines house of worship as places or structures used for religious worship, instruction, or religious purpose."
+        },
+        {
+          "number": 3,
+          "title": "Offense of disrupting a house of worship",
+          "bodySha256": "a5d3bec79b635a6f86716f60c3cae7fd531652122c664bbbb5c0cd3ae7949bf7",
+          "reviewNote": "Defines disruption through disturbing noise, profane discourse, rude behavior, or interference with religious freedom."
+        },
+        {
+          "number": 4,
+          "title": "Penalty classifications for repeat offenses",
+          "bodySha256": "701c559072c9009b4b554e074d0a8d564cc9413adc05346f3d7b2ce34739bd9a",
+          "reviewNote": "Classifies house of worship disruption as a class B misdemeanor, class A misdemeanor for a second offense, and class E felony for any third or subsequent offense."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified against archived text (House of Worship Protection Act) and 2013/2015 First Amendment case annotations (SNAP v. Joyce); clarified third-or-subsequent felony tier in subsection 4 note."
+    },
+    {
+      "id": "574.040:29812",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.040&bid=29812",
+      "sourceSha256": "ddc9cec5e14a398d3848a1c6c4f4611779c49f358e1962d4ef4c03e617056b82",
+      "textSha256": "fefe7e0475138266a29e22bda0e8186d70eb758aa64c3dcd9d5688d6e1646858",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of unlawful assembly",
+          "bodySha256": "6eb69be19e10b4cf1233e842bbdbb45e50e648f6b7d267b666a7024838d162c1",
+          "reviewNote": "Defines unlawful assembly when knowingly assembling with six or more persons and agreeing to violate criminal laws with force or violence."
+        },
+        {
+          "number": 2,
+          "title": "Penalty classification",
+          "bodySha256": "85c14fb9ed91c38b27c3a989aac781fbeab353358590e4138e5d9f72af890b41",
+          "reviewNote": "Designates unlawful assembly as a class B misdemeanor."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "574.060:29816",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.060&bid=29816",
+      "sourceSha256": "79ab8497d509904892202a3271b0dde21e423847bc84a7e8ba0803cdc290c481",
+      "textSha256": "0a3411c2729e42e525f133a7b78e0cf0fd866c0711a3826ef670c95c9cd2bcea",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of refusal to disperse",
+          "bodySha256": "0b93042066e0022dfb6d3d8a1a58249ee7690584ff68d7ecc22559dcc8495ff4",
+          "reviewNote": "Defines refusal to disperse when failing to obey a lawful command to depart from an unlawful assembly or riot."
+        },
+        {
+          "number": 2,
+          "title": "Penalty classification",
+          "bodySha256": "ce8cfb566defdfc0ddd7d8e89c1c918aefedace4b06dc0e84d26db7678210bbc",
+          "reviewNote": "Designates refusal to disperse as a class C misdemeanor."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "574.070:29818",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.070&bid=29818",
+      "sourceSha256": "ce08446ae8eb0f85d4b62d9a8ecb559dbc2f8c264a0b7dc28c1e946ab00238c4",
+      "textSha256": "2c8443004b2f4b8294b6dd02b62f25bafaa5a59043bf599576c6272d5056d6cb",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions",
+          "bodySha256": "51f58e28b35283127ebf10e2f9f5b59b15f7a14249c734235dd551e223bb6f35",
+          "reviewNote": "Defines civil disorder, explosive or incendiary device, firearm, and law enforcement officer."
+        },
+        {
+          "number": 2,
+          "title": "Offense of promoting civil disorder",
+          "bodySha256": "98099c04062a5eddef9e572679c117dc25f47c55cfc238deedfb532b47ccd203",
+          "reviewNote": "Defines promoting civil disorder by teaching or demonstrating firearms, explosives, or incendiary devices knowing or intending their use in furtherance of a civil disorder."
+        },
+        {
+          "number": 3,
+          "title": "Penalty classification",
+          "bodySha256": "2ec5c476b92e723023f1098318a3abdbe927a24fe93fe42a890cd7c1ad9b0b51",
+          "reviewNote": "Designates promoting civil disorder as a class D felony."
+        },
+        {
+          "number": 4,
+          "title": "Exemption for lawful weapon training",
+          "bodySha256": "3abaeb68df6cffdf1f2e20c873b89cf51d89da98661eee75c7b5e32bd0a671ae",
+          "reviewNote": "Exempts weapon training for law enforcement, hunting, recreation, competition, or other lawful activities."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified all 4 subsections against archived text; added 'knowing or intending' to subsection 2 note."
+    },
+    {
+      "id": "574.075:29820",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.075&bid=29820",
+      "sourceSha256": "1e3c34f845946fd24ab9ff638749bad43f1099c031ed05e545107ac1a36eb66b",
+      "textSha256": "07cdcb7063e0347ffcde1c012fe765a6530df6171bb4e21b8994945d15aeb056",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of drinking or drunkenness in prohibited places",
+          "bodySha256": "8ca56f81792b64e4cb69b5ff52277d9def0de7533e7fc167b0c25e0f5ce6f3f7",
+          "reviewNote": "Defines entering a schoolhouse or church house with a lawful assemblage, or any courthouse, in an intoxicated and disorderly condition, or drinking or offering to drink intoxicating liquors there."
+        },
+        {
+          "number": 2,
+          "title": "Penalty classification",
+          "bodySha256": "4b990ee27ac4ee0e9dc1f21d638f676580212d29f04e99ccfb19e103ebeabc24",
+          "reviewNote": "Designates drunkenness or drinking in a prohibited place as a class B misdemeanor."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified against archived text; aligned subsection 1 note with 'intoxicated and disorderly condition' wording."
+    },
+    {
+      "id": "574.080:29822",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.080&bid=29822",
+      "sourceSha256": "0440d1a84b5492c58c07f159fec090df091ff94a44b5f28801d86d47ec3f07ab",
+      "textSha256": "bbe1a90773a378c6caf2380060c7ad8d550c92ec46b461c9272c06e1c1401c4f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of causing catastrophe",
+          "bodySha256": "8052195faa2ab9320d6e5e08944429b587166bed7dfbf78c3ad0f588557055de",
+          "reviewNote": "Defines causing catastrophe by explosion, fire, flood, building collapse, or release of dangerous substances or agents."
+        },
+        {
+          "number": 2,
+          "title": "Definitions of catastrophe and vital public facility",
+          "bodySha256": "f850c78341a4f870ec5cac99996cdc9709a7078506b005a08ab3e033bacac3a0",
+          "reviewNote": "Defines catastrophe based on casualties or property destruction and defines vital public facility."
+        },
+        {
+          "number": 3,
+          "title": "Penalty classification",
+          "bodySha256": "c6ae2ba42b693b06f38868a1f430ecc21b985c07c584f3ac438cc081f3144ff3",
+          "reviewNote": "Designates causing catastrophe as a class A felony."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified verbatim against archived text; formerly section 569.070 (transferred 2014)."
+    },
+    {
+      "id": "574.085:50093",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.085&bid=50093",
+      "sourceSha256": "3437104d6f0f6f16e95669724ab0ef0e7996afadbbc6a4e2fa69ab33052dd9b3",
+      "textSha256": "068dd3ea9fc24bfc668aeafcd4a3ff41a5f151e7c57da474a986c542591772b0",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of institutional vandalism",
+          "bodySha256": "f0790444d39a4a8843189ecde8dfef09710683c15190a49abe3a4b339d6eb56f",
+          "reviewNote": "Defines institutional vandalism targeting places of worship, cemeteries, religious schools, school buses, or public monuments."
+        },
+        {
+          "number": 2,
+          "title": "Penalty classifications based on property damage",
+          "bodySha256": "99540352c979906087dd697d7f9c91a132ebe20aaab7c6d51de5ab3a90cdd96a",
+          "reviewNote": "Classifies institutional vandalism as a class A misdemeanor, class E felony for $750 or more, or class D felony exceeding $5,000."
+        },
+        {
+          "number": 3,
+          "title": "Determination of property damage",
+          "bodySha256": "85011137015525ef95d8b7774c7be8586cc083a578782317c51521b74d70c620",
+          "reviewNote": "Specifies that property damage includes repair costs or necessary replacement costs."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified verbatim against archived text (2021 amendment)."
+    },
+    {
+      "id": "574.105:51036",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.105&bid=51036",
+      "sourceSha256": "c477fce08ac11f593773b5ce7bd943ba6d21193d2edd60cd69c0468c69486c4f",
+      "textSha256": "0e8f3697f544394fe01047d53a5c9d8c712d6cba2d48eaa09e050a377c91f776",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions for money laundering",
+          "bodySha256": "a426991f0033ddee42f2d5b4fea3151254c33e6a9154384117a3f25892ba01db",
+          "reviewNote": "Defines conducts, criminal activity, cryptocurrency, financial transaction, monetary instruments, person, and transaction."
+        },
+        {
+          "number": 2,
+          "title": "Offense of money laundering",
+          "bodySha256": "483e9033c1944666059bb27b68e756002c3eec5747284d7a590bbae641b5f686",
+          "reviewNote": "Defines money laundering by conducting financial transactions to promote crimes, disguise proceeds, evade reporting, or further terrorism."
+        },
+        {
+          "number": 3,
+          "title": "Penalty classification and monetary fine",
+          "bodySha256": "b148d41e8bebf437f5289512a2a8d86daf65c2cbefef7e5b4747bf0e1fcdde63",
+          "reviewNote": "Designates money laundering as a class B felony and permits assessing an additional fine up to $500,000 or twice the transaction amount, whichever is greater."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified all 3 subsections against archived text (2022 cryptocurrency/blockchain amendment); preserved permissive 'may be assessed' in subsection 3 note."
+    },
+    {
+      "id": "574.110:50145",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.110&bid=50145",
+      "sourceSha256": "44b2c46c76d9a0072c316d2ff553c1a8379bade78dd2d0178aaa83e0772ab0c6",
+      "textSha256": "1d40846d7b6bd2ab0edad6a8d9aa751d4582fd5e51fbfdd93b1195c25564e8ac",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of using laser pointer against officers",
+          "bodySha256": "e7cb9c3c733ec050f64b80c5bd34987bf2c3c99dfeb6f052a7a1d5491ef444bb",
+          "reviewNote": "Defines using a laser pointer by knowingly directing light at a uniformed safety officer, peace officer, firefighter, or medic."
+        },
+        {
+          "number": 2,
+          "title": "Definition of laser pointer",
+          "bodySha256": "7e7823d15a3c19cc7c5c1a00ecde6d02a989f980537445a499245c15f4e88470",
+          "reviewNote": "Defines laser pointer as a device emitting visible light amplified by stimulated emission of radiation."
+        },
+        {
+          "number": 3,
+          "title": "Penalty classification",
+          "bodySha256": "4e3e02bbbba88037400a975b5b272aaceacbe6b1c9b29c3f5e4776321a8c19e9",
+          "reviewNote": "Designates using a laser pointer as a class A misdemeanor."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified verbatim against archived text (L. 2021 S.B. 53 & 60)."
+    },
+    {
+      "id": "574.115:29827",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.115&bid=29827",
+      "sourceSha256": "edc6cd37a1c4065e6dd93b6ace0ecf96cbd3a9304727e07dd47e7910e5e4c5bd",
+      "textSha256": "424208d0e6425a1ee4c78dd7c4b5b9718ca9f09271ec6db3d744924a3cc52ac0",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of terrorist threat in the first degree",
+          "bodySha256": "fef63e08d67a2748391590bfe240a4e930b5adb9ab5e58e436fb988a5c1b3655",
+          "reviewNote": "Defines first-degree terrorist threat by communicating life-threatening conditions or false reports to frighten ten people or cause evacuations."
+        },
+        {
+          "number": 2,
+          "title": "Penalty classification",
+          "bodySha256": "ee94e49816105bb52ce7c580bebbf91bb75e8982a6a76274ea0e625becef004a",
+          "reviewNote": "Designates making a terrorist threat in the first degree as a class D felony."
+        },
+        {
+          "number": 3,
+          "title": "Good faith exception to prevent harm",
+          "bodySha256": "fdd7613dfff760019ed09511afa26c0383b298206f6288825588f3e7fe706c41",
+          "reviewNote": "Exempts persons acting in good faith with the purpose to prevent harm."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "574.120:29829",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.120&bid=29829",
+      "sourceSha256": "e389cdb3876129244012eacb383193839ff73a641f478f3f7a7c56662f054a34",
+      "textSha256": "532b1889f098237e265c184975cba5eda702832aa19ddf7b63308914d0b255de",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of terrorist threat in the second degree",
+          "bodySha256": "2b4cda15219cdadeabb72657d5e3f34134c7db757641a8f51d96c46743e51c1f",
+          "reviewNote": "Defines second-degree terrorist threat by recklessly disregarding evacuation or closure risks and communicating threats or false reports."
+        },
+        {
+          "number": 2,
+          "title": "Penalty classification",
+          "bodySha256": "24d01aae7f9a0683a9fc70ea33296f6e68096c55ba92a1655a06196670d26a2b",
+          "reviewNote": "Designates making a terrorist threat in the second degree as a class E felony."
+        },
+        {
+          "number": 3,
+          "title": "Good faith exception to prevent harm",
+          "bodySha256": "fdd7613dfff760019ed09511afa26c0383b298206f6288825588f3e7fe706c41",
+          "reviewNote": "Exempts persons acting in good faith with the purpose to prevent harm."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "574.125:29830",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.125&bid=29830",
+      "sourceSha256": "8755a29f4a60ecc5a87f70325f6a7debc40233ecff6e6c2a8c27c9727dabc495",
+      "textSha256": "2d4716ca20372253e0802bac9c9541f58ffd23de1e35483cb8fdf3fdb85b799d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of terrorist threat in the third degree",
+          "bodySha256": "4c0f6ac97b6bec64ab55c2c13f1d865ca9f0d0f1f3715f4c7ffe6ecc318d3572",
+          "reviewNote": "Defines third-degree terrorist threat by communicating threats or false reports with criminal negligence regarding evacuation risks."
+        },
+        {
+          "number": 2,
+          "title": "Penalty classification",
+          "bodySha256": "8fc3b2f972e88ad1c213cd7a4ffae12044f34b75038c7259b72e6ec86a241a48",
+          "reviewNote": "Designates making a terrorist threat in the third degree as a class A misdemeanor."
+        },
+        {
+          "number": 3,
+          "title": "Good faith exception to prevent harm",
+          "bodySha256": "fdd7613dfff760019ed09511afa26c0383b298206f6288825588f3e7fe706c41",
+          "reviewNote": "Exempts persons acting in good faith with the purpose to prevent harm."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "574.130:29831",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.130&bid=29831",
+      "sourceSha256": "3dbf18da68c791889c5c8001db280b5216bdb4a340a508e04edf664f5766f725",
+      "textSha256": "e24ccb00a81a73082217ffa3330c0b3e81e2d5561f0343c0f509fd9db514254b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of agroterrorism",
+          "bodySha256": "57487637aa6045bc6a5a567d71f830bdf88a367019b46c81238ef0698fde3441",
+          "reviewNote": "Defines agroterrorism by purposely spreading contagious, communicable, or infectious diseases among crops, poultry, or livestock."
+        },
+        {
+          "number": 2,
+          "title": "Penalty classifications based on damage amount",
+          "bodySha256": "7d595fc7d637d8113c27c859807a590fc13dd686badfd9c2ff9de0c727269866",
+          "reviewNote": "Designates agroterrorism as a class E felony, elevated to class B felony if damage is ten million dollars or more."
+        },
+        {
+          "number": 3,
+          "title": "Defense for medical or research activities",
+          "bodySha256": "e5feb374bb3d19d73a5f31fd9edcc5ce640d6b0c8be9779a26032ec2cf337fee",
+          "reviewNote": "Provides a defense for medically recognized therapeutic procedures or legitimate scientific research."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified against archived text (formerly section 578.008); corrected subsection 3 heading from 'Affirmative defense' to statutory 'Defense'."
+    },
+    {
+      "id": "574.140:29832",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.140&bid=29832",
+      "sourceSha256": "efdc5e71978ce6cf43e43a857f27a8efe7cd5bd4f257d56609553977d0ed6af1",
+      "textSha256": "6eeab908e7dc62859dec7a494a6483d394a7fab02ea1af94a2bf494ffbf44bca",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of cross burning",
+          "bodySha256": "975ddfc94a6f7c5f309099189192b8686450ffc26aba798745cadaf958c8f42b",
+          "reviewNote": "Defines cross burning with the purpose to frighten, intimidate, or cause emotional distress."
+        },
+        {
+          "number": 2,
+          "title": "Penalty classification",
+          "bodySha256": "ccf841ddb5c9cf752f1ff8b857d07049d637d95793c2d3701a947d903f6e6934",
+          "reviewNote": "Designates cross burning as a class A misdemeanor, elevated to class E felony for repeat offenses."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified verbatim against archived text; formerly section 565.095 (transferred 2014)."
+    },
+    {
+      "id": "574.160:29833",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.160&bid=29833",
+      "sourceSha256": "259f1115c262d8cbf3c46dd86cc64a24bea9fac0b80cd119a0cdd36b9593ddd9",
+      "textSha256": "2ce6af8a0b364db425a4002f7ab76c557e7be5bda8df96c8221652e9171a2d45",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of unlawful funeral protest",
+          "bodySha256": "dead9508bc405c0a85d0546e3d06f99b07e45cb6322989fb21681b0119125de9",
+          "reviewNote": "Defines unlawful funeral protest by picketing within three hundred feet of a funeral or burial service during or within one hour thereof."
+        },
+        {
+          "number": 2,
+          "title": "Definition of other protest activities",
+          "bodySha256": "4314a282a4f48c54f68b1ddee7facce46712aa9ee56aa76c0b5bff0904cd2a85",
+          "reviewNote": "Defines other protest activities as disruptive actions undertaken to disturb funeral or burial services."
+        },
+        {
+          "number": 3,
+          "title": "Definitions of funeral and burial service with transit exemption",
+          "bodySha256": "7b2c61d5f73733e884026549296e5c8de6bb72c6c0bd1bacf3193dcd5213f09b",
+          "reviewNote": "Defines funeral and burial service and exempts funeral processions in transit beyond the three-hundred-foot zone."
+        },
+        {
+          "number": 4,
+          "title": "Penalty classification",
+          "bodySha256": "b85ceab0f08432a769dfb89141b18fc963fc1a5fec1c238a09b568a34f0ae4c8",
+          "reviewNote": "Designates unlawful funeral protest as a class B misdemeanor, elevated to class A misdemeanor for repeat offenses."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified verbatim against archived text (L. 2014 H.B. 1231 merged with H.B. 1372)."
+    },
+    {
+      "id": "574.200:34861",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.200&bid=34861",
+      "sourceSha256": "1837658015d027127848f2a81a022af63402104ceb1ca4d401d55c7b284c3b97",
+      "textSha256": "c70cb350cb6abe00fae415e4b959939db3efdafa145f235b1e756a40fa45361e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of interference with medical assistance",
+          "bodySha256": "674b12f75a0d416d9d3279077e5991c12074f5d95d2b3dfad3007d5fa14ea8d0",
+          "reviewNote": "Defines interference with medical assistance by abortion facility employees directing deviation or blocking standard care."
+        },
+        {
+          "number": 2,
+          "title": "Penalty classification",
+          "bodySha256": "6a595c5025b41a0a3fdc2e45d67a0c0b18d56c5c856e55eded3998c3729d6597",
+          "reviewNote": "Designates interference with medical assistance as a class A misdemeanor."
+        },
+        {
+          "number": 3,
+          "title": "Definition of medical personnel",
+          "bodySha256": "cc7265af4097d843df2ff8f75ec881e27ecc9edf6b1ef1ce88c475a53f478a8a",
+          "reviewNote": "Defines medical personnel to include physicians, nurses, EMS personnel, and supervised personnel."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified verbatim against archived text (effective 10-24-17)."
+    },
+    {
+      "id": "574.203:50146",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.203&bid=50146",
+      "sourceSha256": "c2ee96339744588ca4781dfd8cde9afc07f5c0ca74074d14d3a93322684bac38",
+      "textSha256": "26b28fc8612be185148201557b7f84d97a01288de5024b1076e18d16b84aaca1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of interference with health care facility",
+          "bodySha256": "53ebffed3bad81c227f00379c1e1095fd72ccfb9f9c317cd02a10a1c79382f29",
+          "reviewNote": "Defines interference with a health care facility by peace disturbance, refusing to vacate, or threats, exempting mental health patients."
+        },
+        {
+          "number": 2,
+          "title": "Hospital workplace violence policies",
+          "bodySha256": "9ab45f701cc2f961bae965592af6e5ac027c00d06b7881f550e58d2382329ca0",
+          "reviewNote": "Mandates hospital workplace violence policies and prohibits retaliation against employees seeking emergency assistance."
+        },
+        {
+          "number": 3,
+          "title": "Penalty classifications",
+          "bodySha256": "9770208eccd04329f3c76dee5362c195f067099f003687a5ac28f1a79ab5aabb",
+          "reviewNote": "Designates interference with a health care facility as a class D misdemeanor, elevated to class C misdemeanor for repeat offenses."
+        },
+        {
+          "number": 4,
+          "title": "Definition of health care facility",
+          "bodySha256": "14bd72df5784160fb7cf1571b524d830c6d13c1c263a2cdaf08f799340cbc189",
+          "reviewNote": "Defines health care facility as a hospital providing health care services directly to patients."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified all 4 subsections against archived text (L. 2021 S.B. 26 merged with S.B. 53 & 60)."
+    },
+    {
+      "id": "574.204:50094",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.204&bid=50094",
+      "sourceSha256": "6bbad281451d539116eaa9e2332cf144837e98765a1ec5823f7bab06eb62c726",
+      "textSha256": "eb42f6d23361ab3f6029971f4686c6c87286f1a3477850c94dcb973d19c01de1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of interference with ambulance service",
+          "bodySha256": "20ab80a8b58d06929dc20cc2ab44a915a03e1d9595ba6acdbeaf53889fa473fb",
+          "reviewNote": "Defines interference with ambulance service by obstructing access, disrupting services, or threatening personnel or vehicles."
+        },
+        {
+          "number": 2,
+          "title": "Penalty classifications",
+          "bodySha256": "2b4f3146f24b17a9131e091643a1130ab143287db460aed6ffd2517188b9d467",
+          "reviewNote": "Designates interference with an ambulance service as a class D misdemeanor, elevated to class C misdemeanor for repeat offenses."
+        },
+        {
+          "number": 3,
+          "title": "Definition of ambulance service",
+          "bodySha256": "45ae343a4058e6f94663da53d05ea253a7926d75495dab9fd9868a1f1c0cb7c4",
+          "reviewNote": "Defines ambulance service as an entity providing emergency or nonemergency ambulance transportation and services."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified verbatim against archived text (L. 2021 S.B. 26)."
+    },
+    {
+      "id": "574.207:57650",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=574.207&bid=57650",
+      "sourceSha256": "aea4d657211a28923ad8c4f1518c06f9a71a27823c75328b5956860e9937365e",
+      "textSha256": "a9729dce57b5da76fa7f9e55413e9e4e669802b76b93c5d5b9b72c8270c0af3a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of interference with a first responder",
+          "bodySha256": "ed12d2e4845756948b8ac8d74fc165ebb57ea3dac0434870463f4bf6774711a9",
+          "reviewNote": "Defines interference with a first responder when knowingly and willfully violating a verbal warning and approaching within twenty feet with intent to impede legal duty, threaten physical harm, or engage in a course of conduct serving no legitimate purpose."
+        },
+        {
+          "number": 2,
+          "title": "Penalty classifications",
+          "bodySha256": "3ca9dbfd221906b9a0fa5fac90268029784cb9f4051ab174f0c2db43bc865933",
+          "reviewNote": "Designates interference with a first responder as a class B misdemeanor, elevated to class A misdemeanor for repeat offenses."
+        },
+        {
+          "number": 3,
+          "title": "Definitions of first responder and personnel types",
+          "bodySha256": "b426f7aa088d1e66e52a7f9b42452d9d58f00e10e52cf0f5bcb385db0251aa5c",
+          "reviewNote": "Defines first responder, firefighter, paramedic, and emergency medical technicians."
+        },
+        {
+          "number": 4,
+          "title": "Protection of First Amendment and recording rights",
+          "bodySha256": "841cfc8a068ac21e17525202349ed00167103f1b474ee5a40c65f14f19cc3bd7",
+          "reviewNote": "Protects First Amendment rights and guarantees the right to observe or record first responders."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewSummary": "Verified all 4 subsections against archived text (L. 2025 H.B. 225); replaced unstated 'harass' in subsection 1 note with statutory 'course of conduct serving no legitimate purpose'."
+    }
+  ]
+}

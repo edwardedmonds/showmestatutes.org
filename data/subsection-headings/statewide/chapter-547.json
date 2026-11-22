@@ -1,0 +1,441 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "547.031:54804",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=547.031&bid=54804",
+      "sourceSha256": "de51725d300e6dcd9d9ac367c0ca2d14a396c862d603b88c1832a075a826fbf8",
+      "textSha256": "e598a534bc6ed11ef5df67ea4a1024bb84489fea2de830b60ddb0fa35873fb89",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prosecutor motion to vacate or set aside judgment based on actual innocence",
+          "bodySha256": "4bf0a0dd415845ba258f2ccb8bcee973cbec8ac42e0c040e59d20e3144bf6f07",
+          "reviewNote": "Permits prosecuting or circuit attorney at any time to move to vacate or set aside a judgment based on information of innocence or erroneous conviction, vesting jurisdiction in the charging circuit court."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory court hearing, factual findings, and attorney general notice",
+          "bodySha256": "cc49a416470ab48a2d69b57ae10204999c2b556239fd66e850b3cf2322de5ab6",
+          "reviewNote": "Requires court hearing and findings of fact and conclusions of law on all issues, with circuit clerk notice to attorney general and attorney general right to appear, question witnesses, and argue."
+        },
+        {
+          "number": 3,
+          "title": "Clear and convincing evidence standard for vacating judgment",
+          "bodySha256": "5dac9df89923640a707dacc92853612c5cb7887de30fb6714c66cf7ce423a203",
+          "reviewNote": "Mandates granting motion upon clear and convincing evidence of actual innocence or constitutional trial/plea error undermining confidence in judgment, considering prior trial, appeal, post-conviction, habeas, and hearing evidence."
+        },
+        {
+          "number": 4,
+          "title": "Appellate rights of prosecutor and attorney general intervention",
+          "bodySha256": "a05c38faa4e0b9dd8269ef224cc60bd78401a438dfbfdae37aa2b438c88e9d1b",
+          "reviewNote": "Grants prosecuting or circuit attorney right to appeal denial or disposal of motion and permits attorney general to move to intervene and dismiss on appeal."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 4 subsections and statutory history; prosecutor innocence/erroneous-conviction motion, mandatory hearing with attorney general participation, clear-and-convincing standard, and appellate/intervention rights verified."
+    },
+    {
+      "id": "547.035:28919",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=547.035&bid=28919",
+      "sourceSha256": "dc7333f9c489af0d2e78214499d4b3ad4f72bf2ef62669067bbe18cd3fccbfc9",
+      "textSha256": "7c2c2863136db8ff512ad935a375f72c28d5ab74c895265fbbed1c7f65d691fe",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Postconviction motion for forensic DNA testing by person in custody",
+          "bodySha256": "9e87427baad91cb2c10c55625bfe82a2b4e0d438c837ea6bc8f1f1a5657d1e72",
+          "reviewNote": "Permits a person in DOC custody claiming forensic DNA testing will demonstrate innocence to file a postconviction motion in sentencing court governed by civil procedure rules insofar as applicable."
+        },
+        {
+          "number": 2,
+          "title": "Sworn factual allegations required in postconviction DNA motion",
+          "bodySha256": "d2961e6371128f7802cc7bbad8fd556083cb86b54a85104d62ec412c35116048",
+          "reviewNote": "Requires sworn motion alleging five elements: testable evidence, secured in relation to crime, not previously tested for listed reasons, identity at issue at trial, and reasonable probability of nonconviction."
+        },
+        {
+          "number": 3,
+          "title": "Filing and immediate delivery of motion copy to prosecutor",
+          "bodySha256": "587138e56e6966511d637d76063b5b7d2770a346a5136d764db4a429df6de4c7",
+          "reviewNote": "Requires movant to file motion and two copies with sentencing court clerk for filing in the original criminal case and immediate delivery to prosecutor."
+        },
+        {
+          "number": 4,
+          "title": "Order to show cause issued to prosecutor absent conclusive bar",
+          "bodySha256": "99e39469c2b4a7980e27f442ddc85140d830538b0d478e7ccf20405aa7252bc8",
+          "reviewNote": "Requires court to issue show-cause order to prosecutor unless motion or case files and records conclusively show movant is not entitled to relief."
+        },
+        {
+          "number": 5,
+          "title": "Transcript preparation notice to court reporter upon show cause order",
+          "bodySha256": "0d55b98fc05d4e6e3839e9d62127e95e6b5b6866a135b282934963dd239837f1",
+          "reviewNote": "Requires clerk upon show-cause order to notify court reporter to prepare and file trial or guilty-plea and sentencing transcripts if not already filed."
+        },
+        {
+          "number": 6,
+          "title": "Hearing on the record, indigent counsel appointment, and burden of proof",
+          "bodySha256": "03e2cff574e5802cd04a122b29ba51e51ce4dcf40d03ab3131269df10fe31ee4",
+          "reviewNote": "Bars hearing if records conclusively refute relief; otherwise requires on-record hearing, indigent counsel appointment, optional deposition testimony, and movant preponderance burden."
+        },
+        {
+          "number": 7,
+          "title": "Court order for testing by agreed or court-designated facility",
+          "bodySha256": "3d4e5f0f4244d9c825c016f8a856afa19188398218d80db97b4e11834a43d8ba",
+          "reviewNote": "Requires court to order DNA testing at an agreed court-approved or court-designated facility with evidence-integrity conditions upon finding reasonable probability of nonconviction and entitlement to relief."
+        },
+        {
+          "number": 8,
+          "title": "Issuance of findings of fact and conclusions of law",
+          "bodySha256": "3d350c7ab80375b7eb9be91aa65c2f635945692aa1ba2da28476afe41b7fcaca",
+          "reviewNote": "Requires court to issue findings of fact and conclusions of law whether or not a hearing is held."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 8 subsections and statutory history; verified DOC custody DNA testing motion, sworn allegations (removing unstated 'chain of custody' from note), show-cause/transcript steps, hearing/counsel/burden, testing order, and mandatory findings."
+    },
+    {
+      "id": "547.037:28920",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=547.037&bid=28920",
+      "sourceSha256": "8c8befeb7a1d4d2df49a09f409c2c1a56d9af98e788773a06eeadca19c446daf",
+      "textSha256": "c87514afa0ed7ac19cfd7a9ee277b72a0d71e5e878f373a529f1c56fb18dac3f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Motion for release based on exonerating DNA test results",
+          "bodySha256": "929755f70e4b9e85d4d2677d12fcbc3f5a7727fcd49272f0985d15b11990d70f",
+          "reviewNote": "Permits filing a motion for release in sentencing court when section 547.035 DNA testing demonstrates innocence of the crime of custody."
+        },
+        {
+          "number": 2,
+          "title": "Show cause order to prosecutor and response consenting or opposing",
+          "bodySha256": "b56ee6d4b594aaa9bdb334f8d6df20eee7003169d31f627e934e4b0f04d446fd",
+          "reviewNote": "Requires court to issue show-cause order to prosecutor and requires prosecutor to file a response consenting to or opposing the motion."
+        },
+        {
+          "number": 3,
+          "title": "Order of release upon prosecutor consent and judicial finding of innocence",
+          "bodySha256": "f7d375afae029732efb23ec2a36543b7bdfbb6ea8ca8f4dbf7d89a7a6b2cf98e",
+          "reviewNote": "Requires court to order movant's release from the sentence if prosecutor consents and court finds testing demonstrates innocence."
+        },
+        {
+          "number": 4,
+          "title": "Evidentiary hearing, public defender appointment, and burden of proof",
+          "bodySha256": "6027bd118eec500ff487b3e77e902bc377f76099b3341a0b93adbc3023f760d1",
+          "reviewNote": "Requires on-record hearing, public defender appointment for indigent movant, and movant preponderance burden when prosecutor opposes release."
+        },
+        {
+          "number": 5,
+          "title": "Order of release upon judicial finding of innocence following testing",
+          "bodySha256": "720c533e98675e3cdbd72fe9db5287a92f5fffdc28674e615c2b838976ad3677",
+          "reviewNote": "Requires court to order release from sentence if section 547.035 testing demonstrates innocence, or deny relief otherwise."
+        },
+        {
+          "number": 6,
+          "title": "Findings of fact, conclusions of law, and civil appeal rights",
+          "bodySha256": "1912b24991ee7fdc4a1c1f4a377e492d15351a13c047f460c9cda1b53a718f56",
+          "reviewNote": "Requires findings of fact and conclusions of law whether or not a hearing is held, and permits appeal as in other civil cases."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 6 subsections and statutory history; removed unstated 'Written' from subsection 6 title and verified DNA-exoneration release motion, prosecutor response, consent release, opposed hearing/public defender, and civil appeal."
+    },
+    {
+      "id": "547.200:28937",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=547.200&bid=28937",
+      "sourceSha256": "d65679df4efab57314fb3c75c22aad775137de9e7dfe64594f6d906d91cbcf57",
+      "textSha256": "60504ae6978555272d95f968531352df734350af81c65ea5d04fed0e4231d556",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "State interlocutory appeals from suppression, warrant, or competency orders",
+          "bodySha256": "fe3a198b7d13253fcc3058958df446e575936486120169add2188ae7dd6bef88",
+          "reviewNote": "Permits state appeal through prosecuting or circuit attorney from orders quashing arrest warrants, finding lack of mental fitness under section 552.020, or suppressing evidence, confessions, or admissions."
+        },
+        {
+          "number": 2,
+          "title": "State appeals in other criminal cases absent double jeopardy",
+          "bodySha256": "1c7910116863019007b78bde78d1cf68e96b05790619906da6db6bfaf50ef799",
+          "reviewNote": "Allows state appeals under section 547.210 and in other criminal cases except where possible outcome would result in double jeopardy, under supreme court rules."
+        },
+        {
+          "number": 3,
+          "title": "Appellate court jurisdiction and supreme court filing for capital cases",
+          "bodySha256": "272472635414019516f2fc2fa7406f426a7b5378e2ab870aed5a2c4c2e9a0854",
+          "reviewNote": "Designates subsection 1 appeals as interlocutory appeals to the court of appeals, except capital or first-degree murder cases (sections 565.001/565.003) filed in supreme court."
+        },
+        {
+          "number": 4,
+          "title": "Five-day filing deadline for state notice of appeal and speedy trial tolling",
+          "bodySha256": "2a6a968e2cdd2ab96437c4e364c413cfe7c66eccfbc4bf30900a8d0b7d00abc7",
+          "reviewNote": "Requires filing subsection 1 notices of appeal within five days of trial court order and tolls section 545.780 speedy-trial time until appellate decision."
+        },
+        {
+          "number": 5,
+          "title": "Supreme court rules expediting state interlocutory appeals",
+          "bodySha256": "f5057b907fd6fb568c82eccf712442686fa72cbd6c30c7d76b2b7aa9fe86df0f",
+          "reviewNote": "Directs supreme court to issue rules expediting state interlocutory appeals, including ten-day appellant brief limit under Rule 30.06(K) and eliminating Rule 30.26/30.27 rehearing or transfer motions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 5 subsections, statutory history, and 3 case annotations (Pottinger, Ulmer, Berkwit); expanded subsection 1 title to include section 552.020 competency determinations alongside warrant quashal and suppression orders."
+    },
+    {
+      "id": "547.340:28951",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=547.340&bid=28951",
+      "sourceSha256": "16b8a55e363253435f315b98c1818b482c6bf17b11b613b98bc54bfe0c92d834",
+      "textSha256": "ead7f8a9393ed661415896e86c7f3a7cefc91847fdc3263e3089a4b0ed0e2a16",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Supreme court marshal execution of sentence and arrest warrants",
+          "bodySha256": "0096cfb44a6384a20151526ff29f646fcf2c6340a6ba088e7d70fa5062e8264c",
+          "reviewNote": "Permits supreme court marshal upon certified section 547.330 order to issue arrest/transportation warrant and directs statewide arrest and delivery via marshal, deputies, or section 542.261 peace officers."
+        },
+        {
+          "number": 2,
+          "title": "Appellate court requests for supreme court marshal arrest warrants",
+          "bodySha256": "ad5b0dd57b50da4da9dbf56aa2a8a86917878694c681c792f3c4b19b2b517420",
+          "reviewNote": "Requires supreme court marshal, upon request of any court of appeals district and supreme court consent, to issue arrest/transportation warrant after judgment affirmance or appeal dismissal/withdrawal."
+        },
+        {
+          "number": 3,
+          "title": "Direction of arrest and transportation warrants to peace officers",
+          "bodySha256": "ed4812978b9ebe7f7f8d7318e3107744c8539dbdd456de3bfb0a3c10e1d086be",
+          "reviewNote": "Permits directing marshal's arrest and transportation warrant to any section 542.261 peace officer with authority to arrest and transport convict as directed."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections and statutory history; supreme court marshal sentence-execution/arrest warrants, court of appeals warrant requests with supreme court consent, and direction to section 542.261 peace officers verified."
+    },
+    {
+      "id": "547.350:28952",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=547.350&bid=28952",
+      "sourceSha256": "77c508b0c25fb65a0ae2c0437ea81b49929d512e2efed4b178da601175bb1ebd",
+      "textSha256": "cbfb9cff19eeecaf839cb8c54d685fb6346837f58a4337a1d3d571f78d63fec8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Statewide powers and authority of supreme court marshal and deputies",
+          "bodySha256": "0445286bf7f20f391c751710f048950d1dd6e7a388e56de6480b85ea44eddff9",
+          "reviewNote": "Grants supreme court marshal and deputies statewide sheriff powers and authority in every county while performing official duties."
+        },
+        {
+          "number": 2,
+          "title": "Sheriff powers for persons executing marshal arrest warrants",
+          "bodySha256": "6bc83f10262e5d606b8617d8c6325117da780294c4ca31a9712ffe91418ef0d4",
+          "reviewNote": "Grants any person executing a marshal's arrest and transportation warrant the same powers and authority as sheriffs."
+        },
+        {
+          "number": 3,
+          "title": "Peace officer certification requirement for marshal authority",
+          "bodySha256": "f929d6566ec3fb39aaca568f7afde7a6b15eaa12d6af178e2509baddc97f0b7b",
+          "reviewNote": "Limits subsection 1 applicability to a supreme court marshal certified as a peace officer under sections 590.100 to 590.150."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections and statutory history; statewide sheriff powers for supreme court marshal/deputies and warrant-executing persons, conditioned on sections 590.100 to 590.150 peace officer certification for subsection 1, verified."
+    },
+    {
+      "id": "547.360:28953",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=547.360&bid=28953",
+      "sourceSha256": "b29403e96c5e3126669bb2a3f1b07a5de471155c839e6b5348a02ff6f635aa56",
+      "textSha256": "46a7604a6fb955b29bfe515126427d301de0792f377e38a2b9deb6ce906a4c56",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exclusive post-conviction relief procedure for felony convictions",
+          "bodySha256": "b39f536cb87e85630d4e00da0273ba9820ffe67594eb156daa3b181228a79f31",
+          "reviewNote": "Establishes exclusive sentencing-court procedure under applicable civil rules for DOC-custody felons claiming constitutional, statutory, jurisdictional, ineffective-counsel, or excessive-sentence errors."
+        },
+        {
+          "number": 2,
+          "title": "Ninety-day filing deadline and complete waiver upon untimely filing",
+          "bodySha256": "bd7be1e808d1722c104b4218cef2db61a97bd511c063fade56fe3b4f49d13eef",
+          "reviewNote": "Requires Form 40 motion without cost deposit within ninety days of appellate mandate or DOC delivery, making untimely filing a complete waiver."
+        },
+        {
+          "number": 3,
+          "title": "Filing with trial clerk, prosecutor notification, and transcript preparation",
+          "bodySha256": "4d24056c330e326e492932f64b54a81a99e47d51ce170f6f51fe2cdb32c94060",
+          "reviewNote": "Requires filing motion and two copies with trial clerk for immediate prosecutor delivery, judge/court-reporter transcript notice, and appointed counsel delivery for indigent pro se movants."
+        },
+        {
+          "number": 4,
+          "title": "Requirement to allege all known claims in motion to vacate",
+          "bodySha256": "83818952570185ea2124bccbdaae765bcccc75231e02327f5d6f4e0adf076ed4",
+          "reviewNote": "Requires motion to include all known claims with movant declaration acknowledging waiver of omitted known claims."
+        },
+        {
+          "number": 5,
+          "title": "Appointment of indigent counsel and amended motion filing duties",
+          "bodySha256": "efeafc15779aee2efa7e52af0ef9498f817005d74ad857a89b587afe397f0e14",
+          "reviewNote": "Requires appointment of counsel for indigent pro se movants, investigation of facts/claims, and filing of amended motion or explanatory statement with ten-day movant reply."
+        },
+        {
+          "number": 6,
+          "title": "Counsel withdrawal, appointment of new counsel, and capital qualifications",
+          "bodySha256": "300486dbf7c371ace38f2a907fead0eba2cb5adc10ed5b656c4675795c0910e1",
+          "reviewNote": "Permits counsel withdrawal for good cause upon successor appearance, requiring new appointment and section 547.370 qualification parity in death-sentence cases."
+        },
+        {
+          "number": 7,
+          "title": "Sixty-day deadline for amended motion and thirty-day response deadline",
+          "bodySha256": "13b3489d1d2ec5566afc71b5002b4a42ad45e59654fb4a9aa2ed6a002e51ec60",
+          "reviewNote": "Requires signed non-incorporating amended motion within sixty days of transcript/mandate and counsel appointment/appearance (one thirty-day extension) and prosecutor response within thirty days thereafter."
+        },
+        {
+          "number": 8,
+          "title": "Summary dismissal without hearing when records conclusively refute claims",
+          "bodySha256": "5115dd7aeeea9b155d00a4c7780de9451decb3d847d59fb9d99e019418bd8042",
+          "reviewNote": "Bars hearing if motion and case files conclusively show no relief entitlement, requiring subsection 10 findings and conclusions."
+        },
+        {
+          "number": 9,
+          "title": "Evidentiary hearing on the record and movant preponderance burden of proof",
+          "bodySha256": "c1b1338266cf389717ddd3673a5d5e6c5d0047db51e02ad7b1556faf907da8cc",
+          "reviewNote": "Governs on-record hearing confined to last timely motion without required movant presence, optional deposition testimony, good-cause continuance, and movant preponderance burden."
+        },
+        {
+          "number": 10,
+          "title": "Findings of fact, conclusions of law, and authorized corrective relief",
+          "bodySha256": "512b8502b8257611d4210db236dbd895bce11ab8f763a1d808c5679d6395bd8e",
+          "reviewNote": "Requires findings of fact and conclusions of law on all issues whether or not a hearing is held, and directs vacatur plus discharge, resentencing, new trial, or judgment correction upon error."
+        },
+        {
+          "number": 11,
+          "title": "Final judgment status for appeal, forma pauperis review, and standard of review",
+          "bodySha256": "85ccfd8b03ada062a988e979fceef373c07ac7bc7603b0b3a33815606012a8ee",
+          "reviewNote": "Deems order a final appealable judgment for movant or state, provides in forma pauperis record and indigence-review appeal, and limits review to clearly erroneous standard."
+        },
+        {
+          "number": 12,
+          "title": "Prohibition on successive post-conviction motions",
+          "bodySha256": "3b5f4d1c4412b05be208cc891e2a1277a6b906da19e1024c35eb9e8ce1f44924",
+          "reviewNote": "Prohibits the circuit court from entertaining successive motions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 12 subsections and statutory history; verified exclusive felony post-conviction relief procedure, Form 40 90-day deadline, counsel/amended motion timelines, summary dismissal, evidentiary hearing, corrective relief, clearly erroneous review, and successive-motion bar."
+    },
+    {
+      "id": "547.370:28954",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=547.370&bid=28954",
+      "sourceSha256": "92c4f183fa0664d228d92a82f68fa6a463c58e2aba225bb560245df07326bde9",
+      "textSha256": "23a20262518b74eafb8c0202819c7042fd57cfb6ed8f934b645bfbf0fed3ef83",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Appointment of dual counsel in capital post-conviction proceedings",
+          "bodySha256": "d3923b048890dbc4024684b13df4617e4764a845636d020aeb575f03448eac17",
+          "reviewNote": "Requires on-record indigence finding and appointment of two counsel for indigent death-sentence movants under section 547.360, barring waiver absent on-record competency and legal-consequence understanding."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory qualification standards for capital post-conviction counsel",
+          "bodySha256": "6fc03108607b2cbf27c66adf30ccdc6ba3ac11e6034a70c15054cc29e904f9c1",
+          "reviewNote": "Requires Missouri Bar or Rule 9 admission for all appointed capital counsel, specifies training and felony litigation/postconviction thresholds for at least one counsel, and requires pre-appearance certification to state public defender."
+        },
+        {
+          "number": 3,
+          "title": "Conflict disqualification for trial or direct appeal counsel",
+          "bodySha256": "b6cd5dcf698b952917387a15fea254cf1c06cead83e188a87d67970ffb46482e",
+          "reviewNote": "Prohibits appointing counsel who represented the movant at trial or on direct appeal."
+        },
+        {
+          "number": 4,
+          "title": "Compensation and litigation expenses provided by public defender",
+          "bodySha256": "68e9271e412b0cfe53fe5e7d48e936403d2913801d4286172f18b9897a1641e3",
+          "reviewNote": "Requires the state public defender to provide appointed capital postconviction counsel reasonable compensation and reasonable and necessary litigation expenses."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 4 subsections and statutory history; dual counsel appointment and competency-to-waive hearing in capital post-conviction cases, qualification standards, trial/appeal counsel disqualification, and public defender funding verified."
+    },
+    {
+      "id": "547.500:54805",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=547.500&bid=54805",
+      "sourceSha256": "f37531ea294f68d12d457c10b1435977736948ab3b2996aeb645b27e512df91e",
+      "textSha256": "402333dc194d0dc5f2960683cc12efcff52e425158bef5a3c390140761f5d7ab",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishment of conviction review unit by office of prosecution services",
+          "bodySha256": "317735a4fe502a1d44c7105f4ac3a1e25224e04fa8bc4bb3583c035fd60c4916",
+          "reviewNote": "Permits Missouri Office of Prosecution Services to establish a conviction review unit investigating actual innocence claims including guilty-plea defendants."
+        },
+        {
+          "number": 2,
+          "title": "Rulemaking authority for actual innocence claims",
+          "bodySha256": "0cf9d53f33b6768f23883052d0029bc2749f84ff2090394ffc999297f6ce8508",
+          "reviewNote": "Grants Missouri Office of Prosecution Services power to promulgate rules and regulations for receiving and investigating actual innocence claims."
+        },
+        {
+          "number": 3,
+          "title": "Application requirements, fee waivers, and clear and convincing standard",
+          "bodySha256": "6678ce9f95f722eb8e36f4f18f99ff5e123a2b95625010c61bfa6ee7ac9518ef",
+          "reviewNote": "Requires application process with non-excessive/indigent-waived fees, bar during pending litigation (except section 547.031), Rule 55.03/perjury verification, and newly discovered reliable clear-and-convincing evidence standard."
+        },
+        {
+          "number": 4,
+          "title": "Staffing composition of conviction review unit",
+          "bodySha256": "12e03735ba5747ba97f11f41fb7e9664a3e5b43805f68d6dc2945fbc7a90f2a0",
+          "reviewNote": "Specifies unit composition of two experienced criminal attorneys hired by MOPS executive director, investigator, paralegal, and administrative staff, with executive director as ex officio coordinator."
+        },
+        {
+          "number": 5,
+          "title": "Presentation of findings and recommendations to prosecuting entities",
+          "bodySha256": "d3ecff7283d227c4b40bad7f14d952a9cbd210a60aa6d8f29b5ec51355a488c9",
+          "reviewNote": "Requires presenting completed review findings and recommendations to the prosecuting office (or requesting prosecutor/attorney general/special prosecutor)."
+        },
+        {
+          "number": 6,
+          "title": "Prosecutorial discretion regarding conviction review unit recommendations",
+          "bodySha256": "3d74f077899441fc1dc61dfd731776ef3c3e8b1c1d49cd4200d7e3be4081514a",
+          "reviewNote": "Provides that prosecuting authorities and MOPS are not required to accept or follow conviction review unit findings and recommendations."
+        },
+        {
+          "number": 7,
+          "title": "Closed record status and public disclosure upon prosecutorial decision",
+          "bodySha256": "ce9a25ee9b0a9f3e4a9496665745e1971da22e51eb862b6e245d4d72285c362d",
+          "reviewNote": "Designates unit applications, investigations, and documents as closed records, making submitted findings and recommendations open after prosecutorial decision not to pursue or finality of section 547.031 proceedings."
+        },
+        {
+          "number": 8,
+          "title": "Preservation of prosecutor authority to file innocence motion during review",
+          "bodySha256": "e2115b1aed69d27110c5b2032fb105bbccf9d530809788333af4f83596594a56",
+          "reviewNote": "Clarifies that this section does not prevent a prosecuting or circuit attorney from filing a section 547.031 motion before unit review is complete."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 8 subsections and statutory history (L. 2024 S.B. 754); permissive MOPS conviction review unit, rulemaking, sworn application/clear-and-convincing criteria, staffing, prosecutorial discretion, closed/open record transition, and section 547.031 preservation verified."
+    }
+  ]
+}

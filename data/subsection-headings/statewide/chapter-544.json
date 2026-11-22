@@ -1,0 +1,432 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "544.045:28694",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=544.045&bid=28694",
+      "sourceSha256": "60d16cea346a479cc19c157d70e52ada2732892854bbfa5f2fb06da411e83c44",
+      "textSha256": "55b91287713fb5200ead9a71f78891941bdca460eba06220cab3bb2219b78126",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Driver's license deposit in lieu of bail for traffic offenses",
+          "bodySha256": "e5536b2348795d161c2476c6ed11059b3e52a900a94357904fdcc7d03514c0fd",
+          "reviewNote": "Permits arrested traffic offender, at mutual discretion of bail officer and driver, to deposit driver's license in lieu of bail, excluding DWI, leaving scene, suspended/revoked license, or fatal accident charges."
+        },
+        {
+          "number": 2,
+          "title": "Fifty-dollar bond alternative to driver's license deposit",
+          "bodySha256": "7904eb4066814a519cf68cad321dfa1f786210b47d56de62bb085af648c86865",
+          "reviewNote": "Permits arrested driver to decline license deposit and instead deposit a fifty-dollar bond per traffic offense, with officer receipt and deposit with court."
+        },
+        {
+          "number": 3,
+          "title": "Receipt issuance and driving authorization pending appearance",
+          "bodySha256": "3c24be5524a3ba0f4fa38bbca341f3e7251d77f9378505e3018e3540e95906a6",
+          "reviewNote": "Requires acceptance of bond or license, issuance of director-approved receipt allowing motor vehicle operation under section 302.181 until appearance, and new receipt upon continuance."
+        },
+        {
+          "number": 4,
+          "title": "Notice to director of revenue upon failure to appear",
+          "bodySha256": "f97ba35ae00debb63799693c24086ca4a17e2f45c06111a673fe11c93af4c165",
+          "reviewNote": "Requires court clerk or judge to notify director of revenue within ten days of failure to appear, directing director to withhold license renewal or duplicate until final judgment."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 4 subsections, statutory history, and effective date 7-01-92; removed unstated 'cash' qualifier from subsection 2 title and verified traffic bail deposit, receipt driving authority, and 10-day failure-to-appear notice."
+    },
+    {
+      "id": "544.155:28707",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=544.155&bid=28707",
+      "sourceSha256": "c24cfcd355349bb761d933832dc51c46d8a926b71ab199d8cae191cf400512bd",
+      "textSha256": "25312d4dc873269282e4a25e9695b88b3f640ff547386abb42a151eb572e97ab",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Fresh pursuit into state by out-of-state peace officers",
+          "bodySha256": "7e6701bc0e297d5f010bfb632ceb0a09ba3cc5e82ebdb554a7647ccdbcae2e01",
+          "reviewNote": "Grants out-of-state peace officers in fresh pursuit for felonies, DWI, or excessive BAC reciprocal authority to arrest and hold in custody in Missouri."
+        },
+        {
+          "number": 2,
+          "title": "Presentment before judge, lawfulness hearing, and extradition commitment",
+          "bodySha256": "72b51ebda0ebcee4aee71d2ff699c4d31948515e1c7ecb3fceedb1a2f55c5a83",
+          "reviewNote": "Requires arresting officer without unnecessary delay to take arrested person before a county judge of competent jurisdiction for a lawfulness hearing, leading to extradition commitment/bail or discharge."
+        },
+        {
+          "number": 3,
+          "title": "Preservation of otherwise lawful arrests in this state",
+          "bodySha256": "6cb9b9d2f964a5932e0a543e0921311513b6542f810d97bc2b60ac7a0c0c6576",
+          "reviewNote": "Provides that subsection 1 shall not be construed to make unlawful any arrest in Missouri that would otherwise be lawful."
+        },
+        {
+          "number": 4,
+          "title": "Definition of state to include District of Columbia",
+          "bodySha256": "f5cd05dc743dc5c18e92f0768699c6063a2a5c4a3811ad16aedaef022aa9c91b",
+          "reviewNote": "Defines 'state' to include the District of Columbia for purposes of this section."
+        },
+        {
+          "number": 5,
+          "title": "Definition of fresh pursuit for felonies and DWI",
+          "bodySha256": "86d8d3bc3862b35377c32546a3c40c22be05e42f45d1875a58cd62998d329841",
+          "reviewNote": "Defines 'fresh pursuit' to include common-law fresh pursuit and pursuit without unreasonable delay of persons reasonably suspected of felonies, DWI, or excessive BAC."
+        },
+        {
+          "number": 6,
+          "title": "Short title citation as Uniform Law on Fresh Pursuit",
+          "bodySha256": "b7bca3a2392a9b22ebe67af3736a7d91076ffaa6bfb4c0326fc50104bae4e311",
+          "reviewNote": "Permits citation of this section as the Uniform Law on Fresh Pursuit."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 6 subsections and statutory history; corrected 4 consecutive shifted subsections (#3–#6) and expanded subsection 2 title so all 6 headings match the Uniform Law on Fresh Pursuit text."
+    },
+    {
+      "id": "544.157:28708",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=544.157&bid=28708",
+      "sourceSha256": "b6bd387d1fc4df9af754f36bcc5832b48e6940fc4f4185213e5ea55019ea91a7",
+      "textSha256": "2d855496c93a1eebd3f19a8a4d2434c6eb5c5d3ebe36cb67cfde6476db3a4eb4",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Statewide arrest authority during fresh pursuit by certified peace officers",
+          "bodySha256": "a6d08fc99753bc98d5c51768bcc1fbe34d0181e690b6a048a629e7876c753da7",
+          "reviewNote": "Grants chapter 590 certified officers, conservation agents, capitol police, college/university police, and state park rangers statewide arrest authority during fresh pursuit initiated within their jurisdiction until contact is lost."
+        },
+        {
+          "number": 2,
+          "title": "Disposition of prisoner and court appearance following fresh pursuit arrest",
+          "bodySha256": "98c0a16f32ca9ae8fb4cc6ef0624be3b25c6f249cbbc931a476b5fff170ef1dd",
+          "reviewNote": "Directs prisoner disposition under warrant, uniform traffic ticket, or forthwith presentment before a judge for warrantless arrests (with section 544.455 release authority), unless officer issues a summons."
+        },
+        {
+          "number": 3,
+          "title": "Definition of fresh pursuit including suspected felonies and ordinance violations",
+          "bodySha256": "73e8fa16fc3370aadb8329611ddd47966fe7fbc064e513cba7cd445dded3ce46",
+          "reviewNote": "Defines 'fresh pursuit' as instant pursuit, including common-law hot pursuit and pursuit for suspected felonies, in-presence offenses/ordinance violations, or criminal arrest warrants."
+        },
+        {
+          "number": 4,
+          "title": "Minimum supervisory and safety policy standards for vehicular pursuits",
+          "bodySha256": "a0783f5a7b40c2caee8d00062cfaab955dd8a7c15b828dd8ff6345a6a75da85d",
+          "reviewNote": "Requires public agencies electing to institute vehicular pursuits to adopt a safety policy meeting four minimum standards on supervision, vehicle count, coordination, and initiation/termination guidelines."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 4 subsections and statutory history; statewide fresh-pursuit arrest powers for listed certified officers, prisoner disposition, instant-pursuit definition, and agency vehicular-pursuit policy standards verified."
+    },
+    {
+      "id": "544.170:28710",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=544.170&bid=28710",
+      "sourceSha256": "ffbaf4b0e32f354f8246805f7beb5c1d651a32a0b34ab21952852280f8068ba4",
+      "textSha256": "59e86108be48d5f1d97c4bfd611387d885ae06a8cd2532842b911543c769e97e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Twenty-four-hour discharge deadline for warrantless arrests",
+          "bodySha256": "ad292869ffa9679a9f96540e98f4866a6f9643841b2e54a907ef5298bdc14a69",
+          "reviewNote": "Requires discharge of persons arrested and confined without warrant within twenty-four hours unless charged on oath of a credible person and held by warrant."
+        },
+        {
+          "number": 2,
+          "title": "Right of confinee to consult with counsel or representatives",
+          "bodySha256": "338b7874ba4cc8e2cd50f9bc15cd9432aec5708f5ed44bb1b7dbd7bcf96f7179",
+          "reviewNote": "Requires permitting confinees at any reasonable time to consult with counsel or other persons acting on their behalf."
+        },
+        {
+          "number": 3,
+          "title": "Class A misdemeanor penalties for unlawful detention or denial of counsel",
+          "bodySha256": "56014af9e2a51df37c51ad064a9f2771f0d7da054dc4e3ee1bdccaa966ee6a75",
+          "reviewNote": "Makes refusal to release, denial of counsel, transfer, or false charging with intent to evade this section a class A misdemeanor."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections, 4 cross-references, and 6 case annotations; note catchline retains legacy 'twenty hours' phrasing while body subsection 1 sets a 24-hour warrantless detention limit, with counsel access and class A misdemeanor penalties."
+    },
+    {
+      "id": "544.193:28713",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=544.193&bid=28713",
+      "sourceSha256": "12b7624c816d64893902ca66310c242cff067b50d7ac33b39f057270227f354f",
+      "textSha256": "ca3177fd0617242843d48356c1e7f3287be01aded6ca2f45ec7a80bc4e5c9c9d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions of body cavity search and strip search",
+          "bodySha256": "5c3822d36bb6e959fcbff9fbebbaced040b0dd39bef4faadbf366c4f77bd45c5",
+          "reviewNote": "Defines 'body cavity search' and 'strip search' for sections 544.193 to 544.197."
+        },
+        {
+          "number": 2,
+          "title": "Probable cause requirement for strip searches in nonfelony arrests",
+          "bodySha256": "9fd9feb0035f1c7d80d0b8aa5633de92b8b379229e3a05abe8d48b33073a0818",
+          "reviewNote": "Prohibits strip or body cavity searches of persons arrested or detained for traffic or nonfelony offenses absent probable cause of concealed weapon, crime evidence, or contraband."
+        },
+        {
+          "number": 3,
+          "title": "Same-sex personnel and privacy requirements for strip searches",
+          "bodySha256": "3fb6ecd2a464b57d9c314fc90a98e0651316be96ebf2211eae2caa2beab3f065",
+          "reviewNote": "Requires same-sex personnel and private premises out of view for all strip and body cavity searches, while allowing a readily available person present at the searched person's request and consent."
+        },
+        {
+          "number": 4,
+          "title": "Warrant and medical personnel for nonfelony body cavity searches",
+          "bodySha256": "42bda3507375049ff2999e55c77a8b61b509f5eaa27456432b6471446b4a790d",
+          "reviewNote": "Requires a duly executed search warrant, sanitary conditions, and a licensed physician, registered nurse, or practical nurse for nonfelony or traffic body cavity searches."
+        },
+        {
+          "number": 5,
+          "title": "Written command authorization and written report requirements",
+          "bodySha256": "b08f75aa7ec1445a04483e10a94e8867280ae6b1d1f8b2466f356e71eee4598f",
+          "reviewNote": "Requires advance written authorization from the agency commander and a written report containing listed details furnished to the person searched."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 5 subsections and statutory history; refined subsection 4 title to preserve nonfelony/traffic scope for body cavity search warrants and verified definitions, probable cause, privacy, and command authorization rules."
+    },
+    {
+      "id": "544.195:28714",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=544.195&bid=28714",
+      "sourceSha256": "6850b18d8e0c73a4c3cc436b75a68b5fdf3a41f92db5a15f9013ab92d1b669a6",
+      "textSha256": "87ae9427d8a2063fd7b92e34a5f88b79f72c27492ab0d9f8f8d42696e17675cd",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Preservation of common law and statutory rights and criminal liability",
+          "bodySha256": "59e15fd26738f343c660cf99d0756e936e2cf2b4caa8ef020268633664d9b215",
+          "reviewNote": "Preserves common-law and statutory damages or injunctive rights and criminal prosecution of officials violating sections 544.193 to 544.197."
+        },
+        {
+          "number": 2,
+          "title": "Private civil action for actual damages, punitive damages, and attorney fees",
+          "bodySha256": "97c3b8cc5ae1dc237fe90a1630e50684cb74465059eb6db8d293d2f7b6b24db2",
+          "reviewNote": "Permits a person suffering actual damage from a violation of sections 544.193 to 544.197 to bring a civil action for actual damages, discretionary punitive damages and equitable relief, and reasonable prevailing-party attorney's fees."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; preservation of common-law/statutory remedies and criminal liability plus private civil action for actual/punitive damages, equitable relief, and prevailing-party attorney fees verified."
+    },
+    {
+      "id": "544.455:28745",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=544.455&bid=28745",
+      "sourceSha256": "dd5b899f4ac5c402c60f703f11acff83a87ba119fa4f3e5d92496287c858557d",
+      "textSha256": "c49a3248576628b92698cc30cf7c4e5434e40b0e70875b8bf0ef0f510228e8d8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Pretrial release on personal recognizance and authorized conditional release terms",
+          "bodySha256": "e180c5b3e7d3ed85f19483da3c8cf79dbdbcc2c630c9011cbcafd2aed1c4e1eb",
+          "reviewNote": "Permits pretrial release on personal recognizance or any combination of seven listed conditions (including supervision, travel limits, bond, ten-percent deposit, or electronic monitoring with county-commission cost rule) to reasonably assure appearance."
+        },
+        {
+          "number": 2,
+          "title": "Factors considered in determining pretrial release conditions",
+          "bodySha256": "27dcb4067d226cc7c85c9b7501707abdef7cb154cb272ebb4bd936ad1d684718",
+          "reviewNote": "Directs judge to consider listed factors including offense nature, weight of evidence, family/community ties, financial resources, mental condition, convictions, and appearance/flight history."
+        },
+        {
+          "number": 3,
+          "title": "Release order, statement of conditions, and violation warnings",
+          "bodySha256": "6d71a7f7e325291a12cee08f10780610bd06e4bf0caf72b70fb8c04ae56f4544",
+          "reviewNote": "Requires judge authorizing release to issue an appropriate order stating conditions, inform defendant of violation penalties, and advise that an arrest warrant will issue immediately upon violation."
+        },
+        {
+          "number": 4,
+          "title": "Prompt review of release conditions after twenty-four-hour detention",
+          "bodySha256": "f95bbc1dd3b28a09309c77b5adc1f5af1bd8314dc7b86787d9d2a0ee2882291a",
+          "reviewNote": "Entitles a person still detained after twenty-four hours due to inability to meet release conditions to prompt review upon application to the imposing judge."
+        },
+        {
+          "number": 5,
+          "title": "Judicial amendment and modification of release conditions",
+          "bodySha256": "8ae8a644be408d596185ce3ec4d89644cbed1cee4db7f96fadf3f6dbf0c5b2f6",
+          "reviewNote": "Permits judge at any time to amend release order to impose additional or different conditions, triggering subsection 4 review if detention or part-time custody results."
+        },
+        {
+          "number": 6,
+          "title": "Inapplicability of formal rules of evidence to pretrial release hearings",
+          "bodySha256": "ad86af77ba44e3048159c04e618df612f7bb3dab3c71e3fcd1c6efd2e0fa15b9",
+          "reviewNote": "Provides that information stated or offered in connection with release orders need not conform to formal rules of evidence."
+        },
+        {
+          "number": 7,
+          "title": "Disposition by forfeiture of collateral security unimpaired",
+          "bodySha256": "f4ed382bfaf60c2283c6bd21b1b12a4e4692c94268b1343b72301914d0b09c68",
+          "reviewNote": "Preserves court-authorized disposition of cases by forfeiture of collateral security."
+        },
+        {
+          "number": 8,
+          "title": "Application of release standards to municipal ordinance violations",
+          "bodySha256": "b7783805a7b350e01edb71d8fc70874e0265f71262f2b868ebb21d6c8e5de9a8",
+          "reviewNote": "Permits municipal judges to release persons charged with municipal ordinance violations under the same conditions and manner as associate circuit judges."
+        },
+        {
+          "number": 9,
+          "title": "Local court rules authorizing pretrial electronic monitoring",
+          "bodySha256": "f90ede645fcd1f5681506f233dbda91ec728c625c9946060f865b59683404381",
+          "reviewNote": "Permits circuit courts to adopt local rules authorizing pretrial electronic monitoring under subsection 1(6) in lieu of incarceration for specified offenses."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 9 subsections, statutory history, and 1976 State v. Adams annotation; removed unstated 'Written' from subsection 3 title and verified personal recognizance, conditional release terms, 24-hour review, and local electronic-monitoring rules."
+    },
+    {
+      "id": "544.456:28746",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=544.456&bid=28746",
+      "sourceSha256": "6dd2cd4638b22db5f20c61027ed562e2a1cca9c187d52e3891407305a6ff34ed",
+      "textSha256": "793752e9ff9fcc93938962bc5c4412c5939f7816b778b4c82e631a348c311d09",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Short title citation as Sam Pratt's Law",
+          "bodySha256": "e7b7f3154356cab88eb1584de41ce0240cdca9692c4efc1255fc2fd4d3249ac4",
+          "reviewNote": "Establishes short title citation as 'Sam Pratt's Law'."
+        },
+        {
+          "number": 2,
+          "title": "Condition prohibiting compensated child care services in child abuse cases",
+          "bodySha256": "edf968f6328836fe1f3fbf010266b69d26bfb23b8b5e5b33d029f133c8572313",
+          "reviewNote": "Permits court in cases involving child abuse, neglect, or death to prohibit compensated child care as a section 544.455 release condition, requiring notice of determination and final disposition to DHSS and DSS."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; Sam Pratt's Law short title and permissive release condition prohibiting compensated child care in child abuse, neglect, or death cases verified."
+    },
+    {
+      "id": "544.470:28748",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=544.470&bid=28748",
+      "sourceSha256": "f9bd20432fec195a452f8d822d1b761fcf8d8d09f01e5ab38e393ebd50e85928",
+      "textSha256": "a3e5e11921bf6c592fe7317f224db5eb672be1ffdca1cf4e0a4e489421febb61",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Commitment to county jail upon nonbailable offense or unmet release conditions",
+          "bodySha256": "0ae0d8d7d22c5650249136418612b9876d063a1092e13ac28f1a0220a12091bb",
+          "reviewNote": "Requires commitment to county jail until discharged by due course of law if offense is nonbailable, electronic monitoring is not granted, or section 544.455 release conditions are unmet."
+        },
+        {
+          "number": 2,
+          "title": "Presumption of flight risk and commitment for unlawfully present aliens",
+          "bodySha256": "55c572ddc36efb74108f8cce81aabed1fe1126daf25aaa54e0b34998e36a15ac",
+          "reviewNote": "Creates rebuttable statutory presumption against release under section 544.455 when judge reasonably believes defendant is an unlawfully present alien (note 2016 Lopez-Matias v. State constitutional annotation in source notes)."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, statutory history, and 2016 Lopez-Matias v. State annotation (holding wholesale bail denial for defendants unable to prove lawful presence violates Mo. Const. Art. I, § 20); both titles verified neutrally against statutory text."
+    },
+    {
+      "id": "544.472:28749",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=544.472&bid=28749",
+      "sourceSha256": "9522106b6a6d04e19f3b7687e4b2f3d5cf1a3d7ae479fba6690a9acb5a43b03f",
+      "textSha256": "b92bc1c202f6b66848fba1a7ca935bdc55a2cfc7003e856d3d2fa6080de1ffc6",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Immigration status verification within forty-eight hours through federal center",
+          "bodySha256": "6a0207bb37de63b2688027789884dfb64f7b649a3de01663d9d16616342e5944",
+          "reviewNote": "Requires arresting agency within forty-eight hours to query DHS Law Enforcement Support Center when jailed prisoner's nationality or lawful status cannot be verified from documents or reasonable effort, and notify DHS if unlawful."
+        },
+        {
+          "number": 2,
+          "title": "Preservation of bond eligibility and release rights",
+          "bodySha256": "4494f32f67a5812769a5b065a02fa5ff61ec5100275974a3f16fe78de298a45b",
+          "reviewNote": "Clarifies that nothing in this section shall be construed to deny bond or prevent release of an otherwise eligible person."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, transfer note (formerly 577.680), and effective date 1-01-17; 48-hour LESC immigration verification query and preservation of bond/release eligibility verified."
+    },
+    {
+      "id": "544.665:28769",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=544.665&bid=28769",
+      "sourceSha256": "3b21e47d78c78fea8f15f17ff24706720ca662fe3d0e070321de40702c2eedda",
+      "textSha256": "87f2a415c1ee6df2d63efb39e6282fe586097db30042400947790bccf44d92e5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Crime of failure to appear while released on bond or recognizance",
+          "bodySha256": "6ca79b30bfe6ce674eb58664ba382015905d9df45d63a083a6a86dbb5332e9a0",
+          "reviewNote": "Makes knowingly failing to appear before a court or judicial officer while released on recognizance or bond the crime of failure to appear in addition to security forfeiture."
+        },
+        {
+          "number": 2,
+          "title": "Classification of failure to appear based on underlying charge severity",
+          "bodySha256": "53f7ec30e99710b061db86b8f127e8ee15d86a066e2739774250a92bd07b4d08",
+          "reviewNote": "Classifies failure to appear as a class E felony, class A misdemeanor, or infraction (with municipal fine cap) based on the underlying criminal or municipal charge."
+        },
+        {
+          "number": 3,
+          "title": "Preservation of inherent judicial contempt powers",
+          "bodySha256": "9488a294dac1acc2fbf6ace1f56cf98d1daf5e001880e05082d100828fc86b08",
+          "reviewNote": "Provides that nothing in sections 544.040 to 544.665 prevents any court from exercising its power to punish for contempt."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections, statutory history, and effective date 1-01-17; knowing failure to appear offense, tiered felony/misdemeanor/infraction classifications, and judicial contempt preservation verified."
+    },
+    {
+      "id": "544.676:28772",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=544.676&bid=28772",
+      "sourceSha256": "22bafad145f9125f670ead8da7b7a00252e7aa612cec2085e14360b0c2ba163d",
+      "textSha256": "1a128a2d24006b260cf2f1500bde9b99bdd4e3ca2044c5b85abaca5d84fbc6d6",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Bail denial or protective conditions upon showing of danger to victim or community",
+          "bodySha256": "3c6589c0ed42c7e6a8c3c99f4c8fdaa352ba92e2afde59f39561969e55066ed4",
+          "reviewNote": "Permits court to deny bail or impose appropriate protective conditions upon state showing that defendant poses a danger to a crime victim, witness, or the community."
+        },
+        {
+          "number": 2,
+          "title": "Evidence and considerations in assessing dangerousness",
+          "bodySha256": "0e0b5bea82400c6c51dcbbc1f3270a54d23951b0c965af41c36024bf1ccc9e12",
+          "reviewNote": "Permits court in assessing dangerousness to consider all relevant evidence including criminal record, probation/bail status at time of offense, and crime circumstances."
+        },
+        {
+          "number": 3,
+          "title": "Right to trial within one hundred twenty days of arraignment upon bail denial",
+          "bodySha256": "b7156f33a6ebd4b541fa97b17c7f0acd12b9a7d052e1c71af68635acc783bfd3",
+          "reviewNote": "Entitles defendant denied bail for dangerousness, upon written request filed at arraignment, to trial within 120 days of arraignment or venue-change order (whichever is later), waived by defendant continuance or bail setting."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections and statutory history; permissive bail denial or protective conditions upon dangerousness showing, evidentiary considerations, and 120-day trial right upon written arraignment request verified."
+    }
+  ]
+}

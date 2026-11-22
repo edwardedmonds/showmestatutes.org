@@ -1,0 +1,1306 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "575.020:29835",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.020&bid=29835",
+      "sourceSha256": "0df2f48a3effc0253bd001a7c8393be13eae066a6cea0db328e2e216c3fb8bf0",
+      "textSha256": "0759256308e1cf77188816e4a0a03e7c3d0d34224a7e457e1f8e123a7a85657d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of concealing an offense",
+          "bodySha256": "e61b339b5b74b06be02e9159c042ab64f507ba3df0576f5d0f71473a3f3bea50",
+          "reviewNote": "Defines concealing an offense by conferring or accepting consideration to conceal an offense or withhold evidence."
+        },
+        {
+          "number": 2,
+          "title": "Classification as misdemeanor or class E felony",
+          "bodySha256": "fd641af2ab7b75f62316bb14f6f214c8239861603dc1ded3b5d0420288d0b395",
+          "reviewNote": "Classifies concealing an offense as a class A misdemeanor, elevated to a class E felony when concealing a felony."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.030:29839",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.030&bid=29839",
+      "sourceSha256": "e2731abc4156addb29fede0a49f81b049b9a870861b48c51ae873c4f2c223a0c",
+      "textSha256": "576292192cdfe2767fba010bec0d95abb1cab7453478e2674d0fd94b0110f525",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of hindering prosecution",
+          "bodySha256": "fc17de3e7c0cb43ff8d89b53904a381cff81ee52b5a32ff844bc9e6344ec43e2",
+          "reviewNote": "Defines hindering prosecution by harboring, warning, assisting, or obstructing apprehension of an offender."
+        },
+        {
+          "number": 2,
+          "title": "Classification as misdemeanor or class E felony",
+          "bodySha256": "80bd9c924261dff92e7231c06c8e8d2af1515b10d4a9847173d2b0d3b7bb5297",
+          "reviewNote": "Designates hindering prosecution as a class A misdemeanor, elevated to a class E felony if the underlying conduct is a felony."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.040:29841",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.040&bid=29841",
+      "sourceSha256": "0f8d351f816d06b4e9f0ee37a099721b3715eb4ee7515ef41e0b3405afac199e",
+      "textSha256": "504fd363df6e4cb79758500614cfe5a586754157307401ac6e7f3c6e9b5c0713",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of perjury in official proceedings",
+          "bodySha256": "5521bf50622d072575b35b69620244a1184246038d4cd18e9fc6b3d6801dd0a0",
+          "reviewNote": "Defines perjury as knowingly testifying falsely to a material fact under oath with purpose to deceive in an official proceeding."
+        },
+        {
+          "number": 2,
+          "title": "Definition of material fact",
+          "bodySha256": "52d2be7a98f265473847aa70052aca8c949c5f46e5ee7e6c51350918a5b4821d",
+          "reviewNote": "Defines a material fact as one that could substantially affect or did affect the course or outcome of the proceeding."
+        },
+        {
+          "number": 3,
+          "title": "Irrelevance of knowledge of materiality and excluded defenses",
+          "bodySha256": "493ea57063b15adddd5886dddc705773b558fef2a669fcd1ff7a6462f3cdea3d",
+          "reviewNote": "Precludes defenses based on mistaken belief in immateriality or general lack of competence to testify."
+        },
+        {
+          "number": 4,
+          "title": "Defense of retraction during same official proceeding",
+          "bodySha256": "5d969476fe1360058493af5abd3fd383e84c5f2181ca37830f143995dbe4d7e1",
+          "reviewNote": "Establishes a defense when the person retracts the false statement in the same proceeding before its falsity is exposed."
+        },
+        {
+          "number": 5,
+          "title": "Defendant burden of injecting retraction defense",
+          "bodySha256": "9bf9b0306fa4c694ce372ee4e496f43902ecf453121dd4d10b7931ab3d18c2ae",
+          "reviewNote": "Places the burden of injecting the issue of retraction upon the defendant."
+        },
+        {
+          "number": 6,
+          "title": "Classification as class E felony for nonfelony proceedings",
+          "bodySha256": "cf784d5d7a896b5fc05cc006d609036829b115b8075a2eae5c2f266cbd76be7c",
+          "reviewNote": "Designates perjury committed in a proceeding not involving a felony charge as a class E felony."
+        },
+        {
+          "number": 7,
+          "title": "Felony classifications for perjury in felony proceedings",
+          "bodySha256": "ee414e83b528de8a167330c467c4bf0b58509ddb194dddf84abb2736b8d371c8",
+          "reviewNote": "Classifies perjury in felony proceedings as class D, B, or A felony depending on whether committed to convict of felony or murder."
+        }
+      ],
+      "reviewSummary": "Verified all 7 subsections verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.050:29843",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.050&bid=29843",
+      "sourceSha256": "263b88390a8a1638fbde67c34214ca3e3edf0ac4fb03dde646552b7235d3d7e4",
+      "textSha256": "2293125337d1262a63751f5132a6d838b3e43e041c1cb9880370599306a284c7",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of making a false affidavit",
+          "bodySha256": "6af87c05ad1b3c85c2b7eb1243ba16f62d81a4f69c498fb97bc73c636d90b182",
+          "reviewNote": "Defines making a false affidavit as swearing falsely to a material fact with purpose to mislead."
+        },
+        {
+          "number": 2,
+          "title": "Application of statutory materiality rules",
+          "bodySha256": "cd903d92dbca5b68450ae683607ba50b346e43ae944202cd6870ef633f91c5c3",
+          "reviewNote": "Applies the materiality definition and defense exclusions of section 575.040 to false affidavit prosecutions."
+        },
+        {
+          "number": 3,
+          "title": "Defense of retraction by affidavit or testimony",
+          "bodySha256": "044b0f8d94fff9f478af1999d11e3880e9108482ae1aa5a8de0edc94949abe4c",
+          "reviewNote": "Establishes defense for retracting the false statement by affidavit or testimony unless made after exposure or substantial reliance by any person."
+        },
+        {
+          "number": 4,
+          "title": "Defendant burden of injecting retraction defense",
+          "bodySha256": "d6ff6bb4b0a28ed1ec4b8aa3561b635dfec54811dc0abe6a3487da48a79d42d9",
+          "reviewNote": "Places the burden of injecting the issue of retraction under subsection 3 upon the defendant."
+        },
+        {
+          "number": 5,
+          "title": "Classification as class C or class A misdemeanor",
+          "bodySha256": "a8fe3e0fb85f70cd712080957e4862a4cd458c839e86aec2f98658aab6a1532d",
+          "reviewNote": "Classifies making a false affidavit as a class C misdemeanor, or class A misdemeanor if done to mislead a public servant in performing official duty."
+        }
+      ],
+      "reviewSummary": "Rewrote shifted/fabricated subsections 3-5 to match archived text (retraction defense, defendant burden of injection, and class C/class A misdemeanor penalties)."
+    },
+    {
+      "id": "575.060:29845",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.060&bid=29845",
+      "sourceSha256": "3f38f91ea3de992599f8e4f4828f0b209c5c0f1a98703697e768ff7f2332de9d",
+      "textSha256": "cf209d7aabb2362214f824d03b95940ccb8071efe3b5ac47e64cdc89d6b76c06",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of making a false declaration",
+          "bodySha256": "e98f7b8c0c06171935bb3a0f1f90fa71235e70a7e774efad9a845856ce3dcb4d",
+          "reviewNote": "Defines making a false declaration by submitting a misleading false statement accompanied by statutory notice to a public servant."
+        },
+        {
+          "number": 2,
+          "title": "Application of statutory materiality rules",
+          "bodySha256": "18da9382f3f906662d94969067b0eaca16597fd7d3bd88de5039ef09ca977d43",
+          "reviewNote": "Applies materiality standards and defense exclusions from section 575.040 to false declaration prosecutions."
+        },
+        {
+          "number": 3,
+          "title": "Defense of retraction before exposure or reliance",
+          "bodySha256": "f16e7d7734c9b6a26e35568b75d77f1322ea4856687b66a27f8af59660847cb6",
+          "reviewNote": "Establishes defense for retracting the false statement or item unless made after exposure or substantial reliance by the public servant."
+        },
+        {
+          "number": 4,
+          "title": "Defendant burden of injecting retraction defense",
+          "bodySha256": "d6ff6bb4b0a28ed1ec4b8aa3561b635dfec54811dc0abe6a3487da48a79d42d9",
+          "reviewNote": "Places the burden of injecting the issue of retraction under subsection 3 upon the defendant."
+        },
+        {
+          "number": 5,
+          "title": "Definition of written to include approved electronic filings",
+          "bodySha256": "1e66bd0d0c062e066f03e54f1379620cf2fa2f835fd645e959819abf2207d18c",
+          "reviewNote": "Defines written to include filings submitted in an electronic or other format or medium approved or prescribed by the secretary of state."
+        },
+        {
+          "number": 6,
+          "title": "Classification as class B misdemeanor",
+          "bodySha256": "8ea97b1bea58287cdda004a61d2c755a7e9012da095cc999f310e7ccb4adee74",
+          "reviewNote": "Classifies making a false declaration as a class B misdemeanor."
+        }
+      ],
+      "reviewSummary": "Rewrote shifted/fabricated subsections 3-6 to match archived text (retraction defense, defendant burden of injection, electronic 'written' definition, and class B misdemeanor)."
+    },
+    {
+      "id": "575.080:29849",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.080&bid=29849",
+      "sourceSha256": "37ef913ffe0176c613b9a5508ebed94a0291bbd8a4423f8db989ca7bb68d08be",
+      "textSha256": "5f807090ffd2ff399c5cd4b063c7ff12d6f4756c7a896cda99478a8469e81694",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of making a false report",
+          "bodySha256": "58838e71d697bd79b889c218be42a69d4e4c425d265a415bba4327aeba211c2e",
+          "reviewNote": "Defines making a false report by knowingly communicating false reports of crimes, emergencies, or catastrophes to authorities."
+        },
+        {
+          "number": 2,
+          "title": "Defense of retraction before substantial reliance",
+          "bodySha256": "0c7c509573cacaa3ad6f9fc122489de544270894376aa3eb365fb850b135ca3d",
+          "reviewNote": "Establishes defense for retracting the false statement or report before the law enforcement officer or any other person took substantial action in reliance."
+        },
+        {
+          "number": 3,
+          "title": "Defendant burden of injecting retraction defense",
+          "bodySha256": "7125e99531b41c3c320a528292a0833b8983ed88e19c2ae74aaf013dfe2b5e08",
+          "reviewNote": "Places the burden of injecting the issue of retraction under subsection 2 upon the defendant."
+        },
+        {
+          "number": 4,
+          "title": "Classification as class B misdemeanor",
+          "bodySha256": "06462573114d85fe32f1b32b07b9ff2e9440214eab08dd69e1a0b95420f51695",
+          "reviewNote": "Classifies making a false report as a class B misdemeanor."
+        }
+      ],
+      "reviewSummary": "Rewrote shifted/fabricated subsections 2-4 to match archived text (retraction defense, defendant burden of injection, and class B misdemeanor)."
+    },
+    {
+      "id": "575.090:29851",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.090&bid=29851",
+      "sourceSha256": "62f006610836143487af98f1a56f52ae1f154753758b66651e65aeb1d9d79fec",
+      "textSha256": "ddf862052629eaed429cc2eb3998ae0b3ef3168fdf4228b1d75b76506b578ff2",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of making a false bomb report",
+          "bodySha256": "59434737274fce9d1b57f12c2b007a56a4e9d3a645b2131c498290f78d55b613",
+          "reviewNote": "Defines making a false bomb report by knowingly communicating false reports of explosive devices or bombs."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class E felony",
+          "bodySha256": "cf92b9d6a687e01e93885e2b0e540ed28d9a4838043aa6aa630949a610bacffc",
+          "reviewNote": "Classifies making a false bomb report as a class E felony."
+        }
+      ],
+      "reviewSummary": "Corrected subsection 2 heading and note from class D felony to statutory class E felony."
+    },
+    {
+      "id": "575.095:54291",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.095&bid=54291",
+      "sourceSha256": "da40d406b991de7613598a0e885329226ab7e0b635e6770347bc04a8600f1ecc",
+      "textSha256": "a045d9fb084fe40685ffe116cb5e074f397a4ba0b26577f121f2e39798f55c20",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of tampering with a judicial officer",
+          "bodySha256": "3c974974a5e0ed33923d7677722bb752a445c24b9fecc26ae450020d0ce79632",
+          "reviewNote": "Defines tampering with a judicial officer by threats, harm, coercion, harassment, or doxxing personal information."
+        },
+        {
+          "number": 2,
+          "title": "Definition of judicial officer",
+          "bodySha256": "cfcf6e6da30d7c625ca7fb74229c44f9be629f1243ca1b8b4123b6d0b8bbeac9",
+          "reviewNote": "Defines judicial officer to include judges, commissioners, arbitrators, special masters, juvenile officers, prosecutors, and referees."
+        },
+        {
+          "number": 3,
+          "title": "Definition of judicial officer's family",
+          "bodySha256": "0a11147588106adf02b0b37109d0bc94a1af625fe59e2015516c3e5558f63cf4",
+          "reviewNote": "Defines a judicial officer's family to include spouses, descendants, ancestors, and stepchildren."
+        },
+        {
+          "number": 4,
+          "title": "Classification as class D felony",
+          "bodySha256": "6d6a0064988f4b686cb752a78cfc91ab48f13f11760cc89fbf4631b00c76d7a3",
+          "reviewNote": "Designates the offense of tampering with a judicial officer as a class D felony."
+        },
+        {
+          "number": 5,
+          "title": "Classification as class B felony for bodily injury",
+          "bodySha256": "337fb16f52c64d313ad9cf4ee8f2231e6caa612ecee8bd04aa168903bc38d75d",
+          "reviewNote": "Elevates tampering with a judicial officer to a class B felony if the violation results in death or bodily injury."
+        }
+      ],
+      "reviewSummary": "Verified all 5 subsections verbatim against archived text (2023 amendment; formerly 565.084)."
+    },
+    {
+      "id": "575.100:29854",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.100&bid=29854",
+      "sourceSha256": "7e4369992dd182d5648307bb571f777bf7ee8deec31b05db8a3d0b33d1ffa841",
+      "textSha256": "b7f7a82a5a093737448df0181fc4fa15edf2ff3d57a6f2ba5f6f32a524997e56",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of tampering with physical evidence",
+          "bodySha256": "0c2f9da7960d6220570af4d7931bd3fb4de0dc3ecb900532f31349582fd58a42",
+          "reviewNote": "Defines tampering with physical evidence by altering, destroying, concealing, or presenting false records or objects."
+        },
+        {
+          "number": 2,
+          "title": "Classification as misdemeanor or class E felony",
+          "bodySha256": "92ac4f103b548eeffebb1096bebf963b4cd6ab87fc61bed72e0128da29548ae6",
+          "reviewNote": "Classifies offense as a class A misdemeanor, elevated to a class E felony if obstructing felony proceedings."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.110:29856",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.110&bid=29856",
+      "sourceSha256": "efbd1e4525205a6595b18e878f8ce5a4b48c83fad8638fd3dc66ecc2b9d39015",
+      "textSha256": "5410917b4ba5f01544cc94122dae5573ff29fe640d8439ccbadb33e955b9dfa0",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of tampering with a public record",
+          "bodySha256": "c144b48d62132b2c79956638b09a391b4972640233df1bfde9de48fd8d1bee5c",
+          "reviewNote": "Defines tampering with a public record by knowingly making false entries, altering, destroying, or concealing public records."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class A misdemeanor",
+          "bodySha256": "330db1d29493f1314044e51f855cc933db875d93f1c8245a77858b1267b7bbe9",
+          "reviewNote": "Designates the offense of tampering with a public record as a class A misdemeanor."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.120:29858",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.120&bid=29858",
+      "sourceSha256": "ae65bb1e84f653e860e591ce4425197294d08836c04b84c75f1b5665c0a6d768",
+      "textSha256": "2267bf92caa3bf710c16ac89912d21fd72bd7b53257c42616ef6604852187e49",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of false impersonation",
+          "bodySha256": "ecb96ccbbba78c3321a5189689c6497ddc26e31af454b20bea730b824af6e5c5",
+          "reviewNote": "Defines false impersonation by pretending to be a public servant or licensed professional, or giving another's identifying factors to an officer upon arrest."
+        },
+        {
+          "number": 2,
+          "title": "Amendment and expungement of records discovered before conviction",
+          "bodySha256": "3d41eb9f6b3b78645e981e2a1a69d2f635a1b19cc634ca10848bc4b57c244a42",
+          "reviewNote": "Requires prosecutor notification and court amendment and expungement of false identifying factors in arrest and court records when subdivision (3) violation is discovered before conviction."
+        },
+        {
+          "number": 3,
+          "title": "Prosecutor motion to correct and expunge records after conviction",
+          "bodySha256": "598fcee276b99aec8e4464a5e6494be5b382e9c41216ab6e273d21a9ce4cfa75",
+          "reviewNote": "Requires prosecutor motion and court order amending and expunging false identifying factors in arrest and court records when subdivision (3) violation is discovered after conviction."
+        },
+        {
+          "number": 4,
+          "title": "Victim motion for expungement and correction under section 610.123",
+          "bodySha256": "96d7adcd0b2a16e262751a7925a44a27236edf40c0be483c7f47928d22b51515",
+          "reviewNote": "Permits victims of false impersonation in arrest or conviction records to move for expungement and correction under section 610.123."
+        },
+        {
+          "number": 5,
+          "title": "Classification as class B or class A misdemeanor",
+          "bodySha256": "25d61c3f3e7f270dc966a7961226702918fff707c28bf6b24860367273b9f862",
+          "reviewNote": "Classifies false impersonation as a class B misdemeanor, or class A misdemeanor if representing oneself as a law enforcement officer."
+        }
+      ],
+      "reviewSummary": "Rewrote fabricated subsections 2-5 to match archived text (pre-conviction and post-conviction record amendment/expungement, victim motion under section 610.123, and class B/class A misdemeanor penalty)."
+    },
+    {
+      "id": "575.130:29860",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.130&bid=29860",
+      "sourceSha256": "313ff4a33c44b37afd5179fbb48690eee082958f45b148bc87823437b004bcb0",
+      "textSha256": "7b3f7d7db79eebc5014e527dc1b13b6b7ecde2a8d7b2e86428d55c62e62b7782",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of simulating legal process",
+          "bodySha256": "2236da0c0df58d722e8fd4de8e9448c29bd94f69805c0a8ac9ffbf4e51ad89a2",
+          "reviewNote": "Defines simulating legal process by delivering or issuing documents designed to simulate court summonses or legal process."
+        },
+        {
+          "number": 2,
+          "title": "Exemption for subpoena properly issued by notary public",
+          "bodySha256": "0675d087af6a4f4fa633fd6a80b76c1e37083fb97387c4376a90d621144af8aa",
+          "reviewNote": "Exempts a subpoena properly issued by a notary public from this section."
+        },
+        {
+          "number": 3,
+          "title": "Classification as class B misdemeanor",
+          "bodySha256": "5ccc9062d66fd23e7a96c4c33b86eb1601fc601fd7296a21c81b90d7c97aed12",
+          "reviewNote": "Classifies simulating legal process as a class B misdemeanor."
+        }
+      ],
+      "reviewSummary": "Rewrote shifted/fabricated subsections 2-3 to match archived text (notary public subpoena exemption and class B misdemeanor)."
+    },
+    {
+      "id": "575.133:57703",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.133&bid=57703",
+      "sourceSha256": "73d0322cf8f918a76e6c81658ff89a0087c47e4e291da81149049bec81d972a2",
+      "textSha256": "19fd1ee1a92c62d000a2d030072e8f401538236627e1ce052d12b9cd10b72181",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of filing a nonconsensual common law lien",
+          "bodySha256": "253052cd1c157273bd4be72d57dc8c9835b7af2eed0e40398f044b44e1bdf0ac",
+          "reviewNote": "Defines filing a nonconsensual common law lien against real or personal assets not authorized by statute, consent/contract, or court imposition."
+        },
+        {
+          "number": 2,
+          "title": "Exemption for filing officers acting within official scope",
+          "bodySha256": "f8865ca6e229963660e0aec217a1c3b373ac94fffaf7f01c5b824ea744a79992",
+          "reviewNote": "Exempts filing officers from section liability when acting within the official scope of their employment."
+        },
+        {
+          "number": 3,
+          "title": "Tiered misdemeanor and felony penalties for repeat offenses",
+          "bodySha256": "cf59fdff8d979b857009afdc7b8b189fc37bebc6e92f88a7530eb7502316a7b0",
+          "reviewNote": "Classifies offense as class B misdemeanor (first), class A (second), or class E felony (third+), with third+ conviction designating persistent offender under section 558.016."
+        }
+      ],
+      "reviewSummary": "Verified against archived text (2025 H.B. 495); tightened subsection 1 heading to offense elements and added persistent-offender designation in subsection 3 note."
+    },
+    {
+      "id": "575.145:33428",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.145&bid=33428",
+      "sourceSha256": "e47d26be250af8d21c4c92d4d728ca6ad12e72b83b199494fe8882ae25b54cce",
+      "textSha256": "dd290c3032dd373a754772c4d31f084894c2cc7fdba350e6bc806cb5935fbe73",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Duty to stop on signal and obey directions",
+          "bodySha256": "65ea7ee215f227185d3448fbe9b29868391bf62454ed90333562b1cfa9921b06",
+          "reviewNote": "Imposes duty on vehicle operators and animal riders to stop on signal and obey directions of law enforcement officers or firefighters."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class A misdemeanor",
+          "bodySha256": "ab739fe12add9a7881c1652866b4e19c9ac3887f504811b9d68fe40d1eb549d6",
+          "reviewNote": "Designates willful failure or refusal to obey officer or firefighter signals as a class A misdemeanor."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.150:57704",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.150&bid=57704",
+      "sourceSha256": "9d492859b2eacc2dc2c1a31a224b8f6038ad2d205eadef7490245c782e77e399",
+      "textSha256": "fda90d0ae85bd9232a5e54aaa2bf22c122f9176a21db6d68885b768ce076835a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of resisting or interfering with arrest",
+          "bodySha256": "50a00b2e1e421556f83c062770a650d2fca5f4497a6820a937d59d7e0e1b7ad3",
+          "reviewNote": "Defines resisting or interfering with arrest, detention, or stop by force, violence, physical interference, or flight."
+        },
+        {
+          "number": 2,
+          "title": "Application to warrant and warrantless arrests and stops",
+          "bodySha256": "27b9c574332bf1619b5fa75040d49d3916655a2f7143c5e15934ec8a983e70dc",
+          "reviewNote": "Applies section provisions to arrests, stops, and detentions for offenses, infractions, ordinances, or parole warrants."
+        },
+        {
+          "number": 3,
+          "title": "Presumption of fleeing vehicle stop upon emergency signal",
+          "bodySha256": "1e6e0a3becf8c3a891ce0236984c33fe2b31df6e0bef5638a47f30a765cd2891",
+          "reviewNote": "Creates statutory presumption of flight if driver continues operating vehicle after emergency lights or siren are activated."
+        },
+        {
+          "number": 4,
+          "title": "Unlawful arrest defense exclusion and civil remedies preservation",
+          "bodySha256": "bcee50911e16f75766e3209a8fb749480d8572e8b9e6f61d4299606d7f595605",
+          "reviewNote": "Excludes unlawful arrest as a criminal defense while preserving defendant's right to bring civil actions for unlawful arrest."
+        },
+        {
+          "number": 5,
+          "title": "Classification as misdemeanor or class E felony",
+          "bodySha256": "f3bb04b6e5ef5f48c6a2571d67996349a56212ffd5e7d0016978d04f24e3b3bd",
+          "reviewNote": "Designates offense as class A misdemeanor, elevated to class E felony for felony arrests or flight creating risk of injury."
+        },
+        {
+          "number": 6,
+          "title": "Impoundment and forfeiture of vehicles used in flight",
+          "bodySha256": "6a25cba3e09109a9028aa7b34318b5dd9dd69ea5a025a7088e35b420ef227c1b",
+          "reviewNote": "Authorizes impoundment and forfeiture of vehicles used in violations punished as class E felonies."
+        }
+      ],
+      "reviewSummary": "Verified all 6 subsections against archived text (2025 H.B. 495; permissive vehicle impoundment/forfeiture in subsection 6) and 2019 State v. Shaw annotation."
+    },
+    {
+      "id": "575.151:54815",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.151&bid=54815",
+      "sourceSha256": "6d3dfe86e10fe823885d6ca08d18236de9ca594109143c8b43a7cf20d529c51a",
+      "textSha256": "bda4ca19f35e5b54aeecc97003bdf11919514005c01bc6a9ed58a606d1d5c9dd",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Citation as Valentine's Law",
+          "bodySha256": "f88c0d7f88a6e023c625c6f29f5b7a97b0cf6fa35016f42edc3b19287a2b874b",
+          "reviewNote": "Designates section 575.151 as Valentine's Law."
+        },
+        {
+          "number": 2,
+          "title": "Elements of aggravated fleeing a motor vehicle stop",
+          "bodySha256": "7a89fe84db46fd9e4b2f11fe98840a2a0a92d0fc3492b63116d42cd2c9944edd",
+          "reviewNote": "Defines aggravated fleeing a vehicle stop involving high speed creating substantial risk, physical injury, or death."
+        },
+        {
+          "number": 3,
+          "title": "Presumption of fleeing vehicle stop upon emergency lights",
+          "bodySha256": "ecae2c329fd41eda7992de8d855ec98ed6907f689a941a2356e0d77fad9e489a",
+          "reviewNote": "Establishes presumption of fleeing if driver continues operating vehicle after seeing emergency lights or hearing sirens."
+        },
+        {
+          "number": 4,
+          "title": "Unlawful arrest defense exclusion and civil remedies preservation",
+          "bodySha256": "58b219b1c5df03b36805f10f0bfe1e5e73dba1a16752021249d4e5de29fac8a3",
+          "reviewNote": "Precludes defenses based on unlawful stop or lack of knowledge of stop basis while preserving civil remedies."
+        },
+        {
+          "number": 5,
+          "title": "Tiered felony penalties based on injury or death",
+          "bodySha256": "524126cdca4a4d83efe887f1a620de9ad472a66500f571927715f2ac58f18ded",
+          "reviewNote": "Classifies aggravated fleeing as class D felony (with mandatory one year served), class B felony for injury, or class A felony for death."
+        }
+      ],
+      "reviewSummary": "Verified all 5 subsections verbatim against archived text (Valentine's Law, L. 2024 S.B. 754)."
+    },
+    {
+      "id": "575.153:29867",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.153&bid=29867",
+      "sourceSha256": "3ea416713b7cd76645a92eb6e5eedde9e2ab7a2e4e32285b4633cecca8b760a0",
+      "textSha256": "50112e5072030268da8f01794053614cfaadf926aad8de3e7d3b1a691dbdb63d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of disarming peace officer or correctional officer",
+          "bodySha256": "b8d984f34e69483bf65629a3cb374921ee8e9fe7bf49cc6c9b43b27064d182e1",
+          "reviewNote": "Defines disarming an officer by removing or depriving an officer of firearms, deadly weapons, or less-lethal devices."
+        },
+        {
+          "number": 2,
+          "title": "Exceptions for lack of knowledge or felonious conduct",
+          "bodySha256": "d3e5ab576cadd5e9d65bae4116f5261afbfdfd76b89444a41bb9dfbfa5f492b3",
+          "reviewNote": "Exempts individuals who reasonably did not know person was an officer or where officer was engaged in felonious conduct."
+        },
+        {
+          "number": 3,
+          "title": "Classification as class D felony",
+          "bodySha256": "02f5503df2e86a04d79c35625b375e6da071881be71730cbce0d1bcf1d6f33a9",
+          "reviewNote": "Designates the offense of disarming a peace officer or correctional officer as a class D felony."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.155:50147",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.155&bid=50147",
+      "sourceSha256": "286e0b93e33f720de36de75bb8bb13d021e7538f88e3acf28b507b2413d4d6dd",
+      "textSha256": "1a561f72f4d92b68c6d5912bd7c34fb1cab5a73a4c2f419ad022136db1e728ae",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of endangering corrections employee with bodily fluids",
+          "bodySha256": "781759eed87e54e7a2a5f8c70f9a6d7cce92c7b4c858d6d44b8a8e36b87d1731",
+          "reviewNote": "Defines endangering corrections employees or facility visitors by intentionally causing contact with bodily fluids."
+        },
+        {
+          "number": 2,
+          "title": "Definitions of statutory terms",
+          "bodySha256": "6f66c63d70468f83596b7bcd8a3da9086e93b780a91222dcaa19f1b56caf8fa4",
+          "reviewNote": "Defines corrections employee, offender, prisoner, and serious infectious or communicable disease."
+        },
+        {
+          "number": 3,
+          "title": "Classification as misdemeanor, class E, or class D felony",
+          "bodySha256": "a9f02a4159b7dc2fe684895dfb8833bded34e1a1e437f205c405f385bdf129c6",
+          "reviewNote": "Classifies offense as class E felony, class A misdemeanor if substance is unidentified, or class D felony for knowingly exposing another to a transmissible serious infectious disease."
+        }
+      ],
+      "reviewSummary": "Verified against archived text (formerly 565.085); fixed subsection 2 defined-terms note and added class A misdemeanor for unidentified substance to subsection 3 heading and note."
+    },
+    {
+      "id": "575.157:50148",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.157&bid=50148",
+      "sourceSha256": "835a3b9f655bb2a24e3a8e271ef76eaa241462e3f601a17171fc901e6f1c752e",
+      "textSha256": "ea569f30849ab7ac9ef60826d56428b52961fdac0932054e92d1ee0445dbd667",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of endangering mental health employees or visitors",
+          "bodySha256": "b894b5cd027f8d626ea1bd22359d3537eb9cfcf7c34dd5e85cf9d2132e75cd61",
+          "reviewNote": "Defines endangering mental health employees or visitors at secure facilities by causing contact with bodily fluids."
+        },
+        {
+          "number": 2,
+          "title": "Definitions of statutory terms",
+          "bodySha256": "fe8af1f5ce1db4aff525050895bd16037a52f1803e67cde0be56c9bbf5d04a30",
+          "reviewNote": "Defines department of mental health employee, offender, secure facility, and serious infectious or communicable disease."
+        },
+        {
+          "number": 3,
+          "title": "Classification as class E or class D felony",
+          "bodySha256": "76ee6a3ceb3490d80308633a53584ac7227ffa275bd1152c356ea22bf87adb20",
+          "reviewNote": "Classifies offense as a class E felony, elevated to a class D felony if offender knowingly exposes another to serious disease."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (2021 amendment; formerly 565.086)."
+    },
+    {
+      "id": "575.159:29871",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.159&bid=29871",
+      "sourceSha256": "22951f376e81caf6b053f042b505770a96d80a9d8dd28bedc488ad323db69135",
+      "textSha256": "545838b8dcb48f7ad21f3ba88a0f11408990f9c47e031bfa2ec3b2dcc14e4da1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of offense of aiding a sexual offender",
+          "bodySha256": "a8aa54bf4a3e7770b390ad0ff631d97d633b637080f0504f9be2558f4dad00a8",
+          "reviewNote": "Defines aiding a sexual offender by withholding information, harboring, concealing, or providing false information to law enforcement."
+        },
+        {
+          "number": 2,
+          "title": "Inapplicability of section to incarcerated or detained offenders",
+          "bodySha256": "5259f51c151431df401e115a4aedb3a7fa8135c8802d7c2823669bbc0a349b8e",
+          "reviewNote": "Exempts circumstances where the sexual offender is already incarcerated or held in custody in a correctional facility or jail."
+        },
+        {
+          "number": 3,
+          "title": "Classification as class E felony",
+          "bodySha256": "f7e1953e53f77a7287771cd404e901ee089df95b48b557c840965efcfd1c9d04",
+          "reviewNote": "Designates the offense of aiding a sexual offender as a class E felony."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.160:29873",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.160&bid=29873",
+      "sourceSha256": "c0e57bf17be3077d20b1de61f49b5390f266f42e2a89ebcf86693e655e926971",
+      "textSha256": "117cc9f70c6be5d0f2916ecbe88088d1ef0cd197965bc2bc96d252ce9d22b610",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of interference with legal process",
+          "bodySha256": "87d86412eafaa9c38f12cd751c85a02eaa6ce6fd954e3309f9bd75cd407f06f5",
+          "reviewNote": "Defines interference with legal process as interfering with or obstructing a person known to be authorized to serve process to prevent service."
+        },
+        {
+          "number": 2,
+          "title": "Definition of process excluding arrest warrants",
+          "bodySha256": "4f95b2b46d54816fb9660232aefde7a5281a69eff4c3977d0c9ece0bfa2a8dba",
+          "reviewNote": "Defines process to include any writ, summons, subpoena, warrant other than an arrest warrant, or other court process or order."
+        },
+        {
+          "number": 3,
+          "title": "Classification as class B misdemeanor",
+          "bodySha256": "7db98a7d925b1fb80dcdab0689193071cacbecf1a60bdbca189a2d029799538d",
+          "reviewNote": "Classifies interference with legal process as a class B misdemeanor."
+        }
+      ],
+      "reviewSummary": "Rewrote shifted/fabricated subsections 2-3 to match archived text (definition of 'process' excluding arrest warrants, and class B misdemeanor) and removed unstated 'force or threats' from subsection 1 note."
+    },
+    {
+      "id": "575.170:29875",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.170&bid=29875",
+      "sourceSha256": "a62312588fdf236f62c4b5ce5ba5e9b4ca291871ccf799321b80a58fd1334556",
+      "textSha256": "23dbf0a0c944ba048c2de1f3f86c053c1d5dc7ca84b98c0d6dbe0bc8c77836b9",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of refusing to make employee available",
+          "bodySha256": "4d098dc69deb87903ffbbaa680a41d95898606ac2c8c56d65f2d1b45f29ee7e5",
+          "reviewNote": "Defines offense of employer or business agent refusing to make employee available to officer serving process during work hours."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class C misdemeanor",
+          "bodySha256": "ccff0d58b85256333dd89a46de5c9263c339a9a4a10f9824e8fe30fc63d99c1e",
+          "reviewNote": "Designates refusing to make an employee available for service of process as a class C misdemeanor."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.180:50149",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.180&bid=50149",
+      "sourceSha256": "064e362827f94b0cf152b3553b354d9d197b2ed036cc00eded3b194e3310acaf",
+      "textSha256": "f48419decce130d747ad0207bdcd3b63c0b8156948de71941752c081841d216d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of failure to execute an arrest warrant",
+          "bodySha256": "8b642ccccd823fef55862c467d2c4850cb80bee074afc40ece8d48d3388423e1",
+          "reviewNote": "Defines failure to execute an arrest warrant by an officer purposely failing to execute process to allow a person to escape."
+        },
+        {
+          "number": 2,
+          "title": "Classification as misdemeanor or class E felony",
+          "bodySha256": "4e0068d041847a4302a8fbfed8202fb5ac9049b0d51e84062fd43f30caf4b29b",
+          "reviewNote": "Classifies failure to execute an arrest warrant as a class A misdemeanor, elevated to a class E felony in felony cases."
+        },
+        {
+          "number": 3,
+          "title": "Affirmative defense of exigent circumstances for traffic misdemeanors",
+          "bodySha256": "097647001d2aa5cd3e0080c91435a8b2155b9445e51878038a96c9101ca63793",
+          "reviewNote": "Establishes affirmative defense of exigent circumstances when failing to execute warrants for certain traffic offenses."
+        }
+      ],
+      "reviewSummary": "Verified against archived text (2021 amendment) and 1989 State v. Wahby annotation."
+    },
+    {
+      "id": "575.190:29879",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.190&bid=29879",
+      "sourceSha256": "b88248e4ff5f1ffa7b623587445a1d1a699ebc35a7d3858aaa0f87b3bce03203",
+      "textSha256": "131aefaa325bebeb932612022b4380adcac6fb41f678031b08c6a42c2f2f251d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of refusal to identify as a witness",
+          "bodySha256": "643a3c80ada619167375c6497e4aa26a8a6918f17421f0843b594091abdd874e",
+          "reviewNote": "Defines offense of refusing to report or giving false report of name and address after witnessing an offense or serious incident."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class C misdemeanor",
+          "bodySha256": "f2a7a16c2bb636172d6745875c8f4becaa31836be3846b6a1662b8989a0f2a0c",
+          "reviewNote": "Designates refusal to identify as a witness as a class C misdemeanor."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.195:29881",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.195&bid=29881",
+      "sourceSha256": "36415138db11aa279a7d23669800b4926784d5327926f3def344bc3ebfd82465",
+      "textSha256": "24abee06503319ee9af360ee79ddf161a2c00fc427f65400c4784d223b7c0e5d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of escape from commitment, detention, or release",
+          "bodySha256": "169f89ee3648df5f6a3f49edf0ed1887879349cea3529ac386cb9f3ec25c1e55",
+          "reviewNote": "Defines escape from commitment, detention, or conditional release under mental health or sexually violent predator laws."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class E felony",
+          "bodySha256": "e6b98021cd78dd06c021e7e0446db8f85004049b4708f84968f5a9e666efa91f",
+          "reviewNote": "Designates escape from mental health commitment or conditional release as a class E felony."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.200:51037",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.200&bid=51037",
+      "sourceSha256": "1708342732a65d161ba064e1a669df7db19d4276732dd8d243297e48169dddb8",
+      "textSha256": "4014008b05979adf26c43e3b992c854fbbc18150fa64543ad39b3be3b1a298b1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of escape or attempted escape from custody",
+          "bodySha256": "9da1246134ff64be03b836d9b2ab1973d5a13b39173c6f25c52dcc9b91e66afb",
+          "reviewNote": "Defines escape or attempted escape while being held in custody following arrest for an offense or probation violation."
+        },
+        {
+          "number": 2,
+          "title": "Classification as misdemeanor or tiered felony",
+          "bodySha256": "b2d437d680abba4eb39fe491e72d8dab8fea17bb6709ca967bf8edd5fe90d3c3",
+          "reviewNote": "Classifies escape from custody as class A misdemeanor, class E felony if arrested for felony, or class A felony if weapon or hostage used."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (L. 2022 S.B. 799)."
+    },
+    {
+      "id": "575.205:50150",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.205&bid=50150",
+      "sourceSha256": "7045e2ff1116748649ad795d57147c2c315cd1fecd05bd7166ab3bbe2a8d5dfe",
+      "textSha256": "d5a295c49e7e4c9f8fdfbaba0362b8757e3f165ffe2b95979b3bcc4c186925e3",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of tampering with electronic monitoring equipment",
+          "bodySha256": "545866095a1ebd181fe60b03f739d0c2bbaa51a45d7c1e605574ca4834cd876e",
+          "reviewNote": "Defines tampering with electronic monitoring equipment by intentionally removing, altering, damaging, or destroying court-ordered devices."
+        },
+        {
+          "number": 2,
+          "title": "Exemption for owner or agent performing equipment maintenance",
+          "bodySha256": "60e4116fb3e6f7a51bcb69da8daccd09d65ea1852ec4d5c5520427917bd404c2",
+          "reviewNote": "Exempts equipment owners and their authorized agents performing ordinary maintenance or repairs."
+        },
+        {
+          "number": 3,
+          "title": "Classification as class D felony",
+          "bodySha256": "a2748ac1825732fa981a53b78d0d2a1a5da261c2767cc0d1903b13078ec1b2b8",
+          "reviewNote": "Designates the offense of tampering with electronic monitoring equipment as a class D felony."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (2021 merged amendment)."
+    },
+    {
+      "id": "575.206:50151",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.206&bid=50151",
+      "sourceSha256": "bab10439f5b50ac784f54e08d256d3ffb89f8bdf32b27ac8f42efe5766bda972",
+      "textSha256": "e47125468fb2403f7fcd30992e16be98b8a0a10f012631cd3126a78138931b38",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of violating condition of lifetime supervision",
+          "bodySha256": "e22fada6ac3a55d06b0bd4c0693a4961aa63a12a340f54bd3ebb0e0402fb5d49",
+          "reviewNote": "Defines offense of knowingly violating a condition of court-ordered or parole board lifetime supervision."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class D felony",
+          "bodySha256": "a959e8b6cec38af6856dc812fc612d574f8ff0912368ec4c81d83fba006bd853",
+          "reviewNote": "Designates violating a condition of lifetime supervision as a class D felony."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (2021 merged amendment)."
+    },
+    {
+      "id": "575.210:29889",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.210&bid=29889",
+      "sourceSha256": "2e294f8c5a226a86e45ef0f41c7f7110cf561e973fff12992709f6a0a04998c0",
+      "textSha256": "29ae6fc015bacb3545bba2ad296274de11b086a537c042ad6ea0fd67f2b565f7",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of escape or attempted escape from confinement",
+          "bodySha256": "36c1c8f8694b57f5837013e2aec91ab13d5f617d60d2b7615d05d9d5d72a5868",
+          "reviewNote": "Defines escape or attempted escape while held in confinement after arrest, conviction, or institutional treatment center placement."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class B felony for corrections confinement",
+          "bodySha256": "9d8501a4dbcd1ed9cf31bed63ba03f0ec292b25da388fcf71593150067827ba9",
+          "reviewNote": "Designates escape or attempted escape from confinement in the department of corrections as a class B felony."
+        },
+        {
+          "number": 3,
+          "title": "Penalties for escape from jail or local facility",
+          "bodySha256": "393ab795a031489331331aa87b3be61ebf2a062af4de1e646145fd7ef1572a33",
+          "reviewNote": "Classifies escape from jail as class E felony, class D felony if beating someone, or class A felony if deadly weapon or hostage used."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.220:29891",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.220&bid=29891",
+      "sourceSha256": "13cd827c5523ee0ee20bffba1eadd454482220ffad8a438680d0df7b3e61dfc5",
+      "textSha256": "ef80631cca55d15c5e53a9911a74dcfb961fefa342acc15477cc15574f1e329b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of failure to return to confinement",
+          "bodySha256": "6c1db8217a8e6a747b13a5ff050201b957b1eda02361df9961b7fdb74b550405",
+          "reviewNote": "Defines offense of purposely failing to return to confinement while on work release or temporary leave without guard."
+        },
+        {
+          "number": 2,
+          "title": "Exemption for persons on bail, probation, or parole",
+          "bodySha256": "a6cc931da0ec81e18c3996bad2f7684fe3d07f9f272d532b7f3aa01c75fa7d77",
+          "reviewNote": "Exempts persons free on bond, bail, or recognizance and persons on probation or parole from section application."
+        },
+        {
+          "number": 3,
+          "title": "Classification as misdemeanor or felony based on commitment",
+          "bodySha256": "9b9e32359a323db5803893fbf1a341b251a3095fe278dac7d0240914f7a2e8d9",
+          "reviewNote": "Classifies failure to return as class C misdemeanor, class A misdemeanor for county jail felony sentence, or class E felony for state prison."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.230:29893",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.230&bid=29893",
+      "sourceSha256": "d3adf3e8b0c56b25cdbe86f3b6a6da0522aa294ded10dd15b244f19c78fb08c9",
+      "textSha256": "876febc039b1a2da70f62cc39386cf221b0f8e3b4eb229b17ba4854ef1846279",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of aiding escape of a prisoner",
+          "bodySha256": "4de96cc90ed30e3e4d1c49579f335d9a3b40e79fe833ae01a9b1bcc9e28eefc4",
+          "reviewNote": "Defines aiding escape by introducing weapons or escape tools into confinement or assisting a prisoner escaping from custody."
+        },
+        {
+          "number": 2,
+          "title": "Classification as misdemeanor or class B felony",
+          "bodySha256": "68436e2fb5b1bd076a69f6019aacfefaefc51f55f8372c673b8c3c487dd9862e",
+          "reviewNote": "Classifies aiding escape as class A misdemeanor, elevated to class B felony if weapon introduced or prisoner held on felony charge."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.240:29895",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.240&bid=29895",
+      "sourceSha256": "2c85d0ea9b2ddb5d841efbe5f4c8af9221dd55d17681d633078c8df0ba30d755",
+      "textSha256": "3f6312e1c14b01f3e67df1deb69b99960f57fb6ed49d01c9a3295785eaa3e54d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of permitting escape by public servant",
+          "bodySha256": "a93d100bc25cb11b7e70d30e3f0330482dc60e2a3a2591b1420ec21dc340fe74",
+          "reviewNote": "Defines permitting escape by public servant or jail employee knowingly allowing weapons into facility or permitting prisoner escape."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class E or class B felony",
+          "bodySha256": "4430fd2271d1332e8ffcfcd7a6e8d3ac5814bb1a0731c785211d137c3882d78a",
+          "reviewNote": "Designates permitting escape as a class E felony, elevated to a class B felony if permitting deadly weapons into confinement."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.250:29897",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.250&bid=29897",
+      "sourceSha256": "757254098f91eaef174ad0d01579934d7c16139e3e60d684f1e9ae9c2ecebdcb",
+      "textSha256": "7183d0dfd06d3b0df41efe29f7d9787870ab1f8813c662487a660fdfd7280bdf",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of disturbing a judicial proceeding",
+          "bodySha256": "e6622e26e57161778b0f8d4a091e8e53cf6eaea92219e69adb588b51e752a09d",
+          "reviewNote": "Defines disturbing a judicial proceeding by disrupting proceedings through assembly, shouting, or placards to intimidate participants."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class A misdemeanor",
+          "bodySha256": "772eed0be7f5aa21e5257de97c4029aca93fcd7fd912885b8210c3f757e0da01",
+          "reviewNote": "Designates the offense of disturbing a judicial proceeding as a class A misdemeanor."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.260:29899",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.260&bid=29899",
+      "sourceSha256": "9122624b187faaeb9e65325a59e5a4fbe7fa223a98b05961c2897e9bbdae5ae4",
+      "textSha256": "dd1fecf451667519db6b22320617f1256c05a581830d31d929fd8d83ec15a2d1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of tampering with a judicial proceeding",
+          "bodySha256": "7442399f32cf29e774ca027085d6188df300072e89c9b1a0aed13321d31bc50c",
+          "reviewNote": "Defines tampering with a judicial proceeding by threats, harassment, or benefits intended to influence official action of judge or juror."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class D felony",
+          "bodySha256": "5141a1fa41f4d38e0767b0cd92de6cb3f27261c7ed7ac67f9d81fa3b48536244",
+          "reviewNote": "Designates the offense of tampering with a judicial proceeding as a class D felony."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.270:29901",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.270&bid=29901",
+      "sourceSha256": "d28690657f5a144afefe364eae406eedac13dedd32240f944b050a7d5b462e14",
+      "textSha256": "160cfe6f40cb7e23f01d2cf2b8168f193d73e4053823451e314764398335d7fe",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of tampering with a witness or victim",
+          "bodySha256": "21730d5194c2822e7a078aafd080c852a5837836975e4d8a10d820c0052f96f5",
+          "reviewNote": "Defines tampering with a witness or victim by force, threats, benefits, or dissuading reports and prosecutions."
+        },
+        {
+          "number": 2,
+          "title": "Classification as misdemeanor or felony and parole restriction",
+          "bodySha256": "d40135a6cea3cae402f9652f265384bd081a03090fef0d39c0266db438a4eef7",
+          "reviewNote": "Classifies offense as class A misdemeanor, elevated to class D felony if original charge is felony, with parole ineligibility."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.280:34716",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.280&bid=34716",
+      "sourceSha256": "40ac2fb71a8ac96e8856797bf8d635b5e3b129bcdd0fb5f22fbcb0dbe2e59bc0",
+      "textSha256": "1c0abadd6fbb7bd77e42922d9c19309fc717f8034a72a78914a13ca4283d52e7",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of acceding to corruption",
+          "bodySha256": "2d24c17f1c0819ed95f2eae17c68a082565a6c0e2286148fee038b659fe173fc",
+          "reviewNote": "Defines acceding to corruption by judicial officer or witness knowingly soliciting or accepting benefits to influence action or testimony."
+        },
+        {
+          "number": 2,
+          "title": "Classification as felony or class A misdemeanor",
+          "bodySha256": "6580d38c9bcb3151ce29629455b77a1bac9a27ec05d9ec833cee2c6353a3583d",
+          "reviewNote": "Classifies subdivision (1) judicial/juror/referee corruption as class C felony, subdivision (2) witness corruption in felony prosecution or to testify falsely as class D felony, and otherwise class A misdemeanor."
+        }
+      ],
+      "reviewSummary": "Verified against archived text (L. 2017 S.B. 34); clarified all judicial/juror/referee and false-testimony tiers in subsection 2 note."
+    },
+    {
+      "id": "575.290:29905",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.290&bid=29905",
+      "sourceSha256": "171f8f8e4cc6340130ba48e2a448926037b0213ba280c601452bcf4ef72c526b",
+      "textSha256": "6113f5e07834b9f8d0202c5f9ff1a9dde337658ed9b257f81442cea16b5b6f97",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of improper communication with juror or referee",
+          "bodySha256": "f32ab703d17530db7d6c07c64fd88ebc8c71969fb480eaa8b0a35ba3e1141c33",
+          "reviewNote": "Defines improper communication by communicating with jurors, masters, or arbitrators outside proceedings to influence official action."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class B misdemeanor",
+          "bodySha256": "3053f64a6adf973576031c53653bfd6b61d3d4ac059b58ecc9b3b7ee2532150b",
+          "reviewNote": "Designates the offense of improper communication as a class B misdemeanor."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.300:29907",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.300&bid=29907",
+      "sourceSha256": "6f73ad0625c4449ac7660f13e6c21d11510e245b6576c0523adb64f4fdf998c7",
+      "textSha256": "3622f879007224f224bd88ee4e3e946fa13657534e2eb83b0b24593c528d7965",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of misconduct by a juror",
+          "bodySha256": "a645eed9134338f5b4d3a305c0ce2b79a07695e395c40dd489af710c898b7467",
+          "reviewNote": "Defines misconduct by a juror by promising a verdict prior to deliberation or receiving unauthorized evidence without court disclosure."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class A misdemeanor",
+          "bodySha256": "83b365bd8689658ffe11116ab50b1ec71bd3a20bac1c1e5c22d2e2a70d66c031",
+          "reviewNote": "Designates the offense of misconduct by a juror as a class A misdemeanor."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.310:29909",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.310&bid=29909",
+      "sourceSha256": "af3005dee1835096dd1a786333f26abdbb9ea9979acbe68e655c3ef7d9639ee5",
+      "textSha256": "e21a42e3ca0df0d75627026cc3b2ad6261a5cf6e18e3eaaa08b5c55c9c235a73",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of misconduct in selecting or summoning juror",
+          "bodySha256": "638bcf215b95c39409f9370105cab6847aad23f857626ba835def2ff2682e981",
+          "reviewNote": "Defines misconduct by public servants knowingly acting unfairly or partiality in selecting or summoning jurors."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class B misdemeanor",
+          "bodySha256": "ec8c4793c854acd8ccb199f108faac5110f90a00b3d45a223938511d89e382e5",
+          "reviewNote": "Designates misconduct in selecting or summoning a juror as a class B misdemeanor."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.320:33588",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.320&bid=33588",
+      "sourceSha256": "f4ec48cbc307612a95607d4ad1f7d004dbb1a47c82cb67474aa3d90d2c5bfeaa",
+      "textSha256": "093ae1745b8240fa77b4b8bb659452228356f8bc820eef0390b6b9a9888ae8a9",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of misconduct in administration of justice",
+          "bodySha256": "b492a72f0ae03fc4847a29cb24b643b7f7b3d776d4b6aaddcab62986fa7533b6",
+          "reviewNote": "Defines official misconduct in administration of justice by coerced confessions, illegal seizures, improper pleas, jail refusals, or ticket quotas."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class A misdemeanor",
+          "bodySha256": "4f0e5e7eae9a8352479d07cddfd1515d9dc3ba05c1aa94587c7b55cc7aef5f09",
+          "reviewNote": "Designates misconduct in the administration of justice as a class A misdemeanor."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (effective 1-01-17)."
+    },
+    {
+      "id": "575.353:54816",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=575.353&bid=54816",
+      "sourceSha256": "eefaad4d3d5753dab23fe727977fd3dcbf4d121b78c9e1925dd36df13d538b6e",
+      "textSha256": "9e92ab7916fe2e8a10751573225d107a661e312821943c4af768d72a6cf672dc",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_14",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Citation as Max's Law",
+          "bodySha256": "902b6a488d8088ee2091d444bbf48789ab099dcbbbfdcb81c76fab7286c91fd7",
+          "reviewNote": "Designates section 575.353 as Max's Law."
+        },
+        {
+          "number": 2,
+          "title": "Elements of assault on a law enforcement animal",
+          "bodySha256": "0e3c18680400c12aee753a857322310904fdfbce8efa922d566553e7000bd5f9",
+          "reviewNote": "Defines assault on a law enforcement animal by knowingly attempting to kill, disable, or cause serious physical injury."
+        },
+        {
+          "number": 3,
+          "title": "Classification as class A misdemeanor or tiered felony",
+          "bodySha256": "5ee217d2e18cc09ee8de24eae6c676a6ea552ab5f82b1a7ffba30a1bb3bb7bfe",
+          "reviewNote": "Classifies assault on a police animal as class A misdemeanor, class E felony if veterinary care required, or class D felony for death."
+        }
+      ],
+      "reviewSummary": "Verified verbatim against archived text (Max's Law, L. 2024 S.B. 754)."
+    }
+  ]
+}

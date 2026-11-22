@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "548.051:28959",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=548.051&bid=28959",
+      "sourceSha256": "55165ecdd7e7e2877831b4ccca26f2010a6858678f2677a772cd7587db370bf5",
+      "textSha256": "dded0bbaa60cdeb2b1b682ae1483e020c11f46d7c9fd1d8474f478b7eb65839d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Extradition agreement for prisoner serving sentence in another state",
+          "bodySha256": "6b74c544d26ceed17c51f12199aaef4f9e44fb952fb1388c8b366101df7b8a85",
+          "reviewNote": "Permits governor to agree with another state's executive to extradite a person imprisoned or facing proceedings there before conclusion, conditioned on return at Missouri's expense after prosecution."
+        },
+        {
+          "number": 2,
+          "title": "Surrender of person leaving demanding state under compulsion",
+          "bodySha256": "c762f4e6af9d2d2b08b89a6f9a8b635c9ba693db5502627b020ea95946edb2c8",
+          "reviewNote": "Permits governor to surrender on demand any person charged under section 548.231 even though the person left the demanding state involuntarily."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; permissive governor agreements to extradite prisoners held in other states conditioned on return and permissive surrender of persons who left demanding state involuntarily verified."
+    },
+    {
+      "id": "548.121:28966",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=548.121&bid=28966",
+      "sourceSha256": "04a08fa92005a4e4ac88cfebf4731f4b7d2bf6a87f78529621ed61083308fd35",
+      "textSha256": "d28b5ff5bb5f194cdb4c01052d86109f5a513de996dbeebe0851494f0ea5fb89",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Confinement of extradited prisoner in county or city jail en route",
+          "bodySha256": "59c2ca4ae3540fe152d4a6493e07a0b244ab8d4ad936ceec2c5943626e66288b",
+          "reviewNote": "Permits officer executing governor's warrant or demanding state's agent to confine prisoner en route in county or city jail at officer's expense, requiring jail keeper to receive and safely keep prisoner."
+        },
+        {
+          "number": 2,
+          "title": "Transit confinement of prisoners extradited across state",
+          "bodySha256": "c944ca43330d9ce4c02e895f4f131203b67f9301c8c87238ccf16ee4bceb6bbc",
+          "reviewNote": "Permits demanding-state agent transporting an extradited or waiver prisoner through Missouri to use local jails at agent's expense upon showing written requisition proof, barring prisoner from demanding a new requisition."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; temporary county/city jail confinement en route under governor's warrant and transit confinement of out-of-state extradited prisoners upon written requisition proof verified."
+    },
+    {
+      "id": "548.231:28977",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=548.231&bid=28977",
+      "sourceSha256": "3b6fb64a46ebd79efbf454a15cbe107e3b5293a02bc267d497337a4be2f83e75",
+      "textSha256": "c746260396b0646d73de2f2036ad80f5a784459f2d0a6e1a5ff9c9f3325dbfd1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prosecutor application to governor for extradition requisition",
+          "bodySha256": "00d16b8765e04c9a0abb82d3982d6adf211584b2cce6afdd0300538a38fd39be",
+          "reviewNote": "Requires prosecuting attorney's written requisition application to governor for return of an accused person to state specified charge, location, justice certification, and non-private-claim attestation."
+        },
+        {
+          "number": 2,
+          "title": "Requisition application for escaped convict or parole violator",
+          "bodySha256": "d46a007c1841c1c727772d15bf1d0919f3214ed8ecc52179bf58ee0234b16c29",
+          "reviewNote": "Requires written requisition application from prosecutor, parole board, warden, or sheriff for return of an escaped convict or bail, probation, or parole violator stating conviction, breach/escape circumstances, and location."
+        },
+        {
+          "number": 3,
+          "title": "Verification, duplicate copies, documentation, and secretary of state filing",
+          "bodySha256": "7a2a401bba2b09ec836cb01974ede5fc961a06ab2dfc88650b5337c103e7918c",
+          "reviewNote": "Requires affidavit verification, duplicate certified charging/conviction/sentence documents, optional supporting documents, secretary of state record filing of one set, and forwarding of duplicate set with requisition."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections and statutory history; prosecutor requisition applications for accused persons, prosecutor/parole-board/warden/sheriff applications for escapees or bail/probation/parole violators, and duplicate verified filing verified."
+    },
+    {
+      "id": "548.241:28978",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=548.241&bid=28978",
+      "sourceSha256": "004fdcb5c2266c75c9a939f54987f88415575f2f36cf5aee5f0d350c6a38fcb8",
+      "textSha256": "b7eb01081893406594c7a3bb8871065b64afa13d909b72d1afb8ee9cdb44ec75",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Payment of necessary extradition expenses from state treasury",
+          "bodySha256": "6fd18788a1a541e3efc8028531493b819e7fab42c92cfb5be943f33cbe5e9c55",
+          "reviewNote": "Provides for state treasury payment upon governor's certificate of necessary and proper extradition expenses accruing under section 548.221."
+        },
+        {
+          "number": 2,
+          "title": "State payment of expenses under sections 548.243 and 217.810",
+          "bodySha256": "6e8d7632a262ceb03d3857b31a5b199044f7501edb66a9d6e17dcbebb532d21b",
+          "reviewNote": "Provides for state treasury allowance and payment of necessary and proper expenses for returning persons under section 548.243 or 217.810 as if returned under section 548.221."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, statutory history, and effective date 7-01-94; revised subsection 2 title to reference sections 548.243 and 217.810 directly without inferring a single compact label."
+    },
+    {
+      "id": "548.260:28981",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=548.260&bid=28981",
+      "sourceSha256": "230698b32cddfe2bcb95c6a072627b2e4d822055cd0296038fc808eca7eab844",
+      "textSha256": "3277baf63ec622582619dc2210e23af70ba38abe7098c7b5216e8c599db9c83e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Formal execution of written waiver of extradition before judge",
+          "bodySha256": "04412aea187d78e8837582bdc0e2918e1df4ed0c09353dcc575b8fab12544c20",
+          "reviewNote": "Permits arrested fugitive or bail/probation/parole violator to waive sections 548.071 and 548.081 warrant and extradition procedures in writing before a court-of-record judge after advisement of warrant and section 548.101 habeas corpus rights."
+        },
+        {
+          "number": 2,
+          "title": "Filing of waiver with governor, delivery to demanding agent, and voluntary return",
+          "bodySha256": "c5f4b8c377d4dab2d0b36766ab28f510b2307bbeb24eefdcdf67d40fea72f5e8",
+          "reviewNote": "Requires forwarding executed waiver to governor and forthwith delivery of prisoner and waiver copy to demanding agent, while preserving voluntary informal return and non-exclusivity."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; formal written extradition waiver before court-of-record judge after rights/habeas advisement, filing with governor, delivery to demanding agent, and preservation of voluntary return verified."
+    }
+  ]
+}

@@ -1,0 +1,2130 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "565.001:29255",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.001&bid=29255",
+      "sourceSha256": "6f4faa86ef63817a919632553686da44ec8b08f1891f1ccdcfef012b1991cb1d",
+      "textSha256": "dc9eaf85ad06114cc1e719c2c317f8a0c1e29c81d656ef41f0f53418de7d66d4",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Applicability to offenses committed after July 1, 1984",
+          "bodySha256": "6f15c876009bc212f0a4bae7ffd1eaec8abd6958785b1a0345f73af6f619c163",
+          "reviewNote": "Governs construction, charging, trial, punishment, and appellate review of chapter offenses committed after July 1, 1984."
+        },
+        {
+          "number": 2,
+          "title": "Inapplicability to prior offenses and preservation of prior law",
+          "bodySha256": "c493a9342671b863b7eede8971d4f00e3fcb4faa7a1a0180c973db7f650e4c73",
+          "reviewNote": "Excludes offenses committed before the chapter's effective date and preserves prior governing law notwithstanding section 1.160."
+        },
+        {
+          "number": 3,
+          "title": "Application of criminal code and controlling effect upon conflict",
+          "bodySha256": "e9e32e211474408ddc5ac6eab4669a70a2e306aae518bfe4109f1740cebcca5f",
+          "reviewNote": "Applies consistent provisions of The Criminal Code or other law and establishes that this chapter controls in conflicts."
+        },
+        {
+          "number": 4,
+          "title": "Venue and county of prosecution for homicide offenses",
+          "bodySha256": "692b6f3ba9790e39204c101cdbd02b6d19046581bebef167050e110e26301327",
+          "reviewNote": "Specifies prosecution venue rules for homicide offenses based on offense location, elements, victim's body discovery, or victim residence."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 4 subsections and effective date 10-01-84 (note subsection 1 text references offenses committed after July 1, 1984); post-1984 applicability, prior-law preservation notwithstanding section 1.160, code conflict rule, and four-tier homicide venue verified."
+    },
+    {
+      "id": "565.003:53814",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.003&bid=53814",
+      "sourceSha256": "a9a0225d7f177ef64b9abed6f635e3281fabff34c4b5290aa512107b979a8877",
+      "textSha256": "6729973ab9ea6fc479abd5b44f9647f9b68c57deac666649f8a803a04184e123",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Transferred intent and unidentified victim provisions",
+          "bodySha256": "4631fb00d970497df45a0083e23f98da611851449185719d683e156e9fd31b80",
+          "reviewNote": "Governs transferred intent when a different person is killed and bars defense based on inability to establish the intended victim's identity."
+        },
+        {
+          "number": 2,
+          "title": "Time elapsed between conduct and death no defense",
+          "bodySha256": "77742177c696796cd7b76da75c576a5a321ae477f2ac7e83b2aed4830838ba23",
+          "reviewNote": "Establishes that the length of time between conduct and resulting death does not constitute a defense to a homicide charge."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and 2023 S.B. 227 amendment; transferred intent including unidentified intended victims and non-defense of elapsed time between conduct and death verified."
+    },
+    {
+      "id": "565.004:29259",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.004&bid=29259",
+      "sourceSha256": "6e58585741609496d8a13eb39af8133855d48e011cce13b62b9030553e3b2c42",
+      "textSha256": "802d57bbfdc6a215ee501983399a9f507bde135d1771e171706b558f48fcf1bb",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Separate counts, joinder restrictions, and submission of lesser offenses",
+          "bodySha256": "2561e7dca4e90c3f3774bc0ddb5c5f070c615044dfb83b1e6917d633acb82aec",
+          "reviewNote": "Requires separate counts for lawfully joined offenses, limits joinder with first degree murder, and requires submission of supported offenses and lesser offenses upon request."
+        },
+        {
+          "number": 2,
+          "title": "Joinder of alternative counts without election requirement",
+          "bodySha256": "227e59ecdfd081aefe5a50bd3ba7eec685496d73dea944ca3452bb388fe9d0d7",
+          "reviewNote": "Permits joining alternative homicide or non-homicide counts regarding a single victim without requiring state election, preserving certain conjunctive trials."
+        },
+        {
+          "number": 3,
+          "title": "Joinder with first degree murder for prior offenders",
+          "bodySha256": "3769883af3d56eda49a7952dda01999b2444504c296c376eb7951e44c63b3b0d",
+          "reviewNote": "Authorizes joint trial of first degree murder and non-murder counts when prior offender status makes judicial sentencing applicable to the non-murder charge."
+        },
+        {
+          "number": 4,
+          "title": "Joinder authorized upon state waiver of death penalty",
+          "bodySha256": "4199ee644997763213eab6dea84287d853ddd38056feb5a630b3fdda48493446",
+          "reviewNote": "Permits trying and submitting first degree murder with other lawfully joined charges when the state waives the death penalty."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 4 subsections, effective date 1-01-17, and 1989 Bulloch v. Seier annotation; separate counts, first-degree murder joinder limits, alternative counts without election, prior-offender joinder, and death-penalty waiver joinder verified."
+    },
+    {
+      "id": "565.005:29261",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.005&bid=29261",
+      "sourceSha256": "a74e1a308f00ff64c024eb0cb67f465efbc415d65a31c294ae95950535a989f7",
+      "textSha256": "8db5b75d663a581d794c72b2479a8cd73639af07934a5e49ee42fbe97b985542",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Pretrial disclosure of penalty-phase evidence and witnesses",
+          "bodySha256": "81073f664c69af149e30f2db22836f48f65b368eb25cc828d280291552ee4e2f",
+          "reviewNote": "Mandates reciprocal pretrial disclosure of penalty-phase aggravating and mitigating circumstances, witnesses, and exhibits upon request in capital trials."
+        },
+        {
+          "number": 2,
+          "title": "Supplemental relation to supreme court discovery rules",
+          "bodySha256": "bb0df4ceadbd27da10b78f45690b22d1aeeb24b00de2eed8a213d57785b7fb54",
+          "reviewNote": "Clarifies that statutory penalty-phase disclosures supplement supreme court discovery rules, protective orders, and sanctions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and effective date 10-01-84; reciprocal capital penalty-phase disclosure of section 565.032 circumstances, witnesses, and exhibits and supplemental relation to supreme court discovery rules verified."
+    },
+    {
+      "id": "565.006:29262",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.006&bid=29262",
+      "sourceSha256": "263dcde68d58820ac9fc3f347122f485a4a8d8782fcc8730045d82f1169491bf",
+      "textSha256": "d171cc8e3291cbb2548c104e4dd30e1c9b8654162cc5758b96553fd6e4c9ffcd",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Pretrial waiver of jury trial with court assent",
+          "bodySha256": "3c5016fae0854b07af39df8f9a44b472e76034632aa1c0442f468a5e95856497",
+          "reviewNote": "Permits defendant to waive jury trial on all issues and punishment with court assent prior to trial commencement."
+        },
+        {
+          "number": 2,
+          "title": "Jury punishment trial barred after guilty plea or bench trial",
+          "bodySha256": "e047693e25074dc6afa685dc71c61d558dcdf209dde06d3f24fe7db9e344c1a9",
+          "reviewNote": "Prohibits jury trial on punishment following a guilty plea or bench trial conviction for homicide unless the state agrees."
+        },
+        {
+          "number": 3,
+          "title": "Jury punishment waiver restriction in capital cases",
+          "bodySha256": "3135f8ee93e644a47544d6fd03fdd5f59a414f6e3b492e7b6f508979acd63d69",
+          "reviewNote": "Bars defendant from waiving a jury for capital penalty phase following a jury guilt verdict unless state and court agree."
+        },
+        {
+          "number": 4,
+          "title": "Entry of jury waiver and agreement in court record",
+          "bodySha256": "d6eedc4f99f310ae966489c9c1eae6807159a2cbb71ac197aefa9e42a308b68e",
+          "reviewNote": "Requires any permitted jury trial waiver and agreement to be entered in the court record."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 4 subsections, effective date 10-01-84, and 2002 Ring v. Arizona Sixth Amendment annotation; pretrial jury waiver with court assent, restrictions after plea/bench/capital jury verdict, and record entry verified."
+    },
+    {
+      "id": "565.010:29263",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.010&bid=29263",
+      "sourceSha256": "f97aff362853c927234b228916a6c1de47e166837fe0867f391252b24dd82423",
+      "textSha256": "5367d4d9a6fc7338e843eb386924eaf3cb0c7fcbc1b75d11e612fbfe367f01fa",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conditions where consent constitutes a defense to physical injury",
+          "bodySha256": "7241b9efbbf54bae7d388abe0594138d1ddd729870a9d63a0783397b28248da9",
+          "reviewNote": "Establishes limited conditions under which victim consent is a defense to conduct causing or threatening physical injury."
+        },
+        {
+          "number": 2,
+          "title": "Burden of injecting the issue of consent on defendant",
+          "bodySha256": "0d7e90f1d461be1174cff3169d01612012d362ffeb7c0ea8827f2d430f69e082",
+          "reviewNote": "Places the burden of injecting the issue of consent upon the defendant."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, transfer note (formerly 565.080), and effective date 1-01-17; three limited consent defenses to physical injury (including chapter 563 justification) and defendant burden to inject verified."
+    },
+    {
+      "id": "565.020:33575",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.020&bid=33575",
+      "sourceSha256": "30ebf8a2fc4bbd533b2a79ba7756be068481d194ca253ddb1ad856859295d85e",
+      "textSha256": "2e47fdb780fd0ecd956ab5d516107b093a87946aaad40f124d707d8f8e679c0a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of murder in the first degree",
+          "bodySha256": "41ed080005b50e02bab7987cbfca81b461018beb3338eb8d4044cd41bbf89c7f",
+          "reviewNote": "Defines offense of murder in the first degree as knowingly causing the death of another person after deliberation."
+        },
+        {
+          "number": 2,
+          "title": "Classification and authorized punishments by age",
+          "bodySha256": "a8d938e9f03ed96c18fcd221e99bde87fbcd32a7c0c6be56b698562c8c057500",
+          "reviewNote": "Classifies first degree murder as a class A felony, specifying death or life without parole for adults and section 565.033 penalties for juveniles under eighteen."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, effective date 7-13-16, and section 546.730 cross-reference; first-degree murder elements and class A felony punishments by age (death/LWOP for 18+ vs section 565.033 for under 18) verified."
+    },
+    {
+      "id": "565.021:29265",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.021&bid=29265",
+      "sourceSha256": "64e94ba60f4b600c390fc6e0d022b76eeedaebaf8b20859c5e487db7cebe8704",
+      "textSha256": "7cd8c4ac2ec6dfe028c1e2e93f1ec2647ccbeb7c869bc855d4c3fee7090d18f8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of conventional and felony murder in the second degree",
+          "bodySha256": "2862738f715554e78d6fce137a76d2887efbc781363a8fe7c687913cfda2e063",
+          "reviewNote": "Defines second degree murder elements for knowingly causing death, causing death with purpose of serious physical injury, and felony murder during felony perpetration or immediate flight."
+        },
+        {
+          "number": 2,
+          "title": "Classification and cumulative punishment with related felonies",
+          "bodySha256": "3f4e33d81037a5b9aa8c10a0770c015f4efb055c0979565dcb19fb3fe1450f2b",
+          "reviewNote": "Classifies second degree murder as a class A felony and mandates punishment in addition to related non-homicide felonies."
+        },
+        {
+          "number": 3,
+          "title": "Consideration of supported alternative theories upon request",
+          "bodySha256": "9a041eb9e018076eb2044b1e8b625812544fe8045e5400a8ab05595b84bbe6c5",
+          "reviewNote": "Requires instructing or considering all evidentially supported second degree murder statutory theories upon request of a party or the court."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections, effective date 1-01-17, section 544.671 cross-reference, and 2 case annotations (Searcy, Pembleton); refined subsection 1 note to 'knowingly causing death' and verified cumulative felony punishment and alternative-theory submission."
+    },
+    {
+      "id": "565.023:29267",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.023&bid=29267",
+      "sourceSha256": "894654bbe2dae60a212ee878ea94ebe6452e3d6d10cec2e114e0717becfe17fc",
+      "textSha256": "c53d8de5f1121562c18bb64cb4f0535c51f801be33c7fe730a72b865588d26c5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of voluntary manslaughter and assisted self-murder",
+          "bodySha256": "1178205340c888f51940c49c11bc2fa8939eb1fe18478b987124476c7915f6da",
+          "reviewNote": "Defines voluntary manslaughter as second degree murder committed under sudden passion arising from adequate cause or knowingly assisting self-murder."
+        },
+        {
+          "number": 2,
+          "title": "Burden of injecting sudden passion on defendant",
+          "bodySha256": "33ff9d451b39ee66c10aa65dacdf52207056391a4786baa52c8b5157c2672f05",
+          "reviewNote": "Places the burden of injecting the issue of sudden passion arising from adequate cause upon the defendant."
+        },
+        {
+          "number": 3,
+          "title": "Class B felony classification",
+          "bodySha256": "6ab2380902f4c725facf9e3fdd93fda193fec99aefe9afb93659cb0ce405ef3d",
+          "reviewNote": "Classifies voluntary manslaughter as a class B felony."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections and effective date 1-01-17; voluntary manslaughter (sudden passion or knowingly assisting self-murder), defendant burden to inject sudden passion, and class B felony classification verified."
+    },
+    {
+      "id": "565.024:34704",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.024&bid=34704",
+      "sourceSha256": "13bd6e67fc84401b42eb4d61309ca63e6be4d286b1852046b591bc99180b0ec8",
+      "textSha256": "63bc008b850c97eaa5ff62f2bf951ab3b37f8c27f5700300643451d6193d827a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of involuntary manslaughter in the first degree",
+          "bodySha256": "f6e27b8a0bb4addb425a21c5770249cf9390a3f05b6a9ed4fa749a5dc0ffd9a7",
+          "reviewNote": "Defines involuntary manslaughter in the first degree as recklessly causing the death of another person."
+        },
+        {
+          "number": 2,
+          "title": "Classification and enhancement for targeting law enforcement",
+          "bodySha256": "0da77f401ef3078e01458e286cbc45e88d60858cc7f4889d5ac6f7121e4f6f0b",
+          "reviewNote": "Classifies first degree involuntary manslaughter as a class C felony, enhanced to class B if targeting a law enforcement officer or second-degree relative."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and 2 case annotations (State v. Knapp, Fields v. Mo. Bd. of Probation & Parole); reckless first-degree involuntary manslaughter and class C/class B law-enforcement targeting enhancement verified."
+    },
+    {
+      "id": "565.027:34705",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.027&bid=34705",
+      "sourceSha256": "7fae50661fdfcc9c22a4fe1c550598551892376e324e3fc4dfd25baedb008dbe",
+      "textSha256": "219d375f31fe859fa577b25fd05c55cf050e7c376bb94f5918f5d394e1b3bc10",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of involuntary manslaughter in the second degree",
+          "bodySha256": "e4c825c215847f5f5d82fa30bcdfb5f7918a5d3b80a7b2317361f3b418ed058b",
+          "reviewNote": "Defines involuntary manslaughter in the second degree as causing the death of any person with criminal negligence."
+        },
+        {
+          "number": 2,
+          "title": "Classification and enhancement for targeting law enforcement",
+          "bodySha256": "efe63203cd2295995489f31a0a560ece395d0dcc29a241e96585f9f928a6ce27",
+          "reviewNote": "Classifies second degree involuntary manslaughter as a class E felony, enhanced to class D if targeting a law enforcement officer or second-degree relative."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; criminal-negligence second-degree involuntary manslaughter and class E/class D law-enforcement targeting enhancement verified."
+    },
+    {
+      "id": "565.029:29273",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.029&bid=29273",
+      "sourceSha256": "8ca18bc89e3e74afa82cab70f457fed9599d31ecb8497591977fcf9d21c4b1d0",
+      "textSha256": "391a38ef6ae2d3e32a6c4fd99bcfdbbccac1ba7c4e6bfc806cd2741e67e6926d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "General application of section 556.046 to homicide cases",
+          "bodySha256": "1ced6a9a9172a2f7f27adb6f764d5a48e6622554105d7760d635ae9d8366d1e1",
+          "reviewNote": "Directs the use of section 556.046 for considering lesser offenses in homicide cases, subject to statutory exceptions."
+        },
+        {
+          "number": 2,
+          "title": "Hierarchical lists of lesser degree homicide offenses",
+          "bodySha256": "c16dcad05ef54ba427e79fc7e446180c4584b21d266804a48af6e7f6235a404f",
+          "reviewNote": "Enumerates the hierarchical order of lesser degree offenses for first degree murder and second degree murder charges."
+        },
+        {
+          "number": 3,
+          "title": "Request required for submitting lesser included offense instruction",
+          "bodySha256": "a90265246c277e2bccb0930bed2e11356a519bd1f7a34c685d626a318b8dbf58",
+          "reviewNote": "Prohibits submitting instructions on lesser included offenses unless requested by a party or the court."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections, transfer note (formerly 565.025), and effective date 1-01-17; section 556.046 applicability, hierarchical lesser-degree homicide lists, and party/court request requirement verified."
+    },
+    {
+      "id": "565.030:33576",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.030&bid=33576",
+      "sourceSha256": "a936975281a1e90256c85ece1d12e0275d44e9365d74fbc594c0a7d213ec2264",
+      "textSha256": "a0a64c59a315ff7187da975ea1cea17f27ff76ef1ab995592bd7f42171aaba04",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Proceedings when capital punishment not submitted or waived",
+          "bodySha256": "b4cace9c6356ab5d390a16d21f360699c890891f1edad1f78da5bcb895184402",
+          "reviewNote": "Governs proceedings when first degree murder is not submitted or the state waives the death penalty, proceeding as standard criminal cases."
+        },
+        {
+          "number": 2,
+          "title": "Bifurcated trial procedure and non-capital count sentencing",
+          "bodySha256": "46e250af27d418639a3ca5ec21cfddaf0aa840cc1d2fe6cb5205512ac193927f",
+          "reviewNote": "Establishes a two-stage capital trial procedure before the same trier and provides for judicial sentencing on joined non-capital offenses for prior offenders."
+        },
+        {
+          "number": 3,
+          "title": "Second stage proceedings upon conviction of lesser homicide",
+          "bodySha256": "4c42859c238d6eca522125c1ad6df99829ca231f14ae0a484ef16214e6dfae1b",
+          "reviewNote": "Outlines second stage punishment argument and declaration when the capital trier finds the defendant guilty of a lesser homicide offense."
+        },
+        {
+          "number": 4,
+          "title": "Capital penalty phase evidence, findings, and sentencing standards",
+          "bodySha256": "cf364fc8adc886ce4b2dcb6a6d9c68d6cdbba17c8875a067395896eabf2e36f2",
+          "reviewNote": "Governs evidence, argument, findings on intellectual disability and aggravating/mitigating factors, and jury instructions when determining life without parole or death."
+        },
+        {
+          "number": 5,
+          "title": "Pretrial determination of intellectual disability by agreement",
+          "bodySha256": "b3686c87782c4f300385a6c733fb9747af62ad062f2a363fafcb878f6d2e77a0",
+          "reviewNote": "Authorizes pretrial court determination of intellectual disability upon written agreement of parties and leave of court without prejudicing jury submission."
+        },
+        {
+          "number": 6,
+          "title": "Definition of intellectual disability",
+          "bodySha256": "5b5e412379892e2f2a7ebaa8114edc1356c63794e9f7fdbbcbca3247c78526ab",
+          "reviewNote": "Defines intellectual disability based on subaverage intellectual functioning, adaptive deficits in two or more behaviors, and onset documented before age eighteen."
+        },
+        {
+          "number": 7,
+          "title": "Applicability to offenses committed on or after August 28, 2001",
+          "bodySha256": "6b4ffc508b8c390eadc569538904f8d357644975d5f57092fbad2a407f1a036f",
+          "reviewNote": "Restricts the application of the section's provisions to offenses committed on or after August 28, 2001."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 7 subsections and 2003 State v. Whitfield annotation (jury deadlock judicial four-step sentencing violates Ring v. Arizona); bifurcated capital procedure, four-step penalty standards, intellectual disability determination/definition, and August 28, 2001 applicability verified."
+    },
+    {
+      "id": "565.032:33577",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.032&bid=33577",
+      "sourceSha256": "f8b73161495faea4103bc255a0172468caa69425011e511a8b402215652adb4c",
+      "textSha256": "8f4af189e855d60199d2a5f2a2a47debd2394474f25bbe9371bcd0d41b653bbd",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Trier considerations and jury instructions on aggravating circumstances",
+          "bodySha256": "7fbb5f5d972b9db34505bdbba34360b5f3d958e21aad4ce7d12d4e7323eb03da",
+          "reviewNote": "Specifies required trier considerations regarding statutory aggravating circumstances and overall aggravating and mitigating evidence in capital sentencing."
+        },
+        {
+          "number": 2,
+          "title": "Statutory aggravating circumstances for first degree murder",
+          "bodySha256": "2dc2d67267e4286d3011bc290b8f7fc7b79a041f7f1cbb58ef8ea7b1f770f09d",
+          "reviewNote": "Enumerates the exclusive statutory aggravating circumstances authorized for consideration in first degree murder penalty proceedings."
+        },
+        {
+          "number": 3,
+          "title": "Statutory mitigating circumstances for first degree murder",
+          "bodySha256": "835b5b309eafb2ad63656a3cadfe89923f9fc2ec91dcab41307e8be959f74c7e",
+          "reviewNote": "Enumerates statutory mitigating circumstances for consideration in first degree murder penalty proceedings."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections and effective date 1-01-17; trier considerations/jury instructions, 17 exclusive statutory aggravating circumstances, and 7 statutory mitigating circumstances verified."
+    },
+    {
+      "id": "565.033:33578",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.033&bid=33578",
+      "sourceSha256": "baf4c5b0e91eea2dcbe41829f88f59388e3d0789cfa52c93878694e6a3f7fbdf",
+      "textSha256": "c26170842c85021f16acc624bbb5328caa6b093b965297fc4c4cdf2c71a0807c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorized sentences for juvenile first degree murder offenders",
+          "bodySha256": "e88e2731b7a8f12186815ba5237c98ecb4a684ac185f30ed8dfcc95b93b22292",
+          "reviewNote": "Authorizes sentences of life without parole under section 565.034, life with parole, or thirty to forty years for offenders under age eighteen."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory sentencing factors for juvenile first degree murder offenders",
+          "bodySha256": "74fb16bd29600365f8ebe9d331916431346546a0c309c74c4b0de666433bab77",
+          "reviewNote": "Sets out mandatory mitigating and offender-specific factors that the judge or jury must consider when sentencing juvenile first degree murder offenders."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and effective date 7-13-16; authorized juvenile first-degree murder sentences (LWOP under section 565.034, life with parole, or 30–40 years) and 10 mandatory youth sentencing factors verified."
+    },
+    {
+      "id": "565.034:33579",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.034&bid=33579",
+      "sourceSha256": "a38b668b7bce19df15b8b87dfde488e928f7fad519a43b9a348817220d0525bd",
+      "textSha256": "396621423b84cc7adeff54fdcc628a6605d75abc1b630c12de926d945df1c0b1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written notice of intent to seek juvenile life without parole",
+          "bodySha256": "0181e9edfc97f5a07ba2bcf5c133e44516596869514916e59ac95d2bf1dbd09e",
+          "reviewNote": "Requires written notice of intent to seek life without parole for a juvenile offender within 120 days of arraignment, listing aggravating factors."
+        },
+        {
+          "number": 2,
+          "title": "Extension of motion filing deadline upon notice",
+          "bodySha256": "acaf39e7926ba10a6904dd2b88f0c80f5b8f6e26117a955abb3c5b26876fa32f",
+          "reviewNote": "Grants defendant an additional sixty days to file new motions or supplement pending motions after notice of intent is filed."
+        },
+        {
+          "number": 3,
+          "title": "Withdrawal of notice of intent and prohibition against refiling",
+          "bodySha256": "6e858aa329889b50a1fb0679b07a9e893c747d36f1da347d4f7fa0a186802cdb",
+          "reviewNote": "Authorizes withdrawal of notice of intent by written notice and prohibits refiling once withdrawn."
+        },
+        {
+          "number": 4,
+          "title": "Bifurcated trial requirement following notice of intent",
+          "bodySha256": "761d5b03ec44b9876a54303bbe2f32ca3a1ca872e9965197c20af5af415d87af",
+          "reviewNote": "Mandates a two-stage trial before the same trier when notice of intent is filed, reserving punishment determination for the second stage."
+        },
+        {
+          "number": 5,
+          "title": "Second stage sentencing proceeding upon first degree murder conviction",
+          "bodySha256": "ac0b14675640d16d6245ded09cfbc9b79c80f91c0f6e7477ff87febe10c4b6ca",
+          "reviewNote": "Provides for a second stage punishment proceeding following a first-stage conviction of murder in the first degree."
+        },
+        {
+          "number": 6,
+          "title": "Eligibility criteria and aggravating factors for juvenile life without parole",
+          "bodySha256": "b68a124ef5b84691eaa31f35638910ee3c8db57991030f05aaf6a9602d53ae0f",
+          "reviewNote": "Conditions juvenile life without parole eligibility on beyond-a-reasonable-doubt findings of personal infliction of fatal injuries and an enumerated aggravating factor."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 6 subsections and effective date 7-13-16; 120-day written LWOP notice, 60-day defense motion extension, non-refilable withdrawal, bifurcated trial, and beyond-a-reasonable-doubt personal-infliction plus aggravating-factor eligibility verified."
+    },
+    {
+      "id": "565.035:29276",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.035&bid=29276",
+      "sourceSha256": "60871a2f7bd4d0d5b9565a5a7b0ac42221ecea40d68167de09e35be9b5d0d284",
+      "textSha256": "1ebc98fe28fb4c4fad17c047ed2281b24617492ea2e6eb5ba23670a1fbafd89b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory supreme court sentence review and trial record transmission",
+          "bodySha256": "18f9be2561585044b4a2b38a78afcb4d68e97fde08a24af7db0598c0dd8047b8",
+          "reviewNote": "Mandates supreme court review of death sentences upon final judgment and requires clerk transmission of record and standard judge questionnaire within ten days."
+        },
+        {
+          "number": 2,
+          "title": "Consideration of punishment and enumerated appellate errors",
+          "bodySha256": "9407dd83907f24be0a64195afe3ffc58daa7499bab987b30574aafe9364eb130",
+          "reviewNote": "Directs supreme court to review both the imposed death sentence and any errors raised on appeal."
+        },
+        {
+          "number": 3,
+          "title": "Statutory determinations required in capital sentence review",
+          "bodySha256": "aa8fd8d181c856e75db286750810192f3eb5703cf32d34a1365d17d23d823a69",
+          "reviewNote": "Defines required supreme court determinations regarding arbitrary factors, evidentiary support for aggravating circumstances, and sentence proportionality."
+        },
+        {
+          "number": 4,
+          "title": "Right to submit briefs and present oral argument",
+          "bodySha256": "77d82b3f8eac519f1ff0ad02b63e5ea80dacd6ae94ae4c2d0f1add6d371ba7c7",
+          "reviewNote": "Establishes rights of both defendant and state to file briefs and deliver oral argument during sentence review."
+        },
+        {
+          "number": 5,
+          "title": "Case comparisons and authorized supreme court dispositions",
+          "bodySha256": "16654f7dd26b04f7289440c4c2f11f0d9ed887b220fd1559b78635801d8f3e15",
+          "reviewNote": "Requires reference to similar cases and authorizes supreme court to affirm death sentence, resentence to life without parole, or remand for punishment retrial."
+        },
+        {
+          "number": 6,
+          "title": "Supreme court assistant, case record accumulation, and staff",
+          "bodySha256": "04600ce05265a430b38a3a409e88dcb54359aa06e8b5cbcb93c171982bd6a831",
+          "reviewNote": "Authorizes appointment of supreme court assistant attorney, accumulation of capital and life without parole case records, and staff support."
+        },
+        {
+          "number": 7,
+          "title": "Direct appeal of conviction and consolidation with sentence review",
+          "bodySha256": "e77efceaea43dd6d7137908c64355fe66b7e04304099a503db54fdc3b17bbc69",
+          "reviewNote": "Provides for waivable direct appeal of conviction to supreme court and consolidation of appeal with mandatory sentence review."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 7 subsections, effective date 1-01-17, and 1995 Oxford v. Delo annotation; mandatory supreme court death-sentence review, 10-day record transmission, three statutory determinations, dispositions, supreme court assistant, and consolidated direct appeal verified."
+    },
+    {
+      "id": "565.040:33580",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.040&bid=33580",
+      "sourceSha256": "9bdfc0a48506b5de46380d0db197c4d4b84372061f6cc654e05bc092dfef38fc",
+      "textSha256": "3b386efe034ffdec81c297e4189f3b727f083575b02a556750a9162da93d335a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Resentencing to life without parole if death penalty held unconstitutional",
+          "bodySha256": "c9f7f0d6f1605ebfee91e9977911de33b050f7ae030cdcd2043b84a4184a6710",
+          "reviewNote": "Mandates judicial resentencing to life without parole if the death penalty is held unconstitutional, reserving remand authority for invalid aggravating factors."
+        },
+        {
+          "number": 2,
+          "title": "Trial court resentencing procedure when specific death sentence held unconstitutional",
+          "bodySha256": "c8b4dc7cd9a5e444d66c58dfff6a251f6d97b589ed2b0044f1f94b8a1b39fb34",
+          "reviewNote": "Requires trial court to bring defendant before the court and impose life without parole if a death sentence is held unconstitutional, with remand exceptions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; fallback life-without-parole resentencing if death penalty or a specific death sentence is held unconstitutional, preserving section 565.035(5) remand authority for invalid aggravating factors, verified."
+    },
+    {
+      "id": "565.050:29279",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.050&bid=29279",
+      "sourceSha256": "bdc81f3883eb2105a3f7c7354f1dbd8a2cccffa98292abf534d418ba7ce78a76",
+      "textSha256": "81cb19d9434a07cf3abaa8c424cffa5e7e47e7cad95f2b239711629a84db3a40",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of assault in the first degree",
+          "bodySha256": "0940c4ba30b21502ed6fa2eff1a4cc305cce4753568684133a190035b2b923b1",
+          "reviewNote": "Defines first degree assault as attempting to kill or knowingly causing or attempting to cause serious physical injury to another."
+        },
+        {
+          "number": 2,
+          "title": "Classification and enhancements for injury or special victim",
+          "bodySha256": "cf3b1b4b8c75380ee0ccaf3ff71fa07b0b63ee4b685e6cb9119f95504d51f045",
+          "reviewNote": "Classifies first degree assault as a class B felony, enhanced to class A if serious physical injury is inflicted or if the victim is a special victim."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, effective date 1-01-17, Revisor's dual-version note, and section 544.671 cross-reference; pre-2027 version using 'serious physical injury' distinguished from 7-01-27 version 565.050:60733."
+    },
+    {
+      "id": "565.050:60733",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.050&bid=60733",
+      "sourceSha256": "9b9edef6324917c453dc7b433f35a97e3d8b23ca74bcc29e1c44f161160f2d18",
+      "textSha256": "4d1805069c21c73a4a8d7c22195d800a16692ab9c8b6254e50ea03fe3b82f2ed",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of assault in the first degree",
+          "bodySha256": "2556a3c140a36c5d2b35a4c15c3c2f24b29aba5c9f2b56d184773cd1b10ce707",
+          "reviewNote": "Defines first degree assault as attempting to kill or knowingly causing or attempting to cause great bodily harm to another (effective 7-01-27)."
+        },
+        {
+          "number": 2,
+          "title": "Classification and enhancements for harm or special victim",
+          "bodySha256": "afadebe3cef898a9c5c519da307d52f2b5f606a6ace88c957ed166c71555ef9d",
+          "reviewNote": "Classifies first degree assault as a class B felony, enhanced to class A if great bodily harm is inflicted or if the victim is a special victim (effective 7-01-27)."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, delayed effective date 7-01-27 (§ 565.019), nonseverability (§ 1.1008), severability (§ 1.1005), and section 544.671 cross-reference; 7-01-27 version replacing 'serious physical injury' with 'great bodily harm' distinguished from 565.050:29279."
+    },
+    {
+      "id": "565.052:29281",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.052&bid=29281",
+      "sourceSha256": "8668c72ff4f55075a953ecfca832c576e3d6c24d88ca840748c22f509cf611bb",
+      "textSha256": "bf01ad8c0abbdf927aede654457b57043e9a7f2a8970573817fa7346abc1b1bc",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of assault in the second degree",
+          "bodySha256": "5cd135c2824a1e9c31116dad84f7416e676920529fa315d02d87b561cebfff09",
+          "reviewNote": "Defines second degree assault elements involving sudden passion, deadly weapon or dangerous instrument, reckless serious physical injury, or firearm discharge."
+        },
+        {
+          "number": 2,
+          "title": "Burden of injecting sudden passion on defendant",
+          "bodySha256": "33ff9d451b39ee66c10aa65dacdf52207056391a4786baa52c8b5157c2672f05",
+          "reviewNote": "Places the burden of injecting the issue of sudden passion arising from adequate cause upon the defendant."
+        },
+        {
+          "number": 3,
+          "title": "Classification and enhancement for special victim",
+          "bodySha256": "8ee012b564c74962219ff6df0c28f9d03ef14412632c25958ca8bdd9a85f2658",
+          "reviewNote": "Classifies second degree assault as a class D felony, enhanced to class B if the victim is a special victim."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections, transfer note (formerly 565.060, eff. 1-01-17), and Revisor's dual-version note; pre-2027 second-degree assault version using 'serious physical injury' and 'physical injury' distinguished from 565.052:60734."
+    },
+    {
+      "id": "565.052:60734",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.052&bid=60734",
+      "sourceSha256": "9fb3f291b2ee16ec970c69a443ad98c7e77ea9a1f28855f768fe584eff25a17f",
+      "textSha256": "0a1e44acff229bd0e83493f06697faa71fb185cd62fd24b2e88f02df3eecf835",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of assault in the second degree",
+          "bodySha256": "f2a96cd10f8c61f3f9813d8426c506fea5aaebbf8cde1315fe7a7a568888c6b7",
+          "reviewNote": "Defines second degree assault elements involving sudden passion, deadly weapon or dangerous instrument, reckless great bodily harm, or firearm discharge (effective 7-01-27)."
+        },
+        {
+          "number": 2,
+          "title": "Burden of injecting sudden passion on defendant",
+          "bodySha256": "33ff9d451b39ee66c10aa65dacdf52207056391a4786baa52c8b5157c2672f05",
+          "reviewNote": "Places the burden of injecting the issue of sudden passion arising from adequate cause upon the defendant."
+        },
+        {
+          "number": 3,
+          "title": "Classification and enhancement for special victim",
+          "bodySha256": "8ee012b564c74962219ff6df0c28f9d03ef14412632c25958ca8bdd9a85f2658",
+          "reviewNote": "Classifies second degree assault as a class D felony, enhanced to class B if the victim is a special victim."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections, delayed effective date 7-01-27 (§ 565.019), and severability/nonseverability notes; 7-01-27 version replacing physical injury terminology with 'great bodily harm' and 'bodily harm' distinguished from 565.052:29281."
+    },
+    {
+      "id": "565.054:29282",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.054&bid=29282",
+      "sourceSha256": "6f9bac7eb4965a833267607f80b9dc465f811816f889ec4c0bf11e1699279397",
+      "textSha256": "a5bd3c7fe1402cf57f7f4c9bf862568956bccc13a437d06d786ecd135f073f37",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of assault in the third degree",
+          "bodySha256": "bf68b8e92809a271b5b78f3c70604f310d1ea4d3bbbd9d33481c625965db45fe",
+          "reviewNote": "Defines third degree assault as knowingly causing physical injury to another person."
+        },
+        {
+          "number": 2,
+          "title": "Classification and enhancement for special victim",
+          "bodySha256": "d5e2816e591c42fbbfdffb6488487344f04df6c263ba6e4fe10a048f878e7a03",
+          "reviewNote": "Classifies third degree assault as a class E felony, enhanced to class D if the victim is a special victim."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, transfer note (formerly 565.070), Revisor's dual-version note, and 2015 State v. Randle annotation; pre-2027 third-degree assault version using 'physical injury' distinguished from 565.054:60735."
+    },
+    {
+      "id": "565.054:60735",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.054&bid=60735",
+      "sourceSha256": "09c7c214d5ca33a8d2f48e230c6aa44a0e34c72021ad0b6479d1ed683340720f",
+      "textSha256": "a05f46d8d5f97ef87b18506290d4aaa72ee0baac5ad10799f6291b967e8e4d89",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of assault in the third degree",
+          "bodySha256": "be2c2fdf47b4be51a30c1d7bc1e7407a5595fa03dedb4af4e8c904be8a7819f0",
+          "reviewNote": "Defines third degree assault as knowingly causing bodily harm to another person (effective 7-01-27)."
+        },
+        {
+          "number": 2,
+          "title": "Classification and enhancement for special victim",
+          "bodySha256": "d5e2816e591c42fbbfdffb6488487344f04df6c263ba6e4fe10a048f878e7a03",
+          "reviewNote": "Classifies third degree assault as a class E felony, enhanced to class D if the victim is a special victim."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, delayed effective date 7-01-27 (§ 565.019), severability/nonseverability notes, and State v. Randle annotation; 7-01-27 version replacing 'physical injury' with 'bodily harm' distinguished from 565.054:29282."
+    },
+    {
+      "id": "565.056:29283",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.056&bid=29283",
+      "sourceSha256": "8365cdbed3a40f0e56af48840229cd1b891e4ec87dd9c282d4a4874bbd1965dc",
+      "textSha256": "72a38655d697beb7ed06dcd72a7a3d69df5696fde46b6cf7e3a8908155e40727",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of assault in the fourth degree",
+          "bodySha256": "1f9ce6aef13cff699bd444708529bb51284c5c3ccdc93e33261ee26e13d75dca",
+          "reviewNote": "Defines fourth degree assault elements covering injury, firearm negligence, apprehension, reckless conduct, or offensive physical contact."
+        },
+        {
+          "number": 2,
+          "title": "Class A misdemeanor classification",
+          "bodySha256": "49fd8eec8e3ac55c0c4c778f757dea580e4540a1156b7c8780ef529b1b05e8c6",
+          "reviewNote": "Establishes general classification of fourth degree assault as a class A misdemeanor, subject to subsection 3."
+        },
+        {
+          "number": 3,
+          "title": "Classification for apprehension or offensive contact and special victim enhancement",
+          "bodySha256": "443fd7ed6df3df79638a9c1acbc657e08d8c46e14f867844cd95323a510dba8f",
+          "reviewNote": "Classifies apprehension and offensive contact offenses as class C misdemeanors, enhanced to class A misdemeanors for special victims."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections, effective date 1-01-17, and Revisor's dual-version note; pre-2027 fourth-degree assault version using physical injury/pain/illness and serious physical injury terminology distinguished from 565.056:60736."
+    },
+    {
+      "id": "565.056:60736",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.056&bid=60736",
+      "sourceSha256": "e1ad4ae5d21070be7445997a033a81a6d5c0cd66f4664bc1eeebb9ab76d742c2",
+      "textSha256": "4995d12c6c3fde8b50d392f02a7f56fc0ef1b8023251c0ec6bc14b80c09f2e46",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of assault in the fourth degree",
+          "bodySha256": "2a45e3774c1ca95296e16f4451bba046ef939ca5c44bb3bf5441b591ac8d1cfa",
+          "reviewNote": "Defines fourth degree assault elements covering bodily harm, firearm negligence, apprehension, reckless risk, or offensive physical contact (effective 7-01-27)."
+        },
+        {
+          "number": 2,
+          "title": "Class A misdemeanor classification",
+          "bodySha256": "49fd8eec8e3ac55c0c4c778f757dea580e4540a1156b7c8780ef529b1b05e8c6",
+          "reviewNote": "Establishes general classification of fourth degree assault as a class A misdemeanor, subject to subsection 3."
+        },
+        {
+          "number": 3,
+          "title": "Classification for apprehension or offensive contact and special victim enhancement",
+          "bodySha256": "443fd7ed6df3df79638a9c1acbc657e08d8c46e14f867844cd95323a510dba8f",
+          "reviewNote": "Classifies apprehension and offensive contact offenses as class C misdemeanors, enhanced to class A misdemeanors for special victims."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections, delayed effective date 7-01-27 (§ 565.019), and severability/nonseverability notes; 7-01-27 version replacing physical injury/pain/illness terms with 'bodily harm' and 'great bodily harm' distinguished from 565.056:29283."
+    },
+    {
+      "id": "565.058:50141",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.058&bid=50141",
+      "sourceSha256": "52a8554dfdebcfe23c2f26285244999ef4e1f6bc32c31ebd7f9f40f670b9dd21",
+      "textSha256": "4f8802263118f7efbd22bfc7b42350f5342b9831fb62cb028b25a7f07f3fc9d5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Protection against disclosure of residence address by special victims",
+          "bodySha256": "99e2f50ed1969db2c6a05bafb089a0d25b640f4ccf7d6749a0bab3639060db1f",
+          "reviewNote": "Protects special victims from disclosing current residential address except in camera to the court for jurisdiction and venue determinations."
+        },
+        {
+          "number": 2,
+          "title": "Petition filing using identifying initials upon allegation of endangerment",
+          "bodySha256": "6b6664f8f34b1049d8cc517e00cdfb83948d0bf66a6a02f6697d7fa226fb3168",
+          "reviewNote": "Authorizes special victims to file assault petitions using identifying initials instead of legal names upon alleging endangerment from disclosure."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; special victim address confidentiality (in camera disclosure only for jurisdiction/venue) and permissive assault petition filing under identifying initials verified."
+    },
+    {
+      "id": "565.072:29288",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.072&bid=29288",
+      "sourceSha256": "cd1b5170bd099675d036c722b3d1b78b91fdc19c30240096f362081d487eb7c0",
+      "textSha256": "c5d5eef846177b045987e06fb9a31bbd9fd8d02018998074606fce06a87c6b6e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of domestic assault in the first degree",
+          "bodySha256": "425d558ccf20826d5c6013d620215afd254058d40971d90825df28f6ac12aa32",
+          "reviewNote": "Defines first degree domestic assault as attempting to kill or knowingly causing or attempting to cause serious physical injury to a domestic victim."
+        },
+        {
+          "number": 2,
+          "title": "Classification and enhancement for serious physical injury",
+          "bodySha256": "c1c52c9a11a853e0663380d96a33099f51631975b36b4dc3dd56de85dbbc6c68",
+          "reviewNote": "Classifies first degree domestic assault as a class B felony, enhanced to class A if serious physical injury is inflicted on the victim."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, effective date 1-01-17, Revisor's dual-version note, and section 595.320 cross-reference; pre-2027 first-degree domestic assault version using 'serious physical injury' in both subsections distinguished from 565.072:60737."
+    },
+    {
+      "id": "565.072:60737",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.072&bid=60737",
+      "sourceSha256": "c4caccf4d7468b3363baec2048b548a7b816a862ef5575bf1aeaf080ba32f41f",
+      "textSha256": "f3072cb9c4b794516fa1b266e10c0d4264970badf3e442b21b8d3d810a73951c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of domestic assault in the first degree",
+          "bodySha256": "024418cfc13475d09e55b2e77e0b82afec51af879e3267de781a3b260077d94c",
+          "reviewNote": "Defines first degree domestic assault as attempting to kill or knowingly causing or attempting to cause great bodily harm to a domestic victim (effective 7-01-27)."
+        },
+        {
+          "number": 2,
+          "title": "Classification and enhancement for serious physical injury",
+          "bodySha256": "c1c52c9a11a853e0663380d96a33099f51631975b36b4dc3dd56de85dbbc6c68",
+          "reviewNote": "Classifies first degree domestic assault as a class B felony, enhanced to class A if serious physical injury is inflicted on the victim."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, delayed effective date 7-01-27 (§ 565.019), severability/nonseverability notes, and section 595.320 cross-reference; note 7-01-27 version changes subsection 1 to 'great bodily harm' while retaining 'serious physical injury' in subsection 2."
+    },
+    {
+      "id": "565.073:29290",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.073&bid=29290",
+      "sourceSha256": "9204978440569f2ddfbd1494a061f1f5433c2c092eefb9370921d33912dfeadb",
+      "textSha256": "e444c13bb25772a449ed710327a37c6f5b3ef231595ce25b310c1794100e1755",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of domestic assault in the second degree",
+          "bodySha256": "3f90a7ee0236666b79f706f850ce694fa887213422b7ce02aeb29d10ba0676cb",
+          "reviewNote": "Defines second degree domestic assault elements involving physical injury by weapon or choking/strangulation, or reckless injury."
+        },
+        {
+          "number": 2,
+          "title": "Class D felony classification",
+          "bodySha256": "2ff13ba720924a33f305715a5ee582b5e71b5d23f70b7f846034b9764052661a",
+          "reviewNote": "Classifies domestic assault in the second degree as a class D felony."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, effective date 1-01-17, Revisor's dual-version note, and section 595.320 cross-reference; pre-2027 second-degree domestic assault version using physical injury terminology distinguished from 565.073:60738."
+    },
+    {
+      "id": "565.073:60738",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.073&bid=60738",
+      "sourceSha256": "e85366c8dbe477f6567305dcc090aa5765aaae166a27a3454c5b437e48639d7e",
+      "textSha256": "bbb7f23befc7a303fc0a714b73170a4e4c627b748dc4a366c51f83a2087401ae",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of domestic assault in the second degree",
+          "bodySha256": "338cf9783a5c7b51ce695b5449fe49e21a3387ee9fb793dc96d56101af91b119",
+          "reviewNote": "Defines second degree domestic assault elements involving bodily harm by weapon or choking/strangulation, or reckless harm (effective 7-01-27)."
+        },
+        {
+          "number": 2,
+          "title": "Class D felony classification",
+          "bodySha256": "2ff13ba720924a33f305715a5ee582b5e71b5d23f70b7f846034b9764052661a",
+          "reviewNote": "Classifies domestic assault in the second degree as a class D felony."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, delayed effective date 7-01-27 (§ 565.019), severability/nonseverability notes, and section 595.320 cross-reference; 7-01-27 version replacing physical injury terms with 'bodily harm' and 'great bodily harm' distinguished from 565.073:29290."
+    },
+    {
+      "id": "565.074:29292",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.074&bid=29292",
+      "sourceSha256": "a045f23918191a39876be4af97999f7217f5204fc813515ae0400dc046387b99",
+      "textSha256": "07b12b24b3c8393629f11af1939999b46a2321532cf9051ca14f882293c6e872",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of domestic assault in the third degree",
+          "bodySha256": "c607710550c0a7bc7f3b0023c251ce450a46f6c6adb2dfd972bc2a1417c5b75e",
+          "reviewNote": "Defines third degree domestic assault as attempting to cause physical injury or knowingly causing physical pain or illness to a domestic victim."
+        },
+        {
+          "number": 2,
+          "title": "Class E felony classification",
+          "bodySha256": "d941abd20a21f5145da59dbe10e8368caa3217cfac3fe01d292c8a92e7317144",
+          "reviewNote": "Classifies domestic assault in the third degree as a class E felony."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, effective date 1-01-17, Revisor's dual-version note, and section 595.320 cross-reference; pre-2027 third-degree domestic assault version using 'physical injury' and 'physical pain or illness' distinguished from 565.074:60739."
+    },
+    {
+      "id": "565.074:60739",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.074&bid=60739",
+      "sourceSha256": "120b3d9278ccda5869b66e5c261c5812b59ce9bbdc4dddd3705b6162a198acc7",
+      "textSha256": "8685f3c8666c09ad91716992e0aa46b1d64d828dcf8e7dbfe209961d0eac98c8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of domestic assault in the third degree",
+          "bodySha256": "683391b7bbb9cfb045d087d07d7ef4d512678049a67a7357ea6d8abab7ee988f",
+          "reviewNote": "Defines third degree domestic assault as attempting to cause substantial bodily harm or knowingly causing bodily harm to a domestic victim (effective 7-01-27)."
+        },
+        {
+          "number": 2,
+          "title": "Class E felony classification",
+          "bodySha256": "d941abd20a21f5145da59dbe10e8368caa3217cfac3fe01d292c8a92e7317144",
+          "reviewNote": "Classifies domestic assault in the third degree as a class E felony."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, delayed effective date 7-01-27 (§ 565.019), severability/nonseverability notes, and section 595.320 cross-reference; 7-01-27 version using 'substantial bodily harm' and 'bodily harm' distinguished from 565.074:29292."
+    },
+    {
+      "id": "565.076:34706",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.076&bid=34706",
+      "sourceSha256": "e2bc475164ca971b5440153138a56f6baa5d3bca81d1356d2a1c37fdac86a5ff",
+      "textSha256": "79163ac71dd4ff649981dccd2dafbe919288f15b3b434b2aa7073e9f93185c9f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of domestic assault in the fourth degree",
+          "bodySha256": "69adfef9aa5128d38a5725e0f0aec2beaf4d41c112281697f93f6a2136d5d00b",
+          "reviewNote": "Defines fourth degree domestic assault elements covering injury, pain, weapon negligence, apprehension, reckless risk, offensive contact, and isolation."
+        },
+        {
+          "number": 2,
+          "title": "Classification and felony enhancement for repeat offenders",
+          "bodySha256": "b8dedcd73de92fa4a2224e1cd6bb18cc4dac7745396ed6933a7b05f91828721c",
+          "reviewNote": "Classifies fourth degree domestic assault as a class A misdemeanor, enhanced to class E felony upon prior findings of guilt."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, Revisor's dual-version note, and section 595.320 cross-reference; pre-2027 fourth-degree domestic assault version using physical injury/pain/illness terminology distinguished from 565.076:60740."
+    },
+    {
+      "id": "565.076:60740",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.076&bid=60740",
+      "sourceSha256": "fcdcfb30c76e48eca546acb26b3b7737bb3ee366649f8a4ce492b2e8d2f78bde",
+      "textSha256": "90b601f984ad676e23652ede4db1e7f7b01904775a148cf35b75433dffc504fc",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of domestic assault in the fourth degree",
+          "bodySha256": "8750b56d3fa77fc34e9c3c921f79a289caa24d4d91d10f09b8fed07afb98dd33",
+          "reviewNote": "Defines fourth degree domestic assault elements covering bodily harm, weapon negligence, apprehension, reckless risk, offensive contact, and isolation (effective 7-01-27)."
+        },
+        {
+          "number": 2,
+          "title": "Classification and felony enhancement for repeat offenders",
+          "bodySha256": "b8dedcd73de92fa4a2224e1cd6bb18cc4dac7745396ed6933a7b05f91828721c",
+          "reviewNote": "Classifies fourth degree domestic assault as a class A misdemeanor, enhanced to class E felony upon prior findings of guilt."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, delayed effective date 7-01-27 (§ 565.019), severability/nonseverability notes, and section 595.320 cross-reference; 7-01-27 version using 'bodily harm' and 'great bodily harm' distinguished from 565.076:34706."
+    },
+    {
+      "id": "565.079:29297",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.079&bid=29297",
+      "sourceSha256": "35069c7b74db28bbf2a974d609b3445e14628bfec6c608e0a645bac6d080b9a8",
+      "textSha256": "b2240857d1145f978cf1797aeb533316b05cd0181d254bb6b17150a68f5e417e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions of assault offenses and prior or persistent offenders",
+          "bodySha256": "86fa6855bf82f6fb7df92218413169fee0eed969f4f71a60683c9393cc01abdd",
+          "reviewNote": "Defines assault offense, persistent assault offender (two prior within ten years), and prior assault offender (one prior within five years)."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory minimum imprisonment and probation or parole restrictions",
+          "bodySha256": "cd6874d1a18adc681c12162ba8d15925d1c9521c7f6aa1d0ab4d3da3c4a29b09",
+          "reviewNote": "Prohibits suspended imposition of sentence or fines in lieu of prison, requiring at least six months imprisonment before parole or probation eligibility."
+        },
+        {
+          "number": 3,
+          "title": "Pleading, proof, and judicial findings required for offender status",
+          "bodySha256": "9060275e657ea94db2570fe595275f3ea1ebc3efbe88c6a8c99951d456803ff9",
+          "reviewNote": "Requires pleading essential facts, proof beyond a reasonable doubt, and judicial findings to establish prior or persistent assault offender status."
+        },
+        {
+          "number": 4,
+          "title": "Timing and hearing outside jury presence in jury trials",
+          "bodySha256": "be9f2d2658443370331091736636dc858fa0c2c5c6c3113ecdefc799b565c6a0",
+          "reviewNote": "Requires pleading, proving, and finding offender status prior to jury submission and outside the jury's hearing."
+        },
+        {
+          "number": 5,
+          "title": "Deferral of proof and findings in bench trials or guilty pleas",
+          "bodySha256": "5e824238d726a3c340fb2bd546dc793c8331e01ec277730df83162c9e95e81a2",
+          "reviewNote": "Authorizes court to defer proof and findings of offender status until prior to sentencing in bench trials or guilty pleas."
+        },
+        {
+          "number": 6,
+          "title": "Rights of confrontation, cross-examination, and defense evidence",
+          "bodySha256": "4fc57ac3ba92548240c03d00a3e06e2961f557e8697df8421e7d7f523108ecc6",
+          "reviewNote": "Accords defendants full rights of confrontation, cross-examination, and presentation of evidence at offender status hearings."
+        },
+        {
+          "number": 7,
+          "title": "Waiver of proof of alleged facts by defendant",
+          "bodySha256": "c28e1497f7a268baab71745ae119d3581c4ad8e274aa576cfabf549fae5b7aa1",
+          "reviewNote": "Permits defendant to waive proof of alleged prior or persistent offender facts."
+        },
+        {
+          "number": 8,
+          "title": "Use of presentence investigations and commitments permitted",
+          "bodySha256": "7d0cf20e28769333ec20d224b9155c095d72788d5da6f34f201bbd2785d49577",
+          "reviewNote": "Clarifies that provisions do not prevent the use of presentence investigations or commitments."
+        },
+        {
+          "number": 9,
+          "title": "Presentation of additional sentencing information by parties",
+          "bodySha256": "ee9e9067131ca8b649a1e2e13613a6fb99c1583d716730dd6d38fcbb02d78841",
+          "reviewNote": "Permits both state and defendant to present additional information bearing on sentencing at the sentencing hearing."
+        },
+        {
+          "number": 10,
+          "title": "Prior guilt findings requirement before date of present offense",
+          "bodySha256": "611591f7d5724e6b4a898d4c69bffa6a1e81c114039527e6d50b24e3569cb5bd",
+          "reviewNote": "Requires that predicate findings of guilt occurred prior to the date of commission of the charged offense."
+        },
+        {
+          "number": 11,
+          "title": "Exclusion of punishment instructions and jury sentencing",
+          "bodySha256": "d8013edbd2970eda6de8f6dcda91ffc1166ffcb8bbfa6c9fa36d06024de5f67e",
+          "reviewNote": "Prohibits instructing jury on punishment ranges or allowing jury assessment of punishment for prior or persistent assault offenders."
+        },
+        {
+          "number": 12,
+          "title": "Evidentiary hearing on prior convictions outside jury hearing",
+          "bodySha256": "0acd28f5f666fd74a15c273e3d731a1c88fc85bc66232d7fbc013b005e6898fc",
+          "reviewNote": "Requires court to hear and determine prior conviction evidence out of the jury's hearing, including highway patrol MULES records."
+        },
+        {
+          "number": 13,
+          "title": "Sentence enhancement of one felony class for prior assault offenders",
+          "bodySha256": "11f0383d9dd34442bf9556e9190f93ea8d255af5ed991820da1658cd6048e9eb",
+          "reviewNote": "Mandates sentencing prior assault offenders convicted of class B, C, or D felonies to the authorized term for one class step higher."
+        },
+        {
+          "number": 14,
+          "title": "Sentence enhancement of two felony classes for persistent assault offenders",
+          "bodySha256": "c0d1c570542fa97e8723a88586580b54e9b2f84cf3fdc63e6e387d8b9d9668f9",
+          "reviewNote": "Mandates sentencing persistent assault offenders to authorized terms two class steps higher for class C or D felonies, and class A for class B felonies."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 14 subsections, transfer note (formerly 565.063), and effective date 1-01-17; prior/persistent assault offender definitions, 6-month mandatory minimum, pleading/proof/MULES hearing procedures, jury-sentencing exclusion, and one-/two-step felony enhancements verified."
+    },
+    {
+      "id": "565.090:29308",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.090&bid=29308",
+      "sourceSha256": "338bea7329f353f2bc40f467bfee3b590bcc7a54d2ff2265a79f5ab9e73d0a02",
+      "textSha256": "37a8c9ac7fe5f427c83ee1cc59a55b5feb2f6c9576329ed56650fb05b16fceb4",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of harassment in the first degree",
+          "bodySha256": "0716663ac8aa69fe4d1a666f00e7b85b1d97db74d70066b98c29078ec63c53fd",
+          "reviewNote": "Defines first degree harassment as engaging in an act without good cause with purpose to cause emotional distress, and causing emotional distress."
+        },
+        {
+          "number": 2,
+          "title": "Class E felony classification",
+          "bodySha256": "18c8ff7a65f4a4850eaad15579e6798d9fb0fb48a4453d5cc77d1991cec4eb88",
+          "reviewNote": "Classifies harassment in the first degree as a class E felony."
+        },
+        {
+          "number": 3,
+          "title": "Law enforcement investigation exemption",
+          "bodySha256": "eaa60630e74d17cdf239208dbbb88f49e0f2e6f3c60766623080f9c445071473",
+          "reviewNote": "Exempts activities of federal, state, county, or municipal law enforcement officers conducting law enforcement investigations."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections, effective date 1-01-17, Revisor's dual-version note, and 3 case annotations (Koetting 1981/1985, Placke); pre-2027 unenhanced class E felony first-degree harassment version distinguished from 565.090:60741."
+    },
+    {
+      "id": "565.090:60741",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.090&bid=60741",
+      "sourceSha256": "2b775335afca157413663ce650994d0d8e676d911437943b4f9f41b053a9c6a3",
+      "textSha256": "6ee053ed119531440252e85446422054bf7b7cc4f444a00c5a3c048e6b5c53d8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of harassment in the first degree",
+          "bodySha256": "0716663ac8aa69fe4d1a666f00e7b85b1d97db74d70066b98c29078ec63c53fd",
+          "reviewNote": "Defines first degree harassment as engaging in an act without good cause with purpose to cause emotional distress, and causing emotional distress."
+        },
+        {
+          "number": 2,
+          "title": "Classification and enhancement for prior harassment convictions",
+          "bodySha256": "d35d2a056d0596fe64f08cb68cb970d1c23672c3ab1c0e56416c83e6fc9dedc3",
+          "reviewNote": "Classifies first degree harassment as a class E felony, enhanced to class D upon prior findings of guilt for harassment (effective 7-01-27)."
+        },
+        {
+          "number": 3,
+          "title": "Law enforcement investigation exemption",
+          "bodySha256": "eaa60630e74d17cdf239208dbbb88f49e0f2e6f3c60766623080f9c445071473",
+          "reviewNote": "Exempts activities of federal, state, county, or municipal law enforcement officers conducting law enforcement investigations."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections, delayed effective date 7-01-27 (§ 565.019), severability/nonseverability notes, and 2 Koetting annotations; 7-01-27 version adding class D felony enhancement for prior 565.090/565.091 findings distinguished from 565.090:29308."
+    },
+    {
+      "id": "565.091:34707",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.091&bid=34707",
+      "sourceSha256": "756c7153fc7d93766842ab7dc4fb7eb1c5a9a61dd8dfe527156af6bc46711a5b",
+      "textSha256": "bd0a190b2e8b914335fac3eb427a55a3d4ffadc738bf70f737e1fe24c4c4aa4c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of harassment in the second degree",
+          "bodySha256": "1a54711cba2bb508bdb8123735d592b1457d123ccff81b1beeec6a0770c80e13",
+          "reviewNote": "Defines second degree harassment as engaging in an act without good cause with the purpose to cause emotional distress to another."
+        },
+        {
+          "number": 2,
+          "title": "Classification and enhancement for prior convictions",
+          "bodySha256": "0744d13826c5e2d0fb4fd51603a2c30d131e2e96169d8456df8dca28cba97aff",
+          "reviewNote": "Classifies second degree harassment as a class A misdemeanor, enhanced to class E felony upon prior guilty pleas or findings of guilt."
+        },
+        {
+          "number": 3,
+          "title": "Law enforcement investigation exemption",
+          "bodySha256": "f291a5e8ee7bc06884e4744afc6d4e8ec5805f05e5d9d5d4d9a4b6623ac31d49",
+          "reviewNote": "Exempts activities of federal, state, county, or municipal law enforcement officers conducting law enforcement investigations."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections and Revisor's dual-version note; pre-2027 second-degree harassment version (enhancement based on prior 565.091 or equivalent guilty pleas/findings) distinguished from 565.091:60742."
+    },
+    {
+      "id": "565.091:60742",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.091&bid=60742",
+      "sourceSha256": "f653763904e69f5725e5c8c44bc01d4a94bf99260ddb9f2e7d935061d895ae57",
+      "textSha256": "3bc63862e645f54f551548b3421d893ae4aa3d65be77e96179a0ba8da74dbc2d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of harassment in the second degree",
+          "bodySha256": "1a54711cba2bb508bdb8123735d592b1457d123ccff81b1beeec6a0770c80e13",
+          "reviewNote": "Defines second degree harassment as engaging in an act without good cause with the purpose to cause emotional distress to another."
+        },
+        {
+          "number": 2,
+          "title": "Classification and enhancement for prior convictions",
+          "bodySha256": "f776c191f30b1062ebd3e40143c1c9d328c825257be33d2be51450ba10c66c67",
+          "reviewNote": "Classifies second degree harassment as a class A misdemeanor, enhanced to class E felony upon prior findings of guilt under section 565.090 or 565.091 (effective 7-01-27)."
+        },
+        {
+          "number": 3,
+          "title": "Law enforcement investigation exemption",
+          "bodySha256": "f291a5e8ee7bc06884e4744afc6d4e8ec5805f05e5d9d5d4d9a4b6623ac31d49",
+          "reviewNote": "Exempts activities of federal, state, county, or municipal law enforcement officers conducting law enforcement investigations."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections, delayed effective date 7-01-27 (§ 565.019), and severability/nonseverability notes; 7-01-27 version expanding prior enhancement predicates to include section 565.090 distinguished from 565.091:34707."
+    },
+    {
+      "id": "565.097:60670",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.097&bid=60670",
+      "sourceSha256": "80bb8fc80cf82166ff600b406637305fe7389a0f177f0eda606a5679e8ce2a29",
+      "textSha256": "dde08b3e769ee832eaaf0028b746ffd9b3defeb3f986973d1f8e1f8d14340333",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of masked intimidation",
+          "bodySha256": "57874f36f5ce3bc9911b785e5a31b7449356518b67d2c3ecb35193fb553e25ae",
+          "reviewNote": "Defines masked intimidation as intentionally harassing, intimidating, or threatening another while concealing face with intent to induce fear for physical safety."
+        },
+        {
+          "number": 2,
+          "title": "Graduated felony classifications for repeat offenses",
+          "bodySha256": "474a5e5bdbc2b58d0d49069f5c1498dff65b86ca55aa3c8d1f58a01f735cb8a2",
+          "reviewNote": "Establishes graduated felony penalties: class E for first offense, class D for second, and class C for third or subsequent offenses."
+        },
+        {
+          "number": 3,
+          "title": "Exempted purposes for face coverings and protective masks",
+          "bodySha256": "80680b74d669b0fce91d4936fa567691f1d976f53d969249e7b7b9074082c300",
+          "reviewNote": "Enumerates exemptions for masks worn for celebrations, workplace safety, weather, productions, emergency drills, health protection, or religion."
+        },
+        {
+          "number": 4,
+          "title": "Preservation of First Amendment constitutional rights",
+          "bodySha256": "e3e04817eee1dce53cc83b1ef737955bab78a1e4352c9761f9d1f5ece1d7bd66",
+          "reviewNote": "Clarifies that provisions shall not be construed to diminish or infringe upon rights protected under the First Amendment."
+        },
+        {
+          "number": 5,
+          "title": "Definitions of harass, intimidate, and threaten",
+          "bodySha256": "3f509d7af9e1777c5bc922bec5b42b76fa1a61acfe8ec865dee4103333d01b0e",
+          "reviewNote": "Defines statutory terms harass, intimidate (including civil rights interference based on protected status), and threaten."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 5 subsections, L. 2026 S.B. 1421 history, and severability clause (§ 1.1010); masked intimidation elements, graduated class E/D/C felony penalties, 7 face-covering exemptions, First Amendment clause, and definitions verified."
+    },
+    {
+      "id": "565.110:29315",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.110&bid=29315",
+      "sourceSha256": "04ee3e561d67d636a790609557ad9558d0c841fcf2f8ff90921ab7cba7a2bcf8",
+      "textSha256": "28d89ea69d63d555eec49dccc35b5687e2c503d5ee3462768b51c9180fc50903",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements and unlawful purposes of kidnapping in the first degree",
+          "bodySha256": "09a58f85c80ad18c4ea53a82f1ca0e467b1aa5a7a9c109459b7a37f4c307b42f",
+          "reviewNote": "Defines first degree kidnapping as unlawful removal or substantial confinement without consent for ransom, hostage, interference, felony, or terrorizing purposes."
+        },
+        {
+          "number": 2,
+          "title": "Classification and reduced felony class for certain purposes",
+          "bodySha256": "4b3bca9685ab6186d129d31abe68bb72827103d660b017db7ecb786270760bac",
+          "reviewNote": "Classifies first degree kidnapping as a class A felony, reduced to class B felony if committed to facilitate a felony/flight or inflict injury/terrorize."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, effective date 1-01-17, Megan's Law cross-reference (589.400–589.426), and 3 case annotations (Stewart, Daleske, Phelps); five first-degree kidnapping purposes and class A/class B classifications verified."
+    },
+    {
+      "id": "565.115:29317",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.115&bid=29317",
+      "sourceSha256": "89c40487433d4378b46aac8c5e1353382f7bc06d667959d249793734eba0683d",
+      "textSha256": "294b99d00cfe5065379e8220e1eafb64c612b5f15e5bc7823b44e5454e7f5a14",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of child kidnapping by non-relative",
+          "bodySha256": "eb1f4fba3c4cd5181aa85c624a02d719512c517d72f306c198b0b004b48a3787",
+          "reviewNote": "Defines child kidnapping as non-relative within third degree knowingly removing or confining child under fourteen without parental or guardian consent."
+        },
+        {
+          "number": 2,
+          "title": "Affirmative defense of protecting child from welfare danger",
+          "bodySha256": "f09d792f017f78162b12f8e2c396b322fac9dc2271b8977534e23ad147573f9b",
+          "reviewNote": "Establishes affirmative defense where person reasonably believed actions were necessary to preserve the child from danger to welfare."
+        },
+        {
+          "number": 3,
+          "title": "Class A felony classification",
+          "bodySha256": "3e8ce3a98385c2437463c1c375833d17f0847e6df74bc5743b35057a2dcd3d8a",
+          "reviewNote": "Classifies child kidnapping as a class A felony."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections and effective date 1-01-17; non-relative child kidnapping elements (under age 14), welfare-protection affirmative defense, and class A felony classification verified."
+    },
+    {
+      "id": "565.120:29319",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.120&bid=29319",
+      "sourceSha256": "732389d5b636333151ab296aa5c41bfb7d71974451cc182807a578f767df696c",
+      "textSha256": "098f053746aed0dea2641df471896d28748a18c8928e9b4923b409cb4f456adb",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of kidnapping in the second degree",
+          "bodySha256": "9abf9d0ff5ebedabc8f6538b4ea34b8b27bf91b8cf0657dd5b9017ec6fe1ed97",
+          "reviewNote": "Defines second degree kidnapping as knowingly restraining another unlawfully and without consent, substantially interfering with liberty and risking serious physical injury."
+        },
+        {
+          "number": 2,
+          "title": "Class D felony classification",
+          "bodySha256": "2b9de3e066a3b8dd60647767866b8a8738bb4137621333773967944122ae89ba",
+          "reviewNote": "Classifies kidnapping in the second degree as a class D felony."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and effective date 1-01-17; second-degree kidnapping elements (unlawful restraint risking serious physical injury) and class D felony classification verified."
+    },
+    {
+      "id": "565.130:29321",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.130&bid=29321",
+      "sourceSha256": "d2ab3ffd77c949a2308c73dc1368f22c83b455551c0c2ec51311634e9874527e",
+      "textSha256": "825543fed4bb9b86f41988ad1d2dc725c6562cc12ca645c55749193b2729aed5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of kidnapping in the third degree",
+          "bodySha256": "7c2a1b0b1075ed52307fea922b91b6b60fc0863425176ed2955f0e55cd84ab76",
+          "reviewNote": "Defines third degree kidnapping as knowingly restraining another unlawfully and without consent so as to interfere substantially with liberty."
+        },
+        {
+          "number": 2,
+          "title": "Classification and felony enhancement for out-of-state removal",
+          "bodySha256": "b6c054fbc7f596d795ce746565f73c47ca97f60e66c4d4d8988c1afc0d23b2e3",
+          "reviewNote": "Classifies third degree kidnapping as a class A misdemeanor, enhanced to class E felony if the person is removed from Missouri."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and effective date 1-01-17; third-degree kidnapping elements and class A misdemeanor / class E felony out-of-state removal enhancement verified."
+    },
+    {
+      "id": "565.140:29323",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.140&bid=29323",
+      "sourceSha256": "43ac623fe102c9e22e942b04a42f09c267390356e684c04ea2aa6957e7314864",
+      "textSha256": "ddfffc7d558949ee276ee065cb06e34d773cd865c46f24bbfc9b980458257e2d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Defenses to third degree kidnapping of child under seventeen",
+          "bodySha256": "9aa8ef54c2d69d7ee79f57549ae03d9b02f10fd740dd24a7cdc02fbf80f6387d",
+          "reviewNote": "Provides defense to third degree kidnapping of child under seventeen based on parental consent or non-out-of-state assumption of control by a relative."
+        },
+        {
+          "number": 2,
+          "title": "Definition of relative",
+          "bodySha256": "f4e7ca5ceb69bcfebecbf03690951891443bab6614fb6083c84e9a66c470f5a2",
+          "reviewNote": "Defines relative as parent, stepparent, ancestor, sibling, uncle, or aunt, including relationships established through marriage or adoption."
+        },
+        {
+          "number": 3,
+          "title": "Burden of injecting defense on defendant",
+          "bodySha256": "4b90dccb9b83612f7de11afb0a0d43a82407f7470639b030cfde03e3a5c92298",
+          "reviewNote": "Places the burden of injecting the issue of a defense under this section upon the defendant."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections and effective date 1-01-17; defenses to third-degree kidnapping of child under 17, definition of relative, and defendant burden to inject verified."
+    },
+    {
+      "id": "565.150:29327",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.150&bid=29327",
+      "sourceSha256": "a657f710ead0fccaa3d3a6caa5abfd600754cd6cbbae0e7582e5f88b0185c6b8",
+      "textSha256": "1796cc4cb5d3f66245d5ff32a85649585983a738fc042824b2fce7d7b50ac54d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of interference with custody",
+          "bodySha256": "44d13b7c70de8f70e84e36671b96cbcb03f24b2b1ae2edcf425b737746cb08ef",
+          "reviewNote": "Defines interference with custody as knowingly and without legal right taking or enticing any person entrusted by court order to another's custody."
+        },
+        {
+          "number": 2,
+          "title": "Classification and felony enhancement for removal or concealment",
+          "bodySha256": "c35846481526e1c165b08756954f9b358fb808b01e015901fc33356e14b5a476",
+          "reviewNote": "Classifies interference with custody as a class A misdemeanor, enhanced to class E felony if removed from Missouri, detained out-of-state, or concealed."
+        },
+        {
+          "number": 3,
+          "title": "Restitution for search and return expenses",
+          "bodySha256": "cf7a57ad21c00d215d235a774ca28867e77fae7cef7fb13e2fc568c51ca36f71",
+          "reviewNote": "Authorizes court to assess restitution against defendant for reasonable expenses incurred by custodian or parent in searching for or returning the child."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections, effective date 1-01-17, and 1984 State v. Edmisten annotation; interference with custody elements, class A/class E removal or concealment enhancement, and permissive search/return restitution verified."
+    },
+    {
+      "id": "565.153:29329",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.153&bid=29329",
+      "sourceSha256": "72b47eb66440439dc6ba64fc6ccfb2851b0e491719afaff8718ef4b1a14f8841",
+      "textSha256": "5bae7ae32e3d57d78fb633c008a57186bfd26d75376a1e7e356a4f76f5a635b1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of parental kidnapping in absence of custody order",
+          "bodySha256": "27382198d4f05d9e3db5ce6c2e0fafcb2167f903f3786353b72fee8e5fd9d97e",
+          "reviewNote": "Defines parental kidnapping as removing, detaining, concealing, or enticing away child without good cause and with intent to deprive another's custody rights."
+        },
+        {
+          "number": 2,
+          "title": "Graduated felony classifications based on detention duration",
+          "bodySha256": "0cd3062806793e3bc511e3eb5114e430d9f15fba14b48e9498bbce76fb89fca4",
+          "reviewNote": "Classifies parental kidnapping as class E felony, elevated to class D for 60 to 119 days concealment, and class B for 120 days or longer."
+        },
+        {
+          "number": 3,
+          "title": "Ineffectiveness of subsequent custody or visitation orders",
+          "bodySha256": "a8e2bce8b060ca34e868ed8e35b47eb8a248598970c51f1d8162f4386ac00c95",
+          "reviewNote": "Provides that a subsequently obtained court order for custody or visitation does not affect the application of the section."
+        },
+        {
+          "number": 4,
+          "title": "Restitution for search and return expenses",
+          "bodySha256": "e5dcce02772c1a7b552d10608c17a6602d801f1bff744fc7795016189da53d74",
+          "reviewNote": "Authorizes assessment of restitution for reasonable search and return expenses incurred by legal custodian or parent."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 4 subsections and effective date 1-01-17; parental kidnapping in absence of custody order, graduated class E/D/B felony durations, ineffectiveness of subsequent orders, and permissive restitution verified."
+    },
+    {
+      "id": "565.156:29331",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.156&bid=29331",
+      "sourceSha256": "5112e2aa2a736a76de20114bf57212a5b1aff983cdbef3e93c2a98609d7aacd9",
+      "textSha256": "d56b68a1ad8c7e90702d6396ad77f4383a0bd8f642918bf34f70f575438b2270",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements and prohibited acts of child abduction",
+          "bodySha256": "adaba4617965092d17302fcf74edbc6f1cbab1180b6015d5134b53fc3d5c6563",
+          "reviewNote": "Enumerates acts constituting child abduction during pending domestic proceedings, visitation overstays, paid abduction, retention, or unauthorized relocation."
+        },
+        {
+          "number": 2,
+          "title": "Class E felony classification",
+          "bodySha256": "45343f1a91adbbdb206298ae4c0d8cb70234ef6ecb32b5100727615b4715781a",
+          "reviewNote": "Classifies child abduction as a class E felony."
+        },
+        {
+          "number": 3,
+          "title": "Restitution for search and return expenses",
+          "bodySha256": "cf7a57ad21c00d215d235a774ca28867e77fae7cef7fb13e2fc568c51ca36f71",
+          "reviewNote": "Authorizes assessment of restitution for reasonable expenses incurred in searching for or returning the child."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections and effective date 1-01-17; five child abduction acts (including section 452.377 relocation), class E felony classification, and permissive search/return restitution verified."
+    },
+    {
+      "id": "565.167:29339",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.167&bid=29339",
+      "sourceSha256": "1196b281feabbfc0c0d9fb949f265c56db12eb145b01b7c113bdcba55212b4f2",
+      "textSha256": "604b37e1673b3d401f6d33df6de1609399749a17b581a76cac19902282137604",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Temporary protective custody by peace officer upon risk of flight",
+          "bodySha256": "47a02844016055d948493df7e2ed608ce6f018bd4c39b77055bfe720f998e831",
+          "reviewNote": "Authorizes peace officer investigating custody interference, parental kidnapping, or abduction to take child into protective custody upon flight risk."
+        },
+        {
+          "number": 2,
+          "title": "Return of child to lawful custodian and protective exceptions",
+          "bodySha256": "660a188ae9eeaec8a0a55fd960f0dfb2e8bd9ac5e354d4e59cf787f42ad77e0c",
+          "reviewNote": "Directs law enforcement officer to return child to lawful custodian unless good cause exists to retain temporary protective custody under section 210.125."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; permissive peace-officer temporary protective custody upon flight risk and mandatory return to lawful custodian absent section 210.125 good cause verified."
+    },
+    {
+      "id": "565.184:29346",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.184&bid=29346",
+      "sourceSha256": "6a6d24f7a5cdbcf408d17815bd0a8b69f4486de3002b5ff15f2c4c241145a762",
+      "textSha256": "a1b2c7bd0396cc64a3d3074a29c95d0d17d8d1aef46bf33b40247254683e2423",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of abuse of elderly, disabled, or vulnerable person",
+          "bodySha256": "4695ce3a8037ec44bb5d00041bd0d8e8baeea53dd6efa7b311dc01360c10c756",
+          "reviewNote": "Defines abuse of an elderly, disabled, or vulnerable person through repeated emotional distress, intentional care failure, or creating substantial risk."
+        },
+        {
+          "number": 2,
+          "title": "Class A misdemeanor classification and spiritual treatment exception",
+          "bodySha256": "60d0461c8f9359a316b7ed71bc089b66c57b362adb3012191326983afe916110",
+          "reviewNote": "Classifies abuse as class A misdemeanor and clarifies that reliance on spiritual healing through prayer does not constitute abuse."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and effective date 1-01-17; three elder/disabled/vulnerable-person abuse prongs, class A misdemeanor classification, and spiritual-treatment prayer exception verified."
+    },
+    {
+      "id": "565.188:29349",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.188&bid=29349",
+      "sourceSha256": "baa35d7f67c065777803728ad5af6c80c2cebbafb530fc748bf00114eacd7cda",
+      "textSha256": "f6b808297ba3fd42ba5f790f533495273a6f8b2ac21a0f95911b6ebb238b5721",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of failure to report elder abuse or neglect",
+          "bodySha256": "337b17c0029b2efcd08066866ae8ec3332a1a1d5478a859a51123535c9627af5",
+          "reviewNote": "Defines offense of failure to report elder abuse or neglect when a mandated reporter under section 192.2405 knowingly fails to report."
+        },
+        {
+          "number": 2,
+          "title": "Class A misdemeanor classification",
+          "bodySha256": "465dc723a157f95c01ec79464df037a1760a98cb559266aee640ad917cf5c37c",
+          "reviewNote": "Classifies failure to report elder abuse or neglect as a class A misdemeanor."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and effective date 1-01-17; knowing failure to make mandated elder-abuse report under section 192.2405(1)(2) and class A misdemeanor classification verified."
+    },
+    {
+      "id": "565.189:29351",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.189&bid=29351",
+      "sourceSha256": "1a126ab2646877306850f8d1c304f493f2f6e3fd6d91d79ee8a6fdc54078f5b5",
+      "textSha256": "ab57920b4a9c1595c5d8a39e582769cbb48092b3170d6270b4fb3f49a5aba46d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of filing a false elder abuse or neglect report",
+          "bodySha256": "ead1b9de8372e0aa47f9dddf2fbf2ff29a3387370868d9b9abbd9beff02d9047",
+          "reviewNote": "Defines offense of filing a false elder abuse or neglect report as knowingly filing a false report."
+        },
+        {
+          "number": 2,
+          "title": "Classification and felony enhancement for repeat offenders",
+          "bodySha256": "40615dcd649893e0b8ad30d0fe1b3a4353a971c6289bc201939f298fc5e64d97",
+          "reviewNote": "Classifies false reporting as a class A misdemeanor, enhanced to class E felony upon prior findings of guilt for making false reports."
+        },
+        {
+          "number": 3,
+          "title": "Judicial hearing on prior findings of guilt outside jury presence",
+          "bodySha256": "a4dad2ff66fd621ef60bdc4d6cf58ea089ac365099baa38cc0b74b8c490d6e41",
+          "reviewNote": "Requires court to hear and determine evidence of prior false reporting findings of guilt outside the jury's hearing before submission."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections and effective date 1-01-17; false elder abuse/neglect report elements, class A/class E repeat enhancement, and outside-jury judicial hearing on prior findings verified."
+    },
+    {
+      "id": "565.218:29361",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.218&bid=29361",
+      "sourceSha256": "e0c7798cb13c4dfd27a7759e7fad79b829210741538e6e018b17cc89ac4b4835",
+      "textSha256": "bd19a4c4eef74427b7c1285c30cbfb63c67bf5b685886e9589e370c626e71888",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of failure to report vulnerable person abuse or neglect",
+          "bodySha256": "4574629a7cdcc86bf3b951802340a85501f3ee27e2919d5044a99972e5d84b93",
+          "reviewNote": "Defines offense of failure to report vulnerable person abuse or neglect when a mandated reporter under section 630.162 knowingly fails to report."
+        },
+        {
+          "number": 2,
+          "title": "Classification, fines, school fund deposit, and repeat felony enhancement",
+          "bodySha256": "18fd06174af4d9d74c20ced48e2692d9d816be52197ae4f8e383a893457d6a0c",
+          "reviewNote": "Classifies failure to report as class A misdemeanor with fine up to $1,000, enhanced to class E felony and $5,000 fine for repeats, dedicated to schools."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and effective date 1-01-17; knowing failure to report under section 630.162, class A ($1,000) / repeat class E ($5,000) penalties, and state school moneys fund transfer (sections 166.051/163.031) verified."
+    },
+    {
+      "id": "565.222:29364",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.222&bid=29364",
+      "sourceSha256": "6ee4ded3e23d9dc110fbca732d23ec0606350869bccf7879fbade12301280aac",
+      "textSha256": "c8c94feb1668287aa8afee2831dbb7ebfc9d12926560d0d20fcdd4479bd08059",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of filing a false vulnerable person abuse report",
+          "bodySha256": "4e1f90d8e67cb42a2ac34a4c7be031f383dd5f2f4128ee817085148867f4e297",
+          "reviewNote": "Defines offense of filing a false vulnerable person abuse report as knowingly filing a false report of abuse or neglect."
+        },
+        {
+          "number": 2,
+          "title": "Classification, fines, school fund deposit, and repeat felony enhancement",
+          "bodySha256": "1d3d8554275332b6d566a954c2c7b38cbc9a861c971924a0e39b3cb8eae86779",
+          "reviewNote": "Classifies false reporting as class A misdemeanor with fine up to $1,000, enhanced to class E felony and $5,000 fine for repeats, dedicated to schools."
+        },
+        {
+          "number": 3,
+          "title": "Judicial hearing on prior findings of guilt outside jury presence",
+          "bodySha256": "5155cd66f6ef7a72156822937b9125c18dc682b159237ad31cef402bde5eb72a",
+          "reviewNote": "Requires court to hear and determine evidence of prior findings of guilt outside the jury's hearing prior to case submission."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections and effective date 1-01-17; false vulnerable-person abuse report elements, class A ($1,000) / repeat class E ($5,000) penalties dedicated to public schools, and outside-jury prior-findings hearing verified."
+    },
+    {
+      "id": "565.225:34708",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.225&bid=34708",
+      "sourceSha256": "4394b310d80adeb69c4d35110f01d1ecc4660d9afb9456238b6cf8ad634ef2da",
+      "textSha256": "819ec1dd910d43d79c9f23b35697d09681084d74f239654fcc131226d5389fd8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of disturbs",
+          "bodySha256": "443fc99a021acde6d3212323865cae1f8f2474b2e65f325e6e7bc67837f0b37a",
+          "reviewNote": "Defines disturbs as course of conduct serving no legitimate purpose causing a reasonable person to feel frightened, intimidated, or emotionally distressed."
+        },
+        {
+          "number": 2,
+          "title": "Elements and aggravating conditions of stalking in the first degree",
+          "bodySha256": "04db5e1042f2f1678bc7b1138adc8d38fa43ce7ed3ac46bedf4d1154fe98780d",
+          "reviewNote": "Defines first degree stalking as purposeful disturbing conduct accompanied by threats, order violations, age disparity, prior offenses, or address tampering."
+        },
+        {
+          "number": 3,
+          "title": "Warrantless arrest upon probable cause",
+          "bodySha256": "07e7c790ec12878986a939ee3d23edd71c41766d977145d8f4a116105b679db9",
+          "reviewNote": "Authorizes law enforcement officers to arrest without a warrant any person supported by probable cause of first degree stalking."
+        },
+        {
+          "number": 4,
+          "title": "Law enforcement investigation exemption",
+          "bodySha256": "2cb5cda91e4303e1950c2f6394dd956089aa3d248fe4b4b3bf56f87765ee67b7",
+          "reviewNote": "Exempts activities of federal, state, county, or municipal law enforcement officers conducting official law enforcement investigations."
+        },
+        {
+          "number": 5,
+          "title": "Classification and enhancement for repeat offenders or targeted officers",
+          "bodySha256": "adefbbf85ea7a8cb787e8c23f5e1a2103fdffa9023215d5eee46575639e7b075",
+          "reviewNote": "Classifies first degree stalking as a class E felony, enhanced to class D for repeat stalking or targeting law enforcement personnel or family."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 5 subsections and Revisor's dual-version note; pre-2027 first-degree stalking version ('disturbs' definition plus 6 aggravating prongs) distinguished from restructured 7-01-27 version 565.225:60743."
+    },
+    {
+      "id": "565.225:60743",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.225&bid=60743",
+      "sourceSha256": "e3a85a85b8410d579ae3691e906bb86857c57878980363f5129ad0ab2e942d59",
+      "textSha256": "3fd3c253ce7a728ba23b219c5761bddb2d116d362dca588d5df4ec47a7cc4e43",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of first degree stalking and technological abuse",
+          "bodySha256": "9a0d2e4beea7fee6c17c019d21da672f3d1a37f7514b8252bc485d5ccc79c90e",
+          "reviewNote": "Defines first degree stalking through course of conduct or technological abuse inducing reasonable fear of harm, family harm, property harm, or terror (effective 7-01-27)."
+        },
+        {
+          "number": 2,
+          "title": "Warrantless arrest upon probable cause",
+          "bodySha256": "68fd53a9b7b8528d7492aed599258c76404cd3c9452a8be7d9151f9c0b96b906",
+          "reviewNote": "Authorizes law enforcement officers to arrest without a warrant any person supported by probable cause of first degree stalking."
+        },
+        {
+          "number": 3,
+          "title": "Law enforcement investigation exemption",
+          "bodySha256": "f134bff1c6208ce19699abe385f88215fae2e788cfb4aab40fa39b09e47f43b2",
+          "reviewNote": "Exempts activities of federal, state, county, or municipal law enforcement officers conducting official law enforcement investigations."
+        },
+        {
+          "number": 4,
+          "title": "Classification and enhancement for repeat offenders or targeted officers",
+          "bodySha256": "1a0dcd9173553d1a8520277145c7bd7f06bb79394f858e3a799f7aad0d85b8b9",
+          "reviewNote": "Classifies first degree stalking as a class E felony, enhanced to class D for repeat stalking or targeting law enforcement personnel or family (effective 7-01-27)."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 4 subsections, delayed effective date 7-01-27 (§ 565.019), and severability/nonseverability notes; refined subsection 1 title to highlight technological abuse and 4-prong reasonable-fear/harassment rewrite distinguishing it from 565.225:34708."
+    },
+    {
+      "id": "565.227:34709",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.227&bid=34709",
+      "sourceSha256": "ceb66b9ab364da6606ae4b612a7476f8f3877911a981fdb61305aae79228c99a",
+      "textSha256": "50efb947c20ae67a591329225bff6d810dcef425563663791f32f4489597940c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of stalking in the second degree",
+          "bodySha256": "801a63ac213e310e0aa885f63658b61aeebc21cc41f4a163c040bf2306623f09",
+          "reviewNote": "Defines second degree stalking as purposely disturbing or following another person with intent to disturb through a course of conduct."
+        },
+        {
+          "number": 2,
+          "title": "Law enforcement investigation exemption",
+          "bodySha256": "f72b93833eea26ab11adc45d7f83fdc3653af257a5fd27d280a93b3809b257a5",
+          "reviewNote": "Exempts activities of federal, state, county, or municipal law enforcement officers conducting official law enforcement investigations."
+        },
+        {
+          "number": 3,
+          "title": "Warrantless arrest upon probable cause",
+          "bodySha256": "07e7c790ec12878986a939ee3d23edd71c41766d977145d8f4a116105b679db9",
+          "reviewNote": "Authorizes law enforcement officers to arrest without a warrant any person supported by probable cause of second degree stalking."
+        },
+        {
+          "number": 4,
+          "title": "Classification and enhancement for repeat offenders or targeted officers",
+          "bodySha256": "2a818679872dffd085f42867f3d4086f983307da7aa180c0f064faad38410093",
+          "reviewNote": "Classifies second degree stalking as a class A misdemeanor, enhanced to class E felony for repeat stalking or targeting law enforcement personnel or family."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 4 subsections and Revisor's dual-version note; pre-2027 second-degree stalking version (purposeful disturbing course of conduct) distinguished from 7-01-27 version 565.227:60744."
+    },
+    {
+      "id": "565.227:60744",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.227&bid=60744",
+      "sourceSha256": "ca94f244ac7bcaec2153024064ed908e1b78b4b422fcf24b27120e7f6879a81d",
+      "textSha256": "575b72552330b9dfa0e7aee6ea3953b5bd1ecac7e7c040c8d9e4663bf15c4b3c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of second degree stalking and technological abuse",
+          "bodySha256": "aedd54e2d22e6df975ec06e4136ee6163e3fcd3bb072da1c74bba6c1726a0c10",
+          "reviewNote": "Defines second degree stalking as knowingly engaging in targeted course of conduct or technological abuse causing a reasonable person to feel harassed, terrified, or intimidated (effective 7-01-27)."
+        },
+        {
+          "number": 2,
+          "title": "Law enforcement investigation exemption",
+          "bodySha256": "f72b93833eea26ab11adc45d7f83fdc3653af257a5fd27d280a93b3809b257a5",
+          "reviewNote": "Exempts activities of federal, state, county, or municipal law enforcement officers conducting official law enforcement investigations."
+        },
+        {
+          "number": 3,
+          "title": "Warrantless arrest upon probable cause",
+          "bodySha256": "07e7c790ec12878986a939ee3d23edd71c41766d977145d8f4a116105b679db9",
+          "reviewNote": "Authorizes law enforcement officers to arrest without a warrant any person supported by probable cause of second degree stalking."
+        },
+        {
+          "number": 4,
+          "title": "Classification and enhancement for repeat offenders or targeted officers",
+          "bodySha256": "2a818679872dffd085f42867f3d4086f983307da7aa180c0f064faad38410093",
+          "reviewNote": "Classifies second degree stalking as a class A misdemeanor, enhanced to class E felony for repeat stalking or targeting law enforcement personnel or family (effective 7-01-27)."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 4 subsections, delayed effective date 7-01-27 (§ 565.019), and severability/nonseverability notes; refined subsection 1 title and note to match knowing technological abuse and 'harassed, terrified, or intimidated' wording distinguishing it from 565.227:34709."
+    },
+    {
+      "id": "565.240:54052",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.240&bid=54052",
+      "sourceSha256": "d1b778ad767965afde947e84c75529fd3b6c9247f025b9748419ab9db1405b5d",
+      "textSha256": "38873b84d03a305696a3b1e2bc3c5b1bacb434ac4a78491adae57f25508b452c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of unlawful posting of personally identifiable information online",
+          "bodySha256": "aae0ef2f3754721ce372839f72e83f9f28f15d28d0273feb57b6b2f3452dc2cd",
+          "reviewNote": "Defines offense of knowingly posting personally identifiable information online intending or threatening to cause great bodily harm or death."
+        },
+        {
+          "number": 2,
+          "title": "Classification and felony enhancements for protected officials or resulting harm",
+          "bodySha256": "8b4c0f3d5985d528f08d541f03724182c123a82a71ce7e390a1a0d78524b1957",
+          "reviewNote": "Classifies online posting as class C misdemeanor, elevated to class E felony for protected justice officials/family, and class D felony if harm results."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, transfer note (formerly 578.450, eff. 1-01-17), and 2023 S.B. 103 amendment; online PII posting with intent/threat of great bodily harm or death and class C/E/D enhancements for justice officials and resulting harm verified."
+    },
+    {
+      "id": "565.252:29371",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.252&bid=29371",
+      "sourceSha256": "00e7f2b8ae647b4487a6cead27b2cd86732a7174258ff4952d8604ba769f5260",
+      "textSha256": "f507f8ace24c8209cba5bb1ddadd52cd43b39c22908801cbb2614bf6ebbaf8fc",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of invasion of privacy",
+          "bodySha256": "c5edf4476f307d7505f43e5fd5e0e3124d4663135654ccdcbf5edfe7723d35b2",
+          "reviewNote": "Defines invasion of privacy as nonconsensual photography or recording of a person in nudity where privacy is expected or under/through clothing."
+        },
+        {
+          "number": 2,
+          "title": "Classification and felony enhancements for dissemination, multiple victims, or repeats",
+          "bodySha256": "f3987ebdd644475adc295fa0885702e1a3df01b3f530a6d67e0206a6ccd87a7d",
+          "reviewNote": "Classifies invasion of privacy as a class A misdemeanor, enhanced to class E felony upon distribution, dissemination, multiple victims, or prior conviction."
+        },
+        {
+          "number": 3,
+          "title": "Pleading and proof requirements for prior findings of guilt",
+          "bodySha256": "189a6e986b69259d6879a93ce219650aad3ec58782014e7c7cf9f0258fe7a984",
+          "reviewNote": "Requires prior findings of guilt to be pleaded and proven pursuant to the procedures set out in section 558.021."
+        },
+        {
+          "number": 4,
+          "title": "Definition of same course of conduct",
+          "bodySha256": "550e140b70a1a1e7a1bddc0179c4cf888530013f84d3fbfb9813e0533e19bd0b",
+          "reviewNote": "Defines same course of conduct as viewing, photographing, filming, or videotaping more than one person under similar circumstances pursuant to one scheme."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 4 subsections and effective date 1-01-17; invasion of privacy elements, class A/class E enhancements (distribution, dissemination, multiple victims, repeat), section 558.021 prior-proof rule, and 'same course of conduct' definition verified."
+    },
+    {
+      "id": "565.258:54809",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.258&bid=54809",
+      "sourceSha256": "cce3a07ebddae7bc8f5727ad316d902a8325f88edbdcaec8f107675e001922f1",
+      "textSha256": "b8b23d4921809231646fa8c5000f3c42dd9ecf5edfa1606c8925606ddf3019b5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Creation and composition of Stop Cyberstalking and Harassment Task Force",
+          "bodySha256": "f46d3e7734c49c6b24a19020208089395227a06dddbff60fbb9035eadd0d6410",
+          "reviewNote": "Creates the Stop Cyberstalking and Harassment Task Force and specifies its legislative, executive, law enforcement, judicial, and public membership."
+        },
+        {
+          "number": 2,
+          "title": "Task force chairperson election, initial meeting, and expenses",
+          "bodySha256": "399bd92b1d5563d96034c4d788b2ddbcad1e88c1336dfeee98263f0456a80132",
+          "reviewNote": "Directs majority election of a chairperson, mandates an initial meeting before October 1, 2024, and authorizes reimbursement of actual meeting expenses."
+        },
+        {
+          "number": 3,
+          "title": "Stakeholder feedback collection on victim treatment and prevention",
+          "bodySha256": "bd3116d1ead4d49a3389300d57a0ed0d60b0e0b1dddb9a1f1a238ab3420193de",
+          "reviewNote": "Directs task force to gather stakeholder feedback to develop best practices for victim treatment and stopping cyberstalking and harassment."
+        },
+        {
+          "number": 4,
+          "title": "Mandatory study areas and legislative recommendations",
+          "bodySha256": "1d2aca22ab71f5917332e30513236bd01001fcbcbc13e4d3b41105f950d60161",
+          "reviewNote": "Charges task force with studying and recommending measures on law enforcement training, interagency coordination, forensic tools, and victim services."
+        },
+        {
+          "number": 5,
+          "title": "Administrative support by department of public safety",
+          "bodySha256": "215f97f158f7e46e61865508801fef8a4fc8dfe52692b9c8a78549d2b4776548",
+          "reviewNote": "Designates the department of public safety to provide administrative support to the task force."
+        },
+        {
+          "number": 6,
+          "title": "Annual reporting deadline to governor and general assembly",
+          "bodySha256": "951ab008f2532af54f9753d4a1047c322ceafe23cd3af777a1c16c771a5120c8",
+          "reviewNote": "Requires task force to submit an annual report of its findings to the governor and general assembly on or before December 31."
+        },
+        {
+          "number": 7,
+          "title": "Expiration date and administrative extension authorization",
+          "bodySha256": "13680142e5f61ab3a4c8929ed767f7db82f9106f5561a38cc04ebdb333c89d1e",
+          "reviewNote": "Establishes task force expiration on December 31, 2026, permitting administrative extension by the department of public safety until December 31, 2028."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 7 subsections and L. 2024 S.B. 754 history; Stop Cyberstalking and Harassment Task Force membership, initial meeting before Oct 1, 2024, study/reporting duties, DPS support, and Dec 31, 2026 (extendable to Dec 31, 2028) expiration verified."
+    },
+    {
+      "id": "565.260:60706",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.260&bid=60706",
+      "sourceSha256": "7b2b8fedd08901f1802ae41e7452d09da1dbd2e903ffde155a56c74d230d0e98",
+      "textSha256": "fcc9c95319af8e5b9418dfb72c94f8454a800df173d3d7a85253b9f351bd3a75",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of unlawful tracking of a motor vehicle",
+          "bodySha256": "5e7daa6339879a42de63f1dd4472437ef7c83fd01f53815714aee17a81c2174c",
+          "reviewNote": "Defines unlawful tracking as placing an electronic tracking device on a motor vehicle without all owners' consent to monitor occupants, excluding manufacturers."
+        },
+        {
+          "number": 2,
+          "title": "Exempted tracking activities, parental monitoring, and commercial exceptions",
+          "bodySha256": "ebb908df7a4b366f0c4c92efe23bb51bcd27d095e428033b087c23bc4e8e2622",
+          "reviewNote": "Enumerates statutory exemptions for law enforcement, parents monitoring minors, stolen property recovery, guardians, rental fleets, lienholders, and insurance."
+        },
+        {
+          "number": 3,
+          "title": "Inapplicability to manufacturer-installed tracking systems",
+          "bodySha256": "b02fb776b126dcd03b83cdfe3ff1630650f1bd8fded2e11db3834361d73e11e7",
+          "reviewNote": "Excludes manufacturer-installed vehicle tracking systems from statutory tracking prohibitions."
+        },
+        {
+          "number": 4,
+          "title": "Classification and felony enhancement for repeat offenses",
+          "bodySha256": "c74a21ba2622b501e6eb242ec779a1320a814e07a4e96e6167d8f2549711cb42",
+          "reviewNote": "Classifies unlawful tracking as a class A misdemeanor for a first offense and a class E felony for repeat offenses."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 4 subsections, delayed effective date 07-01-27 (§ 565.019), and severability clause (§ 1.1005); unlawful motor vehicle tracking elements, 8 statutory exemptions, manufacturer exclusion, and class A/class E repeat penalties verified."
+    },
+    {
+      "id": "565.300:29377",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.300&bid=29377",
+      "sourceSha256": "bfe7f11664a8bfde367d3896c15b831d7736dfaf332f2cb5b69c330512491701",
+      "textSha256": "1f85ed8d2e0357f279a30018a6c339a949d166e8c6a7686a6ef81b9f19d8531f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Statutory title and citation as Infant's Protection Act",
+          "bodySha256": "5bb2d6002b8b2d7d8c84d54c63c46c75ea8a048b98aaf27289e1a0d1f359f892",
+          "reviewNote": "Designates the section as the Infant's Protection Act."
+        },
+        {
+          "number": 2,
+          "title": "Definitions of born, living infant, and partially born",
+          "bodySha256": "592aabc676188bdfd98b5af6a767eff5efb6975158c712a389bf6ae4a3257e8a",
+          "reviewNote": "Defines statutory terms born, living infant (under thirty days post birth), and partially born based on anatomical delivery landmarks."
+        },
+        {
+          "number": 3,
+          "title": "Elements of the offense of infanticide",
+          "bodySha256": "c5bf9a52ca3038268955bfee6c0d262b2b318b529b5857a92dcc45f827cbd800",
+          "reviewNote": "Defines infanticide as purposefully causing the death of a living infant through an overt act performed when the infant is born or partially born."
+        },
+        {
+          "number": 4,
+          "title": "Class A felony classification",
+          "bodySha256": "cbfab79cca227ed110acf35b88656edcfcb4d1167ba0c3c500756df9dd7adee8",
+          "reviewNote": "Classifies the offense of infanticide as a class A felony."
+        },
+        {
+          "number": 5,
+          "title": "Medical life-saving exceptions and maternal nonresponsibility",
+          "bodySha256": "46b8c1fccf11119f1b61b0c55ff35d9eea0a2ef9ffd1b7d66cd49be2085542d8",
+          "reviewNote": "Excludes criminal responsibility for physicians performing customary life-saving procedures for mother or unborn/partially born child, and for mothers when the physician is not criminally responsible."
+        },
+        {
+          "number": 6,
+          "title": "Exemption for abortion acts performed prior to partial birth",
+          "bodySha256": "7414f92f49d0d3bface5df59c5e06b5dadca9d5062f8261437fbb3f7d21fae69",
+          "reviewNote": "Clarifies that the section does not apply to legal abortion acts performed prior to the child being partially born."
+        },
+        {
+          "number": 7,
+          "title": "Limitation of culpability to overt acts and substantial steps",
+          "bodySha256": "cf15ea09e53c6d33ca1deb26256054b4e03844880d08c830919b7c2ed876d586",
+          "reviewNote": "Limits criminal culpability to persons performing the overt act or taking a substantial step with purposeful intent resulting in infant death."
+        },
+        {
+          "number": 8,
+          "title": "Preservation of statutory criminal defenses",
+          "bodySha256": "e58cbb8d40ff9fafee11964e88dc88cb58b1d34189ff866b507339ddd187246d",
+          "reviewNote": "Preserves general criminal responsibility and justification defenses provided under chapters 562 and 563."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 8 subsections, effective date 1-01-17, and 2 case annotations (2002 State v. RHS; 2004 RHS of Planned Parenthood v. Nixon holding section unconstitutional for lacking maternal health exception); refined subsection 5 title to 'maternal nonresponsibility'."
+    },
+    {
+      "id": "565.400:60745",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.400&bid=60745",
+      "sourceSha256": "bfc7432214585b34b71494e08f5fa16f4cb223081367959563415fcaafbe2605",
+      "textSha256": "6072db9a2d743b2658497f7b810f5aaebd5e0026c49c1ef5cd4bcecfc6aaf805",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of cyberharassment through digital communications",
+          "bodySha256": "816e1e2ce2bed7273da3ff4e22806bb23e8aab955b377fce1a0707cd73d601cb",
+          "reviewNote": "Defines cyberharassment as purposeful or knowing fear-inducing electronic conduct causing reasonable fear, anxiety, or terror by repeated contact without legitimate purpose."
+        },
+        {
+          "number": 2,
+          "title": "Classification and enhancement for repeat offenses",
+          "bodySha256": "2f325f0fc7ae2061b24729774e3f43ccbeff868b19078780994a06948e75bdd4",
+          "reviewNote": "Classifies cyberharassment as a class B misdemeanor for a first offense and a class A misdemeanor for second or subsequent offenses."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, delayed effective date 7-01-27 (§ 565.019), and severability/nonseverability notes; cyberharassment digital course-of-conduct elements and class B/class A repeat misdemeanor classifications verified."
+    },
+    {
+      "id": "565.405:60746",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=565.405&bid=60746",
+      "sourceSha256": "cb74f60f643fc0af064d29e89d032330e701feb6d464729b292da6c679ac4a21",
+      "textSha256": "9a75b70519e03bc91bfa9eaa94f25e2a441fdc9334327723d90e745079f5ec3f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_13",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of cyberstalking using electronic devices",
+          "bodySha256": "f7364f076dc5eac4699005a20b58759efb757f3b949cbd14afa6a84d3a6c81c5",
+          "reviewNote": "Defines cyberstalking as purposeful or knowing electronic conduct enhancing the ability to intimidate, track, follow, or induce reasonable fear or terror."
+        },
+        {
+          "number": 2,
+          "title": "Classification and felony enhancement for repeat offenses",
+          "bodySha256": "84dd6d09cb137aae63395809011f2dd36125debccc78beb3c2bdcfec95f0fa77",
+          "reviewNote": "Classifies cyberstalking as a class A misdemeanor for a first offense and a class E felony for second or subsequent offenses."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, delayed effective date 7-01-27 (§ 565.019), and severability/nonseverability notes; cyberstalking electronic-device elements and class A misdemeanor / class E repeat felony classifications verified."
+    }
+  ]
+}

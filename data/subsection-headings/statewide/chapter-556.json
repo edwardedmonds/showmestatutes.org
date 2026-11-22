@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "556.021:54806",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=556.021&bid=54806",
+      "sourceSha256": "81ed05407d26bce4f21dc050c7d8cb85c321b262cacbe5d2d9a062d90ce6afe7",
+      "textSha256": "9dc4231416d99da2af158ed8025d6dc1b10a5dae10c639dcc96faf5f1a3921f9",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Infractions not criminal offenses and no legal disability",
+          "bodySha256": "ed9a0bf4a23777c1decbf038b1b996122df9970d85b0db9eb0ae59be214cfe3b",
+          "reviewNote": "Specifies that an infraction is not a criminal offense and conviction creates no criminal-conviction disability or legal disadvantage."
+        },
+        {
+          "number": 2,
+          "title": "Misdemeanor procedure applicable to infractions",
+          "bodySha256": "2b2f1782b548bd8d81d51a9bcab547dbef28d401851f437efaa4907ce7b52e4c",
+          "reviewNote": "Applies misdemeanor procedure to infractions except as otherwise provided by law."
+        },
+        {
+          "number": 3,
+          "title": "Default judgment for failure to appear or respond and motion to set aside",
+          "bodySha256": "fddc2c68f321808043a2dc19feaf38a400600c02e0528b6adbf430d8071c7174",
+          "reviewNote": "Permits default judgment for fines and costs upon failure to appear or respond to section 476.385 central violations bureau notice absent good cause/excusable neglect, enforceable under sections 488.5028/488.5030 with first-class mail notice and six-month set-aside motion."
+        },
+        {
+          "number": 4,
+          "title": "Arrest warrant authority for infractions and chapter 307 exception",
+          "bodySha256": "84e4b9ef7f1c20c09fe3dbad4585c0082f23a6251ec5d6ff0d637da0a4e4f8c6",
+          "reviewNote": "Permits court to issue a warrant for failure to appear on an infraction notwithstanding subsection 3, except for infractions under chapter 307."
+        },
+        {
+          "number": 5,
+          "title": "Judgment amount limited to statutory fine and court costs",
+          "bodySha256": "908d201be32432dcbabce709cf3a2fe7fa8ff643331007b57484c4b52b2b510a",
+          "reviewNote": "Limits infraction judgment against defendant to the authorized fine and court costs for the offense."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 5 subsections and statutory history; revised subsection 4 title to reference chapter 307 directly and verified noncriminal infraction status, misdemeanor procedure, default judgments, and fine/cost limits."
+    },
+    {
+      "id": "556.031:29040",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=556.031&bid=29040",
+      "sourceSha256": "69bc4cfa8a6d318879138c53ec11cb9b7ed385985e2f93a7f84236d3e120a547",
+      "textSha256": "a64d8536e9fbeea14731c770283adfe5ae4c489121790eb3489c148459d1c56b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application of criminal code to offenses committed after January 1, 1979",
+          "bodySha256": "465be9af44410735fe54093f7c956bc43cfc3f5e0c8016176adb52db9a9e4fc0",
+          "reviewNote": "Provides that criminal code provisions govern construction, punishment, and defenses for code offenses committed after January 1, 1979."
+        },
+        {
+          "number": 2,
+          "title": "Construction of non-code offenses committed after January 1, 1979",
+          "bodySha256": "337e896a88fd20ce594b61cdaea9c547f431611bdeb01acecfe72e0df54d5e01",
+          "reviewNote": "Keeps unrepealed non-code offenses in effect while applying code construction and defense rules to those committed after January 1, 1979 unless otherwise provided or context requires."
+        },
+        {
+          "number": 3,
+          "title": "Inapplicability of criminal code to pre-1979 offenses",
+          "bodySha256": "969367fa0163d741d4ff132bf3ef1594b8f5fe63f870b17d14aaa3ea142283e5",
+          "reviewNote": "Excludes offenses committed before January 1, 1979 from the code, requiring construction and punishment under prior law notwithstanding section 1.160."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections, statutory history, and effective date 1-01-79; post-1979 code and non-code offense construction and pre-1979 exclusion notwithstanding section 1.160 verified."
+    },
+    {
+      "id": "556.036:35630",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=556.036&bid=35630",
+      "sourceSha256": "a99272f1e6ae2a177de8da9c667cef9430f352d467cb0357ba5bd84630becbb3",
+      "textSha256": "c5cbed171dea6263a3f24be41bc4040946a0886f2ef4be716d55cc615879300e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "No statute of limitations for murder, class A felonies, and sex offenses",
+          "bodySha256": "016a9043122dca865eb2c27b30e5fadee29adc0ccde8e43ce654b6626a67e40c",
+          "reviewNote": "Permits commencing prosecution at any time for murder, first-degree or forcible rape or sodomy (and attempts), or any class A felony."
+        },
+        {
+          "number": 2,
+          "title": "General statutes of limitations for felonies, misdemeanors, and infractions",
+          "bodySha256": "3457884ebfda2f20da01ca6eeae6132c2a09434f06973b98fc1e09e4016f06c5",
+          "reviewNote": "Sets default limitation periods at three years for felonies, one year for misdemeanors, six months for infractions, and five years for class B felony section 569.040 or section 569.050/569.055 violations."
+        },
+        {
+          "number": 3,
+          "title": "Extended limitations periods for fraud, official misconduct, and child support fraud",
+          "bodySha256": "cd05f6f71aa57d06987c6f77863d76cb29865a547bcb5517cafbd8137ab039b9",
+          "reviewNote": "Permits extended prosecutions (capped at three extra years) for fraud/fiduciary breach (including sections 407.511–407.556), public official misconduct, and willful fraudulent child support arrearage claims."
+        },
+        {
+          "number": 4,
+          "title": "Time of commission of offense and continuous course of conduct",
+          "bodySha256": "70329cc42d68eecc9e242cd0ec6c70a6c907935978f6f0f95d5cfce460f451cf",
+          "reviewNote": "Defines offense commission as when every element occurs or continuing conduct terminates, with time starting the day after commission."
+        },
+        {
+          "number": 5,
+          "title": "Commencement of prosecution for felonies, misdemeanors, and infractions",
+          "bodySha256": "9d6939bb7eadf131f76c3b7cd66627575053ebe7cd1d623cb811a019619c5b7d",
+          "reviewNote": "Defines prosecution commencement as information filing for misdemeanors or infractions and complaint or indictment filing for felonies."
+        },
+        {
+          "number": 6,
+          "title": "Tolling of limitations period for absence, concealment, pending cases, or DNA identification",
+          "bodySha256": "2a7dc8ef1ae3281e8cdef6a24ce60b123191fdc5c57857b772aa9b4b0a151172",
+          "reviewNote": "Tolls limitations during absence from state (max three-year extension), concealment, pending Missouri prosecution, section 552.020 mental unfitness, or period from published DNA profile report until named match."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 6 subsections, statutory history, and 2 case annotations (State v. Meeks, State v. Mixon); refined subsection 2 note to cite sections 569.040, 569.050, and 569.055 directly and verified limitations, extensions, commencement, and DNA/absence tolling."
+    },
+    {
+      "id": "556.037:35631",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=556.037&bid=35631",
+      "sourceSha256": "38328d9a26c3bb928a490f077927d8701b61d49cbce3214834f21653cf61f748",
+      "textSha256": "e0a7297bde1bf976a421efe58f0f4070d57cbc0d343187fb9ad628302c5fc95b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "No time limitation for sexual offenses involving age eighteen or under",
+          "bodySha256": "7c044edf91e37119af01ebf9607a99d1e2a8103c0631d616d0b789299eecd0e5",
+          "reviewNote": "Permits commencing prosecutions at any time notwithstanding section 556.036 for unlawful sexual offenses involving a person eighteen years of age or under (note catchline says 'under eighteen')."
+        },
+        {
+          "number": 2,
+          "title": "Scope of sexual offenses including mandatory sex offender registry offenses",
+          "bodySha256": "b63b285146ee0f97539ff172dbd439f73863cc8997d01e92c351db7aaa9d31d2",
+          "reviewNote": "Clarifies that 'sexual offenses' includes all offenses requiring registration under sections 589.400 to 589.425 without limitation."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, statutory history, and 2 cross-references (537.046, 516.371); revised subsection 1 title to reflect exact body scope ('eighteen years of age or under' vs catchline 'under eighteen')."
+    },
+    {
+      "id": "556.046:51056",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=556.046&bid=51056",
+      "sourceSha256": "eca0a8cb792a7673df64359c8737d74c785f1b7d6f1a41c32177a50804b652c6",
+      "textSha256": "f5b8db8f58a2e8bfca0f9682bb36860abfd29905bb8c9ae651b3e96f13b1834b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conviction of included offenses and statutory definitions",
+          "bodySha256": "e0b207057cb62152760b609b23c3aa7cb4123c914ec20d7d323169222ed34603",
+          "reviewNote": "Permits conviction of an included offense defined by same/fewer facts, statutory lesser-degree denomination, or attempt."
+        },
+        {
+          "number": 2,
+          "title": "Rational basis requirement for jury charge on included offenses",
+          "bodySha256": "9521fa91eab870d8aa0f53d7bcc57fb9716c02bec75ca38f248ae17368e3ae88",
+          "reviewNote": "Provides court is not obligated to instruct on an included offense absent a rational basis to acquit of the charged offense and convict of the included offense, defining 'charged' offense."
+        },
+        {
+          "number": 3,
+          "title": "Mandatory instruction on requested included offense with rational basis",
+          "bodySha256": "7b39a04708bd5dc4edd3f6aa85cefc008b75d697b533c5bfeed45dcf7dc85254",
+          "reviewNote": "Obligates court to instruct on a particular included offense only if requested and a rational evidentiary basis exists to acquit of the immediately higher included offense and convict of that offense."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections, statutory history, and 2 case annotations (Wilkerson, Hill); included-offense definitions, rational-basis instruction rule, and requested-instruction duty for immediately higher included offenses verified."
+    },
+    {
+      "id": "556.101:29058",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=556.101&bid=29058",
+      "sourceSha256": "ea3bc2c746418bf1fdcafcf56310f321a45db2671372b2245c3ec63a51640271",
+      "textSha256": "1c11196b70a56bd8163c786c5053031000c8681aa5818fe32531bc32577a7883",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Lack of victim consent as element in restraint and kidnapping offenses",
+          "bodySha256": "ebd608728953a63ce74633d5751a96e70bb7d4e21368f884bf5d701bbefa41be",
+          "reviewNote": "Establishes lack of victim consent to confinement, movement, or restraint as an element of offenses under sections 565.110 to 565.130."
+        },
+        {
+          "number": 2,
+          "title": "Causes of lack of consent from forcible compulsion or incapacity",
+          "bodySha256": "0d102b1598313d712e048d1f521a055126cffe8c863d32691b64b03067bd14c0",
+          "reviewNote": "Specifies that lack of consent results from forcible compulsion or incapacity to consent."
+        },
+        {
+          "number": 3,
+          "title": "Deemed incapacity to consent for persons under fourteen or incapacitated",
+          "bodySha256": "cbafcb3b0d0b8c9b42c0d5b121ce3163b9f78ce65def7c41fb32c16681545f44",
+          "reviewNote": "Deems a person incapable of consent if less than fourteen years of age or incapacitated."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections, transfer note (formerly 565.100), and effective date 1-01-17; lack-of-consent element for sections 565.110 to 565.130, forcible compulsion/incapacity causes, and under-14/incapacitated deemed incapacity verified."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "550.020:28989",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=550.020&bid=28989",
+      "sourceSha256": "4bfb21321803973fc8bcc39f0258924e259631785af8d11a1c2c6edf435337d7",
+      "textSha256": "e2a0566bd7bd62d1e245ebb85e4c2617795a561d73ce370736357597e1aee53c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "State payment of costs in capital and penitentiary conviction cases",
+          "bodySha256": "1dec5794ebc3b6087eba5f82324e3012df4f34fea77ef6d2bc3da8054dfd1eff",
+          "reviewNote": "Requires state to pay costs (except costs incurred on defendant's behalf) when indigent defendant is convicted in a capital case, sentenced to penitentiary, or under 18 and jailed for a penitentiary-only offense."
+        },
+        {
+          "number": 2,
+          "title": "Sheriff per diem compensation for sequestered felony jury board and lodging",
+          "bodySha256": "ffe638b3aa44026109c46259147b443f0cbdb71075dd7650c1949eda264a6fb8",
+          "reviewNote": "Requires sheriff to furnish sequestered felony juries with board and lodging unless otherwise ordered, allowing up to $3.50 daily per juror and officer in charge taxed as costs paid by state unless recovered from convicted defendant."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; state cost liability for indigent capital/penitentiary/under-18 convictions (excluding defense costs) and sheriff sequestered felony jury board/lodging up to $3.50/day verified."
+    },
+    {
+      "id": "550.120:28998",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=550.120&bid=28998",
+      "sourceSha256": "1f352c37812481511e1156fc7a141620fbb3da30278de2d56fdb0c31f2319a02",
+      "textSha256": "e4725a36c84125a5bf3364f6cc5d31343f7bc07d3e152fa329c2b03e915ee3d0",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Cost liability between counties upon change of venue and fine allocation",
+          "bodySha256": "c25902512f5e14ce1e23391609d97b8f13ea0c027f6dc23bf05f82529e877d81",
+          "reviewNote": "Requires originating county to pay trial and jail-confinement costs to receiving county on change of venue (except improper venue transfer) and directs criminal fines and bond forfeitures to originating county's public school fund."
+        },
+        {
+          "number": 2,
+          "title": "Statutory definition of costs in venue change proceedings",
+          "bodySha256": "60cbd2137cab58872a7167cb5f514fb5efcb9d45645d703a98cf617356ec7d2f",
+          "reviewNote": "Defines 'costs' for this section to include statutory civil/criminal costs, direct defendant/court/jury/witness care and security salaries, chapter 494 jury expenses, and other judge-approved necessary trial expenses."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, statutory history, and 2 cross-references (545.620, 221.260); inter-county change-of-venue cost reimbursement (excluding improper-venue transfer), originating-county school fund fines, and four-part costs definition verified."
+    },
+    {
+      "id": "550.260:29011",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=550.260&bid=29011",
+      "sourceSha256": "fa6153601c9db02f0293126f6d1c9bccf2324753a14f20bb706e2f827add7fbb",
+      "textSha256": "162d786b77081711297de1750f2bb87054990a6c7562e91d61a8eaf79eb6957a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Certification and filing of criminal court cost bills with treasurers",
+          "bodySha256": "2fd4a9c991bcf3671bdb3719fbad818599f4058f49a9ba5cd6f6da9ddce4b634",
+          "reviewNote": "Requires circuit clerks to certify criminal court cost bills to DOC director and file copies with respective county treasurers and the city of St. Louis."
+        },
+        {
+          "number": 2,
+          "title": "Warrants on state treasurer and reimbursement limited to county expenses",
+          "bodySha256": "5597f6614cea4e4370c00d1382d88d66c91d8d57d37d48bd937a2cfca7ab7dc9",
+          "reviewNote": "Governs state treasurer warrants on DOC-certified bills with state-due withholding and county-only reimbursement, plus county commission and St. Louis comptroller payment warrants with fee lists."
+        },
+        {
+          "number": 3,
+          "title": "Treasurer record keeping in criminal cost bill account books",
+          "bodySha256": "23b2f9d69376353b6d708e1607a4ecabad51e7b689e9d9f3e50b0faa08bf3aab",
+          "reviewNote": "Requires treasurers receiving warrants and criminal court cost bills to record them in well-bound books corresponding as near as may be to section 50.470 accounts."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections, statutory history, and effective date 7-01-06; circuit clerk cost-bill certification and county/city treasurer copies, state-offset warrants limited to county costs, and section 50.470 account books verified."
+    },
+    {
+      "id": "550.320:57535",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=550.320&bid=57535",
+      "sourceSha256": "fbb0e2f94bebacbc5c1770d315ec4b0512e590899bb40d22854f6ef3bdf31087",
+      "textSha256": "7126d174188b5456063d31f79502e877a6a45619b6afabaf638ae451ebb1705b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions of department and jail reimbursement",
+          "bodySha256": "17ec66f515e9380278027e0f2d29ecbd86aedd13de0a9f268922d395baf2395a",
+          "reviewNote": "Defines 'department' (Department of Corrections) and 'jail reimbursement' (daily state per diem for custody time) for this section."
+        },
+        {
+          "number": 2,
+          "title": "State per diem reimbursement up to thirty-seven dollars and fifty cents",
+          "bodySha256": "15427afc513c88c851962edd34c6de515cbbd7cb916a117fe7b6194ea52285c7",
+          "reviewNote": "Directs DOC, subject to appropriation and review, to reimburse counties and cities not within a county up to $37.50 per offender per day for four listed correctional commitment/detention categories."
+        },
+        {
+          "number": 3,
+          "title": "Sheriff certification of custody days and two-year claim submission window",
+          "bodySha256": "f46ee7d4c3b9eeeca58564563bb28da12a8061a5e85e6c500777dbc586c503da",
+          "reviewNote": "Requires sheriff or city chief executive officer to certify custody days when state is liable for costs and permits submitting claims within two years of eligibility."
+        },
+        {
+          "number": 4,
+          "title": "Department eligibility determination, rulemaking authority, and nonseverability",
+          "bodySha256": "e54e512084ad81613eb358352820621674b852676fefe19fd0469b4cf45f16d7",
+          "reviewNote": "Directs DOC eligibility review, payment remittance, and chapter 536/section 536.028 rulemaking, with nonseverability voiding post-August 28, 2025 rules if legislative review powers are held unconstitutional."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 4 subsections and statutory history (L. 2025 H.B. 199); definitions, $37.50/day appropriation-subject DOC jail reimbursement criteria, sheriff 2-year claim submission, and chapter 536 rulemaking with August 28, 2025 nonseverability verified."
+    }
+  ]
+}

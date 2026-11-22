@@ -1,0 +1,252 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "538.210:48377",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=538.210&bid=48377",
+      "sourceSha256": "a7e6a78fa6540058a2eb335e75cada42e10997a183f1e39b1906b388be535fa6",
+      "textSha256": "9c87867855ae455f652c3aaa7e46355e446b5af90388d5ac1db0b9e1442da50f",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Statutory cause of action for damages against health care providers",
+          "bodySha256": "6817599f1393323311d1c237d3e508d82d99337bd2904d96babf539c71fcdc46",
+          "reviewNote": "Creates a statutory cause of action replacing common law claims against health care providers for personal injury or death and specifies the elements of breach and causation."
+        },
+        {
+          "number": 2,
+          "title": "Statutory caps on noneconomic damages against health care providers",
+          "bodySha256": "5bc0a80b7e9a3e7640d47780123a1c071c88af30aa854190330a0ac57114bd3c",
+          "reviewNote": "Caps noneconomic damages at $400,000 for personal injury and $700,000 for catastrophic personal injury or death irrespective of the number of defendants; see source annotations (Klotz, Sanders, Watts)."
+        },
+        {
+          "number": 3,
+          "title": "Application of statutory damage caps to related entities and employees",
+          "bodySha256": "4600c841c22bfcc96f58657b196b8f9fd0ddb7d9a36989ea4cabeb034b3a6608",
+          "reviewNote": "Extends this section to individuals, entities, employees, or agents that provide, refer, coordinate, consult upon, or arrange health care services and are defendants in covered lawsuits."
+        },
+        {
+          "number": 4,
+          "title": "Limitation on vicarious liability among independent health care providers",
+          "bodySha256": "cd486e050f6b4c573938d1fd7879825deca9aa98da6626f5c0cba0702f0d7374",
+          "reviewNote": "Bars liability of a covered health care provider for acts or omissions of non-employees unless an employee of a controlled subsidiary lacking $1M per-occurrence coverage for both individual and subsidiary."
+        },
+        {
+          "number": 5,
+          "title": "Application of statutory damage limits to contribution claims",
+          "bodySha256": "ac5b324d38d6d3099deda59d20014744132d67376dc4a034c3ca39102278fb9b",
+          "reviewNote": "Applies the liability limitations in this section to all claims for contribution."
+        },
+        {
+          "number": 6,
+          "title": "Prohibition on informing jury of statutory noneconomic damage limits",
+          "bodySha256": "33f43db917ecae7c2873716a776242d253de190785eab58701eb4d051f43d1b8",
+          "reviewNote": "Prohibits the court, counsel, or any testifying person from instructing or informing the jury or potential jurors of the noneconomic damages limitation."
+        },
+        {
+          "number": 7,
+          "title": "Loss of consortium treated as single plaintiff with injured spouse",
+          "bodySha256": "fd51618208eda07de64d1b1e80c892acac48b0f53fe2e2423794f29794067898",
+          "reviewNote": "Treats any spouse claiming loss of consortium as the same plaintiff as the injured spouse for sections 538.205 to 538.230 (note: § 538.230 repealed by H.B. 393, 2005)."
+        },
+        {
+          "number": 8,
+          "title": "Clear and convincing standard for punitive damages against providers",
+          "bodySha256": "5be6fc36c51db9c178b16eaf594e60ae295e0032d3deaf40d68dff10120972ec",
+          "reviewNote": "Permits punitive damages against covered health care providers only on a jury finding by clear and convincing evidence of intentional damage or malicious misconduct, excluding negligence or conscious disregard."
+        },
+        {
+          "number": 9,
+          "title": "Wrongful death claimants treated as single plaintiff for damage caps",
+          "bodySha256": "8b8f81591c0bcbd0cac4c67f10b183ef3b7a1d1402524815c9f27b91897c3bbc",
+          "reviewNote": "Treats all individuals and entities asserting a wrongful death claim under section 537.080 as one plaintiff for sections 538.205 to 538.230 (note: § 538.230 repealed by H.B. 393, 2005)."
+        },
+        {
+          "number": 10,
+          "title": "Annual 1.7 percent increase and publication of noneconomic caps",
+          "bodySha256": "5892b233f6fa047f31458d6bc9e5417c50be509d61d817fcb32e8c45901e999f",
+          "reviewNote": "Increases noneconomic damage caps by 1.7% annually on January 1, calculated by the director of commerce and insurance and published in the Missouri Register exempt from section 536.021."
+        },
+        {
+          "number": 11,
+          "title": "Post-trial determination of applicable cap by injury severity",
+          "bodySha256": "7136eefa62d2b52d31e30c31c773f9782e61a66b61f4f5512cad5274670914af",
+          "reviewNote": "Requires the trial court, upon post-trial motion after a jury verdict with noneconomic damages exceeding $400,000, to determine which subsection 2 cap applies based on severity of the most severe injuries."
+        },
+        {
+          "number": 12,
+          "title": "Nonseverability of section 1.010 and section 538.210 amendments",
+          "bodySha256": "e44c406146c4ccb044a556f9845cc4a4d91650d751548788060782bcff9a440c",
+          "reviewNote": "Provides that if a final unappealable judgment holds any part of section 1.010 or this section unconstitutional or unenforceable, both amended sections and the act are invalid and prior versions remain in force."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all 12 subsections, repealed § 538.230 footnote, cross-references (§§ 538.305, 510.262, 516.105), and 2010 Klotz / 2012 Sanders / 2012 Watts annotations for 538.210. Refined subsections 8, 10, 11, and 12 to match exact text including § 1.010 nonseverability."
+    },
+    {
+      "id": "538.215:28579",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=538.215&bid=28579",
+      "sourceSha256": "b7f582af1c1a928bad930d8aa9dc8554646d1968b40f8a27496029911bdcef99",
+      "textSha256": "9390697e58691ef063f1805861310106c28b07aea0f608d3051e5139c9835a66",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory itemization of past and future damages by trier of fact",
+          "bodySha256": "a2c7696f5e8b6a81d9e7d60e919a589cbb0e2ce8f61e8dba189ac4ae7e7c1504",
+          "reviewNote": "Requires the trier of fact to itemize damages into past economic, past noneconomic, future medical, other future economic, and future noneconomic damages."
+        },
+        {
+          "number": 2,
+          "title": "Future damages expressed at present value by trier of fact",
+          "bodySha256": "93d07b897c1cd10900f66adcc0c6c160a232a347a126d059165f5042b10884b3",
+          "reviewNote": "Requires all future damages itemized under subsection 1 to be expressed by the trier of fact at present value."
+        },
+        {
+          "number": 3,
+          "title": "Judicial reduction of excess noneconomic damage awards to statutory cap",
+          "bodySha256": "9eab372e0d32a37d7281c7f83d2d1641b17a51f4ae4c0b7c7378b79482637162",
+          "reviewNote": "Requires the court to reduce any award of noneconomic damages exceeding the statutory limit to the maximum amount."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all three subsections and effective date (2-03-86) for 538.215. Verified accuracy of titles and refined notes."
+    },
+    {
+      "id": "538.220:28580",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=538.220&bid=28580",
+      "sourceSha256": "fa1aaedde34eac046d96625b82fab3117e6da0371d26b84a319ae64259688897",
+      "textSha256": "950b7e9b344133eae5ab020dd8b7a2093d4dc9b792098a43456250cd0d4b043e",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Immediate lump sum payment of past damages in medical malpractice",
+          "bodySha256": "5d7a9e6cca3720762331a89a24d749666b093a62daf478056be19e3301028a25",
+          "reviewNote": "Requires past damages in an action against a health care provider for personal injury or death to be payable in a lump sum."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory periodic installment payments of future damages upon request",
+          "bodySha256": "4108b9ea184a6cf7752551044e4f280264ef07eaa6dbbfbbdfee792a87b79982",
+          "reviewNote": "Requires periodic future damage payments upon pre-judgment party request when total damages exceed $100,000, sets future-medical schedule and 52-week T-bill interest cap, and binds only the requesting defendant; see 2019 Williams annotation."
+        },
+        {
+          "number": 3,
+          "title": "Court may require security or annuity for periodic future payments",
+          "bodySha256": "0542bf9ef37b9e4620bdc7e944ee4e856e2d690f8ead671c0a348314b06b7b3c",
+          "reviewNote": "Permits the court to require an inadequately insured judgment debtor to post security or purchase an annuity to assure periodic payments, with remaining security returned upon termination."
+        },
+        {
+          "number": 4,
+          "title": "Presumption that contingent attorney fees are paid at final judgment",
+          "bodySha256": "54db4ff56b66867e37b598ef127c68b021654752f92615cd3129c508d2666784",
+          "reviewNote": "Presumes contingent attorney's fees are paid when judgment becomes final; if an attorney elects periodic payments from future damages, payment terms are between attorney and plaintiff."
+        },
+        {
+          "number": 5,
+          "title": "Effect of judgment creditor death on future periodic payments",
+          "bodySha256": "aa1693aaddec4c939a651270901bcf214a17a78e982562d364068abc145a3e09",
+          "reviewNote": "Passes nonmedical future periodic payments under the Missouri probate code unless alienated, while future medical payments continue to the estate only to satisfy injury-related medical expenses due at death up to remaining payments."
+        },
+        {
+          "number": 6,
+          "title": "Preservation of party right to settle claims for future damages",
+          "bodySha256": "42c9f1b703e56b5434531bfad5d035b59ad2c63acd53ee9ddae295b2856e9229",
+          "reviewNote": "Clarifies that parties may contract to settle and resolve future damage claims, in which case the periodic payment schedule does not apply."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all six subsections, cross-reference (§ 538.305), and 1992/1993/2019 (Williams v. Mercy Clinic) annotations for 538.220. Corrected inverted subsection 5 (nonmedical periodic payments pass under probate code; future medical payments continue only for injury-related medical expenses due at death), preserved permissive 'may' in subsection 3, and fixed subsection 4 note."
+    },
+    {
+      "id": "538.225:28581",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=538.225&bid=28581",
+      "sourceSha256": "860e6efc9c4f8c5625eae98c5747ac075f3ba6916743be323be86c265d660d6d",
+      "textSha256": "8acd0a36fc920db92aa579742872968c373b62184059b33c565ab94124f5f430",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory health care provider affidavit certifying merit of malpractice claim",
+          "bodySha256": "a0a84d0bc25f7f51be958e4fb89e01611423fa7bc9150b3e21f2fcf982d4de56",
+          "reviewNote": "Requires the plaintiff or counsel to file an affidavit stating receipt of a legally qualified health care provider's written opinion that the defendant breached the standard of care and caused or contributed to claimed damages."
+        },
+        {
+          "number": 2,
+          "title": "Definition of legally qualified health care provider",
+          "bodySha256": "53bce27fbb5e61a854302ad6766986a9713b3984c7f9b9496a9f73cfe3963a55",
+          "reviewNote": "Defines 'legally qualified health care provider' as one licensed in any state in the same profession and actively practicing or within five years of retirement from practicing substantially the same specialty."
+        },
+        {
+          "number": 3,
+          "title": "Mandatory identifying contents of health care provider affidavit",
+          "bodySha256": "01391a79d72b17ee2b7bafc712c5f3d5ceb7de418034f5c0e33e29ff99cebca6",
+          "reviewNote": "Requires the affidavit to state the name, address, and qualifications of the reviewing health care providers to offer the opinion."
+        },
+        {
+          "number": 4,
+          "title": "Separate merit affidavit required for each named defendant",
+          "bodySha256": "633ab933ca06f4c28e7981e4818ad1d9a7080a29b68f6b6a58b041b5c040993b",
+          "reviewNote": "Requires filing a separate merit affidavit for each defendant named in the petition."
+        },
+        {
+          "number": 5,
+          "title": "Ninety-day filing deadline and good cause extension for merit affidavit",
+          "bodySha256": "03a89d8eb004e9b94571d534f2e21cb5e0f7ec8be215589f54a1a0b716867af9",
+          "reviewNote": "Requires filing the affidavit within ninety days after petition filing unless the court grants a good-cause extension not exceeding an additional ninety days."
+        },
+        {
+          "number": 6,
+          "title": "Mandatory dismissal without prejudice for failure to file affidavit",
+          "bodySha256": "36431f9471c21b95494ec54e1758a8dbbad96c6752752269b46eafcaea97dc96",
+          "reviewNote": "Requires the court, upon motion of any party, to dismiss the action against the moving party without prejudice if the plaintiff or counsel fails to file the affidavit."
+        },
+        {
+          "number": 7,
+          "title": "In camera judicial inspection of health care provider written opinion",
+          "bodySha256": "4ff3aee7a5804baf606fe68cf8663f8898e2176492878a430dcb698f2d86f9d2",
+          "reviewNote": "Permits a defendant within 180 days of petition filing to move for in camera review of the opinion, requiring a 30-day probable-cause hearing if deficient and dismissal with attorney fees and costs absent probable cause."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all seven subsections, cross-reference (§ 538.305), and 1991/2000/2022 annotations for 538.225. Verified accuracy of titles and refined notes (including 5-year retirement window in subsection 2 and probable-cause dismissal/fees in subsection 7)."
+    },
+    {
+      "id": "538.229:28583",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=538.229&bid=28583",
+      "sourceSha256": "28abc978240dcac1312f6de416bbd3b134558de86f575ed3cbe8bc35573066ee",
+      "textSha256": "4034b958969d9c7c6d52c6cd12454b149ebd65567ad73f05e33befb55cd8754e",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Inadmissibility of benevolent gestures and statements of sympathy",
+          "bodySha256": "8d1731b38e171785bca0f3958d2e058bb8749043eba071bb211b41becfbacc21",
+          "reviewNote": "Makes expressions of sympathy or general benevolence regarding pain, suffering, or death inadmissible as an admission of liability in a civil action, while not prohibiting admission of a statement of fault."
+        },
+        {
+          "number": 2,
+          "title": "Definitions of benevolent gestures and family",
+          "bodySha256": "be468a8f9749246992e533ecd5ef1d4a4495a0a6470f9c2d0c4cef46b13e8265",
+          "reviewNote": "Defines 'benevolent gestures' and 'family' for purposes of this section."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and cross-reference (§ 538.305) for 538.229. Corrected subsection 1 note to reflect applicability in any civil action and admissibility of statements of fault."
+    }
+  ]
+}
