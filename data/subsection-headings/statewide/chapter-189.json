@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "189.010:9394",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=189.010&bid=9394",
+      "sourceSha256": "0b834047db2049c0f46e2d209a11691ec92f74c851b21a1d22a8ee5dcc4e4218",
+      "textSha256": "1e77ba4ea35af013316b17ee8a005843ffd39720848b89d97e89181b93bba511",
+      "draftedBy": "antigravity_drafter_b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions for sections 189.010 to 189.085",
+          "bodySha256": "c36333b97a03db1ef613d9e7290df0051c1882627a6791902bdda19f82478ca8",
+          "reviewNote": "Read complete subsection 1 including lead-in and subdivisions (1)-(8) plus 1974-2011 history notes. Defines 'approved provider', 'department', 'director', 'high risk patient', 'person', 'region', 'service', and 'special services' for sections 189.010 to 189.085 unless context clearly indicates otherwise."
+        },
+        {
+          "number": 2,
+          "title": "Included hospital operating expenditures",
+          "bodySha256": "0b3b4747d8d06b20706b38696a8114f2beafc9925d6a2068112d3d92edfe9369",
+          "reviewNote": "Read complete subsection 2 text and 1974-2011 history notes. Sets out a non-exhaustive list of expenditures included in hospital operation, spanning inpatient, ambulatory/emergency, ambulance, administration, maintenance/repairs, capital depreciation, supplies, and personnel recruitment/selection/training."
+        },
+        {
+          "number": 3,
+          "title": "Unrestricted supplemental funds and insurance-eligible patient exclusion",
+          "bodySha256": "0e9d54c964fc2972fe2a1efbe6222a763a9d30aa058944329d25d39f27eeceb6",
+          "reviewNote": "Read complete subsection 3 text and 1974-2011 history notes. Clarifies that approved funds under sections 189.010 to 189.085 are not restricted to paying specific operating costs or groups of costs and are intended to supplement local governmental agency appropriations for poor patients, while excluding patients eligible for Medicare, Medicaid, and other third-party insurance under chapter 189. Reviewer revised title to capture both unrestricted supplemental fund use and third-party insurance eligibility exclusion."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r3",
+      "reviewSummary": "Independently read complete archived section 189.010 (subsections 1-3 and subdivisions (1)(1)-(8)) and 1974-2011 history notes; verified sourceUrl and all SHA-256 fingerprints. Checked sections 189.010 to 189.085 definitional scope, non-exhaustive hospital operating expenditure list, unrestricted supplemental purpose, and chapter 189 Medicare/Medicaid/third-party insurance eligibility exclusion. Revised subsection 3 title to 'Unrestricted supplemental funds and insurance-eligible patient exclusion' to cover both the unrestricted-cost clause and eligibility-based exclusion; retained subsections 1-2."
+    },
+    {
+      "id": "189.050:9402",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=189.050&bid=9402",
+      "sourceSha256": "f08be90990b7ad2af4c006261c371238b48308254148e4b744af4d6011e9cf35",
+      "textSha256": "c3bf7afab4562d6940248ba98b2320217cd1fc91fd21db366e64dfabf2ceab7f",
+      "draftedBy": "antigravity_drafter_b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition on local residency barriers for Missouri residents",
+          "bodySha256": "b578adb110bcd12dadd0fd89e2fde25ec26baac6eb2385e44aef60df26782d21",
+          "reviewNote": "Read complete subsection 1 text, 1974 history note, and original-rolls footnote ('Word \"patients\" appears in original rolls'). Operates notwithstanding other law to bar hospitals receiving state assistance under sections 189.010 to 189.085 from denying section 189.010 services and care to a Missouri resident solely for non-residence in the hospital's city, county, or hospital district. Reviewer revised title to reflect that the bar specifically protects Missouri residents against local residency barriers."
+        },
+        {
+          "number": 2,
+          "title": "Loss of state assistance for noncompliance",
+          "bodySha256": "1c396989894b26f81866bc5a68b3f419317aae94fd1b6a23dc6060bd48a674fa",
+          "reviewNote": "Read complete subsection 2 text and 1974 history note. Provides that any hospital violating subsection 1 is not entitled to any funds under sections 189.010 to 189.085."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r3",
+      "reviewSummary": "Independently read complete archived section 189.050 (subsections 1-2), 1974 history note, and original-rolls footnote ('Word \"patients\" appears in original rolls' in subsection 1); verified sourceUrl and all SHA-256 fingerprints. Checked assisted-hospital scope (sections 189.010 to 189.085), section 189.010 service reference, Missouri-resident applicability, and total loss of program funds for noncompliance. Revised subsection 1 title to 'Prohibition on local residency barriers for Missouri residents' to clarify the protected class; retained subsection 2."
+    },
+    {
+      "id": "189.060:9404",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=189.060&bid=9404",
+      "sourceSha256": "fc1c91d0d9c0fb1d93334462256895e39c859a82bc93dff267f59e72b83d1093",
+      "textSha256": "a5997576aa8e13e33b81af107f9e778439b1e1c0235f7d9a5e83853816d2dc6f",
+      "draftedBy": "antigravity_drafter_b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Rulemaking mandate and section 536.024 compliance",
+          "bodySha256": "f89b7bb6d0b600ba63fb9b75afbe49ea1d74a9c3d92aeda5b0c5a4faaa41a98d",
+          "reviewNote": "Read complete subsection 1 text and 1974/1993/1995 history notes. Directs the director to promulgate required rules within six months of August 13, 1974 under this section and chapter 536, conditioning effectiveness of any chapter 189 rule on compliance with section 536.024."
+        },
+        {
+          "number": 2,
+          "title": "Department of mental health liaison designation",
+          "bodySha256": "e8d55716c77bbfdfaf6dc4b999dd4c9801cc6a3e4001b92f8637515a5f23d054",
+          "reviewNote": "Read complete subsection 2 text and 1974-1995 history notes. Requires the director of the department of mental health to designate an employee as liaison for mental health department services related to the sections 189.010 to 189.085 program."
+        },
+        {
+          "number": 3,
+          "title": "Director hearings, high-risk patient standards, and committee expenses",
+          "bodySha256": "4b5a5f2b3cd61608658cb512bd86934d6eea99623c80ae444a2989abe3101e0d",
+          "reviewNote": "Read complete subsection 3 text and 1974-1995 history notes. Retains source discrepancies explicitly without alteration: archived text cites 'chapter 563' (rather than chapter 536) for hearings before the director and contains duplicated phrasing ('to further the standards to further the accomplishment'). Also covers permissive regulations and standards for managing high-risk patients and reimbursement of committee members' actual and necessary meeting expenses."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r3",
+      "reviewSummary": "Independently read complete archived section 189.060 (subsections 1-3) and 1974/1993/1995 history notes; verified sourceUrl and all SHA-256 fingerprints. Checked August 13, 1974 six-month rulemaking mandate, chapter 536/section 536.024 compliance, DMH liaison designation, and BOTH literal source discrepancies in subsection 3 ('chapter 563' rather than chapter 536 for director hearings, and duplicated 'to further the standards to further the accomplishment' wording), retained faithfully without silent correction. Retained all three drafted titles."
+    },
+    {
+      "id": "189.095:9410",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=189.095&bid=9410",
+      "sourceSha256": "e2f2204e70f0583edb0678013eec175a88cc687926a56410dba115a19c68de78",
+      "textSha256": "1d08c9cf3fed1ed74a91f5441b5802b1ff4c17a15c5a8772db1e9990c22248ab",
+      "draftedBy": "antigravity_drafter_b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Ineligibility during section 208.152(1) hospital qualification",
+          "bodySha256": "9cc36854dac8048c7e4a674eddf8b8d58f60a7224e57cf8722f9e10b8c55e374",
+          "reviewNote": "Read complete subsection 1 text and 1988/2014 history note. Makes hospitals eligible under sections 189.015 to 189.050 ineligible for those payments during periods when they also qualify as disproportionate low-income patient hospitals under section 208.152(1) and regulations."
+        },
+        {
+          "number": 2,
+          "title": "Redirection of withheld moneys to MO HealthNet division",
+          "bodySha256": "aff5b51c0662194844b7035774a844bdc4b8ed5c627efdb5b0bc7a16c638a464",
+          "reviewNote": "Read complete subsection 2 text and 1988/2014 history note. Directs moneys withheld from disqualified hospitals under this section to be paid to the MO HealthNet division of DSS for appropriated payments to hospitals."
+        },
+        {
+          "number": 3,
+          "title": "Annual hospital election to reject section 208.152(1) qualification",
+          "bodySha256": "35296b9e04cf4908ff53e0e354da4ea0b12d2426cdaaa7c30643c3a5465f8a3e",
+          "reviewNote": "Read complete subsection 3 text and 1988/2014 history note. Operates notwithstanding this section to allow a hospital ineligible solely due to section 208.152(1) qualification to elect by July 15 of any year to reject that qualification and accept sections 189.015 to 189.050 eligibility."
+        },
+        {
+          "number": 4,
+          "title": "MO HealthNet division rulemaking authority",
+          "bodySha256": "8cf13bfd8de6e03073d839ecfb265b2e9fe6039accf5ab74a9ba882c0d1d9f65",
+          "reviewNote": "Read complete subsection 4 text and 1988/2014 history note. Authorizes the MO HealthNet division of DSS to issue rules and regulations necessary to carry out section 189.095."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r3",
+      "reviewSummary": "Independently read complete archived section 189.095 (subsections 1-4) and 1988/2014 history note; verified sourceUrl and all SHA-256 fingerprints. Checked sections 189.015 to 189.050 and section 208.152(1) cross-references, appropriation-subject redirection to MO HealthNet division, July 15 annual rejection election, and permissive rulemaking authority. Retained all four drafted titles."
+    }
+  ]
+}

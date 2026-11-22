@@ -1,0 +1,1500 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "182.010:9172",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.010&bid=9172",
+      "sourceSha256": "30eb974e08b3173c1f90246257e8ca7f3cab3e2c8d2b8d779090bf15cbf227ee",
+      "textSha256": "0b1e1af55737c997afe0634a81b36078a284fe93b121dc73cc8e1584038ae387",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 6 subsections, ballot-question blocks, and source/history notes (RSMo 1939 § 14767 through A.L. 1985 S.B. 152, effective 12-31-85) and verified all source and subsection fingerprints. Checked city/town exclusions, section 182.030 exception, section 126.040 verification, section 179.020 certification (retaining source phrasing \"certified to county governing body\"), and section 182.020 fund cross-reference. Revised subsection 6 title to reflect majority voter approval; retained subsections 1–5.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Petition, verification, and election order for county library district",
+          "bodySha256": "3356d9a2508cfa50683ae82b8a1a32701a1960727cf8974ebedb819b38f03d23",
+          "reviewNote": "Read complete text of subsection 1 and source notes (RSMo 1939 § 14767 through A.L. 1985 S.B. 152; 1929 § 13463; Effective 12-31-85). Covers 5% voter petition outside cities/towns maintaining free tax-supported libraries (except under section 182.030), verification under section 126.040, record recital, and county governing body election order and notice specifying county name and proposed tax rate."
+        },
+        {
+          "number": 2,
+          "title": "Ballot form for establishing district and initial tax",
+          "bodySha256": "da89956aaed503736c12e421e2b48fa9a17f78ccb4e720b8185c76f8f7926b73",
+          "reviewNote": "Read complete text of subsection 2 including both ballot-question paragraphs and source notes. Sets out substantial ballot wording for creating a county library district and levying a tax per $100 assessed valuation."
+        },
+        {
+          "number": 3,
+          "title": "Voting eligibility in overlapping school districts and ballot certification",
+          "bodySha256": "7974200c98756145bd89496c2e4608c22e150988b91d1557c791828e0f2c1d96",
+          "reviewNote": "Read complete text of subsection 3 and source notes. Extends voting eligibility to qualified voters residing inside a city or town school district that extends beyond city/town limits into the proposed county library district, and requires certifying ballots to the county governing body under section 179.020. Independent review confirmed exact statutory cross-reference to section 179.020 and retained source phrasing \"certified to county governing body\"."
+        },
+        {
+          "number": 4,
+          "title": "Petition and notice recitals for maintenance tax increases",
+          "bodySha256": "4e9e047ecda76537a3d51ec4ca90cd98b8c20ee1bf7a8f84491e03ccbf81fb2b",
+          "reviewNote": "Read complete text of subsection 4 and source notes. Requires reciting in both the petition and submission notice when a proposed tax seeks an increase over a lesser previously voted rate for an established county library."
+        },
+        {
+          "number": 5,
+          "title": "Ballot form for county library tax increase",
+          "bodySha256": "1150d33ff7d5fd479b2941a1b432fb23c56b3d04cb3d4e95e9baadbff31a2a16",
+          "reviewNote": "Read complete text of subsection 5 including ballot-question paragraph and source notes. Sets out substantial ballot wording for increasing the present county library tax rate."
+        },
+        {
+          "number": 6,
+          "title": "Approved tax levy, collection, and County Library Fund",
+          "bodySha256": "a5cfa156080a1e6bebb109d4118e2a716c1a5063034e0f30d24d2aa3cd4c0fae",
+          "reviewNote": "Read complete text of subsection 6 and source notes. Provides that upon majority voter approval, the specified tax is levied, collected, and administered as part of the County Library Fund under section 182.020. Independent review revised title to make the majority-vote approval condition explicit."
+        }
+      ]
+    },
+    {
+      "id": "182.015:9173",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.015&bid=9173",
+      "sourceSha256": "632d89d3f3ba711170df75f7e8c1492bff6dffcd2181334f2e9503184c42e3c5",
+      "textSha256": "a7024fab5ab56262bd4200695f1ed9e78bc6d9fc1a38a78eb038c2dedcb3a2ec",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 4 subsections including subsection 4 subdivisions (1)–(4), paragraphs (a)–(c), continuation paragraphs, and history notes (L. 1972 S.B. 583 through A.L. 2007 S.B. 22) and verified all fingerprints. Verified regional library exclusion, five-year dissolution rule, dual-majority annexation vote (effective first day of second calendar quarter), and county-initiated or 10%-petitioned repeal elections (effective December 31). Revised subsection 4 title to cover tax extension explicitly; retained subsections 1–3.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishing county library district without vote and proposing tax",
+          "bodySha256": "432ef620f9e97f47c9db71ed0b5e9e7a28ebc60c8c392251f316dd7ad210c2b5",
+          "reviewNote": "Read complete text of subsection 1 and history notes (L. 1972 S.B. 583 through A.L. 2007 S.B. 22). Permits a county commission by order to establish a county library district without petition or vote (excluding regional library system territory and otherwise conforming to section 182.010), followed by submitting a proposed annual tax rate to voters under section 182.010."
+        },
+        {
+          "number": 2,
+          "title": "Dividing nonoperating district into subdistricts and subdistrict tax",
+          "bodySha256": "a328a5bc95eb6dec5d7a8a7a447127c87c77fb2d3f5bc5f5bcb767a1b9953903",
+          "reviewNote": "Read complete text of subsection 2 and history notes. Permits dividing a county library district not operating a library into subdistricts, submitting a proposed subdistrict tax to subdistrict voters under section 182.010, and levying/collecting approved taxes under section 182.020 for subdistrict library services."
+        },
+        {
+          "number": 3,
+          "title": "Dissolution if voters do not approve tax within five years",
+          "bodySha256": "6035033920f3bb2047ecf40e7cca6110c7d94266e229bc5ea4474422c68354ba",
+          "reviewNote": "Read complete text of subsection 3 and history notes. Mandates dissolution of a library district where voters have not approved a tax within five years from its establishment."
+        },
+        {
+          "number": 4,
+          "title": "Subdistrict expansion, tax extension, dual-majority vote, and repeal",
+          "bodySha256": "76bc5bd987e15f2631c6597afdff76506295178ae796c66ce0f47e274e8e8457",
+          "reviewNote": "Read complete text of subsection 4 including subdivisions (1) through (4), paragraphs (a) through (c), continuation div paragraphs after (2)(c) and (3), and history notes. Covers 10% adjacent-area voter petitions with county library board approval, county resolution/hearing/order, separate majority approval in both the existing subdistrict and annexed area (effective first day of second calendar quarter), and county-initiated or 10%-petitioned repeal elections (effective December 31). Independent review revised title to include subdistrict tax extension alongside boundary expansion, dual-majority vote, and repeal procedures."
+        }
+      ]
+    },
+    {
+      "id": "182.020:9174",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.020&bid=9174",
+      "sourceSha256": "ed2fca9d6d1f8f50f51ff2074386690c591d9f7657e73ef71f81e21d06b27509",
+      "textSha256": "433978a071958517b00a0ed97e9d8876b38926f6418d7c41f1f6476f3abf9b3b",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 5 subsections, subsection 4 ballot form and continuation paragraph, and history notes (RSMo 1939 § 14767 through A.L. 1987 H.B. 179 & 307) and verified all fingerprints. Checked county-class remittance distinctions (1st/2nd including charter vs. 3rd/4th), five-year reconsideration waiting period, section 182.010(2)/(5) cross-references, and sections 182.010–182.120 special-charter construction. Revised subsection 1 for clearer phrasing and subsection 5 to include both \"county commission\" and \"county governing body\"; retained subsections 2–4.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "District establishment of record and annual tax levy",
+          "bodySha256": "d13b0e0f1f5e69d3f636e6268d31462c57bb5c16274edddc1b7cdab9698b7db0",
+          "reviewNote": "Read complete text of subsection 1 and source notes (RSMo 1939 § 14767 through A.L. 1987 H.B. 179 & 307; 1929 § 13463). Directs the county governing body after a favorable majority vote to enter returns of record declaring the county library district established, after which the noticed tax is levied and collected annually subject to this section. Independent review tightened title wording to \"District establishment of record and annual tax levy\"."
+        },
+        {
+          "number": 2,
+          "title": "Monthly tax remittances and receipts by county classification",
+          "bodySha256": "b77957353f574fb4c87a85f2a96096d60bc3f84135f28ca1dbe11302d9e2a0b2",
+          "reviewNote": "Read complete text of subsection 2 and source notes. Distinguishes monthly remittance procedures: collectors in first- and second-class counties (including charter counties) pay directly to the district treasurer with duplicate receipts, while collectors in third- and fourth-class counties pay the county treasurer, who monthly pays the district treasurer with duplicate receipts."
+        },
+        {
+          "number": 3,
+          "title": "Voter reconsideration of tax after five-year waiting period",
+          "bodySha256": "5cf71a29a9763fef024930b2a87fe1948f73de020baca4022d86872d0e34352f",
+          "reviewNote": "Read complete text of subsection 3 and source notes. Permits voter reconsideration of the tax by majority vote following petition, order, and notice as for district establishment, subject to a five-year waiting period after district establishment and tax levy."
+        },
+        {
+          "number": 4,
+          "title": "Board-ordered tax increase election, ballot form, and collection",
+          "bodySha256": "191221665758d7f3fbebcddb70e45c1935fbc5407a8f23bf95508d2a09cf49c8",
+          "reviewNote": "Read complete text of subsection 4 including ballot-form block and continuation div paragraph, and source notes. Authorizes the county library board to order an election to increase a tax under section 182.010(2) or (5), specifies notice and ballot form, and provides for levy and collection upon majority approval."
+        },
+        {
+          "number": 5,
+          "title": "Meaning of county commission and governing body in special-charter counties",
+          "bodySha256": "2ecc34e6b0d61f6787e71768f339c94e799b0db3dd58f1f71d17cc82c8460cea",
+          "reviewNote": "Read complete text of subsection 5 and source notes. Construes \"county commission\" and \"county governing body\" in sections 182.010 to 182.120 to mean the proper commission or official in any special-charter county. Independent review expanded title to name both \"county commission\" and \"county governing body\" as expressly construed."
+        }
+      ]
+    },
+    {
+      "id": "182.060:9178",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.060&bid=9178",
+      "sourceSha256": "f383b9cb00ba5e6736ebc5630a5113fb6a4b8d87614aa1b630a2f053e0a90bac",
+      "textSha256": "0c16fff25f993b262bab813eebf230c04758b8474ffa7fbd8b8244a52faa55de",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read both subsections and source/history notes (RSMo 1939 § 14768 through A.L. 1984 S.B. 423; 1929 § 13464) and verified all fingerprints. Confirmed board officer organization, sections 182.010–182.120 governance scope, and conditional librarian appointment when a district establishes its own free county library. Retained both drafted titles as accurate and neutral.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board organization, officer elections, bylaws, and library governance",
+          "bodySha256": "5e26b53f95f44ea50d3aff86415726d31253dcba3aca24f3f0e5413c928c3e48",
+          "reviewNote": "Read complete text of subsection 1 and source notes (RSMo 1939 § 14768, A.L. 1955 p. 547, A.L. 1984 S.B. 423; 1929 § 13464). Directs appointed county library trustees to organize immediately, elect a president, treasurer, and other officers, adopt bylaws and rules not inconsistent with law, and carry out sections 182.010 to 182.120."
+        },
+        {
+          "number": 2,
+          "title": "Appointment and service of qualified county librarian",
+          "bodySha256": "cddb6d21d306c7088e3b03553d85a342ffa4f1e2f39e0ee41539f65c92fe3715",
+          "reviewNote": "Read complete text of subsection 2 and source notes. Conditional on the district establishing its own free county library; requires the board to appoint a qualified librarian as chief executive and administrative officer serving at the board's pleasure."
+        }
+      ]
+    },
+    {
+      "id": "182.073:9180",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.073&bid=9180",
+      "sourceSha256": "f85ed6baf8fe700cbd63eea8a1b9c3b0970bd02fddf605973f1d374c9b2cb643",
+      "textSha256": "31deb15f12f940af0820d25407a6b1e7caf911b49baa35c2ebd9fa32f72b1abd",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 4 subsections and history note (L. 1984 S.B. 423) and verified all fingerprints. Checked fund separations (county library, building, operating for non-capital state/federal grants, and other board funds), president certification, sections 105.272–105.278 facsimile signatures, and regular-meeting accountings, retaining source phrasing \"and be in the proper form\" in subsection 3. Retained all 4 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Treasurer custody of funds, fund accounts, depositaries, and securities",
+          "bodySha256": "51226139628453d8d2819d964274df7d0b61964b001d9685f9052ff6226f74d9",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1984 S.B. 423). Designates the board treasurer as custodian of county library district moneys, bonds, and securities; allocates local taxes and non-capital state/federal grants across library, building, operating, and board-created funds; and directs deposits in board-selected depositaries."
+        },
+        {
+          "number": 2,
+          "title": "Disbursement authorization, president certification, and facsimile signatures",
+          "bodySha256": "2e8ac2cba3324271525b0d5d938fc43c1267cec29ecc5a4b672426b32ae3056e",
+          "reviewNote": "Read complete text of subsection 2 and history note. Limits treasurer disbursements to board-authorized payments certified by the president (specifying amount, payee, and purpose), and permits board resolutions authorizing president or treasurer facsimile signatures under sections 105.272 to 105.278."
+        },
+        {
+          "number": 3,
+          "title": "Sufficient funds and proper form required for disbursements",
+          "bodySha256": "3ec0597b766e167079ece690d0bcaae72fcb963d5ad577fbfe67411a45fa2443",
+          "reviewNote": "Read complete text of subsection 3 and history note. Prohibits authorizing, certifying, or issuing payment for county library district indebtedness unless sufficient money exists in the treasury and proper fund and the payment is in proper form. Independent review retained source phrasing \"and be in the proper form\" without alteration."
+        },
+        {
+          "number": 4,
+          "title": "Treasurer accounting at regular board meetings",
+          "bodySha256": "b16f957ad967bac146c9df60ca07c3df3d8679b8f34ac5344c3211aeee6b152c",
+          "reviewNote": "Read complete text of subsection 4 and history note. Requires the board treasurer to submit an accounting of county library district receipts and disbursements at each regularly scheduled board meeting."
+        }
+      ]
+    },
+    {
+      "id": "182.075:9181",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.075&bid=9181",
+      "sourceSha256": "1a85fab6bc1940989e9719c2baf5daf619e67448d23105b63130f4ccd6d19d18",
+      "textSha256": "e4c5c8505a3b8d7e64b1670ee2c32663b852fe6415df39b9af6af5e21b0c6603",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 3 subsections and history note (L. 1984 S.B. 423) and verified all fingerprints. Checked corporate surety bond requirements, operating-fund premium payment, dual filing with board treasurer and county clerk, board/taxpayer breach suits, GAAP recordkeeping, and March/April annual reporting deadlines. Revised subsection 1 title from \"Employee\" to \"Officer and employee\" because the board treasurer is a trustee/officer; retained subsections 2–3.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Officer and employee surety bonds, filing, premiums, and breach suits",
+          "bodySha256": "005121290565266ad4cc6ffc03c0dde9ee559102879271d7be8db8b397f5d42e",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1984 S.B. 423). Requires board-approved corporate surety bonds for the treasurer, librarian, and designated employees (paid from operating fund and filed with board treasurer and county clerk), and authorizes board or taxpayer breach suits in the state's name. Independent review revised title to \"Officer and employee surety bonds...\" because the board treasurer is a trustee/officer."
+        },
+        {
+          "number": 2,
+          "title": "Librarian financial recordkeeping and board access to accounts",
+          "bodySha256": "3d4fe4564f19f5aba682892774b7e9699545986e2a717bae46496028f80d4f7e",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs the librarian to maintain financial records and accounts under generally accepted accounting standards and furnish records or summaries requested by the board or any member."
+        },
+        {
+          "number": 3,
+          "title": "Annual library condition reports to board, county, and state library",
+          "bodySha256": "8b4922fdb2df0e11362cdc8ef1a4f07bd9f324f80194679e4a5ab5863751f64c",
+          "reviewNote": "Read complete text of subsection 3 and history note. Requires the librarian to report library condition and services (as of December 31) to the board by the second Monday in March, and requires the board to submit reports to the county governing body and Missouri State Library by April 30."
+        }
+      ]
+    },
+    {
+      "id": "182.100:9183",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.100&bid=9183",
+      "sourceSha256": "81347c62b7f304109c2a4f01478215ee12dce8c458d6d172ad53817dd3fa14e5",
+      "textSha256": "f4870ce150ca44c5713a64493e491c1ff4abbb749037fb1745227606fc53eedb",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 3 subsections, ballot-question block, and history/effective-date notes (RSMo 1939 § 14773 through A.L. 1985 S.B. 152, effective 12-31-85) and verified all fingerprints. Verified dual prerequisite (board resolution plus 5% voter petition), 10-year tax cap, county-class monthly remittance rules, exclusive board control, and additionality to maintenance taxes. Retained all 3 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Resolution, petition, and election order for library building tax",
+          "bodySha256": "54eb7288a30dc04d5b797e9a2bf0101acb013afe506852af22df0b0b301875d4",
+          "reviewNote": "Read complete text of subsection 1 and source notes (RSMo 1939 § 14773 through A.L. 1985 S.B. 152; 1929 § 13469; Effective 12-31-85). Requires both a county library board written resolution and a 5% voter petition for an additional building tax (for up to 10 years) in a sections 182.010 to 182.120 district, after which the county governing body enters findings of record and orders an election."
+        },
+        {
+          "number": 2,
+          "title": "Ballot form for county library building tax",
+          "bodySha256": "cd9ff7366c1498e84cce9ea348343bd9be4826f264056b4ad045b0362acfb86a",
+          "reviewNote": "Read complete text of subsection 2 including ballot-question block and source notes. Sets out substantial ballot wording for a property tax per $100 assessed valuation to erect a free county library building."
+        },
+        {
+          "number": 3,
+          "title": "County Library Building Fund collection, remittances, control, and use",
+          "bodySha256": "60cdf190546a4e11632cedb7a276b44bf90354282905aa9c37eabe3e97c77df6",
+          "reviewNote": "Read complete text of subsection 3 and source notes. Upon majority approval, establishes the County Library Building Fund under exclusive board control, specifies monthly remittance and duplicate-receipt procedures by county class, restricts expenditures to building erection and furnishing, and makes the tax additional to the maintenance tax."
+        }
+      ]
+    },
+    {
+      "id": "182.105:9184",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.105&bid=9184",
+      "sourceSha256": "59ecf9a08c71de97f20ed042d52b55206da43a2a1cb36f80cfee32ea8116e69b",
+      "textSha256": "64caf11ad992e88af4afad7e0d6282d0d59207a0de795fdd3bc57a98b02ababd",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 4 subsections and history notes (L. 1955 p. 500 § 182.100 through A.L. 2006 S.B. 936) and verified all fingerprints. Verified 5% assessed-value debt cap, constitutionally required municipal-election approval, 20-year debt retirement tax, $100-multiple denominations, and chairman/secretary/seal execution. Retained all 4 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board authority to acquire sites, build, improve, and issue bonds",
+          "bodySha256": "9be1dff011e7754b7809c84c5302822dd00558e59861b0a49c4ffd38fa2d031c",
+          "reviewNote": "Read complete text of subsection 1 and history notes (L. 1955 p. 500 § 182.100 through A.L. 2006 S.B. 936). Authorizes a county library board to purchase ground, erect or improve public library buildings, and pay by bond issuance or otherwise subject to section 182.105 conditions and limits."
+        },
+        {
+          "number": 2,
+          "title": "Five percent debt limit and voter approval at municipal election",
+          "bodySha256": "5034486a66f35ae55c750fcd3dcf61b31cc8483f3bcfbeb8ba06e61f44d37a74",
+          "reviewNote": "Read complete text of subsection 2 and history notes. Caps county library district bonds at 5% of assessed taxable tangible property value and bars incurring bond debt without constitutionally required voter approval at a municipal election."
+        },
+        {
+          "number": 3,
+          "title": "Annual tax levy to retire bond debt within twenty years",
+          "bodySha256": "aee2e94b08377f1b1edf8b318ae3c3079e4b17d8f9fb92d170c78d383bda5ee6",
+          "reviewNote": "Read complete text of subsection 3 and history notes. Requires the county library board, before incurring indebtedness, to provide for an annual taxable tangible property tax sufficient to pay interest and principal and retire the debt within 20 years."
+        },
+        {
+          "number": 4,
+          "title": "Election certification, bond terms, execution, and corporate seal",
+          "bodySha256": "b52a9ef4eced167914f752b76a188a86bfc5103e06da0206439f99c83b44fb2f",
+          "reviewNote": "Read complete text of subsection 4 and history notes. Covers certifying election returns to the county commission, record declaration of bond authority up to the voter-approved limit, bond denominations ($100+ multiples), 20-year maturity cap, legal interest cap, chairman signature, secretary attestation, and corporate seal."
+        }
+      ]
+    },
+    {
+      "id": "182.140:9188",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.140&bid=9188",
+      "sourceSha256": "a43f91e622c582f977d33778b014d48d6ac3295d6e24b962acc51c7279746700",
+      "textSha256": "f5f2cc6ae7528475ea5ab8e5e4bc3a97c0683ca523d8279d1f57542fc53219f0",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 10 subsections, ballot-question blocks in subsections 2 and 6, and history/prior-revision notes (RSMo 1939 § 14752 through A.L. 1987 H.B. 179 & 307) and verified all fingerprints. Checked 5% voter petition, body-corporate declaration, monthly finance-officer remittances, board-ordered increase option, section 182.200 fund administration, one-year non-levying county-district carve-out, and section 94.400 additionality. Revised subsection 3 for clearer wording and subsection 7 to reflect \"the tax submitted\" and \"City Library Fund\"; retained subsections 1–2, 4–6, and 8–10.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Voter petition and election order for city public library tax",
+          "bodySha256": "19246249c7e979fa5b4eb7b3f65d0fdad30b2316249a5c15eb9058a9f42081bf",
+          "reviewNote": "Read complete text of subsection 1 and source notes (RSMo 1939 § 14752 through A.L. 1987 H.B. 179 & 307; prior revisions 1929, 1919, 1909). Directs a city governing body upon written petition of 5% of city gubernatorial voters specifying a tax rate to submit a free public library tax question to city voters with order and notice reciting city name and rate."
+        },
+        {
+          "number": 2,
+          "title": "Ballot form for establishing city public library tax",
+          "bodySha256": "262bb3200044188ff4d7ebd195d4ae106ce405442b6fb1696ac8a42599ed8b2f",
+          "reviewNote": "Read complete text of subsection 2 including ballot-question block and source notes. Sets out substantial ballot wording for a city public library property tax per $100 assessed valuation."
+        },
+        {
+          "number": 3,
+          "title": "Declaring city public library established as body corporate",
+          "bodySha256": "b7a82d2c70951bbc99230d4e2b3312d51137ef5944f8eb21e527ea871eaf4c31",
+          "reviewNote": "Read complete text of subsection 3 and source notes. Directs the city governing body after majority approval to enter returns of record declaring the free public library established as a body corporate. Independent review tightened title wording to \"Declaring city public library established as body corporate\"."
+        },
+        {
+          "number": 4,
+          "title": "Tax collection, city library fund deposits, and monthly remittances",
+          "bodySha256": "36f9daacf750d0802df34349d241716b91abd0b7bfe1586c8e5755cb3372b343",
+          "reviewNote": "Read complete text of subsection 4 and source notes. Provides for annual levy and collection like general city taxes, deposit of tax proceeds, interest, fines, collections, bequests, and donations into the city library fund, and monthly remittance by the city finance officer to the library district treasurer with duplicate receipts."
+        },
+        {
+          "number": 5,
+          "title": "Petition or board-ordered election for city library tax increase",
+          "bodySha256": "649200810be8e4148c5340039a42f672d28e2487a433fb8492e6b55c4d3cb9c3",
+          "reviewNote": "Read complete text of subsection 5 and source notes. Requires petition and notice recitals when increasing a previously voted city library tax and permits the city library board of trustees to order a tax-increase election with published notice reciting the proposed increase."
+        },
+        {
+          "number": 6,
+          "title": "Ballot form for city public library tax increase",
+          "bodySha256": "15ea49257a53839278a891e1d14b9eec00abd8b32ce41bfbe0442d09fbb4afeb",
+          "reviewNote": "Read complete text of subsection 6 including ballot-question block and source notes. Sets out substantial ballot wording for increasing an existing city public library tax."
+        },
+        {
+          "number": 7,
+          "title": "Approved tax levy, collection, and City Library Fund administration",
+          "bodySha256": "b8b4ed022409112e611e4d46eafb541c9021562a4138118b1e3f3d659cd8a3fd",
+          "reviewNote": "Read complete text of subsection 7 and source notes. Directs that a voter-approved city library tax be levied and collected like general city taxes and become part of the City Library Fund administered under section 182.200. Independent review revised title to reflect \"the tax submitted\" and the statutory \"City Library Fund\" name."
+        },
+        {
+          "number": 8,
+          "title": "Voter reconsideration of city public library tax",
+          "bodySha256": "de3ffde87e3c85fec1ab1f0fb479d1f1207cfc8fa3cec0270267bbd8ba645b2e",
+          "reviewNote": "Read complete text of subsection 8 and source notes. Permits reconsidering the city library tax whenever city voters so determine by majority vote at an election."
+        },
+        {
+          "number": 9,
+          "title": "City library authority where county district fails to levy tax",
+          "bodySha256": "ed07218be36a17aba06e380558f787a8ae4ecaaa90563409813e662e24c37e1c",
+          "reviewNote": "Read complete text of subsection 9 and source notes. Notwithstanding other chapter 182 provisions, permits a city inside an established county library district to establish and maintain a city library under this section if the county district has not levied and collected a section 182.020 tax within one year of establishment."
+        },
+        {
+          "number": 10,
+          "title": "Authority in addition to section 94.400 powers",
+          "bodySha256": "48f0bbe0a0c8a3e2d12111f086cc7fccf7df810b185583e4281042626810b56d",
+          "reviewNote": "Read complete text of subsection 10 and source notes. Clarifies that the authority granted by section 182.140 is in addition to powers granted in section 94.400."
+        }
+      ]
+    },
+    {
+      "id": "182.143:9189",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.143&bid=9189",
+      "sourceSha256": "b016cec0ef2012f2f9e32573ad4360542342aa07100965dd0f583c120dd06ea2",
+      "textSha256": "f15700175e5365c16dd9077bacdb9472194796e9e2cd74f1151f18912be126dd",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 5 subsections and notes (L. 1985 S.B. 152, effective 12-31-85, and Revisor footnote noting \"by\" in original rolls where text prints \"be*\") and verified all fingerprints. Verified city library/building maintenance and refurnishing/operating fund allocations, annual budget conformance, sections 105.273–105.278 facsimile signatures, and municipal contract saving clause. Revised subsection 5 title to \"Municipal service contracts not prohibited\" to reflect a non-prohibition clause rather than an affirmative authority grant; retained subsections 1–4.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Treasurer custody of funds, fund accounts, depositaries, and securities",
+          "bodySha256": "51ba11e5179fc6c26f2622c2ef4e363b9be8e602304c87abba1f636fdfa3376c",
+          "reviewNote": "Read complete text of subsection 1 and source notes (L. 1985 S.B. 152; Effective 12-31-85). Designates the library board treasurer as custodian of district moneys, bonds, and securities; separates city library, building maintenance and refurnishing, operating (non-capital state/federal grants), and board-created funds; and directs deposits in board-selected depositaries."
+        },
+        {
+          "number": 2,
+          "title": "Disbursements, annual budget conformance, and facsimile signatures",
+          "bodySha256": "1d7ce62a2a834220f1daff91732c6005a606ddceaf274eaedada00ef96383711",
+          "reviewNote": "Read complete text of subsection 2 and source notes (including Revisor footnote noting word \"by\" appears in original rolls where text prints \"be*\"). Governs treasurer disbursements, annual board-approved budget and expenditure conformance, and optional board-authorized president or treasurer facsimile signatures under sections 105.273 to 105.278."
+        },
+        {
+          "number": 3,
+          "title": "Sufficient funds and proper form required for disbursements",
+          "bodySha256": "f24bdecd1e45bc509af735239e929a7c4f297f7978773536fa1865e86db51137",
+          "reviewNote": "Read complete text of subsection 3 and source notes. Prohibits authorizing, certifying, or issuing payment for library district indebtedness without sufficient money in the treasury and proper fund and proper form."
+        },
+        {
+          "number": 4,
+          "title": "Treasurer accounting at regular board meetings",
+          "bodySha256": "cfa73984a508bf2760630800a03f338177a30f6603f8fb32d11b9495d16e3187",
+          "reviewNote": "Read complete text of subsection 4 and source notes. Requires the board treasurer to submit an accounting of library district receipts and disbursements at each regularly scheduled board meeting."
+        },
+        {
+          "number": 5,
+          "title": "Municipal service contracts not prohibited",
+          "bodySha256": "59adb8e814a2a9f389686ec0d70895dc0803d2edb0e3f3a53c6f37348ab573c1",
+          "reviewNote": "Read complete text of subsection 5 and source notes. Clarifies that nothing in section 182.143 prohibits a library district from contracting with a municipality for services. Independent review revised title to \"Municipal service contracts not prohibited\" to reflect a saving/non-prohibition clause rather than an affirmative authority grant."
+        }
+      ]
+    },
+    {
+      "id": "182.150:9191",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.150&bid=9191",
+      "sourceSha256": "40f625a45da12ba1af879b353b4aae8996e6e7d2edc279fadff807bc4a6013e1",
+      "textSha256": "e243d831cdc05dcfc846b3338c76f136e9e7486da512fbaa4718beac4cc6bb25",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 6 subsections, ballot-question blocks in subsections 2 and 4, and history/effective-date notes (L. 1945 p. 1127 § 14752 through A.L. 1985 S.B. 152, effective 12-31-85) and verified all fingerprints. Noted source discrepancy between catchline (\"cities over 600,000\") and body text (\"cities of six hundred thousand inhabitants or over\"). Checked section 182.440 cross-reference, Article IX Section 10 state-aid duty, and Article X Section 11 excess-levy authority. Revised subsections 2, 5, and 6 to remove the \"initial\" narrowing, preserve voter-approval conditionality, and capture tax cessation and excess-levy authority; retained subsections 1, 3, and 4.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Petition and election for library tax in cities of 600,000 or more",
+          "bodySha256": "91bb43b85cf1aadafeda988fa437b7001a7021a76fc8b9adc2907918ac41b0b5",
+          "reviewNote": "Read complete text of subsection 1 and source notes (L. 1945 p. 1127 § 14752 through A.L. 1985 S.B. 152; Effective 12-31-85). Applies to cities of 600,000 or more inhabitants; directs submission of a library establishment, maintenance, rehabilitation, or extension tax question upon written petition of 100 city voters or an existing library board specifying the rate. Independent review noted source discrepancy between official catchline (\"cities over 600,000\") and body text (\"cities of six hundred thousand inhabitants or over\")."
+        },
+        {
+          "number": 2,
+          "title": "Ballot form for public library tax",
+          "bodySha256": "1327acab099d9ec949e4fc4d4869895263edd5aa6646acf8bc55fb49c59575eb",
+          "reviewNote": "Read complete text of subsection 2 including ballot-question block and source notes. Sets out substantial ballot wording for a library tax per $100 valuation in a covered city. Independent review removed \"initial\" from title because subsection 1 also covers taxes for existing libraries."
+        },
+        {
+          "number": 3,
+          "title": "Petition and notice recitals for library tax increases",
+          "bodySha256": "a752d9a146ca716196a81a3ce7986ab88a978fe310ed6690449e08f640c0e932",
+          "reviewNote": "Read complete text of subsection 3 and source notes. Requires reciting in the petition and election notice when a proposed tax seeks an increase over a lesser previously voted rate for maintaining, rehabilitating, or extending an established library."
+        },
+        {
+          "number": 4,
+          "title": "Ballot form for increasing city public library tax",
+          "bodySha256": "5361a832388dabafc58edb9d5b8ff51c8b1587f6d446af821efb92e8c8cc9a2a",
+          "reviewNote": "Read complete text of subsection 4 including ballot-question block and source notes. Sets out substantial ballot wording for increasing the present free public library tax rate per $100 assessed valuation."
+        },
+        {
+          "number": 5,
+          "title": "Approved tax levy, collection, and City Library Fund under 182.440",
+          "bodySha256": "3071a3404414c48498202f66db7e772eaeac6619a65ae65f220c7b7d09931fd4",
+          "reviewNote": "Read complete text of subsection 5 and source notes. Directs that an approved tax be levied and collected like general city taxes and become part of the City Library Fund administered under section 182.440. Independent review revised title to preserve the majority-vote approval condition."
+        },
+        {
+          "number": 6,
+          "title": "Tax cessation or rate changes, state-aid duty, and excess-levy authority",
+          "bodySha256": "b320dda866caf8df9f3c6f8c41a6bc1fbcf70aa73fe04b9d431c9c4b92714f35",
+          "reviewNote": "Read complete text of subsection 6 and source notes. Covers voter cessation or decrease of the tax, rate increases up to statutory limits by like procedure, non-waiver of the general assembly's Article IX Section 10 state-aid duty, and authority under Article X Section 11 to levy above general municipal or St. Louis county tax limits. Independent review revised title to capture tax cessation and clarify that Article X Section 11 authorizes levies in excess of general municipal or St. Louis county limits."
+        }
+      ]
+    },
+    {
+      "id": "182.200:9195",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.200&bid=9195",
+      "sourceSha256": "0661f49976464ac693e891dc269945784788fd5461a4e947aad78851b47db3e2",
+      "textSha256": "2ff363f5e989a5b5fc561b9f7fb92bda331716307a2b61ec62ec9a2cfa203bab",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 6 subsections and history/prior-revision notes (RSMo 1939 § 14756 through A.L. 1995 S.B. 14) and verified all fingerprints. Checked officer election, sections 182.140–182.301 bylaw scope, chief executive and administrative librarian role, segregated city treasury fund and monthly remittances, corporate/property/deed-of-trust bond powers, and nonresident service exchanges. Revised subsection 3 title to avoid omitting \"chief executive\" from the statutory role; retained subsections 1–2 and 4–6.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Trustee organization and election of board officers",
+          "bodySha256": "9d39680cf459ea263a05d9a5b48a9dfe41a32d5034863bdcd7c07571f9849c05",
+          "reviewNote": "Read complete text of subsection 1 and source notes (RSMo 1939 § 14756 through A.L. 1995 S.B. 14; prior revisions 1929, 1919, 1909). Directs trustees immediately after appointment to organize by electing a president and other officers deemed necessary."
+        },
+        {
+          "number": 2,
+          "title": "Adoption of bylaws, rules, and regulations under 182.140 to 182.301",
+          "bodySha256": "6bcceac213a7c3fec386838651f0c508f8f5dced276682040fc39bf723ed9750",
+          "reviewNote": "Read complete text of subsection 2 and source notes. Directs trustees to adopt expedient bylaws, rules, and regulations for board guidance and library government not inconsistent with sections 182.140 to 182.301."
+        },
+        {
+          "number": 3,
+          "title": "Appointment and role of qualified librarian",
+          "bodySha256": "9f51f6ed05bf64e5a8d29b8a40db28e6231dc451e034a084757d87a2bbb8987b",
+          "reviewNote": "Read complete text of subsection 3 and source notes. Directs trustees to appoint a properly qualified librarian as chief executive and administrative officer for the library. Independent review revised title to avoid omitting \"chief executive\" from the statutory role \"chief executive and administrative officer\"."
+        },
+        {
+          "number": 4,
+          "title": "Control of funds and facilities and monthly city remittances",
+          "bodySha256": "2ead6aad57ed4d0eb8d3ee826f485fb19cce40a7b91b19866dbc2afa067e6cb3",
+          "reviewNote": "Read complete text of subsection 4 and source notes. Grants trustees exclusive control over library fund expenditures, building construction, and facilities; requires segregated city treasury deposit in the city library fund; and directs monthly remittance of collections and interest to the district treasurer with duplicate receipts."
+        },
+        {
+          "number": 5,
+          "title": "Corporate powers, property transactions, deed-of-trust bonds, and gifts",
+          "bodySha256": "86b5e63747b5242ddd49f0360161698847e5e9408006f0f9b2e2ffec73455f37",
+          "reviewNote": "Read complete text of subsection 5 and source notes. Confers corporate powers on the board to sue and be sued, use a common seal, buy/lease/build/sell real and personal property for library and branches, issue bonds secured by deed of trust on board-owned land, and receive and hold gifts, devises, and bequests in trust."
+        },
+        {
+          "number": 6,
+          "title": "Nonresident library privileges through interlibrary service exchanges",
+          "bodySha256": "ae5d9b64bf3e76c00631d041aa0376991bd0462a0644438f09b8763ba54adf1c",
+          "reviewNote": "Read complete text of subsection 6 and source notes. Permits the board to extend library privileges to nonresidents through service-exchange agreements with other existing libraries on board-prescribed terms."
+        }
+      ]
+    },
+    {
+      "id": "182.221:9197",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.221&bid=9197",
+      "sourceSha256": "fdf775a824fb31588271df980ad70f2017862ededddd7a13811e934baa2c1aea",
+      "textSha256": "e2932af8eeb4be828e9235788e3bbadc5770710baa7348b5c6bc33a950ea23ef",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read both subsections and notes (L. 1985 S.B. 152 § 182.220, effective 12-31-85) and verified all fingerprints. Confirmed catchline/body discrepancy: official catchline states \"(cities 600,000 or more)\" while body text refers generally to \"the library district\" without a population qualifier. Revised subsection 1 title to include board/taxpayer breach-suit authority alongside surety bonds; retained subsection 2.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Treasurer, librarian, and employee surety bonds and breach suits",
+          "bodySha256": "741c3ed0f84ae78fca3f14320f44eade6e4a81752857373b8bdd199832dab5ba",
+          "reviewNote": "Read complete text of subsection 1 and source notes (L. 1985 S.B. 152 § 182.220; Effective 12-31-85; noting official catchline states \"(cities 600,000 or more)\" while body text refers generally to \"the library district\"). Requires board-approved corporate surety bonds paid from the operating fund and filed with the board treasurer, and authorizes board or taxpayer breach suits. Independent review revised title to include breach suits alongside surety bonds."
+        },
+        {
+          "number": 2,
+          "title": "Librarian financial recordkeeping and board access to accounts",
+          "bodySha256": "3815572aa6404c50ce8df15bc55bfd965f63ea4140505b96824e72bb8c96251c",
+          "reviewNote": "Read complete text of subsection 2 and source notes. Directs the librarian to maintain financial records and accounts according to generally accepted accounting standards and furnish requested records or summaries to the board or any member."
+        }
+      ]
+    },
+    {
+      "id": "182.291:9203",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.291&bid=9203",
+      "sourceSha256": "e9313ebd7d34933aab799171f8c1f9475bd1e567ee71e14cdb5c7cc32cdb5155",
+      "textSha256": "56ec634a7c3c05a0c78ccce82c2b04b4d4ce8b19f2bc5e9ee752934d080942df",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 7 subsections including subsection 7 subdivisions (1)–(3) and history notes (L. 1955 p. 555 § 182.230 through A.L. 1990 H.B. 1393) and verified all fingerprints. Verified equal-levy and under-250,000 population conditions, 30-day county order and denial fallback under sections 182.010–182.120, 5/4 board split and section 182.060 organization, fund deposit, next-fiscal-year tax integration, automatic asset/obligation transfer, and annual audit/budget exceptions. Retained all 7 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "City library board petition to organize city-county library",
+          "bodySha256": "c190615fd60a478a931453510d20ee887ae0e11953573f647fdaf87605752f88",
+          "reviewNote": "Read complete text of subsection 1 and history notes (L. 1955 p. 555 § 182.230 through A.L. 1990 H.B. 1393). Permits a city library board (with prior city governing body approval) in a county district of under 250,000 population having an equal city library tax levy to petition the county governing body to organize a city-county library."
+        },
+        {
+          "number": 2,
+          "title": "County board petition, thirty-day county decision, and denial fallback",
+          "bodySha256": "fe84096615a5c9280fd4033d82ad73fa182551dd8df9a9031045eef6c6639f8f",
+          "reviewNote": "Read complete text of subsection 2 and history notes. Permits an appointed section 182.050 county library board to petition for a city-county library, requires a county governing body order within 30 days establishing the city-county library if approved, and allows proceeding under sections 182.010 to 182.120 if denied."
+        },
+        {
+          "number": 3,
+          "title": "Nine-member board appointment, terms, organization, and city board dissolution",
+          "bodySha256": "ac8b6b4b298cd1020beb287f9ea799b2dff033f247d0f9ecda4006fb0076ce16",
+          "reviewNote": "Read complete text of subsection 3 and history notes. Establishes a nine-member board appointed 5/4 by the county governing body and mayor based on relative population, sets staggered initial and three-year terms, directs section 182.060 organization, and dissolves the city board with transfer of its property, books, and records."
+        },
+        {
+          "number": 4,
+          "title": "Deposit of unexpended preexisting district funds with city treasurer",
+          "bodySha256": "1469a46caee46a6135d6486f37296184081e7528df25a99797d0cca41b2e8faa",
+          "reviewNote": "Read complete text of subsection 4 and history notes. Requires custodians to deposit all unexpended funds of preexisting separate city and county library districts with the city treasurer immediately upon county approval of the petition."
+        },
+        {
+          "number": 5,
+          "title": "Tax integration at next fiscal year and uninterrupted interim levies",
+          "bodySha256": "8c3ed0407afd7e1ffa92737428a8ab3130c24a7ce51821c8fc3c097797c7e972",
+          "reviewNote": "Read complete text of subsection 5 and history notes. Merges the city district into the county district for tax purposes at the next fiscal year while maintaining uninterrupted, unchanged interim levies and collections paid immediately to the city treasurer."
+        },
+        {
+          "number": 6,
+          "title": "Automatic transfer of property and obligations and official district name",
+          "bodySha256": "219118719b9d607af1269e8047667c1a782e4bb8da826f7fb5f130bafd5cf5d2",
+          "reviewNote": "Read complete text of subsection 6 and history notes. Automatically transfers all real and personal property and obligations of both preexisting districts to the merged city-county library district and prescribes its official name format."
+        },
+        {
+          "number": 7,
+          "title": "Governing county library laws, audits, monthly remittances, and annual budget",
+          "bodySha256": "a67459028fac66f2c01bf10032a7c76d52a082da15960506186f77941c3c49c7",
+          "reviewNote": "Read complete text of subsection 7 including subdivisions (1) through (3) and history notes. Applies county library district laws to the merged district except where inconsistent, and sets specific requirements for treasurer custody, annual audits, monthly finance officer remittances with duplicate receipts, and board-approved budgets furnished to city and county governing bodies 60 days before each fiscal year (forthwith for the first budget)."
+        }
+      ]
+    },
+    {
+      "id": "182.296:9204",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.296&bid=9204",
+      "sourceSha256": "9e91962b9403ce23082de44cc6cc9e84bcd7292ccd8ded039fd44c3a27bed9bf",
+      "textSha256": "d27d796645c1902b86b8f8cb5be9abf1ef39bf83ee1a81ca741ff210dd58beb4",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read both subsections and notes (L. 1985 S.B. 152, effective 12-31-85) and verified all fingerprints. Confirmed that body text matches section 182.221 verbatim in referring generally to \"the library district\" while the official catchline restricts scope to \"(city and county library)\". Revised subsection 1 title consistently with section 182.221(1) to include breach suits; retained subsection 2.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Treasurer, librarian, and employee surety bonds and breach suits",
+          "bodySha256": "741c3ed0f84ae78fca3f14320f44eade6e4a81752857373b8bdd199832dab5ba",
+          "reviewNote": "Read complete text of subsection 1 and source notes (L. 1985 S.B. 152; Effective 12-31-85). Applies to city-county libraries; requires board-approved corporate surety bonds for the treasurer, librarian, and designated employees paid from the operating fund and filed with the board treasurer, and authorizes board or taxpayer breach suits. Independent review noted official catchline states \"(city and county library)\" while body text mirrors section 182.221 in referring generally to \"the library district\", and revised title to include breach suits."
+        },
+        {
+          "number": 2,
+          "title": "Librarian financial recordkeeping and board access to accounts",
+          "bodySha256": "3815572aa6404c50ce8df15bc55bfd965f63ea4140505b96824e72bb8c96251c",
+          "reviewNote": "Read complete text of subsection 2 and source notes. Directs the librarian to keep financial records and accounts under generally accepted accounting standards and furnish records or summaries requested by the board or any member."
+        }
+      ]
+    },
+    {
+      "id": "182.440:9209",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.440&bid=9209",
+      "sourceSha256": "1c60528405f85d03e016916f86b1468a82e2b3a891b86f85f42b3627cc0ca8ce",
+      "textSha256": "4ac6c5ef6f81d09fb9631718b51e894b51c8c8b250213b190e5c05281cc7aab3",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 6 subsections and notes (RSMo 1939 § 14780 through A.L. 1995 S.B. 14, prior revisions, and Revisor footnote noting \"ground\" in original rolls for \"grounds*\" in subsection 5) and verified all fingerprints. Checked corporate name, officer elections, chapter 182 bylaws, exclusive fund/facility control, deed-of-trust bonds and corporate trust title, and librarian/assistant employment powers. Retained all 6 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Corporate name and exercise of board powers",
+          "bodySha256": "81931fd2bb61e8c58234c99615a1e459c2ccdd519c5a9afc9d59590cde20ff28",
+          "reviewNote": "Read complete text of subsection 1 and source notes (RSMo 1939 § 14780, A.L. 1985 S.B. 152, A.L. 1995 S.B. 14; prior revisions 1929, 1919, 1909). Styles the directors as the \"board of directors of the public library\" in their corporate name to exercise granted powers."
+        },
+        {
+          "number": 2,
+          "title": "Board organization and election of officers",
+          "bodySha256": "0d3a2e2abe02c00adf510707e9ddc45e725700e4f0211feb28067dd1c60bb90d",
+          "reviewNote": "Read complete text of subsection 2 and source notes. Directs directors immediately after appointment to organize by electing a president and other officers deemed necessary."
+        },
+        {
+          "number": 3,
+          "title": "Adoption of bylaws, rules, and regulations under chapter 182",
+          "bodySha256": "9a87e2dadb16afecb0246cac94925673a6821b1d002b1cf453509693566fcd0a",
+          "reviewNote": "Read complete text of subsection 3 and source notes. Directs directors to adopt expedient bylaws, rules, and regulations not inconsistent with chapter 182 for their own guidance and governing the library and reading room."
+        },
+        {
+          "number": 4,
+          "title": "Exclusive control over library funds, construction, and facilities",
+          "bodySha256": "b67893dde4d41c52f0002ef2dc0a73803afed873dc5b83184592525311e320a1",
+          "reviewNote": "Read complete text of subsection 4 and source notes. Grants the board exclusive control over expenditures from the library fund, library building construction, and supervision, care, and custody of grounds, rooms, and buildings."
+        },
+        {
+          "number": 5,
+          "title": "Property powers, deed-of-trust bonds, and corporate trust title",
+          "bodySha256": "bc3c08d1a2ed365e10946edf9f8374482f138c403cb124fa9d0bafc1f6028215",
+          "reviewNote": "Read complete text of subsection 5 and source notes (including Revisor footnote noting word \"ground\" appears in original rolls where text prints \"grounds*\"). Empowers the board to purchase, hold, or lease grounds, build or lease buildings, issue bonds secured by deed of trust on board-possessed land, and hold all acquired property in corporate trust."
+        },
+        {
+          "number": 6,
+          "title": "Appointment, pay, and removal of staff and general library duties",
+          "bodySha256": "9ce7a6f6b7281f088badcee9a6d2136f04d5742760d5fb1b1552560c8c15a471",
+          "reviewNote": "Read complete text of subsection 6 and source notes. Empowers the board to appoint, compensate, and remove a suitable librarian and necessary assistants, and generally to carry out chapter 182 in establishing and maintaining a public library and reading room."
+        }
+      ]
+    },
+    {
+      "id": "182.620:9217",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.620&bid=9217",
+      "sourceSha256": "e9d9437871ff1ebe6ad916e97a05c2eca218888c949b2e0d3ba0062070405879",
+      "textSha256": "8a10e6918013e07a42ed500fa86ac777ca8d5da93a728ce733c871f82fce1849",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 5 subsections, subsection 3 ballot-question block, and history note (L. 1972 H.B. 1114, A.L. 1978 H.B. 971) and verified all fingerprints. Verified board-resolution creation with county approval and publication/state-commission notice, 5% voter-petition election under section 182.610, separate-county majority requirement, 20-day canvass, and 30-day property transfer. Retained all 5 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Consolidation by district board resolutions, county approval, and notices",
+          "bodySha256": "dc78f7ac752859a123507a494c7e5734527c58b36563b1a73c1087f27ade4dec",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1972 H.B. 1114, A.L. 1978 H.B. 971). Authorizes creating a consolidated public library district by resolutions of two or more county library district boards approved by county commissions or executives, followed by newspaper legal notice and filing notice with the Missouri State Library Commission."
+        },
+        {
+          "number": 2,
+          "title": "Voter petition and election for consolidating county library districts",
+          "bodySha256": "5c477f11929ff06fe25b6007daec47a5171331bc8303c73a9bd5ae16b925cf72",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires county commissions or executives to call a consolidation election under section 182.610 upon petitions signed by 5% of gubernatorial voters in each of two or more county library districts."
+        },
+        {
+          "number": 3,
+          "title": "Ballot form for creating consolidated public library district",
+          "bodySha256": "8735ce0284e87fab0800bd43c7896f8aa6478e18156ba2997f791ea44ca64a25",
+          "reviewNote": "Read complete text of subsection 3 including ballot-question block and history note. Sets out substantial ballot wording for consolidating county public library districts into a named public library district."
+        },
+        {
+          "number": 4,
+          "title": "Separate county majority requirement and twenty-day result canvass",
+          "bodySha256": "a6a7d9b413021e6add6e2cd66511bd711dda354f0403e8243b331216dbb0e842",
+          "reviewNote": "Read complete text of subsection 4 and history note. Requires majority approval in each county separately for adoption, and directs each county board of election commissioners to canvass certified abstracts and notify presiding commissioners or county executives within 20 days."
+        },
+        {
+          "number": 5,
+          "title": "Thirty-day transfer of district property to consolidated board control",
+          "bodySha256": "5e4b7388ed81351d2a13d16d3940507717e1653b8b52cdede31d4a8e935cbacf",
+          "reviewNote": "Read complete text of subsection 5 and history note. Directs affected taxing authorities and county library boards, within 30 days of election notification or resolution adoption, to transfer all real and personal property title and interest to the consolidated district board's exclusive control."
+        }
+      ]
+    },
+    {
+      "id": "182.640:34786",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.640&bid=34786",
+      "sourceSha256": "6fd121cea79d22a96b017ed39e6dfd8ce7562c18f65bb95b6d3b8af4d12cccdf",
+      "textSha256": "365c56bb201e7362bd8136d98c09ca633ad9d0913fb7f477bffbbe4c2042e967",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 10 subsections and history notes (L. 1972 H.B. 1114, A.L. 2005 H.B. 47, A.L. 2017 S.B. 112) and verified all fingerprints. Checked sections 182.610–182.670 and 182.660 trustee appointments, August 28, 2005 nonresident vacancy cutoff, removal hearing grounds, nepotism bar, expense reimbursement exception, treasurer compensation exception, ten-meeting requirement exception, full-board majority actions, and graduate librarian hiring/dismissal powers. Revised subsections 1, 2, 6, 7, 8, and 10 to eliminate ambiguity on expense reimbursement, correct \"ten-meeting cap\" to \"ten-meeting requirement exception\", preserve the 2005 date scope, clarify \"elected-official bar\" and \"treasurer compensation exception\", and include staff dismissal; retained subsections 3–5 and 9.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board size, trustee appointments, enlargement seats, and elected-official bar",
+          "bodySha256": "1c11e0259855a2994561acca8bf3216a8907591e43fad8fbd8681167937a21ac",
+          "reviewNote": "Read complete text of subsection 1 and history notes (L. 1972 H.B. 1114, A.L. 2005 H.B. 47, A.L. 2017 S.B. 112). Establishes a consolidated district board of at least eight trustees under sections 182.610 to 182.670 (barring elected officials), with four resident trustees per participating county on creation or section 182.660 county-district enlargement and one resident trustee per outside county for partial-county district enlargements. Independent review clarified \"elected-official bar\" in title."
+        },
+        {
+          "number": 2,
+          "title": "Carryover trustees, four-year terms, and 2005 nonresident vacancies",
+          "bodySha256": "04036c814d2c2e526a2e4cd5393da5762b837def11b546e3ed39771db6e62b2c",
+          "reviewNote": "Read complete text of subsection 2 and history notes. Continues existing county district trustees through remaining terms, sets subsequent four-year terms starting July 1 (with holdover), and deems trustees in office as of August 28, 2005 who reside outside the district to have vacated office for replacement under subsection 4. Independent review revised title to tie nonresident vacancies to the statutory August 28, 2005 cutoff."
+        },
+        {
+          "number": 3,
+          "title": "Removal of trustees for absences, prejudicial conduct, or neglect",
+          "bodySha256": "94491ce56c89958b49030c20d2c3af33426ebf07615725cbad233b5269d98d99",
+          "reviewNote": "Read complete text of subsection 3 and history notes. Permits trustee removal by board resolution after specification of charge and hearing for six consecutive unexcused meeting absences, conduct prejudicial to good order and effective operation, or neglect of duty."
+        },
+        {
+          "number": 4,
+          "title": "Reporting and filling board vacancies for unexpired terms",
+          "bodySha256": "3a9824e9a1a09f1bcc378b1ac37c57a0b856602accf0b6e602e805fef1a81c9b",
+          "reviewNote": "Read complete text of subsection 4 and history notes. Requires reporting board vacancies to county commissions or executives and filling them in the same manner as original appointments, limited to any unexpired term remainder."
+        },
+        {
+          "number": 5,
+          "title": "Prohibition on employing relatives of trustees",
+          "bodySha256": "ce20e3f9dea149c1f4b5a82c5c0d91e0169626baf1a0bcf06b5d4ece553f6a94",
+          "reviewNote": "Read complete text of subsection 5 and history notes. Prohibits the board of trustees or librarian from employing any person related within the third degree by blood or marriage to any board trustee."
+        },
+        {
+          "number": 6,
+          "title": "Trustee compensation ban and permitted expense reimbursement",
+          "bodySha256": "982d9890731e37f4b3cd18e0d6454439f6b28810e7346a9a9847e602312e56f1",
+          "reviewNote": "Read complete text of subsection 6 and history notes. Bars trustee fees, salary, gratuity, or other remuneration except as expressly provided in sections 182.610 to 182.670, while permitting reimbursement of actual and necessary expenses. Independent review revised title to remove ambiguity and clarify that expense reimbursement is permitted."
+        },
+        {
+          "number": 7,
+          "title": "Board officers, service at pleasure, and treasurer compensation exception",
+          "bodySha256": "cc8b05a6e6a282fb54888e4b8ce87caf8aa9b718a14e6184b9b4d4baef03be6c",
+          "reviewNote": "Read complete text of subsection 7 and history notes. Directs board selection of a president, secretary, treasurer (who may also serve as secretary), and other officers serving at board pleasure without compensation or reimbursement except the treasurer. Independent review replaced \"pleasure service\" with \"service at pleasure\" and made the treasurer compensation exception explicit."
+        },
+        {
+          "number": 8,
+          "title": "Monthly meetings, ten-meeting requirement exception, and bylaws",
+          "bodySha256": "c5cfc19570b23e8536a3a82bf9688bc27070f9bc6248f43e94464d40c7bdfe59",
+          "reviewNote": "Read complete text of subsection 8 and history notes. Requires monthly scheduled meetings while providing the board need not meet more than 10 times per calendar year, and directs adoption of bylaws, rules, and regulations prescribing officer duties consistent with law. Independent review replaced \"ten-meeting cap\" with \"ten-meeting requirement exception\" because the statute relieves the board from being required to meet more than ten times rather than capping meetings."
+        },
+        {
+          "number": 9,
+          "title": "Quorum and full-board majority requirement for major actions",
+          "bodySha256": "bf9e8bc902649b4526f00ec1b10d55fd2f002611342add0d277048ba962ff789",
+          "reviewNote": "Read complete text of subsection 9 and history notes. Sets a full-board majority quorum and general action by majority of trustees present, except requiring an affirmative majority of the full board for contracts, employing or dismissing the chief administrative officer, mergers or consolidations, or budget approval."
+        },
+        {
+          "number": 10,
+          "title": "Governance policies, graduate librarian, and staff hiring and dismissal",
+          "bodySha256": "5666b8e6383042fca9cea4c535f2ad064f562afec44ecdf6fbf07779045b0481",
+          "reviewNote": "Read complete text of subsection 10 and history notes. Directs board adoption of governance policies under sections 182.610 to 182.670 and employment of a qualified graduate librarian serving at board pleasure, and authorizes the librarian to employ and dismiss staff in board-created positions. Independent review revised title to include staff dismissal authority alongside hiring."
+        }
+      ]
+    },
+    {
+      "id": "182.645:57192",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.645&bid=57192",
+      "sourceSha256": "56c618880a33a5e5dfe46f5d78fb585c3373df8f951cae55df425146312c0ec2",
+      "textSha256": "9221bb251c7ae1eeb0ed341af3a589a6a7c050bf6d9d571844964efba7f2d690",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 5 subsections and history note (L. 1972 H.B. 1114, A.L. 2025 S.B. 396) and verified all fingerprints. Verified board-modifiable July 1–June 30 fiscal year, budget approval/amendment/filing rules, operating/building/other fund allocations, president certification, sections 105.273–105.278 facsimile signatures, and regular-meeting accountings, retaining source phrasing \"and be in the proper form\" in subsection 4. Retained all 5 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Fiscal year, annual budget approval, amendments, and filings",
+          "bodySha256": "6b704ce65afd53adfe0cc976467bed7687b0368791386e36583cbaced6b7a406",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1972 H.B. 1114, A.L. 2025 S.B. 396). Sets a July 1 to June 30 fiscal year unless otherwise set by the board, requires librarian budget submission and board approval on or before the preceding fiscal year's last day, permits budget amendments, and mandates filing copies with participating county commissions/executives and the state auditor."
+        },
+        {
+          "number": 2,
+          "title": "Treasurer custody of funds, fund accounts, depositaries, and securities",
+          "bodySha256": "6d3a051cc312e6d350ee7358f56f2b0c36156a8c71f22eb4ad98c16abda8f466",
+          "reviewNote": "Read complete text of subsection 2 and history note. Designates the treasurer as custodian of consolidated district moneys, bonds, and securities; allocates local operating taxes and non-capital state/federal grants to the operating fund, building funds to the building fund, and allows board-created funds; and directs deposits in board-selected depositaries."
+        },
+        {
+          "number": 3,
+          "title": "Disbursement authorization, president certification, and facsimile signatures",
+          "bodySha256": "16a4a082c1b1fb10256dc5934f09c2dd74071d363048ece547579e6b33a320d6",
+          "reviewNote": "Read complete text of subsection 3 and history note. Limits disbursements to board-authorized payments certified by the president (specifying amount, payee, and purpose), and permits board resolutions authorizing president or treasurer facsimile signatures under sections 105.273 to 105.278."
+        },
+        {
+          "number": 4,
+          "title": "Sufficient funds and proper form required for disbursements",
+          "bodySha256": "5e3d7d822b3017f67432b341cdf30e2fc8de74dbe115cc9c184c6be8ab610192",
+          "reviewNote": "Read complete text of subsection 4 and history note. Prohibits authorizing, certifying, or issuing payment for consolidated district indebtedness unless sufficient money exists in the treasury and proper fund and the payment is in proper form. Independent review retained source phrasing \"and be in the proper form\" without alteration."
+        },
+        {
+          "number": 5,
+          "title": "Treasurer accounting at regular board meetings",
+          "bodySha256": "917d62768d494b69a697566e7d42bc2f5ba6d93cacfeb1f040878e0212f5894d",
+          "reviewNote": "Read complete text of subsection 5 and history note. Requires the board treasurer to submit an accounting of consolidated district receipts and disbursements at each regularly scheduled board meeting."
+        }
+      ]
+    },
+    {
+      "id": "182.647:9221",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.647&bid=9221",
+      "sourceSha256": "c55923d11d38f10b810df8a8bfc859300274669ec0063b95c2f280408199863f",
+      "textSha256": "ec03b441f6538f355148884ae64847896e57553e14b82109ed33ced36cca406c",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 3 subsections and history note (L. 1972 H.B. 1114, A.L. 2010 H.B. 1559) and verified all fingerprints. Checked surety bond filing with board treasurer and each included county clerk, operating-fund premium, board/taxpayer breach suits, GAAP accounting, and September 30/October 31 independent-audit reporting deadlines. Revised subsection 1 title to \"Officer and employee surety bonds...\" because the board treasurer is a trustee/officer; retained subsections 2–3.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Officer and employee surety bonds, filings, premiums, and breach suits",
+          "bodySha256": "de445373db21f0e853d55261265d2589166a0bff15f0fcec73720b37c96631d8",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1972 H.B. 1114, A.L. 2010 H.B. 1559). Requires board-approved corporate surety bonds for the treasurer, librarian, and designated employees (paid from operating fund and filed with board treasurer and each included county clerk), and authorizes board or taxpayer breach suits in the state's name. Independent review revised title to \"Officer and employee surety bonds...\" because the board treasurer is a trustee/officer."
+        },
+        {
+          "number": 2,
+          "title": "Librarian financial recordkeeping and board access to accounts",
+          "bodySha256": "3d4fe4564f19f5aba682892774b7e9699545986e2a717bae46496028f80d4f7e",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs the librarian to keep financial records and accounts under generally accepted accounting standards and furnish records or summaries requested by the board or any member."
+        },
+        {
+          "number": 3,
+          "title": "Annual audited library report to board, counties, and state commission",
+          "bodySha256": "9fdbffeecc5d273578d68746362a4035582662a92a0a96a34f1869610f6fb5a8",
+          "reviewNote": "Read complete text of subsection 3 and history note. Requires the librarian by September 30 to submit a condition and services report (as of June 30) accompanied by an independent audit to the board, and requires board submission to county commissions/executives and the Missouri State Library Commission by October 31."
+        }
+      ]
+    },
+    {
+      "id": "182.650:9222",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.650&bid=9222",
+      "sourceSha256": "465ec727fe8a061fe5d4d23a75014d479a6b4a9672f7b6849fa38ba8ede4183e",
+      "textSha256": "137d287894e0797b4b47462474b7716af264c0869d57af52f2fa38ae582da392",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 8 subsections, ballot-question blocks in subsections 3 and 7, and history note (L. 1972 H.B. 1114, A.L. 1978 H.B. 971) and verified all fingerprints. Retained source discrepancies faithfully: subsection 2 refers to \"the petition\" despite subsection 1 using a board resolution, and subsection 8 says \"voters of the county library district\" in a consolidated-district section. Checked 20-cent floor, existing-levy retention on defeat, and 10-year building tax. Revised subsection 8 title to preserve majority-vote conditionality and include levy; retained subsections 1–7.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Minimum initial tax levy and board resolution for tax increases",
+          "bodySha256": "c1bc8e3224c3c88069adc0652d85bd769d3586f3b04e86c7e157645e34611b55",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1972 H.B. 1114, A.L. 1978 H.B. 971). Authorizes a consolidated district to levy at least 20 cents per $100 assessed valuation, while requiring any rate increase to be submitted by board resolution through county commissions or executives for voter approval."
+        },
+        {
+          "number": 2,
+          "title": "County election order and notice for proposed tax increase",
+          "bodySha256": "f7ab2618134371a1d167acc5b6073c2cd208c4167011fca131a39e8739db28f1",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs county commissions or executives upon receiving the subsection 1 resolution to order an election on the tax increase, specifying county name and rate (noting source text refers to \"rate of taxation mentioned in the petition\" despite subsection 1 using a resolution)."
+        },
+        {
+          "number": 3,
+          "title": "Ballot form for consolidated district tax increase",
+          "bodySha256": "4eb03482d703f38fa99362157c3ffe10bd5e9d4967ba8e2160649fc37b0db4b4",
+          "reviewNote": "Read complete text of subsection 3 including ballot-question block and history note. Sets out substantial ballot wording for a cent-rate tax increase per $100 assessed valuation for the consolidated public library district."
+        },
+        {
+          "number": 4,
+          "title": "Levy, collection, and remittance of approved tax increase",
+          "bodySha256": "250c88468fd336bb60f7dbf605d95867ba783311272cc1c4a19356b248849d10",
+          "reviewNote": "Read complete text of subsection 4 and history note. Upon majority approval, directs levying and collecting the increased tax like other county taxes and forwarding proceeds to the consolidated district treasurer."
+        },
+        {
+          "number": 5,
+          "title": "Retention of existing levy if tax increase is rejected",
+          "bodySha256": "02b11b75b15a9ee21da93f84de9eed7031415dbdf59a609383272ecb77e6baf7",
+          "reviewNote": "Read complete text of subsection 5 and history note. Provides that if a majority votes against the proposed tax rate, the previously existing levy remains in effect."
+        },
+        {
+          "number": 6,
+          "title": "Board resolution and election order for library building tax",
+          "bodySha256": "8ecab2212d0464aec3105ae4a9d95011958d8738fe91aa57c2322dacf975a353",
+          "reviewNote": "Read complete text of subsection 6 and history note. Covers a consolidated board's written resolution and county commission/executive order and notice submitting an additional annual library building tax (not to exceed 10 years) to consolidated district voters."
+        },
+        {
+          "number": 7,
+          "title": "Ballot form for consolidated district library building tax",
+          "bodySha256": "0bd7fcd2ec170a71e0d91939a21341fd5f3f7942d83b8cfec7358d9fa6982e47",
+          "reviewNote": "Read complete text of subsection 7 including ballot-question block and history note. Sets out substantial ballot wording for a cent-rate tax for erection of library buildings."
+        },
+        {
+          "number": 8,
+          "title": "Levy, control, disbursement, and use of approved building tax",
+          "bodySha256": "dec855234896a5fd6043dc2a2737aae7b28262b2e51960829cc3937ef08d187b",
+          "reviewNote": "Read complete text of subsection 8 and history note. Upon majority voter approval (noting source text says \"voters of the county library district\"), provides for levy, collection, delivery to the consolidated district treasurer, exclusive board control, board-authorized disbursement, building/furnishing expenditure use, and additionality to the maintenance levy. Independent review revised title to preserve the majority-vote approval condition and include levy."
+        }
+      ]
+    },
+    {
+      "id": "182.655:9223",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.655&bid=9223",
+      "sourceSha256": "a118397315d6738291f28304870af541fe26b831cae2741aea9325322aa31bd2",
+      "textSha256": "2f9314accef48b7485d54b4f20a3f122e2a65db071134ebd3ef04c99620c0b09",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 4 subsections and history note (L. 1972 H.B. 1114, A.L. 1978 H.B. 971) and verified all fingerprints. Checked bond purposes, constitutional debt limit and municipal-election approval, boldfaced ballot tax-rate disclosure, 20-year retirement tax, advertised public sale, bearer bond/coupon terms, and president/treasurer/seal execution. Retained all 4 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board authority to acquire sites, build, furnish, and issue bonds",
+          "bodySha256": "dd93e5f571767e951e669485f0677b5acd3b29e170f507651647cb6fa23354d9",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1972 H.B. 1114, A.L. 1978 H.B. 971). Authorizes a consolidated district board to purchase ground, erect, improve, and furnish public library buildings, and pay by bonds or otherwise subject to section 182.655 conditions and limits."
+        },
+        {
+          "number": 2,
+          "title": "Constitutional debt limit, voter approval, and boldfaced ballot tax rate",
+          "bodySha256": "2ba073556a6cc672a15446828f7bd038835965ecec6a99677abe8334bb171d24",
+          "reviewNote": "Read complete text of subsection 2 and history note. Restricts bonds to constitutional assessed-value limits, requires constitutionally required voter approval at a municipal election, and requires boldfaced ballot disclosure of the approximate tax rate needed to retire the bonds."
+        },
+        {
+          "number": 3,
+          "title": "Annual tax levy to retire bond debt within twenty years",
+          "bodySha256": "456f3c466c23d0ad26b63b7fe696e71e4e293fc8bcc3522fd7975b84b0e8f02f",
+          "reviewNote": "Read complete text of subsection 3 and history note. Directs boards of trustees to provide for an annual taxable tangible property tax sufficient to pay bond interest and principal and retire the debt within 20 years."
+        },
+        {
+          "number": 4,
+          "title": "Election returns, advertised public sale, bond terms, and execution",
+          "bodySha256": "afe5f6bb361303ac24a41eca652b31d2dc70c45dc652f08ba4a7079d07fa1585",
+          "reviewNote": "Read complete text of subsection 4 and history note. Covers certifying returns to the board, record declaration of bond authority, advertised public sale, bearer bond form ($100+ multiples, 20-year max maturity, semiannual interest coupons, legal rate cap), president signature, treasurer attestation, and corporate seal."
+        }
+      ]
+    },
+    {
+      "id": "182.660:34787",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.660&bid=34787",
+      "sourceSha256": "de0ce11f346a7b172eeb27de887d85f6d21d556474d24ab748bb44e4bdcf505a",
+      "textSha256": "d53c45dd0ff887093a0a0cbc7545c37a872c6bdeb8b8b6092201c48e0bdb5b49",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 5 subsections and history notes (L. 1972 H.B. 1114, A.L. 1978 H.B. 971, A.L. 2017 S.B. 112) and verified all fingerprints. Verified eligible incorporating districts, board-resolution admission with section 182.620 notice, 5% voter-petition election with consolidated-board written approval, 60-day property transfer, dissolution of absorbed district, outside-county additional trustee notwithstanding section 182.640, and conforming next-period tax levy. Retained all 5 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority to enlarge consolidated district by incorporating other districts",
+          "bodySha256": "d93732805626521ebef98e82e13340f29d8a748e96309cad60721d8d795a38f4",
+          "reviewNote": "Read complete text of subsection 1 and history notes (L. 1972 H.B. 1114, A.L. 1978 H.B. 971, A.L. 2017 S.B. 112). Authorizes a sections 182.610 to 182.670 consolidated district to enlarge its service area by incorporating any county, city, municipal, school, or public library district."
+        },
+        {
+          "number": 2,
+          "title": "Board-resolution petition, admission at prevailing tax rate, and notice",
+          "bodySha256": "b731ffc620b426fd59b36304c58ca9cfeed88740f1336fb391d2b7ded948f731",
+          "reviewNote": "Read complete text of subsection 2 and history notes. Permits another library district's board to petition by resolution for admission upon majority vote of the consolidated board at the consolidated district's prevailing tax rate, with section 182.620 notice to the included district's governing authority."
+        },
+        {
+          "number": 3,
+          "title": "Voter-petitioned inclusion election upon consolidated board approval",
+          "bodySha256": "adf1eac829d1b9b47d204675e54eb8a0e37f04e26f948f95560966214d4acc42",
+          "reviewNote": "Read complete text of subsection 3 and history notes. Requires a petitioning district's governing authority to submit inclusion to its voters upon a 5% voter petition coupled with written majority approval by the consolidated district board."
+        },
+        {
+          "number": 4,
+          "title": "Property transfer, dissolution of absorbed district, and additional outside-county trustee",
+          "bodySha256": "ea4a5c22208d7dc9112be876d342f9fd4336a2a0b220eed8cb40dec829e21115",
+          "reviewNote": "Read complete text of subsection 4 and history notes. Requires transferring all real and personal property title and interest within 60 days after board admission or voter approval, dissolves the absorbed district and its board, and notwithstanding section 182.640 adds one trustee appointed by any non-participating county partially containing an absorbed city or municipal library district."
+        },
+        {
+          "number": 5,
+          "title": "Conforming tax levy in newly admitted district",
+          "bodySha256": "3b8885e6d131fa1f4a7e9bfc5fb46e7a9ff26c071e5ce4e057921729f53a6d7a",
+          "reviewNote": "Read complete text of subsection 5 and history notes. Requires levying taxes in an admitted district at the next taxing period to match the consolidated public library district's tax rate where rates differ or no library tax was previously levied."
+        }
+      ]
+    },
+    {
+      "id": "182.670:9225",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.670&bid=9225",
+      "sourceSha256": "a3292caa6d27b20cf4b60fc2b906683d7c67e805a44952ec895e3825d4e1412e",
+      "textSha256": "6b70b7d94c81795b6e6051accc81cffc6a8b67fb0d5f2db1e392312f5dc7d7af",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read both subsections and history note (L. 1972 H.B. 1114) and verified all fingerprints. Checked rule adoption, publication, county clerk filing, facility copies on file, and permissive temporary or permanent privilege suspension for persons or corporations. Revised subsection 1 title to remove \"posting\" in favor of \"filing\" to match the source requirement to keep copies on file; retained subsection 2.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Adoption, publication, and filing of library use rules",
+          "bodySha256": "8ff37d6096f6316503b82b21ad5827229d41789b466a14374842d212d5f62e6b",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1972 H.B. 1114). Directs the consolidated district board to adopt reasonable rules governing library use and privileges, publish them with amendments, file them with each served county clerk, and keep copies on file in all public library facilities. Independent review removed \"posting\" because the source requires keeping copies on file in library facilities."
+        },
+        {
+          "number": 2,
+          "title": "Temporary or permanent suspension of library privileges for rule violations",
+          "bodySha256": "7d3ac530af169e9addb02c0df4b9eee56db459faad442e5a1bfbed9f88f3cee4",
+          "reviewNote": "Read complete text of subsection 2 and history note. Grants permissive authority to the board or librarian to suspend a violating person's or corporation's library privileges temporarily or permanently as deemed in the best interests of the library and people served."
+        }
+      ]
+    },
+    {
+      "id": "182.707:9229",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.707&bid=9229",
+      "sourceSha256": "ea3018b629cc434f7c9865997d814ee74e90f3bb1bace7f0d8bc26516f7d3ec5",
+      "textSha256": "f8e905995865b844aad27d22aa42f3f6d4c22215c11dcbc8dbab0e315f3667b5",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 9 subsections and history note (L. 1988 S.B. 681, A.L. 2005 H.B. 638) and verified all fingerprints. Checked 9-member board creation, 15-business-day school board initial appointments, 7/1/1 phased successor mayor appointments, staggered lot-drawn terms, age/residency qualifications, vacancy reporting, expense reimbursement exception, treasurer compensation exception, monthly meetings, full-board majority actions, and chief executive hiring/dismissal powers. Revised subsections 5, 6, and 9 to remove reimbursement-prohibition ambiguity, clarify \"service at pleasure\" and \"treasurer compensation exception\", and include staff dismissal; retained subsections 1–4 and 7–8.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Nine-member board creation, initial appointment, and successor mayor appointments",
+          "bodySha256": "8177410ab74963a6e2a59a599cc9f8ace58b81b0b5d69eaf96d7ff3b4708a48b",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1988 S.B. 681, A.L. 2005 H.B. 638). Governs an urban public library district board under sections 182.701 to 182.723: initial appointment by the nine-director urban school board within 15 business days of election, 10-day organizational meeting, and phased successor appointments by mayors of the top three cities by district geographic area (7, 1, and 1)."
+        },
+        {
+          "number": 2,
+          "title": "Staggered initial terms, four-year terms, and holdover service",
+          "bodySha256": "cbfcb16db1f010a2f112b19adb3bd65192e8de8705087c06e2c76d5eecf99eb4",
+          "reviewNote": "Read complete text of subsection 2 and history note. Sets staggered initial terms (two 2-year, three 3-year, four 4-year decided by lot), subsequent four-year terms, remainder-of-term vacancy appointments, and service until a successor is appointed and qualified."
+        },
+        {
+          "number": 3,
+          "title": "Age and residency qualifications for trustees",
+          "bodySha256": "7068bc52dd9b8a02ed65f89353803232b89fa47707b9513a57a06afbd7840036",
+          "reviewNote": "Read complete text of subsection 3 and history note. Requires each urban public library district trustee to be at least 25 years old, a district resident, and a Missouri resident for at least one year preceding appointment."
+        },
+        {
+          "number": 4,
+          "title": "Reporting and filling board vacancies by appointing mayor",
+          "bodySha256": "eb45736517c2d229872fd5af4d8c5c17d117cb90ae384497ee571ddf5a4bc31e",
+          "reviewNote": "Read complete text of subsection 4 and history note. Requires reporting vacancies to the appropriate appointing city's mayor and filling them in like manner as original appointments for any unexpired term remainder."
+        },
+        {
+          "number": 5,
+          "title": "Trustee compensation ban and permitted expense reimbursement",
+          "bodySha256": "84a729e19f0613cedaa1587874d43a3a2260c025cd465e24e84a7d4547f48158",
+          "reviewNote": "Read complete text of subsection 5 and history note. Bars trustee fees, salary, gratuity, or other remuneration while permitting reimbursement of actual and necessary expenses incurred in performing duties. Independent review revised title to remove ambiguity and clarify that expense reimbursement is permitted."
+        },
+        {
+          "number": 6,
+          "title": "Board officers, service at pleasure, and treasurer compensation exception",
+          "bodySha256": "7d7b8ada2f745b035c64990c20e13c2527408da08291bbf1f33ad065841e6592",
+          "reviewNote": "Read complete text of subsection 6 and history note. Directs board selection of a president, secretary, treasurer (who may also serve as secretary), and other officers serving at board pleasure without compensation or reimbursement except the treasurer. Independent review replaced \"pleasure service\" with \"service at pleasure\" and made the treasurer compensation exception explicit."
+        },
+        {
+          "number": 7,
+          "title": "Monthly meetings and adoption of board bylaws and rules",
+          "bodySha256": "cfca6c79eb7616ec500bd97aef10e5807b9154e8d3ab931f7ccb40fb0f5015cc",
+          "reviewNote": "Read complete text of subsection 7 and history note. Requires monthly regularly scheduled board meetings and adoption of bylaws, rules, and regulations prescribing officer duties consistent with law."
+        },
+        {
+          "number": 8,
+          "title": "Quorum and full-board majority requirement for major actions",
+          "bodySha256": "7e539720c3aff47f5d370e054645e376d487ab82e9d620ceb653282ba9fa81e1",
+          "reviewNote": "Read complete text of subsection 8 and history note. Sets a full-board majority quorum and general action by majority of trustees present, except requiring an affirmative majority of the full board for contracts, employing or dismissing the chief administrative officer, mergers or consolidations, or budget approval."
+        },
+        {
+          "number": 9,
+          "title": "Governance policies, chief executive, and staff hiring and dismissal",
+          "bodySha256": "532903e486a478d611366d81aa72e24ba117456f41f79dc9fcf4370ab4d0bce6",
+          "reviewNote": "Read complete text of subsection 9 and history note. Directs board adoption of governance policies under sections 182.701 to 182.723 and employment of a chief executive serving at board pleasure, and authorizes the chief executive to employ and dismiss staff in board-created positions. Independent review revised title to include staff dismissal authority alongside hiring."
+        }
+      ]
+    },
+    {
+      "id": "182.711:9231",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.711&bid=9231",
+      "sourceSha256": "0562b3249439b8d10d61e070856377ebaa7ab8872fbe99e2d274eb9d72b0a379",
+      "textSha256": "6eca01c218a6e19c4a7e6eaac9e6ae9e2ed071cd7de54f9b029a18fb47021f1d",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 5 subsections and history note (L. 1988 S.B. 681) and verified all fingerprints. Checked July 1–June 30 fiscal year, June 30 budget approval and state auditor filing, operating/building/other fund custody, president certification, sections 105.272–105.278 facsimile signatures, sufficient-funds/proper-form prerequisite, and regular-meeting accountings. Retained all 5 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Fiscal year, annual budget approval, amendments, and auditor filing",
+          "bodySha256": "3fda307c9928e786dc6ccbe66c6e691bd25d26e7e770eb8a65bcfb59d29c039e",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1988 S.B. 681). Sets a July 1 to June 30 fiscal year for urban public library districts, requires annual librarian budget submission and board approval on or before June 30, permits amendments, and requires filing a copy with the state auditor."
+        },
+        {
+          "number": 2,
+          "title": "Treasurer custody of funds, fund accounts, depositaries, and securities",
+          "bodySha256": "82c3f053fe1aedc1c0bbfa770ce6d1c35d3afc35fa1af00f824b42d9c30b2768",
+          "reviewNote": "Read complete text of subsection 2 and history note. Designates the treasurer as custodian of urban district moneys, bonds, and securities; separates operating (local operating taxes and non-capital state/federal grants), building, and optional board-created funds; and directs deposits in board-selected depositaries."
+        },
+        {
+          "number": 3,
+          "title": "Disbursement authorization, president certification, and facsimile signatures",
+          "bodySha256": "7592993d868b0fc080c959302bb90f7c4ce9203ee83cf8dce26aa896df1e0f00",
+          "reviewNote": "Read complete text of subsection 3 and history note. Limits disbursements to board-authorized payments certified by the president (specifying amount, payee, and purpose), and permits board resolutions authorizing president or treasurer facsimile signatures under sections 105.272 to 105.278."
+        },
+        {
+          "number": 4,
+          "title": "Sufficient funds and proper form required for disbursements",
+          "bodySha256": "eea0189c12b0a2a54b25c5cd390d8db4a589a0e25ffef4f846df37e3920b2914",
+          "reviewNote": "Read complete text of subsection 4 and history note. Prohibits authorizing, certifying, or issuing payment for urban district indebtedness unless sufficient money exists in the treasury and proper fund and the indebtedness is in proper form."
+        },
+        {
+          "number": 5,
+          "title": "Treasurer accounting at regular board meetings",
+          "bodySha256": "42146cba774f7506c6a8c6bc799b4e662df11df6cb41b3deb783bfeadf3a602e",
+          "reviewNote": "Read complete text of subsection 5 and history note. Requires the board treasurer to submit an accounting of urban district receipts and disbursements at each regularly scheduled board meeting."
+        }
+      ]
+    },
+    {
+      "id": "182.713:9232",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.713&bid=9232",
+      "sourceSha256": "e318d9fceeba36c5919ab4a7a2833d694b7d6dcb5ffbd5eb3acfd577f6bce4dc",
+      "textSha256": "62ddf989048f5a5f111900cd05a2da57fd6aef22281bccf848adc0e04ede9d70",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 3 subsections and history note (L. 1988 S.B. 681) and verified all fingerprints. Checked corporate surety bonds filed with board treasurer and each included county clerk, operating-fund premium, board/taxpayer breach suits, chief executive GAAP recordkeeping, and August 31/September 30 independent-audit reporting deadlines. Revised subsection 1 title to \"Officer and employee surety bonds...\" because the board treasurer is a trustee/officer; retained subsections 2–3.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Officer and employee surety bonds, filings, premiums, and breach suits",
+          "bodySha256": "c0df3131feacde7e617eade1842bdacb11c3e07ae6934b56a946e739c63f9c56",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1988 S.B. 681). Requires board-approved corporate surety bonds for the treasurer, librarian, and designated employees (paid from operating fund and filed with board treasurer and each included county clerk), and authorizes board or taxpayer breach suits in the state's name. Independent review revised title to \"Officer and employee surety bonds...\" because the board treasurer is a trustee/officer."
+        },
+        {
+          "number": 2,
+          "title": "Chief executive financial recordkeeping and board access to accounts",
+          "bodySha256": "27482ae2909383f47838e47c1a2890f4b4c6ed581593b106a10f3e64f2490246",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs the district's chief executive officer to keep financial records and accounts under generally accepted accounting standards and furnish requested records or summaries to the board or any member."
+        },
+        {
+          "number": 3,
+          "title": "Annual audited library report to board and state library commission",
+          "bodySha256": "4ff9352ca0782af9b3e984cbccb64f8913ea84fb2314d23d46b2c62a986f1884",
+          "reviewNote": "Read complete text of subsection 3 and history note. Requires the chief executive officer by August 31 to submit an annual condition and services report (as of June 30) accompanied by an independent audit to the board, and requires board submission to the Missouri State Library Commission by September 30."
+        }
+      ]
+    },
+    {
+      "id": "182.715:9233",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.715&bid=9233",
+      "sourceSha256": "811b127c48e20a1545778df6f239af9d0eb22c1ab716899bd63c3b80072c113c",
+      "textSha256": "7c3d038906a62e31a89a0977ed5a5ffa3093840b5992f638ecc07aa2c5bd74fd",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 6 subsections, subsection 5 ballot-question block, and history note (L. 1988 S.B. 681) and verified all fingerprints. Verified section 182.703 creation transfer of section 137.030 library levies, rate-increase elections and existing-levy retention on defeat, board resolution and election-authority notice for building tax, and exclusive board control. Revised subsection 6 title to preserve majority-vote conditionality and include levy; retained subsections 1–5.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Transfer of section 137.030 tax levy and rate increase elections",
+          "bodySha256": "a9f45d2a17c9ee723e83c351bd8bc02fff8888ca0b1417c5b61ff280e068d328",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1988 S.B. 681). Transfers any existing section 137.030 library levy to an urban public library district created under section 182.703, and requires voter approval under section 137.030 upon board resolution for any increase above that rate."
+        },
+        {
+          "number": 2,
+          "title": "Levy, collection, and remittance of approved tax increase",
+          "bodySha256": "59c08f121787d1162b7cc64116ce41779b9d1627d8794c81807a62db12aab513",
+          "reviewNote": "Read complete text of subsection 2 and history note. Upon majority approval, directs levying and collecting the increased tax like other county taxes and forwarding proceeds to the urban district treasurer."
+        },
+        {
+          "number": 3,
+          "title": "Retention of existing levy if tax increase is rejected",
+          "bodySha256": "310a9d0592d62293147e879e46d10f8fc4bd05c9dbbe80d172d53a62bb9b897a",
+          "reviewNote": "Read complete text of subsection 3 and history note. Provides that if a majority votes against the proposed tax rate, the previously existing levy remains in effect."
+        },
+        {
+          "number": 4,
+          "title": "Board resolution and election notice for library building tax",
+          "bodySha256": "63269f0c489ce6c95afce10746b56ce3ace76a4e960c4be78b64780b60e8290a",
+          "reviewNote": "Read complete text of subsection 4 and history note. Covers an urban district board's written resolution entered of record and notice to election authorities to submit a free library building tax specifying the necessary rate under sections 182.701 to 182.723."
+        },
+        {
+          "number": 5,
+          "title": "Ballot form for urban district library building tax",
+          "bodySha256": "65fbf65312af75af19a2b3d2f740656e626860a53dd73e5b63d7cc4335b1db02",
+          "reviewNote": "Read complete text of subsection 5 including ballot-question block and history note. Sets out substantial ballot wording for a cent-rate tax for erection of library buildings."
+        },
+        {
+          "number": 6,
+          "title": "Levy, control, disbursement, and use of approved building tax",
+          "bodySha256": "62d2a655c26aa5dbbf1b40329043d237efb13a9188e23c642854f4203efcf4d0",
+          "reviewNote": "Read complete text of subsection 6 and history note. Upon majority voter approval, directs levy, collection, delivery to the urban district treasurer, exclusive board control, board-authorized disbursement, building/furnishing use, and additionality to the district's maintenance levy. Independent review revised title to preserve the majority-vote approval condition and include levy."
+        }
+      ]
+    },
+    {
+      "id": "182.717:9234",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.717&bid=9234",
+      "sourceSha256": "476745a9407b503af6bf0aeae736b5ced939d53384d686de1f5fd33305ced744",
+      "textSha256": "06126483a9e9e1f7b67a9f66dbbcc0cde380e68300d4d6853facedb9538a04ee",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 4 subsections and history note (L. 1988 S.B. 681) and verified all fingerprints. Checked bond purposes, constitutional debt limit and voter approval, boldfaced ballot tax-rate disclosure, 20-year retirement tax, advertised public sale, bearer bond/coupon terms (retaining source phrase \"conform to the fact thereof\" in subsection 4), and president/treasurer/seal execution. Retained all 4 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board authority to acquire sites, build, furnish, and issue bonds",
+          "bodySha256": "bd8741f551abbbf2489e35520aff7d41c2d551eae943c5ddc0ff13075941eff5",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1988 S.B. 681). Authorizes an urban district board to purchase ground, erect, improve, and furnish public library buildings, and pay by bonds or otherwise subject to section 182.717 conditions and limits."
+        },
+        {
+          "number": 2,
+          "title": "Constitutional debt limit, voter approval, and boldfaced ballot tax rate",
+          "bodySha256": "a7e21f101d9abf2d398a37408ae10f9263eb6cfde144d2777ed46b2f229d6d5d",
+          "reviewNote": "Read complete text of subsection 2 and history note. Restricts urban district bonds to constitutional assessed-value limits, requires constitutionally required voter approval at an election, and requires boldfaced ballot disclosure of the approximate tax rate needed to retire the bonds."
+        },
+        {
+          "number": 3,
+          "title": "Annual tax levy to retire bond debt within twenty years",
+          "bodySha256": "c3fffe6ba025c33fc5cd68148a012af0ca615b4c6bb97a3bdaf8ee3b4a38f67a",
+          "reviewNote": "Read complete text of subsection 3 and history note. Directs the board of trustees to provide for an annual taxable tangible property tax sufficient to pay bond interest and principal and retire the debt within 20 years."
+        },
+        {
+          "number": 4,
+          "title": "Election returns, advertised public sale, bond terms, and execution",
+          "bodySha256": "4749350470ceddd44e501fb1317672853a6450d23ba175ea9bbd48f31cf35128",
+          "reviewNote": "Read complete text of subsection 4 and history note. Covers certifying election returns to the board, record declaration of bond authority, advertised public sale, bearer bond form ($100+ multiples, 20-year max maturity, semiannual coupons, legal rate cap; noting source text prints \"conform to the fact thereof\" rather than \"face thereof\"), president signature, treasurer attestation, and corporate seal."
+        }
+      ]
+    },
+    {
+      "id": "182.719:9235",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.719&bid=9235",
+      "sourceSha256": "3f67fc2e962b4ddcffe023348dea8c41e86d51124e35ec2f6f5facc23082e352",
+      "textSha256": "6db68b1c5680de6d62e102bf6fc361e741ace05aade636d2c2bf7cf8d23239c2",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read both subsections and history note (L. 1988 S.B. 681) and verified all fingerprints. Checked rule adoption, publication, county clerk filing, facility copies on file, and permissive temporary or permanent privilege suspension for persons or corporations. Revised subsection 1 title to remove \"posting\" in favor of \"filing\" to match the source requirement to keep copies on file; retained subsection 2.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Adoption, publication, and filing of library use rules",
+          "bodySha256": "eadf129987b76fd6c4b54ab45cfedfdb5078a33b78bac3850a6887cfc729ab2b",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1988 S.B. 681). Directs the urban district board to adopt reasonable rules governing library use and privileges, publish them with amendments, file them with the served county clerk, and keep copies on file in all public library facilities. Independent review removed \"posting\" because the source requires keeping copies on file in library facilities."
+        },
+        {
+          "number": 2,
+          "title": "Temporary or permanent suspension of library privileges for rule violations",
+          "bodySha256": "27f6d7bb40626542acc73aac03bd1068cd656808081440fba3ac5f03afcb820e",
+          "reviewNote": "Read complete text of subsection 2 and history note. Grants permissive authority to the board or librarian to suspend a violating person's or corporation's library privileges temporarily or permanently as deemed in the best interests of the urban library and people served."
+        }
+      ]
+    },
+    {
+      "id": "182.721:9236",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.721&bid=9236",
+      "sourceSha256": "3c0165257338ae9c4b2b1afe5fd5f05b6ae90b3ba53b68bdce24601dc8555f9b",
+      "textSha256": "d5aaf3bc0ff0953543b822f3f5f881f2c7d43982e8ebb8a6b1f0d9829f443ee8",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 4 subsections and history note (L. 1988 S.B. 681) and verified all fingerprints. Verified school-district library property transfer under sections 182.701–182.723, former nonlibrary property with library building and postal facility, dual-purpose property retention with non-mandatory lease agreement, and transfer of library-only reversionary/leasehold rights and rental obligations (retaining source phrase \"except as otherwise provided for this section\"). Revised subsection 4 title to include transferred obligations alongside rights; retained subsections 1–3.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Transfer of school district real property used for public libraries",
+          "bodySha256": "43aa7a9e6e4a8ea09156b56e99507fffb893f42d8b547dad77bf31b9027b9e39",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1988 S.B. 681). Subject to subsections 2 and 3, transfers all right, title, and interest of a nine-director urban school district in real property and improvements used or acquired for public library purposes to the coterminous urban public library district upon creation under sections 182.701 to 182.723."
+        },
+        {
+          "number": 2,
+          "title": "Transfer of former nonlibrary property with library and postal facility",
+          "bodySha256": "7783df85c943871b1d00f0fea3698529d56d714acfca69eb769812ab7a46b95d",
+          "reviewNote": "Read complete text of subsection 2 and history note. Transfers to the new urban public library district any school-district real property formerly used for nonlibrary purposes that at election time had a public library building containing a postal facility."
+        },
+        {
+          "number": 3,
+          "title": "Retention of dual-purpose property and optional lease agreement",
+          "bodySha256": "11f5abcc9d0cb81247df7f6ae054403afea0a126cc48c3c5bc0e495f14adf1fa",
+          "reviewNote": "Read complete text of subsection 3 and history note. Retains in the nine-director urban school district any real property or improvements funded or dedicated for both library and nonlibrary purposes; requires agreed rental payments under a duly executed lease if the library occupies space, without obligating the school district to permit use."
+        },
+        {
+          "number": 4,
+          "title": "Transfer of reversionary, leasehold, and library-only rights and obligations",
+          "bodySha256": "7005ff1a6dc3b4b43a43a2a7f4c043be3cf7bca0d981cd1fd3e394bc674c0a7d",
+          "reviewNote": "Read complete text of subsection 4 and history note. Transfers to the new urban public library district all reversionary, leasehold, and other real property rights and obligations (including rental obligations) pertaining solely to public library property, subject to section exceptions (retaining source phrase \"except as otherwise provided for this section\"). Independent review revised title to include transferred real property obligations alongside rights."
+        }
+      ]
+    },
+    {
+      "id": "182.802:33555",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.802&bid=33555",
+      "sourceSha256": "3b12915e14f59afcd979a25fee752af6185e678face7b6a1a2575ff4c6f7ae5c",
+      "textSha256": "962014cafc1f2754a0a25baacb2c3537a42d7631bcabca2351c814ee857c5e3a",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 4 subsections including subsection 1 subdivisions (1)–(2) and paragraphs (a)–(i), subsection 2 YES/NO ballot table and continuation paragraph, and history notes (L. 2011 H.B. 161 through A.L. 2016 H.B. 1561) and verified all fingerprints. Checked sections 144.010–144.525 and 32.085/32.087 cross-references, retained source quirks (\"under this subsection\" in subsection 2 and \"if no individuals are eligible and registered to vote reside\" in subsection 3), and verified definitions. Revised subsection 1 title to remove \"half-cent\" so the up-to-one-half-cent ceiling is not misstated as a fixed rate; retained subsections 2–4.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Eligible counties and voter-approved library sales tax",
+          "bodySha256": "a0d7c77dd22a172842feaea89200bd2dc2cc773941607b0e5cceb9939995caff",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1) and (2), paragraphs (a) through (i), and history notes (L. 2011 H.B. 161 through A.L. 2016 H.B. 1561). Lists nine population/classification county categories and authorizes listed public library districts, by board majority vote and voter approval at a county or state general, primary, or special election, to impose an additional retail sales tax up to one-half cent under sections 144.010 to 144.525 for library operation and maintenance. Independent review removed \"half-cent\" from title to avoid suggesting a fixed rate where the statute sets a ceiling up to one-half cent."
+        },
+        {
+          "number": 2,
+          "title": "Sales tax ballot form, election outcome, and sections 32.085 and 32.087",
+          "bodySha256": "2f755783a05db21117b0c56ab411a4d3c8cd3402dec36398fcf34b088650578e",
+          "reviewNote": "Read complete text of subsection 2 including the YES/NO ballot table and continuation paragraph, and history notes. Sets out substantial sales-tax ballot language, specifies approval and rejection effects, and applies sections 32.085 and 32.087 to approved taxes. Independent review noted source text says \"under this subsection\" in both the opening clause and continuation paragraph referring to the tax authorized in subsection 1."
+        },
+        {
+          "number": 3,
+          "title": "Definition of qualified voters including property-owner consent",
+          "bodySha256": "81afaed60defe7fbbc11da784622c67d8af3f572ef4d2127f56f4b6b172373b6",
+          "reviewNote": "Read complete text of subsection 3 and history notes. Defines \"qualified voters\" or \"voters\" for section 182.802 as chapter 115 registered district residents, or unanimous consenting real property owners if no eligible registered voters reside in the proposed district (with governing bodies acting for political subdivision/corporate owners; retains source wording \"if no individuals are eligible and registered to vote reside\")."
+        },
+        {
+          "number": 4,
+          "title": "Definition of public library district",
+          "bodySha256": "c451f4e9cc2efcb715bbb39013450b234e84cfe35c0d5be608d2cab195903404",
+          "reviewNote": "Read complete text of subsection 4 and history notes. Defines \"public library district\" for section 182.802 to include city, county, city-county, municipal, consolidated, and urban library districts."
+        }
+      ]
+    },
+    {
+      "id": "182.812:9241",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.812&bid=9241",
+      "sourceSha256": "ef948d2f420cbff65671b0ca02e96ee93f07eb8d776f7c532bf3ea325f15a86d",
+      "textSha256": "1cb5851e90602865ce9c182de7821ab52d78bd706998c4fe23d77ebf11d9639d",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 10 subsections including subsection 7 subdivisions (1)–(4) and history note (L. 1983 H.B. 300 § 1, A.L. 1995 S.B. 14) and verified all fingerprints. Verified library network definition, state librarian rulemaking and separate appropriations, nonreverting Library Networking Fund notwithstanding section 33.080, and neutral description of archived 1995 Joint Committee on Administrative Rules review/suspension/ratification and Article IV Section 8/section 536.037 revocation provisions without asserting current enforceability. Retained all 10 drafted titles as accurate and neutral.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of library network",
+          "bodySha256": "0a702cdcb944a5766715d5c8fbc4ff64971a55cf7918b4c15f433dba8e71b010",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1983 H.B. 300 § 1, A.L. 1995 S.B. 14). Defines \"library network\" for section 182.812 as a formal process of cooperation between libraries and other entities to share and extend combined resources."
+        },
+        {
+          "number": 2,
+          "title": "State librarian rulemaking, separate appropriations, and network grants",
+          "bodySha256": "2a0a9e6c15a5992bcfee6f0f7a55f700d365253b7b40cba7561634224d8c6ecd",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs the state librarian to promulgate rules administering general assembly library-network appropriations, keeps such appropriations separate from other state library appropriations, and governs grant certification and warrant issuance."
+        },
+        {
+          "number": 3,
+          "title": "Library Networking Fund establishment, nonreversion, and investment earnings",
+          "bodySha256": "d2298558313c7fc6830ec068da67c8d706cd1b821c2b964a92d78a5b678e23a4",
+          "reviewNote": "Read complete text of subsection 3 and history note. Establishes the special Library Networking Fund in the state treasury for gifts, contributions, grants, and bequests, exempts fund moneys from general-revenue reversion notwithstanding section 33.080, and credits time-deposit yield, interest, and gains to the fund."
+        },
+        {
+          "number": 4,
+          "title": "Legislative rule review condition under joint committee on administrative rules",
+          "bodySha256": "c1571648aeba9f38d5bda4f0e2ba9cff7de583a25e294bbe8691be344e74473d",
+          "reviewNote": "Read complete text of subsection 4 and history note (A.L. 1995 S.B. 14). Describes the archived statutory text conditioning effectiveness of section 182.812 rules on Joint Committee on Administrative Rules approval and legislative ratification procedures, without asserting current constitutional enforceability."
+        },
+        {
+          "number": 5,
+          "title": "Concurrent submission of proposed rules to joint committee and hearings",
+          "bodySha256": "6ed071c62dae11f3eb5e59e46becd4b355b9adb730d21a8a560693a285f7f652",
+          "reviewNote": "Read complete text of subsection 5 and history note. Directs the state librarian to submit proposed rules to the Joint Committee on Administrative Rules concurrently with secretary of state filing and authorizes committee hearings at any time."
+        },
+        {
+          "number": 6,
+          "title": "Thirty-day committee review period before filing final rulemaking order",
+          "bodySha256": "1bb725b0beb8f4b8d31d6cd6e1d3916c68a32736bffe94c4cbfa52c772cb53ac",
+          "reviewNote": "Read complete text of subsection 6 and history note. Bars filing a final order of rulemaking with the secretary of state until 30 days after committee receipt, permits hearings during that period, and deems the order approved if not disapproved within 30 days."
+        },
+        {
+          "number": 7,
+          "title": "Grounds for joint committee suspension of rulemaking order",
+          "bodySha256": "584fb524d5be4ea7fa0f449c8e48f483008daf8cf0536d06a5679b0551c955ab",
+          "reviewNote": "Read complete text of subsection 7 including subdivisions (1) through (4) and history note. Authorizes majority-vote committee suspension of a rulemaking order prior to filing only on four enumerated grounds: lack of statutory authority, public health/safety/welfare emergency, conflict with state law, or substantial change in circumstance."
+        },
+        {
+          "number": 8,
+          "title": "Bar on filing or publishing committee-disapproved rule portions",
+          "bodySha256": "907912b95a86301cd2daea3827c90bfb768155c07eca4d0c901ec51e2e27f725",
+          "reviewNote": "Read complete text of subsection 8 and history note. Prohibits the state librarian from filing and the secretary of state from publishing in the Missouri Register any portion of a final order of rulemaking disapproved by the committee."
+        },
+        {
+          "number": 9,
+          "title": "Committee report and legislative ratification of rule disapproval",
+          "bodySha256": "3f114ee46ce57c7d89e0f6cfacbbc24e2d638a40b14cc3e788b8d16336f1eee9",
+          "reviewNote": "Read complete text of subsection 9 and history note. Directs the committee to report disapproval findings to both houses and keeps disapproved rules from taking effect so long as both houses ratify the disapproval by resolution within 30 legislative days."
+        },
+        {
+          "number": 10,
+          "title": "Legislative suspension or revocation of adopted rules and register notice",
+          "bodySha256": "cd3cb70972ec55a1ba65ef8afc611caf11ae6bc3edb955987aedc0e33e347541",
+          "reviewNote": "Read complete text of subsection 10 and history note. Describes archived text providing for suspension or revocation of adopted rules by bill or Article IV Section 8 concurrent resolution on committee recommendation, committee hearings under section 536.037, and Missouri Register notice publication."
+        }
+      ]
+    },
+    {
+      "id": "182.817:9243",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.817&bid=9243",
+      "sourceSha256": "8e74cd9fd203fd8476678a7aa9c21e7b1b7fe92fb695f2118dc904204362c20a",
+      "textSha256": "06f7b52c8ff848f42b8f7c3fde53352bb11fd11c663f8a82cdaeb08ea8ad1f51",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 3 subsections including subsection 1 subdivisions (1)–(2) and history note (L. 1986 H.B. 1372 § 2, A.L. 2014 H.B. 1085) and verified all fingerprints. Noted discrepancy between official catchline (\"Disclosure of library records not required\") and amended body text affirmatively prohibiting release/disclosure by libraries, staff, agents, and contracted third parties except upon written consent or public-safety/criminal-prosecution court order. Verified 180-day AG complaint, private civil action with asymmetric respondent fee standard, and permissive AG enforcement. Retained all 3 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition on disclosing library records and limited exceptions",
+          "bodySha256": "70c2b2ac2399e5adc947329ef6476cb1fcb056f55e9d2c46ecb42428b511acac",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1) and (2) and history note (L. 1986 H.B. 1372 § 2, A.L. 2014 H.B. 1085). Notwithstanding contrary law, prohibits libraries, employees, agents, and contracted third parties from releasing or disclosing library records except upon written consent/request of the identified person per library procedures or a court order finding disclosure necessary to protect public safety or prosecute a crime. Independent review noted discrepancy between official catchline (\"Disclosure of library records not required\") and amended body text (affirmative prohibition on release or disclosure)."
+        },
+        {
+          "number": 2,
+          "title": "Attorney general complaints, civil actions, damages, and attorney fees",
+          "bodySha256": "49af91689e1cd43b9bcdee22820d7712edef1d81acdc222320de6089ac9f8069",
+          "reviewNote": "Read complete text of subsection 2 and history note. Permits an affected person to file a written complaint with the attorney general within 180 days and bring a county circuit court civil action for damages, discretionary punitive damages, equitable relief, and prevailing-party attorney fees (for a prevailing respondent only if the case is without foundation)."
+        },
+        {
+          "number": 3,
+          "title": "Attorney general review and discretionary legal action on complaints",
+          "bodySha256": "ec23e71ba992c4ac59072cc227cc63cfe854c6674ad931abeb9af96f24dfee9a",
+          "reviewNote": "Read complete text of subsection 3 and history note. Directs the attorney general to review each subsection 2 complaint and grants permissive authority (\"may initiate\") to bring legal action if deemed appropriate."
+        }
+      ]
+    },
+    {
+      "id": "182.827:9245",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=182.827&bid=9245",
+      "sourceSha256": "55f310fbb85faccec446312b1b1f9bec7f859ae08bcf85391a1b3d5a0893f8bf",
+      "textSha256": "0077eb3adc77c081d4d1e2c78704cd1b97039c043a8aba34166b86f42ee5eadb",
+      "draftedBy": "antigravity_drafter_d",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r4",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read all 6 subsections including subdivisions (1)–(2) of subsections 1 and 3 and history note (L. 2002 H.B. 1402) and verified all fingerprints. Verified parallel public-school and public-library filtering or January 1, 2003 community-standards policy duties, DESE and secretary of state rulemaking subject to chapter 536/section 536.028 and post-August 28, 2002 nonseverability clauses, section 162.091 penalty scope limited to public school personnel, and criminal/civil immunity for compliant schools, libraries, and ISPs. Retained all 6 drafted titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Public school duties for filtering or restricting public access computers",
+          "bodySha256": "3fe5caa40d417caaa5a9bf873c8f73c6c704325c69116b48377d40543e5996ed",
+          "reviewNote": "Read complete text of subsection 1 including subdivisions (1) and (2) and history note (L. 2002 H.B. 1402). Requires public schools providing public access computers to use filtering software/ISP filter services limiting minors' access to material pornographic for minors, implement a community-standards restriction policy by January 1, 2003, or both."
+        },
+        {
+          "number": 2,
+          "title": "Education department enforcement rules and chapter 536 nonseverability",
+          "bodySha256": "97f6c8c5803e1b2e749d1f085bf0ab5372a3a9484a2abb584f55cd44eff23dd5",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs DESE to establish enforcement rules for subsection 1 subject to chapter 536 and section 536.028, with a nonseverability clause voiding the rulemaking grant and rules proposed or adopted after August 28, 2002, if legislative review powers are held unconstitutional."
+        },
+        {
+          "number": 3,
+          "title": "Public library duties for filtering or restricting public access computers",
+          "bodySha256": "24838b72aa681f520af975e181dad95bb7f37d628959d46fb8f512c49d20a142",
+          "reviewNote": "Read complete text of subsection 3 including subdivisions (1) and (2) and history note. Requires public libraries providing public access computers to use filtering software/ISP filter services limiting minors' access to material pornographic for minors, implement a community-standards restriction policy by January 1, 2003, or both."
+        },
+        {
+          "number": 4,
+          "title": "Secretary of state enforcement rules and chapter 536 nonseverability",
+          "bodySha256": "909966c2a96c33272da624aa6a28eaa5ef270ac19b548144fb1a23fafbc19709",
+          "reviewNote": "Read complete text of subsection 4 and history note. Directs the secretary of state to establish enforcement rules for subsection 3 subject to chapter 536 and section 536.028, with a nonseverability clause voiding the rulemaking grant and rules proposed or adopted after August 28, 2002, if legislative review powers are held unconstitutional."
+        },
+        {
+          "number": 5,
+          "title": "Section 162.091 penalties for willful neglect by public school personnel",
+          "bodySha256": "e18bb0e410c3d1645e2b4b8d98c6f4730c2253e72b4abeda1ef262ccafda6d21",
+          "reviewNote": "Read complete text of subsection 5 and history note. Subjects public school board members, officers, or employees (including library personnel) who willfully neglect or refuse to perform a duty under section 182.827 to penalties under section 162.091; preserves exact party scope limited to public school personnel."
+        },
+        {
+          "number": 6,
+          "title": "Criminal and civil immunity for compliant schools, libraries, and providers",
+          "bodySha256": "8815674afd31beb4affaa90e21cf11331be1f755cbfc2cca85ab130cc2a86e46",
+          "reviewNote": "Read complete text of subsection 6 and history note. Grants criminal and civil damages immunity to compliant public schools, public libraries, their boards, officers, employees, and trustees, and compliant internet service providers if a minor accesses material pornographic for minors on a public-school or public-library public access computer."
+        }
+      ]
+    }
+  ]
+}

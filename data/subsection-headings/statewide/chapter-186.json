@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "186.011:9343",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=186.011&bid=9343",
+      "sourceSha256": "00bcc42a5d819ccf063e6109e425a986f90d93fcf0cf303e8f9e8ea5494236e1",
+      "textSha256": "ced407e15a5353a4b6c391d3fcfa28e3b31c72f084883a755e99e674f85a14d3",
+      "draftedBy": "antigravity_drafter_b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Uncompensated service and member expense reimbursement",
+          "bodySha256": "15f7bce5e200d2c2d9ebe0f53248fbd7d2a571eaa50d0a542f2ca9846d064b32",
+          "reviewNote": "Read complete subsection 1 text and 1985/1990 history note. Bars salary or compensation for Missouri women's council members while allowing payment of actual and necessary expenses under state employee regulations from available funds."
+        },
+        {
+          "number": 2,
+          "title": "Department of economic development support and staff",
+          "bodySha256": "03c8387bdd3f5e7c153fa3eb50d1b627a16251a14211203c59e9aa54a48ff31b",
+          "reviewNote": "Read complete subsection 2 text and 1985/1990 history note. Requires the department of economic development to furnish necessary administrative support and staff for effective operation of the council. Reviewer named the department of economic development explicitly since neither the section heading nor subsection 1 identifies the department."
+        },
+        {
+          "number": 3,
+          "title": "Minimum four annual meetings at chairman's call",
+          "bodySha256": "039cc6d77cb15aaee72b16a71a9fad0ba7f8c0e69539012b497a0fd1b3716061",
+          "reviewNote": "Read complete subsection 3 text and 1985/1990 history note. Requires the council to meet at least four times per year at the call of the chairman. Reviewer revised 'quarterly' to 'four annual' because the archived text specifies at least four times per year rather than once per calendar quarter."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r3",
+      "reviewSummary": "Independently read complete archived section 186.011 (subsections 1-3) and 1985/1990 history note; verified sourceUrl and all SHA-256 fingerprints. Checked uncompensated service/expense-reimbursement qualification ('from any funds which are or may become available'), department of economic development staffing duty, and minimum meeting frequency. Revised subsection 2 title to name the department of economic development explicitly and subsection 3 title from 'quarterly' to 'Minimum four annual meetings at chairman's call' to match the literal 'at least four times per year' wording; retained subsection 1."
+    },
+    {
+      "id": "186.014:9344",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=186.014&bid=9344",
+      "sourceSha256": "749f26cad643b6ca984ca81920bedf0e57e0f6890c974d526c1b64ad13256863",
+      "textSha256": "ff1f19492b348fa8e06e19aa307442b4b74d5d6685762a838d83b53bcd54aa97",
+      "draftedBy": "antigravity_drafter_b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Creation, appointment, and qualifications of executive director",
+          "bodySha256": "f0c76c625ee6dbf9ff93033040211a0443218223c13921d17205a269e1fd799c",
+          "reviewNote": "Read complete subsection 1 text and 1985-1993 history notes. Creates the executive director position for the Missouri women's council in the department of economic development, recommended by the department director after council consultation and appointed by the governor with senate consent, requiring demonstrated business or industry capability to implement sections 186.005 to 186.019."
+        },
+        {
+          "number": 2,
+          "title": "Executive director program implementation and duties",
+          "bodySha256": "2377b94b7a187b11c74357d28b6f76e0eacad0a9df38e43d7140787c357e6522",
+          "reviewNote": "Read complete subsection 2 including lead-in and subdivisions (1)-(2) plus history notes. Makes the executive director responsible for implementing council-initiated programs and performing other duties defined by the council."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r3",
+      "reviewSummary": "Independently read complete archived section 186.014 (subsections 1-2 and subdivisions (1)-(2)) and 1985-1993 history notes; verified sourceUrl and all SHA-256 fingerprints. Checked appointment process (DED director recommendation after council consultation, governor appointment with senate consent), business/industry qualifications, sections 186.005 to 186.019 scope, and council-defined duties. Retained both drafted titles."
+    },
+    {
+      "id": "186.019:60397",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=186.019&bid=60397",
+      "sourceSha256": "c250acc19552149d3810ae97a451352942c643004bebe8febb46e35e54f00bc7",
+      "textSha256": "79611968befe5c15317633dfbbbd483a9be28d13612d650e1fb840e46ca3b7bd",
+      "draftedBy": "antigravity_drafter_b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual women-owned business reports due before April 1",
+          "bodySha256": "b5c5dbb0c9175369e460370d4e6e228201b4568dc44ca1bf76a3bddaed1b43e3",
+          "reviewNote": "Read complete subsection 1 including lead-in and subdivisions (1)-(4) plus 1990-2026 (S.B. 890) history notes. Requires previous-calendar-year reports prior to April 1 (starting 1992) to the council, governor's office, senate secretary, and house chief clerk from DLIR and the office of workforce development (DHEWD), DED, DOR, and the OA division of purchasing on businesses fifty-one percent or more owned by women. Reviewer revised 'April reports' to 'due before April 1' to reflect the literal 'Prior to April first' deadline."
+        },
+        {
+          "number": 2,
+          "title": "Education enrollment, degree, and salary reports due before December 1",
+          "bodySha256": "f3e3180b54dd911336e922d063e8f42b9108d533cdea1ce15302428282b6518a",
+          "reviewNote": "Read complete subsection 2 including lead-in and subdivisions (1)-(2) plus 1990-2026 history notes. Requires previous-school-year reports prior to December 1 (starting 1990) to the same four recipients from DESE (VEDS enrollment data by CIP, school/class level, gender, and traditional/nontraditional areas) and the coordinating board for higher education (degrees by discipline/type/school/gender and initial/follow-up salaries). Reviewer revised 'December' to 'due before December 1' to reflect the literal 'Prior to December first' deadline."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r3",
+      "reviewSummary": "Independently read complete archived section 186.019 (subsections 1-2 and all subdivisions) and 1990-2026 (S.B. 890) history notes; verified sourceUrl and all SHA-256 fingerprints. Checked updated DHEWD office of workforce development reference, 51%-women-owned scope, recipient list, and previous-calendar-year vs. previous-school-year scopes. Revised both titles to specify 'due before April 1' and 'due before December 1' to reflect the literal 'Prior to April first' and 'Prior to December first' deadlines accurately."
+    },
+    {
+      "id": "186.050:9348",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=186.050&bid=9348",
+      "sourceSha256": "c2d0f76b04f4a207110c13945feab4b72b9154a5670bdb58e48ebef02b5c40a4",
+      "textSha256": "067e0757ed902635c03d7063e5921343086fdd88d1479c8ed703dde31c5ea4e6",
+      "draftedBy": "antigravity_drafter_b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Legislative findings and public purpose",
+          "bodySha256": "47ed5ec8779e718b370e3ed5115f216e4a59af21b4d2aac4b045d2229f4b8511",
+          "reviewNote": "Read complete subsection 1 text and 1995 history note. States general assembly findings that public humanities education contributes significantly to educational and cultural enrichment and that supporting a humanities council is an important public purpose."
+        },
+        {
+          "number": 2,
+          "title": "Definition of humanities council",
+          "bodySha256": "508db4bed5faaf391f73983d8f3e5ed4fe6b90feb9edec278c43481aa01d5e1f",
+          "reviewNote": "Read complete subsection 2 text and 1995 history note. Defines 'humanities council' for sections 186.050 to 186.067 as the not-for-profit organization designated as the Missouri state affiliate of the National Endowment for the Humanities."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r3",
+      "reviewSummary": "Independently read complete archived section 186.050 (subsections 1-2) and 1995 history note; verified sourceUrl and all SHA-256 fingerprints. Checked legislative findings on public humanities education and sections 186.050 to 186.067 scope of the humanities council definition. Retained both drafted titles."
+    },
+    {
+      "id": "186.080:51406",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=186.080&bid=51406",
+      "sourceSha256": "49409f8893df638337d16f1c8031083e6b89d6df1e97fcad34657213853008ba",
+      "textSha256": "ebbcd1559e281e37c5a11a924dbe9abe8b4d7db4a268881e3f4a93f67f55c9da",
+      "draftedBy": "antigravity_drafter_b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishing the literacy advisory council and membership",
+          "bodySha256": "40fd386badbf139e98ea9924ca5968f15ae04cf4d5eed3f5ec81c6ae574369c5",
+          "reviewNote": "Read complete subsection 1 including lead-in and subdivisions (1)-(12), 2022 history note, and original-rolls footnote ('Word \"a\" does not appear in original rolls' in subdivision (9)). Directs the commissioner of education to establish a literacy advisory council of up to twenty commissioner-appointed members representing twelve listed stakeholder groups."
+        },
+        {
+          "number": 2,
+          "title": "Minimum meetings, review scope, and department staffing",
+          "bodySha256": "c404289a2060421870aba7153dba825c0742c920d3f548397b70e7302c296fdf",
+          "reviewNote": "Read complete subsection 2 text and 2022 history note. Requires the literacy advisory council to meet at least twice per year to review literacy instruction best practices and related policy, with necessary staff and resources provided by the department."
+        },
+        {
+          "number": 3,
+          "title": "Periodic recommendations and legislative submissions",
+          "bodySha256": "a71ef540766b7f861189fdaaa110e789df09365a15b3a4f553ea1d181cbec75a",
+          "reviewNote": "Read complete subsection 3 text and 2022 history note. Requires periodic council recommendations to the commissioner and state board of education on literacy instruction and policy improvements, optionally including recommended state-law changes which the commissioner must furnish to the joint committee on education."
+        },
+        {
+          "number": 4,
+          "title": "Required subjects for council recommendations and public input",
+          "bodySha256": "e3b76934c2ddb7e242443e01dd6e92388f9e3318e03dc3a36b5d7686759e7ab5",
+          "reviewNote": "Read complete subsection 4 including lead-in, subdivisions (1)-(6), and paragraphs (3)(a)-(d) plus 2022 history note. Specifies required council recommendation topics covering the section 161.241 statewide literacy plan, parent/community engagement, department services/staffing, statewide literacy data collection, tiered MTSS instruction, ongoing assessment/outcome review, and a public input and question mechanism."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r3",
+      "reviewSummary": "Independently read complete archived section 186.080 (subsections 1-4, all subdivisions (1)-(12) and (1)-(6), paragraphs (4)(3)(a)-(d)), 2022 history note, and original-rolls footnote ('Word \"a\" does not appear in original rolls' in (1)(9)); verified sourceUrl and all SHA-256 fingerprints. Checked 20-member cap, minimum biannual meetings, optional legislative recommendations forwarded to the joint committee on education, section 161.241 plan reference, and public-input requirement. Retained all four drafted titles."
+    }
+  ]
+}
