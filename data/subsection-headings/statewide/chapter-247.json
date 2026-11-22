@@ -1,0 +1,1229 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "247.030:13133",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.030&bid=13133",
+      "sourceSha256": "e26d31d7b900f05a259be362266ac6d56321d349a622471c02cd5b34a08eb76c",
+      "textSha256": "9bd81ab0c9b8e7a762a80c261aa41c1e69e305d740b09e7dc2763a8a8217a7e2",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.030:13133 (subsections 1-4, including subdivision (2) continuation text in subsection 3) and history notes (RSMo 1939 § 12622 through A.L. 2002 S.B. 984 & 985); verified sourceUrl, sourceSha256, textSha256, and all 4 bodySha256 fingerprints. Checked section-specific \"city\" definition, drinking-water GO bond bar and written-consent/sworn-testimony notice waiver in subsection 2, board-plus-voter vs. board-plus-majority-landowner enlargement paths and director cost-taxation exclusion in subsection 3, and abutting-owner inclusion in subsection 4. Revised subsection 2 title to \"Territory transfers between contiguous districts or cities\" to reflect the statutory contiguity requirement; retained subsections 1, 3, and 4.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Eligible territory, contiguity, venue, and no overlap",
+          "bodySha256": "242c3de91ebd1d03bf870e56edcd43168c56e3f72b5b9b769df4189b2c3ab716",
+          "reviewNote": "Read complete text of subsection 1 and history note (RSMo 1939 § 12622, A.L. 1976 H.B. 1386, A.L. 1995 H.B. 88, A.L. 1999 H.B. 450 merged with S.B. 160 & 82, A.L. 2002 S.B. 984 & 985). Covers eligible territory across one or more counties, school districts, and qualifying cities (defined as city, town, or village), contiguity requirement, circuit court venue in the largest-acreage county, and prohibition on overlapping districts."
+        },
+        {
+          "number": 2,
+          "title": "Territory transfers between contiguous districts or cities",
+          "bodySha256": "3066eaf69f8f974a9ccdc25f7df98f1a696ce3790f9eb30cb4ab089d91e1267a",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers mutual majority-vote annexation of territory between contiguous districts or a city and contiguous district when neither has outstanding drinking-water general obligation bonds, court hearing and publication (or written-consent/posted-notice/sworn-testimony alternative), public-interest approval, decree amendment, redivision into five subdistricts, and certified filings."
+        },
+        {
+          "number": 3,
+          "title": "Petitions to extend or enlarge district boundaries",
+          "bodySha256": "5db735385bd57d58de28ef7917e64982ec47665b09be2ce9010ee1b953371b8e",
+          "reviewNote": "Read complete text of subsection 3, including subdivisions (1) and (2) and the continuation text inside subdivision (2), and history note. Covers boundary-extension petitions filed by the board plus either five or more voters/landowners (following section 247.040 without an election) or a majority of landowners (waiving publication with seven-day posted notice and sworn landowner testimony), subdistrict rearrangement, and cost taxation excluding directors."
+        },
+        {
+          "number": 4,
+          "title": "Abutting landowner petition for inclusion in district",
+          "bodySha256": "cb0fd99441d44250d79a075ed651ec40581b85197692741938113fe48c8766b6",
+          "reviewNote": "Read complete text of subsection 4 and history note. Covers an abutting landowner's petition to the board for approval, clerk's certificate endorsement, circuit court filing and boundary-amendment decree, certified filings with the recorder, county clerk, and secretary of state, and costs borne by the petitioning owner."
+        }
+      ]
+    },
+    {
+      "id": "247.031:13134",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.031&bid=13134",
+      "sourceSha256": "c040faba7f1308ac71625b724880eccebf146bd1f0fa4fed98ef8ce37ae6f3a2",
+      "textSha256": "fc00d5f10683018b7c3795ebded3459b6239e75c48a4bb47ef67c45e0d2ff576",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.031:13134 (subsections 1-6, including the subsection 2 statutory notice table) and history notes (L. 1988 H.B. 962 through A.L. 2009 S.B. 196); verified all source and subsection fingerprints. Checked bond and >$25,000 contractual debt conditions, creditor-consent and no-facilities special-obligation-bond exceptions, archived signature-threshold gap between \"more than ten\" and \"less than ten\" voters/landowners (omitting exactly ten), dual best-interest/no-adverse-effect standards, and deferred subdistrict line changes. Revised subsection 1 title to \"Detachment eligibility, debt conditions, and petition filing\" so contractual debt limits are not narrowed to bonds; retained subsections 2-6.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Detachment eligibility, debt conditions, and petition filing",
+          "bodySha256": "cf412c714999baebca8f37c7ff547773520c8cc62c9c432a52b90d6e0ddc34e6",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1988 H.B. 962, A.L. 2000 S.B. 741, A.L. 2002 S.B. 984 & 985, A.L. 2009 S.B. 196). Covers detaching unserved territory subject to debt/bond limits and written creditor-consent exceptions (plus the no-facilities exception for special obligation bonds), petition contents, board or voter/landowner signature thresholds (noting the archived wording distinguishes 'more than ten' and 'less than ten' without addressing exactly ten), and naming/serving the district as defendant when not board-filed."
+        },
+        {
+          "number": 2,
+          "title": "Hearing schedule, publication, and statutory notice form",
+          "bodySha256": "8f2ea3d7477010d93daa87cbb4428a688a776fa952294b9c7e8a3e682ee0b7e9",
+          "reviewNote": "Read complete text of subsection 2, including the statutory notice form table, and history note. Covers filing in circuit court, setting a hearing date, certified/registered mail notice to a non-petitioning district, weekly or daily newspaper publication timing, and the substantially required notice form."
+        },
+        {
+          "number": 3,
+          "title": "Continuance of detachment case or hearing",
+          "bodySha256": "157d7610dbf09c9cc01b4c868eb4c18d64ac2450a35e03f9490ece7149c8b742",
+          "reviewNote": "Read complete text of subsection 3 and history note. Authorizes the circuit court, for good cause shown, to continue the case or hearing from time to time until final disposition."
+        },
+        {
+          "number": 4,
+          "title": "Written objections and court standards for detachment",
+          "bodySha256": "4983b0ed538a819cf1a88e37690ef4a282b2942c572a57165580d06a29d80bf5",
+          "reviewNote": "Read complete text of subsection 4 and history note. Covers written exceptions or objections by voters, landowners, or a non-petitioning district filed at least five days before hearing, evidentiary review, and the dual best-interest and no-adverse-effect standards for granting detachment."
+        },
+        {
+          "number": 5,
+          "title": "Detachment order and deferred subdistrict line changes",
+          "bodySha256": "b4c11d47108d724e12c6e8377f1c29bee3ba0f2ffeb5b4ceb756d609592f1065",
+          "reviewNote": "Read complete text of subsection 5 and history note. Covers court orders detaching all or part of petitioned territory, subdistrict boundary revisions needed under sections 247.010 to 247.220, and deferral of subdistrict line changes until the next annual board election."
+        },
+        {
+          "number": 6,
+          "title": "Filing certified detachment orders and proceeding costs",
+          "bodySha256": "49267a239f13c8f255d797eab34f1a2131552741e13b17a442dbb412f53cac97",
+          "reviewNote": "Read complete text of subsection 6 and history note. Requires filing certified copies of the court's order with the recorder of deeds, county clerk in each pre-detachment county, and secretary of state, and assigns proceeding costs to the petitioner or petitioners."
+        }
+      ]
+    },
+    {
+      "id": "247.035:13135",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.035&bid=13135",
+      "sourceSha256": "5c1d35821dcdb7072566f02de38800a29c35d87df129f3f122ff5317cc55dcfe",
+      "textSha256": "bdb6399a43b8bb4d5a767e23b1b162547478888ef555a0389048f63a303c3ecb",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.035:13135 (subsections 1-3) and notes (L. 1980 H.B. 1191, Effective 4-30-80); verified all source and subsection fingerprints. Checked the >=10-property threshold, wholly-within-district requirement, exclusions for political subdivisions, chapter 386 certificated sewer areas, and chapter 204 common sewer districts, no-resident-vote proviso, 90-day operation deadline, and chapter 247 incorporation. Retained all 3 titles as accurate and neutral.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Amended decree for common sewer treatment facilities",
+          "bodySha256": "d0373164846d5328a596ed668790c0156e2ba6aebc44aa75f91be408f544f8d2",
+          "reviewNote": "Read complete text of subsection 1 and notes (L. 1980 H.B. 1191, Effective 4-30-80). Authorizes a public water supply district board to petition the largest-acreage county circuit court for an amended incorporation decree to construct, maintain, and operate qualifying common sewer treatment facilities serving ten or more separate properties wholly within the district (excluding those operated by another political subdivision, within a chapter 386 certificated sewer area, or within a chapter 204 common sewer district), following formation procedures without a resident vote."
+        },
+        {
+          "number": 2,
+          "title": "Commencing operation and establishing sewer user charges",
+          "bodySha256": "ce58eba40821d1969f0f21f586392a0f4dde8d4cabb0299ad598c3623b8da903",
+          "reviewNote": "Read complete text of subsection 2 and notes. Requires the district, within ninety days after an order amending the decree, to begin operating acquired existing facilities and establish and collect user charges in the same manner as water rates."
+        },
+        {
+          "number": 3,
+          "title": "Application of chapter 247 to sewer facilities",
+          "bodySha256": "87097f7a6a314d0e1fa704d4948aec21859ed3ebad4316ac20ef29dfcedecb1e",
+          "reviewNote": "Read complete text of subsection 3 and notes. Applies all applicable provisions of chapter 247 to the construction, operation, and maintenance of common sewer facilities in the same manner as like water supply functions."
+        }
+      ]
+    },
+    {
+      "id": "247.040:13136",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.040&bid=13136",
+      "sourceSha256": "40b4ba3eb974b7454a69ced1964af274eb6320e429b2a1e7202bb53400349e2c",
+      "textSha256": "b8691b5dcd1c1551fb995f633e4b428366f622fc3ed1ecda0d6d25b65e401e59",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.040:13136 (subsections 1-9) and history notes (RSMo 1939 § 12623 through A.L. 2004 S.B. 987); verified all source and subsection fingerprints. Explicitly verified and retained source wording discrepancies without silent correction: subsection 5 designates initial terms for only three of five appointed directors (two two-year and one one-year), and subsection 7 refers to \"a majority of two-thirds of the voters\" without repeating subsection 9's simple-majority rule for districts formed without GO bond authority. Checked one-mile municipal notice/exception rights, section 247.060 residency exception, and appeal bar. Revised subsection 9 title to \"Formation without general obligation bonds and majority vote\" to capture the reduced vote threshold; retained subsections 1-8.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Formation petition contents, deposit, signatures, and notice",
+          "bodySha256": "7158578655b94c8435871eeaf3d0e09ce3545568ffe2aef545bdfbf7c70afdd3",
+          "reviewNote": "Read complete text of subsection 1 and history note (RSMo 1939 § 12623, A.L. 1978 H.B. 971 merged with H.B. 1634, A.L. 1991 H.B. 619, A.L. 1993 S.B. 392, A.L. 1995 H.B. 88, A.L. 1998 H.B. 1622 merged with S.B. 479, A.L. 1999 H.B. 450 merged with S.B. 160 & 82, A.L. 2002 S.B. 984 & 985, A.L. 2004 S.B. 987). Covers duplicate petition and plat filing in the largest-acreage county circuit court, required estimates and disclosures, fifty-dollar cost deposit, fifty-signer threshold, and verification confirming certified-mail service on municipalities within one mile."
+        },
+        {
+          "number": 2,
+          "title": "Hearing date and published notice of formation petition",
+          "bodySha256": "1e84f555c64af8f31800d773dcf1571cc8af65ee4084e07a1be3592dd1821385",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers court presentation, fixing a regular judicial-day hearing date seven to twenty-one days after last publication, and clerk-signed weekly or daily newspaper notice across affected counties."
+        },
+        {
+          "number": 3,
+          "title": "Continuance of formation case or hearing",
+          "bodySha256": "157d7610dbf09c9cc01b4c868eb4c18d64ac2450a35e03f9490ece7149c8b742",
+          "reviewNote": "Read complete text of subsection 3 and history note. Permits the circuit court, for good cause shown, to continue the formation case or hearing from time to time until final disposition."
+        },
+        {
+          "number": 4,
+          "title": "Exceptions to formation or boundaries and decree adjustments",
+          "bodySha256": "d8291d2681577c83d99333c0a4507bbd8d9f8f8e8c81edd08d86a924c453dbb2",
+          "reviewNote": "Read complete text of subsection 4 and history note. Covers exceptions filed at least five days before hearing by district voters, real property owners, or municipalities within one mile, evidentiary consideration, and court authority to modify boundaries before entering a decree of incorporation."
+        },
+        {
+          "number": 5,
+          "title": "Dismissal or incorporation decree, subdistricts, and first board",
+          "bodySha256": "f3021a2f590a20ecd36994039b1cb29db1c8cff1c1a455154d33d0c2a610ecc7",
+          "reviewNote": "Read complete text of subsection 5 and history note. Covers dismissal at petitioners' costs if not in the public interest, or incorporation decree fixing boundaries, five roughly equal-area numbered subdistricts, official district name/number, and first board appointment (with section 247.060 residency exception, district-wide fallback if no willing subdistrict resident, and archived initial-term wording designating only two two-year terms and one one-year term)."
+        },
+        {
+          "number": 6,
+          "title": "Voter approval requirement, election date, and canvass",
+          "bodySha256": "c743b9e80b732741e2d0b0913783b91ac01888db890a6b8bf47034f265c2d131",
+          "reviewNote": "Read complete text of subsection 6 and history note. Conditions finality of the incorporation decree on voter assent (majority under subsection 9 or two-thirds voting), requires the decree to fix the election date, and directs certification of returns and court canvass and declaration."
+        },
+        {
+          "number": 7,
+          "title": "Final or void order, appeal bar, and certified filings",
+          "bodySha256": "6c7d903991205418c4ec6c382ef153ce8a5a9621b52f02003cc3a2fe75bd6d50",
+          "reviewNote": "Read complete text of subsection 7 and history note. Directs entry of a final-and-conclusive or void order after canvass (noting the archived wording refers to 'a majority of two-thirds of the voters' without repeating subsection 9's simple-majority rule), bars appeals from the decree and orders, and requires certified filings with the secretary of state, recorder of deeds, and county commission clerk."
+        },
+        {
+          "number": 8,
+          "title": "Allocation of district formation costs",
+          "bodySha256": "efa9cb1b8347b7ae3b324fc803b3c5bdb9658b2794503ec49d6ca137149b9b50",
+          "reviewNote": "Read complete text of subsection 8 and history note. Taxes formation costs to the district if incorporated, and otherwise against the petitioners."
+        },
+        {
+          "number": 9,
+          "title": "Formation without general obligation bonds and majority vote",
+          "bodySha256": "20e32934123365389047c8b411aedf7472278db66fc06ff354e5a952a676b98e",
+          "reviewNote": "Read complete text of subsection 9 and history note. Allows petitioners to specify formation without general obligation bond authority, requires decree recitals to that effect, and reduces the voter threshold for finality to a simple majority."
+        }
+      ]
+    },
+    {
+      "id": "247.060:13138",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.060&bid=13138",
+      "sourceSha256": "46b48420723c41f21015980abbb6bea990e8d7c30b1583f1f20085fcc2b393b9",
+      "textSha256": "8ca7190b8646bbb03689c2633a6d98104a67d75a2bdb7ffdb6c1941a965ecd07",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.060:13138 (subsections 1-8), history notes (RSMo 1939 § 12625 through A.L. 2014 H.B. 1692), and cross-reference (Nonseverability clause, 640.099); verified all source and subsection fingerprints. Checked age/residency/tax qualifications, district-wide vacancy fallback, certified-mail absence-vacation rule, initial staggered April terms and 247.180 elections, archived 2008-2010 transitional terms, attendance-fee caps (including first-class county and weekly limits), six-hour training prerequisite, and circuit court suspension/removal/restraint powers. Revised subsection 8 title to \"Court petition, summary hearing, and no stay on appeal\" for plain-language clarity covering all subsection 7 actions; retained subsections 1-7.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board powers, qualifications, three-year terms, and vacancies",
+          "bodySha256": "1175dff05196e0f858e8bfb4cb12df2bbe9c753ca41f781a136f8df843510cc5",
+          "reviewNote": "Read complete text of subsection 1, history note (RSMo 1939 § 12625 through A.L. 2014 H.B. 1692), and cross-reference (Nonseverability clause, 640.099). Vests district management in a five-member board, sets voter, one-year residency, age-25, and tax-delinquency qualifications, establishes three-year terms subject to subsection 2, and governs board vacancy appointments including district-wide fallback when no qualified subdistrict resident will serve."
+        },
+        {
+          "number": 2,
+          "title": "Vacating board seat after consecutive unexcused absences",
+          "bodySha256": "347b1c03e262d411a0944858bac5c36facf85a0e9fa47c2ae38cd6175badc6f7",
+          "reviewNote": "Read complete text of subsection 2 and notes. Deems a board seat vacated after certified-mail notice of two consecutive unexcused absences followed by failure to attend three consecutive regular meetings without satisfactory board excuse, with secretary certification and standard vacancy filling."
+        },
+        {
+          "number": 3,
+          "title": "Initial court-appointed terms and April elections under 247.180",
+          "bodySha256": "d519051e0b12ee8bb2229e06f9cecad15989dc3a61e268884a19d45c3f365165",
+          "reviewNote": "Read complete text of subsection 3 and notes. Specifies staggered April expiration dates for circuit-court-appointed initial directors (one, two, and three years) and directs subsequent April elections under section 247.180."
+        },
+        {
+          "number": 4,
+          "title": "Transitional 2008 to 2010 and regular April term dates",
+          "bodySha256": "e0e5f8bbb26b0f7a5a001e41173ce017c345268a225860e56690a12e43612a4e",
+          "reviewNote": "Read complete text of subsection 4 and notes. Preserves the archived June-to-April transitional service dates for directors elected in 2008, 2009, and 2010 and sets regular April-to-April three-year terms for directors elected thereafter."
+        },
+        {
+          "number": 5,
+          "title": "Director attendance fees, president fee, and expenses",
+          "bodySha256": "134efc6af615d516f2dca59907278502c0e3d3da60b84c25a7a3fffdef19a257",
+          "reviewNote": "Read complete text of subsection 5 and notes. Authorizes attendance fees up to $100 per meeting (capped at two per month, or four in first-classification counties, and one per calendar week), an additional $50 per meeting for the president (capped at two per month), and reimbursement of actual duty expenditures."
+        },
+        {
+          "number": 6,
+          "title": "Six-hour training prerequisite for director compensation",
+          "bodySha256": "fe35950821952c743045332cc1964434df706fec97bb31596a499d88081d824f",
+          "reviewNote": "Read complete text of subsection 6 and notes. Prohibits any board member from receiving subsection 5 attendance fees or additional compensation until completing at least six hours of specified training covering water operations, budgeting and rates, planning, capital funding, financial statements, the Missouri sunshine law, and chapter 247."
+        },
+        {
+          "number": 7,
+          "title": "Circuit court authority to suspend, remove, or restrain directors",
+          "bodySha256": "29bb5fa0807cc36291389126c7cb1001c1aea53cd952bb7ac484c60337f06024",
+          "reviewNote": "Read complete text of subsection 7 and notes. Grants the circuit court jurisdiction to suspend directors for abuse of trust or disqualification, remove them upon proof or conviction of gross misconduct or disqualification, or restrain threatened or fraudulent alienation of district property."
+        },
+        {
+          "number": 8,
+          "title": "Court petition, summary hearing, and no stay on appeal",
+          "bodySha256": "4722d4926f1d0af6d1de9f63103795eb31cec80ccec56c8d98a8f39d0aee29d3",
+          "reviewNote": "Read complete text of subsection 8 and notes. Governs verified petitions by a board member or ten district voters, summary hearing after ten days' written notice, speedy appeal, and the rule that appeal does not stay a judgment of suspension or removal."
+        }
+      ]
+    },
+    {
+      "id": "247.080:13140",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.080&bid=13140",
+      "sourceSha256": "72f0d864cecdf079329070473b7df9b0637560f4279d8c46b88199c9caa1fdca",
+      "textSha256": "ce031c90c4fca7a26fd5d286301bd3b4a80a3f98db7c6a51322bcc5678fa2a98",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.080:13140 (subsections 1-5) and history notes (RSMo 1939 § 12627, A.L. 2014 H.B. 1692); verified all source and subsection fingerprints. Checked collective board action under sections 247.010 to 247.220, staffing/annual-audit/at-will/nonpartisan rules, meeting/office duties, fidelity bonds, and exact section 432.070 contract compliance and seal mandate. Retained all 5 titles as accurate and concise.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exercise of district powers by board acting collectively",
+          "bodySha256": "90a1f7ee72b97ab7427eb0edc01df4cbca455ac9d0cf2246deeb40c3ac6b74c4",
+          "reviewNote": "Read complete text of subsection 1 and history note (RSMo 1939 § 12627, A.L. 2014 H.B. 1692). Directs that district powers conferred by sections 247.010 to 247.220 be exercised by the board of directors acting as a board."
+        },
+        {
+          "number": 2,
+          "title": "Staffing, professional contracts, annual audit, and nonpartisan hiring",
+          "bodySha256": "fd29ba5efc62eed9a81093c858fde81c9e68afe5cf76794b207a96c213c9539a",
+          "reviewNote": "Read complete text of subsection 2 and history note. Empowers and obligates the board to employ help and contract for professional services with reasonable pay, requires an annual audit by a competent accountant, establishes indefinite at-will employment, and bars party politics in employee selection."
+        },
+        {
+          "number": 3,
+          "title": "Monthly meetings, special meetings, and district office",
+          "bodySha256": "d4e92c14229aa7a23015dffb38b6b8f184446125de73f9d2ad2b4125677c78de",
+          "reviewNote": "Read complete text of subsection 3 and history note. Requires regular monthly board meetings, authorizes the president to call special meetings, and directs establishing an office for meetings and business."
+        },
+        {
+          "number": 4,
+          "title": "Fidelity bonds for persons handling district funds",
+          "bodySha256": "6c7d23954630c274956c02e9fa5319bfc12147d3a0ac30873316b23b48204500",
+          "reviewNote": "Read complete text of subsection 4 and history note. Requires all persons handling district funds to give bond fixed and approved by the board at district expense."
+        },
+        {
+          "number": 5,
+          "title": "Contract compliance with section 432.070 and official seal",
+          "bodySha256": "e12996ed28d657bfb865c4afa9da4ed8a8e32a36978ec83eeae86c045f7b56f7",
+          "reviewNote": "Read complete text of subsection 5 and history note. Requires district contracts to conform to section 432.070, authorizes contracting in behalf of the district, and mandates an official seal attesting all official documents."
+        }
+      ]
+    },
+    {
+      "id": "247.085:13141",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.085&bid=13141",
+      "sourceSha256": "735d72428aded30e9bb151ca23cfe3f6d3733d7864291832cefe780d00f004e5",
+      "textSha256": "89cd022e7f094a2084db1aefc9cf46329c5b3ec4385ad9395cf6b07808756eea",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.085:13141 (subsections 1-3) and history notes (L. 1951 p. 650, A.L. 2004 S.B. 987, A.L. 2005 H.B. 395); verified all source and subsection fingerprints. Checked municipal waterworks-owner prerequisite, bond assumption and adequate/pure water consideration, prior published notice and recital requirement, remaining-property sale and surplus-fund public purposes, and subsection 3's unspecified reference to \"those sections\" (retained without inventing section numbers). Revised subsection 3 title to \"Cumulative powers not subject to other section conditions\" to reflect both clauses accurately; retained subsections 1 and 2.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Selling district property to city and published notice",
+          "bodySha256": "d2294e56927ae3e9ccbde5b4f4d781307cbc3d6fcb3c02fe7281e06d5a566059",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1951 p. 650, A.L. 2004 S.B. 987, A.L. 2005 H.B. 395). Empowers the board to sell and convey part or all district property to a city owning and operating a waterworks in return for bond assumption and adequate, pure water service on agreed terms, conditioned on prior published newspaper notice recited in the contract."
+        },
+        {
+          "number": 2,
+          "title": "Sale of remaining property and use of surplus funds",
+          "bodySha256": "7088c3cede4bd5eebb02abb490ab58c9857e0cb8b5b1d926d7dfc494b1e5224a",
+          "reviewNote": "Read complete text of subsection 2 and history note. Permits the board thereafter to sell remaining district property and, after paying non-bond debts, apply district funds to fire protection or other beneficial public purposes."
+        },
+        {
+          "number": 3,
+          "title": "Cumulative powers not subject to other section conditions",
+          "bodySha256": "fbc457f7336b7a68bb0a964e1aab39dded6b5ba9e4393f8e3333b0a3045c336a",
+          "reviewNote": "Read complete text of subsection 3 and history note. States that section powers are in addition to powers granted by law and not subject to terms and conditions in 'those sections' (retaining the archived unspecified reference without inventing section numbers)."
+        }
+      ]
+    },
+    {
+      "id": "247.100:13143",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.100&bid=13143",
+      "sourceSha256": "509171a9c1242061bc0699a8b8c45f2af7a6f69d3175b7b3752af026c1dd4c6e",
+      "textSha256": "e69fba34bb3aa0d06b6faadefcf19e544451a2ceed0a56475d24da710504df16",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.100:13143 (subsections 1-4) and history note (RSMo 1939 § 12629); verified all source and subsection fingerprints. Checked president/vice-president succession, clerk duties under sections 247.010 to 247.220, treasurer warrant-signing and bond requirements, and board rulemaking authority over officer duties. Retained all 4 titles as accurate and distinct.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Duties of board president and vice president",
+          "bodySha256": "7107ce5073a478104a8cee04eed505098f31533727b48cbef7254f8821b9f34c",
+          "reviewNote": "Read complete text of subsection 1 and history note (RSMo 1939 § 12629). Assigns presiding, acting as official head, and executing contracts to the president, with the vice president assuming those duties during the president's absence or disability."
+        },
+        {
+          "number": 2,
+          "title": "Duties of board clerk",
+          "bodySha256": "8412021f852606ba7d454928fe8cbc276f2033d21e249c129eff521281c9c91c",
+          "reviewNote": "Read complete text of subsection 2 and history note. Assigns keeping official meeting records, attesting documents with the district seal, reporting on office business when called upon, attending meetings, and performing other duties under sections 247.010 to 247.220 and board rules."
+        },
+        {
+          "number": 3,
+          "title": "Duties of treasurer, warrants, and official bond",
+          "bodySha256": "4a864bc8d99eea4d0864f6ee56b4cc8915febe7d923912c80eb1e9ad0ee3db6a",
+          "reviewNote": "Read complete text of subsection 3 and history note. Makes the treasurer custodian of funds paying money only on valid warrants signed by the clerk and countersigned by the president, and requires a board-fixed bond at district expense."
+        },
+        {
+          "number": 4,
+          "title": "Additional board rules governing officer duties",
+          "bodySha256": "1a565d54a8336682cd0f704e9e0774142d0b60f1ff3494ecd2c4bc36fa7363cb",
+          "reviewNote": "Read complete text of subsection 4 and history note. Authorizes the board to adopt additional rules and regulations concerning the duties of its officers."
+        }
+      ]
+    },
+    {
+      "id": "247.110:13144",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.110&bid=13144",
+      "sourceSha256": "46bc832da7632a99ed8bec21177043fba42d788d6683cbfb828d907ac3738351",
+      "textSha256": "e21d567a8d87282937886126c45aec4404cf382d90954bd4697900671d59c158",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.110:13144 (subsections 1-4) and history notes (RSMo 1939 § 12630, A.L. 1990 S.B. 525); verified all source and subsection fingerprints. Checked Public Service Commission regulation qualification and listed rate-reasonableness factors in subsection 1, delinquency and reasonable-penalty authority in subsection 2, 10-day prior notice, 30-day delinquency, same-owner proviso, and mandatory satisfaction notice in subsection 3, and county-of-delivery circuit court lien enforcement in subsection 4. Retained all 4 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board rate-fixing authority and reasonableness factors",
+          "bodySha256": "f0264d01c2354da4df4df6d8a67631d33818614564f62d29c8fe3b560ac7bece",
+          "reviewNote": "Read complete text of subsection 1 and history note (RSMo 1939 § 12630, A.L. 1990 S.B. 525). Vests fixing reasonable water rates under sections 247.010 to 247.220 in the board, subject to Public Service Commission regulation and control, and lists factors the board must consider including special obligation bonds, extensions, repairs, depreciation, enlargement, service, obsolescence, overhead, operating expenses, and emergency/incidental operating fund."
+        },
+        {
+          "number": 2,
+          "title": "Payment due dates, delinquency, and reasonable penalties",
+          "bodySha256": "30be887a45ac1de18d1b88b12f8c59669f2209170a89d98c88b5811635c03f52",
+          "reviewNote": "Read complete text of subsection 2 and history note. Provides that water charges are due as specified by the board, may be deemed delinquent if unpaid by the due date, and may carry board-assessed penalties not exceeding a reasonable amount."
+        },
+        {
+          "number": 3,
+          "title": "Filing delinquent water-charge liens and satisfaction notices",
+          "bodySha256": "96cf09550508c038b604ff563d931704d7450a7b98dcd4173b503a16195fc16f",
+          "reviewNote": "Read complete text of subsection 3 and history note. Authorizes filing a property lien with the county recorder of deeds for charges thirty or more days delinquent after ten days' prior notice, provided the property owner is the same person owing the charges, and requires filing a notice of satisfaction upon full payment of arrears, interest, recording fees, and attorney fees."
+        },
+        {
+          "number": 4,
+          "title": "Circuit court civil actions to enforce liens",
+          "bodySha256": "f34a2557b5390aa062f3ae807cbe4d4deff5fa4596784ab47cceaccda36eff9a",
+          "reviewNote": "Read complete text of subsection 4 and history note. Authorizes enforcing the section's lien by circuit court action in the county where water services are delivered, following ordinary civil action pleadings, practice, and process."
+        }
+      ]
+    },
+    {
+      "id": "247.120:13145",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.120&bid=13145",
+      "sourceSha256": "65ebe9e6730809622805935f1021d81f6d48707649bd221e56102416d55d2148",
+      "textSha256": "3e79488f05eb3248b0dc459067e3b90b5b408db9cd972cfa4a50f60cc2a07804",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.120:13145 (subsections 1-3) and history note (RSMo 1939 § 12631); verified all source and subsection fingerprints. Checked May 10 annual estimate deadline subject to sections 247.010 to 247.220 for section 247.050 purposes, multi-county certification and levy duties, and school-tax entry / state-and-county tax collection and remittance rules. Retained all 3 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual May 10 tax estimates for section 247.050 purposes",
+          "bodySha256": "41d2ba7fcfbd668280aefee1b7a763077c3edd3c843c587f46a5a1fc26acfb4a",
+          "reviewNote": "Read complete text of subsection 1 and history note (RSMo 1939 § 12631). Requires the board, on or before May 10 each year and subject to sections 247.010 to 247.220 limitations, to estimate taxes needed for district purposes specified in section 247.050."
+        },
+        {
+          "number": 2,
+          "title": "Certification of estimates and county commission tax levy",
+          "bodySha256": "775c42527683b41646b56239357562d5c1863c2f715ef8093e77f56fc85c1f1a",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs clerk certification and filing of estimates with county commission clerk(s) and requires the county commission(s) to levy a sufficient tax on all taxable district property."
+        },
+        {
+          "number": 3,
+          "title": "Entry on tax books, collection, and remittance",
+          "bodySha256": "fab1b272f19db9397a349b445b168462e277aabb9f1b5e588471effffe8b34cd",
+          "reviewNote": "Read complete text of subsection 3 and history note. Directs entry on tax books like school district taxes, collection and enforcement like state and county taxes, and remittance by county collector(s) to the district treasurer."
+        }
+      ]
+    },
+    {
+      "id": "247.130:13146",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.130&bid=13146",
+      "sourceSha256": "fb73dbd045e075c726d4a12a69d80db18a0f39cf40f0aaff4c98c5c7ffa7baf6",
+      "textSha256": "54faa4178aa2ea7d69ee725285ba340a4a83256becfa0342bff5cce95d3b5121",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.130:13146 (subsections 1-6) and history notes (RSMo 1939 § 12632 through A.L. 1990 S.B. 862); verified all source and subsection fingerprints. Checked board resolution requirements, distinct voter thresholds (constitutional percentage for GO vs. simple majority for special obligation bonds), advance bond-type determination and notice, Article VI § 26 debt limit and sinking-fund transfers, special obligation revenue pledge and rate covenant, and serial-maturity, 6% interest, execution, and 4-month re-election waiting-period provisions. Retained all 6 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Borrowing authority and board bond-election resolution",
+          "bodySha256": "efe7e17d6ffa95bb7dd2c1b1e20e2e2195791d1136e515d5feb0dfff33792280",
+          "reviewNote": "Read complete text of subsection 1 and history note (RSMo 1939 § 12632, A.L. 1945 p. 847, A.L. 1959 S.B. 160, A.L. 1978 H.B. 971, A.L. 1990 S.B. 862). Grants borrowing and bonding power for sections 247.010 to 247.220 purposes and requires a board resolution reciting necessity, amount, purposes, and bond type and fixing the election date."
+        },
+        {
+          "number": 2,
+          "title": "Voter approval thresholds for general and special obligation bonds",
+          "bodySha256": "39d7a3929890451010b65cb88ccb0b59118c6ba46d6d0c0a57f8ba2d74964105",
+          "reviewNote": "Read complete text of subsection 2 and history note. Allows submitting general obligation, special obligation, or both bond proposals, requiring the constitutionally required voter percentage for general obligation bonds and a simple majority for special obligation bonds."
+        },
+        {
+          "number": 3,
+          "title": "Advance determination and election-notice statement of bond type",
+          "bodySha256": "d60d72958187f8b975b570912ec13b50193d83065f61818561a08c667bd73cf4",
+          "reviewNote": "Read complete text of subsection 3 and history note. Permits issuing general or special obligation bonds as defined in this section, conditioned on board determination of bond type before calling the election and stating it in the election notice."
+        },
+        {
+          "number": 4,
+          "title": "General obligation bonds, tax levy, and sinking fund transfers",
+          "bodySha256": "4c3ee68fdbb936852e3db16ee5cd9df19cf00631cad4491f82e48888c1de1bc8",
+          "reviewNote": "Read complete text of subsection 4 and history note. Defines general obligation bonds within Article VI, Section 26 constitutional debt limits, requires an annual property tax sufficient for interest and twenty-year principal retirement, and directs transferring net waterworks revenues to the interest and sinking fund unless pledged to special obligation bonds."
+        },
+        {
+          "number": 5,
+          "title": "Special obligation bonds, revenue pledge, and rate covenant",
+          "bodySha256": "dbb576e8f115db38b43272365f9434e5ff0f49524af497e46bff7b2f55169621",
+          "reviewNote": "Read complete text of subsection 5 and history note. Defines special obligation bonds payable solely from net waterworks revenues outside constitutional or statutory debt limits, and requires pledging net revenues and covenanting to fix, maintain, and collect sufficient water rates."
+        },
+        {
+          "number": 6,
+          "title": "Serial maturities, interest cap, execution, and election waiting period",
+          "bodySha256": "35612f4b597fa02f50e452c66f2e870cfb970c774616239ce07c21868f3136d7",
+          "reviewNote": "Read complete text of subsection 6 and history note. Governs serial payment start (within five years) and final maturity caps (twenty years GO, thirty-five years special obligation), six-percent interest cap, payment places, execution and seal, denomination and medium, and the four-month bar on calling another bond election after a failed issue."
+        }
+      ]
+    },
+    {
+      "id": "247.150:13148",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.150&bid=13148",
+      "sourceSha256": "1cef8fe73c2d9726f226a6a92224634798b2708b064e2e03f9934e5aa6120620",
+      "textSha256": "756a8ea978f2f7829ddd2f23d248a4efa3e7ec023578eb3b75cf94b8f699514c",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.150:13148 (subsections 1-4), history notes (L. 1943 p. 519 § 12638A, A.L. 1972 H.B. 1506), and cross-reference (108.140 to 108.160); verified all source and subsection fingerprints. Checked no-election refunding authority, preserved ad valorem vs. net-revenue payment sources, negotiability, 35-year special-obligation maturity exception, 8% cap and differing rate-increase rules for GO vs. revenue refunding bonds, and bar on increasing total debt. Retained all 4 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority to refund bonded debt without election",
+          "bodySha256": "447f745efb509cd7e31cacd516047fb1bee10b1167d4a8cc65974f87d5cb4b0a",
+          "reviewNote": "Read complete text of subsection 1, history note (L. 1943 p. 519 § 12638A, A.L. 1972 H.B. 1506), and cross-reference (108.140 to 108.160). Authorizes any public water supply district, without an election, to refund all or part of its outstanding bonded indebtedness including interest."
+        },
+        {
+          "number": 2,
+          "title": "Tax-payment source for general obligation refunding bonds",
+          "bodySha256": "7f58b015e73ec56cd3961e4cf411f522b06c66f0f184cd83feef1d47e43397d1",
+          "reviewNote": "Read complete text of subsection 2 and notes. Requires refunding bonds issued for general obligation bonds to be payable from ad valorem taxes levied on all taxable property in the district."
+        },
+        {
+          "number": 3,
+          "title": "Net-revenue payment source for special obligation refunding bonds",
+          "bodySha256": "2380eb167d1377cf2b953ffc10b2ae29e2ea92402f7b176c0c87ef2e561cf751",
+          "reviewNote": "Read complete text of subsection 3 and notes. Requires refunding bonds issued for special obligation bonds or interest thereon to remain special obligation bonds payable from net waterworks income and revenues."
+        },
+        {
+          "number": 4,
+          "title": "Negotiability, maturities, interest caps, and no debt increase",
+          "bodySha256": "be873079641249df555ed998826af22bf759c7e600c8e466396c16deb663d9ec",
+          "reviewNote": "Read complete text of subsection 4 and notes. Governs negotiability, maturity limits (final payment of original bonds, except up to thirty-five years for special obligation refunding bonds), eight-percent interest cap and rate-increase limits for GO versus revenue refunding bonds, denomination and payment place, and prohibition on increasing total district debt."
+        }
+      ]
+    },
+    {
+      "id": "247.160:13149",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.160&bid=13149",
+      "sourceSha256": "5afa69f66e80a5c1582119d4310af35447e74f55f678d6a07d33eaa765397173",
+      "textSha256": "aafd63b31935d06c99d9694b978999c137c1c37f5d9732d8aad9c2e8de05d065",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.160:13149 (subsections 1-5, including subdivisions (1)-(4) in subsection 1) and history notes (L. 1949 p. 255 § 12637.1, A.L. 2008 S.B. 956); verified all source and subsection fingerprints. Checked section 247.170 cross-reference, four bondholder-protection conditions, archived statutory range shift (subsection 1 cites 247.010 to 247.220 while subsection 4 cites 247.010 to 247.227), free-and-clear title vesting, deferred subdistrict changes, and certified filings. Revised subsection 2 title to \"Circuit court application to approve lease or sale agreement\" to cover leases as well as sales/conveyances; retained subsections 1 and 3-5.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Operating contracts, facility conveyances, and bondholder protections",
+          "bodySha256": "b8886a6a1bbdca5b2d022266f6141918a990c44d875cf0af5158f4cc3641b413",
+          "reviewNote": "Read complete text of subsection 1, including subdivisions (1) to (4), and history note (L. 1949 p. 255 § 12637.1, A.L. 2008 S.B. 956). Authorizes a district board whose territory is annexed by a municipality to contract for municipal operation or, subject to this section and section 247.170, lease or convey annexed facilities with territorial detachment, conditioned on one of four bondholder-protection options."
+        },
+        {
+          "number": 2,
+          "title": "Circuit court application to approve lease or sale agreement",
+          "bodySha256": "b18ce59cbc9d21f0c558b480c3a0fe9570f2b3675b622efcf8572bde9d7084a0",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires one contracting party to apply to the incorporating circuit court with area descriptions, the agreement copy, and bondholder facts, requesting approval or disapproval."
+        },
+        {
+          "number": 3,
+          "title": "Hearing schedule and three-week published notice",
+          "bodySha256": "f44e3b5dcfc5b3123b480181e63158ceca7afea1e3dfd4944a96013afab766b0",
+          "reviewNote": "Read complete text of subsection 3 and history note. Directs the court to set a hearing and order three consecutive weeks of county newspaper notice, with the last publication not more than seven days before hearing."
+        },
+        {
+          "number": 4,
+          "title": "Court approval, title vesting, and deferred subdistrict changes",
+          "bodySha256": "ea17e6a2d0036263ae09b0c5d148370349e4b60b7b62574fa3aa6549e96d4141",
+          "reviewNote": "Read complete text of subsection 4 and history note. Covers court findings protecting bondholders and water service, vesting free-and-clear title in the city, describing post-detachment boundaries, adjusting subdistricts under sections 247.010 to 247.227 (noting the archived range differs from subsection 1's 247.010 to 247.220), and deferring subdistrict changes until the next annual board election."
+        },
+        {
+          "number": 5,
+          "title": "Filing certified detachment orders and proceeding costs",
+          "bodySha256": "27e5abd1c8a85b97ec81e69c0f90060eedb87b8499b6683045d1885eccd1c523",
+          "reviewNote": "Read complete text of subsection 5 and history note. Directs the circuit clerk to file certified detachment orders with the recorder of deeds, pre-detachment county clerk(s), and secretary of state, and assigns proceeding costs to the petitioner or petitioners."
+        }
+      ]
+    },
+    {
+      "id": "247.165:13150",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.165&bid=13150",
+      "sourceSha256": "006be2da3b3189f1569f1f6bacd75ad3f89cac78f2cacc69b3d0aeee83bf9eaf",
+      "textSha256": "1e180087204c20a6ed02a5fba1a09e3a88893516443ad0bbcb87f486c2556bb7",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.165:13150 (subsections 1-8, including subdivisions (1)-(4) and continuation sentence in subsection 4) and history note (L. 2001 S.B. 267); verified all source and subsection fingerprints. Checked archived 2001 transitional annexation windows (1996-2001 and 1999-2001 for the qualifying county bracket), \"not receiving water service\" definition, archived cross-reference range \"sections 247.110 to 247.227\" in subsections 1 and 7 (retained without inventing a correction to 247.010), voluntary-agreement exemption from subsections 2-8, commissioner appointment/criteria/compensation, appeal right, and final filings. Retained all 8 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Voluntary service agreements for unserved annexed territory",
+          "bodySha256": "faa98584e52294d776b67a43fc4e113133e7996b8dac7e71e7d99eafd91def20",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 2001 S.B. 267). Covers six-month windows to develop voluntary municipal-district service agreements for unserved annexed territory (including archived 2001 transitional windows for 1996–2001 and 1999–2001 annexations), defines 'not receiving water service', governs court detachment orders and subdistrict adjustments citing sections 247.110 to 247.227, requires certified filings, and exempts voluntary agreements from subsections 2 to 8."
+        },
+        {
+          "number": 2,
+          "title": "Application and appointment of three commissioners",
+          "bodySha256": "db13a3b74e0e732654803674555c5f7df2c2a46671f83366ea3d2104d1464e9e",
+          "reviewNote": "Read complete text of subsection 2 and history note. Allows either party, when unable to reach agreement, to apply to the incorporating circuit court for three commissioners, setting thirty-day timelines for party appointments and court fallback appointments."
+        },
+        {
+          "number": 3,
+          "title": "Hearing schedule and published notice of commissioner proceedings",
+          "bodySha256": "212e91f729108da1ecb48cc4fea4bc7cce484b9c198ef24e2f05b8514206b320",
+          "reviewNote": "Read complete text of subsection 3 and history note. Directs the court, upon application and appointment of three commissioners, to set hearings and order three consecutive weeks of newspaper publication ending not more than seven days before the first hearing."
+        },
+        {
+          "number": 4,
+          "title": "Commissioner criteria and cost-apportionment recommendation",
+          "bodySha256": "01e33c66ba7cff92333948ee78e82fb4fa75f9a4a3441bb11f863616a93a9ae8",
+          "reviewNote": "Read complete text of subsection 4, including subdivisions (1) to (4) and the continuation paragraph inside subdivision (4), and history note. Requires commissioners to develop a service agreement considering revenue/cost loss, annexed-area debt, contractual obligations, and district water-rate effects, and to recommend apportioning court costs and reasonable commissioner compensation."
+        },
+        {
+          "number": 5,
+          "title": "Court approval of agreement, costs, and commissioner compensation",
+          "bodySha256": "b43b63b23bf1ad3c2c19fefd1717a1e2b9106112d2ebc28c6e56ecbdb4e5f5d1",
+          "reviewNote": "Read complete text of subsection 5 and history note. Makes the commissioner-developed agreement effective upon court approval after finding necessary water service is provided, and authorizes the court to affirm or modify recommended cost apportionment and commissioner compensation."
+        },
+        {
+          "number": 6,
+          "title": "Appeal of circuit court order and judgment",
+          "bodySha256": "699c6b34d5850af3755e9efee34d98d58d4ade20ceb52c4530a31bbd84457e91",
+          "reviewNote": "Read complete text of subsection 6 and history note. Makes the court's order and judgment subject to appeal as provided by law."
+        },
+        {
+          "number": 7,
+          "title": "Detachment order and deferred subdistrict line changes",
+          "bodySha256": "b506abf318bbd6a59a08ae2761d1d9ee14f5f44770ae52148d7c5ce103c2fea6",
+          "reviewNote": "Read complete text of subsection 7 and history note. Directs the court, when approving detachment as part of the territorial agreement, to enter a detachment judgment stating revised district boundaries and subdistrict changes under sections 247.110 to 247.227, effective at the next annual regular election."
+        },
+        {
+          "number": 8,
+          "title": "Filing certified copies of final order and judgment",
+          "bodySha256": "172d6786af9ced4e3730c62acfea99931ee57e86ce58cdd30d50f877c84c7f12",
+          "reviewNote": "Read complete text of subsection 8 and history note. Directs the circuit clerk, once the order and judgment become final, to file certified copies with the secretary of state, recorder of deeds, and county clerk(s)."
+        }
+      ]
+    },
+    {
+      "id": "247.170:13151",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.170&bid=13151",
+      "sourceSha256": "ba66fc946dba8b3ef802c013b330b103133149771ad0100de74900f39c1a93f3",
+      "textSha256": "7e3acc1688048ebc38a3def0f16671fdeb0521ea9c06cf760b7495cd028e1059",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.170:13151 (subsections 1-2, including subdivisions (1)-(8) in subsection 1) and history notes (L. 1949 p. 255 § 12637.1 through A.L. 2003 H.B. 511); verified all source and subsection fingerprints. Checked 90-day post-annexation trigger when section 247.160 or agreement fails, patron-voter signature threshold, district-wide election, municipal assumption of proportional GO/revenue bond debt plus >$25,000 contractual infrastructure/water obligations and court costs, 6-month re-petition bar, and subsection 2's applicability to both detachments and facility leases/sales/conveyances. Revised subsection 2 title to \"Post-detachment or conveyance boundary and subdistrict changes\" to cover facility conveyances alongside detachments; retained subsection 1.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Detachment petition, special election, debt assumption, and proceeds",
+          "bodySha256": "4c9a896a6cc366fa6e4ffdce1968e3e5ba487ea7492aaa384ccf9ea670fcaaf3",
+          "reviewNote": "Read complete text of subsection 1, including subdivisions (1) to (8), and history note (L. 1949 p. 255 § 12637.1 through A.L. 2003 H.B. 511). Covers post-90-day detachment of annexed district territory when agreement or section 247.160 fails: patron voter petition, district-wide special election and majority approval, municipal assumption of proportional general/revenue bond debt plus contractual infrastructure/water debts over $25,000 and court costs, title vesting, six-month waiting period after defeat, and court administration of proceeds for bondholders and district."
+        },
+        {
+          "number": 2,
+          "title": "Post-detachment or conveyance boundary and subdistrict changes",
+          "bodySha256": "9df832a3557735ed0e48120586733d59b65fe51ad0aae3e5b120e4919aa476e9",
+          "reviewNote": "Read complete text of subsection 2 and history note. Permits the circuit court, after any final order detaching territory or leasing/selling/conveying district facilities, to alter district boundaries and redivide subdistricts under section 247.040 in the public interest without a further petition."
+        }
+      ]
+    },
+    {
+      "id": "247.172:13153",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.172&bid=13153",
+      "sourceSha256": "9f8109884a09d3bb5a651cb2869b08540a771aef91fba05f48a2bb9b7d40bca5",
+      "textSha256": "7686505ccf438329ea69eeaf761ef2303474b5d75ca53a8739fb48102231b3d2",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.172:13153 (subsections 1-9) and history notes (L. 1991 H.B. 299, A.L. 2007 S.B. 416); verified all source and subsection fingerprints. Checked all three supplier classes (districts, PSC-regulated water corporations, municipal utilities), cross-boundary operating grants notwithstanding 247.010-247.670, mutual-consent PSC petitions, 120-day approval deadline, stipulation hearing waivers, public-interest standards, section 386.500-386.550 review, nonparty supplier protections under chapters 386 and 393, complaint suspension/revocation, PSC jurisdiction savings clauses, section 386.410/33.571 fee rules, and own-motion hearings. Retained all 9 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Displacing water competition through written territorial agreements",
+          "bodySha256": "51e6a639a2991c60bfdd475a1f3ad9db733c9747ae9d5665dc8faca145682606",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1991 H.B. 299, A.L. 2007 S.B. 416). Permits displacing water sale and distribution competition among public water supply districts, PSC-regulated water corporations, and municipally owned utilities by written territorial agreements, only as provided in this section."
+        },
+        {
+          "number": 2,
+          "title": "Required service-area boundaries and cross-boundary operating powers",
+          "bodySha256": "55bdc7f89c2081b576dc1eb2eddd13b88e0ac1f4ab0841ca8c60ee3e00bd4622",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires territorial agreements to specify service-area boundaries, municipal grants allowing a district to operate inside municipal limits notwithstanding sections 247.010 to 247.670, and powers allowing a municipal utility to operate beyond municipal limits."
+        },
+        {
+          "number": 3,
+          "title": "Mutual-consent petitions for commission boundary designation",
+          "bodySha256": "6533821c930d3bdc983231117edc7ec3eb9798cfad03d9bb6727f6549e484b35",
+          "reviewNote": "Read complete text of subsection 3 and history note. Allows disputing parties, by mutual consent of all parties, to petition the Public Service Commission for binding boundary designations under certificate rules, subject to subsection 5 evidentiary hearings and a public-interest finding."
+        },
+        {
+          "number": 4,
+          "title": "Commission approval of agreements, amendments, and assignments",
+          "bodySha256": "72a2a045fa5dbaae266328d0df1e9e3c16a3f13635eca9f4385bf61a98b7316c",
+          "reviewNote": "Read complete text of subsection 4 and history note. Conditions effectiveness of territorial agreements, amendments, and transfers or assignments on PSC report-and-order approval, with notice to other suppliers and a 120-day ruling period unless extended for good cause."
+        },
+        {
+          "number": 5,
+          "title": "Evidentiary hearings, stipulation waiver, approval standard, and review",
+          "bodySha256": "55ad9c1de99d414fe56d3c4771d6e8d4ced2b9ea71cb0eb8a5c599121d2892b7",
+          "reviewNote": "Read complete text of subsection 5 and history note. Requires evidentiary hearings unless waived by an all-party stipulation and agreement, sets the 'not detrimental to the public interest' approval standard, and governs judicial review under sections 386.500 to 386.550."
+        },
+        {
+          "number": 6,
+          "title": "Preservation of nonparty water supplier rights and applications",
+          "bodySha256": "40a367e4f67512e2cb57dcb9666423be789643e30ad70af1f613d8ed7dd879f6",
+          "reviewNote": "Read complete text of subsection 6 and history note. Provides that PSC approval does not affect nonparty suppliers' rights or duties, and bars the PSC from giving weight to a territorial agreement or retail service thereunder when evaluating chapter 386 and 393 authorization requests by nonparty water corporations."
+        },
+        {
+          "number": 7,
+          "title": "Complaints, suspension or revocation, and jurisdiction limits",
+          "bodySha256": "0709c2cfbab6e6e7194e08d1ea05061ab5d29d0fb28591cd07d667f5689a60f6",
+          "reviewNote": "Read complete text of subsection 7 and history note. Grants PSC complaint jurisdiction over approved agreements, hearing and stipulation-waiver rules, authority to suspend or revoke agreements no longer in the public interest, and a savings clause barring broader PSC jurisdiction over district or municipal utility rates, finances, or management."
+        },
+        {
+          "number": 8,
+          "title": "Commission review fee schedule and jurisdiction savings clause",
+          "bodySha256": "ec9db1218560ca5bc91b9f2ff2e31ad82f4f91738bda5de08b92f1b32f326ab8",
+          "reviewNote": "Read complete text of subsection 8 and history note. Requires the PSC, notwithstanding section 386.410, to set cost-based review fees paid by parties through the director of revenue to the state treasurer for the section 33.571 PSC fund, and repeats the savings clause preserving non-section authority and rights of districts, water corporations, and municipal utilities."
+        },
+        {
+          "number": 9,
+          "title": "Commission authority to hold hearings on own motion",
+          "bodySha256": "c4955f2a46db136cf0b83157c0ea0789aaca06a189d8958e127fcf7132b183b4",
+          "reviewNote": "Read complete text of subsection 9 and history note. Authorizes the Public Service Commission, notwithstanding other provisions of this section, to hold a hearing on its own motion regarding any application, complaint, or petition filed under this section."
+        }
+      ]
+    },
+    {
+      "id": "247.180:13154",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.180&bid=13154",
+      "sourceSha256": "6d084fabb9037f5dadb5fe45577de14e5dc7de1cae6fbd2a68d45b3dbddc1bc8",
+      "textSha256": "d69a32611a17e573bbff9278349e275ffa9277e74f216c43d664065a24f61f82",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.180:13154 (subsections 1-2) and history notes (RSMo 1939 § 12633 through A.L. 2005 H.B. 58); verified all source and subsection fingerprints. Checked annual April election timing for regular and section 247.130 elections under chapter 115, single-candidate dispensation from election, and no-candidate vacancy filling under section 247.060. Retained both titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual April election date and chapter 115 administration",
+          "bodySha256": "941e7a629ece12abeb5508a997adbaac11c4841c4384f5ad4475a11a5ab12374",
+          "reviewNote": "Read complete text of subsection 1 and history note (RSMo 1939 § 12633 through A.L. 2005 H.B. 58). Requires the board to call regular and section 247.130 elections annually on the first Tuesday after the first Monday in April, conducted by the appropriate election authority under chapter 115."
+        },
+        {
+          "number": 2,
+          "title": "Uncontested subdistrict posts and no-candidate vacancies",
+          "bodySha256": "05128dd7cca9097a6e00a0f684877bb95163c69ce7354953f9ed3d82aeb6fe66",
+          "reviewNote": "Read complete text of subsection 2 and history note. Dispenses with an election when only one candidate files for a subdistrict director post (who assumes office as if elected) or when no candidate files (treating the post as vacant to be filled under section 247.060)."
+        }
+      ]
+    },
+    {
+      "id": "247.215:13157",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.215&bid=13157",
+      "sourceSha256": "c7bfe05d980a5a7a3c4845ca0c10f5af7fe4024b821b2edb00c563905f9aceb9",
+      "textSha256": "606ad98f3759031819183f9f18fbdab490099e4711dab0307d154d8ded01ee04",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.215:13157 (subsections 1-5, including subdivisions (1)-(2) in subsection 1) and history notes (L. 1957 p. 583, A.L. 1978 H.B. 971); verified all source and subsection fingerprints. Checked water-purchasing district limitation, section 386.020 water-corporation transferee, bond-payment/deposit prerequisites, court approval and 5-day publication rule, total-sale dissolution with two-thirds vote, and liquidation distribution to county collector tax credits or school-district treasurers below a one-cent rate reduction. Retained all 5 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Asset sales by water-purchasing districts to water corporations",
+          "bodySha256": "d0dd8f1df6b6cb31c3adddb6233fa264772af869b7c8afa6148dc7dec287d125",
+          "reviewNote": "Read complete text of subsection 1, including subdivisions (1) and (2), and history note (L. 1957 p. 583, A.L. 1978 H.B. 971). Authorizes a district dependent on water purchases to sell and convey part or all of its water assets to a section 386.020 water corporation if all general or special obligation bonds are paid in full or full-payment proceeds are deposited with the fiscal agent."
+        },
+        {
+          "number": 2,
+          "title": "Circuit court application to approve sale contract",
+          "bodySha256": "ca9a26d64782f8d303c450e9193111dd7b187aea36aff1d207ed88184b0e9fa4",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires the board, after contracting to sell assets under this section, to apply to the incorporating circuit court with the contract copy and bondholder facts for an order approving or disapproving the contract."
+        },
+        {
+          "number": 3,
+          "title": "Hearing schedule and published notice of asset sale",
+          "bodySha256": "bef3418b0c13752fd4b6bf22c2a8b57046bafa6efaf7cd322d381695e4b6acae",
+          "reviewNote": "Read complete text of subsection 3 and history note. Directs the court to set a hearing and order three consecutive weeks of newspaper notice in the pending county, with the last publication not more than five days before hearing."
+        },
+        {
+          "number": 4,
+          "title": "Approval of total sale, two-thirds vote, and dissolution",
+          "bodySha256": "36fb0369d4b502da62047a8cd2f7c6e0cf2d515af426da6057e66ca8b1315102",
+          "reviewNote": "Read complete text of subsection 4 and history note. Directs decree approval and dissolution upon finding a total asset sale protects bondholders, provides necessary water service, and serves residents' and owners' best interests, subject to two-thirds voter assent, full debt payment, and court-satisfied fund disposition."
+        },
+        {
+          "number": 5,
+          "title": "Final liquidation and tax-credit or school-district fund distribution",
+          "bodySha256": "32422c673931c8aca5a020b0e6b85569c9a6e3d590494575c1123b1ea3520afc",
+          "reviewNote": "Read complete text of subsection 5 and history note. Bars final dissolution until liquidation and payment of remaining funds to county collector(s) for pro rata taxpayer tax credits, or to school district treasurers by assessed-valuation ratio if the credit would be less than one cent in tax rate."
+        }
+      ]
+    },
+    {
+      "id": "247.217:13158",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.217&bid=13158",
+      "sourceSha256": "cc29551ca6fc2f6069a1e652c3e68691b2f0e0181134fc14df4cde073f934f02",
+      "textSha256": "64b77426e4abf395bc06c7717a13381c1f328838c18265a94b48f76ea3499e0e",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.217:13158 (subsections 1-14, including the subsection 4 statutory notice table) and history notes (L. 1969 S.B. 311 through A.L. 2002 S.B. 984 & 985); verified all source and subsection fingerprints. Checked largest-acreage court venue, board resolutions, publication schedule, 5-day objections, majority vote in each district, staggered subdistrict director terms and section 247.060 eligibility, consolidated naming template, segregated GO bond tax levies vs. non-preferential revenue bond payments, and certified filings. Retained all 14 titles as accurate and clearly differentiated.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Circuit court authority to consolidate contiguous districts",
+          "bodySha256": "24d79c14b11e6c71bcdb00cbf13801ed68d3ffc0da7d853d3d19181a70994799",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1969 S.B. 311, A.L. 1972 H.B. 1506, A.L. 1978 H.B. 971, A.L. 1988 H.B. 962, A.L. 2002 S.B. 984 & 985). Authorizes consolidating two or more contiguous public water supply districts organized under sections 247.010 to 247.220 by decree of the circuit court where the largest-acreage district was originally incorporated."
+        },
+        {
+          "number": 2,
+          "title": "Board resolutions authorizing consolidation petitions",
+          "bodySha256": "7d1c204d470a1e8e8734e3b164bfe07a016f0e6c24a4f79a94ce7ace361eec37",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires each consolidating district's board, by resolution at a regular or special meeting, to authorize its president to petition the circuit court for consolidation."
+        },
+        {
+          "number": 3,
+          "title": "Filing petition, hearing date, and county newspaper notice",
+          "bodySha256": "3220d0cb61bce51178ca121b28a97a416f4d4c534f0bd281a2783f746ecd949b",
+          "reviewNote": "Read complete text of subsection 3 and history note. Directs filing in the circuit court having jurisdiction, setting a hearing date, and clerk newspaper notice in each county where each district is located."
+        },
+        {
+          "number": 4,
+          "title": "Statutory form of consolidation hearing notice",
+          "bodySha256": "2de611a29a37e1773ca58d29d6899b090acc5c4f85994ba4678727bc3e2afb2e",
+          "reviewNote": "Read complete text of subsection 4, including the statutory notice form table, and history note. Sets out the substantially required court notice form naming the districts, hearing date, five-day written-objection rule, petitioner's attorneys, and circuit clerk."
+        },
+        {
+          "number": 5,
+          "title": "Weekly or daily newspaper publication schedule",
+          "bodySha256": "7b5efee879fbe61345e65e53a3e512a323ecc71c03230cd5a8c846ae67b0d07b",
+          "reviewNote": "Read complete text of subsection 5 and history note. Requires publication in three consecutive weekly issues or twenty consecutive daily issues in each county containing any portion of a proposed consolidating district, with last insertion seven to twenty-one days before hearing."
+        },
+        {
+          "number": 6,
+          "title": "Continuance of consolidation case or hearing",
+          "bodySha256": "5016efd0191afec69d54be34158688d2de2d33f0d948fc2ec3a50664a3800f78",
+          "reviewNote": "Read complete text of subsection 6 and history note. Authorizes the circuit court, for good cause shown, to continue the case or hearing from time to time until final disposition."
+        },
+        {
+          "number": 7,
+          "title": "Objections, consolidation decree, effective date, and subdistricts",
+          "bodySha256": "abf9214ba05828c3ac4dd902114a1209c28aaf1bca476cf7542140f0c49639e5",
+          "reviewNote": "Read complete text of subsection 7 and history note. Covers written voter or landowner objections filed at least five days before hearing, evidentiary review, decree approval on necessary-service and best-interest findings, setting an effective date, and dividing the consolidated district into five numbered roughly equal-area subdistricts."
+        },
+        {
+          "number": 8,
+          "title": "Voter submission required for consolidation finality",
+          "bodySha256": "822e675e1694f0a5be68c326db0c9e01029262fdcca7163f64eaf50e53fad1f9",
+          "reviewNote": "Read complete text of subsection 8 and history note. Provides that the decree of consolidation does not become final and conclusive until submitted to voters in each district proposed for inclusion."
+        },
+        {
+          "number": 9,
+          "title": "Canvass, final decree, and initial subdistrict director election",
+          "bodySha256": "426f9f23120111e0882657ca57f089e8ce2196e8a8b34a5245f642b92e369911",
+          "reviewNote": "Read complete text of subsection 9 and history note. Requires majority voter approval in each district, final order upon canvass, election of one director per subdistrict at least thirty days before the effective date with staggered one-, two-, and three-year terms, subsequent elections under sections 247.010 to 247.220, and court order naming elected directors."
+        },
+        {
+          "number": 10,
+          "title": "Director eligibility under 247.060 and ballot declarations",
+          "bodySha256": "7c2b16ff4a40ef918cd4ac46f940bf3f2e01d70f9508dd1c62bf700698f010fa",
+          "reviewNote": "Read complete text of subsection 10 and history note. Applies section 247.060 director eligibility rules, prohibits two directors from residing in the same subdistrict, and requires filing a declaration of candidacy with the circuit clerk for ballot placement."
+        },
+        {
+          "number": 11,
+          "title": "Official naming format for consolidated district",
+          "bodySha256": "e79cea76a36bda05e18dbd62568ebffe505e9e4f699068da6eaf2be57e270eda",
+          "reviewNote": "Read complete text of subsection 11 and history note. Directs the court in its final decree to designate the consolidated district name using the statutory 'Consolidated Public Water Supply District No. ___, of ___ County, Missouri' template."
+        },
+        {
+          "number": 12,
+          "title": "Board organization and applicability of sections 247.010 to 247.220",
+          "bodySha256": "4772d4a4699e9d633373f09d20fb5dd18ef75d3ddea0a74cace39df254121190",
+          "reviewNote": "Read complete text of subsection 12 and history note. Directs newly elected directors to organize on the consolidation effective date under sections 247.010 to 247.220 and applies those sections to consolidated districts."
+        },
+        {
+          "number": 13,
+          "title": "Combining property and handling general and revenue bonds",
+          "bodySha256": "5fbf62d230f7162a6e04361506036d27d592c22f7516c27d50cbe4e726ddd0cd",
+          "reviewNote": "Read complete text of subsection 13 and history note. Combines original district property into one unit subject to prior liens and obligations, restricts general obligation bond tax levies to property within the original issuing district as of issuance, and directs paying special obligation or revenue bonds without preference from consolidated revenues."
+        },
+        {
+          "number": 14,
+          "title": "Filing certified consolidation decrees and taxing fees as costs",
+          "bodySha256": "156931ecc56cbfb1d8b320f8c40f22f6442a5b14876987edbb1c4c49d5c92c03",
+          "reviewNote": "Read complete text of subsection 14 and history note. Directs the circuit clerk to file certified copies of the court's decrees with the recorder, county clerk in each affected county, and secretary of state, with filing fees taxed as costs."
+        }
+      ]
+    },
+    {
+      "id": "247.220:59948",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.220&bid=59948",
+      "sourceSha256": "a9cf78e3afb3dad0bf96a36206670a9ab19056973c75563323ef28b43e33f15e",
+      "textSha256": "03e18dd6a1c782e9fc4aea56c5a7c2943342cfb11265e6206e27caea1630c727",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.220:59948 (subsections 1-8, including the subsection 5 statutory ballot table and 2026 H.B. 2397 subdivisions 6(1)-(3)) and history notes (RSMo 1939 § 12638 through A.L. 2026 H.B. 2397); verified all source and subsection fingerprints. Checked and retained archived drafting artifacts without silent edits (\"inimicable\" in sub 1, \"would permit all debts... can be paid\" in sub 4, \"has not rectified\" and \"order of consent\" in sub 6(2)(c)), 100-word ballot rule notwithstanding 116.115/116.160, two excluded county/county-seat population brackets and three cumulative prerequisites for the three-fifths vote option, appeal bar, and debt-payment/school-district fund rules. Revised subsection 6 title to \"Voter thresholds, conditional three-fifths option, and canvass\" to highlight the statutory conditions/exclusions, and subsection 8 title to \"Debt payment prerequisite and property or fund disposition\" to avoid conflating district property with excess funds; retained subsections 1-5 and 7.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Dissolution petition contents, asset-sale agreement, and service",
+          "bodySha256": "6b18c68ad56a93144d7b7e327f7283f0f066f599861058d758f88b4d1e043d44",
+          "reviewNote": "Read complete text of subsection 1 and history note (RSMo 1939 § 12638 through A.L. 2026 H.B. 2397). Covers circuit court dissolution petitions (retaining archived spelling 'inimicable'), required allegations including an alternative supplier and contingent board asset-sale agreement, debt-payment plan, $50 deposit, subdistrict registered-voter signature threshold, verification, service on the board, and district opposition if the board deems dissolution contrary to public interest."
+        },
+        {
+          "number": 2,
+          "title": "Hearing schedule and published notice of dissolution petition",
+          "bodySha256": "fbd82e77b024c596d8db6b83c4ab6cb4af48bb4d8feef6e81ea76676d2180cca",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs court hearing scheduling seven to twenty-one days after last publication on a regular judicial day and clerk-signed newspaper publication across affected counties for three weekly or twenty daily issues."
+        },
+        {
+          "number": 3,
+          "title": "Continuance of dissolution case or hearing",
+          "bodySha256": "157d7610dbf09c9cc01b4c868eb4c18d64ac2450a35e03f9490ece7149c8b742",
+          "reviewNote": "Read complete text of subsection 3 and history note. Authorizes the circuit court, for good cause shown, to continue the dissolution case or hearing until final disposition."
+        },
+        {
+          "number": 4,
+          "title": "Exceptions to dissolution and required asset-sale proof",
+          "bodySha256": "7016a77ec4bb4472dc27478396ce0b49f436f79488341fcbd88f28d95b216824",
+          "reviewNote": "Read complete text of subsection 4 and history note. Covers written exceptions by voters, landowners, or the district filed at least five days before hearing, evidentiary review, and mandatory dismissal at petitioners' cost unless petitioners prove a board asset-sale agreement paying all debts in full and continuing water supply (retaining archived phrasing 'would permit all debts and financial obligations of the district can be paid in full')."
+        },
+        {
+          "number": 5,
+          "title": "Dismissal or interlocutory decree and ballot question form",
+          "bodySha256": "8fb3d1e3f9dd7d71d31125cc21b83ff23f0f565429bc75542dcb5918eba5aa96",
+          "reviewNote": "Read complete text of subsection 5, including the statutory ballot question table, and history note. Directs dismissal at petitioners' costs if not in the public interest, or an interlocutory decree submitting the statutory dissolution-and-sale ballot question of up to 100 words notwithstanding sections 116.115 and 116.160."
+        },
+        {
+          "number": 6,
+          "title": "Voter thresholds, conditional three-fifths option, and canvass",
+          "bodySha256": "e6cf57231da0f9f322b8fe684cba7e84e73f9ada94ee33b9bd17d19b147def72",
+          "reviewNote": "Read complete text of subsection 6, including subdivisions (1), (2)(a)-(c), and (3), and history note. Requires two-thirds voter assent unless the board (outside two excluded county/county-seat population brackets) adopts a three-fifths threshold upon four-fifths board vote, court approval, and an unrectified DNR chapter 640 or federal Safe Drinking Water Act administrative order on consent (retaining archived wording 'has not rectified' and 'order of consent'), plus election-date fixing, return certification, and court canvass."
+        },
+        {
+          "number": 7,
+          "title": "Final or void order, appeal bar, and certified filings",
+          "bodySha256": "f73c369f827a944130575ab0b05dd07b5385574be0229491e57fb4af1d76ba58",
+          "reviewNote": "Read complete text of subsection 7 and history note. Directs entry of a final-and-conclusive or void order based on the subsection 6 threshold, bars appeals from the orders, and directs certified filings with the secretary of state, recorder of deeds, and county commission clerk(s)."
+        },
+        {
+          "number": 8,
+          "title": "Debt payment prerequisite and property or fund disposition",
+          "bodySha256": "49227ee277f9d0a98f3879ae403aa3b333036a802c9ab0326b4ba9af602f59a8",
+          "reviewNote": "Read complete text of subsection 8 and history note. Prohibits dissolution until all district debts are paid and requires the dissolution decree to provide for property disposition, optionally directing pro rata excess funds to school district treasurers by customer ratio."
+        }
+      ]
+    },
+    {
+      "id": "247.350:13175",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.350&bid=13175",
+      "sourceSha256": "b4090a209fd6aeb17f59f2867f6037f61fac17c0fb1cf066fb11a281724cd4d7",
+      "textSha256": "7751297e426ae0ef0f03959b17890665b3db1b107f2833cb12c9d1ac2f08b1ad",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.350:13175 (subsections 1-7, including ballot templates in subsections 3-4), history notes (L. 1949 p. 350 § 12, A.L. 1978 H.B. 971), and Revisor footnote (*Word \"or\" appears in original rolls for \"order of* record\" in subsection 7); verified all source and subsection fingerprints. Explicitly checked and retained archived source anomalies without correction: missing conjunction before \"shall fix\" in subsection 2, duplicate two-director three-year term clause in subsection 6 (yielding four 3-year, two 2-year, and one 1-year appointments, with successors under 247.430), and the subsection 7 footnote plus section 247.460 exception and 25-cent cap. Retained all 7 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Majority voter assent for metropolitan district incorporation",
+          "bodySha256": "653ace56a4695acee3a39ec66eb8e65fc934def78347762db64af8e91d63093a",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1949 p. 350 § 12, A.L. 1978 H.B. 971). Conditions finality of a metropolitan water supply district incorporation decree on approval by a majority of district voters voting on the question."
+        },
+        {
+          "number": 2,
+          "title": "Decree submission of incorporation and levy-rate questions",
+          "bodySha256": "23f52a0ca4237e72be4eb371ace427b0c8742dc086153b5f540748fb4a1bba80",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires the decree to provide for submitting incorporation and any maximum general operating levy exceeding fifteen cents per $100 valuation, and to fix the election date (retaining archived missing conjunction before 'shall fix')."
+        },
+        {
+          "number": 3,
+          "title": "Ballot question form for incorporating metropolitan district",
+          "bodySha256": "d99b53f464eca830f45b330ca04ede7b97c6b593ec478b3b9bfcaf2e7c830da8",
+          "reviewNote": "Read complete text of subsection 3, including the ballot template, and history note. Sets out the substantially required ballot question for incorporating a metropolitan water supply district."
+        },
+        {
+          "number": 4,
+          "title": "Ballot question form for operating levy over fifteen cents",
+          "bodySha256": "1c63aaffd5fde246acc9f02bcc607078b75ee00caeb46fd5d3a7da9d185b9be1",
+          "reviewNote": "Read complete text of subsection 4, including the ballot template, and history note. Sets out the substantially required ballot question for authorizing a general operating tax rate exceeding fifteen cents per $100 assessed valuation."
+        },
+        {
+          "number": 5,
+          "title": "Canvass of returns and final or void incorporation order",
+          "bodySha256": "9feb1d47b2a4f18b0685c2a2a1e807fbaecc577821b25bf69ccc765f1a82fa4d",
+          "reviewNote": "Read complete text of subsection 5 and history note. Directs certification of returns to the circuit court, court canvass and declaration, and entry of either a final-and-conclusive or void order depending on majority voter approval."
+        },
+        {
+          "number": 6,
+          "title": "Appointment and staggered terms of first board of directors",
+          "bodySha256": "ba16ba3dcf6281e8981fa84b1039df47789e58614c81f6c30ce20064508d12dc",
+          "reviewNote": "Read complete text of subsection 6 and history note. Directs the court upon final incorporation to appoint the first board from petition-named voters for staggered terms until successors take office under section 247.430; retains the archived text's apparent duplication of the two-director three-year term clause (resulting in four three-year, two two-year, and one one-year appointments) without altering it."
+        },
+        {
+          "number": 7,
+          "title": "Order declaring maximum levy rate and twenty-five-cent cap",
+          "bodySha256": "9d4cc7eb8d2f473691871e4e12b69858f9bd0200e21ec3ae0ad845a2daffc881",
+          "reviewNote": "Read complete text of subsection 7, history note, and Revisor footnote (*Word 'or' appears in original rolls for 'order of* record'). Directs entry of an order declaring the maximum operating levy result beyond which the board may not levy except under section 247.460, subject to an absolute cap of twenty-five cents per $100 assessed valuation."
+        }
+      ]
+    },
+    {
+      "id": "247.445:13185",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.445&bid=13185",
+      "sourceSha256": "dbe094bc539fd39782f6474e48cff3abb5bdc3b3ccbfda7bc1d3db352d66aadf",
+      "textSha256": "3a8f45cf0b7d46a853485ea0b5170c23d1a5531e76525bc0fd9c1eeeea3e140e",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.445:13185 (subsections 1-3) and history note (L. 1990 S.B. 747); verified all source and subsection fingerprints. Checked metropolitan water supply district scope, >=10-property threshold, exclusions for political subdivisions, chapter 386 certificated areas, and chapter 204 common sewer districts, no-resident-vote proviso, 90-day operation start, and application of sections 247.230 to 247.670. Retained all 3 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Amended decree for metropolitan district sewer treatment facilities",
+          "bodySha256": "e34c49c12f989fe9a0949eb7ff4e92bafdf15bde8de87163c84f9d5abe4688fd",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1990 S.B. 747). Authorizes a metropolitan water supply district board to petition the largest-acreage county circuit court for an amended incorporation decree to construct, maintain, and operate qualifying common sewer treatment facilities serving ten or more separate properties wholly within the district (excluding those operated by another political subdivision, within a chapter 386 certificated sewer area, or within a chapter 204 common sewer district), without a resident vote."
+        },
+        {
+          "number": 2,
+          "title": "Commencing operation and establishing sewer user charges",
+          "bodySha256": "ce58eba40821d1969f0f21f586392a0f4dde8d4cabb0299ad598c3623b8da903",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires the metropolitan district, within ninety days after the amending order, to begin operating acquired existing facilities and establish and collect user charges in the same manner as water rates."
+        },
+        {
+          "number": 3,
+          "title": "Application of sections 247.230 to 247.670 to sewer facilities",
+          "bodySha256": "4c5a9c272b302370d588f9b47724ddf227c45c4304ac96793bd1fe2ceef9bf54",
+          "reviewNote": "Read complete text of subsection 3 and history note. Applies all applicable provisions of sections 247.230 to 247.670 to constructing, operating, and maintaining common sewer facilities in the same manner as like water supply functions."
+        }
+      ]
+    },
+    {
+      "id": "247.470:13188",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.470&bid=13188",
+      "sourceSha256": "38027164e59d276798cf750d17e0919d93571cd9ca1a715639103527d54dd696",
+      "textSha256": "f8473fee92590d9adee3195531f6c2a85945ca86e8a64a772f8455e76586542d",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.470:13188 (subsections 1-3, including subsection 3 ballot template) and history notes (L. 1949 p. 350 § 24, A.L. 1978 H.B. 971); verified all source and subsection fingerprints. Checked May 1 certification deadline, county tangible property tax levy, election trigger above 15 cents/$100 or prior voter-approved rate, and statutory ballot form. Retained all 3 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual May 1 levy certification and county tax levy",
+          "bodySha256": "9a5531a72cb8d1799b3be12705b5c9dfdbe95ee3dca078914c760404a4d477e2",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1949 p. 350 § 24, A.L. 1978 H.B. 971). Requires the board on or before May 1 each year to certify its fixed levy rate to the county commission, directing an additional tax levy on all taxable tangible property in the district."
+        },
+        {
+          "number": 2,
+          "title": "Board resolution for election on increased operating levy",
+          "bodySha256": "6d49bd57bf95769ba6a5c242e0c51c456d88a96f3a8e8494b9146844fe76e357",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires submitting a board-fixed general operating levy exceeding fifteen cents per $100 valuation or the prior voter-approved rate to district voters in substantially the manner of bond elections, with the resolution fixing the election date."
+        },
+        {
+          "number": 3,
+          "title": "Ballot question form for increased general operating levy",
+          "bodySha256": "9ec216f113fa9bda29df1eef315b741d4cc8cc43672598abe6c0c6ff46605b5f",
+          "reviewNote": "Read complete text of subsection 3, including the ballot template, and history note. Prescribes the substantially required ballot form for authorizing a metropolitan water supply district's annual general operating tax rate."
+        }
+      ]
+    },
+    {
+      "id": "247.520:13193",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.520&bid=13193",
+      "sourceSha256": "26fcd04f30b2232db9a6e7e66021a17a039753e2c1ac1cb0050cdba7746b28fc",
+      "textSha256": "e992aa4d39bab1bd428ce717ab79d007e279a0796cbcb063d854258e008b1c8f",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.520:13193 (subsections 1-5) and history notes (L. 1949 p. 350 § 29, A.L. 1976 H.B. 1386); verified all source and subsection fingerprints. Checked non-impairment of rights/obligations under sections 247.230 to 247.670, contiguous-county acknowledged inclusion petitions, published show-cause notice, implied assent on failure to object in writing, circuit court review standard (unauthorized by law or unsupported by competent and substantial evidence), and county clerk/recorder filings. Retained all 5 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Boundary changes without impairing district rights or obligations",
+          "bodySha256": "2cef2c3a3a8447acbfcd81ea926b2f131b1e449b3f89f9f9f1424908ca8edbf0",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1949 p. 350 § 29, A.L. 1976 H.B. 1386). Allows boundary changes for districts organized under sections 247.230 to 247.670 while preserving district organization, property rights, privileges, contracts, obligations, liens, and charges."
+        },
+        {
+          "number": 2,
+          "title": "Contiguous-county landowner petitions for property inclusion",
+          "bodySha256": "a9019d924fb1e4c399474b24e66924f5fd1d3c57919dfa5f128f5659a36e73cf",
+          "reviewNote": "Read complete text of subsection 2 and history note. Authorizes real property owners in a county contiguous with a metropolitan water supply district to file an acknowledged written inclusion petition describing the property and constituting petitioner assent."
+        },
+        {
+          "number": 3,
+          "title": "Published notice of inclusion petition and show-cause deadline",
+          "bodySha256": "f3ad392158597ed9920a0f95ce2ada2c7f48d655560bb8096f1b569a454662a9",
+          "reviewNote": "Read complete text of subsection 3 and history note. Directs the board secretary to publish notice in the property's county reciting the filing, petitioner names, land description, prayer, and time for interested persons to appear and show cause in writing."
+        },
+        {
+          "number": 4,
+          "title": "Board hearing, written objections, and implied assent",
+          "bodySha256": "5718c7855b396c92c2dd312a5e057e94ca8df23523fd7545aabba4f3533aecd8",
+          "reviewNote": "Read complete text of subsection 4 and history note. Directs the board to hear the petition and written show-cause objections at the noticed or adjourned hearing and deems failure to show cause in writing as assent to inclusion."
+        },
+        {
+          "number": 5,
+          "title": "Board inclusion order, court review standard, and filings",
+          "bodySha256": "79e229a68090ba1f9f46dcc45f356d5b557c0aee56f8fdbca5f0943f9d32a920",
+          "reviewNote": "Read complete text of subsection 5 and history note. Requires filing a granted board order with the circuit clerk, directs the circuit court to issue an inclusion order unless the board's order was unauthorized by law or unsupported by competent and substantial evidence, and requires filing both orders with the county clerk and recorder."
+        }
+      ]
+    },
+    {
+      "id": "247.530:13194",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.530&bid=13194",
+      "sourceSha256": "743d32c624f32f992cd8eee31e1baa26750534dc2134870939f73c5849a1fab0",
+      "textSha256": "ff951af27086222bf3575a463cb5a12ea154145df2d720d55e8f03c8337b9c4b",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.530:13194 (subsections 1-5) and history note (L. 1949 p. 350 § 30); verified all source and subsection fingerprints. Checked real-or-personal property owner exclusion petition and cost deposit, published show-cause notice, hearing and petitioner assent, best-interest board determination and circuit/county/recorder filings, and circuit court review standard. Retained all 5 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Owner petition for property exclusion and cost deposit",
+          "bodySha256": "7526952d833c871155ecf0310ecca90a81a0bd81b0a7945d389264e848baec5a",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1949 p. 350 § 30). Authorizes owners of real or personal property within a metropolitan district to file an acknowledged exclusion petition with the board describing the property and accompanied by a deposit covering exclusion-proceeding costs."
+        },
+        {
+          "number": 2,
+          "title": "Published notice of exclusion petition and show-cause hearing",
+          "bodySha256": "321bd4b7c3cdf4878fdb822bcbab58ed6c59289e3bfa85ebccda19c457898e39",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs the board secretary to publish notice in the property's county stating the petition filing, petitioner names, property description, prayer, and time to appear and show cause in writing."
+        },
+        {
+          "number": 3,
+          "title": "Board hearing on exclusion objections and petitioner assent",
+          "bodySha256": "25ae0de8a92e792352bcf3d806fa23190b6a9f8a8eac52f5ae5ec753072dad4e",
+          "reviewNote": "Read complete text of subsection 3 and history note. Directs the board to hear the petition and written objections at the noticed or adjourned hearing and deems petition filing as petitioner assent to excluding all or part of the described property."
+        },
+        {
+          "number": 4,
+          "title": "Board determination on exclusion and filing certified orders",
+          "bodySha256": "4c2671df1d658a71372a69f4a24d053650cdedf4dfdae5955fe07edcf167d683",
+          "reviewNote": "Read complete text of subsection 4 and history note. Directs the board to deny or grant exclusion in whole or part based on the district's best interest, file a certified allowance order with the circuit clerk, and file copies of both board and court orders with the county clerk and recorder."
+        },
+        {
+          "number": 5,
+          "title": "Circuit court review standard for board exclusion order",
+          "bodySha256": "66f5683b8a316c442658d47b769da95716bafe5b4e2da96b5a1762d70ffb6c32",
+          "reviewNote": "Read complete text of subsection 5 and history note. Directs the circuit court to issue an exclusion order matching the board's order unless the court finds the board's order was unauthorized by law or unsupported by competent and substantial evidence."
+        }
+      ]
+    },
+    {
+      "id": "247.550:13196",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.550&bid=13196",
+      "sourceSha256": "66b82ff4e47cade6cf840473e6224c9f7e7f466bd97b578e679245f802c77c15",
+      "textSha256": "6367fee939999789929355210d39042ad77a9ab55f3eb6e71619485f90cde6db",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.550:13196 (subsections 1-2, including subdivisions (1)-(3) in subsection 1) and history notes (L. 1949 p. 350 § 32, A.L. 1978 H.B. 971); verified all source and subsection fingerprints. Checked metropolitan district borrowing under sections 247.230 to 247.670, resolution and advance bond-type election-notice requirements, and distinct two-thirds (GO) vs. four-sevenths (special revenue obligation) voter thresholds. Revised subsection 2 title to \"Voter approval thresholds for general and special revenue bonds\" to preserve the exact statutory bond terminology; retained subsection 1.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Borrowing authority, board resolution, and bond-type notice",
+          "bodySha256": "66d88fe71a91feb82dfc871a19f8477b9af6a0778e2f51fde43da487f2dce6cf",
+          "reviewNote": "Read complete text of subsection 1, including subdivisions (1) to (3), and history note (L. 1949 p. 350 § 32, A.L. 1978 H.B. 971). Empowers metropolitan districts organized under sections 247.230 to 247.670 to borrow money and issue general obligation or special revenue obligation bonds via board resolution reciting necessity, amount, purposes, and bond type, fixing an election date, and stating bond type in the election notice."
+        },
+        {
+          "number": 2,
+          "title": "Voter approval thresholds for general and special revenue bonds",
+          "bodySha256": "f3941834075b90718ee7a1074f18cdbd4859ed4d49bec446a87910621bee750b",
+          "reviewNote": "Read complete text of subsection 2 and history note. Requires two-thirds voter assent to issue general obligation bonds and four-sevenths voter assent to issue special revenue obligation bonds."
+        }
+      ]
+    },
+    {
+      "id": "247.600:13201",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.600&bid=13201",
+      "sourceSha256": "43e038c6d34274297c1d83fd7e1a5c9840f674f12033c6ccc2da68e8cbbacc32",
+      "textSha256": "dbc4d79e6c30928b1bb54cdcb984a011a10ed14356b1d3038a345cba2f5fc461",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.600:13201 (subsections 1-2) and history notes (L. 1949 p. 350 § 37, A.L. 1978 H.B. 971); verified all source and subsection fingerprints. Checked municipal election day timing for regular metropolitan district elections and default board canvass and recordation subject to statutory exceptions. Retained both titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Regular elections held on municipal election days",
+          "bodySha256": "3490c2cc811e1f536179e1407581b90c5ec426d821e6c3e19853b488b06fdbc8",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1949 p. 350 § 37, A.L. 1978 H.B. 971). Requires regular metropolitan water supply district elections to be held on municipal election days."
+        },
+        {
+          "number": 2,
+          "title": "Canvass of election returns and recording results",
+          "bodySha256": "20359e3683bd3fb1d5330334f3966a86bf572dda3cfb9df841244add18e01017",
+          "reviewNote": "Read complete text of subsection 2 and history note. Directs that election returns, except as otherwise provided, be made to and canvassed by the board of directors with results spread upon district records."
+        }
+      ]
+    },
+    {
+      "id": "247.630:13203",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=247.630&bid=13203",
+      "sourceSha256": "9b18f56bb5300432fe700b2dab08506094aeb2b2f3b59b9d045c81fef5ff8cc1",
+      "textSha256": "480b08016d68e0451b507cd922609eaec858d790b1c257f99fa0edcd99fc5173",
+      "draftedBy": "antigravity_drafter_d15",
+      "reviewStatus": "source-checked",
+      "reviewedBy": "antigravity_reviewer_r21",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently reviewed complete archived text of 247.630:13203 (subsections 1-4) and history notes (L. 1949 p. 350 § 40, A.L. 1978 H.B. 971); verified all source and subsection fingerprints. Checked best-interest submission order, municipal-election-day restriction and court certification, two-thirds approval with winding-up continuation proviso and bar on unrelated new obligations, and dismissal/continued operation upon defeat. Retained all 4 titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Court order submitting dissolution question to voters",
+          "bodySha256": "164032c60af391790f412d44e1b1e2d9adff80f181fb499f4d66e8bb54475177",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1949 p. 350 § 40, A.L. 1978 H.B. 971). Requires the circuit court, upon finding dissolution is in the best interest of the district's inhabitants, to enter an order submitting the dissolution question to district voters."
+        },
+        {
+          "number": 2,
+          "title": "Municipal election day timing and return certification",
+          "bodySha256": "1b6365b3c14bb22dc80a6e218ccfa50969524dacc1667a023c58528c7049d6ab",
+          "reviewNote": "Read complete text of subsection 2 and history note. Restricts the dissolution election to municipal election days and requires returns to be canvassed and certified to the court."
+        },
+        {
+          "number": 3,
+          "title": "Final dissolution order upon two-thirds vote and winding up",
+          "bodySha256": "53623d2d9ae9229db97c4d4f6f05b8c1e7c08831bbee6445f636616daa0ab892",
+          "reviewNote": "Read complete text of subsection 3 and history note. Requires a final dissolution order upon two-thirds voter approval with a proviso continuing the district solely to pay existing lawful obligations and dispose of property, barring new costs or obligations except those necessary to pay prior liabilities or wind up the district."
+        },
+        {
+          "number": 4,
+          "title": "Dismissal order and continued operation if vote fails",
+          "bodySha256": "8b2f1bb456f18e5cfdea720bead3544fd197e7360b95931d680809d4a544b187",
+          "reviewNote": "Read complete text of subsection 4 and history note. Requires a final order dismissing the dissolution petition if fewer than two-thirds vote in favor, leaving the district operating as if no petition had been filed."
+        }
+      ]
+    }
+  ]
+}

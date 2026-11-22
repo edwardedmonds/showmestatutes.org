@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "230.010:12395",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=230.010&bid=12395",
+      "sourceSha256": "24b89bde900e92a21ec4c396125836af9bbc5c2d5f16cb1ecc51a909b987b994",
+      "textSha256": "6f7e17bab271a9d13ecb510e57217ab6e81b06369c31b7b40f3d580796f9b3fb",
+      "draftedBy": "antigravity_drafter_d10",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Creation and membership of county highway commission",
+          "bodySha256": "13979de3c92c9f07a85b365212fe766cecad3ff8ebc61e88bf9f807b7a86b2df",
+          "reviewNote": "Read complete text of subsection 1 and history/prior revision (RSMo 1939 § 8502, A.L. 1953 p. 674). Establishes a four-member County Highway Commission in the several counties, referencing chapter 230 for qualifications, appointment, and terms."
+        },
+        {
+          "number": 2,
+          "title": "Uncompensated service, expenses, and mileage allowance",
+          "bodySha256": "8fb1066780cbd77a7a8e09ae353814e89e8f33b74a3bb1609b33f2c034a6f7ec",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers service without compensation, reimbursement of actual and necessary expenses, and the archived five-cents-per-mile allowance for official travel at the member's own expense."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r17",
+      "reviewSummary": "Independently read both subsections and history/prior revision (RSMo 1939 § 8502, A.L. 1953 p. 674) and verified all fingerprints. Checked four-member county highway commission creation referencing chapter 230 and uncompensated service with actual/necessary expenses and archived five-cents-per-mile allowance; both drafted titles retained."
+    },
+    {
+      "id": "230.205:12407",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=230.205&bid=12407",
+      "sourceSha256": "cce9f0d52c8c08fb6c00ae931b453e14593a1fb0bb95805d6a74ccb2790f9347",
+      "textSha256": "79d8b6fa57d1ed5f8fadea3af1bdbbbd55610f8a963632500284afb1df888a45",
+      "draftedBy": "antigravity_drafter_d10",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Voter adoption and abolition of alternative commission",
+          "bodySha256": "62e158d13e52a07e430d99cbf132ef94a11f25402f08ac564686c929411d47a1",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1971 H.B. 105 § 2, A.L. 1978 H.B. 971). Covers making the alternative county highway commission (sections 230.200 to 230.260) operative only upon majority county voter adoption and allowing adopting counties to abolish it by election and return to sections 230.010 to 230.110."
+        },
+        {
+          "number": 2,
+          "title": "Retention of 230.010 to 230.110 commission if not adopted",
+          "bodySha256": "c28d04774d3f3703103f216be5737935aaca8ae30d7883fa85c3aeb38cb3dfb1",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers retaining the county highway commission under sections 230.010 to 230.110 in any county that does not adopt or whose voters reject the alternative commission under sections 230.200 to 230.260. Independent review revised title from 'Retention of 230.010 to 230.110 commission upon nonadoption' for clearer phrasing covering both nonadoption and voter rejection."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r17",
+      "reviewSummary": "Independently read both subsections and history note (L. 1971 H.B. 105 § 2, A.L. 1978 H.B. 971) and verified all fingerprints. Checked voter adoption requirement and abolition election returning to sections 230.010 to 230.110, plus retention of the sections 230.010 to 230.110 commission upon nonadoption or voter rejection. Retained subsection 1; revised subsection 2 to 'Retention of 230.010 to 230.110 commission if not adopted'."
+    },
+    {
+      "id": "230.210:12408",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=230.210&bid=12408",
+      "sourceSha256": "4176f195a83478ad59bd952767e7ee8be642cef72f2c5db46d33b0793ab45857",
+      "textSha256": "799f2b367462eef3320fb8d8426b85da34e6bdd67f2c1da836b2272b85ab6d8f",
+      "draftedBy": "antigravity_drafter_d10",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Voter petition and election order for adoption",
+          "bodySha256": "4f31893d4c6ecca186040cb5ce438b30c8c7829c51104a2fb365f208dca71e06",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1971 H.B. 105 § 3, A.L. 1978 H.B. 971). Covers filing a voter petition (5% of last gubernatorial general election vote) with the county commission clerk and mandatory order submitting adoption of the alternative commission (230.200 to 230.260) at the next general election."
+        },
+        {
+          "number": 2,
+          "title": "Ballot form for adoption question",
+          "bodySha256": "6d48c70547d77951fbc54012384c7cb497316c4ac0216b04444bd800a4b3c94f",
+          "reviewNote": "Read complete text of subsection 2 (including indented ballot block) and history note. Sets the substantial ballot language for submitting adoption of the alternative county highway commission."
+        },
+        {
+          "number": 3,
+          "title": "Effect of majority vote for or against adoption",
+          "bodySha256": "efe6ef9e1649b49adf688eccbb62a8119d9f9a0b4fb4cc892f596c188114a40b",
+          "reviewNote": "Read complete text of subsection 3 and history note. Covers declaring the alternative commission adopted upon a majority favorable vote and retaining the sections 230.010 to 230.110 commission upon a majority vote against."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r17",
+      "reviewSummary": "Independently read all three subsections (including indented ballot block in subsection 2) and history note (L. 1971 H.B. 105 § 3, A.L. 1978 H.B. 971) and verified all fingerprints. Checked 5% gubernatorial-vote petition threshold, substantial ballot wording, and majority adoption versus retention of sections 230.010 to 230.110; all three drafted titles retained."
+    },
+    {
+      "id": "230.220:12410",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=230.220&bid=12410",
+      "sourceSha256": "e4ab420490f16b3901e479eeb6891e0981fec21739bcf4899e21923efafdae88",
+      "textSha256": "3db28c962715eafe74113ec20a4627080822f1f6b043ff4492caea3c24d3c670",
+      "draftedBy": "antigravity_drafter_d10",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Commission composition, township residency limits, and member terms",
+          "bodySha256": "9c7e1753826e03600980bf95585165269d7bc4b457c29140aa59ef27b17dd5cf",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1971 H.B. 105 § 5 through A.L. 2011 H.B. 70). Covers five-member composition (three county commissioners plus one elected member from unincorporated area of each of districts A and B), single-member-per-township rule with presiding/associate commissioner exception, staggered initial terms (two and four years), and four-year successor terms."
+        },
+        {
+          "number": 2,
+          "title": "Member elections and interim gubernatorial appointments",
+          "bodySha256": "2071b3bc3da8fd3973cd94758e74271fe66684352461d364141fcf6d669c90fb",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers primary nomination and general election of elected members like county office candidates, plus bipartisan gubernatorial interim appointments within 30 days of adoption serving until the following general election."
+        },
+        {
+          "number": 3,
+          "title": "Attendance fees and mileage for non-governing-body members",
+          "bodySha256": "3013f623c9f61d597e04c322df154ba1242c4c07b8df5a513376178cbc4f09fc",
+          "reviewNote": "Read complete text of subsection 3 and history note (including A.L. 2011 H.B. 70). Applies specifically to commission members who are not also members of the county governing body, setting a per-meeting attendance fee up to $100 as set by the governing body and matching mileage allowance paid from the county road and bridge fund."
+        },
+        {
+          "number": 4,
+          "title": "Filling vacancies among elected commission members",
+          "bodySha256": "cc54a86e17ec152438e5d35714c552be30f5c93361ba8d386b84711847b2da20",
+          "reviewNote": "Read complete text of subsection 4 and history note. Covers selection by county highway commission members of a successor for any vacancy among elected members to serve until the next regular election."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r17",
+      "reviewSummary": "Independently read all four subsections and history note (L. 1971 H.B. 105 § 5 through A.L. 2011 H.B. 70) and verified all fingerprints. Checked five-member composition, single-member-per-township limit with presiding/associate commissioner exception, staggered district A/B terms, primary/general elections and 30-day bipartisan gubernatorial interim appointments, non-governing-body member attendance fees/mileage from the road and bridge fund, and filling elected-member vacancies; all four drafted titles retained."
+    },
+    {
+      "id": "230.225:12411",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=230.225&bid=12411",
+      "sourceSha256": "74a206df34959f02d50b883758dcf4890ffcc74596cebe7ba2294bb602c0cf22",
+      "textSha256": "4260158b2b2895c5f49d108f16c0e2c11c6284906d61bd54252d454a117d5841",
+      "draftedBy": "antigravity_drafter_d10",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Abolition of township road districts; assets and liabilities",
+          "bodySha256": "420f22728cc3dc111c579d3217e9c4d5e6ffef378ca33c515d03befe8371bc81",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1971 H.B. 105 § 6). Covers abolishing all township road districts in counties adopting sections 230.200 to 230.260 and transferring their assets and liabilities to the county highway commission within 30 days. Independent review revised title from 'Abolition of township road districts and asset transfer' because subsection 1 transfers both assets and liabilities."
+        },
+        {
+          "number": 2,
+          "title": "Abolition of special road districts and multicounty apportionment",
+          "bodySha256": "efeff755f657ff2d700f670c21ccf6c93b452dfd0016f4d79223db29c4cf75c8",
+          "reviewNote": "Read complete text of subsection 2 and history note. Distinguished from subsection 1 by covering special road districts, their 30-day asset/liability transfer upon county adoption of sections 230.200 to 230.260, and proportional assessed-valuation allocation for multicounty districts."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r17",
+      "reviewSummary": "Independently read both subsections and history note (L. 1971 H.B. 105 § 6) and verified all fingerprints. Checked abolition and 30-day transfer of assets and liabilities for township road districts (subsection 1) and special road districts with proportional assessed-valuation allocation for multicounty districts (subsection 2). Revised subsection 1 to 'Abolition of township road districts; assets and liabilities'; retained subsection 2."
+    },
+    {
+      "id": "230.240:12414",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=230.240&bid=12414",
+      "sourceSha256": "349c0d4cac3ad9817be392dd9a7c1b824cf3f1e722284daad8f3a85dc7b277ba",
+      "textSha256": "a5dee99500035a99ad345388cff82ee3d5abdf0b1fa24f73f6098e1301e9a46e",
+      "draftedBy": "antigravity_drafter_d10",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Engineer qualifications, appointment, salary, and municipal advisory service",
+          "bodySha256": "ea36afe02adcca63da2410f54148a202cc8dff087fd156425c1d7252985bef66",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1971 H.B. 105 § 9, A.L. 1975 H.B. 244). Applies to third-class counties adopting sections 230.200 to 230.260 (referencing the section 230.235 road plan): covers employing a qualified graduate civil engineer with an incumbent-retention exception, commission appointment and road-and-bridge-fund salary, and free advisory services to incorporated county municipalities."
+        },
+        {
+          "number": 2,
+          "title": "Engineer supervision of roads, bridges, and culverts",
+          "bodySha256": "eb83ca499ab9b9d0fcd3275c6952dbac5d098aa26755afcf7e02438e77cf4cff",
+          "reviewNote": "Read complete text of subsection 2 and history note. Covers the county highway engineer's general supervision over construction, maintenance, repair, and reconstruction of public highways, roads, bridges, and culverts, qualified as subject to county highway commission approval."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r17",
+      "reviewSummary": "Independently read both subsections and history note (L. 1971 H.B. 105 § 9, A.L. 1975 H.B. 244) and verified all fingerprints. Checked third-class county applicability (also in official catchline), section 230.235 road-plan reference, graduate civil engineer requirement with incumbent-retention exception, commission appointment/road-and-bridge-fund salary, free municipal advisory services, and engineer supervision subject to commission approval; both drafted titles retained."
+    },
+    {
+      "id": "230.245:12415",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=230.245&bid=12415",
+      "sourceSha256": "3d3b4d6e48436f4c94ff6249335eabe39c1efe04ba20830191488aadb76ee101",
+      "textSha256": "90cce3b5414436b72416d08ed60b8c40c62aec09f7279e695e55d39e40f695a0",
+      "draftedBy": "antigravity_drafter_d10",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Road construction and maintenance priority order",
+          "bodySha256": "864015a2eff8f289126467792daf165827e6beb703ec084374efec3cb35e8c46",
+          "reviewNote": "Read complete text of subsection 1 (subdivisions (1) to (6)) and history note (L. 1971 H.B. 105 § 10). Establishes the six-tier priority sequence for construction, reconstruction, improvement, restoration, and maintenance of county roads in the comprehensive road plan under sections 230.200 to 230.260."
+        },
+        {
+          "number": 2,
+          "title": "Definitions for sections 230.200 to 230.260",
+          "bodySha256": "3eab4c7d069efc0156be7afa8c05c8b5194248cd7ef99b2de4d28cd0c19524c0",
+          "reviewNote": "Read complete text of subsection 2 (subdivisions (1) and (2)) and history note. Defines \"County roads\" (excluding state, federal, and incorporated municipal roads/streets/highways) and \"Live rural unit\" specifically for sections 230.200 to 230.260."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r17",
+      "reviewSummary": "Independently read both subsections (including subdivisions (1)-(6) of subsection 1 and (1)-(2) of subsection 2) and history note (L. 1971 H.B. 105 § 10) and verified all fingerprints. Checked six-tier road-usage priority sequence and exact sections 230.200 to 230.260 definitions of 'County roads' (with state, federal, and municipal exclusions) and 'Live rural unit'; both drafted titles retained."
+    }
+  ]
+}
