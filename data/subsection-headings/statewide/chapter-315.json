@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "315.007:16892",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=315.007&bid=16892",
+      "sourceSha256": "c5c195f7a02af14ece0213344570a93d73887b414796059851907c6cd58f6faa",
+      "textSha256": "795a3bffe62800081f72f243f12f25f7486f6507eac27c2a22d9568a0ed7d4d9",
+      "draftedBy": "antigravity_drafter_d35",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Department administration of sections 315.005 to 315.065",
+          "bodySha256": "66c23373471aa0ba50e7504cd6b8184eddd8bbc42bdb5e840ddaeb11278e7f2e",
+          "reviewNote": "Read complete subsection 1 and source notes (L. 1985 S.B. 279 § 2; Effective 8-09-85). Directs the department to administer sections 315.005 to 315.065."
+        },
+        {
+          "number": 2,
+          "title": "Public records of lodging inspections and licensing",
+          "bodySha256": "61b8dac15532e5a796c31c969cd35c872c18f65d86727176241da3631492c648",
+          "reviewNote": "Read complete subsection 2 and source notes (L. 1985 S.B. 279 § 2; Effective 8-09-85). Requires the department to maintain complete public inspection records showing each inspected lodging establishment's condition, owner name, and current license status. Independent review revised title from 'Public inspection records of lodging establishments' to clarify that records are kept for public use/inspection and cover condition, owner name, and license status."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r41",
+      "reviewSummary": "Independently read complete archived version 315.007:16892 (both subsections and L. 1985 S.B. 279 § 2 / Effective 8-09-85 notes) and verified all source and subsection SHA-256 fingerprints. Confirmed exact §§ 315.005–315.065 scope in subsection 1; revised subsection 2 to clarify public availability and scope of inspection and licensing records."
+    },
+    {
+      "id": "315.011:16893",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=315.011&bid=16893",
+      "sourceSha256": "9f043b77e5627e47c9203ddd8b257d4379e004fc09cfb925a90eb31487891a29",
+      "textSha256": "94b97251c3c15418db01999d705ce64910fa7d4f5e6c507516f2bb325134aa05",
+      "draftedBy": "antigravity_drafter_d35",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "License requirement and compliance eligibility",
+          "bodySha256": "a1c2ccdfc76512e4ab7c4b1d0cbb46f6695ea98c0ea0d6afaf7edcc2ed2a11cf",
+          "reviewNote": "Read complete subsection 1 and source notes (L. 1985 S.B. 279 § 3; Effective 8-09-85). Prohibits operating a lodging establishment without a department license and limits eligibility to receive and retain a license to persons complying with sections 315.005 to 315.065."
+        },
+        {
+          "number": 2,
+          "title": "License transfer to new owner upon notice",
+          "bodySha256": "9dcb8fd8da2149e1919946d9ad09f100d00759045a8ca4b92c4a3190dfcb6035",
+          "reviewNote": "Read complete subsection 2 and source notes (L. 1985 S.B. 279 § 3; Effective 8-09-85). Provides for transfer of a valid license to a new owner upon notification to the department."
+        },
+        {
+          "number": 3,
+          "title": "Conditional operation of small pre-1965 establishments",
+          "bodySha256": "d9b6a51746d6d254f41b26ae90d87c8f8c83d5ff0efe74bb4101dd1f3cf5771d",
+          "reviewNote": "Read complete subsection 3 and source notes (L. 1985 S.B. 279 § 3; Effective 8-09-85). Official catchline omits this provision; allows lodging establishments constructed before 1965 with 30 or fewer units and a valid license to continue operating conditioned on compliance with major public health needs including water supply, sewage disposal, venting, and fire safety. Independent review revised title from 'Continued operation of pre-1965 establishments' to reflect the <=30-unit size limit, valid-license prerequisite, and public-health compliance condition."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r41",
+      "reviewSummary": "Independently read complete archived version 315.011:16893 (all 3 subsections and L. 1985 S.B. 279 § 3 / Effective 8-09-85 notes) and verified all fingerprints. Retained subsections 1–2; noted official catchline omits subsection 3 and revised subsection 3 to reflect the <=30-unit pre-1965 scope, valid-license prerequisite, and public-health compliance condition."
+    },
+    {
+      "id": "315.015:16894",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=315.015&bid=16894",
+      "sourceSha256": "c7dd055d252198179439f0f740f7a5473cb9ce874fe4a07f7bca5724719bc5b0",
+      "textSha256": "17a5208777ff711046c8d478d2b711174efef2a094cf8f989990c2dce4325def",
+      "draftedBy": "antigravity_drafter_d35",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Lodging establishment license fee schedule",
+          "bodySha256": "2b17604f898262ca4aa785595c252db2ba8e1acd25ccefa76687b1bd1240f685",
+          "reviewNote": "Read complete subsection 1 and source notes (L. 1985 S.B. 279 § 4, A.L. 2004 S.B. 842; Effective 6-25-04). Sets the base $50 license fee per lodging establishment plus $2 per guest room for rooms 11 through 20 and $1 per guest room above 20."
+        },
+        {
+          "number": 2,
+          "title": "Fee notice, license issuance, display, and revocation",
+          "bodySha256": "b4a9709b60e4ee7b66973b51e17672b51acc7482650bf352ae99abc265596b55",
+          "reviewNote": "Read complete subsection 2 and source notes (L. 1985 S.B. 279 § 4, A.L. 2004 S.B. 842; Effective 6-25-04). Covers issuing fee notice after inspection and licensing approval, license issuance by the DHSS director upon payment, framed conspicuous display, and discretionary revocation under section 315.041(1) for noncompliance with law or applicable code. Independent review revised title from 'Fee notice, license display, and revocation authority' to include license issuance by the DHSS director upon fee payment."
+        },
+        {
+          "number": 3,
+          "title": "License expiration date and general revenue deposit",
+          "bodySha256": "97382c3654d3e6dd7fe277c98f3e99ba335fde5cb4702e33b7f5cb4c2e7ffd7d",
+          "reviewNote": "Read complete subsection 3 and source notes (L. 1985 S.B. 279 § 4, A.L. 2004 S.B. 842; Effective 6-25-04). Sets September 30 next following issuance as the license expiration date and directs fees collected under sections 315.005 to 315.065 to the director of revenue for deposit in the state general revenue fund."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r41",
+      "reviewSummary": "Independently read complete archived version 315.015:16894 (all 3 subsections and L. 1985 S.B. 279 § 4, A.L. 2004 S.B. 842 / Effective 6-25-04 notes) and verified all fingerprints. Verified fee tiers, DHSS director issuance, § 315.041(1) revocation reference, Sept. 30 expiration, and general revenue deposit; revised subsection 2 to include license issuance."
+    },
+    {
+      "id": "315.019:16895",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=315.019&bid=16895",
+      "sourceSha256": "f20708c00a2e925fabe993d537376684dbf34e8430861c07e0931fba4df77ab9",
+      "textSha256": "9fd3ba122b48e97085ee8b14ea6a702bfed3888cb05695821e3c86f1ee093855",
+      "draftedBy": "antigravity_drafter_d35",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Fire safety code compliance",
+          "bodySha256": "ecea6fdc4b9d75e25779e63c7d7c75a15dc7212331464339fb567ced5f655f16",
+          "reviewNote": "Read complete subsection 1 and source notes (L. 1985 S.B. 279 § 5; Effective 8-09-85). Requires fire safety of lodging establishments to comply with the applicable code."
+        },
+        {
+          "number": 2,
+          "title": "Electrical wiring installation and maintenance",
+          "bodySha256": "0ed0576d3fe1ce9451b441b157cd03c398bb0d7956982f14268060c7d8ce0dfb",
+          "reviewNote": "Read complete subsection 2 and source notes (L. 1985 S.B. 279 § 5; Effective 8-09-85). Requires electrical wiring to be properly installed and maintained under the applicable code."
+        },
+        {
+          "number": 3,
+          "title": "Venting of fuel-burning appliances",
+          "bodySha256": "bb6d3fd3adddbef4c26c25a46df777ddf23ad3877bff20bc353a55ff8d0a801e",
+          "reviewNote": "Read complete subsection 3 and source notes (L. 1985 S.B. 279 § 5; Effective 8-09-85). Requires fuel-burning appliances to be properly vented under the applicable code."
+        },
+        {
+          "number": 4,
+          "title": "Plumbing standards and potable water protection",
+          "bodySha256": "ce018daff637a7c30be5e5e79334a40c7f30c972d6928a6e5247752fa1263e55",
+          "reviewNote": "Read complete subsection 4 and source notes (L. 1985 S.B. 279 § 5; Effective 8-09-85). Requires plumbing installation and maintenance under the applicable code and bars arrangements that may allow pollution or contamination of potable water supplies."
+        },
+        {
+          "number": 5,
+          "title": "Swimming pools, spas, and similar facilities",
+          "bodySha256": "3af428367bcf61aa119e246c9739ef03bebdf4650669f95c528b80b9d13965b7",
+          "reviewNote": "Read complete subsection 5 and source notes (L. 1985 S.B. 279 § 5; Effective 8-09-85). Requires swimming pools, spas, and similar facilities to be installed and maintained under the applicable code."
+        },
+        {
+          "number": 6,
+          "title": "Local ordinances accepted in lieu of subsections 1 to 5",
+          "bodySha256": "0595f24329f56b2abba325ebfe523958420f423d0531c5ff8f23e16650198a84",
+          "reviewNote": "Read complete subsection 6 and source notes (L. 1985 S.B. 279 § 5; Effective 8-09-85). Accepts compliance with applicable city or county ordinances or regulations for erection and maintenance in lieu of subsections 1 to 5 (leaving subsection 7 outside this substitution)."
+        },
+        {
+          "number": 7,
+          "title": "Sanitation, repair, and guest health and safety",
+          "bodySha256": "61f5983a28fe2d5f6de5504d8792fe6f16cfa769a47fd67bdb414d4da32ada21",
+          "reviewNote": "Read complete subsection 7 and source notes (L. 1985 S.B. 279 § 5; Effective 8-09-85). Requires lodging establishments to be kept clean, sanitary, and in good repair, and maintained and operated with strict regard to transient or permanent guest health and safety."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r41",
+      "reviewSummary": "Independently read complete archived version 315.019:16895 (all 7 subsections and L. 1985 S.B. 279 § 5 / Effective 8-09-85 notes) and verified all fingerprints. Verified code-compliance duties across subsections 1–5, local-ordinance substitution explicitly limited to subsections 1–5 in subsection 6, and guest sanitation/safety duty in subsection 7; retained all 7 accurate titles."
+    },
+    {
+      "id": "315.028:16897",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=315.028&bid=16897",
+      "sourceSha256": "789ab91ac6aea6bdf08cbfc4dd68b05208b3ab5a4960fefeabed2f567260d735",
+      "textSha256": "70dfa940f45a9a885e42e9ba945a009af49edf4cf9192515aba4f04ff160122f",
+      "draftedBy": "antigravity_drafter_d35",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "General sewage and wastewater treatment and disposal",
+          "bodySha256": "3afce6d903bd4d90d86d2aaa474e34b00ca43b29c0933786852e3f6ab4446ad1",
+          "reviewNote": "Read complete subsection 1 and source notes (L. 1985 S.B. 279 § 7; Effective 8-09-85). Requires sewage and wastewater treatment and disposal not to create a health hazard, pollute or contaminate groundwater, or create a nuisance."
+        },
+        {
+          "number": 2,
+          "title": "Discharging systems under natural resources laws and rules",
+          "bodySha256": "718664f72f2a90be1c45006a2c3b6caef7d5b9784199c3e558a3c6739e641107",
+          "reviewNote": "Read complete subsection 2 and source notes (L. 1985 S.B. 279 § 7; Effective 8-09-85). Requires sewage and wastewater treatment systems with a discharge to be installed and maintained in compliance with department of natural resources laws and/or regulations. Independent review revised title from 'Discharging systems subject to natural resources rules' to reflect statutory wording 'laws and/or regulations of the department of natural resources.'"
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r41",
+      "reviewSummary": "Independently read complete archived version 315.028:16897 (both subsections and L. 1985 S.B. 279 § 7 / Effective 8-09-85 notes) and verified all fingerprints. Retained subsection 1; revised subsection 2 to reflect 'laws and/or regulations' of the department of natural resources for discharging systems."
+    },
+    {
+      "id": "315.041:16900",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=315.041&bid=16900",
+      "sourceSha256": "aa4d1b62d589d9d397e8ee4e6b0b1388ed1bf8892b1b3105e146b839e2789c3e",
+      "textSha256": "303fcc4b1898f74f26052ae49c4e78c6538cea84e7f8c347cdc6757c2edb1b9a",
+      "draftedBy": "antigravity_drafter_d35",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "License refusal, revocation, compliance, hearings, and review",
+          "bodySha256": "f7aa6b9c7e718955e3992e1fc5d507a092d36a5c6785d8f4dda4967808a36875",
+          "reviewNote": "Read complete subsection 1 and source notes (L. 1985 S.B. 279 § 9 subdivs. (2), (3); Effective 8-09-85). Covers discretionary license refusal/revocation for noncompliance with §§ 315.005–315.065, noncompliance notice, 10-day hearing request, compliance period and extensions, 30-day advance hearing notice for revocation/nonrenewal, licensee appearance with attorney and witnesses (archived text reads \"will call witnesses\"), chapter 536 review, and continued operation during judicial review absent an imminent health or safety hazard. Independent review revised title from 'License refusal, noncompliance periods, hearings, and review' to explicitly include revocation/nonrenewal alongside refusal, compliance periods, hearings, and judicial review."
+        },
+        {
+          "number": 2,
+          "title": "Written service methods for department notices",
+          "bodySha256": "19fc21a72c18f360d1df0516f5529be4643d7e7a5f5e09e6fc1821127c24f024",
+          "reviewNote": "Read complete subsection 2 and source notes (L. 1985 S.B. 279 § 9 subdivs. (2), (3); Effective 8-09-85). Requires department notices to be in writing and served in person by the department or by registered or certified mail to the owner."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r41",
+      "reviewSummary": "Independently read complete archived version 315.041:16900 (both subsections and L. 1985 S.B. 279 § 9 subdivs. (2), (3) / Effective 8-09-85 notes) and verified all fingerprints. Verified 10-day and 30-day hearing timelines, chapter 536 review, continued operation absent imminent hazard, and archived phrasing 'will call witnesses'; revised subsection 1 to explicitly include revocation alongside refusal, compliance, hearings, and review, and retained subsection 2."
+    },
+    {
+      "id": "315.067:16904",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=315.067&bid=16904",
+      "sourceSha256": "3e311d5611ae58a2b1e24d7aaccf01893614b3765181dc9e27fff1a37a3b086c",
+      "textSha256": "c26f6697c90acc4f72523f6bbd8181feb44da426856cb969396cab1628d4cb0c",
+      "draftedBy": "antigravity_drafter_d35",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Meaning of hotel in sections 315.067 to 315.079",
+          "bodySha256": "82afa8d5f057e2a407d571bb8610cb1787aeb89a06dd5d10b4542d34873e699c",
+          "reviewNote": "Read complete subsection 1 and source notes (L. 1998 S.B. 526). Defines \"hotel\" for sections 315.067 to 315.079 by adopting the definition of \"lodging establishment\" in section 315.005."
+        },
+        {
+          "number": 2,
+          "title": "Permitted grounds for denying hotel accommodations",
+          "bodySha256": "51aefa1d5df7ef01b47e9e1da00da1ad9340faf70e635836dcbece2425ce2ddb",
+          "reviewNote": "Read complete subsection 2, subdivisions (1)–(5), and source notes (L. 1998 S.B. 526). Authorizes a hotel operator (including section 315.005 lodging establishments) to refuse or deny rooms, accommodations, facilities, or privileges on five listed grounds: inability/unwillingness to pay, visible intoxication/disorderly nuisance, reasonable belief of unlawful purpose, reasonable belief of bringing unreasonable danger/risk (including explosives or unlawful firearm use), or exceeding maximum capacity."
+        },
+        {
+          "number": 3,
+          "title": "Immunity for reasonable refusal under this section",
+          "bodySha256": "84fff53c9bce4e846bf1820cb71401a06e5c4aeab8c6839d5d2803da7c0488cd",
+          "reviewNote": "Read complete subsection 3 and source notes (L. 1998 S.B. 526). Shields a hotel operator who reasonably refuses or denies accommodations or privileges pursuant to this section from civil or criminal action, fine, or other penalty."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r41",
+      "reviewSummary": "Independently read complete archived version 315.067:16904 (all 3 subsections, subdivisions (1)–(5), and L. 1998 S.B. 526 notes) and verified all fingerprints. Verified § 315.005 incorporation for §§ 315.067–315.079, discretionary denial grounds, and reasonable-refusal immunity; retained all 3 accurate titles."
+    },
+    {
+      "id": "315.079:16908",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=315.079&bid=16908",
+      "sourceSha256": "4e43c97d06b0d7dc678285a10cae24315615ded0eb8d90363a77a33b4ddb20a7",
+      "textSha256": "b7802a40211979ae4b437753d925aa12ffc058193496adf959a99af2b142b9bc",
+      "draftedBy": "antigravity_drafter_d35",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Guest registration, identification, and minor guest rules",
+          "bodySha256": "d9a94fab8c379299dbef5cbd1d85ae93c4ab4434ed7ff2a94fae4a4d3ff86f94",
+          "reviewNote": "Read complete subsection 1 and source notes (L. 1998 S.B. 526). Requires hotel renters/lessees to register, permits owners or operators to require proof of identity (driver's license, state ID, or other satisfactory ID), and allows requiring a parent or guardian to register for individuals under age 18. Independent review revised title from 'Guest registration, identification, and minor registration' to avoid implying minors register separately or that parent/guardian registration is mandatory rather than optional."
+        },
+        {
+          "number": 2,
+          "title": "Permitted media for maintaining the guest registry",
+          "bodySha256": "be641907d64674f957ebc7d11190b7a416f031f7d878d44bf04d52b897a4577e",
+          "reviewNote": "Read complete subsection 2 and source notes (L. 1998 S.B. 526). Authorizes maintaining the guest registry via photographic, photostatic, microfilm, microcard, electronic imaging, electronic data processing, or other durable reproduction processes accurately reproducing an unaltered original."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r41",
+      "reviewSummary": "Independently read complete archived version 315.079:16908 (both subsections and L. 1998 S.B. 526 notes) and verified all fingerprints. Revised subsection 1 to avoid implying minors register separately or that parent/guardian registration is mandatory rather than optional; retained subsection 2 on permitted registry media."
+    }
+  ]
+}

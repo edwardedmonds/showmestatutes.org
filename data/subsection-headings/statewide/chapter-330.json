@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "330.010:17608",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=330.010&bid=17608",
+      "sourceSha256": "9e8cb34cf37cf774574abb17bf9bece80c2f5686f50cf0b4f9d41d338c45c49d",
+      "textSha256": "efae478241c654988dbb01970bc71956207621af7a19ec536f80f7c4f09e3e37",
+      "draftedBy": "antigravity_drafter_d38",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Meaning of board",
+          "bodySha256": "97f8126ec0ff99b6d494f0d2ddf7d97fe5928bc1cddfd2d4b478be25afe4d342",
+          "reviewNote": "Covers the definition of 'board' as the state board of podiatric medicine."
+        },
+        {
+          "number": 2,
+          "title": "Podiatry scope, exceptions, and ankle surgery conditions",
+          "bodySha256": "b4290b37a5666fa65c907ee5388a488626b9f6c7d456a6c2bf0ac9b3f080f64b",
+          "reviewNote": "Covers the full subsection text. Single long paragraph; title lists topics without stating each condition. Title revised on review: long paragraph includes exceptions, 2005 residency rule, hospital/clinic and credentialing conditions."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r45",
+      "reviewSummary": "Independently read the complete archived version of 330.010 (all 2 numbered subsection(s), subdivisions, continuation paragraphs, and source notes) and verified sourceUrl, sourceSha256, textSha256, subsection numbering, and all bodySha256 values against the archive. Checked parties, conditions, permissive versus mandatory language, dates, and cross-references; section-specific checks: long ankle-surgery paragraph (2005 residency rule, facility and credentialing conditions). Title revisions: sub 2: \"Podiatry scope, ankle surgery requirements\" -> \"Podiatry scope, exceptions, and ankle surgery conditions\"."
+    },
+    {
+      "id": "330.025:57235",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=330.025&bid=57235",
+      "sourceSha256": "ea6525d39f16917b217f7543626bc4fb6a07e0e78e1c8f57207cbbe16d1c0987",
+      "textSha256": "ec32aaf7006e127d72e42d00bcb2c30c383dd4c2203da68e2120ae384d0853ba",
+      "draftedBy": "antigravity_drafter_d38",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board may require fingerprints with applications",
+          "bodySha256": "7398fabc473c54e528ba81ad5c7c059202f7e3a91071944319820fcbb204f9c3",
+          "reviewNote": "Covers permissive ('may') board requirement for permanent, temporary (sections 330.045 and 330.065) or ankle-certified licenses. Title revised on review: requirement is permissive."
+        },
+        {
+          "number": 2,
+          "title": "Fingerprint submission to highway patrol",
+          "bodySha256": "92f25319267bc2d154000127566d19462e4ab39586ce42be4e39fa2a40152d13",
+          "reviewNote": "Covers conditional requirement, if the board requires fingerprints, for state and federal background checks."
+        },
+        {
+          "number": 3,
+          "title": "Background check handling and record access",
+          "bodySha256": "0be6a6a572b69c82b73a80f490e91f50932a4cd08efc586e17efc6d91852a6a6",
+          "reviewNote": "Covers central repository, FBI search under section 43.540, board notice, and access notwithstanding section 610.120."
+        },
+        {
+          "number": 4,
+          "title": "Ankle certification license defined",
+          "bodySha256": "b6dce57a70f0c9a749c12d23c9c5a118a25dd368ac954e2ab575d599aa2ba0bf",
+          "reviewNote": "Covers definition of a permanent license with ankle certification by reference to section 330.010."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r45",
+      "reviewSummary": "Independently read the complete archived version of 330.025 (all 4 numbered subsection(s), subdivisions, continuation paragraphs, and source notes) and verified sourceUrl, sourceSha256, textSha256, subsection numbering, and all bodySha256 values against the archive. Checked parties, conditions, permissive versus mandatory language, dates, and cross-references. Title revisions: sub 1: \"Optional fingerprints for license applications\" -> \"Board may require fingerprints with applications\"."
+    },
+    {
+      "id": "330.050:17613",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=330.050&bid=17613",
+      "sourceSha256": "9600a51cd4de404fcdfa278e9a1bc372fa28b664dbdb88f4813d59586227a802",
+      "textSha256": "ea24fae7d81a88ecf395b282e536edc9ea0ddb03a1e6112810324f98b066bd0e",
+      "draftedBy": "antigravity_drafter_d38",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "License issuance and recitals",
+          "bodySha256": "83e7686d517caa5b7d5c371f869e5932c7da1800ce4cf39e200d2812164fdda2",
+          "reviewNote": "Covers issuance upon application, evidence of licensure, and fees, reciting registration period."
+        },
+        {
+          "number": 2,
+          "title": "Required license contents",
+          "bodySha256": "30c76b7510b6cb4ece8b6be4e73de3a58ed2c175244878e6cac799f4675835ed",
+          "reviewNote": "Covers name, office address, date and number of the license."
+        },
+        {
+          "number": 3,
+          "title": "License display and duplicate licenses",
+          "bodySha256": "b5f79e5fca0f1c66915267c333c94fbc0514ab3a8d3fa90dca3b7fd146c36c34",
+          "reviewNote": "Covers conspicuous display in every office and duplicate licenses and renewal licenses for each office."
+        },
+        {
+          "number": 4,
+          "title": "Office relocation notice within fifteen days",
+          "bodySha256": "ba84976058b8f4e995ae1227126fe425f038f9ccacd9a97e620ec783f1f0e8df",
+          "reviewNote": "Covers notice within fifteen days and duplicate renewal license without additional fee. Title revised on review: states deadline."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r45",
+      "reviewSummary": "Independently read the complete archived version of 330.050 (all 4 numbered subsection(s), subdivisions, continuation paragraphs, and source notes) and verified sourceUrl, sourceSha256, textSha256, subsection numbering, and all bodySha256 values against the archive. Checked parties, conditions, permissive versus mandatory language, dates, and cross-references. Title revisions: sub 4: \"Office relocation notice\" -> \"Office relocation notice within fifteen days\"."
+    },
+    {
+      "id": "330.065:17614",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=330.065&bid=17614",
+      "sourceSha256": "2d2435d24f881cedf66422109780c844a603051f168ac8cc5cdb765b6d4b9837",
+      "textSha256": "01cb56d49468e51707e4a53b1fbc29811414c6b6ce72d67c0bb60c3ec80fa574",
+      "draftedBy": "antigravity_drafter_d38",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Temporary license for internship or residency",
+          "bodySha256": "279e1e0b4a7c4fc23bf9c755662512b4fb874d8ae21fc922e71cb75b6c2fedfb",
+          "reviewNote": "Covers two-year temporary license in a Missouri hospital without a permanent license."
+        },
+        {
+          "number": 2,
+          "title": "Temporary license eligibility findings",
+          "bodySha256": "63e1312700b63a49ed73ce1f154bd55be78854d507c1933cd8dbc21d629799f5",
+          "reviewNote": "Covers the full subsection text. Title revised on review: three findings required."
+        },
+        {
+          "number": 3,
+          "title": "Temporary license application and fees",
+          "bodySha256": "6258eececc2b880144d2ecc5bc083b955c9f40af8f7bd9f283b31a092a047a61",
+          "reviewNote": "Covers evidence, fee upon issuance, and nonrefundable application fee."
+        },
+        {
+          "number": 4,
+          "title": "Transfer between programs",
+          "bodySha256": "d15a88ae7b8549cff05284e87e59b0c0f649454e9ea8e839c7437fb6c34f00e2",
+          "reviewNote": "Covers board approval before transfer and two-year validity from original issuance."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r45",
+      "reviewSummary": "Independently read the complete archived version of 330.065 (all 4 numbered subsection(s), subdivisions, continuation paragraphs, and source notes) and verified sourceUrl, sourceSha256, textSha256, subsection numbering, and all bodySha256 values against the archive. Checked parties, conditions, permissive versus mandatory language, dates, and cross-references. Title revisions: sub 2: \"Grounds for granting temporary license\" -> \"Temporary license eligibility findings\"."
+    },
+    {
+      "id": "330.070:17615",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=330.070&bid=17615",
+      "sourceSha256": "35ab4210dfdb61bf77ab465b2e070f61183c7f04a85b2b709a5a4dabbac6e7c5",
+      "textSha256": "9e4eecfeb76465b6d178f98062935d95a20aeb74f3f99e4d00c18af788c3b455",
+      "draftedBy": "antigravity_drafter_d38",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mailing renewal forms",
+          "bodySha256": "922d2b7a3d753dd01bccd7dfef5ab468b653feec48e57ad9e35b5fa6b67ffca8",
+          "reviewNote": "Covers board mailing of renewal forms by the first day of the month preceding the biennial renewal date."
+        },
+        {
+          "number": 2,
+          "title": "Returning renewal application by renewal date",
+          "bodySha256": "bd0407cd2c9554253fe171bcd76e80a7c5927e407555d85c20303cd98acbf377",
+          "reviewNote": "Covers completing and returning the form on or before the renewal date."
+        },
+        {
+          "number": 3,
+          "title": "Renewal application name and address",
+          "bodySha256": "b1aa86005f30e855a611720c3ca717514e0af7f75c7695a3c9d4874397b82567",
+          "reviewNote": "Covers full name and office address."
+        },
+        {
+          "number": 4,
+          "title": "Postgraduate study for renewal",
+          "bodySha256": "b074b6ad46366a53e6eae83a51745307ae9dcf97258025d466af94dc28921ed2",
+          "reviewNote": "Covers evidence of twenty-four hours for each renewal period and qualifying providers."
+        },
+        {
+          "number": 5,
+          "title": "Effect of not receiving renewal form",
+          "bodySha256": "d468a266752d8fa15c82cf5e20ad01550d432e961d309e7d2d2220a5347593d9",
+          "reviewNote": "Covers continuing duty to register and pay and exposure to penalties."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r45",
+      "reviewSummary": "Independently read the complete archived version of 330.070 (all 5 numbered subsection(s), subdivisions, continuation paragraphs, and source notes) and verified sourceUrl, sourceSha256, textSha256, subsection numbering, and all bodySha256 values against the archive. Checked parties, conditions, permissive versus mandatory language, dates, and cross-references. No title revisions; all titles confirmed accurate."
+    },
+    {
+      "id": "330.110:17620",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=330.110&bid=17620",
+      "sourceSha256": "199113ddaca3d8b947fee4a951a453a7a04e0b97013c9cb908539fffbc971522",
+      "textSha256": "ff470cb916707cbf4bdb2f80b88ad58292fbae56b9758303b4908656c9d555bb",
+      "draftedBy": "antigravity_drafter_d38",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board membership, terms, and qualifications",
+          "bodySha256": "d8b8d843c49bc8793820ba189953ab5d40e10bc34ab41f8bedf3067082bcf563",
+          "reviewNote": "Covers five members including voting public member, four-year terms, compensation up to seventy dollars daily, qualifications, party limit, conflicts, and the Missouri Podiatric Medical Association list of five."
+        },
+        {
+          "number": 2,
+          "title": "Public member qualifications and limits",
+          "bodySha256": "9c934b550a59a1974c7bee6c30206cad7de3ed407588b56c6fba460015257c42",
+          "reviewNote": "Covers eligibility, spouse and financial interest restrictions, list selection, and exclusion of technical determinations."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r45",
+      "reviewSummary": "Independently read the complete archived version of 330.110 (all 2 numbered subsection(s), subdivisions, continuation paragraphs, and source notes) and verified sourceUrl, sourceSha256, textSha256, subsection numbering, and all bodySha256 values against the archive. Checked parties, conditions, permissive versus mandatory language, dates, and cross-references. No title revisions; all titles confirmed accurate."
+    },
+    {
+      "id": "330.140:17622",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=330.140&bid=17622",
+      "sourceSha256": "84df50cd7816bee17c929a75705d7dfe1a8543007c2666f8a435e44bb1f57bb4",
+      "textSha256": "4b9d166ae90be6dcdf416455fd5ba3adeeaacea53ee1318d284ec82c3b983871",
+      "draftedBy": "antigravity_drafter_d38",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board officers, rules, seal, and expenses",
+          "bodySha256": "cbc34802170bb01960f84a5bd8f6ce45f46ad308cea9730ba2ca762fed9b30b1",
+          "reviewNote": "Covers election of officers, rulemaking power, common seal, and expense limit by fees received."
+        },
+        {
+          "number": 2,
+          "title": "Fees set by rule",
+          "bodySha256": "2cb4f241057f6f7bfff3e32c1f8a1708d15bd1fa8e29a2cad7ca300005f10088",
+          "reviewNote": "Covers fee setting under section 536.021 not substantially exceeding administration cost."
+        },
+        {
+          "number": 3,
+          "title": "Rule effectiveness, 1998 limits, and nonseverability",
+          "bodySha256": "ace1aee49c5670108267a31c7549df1ee1c28790377d3d13307e120ff7ba5aac",
+          "reviewNote": "Covers chapter 536 compliance, section 536.028, pre-August 28, 1998 delegations repealed with preservation of earlier rules, and nonseverability. Source footnote: 'this act' (H.B. 1601, 1998) contained numerous sections. \"This act*\" footnote refers to H.B. 1601 et al. (1998); see Disposition of Sections table. Title revised on review: retains \"this act*\" footnote."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r45",
+      "reviewSummary": "Independently read the complete archived version of 330.140 (all 3 numbered subsection(s), subdivisions, continuation paragraphs, and source notes) and verified sourceUrl, sourceSha256, textSha256, subsection numbering, and all bodySha256 values against the archive. Checked parties, conditions, permissive versus mandatory language, dates, and cross-references; section-specific checks: \"this act*\" footnote (H.B. 1601, 1998). Title revisions: sub 3: \"Rule effectiveness and 1998 provisions\" -> \"Rule effectiveness, 1998 limits, and nonseverability\"."
+    },
+    {
+      "id": "330.150:17623",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=330.150&bid=17623",
+      "sourceSha256": "fa571007f6f5cbb4ee2c17d9cda64e190c2c52b0eab36bb6e19522cdba6c2048",
+      "textSha256": "35c413302de31a5414b8c2a135845a4ac5aed945018dbfc716a1822c6246580e",
+      "draftedBy": "antigravity_drafter_d38",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board fund and fee deposits",
+          "bodySha256": "fce289fbc26ff26fb1162b8b892502d338decb6ce715d4a8d799534df2c849f9",
+          "reviewNote": "Covers fee payment to division director, deposit to State Board of Podiatric Medicine Fund, expense limit, and transfer of funds remaining on August 28, 1995."
+        },
+        {
+          "number": 2,
+          "title": "Lapse to general revenue above fund threshold",
+          "bodySha256": "300a2a28efa48e2c3e91e09ac2b76c90ae075545f972cca05aed8252c99be435",
+          "reviewNote": "Covers lapse only when biennium-end balance exceeds two (or three) times prior-year appropriation, notwithstanding section 33.080. Title revised on review: lapse only above two or three times prior appropriation."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r45",
+      "reviewSummary": "Independently read the complete archived version of 330.150 (all 2 numbered subsection(s), subdivisions, continuation paragraphs, and source notes) and verified sourceUrl, sourceSha256, textSha256, subsection numbering, and all bodySha256 values against the archive. Checked parties, conditions, permissive versus mandatory language, dates, and cross-references. Title revisions: sub 2: \"Fund transfer to general revenue limit\" -> \"Lapse to general revenue above fund threshold\"."
+    },
+    {
+      "id": "330.160:17624",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=330.160&bid=17624",
+      "sourceSha256": "53529f031b3f49887c82d9855b85b14268b053cd99f41434afdb789c0ca75f04",
+      "textSha256": "bd99afcc6c134ccfce7134a5954ed1252dddbe890678ca92d711173c8432bf03",
+      "draftedBy": "antigravity_drafter_d38",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board may refuse licenses; applicant notice",
+          "bodySha256": "42ab4ea81172413acd662b0a133af33c09135ec779344e82259bc22b5c773ead",
+          "reviewNote": "Covers refusal on subsection 2 causes, written reasons, and notice of right to complain under chapter 621. Title revised on review: refusal is permissive."
+        },
+        {
+          "number": 2,
+          "title": "Grounds for board complaint to hearing commission",
+          "bodySha256": "e9fd81be41b85cb22cbec999d215770a47a5660387a4479f37495568a43b347d",
+          "reviewNote": "Covers the full subsection text. Title revised on review: retains repeated source phrase; complaint permissive."
+        },
+        {
+          "number": 3,
+          "title": "Discipline after commission finding; probation and suspension limits",
+          "bodySha256": "9fd722aa4b9aa51becb53f732678169c98294a2a335db8025166ede5b2c63258",
+          "reviewNote": "Covers chapter 621 and board options: censure, probation up to five years, suspension up to three years, or revocation. Title revised on review: keeps permissive board action and limits."
+        },
+        {
+          "number": 4,
+          "title": "Board may set two-to-seven-year reinstatement bar",
+          "bodySha256": "c1f336321b3a15713cc7e020e79fc009291d6b06086a2223a6ecebf87d9544bf",
+          "reviewNote": "Covers optional period of two to seven years after revocation order and tolling by stay orders. Title revised on review: bar is permissive and tolled by stays."
+        },
+        {
+          "number": 5,
+          "title": "Board may require education or exams for restoration",
+          "bodySha256": "66cdb61f029117da0c3cdfb5d72b1fc7c91fa56b43274c42a8ee9eb72c951ad4",
+          "reviewNote": "Covers permissive education and examination requirements before restoring licenses revoked, suspended or inactive more than two years. Title revised on review: applies after more than two years and is permissive."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r45",
+      "reviewSummary": "Independently read the complete archived version of 330.160 (all 5 numbered subsection(s), subdivisions, continuation paragraphs, and source notes) and verified sourceUrl, sourceSha256, textSha256, subsection numbering, and all bodySha256 values against the archive. Checked parties, conditions, permissive versus mandatory language, dates, and cross-references; section-specific checks: repeated \"failed to renew or has surrendered\" phrase, permissive may-language, limits, subs 4-5. Title revisions: sub 1: \"Refusal to issue licenses and notice\" -> \"Board may refuse licenses; applicant notice\"; sub 2: \"Grounds for complaint and discipline\" -> \"Grounds for board complaint to hearing commission\"; sub 3: \"Hearing procedure and disciplinary actions\" -> \"Discipline after commission finding; probation and suspension limits\"; sub 4: \"Reinstatement bar after revocation\" -> \"Board may set two-to-seven-year reinstatement bar\"; sub 5: \"Conditions for restoring lapsed licenses\" -> \"Board may require education or exams for restoration\"."
+    },
+    {
+      "id": "330.195:17627",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=330.195&bid=17627",
+      "sourceSha256": "3625601991b2cf0c1c858e16cc8caec1152ed5d19d58eb39f38a2fca3f472227",
+      "textSha256": "09b9461a9f1a7d876177aaadd41595dd0126ee52b0bcb4b8fa276fe106a67844",
+      "draftedBy": "antigravity_drafter_d38",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board injunction for unlicensed practice or serious danger",
+          "bodySha256": "5aa5154de5f1e557e93a1f3d5ba6dda5629a68c740367343a64945b0e0c5b5cb",
+          "reviewNote": "Covers court authority on board application, with burden met, to enjoin unlicensed practice or practice presenting a substantial probability of serious danger. Title revised on review: names both grounds."
+        },
+        {
+          "number": 2,
+          "title": "Venue for injunction actions",
+          "bodySha256": "b2dd3db70a15245a5288a8e676460580e2119c194d1905aa77126689135f0c4e",
+          "reviewNote": "Covers county of conduct or defendant's residence."
+        },
+        {
+          "number": 3,
+          "title": "Injunction in addition to other penalties",
+          "bodySha256": "94d83e88487c90bd77c29c13cf29e002e716b420970470f34a2ea9597a7eaf85",
+          "reviewNote": "Covers remedy in addition to and not in lieu of chapter penalties and concurrent actions."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r45",
+      "reviewSummary": "Independently read the complete archived version of 330.195 (all 3 numbered subsection(s), subdivisions, continuation paragraphs, and source notes) and verified sourceUrl, sourceSha256, textSha256, subsection numbering, and all bodySha256 values against the archive. Checked parties, conditions, permissive versus mandatory language, dates, and cross-references. Title revisions: sub 1: \"Injunction grounds\" -> \"Board injunction for unlicensed practice or serious danger\"."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "323.020:17228",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=323.020&bid=17228",
+      "sourceSha256": "f956a6deb460828e6ba394bc80ca133b0c9d797590af2318fd38c03d119a3cd6",
+      "textSha256": "ca74a262b455b4dedbfcbab79a83ef6188ea551bd137ea49d22dd1e945019095",
+      "draftedBy": "antigravity_drafter_d36",
+      "reviewedBy": "antigravity_reviewer_r42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 323.020:17228, both subsections, and history note (L. 1947 V. II p. 252 § 2 through A.L. 2007 H.B. 426); verified source identity, transcript hash, and all subsection fingerprints. Checked chapter 536 and section 536.028 rulemaking conditions, January 1, 1999 prior-authority repeal and pre-1999 rule savings clauses, nonseverability trigger, and the section 323.060(1) exception to deemed NBFU/NFPA conformity. Retained both titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Liquefied petroleum gas regulations and rulemaking conditions",
+          "bodySha256": "980904ba4f529a852e34fbc897edcade543b21fdf0e60e398fe586814108de62",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1947 V. II p. 252 § 2 through A.L. 2007 H.B. 426). Directs the commission to promulgate and enforce safety and odorization regulations for liquefied petroleum gas equipment under chapter 536, repeals prior delegated rulemaking authority as of January 1, 1999 while preserving pre-1999 rules, and includes a section 536.028 nonseverability and voidness clause."
+        },
+        {
+          "number": 2,
+          "title": "Conformity with national safety standards and 323.060 exception",
+          "bodySha256": "48b70567c61711c100307359c55efe05042fad3935a46426b849a5e83dd70e58",
+          "reviewNote": "Read complete text of subsection 2 and history note (L. 1947 V. II p. 252 § 2 through A.L. 2007 H.B. 426). Deems regulations in substantial conformity with published National Board of Fire Underwriters standards as recommended by the National Fire Protection Association to be in substantial conformity with generally accepted safety standards, except as specifically provided in section 323.060(1)."
+        }
+      ]
+    },
+    {
+      "id": "323.025:17229",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=323.025&bid=17229",
+      "sourceSha256": "970e51a6e80ecd481d176d75cbcfa89b386abf5670af86dde9b6e8054122965c",
+      "textSha256": "96cb96275eca2986968f5bcca9808a15ae9c7142f21d84fe2aed0b665a8498b1",
+      "draftedBy": "antigravity_drafter_d36",
+      "reviewedBy": "antigravity_reviewer_r42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 323.025:17229, all 17 subsections including subdivisions in subsections 4, 12, and 13, and source notes (L. 2007 H.B. 426, A.L. 2014 H.B. 2141; effective 1-01-16); verified source identity, transcript hash, and all subsection fingerprints. Verified and explicitly preserved archived drafting quirks without silently repairing them: subsection 8 \"Resolutions of the persons dealing with the commission need not be published or posted\", subsection 12(6) \"Disperse funds\", subsection 13(2) \"liquified\", and subsection 14 alternating references to \"the director\" and \"the administrator\", plus the August 28, 2010 installation-code rulemaking date in subsection 13(3). Revised titles for subsections 4, 11, and 16 to include the abstention proviso, activity report, and notice prerequisite; retained all other titles.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Commission creation, membership, appointments, and officers",
+          "bodySha256": "c8839a78c071a8c498567fe59c871a3796c0a4a756a2f63d2fe0c51c2eac8aa2",
+          "reviewNote": "Read complete text of subsection 1 and source notes (L. 2007 H.B. 426, A.L. 2014 H.B. 2141; effective 1-01-16). Creates the Missouri Propane Safety Commission within the department of agriculture as a body corporate and politic, assigns administration and enforcement of chapter 323, specifies nine governor-appointed senate-confirmed commissioners by sector/agency representation, and requires annual election of officers."
+        },
+        {
+          "number": 2,
+          "title": "Commissioner terms, vacancies, term limits, and holdover",
+          "bodySha256": "68c0e7c2b86171df8644d79bb094fff0f517b325fee31e6c02140bba7f96f6e6",
+          "reviewNote": "Read complete text of subsection 2 and source notes (effective 1-01-16). Establishes five-year terms (July 1 to June 30) with staggered initial terms, governs vacancy appointments for unexpired terms, limits governor-appointed commissioners to one full term with eligibility for one full term after an initial shorter term, and provides holdover service until a successor qualifies."
+        },
+        {
+          "number": 3,
+          "title": "Industry or agency employment requirement for nonpublic members",
+          "bodySha256": "c25abe43a867aa2c3d9787d7f68330e4d2bdb9f4ec9db45399d87b3e1fabdcd1",
+          "reviewNote": "Read complete text of subsection 3 and source notes (effective 1-01-16). Requires commission members other than the public member to be full-time employees or owners of businesses in the industry or the agency they represent."
+        },
+        {
+          "number": 4,
+          "title": "State-office nonforfeiture, conflict exception, and abstention",
+          "bodySha256": "46c2cad02727f70af5ec26992caf12bfaae7a374467f832771011ce712b1c666",
+          "reviewNote": "Read complete text of subsection 4 (including subdivisions (1)-(2)) and source notes (effective 1-01-16). Provides notwithstanding other law that state officers or employees do not forfeit office/employment by serving on the commission, and that propane-industry service is not a conflict of interest provided the member abstains from deliberation, action, and voting whenever their business affiliation or public office association is involved."
+        },
+        {
+          "number": 5,
+          "title": "Uncompensated service and expense reimbursement",
+          "bodySha256": "e8c7ba46f5cddf9291b6eb63390e7179f24476da81bd2ace81dde222ece82300",
+          "reviewNote": "Read complete text of subsection 5 and source notes (effective 1-01-16). Provides that commissioners serve without compensation but are reimbursed from commission funds for actual and necessary official expenses."
+        },
+        {
+          "number": 6,
+          "title": "Meetings, quorum, voting threshold, and vacancies",
+          "bodySha256": "4d92ac3dc813ad37cd720486c19ad5e9a2b4c03eaa53d7a3b5a4876b48ea570e",
+          "reviewNote": "Read complete text of subsection 6 and source notes (effective 1-01-16). Provides for calling meetings by the chairperson or two commissioners, sets a five-commissioner quorum, authorizes action by resolution approved by a majority of at least four commissioners present, and states vacancies do not impair a quorum."
+        },
+        {
+          "number": 7,
+          "title": "Executive director, secretary, and commission staff",
+          "bodySha256": "df3d23e3072dc5a54f5334f51fde261f7b7ec4bdc16d9cbcbceed1ce86ede53e",
+          "reviewNote": "Read complete text of subsection 7 and source notes (effective 1-01-16). Requires commissioners to employ an executive director who also serves as secretary managing commission affairs subject to commissioner direction, and authorizes employing technical experts, officers, agents, and other staff and fixing their qualifications, duties, and compensation."
+        },
+        {
+          "number": 8,
+          "title": "Secretary records, seal, certified copies, and resolution publication",
+          "bodySha256": "735fea5bb84f24a8de1c450782b4608692ca99b55cb80b759aaeb64fb461ef42",
+          "reviewNote": "Read complete text of subsection 8 and source notes (effective 1-01-16). Assigns the secretary custody of commission proceedings, books, documents, minute book, and seal, authorizes sealed certified copies on which third parties may rely, and retains archived source wording that \"Resolutions of the persons dealing with the commission need not be published or posted unless the commission shall so direct.\""
+        },
+        {
+          "number": 9,
+          "title": "Surety bonds and blanket bond requirements",
+          "bodySha256": "ded42a2f412ba42a86c94ec16dbaab7063a2553666d4366b8bd7799226cb172e",
+          "reviewNote": "Read complete text of subsection 9 and source notes (effective 1-01-16). Requires a $50,000 surety bond for each commissioner and a $100,000 surety bond for the executive director, or an alternative blanket bond executed by the chairperson covering all members, the executive director, and officers/employees, subject to attorney general approval, secretary of state filing, and payment by the commission."
+        },
+        {
+          "number": 10,
+          "title": "Annual budget plan, public notice, and approval",
+          "bodySha256": "122bbf85ca968ca47172a257d4503cf8f8c313d329d315ac14f804c27a5ffa69",
+          "reviewNote": "Read complete text of subsection 10 and source notes (effective 1-01-16). Requires preparation of a fiscal-year budget plan and recommended assessment rate for public comment via at least 30 days of publication in the Missouri Register, followed by commission approval or modification."
+        },
+        {
+          "number": 11,
+          "title": "Annual report, financial statement, and independent CPA audit",
+          "bodySha256": "3ef371e7267a21f49e7329ec2e41dcc44f0e5c808dad9f81255db490703e2e56",
+          "reviewNote": "Read complete text of subsection 11 and source notes (effective 1-01-16). Requires an annual report with complete operating and financial statements to the department of agriculture, governor, and general assembly after each fiscal year, and an annual audit of commission books and accounts by an independent certified public accountant."
+        },
+        {
+          "number": 12,
+          "title": "General corporate and operational powers",
+          "bodySha256": "ef132aea2dc6ab445207056faed489cacf86d99f2c98f4de1d2d74bad474d295",
+          "reviewNote": "Read complete text of subsection 12 (including subdivisions (1)-(7)) and source notes (effective 1-01-16). Grants seven corporate and operational powers including suing and being sued, official seal, perpetual succession, maintaining offices, conducting hearings and mediating enforcement disputes, disbursing funds (spelled \"Disperse\" in archived source) and fixing employee pay, and exercising necessary or convenient powers."
+        },
+        {
+          "number": 13,
+          "title": "Enumerated commission duties and installation code",
+          "bodySha256": "e679b22519191263449aa462424af52837895d91609ec7b6bca03e832f178316",
+          "reviewNote": "Read complete text of subsection 13 (including subdivisions (1)-(9)) and source notes (effective 1-01-16). Lists nine commission duties including accident-prevention plans, mandating a certification training program (source spells \"liquified\"), promulgating a statewide propane equipment installation code by August 28, 2010, interagency cooperation, accepting restricted gifts/grants, supervising enforcement, suspending violating registrations, negotiating interstate compacts, and performing necessary acts."
+        },
+        {
+          "number": 14,
+          "title": "Investigations, oaths, subpoenas, and circuit court enforcement",
+          "bodySha256": "d5b837325cfa5e3e15b36c92cf58ce43d8fc9fa00db1115180ede8ecde856055",
+          "reviewNote": "Read complete text of subsection 14 and source notes (effective 1-01-16). Authorizes investigations by \"the director\", empowers \"the administrator\" (retaining both archived official terms) to administer oaths, subpoena witnesses, take evidence, and compel production of records statewide, and permits the director to seek circuit court enforcement for refusal to obey a subpoena."
+        },
+        {
+          "number": 15,
+          "title": "Authority to regulate propane inspection and specifications",
+          "bodySha256": "491f0ab4d9bccd6705dd46572d20c06c297a01fdefbc0ddfe018e8db3a01dd87",
+          "reviewNote": "Read complete text of subsection 15 and source notes (effective 1-01-16). Authorizes the Missouri Propane Safety Commission to regulate the inspection of and provide specifications for propane as provided in section 323.025."
+        },
+        {
+          "number": 16,
+          "title": "Removal of commissioners for cause, notice, and hearing",
+          "bodySha256": "0d74142f05f3a0eee3f2136dde3c856a3600081ea6ea8bb58e794be36ae6ccbc",
+          "reviewNote": "Read complete text of subsection 16 and source notes (effective 1-01-16). Provides for governor removal of a commissioner for misfeasance, malfeasance, willful neglect of duty, or other cause after notice and a public hearing, unless expressly waived in writing."
+        },
+        {
+          "number": 17,
+          "title": "Access to inspect covered installations under construction",
+          "bodySha256": "1263e52c6a72abbeae1ad3be9d185b450c39d519dfa650d12b76302ee4347c4c",
+          "reviewNote": "Read complete text of subsection 17 and source notes (effective 1-01-16). Grants the director or a designated employee free access during reasonable hours to any premises in the state where a chapter-covered installation is being constructed or installed to verify compliance."
+        }
+      ]
+    },
+    {
+      "id": "323.060:17232",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=323.060&bid=17232",
+      "sourceSha256": "078faa9b1019a8606445786064b9da9e3984d534271ba701492622cc2ae2bcef",
+      "textSha256": "1c1af99054e81e198163021a65ed5e44ee6a26ebdb16c545ce06e8fd486d2a54",
+      "draftedBy": "antigravity_drafter_d36",
+      "reviewedBy": "antigravity_reviewer_r42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 323.060:17232, all seven subsections, and history note (L. 1963 p. 427 through A.L. 2007 H.B. 426); verified source identity, transcript hash, and all subsection fingerprints. Checked registration classes across subsections 1-3, qualified third-party civil immunity and 30-day inspection proviso in subsection 4, gross-negligence/willful-act savings in subsection 5, and section-only vs. chapter-wide exemptions in subsections 6 and 7. Revised subsection 7 title to clarify its chapter-wide exemption scope; retained subsections 1-6.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Registration for retail sellers, handlers, and highway transporters",
+          "bodySha256": "c15bb82bc6a5670cbbc0791b76520f4fb72699440955fde56b86d3bd40cbb2a5",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1963 p. 427 through A.L. 2007 H.B. 426). Prohibits engaging in retail liquefied petroleum gas sales or highway handling/transportation in Missouri without first registering with the commission in the appropriate class determined by the director."
+        },
+        {
+          "number": 2,
+          "title": "Registration for equipment and appliance installers and servicers",
+          "bodySha256": "f784623dff25875b09208a87744a6aedd72eade91727d9b4c70a1ed7e606e3e1",
+          "reviewNote": "Read complete text of subsection 2 and history note (L. 1963 p. 427 through A.L. 2007 H.B. 426). Prohibits engaging in the business of installing, modifying, repairing, or servicing liquefied petroleum gas equipment and appliances in Missouri without first registering with the commission in the appropriate classes determined by the director."
+        },
+        {
+          "number": 3,
+          "title": "Compliance requirements for nonresident businesses",
+          "bodySha256": "f592c726956810ed1fd7b70aaa1b142d78ccb1d8755160fdf3753346ee789112",
+          "reviewNote": "Read complete text of subsection 3 and history note (L. 1963 p. 427 through A.L. 2007 H.B. 426). Requires nonresidents seeking to engage in retail liquefied petroleum gas distribution or equipment/appliance installation, repair, or servicing to comply with sections 323.005 to 323.110 and promulgated regulations."
+        },
+        {
+          "number": 4,
+          "title": "Qualified civil immunity for third-party equipment work",
+          "bodySha256": "01c1ede7f8521d4b50068b1c4205571818cf62951d18ab82ce302279b5c492ce",
+          "reviewNote": "Read complete text of subsection 4 and history note (L. 1963 p. 427 through A.L. 2007 H.B. 426). Shields registered retail sellers, handlers, and highway transporters from actual or punitive civil damages caused by another person's installation, modification, repair, or servicing of LP gas equipment or appliances, unless the registrant received written notice or actual knowledge and failed to inspect within 30 days."
+        },
+        {
+          "number": 5,
+          "title": "Preservation of liability for gross negligence or willful acts",
+          "bodySha256": "2bbacafde1981733ae95d60a1b53f28268ad5ba7f689e10bd59b3b6fcdae49f2",
+          "reviewNote": "Read complete text of subsection 5 and history note (L. 1963 p. 427 through A.L. 2007 H.B. 426). Clarifies that nothing in section 323.060 limits any person's liability for damages arising directly from gross negligence or willful or wanton acts."
+        },
+        {
+          "number": 6,
+          "title": "Exemption for public service commission regulated utilities",
+          "bodySha256": "eec47600239649cba40b903bfd88f6d13d0b30af5961567af280409df7140b78",
+          "reviewNote": "Read complete text of subsection 6 and history note (L. 1963 p. 427 through A.L. 2007 H.B. 426). Exempts all utility operations of public utility companies subject to public service commission safety jurisdiction from section 323.060."
+        },
+        {
+          "number": 7,
+          "title": "Chapter exemption for small prefilled container sellers",
+          "bodySha256": "fcf3b64fe32336dffec0f44eddd48ed52f6c0d6b3fc42643387926edcbb4460a",
+          "reviewNote": "Read complete text of subsection 7 and history note (L. 1963 p. 427 through A.L. 2007 H.B. 426). Exempts from chapter 323 persons who only sell liquefied petroleum gas in containers of 50 pounds or less capacity that were filled by another chapter-registered person."
+        }
+      ]
+    },
+    {
+      "id": "323.075:17234",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=323.075&bid=17234",
+      "sourceSha256": "93c225d78c6998e82fcdd48dfb231f4bc05cf9fec11af3f1c5a3cfe372b423dd",
+      "textSha256": "33a0a9c8127bafaf4df8db11530e5cf2eacb39348a9fb0021be22b7680bb36c6",
+      "draftedBy": "antigravity_drafter_d36",
+      "reviewedBy": "antigravity_reviewer_r42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 323.075:17234, all five subsections, and history note (L. 2005 S.B. 182, A.L. 2007 H.B. 426); verified source identity, transcript hash, and all subsection fingerprints. Checked applicability limited to section 323.060(1) registrants, self-insurance vs. insurer-backed coverage requirements, cancellation notice and examination access, and chapter 536 / section 536.028 nonseverability with August 28, 2005 voidness trigger. Revised subsection 1 title to specify section 323.060(1) registrants; retained subsections 2-5.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Financial responsibility for 323.060(1) third-party release claims",
+          "bodySha256": "47c8697945c8aaae80c09e1751deae08a77876b73da330a051d2f940cad9471f",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 2005 S.B. 182, A.L. 2007 H.B. 426). Requires every person required to register under section 323.060(1) to demonstrate financial responsibility for third-party bodily injury and property damage caused by LP gas release, with minimums of $1,000,000 per occurrence and $2,000,000 annual aggregate."
+        },
+        {
+          "number": 2,
+          "title": "Methods of demonstrating financial responsibility",
+          "bodySha256": "0e0c71fd43155f64ba884e0abb3027b8d1e1efa5d0cf29cb5373514fec731711",
+          "reviewNote": "Read complete text of subsection 2 and history note (L. 2005 S.B. 182, A.L. 2007 H.B. 426). Allows demonstrating the subsection 1 financial responsibility requirement either by self-insurance or by obtaining insurance as specified in section 323.075."
+        },
+        {
+          "number": 3,
+          "title": "Liability insurance policy, cancellation notice, and inspection access",
+          "bodySha256": "af1f5d0162a01466a70888295df4feb8473df64fa291e0922c66d4b21a4d7a39",
+          "reviewNote": "Read complete text of subsection 3 and history note (L. 2005 S.B. 182, A.L. 2007 H.B. 426). Details liability insurance endorsement/policy requirements through a Missouri-authorized insurer (department of commerce and insurance), simultaneous final cancellation notice to the commission, certificate submission with original applications, and availability of originals for commission examination and copying."
+        },
+        {
+          "number": 4,
+          "title": "Rulemaking authority for acceptable self-insurance",
+          "bodySha256": "cca6c711a1797f5aeb2227b7a1e2c7e47392f0bdb0f6435adbb5d355e4344a6c",
+          "reviewNote": "Read complete text of subsection 4 and history note (L. 2005 S.B. 182, A.L. 2007 H.B. 426). Authorizes the commission to promulgate regulations governing acceptable forms of self-insurance."
+        },
+        {
+          "number": 5,
+          "title": "Rulemaking compliance under chapter 536 and nonseverability",
+          "bodySha256": "4b2d4ed55c7ac3df06e922ec7dbd2cc3d27570906d645e3bf6593b788b630310",
+          "reviewNote": "Read complete text of subsection 5 and history note (L. 2005 S.B. 182, A.L. 2007 H.B. 426). Conditions section 323.075 rules on section 536.010, chapter 536, and section 536.028 compliance if applicable, and includes a nonseverability clause voiding rulemaking authority and rules proposed or adopted after August 28, 2005 if specified general assembly review powers are held unconstitutional."
+        }
+      ]
+    },
+    {
+      "id": "323.080:17235",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=323.080&bid=17235",
+      "sourceSha256": "72ee7ddb0430835b14fae8d76d9b79c03a7286a086e7dccc6ae9eed63fc89ed3",
+      "textSha256": "52a5be9cddc359eed3fcf2dddeecae18714099cbff734d87fde5ce1bdabd914f",
+      "draftedBy": "antigravity_drafter_d36",
+      "reviewedBy": "antigravity_reviewer_r42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 323.080:17235, both subsections, and history note (L. 1963 p. 427 through A.L. 2007 H.B. 426); verified source identity, transcript hash, and all subsection fingerprints. Checked discretionary suspension grounds until correction, operating ban during suspension, 10-day registered-mail pre-suspension notice and hearing rights, and post-suspension registered-mail notice. Retained both titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Grounds for registration suspension and operating prohibition",
+          "bodySha256": "ae604096a1f2a50316bb22d582a5739b514a0b8819661f88b6c845188955c652",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1963 p. 427, A.L. 1994 S.B. 782, A.L. 2007 H.B. 426). Authorizes the commission to suspend a registration until a chapter 323 or regulatory violation/noncompliance is corrected and makes performing acts requiring registration unlawful while suspended."
+        },
+        {
+          "number": 2,
+          "title": "Pre-suspension notice, hearing rights, and suspension notice",
+          "bodySha256": "d8c8f36ef321a078f0fe3ab63d28130b8d54b91a1ce4d728fa0a8370bb7f844e",
+          "reviewNote": "Read complete text of subsection 2 and history note (L. 1963 p. 427, A.L. 1994 S.B. 782, A.L. 2007 H.B. 426). Requires written registered-mail notice at least 10 days before a hearing stating contemplated action and reasons, allows the registrant to present evidence at the hearing, and requires registered-mail notice to the last known address upon suspension."
+        }
+      ]
+    },
+    {
+      "id": "323.100:53872",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=323.100&bid=53872",
+      "sourceSha256": "27ef1bfeec62ad93fd935bfb016ec6294e39e3bc94d1ce260c7c1d07170ce8c8",
+      "textSha256": "5e9aed446d4999d6a13277d44c0c3523feb6ff33f5c4947c1d6d076ac5d3609a",
+      "draftedBy": "antigravity_drafter_d36",
+      "reviewedBy": "antigravity_reviewer_r42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 323.100:53872, all three subsections, and history note (L. 1963 p. 427 through A.L. 2023 H.B. 202 merged with S.B. 138); verified source identity, transcript hash, and all subsection fingerprints. Checked NIST Handbook 44 (1994 edition and supplements) standard, condemnation and marking prohibitions, $400 testing fee cap, October 1, 2014 annual reporting and revenue cap, and August 28, 2013 website publication with 30-day updates. Revised subsection 2 title to include the statutory revenue limit; retained subsections 1 and 3.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual meter inspections, condemnation, and capped testing fee",
+          "bodySha256": "2bda87464f4e08eb7aa35a606d587f5b15555fa17bdb6fda05e685fe5c5abd2a",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1963 p. 427, A.L. 1994 S.B. 782, A.L. 2013 H.B. 542, A.L. 2023 H.B. 202 merged with S.B. 138). Requires annual department of agriculture inspection and testing of retail LP gas liquid meters under NIST Handbook 44 (1994 edition and supplements), condemnation and marking of inaccurate meters with use/removal bans, and owner/possessor payment of a cost-recovery testing fee capped at $400."
+        },
+        {
+          "number": 2,
+          "title": "Annual fee report to general assembly and revenue limit",
+          "bodySha256": "aa131f0b50934bb98d851029da0cfd026cce7fa5b74807f36aebd973b9693eca",
+          "reviewNote": "Read complete text of subsection 2 and history note (A.L. 2023 H.B. 202 merged with S.B. 138). Requires the director of agriculture beginning October 1, 2014 and annually thereafter to report to the general assembly on current fees, prior-year expenses, proposed fee changes, and estimated ensuing-year expenses, barring proposed fee changes yielding revenue above total ensuing-year administrative costs."
+        },
+        {
+          "number": 3,
+          "title": "Website publication and updates of testing fee schedule",
+          "bodySha256": "5306e8513735a2f06abc2f7acf49cbb77648a3bb52477468b54df47dd45a2f50",
+          "reviewNote": "Read complete text of subsection 3 and history note (A.L. 2023 H.B. 202 merged with S.B. 138). Requires annual publication of the testing fee schedule on the department of agriculture website beginning August 28, 2013 and updating within 30 days of any schedule change."
+        }
+      ]
+    },
+    {
+      "id": "323.105:17238",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=323.105&bid=17238",
+      "sourceSha256": "a3507a619dee97a65b477615ee21b8925eb4ea29fbdad8b472da513d2197c9a8",
+      "textSha256": "a8da2b475e232fac99886d23d32c69a9e92725097afe70387ce13b14f58dd869",
+      "draftedBy": "antigravity_drafter_d36",
+      "reviewedBy": "antigravity_reviewer_r42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 323.105:17238, all six subsections, and source notes (L. 2007 H.B. 426, including footnote * explaining \"this act\" refers to H.B. 426, 2007); verified source identity, transcript hash, and all subsection fingerprints. Checked per-gallon rate caps, owner remittance timing and assessable terminal-delivery wording, section 323.020 fee rulemaking, Propane Inspection Fund section 33.080 nonreversion, and the statutory-recommendation exception to lobbying/campaign restrictions. Revised subsection 6 title to preserve the recommendation exception; retained subsections 1-5.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Odorized propane assessment rates and caps",
+          "bodySha256": "ccfe6a86cf0860019706befaf5349d1241255e655309ba0fd5540b204d7e5bb1",
+          "reviewNote": "Read complete text of subsection 1 and source notes (L. 2007 H.B. 426). Directs the commission to set an odorized propane assessment capped initially at 0.1 cent per gallon, thereafter sufficient to cover commission plans and programs up to a maximum of 0.25 cent per gallon, with annual increases limited to 0.1 cent per gallon."
+        },
+        {
+          "number": 2,
+          "title": "Owner payment liability, monthly remittance, and assessable deliveries",
+          "bodySha256": "300cbb1e4d1023b1c75d35e03b96969d6e25c27c2cd02ff266e0e5dd5f5375b4",
+          "reviewNote": "Read complete text of subsection 2 and source notes (L. 2007 H.B. 426). Assigns payment liability to the owner immediately before in-state odorization or at import (whichever is later), sets a monthly remittance deadline of the 25th of the following month, exempts nonodorized propane until odorized, and specifies assessable in-state and imported terminal deliveries on bills of lading (retaining archived phrasing \"either odorized at terminal locations in Missouri for delivery to either in-state storage locations or propane odorized at terminal locations outside Missouri\")."
+        },
+        {
+          "number": 3,
+          "title": "Alternative collection methods, late charges, and interest rules",
+          "bodySha256": "effeaad229c3cf5fa8d22d7e1dfd69501e4a4ee51123aebcf219abf2067ce2a5",
+          "reviewNote": "Read complete text of subsection 3 and source notes (L. 2007 H.B. 426). Authorizes the commission by rule to establish more efficient alternative assessment collection methods and to impose late payment charges and interest rates for nonremittance."
+        },
+        {
+          "number": 4,
+          "title": "Permit, license, and certificate fees under 323.020",
+          "bodySha256": "239d43977a7829918c850512b3e07942f6da521379efbac8cd07902e02927d6b",
+          "reviewNote": "Read complete text of subsection 4 and source notes (L. 2007 H.B. 426). Directs the commission to set chapter permit, license, and certificate fees by rule under section 323.020 sufficient for commission operations, limits fee schedule alterations to once every two years, and requires deposit into the Propane Inspection Fund."
+        },
+        {
+          "number": 5,
+          "title": "Propane Inspection Fund creation, use, and nonreversion",
+          "bodySha256": "2dad44e71c1b734fba39222693ac4241ea9cf1d43587692e10689842ec875a45",
+          "reviewNote": "Read complete text of subsection 5 and source notes (L. 2007 H.B. 426). Creates the Propane Inspection Fund for exclusive commission use in administering and enforcing chapter 323, exempts unexpended balances from biennial reversion under section 33.080, and credits investment interest and earnings to the fund."
+        },
+        {
+          "number": 6,
+          "title": "Lobbying and campaign fund restrictions and recommendation exception",
+          "bodySha256": "da85ddaf7374149965640f7dae9d2e3cb752928084f11888e874b24d88a4adc3",
+          "reviewNote": "Read complete text of subsection 6 and source notes (L. 2007 H.B. 426, including footnote * explaining \"this act\" refers to H.B. 426, 2007). Prohibits using commission-collected funds to influence legislation or make campaign contributions, while allowing recommendations to the director for changes in H.B. 426 or other statutes furthering commission purposes."
+        }
+      ]
+    },
+    {
+      "id": "323.110:17239",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=323.110&bid=17239",
+      "sourceSha256": "9dd1d821348b7a8539b53e2fa841b71051f300f8ad162f795e7284b00f5723e7",
+      "textSha256": "ff90b04166bdf5f2ac21ca5c22640223c80e72ba7ec9968b555faa8695c77375",
+      "draftedBy": "antigravity_drafter_d36",
+      "reviewedBy": "antigravity_reviewer_r42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 323.110:17239, both subsections, and history note (L. 1963 p. 427 through A.L. 2007 H.B. 426); verified source identity, transcript hash, and all subsection fingerprints. Checked sections 323.005 to 323.210 scope, class A misdemeanor classification, county prosecutor and fallback attorney general authority, certified-mail notice, 14-day informal hearing, formal chapter 536 hearing, cease-and-desist and $500 penalty caps, and circuit court appeal venue. Retained both titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Class A misdemeanor penalty and prosecutorial authority",
+          "bodySha256": "1c37e5435c0313f7bea9a4f04b0302606e7a1aca6d105a3dd832ee76782f907c",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1963 p. 427, A.L. 1994 S.B. 782, A.L. 2007 H.B. 426). Classifies violations of sections 323.005 to 323.210 as a class A misdemeanor and authorizes county prosecutors—or the attorney general with full prosecutorial powers if a county prosecutor declines—to bring enforcement actions."
+        },
+        {
+          "number": 2,
+          "title": "Administrative hearings, cease-and-desist orders, penalties, and appeals",
+          "bodySha256": "7908920fccdff8519e7d116c2bee86a9de65c82362b791b9bd57f82e9b79af4e",
+          "reviewNote": "Read complete text of subsection 2 and history note (L. 1963 p. 427, A.L. 1994 S.B. 782, A.L. 2007 H.B. 426). Establishes certified-mail violation notice, a 14-day informal hearing opportunity, formal chapter 536 administrative hearings, circuit-court-enforceable cease-and-desist orders, penalties up to $500 per violation and $500 per continuing day, and chapter 536 circuit court appeals (resident county or Cole County for the state)."
+        }
+      ]
+    },
+    {
+      "id": "323.115:17240",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=323.115&bid=17240",
+      "sourceSha256": "c2e360c89788679090d2a50e1deb57e5c22680cbd085d73c52ec87762a5c8dff",
+      "textSha256": "89a08a59560a579319a8016d7499131a45fdd4fab57a81d724a3abe30c5ab8e6",
+      "draftedBy": "antigravity_drafter_d36",
+      "reviewedBy": "antigravity_reviewer_r42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 323.115:17240, both subsections, and history note (L. 2007 H.B. 426); verified source identity, transcript hash, and all subsection fingerprints. Noted that despite the official catchline (\"Violations to be referred\"), subsection 1 explicitly makes attorney general referral discretionary when subsection 2 administrative action or written warning suffices; verified subsection 2 covers both assessments and fees, notice and hearing prerequisites, chapter 536 finality, daily disobedience penalties, and mandatory collection referrals. Revised subsection 2 title to cover both assessments and fees; retained subsection 1.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Discretionary attorney general referrals and administrative alternatives",
+          "bodySha256": "f0a42ad8ce0edec2a8264ed262f0c5373e40ff42812e0209d1322e51d28978aa",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 2007 H.B. 426). Permits referring chapter 323 violations to the attorney general while clarifying that referral is not required when the commission believes administrative action under subsection 2 or suitable written notice or warning adequately serves enforcement."
+        },
+        {
+          "number": 2,
+          "title": "Assessment and fee penalties, cease-and-desist orders, and collection",
+          "bodySha256": "1b453ba5940b0b3bb1f32cd80bc026dbd69e436745efb4bbf1c0b7573efdd84d",
+          "reviewNote": "Read complete text of subsection 2 and history note (L. 2007 H.B. 426). Authorizes $500 to $5,000 per-violation civil penalties and/or cease-and-desist orders after notice and hearing for failure to pay, collect, or remit required assessments or fees, sets chapter 536 review finality, provides up to $500 per day for disobeying final orders after hearing opportunity, and mandates attorney general collection actions without review of final-order validity or appropriateness."
+        }
+      ]
+    },
+    {
+      "id": "323.210:17241",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=323.210&bid=17241",
+      "sourceSha256": "ab42f7a0594b04c82ae228aaecea794c1e958d3cd624832cf3ba0732b925a83a",
+      "textSha256": "9eb74b7fe876e70fa9e67fe5defbb71ed05ae7c8de1cb9e4adc07fe59692b98d",
+      "draftedBy": "antigravity_drafter_d36",
+      "reviewedBy": "antigravity_reviewer_r42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 323.210:17241, both subsections, and history note (L. 1994 S.B. 782); verified source identity, transcript hash, and all subsection fingerprints. Checked director of agriculture rulemaking for CNG motor vehicle fuel systems, dispensing stations, training, and registration, and the pre-registration requirement for installers and servicers. Retained both titles as accurate.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Compressed natural gas safety, training, and registration regulations",
+          "bodySha256": "6aeeb40a3ee5b5904888c381a487bfd3a4e99aa646770a7116725bffe3c06980",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1994 S.B. 782). Directs the director of agriculture to promulgate and enforce minimum general safety standards for compressed natural gas (CNG) motor vehicle fuel systems and dispensing stations as well as registration, training, and examination regulations for applicants and registrants."
+        },
+        {
+          "number": 2,
+          "title": "Registration required for compressed natural gas installation or servicing",
+          "bodySha256": "770844534f59000953030c2ec20bf32e6264b00d92c7ff791a001e2de41c9dcf",
+          "reviewNote": "Read complete text of subsection 2 and history note (L. 1994 S.B. 782). Prohibits engaging in the business of installing or servicing compressed natural gas motor fuel equipment, dispensing stations, or components without first registering with the director of agriculture."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "322.125:17222",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=322.125&bid=17222",
+      "sourceSha256": "20c20cb79538725547890eca93618c5f7e1b0e9c7ed4d5aec5ac5d9fee279b08",
+      "textSha256": "ff71d43e7e5374a776c3f5090082c43f462d2618da1064622106726675651000",
+      "draftedBy": "antigravity_drafter_d36",
+      "reviewedBy": "antigravity_reviewer_r42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 322.125:17222, both subsections, and history note (L. 1971 H.B. 254); verified source identity, transcript hash, and all subsection fingerprints. Checked qualifying county-class scope (second-class counties with a 450,000+ city or post-September 28, 1971 noncharter first-class successors), unincorporated territorial limits, sections 322.120 and 322.125 cross-references, and permissive pound and owner-cost authorities. Revised subsection 1 title to reflect the outside-municipalities scope; retained subsection 2 title.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "County dog-control rules outside municipalities and board administration",
+          "bodySha256": "5e7d516cf99cac38de4970055b95092d7ad6acd4e9f4c6326aa8b2cc9df6e544",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 1971 H.B. 254). Permits the county commission of a second-class county containing all or part of a city of 450,000+ population, or becoming a noncharter first-class county after September 28, 1971, to adopt dog-control rules outside incorporated municipalities, administered by the county board of health center trustees under sections 322.120 and 322.125."
+        },
+        {
+          "number": 2,
+          "title": "Licensing fees, county dog pound, and impoundment costs",
+          "bodySha256": "def9e23cd5dbdf9b53cf8c21d90fb2bcb3d2f2b8bdfa0eb71f1e32188b0da781",
+          "reviewNote": "Read complete text of subsection 2 and history note (L. 1971 H.B. 254). Requires the county commission to adopt a fee schedule and collection method if licensing is required, authorizes the county board of health center trustees to operate a dog pound with needed personnel and equipment, and permits the commission to make owners of impounded dogs responsible for keeping costs."
+        }
+      ]
+    },
+    {
+      "id": "322.140:17224",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=322.140&bid=17224",
+      "sourceSha256": "3b463dd573558329716b2ea39ced8c5a9f6644104e363b43f66ab4e836d4a6dd",
+      "textSha256": "782206cdab605ffa750854cecdc9d4e756618041beed03103dcb2223da34d0e2",
+      "draftedBy": "antigravity_drafter_d36",
+      "reviewedBy": "antigravity_reviewer_r42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "reviewSummary": "Independently read complete archived version 322.140:17224, all six subsections including subdivisions in subsections 3 and 5, and history note (L. 2001 S.B. 462); verified source identity, transcript hash, and all subsection fingerprints. Checked conditional applicability absent sections 322.090 to 322.130 county rules, non-bite zoonotic exposure scope, discretionary department orders, owner-specific criminal liability and pre-release transfer bar, broad incident-cost responsibility, and chapter 536 / section 536.028 nonseverability with August 28, 2001 rule voidness trigger. Revised titles for subsections 1, 4, and 5 for scope and party precision; retained subsections 2, 3, and 6.",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Reporting bites or zoonotic exposures absent county rules",
+          "bodySha256": "93de872a9a753e62c3e823dcfca220d94c0842b13bfc7fc29fdd89db609aabec",
+          "reviewNote": "Read complete text of subsection 1 and history note (L. 2001 S.B. 462). Applies conditionally if a county does not adopt rules under sections 322.090 to 322.130; requires immediate reporting of animal bites or possible rabies/zoonotic disease transmission to the county health department, immediate relay by the county health department to the department of health and senior services, and cooperation in its investigation."
+        },
+        {
+          "number": 2,
+          "title": "Department investigation and animal-control orders",
+          "bodySha256": "efd99bc7197205ae2f4d4ac7bf81f492c4c25dcc171e679f65cf1945a1359a44",
+          "reviewNote": "Read complete text of subsection 2 and history note (L. 2001 S.B. 462). Directs the department of health and senior services to investigate upon receiving a bite or possible rabies/zoonotic transmission report and grants discretion to order quarantine, isolation, impounding, testing, immunization, or disposal of the animal."
+        },
+        {
+          "number": 3,
+          "title": "Factors considered in department investigations and orders",
+          "bodySha256": "1dbdbc53e968e045daa1c0ace42c77164ffb650105f7364a32e6d3b060723da3",
+          "reviewNote": "Read complete text of subsection 3 (including subdivisions (1)-(6)) and history note (L. 2001 S.B. 462). Lists six factors the department of health and senior services must consider when investigating and issuing orders regarding rabies or zoonotic disease exposure, including vaccinations, exposure degree, animal history, human postexposure immunization availability and willingness, and other relevant information."
+        },
+        {
+          "number": 4,
+          "title": "Owner noncompliance, premature animal transfer, and misdemeanor penalty",
+          "bodySha256": "6dc693054355393abe117fd5dabf1561300130a7664e29a62109d67364851009",
+          "reviewNote": "Read complete text of subsection 4 and history note (L. 2001 S.B. 462). Makes it unlawful for the owner of an animal that bites or possibly transmits rabies or zoonotic disease to knowingly fail or refuse to comply with a lawful department order or to sell, give away, transfer, transport, or dispose of the animal before department release, classifying a violation as a class A misdemeanor."
+        },
+        {
+          "number": 5,
+          "title": "Owner responsibility for incident, testing, and treatment costs",
+          "bodySha256": "895499894c7f384cc63c4e6f1864681ee6bdd433eb4c532af56818663313b2c7",
+          "reviewNote": "Read complete text of subsection 5 (including subdivisions (1)-(3)) and history note (L. 2001 S.B. 462). Makes the owner of an animal that bites or possibly transmits rabies or zoonotic disease responsible for all associated incident costs, including testing the animal, testing the exposed person, and treating the exposed person."
+        },
+        {
+          "number": 6,
+          "title": "Zoonotic disease rulemaking authority and nonseverability",
+          "bodySha256": "b9dc15019e7e35373213647cf17e3c90c5643685ce8d40f124aa72e3a2f6066d",
+          "reviewNote": "Read complete text of subsection 6 and history note (L. 2001 S.B. 462). Grants the department of health and senior services rulemaking authority to classify zoonotic diseases subject to section 536.010, chapter 536, and section 536.028 if applicable, and states chapter 536 nonseverability making rulemaking authority and rules proposed or adopted after August 28, 2001 void if specified general assembly review powers are held unconstitutional."
+        }
+      ]
+    }
+  ]
+}

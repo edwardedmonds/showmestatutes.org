@@ -1,0 +1,273 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "317.006:35225",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=317.006&bid=35225",
+      "sourceSha256": "9c2ba1dad9911c4cc27f617227bdf77c5c53726d2aeea6f01d8d457996dff99f",
+      "textSha256": "37346c6e3fdea81318539d71bdefa474055281fb02612e5b8c4679235a61099a",
+      "draftedBy": "antigravity_drafter_d35",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Division supervision, rules, licensing, tax, and Athletic Fund",
+          "bodySha256": "dd304f9789f55aeb6c97311460035822a09da198cb64145a32c0eca9fa25f49e",
+          "reviewNote": "Read complete subsection 1, subdivisions (1)–(4), and source notes (L. 1983 H.B. 635 §§ 2, 4, A.L. 1996 S.B. 524, A.L. 2007 H.B. 780 merged with S.B. 308, A.L. 2018 H.B. 1388). Official catchline says \"Director to supervise,\" whereas body vests general supervision, contest and amateur-sanctioning-body rulemaking, licensing, fee charging (fees set by director by rule), 5% gross-receipts admission tax assessment, and Athletic Fund deposits in the division."
+        },
+        {
+          "number": 2,
+          "title": "Rulemaking fee-setting standard and payment of expenses",
+          "bodySha256": "29f268da2e835a9f6300da5d7e4bda770757894ccdb615df7d27f52762b63bf4",
+          "reviewNote": "Read complete subsection 2 and source notes (L. 1983 H.B. 635 §§ 2, 4, A.L. 1996 S.B. 524, A.L. 2007 H.B. 780 merged with S.B. 308, A.L. 2018 H.B. 1388). Directs the director to set fees under sections 317.001 to 317.021 by rule to generate sufficient revenue for necessary administrative expenses and operating costs, with expenses paid as otherwise provided by law."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r41",
+      "reviewSummary": "Independently read complete archived version 317.006:35225 (both subsections, subdivisions (1)–(4), and L. 1983 H.B. 635 through A.L. 2018 H.B. 1388 notes) and verified all fingerprints. Verified catchline/body discrepancy ('Director' in catchline vs. 'division' supervision in subsection 1 body, with director setting fees by rule), 5% gross-receipts admission tax, and Athletic Fund creation; retained both accurate titles."
+    },
+    {
+      "id": "317.011:35226",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=317.011&bid=35226",
+      "sourceSha256": "d5e7b470068a6d5677edf93a5e90229792e2a52740156eb6266a64e94dacd7f1",
+      "textSha256": "9a3c6c292099e95e33c2d0c0234ac674d94043b799c55c50c61ead0f21fcb05c",
+      "draftedBy": "antigravity_drafter_d35",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Division contest permits, rule-set fees, and Athletic Fund",
+          "bodySha256": "2f50f570e2f61bd5cd363bdd090e594d0daea4ff4d6f90267231e4c2c600a174",
+          "reviewNote": "Read complete subsection 1 and source notes (L. 1983 H.B. 635 § 3, A.L. 1985 S.B. 99, A.L. 1996 S.B. 524, A.L. 2004 S.B. 1122, A.L. 2007 H.B. 780 merged with S.B. 308, A.L. 2018 H.B. 1388). Official catchline refers to \"director,\" whereas body empowers the division to issue permits for specified professional and amateur combat-sports contests, charge rule-set fees, and deposit them into the athletic fund. Independent review revised title from 'Contest permit issuance, rule-set fees, and Athletic Fund deposit' to make division authority explicit in contrast to 'director' in the official catchline."
+        },
+        {
+          "number": 2,
+          "title": "Athletic Fund biennial lapse limits despite section 33.080",
+          "bodySha256": "3c23dfbad5d951b4f5bf8ef01ddf4a1692c0fa7d237c082e29ec58b868585148",
+          "reviewNote": "Read complete subsection 2 and source notes (L. 1983 H.B. 635 § 3 through A.L. 2018 H.B. 1388). Overrides section 33.080 to prevent general-revenue transfer of athletic fund balances until biennial balances exceed twice (or three times if renewals are less frequent than yearly) the prior fiscal year's appropriation."
+        },
+        {
+          "number": 3,
+          "title": "Conditions required before granting a contest permit",
+          "bodySha256": "1cbb82b9b20efd5a094ff5ad75f27db547171671f577da409d558e0b6d16aecb",
+          "reviewNote": "Read complete subsection 3, subdivisions (1)–(2), and source notes (L. 1983 H.B. 635 § 3 through A.L. 2018 H.B. 1388). Prohibits the division from granting a regulated contest permit unless held under a division-licensed promoter and the rule-established permit fee is paid."
+        },
+        {
+          "number": 4,
+          "title": "Decisions rendered by three licensed judges",
+          "bodySha256": "1a9a1c9c143b7e30fde79d4441535f32c78399453fb875b319d8944949c80f51",
+          "reviewNote": "Read complete subsection 4 and source notes (L. 1983 H.B. 635 § 3 through A.L. 2018 H.B. 1388). Requires contest decisions in such permitted contests to be rendered by three division-licensed judges."
+        },
+        {
+          "number": 5,
+          "title": "Exemption and sanctioning condition for amateur boxing and wrestling",
+          "bodySha256": "e84dd91f40463ac1fa02aca96a4ef13f09147b7cacb99a9c095bbf8387d9e2cc",
+          "reviewNote": "Read complete subsection 5 and source notes (L. 1983 H.B. 635 § 3 through A.L. 2018 H.B. 1388). Exempts amateur boxing and amateur wrestling contests or exhibitions from chapter 317 while requiring sanctioning by an office-approved nationally recognized amateur sanctioning body."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r41",
+      "reviewSummary": "Independently read complete archived version 317.011:35226 (all 5 subsections, subdivisions (1)–(2), and L. 1983 H.B. 635 through A.L. 2018 H.B. 1388 notes) and verified all fingerprints. Verified catchline/body discrepancy ('director' vs. 'division'), § 33.080 biennial lapse override, permit conditions, 3-judge requirement, and qualified amateur boxing/wrestling exemption; revised subsection 1 to name division authority explicitly and retained subsections 2–5."
+    },
+    {
+      "id": "317.013:35227",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=317.013&bid=35227",
+      "sourceSha256": "922a5c02df8ba3e65d8ca597b2789be41f4572747183324343d8d4acfce97ee5",
+      "textSha256": "090c00211ac3ffcd02b7aa876a3a586134d5343682eacdd74569381e40d9666f",
+      "draftedBy": "antigravity_drafter_d35",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Medical suspensions for injury or lost consciousness and nonreviewability",
+          "bodySha256": "c3010e5525027f279a628b875180870efed37803c35e5931868b18bd7cbd6a5c",
+          "reviewNote": "Read complete subsection 1 and source notes (L. 1996 S.B. 524, A.L. 2007 H.B. 780 merged with S.B. 308, A.L. 2018 H.B. 1388). Requires a mandatory medical suspension up to 180 days for contestants losing consciousness or injured by blows to the head or body in listed contests, restricts consciousness determinations to board- and division-licensed physicians, and makes suspensions nonreviewable by any tribunal."
+        },
+        {
+          "number": 2,
+          "title": "Medical retirement, licensing bar, and nonreviewability",
+          "bodySha256": "d0bd54a528b4dfa74fbde0b710ce97c8cfb7092f84ec4cc54e5f09a9874c6d9d",
+          "reviewNote": "Read complete subsection 2 and source notes (L. 1996 S.B. 524, A.L. 2007 H.B. 780 merged with S.B. 308, A.L. 2018 H.B. 1388). Bars licensing or chapter-governed competition for persons injured so they may not continue participating in listed contests, deems them medically retired, and makes medical retirements nonreviewable by any tribunal."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r41",
+      "reviewSummary": "Independently read complete archived version 317.013:35227 (both subsections and L. 1996 S.B. 524 through A.L. 2018 H.B. 1388 notes) and verified all fingerprints. Verified 180-day suspension cap, physician qualification for consciousness determinations, medical retirement bar, and tribunal nonreviewability in both subsections; retained both accurate titles."
+    },
+    {
+      "id": "317.014:35228",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=317.014&bid=35228",
+      "sourceSha256": "28b3b6d1aef3b997b1b5469d7defa583fd89f9b25fa49bfeb9582857a1556723",
+      "textSha256": "57829daeff7f8f0a764369793eddfb969afa46375ee8847ead791f5de4fc0570",
+      "draftedBy": "antigravity_drafter_d35",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Injunctions against unapproved regulated contest activities",
+          "bodySha256": "98b223aaf6a80f2c1e567c78128c26e7133fba3246d213b37e8c33d45f37cfe7",
+          "reviewNote": "Read complete subsection 1, subdivisions (1)–(4), and source notes (L. 1996 S.B. 524, A.L. 2018 H.B. 1388). Authorizes courts, upon application by the director or office director, to enjoin promoting, advertising, conducting, or competing (or offering to do so) in listed contests not approved by the Missouri office of athletics. Independent review revised title from 'Injunctions against unapproved combat-sports contest activities' to use neutral statutory framing and avoid confusion with 'combative fighting' in section 317.018."
+        },
+        {
+          "number": 2,
+          "title": "Venue for injunctive actions",
+          "bodySha256": "63b2c3be8460c747c0fdba93bfef5f094ec0d17087df012297aeca5895598140",
+          "reviewNote": "Read complete subsection 2 and source notes (L. 1996 S.B. 524, A.L. 2018 H.B. 1388). Requires injunctive actions under this section to be commenced in the county where the conduct occurred or where the defendant resides."
+        },
+        {
+          "number": 3,
+          "title": "Cumulative nature of injunctive remedies",
+          "bodySha256": "9f67a6ebccdcbb0004c85e53dbe55c98002c84801273b34e695db514386d97b6",
+          "reviewNote": "Read complete subsection 3 and source notes (L. 1996 S.B. 524, A.L. 2018 H.B. 1388). States that actions under this section are in addition to other legal penalties and may be brought concurrently with other chapter enforcement actions."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r41",
+      "reviewSummary": "Independently read complete archived version 317.014:35228 (all 3 subsections, subdivisions (1)–(4), and L. 1996 S.B. 524, A.L. 2018 H.B. 1388 notes) and verified all fingerprints. Revised subsection 1 to replace 'combat-sports' with 'regulated contest' to stay closer to statutory terms and avoid confusion with § 317.018 'combative fighting'; retained subsections 2–3."
+    },
+    {
+      "id": "317.015:48389",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=317.015&bid=48389",
+      "sourceSha256": "5cb2aa6ad561d97e9d585367c2ae57cfd3df318acfe371b74c84c6f7c46604e0",
+      "textSha256": "6b86af562f32921ea75c7265f15e8ee7470cfe35fe952f8e2498dd539c64aa98",
+      "draftedBy": "antigravity_drafter_d35",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Filing licensee complaints and automatic multi-license discipline",
+          "bodySha256": "98b47543dfeec74dbd640a267b90f6eba57c0bab18034c90d3e762f979207736",
+          "reviewNote": "Read complete subsection 1 and source notes (L. 1996 S.B. 524, A.L. 2007 H.B. 780 merged with S.B. 308, A.L. 2020 H.B. 2046). Covers filing written complaints against sections 317.001 to 317.014 licensees with the division, division filing with the administrative hearing commission under chapter 621 if warranted, and automatic discipline across all division licenses held by a disciplined licensee."
+        },
+        {
+          "number": 2,
+          "title": "Refusal, disciplinary grounds, AHC proceedings, and division sanctions",
+          "bodySha256": "a416d7d85a33a2d6cbe6479fe106364eac82698149f6969f9d19aacbd01b3a81",
+          "reviewNote": "Read complete subsection 2, subdivisions (1)–(3) and paragraphs (a)–(m), and source notes including Revisor footnote (*Word \"compliant\" appears in original rolls for \"complaint*\" in subdiv. (3)). Covers division permit/license refusal and appeal notice, 13 disciplinary complaint grounds (including § 324.012 offenses and chapter 195 substances), chapter 621 hearings, and division censure, probation (up to 5 years), suspension (up to 3 years), or revocation."
+        },
+        {
+          "number": 3,
+          "title": "Office disciplinary sanctions, reapplication bar, tolling, and conditions",
+          "bodySha256": "32edb0989b47280a3a8748ab0407f84dd0f4be2729e7d0798974713b79ee211a",
+          "reviewNote": "Read complete subsection 3, subdivisions (1)–(2), and source notes (L. 1996 S.B. 524 through A.L. 2020 H.B. 2046). Authorizes office censure, probation, suspension, revocation (with reapplication bar up to 3 years and 1 day), stay-order tolling, and medical testing, rehabilitation, or review requirements upon subsection 2 findings; note archived text cross-references \"any remedy specifically provided in subsection 1 of this section.\""
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r41",
+      "reviewSummary": "Independently read complete archived version 317.015:48389 (all 3 subsections, all subdivisions and paragraphs (a)–(m), L. 1996 S.B. 524 through A.L. 2020 H.B. 2046 notes, and Revisor original-rolls footnote '*Word \"compliant\" appears in original rolls' for 'complaint*' in (2)(3)) and verified all fingerprints. Verified chapter 621 AHC procedures, § 324.012 and chapter 195 references, and retained without altering the archived cross-reference discrepancy in subsection 3 ('subsection 1 of this section' vs. subsection 2); retained all 3 accurate titles."
+    },
+    {
+      "id": "317.017:35229",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=317.017&bid=35229",
+      "sourceSha256": "faf64ca007780cc00b3fe3aee3f298a2acb2f390acb14adf31ab58b9b4b9a9fd",
+      "textSha256": "a3ed91926371f311b001c289361fae8bf85c80f545b1e3c5663754c312e7367a",
+      "draftedBy": "antigravity_drafter_d35",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Minimum participant age of eighteen except amateur kickboxing",
+          "bodySha256": "ce3fe071bf31c6fa5d312e5135b2b351e008882c364eef219bd091e3301fa2b2",
+          "reviewNote": "Read complete subsection 1 and source notes (L. 2018 H.B. 1388). Prohibits participation in any division-regulated professional or amateur event, other than amateur kickboxing, unless the individual is at least 18 years old on or before the scheduled event date."
+        },
+        {
+          "number": 2,
+          "title": "Promoter surety bond or irrevocable letter of credit requirements",
+          "bodySha256": "e1021f7d14997fb4a87913ff98bc566fececa51e015aff4aa9a3c15489a4d148",
+          "reviewNote": "Read complete subsection 2 and source notes (L. 2018 H.B. 1388). Requires promoters to furnish a $25,000 surety bond or irrevocable letter of credit (covering state taxes, fees, and defaulted contestant/official expenses), sets release rules, authorizes additional security when needed, and requires current bond maintenance."
+        },
+        {
+          "number": 3,
+          "title": "Prohibition on elbow strikes to head in amateur MMA",
+          "bodySha256": "42f0b4a66b227c167b524430f85e58100cd24c6c4da277775ad930e7e956d04f",
+          "reviewNote": "Read complete subsection 3 and source notes (L. 2018 H.B. 1388). Prohibits all elbow strikes to an opponent's head during an amateur mixed martial arts bout."
+        },
+        {
+          "number": 4,
+          "title": "Restrictions on knee strikes to head in amateur MMA",
+          "bodySha256": "4e897043d20c8dc9642b8c6394e9af5d19ec7761330b6bf8067ddc3446eaf29b",
+          "reviewNote": "Read complete subsection 4 and source notes (L. 2018 H.B. 1388). Prohibits knee strikes to an opponent's head during amateur mixed martial arts contests for the first five sanctioned amateur bouts, while permitting mutual agreement by both contestants after both have completed five sanctioned bouts."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r41",
+      "reviewSummary": "Independently read complete archived version 317.017:35229 (all 4 subsections and L. 2018 H.B. 1388 notes) and verified all fingerprints. Verified age-18 amateur kickboxing exception, $25,000 promoter bond/letter-of-credit rules, amateur MMA elbow-strike ban, and qualified 5-bout mutual-agreement knee-strike rule; retained all 4 accurate titles."
+    },
+    {
+      "id": "317.018:16956",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=317.018&bid=16956",
+      "sourceSha256": "7e8c07bcbddef1ac36421f9ed770e9c3a564a21968fb1bbb004cf55083907c82",
+      "textSha256": "b8416bcb2e085b6b87887419b16dac8b25ee28b12b26265f4302b803a64505af",
+      "draftedBy": "antigravity_drafter_d35",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition of combative fighting in Missouri",
+          "bodySha256": "d4ee16c5cba78044f88c19044f36c781c73ddeb324e1516247d4801fd8acd80a",
+          "reviewNote": "Read complete subsection 1 and source notes (L. 1996 S.B. 524, A.L. 2007 H.B. 780 merged with S.B. 308, A.L. 2014 S.B. 491; Effective 1-01-17). Prohibits combative fighting in Missouri."
+        },
+        {
+          "number": 2,
+          "title": "Class E felony for promoting, participating, or facilitating",
+          "bodySha256": "77c318e5b1a5981753c92a59176bee8a5211e293fe7cbdc6980baf399ab488de",
+          "reviewNote": "Read complete subsection 2 and source notes (L. 1996 S.B. 524 through A.L. 2014 S.B. 491; Effective 1-01-17). Classifies promoting, participating in, or serving as an agent, principal partner, publicist, vendor, producer, referee, or contractor for combative fighting as a class E felony."
+        },
+        {
+          "number": 3,
+          "title": "Exemption for medical personnel assisting participants",
+          "bodySha256": "1c1bc10ee4c9f3d7650bd4c94bdb658489ca9273d68c85c774c7820e15614acc",
+          "reviewNote": "Read complete subsection 3 and source notes (L. 1996 S.B. 524 through A.L. 2014 S.B. 491; Effective 1-01-17). Exempts medical personnel who administer to, treat, or assist combative-fighting participants from this section."
+        },
+        {
+          "number": 4,
+          "title": "Exclusion of traditional sanctioned amateur and scholastic sports",
+          "bodySha256": "97852d99ee3852de446819e553c4face34acaab5d08150e00de89676c2fea4cd",
+          "reviewNote": "Read complete subsection 4 and source notes (L. 1996 S.B. 524 through A.L. 2014 S.B. 491; Effective 1-01-17). Clarifies that section 317.001 and this section are not intended to regulate, interfere with, or make illegal traditional sanctioned amateur or scholastic boxing, wrestling, kickboxing, full-contact karate, or mixed martial arts."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r41",
+      "reviewSummary": "Independently read complete archived version 317.018:16956 (all 4 subsections and L. 1996 S.B. 524 through A.L. 2014 S.B. 491 / Effective 1-01-17 notes) and verified all fingerprints. Verified combative fighting prohibition, class E felony parties, medical-personnel exemption, and § 317.001/this-section exclusion for traditional sanctioned amateur and scholastic sports; retained all 4 accurate titles."
+    },
+    {
+      "id": "317.019:35230",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=317.019&bid=35230",
+      "sourceSha256": "652c44dabc9341f962ce9286c63dcfd791cbac180fd9007ffacad7ce0aa593c5",
+      "textSha256": "050f9121eb2a93abe89fe9a290185b55664f6b0e5b3d6b94ec9357afb95bf5a2",
+      "draftedBy": "antigravity_drafter_d35",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-21",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written bout contract filing, terms, and amateur exceptions",
+          "bodySha256": "a83d7f5ae7ff702d406c49ae035f281d3ef81ce15e17224ea2cc9ec624013be4",
+          "reviewNote": "Read complete subsection 1, subdivisions (1)–(11), and source notes (L. 2007 H.B. 780 merged with S.B. 308, A.L. 2018 H.B. 1388). Requires promoters of specified professional and amateur contests to execute and file division-form written bout contracts with 11 minimum elements, while exempting amateur kickboxing and amateur MMA contests from financial disclosures in subdivisions (2), (5), (6), (7), and (8). Independent review revised title from 'Written bout contract filing and required terms' to reflect the express financial-disclosure exceptions for amateur kickboxing and amateur MMA contests in subdivisions (2) and (5)–(8)."
+        },
+        {
+          "number": 2,
+          "title": "Filing deadline and form for amended bout contracts",
+          "bodySha256": "a3d27da7594c640fb6d1c1a371eecdee5745883b50abe74bd9e6da452c540c76",
+          "reviewNote": "Read complete subsection 2 and source notes (L. 2007 H.B. 780 merged with S.B. 308, A.L. 2018 H.B. 1388). Requires promoters to submit signed amended bout contracts reflecting any contract changes to the division at least two hours before scheduled event start time, meeting original contract requirements."
+        },
+        {
+          "number": 3,
+          "title": "Ban on promoter managing ten-round-or-more contestant",
+          "bodySha256": "31fa803ea695d69624ab8ac5885d13507855a0cfe7de887b474db6e25aa15b31",
+          "reviewNote": "Read complete subsection 3 and source notes (L. 2007 H.B. 780 merged with S.B. 308, A.L. 2018 H.B. 1388). Prohibits an event promoter from serving as manager for a contestant contracted for ten or more rounds at that event."
+        },
+        {
+          "number": 4,
+          "title": "Pre-event payment of event official fees",
+          "bodySha256": "176e2d63892c8e0c853a66ae93a05cbdf86017b0ced564f7db3539d9b8be9189",
+          "reviewNote": "Read complete subsection 4 and source notes (L. 2007 H.B. 780 merged with S.B. 308, A.L. 2018 H.B. 1388). Requires event promoters to remit event official fee payments to the office before event start in the office's chosen form, with checks or money orders payable directly to the applicable official."
+        }
+      ],
+      "reviewedBy": "antigravity_reviewer_r41",
+      "reviewSummary": "Independently read complete archived version 317.019:35230 (all 4 subsections, subdivisions (1)–(11), and L. 2007 H.B. 780 merged with S.B. 308, A.L. 2018 H.B. 1388 notes) and verified all fingerprints. Revised subsection 1 to reflect express amateur kickboxing and amateur MMA financial-disclosure exceptions in subdivisions (2) and (5)–(8); retained subsections 2–4."
+    }
+  ]
+}

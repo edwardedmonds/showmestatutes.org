@@ -1,0 +1,612 @@
+{
+ "schemaVersion": 1,
+ "scope": "local-statewide",
+ "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+ "entries": [
+  {
+   "id": "333.011:17703",
+   "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=333.011&bid=17703",
+   "sourceSha256": "29a8fbe04955414dba040eb2452b3da8915f7dd3f8273d30da67960e7d5b7ae5",
+   "textSha256": "bfe58d3e5344d360c4f47fd5fdc0c35bae7b9c42382d1f52dd45e74504a38c64",
+   "draftedBy": "antigravity_drafter_d41",
+   "reviewStatus": "source-checked",
+   "reviewedOn": "2026-11-21",
+   "headings": [
+    {
+     "number": 1,
+     "title": "Chapter definitions",
+     "bodySha256": "6233f87c19d99f51ccccef13de4019bedf29d9b150ae538650d29a13679bc8f0",
+     "reviewNote": "Subsection 1 read in full: eleven defined terms (board, embalmer, funeral establishment, preneed agent, provider, seller, etc.) apply \"unless the context requires otherwise\"."
+    },
+    {
+     "number": 2,
+     "title": "Terms defined in sections 436.400 to 436.520",
+     "bodySha256": "9db9e7d06cad209f815404839ae083e048f79b64794fe4efe0163c8ac0d9e09a",
+     "reviewNote": "Subsection 2 adopts the same meanings for terms defined in the preneed sections."
+    }
+   ],
+   "reviewSummary": "Independently read the complete archived version of § 333.011 (bid 17703), all 2 numbered subsection(s) with subdivisions and continuation text, and all source notes/history; verified sourceUrl, sourceSha256, textSha256, subsection count/numbering and every bodySha256 against the archive. Checked parties, conditions, exceptions, dates and cross-references for each title. Confirmed definitions apply 'unless the context requires otherwise' and incorporate sections 436.400 to 436.520 definitions. All titles checked against full text and retained as accurate.",
+   "reviewedBy": "antigravity_reviewer_r47"
+  },
+  {
+   "id": "333.021:17704",
+   "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=333.021&bid=17704",
+   "sourceSha256": "d106ec8f53fdc1adcbc73c59561f91181e6470857f81de2159c1482e2734e593",
+   "textSha256": "344f5fc865f76dc236f4fadca5b7de5933e3c366f088c66cc47a612eea6ff3fc",
+   "draftedBy": "antigravity_drafter_d41",
+   "reviewStatus": "source-checked",
+   "reviewedOn": "2026-11-21",
+   "headings": [
+    {
+     "number": 1,
+     "title": "Embalming license required",
+     "bodySha256": "add4971421f47e631c54011778b121fbddb47b92635f708789bb76d246165f8f",
+     "reviewNote": "Subsection 1 bars unlicensed embalming practice; history notes only."
+    },
+    {
+     "number": 2,
+     "title": "Funeral directing license and title restrictions",
+     "bodySha256": "f22664b4ed7eb21ac578a44b7bd2f2cda00d773a7f1051e37161efeb8c89876f",
+     "reviewNote": "Subsection 2 bars unlicensed funeral directing and use of listed titles unless the person or the manager is licensed."
+    }
+   ],
+   "reviewSummary": "Independently read the complete archived version of § 333.021 (bid 17704), all 2 numbered subsection(s) with subdivisions and continuation text, and all source notes/history; verified sourceUrl, sourceSha256, textSha256, subsection count/numbering and every bodySha256 against the archive. Checked parties, conditions, exceptions, dates and cross-references for each title. All titles checked against full text and retained as accurate.",
+   "reviewedBy": "antigravity_reviewer_r47"
+  },
+  {
+   "id": "333.041:57571",
+   "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=333.041&bid=57571",
+   "sourceSha256": "0b687bbde72fe5436519b6466891bec79c63c74dd755ed3808bc8412c5532996",
+   "textSha256": "b2c3c5af0d4aa7ac4045d5772f08878f1be670cfb034bc3e1020c6387f04ab2a",
+   "draftedBy": "antigravity_drafter_d41",
+   "reviewStatus": "source-checked",
+   "reviewedOn": "2026-11-21",
+   "headings": [
+    {
+     "number": 1,
+     "title": "Practicum student registration",
+     "bodySha256": "add09b0bb1e1d254f7163315efa782b0d6674168ac7159932cb25dec6d4fc149",
+     "reviewNote": "Subsection 1 covers registration, fee, supervised assistance, and limits to registered locations and supervisors."
+    },
+    {
+     "number": 2,
+     "title": "Initial embalmer license qualifications",
+     "bodySha256": "80585f8e97e065973ad7ec8205e0b2130f048cd703896b1f26ba9b507af0905a",
+     "reviewNote": "Subsection 2 read with subdivisions (1)-(5): age, education, exams, apprenticeship with 25 embalmings, and definitions of apprentice program and direct supervision; applies except where 333.051 or 324.009 entitle applicant."
+    },
+    {
+     "number": 3,
+     "title": "Optional National Board Arts examination",
+     "bodySha256": "8c014e29a4021b567fedb0210be133e59cc10eae5ba3ca551ad53d0c66d4307f",
+     "reviewNote": "Subsection 3 permits licensees to sit for the Arts exam on written request if not previously passed."
+    },
+    {
+     "number": 4,
+     "title": "New application after five years",
+     "bodySha256": "1a46293604af67b1649441fb64879f7cbeefa3c22d72e1c636c4f0ed60f19294",
+     "reviewNote": "Subsection 4 requires a new application, with no credit for earlier fees, if the process is not completed within five years of program completion."
+    },
+    {
+     "number": 5,
+     "title": "Combined funeral director and embalmer licenses",
+     "bodySha256": "b2f245fa540f9693922a8e267fc846711b0cbf331423bf4cd639ef408d2355d4",
+     "reviewNote": "Subsection 5 says a person qualified under this section and 333.042 \"may\" be granted both licenses."
+    }
+   ],
+   "reviewSummary": "Independently read the complete archived version of § 333.041 (bid 57571), all 5 numbered subsection(s) with subdivisions and continuation text, and all source notes/history; verified sourceUrl, sourceSha256, textSha256, subsection count/numbering and every bodySha256 against the archive. Checked parties, conditions, exceptions, dates and cross-references for each title. Confirmed history through L. 2025 S.B. 150 and the 'except as otherwise provided' lead-in in subsection 2. All titles checked against full text and retained as accurate.",
+   "reviewedBy": "antigravity_reviewer_r47"
+  },
+  {
+   "id": "333.042:57572",
+   "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=333.042&bid=57572",
+   "sourceSha256": "dbc5e25df668f004043c7b904c750e628d11cb89cf74e57e143e875b3b765b47",
+   "textSha256": "a12c81ad169f0efd84ea3fcd4990c43395f80bc80efdf59f6f4e5b247264f673",
+   "draftedBy": "antigravity_drafter_d41",
+   "reviewStatus": "source-checked",
+   "reviewedOn": "2026-11-21",
+   "headings": [
+    {
+     "number": 1,
+     "title": "Funeral director license qualifications",
+     "bodySha256": "6e754416b32674f63440bac4efb8999329545300fed583dbacb29d28864d5cb6",
+     "reviewNote": "Subsection 1 covers general qualifications and two routes: accredited education with exams, or provisional license with 12-month/10 services or 18-month/25 services apprentice tracks, plus the pre-2023 Missouri arts exam acceptance."
+    },
+    {
+     "number": 2,
+     "title": "Provisional licensee examinations",
+     "bodySha256": "b3689aa2b0389a051b6d588b1a86f0b2ea513bb9d4cd3dcd43e1cab738f12d54",
+     "reviewNote": "Subsection 2 lets provisional holders request the Arts and Missouri law exams during the provisional license period."
+    },
+    {
+     "number": 3,
+     "title": "Optional Arts exam for licensed directors",
+     "bodySha256": "67947dc4d6498308d21e43c7af117cc680246438c70e018df5048b5f58947a5c",
+     "reviewNote": "Subsection 3 permits licensed directors not previously tested to sit for the Arts exam."
+    },
+    {
+     "number": 4,
+     "title": "Limited cremation funeral director license",
+     "bodySha256": "f433c673e112e4bee9d994a982d5ab812206ed35889b451171edc78a54828ba0",
+     "reviewNote": "Subsection 4 covers limited license for cremation-licensed establishments, qualifications, and no apprentice program requirement."
+    },
+    {
+     "number": 5,
+     "title": "Discretionary six-month waiver when funeral director dies or is disabled",
+     "bodySha256": "de41d19c30123324d88d8cc6dc284331324a6d5d859f763c0d7d426ba12b6d5f",
+     "reviewNote": "Subsection 5 covers board-discretion waiver up to six months, for specified persons, excluding services requiring formal education."
+    },
+    {
+     "number": 6,
+     "title": "Personal supervision and apprentice program terms",
+     "bodySha256": "5857a586662f70127fc16333d4368c87c09fc51eef6746996c899100c80dd5d2",
+     "reviewNote": "Subsection 6 defines two terms for this section only."
+    }
+   ],
+   "reviewSummary": "Independently read the complete archived version of § 333.042 (bid 57572), all 6 numbered subsection(s) with subdivisions and continuation text, and all source notes/history; verified sourceUrl, sourceSha256, textSha256, subsection count/numbering and every bodySha256 against the archive. Checked parties, conditions, exceptions, dates and cross-references for each title. Confirmed provisional-license alternatives (24-month/36-month tracks), the January 1, 2023 Missouri arts examination reference, the limited cremation license, and the six-month discretionary waiver limits. Title revisions: 5: 'Waiver when funeral director is absent' -> 'Discretionary six-month waiver when funeral director dies or is disabled'.",
+   "reviewedBy": "antigravity_reviewer_r47"
+  },
+  {
+   "id": "333.061:17709",
+   "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=333.061&bid=17709",
+   "sourceSha256": "d8379354518bc8f9d4f851a87bac16672018a5815a6f613472093c78276fe3b5",
+   "textSha256": "2595ca71b93b2d5646f3c7ad091839ef3197a43ffbf3077e88534239be01a811",
+   "draftedBy": "antigravity_drafter_d41",
+   "reviewStatus": "source-checked",
+   "reviewedOn": "2026-11-21",
+   "headings": [
+    {
+     "number": 1,
+     "title": "Funeral establishment license required",
+     "bodySha256": "d5c566cbf6e536efe1c8403ff64ff3a5df3920877660e4820cb1c93cfaa918c2",
+     "reviewNote": "Subsection 1 prohibits operation without a board license."
+    },
+    {
+     "number": 2,
+     "title": "Establishment license findings required",
+     "bodySha256": "09ccd6933318efa3065f7f4ae885026fa699ce87d71c9d4842ccf76838031b74",
+     "reviewNote": "Subsection 2 covers management, embalming supervision, preparation room, register log with items (a)-(d), and zoning compliance."
+    },
+    {
+     "number": 3,
+     "title": "Application decision time and extensions",
+     "bodySha256": "248a206b114f52cfd2b1dc3e38a94e39f7bfa7bcf61a8153b5fcc703b4c86e8d",
+     "reviewNote": "Subsection 3 covers 30-day decision and up to two requested extensions."
+    },
+    {
+     "number": 4,
+     "title": "Establishment license issuance and renewal",
+     "bodySha256": "a43c1dbe412b73dee1c769cdaafb064b50e8053cfa46e67f5b96b12beeb92001",
+     "reviewNote": "Subsection 4 covers fee and renewal on the establishment's renewal date."
+    },
+    {
+     "number": 5,
+     "title": "Refusal, suspension, revocation and three-year bar",
+     "bodySha256": "45d372a54e17bf2ac9d0e711108901dafa8885105be12e389c80cb76df09dad2",
+     "reviewNote": "Subsection 5 covers discipline after hearing and relicensing bar. Source note: 333.121* cited here was repealed by S.B. 1, 2009 (cross-reference retained as archived)."
+    }
+   ],
+   "reviewSummary": "Independently read the complete archived version of § 333.061 (bid 17709), all 5 numbered subsection(s) with subdivisions and continuation text, and all source notes/history; verified sourceUrl, sourceSha256, textSha256, subsection count/numbering and every bodySha256 against the archive. Checked parties, conditions, exceptions, dates and cross-references for each title. Retained cross-references to § 333.121* in subsection 5 exactly as archived; the source note states 'Section 333.121 was repealed by S.B. 1, 2009', and no correction was invented. All titles checked against full text and retained as accurate.",
+   "reviewedBy": "antigravity_reviewer_r47"
+  },
+  {
+   "id": "333.081:17711",
+   "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=333.081&bid=17711",
+   "sourceSha256": "5635566de4e4727a8bc0e36dd5a2dff0d77563bd5b2cca5d3f40aa3b04e5836d",
+   "textSha256": "8684beb876fefe4d08c13c2849d6b2a73910930804977f37cd62e50fb71cd99d",
+   "draftedBy": "antigravity_drafter_d41",
+   "reviewStatus": "source-checked",
+   "reviewedOn": "2026-11-21",
+   "headings": [
+    {
+     "number": 1,
+     "title": "Renewal, age exemption, and military service",
+     "bodySha256": "eba587e4678c6c7f2174dbcdd3b29f8e565012387fbd66beb10e7165182a7dd7",
+     "reviewNote": "Subsection 1 covers expiry unless renewed, possible no-fee renewal over sixty-five, and military service exception."
+    },
+    {
+     "number": 2,
+     "title": "Establishment address on renewal",
+     "bodySha256": "629ae3ced826934e3af0f81e8a5f7bd585c2a940c59b5e6333f1fff7002ab1bb",
+     "reviewNote": "Subsection 2 covers specifying and reporting establishment or permanent address."
+    },
+    {
+     "number": 3,
+     "title": "Reissue of expired license within two years",
+     "bodySha256": "1ac93f534dcfae7b03c67dfba4242ec14274bfb7cf855c79b1ec507409b406d7",
+     "reviewNote": "Subsection 3 covers new license after delinquent fees within two years and voiding afterward."
+    },
+    {
+     "number": 4,
+     "title": "Missed renewal notice no excuse",
+     "bodySha256": "36d2f0890f9bfff8fc21473cdc35a63ec7ef53894927dc09f658b28465589f5c",
+     "reviewNote": "Subsection 4 says non-receipt does not relieve duty to renew."
+    }
+   ],
+   "reviewSummary": "Independently read the complete archived version of § 333.081 (bid 17711), all 4 numbered subsection(s) with subdivisions and continuation text, and all source notes/history; verified sourceUrl, sourceSha256, textSha256, subsection count/numbering and every bodySha256 against the archive. Checked parties, conditions, exceptions, dates and cross-references for each title. All titles checked against full text and retained as accurate.",
+   "reviewedBy": "antigravity_reviewer_r47"
+  },
+  {
+   "id": "333.111:17714",
+   "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=333.111&bid=17714",
+   "sourceSha256": "f0f05cfcdce3312fac946636bf2f13501e328b5f2fc9d442f8e212dbd5e28cb4",
+   "textSha256": "8b43280597be2af67194c3c883c69424c4b0c3f86a1b7934dba7d41d17247e0f",
+   "draftedBy": "antigravity_drafter_d41",
+   "reviewStatus": "source-checked",
+   "reviewedOn": "2026-11-21",
+   "headings": [
+    {
+     "number": 1,
+     "title": "Board rules and proficiency standards",
+     "bodySha256": "ff7a5513fe91ac5d61b844bd39138aa347bd6e10fc4ca14b26ee2d91633f7447",
+     "reviewNote": "Subsection 1 covers rules for business and practice standards and optional proficiency standards."
+    },
+    {
+     "number": 2,
+     "title": "Fee setting by rule",
+     "bodySha256": "2cb4f241057f6f7bfff3e32c1f8a1708d15bd1fa8e29a2cad7ca300005f10088",
+     "reviewNote": "Subsection 2 covers fees by rule under 536.021 with cost limit."
+    },
+    {
+     "number": 3,
+     "title": "Rule effectiveness under section 536.024",
+     "bodySha256": "4b18961d1cd37c4cb7da7772f33bc7d9e7991ad1a46f195dbc1ba8e9684868dd",
+     "reviewNote": "Subsection 3 conditions rule effectiveness on promulgation under 536.024."
+    }
+   ],
+   "reviewSummary": "Independently read the complete archived version of § 333.111 (bid 17714), all 3 numbered subsection(s) with subdivisions and continuation text, and all source notes/history; verified sourceUrl, sourceSha256, textSha256, subsection count/numbering and every bodySha256 against the archive. Checked parties, conditions, exceptions, dates and cross-references for each title. All titles checked against full text and retained as accurate.",
+   "reviewedBy": "antigravity_reviewer_r47"
+  },
+  {
+   "id": "333.145:17716",
+   "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=333.145&bid=17716",
+   "sourceSha256": "e6ebf2e5b9f558dfff11d39628270fd52e43eaa3be1a111e6f257b5b4ff58bb7",
+   "textSha256": "52a2514dce755e0f2d84a41e9dabcdae0da6d3ae157175ce334a0c369f16b964",
+   "draftedBy": "antigravity_drafter_d41",
+   "reviewStatus": "source-checked",
+   "reviewedOn": "2026-11-21",
+   "headings": [
+    {
+     "number": 1,
+     "title": "Written statement of charges",
+     "bodySha256": "92ead5fefa14d5a37b7bfbe7c32062b33fbb08845cac0de44d3eeca743cded35",
+     "reviewNote": "Subsection 1 covers statement given at arrangements with four items \"to the extent then known\"."
+    },
+    {
+     "number": 2,
+     "title": "Cash advance billing limit",
+     "bodySha256": "5146664f3d30099412fd25f38edeae2ae0ab58b515f66bdb5d6c109e950e52a9",
+     "reviewNote": "Subsection 2 restricts billing items called cash advance above net amount paid."
+    },
+    {
+     "number": 3,
+     "title": "Marking merchandise prices",
+     "bodySha256": "2af258a4b901fdd2d4dd96452b4aa0ea66f1fc1235d4ff0610aec78bb630b592",
+     "reviewNote": "Subsection 3 requires price marking on displayed merchandise."
+    }
+   ],
+   "reviewSummary": "Independently read the complete archived version of § 333.145 (bid 17716), all 3 numbered subsection(s) with subdivisions and continuation text, and all source notes/history; verified sourceUrl, sourceSha256, textSha256, subsection count/numbering and every bodySha256 against the archive. Checked parties, conditions, exceptions, dates and cross-references for each title. All titles checked against full text and retained as accurate.",
+   "reviewedBy": "antigravity_reviewer_r47"
+  },
+  {
+   "id": "333.151:17717",
+   "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=333.151&bid=17717",
+   "sourceSha256": "5926aba530e4fcad00add319b6ba5b81483ea3f051ae83108d260cb7e737fa5a",
+   "textSha256": "158388dce740bedea84f9afd3a62829b3ded0017f34b993621e33d26ee253cdf",
+   "draftedBy": "antigravity_drafter_d41",
+   "reviewStatus": "source-checked",
+   "reviewedOn": "2026-11-21",
+   "headings": [
+    {
+     "number": 1,
+     "title": "Board composition and member qualifications",
+     "bodySha256": "ee73df670d2980e679aecf45f4e57bef1e2e5a16469be7d08fe42181e3743182",
+     "reviewNote": "Subsection 1 covers six members including a public member, qualifications, party limit, quorum, and diversity."
+    },
+    {
+     "number": 2,
+     "title": "Terms and vacancies",
+     "bodySha256": "fa0defbc2ee1bf98ed0b00771536d2ada1a7744274820f90ab05d57e7a73b035",
+     "reviewNote": "Subsection 2 covers five-year terms and vacancy filling."
+    },
+    {
+     "number": 3,
+     "title": "Public member qualifications and selection lists",
+     "bodySha256": "950d17e38ffda01e87c0e71d5e20d81c2999e33ca9c7b45f44013470a55f5828",
+     "reviewNote": "Subsection 3 covers public member limits, lists from the division director, and non-technical duties."
+    }
+   ],
+   "reviewSummary": "Independently read the complete archived version of § 333.151 (bid 17717), all 3 numbered subsection(s) with subdivisions and continuation text, and all source notes/history; verified sourceUrl, sourceSha256, textSha256, subsection count/numbering and every bodySha256 against the archive. Checked parties, conditions, exceptions, dates and cross-references for each title. All titles checked against full text and retained as accurate.",
+   "reviewedBy": "antigravity_reviewer_r47"
+  },
+  {
+   "id": "333.221:17722",
+   "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=333.221&bid=17722",
+   "sourceSha256": "9bbe1762c1b06406d4d343226f96bd585267e8d6f614efe05fa079d447bc157b",
+   "textSha256": "d0ed9ac36e907b64a1e1a9fe2326a6c9282a44715738c1a6cbb08db0f8eac1fa",
+   "draftedBy": "antigravity_drafter_d41",
+   "reviewStatus": "source-checked",
+   "reviewedOn": "2026-11-21",
+   "headings": [
+    {
+     "number": 1,
+     "title": "Member compensation and expenses",
+     "bodySha256": "96b6ebaf85a650e8c8c4c4cebac12ee71bc942fca262f3d2ce83d2ae3dd172d9",
+     "reviewNote": "Subsection 1 covers per diem not exceeding fifty dollars set by the board and expense reimbursement."
+    },
+    {
+     "number": 2,
+     "title": "Board personnel",
+     "bodySha256": "40b673d2e0611db0835cf9e0e7913f9af5ad53b573eed5e151c0fe85ad5a2c6a",
+     "reviewNote": "Subsection 2 says the board \"may\" employ personnel as defined in 324.001, subsection 11(4)."
+    }
+   ],
+   "reviewSummary": "Independently read the complete archived version of § 333.221 (bid 17722), all 2 numbered subsection(s) with subdivisions and continuation text, and all source notes/history; verified sourceUrl, sourceSha256, textSha256, subsection count/numbering and every bodySha256 against the archive. Checked parties, conditions, exceptions, dates and cross-references for each title. All titles checked against full text and retained as accurate.",
+   "reviewedBy": "antigravity_reviewer_r47"
+  },
+  {
+   "id": "333.231:17723",
+   "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=333.231&bid=17723",
+   "sourceSha256": "cb32d60347a24f96d4e5f00efe9db1e4848c8cbed23e2207770133ed31c576fd",
+   "textSha256": "ae4fae6f339fe03c155503c07e1704a1dd520209c9ecb9247a02fc7d0188c279",
+   "draftedBy": "antigravity_drafter_d41",
+   "reviewStatus": "source-checked",
+   "reviewedOn": "2026-11-21",
+   "headings": [
+    {
+     "number": 1,
+     "title": "Board fund deposit of fees",
+     "bodySha256": "9c13512d6bff65569ee157ebdff388dcfbf944b449e5fc0a2328ee7d3ceb2a4e",
+     "reviewNote": "Subsection 1 covers collection, transmission, and credit to the Board of Embalmers and Funeral Directors' Fund."
+    },
+    {
+     "number": 2,
+     "title": "Fund pays board expenses",
+     "bodySha256": "257261d4da40d201847ef71de45eb40e399b9332640e3cf317021d516c3e6721",
+     "reviewNote": "Subsection 2 covers payment solely from the fund."
+    },
+    {
+     "number": 3,
+     "title": "Transfer to general revenue threshold",
+     "bodySha256": "67c510e1045fc24c6e90b607083bc78d6bcf9ba1c1c07344497b0231533ac46c",
+     "reviewNote": "Subsection 3 states the two or three times threshold notwithstanding 33.080."
+    }
+   ],
+   "reviewSummary": "Independently read the complete archived version of § 333.231 (bid 17723), all 3 numbered subsection(s) with subdivisions and continuation text, and all source notes/history; verified sourceUrl, sourceSha256, textSha256, subsection count/numbering and every bodySha256 against the archive. Checked parties, conditions, exceptions, dates and cross-references for each title. All titles checked against full text and retained as accurate.",
+   "reviewedBy": "antigravity_reviewer_r47"
+  },
+  {
+   "id": "333.315:17728",
+   "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=333.315&bid=17728",
+   "sourceSha256": "b70e3233e2c1a3109b61c8a39eaac6e0e1919fb4bdb14fed11e3f5245509deee",
+   "textSha256": "c9189752d7ee388c1111ddf753b2cf889c5dee9c83b6325aba0e6ca74866553a",
+   "draftedBy": "antigravity_drafter_d41",
+   "reviewStatus": "source-checked",
+   "reviewedOn": "2026-11-21",
+   "headings": [
+    {
+     "number": 1,
+     "title": "Preneed provider license required",
+     "bodySha256": "9a4cda449fd0c6fae7c55503ee807af148a48c2d271ead7a5fb426b09bf071f0",
+     "reviewNote": "Subsection 1 covers licensure for providers and says funeral establishment requirements still apply."
+    },
+    {
+     "number": 2,
+     "title": "Provider license application requirements",
+     "bodySha256": "06c76d6b7a128aec4bf2630115bfab560e634d3831b59b72da0ce399ab1057f9",
+     "reviewNote": "Subsection 2 read with subdivisions (1)-(6), including consent to inspect books and records."
+    },
+    {
+     "number": 3,
+     "title": "Provider renewal and annual report",
+     "bodySha256": "7fda5192f4136b88eccc100a54bd807f5fb40a4601a935f5e4df40897a0ae7b8",
+     "reviewNote": "Subsection 3 covers October 31 or division-set date, expiry, renewal items, fee exemption for current establishments, and report contents (a)-(d)."
+    },
+    {
+     "number": 4,
+     "title": "Provider expiration and reinstatement",
+     "bodySha256": "35b783f0c78fb9f89ba54ec01615425e048528e510f164bf41b60382bf92b618",
+     "reviewNote": "Subsection 4 covers expiry and reinstatement within two years with delinquent fee."
+    }
+   ],
+   "reviewSummary": "Independently read the complete archived version of § 333.315 (bid 17728), all 4 numbered subsection(s) with subdivisions and continuation text, and all source notes/history; verified sourceUrl, sourceSha256, textSha256, subsection count/numbering and every bodySha256 against the archive. Checked parties, conditions, exceptions, dates and cross-references for each title. Confirmed October 31 renewal date, two-year reinstatement window, and the funeral-establishment renewal-fee exception. All titles checked against full text and retained as accurate.",
+   "reviewedBy": "antigravity_reviewer_r47"
+  },
+  {
+   "id": "333.320:17729",
+   "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=333.320&bid=17729",
+   "sourceSha256": "6029deb276bff367ca8657fa24ec5838655e010503cde3f9a488e47a06576b12",
+   "textSha256": "7792e89b813e65f877a2c1f47c17177e8d6181aa1c0dd0801abf6c0a936618d9",
+   "draftedBy": "antigravity_drafter_d41",
+   "reviewStatus": "source-checked",
+   "reviewedOn": "2026-11-21",
+   "headings": [
+    {
+     "number": 1,
+     "title": "Preneed seller license required",
+     "bodySha256": "e87a9c7e34066dd93f1ddc15fc0a7e2ea3df55e6fa9c6f6ad0964f230e3b3bcc",
+     "reviewNote": "Subsection 1 covers sale, performance or designation, and registration with the secretary of state."
+    },
+    {
+     "number": 2,
+     "title": "Seller license application requirements",
+     "bodySha256": "19525fa9b2e1701e4675c96166c6e8f041511ae001d5f16d7eba3aef78f09fb3",
+     "reviewNote": "Subsection 2 read with subdivisions (1)-(9), including trust requirement and its exception for insurance-funded or joint account-funded contracts."
+    },
+    {
+     "number": 3,
+     "title": "Seller renewal and annual report",
+     "bodySha256": "44865efee02d06d72d60746b4d5381d90658999d2e6811ff9ef5788b33cbdacc",
+     "reviewNote": "Subsection 3 covers October 31 or division date, expiry, renewal items and report under 436.460."
+    },
+    {
+     "number": 4,
+     "title": "Seller expiration and reinstatement",
+     "bodySha256": "d64155cd6d1d7c70a4cab65f3ca8383dc09766bffd2d96919acac09023ae48bb",
+     "reviewNote": "Subsection 4 covers expiry and reinstatement application within two years of renewal date."
+    }
+   ],
+   "reviewSummary": "Independently read the complete archived version of § 333.320 (bid 17729), all 4 numbered subsection(s) with subdivisions and continuation text, and all source notes/history; verified sourceUrl, sourceSha256, textSha256, subsection count/numbering and every bodySha256 against the archive. Checked parties, conditions, exceptions, dates and cross-references for each title. Confirmed trust exception in subdivision (7) for insurance- or joint-account-funded contracts only. All titles checked against full text and retained as accurate.",
+   "reviewedBy": "antigravity_reviewer_r47"
+  },
+  {
+   "id": "333.325:17730",
+   "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=333.325&bid=17730",
+   "sourceSha256": "c39b13fade17a082d9d35fd1a7ec35d2d01b38540ccad82361c3b6ae87ecd604",
+   "textSha256": "60fb1dd0f492f4859fc887f69c3e7067889fc2565235808867b791d23e8edb0b",
+   "draftedBy": "antigravity_drafter_d41",
+   "reviewStatus": "source-checked",
+   "reviewedOn": "2026-11-21",
+   "headings": [
+    {
+     "number": 1,
+     "title": "Preneed agent registration and registry",
+     "bodySha256": "7a4a8b5c137242185dc46d110df742d091f507f387a8b72ed90b14cc69d111f7",
+     "reviewNote": "Subsection 1 requires registration with an exception for licensed funeral directors, and a public registry."
+    },
+    {
+     "number": 2,
+     "title": "Agent registration application requirements",
+     "bodySha256": "7ba52067bd6b44d1b05f68bed5c3c261f5710e23b6a177ba7145615b0642806f",
+     "reviewNote": "Subsection 2 covers fee cap of fifty percent of director license application fee, age, eligibility under 333.330, exam, and seller names."
+    },
+    {
+     "number": 3,
+     "title": "Agent registration renewal",
+     "bodySha256": "77931160a65296f38074cbce3cf8703a624bedbc84f8261a827db67796e9aa69",
+     "reviewNote": "Subsection 3 covers October 31 date or division date, renewal items, and fee cap."
+    },
+    {
+     "number": 4,
+     "title": "Funeral directors acting as preneed agents",
+     "bodySha256": "fcf5af46c717a9226a53fe83b49ed6bf8faf55acf4082af5fc4a4a3ff06f8e10",
+     "reviewNote": "Subsection 4 covers reporting sellers on biennial renewal and registry inclusion."
+    },
+    {
+     "number": 5,
+     "title": "Agent registration expiration and reinstatement",
+     "bodySha256": "80b4cbf100f524640bdca012dcfefe6a77c5bbe59a51d65212e7daaf9ba43ec7",
+     "reviewNote": "Subsection 5 covers expiry, registry removal, and reinstatement within two years."
+    }
+   ],
+   "reviewSummary": "Independently read the complete archived version of § 333.325 (bid 17730), all 5 numbered subsection(s) with subdivisions and continuation text, and all source notes/history; verified sourceUrl, sourceSha256, textSha256, subsection count/numbering and every bodySha256 against the archive. Checked parties, conditions, exceptions, dates and cross-references for each title. Confirmed exception for licensed funeral directors and the fifty-percent fee caps. All titles checked against full text and retained as accurate.",
+   "reviewedBy": "antigravity_reviewer_r47"
+  },
+  {
+   "id": "333.330:17731",
+   "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=333.330&bid=17731",
+   "sourceSha256": "a248122e791af313d6a82e9693d1574ac96c7f1d30eade752086585e8fd60709",
+   "textSha256": "f7a5108d3107a70b8a22328c1524789cc02192ee88612b7f86286af42ba6ae8a",
+   "draftedBy": "antigravity_drafter_d41",
+   "reviewStatus": "source-checked",
+   "reviewedOn": "2026-11-21",
+   "headings": [
+    {
+     "number": 1,
+     "title": "Board may refuse registration; written notice to applicant",
+     "bodySha256": "fb31162cc4c08744f334cf71fd42b3fe897d60ba53620d20fd4be14a48d88145",
+     "reviewNote": "Subsection 1 says the board \"may\" refuse for subsection 2 causes, with written notice of right to complaint under chapter 621."
+    },
+    {
+     "number": 2,
+     "title": "Grounds on which board may file discipline complaint",
+     "bodySha256": "6e73e0827345fbcc394c6b2ba329f035cf2ad1df91e7dde4a64e5ef70977ed04",
+     "reviewNote": "Covers the permissive 'may' complaint to the administrative hearing commission for any of 23 numbered grounds as archived: (16) ends '; or' before (17), and (22) reads 'Failure to refuse to properly guard'; retained without correction. Navigation summary only."
+    },
+    {
+     "number": 3,
+     "title": "Board discipline options after commission finding",
+     "bodySha256": "89e4cd8764144eabf915f05c470786e963ea70f1771705bb7131d3ce4a127932",
+     "reviewNote": "Covers chapter 621 proceedings and, after a commission finding, board censure/probation (up to five years), suspension (up to three years) or revocation, singly or combined."
+    },
+    {
+     "number": 4,
+     "title": "Board may seek Cole County injunction against preneed seller",
+     "bodySha256": "5080f83fb26c062bb3e4299f9063879c2e61e48a35d66e2a2111b1423100890d",
+     "reviewNote": "Covers the board's option to seek a Cole County injunction against a seller for preneed trust shortfalls over twenty percent, plus the court's power to suspend or revoke licenses."
+    },
+    {
+     "number": 5,
+     "title": "Three-year wait after revocation",
+     "bodySha256": "a4d8fab46d7be3068364657d973937172175c09d39957ccea04121908e48f645",
+     "reviewNote": "Subsection 5 covers reapplication wait and board discretion."
+    },
+    {
+     "number": 6,
+     "title": "Relationship to section 333.335 subsection 2",
+     "bodySha256": "c9ea8e0c69d3231b799dddaf1ed72cebd60f7f709158ace08fa13bc495726912",
+     "reviewNote": "Subsection 6 says use of these procedures does not preclude 333.335.2."
+    }
+   ],
+   "reviewSummary": "Independently read the complete archived version of § 333.330 (bid 17731), all 6 numbered subsection(s) with subdivisions and continuation text, and all source notes/history; verified sourceUrl, sourceSha256, textSha256, subsection count/numbering and every bodySha256 against the archive. Checked parties, conditions, exceptions, dates and cross-references for each title. Confirmed subsection 2 remains permissive ('may cause a complaint'); read all 23 grounds including the archived numbering/wording oddities ('(16) ... or' then (17); 'Failure to refuse to properly guard'); subsection 4 Cole County injunction conditions and subsection 5 three-year wait checked. Title revisions: 1: 'Registration refusal and notice' -> 'Board may refuse registration; written notice to applicant'; 2: 'Grounds for disciplinary complaint' -> 'Grounds on which board may file discipline complaint'; 3: 'Discipline after commission finding' -> 'Board discipline options after commission finding'; 4: 'Cole County injunction against preneed sellers' -> 'Board may seek Cole County injunction against preneed seller'.",
+   "reviewedBy": "antigravity_reviewer_r47"
+  },
+  {
+   "id": "333.335:17732",
+   "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=333.335&bid=17732",
+   "sourceSha256": "f6dec1c035e003a6c7aaa47b42371b561fdb31886a5545a46d1ad0a6df127a97",
+   "textSha256": "1ad9f01a4a4dcb6ebab05a8eb22ea68c12208eb62348505ddaff04e810e7143c",
+   "draftedBy": "antigravity_drafter_d41",
+   "reviewStatus": "source-checked",
+   "reviewedOn": "2026-11-21",
+   "headings": [
+    {
+     "number": 1,
+     "title": "Injunction grounds",
+     "bodySha256": "a3420e197f54b526c39aad6728f01b15810a36cf227dc1fb8dc13fae9ae8e38f",
+     "reviewNote": "Subsection 1 covers three categories of conduct: unlicensed activity, violations or serious danger, and danger to seller solvency; references sections 333.310 to 333.340 and 436.400 to 436.520."
+    },
+    {
+     "number": 2,
+     "title": "Venue for injunction actions",
+     "bodySha256": "302320cd0f054e4e9fa37a1f9024ad30a7d1f003beaccedc57e6df3985e423b8",
+     "reviewNote": "Subsection 2 lists county of conduct, defendant residence, principal office, or Cole County."
+    },
+    {
+     "number": 3,
+     "title": "Injunction in addition to other authority",
+     "bodySha256": "4ee81aa10a48d61967dba33ca6e04cf5d4f93c11a2904925ddd85940f1e7c60f",
+     "reviewNote": "Subsection 3 says action is additional and may be concurrent."
+    }
+   ],
+   "reviewSummary": "Independently read the complete archived version of § 333.335 (bid 17732), all 3 numbered subsection(s) with subdivisions and continuation text, and all source notes/history; verified sourceUrl, sourceSha256, textSha256, subsection count/numbering and every bodySha256 against the archive. Checked parties, conditions, exceptions, dates and cross-references for each title. Confirmed injunction is on board application and additional to other authority. All titles checked against full text and retained as accurate.",
+   "reviewedBy": "antigravity_reviewer_r47"
+  },
+  {
+   "id": "333.340:17733",
+   "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=333.340&bid=17733",
+   "sourceSha256": "2692ad5519ff41aadca324e1c80d00d8da976f8c135caadb6d7b03dbfe7f0153",
+   "textSha256": "66899cc525afdae5cdb8fe80136066c863bbdf2fe3cf743fe383bfdef59e9e33",
+   "draftedBy": "antigravity_drafter_d41",
+   "reviewStatus": "source-checked",
+   "reviewedOn": "2026-11-21",
+   "headings": [
+    {
+     "number": 1,
+     "title": "Board rules and proficiency standards",
+     "bodySha256": "ebd8a27f7ce8c92e2bb14c30da2d7709bbba57080cd5fcda9297de255438834b",
+     "reviewNote": "Subsection 1 mirrors rulemaking for embalming and funeral directing practice standards."
+    },
+    {
+     "number": 2,
+     "title": "Fee setting by rule",
+     "bodySha256": "3c116bd59a721b3a08c42d578ec5150894726195465880752e8c8235368242e3",
+     "reviewNote": "Subsection 2 covers fees by rule under 536.021 with cost limit."
+    },
+    {
+     "number": 3,
+     "title": "Preneed licensing and registration rules",
+     "bodySha256": "cdf0baaab1274f9135c4fbbdddb87e7242377de478eb62a3626c7f34c797e573",
+     "reviewNote": "Subsection 3 requires rules for providers, sellers, and preneed agents."
+    },
+    {
+     "number": 4,
+     "title": "Chapter 536 compliance and nonseverability",
+     "bodySha256": "c3c1d6f1a6bc7ecc3a8151192b0e9d9b67802d07cf244076288ab64a2f316b24",
+     "reviewNote": "Subsection 4 conditions rule effectiveness on chapter 536 and includes a nonseverability clause voiding rulemaking authority and rules adopted after August 28, 2009, if review powers are held unconstitutional."
+    }
+   ],
+   "reviewSummary": "Independently read the complete archived version of § 333.340 (bid 17733), all 4 numbered subsection(s) with subdivisions and continuation text, and all source notes/history; verified sourceUrl, sourceSha256, textSha256, subsection count/numbering and every bodySha256 against the archive. Checked parties, conditions, exceptions, dates and cross-references for each title. Confirmed August 28, 2009 nonseverability date. All titles checked against full text and retained as accurate.",
+   "reviewedBy": "antigravity_reviewer_r47"
+  }
+ ]
+}
