@@ -1,0 +1,1938 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "348.010:18525",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.010&bid=18525",
+      "sourceSha256": "f4b08ee86bef14fd2228d010deababddc275942a217a6203df3b4820c6515169",
+      "textSha256": "228183f972a34d9d40e066e6b0f13e2a78733a106f6d8c81bb935613844d8e3d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Legislative findings on agricultural finance and economic development",
+          "bodySha256": "7f49277e2408cb03d88e26af2c1d22acd51f80661ff941491f336d51eea7b9f1",
+          "reviewNote": "Verified sub (1)(1)-(6): legislative findings on agricultural credit shortages, small business capital, exports, and public purpose."
+        },
+        {
+          "number": 2,
+          "title": "Liberal construction of authority statutory provisions",
+          "bodySha256": "a29bb89b6a72836f4e0260b14abd0d5c5ece258af47fe61a3b827964d952a361",
+          "reviewNote": "Verified sub (2): liberal construction of §§ 348.005-348.180 to accomplish legislative purposes."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and subdivisions (1)-(6) against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "348.070:18537",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.070&bid=18537",
+      "sourceSha256": "1b16d3230db8d54167e59297766359047238e85d7f05ca6e2e869fc2fcc6873b",
+      "textSha256": "8d9ad6726c586be1ba2b63bdf3bfdbff344cd32400b67f64563f86e35c124a3d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "General powers of Agricultural and Small Business Development Authority",
+          "bodySha256": "f42d5cb4febe5c67a3dee4e71e67c192241aa6634741b713957300d15ca03fd2",
+          "reviewNote": "Verified sub (1): general powers of authority to make rules, contract, sue and be sued, and maintain an official seal."
+        },
+        {
+          "number": 2,
+          "title": "Enumerated powers for loans, financing, and debt issuance",
+          "bodySha256": "cb61f8c874231adef791aae3ce6f3351097119a9a0e711c79a4f82708ae06f0e",
+          "reviewNote": "Verified sub (2)(1)-(8): enumerated powers for loans, financing, mortgages, fees, investments, and debt issuance (8 subdivisions, not 18)."
+        },
+        {
+          "number": 3,
+          "title": "General necessary and convenient catch-all powers",
+          "bodySha256": "8e33825cd1bc018a40d8434b2ff93e908305de78104babbd5b50b7611e704952",
+          "reviewNote": "Revised title and note: sub (3) grants general power to do all things necessary or convenient to carry out §§ 348.005-348.180 (not property acquisition/disposal)."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections against archived source text; rewrote sub (3) title and note to reflect general catch-all powers and corrected sub (2) subdivision count from 18 to 8."
+    },
+    {
+      "id": "348.120:18546",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.120&bid=18546",
+      "sourceSha256": "fa48e9a39bc19c7344fad644a8a831f8491f8bf2d4505cc13e3f2b8c9d1dda30",
+      "textSha256": "f5f29b73302437acde81df154bf97c16ef77c089cbfcfbe69226126d8e3d4e02",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority power to issue and renew notes and bonds",
+          "bodySha256": "32b0e60dad41aa2647efa94ac5d607fbca3e7e5d5edb0fcbd5108811fe783b94",
+          "reviewNote": "Verified sub (1): authority power to issue/renew notes and bonds and refunding bonds. Source note: *Word 'corporation' appears in original rolls (for printed 'corporate*')."
+        },
+        {
+          "number": 2,
+          "title": "Exemption from obtaining consent of other state agencies",
+          "bodySha256": "28aae981e4e4474e2b9c4c485a35b379a0424d07419cdabc2e9285db9abe73f5",
+          "reviewNote": "Verified sub (2): issuance of notes and bonds without consent of other state agencies or elections."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and source note (*original-rolls note for 'corporate*'/'corporation' in sub 1); draft titles are accurate."
+    },
+    {
+      "id": "348.170:18556",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.170&bid=18556",
+      "sourceSha256": "8ac97e30a810739dbef6c7abf233bba3503bc8979185915f496b2d82f37f4568",
+      "textSha256": "386f61a113af3115ceb1efd14c0a7d0205e4f9da38adc2cdbf5673d45638bb3d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Bonds and notes deemed negotiable instruments",
+          "bodySha256": "97b9dc181f6c5626763b69dbcdd0b878d9e2f7c4dd137169c1fc19d3107dde1e",
+          "reviewNote": "Verified sub (1): authority notes and bonds deemed negotiable instruments under commercial law."
+        },
+        {
+          "number": 2,
+          "title": "Bonds deemed securities issued by public instrumentality",
+          "bodySha256": "0e771ed3710e5601a0745702d68fdcfe9930e6b4ca3874a6b4ec684f1bc34015",
+          "reviewNote": "Verified sub (2): bonds deemed securities issued by a public instrumentality and authorized legal investments."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "348.195:18562",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.195&bid=18562",
+      "sourceSha256": "a1e009b006e0971fcc1fe2f5d92f22a6058128f5a7cae10cb44a04600cda93db",
+      "textSha256": "603da3ff6d1c4ce117e10007c9d770816cddcd3c8b3ed6deb4ae7664e094f131",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "First loss loan guarantee up to fifty percent or maximum limit",
+          "bodySha256": "f49394216b606de5d1e288d4846760208072ebc883b59d174d95c5d9570f96c3",
+          "reviewNote": "Verified sub (1): certificates of guaranty covering first loss up to 50% on a declining principal basis, capped at $250,000 per individual."
+        },
+        {
+          "number": 2,
+          "title": "Definition of eligible lender under animal facilities program",
+          "bodySha256": "28158c0f10d9fc9bd2ba3d016d87f0cbf9024af9bae55e61dfa665d3161e2ada",
+          "reviewNote": "Verified sub (2): eligible lender defined by reference to § 348.015."
+        },
+        {
+          "number": 3,
+          "title": "One-time participation fee of one percent on guaranteed loans",
+          "bodySha256": "df517613ad604dda92dc311b22dd87ef08ff3e9fc99b20fd43784792ae279e47",
+          "reviewNote": "Verified sub (3): one-time 1% participation fee collected by lender at closing and deposited in program fund."
+        },
+        {
+          "number": 4,
+          "title": "Defaulted loan payments paid from guarantee fund only",
+          "bodySha256": "02e2e34b62572afdfd622247508e177b1493a99fba8e9ceb67a2959fa72f8c09",
+          "reviewNote": "Verified sub (4): default payments payable solely from Single-Purpose Animal Facilities Loan Guarantee Fund."
+        },
+        {
+          "number": 5,
+          "title": "Limit on total outstanding loan guarantees based on reserves",
+          "bodySha256": "e3ce94e763eb78c4ae6e3c03cf512d50c49f8376104446c5476c9e8bfa673a4a",
+          "reviewNote": "Verified sub (5): limit on total outstanding guaranteed loans based on sound actuarial reserves."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 5 subsections against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "348.200:18563",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.200&bid=18563",
+      "sourceSha256": "98b8700a66302dd64382341710e7e2b840835ac6d3a398be44c9b7dc443144f1",
+      "textSha256": "d333e937737d7c82ab3d2ab4ca9f5826d3cfc694d6b3942fae6a617edc3abaac",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Single-Purpose Animal Facilities Loan Guarantee Fund established",
+          "bodySha256": "0e59752f4a57a18ba6f036b3c07e64dc77daa33696f7c3e45d835b7b10254edd",
+          "reviewNote": "Verified sub (1): establishment of Single-Purpose Animal Facilities Loan Guarantee Fund in state treasury, exempt from § 33.080 transfer."
+        },
+        {
+          "number": 2,
+          "title": "Deposit of recoveries and repayments on defaulted loans",
+          "bodySha256": "76b8e016b9b706a1c9df2212e327f4fbab3c57874bbb0dcffa68afb9009e2124",
+          "reviewNote": "Verified sub (2): prompt deposit of recoveries and payments on previously defaulted loans into fund."
+        },
+        {
+          "number": 3,
+          "title": "Administration of guarantee fund by authority",
+          "bodySha256": "2cf3b6e265066e293da6a5bd662caab8cf69bf29ee55d27556b73847afd15f7d",
+          "reviewNote": "Verified sub (3): administration of guarantee fund by Missouri Agricultural and Small Business Development Authority."
+        },
+        {
+          "number": 4,
+          "title": "General assembly appropriations limit up to statutory cap",
+          "bodySha256": "a00be7ca1fcc0db31d1e05106ea5ba5e8fcef79b13d33468b98c89eb21f03e4b",
+          "reviewNote": "Verified sub (4): initial appropriations limit up to $4 million beginning FY 1994-95 (corrected draft note from $8.5M)."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 4 subsections against archived source text; retained accurate draft titles and corrected sub (4) note from $8.5M to the statutory $4 million limit."
+    },
+    {
+      "id": "348.210:18565",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.210&bid=18565",
+      "sourceSha256": "e7f6ec46b009b0d6de05cb3e0f46b850c54b29d603e9f4fbc2cf37b818016fc7",
+      "textSha256": "14eeeb95938e42e234cfc145ee13f460b4a7335d95a2732ff41c8f20d71b2d52",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Eligibility criteria for animal facility loan guarantees",
+          "bodySha256": "16797dfb47bbdb5014d065694d619d5239c65ff3787d5eb0603cce38706c0ddf",
+          "reviewNote": "Verified sub (1): borrower eligibility criteria for single-purpose animal facility loan guarantees (financing up to 90% of cost)."
+        },
+        {
+          "number": 2,
+          "title": "Authority rulemaking for loan terms and conditions",
+          "bodySha256": "cfc5528bc4892c0f7ddff914d097b1610fec960e0429c80c79f3b751fbabd0ad",
+          "reviewNote": "Verified sub (2): authority rulemaking for eligibility, nondiscrimination, and loan guarantee terms."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "348.230:18569",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.230&bid=18569",
+      "sourceSha256": "9078b13ed14b706d42dc457f593c699354a6832b942bfcabdf6805f2c62eded1",
+      "textSha256": "d9db83502a128d02612416e4c14fa05b4b879f8657dc43eff7bc42be0b61be3f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Linked deposit loans for dairy cows and first-year interest payment",
+          "bodySha256": "455fa4b8a39ddaa96631613fdb0114461a7ef81659bb7bcee74cd24a99a568d0",
+          "reviewNote": "Verified sub (1): authority payment of first-year interest on linked deposit loans for dairy cows, subject to appropriations."
+        },
+        {
+          "number": 2,
+          "title": "Administrative fee up to fifty dollars per individual",
+          "bodySha256": "7cb679a49f5612af7415197720d48d5ac8777c14cd6349f9395cafa106750e07",
+          "reviewNote": "Revised title and note: sub (2) authorizes the authority to charge up to a $50 fee per individual to defray administrative costs (not department of agriculture administration)."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections against archived source text; rewrote sub (2) title and note to reflect the authority's $50 administrative fee."
+    },
+    {
+      "id": "348.235:18570",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.235&bid=18570",
+      "sourceSha256": "19aaeb1390c8b2b66963126901662e49b0e7d6a19234e6cd4e9a0a12e0a46639",
+      "textSha256": "b1bf14e9dd7ec6cd1af8f212511a41d8d051f652cc25cbc33ce793a05273fde3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Dairy business planning grants authorized for producers",
+          "bodySha256": "df456609a3deff7145f3d6710fb2ebe5ddd8bdd0ef5b1576a67257ecc7548c01",
+          "reviewNote": "Verified sub (1): dairy business planning grant program developed and implemented by authority, subject to appropriations."
+        },
+        {
+          "number": 2,
+          "title": "Application fee up to fifty dollars per application",
+          "bodySha256": "4adf4262c72e1769622d41d288fc13cea398b4524d067007e4d7e79b350dfa52",
+          "reviewNote": "Revised title and note: sub (2) authorizes the authority to charge an application fee of up to $50 per application to defray administrative costs."
+        },
+        {
+          "number": 3,
+          "title": "Eligible Missouri dairy operation applicants",
+          "bodySha256": "d3e1e0f4bebd7763bccb5faf5769ad22eab2ab3f5ad700e77a09ea66a560a000",
+          "reviewNote": "Revised title and note: sub (3) limits eligibility to existing or start-up Missouri dairy operations at least 51% owned by Missouri residents."
+        },
+        {
+          "number": 4,
+          "title": "Maximum grant cap of five thousand dollars or ninety percent",
+          "bodySha256": "c1bcda4499c769c4e9b764a18a3ca065b625974d60dfe73c9b82e39a02fec7b3",
+          "reviewNote": "Revised title and note: sub (4) caps a single grant at $5,000 or 90% of business plan cost, whichever is less."
+        },
+        {
+          "number": 5,
+          "title": "Use of grant proceeds for approved planning professional",
+          "bodySha256": "d8d0d1383577f6c89e11714c65a3517d8e81ae9eb3d94199537d5537a563645d",
+          "reviewNote": "Revised title and note: sub (5) restricts grant proceeds to contracting with an authority-approved dairy business planning professional."
+        },
+        {
+          "number": 6,
+          "title": "Rulemaking for grant eligibility and award criteria",
+          "bodySha256": "f87d1571f5c6c43193314a62ac0164ce728e1d4c52ad288969e93dbecdc0d4aa",
+          "reviewNote": "Revised title and note: sub (6) directs authority rulemaking on eligibility and award criteria considering six listed factors."
+        },
+        {
+          "number": 7,
+          "title": "Chapter 536 rule compliance and nonseverability clause",
+          "bodySha256": "e218c6de5d50a3db1d2e55f4d6c335d836d89e65debd0c0d0934902e9a149099",
+          "reviewNote": "Revised title and note: sub (7) subjects rules to chapter 536 and makes rulemaking authority nonseverable for rules proposed or adopted after Aug. 28, 2008."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 7 subsections against archived source text; rewrote subs (2)-(7) titles and notes to match the actual fee, eligibility, $5,000/90% cap, approved-professional use, criteria rulemaking, and nonseverability provisions."
+    },
+    {
+      "id": "348.251:18573",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.251&bid=18573",
+      "sourceSha256": "df7592b5d73c7c47215acd87f7765270875a08c20f8cd592b92e7e605a60124b",
+      "textSha256": "31eb9a91c0ce8b1d9edb43b05efc411a0dc4b0a405babe9b3189427d3cddb44f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions for technology corporation provisions",
+          "bodySha256": "0cdcbf2733d8b9c8e394b86bc5a2e7b0b0f820db70ad51033c6e182f632bce6e",
+          "reviewNote": "Revised title and note (swapped with sub 2 in draft): sub (1)(1)-(3) defines 'applicable percentage', 'applied research', and 'basic research' (3 terms). Source notes indicate § 3.066 reprint following Missouri Roundtable ruling on S.B. 7 (2011)."
+        },
+        {
+          "number": 2,
+          "title": "Governor authority to establish technology corporation",
+          "bodySha256": "100feb1708a5d78e8af7874f67224f1483dc22f3ecc0460fb3caad45a170f61f",
+          "reviewNote": "Revised title and note (swapped with sub 1 in draft): sub (2) authorizes governor to establish Missouri Technology Corporation as a private not-for-profit under chapter 355 after 14-day public hearing notice."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and § 3.066 reprint / Missouri Roundtable source notes against archived source text; swapped and corrected subs (1) and (2) titles and notes while keeping titles strictly neutral."
+    },
+    {
+      "id": "348.251:18572",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.251&bid=18572",
+      "sourceSha256": "625604b18c7b589f1c5432bc19839683af8e5d3753d56853fea35937926e25d5",
+      "textSha256": "a1b13ec24c845b568f96c1b76885dd294c71173fbbca3cfda15c4dbdadcea1ea",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions for science and innovation provisions",
+          "bodySha256": "6c16b9b88754663bc90afcbf8d6de5838c0672ce70a11bbaa4a7c4412aa1f270",
+          "reviewNote": "Revised title and note (swapped with sub 2 in draft): sub (1)(1)-(15) defines 15 terms including NAICS-based science and innovation company classifications. Source notes cite contingent effective date § 348.280 and Missouri Roundtable unconstitutionality annotation for S.B. 7 (2011)."
+        },
+        {
+          "number": 2,
+          "title": "Governor authority to establish technology corporation",
+          "bodySha256": "197a1ae0542c49801ef42907794f8991d9f03f35f6e61f437cb9787aab4bd6d3",
+          "reviewNote": "Revised title and note (swapped with sub 1 in draft): sub (2) authorizes governor to establish Missouri Technology Corporation as a private not-for-profit under chapter 355 after 14-day public hearing notice."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and S.B. 7 (2011) contingent-effective-date / Missouri Roundtable annotations against archived source text; swapped and corrected subs (1) and (2) titles and notes while keeping titles strictly neutral."
+    },
+    {
+      "id": "348.253:18575",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.253&bid=18575",
+      "sourceSha256": "f916d23b4fee632e348ff31c7fc40d3b52dbb580a6381ee10dcf9c145d10f895",
+      "textSha256": "30b39da091713a4da6568411313ef3d552e53e44477f8c6940cf106471ff1ecf",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Corporation contracts with not-for-profit organizations",
+          "bodySha256": "6a9bea878c6ccba8457e4169e262f0b8dbfff6fcbf651bc01cb3412b59103f3e",
+          "reviewNote": "Revised title and note: sub (1) authorizes Missouri Technology Corporation (not DED) to contract with not-for-profit organizations and lists four objectives. Source notes indicate § 3.066 reprint."
+        },
+        {
+          "number": 2,
+          "title": "Matching fund requirement for technology investment funding",
+          "bodySha256": "84c7dd6e4f5587a5a3aa760f4c88908992d4c27f17455a0756aa2dbfaf44031c",
+          "reviewNote": "Revised title and note: sub (2) requires a 100% match from nonstate sources for funding from the Missouri Technology Investment Fund."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and § 3.066 reprint source note against archived source text; rewrote subs (1) and (2) titles and notes to reflect MTC contracts and the 100% match requirement."
+    },
+    {
+      "id": "348.256:18576",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.256&bid=18576",
+      "sourceSha256": "96573fa87ae93b7574b1208d7e7fe642d868247b95cb999889ce540468a77972",
+      "textSha256": "8cde965e5a440f4f532e669738b3e1467650a9fa158aee56530763616c60c54c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Articles of incorporation and bylaws of technology corporation",
+          "bodySha256": "10224b765442207081f1975f552e2492c3581fc6f76bb4f5b1cde5e65ded7ecb",
+          "reviewNote": "Verified sub (1): articles of incorporation, bylaws, and methods of operation approved by governor. Source notes cite S.B. 7 (2011) Missouri Roundtable unconstitutionality annotation (not a § 3.066 reprint)."
+        },
+        {
+          "number": 2,
+          "title": "Economic development purposes of technology corporation",
+          "bodySha256": "d10f875b2b7fce5084a066ba6357b3b2e5ef24524a59ada7703036d8d8fb868c",
+          "reviewNote": "Verified sub (2): economic development and technology commercialization purposes of corporation."
+        },
+        {
+          "number": 3,
+          "title": "Board of directors composition and appointments",
+          "bodySha256": "7c53e97f5e4ff8b4f59f55f46d33a1d892d14488159d42c3b84ee0275079ecc4",
+          "reviewNote": "Verified sub (3): fifteen-member board of directors including ex officio, legislative, and governor-appointed members."
+        },
+        {
+          "number": 4,
+          "title": "Governor approval required for changes to articles or bylaws",
+          "bodySha256": "101ef6455b22ac2a52a06d89a7730c8e5beef81bcb99bf6f42394dc81d634666",
+          "reviewNote": "Verified sub (4): governor approval required for amendments to articles of incorporation or bylaws."
+        },
+        {
+          "number": 5,
+          "title": "Discretionary audit of corporation by state auditor",
+          "bodySha256": "238c064f0ce6dce2d3bdce23dce004d319f3a0b47a8db645bd28b5e956ad691d",
+          "reviewNote": "Verified sub (5): discretionary audit of corporation by state auditor."
+        },
+        {
+          "number": 6,
+          "title": "Tenure and replacement of ex officio and legislative directors",
+          "bodySha256": "42383917a08737846e838309dd4abe4c479a5ba1f8cb4e10b783ac1e9d7c9915",
+          "reviewNote": "Revised title and note: sub (6) governs tenure and replacement of ex officio and legislative directors (not staggered terms)."
+        },
+        {
+          "number": 7,
+          "title": "Term limits, conflicts, and cooling-off for appointed directors",
+          "bodySha256": "c28c40456a135522ae127aa1eae66813234005dfbdd42ecf3d60dbe16039785a",
+          "reviewNote": "Revised title and note: sub (7) establishes 2-consecutive 4-year term limits (with 4-year interim), conflict restrictions, and a 2-year cooling-off period for governor-appointed directors."
+        },
+        {
+          "number": 8,
+          "title": "Removal of board member for cause by eleven affirmative votes",
+          "bodySha256": "ebd33b4868e915681ff671fbe9f9df8e15955b1bd33be8fd698007b2bccacf38",
+          "reviewNote": "Verified sub (8): removal of board member for cause by eleven affirmative votes."
+        },
+        {
+          "number": 9,
+          "title": "Board meeting frequency and advance notice requirements",
+          "bodySha256": "316cf863c4db2f6434fa3ee2bf684f2628bd8efa3c3abc5ace8e47e35c99ea08",
+          "reviewNote": "Verified sub (9): quarterly meeting minimum and advance notice requirements."
+        },
+        {
+          "number": 10,
+          "title": "Quorum requirements for board transaction of business",
+          "bodySha256": "717ab3dec31fcff3d6e5879ffff0b382e229e93a6ed7c6a2c55775bcb9f3c9ce",
+          "reviewNote": "Verified sub (10): majority of voting membership constitutes a quorum."
+        },
+        {
+          "number": 11,
+          "title": "Directors serve without compensation; expense reimbursement",
+          "bodySha256": "052ee7a34f5c696c35a83fa79ecb9eab5a2c3cbbf9ff2f1f60f626d0e949040a",
+          "reviewNote": "Verified sub (11): directors serve without compensation, with reimbursement for actual and necessary expenses."
+        },
+        {
+          "number": 12,
+          "title": "Board power to adopt, amend, and repeal bylaws",
+          "bodySha256": "d6b9c2400dcc553ab8970e11f50fc3b4210ec1f182daedabc8725b8860fbd200",
+          "reviewNote": "Verified sub (12): board power to adopt, amend, and repeal bylaws."
+        },
+        {
+          "number": 13,
+          "title": "President appointment, duties, and executive authority",
+          "bodySha256": "7c1aebb74486ef702e191b82cc810fe79d65a7d2cfe697c506a87ab78d83f2e3",
+          "reviewNote": "Verified sub (13): president appointment, duties, and executive authority."
+        },
+        {
+          "number": 14,
+          "title": "Corporate authority to employ personnel and fix terms",
+          "bodySha256": "250362f3647d343cad46d9139c3d690eb6efb290aa2861e8e6e0b81c16cc2511",
+          "reviewNote": "Verified sub (14): corporate authority to employ personnel and fix terms and compensation."
+        },
+        {
+          "number": 15,
+          "title": "Annual report to governor and general assembly",
+          "bodySha256": "e40e3052fe9e9a9e439df12a5b58d6efe225e10c0fd9497b45e28c98f512c26b",
+          "reviewNote": "Verified sub (15): annual report to governor and general assembly."
+        },
+        {
+          "number": 16,
+          "title": "Books and records kept in accordance with GAAP",
+          "bodySha256": "3fe481a6120c39c6647eccdd028dae99b8bfa0093fcc6a38fff3c4eebffbbd9a",
+          "reviewNote": "Verified sub (16): books and financial records maintained in accordance with GAAP."
+        },
+        {
+          "number": 17,
+          "title": "Biennial independent financial and performance evaluation",
+          "bodySha256": "4dbd65902a0dc8e8f72132ef18f3828a585403e5c7dd4ec3d82e042e5523fb7b",
+          "reviewNote": "Verified sub (17): biennial independent financial and performance evaluation."
+        },
+        {
+          "number": 18,
+          "title": "Delivery of performance evaluation to state auditor",
+          "bodySha256": "3b426900909023369763bc0921858c8ce1198e9516cecc67f46f7853e0d90660",
+          "reviewNote": "Verified sub (18): delivery of biennial evaluation to state auditor and legislative leaders."
+        },
+        {
+          "number": 19,
+          "title": "Perpetual corporate existence until dissolved by law",
+          "bodySha256": "2c241d7ff8720ad840132df6beccb952e66803c58a1e75b4f10ebbc1cc738259",
+          "reviewNote": "Verified sub (19): perpetual corporate existence until dissolved by law."
+        },
+        {
+          "number": 20,
+          "title": "State pledge and agreement with recipients of assistance",
+          "bodySha256": "b4ae7f13c802f84ca1b5a340b00b89250e334946a770829b79133a9ee094bb90",
+          "reviewNote": "Verified sub (20): state pledge and agreement not to alter vested rights of corporation or assistance recipients."
+        },
+        {
+          "number": 21,
+          "title": "Tax exemptions for corporation property, income, and sales",
+          "bodySha256": "a78805342a33ee6c74a86ca6963c528dee36096d8e39e0515c237e61b0f4384e",
+          "reviewNote": "Revised title and note: sub (21) exempts corporation from ad valorem, project/income, and chapter 144 sales/use taxes (not procurement/personnel laws)."
+        },
+        {
+          "number": 22,
+          "title": "Prohibition on distribution of earnings to private individuals",
+          "bodySha256": "467f10045bf91268a47f143fa1e1a0237768b9a54bccc6981cf49ffb4e2f8501",
+          "reviewNote": "Verified sub (22): prohibition on distributing corporate earnings to private individuals."
+        },
+        {
+          "number": 23,
+          "title": "Adoption of comprehensive conflicts of interest policy",
+          "bodySha256": "188491ee6d9501f528c7e81a9dea01a20bc5c3647a99e0134212902126d0ea91",
+          "reviewNote": "Verified sub (23): adoption and maintenance of comprehensive conflicts of interest policy."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 23 subsections and S.B. 7 (2011) Missouri Roundtable unconstitutionality annotation against archived source text; rewrote subs (6), (7), and (21) titles and notes and corrected sub (1) note."
+    },
+    {
+      "id": "348.257:18578",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.257&bid=18578",
+      "sourceSha256": "ace12e1000d9ede2e4857ea53d37946f814037da9c3c9862d705527b291d7533",
+      "textSha256": "0c7edb74c011d5fdf362240c6c6952252b5ad7b24f3655671463a334384e39a1",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Executive committee established; composition and chair",
+          "bodySha256": "3ae47863e7e594086c19b325d1e71c8fcbb624b2e46959c35a5b235974b18502",
+          "reviewNote": "Verified sub (1): executive committee composed of chair, vice chair, secretary, and two additional directors. Source notes cite S.B. 7 (2011) Missouri Roundtable unconstitutionality annotation."
+        },
+        {
+          "number": 2,
+          "title": "Executive committee transaction of business between meetings",
+          "bodySha256": "468ff4a53c42ccd144df40c4e32bf907fdcb7ba735bf9036c435b66e91b18646",
+          "reviewNote": "Verified sub (2): executive committee authority to transact business between board meetings."
+        },
+        {
+          "number": 3,
+          "title": "Audit committee established; composition and financial review",
+          "bodySha256": "ce0da1095a081c2578607627e482ac0c606cacd28195f6605611ec787b2da658",
+          "reviewNote": "Verified sub (3): audit committee overseeing conflicts policy, internal controls, and independent auditor communications."
+        },
+        {
+          "number": 4,
+          "title": "Research alliance of Missouri established; university members",
+          "bodySha256": "f14b13dc6baa83f81e03da668debbcad18e442cbd539494499f93eaa3e4cfb8b",
+          "reviewNote": "Verified sub (4): Research Alliance of Missouri established with university research leadership."
+        },
+        {
+          "number": 5,
+          "title": "Board authority to establish standing and special committees",
+          "bodySha256": "546f79288dd909e8d0e7fce55cda1f7cab3f7c98f44c8ef4c04b450a5eacce9b",
+          "reviewNote": "Verified sub (5): board authority to establish standing and special committees."
+        },
+        {
+          "number": 6,
+          "title": "Rules, policies, and procedures for committee selection",
+          "bodySha256": "dd883cf1eed872e03be19737b95e62aa324f8fe41c99d88cdeca443f5a5fa655",
+          "reviewNote": "Verified sub (6): rules, policies, and procedures for committee selection and operation."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 6 subsections and S.B. 7 (2011) Missouri Roundtable annotation against archived source text; retained accurate draft titles and refined subs (1) and (3) notes."
+    },
+    {
+      "id": "348.261:18579",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.261&bid=18579",
+      "sourceSha256": "a6debf9d146da13976dff90540179ab81a52397ec8a4c8f753b97b81ae56414c",
+      "textSha256": "5687201e7a168d60bc9642ea91e08af9048a816de318f998668bfcb64328db06",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Enumerated powers for technology development and commercialization",
+          "bodySha256": "0d9ffc4d685f846db62519900b9adea569fbbe2f306a196382f5bb221f84b427",
+          "reviewNote": "Verified sub (1)(1)-(20): twenty enumerated powers for technology development, grants, investments, and commercialization (not 14). Source notes cite S.B. 7 (2011) Missouri Roundtable unconstitutionality annotation."
+        },
+        {
+          "number": 2,
+          "title": "Maximizing leveraging of nonstate and private resources",
+          "bodySha256": "b5dd80853cbda75e7de15c3113c60354854da7cf0d92be0974d646cf8a3d8ec8",
+          "reviewNote": "Verified sub (2): maximizing leveraging of nonstate, federal, and private resources."
+        },
+        {
+          "number": 3,
+          "title": "Corporate control over earned, appropriated, and received funds",
+          "bodySha256": "4f5a2c91c077d0fafb16732639a1b462ccd8b625bc3c3f49b5ce187cd2a3dc34",
+          "reviewNote": "Verified sub (3): corporate control over earned, appropriated, and received funds."
+        },
+        {
+          "number": 4,
+          "title": "Powers of not-for-profit corporation under chapter 355",
+          "bodySha256": "9c84feed7e42749e4b0d752a42a6583d817d7578fd2454b55219cd71e0a8c87b",
+          "reviewNote": "Verified sub (4): general powers of a Missouri not-for-profit corporation under chapter 355."
+        },
+        {
+          "number": 5,
+          "title": "Assumption of Missouri Seed Capital Investment Board assets",
+          "bodySha256": "f04ff1a12d77f8a7366e0d8e4c86e451e082705127e37b89e4696fb6a5e9c37e",
+          "reviewNote": "Revised title and note: sub (5) transfers assets and functions of the Missouri Seed Capital Investment Board under § 620.641 (not science and technology commission)."
+        },
+        {
+          "number": 6,
+          "title": "Exemption from state purchasing requirements under chapter 34",
+          "bodySha256": "91252a3baedac52723bf5e15d0fc1720de6f2617fbf67bd961b9a551e3d35d34",
+          "reviewNote": "Verified sub (6): exemption from state purchasing requirements under chapter 34."
+        },
+        {
+          "number": 7,
+          "title": "Advance legislative notice before releasing financial assistance",
+          "bodySha256": "402b1dbbc7d3e34dccd8595bb407a06f2bc3c9719554a748411b9a4c0fe25725",
+          "reviewNote": "Verified sub (7): advance legislative notice before releasing financial assistance."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 7 subsections and S.B. 7 (2011) Missouri Roundtable annotation against archived source text; rewrote sub (5) title/note to name the Missouri Seed Capital Investment Board (§ 620.641) and corrected sub (1) subdivision count to 20."
+    },
+    {
+      "id": "348.263:18584",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.263&bid=18584",
+      "sourceSha256": "aefa9dc28f2c304f419b6d62fd0a7206fa6931463b7e25dcaaa404b29bf9ef1b",
+      "textSha256": "e732f2dbfc3a4bdff22aece2ca3eacd9814a4d50b160e9bea3b86befe471adef",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Replacement of corporation for science and technology",
+          "bodySha256": "f75fc87253271db708fcaeda8aee5b5ca5f6494321e868ff89c2f404a3cdf70d",
+          "reviewNote": "Verified sub (1): Missouri Business Modernization and Technology Corporation replaces former corporation for science and technology. Source notes indicate § 3.066 reprint following Missouri Roundtable ruling on S.B. 7 (2011)."
+        },
+        {
+          "number": 2,
+          "title": "Replacement of business modernization corporation with MTC",
+          "bodySha256": "53e7a13ed48220318707e772389da02d4e84187c4ded3e7e9db6caea0785b747",
+          "reviewNote": "Verified sub (2): Missouri Technology Corporation replaces former Missouri Business Modernization and Technology Corporation."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and § 3.066 reprint source notes against archived source text; draft titles are accurate and strictly neutral."
+    },
+    {
+      "id": "348.263:18583",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.263&bid=18583",
+      "sourceSha256": "704c2848137121823b6c02d3f9dcbbb883ff4fef0c438597d0c44d82dfabdad6",
+      "textSha256": "728f1e1f507384e2d7a022ffe310b56c0642fffdd81a8735b883551d98b43914",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Applicability of sunshine law and open meetings to corporation",
+          "bodySha256": "0284657cdb1fbe7ad30015795715dde045a99077850a02eaa08302b2c3329550",
+          "reviewNote": "Verified sub (1): applicability of chapter 610 open meetings and records law to corporation, except as provided. Source notes cite S.B. 7 (2011) Missouri Roundtable unconstitutionality annotation."
+        },
+        {
+          "number": 2,
+          "title": "Closed record exceptions for trade secrets and proprietary data",
+          "bodySha256": "345cd5982bf7d828dd8df7608210e37a9676216545299f66c48a1cb5280125df",
+          "reviewNote": "Verified sub (2)(1)-(4): closed record exceptions for trade secrets, proprietary commercial data, and patent filings."
+        },
+        {
+          "number": 3,
+          "title": "Closed meeting exceptions for business negotiations and investments",
+          "bodySha256": "e6fd1150b3cb69cd2060575ebbaa9eca4d278976608091824ccdc9235d430822",
+          "reviewNote": "Verified sub (3): closed meeting exceptions for proprietary business negotiations and investments."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections and S.B. 7 (2011) Missouri Roundtable annotation against archived source text; draft titles are accurate and strictly neutral."
+    },
+    {
+      "id": "348.264:18586",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.264&bid=18586",
+      "sourceSha256": "6c58156b095d77a5396403a331869f1492d1217159228af476c39a42d6b66127",
+      "textSha256": "16a44a88846ef8ad0a103ef0ebe47d8603c2fe6d2af561581a2307aa4d1fa22f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Missouri Technology Investment Fund established in treasury",
+          "bodySha256": "1453295b4f5c6a4c7127072ca891c68382836eb6a885c6696dd7d5924273a672",
+          "reviewNote": "Verified sub (1): Missouri Technology Investment Fund established in state treasury. Source notes indicate § 3.066 reprint."
+        },
+        {
+          "number": 2,
+          "title": "Transfer and expenditure of technology investment fund moneys",
+          "bodySha256": "57a77adecb73b4211ed6f1ad34fe66eeaad63cd0d763cb2746fb84fa133f1329",
+          "reviewNote": "Verified sub (2): funding of projects previously funded through higher education applied projects fund notwithstanding §§ 173.500-173.565."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and § 3.066 reprint source notes against archived source text; draft titles are accurate and sub (2) note refined."
+    },
+    {
+      "id": "348.265:18587",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.265&bid=18587",
+      "sourceSha256": "13b009bf8477e6dc5ead1c83737cd675a91ea4b36305560c1529a1579f5891a5",
+      "textSha256": "aa044f0aef2351c1df90c54246ea629ece5ead274c9cb90ad77d2041838eb8fe",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Calculation of base year gross wages for science industries",
+          "bodySha256": "7836d70d5a6c4e53b64f55f911442b1cd8cc21eac192bcc3028cc0cba0ea867d",
+          "reviewNote": "Verified sub (1): DED director calculation of base year gross wages in science and innovation industries. Source notes cite S.B. 7 (2011) *Art. III § 31 effective date footnote and Missouri Roundtable unconstitutionality annotation."
+        },
+        {
+          "number": 2,
+          "title": "Annual state income tax growth transfer to innovation fund",
+          "bodySha256": "6d464e1f0aa7ef4b83e9e15215d80cd3d13fb26c582ad15dc6c1e2f0a1f1c2a0",
+          "reviewNote": "Verified sub (2): annual state income tax growth transfer to Missouri Science and Innovation Reinvestment Fund."
+        },
+        {
+          "number": 3,
+          "title": "Local political subdivision contributions to innovation fund",
+          "bodySha256": "a4f9ea4fdbe8c7cd808113c2ef0bd42dd731d82c2a97de3b0702092a4f5ff3c4",
+          "reviewNote": "Verified sub (3): local political subdivision contributions to science and innovation fund."
+        },
+        {
+          "number": 4,
+          "title": "Expenditure of reinvestment funds for technology development",
+          "bodySha256": "b90a8bbc09f21f4f464d3b75a547e8448e0a93586cf75cfcbb7b0bfbabe5035d",
+          "reviewNote": "Verified sub (4): expenditure of reinvestment funds for technology infrastructure and commercialization."
+        },
+        {
+          "number": 5,
+          "title": "Preparation and updates of strategic plan for fund expenditures",
+          "bodySha256": "b5e323c340962c876ccf46708bf1d8cf3f5a87a449c45ed5e42ea68080983901",
+          "reviewNote": "Verified sub (5): strategic plan preparation and updates. Source note: **Section 196.1103 was repealed by S.B. 890, 2026."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 5 subsections and source notes (S.B. 7 Art. III § 31 footnote, Missouri Roundtable annotation, and **S.B. 890 (2026) repeal of § 196.1103); draft titles are accurate."
+    },
+    {
+      "id": "348.266:18588",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.266&bid=18588",
+      "sourceSha256": "45dde27ac65072b548450569498bb59a808d76d10811ed1ecd180685f8bc2879",
+      "textSha256": "fe842eb69695543a438453688e494e3497e0da8ef5cb6df584293bf1a6c3716c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Corporate debts and liabilities not debt of the state",
+          "bodySha256": "e2cd1fd4e31b04e57468950964b6205b0a662f9d28435dbcfee866f8b3d29490",
+          "reviewNote": "Verified sub (1): debts and obligations of Missouri Technology Corporation are not debts of the state."
+        },
+        {
+          "number": 2,
+          "title": "Corporation subject to general not-for-profit corporation law",
+          "bodySha256": "9fa718b441599717f368b843fde3335b5a0a3c58dc3fd0e97bf0d4314ebb9bec",
+          "reviewNote": "Verified sub (2): corporation subject to chapter 355 not-for-profit corporation law unless inconsistent."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "348.269:18589",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.269&bid=18589",
+      "sourceSha256": "82b59706e75070645ce62dc575c2031ea6ec4ab3aa34913df115defd45e2b00b",
+      "textSha256": "b8167237ab4985406cb438abab5c422fa2876d25ad87be1e81a71b9118630aef",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Powers construed as supplemental and not restrictive",
+          "bodySha256": "7413ad2a186c0720422cc7d6d262c88642810f5d3cbf07eb265d3108c6a49b38",
+          "reviewNote": "Verified sub (1): powers in §§ 348.250-348.275 construed as supplemental, not restrictive. Source notes cite S.B. 7 (2011) Missouri Roundtable unconstitutionality annotation."
+        },
+        {
+          "number": 2,
+          "title": "Sale or privatization prohibited without assembly authorization",
+          "bodySha256": "a522b238b091cd6e672dd754bc97e16114422b4dbe7a768e9f42c94f7a1d2ecf",
+          "reviewNote": "Verified sub (2): sale, transfer, or privatization of corporation prohibited without general assembly authorization."
+        },
+        {
+          "number": 3,
+          "title": "Exemption from general sunset review under section 23.253",
+          "bodySha256": "2d761911c5507a703dc9424f152314f20e677833524b7445d5bc4d2ea96a1f1f",
+          "reviewNote": "Verified sub (3): exemption from Missouri Sunset Act review under § 23.253."
+        },
+        {
+          "number": 4,
+          "title": "No termination before satisfaction of outstanding obligations",
+          "bodySha256": "f398803fb6af0bf1a9899627e64470a2f7d167ae9a171bd00e963f78673e442e",
+          "reviewNote": "Revised title and note: sub (4) provides that §§ 348.250-348.275 do not terminate before satisfaction of outstanding obligations, notes, and bonds (not legislative dissolution/asset transfer)."
+        },
+        {
+          "number": 5,
+          "title": "Severability of provisions under science and innovation act",
+          "bodySha256": "56c0ba6f6bbd0e033a9dcef2dd6a6cf42b2a936fd26b904d2387a61e4dbe5ed8",
+          "reviewNote": "Verified sub (5): severability clause for act provisions. Source note: *'This act' (S.B. 7, 1st Ex. Sess., 2011) disposition table footnote."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 5 subsections and S.B. 7 (2011) footnotes/annotations against archived source text; rewrote sub (4) title and note to reflect protection of outstanding obligations."
+    },
+    {
+      "id": "348.271:18591",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.271&bid=18591",
+      "sourceSha256": "d7b0e0460d30df2e1e1575fb832a14ab9f2696bfbbd2bb105b1de3905bad51a4",
+      "textSha256": "e509b491096a4571e866bb3db1adf258311c461a49e8435a8ff53a3b1d789651",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishment of innovation centers for technology businesses",
+          "bodySha256": "51e1dd8eb34a6ca315fa8964fc102e2fa26e5be148fe17d237465723c621301e",
+          "reviewNote": "Verified sub (1): establishment of innovation centers to foster technology-based businesses. Source notes indicate § 3.066 reprint following Missouri Roundtable ruling on S.B. 7 (2011)."
+        },
+        {
+          "number": 2,
+          "title": "Site-location counseling and annual innovation center reports",
+          "bodySha256": "3460eba5431b9f84d1c9a070c3684fe9d1b48aa3f70cdb8a657595a3d40fcb2c",
+          "reviewNote": "Revised title and note: sub (2) requires innovation centers to provide site-location counseling for graduating ventures and submit annual reports to DED and MTC (no subdivisions 1-6)."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and § 3.066 reprint source notes against archived source text; rewrote sub (2) title and note to reflect site-location counseling and annual reporting."
+    },
+    {
+      "id": "348.271:18590",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.271&bid=18590",
+      "sourceSha256": "2a0fbf0d98ec89dc73a91dc95667dcc9cab576e9c07a8d77e890177d7c47118c",
+      "textSha256": "73196612c6d2e8cdb6a78583733a62fa7e58f2a5f034485544fee34eab944567",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishment of innovation centers for science and technology",
+          "bodySha256": "54f93bc2490b7d905e3f190d8a242656359b4b23fa3ac9e86eb0571ffd545321",
+          "reviewNote": "Verified sub (1): establishment of innovation centers for science and technology businesses. Source notes cite S.B. 7 (2011) Missouri Roundtable unconstitutionality annotation."
+        },
+        {
+          "number": 2,
+          "title": "Site-location counseling and annual innovation center reports",
+          "bodySha256": "17a9a2f1a58e3e0fa866f3ab2cee62af53c484908f5fc9d529a0c2b66160ef37",
+          "reviewNote": "Revised title and note: sub (2) requires site-location counseling for graduating ventures and annual reports to DED and MTC (not application for designation)."
+        },
+        {
+          "number": 3,
+          "title": "Matching fund requirement for innovation center contracts",
+          "bodySha256": "cbc73108c601d28a4bb23273f13c068be903ba0c7bb4824ae85cdc66fe9d55a6",
+          "reviewNote": "Revised title and note: sub (3) requires a 100% matching fund commitment for not-for-profit innovation center contracts (no subdivisions 1-7)."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections and S.B. 7 (2011) Missouri Roundtable annotation against archived source text; rewrote subs (2) and (3) titles and notes to reflect counseling/reporting and the 100% matching fund requirement."
+    },
+    {
+      "id": "348.272:18592",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.272&bid=18592",
+      "sourceSha256": "af4081c9180d907de53d5607becd07cd40785e36b42c115439480944b06ff6a5",
+      "textSha256": "3d70dfcca53c13eeb37a714c6c9505809137b15ef5ee13eff0e178c8f6eb7aa2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Designation of centers for advanced technology by department",
+          "bodySha256": "9c7c7201b74e4260e1b2f09c5a39d485f64684b06b0fb7420b6e50266fc8ade7",
+          "reviewNote": "Revised title and note: sub (1) directs the DED director (not corporation) to designate centers for advanced technology at universities."
+        },
+        {
+          "number": 2,
+          "title": "Definitions for centers for advanced technology",
+          "bodySha256": "8508798b7c789c5cb5bf025efd220f9a3b342463138aaf2fd0779e02cf8d5cca",
+          "reviewNote": "Revised title and note: sub (2) defines 'applicant', 'center', 'corporation', and 'university' (not university affiliation/matching funds)."
+        },
+        {
+          "number": 3,
+          "title": "Corporation duties for criteria, applications, and peer review",
+          "bodySha256": "6d0ebd9779af5281b50a0b8cb33e4d78916d74e1f47de76b290c7020c061a49d",
+          "reviewNote": "Revised title and note: sub (3) directs the corporation to identify tech areas, set designation criteria and application format, and convene peer review panels."
+        },
+        {
+          "number": 4,
+          "title": "Department financial support excluding capital construction",
+          "bodySha256": "52f9e58e971e4e74ac5e20b5ab1ad8b5ff7edc0a5fab7acdfb8abffafbfdfffa",
+          "reviewNote": "Revised title and note: sub (4) authorizes DED financial support for designated centers, excluding capital construction."
+        },
+        {
+          "number": 5,
+          "title": "Competitive planning grants for aspiring advanced centers",
+          "bodySha256": "c28bb93bf2728b061d0d654c94ee1939424e0dcfb6fa3f3b534a5a4a4a53328e",
+          "reviewNote": "Revised title and note: sub (5) authorizes DED competitive planning and program development grants for universities aspiring to center designation."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 5 subsections against archived source text; rewrote all 5 titles and notes because the draft misattributed designation authority and completely misstated subs (2)-(5)."
+    },
+    {
+      "id": "348.275:18593",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.275&bid=18593",
+      "sourceSha256": "966014880dc1285c59133c83bfc7022505bdc97e0dcda3363f015d1fa8e4c4f8",
+      "textSha256": "60907d34f7ec5bd4b51372cb03e448c6d79aadbd5f1e0953aaa36a3cff4c126c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Department of economic development rulemaking authority",
+          "bodySha256": "7c17fc936d4701202cc5687b0d63bd0dbd99fc8bf6b0174a27802999d86f9bb8",
+          "reviewNote": "Revised title and note: sub (1) authorizes the department of economic development (not the corporation) to promulgate rules for §§ 348.251-348.272."
+        },
+        {
+          "number": 2,
+          "title": "Joint committee approval required before rule takes effect",
+          "bodySha256": "6ee07deea5670c71d27d1fe55cc93552226be851940a5111c403acaa44cbaef8",
+          "reviewNote": "Revised title and note: sub (2) requires approval by the Joint Committee on Administrative Rules before a rule takes effect."
+        },
+        {
+          "number": 3,
+          "title": "Submission of proposed rules to joint committee on administrative rules",
+          "bodySha256": "8a49d40fb643a6226c1e2999a6573b2328521bfcb14a73d6c10a3f50fd10088f",
+          "reviewNote": "Verified sub (3): submission of proposed rules to Joint Committee on Administrative Rules upon filing."
+        },
+        {
+          "number": 4,
+          "title": "Joint committee review and hearing procedures",
+          "bodySha256": "56bf6e09a555a39cd84f16805efbe0e4f17c03da50df4f4ad0ff58fb12be1140",
+          "reviewNote": "Verified sub (4): JCAR review, hearing procedures, and authority to disapprove proposed rules."
+        },
+        {
+          "number": 5,
+          "title": "Suspension of proposed rule by joint committee",
+          "bodySha256": "4a7fb8176e696bf4b42399ebf83f88f346142590cf05c4af7b05feca59a350cb",
+          "reviewNote": "Verified sub (5): JCAR disapproval or suspension of proposed rule."
+        },
+        {
+          "number": 6,
+          "title": "Bar on filing or publishing disapproved rule portions",
+          "bodySha256": "86d13ec531330ead516c27c891fa15b8a5bfa3e9bcd246574b0f46a47f2cd643",
+          "reviewNote": "Revised title and note: sub (6) bars filing with secretary of state or publication in Missouri Register for disapproved rule portions."
+        },
+        {
+          "number": 7,
+          "title": "Legislative ratification of committee rule disapproval",
+          "bodySha256": "a714564092750835158b49a2722e788cc8199120b452813a10e2d1da9f96368c",
+          "reviewNote": "Revised title and note: sub (7) requires JCAR report to general assembly and bars disapproved rule if ratified by resolution in each house within 30 legislative days."
+        },
+        {
+          "number": 8,
+          "title": "Suspension or revocation of rules by bill or resolution",
+          "bodySha256": "848b0927c2f4449902156febdb4832b02ae4eb791a6fbb817f6bca0561f7949f",
+          "reviewNote": "Revised title and note: sub (8) authorizes general assembly to suspend or revoke adopted rules by bill or Art. IV § 8 concurrent resolution (not nonseverability)."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 8 subsections against archived source text; rewrote subs (1), (2), (6), (7), and (8) titles and notes to match DED rulemaking and the JCAR/legislative review mechanics."
+    },
+    {
+      "id": "348.302:18597",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.302&bid=18597",
+      "sourceSha256": "90b46e1e7ac36088e74f712d9f9f601c54a39de21cbcfa9dc9d1c7b68c1ffe46",
+      "textSha256": "41b10d355b94a3e64b44dd43ef778b71f256b284f7847e09fce7ef6e69730917",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Tax credit certificate for investment in qualified fund",
+          "bodySha256": "1a7215600e8c9400ae04a577931bc2cccdc2513a32830d008be49098385d7b32",
+          "reviewNote": "Verified sub (1): tax credit certificate up to 30% of qualified contribution with carryover. Source notes cite Tax Credit Accountability Act §§ 135.800-135.830."
+        },
+        {
+          "number": 2,
+          "title": "Nine million dollar aggregate cap and credit transferability",
+          "bodySha256": "8f9023437012e692935f2999380629e220c66e81c9a1d69e6c4572a7239ffdba",
+          "reviewNote": "Revised title and note: sub (2) sets a $9 million aggregate tax credit cap and authorizes transfer, sale, or assignment of certificates (percentage/carryover are in sub 1)."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and source notes against archived source text; rewrote sub (2) title and note to reflect the $9M cap and transferability."
+    },
+    {
+      "id": "348.308:18600",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.308&bid=18600",
+      "sourceSha256": "ac569b59c1f29765bda424e65c1931a115bad29bf2a8e3e12e360af9a59acf32",
+      "textSha256": "d293298b4a2f3f7cb0061bf1fa90646192b4b1022cae270197c7c502c10cd860",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Administration and certificate issuance upon sworn request",
+          "bodySha256": "375bff12e7ed6ea62b78ad4e26a48479daca7537a25d4805740a3ba2ef7e3df1",
+          "reviewNote": "Revised title and note: sub (1) vests administration in DED director and requires issuance of certificates upon sworn request of a qualified economic development organization. Source note: *Words 'this act' appear in original rolls."
+        },
+        {
+          "number": 2,
+          "title": "Certificate requests when multiple organizations hold interest",
+          "bodySha256": "4f447b711750788d4ae093c706400da8d1094c08c481422358d5edc7dea67ae6",
+          "reviewNote": "Revised title and note: sub (2) governs certificate issuance requests when two or more qualified economic development organizations have an interest in a fund."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and *original-rolls footnote against archived source text; rewrote both titles and notes to match sworn-request issuance and multi-organization fund rules."
+    },
+    {
+      "id": "348.316:18603",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.316&bid=18603",
+      "sourceSha256": "9be3e8f6c06fe760600a777283b234a242910a75160206a3956d6420494ff40b",
+      "textSha256": "c95ac80316edc2fe86b5f112c0e5e2837699605c741f3f3fb2d58412051e54a8",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual verified report required from qualified investment funds",
+          "bodySha256": "738b050dac15813d8a4b6159917ba0002ee4d614a1f16bf9beb74638f0fb8ceb",
+          "reviewNote": "Verified sub (1): annual verified report required from qualified economic development organizations. Source notes cite effective date 5-30-86."
+        },
+        {
+          "number": 2,
+          "title": "Verification, tax certification, notice, and payment deadline",
+          "bodySha256": "783e60b4479b0ab358caac48dd061388985706b67c1140fab2e39a1645bff1dd",
+          "reviewNote": "Revised title and note: sub (2) directs verification, certification of tax due to revenue director within 60 days, 30-day notice, and 30-day payment."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and 5-30-86 effective date note against archived source text; refined sub (2) title and note to capture tax certification and payment deadlines."
+    },
+    {
+      "id": "348.403:18606",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.403&bid=18606",
+      "sourceSha256": "1e012b460f682e4d89cbb2bd232d826969b2050f6fc76a87efc7af5454f3c719",
+      "textSha256": "51b1618c2cbf40aba000f00cfc8a1cac92ac1e4480de7df54b73cd1fafe8031a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority to develop agricultural product utilization loan program",
+          "bodySha256": "7fe3b3ce0bb81fb2d5908ca14d8abe0944bf33880d0670697d5979a85e345155",
+          "reviewNote": "Verified sub (1): authority duty to develop and implement agricultural product utilization loan guarantee program. Source notes cite § 348.426."
+        },
+        {
+          "number": 2,
+          "title": "Rulemaking effectiveness under chapter 536",
+          "bodySha256": "b9307e1af71393d5df4cd1bbfcdfeee312b75fdba4338936ab6d527ffab821c5",
+          "reviewNote": "Revised title and note: sub (2) makes rules effective only in compliance with chapter 536 (not § 536.024)."
+        },
+        {
+          "number": 3,
+          "title": "Authority power to reject loan guarantee applications",
+          "bodySha256": "d5fe89617d4df4828a3620dc9101e98df9a0a1f7374fdfafe73552c153a7c854",
+          "reviewNote": "Verified sub (3): authority discretionary power to reject any loan guarantee application."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections and source notes against archived source text; corrected sub (2) title and note from § 536.024 to chapter 536."
+    },
+    {
+      "id": "348.406:18607",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.406&bid=18607",
+      "sourceSha256": "7fb8ad574f6291a6a8a996a7b1120bee565bc4d041057665bde4cece8fef2066",
+      "textSha256": "6f482574cb937f1ffce164a548f0fed4b26ef3a838f3507c6f9907e90fed101c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Certificates of guaranty covering first loss up to fifty percent",
+          "bodySha256": "d673f0f024e748d0b9dfa85d01c6814a02e0392c01c43d299e1eb7b70491cd55",
+          "reviewNote": "Verified sub (1): certificates of guaranty covering first loss up to 50% on a declining principal basis."
+        },
+        {
+          "number": 2,
+          "title": "One-time participation fee of one percent on guaranteed loans",
+          "bodySha256": "00555ccd883e5033aa9024589572e24a71cf8be0ddc3252215cbcf46e105f688",
+          "reviewNote": "Verified sub (2): one-time 1% participation fee collected by lender at closing."
+        },
+        {
+          "number": 3,
+          "title": "Default payments payable solely from guarantee fund",
+          "bodySha256": "62febd9f13f5564300833e9fafd375a4b9e7c45379763a1eea10548c9a69b2d7",
+          "reviewNote": "Verified sub (3): default payments payable solely from Agricultural Product Utilization and Business Loan Guarantee Fund."
+        },
+        {
+          "number": 4,
+          "title": "Limit on total outstanding loan guarantees based on reserves",
+          "bodySha256": "af07b83ad129fe55a3d17d6c55dac97fef7ce243ae3517d4e3d9a7ff8d2fa047",
+          "reviewNote": "Verified sub (4): limit on total outstanding guaranteed loans based on sound actuarial reserves."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 4 subsections against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "348.407:33377",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.407&bid=33377",
+      "sourceSha256": "da0b569491109ee130de51e3c612707320915a2a467c1c2f7b6b095b935f6934",
+      "textSha256": "8a53709df696f37fc34c78c94a306a8f252783a300619a554a717f0756065eec",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Development and implementation of product utilization grants",
+          "bodySha256": "9f4a470451e5e023cb629129097946593bb4c4349f3e515d5968641aa725e53e",
+          "reviewNote": "Verified sub (1): development and implementation of agricultural product utilization grants."
+        },
+        {
+          "number": 2,
+          "title": "Authority power to reject grant applications",
+          "bodySha256": "447309211d50f19c804eefffcf8a3f92d48b3e901cd8787d5d2ee77cb325a09b",
+          "reviewNote": "Verified sub (2): authority discretionary power to reject any grant application."
+        },
+        {
+          "number": 3,
+          "title": "Grants and loans from grant fund for project development",
+          "bodySha256": "db18cffd5ae7c7ae2d42f6bf12804c6d2897d5b18f6835339e3083eb2f251ce2",
+          "reviewNote": "Verified sub (3): grants, loans, or loan guarantees from grant fund for agricultural projects."
+        },
+        {
+          "number": 4,
+          "title": "Loan guarantees to qualified agribusinesses",
+          "bodySha256": "92615e74d593a9512f22a364e2c3a761cfa507986d9a255936f8fd1d420871ff",
+          "reviewNote": "Verified sub (4): loan guarantees to qualified agribusinesses."
+        },
+        {
+          "number": 5,
+          "title": "Grants and loans to access enterprise resources",
+          "bodySha256": "e714320e86c0664445073229179fa53ef014994fb2c08374a03012c5a18bfe74",
+          "reviewNote": "Verified sub (5): grants, loans, or guarantees to access resources for value-added enterprises."
+        },
+        {
+          "number": 6,
+          "title": "Feasibility assessment fee and concept evaluation",
+          "bodySha256": "7077e858d6433dab8f8691e60c3af619941a79e8ee312deced300667b696d78e",
+          "reviewNote": "Verified sub (6): feasibility assessment fee and business concept evaluation."
+        },
+        {
+          "number": 7,
+          "title": "Marketing study upon positive feasibility determination",
+          "bodySha256": "7c71b22e7218ed8651d3fbbf7f46abda633d06862f7b9dee2a6f2e6eb483544b",
+          "reviewNote": "Revised title and note: sub (7) authorizes a marketing study upon a positive feasibility determination and fee."
+        },
+        {
+          "number": 8,
+          "title": "Legal assistance to organize business upon viability finding",
+          "bodySha256": "664d2094b71dc0d8c452b609bf3cb0e7df6a8e75636dfd74e5221afb79c461b3",
+          "reviewNote": "Revised title and note: sub (8) authorizes legal assistance to set up the business upon a profitability determination."
+        },
+        {
+          "number": 9,
+          "title": "Facilitating commercial loans and financial packaging",
+          "bodySha256": "130db18f23154446145c50bbc7e6201daa6c29f246f5378c9576c4b46096217f",
+          "reviewNote": "Verified sub (9): facilitating commercial loans and financial packaging for qualified businesses."
+        },
+        {
+          "number": 10,
+          "title": "Facility engineering and construction consulting",
+          "bodySha256": "174006c13c49a4a22213f465852c35ab7a1be394326530feeab6c808c36f176c",
+          "reviewNote": "Verified sub (10): facility engineering and construction consulting services."
+        },
+        {
+          "number": 11,
+          "title": "Consulting services in operation of the business",
+          "bodySha256": "29c6e036bb503f6fc572889481e3b08aa1ccb1763fb2c25b7262029f86a2458c",
+          "reviewNote": "Revised title and note: sub (11) authorizes consulting services in the operation of the business."
+        },
+        {
+          "number": 12,
+          "title": "Delivery of services via state staff or private contractors",
+          "bodySha256": "941adc0aa5e475428761a8e052f8e99028eab75692c4be5e36d0bddf919f052e",
+          "reviewNote": "Revised title and note: sub (12) permits services to be provided through state employees or private contractors."
+        },
+        {
+          "number": 13,
+          "title": "Six discretionary factors for authority funding decisions",
+          "bodySha256": "d52f934118f5c2c8fa94e11a2b839eae4542a39b9c5e9e8e2529f7e411adfb54",
+          "reviewNote": "Revised title and note: sub (13) lists six discretionary factors (commitment/risk, community support, project phase, leaders/consultants, bankable stage amount, planning)."
+        },
+        {
+          "number": 14,
+          "title": "Interagency assistance from agriculture, natural resources, and universities",
+          "bodySha256": "0976ebcef94d53edb3096716312c8f0ad5ff972bf28b878cbff2a22c6260fd52",
+          "reviewNote": "Revised title and note: sub (14) authorizes assistance from MDA, DNR, DED, University of Missouri, and other agencies."
+        },
+        {
+          "number": 15,
+          "title": "Authority power to charge fees for section services",
+          "bodySha256": "5af17f5bd95172bbaa4a9f35228dab5765c4695b8970f14d89a7f35a38485ea3",
+          "reviewNote": "Revised title and note: sub (15) permits the authority to charge fees for services provided under the section."
+        },
+        {
+          "number": 16,
+          "title": "Authority rulemaking power to implement section",
+          "bodySha256": "84d3d292fe81f9eff82ad4af856ba5a46bcf438c4b7778c64e2d756f5fb20ccc",
+          "reviewNote": "Revised title and note: sub (16) authorizes the authority to adopt implementing rules."
+        },
+        {
+          "number": 17,
+          "title": "Chapter 536 compliance, pre-1999 repeal, and nonseverability",
+          "bodySha256": "5e2ee7454f0974d8029a35cfd77cf8b3f1be072c501391cfc1abe99cb6f269bc",
+          "reviewNote": "Revised title and note: sub (17) mandates chapter 536 compliance, repeals pre-Aug. 28, 1999 rulemaking authority, and provides nonseverability."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 17 subsections against archived source text; rewrote subs (7), (8), and (11)-(17) titles and notes to fix extensive draft hallucinations and shifting."
+    },
+    {
+      "id": "348.408:18609",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.408&bid=18609",
+      "sourceSha256": "520276ecb3f6cbf2f812bc720a2e982b0322136cb5760b0d0cd640dfc1f95508",
+      "textSha256": "4591cb80eae9cd0c6aa8c0d57c3f7d0424883946cc77c87936d93a844cc181e6",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Agricultural Product Utilization Grant Fund created in treasury",
+          "bodySha256": "21541ed62734ecbd8b4fe4a48513bff8efde57fe8c47604f5297e465cbeb071e",
+          "reviewNote": "Verified sub (1): Agricultural Product Utilization Grant Fund created in state treasury. Source notes cite effective date 7-02-99."
+        },
+        {
+          "number": 2,
+          "title": "Administration of grant fund by authority",
+          "bodySha256": "cda8b0622be45c638f751489d8b176f5908cbeeadfd51cf37d7ab0ed495219c0",
+          "reviewNote": "Verified sub (2): administration of grant fund by authority."
+        },
+        {
+          "number": 3,
+          "title": "General assembly appropriations limit up to three million dollars",
+          "bodySha256": "b9896c61a0d27da2853c3dcdcec5db2e04902797b1482c2a7f61c6d6ed1987d8",
+          "reviewNote": "Verified sub (3): general assembly appropriations limit up to $3 million."
+        },
+        {
+          "number": 4,
+          "title": "Investment of fund moneys and interest retention",
+          "bodySha256": "ced7c70e62f569c1c7ecd20ea95371e2bbab8abec1447ca4ee8689bf94a46a73",
+          "reviewNote": "Verified sub (4): state treasurer investment of fund moneys with interest retained in fund."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 4 subsections and 7-02-99 effective date note against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "348.409:18610",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.409&bid=18610",
+      "sourceSha256": "d7fd8718d7b431e856bb9503413c31ed7b170c49b0c6e80c1c6439e621477315",
+      "textSha256": "9558d63c5595ab1ce2ff0b2d9017a491a4ac4954808c842f3ccdf0b577d42332",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Agricultural Product Utilization and Business Loan Guarantee Fund",
+          "bodySha256": "e1cc6c1436dd3ce2b10aca21b35bdfbcef3aacb415e95bb3ba87f9b22f2a63d4",
+          "reviewNote": "Verified sub (1): Agricultural Product Utilization and Business Loan Guarantee Fund established in state treasury."
+        },
+        {
+          "number": 2,
+          "title": "Deposit of recoveries and repayments on defaulted loans",
+          "bodySha256": "76b8e016b9b706a1c9df2212e327f4fbab3c57874bbb0dcffa68afb9009e2124",
+          "reviewNote": "Verified sub (2): deposit of recoveries and repayments on defaulted loans into fund."
+        },
+        {
+          "number": 3,
+          "title": "Administration of guarantee fund by authority",
+          "bodySha256": "08b2c8bcbd00d95b27c27253ef26be35eed52c4ce82c6990e8f6bcc27ee74722",
+          "reviewNote": "Verified sub (3): administration of guarantee fund by authority."
+        },
+        {
+          "number": 4,
+          "title": "Initial appropriations limit up to two and one-half million",
+          "bodySha256": "c8e69d512951819d3d4645e064419f9c868711de0e5c4fa7f4cdeccbe2726d3a",
+          "reviewNote": "Revised title and note: sub (4) sets an initial appropriations limit up to $2.5 million beginning FY 1997-98 (draft wrongly stated $2 million)."
+        },
+        {
+          "number": 5,
+          "title": "Investment of fund moneys and reserve allocation",
+          "bodySha256": "21a4c4fd59f4652653c83ef18aaeb8d89899c5bd4de90bb83b20a2d1a551a6c6",
+          "reviewNote": "Verified sub (5): investment of fund moneys and reserve allocation."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 5 subsections against archived source text; corrected sub (4) title and note from $2 million to $2.5 million."
+    },
+    {
+      "id": "348.410:18611",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.410&bid=18611",
+      "sourceSha256": "9a96f45e3e5a5d62b5d74173bff2571f6586221c9980302a232e045521d6b0d9",
+      "textSha256": "ca14eb921c22e0127007f47c8c6af944eb6f909c83453c52a8f8cc8ccaf2f827",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Agricultural Product Utilization Business Development Loan Fund",
+          "bodySha256": "c65416321616ad327d34184cca0e7af946cf77287ac21857ceb49bd876ecdf27",
+          "reviewNote": "Verified sub (1): Agricultural Product Utilization Business Development Loan Program Fund created in treasury. Source notes cite effective date 7-02-99."
+        },
+        {
+          "number": 2,
+          "title": "Department of agriculture market promotion and staffing",
+          "bodySha256": "e404addef4093277ed5a96377816f407acaa7370966e635aab70bb90bfea5100",
+          "reviewNote": "Revised title and note: sub (2) directs MDA market promotion activities and staffing for grant recipients and loan applicants."
+        },
+        {
+          "number": 3,
+          "title": "Promotion of products derived from development facilities",
+          "bodySha256": "2d186234010c03961cbd7eb5e625aef28d9358f35b90d1778c2e276aa9be458b",
+          "reviewNote": "Verified sub (3): MDA promotion of products produced by funded agricultural facilities."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections and 7-02-99 effective date note against archived source text; revised sub (2) title and note to reflect market promotion and staffing."
+    },
+    {
+      "id": "348.412:18612",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.412&bid=18612",
+      "sourceSha256": "82cf91d0238954a4553258643f9d9651fd65d3a00efafc7048a5e231cfb583da",
+      "textSha256": "e28a8ce78e4570494063bdee9739aad212b8a5a35d9ea544ccfa89e4a2fa5f0f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Use of development loan proceeds and ninety percent cap",
+          "bodySha256": "09a64dfb031ff9be804ac86b502d6c24310a35069cd9c7d4c4bd78c96ddcf761",
+          "reviewNote": "Revised title and note: sub (1)(1)-(2) governs permitted uses of loan proceeds and caps financing at 90% of project cost (2 subdivisions, not 4). Source notes cite § 348.426."
+        },
+        {
+          "number": 2,
+          "title": "Economic opportunity and project success requirements",
+          "bodySha256": "a5d0f4bf6443804c3f2938ec1700b038958d49fbe6d3b8c3451f2cf2988a2492",
+          "reviewNote": "Verified sub (2): project must demonstrate strong opportunities to succeed in developing and expanding business."
+        },
+        {
+          "number": 3,
+          "title": "Authority rulemaking establishing borrower eligibility",
+          "bodySha256": "e4eaf28e22fc11e967d4796bb5ba237496a163f127ed88abaf6b678066574036",
+          "reviewNote": "Verified sub (3): authority rulemaking establishing borrower eligibility standards."
+        },
+        {
+          "number": 4,
+          "title": "Permissible loan terms, interest rates, and security",
+          "bodySha256": "3c83a09f57e24b2596b7de292e340f112c7c8f52a395425b1e7fc4e40cce7d22",
+          "reviewNote": "Verified sub (4)(1)-(3): permissible loan terms, interest rates, and security."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 4 subsections and source notes against archived source text; revised sub (1) title and note to reflect loan proceed uses, 90% cap, and 2 subdivisions."
+    },
+    {
+      "id": "348.414:18613",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.414&bid=18613",
+      "sourceSha256": "09ac78dff5419fccdddd618b576b5362c0208690a316ad487c68b909856aaa38",
+      "textSha256": "a276a729c75290deadd4b1ccc36f23e3013bf90e957a31ecc23a63fb8ae7b355",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Executive director powers and delegation of authority",
+          "bodySha256": "8d541e79c8cb1e3abac4b5a1f8c760121688a98832e7c362117904fc8bacf6fa",
+          "reviewNote": "Verified sub (1): executive director powers and delegation of authority, subject to board appeal. Source notes cite effective date 7-02-99."
+        },
+        {
+          "number": 2,
+          "title": "Executive director compensation determined by authority",
+          "bodySha256": "99fbbbdb96b75f79b347f1b8dededeb3a5a892b0c35820c2b480d35846220dad",
+          "reviewNote": "Verified sub (2): executive director compensation fixed by authority."
+        },
+        {
+          "number": 3,
+          "title": "Prohibition on funding out-of-state projects",
+          "bodySha256": "f29621f217c89ea3107ec081f41e9429550d459bb764be19d16626d2724d2d88",
+          "reviewNote": "Verified sub (3): prohibition on funding projects located outside Missouri."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections and 7-02-99 effective date note against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "348.430:33378",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.430&bid=33378",
+      "sourceSha256": "73bda1cc098709e55fdc9000d3cd36d6c839cfc44df8f11fdaf95bf170d70eb2",
+      "textSha256": "8f6080d4477dd707d4a13bd4a9e1133a855ddf588d09d005774de4a190a45771",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Short title as Agricultural Product Utilization Contributor Credit",
+          "bodySha256": "b8e6f3f1efd7bbeee9d8fc7c970ca189f4b8ddbdd2a5312cc5a180fd2d0b3ad0",
+          "reviewNote": "Revised title and note: sub (1) sets the short title. Source notes cite expiration on 12-31-33 per § 348.436 and Tax Credit Accountability Act §§ 135.800-135.830."
+        },
+        {
+          "number": 2,
+          "title": "Definitions for contributor tax credit provisions",
+          "bodySha256": "3b10701e87581d1cfcd76936671568d719e94c8edda53eb8f010f91d61cbc580",
+          "reviewNote": "Revised title and note: sub (2) defines six terms for the section."
+        },
+        {
+          "number": 3,
+          "title": "Tax credit up to one hundred percent; quarterly claims",
+          "bodySha256": "0896d2636ad53fe79e36b39af3eac542d72d600b6d9e53703490157d883063ac",
+          "reviewNote": "Revised title and note: sub (3) allows a credit up to 100% of contribution, quarterly claims against estimated taxes, and bars refunds."
+        },
+        {
+          "number": 4,
+          "title": "Application, certificate, four-year carryover, and transferability",
+          "bodySha256": "cf77e0da1be39bc18e63e7625957fa46c33d46088d417ada59628a7716f7cf7d",
+          "reviewNote": "Revised title and note: sub (4) governs application, certificate issuance, 4-year carryforward (from FY 2004), and transferability with notarized endorsement."
+        },
+        {
+          "number": 5,
+          "title": "Use of contributions for section 348.407 assistance",
+          "bodySha256": "e5b5d73697e4471e42fce5cb3276e01cc13622ee4ec9cc3a221af5137c4ef061",
+          "reviewNote": "Revised title and note: sub (5) directs use of contribution funds for § 348.407 assistance, capped at $2M or net state economic impact."
+        },
+        {
+          "number": 6,
+          "title": "Grant allocation rules and per-concept funding cap",
+          "bodySha256": "00abc5b70229ab9fb37b6c1a01038ffa0d71de66230a278c114899ef5f2eec45",
+          "reviewNote": "Revised title and note: sub (6) allocates >=10% to <=$25,000 requests, sets a $200,000 per-concept cap, and considers minority/women-owned businesses."
+        },
+        {
+          "number": 7,
+          "title": "Annual cost-benefit report to general assembly",
+          "bodySha256": "227d00c429f7f55e04d312fe113d16e09d568099af206afd22441d1e0b0bee3c",
+          "reviewNote": "Revised title and note: sub (7) requires an annual cost-benefit report to the general assembly (expiration 12-31-33 is in § 348.436 source note)."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 7 subsections and § 348.436 (12-31-33 expiration) / Tax Credit Accountability Act source notes; rewrote all 7 titles and notes to fix systematic draft misalignment."
+    },
+    {
+      "id": "348.432:33379",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.432&bid=33379",
+      "sourceSha256": "45370d049ceb18f8e515cacaa374f6d413c1476739484e915c54a0e11b3a24c9",
+      "textSha256": "ea5909000c7a796caf08473f43e024598b92b7bfc47f246eab1d78844d06dd7c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Short title as New Generation Cooperative Incentive Credit",
+          "bodySha256": "f5b813faaf6814f31ce51f9a849ccd1818a2e4a21e6359a52bfc153939a646f1",
+          "reviewNote": "Revised title and note: sub (1) sets the short title. Source notes cite expiration on 12-31-33 per § 348.436 and Tax Credit Accountability Act §§ 135.800-135.830."
+        },
+        {
+          "number": 2,
+          "title": "Definitions for cooperative incentive tax credit",
+          "bodySha256": "4ca57cbdefe69eb6aa7ae80f4a6c0e618ebfff749e7d989670ead7225b29b8f4",
+          "reviewNote": "Revised title and note: sub (2) defines nine terms for the section."
+        },
+        {
+          "number": 3,
+          "title": "Producer member tax credit for 1999 through 2002",
+          "bodySha256": "6e7c9a1e2e0e629e2d67adfc4695e9ac73927d1bc8ddcf7a46616fa69a661baa",
+          "reviewNote": "Revised title and note: sub (3) sets the 1999-2002 producer member credit at the lesser of 50% of investment or $15,000."
+        },
+        {
+          "number": 4,
+          "title": "Post-2002 producer member credit, quarterly claims, nonrefundability",
+          "bodySha256": "4f520a44bad8ab2fca902e82bd85f9a4034559ef771d65503cb9495f6fed50d5",
+          "reviewNote": "Revised title and note: sub (4) governs post-2002 producer member credits, quarterly claims, and nonrefundability."
+        },
+        {
+          "number": 5,
+          "title": "Application, certificate, four-year carryover, and transferability",
+          "bodySha256": "2a0dae60f55eef9f4ef00d0c3749695c7c153c80b9424e8ed202c20232c8e9de",
+          "reviewNote": "Revised title and note: sub (5) governs application, certificate issuance, 4-year carryforward, and transferability with notarized endorsement."
+        },
+        {
+          "number": 6,
+          "title": "Ten percent allocation for small capital projects",
+          "bodySha256": "6785f9d2c3070b30c5fd65efb3a340cadd0c4b90322cc192f84d8694651138e5",
+          "reviewNote": "Revised title and note: sub (6) sets a 10% initial allocation for small capital projects and reallocation of unused amounts."
+        },
+        {
+          "number": 7,
+          "title": "Ninety percent allocation for employee-qualified and large projects",
+          "bodySha256": "1402a94969275a13188c7d2e568a3988e9b2ab2670de9db393b1ee37b23d9b98",
+          "reviewNote": "Revised title and note: sub (7) sets a 90% initial allocation with $3M cap for employee-qualified projects and $1.5M cap for large projects."
+        },
+        {
+          "number": 8,
+          "title": "Annual cost-benefit report to general assembly",
+          "bodySha256": "25f41088b4d57b369dd7f6ef69ade31d321642761d83082347d92c9e2e459cf1",
+          "reviewNote": "Revised title and note: sub (8) requires an annual cost-benefit report to the general assembly (expiration 12-31-33 is in § 348.436 source note)."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 8 subsections and § 348.436 (12-31-33 expiration) / Tax Credit Accountability Act source notes; rewrote all 8 titles and notes to fix systematic draft misalignment."
+    },
+    {
+      "id": "348.434:18618",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.434&bid=18618",
+      "sourceSha256": "323f37da3832ffd87b38639a0dd755e10aceff8f9ed59429e69d263adc0b74d5",
+      "textSha256": "1bcdc8832b2542556929a16ba9320ffc825035b6283dc75ec5d4fdd5089c391d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Six million dollar annual aggregate cap on agricultural credits",
+          "bodySha256": "838d7e23a745419aedd458307f4e713762d33803506f1b7e6f4d48657e63ce5d",
+          "reviewNote": "Revised title and note: sub (1) sets a $6M annual fiscal-year aggregate cap for §§ 348.430 and 348.432 (corrected draft 'under subdistrict'). Source notes cite effective 7-02-99 and expiration 12-31-33 per § 348.436."
+        },
+        {
+          "number": 2,
+          "title": "Authority allocation and prioritization of available tax credits",
+          "bodySha256": "0073eb9bcf68ac3cc4e844f93f3c28dfb188a4dc224a12ac4f4602ea5395c887",
+          "reviewNote": "Verified sub (2): authority allocation and prioritization of available tax credits between programs."
+        },
+        {
+          "number": 3,
+          "title": "May first reallocation of unused cooperative credits",
+          "bodySha256": "68bcd323b84a3321be68581b279c1373307883341053f7775f4032a13e27aee3",
+          "reviewNote": "Revised title and note: sub (3) authorizes May 1 reallocation of unused § 348.432 credits to § 348.430 if assets are <=$12M (not an annual report)."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections and 7-02-99 / 12-31-33 expiration source notes; rewrote subs (1) and (3) titles and notes."
+    },
+    {
+      "id": "348.491:59986",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.491&bid=59986",
+      "sourceSha256": "8a056f79bbb25c9cac5e910c6be0ba4f06d95ac77f274f8869f99b2dcbb2286d",
+      "textSha256": "990c7e297e07bfcd369d427e77551b2d0d9a8e67c50e43bd417498c549becdd4",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Short title as Specialty Agricultural Crops Act",
+          "bodySha256": "c6683187768910db15458ddeb2195b94f2fa7b0b0ee9f21fffde7e04163d5315",
+          "reviewNote": "Revised title and note: sub (1) names the section the 'Specialty Agricultural Crops Act'. Source notes cite sunset 12-31-33 and termination 9-01-34."
+        },
+        {
+          "number": 2,
+          "title": "Definitions for specialty agricultural crop loan program",
+          "bodySha256": "55186ea1a159eb74a5481accfe5913de3460554c0debc1004986c92316af584e",
+          "reviewNote": "Verified sub (2)(1)-(3): definitions of authority, eligible lender, and specialty agricultural crop."
+        },
+        {
+          "number": 3,
+          "title": "Specialty agricultural crop loan program established",
+          "bodySha256": "feb3b09d47c4c336193998e4d5ac5fddee82d938f94fa52dfbd531ed7c79fb85",
+          "reviewNote": "Verified sub (3): specialty agricultural crop loan program established and administered by authority."
+        },
+        {
+          "number": 4,
+          "title": "Lender approval required and one-loan-per-family limit",
+          "bodySha256": "c46ffc214627527cf7e190f640f0fb415409133a874f0b787d134f7962820510",
+          "reviewNote": "Revised title and note: sub (4) requires prior eligible lender approval and limits participation to one loan per family."
+        },
+        {
+          "number": 5,
+          "title": "Maximum specialty crop loan amount of thirty-five thousand",
+          "bodySha256": "837bfba886956edda921e69774792b27bfecb1ede83927746252c1f7f14debed",
+          "reviewNote": "Revised title and note: sub (5) caps the maximum loan amount at $35,000 (no interest subsidy parameters in sub 5)."
+        },
+        {
+          "number": 6,
+          "title": "Eligible borrower uses, ninety percent cap, zero first-year interest",
+          "bodySha256": "6b2151131397dc051d2e720468ed0e164585265c2e0e68bfa569fa089f1172cd",
+          "reviewNote": "Revised title and note: sub (6) specifies approved loan uses, 90% financing cap, and zero first-year interest (not lender participation agreement)."
+        },
+        {
+          "number": 7,
+          "title": "Authority approval and eligibility rulemaking factors",
+          "bodySha256": "e9be715a22206f116597eb5d4ac092af1b5de725cceec3826db2c73ea839552d",
+          "reviewNote": "Revised title and note: sub (7) directs authority approval and eligibility rulemaking considering four listed factors."
+        },
+        {
+          "number": 8,
+          "title": "Purchase-price review and optional one percent review fee",
+          "bodySha256": "18d8d5ff404760b39c3597612dd93a550d3259d5680c4e576311da10219c1408",
+          "reviewNote": "Revised title and note: sub (8) directs purchase-price review and permits an optional 1% one-time loan review fee."
+        },
+        {
+          "number": 9,
+          "title": "Participation in other agricultural programs not precluded",
+          "bodySha256": "89c50b968473c849c9e0db55a84bb0403b09f8ee3fcc88d7e3b79ae1ef3961b6",
+          "reviewNote": "Revised title and note: sub (9) clarifies that participation does not preclude other agricultural programs (not compliance monitoring)."
+        },
+        {
+          "number": 10,
+          "title": "Chapter 536 rule compliance and post-2023 nonseverability",
+          "bodySha256": "f5bdab0cbf153cb9383f205fcc9f15de081b26bee5c12e95367220e26593cf9b",
+          "reviewNote": "Revised title and note: sub (10) mandates chapter 536 compliance and nonseverability for rules proposed or adopted after Jan. 2, 2023."
+        },
+        {
+          "number": 11,
+          "title": "Sunset and termination dates of specialty crop loan program",
+          "bodySha256": "6aa8c6103dbdb3ea59a673f78c34699a01a2183b76598caf55680b7b0995d1a9",
+          "reviewNote": "Verified sub (11): statutory sunset on Dec. 31, 2033 and termination on Sept. 1, 2034."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 11 subsections and sunset/termination source notes; rewrote subs (1) and (4)-(10) titles and notes to match the Specialty Agricultural Crops Act text."
+    },
+    {
+      "id": "348.493:59987",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.493&bid=59987",
+      "sourceSha256": "6d5e6de998b5b74ee2a16dec41b9ae6c1fa77ef029abd50a29d29232da493e54",
+      "textSha256": "25456f94c43fa56e47ac293a20257e3b2590570a28bde4d79589e48c8f357c9b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of state tax liability for lender credit",
+          "bodySha256": "35cb4d3247e33ef5d3bb761c4f420b96b9a0a626ad48e72fec401735d41b6cc3",
+          "reviewNote": "Revised title and note: sub (1) defines 'state tax liability' (chapters 143, 147, and 148, excluding withholding). Source notes cite sunset 12-31-33 and termination 9-01-34."
+        },
+        {
+          "number": 2,
+          "title": "Lender tax credit for waived interest and annual cap",
+          "bodySha256": "c1c5184865ca1125ef1b8b74a3a818215661ba0771c54c0f2cacf4022c99f1a0",
+          "reviewNote": "Revised title and note: sub (2) authorizes a 100% first-year waived-interest tax credit for eligible lenders subject to a $300,000 fiscal-year aggregate cap."
+        },
+        {
+          "number": 3,
+          "title": "Application by lender and certificate issuance by authority",
+          "bodySha256": "e9c485d16da83fd8e310f8e09ba19234fb2ada94735ba437342762043b24ab5f",
+          "reviewNote": "Verified sub (3): lender request, required loan documentation, and certificate issuance by authority."
+        },
+        {
+          "number": 4,
+          "title": "Department of revenue acceptance of tax credit certificate",
+          "bodySha256": "45aba2d6a551d109ded31b3f774402af70b62f3c6584b74bf1818dcd9930469b",
+          "reviewNote": "Verified sub (4): department of revenue acceptance of tax credit certificate in lieu of payment."
+        },
+        {
+          "number": 5,
+          "title": "Transferability, carryover, and refundability of lender credits",
+          "bodySha256": "f4ccc037d9e68a1ef485a6d781405ea86fc7c688f891c6dc691fe39149d7aa6c",
+          "reviewNote": "Verified sub (5): quarterly claims, 3-year carryover, nonrefundability, transferability, and commercial bank use."
+        },
+        {
+          "number": 6,
+          "title": "Sunset and termination dates of specialty crop tax credit",
+          "bodySha256": "4d2ceee6c6250138a848d3b91a88308549f26983353cd71f5467cb8a1f0dfd25",
+          "reviewNote": "Verified sub (6): statutory sunset on Dec. 31, 2033 and termination on Sept. 1, 2034."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 6 subsections and sunset/termination source notes; rewrote subs (1) and (2) titles and notes to distinguish the definition from the credit and $300,000 annual cap."
+    },
+    {
+      "id": "348.500:51532",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.500&bid=51532",
+      "sourceSha256": "a3a7d14a9074f645af58112159ac6685aec1dd5b12209e9dac0299af0ea3bd71",
+      "textSha256": "b54c9f89d385640f56ef284611227898de745f6274b9b5dfdce55827a6b90c27",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Title and citation as Family Farms Act",
+          "bodySha256": "1ae1080528c7136637eaf25c9c34cbd51c6f4554302f0b41b3a4ec1976a94712",
+          "reviewNote": "Verified sub (1): short title as the Family Farms Act. Source notes cite effective date 1-02-23."
+        },
+        {
+          "number": 2,
+          "title": "Definition of small farmer for Family Farms Act",
+          "bodySha256": "22df7aeaccca0ba8a4314b4e88ae9dee9bac736ff0a6249070fcbef3f63b770b",
+          "reviewNote": "Revised title and note: sub (2) defines a single term, 'small farmer' (Missouri resident with <$500,000 annual gross sales), not four terms."
+        },
+        {
+          "number": 3,
+          "title": "Family farm livestock loan program established",
+          "bodySha256": "3b0ddc0948d623471dc2a116fbe0469acd1d66c22ea3fb6a2cedcce763c0ab1f",
+          "reviewNote": "Verified sub (3): family farm livestock loan program established and administered by authority."
+        },
+        {
+          "number": 4,
+          "title": "Prior approval from eligible lender required",
+          "bodySha256": "f37d6bbf4e132b261d7372295c5d7b4e58ed2ad83d6bf4b8e85f92732a59d07c",
+          "reviewNote": "Revised title and note: sub (4) requires prior approval from an eligible lender defined under § 348.015."
+        },
+        {
+          "number": 5,
+          "title": "Maximum livestock loan amounts by animal category",
+          "bodySha256": "2540efdd99eeab70a25ea01afcbbb6075ac67006b52bffd36181b349b49cb0bf",
+          "reviewNote": "Revised title and note: sub (5) sets per-farmer caps by livestock type ($150k beef/dairy, $70k swine, $60k sheep/goats; draft note wrongly stated $300k)."
+        },
+        {
+          "number": 6,
+          "title": "Eligible borrower uses, ninety percent cap, zero first-year interest",
+          "bodySha256": "c228d3afce750d045a322c9e822a817e7932c9b32dfe78bf7c25b45ee5e1b3ed",
+          "reviewNote": "Revised title and note: sub (6) specifies breeding livestock use, 90% financing cap, and zero first-year interest (no 50% subsequent-year subsidy)."
+        },
+        {
+          "number": 7,
+          "title": "Authority approval and eligibility rulemaking factors",
+          "bodySha256": "e95894e3ce63866df9d158df048944684e36946509788c3c79111144083a4556",
+          "reviewNote": "Revised title and note: sub (7) directs authority approval and eligibility rulemaking considering four listed factors."
+        },
+        {
+          "number": 8,
+          "title": "Livestock purchase-price review and optional one percent fee",
+          "bodySha256": "a604c99a534897c4353bfe0deec5b113dd7a3c377ac9feb6d43168b423082e59",
+          "reviewNote": "Revised title and note: sub (8) directs livestock purchase-price review and permits an optional 1% one-time loan review fee."
+        },
+        {
+          "number": 9,
+          "title": "Small farmer participation in other agricultural programs",
+          "bodySha256": "a7d71e911bd9934a2461ede24db1f0dc4f7a461953229e657b694ea849bfa8f0",
+          "reviewNote": "Verified sub (9): participation does not preclude small farmer from other agricultural programs."
+        },
+        {
+          "number": 10,
+          "title": "Chapter 536 rule compliance and post-2006 nonseverability",
+          "bodySha256": "135b8007fde451864c4aaff0e888d6d1254b793bf3189a48b347e8f2b97254b8",
+          "reviewNote": "Revised title and note: sub (10) mandates chapter 536 compliance and nonseverability for rules proposed or adopted after Aug. 28, 2006."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 10 subsections and 1-02-23 effective date note against archived source text; rewrote subs (2), (4)-(8), and (10) titles and notes to match the Family Farms Act text."
+    },
+    {
+      "id": "348.505:18623",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.505&bid=18623",
+      "sourceSha256": "f895fb997f87b11103ceb171ceb82da5ddeda9abbca79a47bf72587893b88e75",
+      "textSha256": "967105b7d1ca9311a8923852b6a4442b7f3804e2dc1781952267110651fe3109",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of state tax liability for livestock loan credit",
+          "bodySha256": "67c5c4e7d8298c083e540238f247bae30d37e4d797c469b9749652ffda19f04d",
+          "reviewNote": "Verified sub (1): defines 'state tax liability' under chapters 143, 147, and 148, excluding withholding."
+        },
+        {
+          "number": 2,
+          "title": "Tax credit allowed for participating eligible lenders",
+          "bodySha256": "275d8b707bad5e19317fbdc3e8693dcb4e93d24ad177e683fd4b372b63043899",
+          "reviewNote": "Verified sub (2): 100% first-year waived-interest lender tax credit subject to $300,000 fiscal-year aggregate cap."
+        },
+        {
+          "number": 3,
+          "title": "Administration of lender tax credits by authority",
+          "bodySha256": "454b926cea4a4f5a4e7c57ce351c7b9cfad455639e30f12f60b0c27bb5b72162",
+          "reviewNote": "Verified sub (3): authority administration and issuance of tax credit certificates upon lender request."
+        },
+        {
+          "number": 4,
+          "title": "Department of revenue acceptance of tax credit certificate",
+          "bodySha256": "2e8bbcb065f95a07ec3b04305992a146bcd65b27d9506ee99046edecfc169eb8",
+          "reviewNote": "Verified sub (4): department of revenue acceptance of tax credit certificate in lieu of payment."
+        },
+        {
+          "number": 5,
+          "title": "Transferability, carryforward, and restrictions on tax credits",
+          "bodySha256": "949f73068196302a33ab2ffc5d411779c5bfd51503f2901073e881e5753ca08f",
+          "reviewNote": "Verified sub (5)(1)-(4): quarterly claims, 3-year carryover without refund, notarized transferability, and commercial bank use under § 148.064 (4 subdivisions, not 3)."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 5 subsections against archived source text; retained accurate draft titles and corrected sub (5) note to reflect all 4 subdivisions including commercial bank § 148.064 use."
+    },
+    {
+      "id": "348.518:18625",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.518&bid=18625",
+      "sourceSha256": "85c69beb7e11eba48d2ccc14babfd1dd9c455964e33e928ada468dfebb262480",
+      "textSha256": "45667818ddf318aa2ce89003b289d13fd06ea67f218171df4724ec71e69ac819",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Livestock feed and crop input loan guarantee program established",
+          "bodySha256": "a29c8a9f025df5c1e393053bf403a494fc76906d1a9fc876dd618d9610c9d038",
+          "reviewNote": "Verified sub (1): establishment of livestock feed and crop input loan guarantee program, rulemaking, and administration by authority."
+        },
+        {
+          "number": 2,
+          "title": "Chapter 536 rule compliance and post-2008 nonseverability",
+          "bodySha256": "1ee51474b09522f8f15c7277744fba6bde9e9ba49146eb62c034122fda1b74dd",
+          "reviewNote": "Revised title and note: sub (2) mandates chapter 536 compliance and nonseverability for rules proposed or adopted after Aug. 28, 2008."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections against archived source text; refined sub (2) title and note to accurately capture chapter 536 compliance and post-Aug. 28, 2008 nonseverability."
+    },
+    {
+      "id": "348.521:18626",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.521&bid=18626",
+      "sourceSha256": "bfb09747e785bbb9f975ea60b720af7fb8191937c30e63e181a43adeb704d953",
+      "textSha256": "58a122f60f711a248aaa8dafe346cd68530fa000ab3157beea9d4fecf7598bcd",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Certificates of guaranty for first loss up to fifty percent",
+          "bodySha256": "032f5fcd231de2d270ee88446414781e11adbfee8b5bab91b31a590f7822faf4",
+          "reviewNote": "Verified sub (1): certificates of guaranty covering first loss up to 50% on a declining principal basis, capped at $100,000 per individual, with subrogation."
+        },
+        {
+          "number": 2,
+          "title": "Definition of eligible lender under input guarantee program",
+          "bodySha256": "0f0f8ef15d9483b313a6817d20e26ef488e96b0193b04a4206c7bef31970e4e2",
+          "reviewNote": "Verified sub (2): eligible lender defined by reference to § 348.015(8)."
+        },
+        {
+          "number": 3,
+          "title": "Fifty dollar participation fee and optional annual guarantee fee",
+          "bodySha256": "c6905784f81c1f349714d67d828f5605b84a070fc0f6e0d5e86cd68cf003bb64",
+          "reviewNote": "Revised title and note: sub (3) requires a $50 one-time participation fee plus an optional special loan guarantee fee up to 1% per annum on outstanding principal."
+        },
+        {
+          "number": 4,
+          "title": "Default payments payable solely from input guarantee fund",
+          "bodySha256": "78d447cc2cb5020cb111cc8b531528cd67f608fc5584938aa4d6c062201d6105",
+          "reviewNote": "Verified sub (4): default payments payable solely from Livestock Feed and Crop Input Loan Guarantee Fund."
+        },
+        {
+          "number": 5,
+          "title": "Limit on total outstanding input loan guarantees based on reserves",
+          "bodySha256": "e3ce94e763eb78c4ae6e3c03cf512d50c49f8376104446c5476c9e8bfa673a4a",
+          "reviewNote": "Verified sub (5): limit on total outstanding guaranteed loans allowing immediate redemption of 20% under sound actuarial judgment."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 5 subsections against archived source text; revised sub (3) title and note to include the optional 1% annual special loan guarantee fee."
+    },
+    {
+      "id": "348.524:18627",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.524&bid=18627",
+      "sourceSha256": "d3d302244fd0dd5720a99e4aa366b6e6b9b1943f9bd386c782e0fa9543c2548a",
+      "textSha256": "193ad2eaff62d06ed7796a494209c67079476f07157d867718667702c393ad41",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Livestock Feed and Crop Input Loan Guarantee Fund established",
+          "bodySha256": "5fd02f0ed4039d27a4371a1532f3714d05a0edbc5b57e2a8d62d28565394efad",
+          "reviewNote": "Verified sub (1): Livestock Feed and Crop Input Loan Guarantee Fund established in state treasury, exempt from § 33.080 transfer."
+        },
+        {
+          "number": 2,
+          "title": "Deposit of recoveries and repayments on defaulted input loans",
+          "bodySha256": "76b8e016b9b706a1c9df2212e327f4fbab3c57874bbb0dcffa68afb9009e2124",
+          "reviewNote": "Verified sub (2): prompt deposit of recoveries and payments on previously defaulted guaranteed loans into fund."
+        },
+        {
+          "number": 3,
+          "title": "Administration of input guarantee fund by authority",
+          "bodySha256": "3005e3e7fae9678c6eb196836f95e14db7934e20d0689cba61003bf38a19aec0",
+          "reviewNote": "Verified sub (3): administration of guarantee fund by authority."
+        },
+        {
+          "number": 4,
+          "title": "General assembly appropriations limit up to four million dollars",
+          "bodySha256": "10c185d75dec89ba3e8f13a83eb6b9ab30f7c36219d62d60231b8d1ca4e54a09",
+          "reviewNote": "Verified sub (4): initial appropriations limit up to $4 million beginning FY 2008-09."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 4 subsections against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "348.530:18629",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=348.530&bid=18629",
+      "sourceSha256": "b2d4e4234e917785a3a3329e2eebc2bcdecdaa6da3c12daf537eea9d9398eb0c",
+      "textSha256": "670ec68cbeff36bbea06ab78137fdb97328a3a8baa96752595ecc20a7a35cb6b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Eligibility criteria for livestock feed and crop input loans",
+          "bodySha256": "bcebd48da9320dad92156824a8752b7d5329528f6a1188df47f21dd646dfd3c0",
+          "reviewNote": "Verified sub (1): individuals engaged in farming operations under § 348.015 financing up to 90% of livestock feed and crop input costs (no subdivisions 1-4)."
+        },
+        {
+          "number": 2,
+          "title": "Authority rulemaking establishing borrower eligibility standards",
+          "bodySha256": "38085fe65a6e866f4c60abebe8c361f443e6fa2687b6d60d83b910d7f710ca38",
+          "reviewNote": "Verified sub (2)(1)-(12): authority rulemaking for eligibility, nondiscrimination, and twelve listed loan guarantee terms."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and subdivisions (1)-(12) against archived source text; retained accurate draft titles and corrected sub (1) and sub (2) notes."
+    }
+  ]
+}

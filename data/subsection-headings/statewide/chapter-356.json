@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "356.041:19320",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=356.041&bid=19320",
+      "sourceSha256": "edf338736f501e53544a1e4eaf7817cf86cc561926866cb27c239da0a94af75d",
+      "textSha256": "28cdfefd9833c408792f4e7737dfcb7d25ade3483b935f3b2192891a5cab0080",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Natural person licensed professional incorporators",
+          "bodySha256": "862f4048d683f88d9f6283a39f3e7f61b2c45718d0562dfb6a45b5e64e4d5eec",
+          "reviewNote": "Verified sub 1: one or more licensed natural persons may incorporate a professional corporation for the same or multiple permitted professional services under §§ 356.011–356.261."
+        },
+        {
+          "number": 2,
+          "title": "Articles of incorporation contents and licensing authority certificates",
+          "bodySha256": "90462eb51d844e388451a218755f21ce30f76e03023bd229ab3e1f91a93f4afe",
+          "reviewNote": "Verified sub 2: articles state professional purpose, initial street address, and chapter 351 requirements; licensing authority certificate(s) verifying licensure, joint-practice permission, and name approval filed with secretary of state."
+        },
+        {
+          "number": 3,
+          "title": "Articles amendment changing corporate name and regulatory approval certificate",
+          "bodySha256": "fbfc27045cd86ef5061f1f040505183ad4e59d5ccb5ff8bb915b0f2fb3084739",
+          "reviewNote": "Verified sub 3: name-change amendments must attach and reference licensing authority approval certificate(s) in addition to chapter 351 requirements."
+        },
+        {
+          "number": 4,
+          "title": "Licensing authority rulemaking for certificate issuance fees",
+          "bodySha256": "15e5be252608876cec3a5e937deb18a9159708f6d94750caea026182502ffba2",
+          "reviewNote": "Verified sub 4: authorizes each licensing authority to promulgate rules setting reasonable fees for § 356.041 certificates."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 356.041 (bid 19320), all four subsections, and source note (L. 1986 H.B. 1230). Retained all four titles."
+    },
+    {
+      "id": "356.061:19322",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=356.061&bid=19322",
+      "sourceSha256": "9a2e7fe933e0aadba14eae4e22e046e525bced48efc080a449d11214c8986724",
+      "textSha256": "b5ae61b41a7a519f6bf66db9869b7e28062b50d196df535e2bff7c30a86997a5",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "General corporate powers, permitted investments, and business entity partnerships",
+          "bodySha256": "f4cf4dd99acc117f2ad71c3ecab1827ce4da682e77b11737826dcd5d4838749a",
+          "reviewNote": "Verified sub 1(1)-(2): grants chapter 351 powers; allows investments consistent with sub 2 and participation only in enterprises rendering authorized professional services or permitted/ancillary business."
+        },
+        {
+          "number": 2,
+          "title": "Limitation strictly to permitted professions and businesses",
+          "bodySha256": "4f1f1eeae411ccdda8f0ceda7eefbcbc9ab8381151e8c885eb761d8ea0fa121d",
+          "reviewNote": "Verified sub 2: professional corporation may not engage in any profession or business other than those permitted by its articles."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 356.061 (bid 19322), both subsections with subdivisions, and source note (L. 1986 H.B. 1230). Retained both titles."
+    },
+    {
+      "id": "356.111:19327",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=356.111&bid=19327",
+      "sourceSha256": "3d33cccf8d8587578881c2debaee1a29da3d895a45525b2c1c6aba6a88c96db9",
+      "textSha256": "e405ea5c2fb71185ddda77cb0a3f51da7e43c0f61e1c3f828222bc800cd2efc8",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Eligible share purchasers, revocable trusts, partnerships, and LLCs",
+          "bodySha256": "182dc1b3c682cf1a4e44665aabc72b2051d418a8bcce9d0ca0a71626cdf05091",
+          "reviewNote": "Verified sub 1(1)-(4): restricts issuance of shares/options/securities to licensed natural persons, qualifying revocable trusts, licensed general partnerships, authorized professional corporations, and licensed LLCs."
+        },
+        {
+          "number": 2,
+          "title": "Licensing authority share restrictions and voiding of unlawful shares",
+          "bodySha256": "080c3fa3865405fc2e2acc5bb969ae4dc9987178694414f0cff1f96e6669f56b",
+          "reviewNote": "Verified sub 2: licensing authority may further restrict share issuance by rule to prevent ethics violations (without disqualifying existing shareholders); shares issued in violation are void."
+        },
+        {
+          "number": 3,
+          "title": "Permitted share transfer classes and voiding of unlawful transfers",
+          "bodySha256": "ca3ce1fa429d6a9e2c9a49dee667f6b24a41991ff8aa03adb0f5fcf5c60f115e",
+          "reviewNote": "Verified sub 3: limits share transfers/pledges to qualified natural persons, general partnerships, qualifying revocable trusts, and professional corporations (LLCs omitted from sub 3 list); unlawful transfers are void except by operation of law or court decree."
+        },
+        {
+          "number": 4,
+          "title": "Mandatory transfer restriction notice conspicuously stated on share certificates",
+          "bodySha256": "6c95f427a72f861321810a956ae99295f752a877d520a5bfe8dce8c64e13fd8a",
+          "reviewNote": "Verified sub 4: share certificates must conspicuously state on their face that shares are subject to §§ 356.011–356.261 and licensing-authority transfer restrictions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 356.111 (bid 19327), all four subsections with subdivisions (1)-(4), and history/effective-date notes (L. 1986, A.L. 1991, A.L. 1993, effective 12-01-93). Noted sub 3 transfer list omits LLCs despite sub 1(4) issuance eligibility; retained all four titles."
+    },
+    {
+      "id": "356.141:19330",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=356.141&bid=19330",
+      "sourceSha256": "504edcb9c1419a7bff107377e2a39bc5997778e7ac89fac9786b946918e6ae6b",
+      "textSha256": "b95bf6fd380b0f4fb0398f8f0c61d2c0cfbb0e82945e1f0a2fc42785cdec2df1",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory transfer, redemption, or purchase upon shareholder death or disqualification",
+          "bodySha256": "2e954d5d37f7b6483bc8c33d57bb23cb0e57be38b08eb48cc1afa8aa8e1acdf4",
+          "reviewNote": "Verified sub 1: upon death, disqualification, or operation-of-law/court-decree transfer to a disqualified person, shares may be transferred to a qualified person or must be purchased/redeemed to the extent legally available funds allow."
+        },
+        {
+          "number": 2,
+          "title": "Share price determination by governing documents or agreement",
+          "bodySha256": "45a3dfed62d7a9df4a3e0c496dd21ce854d5a910d7e04b41edeb174893c2c75b",
+          "reviewNote": "Refined title (removed unstated appraisal). Verified sub 2: price/terms set by articles, bylaws, private written agreement, or post-event agreement, payable within 30 days (or agreed period) upon certificate surrender."
+        },
+        {
+          "number": 3,
+          "title": "Mandatory financial statements delivery to estate or disqualified shareholder",
+          "bodySha256": "8bdc20da522c61e740c5d5031d563092db1d1db67b3ebc1b3761566a5de3b45b",
+          "reviewNote": "Verified sub 3: absent governing-document or private price terms, corporation must deliver balance sheet (<=12 months old) and 12-month P&L statement within 30 days."
+        },
+        {
+          "number": 4,
+          "title": "Court petition for fair value determination and quasi in rem jurisdiction",
+          "bodySha256": "597fec00e9a3ffae9dc4f1740207d2e5acb9ef931f74f2fbca2395e764377771",
+          "reviewNote": "Corrected note (petition arises if no agreement within 90 days). Verified sub 4: plenary quasi in rem proceeding in registered-office county, installment payment option, appraiser appointment, and equitable interest."
+        },
+        {
+          "number": 5,
+          "title": "Court assessment of proceedings costs, expenses, and attorney fees",
+          "bodySha256": "41487210c2c941fbc540aee3db71571345f9da0a1e03340f232dbdae97ebcff3",
+          "reviewNote": "Verified sub 5: costs/appraiser expenses assessed against corporation (apportionable for arbitrary/vexatious/bad-faith refusal); discretionary counsel/expert fee award if fair value materially exceeds offer or no offer made."
+        },
+        {
+          "number": 6,
+          "title": "Automatic share cancellation upon expiration of statutory deadlines",
+          "bodySha256": "e98489d1d32a33cdaab021dcddf33700a1c6286649c684dceba87faa297936bf",
+          "reviewNote": "Verified sub 6: shares automatically cancelled on corporate books if uncompleted within 12 months after death or 6 months after disqualification/transfer, leaving only payment/valuation rights."
+        },
+        {
+          "number": 7,
+          "title": "Treasury share status for shares acquired by corporation",
+          "bodySha256": "3eee4bc48f299d677684b8ed10c1af141af8a66b283bba29b9c42ffa839b6641",
+          "reviewNote": "Verified sub 7: acquired shares may be held and disposed of as treasury shares."
+        },
+        {
+          "number": 8,
+          "title": "Temporary disqualification exception for periods under six months",
+          "bodySha256": "f6c3e172ec60eb27b274b6ba8c4a71d24481f5f83bb1cf59791ff64bf75b818b",
+          "reviewNote": "Verified sub 8: mandatory purchase does not apply where disqualification period is less than 6 months."
+        },
+        {
+          "number": 9,
+          "title": "Preemption and specific enforceability of contractual share purchase terms",
+          "bodySha256": "85e1a76059ba5f943a86dc65f93a7d727ac5eed855cdb2a121618c8511012dfd",
+          "reviewNote": "Verified sub 9 (source omits 'of' in 'preempt the right such estate'): articles/bylaws/private purchase provisions are specifically enforceable and preempt statutory valuation suits."
+        },
+        {
+          "number": 10,
+          "title": "Preservation of pension benefits and deferred compensation payments",
+          "bodySha256": "28442bff7e5c8e8d0c154a2dc1faa3596a7fbb358a2794c7acc40e07630d40c4",
+          "reviewNote": "Verified sub 10: does not prevent or relieve paying pension benefits or other deferred compensation as otherwise permitted by law."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 356.141 (bid 19330), all ten subsections, and source note (L. 1986 H.B. 1230). Revised sub 2 title (no appraisal in sub 2) and corrected sub 4 reviewNote (court petition filed if no price agreement within 90 days, not 'within 90 days')."
+    },
+    {
+      "id": "356.171:19333",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=356.171&bid=19333",
+      "sourceSha256": "22620a10a48f88d2447966b358c064bc7fb3a3ab7b6d3f277cd406a9adec2f3d",
+      "textSha256": "9d1f086e5971bd322c332c95133bfda52db109fbe367818cd7dd402f211fa6ea",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Individual liability for personal negligence and supervisory acts",
+          "bodySha256": "5a82ebfaea873df0b7a71c7f5efdf5bf29de8609ee4e670a51afaa79b6907e59",
+          "reviewNote": "Verified sub 1: employee liable for personal negligent/wrongful acts or omissions and negligent appointment/supervision/participation, but not for other employees' conduct without personal participation."
+        },
+        {
+          "number": 2,
+          "title": "Corporate vicarious liability for employee acts within scope of employment",
+          "bodySha256": "a85290872e34b20b588f55fdd191ed9cd29e067e56786c3c6ed78af8e358a73b",
+          "reviewNote": "Verified sub 2: domestic and foreign professional corporations are liable to the same extent as employees acting within scope of employment or apparent authority."
+        },
+        {
+          "number": 3,
+          "title": "Shareholder personal liability parity with general business corporations",
+          "bodySha256": "3e49390b423b48da7b4b5937623a221f4e4a7d564434d8c58d2e84e7f697cc1e",
+          "reviewNote": "Verified sub 3: except as otherwise provided by law, shareholder personal liability is no greater than that of a chapter 351 shareholder."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 356.171 (bid 19333), all three subsections, and source note (L. 1986 H.B. 1230). Retained all three titles."
+    },
+    {
+      "id": "356.201:19336",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=356.201&bid=19336",
+      "sourceSha256": "7be6350c240c5cd9eb33523ecc92e2b11dfdee9b5cb193185d7359a2ecf80c5f",
+      "textSha256": "eba289c0381978e0e110d5763626e6596fdbceaa73d2650dc334fad3380d8acf",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Election to convert to general business corporation under chapter 351",
+          "bodySha256": "0c5b31b6720a68acaf0079f387e0d35cfbd80a9b899e27d75b6fdcaa3a2c421e",
+          "reviewNote": "Corrected footnote description (*'of this act' in original rolls). Verified sub 1: majority voting-security election to amend articles to chapter 351, drop 'Professional Corporation'/'P.C.', and file copy with licensing authorities."
+        },
+        {
+          "number": 2,
+          "title": "Dissenting shareholder appraisal rights upon conversion",
+          "bodySha256": "55e71b25817d42fc83754c1218b55c5dbb9c44a27fe79baf3172d42666646a3f",
+          "reviewNote": "Verified sub 2: dissenting shareholders have the same chapter 351 rights as shareholders dissenting to a sale/exchange of all or substantially all assets."
+        },
+        {
+          "number": 3,
+          "title": "Mandatory conversion upon cessation of professional services",
+          "bodySha256": "6785989279e9cebb48a55ab275a7aec0dfc32d9704b9e5890f399057a2d04e7f",
+          "reviewNote": "Verified sub 3: professional corporation ceasing to render professional services must amend articles under sub 1 and conform to chapter 351."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 356.201 (bid 19336), all three subsections, and original-rolls footnote (*Words 'of this act' appear in original rolls). Corrected sub 1 reviewNote (removed erroneous claim of repealed sections); retained all three titles."
+    },
+    {
+      "id": "356.211:19337",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=356.211&bid=19337",
+      "sourceSha256": "d67b39192a8688d18b2d2004f03a92f57d4480ba4af5692dbe360d4128195beb",
+      "textSha256": "25b3ee6589ea3951f808b287d48a2bdd24b68bce34621e712e3debcf72c8da27",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Corporate registration report filing requirement and list of officers and shareholders",
+          "bodySha256": "6a5d4d4a9e7bc7dde1ff7f0ec9e855c4b14abb35aed7f8d294a4aa1946112a5f",
+          "reviewNote": "Verified sub 1: domestic and foreign professional corporations file § 351.120/§ 351.122 corporate registration reports listing names and residence/business addresses of all officers, directors, and shareholders."
+        },
+        {
+          "number": 2,
+          "title": "Secretary of state prescribed report form and execution",
+          "bodySha256": "7b9703ee327cde10fb86033c7063c9f1c39703224925be9c60038622d5000b02",
+          "reviewNote": "Verified sub 2: report made on secretary of state form and executed by an officer or authorized person."
+        },
+        {
+          "number": 3,
+          "title": "Filing fees, late penalties, and filing schedule",
+          "bodySha256": "4e9553b459b9a49aa658ed103fd4ce24f4d405fef8c9bfdebdd1ba0b1677fe49",
+          "reviewNote": "Verified sub 3: § 351.122/§ 351.125 filing fee, possible late penalty fees by secretary of state, and § 351.120/§ 351.122 deadlines."
+        },
+        {
+          "number": 4,
+          "title": "Statutory penalties under chapter 351 for failure to file",
+          "bodySha256": "914a5e6bdc84c315693fdf414e86133d8349f4b8ff7ec8c5ec1fbf99b1fa521d",
+          "reviewNote": "Verified sub 4: failure to file a qualifying report when due subjects the corporation to chapter 351 failure-to-file provisions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 356.211 (bid 19337), all four subsections, and history notes (L. 1986 through A.L. 2009 H.B. 481). Retained all four titles."
+    },
+    {
+      "id": "356.221:19338",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=356.221&bid=19338",
+      "sourceSha256": "db3aa14d01c8b097cdc15a2ef0dd3749a5aee9c16619212a16b72909bab86a9b",
+      "textSha256": "691400487618dbe19d3c4671114d8312d6c9dbbd91e9a4bae21c1245a79695a3",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Merger or consolidation conditioned on shareholder qualification",
+          "bodySha256": "66a3e94cce1855e07b2740236c7fba933d955899ee8f0c2b6d03f75831fe56ca",
+          "reviewNote": "Verified sub 1: professional corporation may merge or consolidate with a domestic or foreign corporation only if every shareholder of each corporation qualifies as a shareholder of the surviving/new corporation."
+        },
+        {
+          "number": 2,
+          "title": "Compliance requirements for surviving corporations rendering Missouri services",
+          "bodySha256": "ad0a084ab1a195c69b72f47e3d258c0c61aa3e8d13aff927b53bc2f3c5262896",
+          "reviewNote": "Verified sub 2: surviving/new corporation rendering professional services in Missouri must immediately comply with §§ 356.011–356.261; otherwise it is not subject to them and may not provide Missouri professional services."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 356.221 (bid 19338), both subsections, and source note (L. 1986 H.B. 1230). Retained both titles."
+    },
+    {
+      "id": "356.231:19340",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=356.231&bid=19340",
+      "sourceSha256": "8caf1d65a2bc4d9cfbaa63ac36588ca4302b8e0f89cbfb8a618eaf499c3623bf",
+      "textSha256": "702b34656520ea4e9e976c6cde230e07e3ca50f3ed086ce0190e2bddff0c3938",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Certificate of authority required for foreign professional corporations and excluded activities",
+          "bodySha256": "c0acf4a9d8817ba8aada607fe8a35123c127602cadfb43066f0efd055c2156bc",
+          "reviewNote": "Verified sub 1(1)-(6): foreign professional corporations need a secretary of state certificate of authority to provide professional services, excluding litigation, internal meetings, bank accounts, borrowing/security, debt collection, and isolated transactions."
+        },
+        {
+          "number": 2,
+          "title": "Prerequisites for procuring foreign certificate of authority",
+          "bodySha256": "56016f4933d46342d477bd7342e352d9eb6395b3f841efd37e39659726d52376",
+          "reviewNote": "Verified sub 2(1)-(3): requires compliant corporate name, permitted §§ 356.011–356.261 purposes, and qualified shareholders, majority of directors, and all officers except secretary and treasurer."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 356.231 (bid 19340), both subsections with subdivisions, and source note (L. 1986 H.B. 1230). Retained both titles."
+    }
+  ]
+}

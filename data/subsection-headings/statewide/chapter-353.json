@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "353.040:18987",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=353.040&bid=18987",
+      "sourceSha256": "9141f88975ee7c0780d23db6beb8db569132f1cc7e0f7177b06591dcb16483d2",
+      "textSha256": "608b724c3bb31fd7ae8de2932741c1b22e9804c1e4ace1a41ae43c8dd28b41c2",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Net earnings limitation and deductible operating cost computation",
+          "bodySha256": "e06852b0ee93ce7902548c33249196938806ad3270d64f79f5e910a2171fa125",
+          "reviewNote": "Verified sub 1(1)-(3): caps life insurance company urban redevelopment net earnings at 8% per annum of project cost (or amortized balance) after deducting operating costs, taxes/insurance, and <=60-year amortization."
+        },
+        {
+          "number": 2,
+          "title": "Surplus earnings reserve, amortization acceleration, and municipal turnover",
+          "bodySha256": "6bcb00026b744fa9c54f40fb9317a6fcddef0411e8c328a63e0ba381d48403b3",
+          "reviewNote": "Verified sub 2: development plan may allow surplus earnings reserve for return maintenance, prior deficiency offsets, accelerated amortization, project enlargement, or rent reduction, with remaining surplus turned over to city when § 353.110 tax relief ends."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 353.040 (bid 18987), both subsections with subdivisions (1)-(3), and history notes (L. 1945, A.L. 1947). Retained both titles."
+    },
+    {
+      "id": "353.110:35959",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=353.110&bid=35959",
+      "sourceSha256": "ebdadabccba26f08f19a29ff3742ae6b0ade32f70ac133eefad661f01f1d58b5",
+      "textSha256": "538d1bef1abbcb205cfbdc63d54864f34ad09d44a3d1167eef9a8b61533acce3",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Initial ten-year ad valorem tax abatement based on land-only assessment",
+          "bodySha256": "50c7a2051a023a22549a483369e5e1c3c822ba35ec2f15309be9e26bf7baea02",
+          "reviewNote": "Verified sub 1: up to 10-year exemption from ad valorem taxes except land-only pre-acquisition assessed valuation, frozen during compliance with authorized development plan except per sub 4."
+        },
+        {
+          "number": 2,
+          "title": "Subsequent fifteen-year partial tax exemption and adjacent land assessment",
+          "bodySha256": "1466d21d87f6a01342140e2ddf4d84d7334ea451116590dc3a75637e98a0c79b",
+          "reviewNote": "Verified sub 2: adjacent-land assessment for previously tax-exempt land, up to 15-year 50%-of-true-value assessment cap, and full taxation after 25 years (or earlier election) free of chapter 353 limits."
+        },
+        {
+          "number": 3,
+          "title": "Prerequisites for tax abatement: impact statement, public hearing, and ordinance",
+          "bodySha256": "902ec0c795e5a0913cc7dc8dcc950686eba15717e3f8302602b69565e776f0be",
+          "reviewNote": "Verified sub 3(1)-(3): abatement requires written tax-impact statement and notice to affected political subdivisions, public hearing, and ordinance setting expiration of development/eminent-domain/abatement rights if property not acquired."
+        },
+        {
+          "number": 4,
+          "title": "Payments in lieu of taxes and emergency services district reimbursement",
+          "bodySha256": "65bfa4fa402830ff73fd5e75de56d4454d5257afefcb3736a075c24de98fdf73",
+          "reviewNote": "Verified sub 4(1)-(2) and original-rolls footnote (*'chapter' before 321): contractual PILOTs allocated pro rata, and beginning Aug. 28, 2018, 50%–100% reimbursement to chapters 190/321 emergency-services districts/counties with annual rate-setting and recalculation on plan amendment."
+        },
+        {
+          "number": 5,
+          "title": "Grandfather exemption for pre-existing phased development plans",
+          "bodySha256": "266aadb0ff441d577ac40a8c22bf9cb7df8562334d805c2b4e8dce2121da0174",
+          "reviewNote": "Verified sub 5: sub 3 does not apply to amendments to phased development plans approved before sub 3's effective date with construction in progress."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 353.110 (bid 35959), all five subsections with subdivisions, history notes (L. 1945 through A.L. 2018 S.B. 870), and original-rolls footnote (*Word 'chapter' appears here in original rolls in sub 4(2)(b)). Retained all five titles."
+    },
+    {
+      "id": "353.130:18996",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=353.130&bid=18996",
+      "sourceSha256": "b0b42c265d9a71cfecb800d6f461aba3cd350ebc29e052e0e60adaec2a88e367",
+      "textSha256": "a5311e03377caa5fc13502cf2292011d7c0b1a80a7b5101957713c535097238b",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Corporate authority to acquire real property or options",
+          "bodySha256": "083c5e4c4b11768bb57d30f8137758c6f680456590e7cf8285a2fcb24033d428",
+          "reviewNote": "Refined title to match text. Verified sub 1: urban redevelopment corporation may acquire real property or options in its own name or nominees' names by gift, grant, lease, purchase, or otherwise."
+        },
+        {
+          "number": 2,
+          "title": "Eminent domain authority for pre-2007 agreements",
+          "bodySha256": "84d7918cf8b1b2072aed21c45644db92126c5d0b89f2317672e12920cd99b8b4",
+          "reviewNote": "Revised title to include Dec. 31, 2006 agreement cutoff. Verified sub 2: eminent domain right applies to redevelopment agreements executed on or before Dec. 31, 2006, only when empowered by municipal legislative authority."
+        },
+        {
+          "number": 3,
+          "title": "Condemnation procedure under chapter 523 and public property consent",
+          "bodySha256": "1d229a5da4de285eb8d1c9455daf6cec9efc90c095cca53b3d3a655d3ba614f6",
+          "reviewNote": "Verified sub 3: chapter 523 or other statutory condemnation procedure for agreements executed on or before Dec. 31, 2006; public-use property of city, county, state, or political subdivision cannot be taken without its consent."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 353.130 (bid 18996), all three subsections, and history notes (L. 1943, A.L. 1945, A.L. 2006 H.B. 1944). Revised sub 1 title (gift/grant/lease/purchase/options) and sub 2 title to preserve the critical Dec. 31, 2006 redevelopment-agreement cutoff."
+    },
+    {
+      "id": "353.150:18998",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=353.150&bid=18998",
+      "sourceSha256": "09cc0105a72621ba56e5b6b699633cefd2951d257ca7a5db68db8027f8d2e660",
+      "textSha256": "03b792d76bee99cdb99a06af1fbd7922146fe2da3c460d4bfb50a61365c714cd",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Borrowing authority and mortgage lien limits to single development area",
+          "bodySha256": "24b7cef72fe76f553bd57082cbf7446d2ac5328abae4726be4f6a5436803d3eb",
+          "reviewNote": "Verified sub 1: urban redevelopment corporation may borrow funds secured by an amortizing mortgage limited to real property within a single development area."
+        },
+        {
+          "number": 2,
+          "title": "First mortgage securities as legal investments for fiduciaries and financial institutions",
+          "bodySha256": "00107215d2aa92dcec1be51d13ec4e2765f0aeeaf62cae2e620d1e8e975af939",
+          "reviewNote": "Verified sub 2(1)-(5): first-mortgage certificates, bonds, and notes are legal investments for fiduciaries, banking/insurance entities, and state finance/DCI directors acting as conservators/liquidators."
+        },
+        {
+          "number": 3,
+          "title": "Subordinate and junior mortgage liens permitted",
+          "bodySha256": "94f7cabf6a5b6e80de8f76aa968f7b65639471108a3c9946402b3221f74f52e5",
+          "reviewNote": "Verified sub 3: mortgage on development-area real property may create a first, second, or other junior lien."
+        },
+        {
+          "number": 4,
+          "title": "Property disposition upon foreclosure and tax relief eligibility for purchasers",
+          "bodySha256": "16995537bec8eee92dcd0b9dfed5e29f3123ceb70ebcbebc990f68d8df0859e8",
+          "reviewNote": "Verified sub 4: allows property sale/disposition; city 'may' grant continuing § 353.110 tax relief to foreclosure/voluntary purchasers following the plan without imposing earnings caps on non-redevelopment/non-life-insurer purchasers."
+        },
+        {
+          "number": 5,
+          "title": "Invalidation of earnings limits on non-redevelopment corporation purchasers",
+          "bodySha256": "d6dbf0d2bed959c37a1149e1e26868c575c1f6634f566340f548807b4034313b",
+          "reviewNote": "Verified sub 5: voids any earnings limitation on non-redevelopment-corporation / non-life-insurer purchasers under any existing or future plan or contract."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 353.150 (bid 18998), all five subsections with subdivisions (1)-(5), and history notes (L. 1943, A.L. 1945, A.L. 2008 H.B. 2058). Retained all five titles."
+    }
+  ]
+}

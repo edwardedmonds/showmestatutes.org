@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "350.017:18656",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=350.017&bid=18656",
+      "sourceSha256": "c5dc9fcf2fa68bdf1e5c6acc80d0dfa00af022943635acab313a50c9e79206c9",
+      "textSha256": "8692bd1529060eb248d3bbd62a7bc804122d1c0282634b5d4e46ef38b3de6a74",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exemption from corporate farming restrictions for swine production in specified counties",
+          "bodySha256": "83b4c661343265b757485e65cac9071512542f27ed7d063a528418708d057ab0",
+          "reviewNote": "Verified sub 1(1)-(3): exempts agricultural land in use as of Sept. 28, 2007 by a corporation, LLC, or LLP for swine production in three described third-class county population/government tiers from § 350.015."
+        },
+        {
+          "number": 2,
+          "title": "Prohibition on expanding swine operations and permitted building maintenance",
+          "bodySha256": "2b6676c180c87325ef355f612ad6d0701fc9333ecdcf7ea513474d7c4242fa30",
+          "reviewNote": "Verified sub 2: bars expanding operations (including contiguous land purchase or new/expanded animal housing), while permitting repair, maintenance, rebuilding, or activities required by state or federal law."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 350.017 (bid 18656), both subsections with subdivisions (1)-(3), and source note (L. 2012 S.B. 631). Verified Sept. 28, 2007 swine-production exemption in three described third-class county tiers and no-expansion rule with maintenance/compliance carve-out. Retained both titles."
+    },
+    {
+      "id": "350.020:18657",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=350.020&bid=18657",
+      "sourceSha256": "2b06b509186b6efc1fe41643dcdfa81fcbeb1e3293eabd26331e38646b997e64",
+      "textSha256": "2288e00759dfd2984eb9f80b81bf2c15f7042aea63a37105403d38e451cb2999",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Farming corporation initial reporting requirements and contents",
+          "bodySha256": "330e16786aac6c66167ce0a20a68850d21ff06e9e64342ab48aa8b7ffe4f70da",
+          "reviewNote": "Verified sub 1(1)-(4): corporations farming or proposing to farm after Sept. 28, 1975 must file a report with the agriculture director listing incorporation, agent/office, land parcels, and officers/directors."
+        },
+        {
+          "number": 2,
+          "title": "Additional report contents for family or authorized farm corporations",
+          "bodySha256": "f73b408206229f1432f0ba46df6b10a584de833b028419829857eec4e4634360",
+          "reviewNote": "Verified sub 2(1)-(3): additional disclosures for family farm or authorized farm corporations (shares held by farm-resident/active farmers and 3rd-degree relatives, shareholder list, nonfarm net-receipt percentage)."
+        },
+        {
+          "number": 3,
+          "title": "Report filing prerequisite prior to commencing farming",
+          "bodySha256": "7bf97b1da57d6d119a77938d7aa7dfa491c7a06cb07599c756d0cecec6636f8a",
+          "reviewNote": "Verified sub 3: no corporation may commence farming in Missouri until it has filed the required § 350.020 report."
+        },
+        {
+          "number": 4,
+          "title": "Event-triggered update reports for nonfamily farm corporations",
+          "bodySha256": "12c2925e836b81eb1cd4799015f2969bfbb101f0219b72689d2a2e9d3b3096c9",
+          "reviewNote": "Verified sub 4(1)-(3): farming corporations other than family farm corporations must file updated sub 1 reports upon info changes, controlling-interest changes, or land sale/cessation of farming."
+        },
+        {
+          "number": 5,
+          "title": "Criminal misdemeanor penalty and fines for failure to file or false reports",
+          "bodySha256": "ceca7d4c7fb00c14f3853fa24848605e830654cbf27fdb91ce2a8a8e27a9184c",
+          "reviewNote": "Verified sub 5: failure to file a required report or use of false information is a misdemeanor punishable by a fine of $500 to $1,000."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 350.020 (bid 18657), all five subsections with subdivisions, and history notes (L. 1975 H.B. 655 § 3, A.L. 1979 S.B. 41). Verified initial and event-triggered farming reports, family/authorized farm disclosures, pre-farming filing bar, and $500–$1,000 misdemeanor fine. Retained all five titles."
+    }
+  ]
+}

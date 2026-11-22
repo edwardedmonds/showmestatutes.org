@@ -1,0 +1,896 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "367.021:19844",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.021&bid=19844",
+      "sourceSha256": "c7ee277ca8368380674f3c46f26739ffc35b9b0bdd70ea7a278b44a954e2eac5",
+      "textSha256": "21b70620a362c0a998eac1857d955becbc8c14bc9f3bdc437def7a1d8a3d79ed",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority to make secured personal credit loans",
+          "bodySha256": "798a7054f3a5b6e220860d64549701a4e83a34fc6dda9583eb44fd8a7bd9a555",
+          "reviewNote": "Authorizes secured personal credit loans subject to local police regulations; lender business classification immaterial."
+        },
+        {
+          "number": 2,
+          "title": "Maximum interest rate and storage charges",
+          "bodySha256": "8bce01911455b907c2dfc269fde5cf9da81843d2c917c70f649adffe0894f107",
+          "reviewNote": "Caps interest on secured personal credit loans at two percent per month; permits charges for storage and security of pledged goods."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and history note against archived text; confirmed authority to make secured personal credit loans, 2% monthly interest cap, and permissive storage/security charges."
+    },
+    {
+      "id": "367.031:48473",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.031&bid=48473",
+      "sourceSha256": "8cc35896a4d08c8a8d9e9f3be1981e8bd25b1084dc6953d2bec7664a38e0dbdf",
+      "textSha256": "5b0f9f6d1e243328d3efa9ac68bf1ecf834c3f61705454c3f429d5b18024a928",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Receipt requirements for secured personal credit loans",
+          "bodySha256": "68df8292beef92cde8ed2af36c9a71bc8e98cb3cb26c2d9b7c65cbbb0eb641ca",
+          "reviewNote": "Mandatory receipt for pawn transactions containing nine statutory disclosures including customer ID, loan amount, service charge, and forfeiture terms."
+        },
+        {
+          "number": 2,
+          "title": "Local ordinance reporting and electronic database transmission",
+          "bodySha256": "556ca8a7d7ba174d901b4179d6b747047c09a36688eb256f4db3db649a0db135",
+          "reviewNote": "Authorizes electronic transmission to third-party database to satisfy local law enforcement reporting; paper copies for on-site inspection."
+        },
+        {
+          "number": 3,
+          "title": "Definitions for electronic pawn reporting",
+          "bodySha256": "bfeb7e19ac77a43861033cb5bfa0466cca4d44146bdc66f146ef897a05232082",
+          "reviewNote": "Defines database, permitted user, reportable data, reporting pawnbroker, and search for pawnbroker reporting system."
+        },
+        {
+          "number": 4,
+          "title": "Database purpose and investigative use",
+          "bodySha256": "02b83c3fecadd43ed42a79be056a455f2fffb665cbac9dbd31556b758a9c3904",
+          "reviewNote": "Database provides property crime investigative information while protecting pawnbroker and customer privacy rights."
+        },
+        {
+          "number": 5,
+          "title": "Database contents and access security",
+          "bodySha256": "63c6e9de7476e985ae54489994d26b2ee39becc1c0cea4f615415f5d4492a5c3",
+          "reviewNote": "Database contains recorded pawn and purchase data with security features restricting access to permitted users."
+        },
+        {
+          "number": 6,
+          "title": "Database user fees and pawnbroker cost immunity",
+          "bodySha256": "61ce2a7118022d6e984cfdd0c48ccbc897dc3c859e14082c6b315cfcf3bb8778",
+          "reviewNote": "Law enforcement agencies charged based on permitted users; pawnbrokers and customers exempt from database costs."
+        },
+        {
+          "number": 7,
+          "title": "Search criteria, audit logging, and criminal penalties",
+          "bodySha256": "abb4ff0c482cadba8fc6270b2b789a9b1879b1e4b388b4cc0d4255cd9ad6458e",
+          "reviewNote": "Secure internet access, criminal case identifier requirement, audit log of searches; class D felony for fraudulent access."
+        },
+        {
+          "number": 8,
+          "title": "Electronic transmission deadlines and paper record availability",
+          "bodySha256": "969f8e3394c9ee1c2cac71bcbee8205607a5089d5baff08725b76c72a3f4ee52",
+          "reviewNote": "Daily internet transmission to database by end of next business day and on-site paper records availability."
+        },
+        {
+          "number": 9,
+          "title": "Data error correction and computer malfunction safe harbor",
+          "bodySha256": "c9580595469351f1d1d47058571fdc89626f6a869839377f9b967b41b04f5a05",
+          "reviewNote": "Thirty-day error correction period; 30 to 60 day safe harbor for good-faith repair of computer malfunctions with alternative reporting."
+        },
+        {
+          "number": 10,
+          "title": "Limitation on pawnbroker reporting expenses",
+          "bodySha256": "7816dd4ddb80b9bffa3e925fd27ef4a7e208706a78f62a9bcd1fa68387b7d6eb",
+          "reviewNote": "Pawnbrokers not obligated to incur costs other than standard internet service for database reporting."
+        },
+        {
+          "number": 11,
+          "title": "Procedure for lost, destroyed, or stolen pawn tickets",
+          "bodySha256": "ca50d338873170c72f6f9d0d0303b0f35221ef34a32bc8ac80e3aa97a282b714",
+          "reviewNote": "Written notice invalidates ticket; requires notarized loss affidavit before reissuance or redemption of pledged goods."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 11 subsections and history note against archived text; confirmed pawn receipt disclosures, third-party electronic database reporting, class D felony fraudulent access, malfunction safe harbor, and notarized lost-ticket affidavit."
+    },
+    {
+      "id": "367.040:19847",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.040&bid=19847",
+      "sourceSha256": "8705906ec734b2c9b63cc896fa9c1441de63844b7bbf50715f2bff8677dc6d66",
+      "textSha256": "8dab30f6f33516a77ec852e8a03c8e2999b56e2bb71a03781d4f3ccb233bcc65",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Maturity schedule, default, and 60-day redemption period",
+          "bodySha256": "cd01fc0b3a4e6829164b10b97e124acc3b254bb65e8349c5207cab75e75e91df",
+          "reviewNote": "Lump sum maturity after 30 days; 60-day retention upon default; title passes to lender on 61st day without foreclosure."
+        },
+        {
+          "number": 2,
+          "title": "Absence of borrower obligation to redeem",
+          "bodySha256": "b0f41f0961dad3f3186f00b617689ead965cc277546d2d6eeefc7f0f645a7dda",
+          "reviewNote": "Pledgor under no legal obligation to redeem pledged goods or make payments on pawn transaction."
+        },
+        {
+          "number": 3,
+          "title": "Presumption of entitlement to redeem",
+          "bodySha256": "d6c0241e15b746f5c868aa103aa32f6f35d93a2943a801aad4eed88d274e6878",
+          "reviewNote": "Person presenting pawn ticket and proper identification presumed entitled to redeem pledged goods."
+        },
+        {
+          "number": 4,
+          "title": "Prohibited pawnbroker acts and secondhand purchase records",
+          "bodySha256": "6fa264ff2e9d7bb68052e7d756d49d73603252b40ebc19027b5cdb230aa7a52e",
+          "reviewNote": "Prohibits under-18 pledges, personal liability agreements, waivers, negligence; requires replacement of lost goods and secondhand purchase records."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections and history note against archived text; confirmed 30-day maturity, 60-day redemption and automatic title passage, non-obligation to redeem, and prohibited pawnbroker acts/secondhand records."
+    },
+    {
+      "id": "367.043:19848",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.043&bid=19848",
+      "sourceSha256": "a98f7124bc0a7e56b8e53d145d8f4cd31c8685d4b1bbddad5a2514e4b7509dde",
+      "textSha256": "47e755b0db8d18de631e7a19396cde02830262bcd7924d85535a430811e4ff40",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Municipal pawnshop license requirement and qualifications",
+          "bodySha256": "9a6fcfc7c462a73be98e4e773e250e7251271829069fa7c35b6221fcdc388044",
+          "reviewNote": "Municipal license required; applicant qualifications include good moral character, $50,000 net assets, and criminal conviction review."
+        },
+        {
+          "number": 2,
+          "title": "CPA verification of net assets requirement",
+          "bodySha256": "d64c9c420fb70c51b6302dcee3f613f84325ac4b984f865b0be117ee0afe89a6",
+          "reviewNote": "Independent CPA review and balance sheet finding permitted to verify $50,000 net assets requirement."
+        },
+        {
+          "number": 3,
+          "title": "Application contents, investigation fee, and annual fee",
+          "bodySha256": "c2285f6263cf6d8e3d1d6ded446e28ea2b5e0fc857f03460656da69d3b46bece",
+          "reviewNote": "Sworn application, disclosure of principals, $500 initial / $250 additional investigation fee, and $500 annual fee."
+        },
+        {
+          "number": 4,
+          "title": "Optional surety bond requirement and terms",
+          "bodySha256": "7da6dda5b0799e55838f42597e34221ef592fb8bbf562f923b894d959df0e96b",
+          "reviewNote": "Discretionary surety bond up to $5,000 running to state for compliance with pawn laws and regulations."
+        },
+        {
+          "number": 5,
+          "title": "Recordkeeping and two-year preservation period",
+          "bodySha256": "152dd0963646e50820f48f285c18b7d93529edc7d90bed77d821e373f874d521",
+          "reviewNote": "Licensee must maintain adequate books and records of pawn transactions for at least two years."
+        },
+        {
+          "number": 6,
+          "title": "Grandfathering of existing pawnshop operators",
+          "bodySha256": "4d0182b80cc2607119b2e9cf21a728088b92ede2a9d50c993fc6bcf42bd29c8c",
+          "reviewNote": "Pawnbrokers operating on August 28, 1990 exempt from new licensing; $500 annual fee in lieu of occupational license."
+        },
+        {
+          "number": 7,
+          "title": "Excursion gambling boat proximity prohibition",
+          "bodySha256": "5aef735ac331847504ed477cd32d0c49e9852c02800e630b95f15489e016eaee",
+          "reviewNote": "Bans initial pawnshop licensing within one-half mile of gambling boat dock or application site on or after May 20, 1994."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 7 subsections and Effective 5-20-94 note against archived text; refined subsection (4) title to preserve conditional surety bond requirement and noted municipal/county licensing, 1990 grandfathering, and 1994 gaming proximity bar."
+    },
+    {
+      "id": "367.044:19849",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.044&bid=19849",
+      "sourceSha256": "3c74feb38b8a4e60316070e48a2b80b3e456de122808fdc854d92ac8d85eb940",
+      "textSha256": "aff57746f3e580159278c5607bc4dbd8a4ef2ad5b378de5e0b3b4c23c78a6cea",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions for misappropriated property recovery",
+          "bodySha256": "d0af59c102c55df63a2b55ff9dc71b1a0eca2af7c81aaf2872ffc546d3efea66",
+          "reviewNote": "Defines claimant, conveying customer, hold order, law enforcement officer, misappropriated, pledgor, purchaser, and seller."
+        },
+        {
+          "number": 2,
+          "title": "Limitation of pawnbroker recourse to pledged goods",
+          "bodySha256": "5c836e2ab4dd1fbffdcfbb96570f94e74e19181e6681d1e65206e0d3978a5fb4",
+          "reviewNote": "Pawnbroker recourse limited strictly to pledged goods unless property was misappropriated."
+        },
+        {
+          "number": 3,
+          "title": "Mandatory proof of identification for sellers and pledgors",
+          "bodySha256": "568f601373b49a888f00fa5945aee703bb68a2aa80879169212acb9ce86b6a4f",
+          "reviewNote": "Requires government photo identification and address verification for all persons selling or pledging property."
+        },
+        {
+          "number": 4,
+          "title": "Thirty-day holding period absent proof of identification",
+          "bodySha256": "6a74871d45e290004794fd63350105eaf0bde4708024782c3122d7be535283b7",
+          "reviewNote": "Mandatory 30-day holding period and signed ownership statement when seller lacks proof of identification."
+        },
+        {
+          "number": 5,
+          "title": "Claimant demand requirements for misappropriated property",
+          "bodySha256": "5995ca2c7c6e3a97c301834e00bd6c7da03cbd74a8d8b88363da8caf72055422",
+          "reviewNote": "Written demand, police theft report with description, and signed sworn affidavit agreeing to assist criminal prosecution."
+        },
+        {
+          "number": 6,
+          "title": "Seven-day return window and small claims petition",
+          "bodySha256": "1c49b51a6af39679ce3cd1d879ce2014d71d3b71fabc735a704c84afab50ba29",
+          "reviewNote": "Return of property in presence of officer within seven days absent hold order; court petition with fees to prevailing party."
+        },
+        {
+          "number": 7,
+          "title": "Pawnbroker cause of action for false claimant affidavit",
+          "bodySha256": "810b81181e4bd405d524f08a7ca426fd2fe37164b0abd76addfa61ada5b4f2f8",
+          "reviewNote": "Pawnbroker action against claimant for property value and attorney fees upon false affidavit or refusal to cooperate."
+        },
+        {
+          "number": 8,
+          "title": "Pawnbroker third-party action against conveying customer",
+          "bodySha256": "0f30ae582743bd285aa64cdabc91bc54e453410b6f934affe5361f0362454593",
+          "reviewNote": "Authorizes pawnbroker to join conveying customer as third party to recover full transaction amount, fees, interest, and costs."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 8 subsections and history note against archived text; confirmed definitions, nonrecourse rule, ID/30-day hold rules, claimant affidavit demand, 7-day return/small claims petition, and third-party customer joinder."
+    },
+    {
+      "id": "367.045:19850",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.045&bid=19850",
+      "sourceSha256": "3c792f4477f8fe1c6f751f42af2a63dfc2387de55062286ea72f8c101cc2e3cb",
+      "textSha256": "0434810e71aec5080fca3b85a852c3c83054ebf33ec8b5b59307183b74f09ba5",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Crime of fraudulently pledging or selling misappropriated property",
+          "bodySha256": "5b73ce32f48d0972f697dc4c7507cdcc0a8e8d29be99501f8278c8eb68eeed1d",
+          "reviewNote": "Criminal offense when conveying customer fails to repay pawnbroker within ten business days of written certified mail demand."
+        },
+        {
+          "number": 2,
+          "title": "Penalties based on amount received",
+          "bodySha256": "8d792655fd3009c8b4c163411652a4fb92d77f8856f72fb1974addffe09408a0",
+          "reviewNote": "Class B misdemeanor under $50; class A misdemeanor over $50 and under $150 (exact $50 unspecified in text); class D felony for $150 or more."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and Effective 1-01-17 note against archived text; confirmed 10-business-day repayment demand offense and tiered penalties (retaining statutory text where exact $50 threshold is unspecified)."
+    },
+    {
+      "id": "367.046:19852",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.046&bid=19852",
+      "sourceSha256": "27332bc3a13937a0306eb88d8bd928980daafa4101b8da9a3a90bf2d13c4ccd5",
+      "textSha256": "f193c79c0921d04d936ce4b7846c64b183e464d3cfbccce7846f55b4cc5603c2",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Purchaser court petition for return of purchase amount",
+          "bodySha256": "0b33a0ebaaf20c89cbf125583c7942071fecd6e6d48befb04985681f8bdb5151",
+          "reviewNote": "Court petition in county where pawnshop is located, small claims jurisdiction, and holding property pending resolution."
+        },
+        {
+          "number": 2,
+          "title": "Pre-judgment settlement and refund by pawnbroker",
+          "bodySha256": "fe5446d04a52f60290fadb3940c92dcce57fc7bb55dcfab2eb80f3ffcd49ff6b",
+          "reviewNote": "Voluntary purchase price refund conditioned solely upon petition withdrawal; parties bear own costs."
+        },
+        {
+          "number": 3,
+          "title": "Third-party action against conveying customer and liability",
+          "bodySha256": "aadf5037ab8e0d6edd83465e81e9dd09ad2263ca0f940ed082dacc0ce9b71946",
+          "reviewNote": "Third-party joinder of conveying customer; purchaser costs and attorney fees; customer liability for full amount, fees, and costs."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 3 subsections and history note against archived text; confirmed purchaser petition/small claims jurisdiction, pre-judgment refund settlement, and conveying customer third-party liability."
+    },
+    {
+      "id": "367.047:19853",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.047&bid=19853",
+      "sourceSha256": "f4b986001dd1e65cfb08c7970a6eb50a6b0e8703ae224a955fddbd8fbf3842f9",
+      "textSha256": "d5aca7039ba3ff8c6fa3d5d5348c57c071e947e793ef296ab8a0db6c5add275f",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Release of hold order property for criminal investigation",
+          "bodySha256": "01d9bc9766a972e2ecbbd45a876a5ed2169feac7004d16d9d2fa6eea875df9d4",
+          "reviewNote": "Written officer request for criminal evidence; officer receipt; 120-day investigation limit before return or warrant."
+        },
+        {
+          "number": 2,
+          "title": "Restriction on property release or disposition",
+          "bodySha256": "9bfabc9569751a94037fb8a4f6b383504c80c403ebe498415ce2d094d12eade1",
+          "reviewNote": "Pawnbroker prohibited from releasing property subject to hold order except upon court order or expiration."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and history note against archived text; confirmed release of hold-order property to peace officer for 120-day criminal investigation without waiver and disposition restrictions."
+    },
+    {
+      "id": "367.048:19854",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.048&bid=19854",
+      "sourceSha256": "d112a17f59b1df942d5b098126c6832ff3ee0ccd95e09f72ef7d7e378f8b369c",
+      "textSha256": "b6549012f95df4d81fe3c5df725b0628407b916300d925d8baf02f4d6cd7fcc4",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prosecutor or circuit attorney evidence notice",
+          "bodySha256": "402241ed3bb78570fd206c39bd8303ff5a6163c2e798fcb98ecce14fd900e6a4",
+          "reviewNote": "Written notice from prosecuting attorney or circuit attorney specifying case number, style, and property description when charges are filed."
+        },
+        {
+          "number": 2,
+          "title": "Property retention and fifteen-day disposition notice",
+          "bodySha256": "fc9401567bb7d34296c9ef0e129887975067d6f7acd1cd54934c6e86ada51e32",
+          "reviewNote": "Pawnbroker holds property pending disposition; prosecutor must notify pawnbroker and claimant within fifteen days of case closing."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and history note against archived text; refined subsection (1) title to include both prosecuting attorney and circuit attorney evidence notice and confirmed 15-day disposition notice."
+    },
+    {
+      "id": "367.050:19856",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.050&bid=19856",
+      "sourceSha256": "6d11d63270161396f0dcf7b40c5b708e366c0d553ea517a46206d4f0e8e287b9",
+      "textSha256": "fd11c4ad5a1715679c449bf130438118ad81cfdb04085b139abeccb2a0e69561",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Criminal penalties for willful violations and false records",
+          "bodySha256": "4477442957b8d9813f5e4842c1498d0bda642250e189f92546e957b4484bbdd6",
+          "reviewNote": "Misdemeanor penalty up to $5,000 fine and six months jail; permanent license revocation upon second conviction; bona fide error defense."
+        },
+        {
+          "number": 2,
+          "title": "Penalties for unlicensed operation of pawnshop",
+          "bodySha256": "d837570a670f6b682f585b8310daea1a53b83ffa0409eecf291f2e668d99fc42",
+          "reviewNote": "Misdemeanor up to $10,000 fine and one year jail for unlicensed operation; permanent bar on holding pawnshop license."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and history note against archived text; confirmed misdemeanor penalties, permanent revocation on second conviction, bona fide error exception, and unlicensed operation penalties."
+    },
+    {
+      "id": "367.055:19860",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.055&bid=19860",
+      "sourceSha256": "a3f1feae09e55ac2f9a875a50b4e079cb91e7b0fe12973574476888e28d27d5f",
+      "textSha256": "be1480d55a366a1e9947ff9b784579504ecc2dae62ac3a1355c1163abdd71a2b",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Law enforcement inspection and hold order requirements",
+          "bodySha256": "ef86e2e1fcce46cbd9bdc25eb61ac7e11890af6bfd29aac1e3075355161c455d",
+          "reviewNote": "Warrantless business-hours inspection; probable cause hold order containing six statutory items and officer/pawnbroker signatures."
+        },
+        {
+          "number": 2,
+          "title": "Secure retention, duration, and extensions of hold order",
+          "bodySha256": "f2a63ea3fb22b52b07d6932580fefda5e42a9d3262eef5d3e79f908bec764186",
+          "reviewNote": "Retention in secure area; initial duration up to two months; two 1-month extensions; written agency release."
+        },
+        {
+          "number": 3,
+          "title": "Expiration notice and title vesting in pawnbroker",
+          "bodySha256": "29217a60e63c6a2afe2c0c8197fa15be455526c51dd3c9d91719db6d1ed99099",
+          "reviewNote": "Written expiration notice to officer; title vests in pawnbroker after ten business days subject to claimant demands."
+        },
+        {
+          "number": 4,
+          "title": "License suspension or revocation for noncompliance",
+          "bodySha256": "7faf431b019cd209364f23be66be9503803df87bc52e184b5faa6b79e5f704a1",
+          "reviewNote": "Gross negligence or willful violation is cause for license suspension/revocation; right of administrative and judicial appeal."
+        },
+        {
+          "number": 5,
+          "title": "Local regulation and pawnshop number limits",
+          "bodySha256": "f0d7a73e6044d4cce4968faa2d1c247bb5e233007b7917607313350bc58c6263",
+          "reviewNote": "Municipal ordinances consistent with state law; St. Louis City and populous charter counties authorized to cap number of pawnshops."
+        },
+        {
+          "number": 6,
+          "title": "Confidentiality and permissible uses of transaction records",
+          "bodySha256": "45e9373036f0d81ae80924bafa2e91c2645500ee73b490d7d07b293b194954eb",
+          "reviewNote": "Pawn records confidential; restricted to investigating specific crimes, recordkeeping violations, and victim notifications."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 6 subsections and history note against archived text; noted catchline (\"search warrant required\") vs body subsection (1) (\"without prior notice or the necessity of obtaining a search warrant\") discrepancy and confirmed hold-order, vesting, local-cap, and confidentiality rules."
+    },
+    {
+      "id": "367.140:59907",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.140&bid=59907",
+      "sourceSha256": "3204dd6b37aeb64998dc09c5d1fff01fa2d64a5d5463b8faecd3139cbd82d5c8",
+      "textSha256": "041c29a5c8a277b71a78902c6938e26fb218ca260b106311c2ca964c66892c14",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Consumer credit loan licensing fees and fund credit",
+          "bodySha256": "cb1b9e6c372d002d4d077837432a2e954a2c1016bc1dfa76298cc3cf9ad63939",
+          "reviewNote": "Tiered fee up to $5,000 plus branch fees; $1,000 low-volume cap; July 1 to June 30 period; consumer licensing fund credit."
+        },
+        {
+          "number": 2,
+          "title": "Issuance, contents, and posting of license certificate",
+          "bodySha256": "f258fb47a9ed0248402e300c2382e419fe77ec68d66ad61b3cd279ecba4da06c",
+          "reviewNote": "Director issues license upon fee payment; licensee must post certificate conspicuously at each business location."
+        },
+        {
+          "number": 3,
+          "title": "Nontransferability of license and duration",
+          "bodySha256": "eb90ce63d2b6a8abe5a7a3e563dedfbb0e3dde500386c6a214ac34901a888c13",
+          "reviewNote": "License not assignable or transferable; address change permitted; remains in effect until surrendered, revoked, or suspended."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 3 subsections and history note against archived text; confirmed tiered licensing fees, July 1–June 30 term, section 361.170 fund credit, posting, and nontransferability."
+    },
+    {
+      "id": "367.185:19871",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.185&bid=19871",
+      "sourceSha256": "e38e2c2723ef1cf13e287fa3f5e90f27d000559050026d50c7d1f44112cbb9a1",
+      "textSha256": "ef824531a33d37c29d072c5822775b10066e43e15141f2b0828efec02570da62",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Nondepository financial institution compliance mandate",
+          "bodySha256": "dcd489e9810a627ba9a7be5893d9313ca46faaa9db168147324dbcc5289bb3dd",
+          "reviewNote": "Mandatory compliance by nondepository lenders licensed under sections 367.100 to 367.215."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory loan solicitation check warning",
+          "bodySha256": "ad0d3556b46480fdbbba12b4eaad9f7e7167ca7040b3bdbdbef9cf715c4b8b01",
+          "reviewNote": "Ten-point bold disclosure required on face of negotiable or facsimile checks warning of loan solicitation."
+        },
+        {
+          "number": 3,
+          "title": "Real estate loan default and cancellation warning",
+          "bodySha256": "a67495c7cdd6fd9ec207324bd5f7549dbd3b78fade7cdec0f35b791cf9f94fbc",
+          "reviewNote": "Ten-point bold warning in contracts for loans secured by real estate regarding property loss risk and federal cancellation rights."
+        },
+        {
+          "number": 4,
+          "title": "Ability-to-repay underwriting requirement",
+          "bodySha256": "f2af93e64473207566b7b1c341e28f0e05ce9fc12f5a54f9a86cd21cd88f06f2",
+          "reviewNote": "Lender duty to consider borrower's financial ability to reasonably repay loan in determining loan size and duration."
+        },
+        {
+          "number": 5,
+          "title": "Conspicuous posting of maximum loan rates and fees",
+          "bodySha256": "5c101b649157e23dc37e104961f9e0e554d35f995d4e32b07db7bdd3a09600a6",
+          "reviewNote": "Mandatory conspicuous posting of current maximum rates and fees in each licensed office."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 5 subsections and mandatory bold-type notices against archived text; refined subsection (3) title to match \"loans secured by real estate\" and \"right to cancel\" statutory wording."
+    },
+    {
+      "id": "367.305:19878",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.305&bid=19878",
+      "sourceSha256": "282f2a942ab1d4002872e042b54b57db157ca8edd6ed5878855efc07cf2e7027",
+      "textSha256": "4b0b161a41ff15ec13c94f063b27ccdbdaac2df81fb9034224074676692a4e88",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition against loan broker advance fees",
+          "bodySha256": "a5566fd310822169b1a13dade812d6258ef499ad3016ddb7a57ea2dc353aad2e",
+          "reviewNote": "Loan brokers strictly prohibited from charging, assessing, collecting, or receiving advance fees from borrowers."
+        },
+        {
+          "number": 2,
+          "title": "Criminal penalty for advance fee violations",
+          "bodySha256": "d41229d1a7b08e2cc66aa2297af9176fae7088380deb95779c17c06ebd3d5934",
+          "reviewNote": "Knowing receipt or collection of advance fee by loan broker is a class A misdemeanor."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and history note against archived text; confirmed loan broker advance fee prohibition and class A misdemeanor for knowing violations."
+    },
+    {
+      "id": "367.310:19880",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.310&bid=19880",
+      "sourceSha256": "3ea206aba000b8247935acfa08168f62a4104a21be195ab82756263e9489e357",
+      "textSha256": "56582e3819c8ab18ce41d9ea7a695d67c747c958e20d53434996eac1af9ea5b5",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Merchandising practices act enforcement and rulemaking",
+          "bodySha256": "456416e9d405e1ed9e9800c26eed40e824fe86e32089e7fedf6bf7eaa1dcc1a7",
+          "reviewNote": "Violations deemed unlawful merchandising practices under chapter 407; attorney general powers and rulemaking authority."
+        },
+        {
+          "number": 2,
+          "title": "Nonexclusive statutory and common law remedies",
+          "bodySha256": "eac8b28c2f584cd0ca7ec16fc78d419f0d7b7b2bd2492c4cd0798722a8a3edf5",
+          "reviewNote": "Remedies nonexclusive; cumulative with other statutory, common law, and consumer protection rights."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and history note against archived text; confirmed chapter 407 unlawful merchandising practice enforcement, attorney general rulemaking, and nonexclusive cumulative remedies."
+    },
+    {
+      "id": "367.503:19882",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.503&bid=19882",
+      "sourceSha256": "1ec2748b0e39a6482b9ff1eb19eca615c5249761f13ca47c9597270e0241bf13",
+      "textSha256": "9d848de7755b7894e6f891e89a1f92ba46173977b99e05be3e165b9445e79101",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Regulatory authority and confidentiality of title lender data",
+          "bodySha256": "cb44b9e3f4a21001aec205765f5fcfcadb6ef49486c2b843dc5c1f3f04505973",
+          "reviewNote": "Director regulates title lenders; division staff must keep lender information confidential under sections 361.070 and 361.080."
+        },
+        {
+          "number": 2,
+          "title": "Conflict of interest prohibition for division employees",
+          "bodySha256": "c99f9b49a10d74c0e125701f046965a7b701658fc28f249abc4b75819981261b",
+          "reviewNote": "Division employees prohibited from having financial interest in or receiving gratuities from title loan businesses."
+        },
+        {
+          "number": 3,
+          "title": "Issuance of licenses to qualified applicants",
+          "bodySha256": "eb95d0f7831599f84e822552dbfd5836b3a3322e81bfcbc02b42b179357c1d60",
+          "reviewNote": "Director duty to issue title loan licenses to all qualified applicants."
+        },
+        {
+          "number": 4,
+          "title": "Administrative rulemaking under chapter 536",
+          "bodySha256": "cdb675d4cd0ce5f4ca34ce37151e02ec8f5aa28fc23b9d61175ee8713aa425de",
+          "reviewNote": "Rules effective only if promulgated pursuant to chapter 536."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections and history note against archived text; confirmed division regulation, confidentiality under sections 361.070–361.080, employee conflict prohibition, license issuance, and chapter 536 rulemaking."
+    },
+    {
+      "id": "367.506:19883",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.506&bid=19883",
+      "sourceSha256": "0c1e5ca61657b97f51a82ddc3cd1a63aa3933e2223a2a0db473702c98b82b9f7",
+      "textSha256": "ad013c19f1dd3d9d3cf29e17babe08b6f384469d70afa895e5298241bc73e84a",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Civil and criminal liability for unlicensed title lending",
+          "bodySha256": "19914a4a5c69abf37767b05ea9522e7ba3d495c937dae6fbad8484c29aa83ec7",
+          "reviewNote": "Unlicensed title lending subject to both civil and criminal penalties."
+        },
+        {
+          "number": 2,
+          "title": "Invalidation of agreements and borrower liability limited to principal",
+          "bodySha256": "754946a139c84c2f01604c1b9fc9ff24af4c3b4b65a52af0e72e4e01ee2e23ee",
+          "reviewNote": "Unlicensed agreements and title pledges null and void; borrower liable only for return of original principal."
+        },
+        {
+          "number": 3,
+          "title": "Attorney general civil actions, daily penalties, and debarment",
+          "bodySha256": "0be8a0d7a7563e7fa7a54fa95eb3ad4bd2bd47d1e6e4f88f8da9f02fba5f4d78",
+          "reviewNote": "Attorney general civil action; penalty $1,000 to $5,000 per day; five-year debarment for intentional violations."
+        },
+        {
+          "number": 4,
+          "title": "Criminal misdemeanor penalties and venue",
+          "bodySha256": "0eff4800c5bd4a1c5728e53dae228cd23507d786fde44a48b3fd833528cf58de",
+          "reviewNote": "Class C misdemeanor for first offense; class A misdemeanor for subsequent offenses; venue in contracting or vehicle location county."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections and history note against archived text; confirmed voidness of unlicensed title loans/pledges, principal-only borrower liability, AG civil penalties/5-year bar, and misdemeanor penalties/venue."
+    },
+    {
+      "id": "367.509:59911",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.509&bid=59911",
+      "sourceSha256": "0b4cc5cee2abebd7f2ed5347ba97fa69316635141c4171bc989d3f7a28f500e1",
+      "textSha256": "ac74972b79a016ba385c5c2ee756553bbd287eb25ba85332a3b572e96740e985",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Minimum continuous capital requirement",
+          "bodySha256": "aa8c413eff26b1f286902739c39041137c4616d1acf8177d1fe8b167398d0d50",
+          "reviewNote": "Title loan applicant and licensee must maintain capital of at least $75,000 at all times."
+        },
+        {
+          "number": 2,
+          "title": "Application requirements, surety bond, and letter of credit",
+          "bodySha256": "aca98fd7cb95068cba98893aa330a6a86182d962175cec5203d65600cb58c019",
+          "reviewNote": "Sworn application, business locations, officer disclosures, $20,000 surety bond per location or irrevocable letter of credit."
+        },
+        {
+          "number": 3,
+          "title": "Licensing fees, account volume tiers, and licensing period",
+          "bodySha256": "6e686ffe5f15892075e7e056adeb720d8a77fe97bc73b2a8a06d75b0086696b0",
+          "reviewNote": "Fees up to $5,000 plus branch fees, $1,000 low-volume cap, calendar year period, and credit to consumer licensing fund."
+        },
+        {
+          "number": 4,
+          "title": "License display and office relocation approval",
+          "bodySha256": "914bdcb9bdaf839c0fba1768072aaf7f52ff004b53953eda9949320fb50ee747",
+          "reviewNote": "License must specify office location and be displayed; director approves relocation by issuing new license without charge."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections and history note against archived text; confirmed $75,000 capital requirement, sworn application, $20,000 bond or letter of credit per location, tiered calendar-year fees, and display/relocation."
+    },
+    {
+      "id": "367.512:19885",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.512&bid=19885",
+      "sourceSha256": "79e18b5b7e6da0cfa31e913fd7e04f9656ffd1686f04a2c699ef86d182175921",
+      "textSha256": "d187fddf36df5394ef1d0d4fe6562cde1286a2a99c834334fc75f0963adfca4c",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory written terms for title loan agreements",
+          "bodySha256": "877903d3fad9dad8c3ebec8acd6c2702b0396851a2de8c3f2b4f9913ff098ba8",
+          "reviewNote": "Written agreement terms: pledge of unencumbered title, 30-day redemption, renewal principal reduction by 10% after 3rd renewal, default repossession."
+        },
+        {
+          "number": 2,
+          "title": "Personal liability for false pretenses and concealed liens",
+          "bodySha256": "90395823a5880f063c4ec5232a73515c3046881277424570cb345b78ca53890e",
+          "reviewNote": "Borrower personally liable for full loan amount if obtaining loan under false pretenses by concealing prior liens."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and history note against archived text; confirmed 7 mandatory written title loan terms (including 10% principal reduction from third renewal) and personal liability for concealed prior liens."
+    },
+    {
+      "id": "367.518:19887",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.518&bid=19887",
+      "sourceSha256": "5f745fd60c2eb37ea3e2875647481a5bc9c6aa16ffab82dc9439a3b690a4d771",
+      "textSha256": "c7858b907641596f878a1b9e779f16849023c624d930df8a5ae2a484faef7ecb",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Required disclosures and next-day cancellation right",
+          "bodySha256": "fa0b8ba54c6a18385ee440c545db399a8b5fec701ef5833950323ddbdbbb76b9",
+          "reviewNote": "Seven required disclosures: Truth in Lending/Regulation Z, 10-point bold risk warning, interest rate, next-day cancellation right, delivery location."
+        },
+        {
+          "number": 2,
+          "title": "Model disclosure form drafted by division of finance",
+          "bodySha256": "8c43c7b12522df1c3ce5bb78a78d43c8fb837a8d8e9af2eb0efbf67127f8677b",
+          "reviewNote": "Division model title loan form; use is optional but constitutes compliance with statutory disclosure requirements."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and history note against archived text; refined subsection (1) title to match statutory \"cancel this loan\" next-day notice and confirmed optional division model form."
+    },
+    {
+      "id": "367.524:19889",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.524&bid=19889",
+      "sourceSha256": "e8a52944b896faa69cbc3bb80e109910e2fb094a1cab9b60d8d20596a6e2ccd1",
+      "textSha256": "93042b5db4d49195dd1424bcc38ea38fffad4bb1ce4eea7c2d861a463e4a0a1b",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Consecutively numbered transaction recordkeeping",
+          "bodySha256": "081371c3f48bfa8192dac683d6012b2474d37620605f44dd2a5d6245c6ffa6d1",
+          "reviewNote": "Consecutively numbered records containing vehicle details, loan amount, date, maturity, and borrower personal and photo ID data."
+        },
+        {
+          "number": 2,
+          "title": "Borrower photo identification copying or photograph requirement",
+          "bodySha256": "0c3341cb96586ddf4b5620e8dd2effcc10b5b03066fdefb86ac62ec40bbad6ec",
+          "reviewNote": "Lender must photocopy borrower's photo identification or take instant photograph and attach to agreement and renewals."
+        },
+        {
+          "number": 3,
+          "title": "Agreement execution and title copy delivery",
+          "bodySha256": "bbe85dfcf440aa2e0bca73cde40be8e0160f6602992f68730bb475ff008d5ed4",
+          "reviewNote": "Both parties must sign agreement; borrower receives copy of agreement and photocopy of pledged certificate of title."
+        },
+        {
+          "number": 4,
+          "title": "Two-year record retention and pre-closure examination notice",
+          "bodySha256": "c2b9873332efe72cb34deb9aa68d18cc302fc4ea0d532080c75f3fb7908d8a7e",
+          "reviewNote": "Records retained at least two years from closing; ceasing business requires 2-year retention and 10 days advance notice to director."
+        },
+        {
+          "number": 5,
+          "title": "Warrantless inspection by division of finance",
+          "bodySha256": "c4b53d0fe2757728ded8deee51bdbe8638806fe83a00a863570fbfbbd96df659",
+          "reviewNote": "Records available for inspection by division employees during ordinary business hours without warrant or court order."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 5 subsections and history note against archived text; confirmed consecutively numbered records, photo ID copying/photographing, execution/title copy delivery, 2-year retention/10-day closure notice, and warrantless inspection."
+    },
+    {
+      "id": "367.525:19890",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.525&bid=19890",
+      "sourceSha256": "e6908fc213c05aacc571321ad30db648c1b602fd34e5e2a15a79a857551b93f1",
+      "textSha256": "dcfa99460c6b89467a72e87220cd9dd7ac518679c7127504aa15079f80b2c47c",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory pre-application borrower risk warning",
+          "bodySha256": "c1742c7dda2390baa9a91fbf71358b812b913dca6a0b29aefd6cd05f033ca3f4",
+          "reviewNote": "Ten-point bold disclosure and borrower signature acknowledging potential vehicle loss and short-term loan nature."
+        },
+        {
+          "number": 2,
+          "title": "Modification of warning for non-automobile personal property",
+          "bodySha256": "6f63f07e5b1a6a1f6a597378e147375cf9e8b64e90738ccff2f21a82e3c6ce99",
+          "reviewNote": "Procedure for modifying warning form when security is titled personal property other than an automobile."
+        },
+        {
+          "number": 3,
+          "title": "Conspicuous office posting of maximum rates and loss warning",
+          "bodySha256": "cb36d34bfd4fdc52aab0e63d217b0978f591ee8b2dbccf84badec7d9858e49b2",
+          "reviewNote": "Fourteen-point bold office posting of maximum interest rates and vehicle risk notice."
+        },
+        {
+          "number": 4,
+          "title": "Ability-to-repay underwriting requirement",
+          "bodySha256": "8a6e900767eb2b91f56abd041269849c06b6360e665e597c7c06e85c2f8efc3c",
+          "reviewNote": "Lender must consider borrower's financial ability to reasonably repay loan in determining loan size and duration."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections, embedded NOTICE TO BORROWER form table, and office posting notice against archived text; confirmed non-automobile modification rule and ability-to-repay requirement."
+    },
+    {
+      "id": "367.527:19891",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.527&bid=19891",
+      "sourceSha256": "f418742321c4acdc3a087c1db3a9a848fd773e2d4b08ad026c42c2bf9db715e5",
+      "textSha256": "539282af818b0f905045fd246dc03122b88b75cfcb1d5c41590b5aba6a359d28",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibited practices for title lenders",
+          "bodySha256": "740f4307f161de1f0eeac7fbb1eb4395e3b708c0bd5118bd3c4bc8b5b2294c7c",
+          "reviewNote": "Prohibits under-18/intoxicated loans, loans exceeding $5,000, waivers, property purchases, encumbered titles, and repossession storage over 15 miles away."
+        },
+        {
+          "number": 2,
+          "title": "Invalidation of noncompliant loans and liens",
+          "bodySha256": "54ee768781154d41daab01be28636b10786f83a85af9eeb55684b0f0ddd881a5",
+          "reviewNote": "Noncompliant transactions result in voiding both the loan and the underlying lien."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and history note against archived text; confirmed 9 prohibited title lender practices (including $5,000 cap and 15-mile storage limit) and voidness of noncompliant loans and liens."
+    },
+    {
+      "id": "367.530:19892",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.530&bid=19892",
+      "sourceSha256": "93e360be7e50b20e17b00d00ae1d0a8a3a2def496f02d363175e4ca3b5772b4e",
+      "textSha256": "7482111261d576c2dd1d4e8f18cf04d95e8126afa06d52b217283e2c7f219ab1",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Safe storage of titles and pledged property",
+          "bodySha256": "0a0006095cc9de21707bc59876c54b648760037e88f1e66f37d8b6c2c50cc155",
+          "reviewNote": "Lender must maintain fireproof storage for pledged certificates of title and safe facilities for repossessed property."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory premises liability insurance coverage",
+          "bodySha256": "fd5ce4f0b7181eafc8e962bc387bbeba83d392a3010675868f05b21dba34376b",
+          "reviewNote": "Minimum one million dollars per occurrence premises liability insurance covering injuries from third-party criminal acts."
+        },
+        {
+          "number": 3,
+          "title": "Nonliability for property outside lender possession",
+          "bodySha256": "454d2e8318176f0b36b3bcd7ee72c869dfbd3c920f197d1e68f4fda308e5932d",
+          "reviewNote": "Title lender not liable for loss or injury caused by use of pledged property not in lender's actual possession."
+        },
+        {
+          "number": 4,
+          "title": "Strict liability for property in lender possession",
+          "bodySha256": "d17490a403098cd43e5f541ae85ff3d4a717884bfebbbce5bcfa06a9d11c98ef",
+          "reviewNote": "Title lender strictly liable to borrower for any loss to pledged property in the title lender's possession."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections and history note against archived text; confirmed fireproof title storage, $1M premises liability insurance, nonliability outside possession, and strict liability for any loss in possession."
+    },
+    {
+      "id": "367.532:19894",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=367.532&bid=19894",
+      "sourceSha256": "bcdbfe2038dc206603ae5266017e4262df610a4bb7b18d68d9a22343953e83f0",
+      "textSha256": "32db13f02c6d1264dea881ac3fcb3283b7eb709dcfc3ee3e84ce80d260b71feb",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "License suspension or revocation proceedings",
+          "bodySha256": "6e79f6b010fa02c572ee537d7aae7bd9f0e1d8d599f3ec505dd240e352a69529",
+          "reviewNote": "Suspension or revocation for statutory noncompliance or criminal acts after show-cause order and ten days notice for hearing."
+        },
+        {
+          "number": 2,
+          "title": "Cease and desist orders and daily civil penalties",
+          "bodySha256": "f1ae19245df2eebdcc42c80e429d428a08da84c44e2444045a925068c240b520",
+          "reviewNote": "Director cease and desist orders for noncompliance with consumer loan laws; civil penalties up to $1,000 per day."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and history note against archived text; confirmed license suspension/revocation show-cause hearing on 10 days notice and cease-and-desist orders with $1,000 daily civil penalties."
+    }
+  ]
+}

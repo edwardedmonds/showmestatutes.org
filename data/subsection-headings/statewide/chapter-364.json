@@ -1,0 +1,298 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "364.030:59903",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=364.030&bid=59903",
+      "sourceSha256": "ba3b24ec4774eca66b05bd4533e70a11252febe45d0784b6c397b99636f47ccf",
+      "textSha256": "191e90f74ebe1bdc09dd748c6422b58a69df6386a5e7f99e511cf4427f165599",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Financing institution license requirement and exemptions",
+          "bodySha256": "eae29076bc848d131773c83c7fee5f70b05bca5fab181d722452827c2e595f16",
+          "reviewNote": "License required to engage in business as financing institution; exempts banks, trust companies, lenders, sales finance licensees, and occasional buyers."
+        },
+        {
+          "number": 2,
+          "title": "Application requirements, fees, and licensing period",
+          "bodySha256": "b3e50a44bbf59a5da3d5685da4ba9fd95c980b321b0ff8cfb57521456ee4deac",
+          "reviewNote": "Written sworn application, fee caps, tiered fee for low active accounts, calendar year licensing period, and consumer licensing fund credit."
+        },
+        {
+          "number": 3,
+          "title": "Office location specification and address changes",
+          "bodySha256": "d814ea7794190b17ea2c6d36bbebfd8053b0dfdb1f06bdbb396046dd1b136052",
+          "reviewNote": "License must specify office/branch and be displayed; director endorses change of location without charge."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 3 subsections and history note against archived text; preserved catchline (\"Financial institutions\") vs body (\"financing institution\") distinction, tiered fee caps, calendar-year period, and section 361.170 fund credit."
+    },
+    {
+      "id": "364.040:19808",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=364.040&bid=19808",
+      "sourceSha256": "121bfd752e9d277d9657dcbea4bb4346adb1389c090b50c472349f6814ffc73a",
+      "textSha256": "845583d0c4ced3c81d0d389fd0380d744b31060f80ac8f81f9f3f5360e53d398",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Grounds for renewal denial, suspension, or revocation",
+          "bodySha256": "c43f2e1720d0dd17685977bf7c2e34800c9605819d061223e84eddfeebfd419b",
+          "reviewNote": "Four grounds for denying renewal or suspending/revoking license: application misstatements, willful violations, defrauding retail buyers, and credit sales misrepresentations."
+        },
+        {
+          "number": 2,
+          "title": "Responsibility for officer, partner, and employee acts",
+          "bodySha256": "d1d1e26cd92821c77561265a44602fa200fe6e56c1ebe91ff5170f110ed10257",
+          "reviewNote": "Officer, director, trustee, or partner acts are cause for suspension/revocation; licensee responsible for ratified employee acts after actual knowledge."
+        },
+        {
+          "number": 3,
+          "title": "Hearing and review under chapter 536",
+          "bodySha256": "3a860a0dcb2b81adc6b1ade04ebcc3e12747ae20c45660af22511d2f58999347",
+          "reviewNote": "Disciplinary action prohibited except after hearing conducted pursuant to chapter 536."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 3 subsections and history note against archived text; refined all 3 titles to reflect renewal denial scope, disciplinary imputation for officers/partners/employees, and chapter 536 hearing/review."
+    },
+    {
+      "id": "364.050:19809",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=364.050&bid=19809",
+      "sourceSha256": "41665933f03fd28942c55f6019a407decdbb4fea644468801078eaa806f374a2",
+      "textSha256": "d3df8225fa1299be0cc5b4a5ebb0ce2c7f711e08cb4e3b4406a3f4fa6ad7acc8",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Director investigation and record examination powers",
+          "bodySha256": "8861d6cb90d1f4b65b04cdd7b65a395b358af14bb2290c0bc9397dbecb0446a5",
+          "reviewNote": "Director authority to investigate financing institutions and compel production of books, records, accounts, and documents."
+        },
+        {
+          "number": 2,
+          "title": "Buyer written complaints and targeted inspections",
+          "bodySha256": "4eb343ea58df0d9b9e215916d8c34fced4e706819aad72fe58aeeefa53762f96",
+          "reviewNote": "Buyer written complaint procedure for credit sales law violations and director inspection of pertinent contracts and records."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and history note against archived text; refined subsection (2) title to match \"buyer\" statutory terminology for section 408.250 to 408.370 complaints."
+    },
+    {
+      "id": "364.060:19810",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=364.060&bid=19810",
+      "sourceSha256": "a25aa950ffea5b063edb1d1369cd310f6c808c3b13286c8211951cd35f35f7bc",
+      "textSha256": "defc3692ad5476167beb2e9e8a381809c145341d300792169e54b1011ec95e8a",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Promulgation and advance mailing of administrative rules",
+          "bodySha256": "49e56149e486fe1b3d0a0fc02126958ff142ff883a2de9c37933f667f2bf2f02",
+          "reviewNote": "Rulemaking authority; mandatory fifteen days advance mailing to licensees; nonreceipt does not exempt compliance."
+        },
+        {
+          "number": 2,
+          "title": "Subpoena and oath administration powers",
+          "bodySha256": "edd42f8a799633476394ecdd5677834bbc414fd3c013a04d8d7d68891c103700",
+          "reviewNote": "Director authority to issue subpoenas for witness attendance and document production, and to administer oaths."
+        },
+        {
+          "number": 3,
+          "title": "Circuit court enforcement of administrative subpoenas",
+          "bodySha256": "b5e660a5a6253b3c981e67e47c3303c888f697403883bd2b9a449013404b1443",
+          "reviewNote": "Application to circuit judge upon refusal to obey subpoena; clerk issues judicial subpoena under seal."
+        },
+        {
+          "number": 4,
+          "title": "Contempt proceedings and judicial sanctions",
+          "bodySha256": "af8c5a80f9be983f118cff3aad6c0e640a9550ff172acd9354c58154835c19ff",
+          "reviewNote": "Contempt attachment, arrest by law enforcement, fine up to $100, jail imprisonment, and assessment of costs for subpoena noncompliance."
+        },
+        {
+          "number": 5,
+          "title": "Statutory procedure for administrative rulemaking",
+          "bodySha256": "e78ea0c1a88ef7369a58bb28cdd228c65e62ab3f2168dd6dfca3ff8ddab99f14",
+          "reviewNote": "Rules effective only if promulgated pursuant to section 536.024."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 5 subsections and history note against archived text; confirmed rulemaking advance mailing, subpoena/oath powers, circuit court enforcement, contempt penalties, and section 536.024 rulemaking."
+    },
+    {
+      "id": "364.105:59904",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=364.105&bid=59904",
+      "sourceSha256": "cd10ae67f9c9d2fc4cb04dcd626b9cbf39ca7e6fed117e0053eeba314cc0af5f",
+      "textSha256": "16350b57d1064afb947f2cd990894a03b95a6d1d0c3347b9bbbd1d67893372b5",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Premium finance company license requirement",
+          "bodySha256": "d627dda2e6c8f640d91eef90a65c486a395bca85ad70c13f4a7f4dfff6ada94a",
+          "reviewNote": "Mandatory premium finance company license issued by director to engage in insurance premium financing business."
+        },
+        {
+          "number": 2,
+          "title": "Licensing fees, account tiers, and fiscal period",
+          "bodySha256": "ea26fece5ae609415e9553addf03580bbceeed43b5b453c8a82c191bd4e729d0",
+          "reviewNote": "Fee schedule, $1,000/$5,000 caps, low-volume account discount, July 1 to June 30 licensing period, and deposit in consumer licensing fund."
+        },
+        {
+          "number": 3,
+          "title": "Application contents and revised statement fee",
+          "bodySha256": "a5f02ad190d6e0d9b67651ace19e047a54bb757f07f454f38ce3ef62178cda21",
+          "reviewNote": "Required application contents, officer solvency oath, corporate standing, and $300 fee for filing material change revisions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 3 subsections and history note against archived text; confirmed premium finance license mandate, tiered fees, July 1–June 30 period, sworn application contents, and $300 revision fee."
+    },
+    {
+      "id": "364.110:19814",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=364.110&bid=19814",
+      "sourceSha256": "18e971e4d925e8ecdd71286b268fd34cf855575dd96f5408b4e7c728eb98f537",
+      "textSha256": "8f1265ee215517798e114af58a0cfba527f9cefc3129954084aaa28a9372c45f",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Duty to maintain premium finance records",
+          "bodySha256": "a601b84ae6334070113e9d184ba2ddc57c6141e0773c7b9532ca54e982d88f2f",
+          "reviewNote": "Premium finance company must maintain records of all premium finance transactions."
+        },
+        {
+          "number": 2,
+          "title": "Two-year preservation period and acceptable media",
+          "bodySha256": "75bc2e4489adba0b7357b85f79f6df440f3f7784fabf9d48f90a08a6d4d41a55",
+          "reviewNote": "Records must be preserved for at least two years after final entry; authorizes microfilm, microfiche, or photographic media."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified both subsections and history note against archived text; confirmed transaction recordkeeping duty, two-year preservation period, and photographic/microfilm/microfiche compliance."
+    },
+    {
+      "id": "364.120:19816",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=364.120&bid=19816",
+      "sourceSha256": "bf3c66902eae0ab41d7f396bddad9634082d1ae73620ad3e05fd4efe4d92b290",
+      "textSha256": "fa7c33b7e46b5e677b7249a44a70c10928061e1bcb32d6a12fcb9f184ca5889b",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Limitation to authorized interest or discount charges",
+          "bodySha256": "bc720f9dfbe9c1d56d3bc15c44c216437e82ffcd7feb1c31b30648621c147abb",
+          "reviewNote": "Premium finance companies prohibited from contracting for or collecting unauthorized interest or discount charges."
+        },
+        {
+          "number": 2,
+          "title": "Computation of interest on premium balance",
+          "bodySha256": "5873ed9ee9b39c2f4a2c3161caea4dc968e2223d021030e6f3e1589571cce52a",
+          "reviewNote": "Interest computed on net unpaid premium balance from effective insurance date to final installment maturity."
+        },
+        {
+          "number": 3,
+          "title": "Maximum rates, service charge, and nonconsumer exception",
+          "bodySha256": "88f82af555f631ba28329c1ecd640aef430f4e3b02ed0233b5e429697b59263b",
+          "reviewNote": "Maximum $15 per $100 per year (15% add-on) plus $10 nonrefundable service charge; parties may agree to any stated rate for non-personal/family/household premiums."
+        },
+        {
+          "number": 4,
+          "title": "Prepayment rights and actuarial refund calculation",
+          "bodySha256": "0982741c377755d898385f95729827ee79c83cb02798a30bef4cc9e86c3126e0",
+          "reviewNote": "Insured right to prepay balance in full at any time with refund calculated under actuarial method."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections and Effective 7-01-03 note against archived text; refined subsections (1) and (3) titles to match interest/discount scope and non-personal/family/household rate exception."
+    },
+    {
+      "id": "364.125:19817",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=364.125&bid=19817",
+      "sourceSha256": "c68a59c8d0fcaf76e029884db39f77f757b40da32fbf15a62c93853d55994987",
+      "textSha256": "8dbdf85bc450723c405b7979e647d388a24ff9b1c7f5e106b81c7bf1e37747c9",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Delinquency and contract cancellation charges",
+          "bodySha256": "036f4532984ed51545ae08a3aa1f30d322de71b13a8991eda21a04aaef366db5",
+          "reviewNote": "Delinquency charge up to 5% after five days default (capped at $15 for consumer loans); $15 insurance cancellation charge."
+        },
+        {
+          "number": 2,
+          "title": "Permitted collection costs and attorney fees",
+          "bodySha256": "7932b9b5c5e10985c332008570ff6748159546367a0c138c316d6c59be213b10",
+          "reviewNote": "Permits agreement to provide collection costs and attorney fees equal to 20% of outstanding indebtedness when referred to non-salaried collection agency or attorney."
+        },
+        {
+          "number": 3,
+          "title": "Usury law exemption for authorized charges",
+          "bodySha256": "fb74484daadb57edd39f8c40ece0d40faddd15505966d6f3260c58244726b532",
+          "reviewNote": "Authorized delinquency, cancellation, and collection charges excluded from usury determinations."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 3 subsections and history note against archived text; refined subsection (2) title to preserve permissive authorization for 20% collection costs and attorney fees."
+    },
+    {
+      "id": "364.130:19818",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=364.130&bid=19818",
+      "sourceSha256": "b29cb8739a2569816dd7c8f96ebf653536ae420891ae9983c00a36ce28c240c7",
+      "textSha256": "6dd94da838073b05e12a5b28ff4a70d31506ddbb52826cb568e4ec2f65cbe8b7",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Power of attorney cancellation restrictions",
+          "bodySha256": "5c6f09a26bcbd95c26faf6111e19f2ecb0a397c328808f7503bd5beef74df837",
+          "reviewNote": "Power of attorney cancellation clauses subject to mandatory statutory procedures."
+        },
+        {
+          "number": 2,
+          "title": "Ten-day written notice of intent to cancel",
+          "bodySha256": "2980824d67d40876c853f44c03da678d19434dadff5a4465f33fccf405938200",
+          "reviewNote": "Minimum ten days advance written notice mailed to insured to cure default before cancellation."
+        },
+        {
+          "number": 3,
+          "title": "Cancellation notice to insurer and insured",
+          "bodySha256": "e4afdff7907a44b8c080ba0cf4d9ff68492e46d1ac0b4c97f000cd384e9dc1be",
+          "reviewNote": "Company mails cancellation notice to insurer and copy to insured; operates as insured cancellation without policy return."
+        },
+        {
+          "number": 4,
+          "title": "Third-party notice requirements and effective date",
+          "bodySha256": "58fd8508ceb8561356295959021bf2b6b421e1fc79f0108d26631dbce186367c",
+          "reviewNote": "Insurer must notify governmental agencies, mortgagees, or third parties within two business days and determine effective cancellation date."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_4",
+      "reviewSummary": "Verified all 4 subsections and history note against archived text; refined subsection (4) title to cover statutory, regulatory, and contractual third-party notice restrictions and two-business-day insurer deadline."
+    }
+  ]
+}

@@ -1,0 +1,1824 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "347.025:18430",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.025&bid=18430",
+      "sourceSha256": "c4816e98e232d315a4dbc4e58dcf6462b24c480f8362657ffb0ce881691dc51b",
+      "textSha256": "2bf013712b55c3eef0583d89e9e1152b22a59f8504df8e924ce12ee1b6e69691",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exclusive right to reserve limited liability company name",
+          "bodySha256": "7f0a06129ff546b86ad0a0c2df8e54c9cee5fd6e2daa0b8a6dcdb4874ccd5bdc",
+          "reviewNote": "Verified sub (1)(1)-(4): persons eligible to reserve exclusive right to use a limited liability company name."
+        },
+        {
+          "number": 2,
+          "title": "Name reservation application, format, and duration",
+          "bodySha256": "f6b133876eb4e2c480f4da4963d33968c60442d20501cf56764dc6488a8b4e47",
+          "reviewNote": "Verified sub (2): name reservation application to secretary of state, 60-day period, up to two additional 60-day periods, and transfer by written notice."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and subdivisions (1)-(4) against archived source text; draft titles accurately reflect name reservation eligibility, procedure, duration, and transfer."
+    },
+    {
+      "id": "347.030:18431",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.030&bid=18431",
+      "sourceSha256": "08678c311c5aa4a54dec691882a9d6eaf6fd66d110a95f350a7599561798d7b6",
+      "textSha256": "3c8cdb1372bc84567f5c09b3c389bd3c40af42a5ba18ee14b4fefa89e1f8feaf",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Maintenance of registered office and agent in state",
+          "bodySha256": "fedfb3add36cc841d09cb13357ade25612c94cb61261e9c5a674eb8a9dfc344b",
+          "reviewNote": "Verified sub (1): continuous maintenance of registered office and registered agent in Missouri."
+        },
+        {
+          "number": 2,
+          "title": "Change of registered agent or office address",
+          "bodySha256": "c7a48fda5cf017505e8a2ea6e121730b7fee3c7c00a68dc1f085a46114d6c291",
+          "reviewNote": "Verified sub (2): change of registered office or registered agent by filing statement with secretary of state and required contents."
+        },
+        {
+          "number": 3,
+          "title": "Effective date of registered office or agent change",
+          "bodySha256": "227402807184d6a3c3a18745480ca9e113c9fe863a4284a351ef8e0d0b1fda81",
+          "reviewNote": "Revised title and note: sub (3) provides that a change of registered office or agent takes effect upon filing by secretary of state (not contents/execution)."
+        },
+        {
+          "number": 4,
+          "title": "Registered agent change of business address filing",
+          "bodySha256": "3bb2076358f4609355efda4d000ccc4e3e042ccfbddec015bf6ba4aac4e32945",
+          "reviewNote": "Verified sub (4): registered agent filing statement to change business address for one or more represented LLCs."
+        },
+        {
+          "number": 5,
+          "title": "Effective date of registered office address change",
+          "bodySha256": "a7a8919c9134849a2382bb57289922dd09589c0ee76890b733b99c41852236e9",
+          "reviewNote": "Verified sub (5): effective date of registered agent business address change upon filing."
+        },
+        {
+          "number": 6,
+          "title": "Resignation of registered agent and notice",
+          "bodySha256": "59866f48ec4074100c1f5cd6e678734dca80c640a69d189a1250cf8ba03c32af",
+          "reviewNote": "Verified sub (6): registered agent resignation filed with secretary of state, notice to LLC, and 30-day termination."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 6 subsections against archived source text; revised sub (3) title and note because sub (3) governs the effective date of a change of registered office or agent rather than statement contents/execution."
+    },
+    {
+      "id": "347.033:18432",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.033&bid=18432",
+      "sourceSha256": "90dd1a583f26abf7aed79d866d1f87d58f6b317835f1660d77d4d9c87a988448",
+      "textSha256": "11935f65a0af4bccab5772faa2326dfc9526c4cc21f8a8797b71cc2cffa9d7d4",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Service of process upon registered agent",
+          "bodySha256": "e459e438e4b005bd278ba1ad8ca7ccb4d7c34a18a8e7e960eca5fd30ccedbaee",
+          "reviewNote": "Verified sub (1): registered agent is agent for service of process, notice, or demand. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Service upon organizer or manager in lieu of agent",
+          "bodySha256": "344b2955fb3fc989e5e95a49d810881b81acbe75c3dd693a3c28c214ef0a8bc2",
+          "reviewNote": "Verified sub (2): service upon organizer, manager, or member if registered agent cannot be found with reasonable diligence."
+        },
+        {
+          "number": 3,
+          "title": "Service through secretary of state when agent absent",
+          "bodySha256": "215af09bebdbd50599d75eb3661886bda4d3017f4e45c23a4f87d36c90ae537e",
+          "reviewNote": "Verified sub (3): service upon secretary of state when LLC fails to appoint/maintain registered agent or agent cannot be found."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections and 12-01-93 effective date source note against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.037:18434",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.037&bid=18434",
+      "sourceSha256": "c61ee1e2f1b2f97024ca9c0064c98e8c7ca99876cc1b5188757e79c1bd61e382",
+      "textSha256": "8b597a244dd749e8061ac1d55369c891481dc6a75b7393a997d7d601987f31c1",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Formation of limited liability company by signing articles",
+          "bodySha256": "b52671259a74a5af269e690149111c95700bf4727023daa05f95f06f2eacfa82",
+          "reviewNote": "Verified sub (1): formation of LLC by any person signing and filing articles of organization with secretary of state. Source notes cite 1997 effective dates."
+        },
+        {
+          "number": 2,
+          "title": "Effective date of limited liability company formation",
+          "bodySha256": "2dc5e5ac3333b9b0234df9df9ae6f10821502a5ae25b41f1dbcbb6cf3ff64467",
+          "reviewNote": "Verified sub (2): formation effective upon filing articles or delayed effective date up to 90 days."
+        },
+        {
+          "number": 3,
+          "title": "Certified articles conclusive evidence of formation",
+          "bodySha256": "457599f05b2bc26cf772fdb87d132e746e65508544fb3374ac063ef424894d53",
+          "reviewNote": "Verified sub (3): filed copy of articles as conclusive evidence of formation, except in proceedings by the state."
+        },
+        {
+          "number": 4,
+          "title": "Limitation on business activity prior to formation",
+          "bodySha256": "f7e4b51ed841b8f8d3f0d54fcd5ba392dbfe25a9adf80f35d8695a941497524d",
+          "reviewNote": "Verified sub (4): restriction on transacting business or incurring debt before formation, except organizational activities."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 4 subsections and source notes against archived source text; draft titles accurately summarize LLC formation rules."
+    },
+    {
+      "id": "347.039:18435",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.039&bid=18435",
+      "sourceSha256": "f067f137f5c6664c867c184e97823491f90ee35ab2df24b0c0b8be6ee64b6928",
+      "textSha256": "0839dc6009f852e5a07886728643b832cf1dfba8e85e349e7ee9e3a633d11f5c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory contents of articles of organization",
+          "bodySha256": "eaf2fad56b7185896bc0508ec777e158815fdce4360d40e7798b20f3fc55553b",
+          "reviewNote": "Verified sub (1)(1)-(6): mandatory contents of articles of organization (name, purpose, registered office/agent, management, dissolution events, organizers)."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory articles disclosures for separate series",
+          "bodySha256": "f5fd5131f7e6e229b5998c72174047d18265310e0d2a17b3f1aa08beba104215",
+          "reviewNote": "Revised title and note: sub (2) requires sub (1)(1)-(6) information to also be set forth for each separate series established under § 347.186."
+        },
+        {
+          "number": 3,
+          "title": "Permissible optional provisions in articles",
+          "bodySha256": "9c14878e3eb07d74784da65428a850f62b6b5ba799e1852002c1795d7e7c191e",
+          "reviewNote": "Verified sub (3): optional lawful provisions in articles of organization."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections and subdivisions against archived source text; revised sub (2) title and note to reflect required disclosures for each separate series under § 347.186."
+    },
+    {
+      "id": "347.041:18436",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.041&bid=18436",
+      "sourceSha256": "f51919f3518d67ed3acdfab320eb566a46e405f70ae088ce53e423882e9b967b",
+      "textSha256": "d5fcf859044d16b269874267a64891f83524bec79972700afd3c61a1b06029ab",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Amendment of articles of organization by filing",
+          "bodySha256": "77d4c461744e19312906d285e204c9e073399831e5fb14dd1b7d5b8f8df31b0a",
+          "reviewNote": "Verified sub (1): procedure and required contents for filing articles of amendment with secretary of state."
+        },
+        {
+          "number": 2,
+          "title": "Events requiring prompt amendment of articles",
+          "bodySha256": "5d262143acdc0f06987223d0f42b15a0db54c32a886d7f4dabd1143f1b1d9fe9",
+          "reviewNote": "Verified sub (2): mandatory amendment within 60 days (not 90) of management change, name change, dissolution time change, or false statement."
+        },
+        {
+          "number": 3,
+          "title": "Permissible amendments to articles of organization",
+          "bodySha256": "4924b966d90bb8af85f3c72326436a1f3695c6ac8374737bd6b0f7744cdee92e",
+          "reviewNote": "Verified sub (3): permissible lawful amendments to articles of organization."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections against archived source text; retained accurate draft titles and corrected sub (2) note from 90 days to the statutory 60-day amendment deadline."
+    },
+    {
+      "id": "347.043:18437",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.043&bid=18437",
+      "sourceSha256": "b17cdfe02c02388ef8297cea73ac07d78bb06fee8e0db1999d3b4e5cd1006908",
+      "textSha256": "d13e6fc5a81084d1607401d8586f1902e63307c61f8d761f8c136650eedf7d20",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Restated articles of organization authorized",
+          "bodySha256": "4e6c3ddad9cfdaee7008bfddc2a3190f8fc1f34e28bfb3e9224e218819540d86",
+          "reviewNote": "Verified sub (1): integration of all operative articles provisions into restated articles of organization. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Heading and introductory statement in restated articles",
+          "bodySha256": "7b0523b4ec69e42c2003d6e0fde21cd23c53f4d60db1717910f0788c9beb81ef",
+          "reviewNote": "Verified sub (2): required heading and introductory statement identifying original name and filing date."
+        },
+        {
+          "number": 3,
+          "title": "Supersession of initial articles upon restatement filing",
+          "bodySha256": "dddc49f85b6029d65bc8cda57a0a439d93e3e8f4dbb222b5f53c7dba95085279",
+          "reviewNote": "Verified sub (3): restated articles supersede initial articles and all prior amendments upon filing."
+        },
+        {
+          "number": 4,
+          "title": "Amendments effected in connection with restatement",
+          "bodySha256": "201696384483db83dfaf56c4ffb367887f943f647fa0564c62e842c20affc599",
+          "reviewNote": "Verified sub (4): amendments made in connection with restatement remain subject to general amendment provisions."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 4 subsections and source notes against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.044:60018",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.044&bid=60018",
+      "sourceSha256": "450d986a3c499a8507959a63db23fd7e973ab093d1bc34cef3cab5806cea3f70",
+      "textSha256": "121a2c07434ea2c8e2d375f9c97150a508961bce4b0b0a9c14d68e4abc50577a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application for certificate of good standing for LLC",
+          "bodySha256": "2fa8eaa9ea5cc69b6af89021f068ca14c22637eb9b99029d9e1c612ee6470894",
+          "reviewNote": "Verified sub (1): application to secretary of state for certificate of good standing for domestic or foreign LLC. Source notes show 2026 enactment and § 347.144 severability."
+        },
+        {
+          "number": 2,
+          "title": "Contents of domestic LLC certificate of good standing",
+          "bodySha256": "e196924fbeba5bc318323d997c1045df8f1d1ca648820458b902f48a42fb9122",
+          "reviewNote": "Verified sub (2)(1)-(6): required statements in domestic LLC certificate of good standing."
+        },
+        {
+          "number": 3,
+          "title": "Contents of foreign LLC certificate of good standing",
+          "bodySha256": "45c840307c917825bba2b7e5deeb003cd31b1747dbe63d0073430dbf0287702b",
+          "reviewNote": "Verified sub (3)(1)-(6): required statements in foreign LLC certificate of good standing."
+        },
+        {
+          "number": 4,
+          "title": "Certificate as prima facie evidence of LLC good standing",
+          "bodySha256": "695b0052462fca4229c33a5d47da3855d42beaf944325336f60063103f161848",
+          "reviewNote": "Revised title and note: sub (4) makes the certificate prima facie evidence (subject to stated qualifications), not conclusive evidence."
+        },
+        {
+          "number": 5,
+          "title": "Application for certificate of good standing for series",
+          "bodySha256": "12e34be8926fc6eca715060501b7a71a5da5cdaa3187c32e7f192499184bf199",
+          "reviewNote": "Verified sub (5): application for certificate of good standing for an individual series of a domestic or foreign LLC."
+        },
+        {
+          "number": 6,
+          "title": "Contents of domestic series certificate of good standing",
+          "bodySha256": "2af561399b932ba71d26e2a3ade0d5feef6659a96abf488c530eae422a41765f",
+          "reviewNote": "Verified sub (6): required statements in domestic series certificate of good standing."
+        },
+        {
+          "number": 7,
+          "title": "Contents of foreign series certificate of good standing",
+          "bodySha256": "39d98a6cadfbd9d5891aa3ae8719750bb1eb4deaa00adb5f2d54e0021b233507",
+          "reviewNote": "Verified sub (7): required statements in foreign series certificate of good standing."
+        },
+        {
+          "number": 8,
+          "title": "Prima facie evidence of good standing for series",
+          "bodySha256": "7349a5de9989d8bc7baedfae35cea1ad5fee46eb732859f5408ed4eb71d76a0a",
+          "reviewNote": "Revised title and note: sub (8) makes the series certificate prima facie evidence (subject to stated qualifications), not conclusive evidence."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 8 subsections and 2026 enactment / § 347.144 severability notes; revised subs (4) and (8) from 'conclusive evidence' to 'prima facie evidence' to match the statutory text."
+    },
+    {
+      "id": "347.047:18439",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.047&bid=18439",
+      "sourceSha256": "5de937a109f483380559ac07302f45bef8021dc97f96722e59f6d62d2efdc595",
+      "textSha256": "55a8473b0e097410a423fa9f037c132eea0a9211d33848a1341d9e11137000da",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorized persons for executing articles and notices",
+          "bodySha256": "ab00df0d0eb9e619cc391afd50cb10897fce289ce787bf5411e28cb27731cb22",
+          "reviewNote": "Verified sub (1)(1)-(4): authorized signers for articles of organization, amendments, winding-up/termination notices, and other filings."
+        },
+        {
+          "number": 2,
+          "title": "Execution of documents under power of attorney",
+          "bodySha256": "987cb9a46f3d891e636a2c2842cec8440bfa4ead0ecc611bbcd7f588bc3049fc",
+          "reviewNote": "Revised title and note: sub (2) authorizes signing by an attorney-in-fact under a power of attorney (which need not be filed unless required by secretary of state)."
+        },
+        {
+          "number": 3,
+          "title": "Execution of document as affirmation under perjury",
+          "bodySha256": "fbf78549244be23d5c127a5e745928c6b60a5a2a0156abc7ab6c3b5eeb2bae1e",
+          "reviewNote": "Verified sub (3): execution of filed document constitutes affirmation under penalties of perjury."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections against archived source text; revised sub (2) title and note because sub (2) governs execution under a power of attorney, not duplicate filing."
+    },
+    {
+      "id": "347.048:60157",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.048&bid=60157",
+      "sourceSha256": "ab2da9a597063ec53bf01c2946c01c57d64286f5ec0841bcd19bbaf917e01991",
+      "textSha256": "ae979772daa12a1f1b3b24236ce2571930d005cbc5c7656c8d858851e01ddffe",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "City clerk rental property contact affidavit in covered cities",
+          "bodySha256": "cb3f713aa1a239e2285dffddbd7f9ee8a19bbee86574725fab35d28ec925ed30",
+          "reviewNote": "Revised title and note: sub (1) requires management-contact affidavit filed with city clerk in three home rule city population tiers (>400k multi-county, 116k-155k, 71k-79k), plus 30-day successor affidavit. Source notes cite 2026 amendments and § 347.144 severability."
+        },
+        {
+          "number": 2,
+          "title": "County clerk property contact affidavit in large counties",
+          "bodySha256": "a4a50eefd8249d5de6db592ee2b5589fdb9489c3e43d2cd5bf1950588ff9d532",
+          "reviewNote": "Revised title and note: sub (2) requires affidavit filed with county clerk in counties >1M inhabitants after >2 ordinance violations and unsuccessful resolution, plus 30-day successor affidavit."
+        },
+        {
+          "number": 3,
+          "title": "Prohibition on filing fee for property contact affidavit",
+          "bodySha256": "66fa2757d72b937b58142712f7f4f37443ce05abdfaf00381f24430ce869c770",
+          "reviewNote": "Verified sub (3): no fee may be charged for filing the required contact or successor affidavit."
+        },
+        {
+          "number": 4,
+          "title": "Circuit court petition to compel affidavit filing",
+          "bodySha256": "3a14e245832649001ddfff5a95f0e3bbc53a2d6c0abe2b824117df61163a9f4c",
+          "reviewNote": "Revised title and note: sub (4) authorizes an adversely affected person or political subdivision to petition circuit court to direct execution and filing (not municipal court summons/penalties)."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 4 subsections and 2026 / § 347.144 notes; rewrote subs (1), (2), and (4) to reflect city clerk filings across three population tiers, county clerk filings in >1M counties, and circuit court enforcement petitions."
+    },
+    {
+      "id": "347.051:18442",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.051&bid=18442",
+      "sourceSha256": "e6037378727e080ec86e3077cc9728a863229cd186f0c77b0ade42dbbe4d8610",
+      "textSha256": "80a66e871e6e24250a2e1b308fe67d8033263ad54e49a0a38630c655891ca566",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Delivery and filing duties of secretary of state",
+          "bodySha256": "c8cffa3c64c96e8be9a363898e8bf0c3d301221116a502cab2d681a62c0c5af5",
+          "reviewNote": "Verified sub (1): delivery of signed document to secretary of state, endorsement as filed, filing, and return of copy."
+        },
+        {
+          "number": 2,
+          "title": "Prompt delivery of filed document copy to members",
+          "bodySha256": "4f2292a0aafd9b31ad8e19eb0909bc8c8bdd735f69258bc27c708429df50f8b1",
+          "reviewNote": "Revised title and note: sub (2) requires the executing person to promptly deliver or mail a copy of the returned filed document to each member unless the operating agreement provides otherwise."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections against archived source text; revised sub (2) title and note to reflect the executing person's duty to deliver copies to members."
+    },
+    {
+      "id": "347.053:18443",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.053&bid=18443",
+      "sourceSha256": "5782ea27d1c392b123440a26ff1e070bb3e8c4128cb2ea8b49b4fc7e20e46695",
+      "textSha256": "81625f944e7f6e5f34fd997216234a873642da708ec78eded8b3c32b3dbd543d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Action for damages resulting from false document statements",
+          "bodySha256": "df5f520beeeb2db7726f0032e1e91240dbbbcbdd479ce42158ac1eae1f1894db",
+          "reviewNote": "Verified sub (1): civil action for damages resulting from materially false statements in filed documents. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Civil penalty for late amendment; no personal liability",
+          "bodySha256": "a7383584dfd71d0a0ea4824812374bd1b37dc975f476ec757a55db2c59dc27e4",
+          "reviewNote": "Revised title and note: sub (2) imposes a $10/day civil penalty up to $1,000 (waivable for reasonable cause) for late amendment under § 347.041(2), and bars personal liability for LLC debts solely for failure to file."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and source notes against archived source text; revised sub (2) title and note to reflect the $10/day civil penalty and bar on personal liability."
+    },
+    {
+      "id": "347.055:18444",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.055&bid=18444",
+      "sourceSha256": "487d735daa9179089e46968c29a41cdb41c06d9537e815bd320a67af11a0065a",
+      "textSha256": "b3eb95b465199b7f84e8ed6525dedf9029ad5794e9ae8be82234646e7d446a83",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Filing statement of correction for inaccurate documents",
+          "bodySha256": "728e113a6669ab45955e069b5b49e30062ee8e9d8ec6d9a1910c39e60e11c8e0",
+          "reviewNote": "Verified sub (1): filing articles of correction for inaccurate or defectively executed documents."
+        },
+        {
+          "number": 2,
+          "title": "Required contents of statement of correction",
+          "bodySha256": "32ef00f966c359ca36314a65a4253918d602561e76dc1c9485e1ada7e04479a9",
+          "reviewNote": "Verified sub (2)(1)-(4): required contents of articles of correction."
+        },
+        {
+          "number": 3,
+          "title": "Effective date of statement of correction and exceptions",
+          "bodySha256": "65e2436ccca8464d689a710dfb1900c23e6d064624232652bbf1fac1c03a8061",
+          "reviewNote": "Verified sub (3): retroactive effective date to original filing date, except as to adversely affected relying persons."
+        },
+        {
+          "number": 4,
+          "title": "Filing fee for statement of correction",
+          "bodySha256": "14b625ba811b186359f4ce07ee6a90d27620381a7f5680727f395f78c95a7450",
+          "reviewNote": "Verified sub (4): five-dollar filing fee for articles of correction."
+        },
+        {
+          "number": 5,
+          "title": "Execution requirements for statement of correction",
+          "bodySha256": "a609c353a8e42ba64a91a17a375bfb57cdc5b1a56b5fd87a412d9b55f201cc61",
+          "reviewNote": "Verified sub (5): execution requirements for articles of correction."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 5 subsections against archived source text; draft titles accurately summarize articles of correction."
+    },
+    {
+      "id": "347.061:18447",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.061&bid=18447",
+      "sourceSha256": "fc4bd5d328c491ad08658fecc49756ee414ef906760c92cb99975ae53b772aec",
+      "textSha256": "ef24bb7777b427050bf81995bb0c48340f23a4e69f8c558f057048c3ce199c5a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Company ownership of acquired property",
+          "bodySha256": "75e98f6c6b710c0919528a20b971d438e3917ed9113cb67d612e07023f9f18cf",
+          "reviewNote": "Verified sub (1): property transferred to or acquired by LLC is company property, not individual member property. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Acquisition, holding, and conveyance in company name",
+          "bodySha256": "891d7deaf22ab7bf6e99eaaab2b85657ea5183395d7bc9b8dab3c5891d926da9",
+          "reviewNote": "Verified sub (2): acquiring, holding, and conveying real and personal property in company name."
+        },
+        {
+          "number": 3,
+          "title": "Presumption that property acquired with company funds is company property",
+          "bodySha256": "7b12ca8dc20d1a46ba9e87248be0404c147d3482294c430ba9dc196f64394f43",
+          "reviewNote": "Verified sub (3): presumption that property acquired with company funds is company property."
+        },
+        {
+          "number": 4,
+          "title": "Property held in name of other persons",
+          "bodySha256": "13e98ea916cb3ddc177fb8f9e409b561940aa609ce5c4abddf1962f9c3ad0fc4",
+          "reviewNote": "Verified sub (4): company property held of public record in name of other persons."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 4 subsections and source notes against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.063:18448",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.063&bid=18448",
+      "sourceSha256": "fce2b4a6b79c8c2fa00c57c64d36f346bb8358938d6e2e2bb60c02c994324f8e",
+      "textSha256": "5c921f26b17e1179e8a71277c36d4c66c8697bdbc5a7309c7930f704c3231b50",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Transfer of property held in company name",
+          "bodySha256": "fdfd0c145107dab0d3f85c6b0125d906225016f81fa4b33dddcc802643511f19",
+          "reviewNote": "Verified sub (1): transfer of property held in company name by authorized person. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Transfer of property held in member or manager name",
+          "bodySha256": "68862e65e727f9d2861cf57f37cb9f03c2b4b4ac3ae8c14b488a8e1d4928f929",
+          "reviewNote": "Verified sub (2): transfer of property held in member or manager name with company interest disclosed."
+        },
+        {
+          "number": 3,
+          "title": "Recovery of company property transferred without authority",
+          "bodySha256": "107298a68ac983653134386c70ad3e5da7c7f82674026a018078b0467051c9b4",
+          "reviewNote": "Verified sub (3): company recovery of unauthorized property transfers, subject to bona fide purchaser protection."
+        },
+        {
+          "number": 4,
+          "title": "Transfer of property held in name of third parties",
+          "bodySha256": "2a78d6e4e1b0ef060464e6354ae8964aade2bbfd96046cd97eab6bd98e0f725a",
+          "reviewNote": "Verified sub (4): transfer of company property held in name of third parties without record notice of company title."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 4 subsections and source notes against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.065:18449",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.065&bid=18449",
+      "sourceSha256": "c55c67e31dbb49106943119312d1ddfa85a2230cc503c2d5f95acd53a14951d8",
+      "textSha256": "4b2a490b755c0025c38664dbad6f70cb1b6b2e4b9c6ca6c91d9de7d6d65b321c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Members as agents in member-managed company",
+          "bodySha256": "a4d55583bf3bac92319482b0da12b70b27f36362aa4cc18f981d21e164b22bc4",
+          "reviewNote": "Verified sub (1): members as agents in member-managed LLC. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Managers as agents in manager-managed company",
+          "bodySha256": "8a357db7f49cc2acd6d9eba7ffdb398d4cbd74d11b1195f62cfe14193befd752",
+          "reviewNote": "Verified sub (2): managers as agents in manager-managed LLC; non-manager members are not agents."
+        },
+        {
+          "number": 3,
+          "title": "Acts not in ordinary course of business",
+          "bodySha256": "c18ec3b162ded264d71202b068a70fe739768762335ad73dcd558a6163d9159e",
+          "reviewNote": "Verified sub (3): acts not apparently in ordinary course of business do not bind LLC without authority."
+        },
+        {
+          "number": 4,
+          "title": "Unauthorized acts and third-party knowledge of restriction",
+          "bodySha256": "6f1217d8d935accfd610a62791bfcb3cecf14f07e9468933f3e38b1667f3ef7a",
+          "reviewNote": "Verified sub (4): acts contravening restrictions do not bind LLC as to persons with knowledge."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 4 subsections and source notes against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.067:18450",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.067&bid=18450",
+      "sourceSha256": "5765a8587403625231c1f92f1a05ce14b02562be4c5af264ff84f702670bedcd",
+      "textSha256": "8084455c717ca61c989377664154b412248697526fa096ec8d8d01efabb518a7",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Binding acts of members or managers after dissolution",
+          "bodySha256": "cb3c575d5923f257173e5703cdb05616eda1801af82851fc18ab2d1ae094d6e2",
+          "reviewNote": "Verified sub (1): binding acts of authorized persons after dissolution for winding up. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Acts not binding after dissolution and exceptions",
+          "bodySha256": "11c2679b8dc6bd5053dda3d7823b447a9f611666cc5c50ad638bb85275b33633",
+          "reviewNote": "Verified sub (2): post-dissolution acts not binding on company, including bankruptcy and lack of authority with notice."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and source notes against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.069:18451",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.069&bid=18451",
+      "sourceSha256": "a544a331ab3b35a6cbab51eeaf771e1d9af72ef32412b97c7fe18bd5a0d032e8",
+      "textSha256": "96e136a8a1d5ea51a669e1a68ed32cde1f4c5cca5a410d2338947caf128e6f23",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Proper parties and joinder in company proceedings",
+          "bodySha256": "c2ba8f4d51796a51612a06acd5d29e1812abbdd09ea9b88e9f6bb231227e1c6d",
+          "reviewNote": "Refined title and verified sub (1): member is not a proper party except to enforce member rights or where a claim exists against the member; joinder permitted. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Venue for proceedings against a limited liability company",
+          "bodySha256": "ffd89de960b16aabe181767511667c26707331d833c67dff929415c9760356ed",
+          "reviewNote": "Revised title and note: sub (2) establishes venue for suits against an LLC (county of cause of action, registered office, or business office), not joinder/derivative actions."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and source notes against archived source text; refined sub (1) to include joinder and rewrote sub (2) to reflect venue."
+    },
+    {
+      "id": "347.077:18455",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.077&bid=18455",
+      "sourceSha256": "f55a3e81ba5c01b0b7853ba0e2522450a5da585d4f235b0276dc6ba0f08fd6f5",
+      "textSha256": "65a67d8d4de963b62ac9af90d69cf030e8ac4b6879df41d07aac24d0ac931236",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Company liability for misapplication of money or property",
+          "bodySha256": "f07af28aabcca7260f793e301f70148f66790f85f2a3dd12db9b9ff21b0ec329",
+          "reviewNote": "Verified sub (1): LLC liability for misapplication of third-party money or property received by authorized person. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Misapplication of funds received in ordinary course",
+          "bodySha256": "05b3d5ba25ba72bb30bdb3d542b1d09220ac093051b33bf8c67e406ee9f3ccae",
+          "reviewNote": "Verified sub (2): LLC liability for misapplication of money or property received in course of business while in company custody."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and source notes against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.079:18456",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.079&bid=18456",
+      "sourceSha256": "40780e4657f73f533d739dcbe9709f5a4b55e13b13e7c4ee37dc270dd4db0f94",
+      "textSha256": "c1bdade838b95c8140237dbe35e980e30972c5a9bb77292d52c7190589c4a112",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Vesting of management in members or managers",
+          "bodySha256": "d2db87e1ea6754d1b997e68e76edfbc245c798138f2bef14460221da9b0567a8",
+          "reviewNote": "Verified sub (1): vesting management in members or in one or more managers as provided in articles."
+        },
+        {
+          "number": 2,
+          "title": "Appointment and qualifications of managers",
+          "bodySha256": "63d6462757e19021a5d9001859cccf971e353319f1cb54b4cdcee02df7ecce6b",
+          "reviewNote": "Verified sub (2): appointment, election, qualifications, and removal of managers."
+        },
+        {
+          "number": 3,
+          "title": "Unanimous member consent required for fundamental actions",
+          "bodySha256": "1bb7e526c1fd7d2e11c55f85a1a0e5b0bc62cb25cf176980918278feb748f05d",
+          "reviewNote": "Verified sub (3): unanimous member consent required for listed fundamental actions unless operating agreement provides otherwise."
+        },
+        {
+          "number": 4,
+          "title": "Majority vote of members or managers for ordinary business",
+          "bodySha256": "d74c35600d1f8277c2cc5db82b952fa2341b73d1340b90d1a8d404a2a078d21b",
+          "reviewNote": "Verified sub (4): majority approval of members or managers for ordinary business unless operating agreement provides otherwise."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 4 subsections against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.081:18457",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.081&bid=18457",
+      "sourceSha256": "b30842f9ef0a7d670ace4727ed1a6cc974e7d56cf86a9a8ce2394622cd60fdd1",
+      "textSha256": "b7bd50b15e2684c455f826478f145b3f52573a76f2b6f04c7ce6fbd91268bfe2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Adoption and mandatory contents of operating agreement",
+          "bodySha256": "a097d66d98425ce051f9b546a5b5a667ba69cb26109fedd0a6c36d77cd1954d1",
+          "reviewNote": "Verified sub (1): adoption and mandatory scope of operating agreement."
+        },
+        {
+          "number": 2,
+          "title": "Freedom of contract policy statement",
+          "bodySha256": "1611e5d42ef7467bbadc140773541c04789afd0a99a8ce3268697432fca835b0",
+          "reviewNote": "Verified sub (2): policy of giving maximum effect to freedom of contract and enforceability of operating agreements."
+        },
+        {
+          "number": 3,
+          "title": "Enforceability of operating agreement at law and equity",
+          "bodySha256": "2db3a75fb282e5a3740f8faacf115ef48be6df9709518d92848dc09fef56dbc8",
+          "reviewNote": "Verified sub (3): enforceability of operating agreement at law or in equity."
+        },
+        {
+          "number": 4,
+          "title": "Validity of independent agreements among members",
+          "bodySha256": "fdeacb19b1631b80f92d4004e14e2aee4a2c6b20b9b3e74acd0dde12102d2646",
+          "reviewNote": "Verified sub (4): preservation of other valid independent agreements among members."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 4 subsections against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.085:18459",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.085&bid=18459",
+      "sourceSha256": "ac45cfae271308c6410f2acec2f6d400b617ae90f455d1a2907fece8cba9e97c",
+      "textSha256": "dd11c81a6ad8ec365507bab4eb5c510186bbff74a38adabc705735734e02249d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written waiver of required statutory or agreement notice",
+          "bodySha256": "954b275102b26e707bceb687e15feddf7b50c787e24bbe07ac5a2bb70888d95e",
+          "reviewNote": "Verified sub (1): written waiver of required notice before or after meeting time. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Attendance at meeting as waiver of notice",
+          "bodySha256": "cba6d7191e2ef5fdb24d50fd8258c146ac5ad4361f79309e60718484e194ab35",
+          "reviewNote": "Verified sub (2): attendance at meeting waives notice unless solely to object to meeting call."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and source notes against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.088:18460",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.088&bid=18460",
+      "sourceSha256": "abc853c9e9beaf98e5b26baac8875308bd38f09f7c0e57e50dd460caf32afba6",
+      "textSha256": "2dc0548d628de74f998697d1ca3e7a88acd983357122cf46c93e48e9e18f66c9",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Standard of care for authorized persons and managers",
+          "bodySha256": "dd21131b05d9b2dc62315c0e76f26c50ad967b67d716a27b2ec076d3af6870aa",
+          "reviewNote": "Verified sub (1): good-faith, ordinary-care, and best-interests standard for authorized persons."
+        },
+        {
+          "number": 2,
+          "title": "Limitation of fiduciary duties and liabilities by agreement",
+          "bodySha256": "43dc287010c249b1d02afe9302b8152d963483affcb622e2c4cc3c51d4b0f2d4",
+          "reviewNote": "Verified sub (2): operating agreement may expand, restrict, or eliminate duties and liabilities, subject to good faith."
+        },
+        {
+          "number": 3,
+          "title": "Duty to account for profits and benefits derived without consent",
+          "bodySha256": "1d1b90ad242bd17baeb87cd50b28fb9bec31abca323c29601fc755709dc76677",
+          "reviewNote": "Verified sub (3): duty to account and hold as trustee for unconsented profits or benefits derived from company property/transactions."
+        },
+        {
+          "number": 4,
+          "title": "No duties for non-manager member in manager-managed LLC",
+          "bodySha256": "60dc4b680e5bca371066ea856088c89c0f461c0dd7edeac3f5d8da613b83ec14",
+          "reviewNote": "Revised title and note: sub (4) provides that a member who is not a manager in a manager-managed LLC has no duties to the LLC or other members solely by reason of being a member."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 4 subsections against archived source text; rewrote sub (4) title and note because sub (4) addresses non-manager members in manager-managed LLCs rather than monetary damages shields."
+    },
+    {
+      "id": "347.090:18461",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.090&bid=18461",
+      "sourceSha256": "53218858a2afa2a99d111fa3d35ce482de1b4f07a4fb4b8ad33eb1142b9d9d21",
+      "textSha256": "aa18f93ed76d216362496d8cde02266fd01c6a61ceae2582a8b411644aa13d18",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorized person reliance upon professional information",
+          "bodySha256": "1b2a38278bbc5d533bd320db127e5855f6d661b5d6502006e2505dbb2b71e33f",
+          "reviewNote": "Verified sub (1)(1)-(3): good-faith reliance on officers, employees, legal counsel, accountants, and committees. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Immunity from liability when acting in good-faith reliance",
+          "bodySha256": "5046ecffcdcc8603c04f24ba79ce659c0a9a395a695bfdc0385a8839faad31bc",
+          "reviewNote": "Verified sub (2): no liability for actions taken in good-faith reliance under sub (1)."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and source notes against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.091:18462",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.091&bid=18462",
+      "sourceSha256": "e88c896bbccdcf62894575d50d6c997f1665d2082bf447fd1e5c5961d49109d7",
+      "textSha256": "9e2487098a85266c5bc85d58b4dcd776aafe448395d2e0bc19c0561a29c7236c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory records kept at principal place of business",
+          "bodySha256": "5961920df121e77bfdb506ae31ab77fa905ed46b9bba18c6e603456bd59730cd",
+          "reviewNote": "Verified sub (1)(1)-(6): mandatory records kept at principal place of business. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Member rights to inspect and copy company records",
+          "bodySha256": "4ac779727ea6b31cb362b457a34d871a46851c693c7b7584b42a6a61693f3dc6",
+          "reviewNote": "Verified sub (2): member rights to inspect/copy records and obtain financial and tax information."
+        },
+        {
+          "number": 3,
+          "title": "Secretary of state request for company records",
+          "bodySha256": "8aa695d2d2acfd65c776546cf0e28acba8dcaf10b59cda754d01722fb0272317",
+          "reviewNote": "Verified sub (3): secretary of state written request for member list."
+        },
+        {
+          "number": 4,
+          "title": "Failure to maintain records not ground to impose personal liability",
+          "bodySha256": "fb92a327fac09b0de9cbbfc5416ad60c8301686ab4deb0974c4a2c7888786139",
+          "reviewNote": "Verified sub (4): failure to keep records is not a ground for imposing personal liability on members."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 4 subsections and source notes against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.099:18466",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.099&bid=18466",
+      "sourceSha256": "641e3bd460255e9eac437f924919ff5ee3261b555cfe393fa5064bbea88c9798",
+      "textSha256": "2228d80aa6d87f11eccbe8220a25c1b6af1ea540d68a2617f3ef1eea632f66c1",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Promises for member contribution required to be in writing",
+          "bodySha256": "30366f96f1691bcac6938c11a180518ec6d3b4c4bd5e6be0267e121607aacbfc",
+          "reviewNote": "Verified sub (1): member contribution promise unenforceable unless in a signed writing. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Obligation to perform contribution promise and cash compromise",
+          "bodySha256": "65771c635700225a040d19b4e4ea2ceef97084a7258a94d03ab480276da42a0d",
+          "reviewNote": "Verified sub (2): obligation to perform contribution promise or pay cash value; unanimous consent required to compromise."
+        },
+        {
+          "number": 3,
+          "title": "Restriction on third-party creditor enforcement of contributions",
+          "bodySha256": "bd91b74dbdba0f4582b76e2af5e63de945b9ca2aa1d59ba55d9800f16f3fd7cb",
+          "reviewNote": "Revised title and note: sub (3) bars a third-party creditor from enforcing a contribution obligation unless the member consented or the LLC assigned the obligation (opposite of draft)."
+        },
+        {
+          "number": 4,
+          "title": "Remedies and penalties for failure to make promised contribution",
+          "bodySha256": "2b9f32911644d3b3bbea61928bef93dc686b246dacc8e7acd910d61dd145cb08",
+          "reviewNote": "Verified sub (4): operating agreement remedies and penalties for failure to make required contribution."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 4 subsections and source notes against archived source text; reversed sub (3) title and note because sub (3) restricts rather than generally authorizes third-party creditor enforcement."
+    },
+    {
+      "id": "347.101:18467",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.101&bid=18467",
+      "sourceSha256": "61228884df8b534a1de63a920df19b4989d8ca79faaca2a63e06f3514766473e",
+      "textSha256": "9e55ef81aeaa6a13a5705fe733344ab3c407977cd1dbdfd038c951c236d20f53",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Distributions required before dissolution and winding up",
+          "bodySha256": "0a0f37bbc7049d126fca03cae47a02970f72dd24f0fc3e9656991247455196dd",
+          "reviewNote": "Verified sub (1): distributions before dissolution and winding up as provided in operating agreement. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Sharing of distributions based on agreed contribution value",
+          "bodySha256": "b4ba437b55550feeed62e40dbacb900d7b0e92037c1f2bb509a25f9cf60997cf",
+          "reviewNote": "Verified sub (2): default distribution sharing based on agreed value of contributions."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and source notes against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.103:18468",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.103&bid=18468",
+      "sourceSha256": "6b865c39aa6f40c7aae1f47c01e7f59cb0a7c0bdbf83fe60137607bd325c7a86",
+      "textSha256": "21366f6b9f6533ab0dcc51eedc949a441be7f204cebc2360ec24fc53a4ec5606",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Distribution to withdrawing member upon dissolution",
+          "bodySha256": "2bff073ed064c6ad41b4e1098b5feef20fde69de56c0284fff2323445c7d2457",
+          "reviewNote": "Verified sub (1): distribution rights of withdrawing member when company dissolves and winds up. Source notes cite *Effective 6-24-97 (H.B. 655); 5-20-97 (S.B. 170)."
+        },
+        {
+          "number": 2,
+          "title": "Distribution to withdrawing member upon business continuation",
+          "bodySha256": "66e039f65a6cdec34fd4fea5777dfc89ee1087876ed9170595632c77f41a8674",
+          "reviewNote": "Verified sub (2): fair value distribution to withdrawing member when business continues. Source note: **Word 'the' does not appear in original rolls."
+        },
+        {
+          "number": 3,
+          "title": "Applicability of withdrawal distribution provisions",
+          "bodySha256": "bb9f95aa1f61068488e2754b65cf8750f8c22971051d23e0c51939ef7725e732",
+          "reviewNote": "Verified sub (3): applicability to LLCs in existence on effective date."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections and source notes (*dual 1997 effective dates; **original-rolls note for 'the' in sub 2); draft titles are accurate."
+    },
+    {
+      "id": "347.109:18471",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.109&bid=18471",
+      "sourceSha256": "b40d775d29cf4003e63083eb5e22d4acd6c8e116e3971391827a8d57b445d44c",
+      "textSha256": "714c77b991dd425c73ee7dbc66324f3c06ede20228ce62a9ab7db07a9c40faa3",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition on distributions causing company insolvency",
+          "bodySha256": "fa44bd04cc5b4d331d94dfb04ba3abcb733830f29c04c46b26c80a5ce25ee529",
+          "reviewNote": "Verified sub (1): prohibition on distributions rendering LLC unable to pay debts or assets below liabilities. Source notes cite 1997 effective dates."
+        },
+        {
+          "number": 2,
+          "title": "Determination of distribution legality and financial statements",
+          "bodySha256": "5e4695375a10e34c7855d3b2ce6897d81c254f51de947b0048dae0a39d670a82",
+          "reviewNote": "Verified sub (2): determination of distribution legality using financial statements or fair valuation."
+        },
+        {
+          "number": 3,
+          "title": "Measurement date for determining validity of distribution",
+          "bodySha256": "6cb33c2266a5eb0e29187aa94d24d737991f6823f3000d01fed7bb455b7b848e",
+          "reviewNote": "Verified sub (3): measurement date for evaluating legality of distribution."
+        },
+        {
+          "number": 4,
+          "title": "Member liability for return of unlawful distributions",
+          "bodySha256": "b915491fea7317d14702880fb44af9d9d0edb86286bbc0dc9ac10c7795ef70ad",
+          "reviewNote": "Verified sub (4): personal liability of member receiving unlawful distribution knowing it violated section."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 4 subsections and source notes against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.113:18473",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.113&bid=18473",
+      "sourceSha256": "4b8d0ff6f59a6aeb0b793a8f3d4b6c79bc05a34f497e38c3e284a546cba3636f",
+      "textSha256": "9782064eadb1608729518749172d505943b6f53f3843a42e23e793ce6943e457",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Members at time of company formation",
+          "bodySha256": "022e036c83b74c322c5d2635f8578a3bdddb7ac96d540cfbbd93a4de4b576552",
+          "reviewNote": "Verified sub (1): persons who are members at time of company formation. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Admission of additional members after formation",
+          "bodySha256": "50aedcbcf9fd3ae6eb1fb29022ebf5125b57d1ec23ba6bf478c0a09b4483e777",
+          "reviewNote": "Verified sub (2): admission of additional members after formation."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and source notes against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.115:18474",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.115&bid=18474",
+      "sourceSha256": "12f109064426047a33b68542cf868b003d8f07fff709441785e022e7a750ed5d",
+      "textSha256": "d1556b84af569856fe6508bdb42a57c7054df08fb90d60ec8d92d67ff98db2e1",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Member interest as personal property and assignability",
+          "bodySha256": "31b79212ccfacf4e9e6dc842b335db290800380ea64f50c88cf4747d6f1435d8",
+          "reviewNote": "Verified sub (1): member interest is personal property and assignable absent operating agreement restriction. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Rights and powers of assignee admitted as member",
+          "bodySha256": "1030f0678dcdcd2c834c44a8d66ca35c4d50eca081da0fcf89f737329a6c637a",
+          "reviewNote": "Verified sub (2): rights, powers, restrictions, and liabilities of assignee admitted as member."
+        },
+        {
+          "number": 3,
+          "title": "Member status and liability following assignment of interest",
+          "bodySha256": "4212f7c9358f21eebb79245ea0a5ce7fbc40320757bbd2b87cd90b4a789d6544",
+          "reviewNote": "Verified sub (3): assignor ceases to be a member upon assigning entire interest but remains liable for contributions."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections and source notes against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.117:18475",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.117&bid=18475",
+      "sourceSha256": "8bd1c013e46ca52f668a90d1f32417f4eef13e56189964636f4e84c3c07654da",
+      "textSha256": "ff8140b85304d6e8f84d0211193475e948b3c42cb723083cfe33e287d385b325",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Death or incompetence of individual member and estate rights",
+          "bodySha256": "232d9968d392c53e91dd57dbd254a42bb9582b107e3852afeae6fed2582ec4c9",
+          "reviewNote": "Verified sub (1): executor or guardian powers upon death or incompetence of individual member. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Dissolution or termination of entity member and successor powers",
+          "bodySha256": "5d40639d531505c5e2967d1a73a3e513a0dbf96fba9396495211efae5607e8c7",
+          "reviewNote": "Verified sub (2): legal representative or successor powers upon dissolution or termination of entity member."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and source notes against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.121:18477",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.121&bid=18477",
+      "sourceSha256": "b47360dbab3a14a14d8fe3419cf235dd237ea489a2842b468375bbb5cdeab685",
+      "textSha256": "279a89dbe82897c6996212eb2bddcea8a17930997b0c68aa4704e9cc139d2288",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Right and manner of member withdrawal from company",
+          "bodySha256": "84a1e4679ad2b93fa8bb05f3f3d2ea36781ea060ae8c349dde7e0c319d06adac",
+          "reviewNote": "Verified sub (1): right and manner of member withdrawal and damages for withdrawal in violation of operating agreement. Source notes cite 1997 effective dates."
+        },
+        {
+          "number": 2,
+          "title": "Post-withdrawal duty to account for unconsented profits",
+          "bodySha256": "a10636c14cb91de5b5a0aec55b935cb52add97774e28ff4fa13ede6cf5d6192e",
+          "reviewNote": "Revised title and note: sub (2) requires a withdrawn member to account for profits or personal use of LLC property without consent (wrongful withdrawal damages are in sub 1)."
+        },
+        {
+          "number": 3,
+          "title": "Rights of withdrawn member limited to assignee status",
+          "bodySha256": "8344e256f38a390d946df5c0dc32ed61118121f5229aa1381bef953d5ab428d2",
+          "reviewNote": "Revised title and note: sub (3) terminates a withdrawn member's management rights and limits rights to those of an assignee."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections and source notes against archived source text; rewrote subs (2) and (3) titles and notes to match post-withdrawal accounting duties and assignee-only rights."
+    },
+    {
+      "id": "347.125:18479",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.125&bid=18479",
+      "sourceSha256": "1de346076ee82e2766cef3b9e07cf50dbd09861fd04db5c7e7238d6e8a0e7803",
+      "textSha256": "1392c8a0afd0ad22509f119dc3fffff8cba5260898b692caf789718cf9fa252f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conversion of partnership or limited partnership to LLC",
+          "bodySha256": "7550b01239d9eac789da30a2b1e9af527476b3518160e4c7d044a2f5e49d05cb",
+          "reviewNote": "Verified sub (1): conversion of domestic general or limited partnership to LLC upon partner approval and articles filing. Source notes cite 1997 effective dates."
+        },
+        {
+          "number": 2,
+          "title": "Conversion does not require or constitute dissolution",
+          "bodySha256": "41919de15b9d3d7a07848e8425198c251be0d41d357ba52df5f3b146f8f28784",
+          "reviewNote": "Revised title and note: sub (2) provides that conversion does not require winding up or constitute dissolution of the partnership."
+        },
+        {
+          "number": 3,
+          "title": "Vesting of partnership property and rights in company",
+          "bodySha256": "89087a1d8ee4e908e0108763e1e2e73f7692c5141cee11ef62ac9e862acbea5f",
+          "reviewNote": "Revised title and note: sub (3) vests all partnership property, rights, and causes of action in the LLC without deed or transfer."
+        },
+        {
+          "number": 4,
+          "title": "Continuation of partnership debts, liens, and actions",
+          "bodySha256": "422463b5ac9f8c35a03185bd6a2f8bbd3c1ccf123216a9d94ea41e6f86b96146",
+          "reviewNote": "Revised title and note: sub (4) attaches pre-conversion partnership debts, liens, liabilities, and pending actions to the LLC."
+        },
+        {
+          "number": 5,
+          "title": "Cancellation of prior partnership registrations and filings",
+          "bodySha256": "7e966c9b90a2e9f912ba4093c495452716fcdb1f5df2a505f0a899dcd0d70023",
+          "reviewNote": "Revised title and note: sub (5) deems prior partnership registrations and certificates cancelled upon filing articles of organization."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 5 subsections and source notes against archived source text; rewrote subs (2)-(5) titles and notes to fix shifted/inaccurate draft headings."
+    },
+    {
+      "id": "347.127:18480",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.127&bid=18480",
+      "sourceSha256": "f5960e2bed292966797c3feb5cbe2d374c5317c2c810d9f68679fbd55e1efe65",
+      "textSha256": "7a4cecb4a480023283bdd1c322a4014501f6b63d281c037177ad3f2313f9d44d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Merger or consolidation of limited liability companies authorized",
+          "bodySha256": "a14df0d49124d09f5a2ca783d9afc1059d44a3d9112ca55e9a79b27cfe45a536",
+          "reviewNote": "Verified sub (1): merger or consolidation of domestic LLC with other domestic or foreign LLCs. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Merger or consolidation with non-LLC business entities",
+          "bodySha256": "ce8ac3fcab46ab2fba8f7a8531a5531f7e35e9035cec24c2952537cd01b50cfb",
+          "reviewNote": "Revised title and note: sub (2) authorizes merger or consolidation with domestic or foreign corporations, partnerships, or other business entities under §§ 347.700-347.735."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and source notes against archived source text; rewrote sub (2) title and note to reflect mergers with non-LLC business entities under §§ 347.700-347.735."
+    },
+    {
+      "id": "347.129:18482",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.129&bid=18482",
+      "sourceSha256": "94ce67999b2505a0a1dddac25f8478eb5151538a34cad94b21b211907c0fcc79",
+      "textSha256": "4a9d902eace809fc42db04bba8279218e7e01d52c2dab7610fab17f9d2ea364a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Notice of merger or consolidation and required contents",
+          "bodySha256": "d63cb2e0c2b8a0ab4437bb65ed32bc234220e72716172b9faeea48dbbf447e8f",
+          "reviewNote": "Verified sub (1)(1)-(7): required contents of notice of merger or consolidation filed with secretary of state."
+        },
+        {
+          "number": 2,
+          "title": "Execution of notice of merger or consolidation",
+          "bodySha256": "bfd44c84dd30ca4913494bc43dcb6050abf9d3498f6c68526b50805c74d5da94",
+          "reviewNote": "Verified sub (2): authorized execution of notice of merger or consolidation."
+        },
+        {
+          "number": 3,
+          "title": "Notice of abandonment of merger or consolidation",
+          "bodySha256": "e65decb1b920decd39a78ec3e00aa0608f309d94dbe9b33be17d8f57b887f45d",
+          "reviewNote": "Revised title and note: sub (3) requires filing a notice of abandonment if a merger/consolidation is abandoned before its delayed effective date."
+        },
+        {
+          "number": 4,
+          "title": "Effective date of merger with foreign surviving entity",
+          "bodySha256": "28f1053315eb904c26931b23bef6c95c5cabc87de7f7b2592acf96e3eb41e08b",
+          "reviewNote": "Revised title and note: sub (4) governs effective date and home-state certificate filing when the surviving entity is a foreign LLC."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 4 subsections against archived source text; rewrote subs (3) and (4) titles and notes to match notice of abandonment and foreign-survivor effective date rules."
+    },
+    {
+      "id": "347.137:18486",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.137&bid=18486",
+      "sourceSha256": "f96f6274cdffe335a2a9a4a7b6fb85681429dc7dda9ec4814e19f929343e485e",
+      "textSha256": "e0af2259a9e8c6c12d5beb465740713f6872bb5426c991eaf66e26e066e40d00",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Events triggering dissolution of limited liability company",
+          "bodySha256": "6c462ee22378da3b21b04c99b957176159d77e99761e7fd39b99362116ddf331",
+          "reviewNote": "Verified sub (1)(1)-(4): events triggering dissolution of LLC."
+        },
+        {
+          "number": 2,
+          "title": "Filing notice of winding up following dissolution",
+          "bodySha256": "6281c16fb99eec24595009f59f0afe2cf61a97c316fd9b6ecf9066e7cec3124b",
+          "reviewNote": "Verified sub (2): filing notice of winding up with secretary of state after dissolution."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.139:18487",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.139&bid=18487",
+      "sourceSha256": "e04138d75a232ad0135987e4254dfe3a3c62ef17ae89a72a378d8ee28e10fb38",
+      "textSha256": "f1808d3684ebf17c06fa8c5441d67d09fadec6ed9583ff1152cc2f9e7bd9b01f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Winding up affairs and liquidation following dissolution",
+          "bodySha256": "9259028919b05410014a4c48181ceac9d0a5ee0da6f6bbc00400df4cefc9df8d",
+          "reviewNote": "Verified sub (1): ceasing business except winding up, liquidating assets, and discharging liabilities. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Order of priority for distribution of company assets",
+          "bodySha256": "a00debe56d9a1e655f9a8b2052d31938a9716b43213c71cc9e5b9da675160c4a",
+          "reviewNote": "Verified sub (2)(1)-(3): priority order for distributing assets upon winding up."
+        },
+        {
+          "number": 3,
+          "title": "Cessation of existence and post-termination trustees",
+          "bodySha256": "9af39880c56b4b38c5d2f5a48bee97c9a2a58163491ff5385f1e6cd5e2136c25",
+          "reviewNote": "Revised title and note: sub (3) provides that existence ceases upon articles of termination and designates trustees for post-termination assets/actions. Source note: *Word 'and' does not appear in original rolls."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections and source notes (*original-rolls note for 'and' in sub 3); rewrote sub (3) title and note to reflect cessation of existence and post-termination trustees."
+    },
+    {
+      "id": "347.141:18488",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.141&bid=18488",
+      "sourceSha256": "94890cccb44c04053b9aaa62b10a0e62dc543d2f07935905a7b17b45a3eadcba",
+      "textSha256": "57544c149b84dc05a6dd933674b93902566afb2d74ef96c524b6e27582183d62",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Disposing of known claims and written notice contents",
+          "bodySha256": "2ea49a163d824fb3c7680cd4ef8ada664669314b1c17827e7202759e3f3cff0c",
+          "reviewNote": "Refined title and verified sub (1): procedure and required contents of written notice to dispose of known claims against dissolved LLC."
+        },
+        {
+          "number": 2,
+          "title": "Barring of known claims absent fraudulent intent",
+          "bodySha256": "00309ea5c5b41863e4623a7fe1af080df5f5351ac9955c26729cbadb9f9c4f2f",
+          "reviewNote": "Revised title and note: sub (2) bars known claims if claimant misses deadline or fails to sue within 120 days of rejection, absent fraudulent intent."
+        },
+        {
+          "number": 3,
+          "title": "Publication of winding-up notice for unknown claims",
+          "bodySha256": "afc6067dcc4d52e1fb5b4433b4305fc3ba605c9d6f957166d20007ab5a0e2d53",
+          "reviewNote": "Revised title and note: sub (3) specifies notice of winding up publication in county newspaper, statewide legal publication, and Missouri Register."
+        },
+        {
+          "number": 4,
+          "title": "Three-year bar on unknown and contingent claims",
+          "bodySha256": "a2b0c4c3aa9a18f884399d8811a3d0c3efae319275d728624917019b67582f33",
+          "reviewNote": "Revised title and note: sub (4) bars unknown, unacted-upon, and contingent claims 3 years after winding-up notice publication."
+        },
+        {
+          "number": 5,
+          "title": "Enforcement of claims against assets or distributed shares",
+          "bodySha256": "8496183b5bc940276f387c49da2f7f41190b2c63b50c3ad859dbd456a7e788e8",
+          "reviewNote": "Revised title and note: sub (5) governs enforcement of claims against undistributed assets or members up to liquidated share."
+        },
+        {
+          "number": 6,
+          "title": "Definition of fraudulent intent for barred claims",
+          "bodySha256": "b655681b00e4d7f4857b2dd29a1d2eb5e405c7c6029ede7feadabd221ca1ac4e",
+          "reviewNote": "Revised title and note: sub (6) defines 'fraudulent intent' as sole or primary purpose to defraud claimants."
+        },
+        {
+          "number": 7,
+          "title": "Exception for insured claims and defendant ad litem",
+          "bodySha256": "24cf3d8716d60b7ce05476c66833a373a63a40704609ff1a8920301d6340dcd2",
+          "reviewNote": "Revised title and note: sub (7) allows claims covered by insurance to proceed despite sub (4) bar and authorizes appointment of defendant ad litem."
+        },
+        {
+          "number": 8,
+          "title": "Insurance-only enforcement of judgments under exception",
+          "bodySha256": "31d5acdfd495a7e4a2134e591e33f61ea7302f1baaf043a893cfa62f72b99d65",
+          "reviewNote": "Revised title and note: sub (8) limits enforcement of judgments under sub (7) exclusively to applicable insurance contracts."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 8 subsections against archived source text; rewrote all 8 titles/notes because draft subs (2)-(8) were systematically shifted and omitted the fraudulent-intent and insurance-exception subsections."
+    },
+    {
+      "id": "347.143:60158",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.143&bid=60158",
+      "sourceSha256": "ade76db65c1a3cb9eedc4e4824f9ba93bae310822a4bf504df7040aa20cdd3dc",
+      "textSha256": "26414dbfce0a63225f7ffb8c2e2771327809e07593a4aacff6725b33eaa42cd4",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Action by attorney general for involuntary dissolution",
+          "bodySha256": "b866b087cd4576576f32f120103ea83c0ec0398aeb48c5480ccedb23ccd1d1d4",
+          "reviewNote": "Verified sub (1)(1)-(4): involuntary dissolution by decree upon action by attorney general. Source notes cite § 347.144 severability."
+        },
+        {
+          "number": 2,
+          "title": "Judicial dissolution upon application by or for a member",
+          "bodySha256": "64c3f6eebb8c1c3dfe6d57aa1e4d1a7a33f0c7ff5ca4561b9442fd71d2a647b8",
+          "reviewNote": "Revised title and note: sub (2) authorizes circuit court judicial dissolution on six grounds upon application by or for a member (not a 30-day AG cure period)."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and § 347.144 severability note against archived source text; rewrote sub (2) title and note to reflect member-initiated judicial dissolution."
+    },
+    {
+      "id": "347.145:18490",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.145&bid=18490",
+      "sourceSha256": "725db97af535837aeb1a5a497ca904bf364c31f185e6b6f8f006e9de87a62ecc",
+      "textSha256": "b7be5a01a4ad689e4df71885be01147f48956d8323e5c6283d20c1f7360f4a92",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Venue for involuntary dissolution actions",
+          "bodySha256": "064be823a537ec6059edeb44c67996e86a6410acc6226648b4c524afd7b5405e",
+          "reviewNote": "Verified sub (1): circuit court venue for attorney general involuntary dissolution actions. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Service of process in involuntary dissolution proceedings",
+          "bodySha256": "54beaf5efabdd40063b43213fe1a9e84d7cf750f6a4204022fda8372cd91b370",
+          "reviewNote": "Verified sub (2): service of process and notice by publication in involuntary dissolution actions."
+        },
+        {
+          "number": 3,
+          "title": "Mailing certificate evidence, publication, and default limit",
+          "bodySha256": "b5bbc3aa4914674cad7b7f92a6ab8cba20c0843c6d7b9864666ec3ed4d9fc431",
+          "reviewNote": "Revised title and note: sub (3) makes AG mailing certificate prima facie evidence, requires two-week publication, and bars default judgment for 30 days (not member joinder)."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections and source notes against archived source text; rewrote sub (3) title and note to reflect mailing certificate evidence, publication, and 30-day default limit."
+    },
+    {
+      "id": "347.153:18494",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.153&bid=18494",
+      "sourceSha256": "00e943df0570a5888dc6516adc9ac15dc5a0d9ca001b70c5baa5826ed5aa56a6",
+      "textSha256": "2c9fd92c57508b8c4281074b42fc137dfab67ff24cdc63c53a542b3a0a237d5d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Registration requirement and application for foreign LLC",
+          "bodySha256": "59e90d4325e191ba67a11044d27270693bd47090393dacf26d50c0cf1720c583",
+          "reviewNote": "Verified sub (1)(1)-(8): foreign LLC registration requirement and required application disclosures."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory registration disclosures for foreign separate series",
+          "bodySha256": "fb9a3f1cdc4ad03298764f4a867cef123b9479278ea07525ae01ff09c1a88099",
+          "reviewNote": "Revised title and note: sub (2) requires sub (1)(1)-(8) registration information for each separate series under § 347.186."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections against archived source text; rewrote sub (2) title and note to reflect required registration disclosures for foreign separate series."
+    },
+    {
+      "id": "347.160:18498",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.160&bid=18498",
+      "sourceSha256": "cefed7c7d8602d7adf11e2914248c55d38fa1c59fab81c622783d58dbd84ca3a",
+      "textSha256": "7248caba9dc65191f6c4a097fe8786ffcb2477d0ab052c1408acc2ef715d8f56",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Amended certificate of registration required for changes",
+          "bodySha256": "efadf859b28088d7ff7045b3a39aa006e4356c1d7ba225d403e3317480c0ca9e",
+          "reviewNote": "Verified sub (1): foreign LLC duty to apply for amended certificate of registration when statements change or become inaccurate."
+        },
+        {
+          "number": 2,
+          "title": "Certificate of existence required for amended registration",
+          "bodySha256": "e8c566e04948acc92a743a7b0ddf641716d189fc232c7d37723048efc77b5c42",
+          "reviewNote": "Revised title and note: sub (2) requires a certificate of existence or good standing dated within 60 calendar days of filing."
+        },
+        {
+          "number": 3,
+          "title": "Filing fee for amended certificate of registration",
+          "bodySha256": "14857f85b0794b5edf9ece5b15efc2f98fb2895987389a6c3ff38843f73bd79d",
+          "reviewNote": "Revised title and note: sub (3) sets a $20 filing fee for an amended certificate of registration."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections against archived source text; rewrote subs (2) and (3) titles and notes to reflect the 60-day certificate of existence requirement and $20 fee."
+    },
+    {
+      "id": "347.163:18500",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.163&bid=18500",
+      "sourceSha256": "7308b5b794e66921f0b2f642eff54d34552f0b67fcd66b9381c0108bce778334",
+      "textSha256": "762cc55ba0867013982d3cf285f8dad8d95c2088e29731a971ea86bfea19d6b8",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Fine and bar on maintaining actions without registration",
+          "bodySha256": "2bf427ce0f3fbb6efe09413ca8605940be924476850dda3b9e63239139cb1334",
+          "reviewNote": "Revised title and note: sub (1) imposes a minimum $1,000 fine and bars an unregistered foreign LLC from maintaining court actions in Missouri."
+        },
+        {
+          "number": 2,
+          "title": "Validity of contracts and defense of actions unaffected",
+          "bodySha256": "ecdbbddb67a892352f63588f6f6016a025ed31a56af491a6c536ecc102644936",
+          "reviewNote": "Revised title and note: sub (2) preserves contract validity and the right to defend proceedings despite failure to register."
+        },
+        {
+          "number": 3,
+          "title": "Member liability shield despite lack of registration",
+          "bodySha256": "9260eb5308a1a9dd5e9b1a1da1e097fb1b49980fd1eefaac297bee27665e183e",
+          "reviewNote": "Revised title and note: sub (3) shields members from personal liability for foreign LLC debts solely due to unregistered business."
+        },
+        {
+          "number": 4,
+          "title": "Long-arm jurisdiction over unregistered foreign LLC",
+          "bodySha256": "7673ad3f183ac8ab8851981c0082591fa12374601ef10f8f5e14ad38e49534b3",
+          "reviewNote": "Revised title and note: sub (4) subjects unregistered foreign LLC transacting business to long-arm jurisdiction under §§ 506.500-506.520."
+        },
+        {
+          "number": 5,
+          "title": "Activities not constituting transacting business in state",
+          "bodySha256": "b4328779e6b0d47c3008c7ee5ba638ae724ef9721310d962d76a6d9a8cc52274",
+          "reviewNote": "Revised title and note: sub (5)(1)-(7) lists seven activities that do not constitute transacting business in Missouri."
+        },
+        {
+          "number": 6,
+          "title": "Foreign corporation acting solely as LLC member",
+          "bodySha256": "a5d8fd66c0a62bc91ba32f927c641b6ffddadc46c5ddc0a5c94f82930978dd98",
+          "reviewNote": "Revised title and note: sub (6) clarifies that a foreign corporation does not transact business solely by being a member of an LLC."
+        },
+        {
+          "number": 7,
+          "title": "Foreign limited partnership acting solely as LLC member",
+          "bodySha256": "a7be3ba943ae0ef54c9f735da9e38687b0ee21446f4d3e796b196a50e7b70818",
+          "reviewNote": "Revised title and note: sub (7) clarifies that a foreign LP or RLLLP does not transact business solely by being an LLC member."
+        },
+        {
+          "number": 8,
+          "title": "Foreign LLC acting solely as member of another LLC",
+          "bodySha256": "9a4cc84640dc7ae4b6e8808f9cc02cb190d8df3c8bf13043c2fd47ddc02d2ca2",
+          "reviewNote": "Revised title and note: sub (8) clarifies that a foreign LLC does not transact business solely by being a member of another LLC."
+        },
+        {
+          "number": 9,
+          "title": "Foreign registered LLP acting solely as LLC member",
+          "bodySha256": "2b49b16d6d43d6633ec90fd9e75a1f1e55d09a8245d7e655329b132472b0dd8a",
+          "reviewNote": "Revised title and note: sub (9) clarifies that a foreign RLLP does not transact business solely by being an LLC member."
+        },
+        {
+          "number": 10,
+          "title": "Service, suit, taxation, and regulation under other laws",
+          "bodySha256": "6890a67e5c0317aad7ce3ccb5d719c971654ae330ce226c1d11acf7790722f98",
+          "reviewNote": "Revised title and note: sub (10) states that section does not apply to service of process, suit, taxation, or regulation under other Missouri statutes."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 10 subsections against archived source text; rewrote all 10 titles and notes to fix extensive misalignment and hallucinated subsections in the draft."
+    },
+    {
+      "id": "347.177:18507",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.177&bid=18507",
+      "sourceSha256": "b6074c87b0b595e83036f263bbf139d181cf519fbe795bbc9536f2ea683ef6f3",
+      "textSha256": "1a079f426f8caa6de4c509cf92f9ef8dbe202550a3cc5674a8f465b7c48399e6",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Uniform construction among enacting states",
+          "bodySha256": "08a06c863c7aedebc6b1197532cdf23b2d10b29eba0f587f1e7e4c994b58dbe6",
+          "reviewNote": "Revised title and note: sub (1) directs uniform construction of §§ 347.010-347.187 among states enacting similar laws. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Strict construction in derogation of common law inapplicable",
+          "bodySha256": "5c6f4aa85d3b4d04bd70437f3261be77c3854fb62490f1417180cfa1573b45a5",
+          "reviewNote": "Revised title and note: sub (2) makes the rule of strict construction for statutes in derogation of common law inapplicable."
+        },
+        {
+          "number": 3,
+          "title": "Application of law of estoppel to chapter",
+          "bodySha256": "a7260cc3a49fb23bb728079e3ebbca96e0d906dda14af500b264b5c46e68dcc3",
+          "reviewNote": "Revised title and note: sub (3) applies the law of estoppel."
+        },
+        {
+          "number": 4,
+          "title": "Application of law of agency to chapter",
+          "bodySha256": "e0f815fb12038af5915806d3dc78aa31f7f877055d77fd755a00bd0bab1df5a8",
+          "reviewNote": "Revised title and note: sub (4) applies the law of agency."
+        },
+        {
+          "number": 5,
+          "title": "Rules of law and equity govern omitted cases",
+          "bodySha256": "685412eb72f4a4c3741ac0eb618e07100084ca6341cf3a676f5cc95fe50d36b4",
+          "reviewNote": "Revised title and note: sub (5) applies rules of law and equity to cases not provided for."
+        },
+        {
+          "number": 6,
+          "title": "No impairment of pre-August 28, 1993 contracts or rights",
+          "bodySha256": "a0e4f0538da384a2f180a9e13f038634895a8e549b1bfe6b138085f5e2a88923",
+          "reviewNote": "Revised title and note: sub (6) preserves pre-Aug. 28, 1993 contracts, actions, and accrued rights."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 6 subsections and source notes against archived source text; rewrote all 6 titles and notes because every draft subsection was shifted by one."
+    },
+    {
+      "id": "347.179:18508",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.179&bid=18508",
+      "sourceSha256": "27c4a9989f751b7cddffb5eb25eaf2a102dab30ec913faa1f9926ba8f06546e3",
+      "textSha256": "b397d08174d4d6c052e67f2778670fbec4bc94aa76abc6d8a93c0651f3483403",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Secretary of state fee schedule for LLC filings",
+          "bodySha256": "399c35bd626a4a91dbc2664177374b335b5ef169cd6529eef45c6d9f52195cf5",
+          "reviewNote": "Verified sub (1)(1)-(11): secretary of state filing fee schedule for LLC documents."
+        },
+        {
+          "number": 2,
+          "title": "Fee waiver for National Guard and active-duty military",
+          "bodySha256": "d002324161c4384ee730d09daf4abb820881ffde7e0c9446b2602e0d2c639cd6",
+          "reviewNote": "Revised title and note: sub (2) waives LLC organization fees for Missouri National Guard and active-duty military members residing in Missouri (not expedited processing fees)."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections against archived source text; rewrote sub (2) title and note to reflect the military and National Guard organizer fee waiver."
+    },
+    {
+      "id": "347.186:60019",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.186&bid=60019",
+      "sourceSha256": "4f124c33a6d0c0b560a7c4c09ef77b068f7c4a417adf64fe6265da171f144001",
+      "textSha256": "ca6c9e4201c1d05fa0ad074f0a6e443e59ef5720a458fc02f675863cff945ae5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishment of designated series in operating agreement",
+          "bodySha256": "72799831e9f87fd8bfd4691c8346e754d6b29eef8b1a32563e017e6adeaf0c16",
+          "reviewNote": "Verified sub (1): operating agreement authority to establish designated series. Source notes show 2026 amendments and § 347.144 severability."
+        },
+        {
+          "number": 2,
+          "title": "Limitation of liabilities to assets of separate series",
+          "bodySha256": "0eb39f6ef2eb9546a79de0cabeefa1d880eb87b03fc8dcd58966d347f249f82e",
+          "reviewNote": "Verified sub (2): liability limitation to series assets, separate entity powers, and Jan. 31, 2027 SOS website searchable series profile requirement."
+        },
+        {
+          "number": 3,
+          "title": "Naming requirements for series with limited liability",
+          "bodySha256": "771dbd3a996cf1955376ba4c20d84001030b198147cd096b011ea81f35ca1903",
+          "reviewNote": "Revised title and note: sub (3) prescribes mandatory naming rules for a series with limited liability (not notice in articles)."
+        },
+        {
+          "number": 4,
+          "title": "Series formation, amendment, dissolution, and registered agent",
+          "bodySha256": "faee3375e963c1693a7de9177231185540ebaad669c3a5ce92984f39ecb0c061",
+          "reviewNote": "Revised title and note: sub (4) governs series articles of designation, conclusive filing evidence, amendment, dissolution, good standing, and registered agent (powers to contract/sue are in sub 2(4))."
+        },
+        {
+          "number": 5,
+          "title": "Classes or groups of members or managers in series",
+          "bodySha256": "070cc95bda8c5503e769fbdcc63e44e844ef9e368ae36b956ef84c3227b7c376",
+          "reviewNote": "Verified sub (5): classes or groups of members or managers associated with a series."
+        },
+        {
+          "number": 6,
+          "title": "Foreign registration of individual series authorized",
+          "bodySha256": "81506f02322e50de242234ed7e31e2f78affa7f577986b1845659236e296559d",
+          "reviewNote": "Verified sub (6): foreign registration of an individual series."
+        },
+        {
+          "number": 7,
+          "title": "Preservation of fraudulent conveyance and liability claims",
+          "bodySha256": "fa4f4dfa59a883413fc626b75665084f079d6bd0b8589cecd5665e8c65331115",
+          "reviewNote": "Verified sub (7): preservation of chapter 428 fraudulent conveyance and liability-challenge causes of action."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 7 subsections and 2026 / § 347.144 notes; rewrote subs (3) and (4) titles and notes to reflect series naming rules and series formation/dissolution/registered-agent provisions, and noted the Jan. 31, 2027 SOS website profile requirement in sub (2)."
+    },
+    {
+      "id": "347.187:18513",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.187&bid=18513",
+      "sourceSha256": "580cad1bd6c52816cdab80436fe65ffd698c2120c6fbbba93e4aa2fa97fa4a27",
+      "textSha256": "3774b50da8ba8211e131fb0abcae76d6c675e311d480cfb8e5ed0384df1586aa",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Tax classification of limited liability companies",
+          "bodySha256": "64263593de1e3ff514e3e6b6d6f2777b8af3c402d265de047a6a9cd4680e26ab",
+          "reviewNote": "Verified sub (1): Missouri tax classification follows federal income tax classification. Source notes cite 1997 effective dates."
+        },
+        {
+          "number": 2,
+          "title": "Corporate or partnership tax treatment for state taxes",
+          "bodySha256": "a7292c25bdbebdca106c63e5ee1896c5e2cca68b5b7afa4f999c64c24a7ade09",
+          "reviewNote": "Verified sub (2): corresponding state tax treatment as partnership, corporation, or sole proprietorship."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and source notes against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.700:18515",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.700&bid=18515",
+      "sourceSha256": "d0a7d1b2137c991c3de806fdc73a631891b92a9052484869361f8e9836db61c6",
+      "textSha256": "2da93a2166430f0d85144a165a9d12213bae975d3b2d106141ba361b3ff7fcb2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Law governing merger between domestic corporations",
+          "bodySha256": "d2eeef5b1c215665504675fb59035a0c373e05af151d77d4642500495214e6f1",
+          "reviewNote": "Verified sub (1): merger solely between domestic corporations governed by chapter 351 or 355."
+        },
+        {
+          "number": 2,
+          "title": "Law governing merger between general partnerships",
+          "bodySha256": "9a2b2b6e0001c7529c30307a4ce813a07c262216de6346654289b00919161c81",
+          "reviewNote": "Verified sub (2): merger solely between domestic general partnerships governed by chapter 358."
+        },
+        {
+          "number": 3,
+          "title": "Law governing merger between limited partnerships",
+          "bodySha256": "e4ea9beda0542cfca0501c4be7716117e86cc47e5f45353d5c007dd4af152820",
+          "reviewNote": "Verified sub (3): merger solely between domestic limited partnerships governed by chapter 359."
+        },
+        {
+          "number": 4,
+          "title": "Law governing merger between limited liability companies",
+          "bodySha256": "dae81c9c01a3e7730ab58acbd58c8e9cb524b72cc112252e23f34a12435b3a08",
+          "reviewNote": "Verified sub (4): merger solely between domestic LLCs governed by §§ 347.127-347.135."
+        },
+        {
+          "number": 5,
+          "title": "Business combinations involving resident domestic corporations",
+          "bodySha256": "7352fc46c159d7a87ea08cae67f6445a3d0b168bbe7622d83675e4790f13e0ab",
+          "reviewNote": "Verified sub (5): business combinations involving resident domestic corporations governed by § 351.459."
+        },
+        {
+          "number": 6,
+          "title": "Merger between different business entity types",
+          "bodySha256": "da5c338a42cdeafeded295826cd0ac492e029cbeda57fb35db149f8f01d33050",
+          "reviewNote": "Verified sub (6): mergers between different types of business entities governed by §§ 347.700-347.735."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 6 subsections against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.720:18519",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.720&bid=18519",
+      "sourceSha256": "0db67f9ab69e9e6580752a64023bd05691623f1f109cbe89acffe79c216a8a38",
+      "textSha256": "cae82763c67bb3ce3c26da5337bfc2e736f7d130013ab6ef358b8f3202e38722",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorization and approval of merger agreement",
+          "bodySha256": "ef453235037b5bc8d27b343bd0606537873272f1f0a5059b0f5fac0edc1e76f2",
+          "reviewNote": "Verified sub (1): authorization and approval of merger or consolidation agreement by each constituent entity."
+        },
+        {
+          "number": 2,
+          "title": "Certification of merger agreement approval",
+          "bodySha256": "71fc5bdcca0aafda07c4d7c9a7f1357b97a901205a11f2b452a3a484d4fcd295",
+          "reviewNote": "Verified sub (2): certification of approval on behalf of each constituent entity."
+        },
+        {
+          "number": 3,
+          "title": "Abandonment of merger agreement before filing",
+          "bodySha256": "e2f56e2d91e44547b28e0434327238973a1e9aa22fbbd55bc33907efd228cf64",
+          "reviewNote": "Verified sub (3): abandonment of merger or consolidation agreement prior to filing."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.725:18520",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.725&bid=18520",
+      "sourceSha256": "203739a3277c9fbc74081510126662af5c28d2bb7acc0968bbd3efe877113e0f",
+      "textSha256": "66c4726d4b748ecb3c76f7d172f35d7582918c6a10c0022f49128ecb8dd2786e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Execution and filing of articles of merger or consolidation",
+          "bodySha256": "c74ceadf34b140fc42cb2c4ba23d4d2e9d7fa823ebd128acd490d17a02ebe72d",
+          "reviewNote": "Verified sub (1): execution and filing of articles of merger or consolidation with secretary of state."
+        },
+        {
+          "number": 2,
+          "title": "Delivery of duplicate file-stamped copy",
+          "bodySha256": "46499d7041bfdaa99c0af6e73bdd2111bcee6b8b4f3ace652671abe39ba20839",
+          "reviewNote": "Verified sub (2): delivery of file-stamped duplicate copy by secretary of state."
+        },
+        {
+          "number": 3,
+          "title": "Effective date of multi-entity merger or consolidation",
+          "bodySha256": "8ac2a3c2b1796dee7175791e594623833b6744fea56dbcf0e926305fe00b9843",
+          "reviewNote": "Verified sub (3): effective date of multi-entity merger or consolidation."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections against archived source text; draft titles are accurate."
+    },
+    {
+      "id": "347.730:18521",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.730&bid=18521",
+      "sourceSha256": "c1675c43ca835e399d67d8d485a20e4a22637fa3fc0c809e1fb6be538be4b0f6",
+      "textSha256": "0ec1cf8d5a927f47f0635eb8322ad78ddde9e0a3ee4e527aae34137a68e68623",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Effects of consummated merger or consolidation",
+          "bodySha256": "bf59279eda124fd630cfdb19ba4fc1e50b8d1d47762f113dcce0f60b08d65e15",
+          "reviewNote": "Verified sub (1)(1)-(10): legal effects of consummated merger or consolidation. Source note: *Word 'or' appears in original rolls (for printed 'of*' in subd. (10))."
+        },
+        {
+          "number": 2,
+          "title": "Preservation of dissenter and appraisal rights",
+          "bodySha256": "c79c0ef15311e3d618b97232f2dd7ca0e574f4d10eae7b9027dbc3d47babc6be",
+          "reviewNote": "Verified sub (2): preservation of dissenter and appraisal rights under governing laws."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified both subsections and source note (*original-rolls note for 'of*'/'or' in sub 1(10)); draft titles are accurate and sub (1) note corrected from 6 to 10 subdivisions."
+    },
+    {
+      "id": "347.735:18522",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=347.735&bid=18522",
+      "sourceSha256": "169c2eab251d1e797bfbfe102199fce83f53a1008ddb9bfb9161864b2a9c1005",
+      "textSha256": "c0a3eb27a1bc6e51157f08c0f579a1211c6a7993d0896d45d152e520194ddda6",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Merger involving foreign business entities",
+          "bodySha256": "0841446f8770b3d1acb10025110b0b4c8274a449c6a43e2cea08d59e88c1817a",
+          "reviewNote": "Verified sub (1): merger or consolidation involving foreign business entities if permitted by foreign law. Source notes cite effective date 12-01-93."
+        },
+        {
+          "number": 2,
+          "title": "Governing law and consent to service of process for foreign survivor",
+          "bodySha256": "402ccd7047466e7e28a245c10d8cdaa2de4b74359c84021d03889046e08c6222",
+          "reviewNote": "Verified sub (2): governing law, foreign qualification, and consent to service of process for foreign surviving entity."
+        },
+        {
+          "number": 3,
+          "title": "Effect of merger where surviving entity is foreign entity",
+          "bodySha256": "72f57c8e5996a1ba6148fe054af2adf014ed97af9698880dbd59ea26e5eddd7d",
+          "reviewNote": "Verified sub (3): effect of merger governed by § 347.730 for domestic survivor and by foreign law for foreign survivor."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_1",
+      "reviewSummary": "Verified all 3 subsections and source notes against archived source text; draft titles are accurate."
+    }
+  ]
+}

@@ -1,0 +1,2190 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "354.020:19005",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.020&bid=19005",
+      "sourceSha256": "f6ac28675d8e98b1fb7c3f5e19f292e8af41111cb0f6359f80d60154c7ae5114",
+      "textSha256": "db754bb4fee16be217e6d94af710d808f04936ea29de250f4fa49419b5438752",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Articles amendment requirement for existing corporations",
+          "bodySha256": "b19efe76606ff8c97fac2e82a781b6ebd6a7c981586070750b40e9dff59ae070",
+          "reviewNote": "Verified sub 1: Health services corporations organized under chapter 352 or 355 must amend articles to comply with sections 354.010 to 354.380."
+        },
+        {
+          "number": 2,
+          "title": "Legal status, rights, and obligations upon compliance",
+          "bodySha256": "d10b2e229d05836b5a89182e0bf2487b773aa81f655d4f820fc21d6c25038bf0",
+          "reviewNote": "Verified sub 2: Corporate status under sections 354.010 to 354.380 with corresponding rights, privileges, and duties upon certificate issuance."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.020 (bid 19005), all 2 subsection(s) with subdivisions and source notes. Verified both subsections and history (L. 1973, A.L. 1983): chapter 352/355 health services corporations must amend articles to comply with §§ 354.010–354.380 and then take statutory status, rights, and liabilities."
+    },
+    {
+      "id": "354.060:19014",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.060&bid=19014",
+      "sourceSha256": "38a0c59f0ac6f99c11a97d99ab0233909fa94acf1466e11f75372ba33544fd69",
+      "textSha256": "ab5ddd6290f7ecd89a3d4a10bae8408c83cac47a69e193debdb523d3be2b8203",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Director determination and certificate issuance",
+          "bodySha256": "52260bddf00702f2122522fe4b4000b2940748f29dd800ac08e01bc1747bff4c",
+          "reviewNote": "Verified sub 1: Director issues certificate of authority upon finding compliance with organization requirements under sections 354.010 to 354.380."
+        },
+        {
+          "number": 2,
+          "title": "Compliance prerequisite for issuance or renewal",
+          "bodySha256": "97c8277bfec73f924c0b769406546cd7b46e4f68546d6ac1267a954bab225bbb",
+          "reviewNote": "Verified sub 2: Director prohibited from issuing or renewing certificate of authority absent full compliance with statutory requirements."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.060 (bid 19014), all 2 subsection(s) with subdivisions and source notes. Verified both subsections and history (L. 1973, A.L. 1983): DCI director issues certificate of authority upon compliance and is barred from issuing or renewing absent full compliance with §§ 354.010–354.380."
+    },
+    {
+      "id": "354.090:19020",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.090&bid=19020",
+      "sourceSha256": "056efa89b04432833c5e84d40c028e3b872a9dc4a9be9ccac59a2bc292893eaf",
+      "textSha256": "624926764ace390750fb92ca6d35b0d9668dbec696fbb7c953fb50dbb4ef0703",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Contracts for health services and reciprocal agreements",
+          "bodySha256": "2ebece612a46619991ce5f6b884a90f1c57771b47456a42b42571d3cfdef246e",
+          "reviewNote": "Verified sub 1: Corporation authorized to contract with hospitals, providers, and other entities for health services and member transfers."
+        },
+        {
+          "number": 2,
+          "title": "Pharmacist assignment of reimbursement rights",
+          "bodySha256": "7e76a878717a039b7a5034eb96056d79a4d2028f88f9932586ebdcbb1b5be53f",
+          "reviewNote": "Verified sub 2: Pharmacist may take assignment of insured's right to reimbursement; corporation prohibited from refusing payment."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.090 (bid 19020), all 2 subsection(s) with subdivisions and source notes. Verified both subsections and history (L. 1973, A.L. 1983): permissive provider/hospital/reciprocal contracts and pharmacist assignment of insured reimbursement rights."
+    },
+    {
+      "id": "354.095:19021",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.095&bid=19021",
+      "sourceSha256": "ad7e06f658ce4f92a385190f736e0f3bb0fb1e67adc292461493320f3797a93f",
+      "textSha256": "1c45aba8b2ae8a44bdb725e676585ff7961870cf4dbc74289b97090dc07d6e48",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Eligibility classes, benefit definition, and maternity coverage",
+          "bodySha256": "c265fc7eb2a5c12d3ac53e7271f6f134419b6b08db72543246fbd907a02afdae",
+          "reviewNote": "Verified sub 1: Board discretion to define member eligibility and benefit classes; mandates nondiscriminatory maternity benefits for married and unmarried members."
+        },
+        {
+          "number": 2,
+          "title": "Ambulatory surgical facility benefits and parity",
+          "bodySha256": "0850dedc8b661dc3183c0e2b6b07ba9d6519bec0ce03f7c8cbae1152cdc297be",
+          "reviewNote": "Verified sub 2: Mandatory parity of benefits and reimbursement standards for certified ambulatory surgical facilities; source note marks cross-reference revision."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.095 (bid 19021), all 2 subsection(s) with subdivisions and source notes. Verified both subsections, history (L. 1973–1983), and § 3.060 revisor footnote (*subdivision (1) updated to (2) in 2017 for § 197.200 ambulatory surgical facility reference): board discretion with married/unmarried maternity parity and CON ambulatory surgical facility parity."
+    },
+    {
+      "id": "354.150:35233",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.150&bid=35233",
+      "sourceSha256": "56ff68d4f6204278b31cd10fa480c850716f55a351b819c585f378b844fd9458",
+      "textSha256": "31765e490ada7a48e956fa69c69b0bb967e74c0230eca306bddc650fa94dd36c",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Payment of statutory fees to director",
+          "bodySha256": "8e5069355051365a9602ce2f3509960c481d28fb344104a80bcaa895f839f16f",
+          "reviewNote": "Verified sub 1: Health services corporation required to pay fees specified in section 374.230."
+        },
+        {
+          "number": 2,
+          "title": "Fee waiver for military and guard service",
+          "bodySha256": "3e8320d003527e4acf96fa4c16e8f50fcf09367d863a4d21e368eee46ab86fd9",
+          "reviewNote": "Verified sub 2: Mandatory waiver of specified organizational fees for qualifying Missouri National Guard or active duty military members."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.150 (bid 35233), all 2 subsection(s) with subdivisions and source notes. Verified both subsections and history (through A.L. 2018 S.B. 982, effective 1-01-19): § 374.230 fees and mandatory waiver of § 374.230(1) fees for Missouri-resident National Guard or active-duty military majority shareholder/officer/director."
+    },
+    {
+      "id": "354.180:19034",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.180&bid=19034",
+      "sourceSha256": "6371e5902e8595e403a0d76f305328da9b84b893b7f857ed1db61a0415d436b3",
+      "textSha256": "5907dee71f5a59979b591d6331962e2dff2364104c03281973135c6ab28ac121",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Administrative orders for statutory violations",
+          "bodySha256": "fd3ab1cba9b837a12feac06f69dcbced43f205bc58540475e630a454af6341b5",
+          "reviewNote": "Verified sub 1: director 'may' issue § 374.046 administrative orders; violations are level two under § 374.049 except §§ 354.320 and 354.350 (level three)."
+        },
+        {
+          "number": 2,
+          "title": "Civil enforcement actions by director",
+          "bodySha256": "82efa9c5ab404b46f1750031b7dd9825b177df90883f91d1a4f192b1cf4de60e",
+          "reviewNote": "Verified sub 2: director 'may' maintain § 374.048 civil action; violations are level two under § 374.049 except §§ 354.320 and 354.350 (level three)."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.180 (bid 19034), all 2 subsection(s) with subdivisions and source notes. Verified both subsections and history (L. 1983, A.L. 2007 S.B. 66): permissive director administrative orders (§ 374.046) and civil actions (§ 374.048); level two under § 374.049 except §§ 354.320 and 354.350 (level three)."
+    },
+    {
+      "id": "354.190:19035",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.190&bid=19035",
+      "sourceSha256": "e143b2c2fbcd65302e30728da43aaed35ee33ea9c93865deaff3ed45ab44ab86",
+      "textSha256": "62f9161bb148c987d5fdc36049b66b9069052e25dbc1cf5be545ebcf3552d256",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Examination and investigation powers of director",
+          "bodySha256": "52bce3be7fdb780717cd5f26d0553595a2ed1e910e2389d52b83a8d6f1d0de13",
+          "reviewNote": "Verified sub 1: Director duty to examine legal violations, financial condition, affairs, management, and representative transactions."
+        },
+        {
+          "number": 2,
+          "title": "Compulsory testimony and subpoena of records",
+          "bodySha256": "6c77c3393cd34bfe90d14df7c289e3c8b15eda7a4209325b31aa7cb28240477e",
+          "reviewNote": "Verified sub 2: Authority of director or agents to summon witnesses, administer oaths, and compel production of records and documents."
+        },
+        {
+          "number": 3,
+          "title": "Personal examinations and appointed assistants",
+          "bodySha256": "aef4f460d23a3f824708378cec8ab98b2154da60d817845fd85c90c8ddea6afd",
+          "reviewNote": "Verified sub 3: Authority to conduct examinations personally or appoint deputies with credential certificate; employment of clerical and actuarial staff."
+        },
+        {
+          "number": 4,
+          "title": "Acceptance of examinations by out-of-state officials",
+          "bodySha256": "c64b213fbc9649d6386f2fe2120a797bda474ae973f4b72ca56aebc02c747b73",
+          "reviewNote": "Verified sub 4: Permissive acceptance of certified examination and statement from insurance official of another state."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.190 (bid 19035), all 4 subsection(s) with subdivisions and source notes. Verified all four subsections and source note (L. 1983 H.B. 127): director examination duty, oath/subpoena powers, deputy appointments/staffing, and permissive acceptance of out-of-state insurance examinations."
+    },
+    {
+      "id": "354.200:19037",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.200&bid=19037",
+      "sourceSha256": "ba74a86daba3f3abbff5fba6e0dd5ff2b3fdede192cdaf8b5785ffa7e0053688",
+      "textSha256": "6be2028688a378623dff5992afb5b309282952af939ea3c10170c61ca47d117c",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Criminal penalties for false testimony",
+          "bodySha256": "00204a99806a4c88cef280d58f8d52ee8db1229655bb57428facc270ae90b8c4",
+          "reviewNote": "Verified sub 1: Class A misdemeanor penalty for giving false testimony material to investigation or inquiry."
+        },
+        {
+          "number": 2,
+          "title": "Criminal penalties for refusal to provide information",
+          "bodySha256": "d76e61d94dbccdf24c0bebf250fba6bf87c27f0200e6df6c53db866bf99baae8",
+          "reviewNote": "Verified sub 2 and original-rolls footnote (*Word 'of' appears in original rolls for 'business * relating'): class B misdemeanor for refusing written information or sworn testimony."
+        },
+        {
+          "number": 3,
+          "title": "Criminal penalties for false entries and records",
+          "bodySha256": "e79f9e1fa04ca38d7dae0ee5964ed7e20b7fd2ca182609f619fe4f2d84f88ffa",
+          "reviewNote": "Verified sub 3: Class A misdemeanor penalty for making false book entries, statements, or exhibits with intent to deceive director."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.200 (bid 19037), all 3 subsection(s) with subdivisions and source notes. Verified all three subsections, source note (L. 1983 H.B. 127), and original-rolls footnote (*Word 'of' appears in original rolls in sub 2 'business * relating'): class A misdemeanor for false testimony or deceptive entries, class B for refusal to answer/testify."
+    },
+    {
+      "id": "354.205:19038",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.205&bid=19038",
+      "sourceSha256": "cc3b2cecf6070f99d5d36020a3de16d77abe3caee6aaffc52775cc039c58426d",
+      "textSha256": "e90221b735d09632edda768d982b1e99c70751c89dc63429a2c9149f0554f020",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Assessment and direct payment of examination expenses",
+          "bodySha256": "7c2a12178b6704f2ed310a589e47ee22318ed3f97e74ff3d5e4b5b44e7315c3e",
+          "reviewNote": "Verified sub 1: Director assesses examination expenses against corporation for direct payment to persons rendering services."
+        },
+        {
+          "number": 2,
+          "title": "Insolvent corporations and state lien for expenses",
+          "bodySha256": "3b4bc1ef8223029ce54ef651a3932e79c6b0f18ae319e0ab75a8628a5a6c5710",
+          "reviewNote": "Verified sub 2: State reimbursement procedures, department payment, first lien on corporate assets, and recovery actions by director of revenue."
+        },
+        {
+          "number": 3,
+          "title": "Approval of vouchers by commissioner of administration",
+          "bodySha256": "3c7f8819bcad79fc9a4b55794c9a490d4ddc2d2b12abaa0ebf53abb550019587",
+          "reviewNote": "Verified sub 3: Examination and valuation vouchers must be submitted to and approved by commissioner of administration before payment."
+        },
+        {
+          "number": 4,
+          "title": "Certification of departmental examination costs",
+          "bodySha256": "dbd1a6b56714f0a725aef4381d5d73e7d7b4414a9d060fc9a89a9630771a7c00",
+          "reviewNote": "Verified sub 4: Costs of examinations by director or salaried department staff certified to director of revenue for collection."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.205 (bid 19038), all 4 subsection(s) with subdivisions and source notes. Verified all four subsections and source note (L. 1983 H.B. 127): assessment of examination expenses, first lien on insolvent/delinquent corporation assets with DOR recovery, commissioner of administration voucher approval, and salaried-staff cost certification."
+    },
+    {
+      "id": "354.207:19039",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.207&bid=19039",
+      "sourceSha256": "ebd71ca1a731a965ce4077482665e142eff4803aba369a871e3f3b5215ae2e97",
+      "textSha256": "82294142e8298d75a552d025711ea6b10fa170480942e3f66316b02908cb92a9",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Right to second medical opinion or consultation",
+          "bodySha256": "b53a2a0a494abe51a349866496df5bb41dddda0a6f73b99c83ca12963d5605d9",
+          "reviewNote": "Verified sub 1: Health services corporation must allow enrollee to obtain second opinion without additional cost beyond initial consultation fee."
+        },
+        {
+          "number": 2,
+          "title": "Referrals for outside second opinions",
+          "bodySha256": "33604de2132bf2373d31bc95e7d045cc03fe60772dd9a7c7b1582e1939dbdfcb",
+          "reviewNote": "Verified sub 2: Mandatory outside physician referral at participating cost when corporation lacks necessary medical expertise within network."
+        },
+        {
+          "number": 3,
+          "title": "Conditions requiring second opinion coverage",
+          "bodySha256": "1250acd1664ff7669608c6d0ee1cb0bd397c3ed07662f90ca9dbcfce941546ec",
+          "reviewNote": "Verified sub 3: Coverage limited to diagnoses involving major surgery, general anesthesia, or serious, debilitating diseases."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.207 (bid 19039), all 3 subsection(s) with subdivisions and source notes. Verified all three subsections and source note (L. 1998 S.B. 754): second medical opinion at no extra cost, out-of-network referral at network cost if expertise lacking, limited to major surgery/general anesthesia/serious debilitating illness (also applies to § 354.546)."
+    },
+    {
+      "id": "354.220:19042",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.220&bid=19042",
+      "sourceSha256": "de77944e31b49a5d739db7997847aadfdebc11e5e73d47ac9d3480beeb70fc9b",
+      "textSha256": "b83ff5ef1800e81eec97ec32283bdc77688fe78fbffb9d8867c142199d6c3806",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Legal actions to recover statutory fees",
+          "bodySha256": "30083466b40da14dd8f6bd81583d87fc707efb6de05112f7adeb7050fc3bf2c9",
+          "reviewNote": "Verified sub 1: Director authorized to maintain suit to recover unpaid statutory fees and demanded sums."
+        },
+        {
+          "number": 2,
+          "title": "Double liability penalty for delinquent payments",
+          "bodySha256": "0b06ca16b58a7e2e41cc66bb317f62e2ccb502f7cc8fd550082d8f55076a1d86",
+          "reviewNote": "Verified sub 2: Double liability and judgment penalty plus costs for failure to pay fees or assessments within ten days of written demand."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.220 (bid 19042), all 2 subsection(s) with subdivisions and source notes. Verified both subsections and source note (L. 1983 H.B. 127): permissive director suit to recover fees/sums and double-liability penalty plus costs after 10-day delinquency following written demand."
+    },
+    {
+      "id": "354.225:19043",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.225&bid=19043",
+      "sourceSha256": "72d374c4739730b8d979c4c1c6be5920674eefd92097c6d75badf9c055decaf6",
+      "textSha256": "041b2416109a36bfa9acccfacabc89d67a8ace0dae043476e699672c3a8cb2c1",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition and annual listing of enrollment representatives",
+          "bodySha256": "37f4ad9c05af982d65340665ce3b576c6465b353a206313514814176d70d4bc6",
+          "reviewNote": "Verified sub 1: Defines enrollment representative and requires annual submission of employee names, titles, and addresses."
+        },
+        {
+          "number": 2,
+          "title": "Licensing requirement for non-employee solicitors",
+          "bodySha256": "d4cac08cfed65008a07354bac8225747bc2939e1fe2560f4fda9d73515858d61",
+          "reviewNote": "Verified sub 2: Non-employee solicitors must be licensed insurance agents or brokers in Missouri."
+        },
+        {
+          "number": 3,
+          "title": "Application of insurance licensing laws",
+          "bodySha256": "cfe655818983e82461db869c4c45b40aa1d8472352271c8d7a59887c1c8caa09",
+          "reviewNote": "Verified sub 3: Representatives, agents, and brokers subject to chapter 375 education, licensing, appointment, and disciplinary laws."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.225 (bid 19043), all 3 subsection(s) with subdivisions and source notes. Verified all three subsections and history (L. 1983, A.L. 1993 H.B. 709): employee enrollment representative definition/annual listing, licensed agent/broker requirement for non-employee solicitors, and chapter 375 applicability."
+    },
+    {
+      "id": "354.235:19045",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.235&bid=19045",
+      "sourceSha256": "7804b5bdaf7747a232f91bedf3f6146ca27b1e127044e0c6fea741479108c9c0",
+      "textSha256": "1db8427ef571cdea0d95a37c79ec2b89e97000ea55dfc869f8599b660833fdea",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Qualifications and issuance of representative license",
+          "bodySha256": "4d2e500498ea88be1e6bbc7ac1fb396c9303d26dc5aced973836126a2580981a",
+          "reviewNote": "Verified sub 1: Director issues license to natural persons at least eighteen years old meeting statutory requirements."
+        },
+        {
+          "number": 2,
+          "title": "Scope of individual licensing authority",
+          "bodySha256": "b44ca90862f5e5a04096961a561d1fb1d61ad6711969be5c4937678c9207eb74",
+          "reviewNote": "Verified sub 2: License authorizes only the named individual licensee to act as an enrollment representative."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.235 (bid 19045), all 2 subsection(s) with subdivisions and source notes. Verified both subsections and history (L. 1983, A.L. 1993 S.B. 709): enrollment representative license for natural persons age 18+ and individual-only authority."
+    },
+    {
+      "id": "354.240:19046",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.240&bid=19046",
+      "sourceSha256": "cf78c7cdb9edf9897048946b94dc48d10a70e33ec4f9a02903e74d23afa5a9fc",
+      "textSha256": "faa20369fcf05cd2329f95b348a5c2347504c0936a244a037ee9e3c5e1f4c79f",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Nonresident licensing and reciprocity agreements",
+          "bodySha256": "75f5ac1752921d89dbe1fd75105805f8c2f290d7afc671fcd805191ae1b44660",
+          "reviewNote": "Verified sub 1: Licensing of nonresidents based on state reciprocity and waiver of written examination under certified comparable standards."
+        },
+        {
+          "number": 2,
+          "title": "Examination requirement absent home state test",
+          "bodySha256": "2bb1b6c52b2d797c8fefefacf2448542405f872e8d2c758a4da93ba79403b512",
+          "reviewNote": "Verified sub 2: Mandatory written examination prescribed by director if applicant's home state does not require examination."
+        },
+        {
+          "number": 3,
+          "title": "Prohibition against licensing residents of non-reciprocal states",
+          "bodySha256": "b9d5a2ffd9f8070202c2cd98d354591feeeed708cbffc983df837fd1a3730c34",
+          "reviewNote": "Verified sub 3: Director prohibited from licensing residents of states that refuse licenses to Missouri residents."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.240 (bid 19046), all 3 subsection(s) with subdivisions and source notes. Verified all three subsections with subdivisions (1)-(2) and source note (L. 1983 H.B. 127): nonresident reciprocal licensing and exam waivers, mandatory exam if home state has none, and bar on residents of non-reciprocal states."
+    },
+    {
+      "id": "354.285:19050",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.285&bid=19050",
+      "sourceSha256": "a2b16774a24e9f20972880e934068c13ec4d29a3f47b5836c0b733a504ec4f70",
+      "textSha256": "44cf18db6ce90622826e3a4773218d7700ab9173c26ac13891bdc8f65b1db2bb",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory filing of management contracts",
+          "bodySha256": "3ddc2b070d94087ef35b00c63df423aadf2f5239f67f30bb199fdbf2192d5747",
+          "reviewNote": "Verified sub 1: Filing requirement on director's request for contracts conferring dominant or exclusive management control."
+        },
+        {
+          "number": 2,
+          "title": "Examination of management contractors and license sanction",
+          "bodySha256": "baadaf7a12ee277939526210ff911175b9155ac3524cd8c7bcc1446837b71215",
+          "reviewNote": "Verified sub 2: Director authority to examine contractor records; refusal is ground for suspension or revocation of certificate of authority."
+        },
+        {
+          "number": 3,
+          "title": "Prohibition against detrimental management contracts",
+          "bodySha256": "5be7961572aa0bbcf0f4e85a964614c1dd4093e272c93d3e60c60267cdd3ca05",
+          "reviewNote": "Verified sub 3: Management agreements must not endanger corporate financial stability or jeopardize members and creditors."
+        },
+        {
+          "number": 4,
+          "title": "Director enforcement action for contract violations",
+          "bodySha256": "f34895a2513c5826d4ef4c28dd34f54abe4e802bd8e8a66872784426e0158fd2",
+          "reviewNote": "Verified sub 4: Director must proceed under section 354.180 upon finding management contract violates statutory standards."
+        },
+        {
+          "number": 5,
+          "title": "Five-day execution notice requirement",
+          "bodySha256": "7b901239b49f559e553f266b1c2ca5b9d41cb5987eb2104a5946d53808a133d8",
+          "reviewNote": "Verified sub 5: Entities entering management contracts must notify director within five days of execution."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.285 (bid 19050), all 5 subsection(s) with subdivisions and source notes. Verified all five subsections and source note (L. 1983 H.B. 127): filing of dominant management contracts on request, examination of contractors (refusal grounds for suspension/revocation), bar on financially detrimental contracts, § 354.180 enforcement, and 5-day execution notice."
+    },
+    {
+      "id": "354.290:19051",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.290&bid=19051",
+      "sourceSha256": "55c2d70c744ec4ae7f1d102acd1731b6d9150c2558d7d66a3f30d8ba96adab08",
+      "textSha256": "06594596da328229cab24307dfeac9fceeba4d8055053278b647ef30eea279e5",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Contents and verification of examination reports",
+          "bodySha256": "a1a87032158131bdc5b15c37a256170221bdfcb7f52eb97daf8ba966524eb894",
+          "reviewNote": "Verified sub 1: Examiner must submit full, verified report based exclusively on corporate records, sworn testimony, and warranted conclusions."
+        },
+        {
+          "number": 2,
+          "title": "Pre-filing hearing, confidentiality, and publication",
+          "bodySha256": "dac170f1600816e6ec8dc49718fcdd62eccd206a41a25f7c17985fb7cfaf0eef",
+          "reviewNote": "Verified sub 2: Mandatory hearing before filing report; director discretion to withhold from public inspection or publish findings."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.290 (bid 19051), all 2 subsection(s) with subdivisions and source notes. Verified both subsections and source note (L. 1983 H.B. 127): sworn examiner report limited to records/sworn testimony, mandatory pre-filing hearing, and permissive withholding or newspaper publication."
+    },
+    {
+      "id": "354.305:19054",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.305&bid=19054",
+      "sourceSha256": "3f976133e5e891d4426ba81df9399032fea0418935c1399bbb763a2e42c8eb27",
+      "textSha256": "e00d8bd72e7d3132f196ee912382f219c0d9ae751e20d2c591f90bbaf01ad7dd",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Asset advertisement and liability disclosure requirements",
+          "bodySha256": "4aa32e1b453f60c5ad8a12a2ed86c30d782d1382552be3acf9967e42d5ad5a9c",
+          "reviewNote": "Verified sub 1: Advertised assets must equally conspicuously display liabilities; capital advertisements restricted to paid-up cash capital."
+        },
+        {
+          "number": 2,
+          "title": "Criminal penalties for advertising violations",
+          "bodySha256": "78507f5b184efd7ee96cc15e6d3ad95e6c3052e413e4a349d1f17e3ad21833e6",
+          "reviewNote": "Verified sub 2: Class B misdemeanor penalty for corporation or representative violating advertising disclosure standards."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.305 (bid 19054), all 2 subsection(s) with subdivisions and source notes. Verified both subsections and history (L. 1983, A.L. 2008 S.B. 788): equal-conspicuousness liability disclosure when advertising assets (paid-up cash capital only) and class B misdemeanor penalty."
+    },
+    {
+      "id": "354.325:19058",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.325&bid=19058",
+      "sourceSha256": "97959e2e927694e233122177c331244f31a4236b334bab98767431a09de13075",
+      "textSha256": "ba1bbf5aedbac5c746ffc58c34b11438ed928a61d64b9206b862b249bad8dbfa",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Director inquiry into corporate investments",
+          "bodySha256": "240ee1daa8396acc00058343198b250336e428bc422b4496ebddd9d5f7de338f",
+          "reviewNote": "Verified sub 1: Director duty to investigate investment of corporate funds and maintain findings for inspection by members and officials."
+        },
+        {
+          "number": 2,
+          "title": "Prosecution of investment violations",
+          "bodySha256": "06a062b924602ece5ff97f370b6a1aa08f376bca9789091bf16d4cefb3112894",
+          "reviewNote": "Verified sub 2: Mandates immediate prosecution by county prosecuting attorney or circuit attorney for investment violations."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.325 (bid 19058), all 2 subsection(s) with subdivisions and source notes. Verified both subsections and source note (L. 1983 H.B. 127): director investment inquiries recorded for member/official inspection and immediate county/St. Louis prosecution for § 354.320 or § 354.325 violations."
+    },
+    {
+      "id": "354.350:19063",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.350&bid=19063",
+      "sourceSha256": "42b27dc502774d0ff5ac999b5b16ad25a49743a1f6336767ca6d7b378bbce90b",
+      "textSha256": "fff749e232543dea1ce8d870882e9eba0eb7a67fa4496d1e48505ffe12256e13",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibited fraudulent practices and claim settlement abuses",
+          "bodySha256": "56156496718539748a594d51e81eeb8d810e8f1ab7274a9bbe09f5d902cedd59",
+          "reviewNote": "Verified sub 1: Unlawful conduct: fraudulent business, bad-faith contract nonperformance, and habitual forced-litigation claim practices."
+        },
+        {
+          "number": 2,
+          "title": "Administrative orders and license revocation",
+          "bodySha256": "19bad2db16527079ecb16c2d30bc3c9849879e14b20ba0893752542bba141b5e",
+          "reviewNote": "Verified sub 2: director 'may' issue § 374.046 orders (each practice is a level two violation, not each act) and may suspend/revoke certificate or license for willful violations."
+        },
+        {
+          "number": 3,
+          "title": "Civil enforcement actions for unlawful practices",
+          "bodySha256": "79efd188143ba46a569b04a40148f148a7dae90b0ce54b3cf3e5ea2074a64cf1",
+          "reviewNote": "Verified sub 3: Director civil actions under section 374.048; level two penalty designation under section 374.049."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.350 (bid 19063), all 3 subsection(s) with subdivisions and source notes. Verified all three subsections with subdivisions (1)-(3) and history (L. 1983, A.L. 2007 S.B. 66): fraudulent/bad-faith/claim-abuse practices, permissive § 374.046/§ 374.048 orders and suits (level two per practice, not per act), and license suspension/revocation for willful violations."
+    },
+    {
+      "id": "354.357:19065",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.357&bid=19065",
+      "sourceSha256": "081f60bc81076a140bc767550d1eb00a003089ef1bcc24595ea3b8bba1db0e4b",
+      "textSha256": "0618be8345880de4bb5d773403ff1cd708a3434b7128b8c8620764663ebe04a5",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Ancillary receivership for dominant management organizations",
+          "bodySha256": "ad91f95c3bfedbcfa99ee93d1c274e55e2e7424bf980ba696fe5c63923a8e1e3",
+          "reviewNote": "Verified sub 1: Authority to institute receivership against entities exercising dominant control over corporation under section 354.355."
+        },
+        {
+          "number": 2,
+          "title": "Conservation of foreign corporate assets in Cole County",
+          "bodySha256": "e352d92cfa53d9ddf9ef97abf669f0eee310c138ce15b6f8b2ca5bc6e8bb10bc",
+          "reviewNote": "Verified sub 2: Application to Cole County circuit court for receivership to conserve Missouri assets of foreign or alien corporations."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.357 (bid 19065), all 2 subsection(s) with subdivisions and source notes. Verified both subsections with subdivisions (1)-(2) and source note (L. 1983 H.B. 127): permissive receivership for dominant management entities in § 354.355 cases and Cole County ancillary receivership for foreign/alien corporations under chapter 355."
+    },
+    {
+      "id": "354.405:19069",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.405&bid=19069",
+      "sourceSha256": "7f49a5e72918f4dddddc3ac33b562fa4de3e44c97243df1291700bd79307c873",
+      "textSha256": "00df8ee48fbcea98f9afc067f083fa4681b435730a4ff75eb88b0e5e095b49de",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Certificate of authority requirement and foreign qualification",
+          "bodySha256": "eec8ab73c6e44a7003d80c2e2a081c89e1d9e1f50d256d8e8a2c937f0dba77d8",
+          "reviewNote": "Verified sub 1: Mandatory certificate of authority to operate HMO; foreign corporation qualification under chapter 351."
+        },
+        {
+          "number": 2,
+          "title": "Transition provisions and automatic extension upon filing",
+          "bodySha256": "7e44341149b225d41075a83a0bc827033014c62c0354f761fda68060f1486628",
+          "reviewNote": "Verified sub 2: 120-day transition filing rules, grandfathering, and automatic extension of certificate upon annual filing and fee tender."
+        },
+        {
+          "number": 3,
+          "title": "Application contents and supporting documents",
+          "bodySha256": "a358f86020636b6c546a569071798859ee95c81a5858c035e0d10d32e226c164",
+          "reviewNote": "Verified sub 3: Comprehensive list of 14 required application documents including organizational records, contracts, financials, and network access."
+        },
+        {
+          "number": 4,
+          "title": "Prior notice and review of operational modifications",
+          "bodySha256": "0f686e53a5ab2411377ff8cab4c5a9701c8b230593ea8d3c2f5846fb518afc0c",
+          "reviewNote": "Verified sub 4: 45-day prior notice of operational changes; deemed approval; 12-month rule and conforming amendment procedure."
+        },
+        {
+          "number": 5,
+          "title": "Reinsurance contract filing and approval",
+          "bodySha256": "0fc33c175cf35dc17ef11bd2a46a6f871ddc0e66930aef45688e8cc37850b886",
+          "reviewNote": "Verified sub 5: Mandatory filing and approval of reinsurance contracts and modifications under state reinsurance laws."
+        },
+        {
+          "number": 6,
+          "title": "Discretionary exemption from filing requirements",
+          "bodySha256": "79d17f51bf2e3188b2fa46af4a4b157d3719c03d58a78382e05396b92fb9acfd",
+          "reviewNote": "Verified sub 6: Director authority to exempt specific items from statutory application and filing requirements."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.405 (bid 19069), all 6 subsection(s) with subdivisions and source notes. Verified all six subsections with all 14 subdivisions of sub 3 and history (L. 1983–2003): HMO certificate of authority, Sept. 28, 1983 transition/automatic extension, application contents, 45-day deemed-approved modifications with 12-month bar, reinsurance filing/approval, and director filing exemptions."
+    },
+    {
+      "id": "354.410:19071",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.410&bid=19071",
+      "sourceSha256": "523a92d74826af87b40c632a8d64e5136be493a3de90e23b7c42180722f2c7ec",
+      "textSha256": "b0ad7a5f6abc13ad219f282aecd23e5c9f851d1cbde1e0475dc636b531e375ab",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Standards for issuance of certificate of authority",
+          "bodySha256": "abb4cb6440380fb8441a6c8a3148f13566611db9503f4c6e04012eecc3465b3b",
+          "reviewNote": "Verified sub 1: Ten statutory conditions for certificate issuance including personnel fitness, sound arrangements, and access."
+        },
+        {
+          "number": 2,
+          "title": "Initial and annual deposit requirements",
+          "bodySha256": "a767ab5909c5a3563e73ea712c2e93472ce347362d720cb19d82b3504cdf63e6",
+          "reviewNote": "Verified sub 2: Calculation schedules for cash/securities deposits for beginning and operating HMOs; director waiver criteria."
+        },
+        {
+          "number": 3,
+          "title": "Net worth exemptions from deposit requirements",
+          "bodySha256": "9dc9c0227da88b6c15f85969a03a717e82c5198f9fbc66e1c06f56c873036a37",
+          "reviewNote": "Verified sub 3: Deposit exemptions based on one million/five million dollar net worth benchmarks or guaranteeing organizations."
+        },
+        {
+          "number": 4,
+          "title": "Income ownership and substitution of securities",
+          "bodySha256": "e2059cbce355c0f7f89ec9a05b49f8d8c628f8342bcfa270c48b2c9fe3da118f",
+          "reviewNote": "Verified sub 4: Deposit earnings belong to organization; procedure for withdrawing and substituting approved securities."
+        },
+        {
+          "number": 5,
+          "title": "Net worth deposit reductions and minimum floors",
+          "bodySha256": "4765b43ad44d4aec9fff0c24e756dd99dc3579ef3ba78504dace5a8dc24bddc0",
+          "reviewNote": "Verified sub 5: Reductions for excess net worth; mandatory redeposit upon decline; statutory minimum deposit floors."
+        },
+        {
+          "number": 6,
+          "title": "Minimum capital account maintenance",
+          "bodySha256": "1a7fa2ec703ddc94f923d2a44d0ab0c42453438699f65c2a6929369674a68ac4",
+          "reviewNote": "Verified sub 6: Ongoing capital account requirement of $150,000 for medical group/staff model or $300,000 for individual practice model."
+        },
+        {
+          "number": 7,
+          "title": "Procedural prerequisites for denial",
+          "bodySha256": "1975c323bb3919de4a869ea27cc4aa9d96e28d58de8076c2590fd80c15e16e0c",
+          "reviewNote": "Verified sub 7: Denial of certificate of authority permitted only after compliance with section 354.490 notice and hearing."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.410 (bid 19071), all 7 subsection(s) with subdivisions and source notes. Verified all seven subsections with all subdivisions and history (L. 1983–2013): 10 issuance criteria, initial/annual deposit schedules ($150k group/staff, $300k IPA) and waivers, $1M/$5M net-worth exemptions, deposit income/substitution, net-worth reductions/floors, post-1983 capital account, and § 354.490 denial prerequisite."
+    },
+    {
+      "id": "354.415:19072",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.415&bid=19072",
+      "sourceSha256": "e2b1725e0a787762830144df4bf9a28784dc7e1a13cc990fa80b9a3ecc6aa8ac",
+      "textSha256": "11aab9681dce2cae619264b7f43e74f3a2de4ef2fd914cf9b28475e47e65b0fb",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Express statutory powers of health maintenance organizations",
+          "bodySha256": "81afdf18847ffaacbcdb2dbcb6630d58d9ee2bd8bcca19b24b633136eb40cc54",
+          "reviewNote": "Verified sub 1: Enumerates seven authorized corporate powers including facility ownership, provider loans, reinsurance, and high-deductible plans."
+        },
+        {
+          "number": 2,
+          "title": "Prior notice for major capital expenditures",
+          "bodySha256": "5b58dd2c9fea30356e249a6d72d607ae5a98394c07e43ccb14d0cd0d5bce65e5",
+          "reviewNote": "Verified sub 2: Mandatory notice and director review for property or loan transactions exceeding $500,000; 60-day deemed approval."
+        },
+        {
+          "number": 3,
+          "title": "Exemption for minimal impact activities",
+          "bodySha256": "2fb12150340dd22f371c9544ee1de63658c13e9de1baee236f4bf91f7738484c",
+          "reviewNote": "Verified sub 3: Director authority to exempt minor transactions from prior notice requirements."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.415 (bid 19072), all 3 subsection(s) with subdivisions and source notes. Verified all three subsections with subdivisions (1)-(7) and history (L. 1983, A.L. 2013 S.B. 262): non-exclusive HMO powers (including HSA/HRA-paired high-deductible plans), 60-day prior notice for >$500k facility/loan transactions, and minimal-impact exemptions."
+    },
+    {
+      "id": "354.430:19075",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.430&bid=19075",
+      "sourceSha256": "9097656e4d3a875e2619a54bb5627fcf97d9dd6d0309ea4059e76c10f3e86f95",
+      "textSha256": "7304a99285bd20cd19e1b36ad465628dfc53ed793e6ec30570083d34dcece02e",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Enrollee entitlement to evidence of coverage",
+          "bodySha256": "a35cdc727f1241de6f15abd5708053e176066b7b1d095db773c3f8c653e8af5b",
+          "reviewNote": "Verified sub 1: Enrollee right to evidence of coverage issued by insurer, health services corporation, or HMO."
+        },
+        {
+          "number": 2,
+          "title": "Prior filing requirement for coverage documents",
+          "bodySha256": "84277334f0b70d2ca32739a57ac6c6e0320805b5a4f04883e91e1f04d3b62ca1",
+          "reviewNote": "Verified sub 2: Forms and amendments must be filed with director prior to issuance or delivery in Missouri."
+        },
+        {
+          "number": 3,
+          "title": "Required provisions and prohibited representations",
+          "bodySha256": "c2352223a19da0656a4862d1e033308058b756d712c840cb5a5410589f35e601",
+          "reviewNote": "Verified sub 3: Prohibits misleading terms; mandates description of benefits, cost-sharing, access, payments, and complaint procedures."
+        },
+        {
+          "number": 4,
+          "title": "Subsequent changes by separate document",
+          "bodySha256": "55f5ecec79742787e5c59d37bce7d807567fc1cc872f900cf6d31d0f0fe510ea",
+          "reviewNote": "Verified sub 4: Changes in evidence of coverage permitted via separate document delivered to enrollee."
+        },
+        {
+          "number": 5,
+          "title": "Cross-jurisdictional filing compliance",
+          "bodySha256": "95cf84cd06be30a23a6744c0f498aa3c776e3c052ad2261530296cfdb119a4b8",
+          "reviewNote": "Verified sub 5: Filing rules apply unless governed by insurance or health services corporation laws."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.430 (bid 19075), all 5 subsection(s) with subdivisions and source notes. Verified all five subsections with subdivisions and history (L. 1983–2013): enrollee evidence of coverage, prior filing, anti-deception and required summary/complaint hotline terms, separate-document amendments, and insurance/health-services-corp filing coordination."
+    },
+    {
+      "id": "354.435:19076",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.435&bid=19076",
+      "sourceSha256": "97d2d6e5ad212dd62e423b44b7a5202dfd34f73ae603580b4261d1fe461507c6",
+      "textSha256": "5cc04aa40ad84115a5de1b6696f7c4881e514458b7bcebccd46abe88cac9362d",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual report filing deadline and verification",
+          "bodySha256": "8b7fdbbff52baa2ed1ab31be9c51402376707aba7922c12115f288b626ad5a79",
+          "reviewNote": "Verified sub 1: Mandatory annual report on preceding calendar year filed by March 1, verified by two principal officers."
+        },
+        {
+          "number": 2,
+          "title": "Form and required contents of annual report",
+          "bodySha256": "779198855e9d6a2ed8db8876ed87b352c62a616afede05890f84e887102f408e",
+          "reviewNote": "Verified sub 2: Required report components including financial statements, changes, enrollment counts, and past-due expenses."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.435 (bid 19076), all 2 subsection(s) with subdivisions and source notes. Verified both subsections with subdivisions (1)-(5), history (L. 1983, A.L. 2007), and cross-reference note (§§ 37.340, 37.390 forms approval): March 1 annual report verified by two principal officers and five required components."
+    },
+    {
+      "id": "354.442:19079",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.442&bid=19079",
+      "sourceSha256": "76506cfa2cbfac0940e8e66e1d1ba43d57c4b806865b7a1c0bfb4d906005c389",
+      "textSha256": "69f346fb5a9686b7073262a7bb05f3f1b87d62472c4ff440f4fde468d79abf4a",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory pre-enrollment written disclosures",
+          "bodySha256": "035c63b842b196722786c6ffafb2a30763a1117891d8ec23edb8418ec5f6c2ee",
+          "reviewNote": "Verified sub 1(1)-(15): 14 mandatory pre-enrollment written disclosures (contract controls on inconsistency) plus sub (15) directing DCI to develop an NCQA-compliant standard credentialing form."
+        },
+        {
+          "number": 2,
+          "title": "Disclosures available upon enrollee request",
+          "bodySha256": "b6659a3facaf09de6c26bf60870fcc4aa3a706c05309ed5ef3b7a67316c2ebb4",
+          "reviewNote": "Verified sub 2: Twelve items available upon request including officer rosters, financials, contracts, formulary policies, and criteria."
+        },
+        {
+          "number": 3,
+          "title": "Permitted updates to disclosure materials",
+          "bodySha256": "7d101e4dda1972cc77b9e946988f831984fcbf82f256d8b1a02c191ae9d17302",
+          "reviewNote": "Verified sub 3: Clarifies HMO right to modify or update informational materials provided to enrollees."
+        },
+        {
+          "number": 4,
+          "title": "Online provision and paper copy requests",
+          "bodySha256": "f38adfacf3da0d96980b4764126f70401d60a5cbabf2c8ba0b872574efd7d1a9",
+          "reviewNote": "Verified sub 4: Disclosures permitted online; paper copy must be provided within fifteen business days upon request."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.442 (bid 19079), all 4 subsection(s) with subdivisions and source notes. Verified all four subsections with all 15 subdivisions of sub 1 (including sub 1(15) DCI standard NCQA credentialing form) and 12 subdivisions of sub 2, and history (L. 1997, A.L. 2010): mandatory disclosures, on-request disclosures, material updates, and online delivery with 15-business-day paper copies."
+    },
+    {
+      "id": "354.443:19080",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.443&bid=19080",
+      "sourceSha256": "8baedd7d443b92fe950c4c97667bf10438790493fffc54fd4dff098d8135c53a",
+      "textSha256": "308517dbf48f672cd6a82ca0511fd9f0ef07a34f8afac0f586787e37d26e543b",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory disclosure of provider financial arrangements",
+          "bodySha256": "add7a6efc96d5795d24cfc6508c40ed0273d67372727b3a6f8117bab7e87fe0a",
+          "reviewNote": "Verified sub 1: Disclosure of financial arrangements that incentivize service limitations; capitation excluded; review for improper inducements."
+        },
+        {
+          "number": 2,
+          "title": "Capitation rate exclusion from filing",
+          "bodySha256": "f9e7856883ca68ad7c9a34647822691fbfd2c5976d2a50b1940784a259874382",
+          "reviewNote": "Verified sub 2: Exemption clarifying that specific capitation rates need not be disclosed in filed financial arrangements."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.443 (bid 19080), all 2 subsection(s) with subdivisions and source notes. Verified both subsections and source note (L. 1997 H.B. 335): mandatory disclosure of provider/UR financial arrangements limiting services (capitation excluded as inducement) and exclusion of specific capitation rates from filings."
+    },
+    {
+      "id": "354.444:19081",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.444&bid=19081",
+      "sourceSha256": "8c21aa154919a84beb64b0a1c4b01ed3482293be8c8b70d1477aec5a014b7f67",
+      "textSha256": "61579641919177ec55be9c24f854e2f0626a1471f96a4b91b588c8f52dea39f2",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Administrative enforcement orders by director",
+          "bodySha256": "6971c90b25c6203b1c2a39dcb26aeeff7523b1cc69021dec8210d329f2d278bf",
+          "reviewNote": "Verified sub 1: Director authority to issue administrative orders under section 374.046; designates violations as level one under section 374.049."
+        },
+        {
+          "number": 2,
+          "title": "Civil enforcement actions by director",
+          "bodySha256": "8598d175879ce01074712a32a9d0050d5875874d9f02fc995f16b342f2bcedd0",
+          "reviewNote": "Verified sub 2: Director authority to maintain civil action under section 374.048; designates violations as level one under section 374.049."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.444 (bid 19081), all 2 subsection(s) with subdivisions and source notes. Verified both subsections and history (L. 1997, A.L. 2007 S.B. 66): permissive director administrative orders (§ 374.046) and civil actions (§ 374.048) for §§ 354.400–354.636 violations (level one under § 374.049)."
+    },
+    {
+      "id": "354.465:57760",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.465&bid=57760",
+      "sourceSha256": "26374388863379e846cc8ebf49be567f46cd68003dd5bc1555678d8adc102dfd",
+      "textSha256": "e8df6fd360d096df7f916e5e59a5e55478da47763837ded0d259e02d220ac082",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Discretionary examination of HMO affairs",
+          "bodySha256": "d30e7e47f32594afffb1da90085a8bfc2d9711b98cf0c05a44280cec3fd8609e",
+          "reviewNote": "Verified sub 1: Director authority to examine HMO affairs as necessary for public protection."
+        },
+        {
+          "number": 2,
+          "title": "Payment and remittance of examination costs",
+          "bodySha256": "6b517f08e63fc50c62a64749457d9213a7a5b6aae385bbecc41f04be24008003",
+          "reviewNote": "Verified sub 2: Examined organization must pay all state examination costs, remitted under section 374.160."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.465 (bid 57760), all 2 subsection(s) with subdivisions and source notes. Verified both subsections and history (L. 1983, A.L. 2014, A.L. 2025 S.B. 79): permissive director examination of HMO affairs and examined HMO payment of costs remitted under § 374.160."
+    },
+    {
+      "id": "354.470:19089",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.470&bid=19089",
+      "sourceSha256": "147d644e89d7f8fa1308d0334346857df682d3e6ecf41240fe162e55655945d1",
+      "textSha256": "3c36067d56f99f04a3dd2579f8c0958c04e0713936fb63c3af2637a8ca77ccae",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Grounds for certificate suspension, revocation, or restrictions",
+          "bodySha256": "d29655ce8fbbe1acbccc6b2e5132bccb08153a9caf7ccecfdcfa21dde58b585d",
+          "reviewNote": "Verified sub 1: Ten statutory grounds including document contravention, improper charges, financial unsoundness, and hazardous operations."
+        },
+        {
+          "number": 2,
+          "title": "Hearing prerequisites for sanctions",
+          "bodySha256": "53f8ce7dd46a83f71e258f999b9e9e3a4f680fcdc812d4630d804ae7074cbef4",
+          "reviewNote": "Verified sub 2: Sanctions permitted only after notice and hearing compliance under section 354.490."
+        },
+        {
+          "number": 3,
+          "title": "Operational restrictions during suspension",
+          "bodySha256": "feb5437ed552da586c56f83b1590b0bd8820da5294f2f3ef16626ed61570741c",
+          "reviewNote": "Verified sub 3: Prohibits new enrollments (except newborns/dependents) and bans all advertising and solicitation during suspension."
+        },
+        {
+          "number": 4,
+          "title": "Winding up and restricted operations upon revocation",
+          "bodySha256": "a1111207c70c71b4e0f71a77d6394a3317f24966d923fa50355a3e414230b327",
+          "reviewNote": "Verified sub 4: Mandatory winding up of affairs and cessation of business; director authority to permit operations for continuity of coverage."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.470 (bid 19089), all 4 subsection(s) with subdivisions and source notes. Verified all four subsections with subdivisions (1)-(10) and history (L. 1983, A.L. 1997): permissive suspension/revocation/restrictions on 10 grounds after § 354.490 compliance, suspension enrollment/advertising bans, and revocation wind-up with permissive continuity orders."
+    },
+    {
+      "id": "354.475:19090",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.475&bid=19090",
+      "sourceSha256": "080400e564b3d64ca18984c8d36e1715fccd1511aa693ddb22f5547dea642c49",
+      "textSha256": "01fc7571086b14c3ec752c31a52da26701cf1dd8648cd3c0fecc7cf596360a7f",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Organization and joint operation by insurers and corporations",
+          "bodySha256": "cfccb6a6c6ad4505f58ecc22683dbfbdb72090fd96b67e1a0bd18edc94eb1fe5",
+          "reviewNote": "Verified sub 1: Authorized insurers and health corporations may directly or through affiliates organize and operate HMOs."
+        },
+        {
+          "number": 2,
+          "title": "Insurer contracts and insolvency protection",
+          "bodySha256": "d3ea073c6ed7b9c6d7e275103bce158b01362dfe870b652e63b0642902d3eac0",
+          "reviewNote": "Verified sub 2: Authority to contract with insurers or health corporations for indemnity, insolvency coverage, and provider payments."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.475 (bid 19090), all 2 subsection(s) with subdivisions and source notes. Verified both subsections and history (L. 1983, A.L. 2007): direct/affiliate/joint HMO organization by insurers and health services corporations, and insurer/health-services-corp indemnity/insolvency contracts with HMOs."
+    },
+    {
+      "id": "354.480:19091",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.480&bid=19091",
+      "sourceSha256": "76ae1ad20fb9f48d188c642062de3f4e8f76928acb5782b0abb03799a458a43a",
+      "textSha256": "22ea538f2ebe6228ffe0219f4e71d71cb0bfc30ec5fdcc935a697bbfbc8cf9f4",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Insurance liquidation procedures and enrollee priority",
+          "bodySha256": "12c423368085b50844ebcf0800bed210b986d8e9c4c0b6d80e718d06c26432f4",
+          "reviewNote": "Verified sub 1: Rehabilitation, liquidation, or conservation conducted under insurance laws; enrollees receive policyholder priority; source note flags revisor note."
+        },
+        {
+          "number": 2,
+          "title": "Priority of provider claims for uncovered expenses",
+          "bodySha256": "a372f56af12c0556ff1bbd358900891697476325e1273101514864e1371c96bc",
+          "reviewNote": "Verified sub 2: Provider claims for uncovered expenses have priority over other provider claims if provider agrees not to pursue enrollees."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.480 (bid 19091), all 2 subsection(s) with subdivisions and source notes. Verified both subsections, source note (L. 1983 H.B. 127), and original-rolls footnote (*Word 'chapter' appears in original rolls for 'section* 354.355'): insurance-company liquidation rules with policyholder priority for enrollees, and priority for non-balance-billing provider uncovered-expense claims."
+    },
+    {
+      "id": "354.490:19093",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.490&bid=19093",
+      "sourceSha256": "37302ecb497128983017108723d19cba863d2faea2b4bde6cd571d836c6213d9",
+      "textSha256": "a88baf40c4f7dd3369e6b44f4af8421c63b8c41cb6e3926305a19b5dda5f704d",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written notice of grounds and hearing schedule",
+          "bodySha256": "ab233e3d2a62e585ba8f06b117caab85b1502492810b6d45ba9e065145e4edc7",
+          "reviewNote": "Verified sub 1: Written notice of grounds for denial, suspension, or restrictions with minimum twenty days notice for hearing."
+        },
+        {
+          "number": 2,
+          "title": "Written findings and judicial review",
+          "bodySha256": "6f76f6f85ab02a5933ffadc59eb6d8b6928a6b4e1f2df51746a2b3e244c19e31",
+          "reviewNote": "Verified sub 2: Director action based on written findings; appealable to circuit court with authority to modify, affirm, or reverse."
+        },
+        {
+          "number": 3,
+          "title": "Application of administrative procedure act",
+          "bodySha256": "e3da3fa5e363d6912890b07f4db2ee1673ccae6a8c7f57bd9a95bc5838f36cc2",
+          "reviewNote": "Verified sub 3: Chapter 536 administrative procedures apply to extent not conflicting with statutory provisions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.490 (bid 19093), all 3 subsection(s) with subdivisions and source notes. Verified all three subsections and history (L. 1983, A.L. 1997): 20-day written notice of denial/suspension/revocation/restriction grounds, written findings with circuit court review, and residual chapter 536 applicability."
+    },
+    {
+      "id": "354.505:19096",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.505&bid=19096",
+      "sourceSha256": "e35ceceaf7a8945273eccb77474df54862316a6e599eaa4bff218a6d3b776e89",
+      "textSha256": "8d81cfa7c0367c336e39d9c0b8f45efbca22dc4ade7ed4895161453508119306",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Inapplicability of general insurance and corporate laws",
+          "bodySha256": "3d38f16c6d14bdb5424d6f742bfc7268a9016872b3fec6b178d16cbbd12bd2ee",
+          "reviewNote": "Verified sub 1 (source prints 'insurance laws of the health services corporation laws'): general insurance and health services corporation laws inapplicable to HMOs unless specifically made applicable."
+        },
+        {
+          "number": 2,
+          "title": "Health professional solicitation laws inapplicable",
+          "bodySha256": "1b32587e602264e26644acd2c12ee3d08b6879c94abb93ef5d4a24ffb226dc3c",
+          "reviewNote": "Verified sub 2: Duly authorized enrollee solicitation does not violate laws regulating professional advertising."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.505 (bid 19096), all 2 subsection(s) with subdivisions and source notes. Verified both subsections and history (L. 1983, A.L. 1997; noted source typo 'insurance laws of the health services corporation laws' in sub 1): general insurance/health-services-corp laws inapplicable unless specified, and professional solicitation laws inapplicable to authorized HMO solicitation."
+    },
+    {
+      "id": "354.515:19098",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.515&bid=19098",
+      "sourceSha256": "048f282fd66296f3a117fcbc40efbfe58f7ad095bc566bb85e232b5f1a0514e4",
+      "textSha256": "8e45efc5363ec3fe6bf015a1935dcdcbedbc0444a0c6d9a829a874106d7c12c1",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Confidentiality and permitted disclosures of medical data",
+          "bodySha256": "a1d82a93cd17d6cc9210e86a315a80d942fdf70591d6cf7b0af07cbc92002c18",
+          "reviewNote": "Verified sub 1: Medical and health data confidential; specifies exceptions for program operations, consent, court orders, litigation, and regulatory access."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory confidentiality procedures for mental health records",
+          "bodySha256": "150184f15d89037032b754ac1441ffa53ac3ee077ab12aee1623fb856510bf5c",
+          "reviewNote": "Verified sub 2: HMO must maintain written procedures to protect mental health record confidentiality and file procedures annually."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.515 (bid 19098), all 2 subsection(s) with subdivisions and source notes. Verified both subsections with subdivisions (1)-(4) and history (L. 1983, A.L. 1997): enrollee/applicant health-data confidentiality with four exceptions (no privilege against director) and annual filing of mental-health confidentiality procedures."
+    },
+    {
+      "id": "354.535:19102",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.535&bid=19102",
+      "sourceSha256": "ef3f1c0c473613754b3adce02b9c54750f151387dd13f5c97deaa92b82945615",
+      "textSha256": "5210fbe74d125f6657023fa82f13324211e2cbb5b91c8efd96497770f784df6f",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Pharmacist emergency assignment and reimbursement",
+          "bodySha256": "cf38a50d20abc51f0c3db567ca3d47eb1fb92701500d24778d85dc716c807cc3",
+          "reviewNote": "Verified sub 1: Pharmacist may take assignment of reimbursement in emergency when contracted pharmacy is unavailable; HMO must pay."
+        },
+        {
+          "number": 2,
+          "title": "Missouri board of pharmacy licensing requirement",
+          "bodySha256": "31dc6d883343787ef309712f5f37b4367d83cc60bb0a8319197e637e8fd9626b",
+          "reviewNote": "Verified sub 2: HMO prohibited from contracting with pharmacies or distributors lacking Missouri board permit or license."
+        },
+        {
+          "number": 3,
+          "title": "Nondiscriminatory pharmacy cost-sharing factors",
+          "bodySha256": "22bb1d52637d528d9669d30d5bf9822e681c14144be9b733b7bc7b5edbdb6017",
+          "reviewNote": "Verified sub 3 and 'this act*' footnote (H.B. 335, 1997; H.B. 1302, 1998): uniform cost-sharing across participating pharmacies meeting pricing terms; generic vs. brand differentials permitted."
+        },
+        {
+          "number": 4,
+          "title": "Uniform prescription quantity limits",
+          "bodySha256": "445720828244def96900e4a162781ed2d8528f997cfc5ea6560850ebfdb25e30",
+          "reviewNote": "Verified sub 4: Prescription quantity limits prohibited unless applied uniformly across all network pharmacies."
+        },
+        {
+          "number": 5,
+          "title": "Maintenance drug change consent and generic exception",
+          "bodySha256": "b7e12408b9baf5d378e8a4e7d5372512724e39f02ffd65c90ef7f09e627cbaca",
+          "reviewNote": "Revised title to include generic exception. Verified sub 5 and 2000/2001 Express Scripts v. Wenzel ERISA annotations: bars mandatory maintenance drug (>30 days) changes without provider and enrollee consent, with damages liability; exempts § 338.056 generic substitution."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.535 (bid 19102), all 5 subsection(s) with subdivisions and source notes. Verified all five subsections, history (L. 1983–1998), 'this act*' footnote, and 2000/2001 Express Scripts v. Wenzel ERISA savings-clause annotations. Revised sub 5 title to include § 338.056 generic-equivalent carve-out."
+    },
+    {
+      "id": "354.536:19103",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.536&bid=19103",
+      "sourceSha256": "c7c0fd01b62a8b966c2406bf6987113540fa7653601d9020dfbea811a62280b6",
+      "textSha256": "62ab95dce68d98a75eaa1db9118d2d4604203b0b9e07a2e4b3b0ef90b1249b43",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Continued coverage for incapacitated dependent children",
+          "bodySha256": "1899b9b4a329f9be4d9c5557be4aedadc91f38489f7dd095b18db62dee3224a6",
+          "reviewNote": "Verified sub 1: continues coverage beyond limiting age for incapacitated, chiefly dependent children; text states proof furnished 'at least thirty-one days after' limiting age, with subsequent proof limits."
+        },
+        {
+          "number": 2,
+          "title": "Enrollee election for continued coverage to age twenty-five",
+          "bodySha256": "1ff872256ad9f226964a76387052e18aca9d3da60a6ad43ebe9e65bd39d9c770",
+          "reviewNote": "Verified sub 2: Enrollee option to continue dependent coverage up to age twenty-five for unmarried resident children lacking other coverage."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.536 (bid 19103), all 2 subsection(s) with subdivisions and source notes. Verified both subsections with subdivisions (1)-(3) and source/effective-date notes (L. 2007 H.B. 818, effective 1-01-08): incapacitated dependent continuation (note literal 'at least thirty-one days after' in sub 1) and enrollee election up to age 25 within 31 days in sub 2."
+    },
+    {
+      "id": "354.546:19106",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.546&bid=19106",
+      "sourceSha256": "e123fb775c1cc1a9d7d87e2238b811fd230b5e33a700e5c8a722acb9eba620a5",
+      "textSha256": "ca0a07051faa1d1142cbf4a3c53d2b72a31d9e7f09ac3594019a5d68ec3d98f0",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Right to second medical opinion within network",
+          "bodySha256": "d030cf4e768cfc58c83a4418a5a57e4a5bf628b621ec61ba22a5463036b84604",
+          "reviewNote": "Verified sub 1: HMO must permit enrollees to obtain second opinions from network primary and specialty physicians at no additional cost."
+        },
+        {
+          "number": 2,
+          "title": "Referral to outside physician for second opinion",
+          "bodySha256": "e4e6d344aa5934e71413a66dac34df362b690f1bcda34720b2e0f4fffa08c697",
+          "reviewNote": "Verified sub 2: Mandatory outside referral at network cost when HMO lacks internal physician expertise for second opinion."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.546 (bid 19106), all 2 subsection(s) with subdivisions and source notes. Verified both subsections, source note (L. 1998 S.B. 754), and cross-reference note (§ 354.207): HMO second medical opinion from network choice at no extra cost and out-of-network referral at network cost when expertise lacking."
+    },
+    {
+      "id": "354.551:19108",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.551&bid=19108",
+      "sourceSha256": "0c8faa3806b9e6c4c969b43d04d99ccc58275a776e871fdbd3c188c78a01006e",
+      "textSha256": "4a3d2a1b1a42ee08b29ae49ae27097108b70f585852dcc32e84f120fde387acd",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorization and expense cap for point-of-service riders",
+          "bodySha256": "60c64e3a76a39508ee60be4ca66064f4c4a4a9aedeb4eb9c0faf5575d338aabf",
+          "reviewNote": "Verified sub 1: HMOs authorized to offer POS riders without insurer license if POS expenses do not exceed ten percent of total medical expenses."
+        },
+        {
+          "number": 2,
+          "title": "Net worth requirements for established HMOs offering POS",
+          "bodySha256": "e49e0a8659b6c26953c4c6e8eada40ab759498769182a2c96ce50e386d889ea1",
+          "reviewNote": "Verified sub 2: Net worth standards for HMOs licensed at least one year offering POS riders ($1.2M or formula based on premiums/liabilities)."
+        },
+        {
+          "number": 3,
+          "title": "Net worth requirements for newly licensed HMOs",
+          "bodySha256": "bd3d7c84260ddd3b2fc4403c8bb660112d4d39dbd31e2825e18066baa3797ddf",
+          "reviewNote": "Verified sub 3: Net worth standards for HMOs licensed less than one year offering POS riders ($1.2M or projected formula)."
+        },
+        {
+          "number": 4,
+          "title": "Deposit requirements and remedies for exceeding expense limits",
+          "bodySha256": "8ffa580509eaf2dc32ad779763eb79981d149f5ce58bf74abb3cedd135c48301",
+          "reviewNote": "Verified sub 4: Additional $600,000 deposit; actions required when POS expenses exceed 10% limit; source notes document original rolls discrepancies."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.551 (bid 19108), all 4 subsection(s) with subdivisions and source notes. Verified all four subsections with subdivisions, source note (L. 1997 H.B. 335 § 11), and all three original-rolls footnotes (*'does', **'dollars' omitted, ***'exceeds'): POS rider authorization (<=10% medical/hospital expense cap), net worth formulas for >=1yr and <1yr HMOs, $600k deposit, and domestic life-insurer fallback."
+    },
+    {
+      "id": "354.552:19109",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.552&bid=19109",
+      "sourceSha256": "ff7b681d76fd5d65881513205b9bde19c6b44356c21a8cbd810d9ea26060f137",
+      "textSha256": "e385401bfccdfcb6c85b9fd9c622a90bac90d5cb23998e7b619bf6cf10e0e573",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Provider network sufficiency for community-based HMOs",
+          "bodySha256": "69ac59480ae1c634fb8fb6e18b35331b240533012c48263ce37239b5f3b33341",
+          "reviewNote": "Verified sub 1: Community-based HMOs must provide sufficient number and types of physicians to meet enrolled population needs."
+        },
+        {
+          "number": 2,
+          "title": "Outside referral for unavailable specialty services",
+          "bodySha256": "bb108710545edc8bbb7432261fc08992590396e5e15a306dd3d260a45d6bbdb8",
+          "reviewNote": "Verified sub 2: Mandatory outside referral at in-network cost when community-based HMO lacks required physician expertise."
+        },
+        {
+          "number": 3,
+          "title": "Geographic proximity and out-of-area specialty care",
+          "bodySha256": "8d181c532a7d2c58804360e95899f132b557f517d1af2b6627a45de27611e6cd",
+          "reviewNote": "Verified sub 3: Primary care services must be in reasonable proximity to member residence/business; permits out-of-area specialized care."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.552 (bid 19109), all 3 subsection(s) with subdivisions and source notes. Verified all three subsections with subdivisions (1)-(3) and source note (L. 1997 H.B. 335 § 1): community-based HMO network sufficiency, out-of-network referrals at network cost, and primary-care proximity with out-of-area specialty option."
+    },
+    {
+      "id": "354.556:19111",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.556&bid=19111",
+      "sourceSha256": "45b309654fe55559c00c4008737741d9c57c96a6ada39f21829c7dd314b90747",
+      "textSha256": "798bd89921396bace04b3e74ccbe00f8427705b8ee5df06e1dc340dcf5336c57",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Commencement of enrollee trustee terms",
+          "bodySha256": "a5cd6e23514451b656d7a8862588169b78c92e8eedceb87fc406da292d76913d",
+          "reviewNote": "Verified sub 1: Terms of trustees elected by enrollees begin immediately upon election."
+        },
+        {
+          "number": 2,
+          "title": "Vacancy filling procedures for enrollee trustees",
+          "bodySha256": "49b282fd24346883b4c04112d74e0e0c1be3405af5e4e6ddae23bbbc35a61efd",
+          "reviewNote": "Verified sub 2: Board may appoint interim qualified person until next regular election to fill unexpired enrollee trustee term."
+        },
+        {
+          "number": 3,
+          "title": "Management of enrollee trustee elections",
+          "bodySha256": "b4a1ba9fd962715d806ef9932bc9ce54f1d5c53117aac234d9f62b24feb0c0b8",
+          "reviewNote": "Verified sub 3: Board of trustees responsible for arranging, managing, and conducting enrollee trustee elections."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.556 (bid 19111), all 3 subsection(s) with subdivisions and source notes. Verified all three subsections and source note (L. 1997 H.B. 335 § 3): immediate start of enrollee-elected trustee terms, interim board appointments for vacancies until next regular election, and board management of enrollee trustee elections."
+    },
+    {
+      "id": "354.560:19114",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.560&bid=19114",
+      "sourceSha256": "d2a4775a79f043de8cf55b2782e884a8acda122c6f4c383629462aa6ecd942fa",
+      "textSha256": "c8c22aed0fac6c9cac124eb0e7c33fdba78a14c26996599afd04dd0ad439116c",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Rulemaking on physician financial risk arrangements",
+          "bodySha256": "09b5f0ee20988e63444901ec96e8e438a79afe298cc48201e7adc43a773d730b",
+          "reviewNote": "Verified sub 1: Director rulemaking governing payment arrangements placing physicians at substantial financial risk under federal Medicare standards."
+        },
+        {
+          "number": 2,
+          "title": "Disclosure and review of physician financial risk terms",
+          "bodySha256": "7baff73b312bdb9a5fea5de31197f9f7d1e2d3fd156b3e9a7b3b93690edae4af",
+          "reviewNote": "Verified sub 2: Department authority to require disclosure; 30-day review period with deemed approval for physician financial risk contracts."
+        },
+        {
+          "number": 3,
+          "title": "Confidentiality of proprietary financial disclosures",
+          "bodySha256": "8121f17f36c8f27aa77b1a6b8a5d0ce58a2494d4dd53172d289cd029e011e923",
+          "reviewNote": "Verified sub 3: Department rules on proprietary information confidentiality; exempts disclosed proprietary filings from chapter 610 public records."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.560 (bid 19114), all 3 subsection(s) with subdivisions and source notes. Verified all three subsections and source note (L. 1997 H.B. 335 § 6): DCI rules on substantial physician financial risk (42 CFR 417.479), permissive disclosure with 30-day deemed approval, and proprietary-information confidentiality outside chapter 610."
+    },
+    {
+      "id": "354.603:35235",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.603&bid=35235",
+      "sourceSha256": "0e436cee82c60ebac583e799710d29536831246be5689f8e07a4f87f477ce4cc",
+      "textSha256": "13b76de0f8294499ac811441bf813a92d5c9c5cbac367a37d3766f2be0c349a4",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Network sufficiency standards and accessibility criteria",
+          "bodySha256": "199bd03ea269b2986b6fd5b6ca390ab3bb72b042218c3dd1e9c69eb3e8bdd615",
+          "reviewNote": "Verified sub 1(1)-(4) (noted source phrasing 'service area under, especially rural areas, consideration'): network sufficiency, 24/7 emergency access, out-of-network parity, rural proximity, and provider monitoring (no tax-return requirement)."
+        },
+        {
+          "number": 2,
+          "title": "Access plan filing and contents",
+          "bodySha256": "51d9ca74ceff815daee8c9cbb35b0638beed84ba0c66558cd9b349d7b6bae70a",
+          "reviewNote": "Verified sub 2: Mandatory access plan filing for managed care plans, 60-day director review, proprietary designations, and nine required elements."
+        },
+        {
+          "number": 3,
+          "title": "Deemed network adequacy through national accreditation",
+          "bodySha256": "d2a9e292a86adc9673eed51265edc9fdd9e8aa6c58f4d2d871258a20aff2e757",
+          "reviewNote": "Verified sub 3: Five accreditation criteria (Medicare+Choice, NCQA, JCAHO, URAC, AAAHC) establishing deemed network adequacy."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.603 (bid 35235), all 3 subsection(s) with subdivisions and source notes. Verified all three subsections with all subdivisions and history (L. 1997–2018; noted minor source phrasing in sub 1(2) 'service area under, especially rural areas, consideration'): network sufficiency, 60-day access plan filing, and 5 deemed-adequacy accreditation pathways."
+    },
+    {
+      "id": "354.606:19122",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.606&bid=19122",
+      "sourceSha256": "ca8e6c5dd0276d8d04e17bda15022edc655f7988630e7beebdae3a503d3f82a8",
+      "textSha256": "b00a4051679697edcf27ada8b37c11cc91615ce5ffe11ecab02932b0d1706e6d",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Notification of covered health services",
+          "bodySha256": "84801f42778a7f9663519ca3a1930e3568f5ea1088a09bc7663b303a9dbef179",
+          "reviewNote": "Verified sub 1: Carrier must establish mechanism to notify participating providers of specific covered services and limitations."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory hold-harmless provision for enrollees",
+          "bodySha256": "5b9a82fee05daacb698dd4996d24e86b531d563fdd61e5cad4e00df1356e0e2d",
+          "reviewNote": "Verified sub 2: Requires specific contract clause prohibiting provider balance-billing or recourse against enrollees."
+        },
+        {
+          "number": 3,
+          "title": "Continuation of care upon insolvency",
+          "bodySha256": "92dd2972f2059fd05ea5d5b40416e46b3c437f4890463bb3e7efae7dba0c8e30",
+          "reviewNote": "Verified sub 3: Contract must provide that covered inpatient or prepaid services continue during paid term or until discharge."
+        },
+        {
+          "number": 4,
+          "title": "Construction, survival, and supremacy of hold-harmless terms",
+          "bodySha256": "4a2d038a5cfdb0a9fa7e08821fe98a5d9c2c1fdb93aa3d3fd94199538109a56b",
+          "reviewNote": "Verified sub 4: Hold-harmless provisions construed in enrollee favor, survive contract termination/insolvency, and supersede contrary agreements."
+        },
+        {
+          "number": 5,
+          "title": "Prohibition on balance-billing and late carrier payment",
+          "bodySha256": "70f55b91c3f3f619464a39c62c4f362beba0644c26c2c9fb630013da42dd8c93",
+          "reviewNote": "Revised title to include late-payment rule. Verified sub 5: bars provider collection from enrollee beyond coinsurance/co-payments/deductibles, and makes late carrier payment an unfair claims settlement practice under §§ 375.1000–375.1018."
+        },
+        {
+          "number": 6,
+          "title": "Selection standards for participating health professionals",
+          "bodySha256": "e0602dae6cd6f30b2c5698903b0fa78ae2d0342d89ea372d945d13df2d7a86d6",
+          "reviewNote": "Verified sub 6: Written selection standards required; prohibits excluding providers based on high-risk populations or geographic loss risk."
+        },
+        {
+          "number": 7,
+          "title": "Filing and availability of selection standards",
+          "bodySha256": "7aa75abb9ec317c7f55e2992dcdb83880e8fbd705c4ba230860202f4e39d3387",
+          "reviewNote": "Verified sub 7: Carrier must file provider selection standards with director and provide them to licensed health care providers."
+        },
+        {
+          "number": 8,
+          "title": "Notification of administrative responsibilities and policies",
+          "bodySha256": "a7f3712ad2c3fdaf496b2a2472575b062d4c33b49d734eb075d85e71c6ebe76d",
+          "reviewNote": "Verified sub 8: Carrier must notify participating providers of administrative policies, programs, and reporting obligations."
+        },
+        {
+          "number": 9,
+          "title": "Ban on mandatory hospitalists in post-2001 contracts",
+          "bodySha256": "79a52eb343ea452341f11ba57d61f7fa302d64146ab9f561a423233bae57925d",
+          "reviewNote": "Revised title to reflect Aug. 28, 2001 cutoff. Verified sub 9: contracts entered into or renewed after Aug. 28, 2001 may not require mandatory use of a hospitalist; defines 'hospitalist'."
+        },
+        {
+          "number": 10,
+          "title": "Prohibition on financial inducements for substandard care",
+          "bodySha256": "5acb78d1a999f0cf83a1ef9220dd49ec30a805c9e8a5ed62b8bdb3f83b24ab9e",
+          "reviewNote": "Verified sub 10: Carrier prohibited from offering inducements to providers to deliver less than medically necessary care."
+        },
+        {
+          "number": 11,
+          "title": "Protection of provider advocacy for enrollees",
+          "bodySha256": "fd00899b6ed0e6483091b97900ffe9cced170e7196592628e23d06cacd32025e",
+          "reviewNote": "Verified sub 11: Carrier prohibited from barring good-faith provider advocacy in utilization review or grievance processes."
+        },
+        {
+          "number": 12,
+          "title": "Records access for quality review and confidentiality",
+          "bodySha256": "2369fb7b9474f8b0bbc511b3db9d323f707ac6e9e66a915cc39a4580cfb7c93a",
+          "reviewNote": "Verified sub 12: Providers must make records available for quality assessment and complaints without disclosing individual identities."
+        },
+        {
+          "number": 13,
+          "title": "Restriction on assignment of provider contracts",
+          "bodySha256": "7f159ad02a900c69d8af262ac043ac4240a5b080aa38e4acdce9a9c8f96a6a98",
+          "reviewNote": "Verified sub 13: Prohibits provider from assigning or delegating contract rights and duties without prior written consent."
+        },
+        {
+          "number": 14,
+          "title": "Parity of care for private and public enrollees",
+          "bodySha256": "8241c8c3dd78daaf3cac826a6dc991d46725075d65db84a9afb2138c139e4ba1",
+          "reviewNote": "Verified sub 14: Carrier responsible for ensuring providers furnish benefits equally to private and publicly financed plan enrollees."
+        },
+        {
+          "number": 15,
+          "title": "Notification of cost-sharing and noncovered charges",
+          "bodySha256": "18973a1a5a1ecea69d8038c91733611a58fcbe9439556a8c111d261e98968623",
+          "reviewNote": "Verified sub 15: Carrier must notify providers of obligations regarding enrollee cost-sharing and notification of noncovered services."
+        },
+        {
+          "number": 16,
+          "title": "Whistleblower protection for health care providers",
+          "bodySha256": "f176a19aa0497764b5d4af0f145b4543b2046c1502ada751f7feaf9ca92835ca",
+          "reviewNote": "Verified sub 16: Carrier prohibited from penalizing providers for good-faith reports of patient health hazards to state or federal authorities."
+        },
+        {
+          "number": 17,
+          "title": "Coverage verification mechanism for providers",
+          "bodySha256": "71e7859b2fe16597c53352c650d677c820c32f16d23255e874e32fef174c9785",
+          "reviewNote": "Verified sub 17: Carrier must provide timely mechanism for participating providers to verify patient coverage status."
+        },
+        {
+          "number": 18,
+          "title": "Nondiscrimination among licensed health professionals",
+          "bodySha256": "958903d1640e0896345efe72dec492b8cf19d50e5a4fcc1e8fcd2a5e0182f4ef",
+          "reviewNote": "Verified sub 18: Carrier prohibited from discriminating among health professionals within licensed scope for selection or referrals."
+        },
+        {
+          "number": 19,
+          "title": "Dispute resolution procedures for providers",
+          "bodySha256": "635a0636019c9b7174317021dc59c5bef0ef50c4d2ac25f46ec3ac0741ea0433",
+          "reviewNote": "Verified sub 19: Carrier must establish formal procedures for resolving administrative and payment disputes with providers."
+        },
+        {
+          "number": 20,
+          "title": "Prohibition of conflicting contract terms",
+          "bodySha256": "bce20cccb8596a3ca13a84b4aef65b56d4d68d8b5a4b7c0889ccc2718a583c5b",
+          "reviewNote": "Verified sub 20: Contracts prohibited from containing definitions or provisions conflicting with managed care plan or statutory provisions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.606 (bid 19122), all 20 subsection(s) with subdivisions and source notes. Verified all twenty subsections with subdivisions and history (L. 1997, A.L. 2001). Revised sub 5 title to include unfair-claims-settlement rule for late carrier payment and sub 9 title to reflect post-Aug. 28, 2001 contract scope for mandatory-hospitalist ban."
+    },
+    {
+      "id": "354.609:19123",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.609&bid=19123",
+      "sourceSha256": "9e9da8a28518b1425fdd192ea29da1e890a0484a72093aee454dc1feaa1830fc",
+      "textSha256": "67d99b3d35e01eae4ce62bf6516de5fb51760e0b5ebc8a8310d971e78793a01b",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written notice requirements for contract termination",
+          "bodySha256": "59d3b44cbe8d4c64f3f24590fc793bcbfe9457a2c8c8a7e6716016ec8979b79a",
+          "reviewNote": "Verified sub 1: 60 days written notice required for without-cause termination; written explanation; timely patient notification rules."
+        },
+        {
+          "number": 2,
+          "title": "Termination hearing rights, panels, and exceptions",
+          "bodySha256": "0779b6c7d99e05ca81be5e8232cc87c04ea9060ae2ca0d592ad7ab5200a303f0",
+          "reviewNote": "Revised title to note exceptions. Verified sub 2(1)-(6): written termination reasons, review/hearing panel (at least 1/3 clinical peers), and 15/30/60-day timelines; inapplicable for imminent harm, fraud, or final licensing/agency discipline."
+        },
+        {
+          "number": 3,
+          "title": "Nonrenewal rights distinguished from termination",
+          "bodySha256": "fc63eaf3cf620bcb7c2b6c20aefc9232f83c8de939497fb27ccbca4f2b54ed77",
+          "reviewNote": "Verified sub 3: Clarifies that nonrenewal at expiration or on 60 days notice does not constitute contract termination."
+        },
+        {
+          "number": 4,
+          "title": "Provider profiling data and consultation procedures",
+          "bodySha256": "d2fcbc19c9a1f885f53f5b3c5682e5175da01aeef4a258e4c1d5df91c8629e0e",
+          "reviewNote": "Verified sub 4: Carrier must share profiling data, consult on methodologies, measure against peer standards, and allow provider discussion."
+        },
+        {
+          "number": 5,
+          "title": "Prohibition on retaliatory contract termination",
+          "bodySha256": "d14612a7671ea8feee9807119aea94e3c197876f51c9b4114cfd6cddbffc683a",
+          "reviewNote": "Verified sub 5: Carrier prohibited from terminating provider for patient advocacy, filing complaints, appeals, or regulatory reports."
+        },
+        {
+          "number": 6,
+          "title": "Thirty-day review period for managed care contracts",
+          "bodySha256": "b38b2ea8c419883721fe2292ffbbfc480c6c7ee024a6ba9f3ccde26feeb1cbfb",
+          "reviewNote": "Verified sub 6: Carrier must provide health care provider at least thirty days to review proposed managed care contracts."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.609 (bid 19123), all 6 subsection(s) with subdivisions and source notes. Verified all six subsections with subdivisions and source note (L. 1997 H.B. 335). Revised sub 2 title to reflect exceptions for imminent harm, fraud, or final licensing/agency discipline."
+    },
+    {
+      "id": "354.612:19124",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.612&bid=19124",
+      "sourceSha256": "c2278c8dc16b0f948021769b274f6d3fc6e9b11617bbf8cec8dcdfe797fd2075",
+      "textSha256": "37d5dd7784413f7d3ab9002e4c314c06e78d866e85a6076350219a0e30d74d26",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Ninety-day continuation of care with terminated provider",
+          "bodySha256": "e2a67f6702b39dfe4319e3d4124bd7068c90b93fd84c1314e1414221a471fac5",
+          "reviewNote": "Verified sub 1: Contracts must provide up to 90 days transitional care for disability, pregnancy, or life-threatening illness."
+        },
+        {
+          "number": 2,
+          "title": "Protection against enrollee liability during continued care",
+          "bodySha256": "a80eecc86d028ab904e05d1e5e0d6b1ad61e9d02fa5c737383ead07bd09b26d7",
+          "reviewNote": "Verified sub 2: Enrollee liability limited to contractual deductibles and co-payments during continuation period."
+        },
+        {
+          "number": 3,
+          "title": "Payment obligation to terminated provider at contracted rate",
+          "bodySha256": "0777dea5252087a53cf462d33dd12b80ec6bd1c842f1b821738caa0c88f35317",
+          "reviewNote": "Verified sub 3: Health plan must pay authorized continuing provider at previously contracted rate for covered care."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.612 (bid 19124), all 3 subsection(s) with subdivisions and source notes. Verified all three subsections and source note (L. 1997 H.B. 335): up to 90-day medically necessary continuation of care with terminated provider, enrollee liability limited to deductibles/co-payments, and plan payment at prior contracted rate."
+    },
+    {
+      "id": "354.615:19125",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.615&bid=19125",
+      "sourceSha256": "380fb6146b9f7b7d4d21f633b9c562816c2510d6ef533a4dd9b3be1aff0b5938",
+      "textSha256": "f426124460cd673ab40f5a17b1863f2ceec46f2faf47df6321aa4720cd74bc6d",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Out-of-network referrals for unavailable expertise",
+          "bodySha256": "1d81d1b86ee4fd963e318f434766b750e1f1dd5b1836bab4a55e4388b6f0c054",
+          "reviewNote": "Verified sub 1: Mandatory out-of-network referral at network cost when carrier lacks trained providers in panel."
+        },
+        {
+          "number": 2,
+          "title": "Standing referrals to specialty care providers",
+          "bodySha256": "2cf791b354c0a9cf1e51dae58b3519ebe8605f64808546b3ed160b0ce8221add",
+          "reviewNote": "Verified sub 2: Procedures for standing referrals to specialists under approved treatment plans for ongoing specialty needs."
+        },
+        {
+          "number": 3,
+          "title": "Specialist coordination for life-threatening or degenerative conditions",
+          "bodySha256": "157208fd520542f6b2a6bd713637ada9c14d75b3455ced1ac31a1ece59d1b243",
+          "reviewNote": "Verified sub 3: Procedures for specialist to serve as primary care coordinator for life-threatening or degenerative diseases."
+        },
+        {
+          "number": 4,
+          "title": "Referrals to accredited specialty care centers",
+          "bodySha256": "eb88731cea34f25a10ead81d32f6448f344dae65305741effcddeaefaef1dc6d",
+          "reviewNote": "Verified sub 4: Procedures for referral to accredited or government-designated specialty care centers for complex conditions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.615 (bid 19125), all 4 subsection(s) with subdivisions and source notes. Verified all four subsections and source note (L. 1997 H.B. 335): out-of-network referrals at network cost when expertise unavailable, standing specialist referrals, specialist primary-care coordination, and accredited specialty care center referrals."
+    },
+    {
+      "id": "354.618:19126",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.618&bid=19126",
+      "sourceSha256": "63edb50306c23564fa44e8c2abec98d66d4afc8a3b6a664ff30cede8acae029d",
+      "textSha256": "22d7801b79b4179e70a39c36962c9d1d658d0b55c8516a6b14291e952f4ad242",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory open referral option with gatekeeper plans",
+          "bodySha256": "4b3d196ab9ad542e64f1ebad9ede8cc761bbd17bcb4358c8cd52998536a88916",
+          "reviewNote": "Verified sub 1: Carrier marketing exclusive gatekeeper group plans must offer open referral plan; small vs large employer rules."
+        },
+        {
+          "number": 2,
+          "title": "Definitions of open referral and gatekeeper plans",
+          "bodySha256": "5d3a1a74ad8b42e5330086fc3c335f8d3daa0d0a1a36d17571a24de54940f584",
+          "reviewNote": "Verified sub 2: Defines open referral plan (self-referral to licensed providers) and gatekeeper group plan (PCP referral required)."
+        },
+        {
+          "number": 3,
+          "title": "Exemption for Medicaid health benefit plans",
+          "bodySha256": "8884e6c96629cb2e25d88d1a2290abc806a7330ab30be99f94cff74e9c63e2c9",
+          "reviewNote": "Verified sub 3: Health benefit plans provided under Medicaid program exempt from open referral offering requirements."
+        },
+        {
+          "number": 4,
+          "title": "Direct access to participating obstetricians and gynecologists",
+          "bodySha256": "6fe5bd34d645045ea77114ce88759244909e4dae50b20583c35831742c370612",
+          "reviewNote": "Verified sub 4: Female enrollees permitted direct annual visit to network OB/GYN without primary care referral; visit reporting."
+        },
+        {
+          "number": 5,
+          "title": "Eye care provider nondiscrimination except for good cause",
+          "bodySha256": "6200f212a57887739854127ec87810e5252433467aa7b61686ae978f4efacc87",
+          "reviewNote": "Revised title to preserve 'Except for good cause' qualification. Verified sub 5 (source spells 'opthamologic'): bars direct/indirect discrimination between chapter 336 optometrists and chapter 334 ophthalmologists in selection, referrals, and reimbursement."
+        },
+        {
+          "number": 6,
+          "title": "Preservation of plan benefit limitations",
+          "bodySha256": "49aa0052de5e4d56ae9d2c467c3dbfc585f2b288aaad8a54610cff7f071388bb",
+          "reviewNote": "Verified sub 6: Clarifies section does not require payment for services not covered under health benefit plan terms."
+        },
+        {
+          "number": 7,
+          "title": "Temporary exemption for health center sponsored carriers",
+          "bodySha256": "c44a0f78728277a9fa78092ba5079bf440bc5334c4e0ec5f90c51a71c4bd44a6",
+          "reviewNote": "Verified sub 7: Temporary two-year exemption from August 28, 1997 for new carriers sponsored by federally qualified health centers."
+        },
+        {
+          "number": 8,
+          "title": "Exemption for collective bargaining health plans",
+          "bodySha256": "333fd98c969cc18684e284d4a7758eca8492ab07a8767e2a36478f8b497026ad",
+          "reviewNote": "Verified sub 8: Carrier exempt from offering direct access rider when union declines option under collective bargaining agreement."
+        },
+        {
+          "number": 9,
+          "title": "Preservation of employer workers' compensation provider choice",
+          "bodySha256": "b69e205cfe754f79b2ada81b434359709c31b098750e15cb20a1661d5c7d3277",
+          "reviewNote": "Verified sub 9: Preserves employer right under section 287.140 to select provider for work-related injuries under workers' compensation."
+        },
+        {
+          "number": 10,
+          "title": "Inapplicability to certified workers' compensation managed care",
+          "bodySha256": "16c76b4d12164ffec099e39a1f115d64e701f5c889b3bd67d88810a8a9599034",
+          "reviewNote": "Verified sub 10: Inapplicable to certified managed care organizations providing medical care under section 287.135 contracts."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.618 (bid 19126), all 10 subsection(s) with subdivisions and source notes. Verified all ten subsections with subdivisions and history (L. 1997, A.L. 1999). Revised sub 5 title to preserve 'Except for good cause' qualification (noted source spelling 'opthamologic')."
+    },
+    {
+      "id": "354.621:19127",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.621&bid=19127",
+      "sourceSha256": "22b385fde7b87772690e62a539595af6351e8aa83c7fcb5f19626d37311aa4b4",
+      "textSha256": "1743fe1d853646881c8034ae684f643cb3d112084650b0d29bd6acf6b4622edc",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Statutory compliance by intermediaries and providers",
+          "bodySha256": "f8ea94a97fd7e4c62ca022d42392a870e04d43e9b6eb6622508eefb7f8e9ac46",
+          "reviewNote": "Verified sub 1: Intermediaries and contracting providers must comply with all requirements of sections 354.600 to 354.636."
+        },
+        {
+          "number": 2,
+          "title": "Nondelegable carrier duty to monitor covered benefits",
+          "bodySha256": "84105cbb6455c0746b6f03a0b17698db56138168c4940458b1f7ea06b70fa577",
+          "reviewNote": "Verified sub 2: Health carrier statutory responsibility to monitor benefit delivery cannot be delegated or assigned to intermediary."
+        },
+        {
+          "number": 3,
+          "title": "Transmission of utilization and claims documentation",
+          "bodySha256": "9828ad144850f6532d47eeaf0fe4bef4178e722e201b7ec4e35ce11fb505eca9",
+          "reviewNote": "Verified sub 3: Intermediary must transmit utilization and claims data; carrier must monitor payment timeliness and care appropriateness."
+        },
+        {
+          "number": 4,
+          "title": "Maintenance and preservation of intermediary records",
+          "bodySha256": "803a8a9598abc0a88d0fa6d63f911d9cdcc76e680255fd0036e1adc833dfb63a",
+          "reviewNote": "Verified sub 4: Intermediary must maintain records at Missouri place of business for five years for regulatory review."
+        },
+        {
+          "number": 5,
+          "title": "Access to intermediary books and documentation",
+          "bodySha256": "1b1797dc022c92462d248c728a418d3955bd25f77967540fd5408a0f3bf0e519",
+          "reviewNote": "Verified sub 5: Intermediary must permit carrier and director full access to records and documentation of enrollee services."
+        },
+        {
+          "number": 6,
+          "title": "Assignment of provider contracts upon intermediary insolvency",
+          "bodySha256": "5d237401218a443667596a0436d2f298737d96181f594da186cc24d54c230bf8",
+          "reviewNote": "Verified sub 6: Health carrier right to require assignment of provider contracts upon intermediary insolvency."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.621 (bid 19127), all 6 subsection(s) with subdivisions and source notes. Verified all six subsections and source note (L. 1997 H.B. 335): intermediary/provider compliance, nondelegable carrier monitoring, utilization/claims data transmission, 5-year Missouri record retention, regulatory access, and provider-contract assignment on intermediary insolvency."
+    },
+    {
+      "id": "354.624:19128",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.624&bid=19128",
+      "sourceSha256": "1d1d99358b5a020e2852d1b5837787f964e7cf80eae1892b657420fe34f28e9e",
+      "textSha256": "ae5c782462497f3fb245bd6f5a780f4d426fc0967fcaae4527029c1044e70e0b",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Filing of provider and intermediary contract forms",
+          "bodySha256": "c0d059e800279d0ddfb6e2aa881e05fe8b5f73a8a61f2b961f236c2e9acd926f",
+          "reviewNote": "Verified sub 1: Carrier must file contract forms excluding compensation rates but disclosing risk-sharing terms."
+        },
+        {
+          "number": 2,
+          "title": "Maintenance and inspection of executed contracts",
+          "bodySha256": "6166275f2326cd49719db2a6bf5e6e9cf3ab56214e20f3691499842dd3388ec9",
+          "reviewNote": "Verified sub 2: Contracts maintained at Missouri business location; copies provided upon twenty days notice or examination."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.624 (bid 19128), all 2 subsection(s) with subdivisions and source notes. Verified both subsections and source note (L. 1997 H.B. 335): filing of proposed provider/intermediary contract forms (excluding compensation rates, including risk-sharing) and maintenance/20-day production of executed contracts."
+    },
+    {
+      "id": "354.627:19129",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.627&bid=19129",
+      "sourceSha256": "20068f497259db0d8ffb467939502b330b895a2ca359464ab193c9bc4798cb41",
+      "textSha256": "efb8da5616006343f106fdd84bc6caba38a565316d67206756be8fcd0d545fbc",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Carrier liability and statutory compliance nondelegable",
+          "bodySha256": "41a0455ebfe7c8efc05f0ecbdf0374fbde7072783a7984f8e73fc80762d6772d",
+          "reviewNote": "Verified sub 1: Contracting does not relieve health carrier of legal liability to providers or responsibility for regulatory compliance."
+        },
+        {
+          "number": 2,
+          "title": "Written contract requirement and department review",
+          "bodySha256": "4ba9b564e0e158c2f967d0f8c282db90949a72c47d4a96a46032f9465deaed7b",
+          "reviewNote": "Verified sub 2: All provider contracts must be in writing and are subject to department examination."
+        },
+        {
+          "number": 3,
+          "title": "Mandatory compliance with laws and regulations",
+          "bodySha256": "b26f442f54be7291024148c35c7da5e659cd867c9bfa9c05996a55b8eaa15f96",
+          "reviewNote": "Verified sub 3: All contracts must comply with all applicable statutory and regulatory requirements."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.627 (bid 19129), all 3 subsection(s) with subdivisions and source notes. Verified all three subsections and source note (L. 1997 H.B. 335): nondelegable carrier liability/compliance, written contract requirement subject to DCI review, and statutory/regulatory compliance."
+    },
+    {
+      "id": "354.654:19133",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.654&bid=19133",
+      "sourceSha256": "6ad99d7997fd565a69ebbf651f499686c1414b2ea0b6bc6e219888929deef608",
+      "textSha256": "68cfef7c0b45be4c9aed88dfdf41ede224f2662f5c82b2b115ad3a7fcd2fbc41",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application and designation of essential community providers",
+          "bodySha256": "bcd0d9a3ba9925ed6579a64baff871c62f3e5bba00fef5807970544270fc578f",
+          "reviewNote": "Verified sub 1: Department of health and senior services issues designation letters to qualified physician applicants."
+        },
+        {
+          "number": 2,
+          "title": "Official record and public disclosure of designated providers",
+          "bodySha256": "ff1f3bd7d154ac14114635309c14e47b86f79924c1ebb20674b816ed9342473b",
+          "reviewNote": "Verified sub 2: Department maintains roster of essential community providers and releases names and addresses upon request."
+        },
+        {
+          "number": 3,
+          "title": "Rulemaking authority and legislative review provisions",
+          "bodySha256": "bc35365d45a4fa1f4fe48130c89ee2390954a942c7409d256b31017516bc77e2",
+          "reviewNote": "Verified sub 3: Rulemaking authority under chapter 536; nonseverability clause and historical rule validity preservation."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.654 (bid 19133), all 3 subsection(s) with subdivisions and source notes. Verified all three subsections, source note (L. 1998 H.B. 1302 § 3), and 'this act*' footnote: DHSS essential community provider designation letters, public roster release, and chapter 536/§ 536.028 rulemaking with Aug. 28, 1998 repeal/nonseverability."
+    },
+    {
+      "id": "354.656:19134",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.656&bid=19134",
+      "sourceSha256": "006ef1134aefdc7a667d3664a3bf28dc26ac3270ecb5df8c9fb4ec74e10982e9",
+      "textSha256": "1b108d144fc6974e7defb8be24e131770ec877e2a5c47ee398beba19ee2f2c6e",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Provider applications, no contract mandate, and HMO cap",
+          "bodySha256": "dd148e08aa26b8e7d1858cc2abb94e0f5ce8c856c0caf17aadfb4cd63782446e",
+          "reviewNote": "Revised title to note no contract mandate. Verified sub 1: insurers in designated areas must allow essential community provider applications (no duty to offer a contract); DHSS certifies up to first 1,000 certificates for HMO applications."
+        },
+        {
+          "number": 2,
+          "title": "Publication of participating essential community providers",
+          "bodySha256": "d4f0118877b8140fe3e9fd8b70fc4e53ea11de1f66d4d9301708fbf7fd972917",
+          "reviewNote": "Verified sub 2: Names of participating primary care essential community providers must appear in consumer plan publications."
+        },
+        {
+          "number": 3,
+          "title": "Preservation of insurer right to terminate for cause",
+          "bodySha256": "9c81afba740732056bac94d068bc172aa6930c615c2e5ffd34051e06e22f4e9b",
+          "reviewNote": "Verified sub 3: Clarifies insurer retains right to terminate provider contracts for cause."
+        },
+        {
+          "number": 4,
+          "title": "Exemption for staff model health maintenance organizations",
+          "bodySha256": "a05a96abfe04ea6123a8aa83c6a3be6dbc74e6eeb7f333310bda8630747bddc8",
+          "reviewNote": "Verified sub 4: Exempts medical group/staff model HMOs providing care through owned or operated facilities."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.656 (bid 19134), all 4 subsection(s) with subdivisions and source notes. Verified all four subsections and source note (L. 1998 H.B. 1302 § 4). Revised sub 1 title to reflect that insurers are not required to offer a provider contract alongside the application right and 1,000-certificate HMO cap."
+    },
+    {
+      "id": "354.658:19135",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.658&bid=19135",
+      "sourceSha256": "716af2626e37b8ff2dacf5e77dee9d667159d95519b432370c4fc31cab9d02c4",
+      "textSha256": "f7aeda9ab6f884ba1469f99af78adf53b56d954d123f1356587c0848518ec440",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Nontransferability of essential community provider status",
+          "bodySha256": "1076a0ffc03e49fa85859dc8d8c3e5dc50ebe7f4328495dbb40c48a953ce6683",
+          "reviewNote": "Verified sub 1: Essential community provider designation cannot be transferred to another physician, provider, or entity."
+        },
+        {
+          "number": 2,
+          "title": "Physician and site specific limitation",
+          "bodySha256": "41b484070e5ace39ec0115d5712a14f09354de9073b1ce3f1d4da4a5b2bd62d4",
+          "reviewNote": "Verified sub 2: Designation is specific to named physician and designated facility site."
+        },
+        {
+          "number": 3,
+          "title": "Annual renewal affidavit and change notification",
+          "bodySha256": "3661015c245f9ea1e879d9280a1463c0f7d567b48df2e24aab62669491e439ae",
+          "reviewNote": "Verified sub 3: Provider must submit annual qualification affidavit and notify department within thirty days of changes affecting status."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.658 (bid 19135), all 3 subsection(s) with subdivisions and source notes. Verified all three subsections and source note (L. 1998 H.B. 1302 § 5): nontransferable, physician- and site-specific essential community provider designation, annual affidavit, and 30-day change notice."
+    },
+    {
+      "id": "354.702:19137",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.702&bid=19137",
+      "sourceSha256": "2e89decd814701c584cf5b2b6a9a32b221c1cbbcb4732069d96908c2766f1bcf",
+      "textSha256": "ca072c07a7c049837c24736face572f44ffd14aee57cfa965332649d31d41b09",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "License requirement for prepaid dental plan corporations",
+          "bodySha256": "04cc636219f6b3fc8bb683ecac8a639faf7263f3174ea609b61ebe14120ad242",
+          "reviewNote": "Verified sub 1: Mandatory licensing to operate or solicit dental plans; exempts licensed insurers, health services corporations, and HMOs."
+        },
+        {
+          "number": 2,
+          "title": "Application deadline for existing prepaid dental plans",
+          "bodySha256": "03d5032e6e6fc31b06b222a33e786a73596d41fb37202587d5a1c441f2746785",
+          "reviewNote": "Verified sub 2: Existing plans required to apply for certificate of authority by January 1, 1988; interim operation permitted."
+        },
+        {
+          "number": 3,
+          "title": "General insurance laws inapplicable",
+          "bodySha256": "219af10cf2c4cce040f988bb0af0bd3c85bb3937556cdc199f701133eb6b4522",
+          "reviewNote": "Verified sub 3: Prepaid dental plan corporations exempt from general insurance laws except as specifically provided."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.702 (bid 19137), all 3 subsection(s) with subdivisions and source notes. Verified all three subsections and source note (L. 1987 S.B. 272 § 2): prepaid dental plan corporation licensing (exempting licensed insurers, health services corps, and HMOs), Jan. 1, 1988 filing deadline, and general insurance law exemption."
+    },
+    {
+      "id": "354.703:19138",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.703&bid=19138",
+      "sourceSha256": "da9d3d2afd502bad84b87e7ff83a6c80c36a25c3b6adbf0935151472c277f834",
+      "textSha256": "2988526e60ec9c181e4e86f862412462e4b92c9ca8bb8b47619dd840f053e182",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Cease and desist orders and hearing procedures",
+          "bodySha256": "476b0d63b462116a1475b320745a58368563a13b48b85029985a04b0404626e3",
+          "reviewNote": "Verified sub 1: Director authority to issue cease and desist orders; respondent may request chapter 536 hearing within twenty days."
+        },
+        {
+          "number": 2,
+          "title": "Circuit court enforcement of cease and desist orders",
+          "bodySha256": "f955f9ac811eeff5cf9e790e2eab58d6e3a56092d70b423fab6fca3f3d93854f",
+          "reviewNote": "Verified sub 2: Director authorized to seek injunctive relief in circuit court for noncompliance with cease and desist order."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.703 (bid 19138), all 2 subsection(s) with subdivisions and source notes. Verified both subsections and source note (L. 1989 S.B. 333): permissive cease-and-desist orders with 20-day chapter 536 hearing/review request and circuit court injunctive enforcement."
+    },
+    {
+      "id": "354.705:19140",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.705&bid=19140",
+      "sourceSha256": "fde054b59dcfd5305ff51d763d8c2c6ced9bc3f2e2e944b944bf73c45887a01f",
+      "textSha256": "a375fa3dbb54db433f8253b07efc4aba88241dd883fd5a07a72e30b9b0f1c860",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conditions for certificate of authority and fidelity bond",
+          "bodySha256": "e42a5f0957923364f7859101229fdf9b6e23ae4300edff6730ec96c68d1e3a70",
+          "reviewNote": "Verified sub 1: Five conditions for certificate issuance including financial standards, fitness, dental arrangements, and $50,000 officer fidelity bond."
+        },
+        {
+          "number": 2,
+          "title": "Certificate expiration and annual renewal",
+          "bodySha256": "e61c5b86b0aab2c1f03f4c98f163f9ef33017d7fb71f32aec987079509a63785",
+          "reviewNote": "Verified sub 2: Certificates expire annually on June 30; renewed upon continued compliance and payment of fifty dollar renewal fee."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.705 (bid 19140), all 2 subsection(s) with subdivisions and source notes. Verified both subsections with subdivisions (1)-(5) and source note (L. 1987 S.B. 272 § 4): five issuance conditions including $50,000 officer fidelity bond, and annual June 30 expiration with $50 renewal fee."
+    },
+    {
+      "id": "354.707:19141",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.707&bid=19141",
+      "sourceSha256": "7b2409d4526fbe92ac27751a14a02e693526b5b6951034960247ad470adbac89",
+      "textSha256": "58c309fe9594bf04950e0b2c39909fa92357b3e0c690d5f12f797397b7700135",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Minimum capital and surplus requirements",
+          "bodySha256": "5e12e5f40d484e275594901ec193488c13eb6c4191bd8636f999d18cce72915b",
+          "reviewNote": "Verified sub 1 (source omits 'dollars' after first 'fifty thousand'): requires at least $50,000 capital and $50,000 surplus to commence or continue business."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory security deposit and lien provisions",
+          "bodySha256": "dbde0e0be093f3d22aec203b929ef83737b8c9a26200cb812aa7962ad872b583",
+          "reviewNote": "Verified sub 2: Fifty thousand dollar deposit with director; vault storage, interest collection, judgment liens, and public entity exemption."
+        },
+        {
+          "number": 3,
+          "title": "Director waiver for unencumbered fixed assets",
+          "bodySha256": "41ff1d5533daf110866ae6e165111d0eed9510740413bd4e4da88886323fd027",
+          "reviewNote": "Verified sub 3: Director authorized to waive capital, surplus, or deposit rules for entity with $50,000 equity in fixed assets."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.707 (bid 19141), all 3 subsection(s) with subdivisions and source notes. Verified all three subsections with subdivisions (1)-(4) and source note (L. 1987 S.B. 272 § 5; noted literal 'fifty thousand' without 'dollars' in sub 1): $50k capital/$50k surplus, $50k security deposit with vault/judgment-lien/government-funded rules, and director waiver for $50k unencumbered fixed-asset equity."
+    },
+    {
+      "id": "354.710:19142",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.710&bid=19142",
+      "sourceSha256": "a2443483da3ae2ee8fbc3cc68b4e4507a225bca9e794a0e4e115eef1feb72c18",
+      "textSha256": "32d2d87b7856002d0e26f7e1815d7acec56bb89d50945cfbae6b53d664768e96",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Accumulation schedule for restricted surplus reserves",
+          "bodySha256": "53c051472235e1bcd56c6c23e20f60afd865d136541253d079e7a62899d159ce",
+          "reviewNote": "Verified sub 1: Requires accumulation of 2% reserves up to $150,000 phased in by 1990, 1992, and 1994, plus uncovered expense claim reserves."
+        },
+        {
+          "number": 2,
+          "title": "Exemption for government-funded dental plan corporations",
+          "bodySha256": "7d937361f2980f58d5f6fd8f7e956869992b30513fb707c3afad66b79f296762",
+          "reviewNote": "Verified sub 2: Reserve requirements exempt for prepaid dental corporations funded by federal, state, or municipal governments."
+        },
+        {
+          "number": 3,
+          "title": "Five-year surplus phase-in for preexisting plans",
+          "bodySha256": "00db8ff6339fde9a0ef09d2c10f8a3692cb0f6709ab072a006a031a8fa41018b",
+          "reviewNote": "Verified sub 3: Preexisting plans given five years from January 1, 1987 to meet surplus standards; assets must exceed liabilities."
+        },
+        {
+          "number": 4,
+          "title": "Low-income provider plan exemption",
+          "bodySha256": "510a64437aa1c9f2ee0c86c8adc673cc751aee93e1019a6303aab0e52527d49d",
+          "reviewNote": "Verified sub 4: Reserves and fidelity bond requirements exempt for provider-operated plans serving low-income patients before August 28, 1987."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.710 (bid 19142), all 4 subsection(s) with subdivisions and source notes. Verified all four subsections and history (L. 1987–1997): 2% restricted-surplus reserve up to $150k (1990/1992/1994 phase-in) plus uncovered-expense reserve, government-funded exemption, 5-year surplus phase-in for pre-1987 plans, and low-income provider plan exemption (pre-Aug. 28, 1987)."
+    },
+    {
+      "id": "354.712:19143",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.712&bid=19143",
+      "sourceSha256": "bca721ccb5ed7c9cb6181116be975c210e85573c387e2227db188f1164824d77",
+      "textSha256": "d40b1479743bcdbab873daceaee7e5f9190a62f6c61f44276ba0829a1c3fcd27",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Contract or certificate delivery to enrollees",
+          "bodySha256": "36a974f79f2ddb6722997e9c8c8dc57694d612c9c1d7d474d0807ca5f29630d4",
+          "reviewNote": "Verified sub 1: Enrollee entitlement to contract or group certificate detailing covered prepaid dental benefits."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory newborn child coverage and birth notification",
+          "bodySha256": "c33f9d3d4169f7288ec2d5935d002b00dd34228ed53e6e16a2c919a892488416",
+          "reviewNote": "Verified sub 2: Family coverage must include newborns from birth; 31-day notification and payment window for ongoing newborn coverage."
+        },
+        {
+          "number": 3,
+          "title": "Prior filing requirement for contract forms",
+          "bodySha256": "7be2c602e3b1d7b173ed807137ece00da87879d390d40b30c41493ea4ec77348",
+          "reviewNote": "Verified sub 3: Contracts, certificates, and amendments must be filed with director prior to issuance or delivery."
+        },
+        {
+          "number": 4,
+          "title": "Mandatory provisions in enrollee contracts",
+          "bodySha256": "cf2bf0ac486ded9c4b7d3d41bc1c435fabcb9c707981d0605b3e2a60aa7377b4",
+          "reviewNote": "Verified sub 4: Contracts must specify covered benefits, deductibles, co-payments, access methods, and enrollee fee obligations."
+        },
+        {
+          "number": 5,
+          "title": "Prohibition against deceptive or misleading statements",
+          "bodySha256": "e3742e5f2b8caf49d0b52f287d1d8453ffec2a1ac9a6dfb6ad9b83df0dc2060e",
+          "reviewNote": "Verified sub 5: Enrollee contracts, advertising, and sales materials prohibited from containing deceptive or misleading terms."
+        },
+        {
+          "number": 6,
+          "title": "Director approval, 30-day deemed approval, and hearings",
+          "bodySha256": "a3b7c20757c45e20ca98b46743e4b8cc7be01659a4d40be65490600dbc7c5560",
+          "reviewNote": "Verified sub 6: Mandatory director approval; deemed approval after thirty days; written disapproval and hearing rights."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.712 (bid 19143), all 6 subsection(s) with subdivisions and source notes. Verified all six subsections with subdivisions (1)-(4) and source note (L. 1987 S.B. 272 § 7): enrollee contract/certificate, newborn coverage from birth with 31-day notice/payment window, prior filing, required terms, anti-deception rule, and 30-day deemed approval/15-day disapproval hearing."
+    },
+    {
+      "id": "354.715:19144",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.715&bid=19144",
+      "sourceSha256": "00a0119631ba6c6e2d4d8be82c3f2a8adac5292ccf972f2aef7fa90fcba6775a",
+      "textSha256": "6583753980d5e94872c5b53cdd0aa1766e3c6682b9b2b6743d96c090fea8ef28",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written contracts with dental care providers",
+          "bodySha256": "11ece72891c2278220da2a1fe52049410e0ab901e56c78dfe6113cbc5fc88eee",
+          "reviewNote": "Verified sub 1: Agreements between prepaid dental corporations and participating dentists must be in writing."
+        },
+        {
+          "number": 2,
+          "title": "Enrollee complaint mediation and peer review procedures",
+          "bodySha256": "e2bb3985d1d85d7e2c91dd46ece45ece74dbaf7ddac20cd9606017c8ed64c875",
+          "reviewNote": "Verified sub 2: Corporation must maintain complaint review procedures or utilize dental society peer review committees."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.715 (bid 19144), all 2 subsection(s) with subdivisions and source notes. Verified both subsections and source note (L. 1987 S.B. 272 § 8): written provider contracts and enrollee quality-of-care complaint review/mediation or dental-society peer review committee option."
+    },
+    {
+      "id": "354.717:19145",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.717&bid=19145",
+      "sourceSha256": "5a17e9fa053206f85db0535b84da57e344e1da845f2ea03ef5aa87811cd0a205",
+      "textSha256": "1730fef39f6fb56019a84cc2cbe678c602cf0fa4eb117df0523ca0c0696c05ea",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Discretionary examination of dental plan corporations",
+          "bodySha256": "44a360b2e62c42aa5fdb1dc62f8c986d9a1c7837a740996b708a613c257c1ce2",
+          "reviewNote": "Verified sub 1: Director authority to examine financial condition, affairs, and management of prepaid dental corporations."
+        },
+        {
+          "number": 2,
+          "title": "Compulsory testimony and examination under oath",
+          "bodySha256": "51ab5afa77bed1e33713162d91f427c7eae9ca200fe1eb919561ad3ce1ca81d0",
+          "reviewNote": "Verified sub 2: Authority to summon officers and employees, administer oaths, and compel production of books and records."
+        },
+        {
+          "number": 3,
+          "title": "Assessment and direct payment of examination expenses",
+          "bodySha256": "08ffbec79d4ee42a4d8b6baa56debd6deb3a605326f87653b86fa1d134ab5520",
+          "reviewNote": "Verified sub 3: Examination expenses assessed against corporation and paid directly to persons rendering services."
+        },
+        {
+          "number": 4,
+          "title": "Acceptance of out-of-state examination reports",
+          "bodySha256": "facf9ef7996705bd7c2ecbdb474a0ae2b50e6a1e35963936a76d650ead38bbde",
+          "reviewNote": "Verified sub 4: Director may accept certified examination report from examining official of another state or jurisdiction."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.717 (bid 19145), all 4 subsection(s) with subdivisions and source notes. Verified all four subsections and source note (L. 1987 S.B. 272 § 9): permissive financial/affairs examination, oath/subpoena powers, direct payment of assessed expenses, and permissive acceptance of out-of-state examination reports."
+    },
+    {
+      "id": "354.720:19146",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.720&bid=19146",
+      "sourceSha256": "6448ebb99668cca30945fb7944b31c1f90e1ee0ad2e8e1104eef98b068b8e947",
+      "textSha256": "0a5432e1865f913b345fe3497b0425511853da483a09ca14768d70eb1c97f2c0",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual report filing deadline and officer verification",
+          "bodySha256": "f0ca419046c872b794c4197355b4a94350dc6b500cf05cc59a3f7b3a7985fcba",
+          "reviewNote": "Verified sub 1: Annual report covering preceding calendar year filed with director by March 1, verified by two principal officers."
+        },
+        {
+          "number": 2,
+          "title": "Prescribed contents of annual report",
+          "bodySha256": "9e259df0cabea1e75621694e70bf85168ec5af9019d95dbb527a55b3d99cb331",
+          "reviewNote": "Verified sub 2: Report must contain financial statements, balance sheet, material changes, and enrollment and termination totals."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.720 (bid 19146), all 2 subsection(s) with subdivisions and source notes. Verified both subsections with subdivisions (1)-(3) and source note (L. 1987 S.B. 272 § 10): March 1 annual report verified by two principal officers and three required content categories."
+    },
+    {
+      "id": "354.721:19147",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.721&bid=19147",
+      "sourceSha256": "258d5c55766cbbd2095558e6aa680a2b3abb9b4f22c81bef323e661488d264f8",
+      "textSha256": "96ed79bb49552dcedcc1713790a56b15ba0b939e62d9d1d3039d6a94bf5caf04",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Registration of dental plan solicitors and agents",
+          "bodySha256": "72d5efa5e0b8df345f26d249eece15c63c47c0275190d1429e2fb3e98829cc5f",
+          "reviewNote": "Verified sub 1: Prepaid dental corporations must register names of soliciting agents with director within thirty days after September 28, 1987."
+        },
+        {
+          "number": 2,
+          "title": "Rulemaking on agent licensing and revocation",
+          "bodySha256": "93707c311034b6113377970f64bc76e7e028ca98fb3c879d667458011ad49556",
+          "reviewNote": "Verified sub 2: Director rulemaking authority, after notice and hearing, for licensing, termination, and revocation of dental plan agents."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.721 (bid 19147), all 2 subsection(s) with subdivisions and source notes. Verified both subsections and source note (L. 1987 S.B. 272 § 11): agent registration within 30 days after Sept. 28, 1987 and permissive agent-licensing/revocation rulemaking after notice and hearing."
+    },
+    {
+      "id": "354.722:19148",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=354.722&bid=19148",
+      "sourceSha256": "6aa942aa5d3d19bb933167404f6334b385d93cf714876bb4e6f646cd8571d8b1",
+      "textSha256": "176d116cfba902f214b638fe46ae1958410a135a80448aedf1084ffeea11d0b1",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Grounds for certificate suspension or revocation",
+          "bodySha256": "f966ed362d316159817ee23c2a2c2dd6d7311533c55c1b823da603e30ca11fd4",
+          "reviewNote": "Verified sub 1: Five statutory grounds including charter violation, financial unsoundness, deceptive advertising, and hazard to enrollees."
+        },
+        {
+          "number": 2,
+          "title": "Administrative orders, level two penalties, and revocation",
+          "bodySha256": "83741152545c586d660dbdbd736219d791be55bca6ca5c078101096e3cbd5600",
+          "reviewNote": "Revised title to include revocation. Verified sub 2 (catchline mentions civil suit, omitted in body): director 'may' issue § 374.046 orders (level two under § 374.049) and may suspend or revoke certificate for willful violations."
+        },
+        {
+          "number": 3,
+          "title": "Restrictions on new enrollment and advertising during suspension",
+          "bodySha256": "7d151549e9c5a1f332b540d0eb3c0fde1ac21b408d9f87a32413d4791aadf4c5",
+          "reviewNote": "Verified sub 3: Enrolling new members (except newborns/dependents) and advertising or solicitation prohibited during suspension."
+        },
+        {
+          "number": 4,
+          "title": "Winding up of affairs upon certificate revocation",
+          "bodySha256": "5dcb13c043ec18b6d57ef25398b60b32381dfebe453911c4aba67991865d1e5c",
+          "reviewNote": "Verified sub 4: Corporation must wind up affairs and cease business operations and advertising upon order of revocation."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 354.722 (bid 19148), all 4 subsection(s) with subdivisions and source notes. Verified all four subsections with subdivisions (1)-(5) and history (L. 1987, A.L. 2007 S.B. 66). Noted catchline mentions 'civil suit authorized' while body covers only § 374.046 administrative orders and suspension/revocation; revised sub 2 title to include willful-violation revocation."
+    }
+  ]
+}

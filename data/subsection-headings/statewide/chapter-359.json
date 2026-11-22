@@ -1,0 +1,731 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "359.031:19422",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.031&bid=19422",
+      "sourceSha256": "233789090d0eca7c13ccaa4207fc6d7e881ba667554b97bc3639644fedbee6ca",
+      "textSha256": "1c09fa7fe6b45fa7aa579e9072c4e36a511153b1dbd471309e060ae6cce4006e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Persons eligible to reserve limited partnership name",
+          "bodySha256": "c533b5b7db9591b3aca9eb70c804bab1fd1f6b841c085684a7e9b6d484878497",
+          "reviewNote": "Specifies entities and persons entitled to reserve limited partnership name."
+        },
+        {
+          "number": 2,
+          "title": "Application procedure, duration, and transfer of reserved name",
+          "bodySha256": "0bcc35381bdfee6c78b0f80c1ae3a24110a29d808209da9727967326585acdd2",
+          "reviewNote": "Governs reservation filing, 60-day period up to 180-day maximum, and notice of transfer."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1985, 2004); LP name reservation eligibility, § 417.210 check, 60-day/180-day cap, and transfer verified."
+    },
+    {
+      "id": "359.041:19423",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.041&bid=19423",
+      "sourceSha256": "bd3e347b5b7009a0af224a461dbf41f2c13c58f06acdd64716defbe52e418108",
+      "textSha256": "da48d0134727e1950af0c8716b42f3337ef5cd076b5522e2163d1f3c0d1d527f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Maintenance of registered office and agent",
+          "bodySha256": "d6e6b6dd844f48b905e6f14dcc654a44297b0fd7232c41f8f4bf352c5d97b18c",
+          "reviewNote": "Requires continuous maintenance of registered office and registered agent in Missouri."
+        },
+        {
+          "number": 2,
+          "title": "Statement of change of registered office or agent",
+          "bodySha256": "0f60815ca0ed2590e8d2451666fd2eef8a05d073d953abaa4eabc8483a03a4d4",
+          "reviewNote": "Specifies contents of statement to change registered office address or registered agent."
+        },
+        {
+          "number": 3,
+          "title": "Execution and delivery of statement of change",
+          "bodySha256": "af517b1d0be566429ef405fa045044146e372c3c4e705217f9ebc385fe42c9d2",
+          "reviewNote": "Requires general partner execution under penalty of perjury and delivery in duplicate."
+        },
+        {
+          "number": 4,
+          "title": "Effective date of change and deemed county residence",
+          "bodySha256": "c21d01fc6b70a8992a542dcbb5ca4ea74a4789085dcd2724399b015295d08d8b",
+          "reviewNote": "Sets effective date upon filing and deems partnership residence in county of registered office."
+        },
+        {
+          "number": 5,
+          "title": "Change of business address by registered agent",
+          "bodySha256": "4b2de0e46071608f1ab013e72f8bf1f05ced1d57e4eb2297cbe3addda397f810",
+          "reviewNote": "Authorizes registered agent to change registered office address by statement after notice."
+        },
+        {
+          "number": 6,
+          "title": "Secretary of state as service agent upon default",
+          "bodySha256": "c86cd9ca6df78472b5a55437967f49afbdbd3659b313ca42476801ed8cca2c89",
+          "reviewNote": "Appoints secretary of state as automatic agent for service upon default."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1985–2004); tightened subsection 6 title; continuous office/agent maintenance, § 575.040 affirmation, agent address change, and default service rules verified."
+    },
+    {
+      "id": "359.051:19424",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.051&bid=19424",
+      "sourceSha256": "495862f118f59cd67174969c7439f20527bc9bae5d3ee13b2dfa4213e1ed5989",
+      "textSha256": "d2115e675ec61a458841366521a8fa2f647052e57d95a8cdbf1ce006b455c383",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Records required to be kept",
+          "bodySha256": "9d65658ba63d2b7bf52b6dad772036079436e1e8f91db5a2970fb1eac58e7b5b",
+          "reviewNote": "Lists records each limited partnership must keep, including partner lists, certificates, three-year tax and financial records, and contribution writings."
+        },
+        {
+          "number": 2,
+          "title": "Partner inspection rights and secretary of state demand",
+          "bodySha256": "65419da5949988928fa52db971984a9c2033557056b21e1086b91f1faecc0bf3",
+          "reviewNote": "Subjects records to partner inspection and authorizes secretary of state request for partner lists."
+        },
+        {
+          "number": 3,
+          "title": "Sanctions for failure to deliver partner list",
+          "bodySha256": "496faccc9738554c15efe458b46c9b1ede55bd578c093db2b4661e1da4a364e8",
+          "reviewNote": "Subjects a general partner to possible $50/day civil penalty up to $10,000 and class A misdemeanor prosecution for failing to deliver partner list within 20 days of written demand."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1985, 1990); corrected subsection 1 title to remove unstated 'at registered office' location; inspection, demand, and 20-day general partner sanctions verified."
+    },
+    {
+      "id": "359.091:19428",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.091&bid=19428",
+      "sourceSha256": "cc5ad0aa723160db5f598831ad2b9feb6826e2cf709ecadd2a5d89b0065dace8",
+      "textSha256": "1881220b3d1adee224617e79873cf8ef37749cca9e9a8d27bd7a648b2189fe5c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Contents of certificate of limited partnership",
+          "bodySha256": "a893536258906c16940043475ac5b3bea7653a2131ebf8ab551f603ff6afd379",
+          "reviewNote": "Specifies required contents including name, registered office, general partners, and duration."
+        },
+        {
+          "number": 2,
+          "title": "Formation date upon filing or specified time",
+          "bodySha256": "41b844371acfa2819b153757d831660d5afa832e792427bdc9f130146d9a10cb",
+          "reviewNote": "Sets formation upon filing with secretary of state or any other specified time if substantial compliance is met."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1985–2000); certificate contents and formation timing upon substantial compliance verified."
+    },
+    {
+      "id": "359.101:19429",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.101&bid=19429",
+      "sourceSha256": "eb98ffa2174210950cf71bfecf4e557fa60a13bca2f7128c610291767ce60fc2",
+      "textSha256": "98f1b6ec92277597c25fa32f6c093b562cecca7ff74bba9436a2487da9d0e013",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Contents of certificate of amendment",
+          "bodySha256": "51e8009fea26b0d1442cc2de59f0bce1f5ced321bd3b2a84bc2a9e3b12b76ac1",
+          "reviewNote": "Specifies required contents of certificate of amendment filed with secretary of state."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory amendment within thirty days",
+          "bodySha256": "2a62687265595e9723faedd3ed8dbb302505f9cbc8e67b93ca25d6340a922b8a",
+          "reviewNote": "Requires amendment within thirty days for admission or withdrawal of general partner or continuation."
+        },
+        {
+          "number": 3,
+          "title": "Duty to promptly correct false or changed statements",
+          "bodySha256": "53c3e5abd53eaea7b6fe0eb5aefc42062d360054fb959ad3d18599f1eea23819",
+          "reviewNote": "Imposes affirmative duty on general partner to amend inaccurate certificate promptly."
+        },
+        {
+          "number": 4,
+          "title": "Permissive amendments for proper purposes",
+          "bodySha256": "9115157f5dafd606699d192c8ff22509a60c1f36e2ea43a8ccd2321f20c31990",
+          "reviewNote": "Authorizes amendment at any time for proper purposes determined by partners."
+        },
+        {
+          "number": 5,
+          "title": "Safe harbor for amendments filed within thirty days",
+          "bodySha256": "25bb1b443cc392b37f2d1fc2e2497f36c96d9663661078bacf26913ca8d93fd3",
+          "reviewNote": "Shields persons from liability if mandatory amendment is filed within thirty days."
+        },
+        {
+          "number": 6,
+          "title": "Restated certificate of limited partnership",
+          "bodySha256": "cf82a5b50f96d22301b95bedc9300475d940987be52c6db48f5fc0e41e8421bf",
+          "reviewNote": "Authorizes execution and filing of restated certificate in same manner as amendment."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1985, 1990); amendment contents, 30-day mandatory events and safe harbor, prompt correction duty, permissive amendments, and restated certificates verified."
+    },
+    {
+      "id": "359.121:19431",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.121&bid=19431",
+      "sourceSha256": "911a04d23672863a47f1177b30de72d11afca21a9ed6ab129535a69e7c515fa6",
+      "textSha256": "c60fdcd86eda7867eeddce81ab6a7e97aad448dbd596e47d1a3b6c322df6a01e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Execution requirements for certificates",
+          "bodySha256": "613e103698c7cb6ca021a80d723d36309d9080e552fd29738c287f2536d66052",
+          "reviewNote": "Specifies signing requirements for original, amendment, and cancellation certificates."
+        },
+        {
+          "number": 2,
+          "title": "Signature by attorney-in-fact",
+          "bodySha256": "36826d0ae796500c6e4385e6efcde3036e042367bdd74469bdcba8ace0503c09",
+          "reviewNote": "Authorizes signature by attorney-in-fact with specific description for general partner admission."
+        },
+        {
+          "number": 3,
+          "title": "Affirmation of truth under statutory penalties",
+          "bodySha256": "2c10f3d1fcc8b081491a7d31b65a3bd9472f66ad5cd8eb94760c66867d19568c",
+          "reviewNote": "Deems general partner execution an affirmation of truth under section 575.040."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1985–2004); certificate signing requirements, attorney-in-fact execution, and § 575.040 affirmation verified."
+    },
+    {
+      "id": "359.141:19433",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.141&bid=19433",
+      "sourceSha256": "4404ed1c287f4a20830ac8800480ad27c2ae30b5a9de5cc37482c283765423ee",
+      "textSha256": "4c74a60fee947e389648330b5fc919940340bb5e5bb74c7e48c1815db3591096",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Filing procedure and duties of secretary of state",
+          "bodySha256": "ac8d76846159175206e9415680a98a3de53112b127132299d1ef1e8fc282383d",
+          "reviewNote": "Specifies delivery, endorsement, filing of original, and return of copy."
+        },
+        {
+          "number": 2,
+          "title": "Effective date of amendment or cancellation",
+          "bodySha256": "715a9b6ac0788062542ca10cbe7d291696d0fcffb059934c9396cefc42b05b1f",
+          "reviewNote": "Governs effective date upon filing or delayed date up to ninety days after filing."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1985, 2004); secretary of state filing duties and effective date (up to 90-day delay) verified."
+    },
+    {
+      "id": "359.145:19434",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.145&bid=19434",
+      "sourceSha256": "e37d1f82b1e6ce6f0d4eb6dd620d94ff5824b098944190088ec77a85b548d882",
+      "textSha256": "13b79661f63df24ab6cd548f290dc89ec004fae37f6a1ebfbe87a5d116a1fb2e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Statement of correction authorized",
+          "bodySha256": "539ed5d1e1ea1c2c89c008c1e471b50fcbb89b164f7267cfd3307085d717fcbc",
+          "reviewNote": "Authorizes filing statement of correction for documents containing incorrect statements."
+        },
+        {
+          "number": 2,
+          "title": "Contents of statement of correction",
+          "bodySha256": "43a9e7019e8e4bdaa350330642a1c969334d566cd77b92ee1df805d23857f9cb",
+          "reviewNote": "Specifies required contents, reasons, and foreign existence certificate where name corrected."
+        },
+        {
+          "number": 3,
+          "title": "Effective date of statement of correction",
+          "bodySha256": "aa3c95b4ce45bf4bf0e3922b9d83ebd719452d9e066fb224e9a02b47f2bb1da5",
+          "reviewNote": "Provides 'articles of correction' (source wording) relate back to original effective date except as to adversely affected relying persons."
+        },
+        {
+          "number": 4,
+          "title": "Filing fee for statement of correction",
+          "bodySha256": "14b625ba811b186359f4ce07ee6a90d27620381a7f5680727f395f78c95a7450",
+          "reviewNote": "Establishes five-dollar filing fee collected by secretary of state."
+        },
+        {
+          "number": 5,
+          "title": "Execution of statement of correction",
+          "bodySha256": "92af6f9d615edb87ad1cd05fbac81ac6e33266246a1721510e01c608941c0b34",
+          "reviewNote": "Requires execution by an authorized person (source text verbatim reads 'limited liability partnership' within this chapter 359 section)."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and 2004 source note; statement of correction rules and $5 fee verified (verbatim 'articles of correction' in sub 3 and 'limited liability partnership' in sub 5 noted)."
+    },
+    {
+      "id": "359.165:19437",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.165&bid=19437",
+      "sourceSha256": "24b8961f26df21912aa535e11b3eed0a127b9c542a78bbff8a314605a4e2f888",
+      "textSha256": "4cfa10f7a4fe552e1c65d1e58d33d1b7b6c942b487fa7124de118e5bbb1cf3f7",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorization for merger or consolidation",
+          "bodySha256": "407be7845601c4b4a91e20aa606cd472e50ec34d4b0183ffe71a035794d127f9",
+          "reviewNote": "Authorizes domestic limited partnership to merge or consolidate with limited partnerships or other entities."
+        },
+        {
+          "number": 2,
+          "title": "Partner approval required for merger agreement",
+          "bodySha256": "0f0dcb9c7e2c2d30e78a60a66239e1466260d64e1b6f819f41cb9fc95b5eef2c",
+          "reviewNote": "Establishes required percentage of general and limited partners to approve merger agreement."
+        },
+        {
+          "number": 3,
+          "title": "Articles of merger or consolidation contents",
+          "bodySha256": "cb2a21e086140f5c766bcd9701d3acdb233ddad0af954c81ee0d190a2ba506e3",
+          "reviewNote": "Specifies required terms and disclosures in articles of merger or consolidation."
+        },
+        {
+          "number": 4,
+          "title": "Execution of certificate of merger or consolidation",
+          "bodySha256": "568a97ef39884786dc6936848ef153175aa3411513c8d907197ae5edf1d01049",
+          "reviewNote": "Requires execution of the 'certificate of merger or consolidation' (source wording) by at least one general partner of each domestic LP and an authorized agent."
+        },
+        {
+          "number": 5,
+          "title": "Surviving domestic limited partnership certificate amendment",
+          "bodySha256": "dd66e3183703784dec6ca890f5d32d66ce26aca5414703d5b56633801be7190d",
+          "reviewNote": "Amends surviving certificate and cancels non-surviving domestic limited partnership certificates."
+        },
+        {
+          "number": 6,
+          "title": "Service of process for non-domestic surviving entity",
+          "bodySha256": "43eb6dedf7d6facabd824091c483a48db837e26f60ba9ad79c709b0d12538116",
+          "reviewNote": "Requires foreign surviving or resulting LP to attach irrevocable secretary of state service appointment and mailing address (source reads 'mailed ... to the secretary of state')."
+        },
+        {
+          "number": 7,
+          "title": "Vesting of rights, property, and assumption of liabilities",
+          "bodySha256": "14d61dc7e957c9b48e93e89c8950cc686ed6c1cee42cc1cb77c8adbc23e31242",
+          "reviewNote": "Vests property and causes of action in survivor while preserving creditor rights and liens."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1993–2003); domestic LP merger/consolidation rules verified (verbatim 'certificate' in sub 4 and 'to the secretary of state' wording in sub 6 noted)."
+    },
+    {
+      "id": "359.172:19438",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.172&bid=19438",
+      "sourceSha256": "2565a654a494a3a26fc9ccfc54dc7f8ce3d988140d1d4d185f62ed5bea79893a",
+      "textSha256": "b0f54dc802450adf7ff204e5636794d18ae9d96ea4097f8cbe87138ed97a3ce4",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Requirements to become and continue as registered LLLP",
+          "bodySha256": "174738135a004becf8a22376797c94addc815f03f58994a7da8d10b2014e2b4d",
+          "reviewNote": "Sets application, voting approval, chapter 358 compliance, and LLLP name designation."
+        },
+        {
+          "number": 2,
+          "title": "Execution and partner references for LLLP filings",
+          "bodySha256": "1393051beab46ea558c9c480a9a4e638a71c6f26ccf4c80af4bee475039ca916",
+          "reviewNote": "Requires general partner execution and restricts partner references to general partners."
+        },
+        {
+          "number": 3,
+          "title": "Limitation on partner liability",
+          "bodySha256": "b7e53205d73a6f71fb24f023cd3036eb9190fb52a4a5615e072cdeb42be7a84f",
+          "reviewNote": "Accords partners limited liability protections of chapter 358 registered LLPs."
+        },
+        {
+          "number": 4,
+          "title": "Name amendment, penalties, and administrative correction",
+          "bodySha256": "a9f035bee5bed0c98a9debebbaf99b937bbdc7381b272681e81af54d47307690",
+          "reviewNote": "Mandates name correction upon cessation, imposing monthly civil penalties and class B misdemeanor."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1997, 2004); LLLP qualification under §§ 358.440–358.501, liability shield, and 90-day cessation name-change penalties (§ 359.691 class B misdemeanor) verified."
+    },
+    {
+      "id": "359.181:19439",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.181&bid=19439",
+      "sourceSha256": "1c64db6f8e18d3f67351f87a53b7efd5f50d4dcba99c93a4b70e2e8347db209f",
+      "textSha256": "72e37996800f3903be3ab3c63eb8ad961e48b9033949bedaf73da2b13c8ee3f7",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Effective date of becoming a limited partner",
+          "bodySha256": "8521f94fec02d71062ac3c0abff6be5a4ab47cb332633dbd8eeff728793f8752",
+          "reviewNote": "Sets timing on filing original certificate or date stated in partnership records."
+        },
+        {
+          "number": 2,
+          "title": "Admission of additional limited partners",
+          "bodySha256": "8d6872dfab6876153bd7500f3a75f0caeb3d594818b168e47e1df75bbf10172d",
+          "reviewNote": "Governs admission directly from partnership or through assignee power under section 359.431."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1985, 1990); effective date of limited partner status and additional limited partner admission under § 359.431 verified."
+    },
+    {
+      "id": "359.211:19442",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.211&bid=19442",
+      "sourceSha256": "7eb0513c7b90443cc95aec1f939093d76c8eeacc82dbdc8d5c3c3a0cd1383e27",
+      "textSha256": "a51f19eca47300a7a6e75f2da51d7a28dc34485cf989610fee182943ecc5fb02",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Relief for person erroneously believing limited partner status",
+          "bodySha256": "5cb21526ed20caacc8330949146fa54e3df9c3d6d1bcd7b28184692b6d5e2fa3",
+          "reviewNote": "Relieves person from general partner liability upon corrective filing or certificate of withdrawal."
+        },
+        {
+          "number": 2,
+          "title": "Liability to third parties believing general partner status",
+          "bodySha256": "61cb2d1aff3375c36e8b5c1f786d5a86bd2853cefb91be7e5d8a1521917eed61",
+          "reviewNote": "Imposes general partner liability to third parties who actually believed in good faith the person was a general partner before withdrawal or corrective filing."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1985, 1990); tightened both titles and aligned subsection 2 note with statutory 'actually believed in good faith' standard."
+    },
+    {
+      "id": "359.251:19446",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.251&bid=19446",
+      "sourceSha256": "c5d68d712cb6a547074e550f15a924279073dabc07cdddd6178e41195c61d4e1",
+      "textSha256": "7d1274ff0a0b06a4efbbfa5af49c0217ca78a54fb19f3c4cd697ecae8a3a11a6",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Rights and powers of general partner",
+          "bodySha256": "cd764b6eceeacca6e0186d2b5da898f093aaedfd8568d843072096bcb08316bc",
+          "reviewNote": "Provides general partner has rights, powers, and restrictions of partner without limited partners."
+        },
+        {
+          "number": 2,
+          "title": "Liabilities of a general partner",
+          "bodySha256": "d330a5b98b08a87227568aeb52291f4b4faed920e0f34dd766d2b73ea4d57000",
+          "reviewNote": "Imposes general partner liabilities to third parties and to partnership and other partners."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and 1985 note (effective 1-01-87); tightened subsection 2 title; general partner rights, powers, restrictions, and liabilities verified."
+    },
+    {
+      "id": "359.291:19450",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.291&bid=19450",
+      "sourceSha256": "b44d94ad0994f05d75e00b27ba1a02480f30e8140a04daff8660c88971dc754a",
+      "textSha256": "de061d11c0a2519c8281a9dc469e7b2826cda63836e952fcaee84ecac7659e1b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Enforceability of promise to contribute",
+          "bodySha256": "efc2820997152e8688e02d317efcad98a27e8ee76ab2d02690eca43714de745c",
+          "reviewNote": "Requires signed writing for limited partner contribution promise to be enforceable."
+        },
+        {
+          "number": 2,
+          "title": "Obligation to contribute and cash substitute option",
+          "bodySha256": "ac6253e75ad966a9442c614718887a8c7334542c33eef4113974df333ae4c206",
+          "reviewNote": "Enforces contribution obligations despite death or disability and provides cash substitute option."
+        },
+        {
+          "number": 3,
+          "title": "Compromise of contribution obligation and creditor rights",
+          "bodySha256": "a1c5ad4a6944c8183c3b0101525bc54f4192adf2d583150d9682d3c335ac2fea",
+          "reviewNote": "Requires unanimous consent to compromise and preserves creditor enforcement rights."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1985, 1990); signed-writing requirement, contribution enforcement with cash substitute under § 359.051, and unanimous compromise with creditor reliance verified."
+    },
+    {
+      "id": "359.391:19460",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.391&bid=19460",
+      "sourceSha256": "f6207c60905d4d361570736a3406eb562c4ea469b4ace27a8f59e745d5610eea",
+      "textSha256": "2e2344357550738fd97cc0209ca1c09aec286a393d620481c2dec500688784a2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "One-year liability for rightful return of contribution",
+          "bodySha256": "5d710b2a10c7d7cd11ef143bc371c0f3a1b43020a5f256a08b9d2f028e968aef",
+          "reviewNote": "Imposes one-year liability for rightful return to discharge existing creditor claims."
+        },
+        {
+          "number": 2,
+          "title": "Six-year liability for wrongful return of contribution",
+          "bodySha256": "e5be3aeb8f09d6b7d50f6790bf66d9e5a67cdce875c40e4eedf6c044ac9678a1",
+          "reviewNote": "Imposes six-year liability for return received in violation of agreement or statute."
+        },
+        {
+          "number": 3,
+          "title": "Definition of return of contribution",
+          "bodySha256": "d6490be695c26a4582362ad2c7ef517af5c17c949ed17738b3a3205978397c00",
+          "reviewNote": "Defines return as distribution reducing share of net assets below unreturned value."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1985, 1990); one-year rightful return liability, six-year wrongful return liability, and return definition under § 359.051 verified."
+    },
+    {
+      "id": "359.431:19464",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.431&bid=19464",
+      "sourceSha256": "32b8502d2e18187743013893a839eca321a09e6d4a6a272d47f2edf8f5ad607d",
+      "textSha256": "e89f88d88adb077e98cb529279b58d2e5a0d3400d602dec0941339e665f9b337",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conditions for assignee to become limited partner",
+          "bodySha256": "671276191580a0948526efc22faa90ea78dafe5548b0aa01ed795510269d401e",
+          "reviewNote": "Authorizes assignee to become limited partner by agreement authority or unanimous consent."
+        },
+        {
+          "number": 2,
+          "title": "Rights, powers, restrictions, and liabilities of assignee",
+          "bodySha256": "7d0defcecd4bae6430ff33d61aff87b35ad9deed84a738f3d2f55242e0a259a3",
+          "reviewNote": "Grants assignee rights and liabilities of limited partner while exempting unknown liabilities."
+        },
+        {
+          "number": 3,
+          "title": "Non-release of assignor liability",
+          "bodySha256": "89500268c32e2eb423e63d95571674cc309958a5dba9e6a873177d951a7a8ef2",
+          "reviewNote": "Maintains assignor liability for false statements and required contributions."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1985, 1990); assignee admission as limited partner, assumed/excluded liabilities under § 359.391, and non-release of assignor under §§ 359.151 and 359.291 verified."
+    },
+    {
+      "id": "359.481:19469",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.481&bid=19469",
+      "sourceSha256": "3c211156b18ccf3c626f890c2f1fd7e0e1214d48683dbe8ee19960e772ae4376",
+      "textSha256": "52cb80f0f8c36725cfca4fb8bc877d6f40cd1db408bf8bceba454b3eb854246c",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Priority order for asset distribution upon winding up",
+          "bodySha256": "3edbb6b931389bfa97214dc868529c5405813cbab2cea8d6e5b3ebffd11d92cb",
+          "reviewNote": "Directs asset distribution priority to creditors, distribution debts, and partner contributions."
+        },
+        {
+          "number": 2,
+          "title": "Disposal of unknown claims by published notice",
+          "bodySha256": "92386134814ac189916fd6a0b3f148f42877a0e24dd3deefd8567a47fa2ceb72",
+          "reviewNote": "Permits disposing of unknown claims by filing and publishing a notice of winding up with a three-year bar (subdivision (1) verbatim reads 'corporation's principal office')."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1985, 2000); tightened subsection 1 title; winding-up priority under §§ 359.321/359.351 and unknown-claim published notice bar verified (verbatim 'corporation's principal office' in sub 2(1) noted)."
+    },
+    {
+      "id": "359.511:19472",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.511&bid=19472",
+      "sourceSha256": "ae32c552c6ee48df4c3f6ddf78643ea8abda1be5b66cbaa65cab6002e2f295ae",
+      "textSha256": "75b352442a390466c2d7a8194d6708238e9cfe69f74aba69a82a64988eb3222d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Duties of secretary of state upon registration application",
+          "bodySha256": "aec5d770ae8ea8fa32513de52497996e48a999a1a3ecaab539d824fe2818aba2",
+          "reviewNote": "Specifies endorsement, filing, and issuance of certificate of registration."
+        },
+        {
+          "number": 2,
+          "title": "Return of certificate of registration to filer",
+          "bodySha256": "f47738b6f17d55aa8a53ec1dd185d6cea5d68c435887d5df6e1c685acb319daf",
+          "reviewNote": "Directs return of certificate and copy to applicant or representative."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and 1985 note (effective 1-01-87); secretary of state endorsement, filing, and certificate return duties verified."
+    },
+    {
+      "id": "359.531:19474",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.531&bid=19474",
+      "sourceSha256": "e47d4679b7b8c9b8d23240bda8022ff8f66a687ecd9ba4b1608097c448905c57",
+      "textSha256": "3b379ac3de6152bc09434c97fdfdf004718d0f76def8b7978c88fc7403eb0dab",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory amended certificate of registration for foreign LP",
+          "bodySha256": "3cbd0b27d9896b187448762cef7611b4573c311eb8a446c0402eab698a5daf5b",
+          "reviewNote": "Requires amended certificate for changes in name, jurisdiction, offices, or general partner."
+        },
+        {
+          "number": 2,
+          "title": "Certificate of existence requirement",
+          "bodySha256": "e8c566e04948acc92a743a7b0ddf641716d189fc232c7d37723048efc77b5c42",
+          "reviewNote": "Requires authenticated certificate of existence dated within sixty days from home jurisdiction."
+        },
+        {
+          "number": 3,
+          "title": "Filing fee for amended certificate of registration",
+          "bodySha256": "14857f85b0794b5edf9ece5b15efc2f98fb2895987389a6c3ff38843f73bd79d",
+          "reviewNote": "Establishes twenty-dollar filing fee for amended foreign certificate."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1985, 2004); foreign LP mandatory amended registration, 60-day certificate of existence, and $20 fee verified."
+    },
+    {
+      "id": "359.551:19476",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.551&bid=19476",
+      "sourceSha256": "10a58ea14fc4c3a71aff8fdea52bb93a260609cc5e3a75719ed7035a5ce0656d",
+      "textSha256": "f3b99f77a5e1a17fe912cd08e490d6b44efc6f8deefd48ae419ddc50a10babca",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Fine, prosecutor referral, and court action bar",
+          "bodySha256": "cd7b1cac1cb38ed5a0ce99130139afe1b793d4a07a66903084954b0fb14225d9",
+          "reviewNote": "Imposes fine of not less than $1,000, secretary of state referral after August 1 to prosecuting attorney, and bar on maintaining Missouri court actions while noncompliant."
+        },
+        {
+          "number": 2,
+          "title": "Validity of contracts and right to defend suits",
+          "bodySha256": "91a82e4c72a97cbaa73ded9eeaed59633279b071f1d8e82c411f4ef362be8370",
+          "reviewNote": "Preserves validity of contracts and permits defending suits despite failure to register."
+        },
+        {
+          "number": 3,
+          "title": "Limited partner liability protection preserved",
+          "bodySha256": "7442109afe0b2b00288ca4245fa3555782873f6896bc79b15c850eaf487fcd3f",
+          "reviewNote": "Protects limited partners from general partner liability solely for transacting business without registration."
+        },
+        {
+          "number": 4,
+          "title": "Personal jurisdiction under long-arm statute",
+          "bodySha256": "b2d55eeb5c2c60c55c7338847e978bb02294faa5103b66b354521a6e5bb6d096",
+          "reviewNote": "Subjects unregistered foreign LP to personal jurisdiction under sections 506.500 to 506.520."
+        },
+        {
+          "number": 5,
+          "title": "Activities not constituting transacting business",
+          "bodySha256": "3fbed544c293188a8a1ce0b69c1c65dbfb650d765c992e845a7a3eabe6a311f7",
+          "reviewNote": "Lists non-transacting activities including lawsuits, meetings, bank accounts, and isolated transactions."
+        },
+        {
+          "number": 6,
+          "title": "Foreign corporate partner status",
+          "bodySha256": "c0ddeb17afac5fc37b47bacdef3eb9db541f8b3e13630a1ab136ed700191e38d",
+          "reviewNote": "Clarifies a foreign corporation under § 351.015 is not transacting business for § 351.570 solely by being a partner of a limited partnership."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1985, 1990); tightened subsection 1 title and corrected notes on 'not less than' $1,000 fine and subsection 6 applying to a foreign corporation that is a 'partner' (not only limited partner)."
+    },
+    {
+      "id": "359.641:19485",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.641&bid=19485",
+      "sourceSha256": "70282deec4d7dd09282da982d584649b91f08f4d9a01cfc1d824a3e2dfd8d74f",
+      "textSha256": "60947238a33de16a03529b8df4faad3808e421cb4de7e09ace1aa6992346003f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application to post-1987 domestic and foreign partnerships",
+          "bodySha256": "b81707cc37d45542ac55bc33fd3f02e4edcf07ec1ed851eec4582c3073a2d33a",
+          "reviewNote": "Applies the act (1985 H.B. 512 & 650 per asterisk note) to domestic LPs formed on or after and foreign LPs doing business after January 1, 1987."
+        },
+        {
+          "number": 2,
+          "title": "Election period for pre-1987 domestic limited partnerships",
+          "bodySha256": "4073b82588e7191e3fa072da62bc66642f79145e5221ae8c63004e3ef862dc22",
+          "reviewNote": "Gives pre-1987 domestic LPs until January 1, 1989 to elect governance under the act or face § 359.691 sanctions."
+        },
+        {
+          "number": 3,
+          "title": "Filing procedure and fee for pre-1987 electing partnerships",
+          "bodySha256": "3784bd16e1b2c9f30e83d3bbadf58ec987b68bfdaf96fb54c6b5fe7b58191d57",
+          "reviewNote": "Specifies certificate filing requirements and fifty-dollar fee for electing pre-1987 partnerships."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text, 1985 effective date (1-01-87), and asterisk note on 'this act' (H.B. 512 & 650, 1985); tightened subsection 1 title; pre-1987 election deadline (1-01-89), § 359.691 sanctions, and $50 fee verified."
+    },
+    {
+      "id": "359.651:19486",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=359.651&bid=19486",
+      "sourceSha256": "30a217a38f4b05ede73c4cbfb4c0cc7ee9bcd29106163ce689681f9041f39ef4",
+      "textSha256": "ce7393bfad06d5f1dacf9b76fce5680671f3a4aa7267bfee5ef304bb60b7bf86",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Schedule of filing fees",
+          "bodySha256": "3cd498accd8da82c770914ceac89529bcc8692abb4cfc8150560171b7f274f08",
+          "reviewNote": "Sets fee schedule for certificates, foreign registration, amendments, cancellations, and lists."
+        },
+        {
+          "number": 2,
+          "title": "Military service fee waiver",
+          "bodySha256": "1f41a1ff6bb96bd545dbcf0956ead46e914b77145bb9c8573a3d9a13f76eb704",
+          "reviewNote": "Waives initial formation filing fee for active duty military or Missouri National Guard general partners."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_1",
+      "reviewedBy": "antigravity_swarm_reviewer_3",
+      "reviewSummary": "Checked against archived full text and history (1985–2014); filing fee schedule and active-duty/National Guard general partner fee waiver for subdivision (1) verified."
+    }
+  ]
+}
