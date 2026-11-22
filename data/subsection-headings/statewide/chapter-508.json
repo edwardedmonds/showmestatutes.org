@@ -1,0 +1,309 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "508.010:47727",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=508.010&bid=47727",
+      "sourceSha256": "65599ffba376a3adf49316d36884eb6b85e3d7cca0c850258bbf9acedec51049",
+      "textSha256": "7117dcca9afb451c1f53e6e69d7ab8d97a19bc4368c0c8d126dbf02e27f2baef",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of principal place of residence",
+          "bodySha256": "f2bde05ac6237c796c0af44a6b2f377908377a1663adb88a2626bcfd638a60b4",
+          "reviewNote": "Defines individual principal place of residence as a single county and establishes residence rules for corporations."
+        },
+        {
+          "number": 2,
+          "title": "Venue determination in nontort actions",
+          "bodySha256": "bbb4eb6adc392f3cc21a7f6720fcd7d9e37e982ff684d79103670585424ae16a",
+          "reviewNote": "Establishes county venue rules in actions lacking tort counts based on defendant residence and location of multiple defendants."
+        },
+        {
+          "number": 3,
+          "title": "Inclusion of health care malpractice claims in tort definition",
+          "bodySha256": "105e26430ebd4a41a52dd8cc77b8f3cd195d4f36fc0c0b548074f140d4af398b",
+          "reviewNote": "Broadens the statutory definition of tort to include medical and health care malpractice claims under chapter 538."
+        },
+        {
+          "number": 4,
+          "title": "Venue for tort actions with injury occurring within Missouri",
+          "bodySha256": "d7901667f95c80c8387efba19540b22516b1b914a326fcdaa02d241892464b15",
+          "reviewNote": "Mandates venue in the county where the plaintiff was first injured for tort actions occurring in Missouri."
+        },
+        {
+          "number": 5,
+          "title": "Venue for tort actions with injury occurring outside Missouri",
+          "bodySha256": "21c2911eaf231013e1cb60db47d09b43ad368eb803a9f3d5c1004a2c4b6d9d11",
+          "reviewNote": "Governs venue selection for tort actions when the plaintiff's first injury occurred outside the state of Missouri."
+        },
+        {
+          "number": 6,
+          "title": "Venue in civil actions commenced by counties",
+          "bodySha256": "b5f57575e0e050486aeab0af09d0f9c093b8578fcbcc54f09ecef3941e74b62a",
+          "reviewNote": "Regulates venue in suits where a county is plaintiff, permitting suit where defendants reside or where service is obtained."
+        },
+        {
+          "number": 7,
+          "title": "Statewide service of process from court of filing",
+          "bodySha256": "029add4be9a14d23c4c383b3b439de942d22de4e4489e73fc2c149fd5017e72d",
+          "reviewNote": "Authorizes court in which action is filed to issue process executable in any county throughout the state."
+        },
+        {
+          "number": 8,
+          "title": "First injury location in defamation and privacy actions",
+          "bodySha256": "b9f374df0b29355c5f606cdb75a46a343c1290053ee92e09cc0e4663f7b4fcbb",
+          "reviewNote": "Defines the location of first injury for defamation or invasion of privacy claims as the county where first published."
+        },
+        {
+          "number": 9,
+          "title": "Temporal determination of venue as of initial injury date",
+          "bodySha256": "3ff65abd880486362facc84331de7b49de1525cade35ea43f2f5dd0f8305b4fb",
+          "reviewNote": "Fixes the time for establishing proper venue as the date upon which the plaintiff sustained the first injury."
+        },
+        {
+          "number": 10,
+          "title": "Ninety-day deemed granted rule for improper venue motions",
+          "bodySha256": "3bb43528901d2d9f082ec91260fc7972dc47e5dbc64c918865a5cff6b0c86f4d",
+          "reviewNote": "Provides that improper venue motions to dismiss or transfer are deemed granted if not denied within ninety days absent written waiver."
+        },
+        {
+          "number": 11,
+          "title": "Location of injury in wrongful death and consortium claims",
+          "bodySha256": "a9e08a88c4aa44febaf4ea0388ce863c41c1d5744d18f4357f270cd3d3916a43",
+          "reviewNote": "Deems the injury location in wrongful death and loss of consortium actions to be where decedent or spouse was first injured."
+        },
+        {
+          "number": 12,
+          "title": "Applicability to for-profit and not-for-profit entities",
+          "bodySha256": "40dd3d8ad38243b134b28e570c446aa0264d0e58f4516bc94023af45bdd5bb1a",
+          "reviewNote": "Specifies that statutory venue rules apply equally regardless of whether a defendant is a for-profit or nonprofit entity."
+        },
+        {
+          "number": 13,
+          "title": "Transfer of venue upon unanimous written party agreement",
+          "bodySha256": "9f2bd227b7f5a6dcc614dd716bf4d4fa39bfba9bb3fbd6366a8ab49e7fee1a06",
+          "reviewNote": "Requires venue transfer to any county unanimously chosen by all parties by written agreement, with rules for added parties."
+        },
+        {
+          "number": 14,
+          "title": "Location of injury determined by exposure rather than manifestation",
+          "bodySha256": "d955798b35454c478d7cd7f8832b949c49255d157cbc37db4d587523d3da7c0a",
+          "reviewNote": "Clarifies that first injury occurs where trauma or exposure happened rather than where symptoms first manifested."
+        },
+        {
+          "number": 15,
+          "title": "Transfer of improper venue claims and dismissal without prejudice",
+          "bodySha256": "4acef6a3c118ab1dc17589a6e96d9bfa15d2eff733b1480e3ddaacfc3f37c80a",
+          "reviewNote": "Mandates transfer of misfiled claims to proper counties, or dismissal without prejudice if no proper Missouri venue exists."
+        },
+        {
+          "number": 16,
+          "title": "Mandatory appellate reversal for erroneous venue transfer denial",
+          "bodySha256": "dd5e876930e7303da17e324549382e7c80110ff3cb5f316a504fbd7edb4739cf",
+          "reviewNote": "Mandates appellate reversal of erroneous denials of venue transfer motions under section* 507.040, 507.050, or 508.010 (*\"sections\" in original rolls) without Rule 84.13(b) prejudice showing."
+        },
+        {
+          "number": 17,
+          "title": "Residency definitions for domestic and foreign insurance companies",
+          "bodySha256": "f6a63837c6aabd4bef6358b79c214d8cf4f83aa9f5470293688d0590515a24ad",
+          "reviewNote": "Deems domestic and foreign insurance companies to reside where their registered office is maintained, or in Cole County for foreign insurers without a Missouri registered office."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 17 subsections, original-rolls footnote (*\"sections\"), cross-references, and Heartland Title (500 S.W.3d 239) annotation; broadened subsection 17 title to include foreign insurers."
+    },
+    {
+      "id": "508.013:47711",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=508.013&bid=47711",
+      "sourceSha256": "8a4cfd7eb30aba10b9755ef8677a301fe6759a041acafe08615a644919e0c208",
+      "textSha256": "061f32c7314903b6bccd0cd2f40f080698063f66b7f6b228a2e6422b05e872e2",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Applicability date and grandfathering of pending trial settings",
+          "bodySha256": "0b7575ba9e209864bcf4537a2d6302fe5879e1772d8be9515d589d14bcc04436",
+          "reviewNote": "Sets February 13, 2019 applicability date for venue statutes and grandfathers certain pending cases set for trial by August 28, 2019."
+        },
+        {
+          "number": 2,
+          "title": "Proceeding in dismissed venue to prevent limitations bar in pending cases",
+          "bodySha256": "3954debc0b8c4f3cff13307601613b9730e1c005a2a9b1c647133f1ca947f997",
+          "reviewNote": "Allows pending actions dismissed for lack of Missouri venue to proceed in that venue if out-of-state claims would be time-barred."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on February 13, 2019 applicability, grandfathered trial settings, and proceeding in dismissed venue to avoid out-of-state limitations bars."
+    },
+    {
+      "id": "508.072:27412",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=508.072&bid=27412",
+      "sourceSha256": "fc8c23d52fb2d35c531ddf977564cf14d4190eaa5962c1a3cf5a60ba26d031ca",
+      "textSha256": "1d012cb61a0f16a21144c8b2070cdc472f54b9451f1cb79d067d4d554492285f",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Venue options for department of revenue bad check actions",
+          "bodySha256": "88be5b015c6eae30b46c0ff0aac62682242c9fb0a489cc7e01450bd6e06efe24",
+          "reviewNote": "Authorizes suits on bad checks written to the department of revenue in Cole County or the county of defendant's residence."
+        },
+        {
+          "number": 2,
+          "title": "Notice of statutory venue election to check issuers",
+          "bodySha256": "d59b19e26ac0c17b44d51679ba626ce4de2bb26b68b9aa8e707ee5e9aa2d3f52",
+          "reviewNote": "Requires prior notice of statutory venue selection to be provided to individuals issuing returned checks to the department."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on Cole County or residence venue for DOR bad-check suits (with 30-day cure period) and prior venue-election notice."
+    },
+    {
+      "id": "508.090:27414",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=508.090&bid=27414",
+      "sourceSha256": "47fd65ffde7f5660cbbd20350f0a5840c073f0f363597cda20976d9cc53e88bc",
+      "textSha256": "fc137ae7d02e6f28b82d373cbe96cf1fdbb865b1c2c7508b9d46b96a665cca7b",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Statutory grounds for judicial disqualification",
+          "bodySha256": "6351b19d7cf7b239ecd414733ad1102350f0c7f2b5bac510833d6a29ffdf8f02",
+          "reviewNote": "Enumerates grounds for disqualifying a judge of a court of record in a civil suit, including interest, prejudice, or relationship."
+        },
+        {
+          "number": 2,
+          "title": "Grounds for change of venue from county",
+          "bodySha256": "f6ba8be1e0a80cee1e1dad478576b49da52f42d82366cf518bf223941e30a331",
+          "reviewNote": "Identifies statutory grounds for awarding a change of venue from a county, including inhabitant prejudice or undue party influence."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections enumerating causes for judicial disqualification and county change of venue in civil suits."
+    },
+    {
+      "id": "508.140:27419",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=508.140&bid=27419",
+      "sourceSha256": "f156d20445a76006a38c891a65004e4e478651d5a6ffc64f4f89ef878ea39c15",
+      "textSha256": "b9dfbafd3f81128b6f4a1ff15dd0f817d5579a5f6dac367601c95cf284c4be76",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Judicial determination upon notice of venue change application",
+          "bodySha256": "00b80c40e8bbc15d57515aa06e8a3af045176e7983456593d5f0d68af32c6e2c",
+          "reviewNote": "Directs court action upon sufficient notice, requiring award of change of venue or assignment of another circuit judge."
+        },
+        {
+          "number": 2,
+          "title": "Venue removal for inhabitant prejudice in populous counties",
+          "bodySha256": "d1526a1c986aff692f90d8c10d7a9e4547d17b2416b082a1186a69bb1dcde929",
+          "reviewNote": "Requires courts in counties over 65,000 to hear evidence and determine inhabitant-prejudice venue applications on the merits when controverted by counter-affidavit."
+        },
+        {
+          "number": 3,
+          "title": "Inapplicability to special venire cases and nonapplying party rights",
+          "bodySha256": "f6739d474f5aac7379cc50223f011c0b8c8822bc0bbf930bf3f36982d89a58c9",
+          "reviewNote": "Exempts causes involving a special venire and grants an automatic change of venue to the non-applying party upon application."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections on judicial action after notice, evidentiary hearings on controverted prejudice in counties over 65,000 (corrected subsection 2 note), and special venire exception."
+    },
+    {
+      "id": "508.190:27424",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=508.190&bid=27424",
+      "sourceSha256": "c0d451e033e9463c8e6a67cc28c0e6fed78fb9e7405f9d3f781f01a17d3e2f43",
+      "textSha256": "f7642bb1c064994e717dddeae4121f04f2df808c94dd4e074603e71c064badb4",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Taxation of venue change expenses against applicant",
+          "bodySha256": "f55a7e7cc6e1f0665ed1a0db39fcf0f87520778dd6fb5c238e75987a9fb4b05b",
+          "reviewNote": "Taxes costs and expenses attending a change of venue against the applying party rather than in the general costs of suit."
+        },
+        {
+          "number": 2,
+          "title": "Transmittal of distributable court costs to transferee county",
+          "bodySha256": "d282760a8ee74b37237397ab812ee79ab3ce18f5141e91040f2467f9b967bf75",
+          "reviewNote": "Mandates that distributable court costs collected in a transferred case be paid to the county to which venue is transferred."
+        },
+        {
+          "number": 3,
+          "title": "Originating county liability for jury selection and service expenses",
+          "bodySha256": "1dacb23542632982d7f5a0dc38022b83bd1ace067a08e89e6393de2359e749f0",
+          "reviewNote": "Requires jury selection and service expenses under chapter 494 to be paid by the county in which the case was originally filed."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections on taxing venue change costs to applicant (or losing party on controverted prejudice), transferring county costs, and originating county jury expenses."
+    },
+    {
+      "id": "508.320:27429",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=508.320&bid=27429",
+      "sourceSha256": "1b5dc1d70336185354c8ee2667a95da50bdc258fc25f70fdc01bebcf8a27a713",
+      "textSha256": "c2c52966513be18afb47ca8119bfdc60a9542d8066c8bb6487d0cccc518e224b",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Grounds for change of venue from Marion County district two",
+          "bodySha256": "156439af9eeb41f6d84be59db0c2efb1ff57ba24aa877124e102e8b50b491f83",
+          "reviewNote": "Enumerates grounds for change of venue from district number 2 of the Marion County circuit court based on local prejudice or influence."
+        },
+        {
+          "number": 2,
+          "title": "Venue transfer to district one or other circuit court",
+          "bodySha256": "31323bad01a549b51b0ad1a7350cc46a699cab8c41e60bbd88f408e3fc8640f3",
+          "reviewNote": "Authorizes transfer of cases from district 2 to any circuit court, including district number 1 of the Marion County circuit court."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on change of venue from Marion County circuit court district number 2 based on Mason and Miller township prejudice or influence."
+    },
+    {
+      "id": "508.330:27430",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=508.330&bid=27430",
+      "sourceSha256": "abefa5ec41fa27699042be29b8abcfe4461e4e00c8d511c6f1b709ee155baa72",
+      "textSha256": "d54d70b4e7618f8946d552d04705318e29f154d7b5323025dbaf195d563b92d1",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority to award change of venue to Marion County district two",
+          "bodySha256": "10c1c7bb20417eb416ed37f48fd638bc5a335904b56dd9d2c250e90c1c99d853",
+          "reviewNote": "Authorizes any circuit court, including Marion County district 1, to award a change of venue to district number 2."
+        },
+        {
+          "number": 2,
+          "title": "Certification and transmittal from district one to district two",
+          "bodySha256": "8ed4c6f313fcb3002466ef23d1dad94c48ed4eafdac9986f2d7577372d7ba6a4",
+          "reviewNote": "Governs certification and transfer procedures when a change of venue is ordered from district 1 to district 2 in Marion County."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on awarding changes of venue to Marion County circuit court district number 2 and certification/transmittal from district number 1."
+    }
+  ]
+}

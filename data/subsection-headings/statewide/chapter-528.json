@@ -1,0 +1,427 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "528.020:28143",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=528.020&bid=28143",
+      "sourceSha256": "c8c8f005a685fb0177c228b495d5fb91dd4aa1257acd3749cc9a96c62ecbca6e",
+      "textSha256": "e70959e70607334b9fd2671589d1d6f4d694d24348d9d2f9a31c7c873039d40c",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Required parties and class representation of persons not in being",
+          "bodySha256": "4ddaee21df34db084e16ef1cfbb7839603d823157706a61d78131efededacf27",
+          "reviewNote": "Requires all vested and contingent estate holders in being to be made parties, applies class representation to bind persons not in being, and passes full title upon sale against both."
+        },
+        {
+          "number": 2,
+          "title": "Appointment of attorney for unrepresented persons not in being",
+          "bodySha256": "13593aee5e0b05568b1c1a47ea2ddbdfb748b0db0db6a0c7200a7ba1eb2a53ce",
+          "reviewNote": "Requires the court to appoint a disinterested attorney as friend of the court to represent and protect possible unrepresented persons not in being, who are then bound by the suit."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and history notes for 528.020. Corrected shifted subsection 2, which governs court appointment of a disinterested attorney (friend of the court) for unrepresented persons not in being rather than class representation (which is in subsection 1)."
+    },
+    {
+      "id": "528.400:28179",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=528.400&bid=28179",
+      "sourceSha256": "def730e4f5a7a5a8e7fb1b9b03825e4b51ee7fa105692c468bd05ac23984ff98",
+      "textSha256": "91affd8056ba6573d8f22796aa064cd20c35003aeeb8860fad00d5dc48695ad1",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Sheriff duty to collect purchase money, execute deed, and pay proceeds",
+          "bodySha256": "456a4335a6d8fb61a587ff8920f987d8058ce9d64a9a675ce2a9a15bf4e9bc47",
+          "reviewNote": "Directs the sheriff to take purchase-money notes and bonds, collect and pay over proceeds per court order, and execute, acknowledge, and record the partition deed barring parties and those claiming from them."
+        },
+        {
+          "number": 2,
+          "title": "Execution of deed by successor sheriff upon vacancy",
+          "bodySha256": "9dec5808a3e6787b06371367e0cc39a64e440a7ab8bbf72a0fee4cffa9efda93",
+          "reviewNote": "Requires the court, upon purchaser's application, to order the successor sheriff to execute and acknowledge the deed with full effect if the selling sheriff dies, is removed, or leaves the county before execution."
+        },
+        {
+          "number": 3,
+          "title": "Execution of partition deed to purchaser's assignee",
+          "bodySha256": "31d3b44ebd248d771e0d7a370a6bd50b26d789e52ea527c0b1d4e92cc629969a",
+          "reviewNote": "Requires the court, upon an assignee's application and unequivocal proof of sale and assignment after sale confirmation and before deed execution, to order the sheriff or successor to execute the deed to the assignee."
+        },
+        {
+          "number": 4,
+          "title": "Execution of partition deed to heirs upon purchaser's death",
+          "bodySha256": "77a656b38548e2d2ea546299988b341001532f3c9b6021c0be4e1681faa196f6",
+          "reviewNote": "Requires the court, upon proof of a purchaser's death before deed execution submitted by the widow, heirs, executor, or administrator, to order the sheriff or successor to execute the deed to the heirs subject to widow's dower."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all four subsections and history notes for 528.400. Replaced fabricated subsection 3 ('special commissioner') with actual text governing execution of the partition deed to a purchaser's assignee, and refined subsection 4 to match heirs subject to widow's dower."
+    },
+    {
+      "id": "528.600:28199",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=528.600&bid=28199",
+      "sourceSha256": "cdd4fcf0ea1f61dec0e9af5d70a8a1e7f0183ed54819251d680807f16478c372",
+      "textSha256": "a9315d89cd73e3ccbad0c0de267bd8cd7e530608d947b6279ad8222a63a17a98",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition on negotiable notes for deferred partition payments",
+          "bodySha256": "529077b0519464afeedbad679c8c5f0293d0a9301bd3375a1c6298ce4eeb4da1",
+          "reviewNote": "Prohibits the sheriff or commissioner from taking negotiable notes for deferred sums and requires notes to state on their face that they are given to the sheriff or commissioner as trustee in partition."
+        },
+        {
+          "number": 2,
+          "title": "Credit against purchase price for bidder owning adjudged interest",
+          "bodySha256": "71f7b27a637017dd54643744359ff1816fb808723f81f4f020f15c36a8a6c76d",
+          "reviewNote": "Directs the sheriff or commissioner selling an entire property to accept cash or acceptable instruments from a party with an adjudged § 528.160 interest for the difference between the bid and the value of that interest."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections, effective date (7-07-97), and cross-reference to § 528.160 for 528.600. Refined review notes to match trustee-in-partition notice on notes and payment of bid difference less adjudged interest."
+    },
+    {
+      "id": "528.700:47785",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=528.700&bid=47785",
+      "sourceSha256": "46014ec9d2b9b987f2c7dbbe62b643ff5e0e1624d78da7e5808cc831dcdab281",
+      "textSha256": "a4a546bbd1e7cfdac2e3339f47dc6c3008234aae9d5565e1d51b007b23a40381",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Short title of Save the Family Farm Act",
+          "bodySha256": "f084dbcd214c8f92022ce7c114db1be71194476ef9f41f87d2f1109f95ec6adb",
+          "reviewNote": "Designates sections 528.700 to 528.750 as the 'Save the Family Farm Act'."
+        },
+        {
+          "number": 2,
+          "title": "Definitions for Save the Family Farm Act",
+          "bodySha256": "c5b59ef82381f68301f981eb0597f832b6526e2129ffb9592bb9f9c3ea1aa4ff",
+          "reviewNote": "Defines ascendant, collateral, descendant, determination of value, heirs' property, partition by sale, partition in kind, record, and relative for sections 528.700 to 528.750."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and all nine defined terms for 528.700. Corrected subsection 2 title/note to remove 'cotenants' (not a defined term in the section)."
+    },
+    {
+      "id": "528.705:47786",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=528.705&bid=47786",
+      "sourceSha256": "cf2842df57c978accaa808116215e78a55e1ecdcae78ac1974dd6997263d9b85",
+      "textSha256": "82aab10e48e0bf7c8f235acbc34e87ae54c523f7fc6987be6c615f0610a4cc45",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Applicability to partition actions filed on or after August 28, 2019",
+          "bodySha256": "b0cee06727eef125eca2743df829fe74c3bd0e6df92f6747dab97c8537f29e2f",
+          "reviewNote": "Applies sections 528.700 to 528.750 to partition actions filed on or after August 28, 2019."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory court determination whether real estate is heirs property",
+          "bodySha256": "16c9d097a602a2b9a79d5a570efd1743d6c6d712a18e698fce657a64ecc4d99f",
+          "reviewNote": "Requires the court in a chapter 528 partition action to determine whether the property is heirs' property and partition it under sections 528.700 to 528.750 unless all cotenants agree otherwise in a record."
+        },
+        {
+          "number": 3,
+          "title": "Supplemental relationship to general partition statutes and rules",
+          "bodySha256": "13586e7d22c987d4df362927fcca4ef5e1dd2087bd94079642264770d2a29345",
+          "reviewNote": "Provides that sections 528.700 to 528.750 supplement sections 528.010 to 528.640 and Missouri supreme court rule 96."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all three subsections and history note for 528.705. Corrected subsection 1 title from 'after' to 'on or after August 28, 2019'."
+    },
+    {
+      "id": "528.710:47787",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=528.710&bid=47787",
+      "sourceSha256": "5f093e415c102681ec030fc103dee7f0cbb7da455f5090ff6d9c21977f1b9175",
+      "textSha256": "59c82e233b5473de67cfd0ed18191dd2e6185668943c20e444af6d4456277d03",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Preservation of statutory methods of complaint service",
+          "bodySha256": "e7e03bd204a4e265dc1cb492ef649ac71bd21c7e812e7ce2c70da4cf79ff8d3f",
+          "reviewNote": "Provides that sections 528.700 to 528.750 do not limit or affect the method of serving a complaint in a partition action."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory posting of conspicuous sign on heirs property",
+          "bodySha256": "6dfb3349bbfb0ba45454bf066518c8535d551ae21829796ce28f8ce3deb7f18d",
+          "reviewNote": "Requires a plaintiff seeking notice by publication, within ten days after the court determines property may be heirs' property, to post and maintain a conspicuous sign with action, court, and property details, plus party names if ordered."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and history note for 528.710. Verified accuracy of titles and refined subsection 2 note to reflect notice-by-publication trigger and court discretion to require party names."
+    },
+    {
+      "id": "528.720:47789",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=528.720&bid=47789",
+      "sourceSha256": "7dbd748842a1739948e8210f0a3bae48148e642653f06ac454a1fcdaddaadbf7",
+      "textSha256": "290a8a97f11e79ca1fb0fb9744b71b471b875865eef530a6ace30fe60604ece6",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Court order for certified appraisal of heirs property",
+          "bodySha256": "9aeaee7ca880cb6820f655d984ddfb3fc4ba3de883be49b8cda9d9731516ce8b",
+          "reviewNote": "Requires the court, except under subsections 2 and 3, to determine the fair market value of heirs' property by ordering a certified appraisal under subsection 4."
+        },
+        {
+          "number": 2,
+          "title": "Judicial adoption of valuation agreed to by all cotenants",
+          "bodySha256": "ae7b97c9dd28e26ca861f3db58cb647fa11ca4726d8dd49a70fe992892c293fb",
+          "reviewNote": "Directs the court to adopt the property value or valuation method agreed to by all cotenants."
+        },
+        {
+          "number": 3,
+          "title": "Evidentiary hearing valuation where appraisal cost exceeds benefit",
+          "bodySha256": "1031161f328c82c2ffefc243212d6fa315f203627143ee17d79aeda0dd463e5c",
+          "reviewNote": "Directs the court, if appraisal cost outweighs evidentiary value, to determine fair market value after an evidentiary hearing and notify the parties."
+        },
+        {
+          "number": 4,
+          "title": "Appointment of disinterested licensed real estate appraiser",
+          "bodySha256": "13f5415a6779f6392da2a57d6ee70ce380e0725a299bbabede5391aedf9042e6",
+          "reviewNote": "Requires appointment of a disinterested Missouri-licensed appraiser to value the fee simple estate assuming sole ownership and file a sworn or verified appraisal."
+        },
+        {
+          "number": 5,
+          "title": "Notice of filed appraisal and objection deadline to parties",
+          "bodySha256": "693dfe0ff5cea4c1efa318e2a252bdd83643b35922c855fc7b2c49b1a03487ea",
+          "reviewNote": "Directs the court within ten days after appraisal filing to notify parties with known addresses of the appraised value, clerk availability, and thirty-day objection deadline."
+        },
+        {
+          "number": 6,
+          "title": "Hearing to determine fair market value after appraisal notice",
+          "bodySha256": "b868b14b42130ead6aa02d27c420f48b721cecd3d4a9425b0418e6ce50d27548",
+          "reviewNote": "Requires a valuation hearing no sooner than thirty days after subsection 5 notice regardless of whether an objection is filed, allowing consideration of other party evidence."
+        },
+        {
+          "number": 7,
+          "title": "Final judicial determination of value and notice to parties",
+          "bodySha256": "9680176b10bd9a9d856d69f1577315da905b80289f7a84a0db4c0cf8a427ad14",
+          "reviewNote": "Requires the court, after the subsection 6 hearing and before considering partition merits, to determine fair market value and notify the parties."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all seven subsections and history note for 528.720. Corrected subsection 6 title because the valuation hearing is required regardless of whether any objection is filed."
+    },
+    {
+      "id": "528.725:47790",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=528.725&bid=47790",
+      "sourceSha256": "978cfa16d6e0823b0e3a3f927815cdad2c1692497efcdab235c7203e90a0be06",
+      "textSha256": "d67733d9ac1a63ea6cbb12be2ba371fb23aa9d86f58fb355210fbe4ecc288c3b",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Notice of buyout rights to cotenants not seeking sale",
+          "bodySha256": "601f046311750e521b96bc3bbfc783990c52039d7d305262670e9a27d713322c",
+          "reviewNote": "Requires the court, after valuation under section 528.720 when any cotenant requests partition by sale, to notify parties that non-requesting cotenants may buy all interests of cotenants requesting sale."
+        },
+        {
+          "number": 2,
+          "title": "Forty-five-day notice of election by cotenant to buy out interests",
+          "bodySha256": "ea4676235168b070f9f88caab4621129d5c57fd205097be7fece09951afb1827",
+          "reviewNote": "Permits any non-requesting cotenant, within forty-five days after subsection 1 notice, to notify the court of an election to buy all interests of cotenants requesting partition by sale."
+        },
+        {
+          "number": 3,
+          "title": "Calculation of buyout purchase price for cotenant interests",
+          "bodySha256": "e6e7d8c2d3ace30fbb2cd0c5d04158dab3217f82f081699d5132b6fd48e5e18f",
+          "reviewNote": "Sets the purchase price for each selling cotenant's interest as the determined parcel value under section 528.720 multiplied by that cotenant's fractional ownership."
+        },
+        {
+          "number": 4,
+          "title": "Allocation of buyout interests among electing cotenants",
+          "bodySha256": "1d88264777c4abbaf60554e56f8bd28b03d9a4e22f6cf77f5ab177a372c4812a",
+          "reviewNote": "Sets notice, pro-rata fractional allocation rules when one or multiple cotenants elect to buy, and fallback to section 528.730 if no cotenant elects to buy."
+        },
+        {
+          "number": 5,
+          "title": "Payment deadline of at least sixty days for electing cotenants",
+          "bodySha256": "49282d8c2666402dcfcaa0443d60b8635b6df57cb3eaf3300220eaefc626cacd",
+          "reviewNote": "Directs the court to set a payment date at least sixty days after subsection 4 notice and sets reallocation, fallback, or partial-default notice rules."
+        },
+        {
+          "number": 6,
+          "title": "Reallocation and secondary buyout election upon default",
+          "bodySha256": "fa61c26bbb9ab891630f80f74d1d5f349166d41a1f3feb64e5f71570bbf09156",
+          "reviewNote": "Gives paying cotenants twenty days after subsection 5(3) notice to buy remaining defaulted interests and prescribes reallocation, reapportionment, disbursement, refund, or section 528.730 fallback."
+        },
+        {
+          "number": 7,
+          "title": "Request to buy interests of nonappearing defendant cotenants",
+          "bodySha256": "ac95d5685fb2f6b59ee91e6668ed090177fd21e32487f71b9e635a5de1b4880d",
+          "reviewNote": "Permits an eligible cotenant, within forty-five days after subsection 1 notice, to request court authorization to sell the interests of served defendant cotenants who did not appear."
+        },
+        {
+          "number": 8,
+          "title": "Court authorization and limits for sale of nonappearing interests",
+          "bodySha256": "7344aada64c352b7dba2937db471bdea2aba7f5a38da869282344fb5e8ba3ce5",
+          "reviewNote": "Permits the court after hearing to deny or authorize the subsection 7 sale on fair and reasonable terms only after subsections 1-6 buyouts conclude, priced under section 528.720."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all eight subsections and subdivisions for 528.725. Corrected subsections 7 and 8 to specify that the additional sale applies specifically to interests of served, nonappearing defendant cotenants."
+    },
+    {
+      "id": "528.730:47791",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=528.730&bid=47791",
+      "sourceSha256": "f8c9212902651147d4610500a72b4cca6b97d476a254e0e4bc81edae42c9037a",
+      "textSha256": "c588f935a81c0402489bce9434495c892bef5107b140dd574692a5e4e612436c",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory partition in kind absent great prejudice to cotenants",
+          "bodySha256": "16ebfcaecd99e28c4e0bcbb8d0bb0f38f30e9c1803d856b4529f9866d56ee79d",
+          "reviewNote": "Requires partition in kind if buyouts do not purchase all selling interests or a partition-in-kind requester remains, unless great prejudice is found under section 528.735, and requires approving party interest aggregation requests."
+        },
+        {
+          "number": 2,
+          "title": "Order for partition by sale or dismissal upon denial of partition in kind",
+          "bodySha256": "4af2112b994508d74394b6d2ccb7070451fc5aab10a025b04b678bd52ac26bb1",
+          "reviewNote": "Requires the court, if partition in kind is not ordered under subsection 1, to order partition by sale under section 528.740 or dismiss the action if no cotenant requested partition by sale."
+        },
+        {
+          "number": 3,
+          "title": "Equalizing payments among cotenants in partition in kind",
+          "bodySha256": "c7a417afe585e933abd75f7881210fee770147c11fb9b80c4c0ae7e55b79eae1",
+          "reviewNote": "Permits the court ordering partition in kind to require payments between cotenants so that payments plus in-kind distributions are just and proportionate to fractional interests."
+        },
+        {
+          "number": 4,
+          "title": "Allocation of collective shares to unknown or defaulted cotenants",
+          "bodySha256": "7b6ee46a50d1571b42cdfc4f104961b8619ef770aa473e36bc0f3fc2f2ad57ff",
+          "reviewNote": "Directs the court ordering partition in kind to allocate an undivided combined share of property to unknown, unlocatable, or defaulted cotenants whose interests were not bought out under section 528.725."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all four subsections and history note for 528.730. Replaced non-statutory term 'Owelty' in subsection 3 with 'Equalizing payments' matching the statutory text."
+    },
+    {
+      "id": "528.735:47792",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=528.735&bid=47792",
+      "sourceSha256": "f76c5590786b1075440324d3a03a445c8f5abcbb3ed580d1bacd8527c8f41c16",
+      "textSha256": "37c077d75161959e356c9fc79398367ce56cd310d25aa8589921f2b9cb72cb99",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Statutory factors for evaluating prejudice in partition in kind",
+          "bodySha256": "57f04cc687a40714d0082527b3a2484ef5bdf8c8b3747f66e14532adea52a012",
+          "reviewNote": "Lists seven factors the court must consider in determining whether partition in kind results in great prejudice, including practicability, aggregate value, duration, sentimental attachment, lawful use, expense/upkeep contributions, and other relevant factors."
+        },
+        {
+          "number": 2,
+          "title": "Totality of circumstances rule for evaluating partition prejudice",
+          "bodySha256": "8379691bf6271ae783ef8345f6b6c4611dded978730f08aee3535b066ca7532d",
+          "reviewNote": "Prohibits treating any single subsection 1 factor as dispositive without weighing the totality of all relevant factors and circumstances."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and all seven enumerated factors for 528.735. Verified accuracy of titles and notes."
+    },
+    {
+      "id": "528.740:47793",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=528.740&bid=47793",
+      "sourceSha256": "3049f5fda02be3ecff0a20007f3c0e2417c3794ec140443878701fd88f4a5c5d",
+      "textSha256": "87ebd1a5fa9df4a05c8fc754f2ea8ab8c6cfca927102229fe843eaa97625a10a",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Open-market sale requirement for heirs property absent auction finding",
+          "bodySha256": "24ecbb2e56df53d30eaeed70075fc8729e9cb29dea78d2a9c52d4301b44be706",
+          "reviewNote": "Requires court-ordered sales of heirs' property to be open-market sales unless sealed bids or an auction would be more economically advantageous and in the cotenants' best interest as a group."
+        },
+        {
+          "number": 2,
+          "title": "Appointment of licensed broker or auction company for sale",
+          "bodySha256": "d757fb1901e18ccff2bdb09d02a567eb9fee39c7a784ed70a78461d4e80c998b",
+          "reviewNote": "Directs appointment of a party-agreed or court-selected disinterested Missouri-licensed broker to market the property at or above determined value, with discretion to appoint an auction company if more advantageous."
+        },
+        {
+          "number": 3,
+          "title": "Broker procedure upon obtaining offer at or above determined value",
+          "bodySha256": "b1120e2ef23e5148d24a4b18288041586d27900fdd6a8dcbac0209d4702ed45a",
+          "reviewNote": "Requires a broker obtaining a timely offer at or above determined value to report under section 528.745 and permits completing the sale under other state law."
+        },
+        {
+          "number": 4,
+          "title": "Court options upon failure to obtain offer at determined value",
+          "bodySha256": "ff565d0a2bdbb50e250802ae99d4b5f821e9b0d6e6e23c45be31299a952bdb19",
+          "reviewNote": "Permits the court after hearing, if no qualifying offer is obtained within a reasonable time, to approve the highest offer, redetermine value and extend offering, or order sealed bids or auction."
+        },
+        {
+          "number": 5,
+          "title": "Terms and conditions for sale by sealed bids or public auction",
+          "bodySha256": "8067c66e700f0c676f7b4fe8289412c76e98896989ff1417b24329f4733b757d",
+          "reviewNote": "Requires the court ordering a sealed-bid or auction sale to set terms and conditions and directs that ordered sales be conducted under supreme court rule 96."
+        },
+        {
+          "number": 6,
+          "title": "Credit against purchase price for purchasing cotenant",
+          "bodySha256": "bb2fbf3abf3bc444ac122424ccfc9dcb05b9f6c969b3e8fdb6fe2fcf5ea49800",
+          "reviewNote": "Entitles a purchaser who is entitled to a share of sale proceeds to a credit against the purchase price equal to that share."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all six subsections and subdivisions for 528.740. Broadened subsection 2 title/note to include court appointment of a disinterested broker when parties do not agree and court discretion to appoint an auction company."
+    },
+    {
+      "id": "528.745:47794",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=528.745&bid=47794",
+      "sourceSha256": "e19aaac71d932c2851a1d751c417231f59df51b54682b25fdd524f79bba05972",
+      "textSha256": "17e572298929308901bc04e447e41de184a4a6e1ccd731a031211219d562f9cd",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Seven-day deadline for broker report after qualifying offer",
+          "bodySha256": "0e763421ad8f67d06f5e4dccb099c1302c97ba4453959f0e3598f029477977dc",
+          "reviewNote": "Requires an appointed broker, unless supreme court rule 96 requires a shorter time, to file a court report within seven days after receiving an offer at or above determined value under section 528.720 or 528.740."
+        },
+        {
+          "number": 2,
+          "title": "Statutory contents of real estate broker report",
+          "bodySha256": "4d7b54c2105e1cb1b2c269a6799e8477060fdec62eb35803e307f19b5d74733e",
+          "reviewNote": "Requires the report to state property description, buyer names, proposed price, sale and owner-financing terms, amounts to lienholders, commission arrangements, and other material facts."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and all seven report items for 528.745. Corrected factual error in subsection 1 ('thirty-day' -> 'seven-day' deadline) and removed fabricated items ('proposed deed, marketing history') from subsection 2 note."
+    }
+  ]
+}

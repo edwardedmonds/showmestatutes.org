@@ -1,0 +1,784 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "479.011:26786",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.011&bid=26786",
+      "sourceSha256": "df7c1a5c2911f6bb3c52c54fcb6ac38a5c3c6358f44c1730497fb4da443e64f1",
+      "textSha256": "0861e5b9559029ab4087066d54f075d325c93763f1aa786adc6271af108c4ff5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorization of administrative adjudication systems in eligible cities",
+          "bodySha256": "17e2e45719904ee59042713cc8c33e273e12436a7dfe94b5f98bc837d27dcabe",
+          "reviewNote": "Covers municipal authorization for administrative adjudication of civil nonmoving code violations in designated population classes."
+        },
+        {
+          "number": 2,
+          "title": "Designation of administrative tribunal and hearing procedures",
+          "bodySha256": "ae0e1f700ad305c5b7279b01aacac8c17ac330066b3278857fbbc787369335fe",
+          "reviewNote": "Covers ordinance designation of administrative tribunal, subject violations, supervision, and court-approved hearing procedures."
+        },
+        {
+          "number": 3,
+          "title": "Due process standards, evidence rules, and citation prima facie effect",
+          "bodySha256": "9f24cbb35d8ab5925e72c835820e16705a7ea1d1d274ac49a2a5ebff92b95f32",
+          "reviewNote": "Covers due process guarantees, relaxed evidence rules admitting prudent-person evidence, and citation documentation as prima facie evidence."
+        },
+        {
+          "number": 4,
+          "title": "Imprisonment prohibition, fine limits, and debt collection",
+          "bodySha256": "b745c9f6bd89d9135ba4b5c7b040e5381fd8340e520abafa3bf1ad2aa8a1fb14",
+          "reviewNote": "Covers prohibition on incarceration, limitation on fines, and collection of unpaid final sanctions as debts due the city."
+        },
+        {
+          "number": 5,
+          "title": "Judicial review, enforcement of orders, and property liens",
+          "bodySha256": "0188c9322bb1843ff00c14255716074ba6fe75a234e67a02b18affba5503b502",
+          "reviewNote": "Covers judicial review under chapter 536 or trial de novo, order enforcement as judgments, and imposition of property liens or special tax bills."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all five subsections on administrative adjudication of civil nonmoving municipal code violations in eligible cities, tribunal procedures, relaxed evidence rules, fine/incarceration limits, and judicial review/liens."
+    },
+    {
+      "id": "479.020:47809",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.020&bid=47809",
+      "sourceSha256": "c1d130f929febc3c87e392a13b8bc23afa4cd8fefe7e9530ea4536c60142960b",
+      "textSha256": "1e884af2948c683de5c2e32c25b4be3ef538a104b935af09cb7f7a4d6b0c5893",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Municipal judge selection, minimum two-year tenure, and jurisdiction",
+          "bodySha256": "bf8a5a532ffd7448579abe757710c35423009e733efa30be92e4e432d68eece2",
+          "reviewNote": "Covers municipal authority or duty to provide for municipal judge selection, minimum two-year terms, and ordinance jurisdiction."
+        },
+        {
+          "number": 2,
+          "title": "Part-time service in multiple municipalities",
+          "bodySha256": "b9be88202af353f66955af1d84b122bfcf865b5ac1c3c4ac97ff64e00df0f49c",
+          "reviewNote": "Covers authorization for part-time municipal judges to serve across multiple municipalities unless barred by charter or ordinance."
+        },
+        {
+          "number": 3,
+          "title": "Law license qualifications and grandfathered exemption",
+          "bodySha256": "d2a506c73c617c27c6f15df2f153c69a848c2ebf4c6fc2887a8d07aaaf5e5bab",
+          "reviewNote": "Covers requirement of law license for judges in municipalities of 7,500 or first-class charter counties and pre-1979 grandfather exemption."
+        },
+        {
+          "number": 4,
+          "title": "Residency requirements within state",
+          "bodySha256": "ed43913497381e71f6e26787da1c39d167a77d9683fcb420b0de7214a2a69f82",
+          "reviewNote": "Covers rule that municipal judges must reside in Missouri but need not reside in the municipality or circuit unless required by local law."
+        },
+        {
+          "number": 5,
+          "title": "Circuit court division status and presiding judge supervision",
+          "bodySha256": "8e20b21b5997089cda419d5911ce525130609ac175c224586a0440e795f2deb7",
+          "reviewNote": "Covers status of municipal courts as divisions of the circuit court subject to circuit rules and presiding judge administrative authority."
+        },
+        {
+          "number": 6,
+          "title": "Dual officeholding ban and compensation restrictions",
+          "bodySha256": "c477aa4e8e78b3ec603f65899fb82419e48fcec4dd0fb9c831cad2c8fecb0f8c",
+          "reviewNote": "Covers prohibition on municipal judges holding other municipal office and ban on case-volume or fine-dependent compensation."
+        },
+        {
+          "number": 7,
+          "title": "Age qualifications and mandatory retirement age",
+          "bodySha256": "5e9827ea8cd339fc2189852de9fe74b33720000b2409ef55b21905995ea637be",
+          "reviewNote": "Covers minimum age of twenty-one and mandatory retirement at age seventy-five for municipal judges."
+        },
+        {
+          "number": 8,
+          "title": "Mandatory course of instruction for nonattorney judges",
+          "bodySha256": "d4b0beea8df98f31a1f416003b069d19b97fd77e6f2448511f193066bf66ba4a",
+          "reviewNote": "Covers mandatory six-month completion of supreme court instruction course for nonlawyer judges and forfeiture of office upon noncompliance."
+        },
+        {
+          "number": 9,
+          "title": "Maximum five-municipality service limitation",
+          "bodySha256": "6489babdc4296cc08a78c814146b6efd590e50251618a0dd0d0adca733e479c5",
+          "reviewNote": "Covers restriction limiting municipal judges to serving in no more than five municipalities simultaneously."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all nine subsections on municipal judge selection, part-time service, law license/grandfathering, Missouri residency, circuit division status, dual-office/compensation bans, age limits (21\u201375), nonlawyer instruction, and five-municipality cap."
+    },
+    {
+      "id": "479.030:26788",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.030&bid=26788",
+      "sourceSha256": "9da81284d01d839155e369411bb8e882488ae33f0977ff50a032ee6465057c9f",
+      "textSha256": "05331df55376d1f70780f8c6f5bd52c0711d1d68d9283e4831ec8fbf2b206937",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written notice to circuit clerk before hearing cases",
+          "bodySha256": "68f1f15027d27acdacf02d4167e764249d7ac3846893b2732d38b6446c7e65b2",
+          "reviewNote": "Covers requirement that municipalities under 400,000 notify the circuit clerk in writing before municipal judges hear cases."
+        },
+        {
+          "number": 2,
+          "title": "Transition terms for sitting judges on January 1, 1979",
+          "bodySha256": "d0e8f4b4bd34a8c65e3ccc40c200d08c6bc4721c5cbf62c21b29d6ddc226055e",
+          "reviewNote": "Covers authorization for sitting municipal judges on January 1, 1979, to serve out terms regardless of qualification requirements."
+        },
+        {
+          "number": 3,
+          "title": "Automatic transition and merit retention in large cities",
+          "bodySha256": "b95ee69da9e6f55db4c8c2e7a3a6a8924673869385dcdde9bb65374491500772",
+          "reviewNote": "Covers automatic circuit division transition and continuation of merit retention plans for full-time judges in cities over 400,000."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on written notice to circuit clerk by municipalities under 400,000, January 1, 1979 sitting judge transition terms, and automatic transition/merit retention in cities over 400,000 (Effective 1-02-79)."
+    },
+    {
+      "id": "479.040:26789",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.040&bid=26789",
+      "sourceSha256": "eec3f8cf9ce6286db736598f2ce8c49e53d9104639091b845d82d499a95fe221",
+      "textSha256": "510090c39fc846940b75a86ab98b7541cd9e34bd2f052cfcb4114ad7b25eb600",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Municipal election for associate circuit court or specialized docket",
+          "bodySha256": "29266590f8127875ff499f31fa919262f6954bd36a33e33273d839c652067ace",
+          "reviewNote": "Covers municipal election to have ordinance violations or designated special-needs cases heard by associate circuit judges."
+        },
+        {
+          "number": 2,
+          "title": "Six-month commencement period following election notice",
+          "bodySha256": "3e04f2c0cb4ed569333b2af45acdfa388a5bcd51bd3ae6136bd59a3bbfc60dbd",
+          "reviewNote": "Covers six-month delay before associate circuit judges commence hearing municipal cases absent earlier consent of presiding judge."
+        },
+        {
+          "number": 3,
+          "title": "Mandatory associate circuit judge jurisdiction absent municipal judge",
+          "bodySha256": "5779ae78c6bfdb701f0061e80bc9ed5283353fa598ac5b1e02c9bf78b20ab771",
+          "reviewNote": "Covers mandatory hearing of municipal ordinance violations by associate circuit judges when municipality under 400,000 provides no judge."
+        },
+        {
+          "number": 4,
+          "title": "Contract for county municipal court prosecution",
+          "bodySha256": "36744b4dd925c111ad740fecf6054a7eb423254f4a0a434eee81c3bb6cd18349",
+          "reviewNote": "Covers authorization for municipality under 400,000 to contract with county for ordinance prosecution in county municipal court."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all four subsections on municipal election to use associate circuit judges or specialized dockets, six-month transition notice, default associate circuit jurisdiction, and county municipal court contracts."
+    },
+    {
+      "id": "479.060:26791",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.060&bid=26791",
+      "sourceSha256": "08b3996186e19c6422f15a436088631ba6bad5fc5e730d8e6e5e402020487b46",
+      "textSha256": "06a23fab516e085b9134a61596d417e05d683b73a410ab0dc83852b2096f7887",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Municipal duty to provide courtroom, clerk, and personnel",
+          "bodySha256": "998752f4a452ccc3b915cc441d3d6c36b131ad15c7eb274b706ff2aa8ec02e53",
+          "reviewNote": "Covers municipal obligation to provide courtroom, clerk, and personnel when establishing municipal judge positions."
+        },
+        {
+          "number": 2,
+          "title": "Municipal courtroom provision for associate circuit judge",
+          "bodySha256": "1b96bd66848f2a5a24f7f832bd957a5b60ba7a23e5c47f15dd447dcbde5cc9da",
+          "reviewNote": "Covers municipal duty to provide courtroom when requesting associate circuit judge to sit within municipality."
+        },
+        {
+          "number": 3,
+          "title": "Salaries and expenses for local nonjudicial personnel",
+          "bodySha256": "608ba60b458c0f8d256a91d5af08ce52ea12d7ac0db67e5bcf9d564a611842f0",
+          "reviewNote": "Covers municipal payment of salaries and expenses for nonjudicial personnel stationed in municipality at municipal request."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on municipal obligations to provide courtrooms, clerks, personnel, and expenses for municipal divisions and locally seated associate circuit judges/staff (Effective 1-02-79)."
+    },
+    {
+      "id": "479.080:26793",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.080&bid=26793",
+      "sourceSha256": "b45f1f859386cbf42d95762c363099e079959649f932c7f1924e82105f33f8f5",
+      "textSha256": "49189f9cf0e8a75715f80f83b53432198bc64750084de8cb8d9d3a381b84f449",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Monthly fine and cost deposit into municipal treasury",
+          "bodySha256": "9869b3c8f58bee0c8c162e4d526b8a94bf7dce7fde83cce131172977fdd79e8f",
+          "reviewNote": "Covers requirement that fines and costs collected before municipal judge be deposited at least monthly into municipal treasury."
+        },
+        {
+          "number": 2,
+          "title": "Deposit of fines and state court costs before associate judge",
+          "bodySha256": "9e0f651e1afe17e8910073e55e4f3f258e3cdb532e9062532dea59eb4cf3cb6f",
+          "reviewNote": "Covers monthly deposit of fines into municipal treasury and remittance of costs to state treasury in cases before associate judges."
+        },
+        {
+          "number": 3,
+          "title": "Monthly case accounting lists and transmittal procedures",
+          "bodySha256": "760c9694898e527b7b60a4d22d83c64c384360f153e1df5fd93878bedd336f99",
+          "reviewNote": "Covers monthly reporting lists of cases, fines, costs, and de novo applications filed with municipal clerk and governing body."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on monthly deposit of fines/costs in municipal or state treasuries and supreme court uniform reporting or monthly verified case lists (Effective 1-02-79)."
+    },
+    {
+      "id": "479.150:26800",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.150&bid=26800",
+      "sourceSha256": "427fce4c78664f2c0c9d6fbfa450b14122335a3ca00a3d9523dbf48dc9fca3e1",
+      "textSha256": "bda19fa2ecbc2e4dcdf43d29ddc10cc965be4c92f687afcbe7f411856c1d41e4",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Certification for assignment upon jury trial demand",
+          "bodySha256": "97d22500d9b2500bb876dcd0f03a56dbc4cc23a4b2e7aec655e7d9c7bdbe844b",
+          "reviewNote": "Covers general requirement that municipal judge certify case for assignment when defendant demands jury trial."
+        },
+        {
+          "number": 2,
+          "title": "Municipal jury trial procedures in eligible populous cities",
+          "bodySha256": "2b375f20ebf3ca3a6fcf12282545fdcb2d045586db26b39dd854d65c6e0ebe27",
+          "reviewNote": "Covers local jury trial procedures, appellate records, costs, and de novo waiver in eligible noncharter first-class county municipalities."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections on certifying municipal jury trial demands for assignment and local municipal jury trial procedures for eligible populous noncharter first-class county cities."
+    },
+    {
+      "id": "479.155:26801",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.155&bid=26801",
+      "sourceSha256": "6aad43f8d3e24c20a94ac40bd6af6afa48f0ea6071f575cf086645ad5a00a84a",
+      "textSha256": "2f1d6cc7787be40e37d54db26436a21805b0717410785b6601e00871fc853af6",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Municipal division report to supreme court clerk",
+          "bodySha256": "a26ca81893bd3cb21d7cfcb3741d8688dfeb9ef0cee408375ae4d166687737ee",
+          "reviewNote": "Covers presiding circuit judge report to the supreme court clerk by September 1, 2015, providing municipal division name, address, and requested standardized form information."
+        },
+        {
+          "number": 2,
+          "title": "Presiding judge notice upon division establishment or abolition",
+          "bodySha256": "0fcbaa0652394ea053524f51dab821a7ed59183d17f5355e526eb6718c22c5c9",
+          "reviewNote": "Covers presiding judge notice to supreme court clerk and ninety-day report requirement upon establishing or abolishing municipal division."
+        },
+        {
+          "number": 3,
+          "title": "Supreme court conflict of interest rules",
+          "bodySha256": "42bd01f4cad2a79a1065c7f8cf29e4b4d6407c165641b6b9d2177915b83b1983",
+          "reviewNote": "Covers supreme court duty to adopt conflict of interest rules for prosecutors, defense attorneys, and judges with pending municipal division cases."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on presiding judge reporting to the supreme court clerk by September 1, 2015, notice upon establishing/abolishing divisions, and conflict-of-interest rules; corrected subsection 1 title/note (not annual)."
+    },
+    {
+      "id": "479.160:26802",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.160&bid=26802",
+      "sourceSha256": "696d4b8d1116dbd11479be4a57da15dfa4c58596b69a5f8cc145484937a63a1d",
+      "textSha256": "1b5a2bd7ac20658d5d319175db4ffb6fc7516cadbb2df14ec6c7d395292d5b3d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Witness subpoenas, attachment, and witness fees",
+          "bodySha256": "8e5e065d723bf80a3fd7a6c86f53cbec0421393f08479cfa728af24491eabecf",
+          "reviewNote": "Covers municipal judge duty to summon essential witnesses, enforce attendance by attachment, and tax witness fees as costs."
+        },
+        {
+          "number": 2,
+          "title": "Oral notice to present witnesses upon continuance",
+          "bodySha256": "e9fb8df7ed383dc846b795c589f7373d24d200f31aa84e6095a52979b1dc7e5d",
+          "reviewNote": "Covers oral notice and docket entry as valid summons for present witnesses upon continuance of municipal trial."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections on municipal judge witness summonses, attachment, witness fees, and oral docketed notice to present witnesses upon trial continuance (Effective 1-02-79)."
+    },
+    {
+      "id": "479.170:34701",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.170&bid=34701",
+      "sourceSha256": "8c16d9ba1cd8f6915c8e887600bd7e4a6df433dedccc1e1b018c5a1a0b428477",
+      "textSha256": "3921a462a67cf310e0f81702fdf76a880dec371f240136cc348f327a227be4c4",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Procedure when offense is outside municipal jurisdiction",
+          "bodySha256": "4e346f6ccf69a4cd097c1d8b7fb06af4413d64c0c58834588c5a2f9613deea4a",
+          "reviewNote": "Covers cessation of municipal proceedings and transfer to associate circuit judge when state criminal offense appears."
+        },
+        {
+          "number": 2,
+          "title": "Noncognizable status of repeat intoxication-related offenses",
+          "bodySha256": "f042962ef61cef352239c4b80afd2586dfd893ec0961fda2d667c02f3bcd67c9",
+          "reviewNote": "Covers rule that driving while intoxicated charges are not cognizable in municipal court if defendant has two or more prior offenses or contacts."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections on stopping municipal trials when a noncognizable state criminal offense appears and barring municipal court cognizance of repeat intoxication-related traffic offenses (A.L. 2017 S.B. 34)."
+    },
+    {
+      "id": "479.172:26804",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.172&bid=26804",
+      "sourceSha256": "60ba63108bcbc54e138ddf1d34e01e0569479f90d6665f4c2cb100e124e0c626",
+      "textSha256": "6252279121015a731e9980cdd324869ffd5e85dc1a2cb44a047325101092f98d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory instruction and written central repository reporting policy",
+          "bodySha256": "f63af232b699ddea561dd43727bd0a810d25386952c0b72d0738346f13c82dab",
+          "reviewNote": "Covers municipal judge instruction on intoxication laws, SATOP assessments, and written policy for timely highway patrol reporting."
+        },
+        {
+          "number": 2,
+          "title": "Submission of reporting policies to OSCA and highway patrol",
+          "bodySha256": "be347f62f39afeffbb401c5b8ebb404f0b9c2a7fbd750d9df792c94395dcdd10",
+          "reviewNote": "Covers submission of municipal disposition reporting policy to OSCA and highway patrol and OSCA model policy creation."
+        },
+        {
+          "number": 3,
+          "title": "Semiannual reporting of intoxication offense dispositions to circuit court",
+          "bodySha256": "4de83925171c1b1909e9fa5b023668f7cbb95d297ddf9d7bbc4d3c246f1b47ab",
+          "reviewNote": "Covers mandatory semiannual reports to circuit court en banc detailing adjudication, dismissal, or pending status of intoxication offenses."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on municipal judge intoxication-law instruction, written central-repository reporting policies submitted to OSCA and highway patrol, and semiannual circuit court en banc reports; notes 2014 transfer from former section 577.006."
+    },
+    {
+      "id": "479.190:26806",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.190&bid=26806",
+      "sourceSha256": "efba9b68701d93fc8a0c9b3c0067afa952240635dec98f9402b6ba194c570d1d",
+      "textSha256": "46cca63dc2b229002074989fbc81415d8f062d9410b073d1f2a69121dd770315",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Discretionary parole or probation and written certificate",
+          "bodySha256": "1c0634de604b46a3859af562afc48b5edeafda905c7bf77a1735deddb76be752",
+          "reviewNote": "Covers judge authority to grant parole or probation upon guilty plea or conviction and requirement of written conditions certificate."
+        },
+        {
+          "number": 2,
+          "title": "Permissible probation conditions for restitution and community work",
+          "bodySha256": "eaa0ee663466c57cfd6161d1a42b2eb021483aab0ae8ca8905b11d64e58447ad",
+          "reviewNote": "Covers court authority to order victim restitution and performance of uncompensated public or charitable community service."
+        },
+        {
+          "number": 3,
+          "title": "Refusal of community work, supervisor immunity, and worker status",
+          "bodySha256": "313475b34c0e34a23011a5260a0565470749fa469d25e2f134ba53753f629cea",
+          "reviewNote": "Covers defendant right to refuse free work, qualified immunity for supervising entities, and non-employment status under chapter 288."
+        },
+        {
+          "number": 4,
+          "title": "Modification or enlargement of probation conditions",
+          "bodySha256": "53b45cec7fa21da840682c2f297ab650446cd6cbaa96f33153aa23df44be3e46",
+          "reviewNote": "Covers court authority to modify or enlarge conditions of probation prior to expiration or termination of probation term."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all four subsections on discretionary municipal parole/probation, restitution and free-work conditions, refusal/supervisor immunity/chapter 288 non-employment, and modification of conditions."
+    },
+    {
+      "id": "479.200:26807",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.200&bid=26807",
+      "sourceSha256": "9efba99f9d67ec21d3f6e861b79a64cdf9b596602a81f633372def0032b1614e",
+      "textSha256": "dbc028c1e23a7c21cb5a117262c9726aa7dd2ee93a3d70d6ef7d366d0c3949e6",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Right to trial de novo from nonlawyer municipal judge",
+          "bodySha256": "c32ded851b75e43dba2b00b732449c9044bb8e123a767ff63f5d8afe99aac77f",
+          "reviewNote": "Covers defendant right to trial de novo before circuit or associate circuit judge from judgment or guilty plea before nonlawyer judge."
+        },
+        {
+          "number": 2,
+          "title": "Trial de novo application timeframe and restrictions",
+          "bodySha256": "0cc5e5660ab5c2e14e8f0e7bffabf14da923b8da2131db3fbac4d50920dd083a",
+          "reviewNote": "Covers ten-day trial de novo application from lawyer municipal or associate judge absent guilty plea or jury trial; source notes 1985 case annotation on jury trial right in circuit court."
+        },
+        {
+          "number": 3,
+          "title": "Jury trial on the record before associate circuit judge",
+          "bodySha256": "0f910636b4b352b5e7a47289691f54887e745d7f366f155988edc389178a1350",
+          "reviewNote": "Covers requirement of record in jury trial before associate circuit judge and direct appeal on record to appellate court."
+        },
+        {
+          "number": 4,
+          "title": "Supreme court rules governing recording methods",
+          "bodySha256": "b716f467bf473f9dae2ef52a2f3791a6628a7ed6b5feb2321e35739e0f82b799",
+          "reviewNote": "Covers supreme court rulemaking authority for record maintenance using stenographic, electronic, or mechanical recording."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all four subsections on trial de novo rights from nonlawyer and lawyer/associate judges, jury trial appeals on the record, and supreme court recording rules; notes 1985 en banc annotation on jury trial upon appeal."
+    },
+    {
+      "id": "479.230:26810",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.230&bid=26810",
+      "sourceSha256": "233b1499e78c25d8572cc1d5d15d7fb26119efa6b65d3a640fe58e3b7af353ca",
+      "textSha256": "c209e66ddc004014c5840433f2a1a9926f48ecaa456a0a6691322b36475c7b9e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Request procedures upon absence, illness, or disqualification",
+          "bodySha256": "e2b700aeaac19907387fcbc263ec114256ca93d6b5544df782549019c983e9d1",
+          "reviewNote": "Covers procedures for requesting presiding circuit judge to designate special municipal judge upon judge absence or vacancy."
+        },
+        {
+          "number": 2,
+          "title": "Presiding judge appointment of special interim municipal judge",
+          "bodySha256": "db07dde10483b99d921cde52a8d211d3c27a9794fc039647a3cc225d24103a61",
+          "reviewNote": "Covers presiding circuit judge authority to appoint another municipal judge in the circuit as special interim municipal judge."
+        },
+        {
+          "number": 3,
+          "title": "Municipal ordinance compensation for designated judge",
+          "bodySha256": "36ac4f4981f86a16bb81f47748c784b9fd91475e6bf47f0e858086f686ba4329",
+          "reviewNote": "Covers municipal governing body duty to provide by ordinance for compensation of designated interim municipal judges."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on requesting a special municipal judge upon absence/illness/disqualification (including 6-month vacancy election rule), presiding judge interim appointment, and municipal ordinance compensation."
+    },
+    {
+      "id": "479.260:26813",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.260&bid=26813",
+      "sourceSha256": "1777147a6ca7a1374ff5e4a59d7db34d409ef159567107d725c36d4abbee17b5",
+      "textSha256": "78caf39eb30c536a7424cb182513307eec7934adc19e4aafbbdb5c9cc02dc385",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Ordinance court costs, judicial education fund, and counsel fund",
+          "bodySha256": "4a3d1994da2f8594300bbd5de2137d9f7e1ed69e8a99c0d4f37556b0cc0a7c4e",
+          "reviewNote": "Covers municipal court fees per case, indigent cost waiver, and one-dollar retention for judicial education and appointed counsel funds."
+        },
+        {
+          "number": 2,
+          "title": "Court costs for ordinance cases in associate circuit division",
+          "bodySha256": "bbaccb5f2a76cff33218b04c48dbb8427d74a9a9b71a2cd7adf4a3163d6035c8",
+          "reviewNote": "Covers section 488.010\u2013488.020 fees in associate circuit division ordinance cases, indigent waiver, ban on assessing costs against municipality upon acquittal/dismissal, and section 479.080(2) disbursement."
+        },
+        {
+          "number": 3,
+          "title": "Exemption of municipalities from associate circuit filing fees",
+          "bodySha256": "d8c3246f0a4feccdd16684f0c8c4dd823f4fc5e40033566b1da4b4432ae679ed",
+          "reviewNote": "Covers rule that a municipality filing cases before an associate circuit judge shall not be required to pay fees."
+        },
+        {
+          "number": 4,
+          "title": "Prohibition on judge, city attorney, or prosecutor fees as costs",
+          "bodySha256": "af92f95f74a6fe1a9a5de0575cc02e6964858fc2a23102191f8b48831cc18512",
+          "reviewNote": "Covers prohibition on assessing fees for a judge, city attorney, or prosecutor as costs in a municipal ordinance violation case."
+        },
+        {
+          "number": 5,
+          "title": "Additional fee upon application for trial de novo",
+          "bodySha256": "71aa7d0a6133e6e987db00a149e1d1c5ebcc7863e770303cd36492a636a1a1a9",
+          "reviewNote": "Covers additional section 488.010\u2013488.020 fee assessed in the manner of subsection 2 upon an application for trial de novo in municipal ordinance cases."
+        },
+        {
+          "number": 6,
+          "title": "Traffic violations bureau cost schedules for guilty pleas",
+          "bodySha256": "e11eab15d2818cd4f82262d92c727dd652eca28556b0e2f5a30af42919fc3648",
+          "reviewNote": "Covers municipal ordinance schedules of costs for guilty pleas processed in a traffic violations bureau, capped at subsection 1 or subsection 2 court costs."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all six subsections on municipal court fees, judicial education/appointed counsel funds, associate circuit division costs, municipal filing exemption, judge/prosecutor fee ban, trial de novo fees, and traffic bureau schedules; replaced all five mismatched draft headings/notes on subsections 2\u20136."
+    },
+    {
+      "id": "479.353:47810",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.353&bid=47810",
+      "sourceSha256": "4f7713453a64638c7d10e232b227befdd2bce28f8e4c36619b38d7c4db2b9024",
+      "textSha256": "f8067af681d5e9c866bf63f4a7f3253823a1def8260b776d2c3a1c4259589d06",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Caps on fines and costs, confinement limits, and indigent waiver",
+          "bodySha256": "60a3921eabacf010044987c25cb25322ac4947d3a22b6e16d638816ff9b30d13",
+          "reviewNote": "Covers fine caps for minor traffic and ordinance violations, confinement restrictions, indigent cost bans, and dismissal exemptions."
+        },
+        {
+          "number": 2,
+          "title": "Review and reduction of original fine and sentence after custody",
+          "bodySha256": "3ad3fce34d66bc857d4f214cb71ba55a17cf835c5cd398d90a738cc58148d7c9",
+          "reviewNote": "Covers court authority to review, reduce, or waive original fine and sentence for individuals held on show-cause orders or warrants."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections on minor traffic and municipal ordinance fine/cost caps, confinement restrictions, indigent/dismissal cost bans, and post-custody review and reduction of fines or sentences (A.L. 2019 H.B. 192)."
+    },
+    {
+      "id": "479.359:33329",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.359&bid=33329",
+      "sourceSha256": "eb643d7baf1cda4e72f6b5981266f2f982428e3beddef27b30cee41db98bbe96",
+      "textSha256": "d498ec76efbb67f9b22af9d4d5d9d5efc28ac52acfd83d133f9d0d27433de766",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Calculation of excess general revenue from municipal violations",
+          "bodySha256": "1934b4b5f0eea92cde0f9f13889ffff39b86ebc5142519d617a2affae589667d",
+          "reviewNote": "Covers annual percentage calculation of municipal violation revenue and remittance of excess over thirty percent to county school fund."
+        },
+        {
+          "number": 2,
+          "title": "Percentage threshold reductions to twenty and twelve and one-half percent",
+          "bodySha256": "b67686021e1988f5d1152eabc3bcb22add2913c6ed8282a7a58f530008bf91b5",
+          "reviewNote": "Covers statutory reduction from 30% to 20% and 12.5% for charter counties over 950,000; 2017 source annotation notes City of Normandy v. Greitens held the 12.5% classification unconstitutional and severed it, leaving 20% statewide."
+        },
+        {
+          "number": 3,
+          "title": "Addendum to annual financial report filed with state auditor",
+          "bodySha256": "021d857b34d6f3b1d7bbebfee0aedcb531fffda915b69f6b779c22fdc88b70bb",
+          "reviewNote": "Covers mandatory certified addendum to state auditor report accounting for operating revenue, violation revenue, and percentage."
+        },
+        {
+          "number": 4,
+          "title": "State auditor rulemaking for addendum reporting procedures",
+          "bodySha256": "6377421913b052bf02a568ad2e9ea9ab3f9ae6193b76d3b69a5f60b13c6c7cee",
+          "reviewNote": "Covers state auditor duty to adopt rules for reporting addendum data allowing reasonable demonstration of compliance."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all four subsections on annual violation revenue percentage calculations, threshold reductions, certified state auditor addenda, and rulemaking; notes 2017 Missouri Supreme Court annotation (City of Normandy v. Greitens) severing the 12.5% special-law classification to leave a uniform 20% cap."
+    },
+    {
+      "id": "479.360:33330",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.360&bid=33330",
+      "sourceSha256": "0d57601b292b25c3ff322104a8cfbd6c9d580aada345466d75c30cb223ed038c",
+      "textSha256": "836697973e0f90f9de3fc269164829505dc663fe27002ac5fd58a49bf412870a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Certification of substantial compliance with municipal court procedures",
+          "bodySha256": "98f2edd22a1e8e0d1df466c5aeb1a825a19d95957d95647ca69a9e19cc59f636",
+          "reviewNote": "Covers annual municipal judge certification of compliance with ten required procedures including prompt hearings, bail, and open courts."
+        },
+        {
+          "number": 2,
+          "title": "State auditor rulemaking for compliance certification",
+          "bodySha256": "fd1c9aa07f743384dd5a28166b791ddaf723ce9ac5662ef0ebfc629a73ab17fd",
+          "reviewNote": "Covers state auditor authority to establish rules and reasonable procedures for certifying substantial compliance."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections on annual municipal judge certification of substantial compliance with ten enumerated court procedures and state auditor rulemaking."
+    },
+    {
+      "id": "479.362:26821",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.362&bid=26821",
+      "sourceSha256": "098f833a662870009c9c6ec935161df457402682150b4fdfad3d921b96b8fae2",
+      "textSha256": "2a04cf2dbb048d394dc5848f2719d06c9bd6adfbda87158397a8471b43d0c6a1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Sixty-day notice of addendum noncompliance by department of revenue",
+          "bodySha256": "bae64c38001c4c3160fc56d6c9eb3be1ec6602031d75f1ae14d72782d6173154",
+          "reviewNote": "Covers sixty-day notice of addendum failure or excess revenue discrepancy sent by department of revenue to municipality."
+        },
+        {
+          "number": 2,
+          "title": "Additional notice for unpaid excess revenue after late addendum",
+          "bodySha256": "683be00a20a092787f7f8f652739d38cc147139e02db425c6486e252c0a17ef1",
+          "reviewNote": "Covers DOR review when a political subdivision files an addendum after notice and additional notice requiring payment of unpaid excess revenue within sixty days of the original notice."
+        },
+        {
+          "number": 3,
+          "title": "Petition for judicial review and disputed fund deposit",
+          "bodySha256": "3fa80f7921c69b836e589a782d288fea7cc6e760451c0861c34b0a6126e2bfd6",
+          "reviewNote": "Covers municipal petition for judicial review under section 536.150 and mandatory deposit of disputed funds into court registry."
+        },
+        {
+          "number": 4,
+          "title": "Circuit court determination and fund distribution",
+          "bodySha256": "457397b521db5f63f107bfc6cbda239d52be79e9ffdaf65089029867e7986df2",
+          "reviewNote": "Covers court authority to return improperly demanded funds to municipality and pay remaining funds to department for schools."
+        },
+        {
+          "number": 5,
+          "title": "Final notice, municipal docket certification, and revenue reassignment",
+          "bodySha256": "1313b1bbfbf6d8351b2e59507d0a2c316f57844f20a519807cf65ad3f8e657bc",
+          "reviewNote": "Covers final notice, five-day cure, immediate docket certification by presiding judge, diversion of collections to county schools, and reinstatement; source notes \"sections\" does not appear in original rolls."
+        },
+        {
+          "number": 6,
+          "title": "State auditor audit authority over submitted addenda",
+          "bodySha256": "85ef8b8edc8f9de676a1a402c30b31b3675003194aa9557036cc2d3c43b19460",
+          "reviewNote": "Covers state auditor authority to audit municipal revenue addenda and supporting documentation."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all six subsections on DOR compliance review, 60-day notices, judicial review/registry deposit, circuit court fund return, final notice/docket certification, and state auditor audits; replaced mismatched subsection 2 heading/note and noted original-rolls footnote (\"sections\")."
+    },
+    {
+      "id": "479.368:33331",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.368&bid=33331",
+      "sourceSha256": "cfac8ed0f3a24cef7e2aa2ca55a11a0728397a6962c26b7af9f4c5311283e686",
+      "textSha256": "95e5739ce7ea7e3b522e3cba972bcbd77446612cbf178d88a15b56a6a8adc368",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Loss and withholding of general local sales tax revenue",
+          "bodySha256": "348956b0a1019d2e69b582c46d4a30c237e3e5b8c42aeacbfbd115d7d2575e3b",
+          "reviewNote": "Covers forfeiture, DOR withholding, and school distribution of section 32.085 local sales tax revenues (excluding section 66.620 county trust fund) for addendum or excess-revenue noncompliance."
+        },
+        {
+          "number": 2,
+          "title": "Withholding of county sales tax trust fund distributions",
+          "bodySha256": "c722bea2f9fbf1da1b57a07b5bcdb241e0b964269dfc4eb1b3ace0d72df649e0",
+          "reviewNote": "Covers forfeiture, county remittance, DOR withholding, and school distribution (including upon disincorporation) of sections 66.600 to 66.630 sales tax distributions for noncompliance."
+        },
+        {
+          "number": 3,
+          "title": "Disincorporation election procedures and ballot language",
+          "bodySha256": "5626d57db471d0ae876f3b6196ef3268dcd3b60f6b2cdcdcf9af26ffad2e8a1e",
+          "reviewNote": "Covers disincorporation election procedures, statutory ballot question, publication notice, and majority vote dissolution."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on withholding general local sales tax, withholding section 66.600\u201366.630 county sales tax trust fund distributions, and disincorporation elections with embedded ballot table; fixed mismatched draft headings/notes on subsections 1 and 2."
+    },
+    {
+      "id": "479.500:47812",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=479.500&bid=47812",
+      "sourceSha256": "8cb2218b915fd86a7b52454866846db14336cf1b4ca48f4ea5ebe6f233a5f661",
+      "textSha256": "67a0309d2a8d28a74dd43b6c9a1232d2eb87f1c2db2abab50c30c4ecbccb88ac",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishment of traffic court in twenty-first judicial circuit",
+          "bodySha256": "c9ad1314a6a794ce0f3dac5e23273fde3fa6b0bbbab7a89f35892366218207d6",
+          "reviewNote": "Covers St. Louis County traffic court establishment, maximum three traffic judges, and judicial commission appointment process."
+        },
+        {
+          "number": 2,
+          "title": "Authority to hear nonfelony motor vehicle and ordinance offenses",
+          "bodySha256": "9059b3fef766483401541da4c28e83d7917ee075e3a1c0b5c0b9d190a2085470",
+          "reviewNote": "Covers traffic judge authority to act as commissioner for state nonfelony motor vehicle offenses and county or municipal violations."
+        },
+        {
+          "number": 3,
+          "title": "Limitation to two traffic judges upon county municipal court creation",
+          "bodySha256": "df29efdc04d5380a2eb14dedc316dc075fe5819313064fc4406d3b06f32f63ed",
+          "reviewNote": "Covers traffic judge appointment cap of two judges upon creation of county municipal court and DOR review authority."
+        },
+        {
+          "number": 4,
+          "title": "Driver license review proceedings after January 1, 2002",
+          "bodySha256": "f918befc74f5a86587ccecb4a28edacd71efba349ab930052a1f81b4e083ee42",
+          "reviewNote": "Covers post-January 1, 2002 local rule authority for traffic judges to handle call dockets, uncontested dispositions, and optional first-instance review under sections 302.535, 302.574, and 302.750."
+        },
+        {
+          "number": 5,
+          "title": "Division of circuit into geographical sectors",
+          "bodySha256": "1abab9d7992132f5fb75b52b907e601eea684a75e10a766ac8097fab66d46d13",
+          "reviewNote": "Covers division of twenty-first circuit into geographical traffic court sectors established by court en banc."
+        },
+        {
+          "number": 6,
+          "title": "Traffic judge qualifications, residency, compensation, and restrictions",
+          "bodySha256": "2c258488c83f48194d7bc02928a02647d65ae6bd83ebdcb7873747cfc94d6dd6",
+          "reviewNote": "Covers law license, St. Louis County residency, one-third salary compensation, outside practice bans, and non-state employee status."
+        },
+        {
+          "number": 7,
+          "title": "Operating procedures, evening and Saturday sessions, and jury certification",
+          "bodySha256": "632bb193e62bb415e345f602b8a9ff64f38570fa9bb186b099f298403056258d",
+          "reviewNote": "Covers court operating rules, evening and weekend sessions, affirmative evidence inquiry, and jury trial certification."
+        },
+        {
+          "number": 8,
+          "title": "Telephone, written, and electronic plea procedures",
+          "bodySha256": "ab4d01abca48b0a49c74db84b6625268cda84b1581992936a868079b6ef29fae",
+          "reviewNote": "Covers operating procedures for entry of not guilty pleas and fine payments by phone, mail, or electronic transmission."
+        },
+        {
+          "number": 9,
+          "title": "Electronic recording and trial de novo remedy absent equipment",
+          "bodySha256": "e3e1bd50116c215b0d777f4e8265c0cda67d1e7d68ccd2f886aad59ebf8d78b3",
+          "reviewNote": "Covers electronic recording requirements and right to trial de novo under chapter 512 if county fails to provide recording equipment."
+        },
+        {
+          "number": 10,
+          "title": "Limitation to two commissioner appointments",
+          "bodySha256": "c1d159705bf6a4ed081dc1dc3ea164345266bef0a16be2f8a5687175bea42414",
+          "reviewNote": "Covers statutory restriction limiting circuit court to appointing two commissioners with designated traffic jurisdiction."
+        },
+        {
+          "number": 11,
+          "title": "County responsibility for establishment and operating costs",
+          "bodySha256": "167a9921d7c6f724dc1d4bfe129da2c2aa7fc296636f98a741d8929d8865b3ee",
+          "reviewNote": "Covers county funding obligation for all costs to establish and operate traffic court and county municipal court."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all eleven subsections on the twenty-first judicial circuit traffic court, commissioner jurisdiction, post-2002 driver-license reviews, sectors, judge qualifications/pay, evening/Saturday sessions, remote pleas, recording/trial de novo, two-commissioner cap, and county costs."
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "492.070:27226",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=492.070&bid=27226",
+      "sourceSha256": "f18ef6ceef694fa6cd471b65a5fb9c6407bc49e0036dc5bdfedba629493e0a5c",
+      "textSha256": "1acae00c79ea755219a95c77d604961b2b28b84a5d0b5b4752dc42b776f9d96b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Military commissioned officer authority to administer oaths and depositions",
+          "bodySha256": "943319a7c9a21220f94d52ec2a2103fb0bcabdc03442ad7d01ed5151ac8c834d",
+          "reviewNote": "Empowers armed forces commissioned officers to administer oaths, depositions, and affidavits for military personnel."
+        },
+        {
+          "number": 2,
+          "title": "Officer certificate details, military branch, and security omissions",
+          "bodySha256": "a0f30a0f979b299a29a24ed565ff0298b289bb34dfac0fcf111d96365ab27eca",
+          "reviewNote": "Specifies officer certificate contents and validates omissions of serial number or location for security reasons."
+        },
+        {
+          "number": 3,
+          "title": "Statutory military jurat form for oaths and depositions",
+          "bodySha256": "9d0fa369a2a32171de91552b48c96506340142c641a59aec17c61e035a7f36a0",
+          "reviewNote": "Sets standard statutory jurat form for armed forces oaths, depositions, and affidavits."
+        },
+        {
+          "number": 4,
+          "title": "Validation of prior military oaths and non-conforming depositions",
+          "bodySha256": "54cf936059bf6e61e1a1c95c82bcfb8c4f4a690a34504568d1395d38159445a8",
+          "reviewNote": "Validates all prior military oaths, affidavits, and depositions complying with section from and after June 12, 1991."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections and embedded military jurat form on commissioned officer oaths/depositions (excluding warrant officers), security omissions, and June 12, 1991 validation."
+    },
+    {
+      "id": "492.150:27234",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=492.150&bid=27234",
+      "sourceSha256": "032c206847e1321cfa0d10cb28c54e8764d51c717f7a4f095b11b4cdf661733e",
+      "textSha256": "5d5211bf00502a1e5d8d95b259f06b50429d61a64cfbfd9e85173f09c96c817d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Court appointment of special commissioner to take depositions",
+          "bodySha256": "f969998e9f8b3d89e9b4c4ea845b9625daf7d3a5d669f7e7123270d1bb683694",
+          "reviewNote": "Authorizes court appointment of a disinterested attorney of record as special commissioner to take depositions."
+        },
+        {
+          "number": 2,
+          "title": "Special commissioner subpoena enforcement and witness attachment powers",
+          "bodySha256": "c35bb2fa09dd311a0e50c6689a9dd86d37ce9398a822964bf68e0b243a7422b6",
+          "reviewNote": "Authorizes special commissioner to compel witness attendance by attachment under previously served subpoenas."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on court appointment of disinterested attorney special commissioners for depositions and enforcement of previously served subpoenas."
+    },
+    {
+      "id": "492.155:27235",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=492.155&bid=27235",
+      "sourceSha256": "ded116413baba4ba1831acf5847c7b8e360f1c936d20fb8eb6e4b2e1a658d88b",
+      "textSha256": "8b11b0eb385481a8faaabe89e3ab274c8e4fe263ee4b14d5cca5e3c17e0d9547",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "General authority and powers of deposition special commissioners",
+          "bodySha256": "53dfb411b922dc8042550bb99e06a31b5bde8b084d207d00ece653b2d0790244",
+          "reviewNote": "Confers on special commissioners all legal powers and duties of officers authorized to take depositions."
+        },
+        {
+          "number": 2,
+          "title": "Special commissioner power to rule on evidentiary objections",
+          "bodySha256": "2514a44582209b37314f598dce684f80ea8f29084fd884b9ca530dece6f6347e",
+          "reviewNote": "Empowers special commissioner to hear and determine all evidentiary objections as a trial court would."
+        },
+        {
+          "number": 3,
+          "title": "Reporting sustained evidentiary objections to the court",
+          "bodySha256": "e6bbb65643431c40b03a30df924bc4bf0db347cc45fbae2efcca33e901b29236",
+          "reviewNote": "Entitles aggrieved parties to have sustained objections reported by special commissioner to the court."
+        },
+        {
+          "number": 4,
+          "title": "Judicial review and orders affirming or reversing commissioner rulings",
+          "bodySha256": "87e717cd6221e0cfbe206f181eea23a9cb8ad90dfdad07d53d62a5cc6fb72895",
+          "reviewNote": "Directs court to forthwith pass upon reported rulings and order excluded evidence admitted if reversed."
+        },
+        {
+          "number": 5,
+          "title": "Adjournment and enforcement of witness answers following judicial reversal",
+          "bodySha256": "8b8fcc0f8814dd62c674ffa2d8909f649ba82b21be53122c838abfd8c86d194f",
+          "reviewNote": "Directs commissioner to adjourn proceedings and enforce witness attendance to answer questions upon court reversal."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 5 subsections on special commissioner deposition powers, evidentiary rulings, reporting sustained objections, judicial review, and adjournment/enforcement."
+    },
+    {
+      "id": "492.270:27247",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=492.270&bid=27247",
+      "sourceSha256": "f66399a4eb96d31c8080c623d451de47402d2eae2eb529233b25550b204d10ad",
+      "textSha256": "56cef4be871648d8f133af4a78f65c2a8042447eeae2251399b97c803062d81e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Subpoena and witness compulsion powers for deposition officers",
+          "bodySha256": "174c432472ce8d9fac68a95bb004a36c3333ca307951acf1ebbc983d80d7c385",
+          "reviewNote": "Authorizes deposition officers to issue subpoenas and compel witness attendance under court of record penalties."
+        },
+        {
+          "number": 2,
+          "title": "Imprisonment of refusing witnesses and habeas corpus costs",
+          "bodySha256": "bb88cf7525131f90071fb65cb48e81a1c38d0e4dc23132966fb18253805bc597",
+          "reviewNote": "Authorizes committing refusing witnesses to prison without bail, awarding costs and attorney fees upon habeas discharge."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on deposition officer subpoena/compulsion powers and imprisonment of refusing witnesses with habeas corpus costs and attorney fees."
+    },
+    {
+      "id": "492.303:27252",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=492.303&bid=27252",
+      "sourceSha256": "29634015b536a9c162cce869bf6cfb7b05aa2f3e0c0635fadb8bee14d7f6caea",
+      "textSha256": "0c9b28dde7cf0ab7fc384d5e08b42df88c1dacbeb053f4685eba80da3cfdf22f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Essential witness felony depositions upon court finding",
+          "bodySha256": "1971d46b8a6bbaf3b8f2a618f38fef40e9979352d898606d3104136004c00c70",
+          "reviewNote": "Authorizes prosecutor to take depositions of essential eyewitnesses to felonies under court protective orders."
+        },
+        {
+          "number": 2,
+          "title": "Confrontation rights, defendant attendance, and travel expense taxation",
+          "bodySha256": "9a82cf269d705f149f2f3b711c061a1f20ddfb9c8296123ffbcaa1c79697cf8a",
+          "reviewNote": "Requires court orders protecting confrontation rights, discovery compliance, and taxing defendant travel costs."
+        },
+        {
+          "number": 3,
+          "title": "Trial use of essential witness depositions and witness unavailability",
+          "bodySha256": "93eab7bc21b10266559011719e3b0e07430e11608783aa2ba87a68edf1214d13",
+          "reviewNote": "Authorizes trial use of essential witness videotaped depositions when witness refuses to testify or fails to attend."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections on essential witness felony depositions (excluding accused and spouse), confrontation/discovery protections, and trial use."
+    },
+    {
+      "id": "492.304:57355",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=492.304&bid=57355",
+      "sourceSha256": "37cd496cb0b54b74f1354730d3fbc3fb86b4ea21c3d329b5044c067e0053dffd",
+      "textSha256": "ac8f94f4f4d02c541a178069395ad8582ed7976d81ddebc443a9c6fe41e473e1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Admissibility requirements for recorded statements of child or vulnerable person",
+          "bodySha256": "70039bd69b2962f21048d9511dad592408a87b762d593251737cc1173fd43c68",
+          "reviewNote": "Establishes reliability standards for admitting recorded statements of children under 18 or vulnerable persons in sex/assault crimes."
+        },
+        {
+          "number": 2,
+          "title": "Prerequisites for recorded statement when child or vulnerable person does not testify",
+          "bodySha256": "f9d09d1bc886317761e4988c9285dbf766cff96d6a69b29c1c51346d5e197132",
+          "reviewNote": "Conditions admissibility of recorded statement on qualification under section 491.075 if the child or vulnerable person does not testify at the proceeding."
+        },
+        {
+          "number": 3,
+          "title": "Cumulative admissibility when child or vulnerable person testifies",
+          "bodySha256": "03d358843fff08844228b122ecdc32a30c857ee477d92c3967a719393b8b24bb",
+          "reviewNote": "Makes an admissible recorded statement admissible in addition to live testimony of the child or vulnerable person whether or not duplicative."
+        },
+        {
+          "number": 4,
+          "title": "Definition of nonverbal statements including physical demonstrations",
+          "bodySha256": "7e9b1eac8d06a088a7a45931f8f6ff5d7cf01a2b410b6009b8e4e7d500008d49",
+          "reviewNote": "Defines nonverbal statement to include actions, facial expressions, and visual aid demonstrations."
+        },
+        {
+          "number": 5,
+          "title": "Definition of vulnerable person lacking mental capacity",
+          "bodySha256": "834031fdb10fa10891724c29b4000a50e02a622ab2d2a9d470b681f7c515af68",
+          "reviewNote": "Defines vulnerable person as one with impaired intelligence or psychiatric disorder lacking capacity to consent."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 5 subsections and effective-date note (Effective 8-28-26); aligned subsections 2–3 titles to \"child or vulnerable person\" instead of \"victim\"."
+    },
+    {
+      "id": "492.400:27263",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=492.400&bid=27263",
+      "sourceSha256": "2b5fbf6f8ac1dc37c20e4a461ce4395a7fea16a00f0e99a4419202ac68c477cd",
+      "textSha256": "d482418ec968858c566d2db2dbe6bb444de46ff4ce73c07d6fe7df962606cc11",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Trial use of depositions as testimony in open court",
+          "bodySha256": "23f126c09992ec0df971ad913e4a00800138d54edca226df1bb02b21e368a883",
+          "reviewNote": "Authorizes reading conforming depositions in evidence as if witnesses were present and testifying in open court."
+        },
+        {
+          "number": 2,
+          "title": "Circumstances establishing witness unavailability for reading depositions",
+          "bodySha256": "92c1fd06d7a633c898b9d27b2493c78b663fd86cc30a34d6e1e6c61c719136ba",
+          "reviewNote": "Specifies grounds for establishing unavailability, including death, sickness, nonresidence, distance, or official duties."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections and Adkison v. Hannah (475 S.W.2d 39) annotation on reading depositions in evidence and six grounds of witness unavailability."
+    },
+    {
+      "id": "492.590:27282",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=492.590&bid=27282",
+      "sourceSha256": "1cb237f05597a88cf2c761906c0079535485a0c24b26395a734b1f0e3707b01c",
+      "textSha256": "da685b3f44f3784b065f54c363ee2f884636a94d48afcb6d5ec002dcccffa5d4",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Deposition costs and expenses awarded as judgment for requesting party",
+          "bodySha256": "d0ca591320cd3311f47bf4617aa53217b489425cfe70c77b89fd68535fa756f4",
+          "reviewNote": "Provides that court reporter fees and deposition expenses are awarded as judgments, limiting copies to one per party."
+        },
+        {
+          "number": 2,
+          "title": "Court limitations on certified deposition costs and reasonableness factors",
+          "bodySha256": "df8ff1d1fa3e6d3408e5cf367b13e6efd8c51e3573b1bd597f65e889dc276295",
+          "reviewNote": "Authorizes court to limit certified deposition costs based on relevance, taking time, and community reporter rates."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections, footnote (*section 514.460 transferred to 488.432 in 2000), and Burwick v. Wood (959 S.W.2d 951) annotation on deposition cost judgments and limits."
+    }
+  ]
+}

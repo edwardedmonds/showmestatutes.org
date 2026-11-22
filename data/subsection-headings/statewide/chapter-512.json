@@ -1,0 +1,317 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "512.010:27609",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=512.010&bid=27609",
+      "sourceSha256": "cb734d28e7a38e495c0d9594565f7c686af0812cb4b732417e1748882a6328b1",
+      "textSha256": "75830a0591af7e9d445cdee6c11bf7b2f1d584c3c19c3c15b6f890c4697ed4b1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Abolition of writs of error in civil actions",
+          "bodySha256": "f4f1e61b8677c668ec6c9aed0ef12aa960d41aae4c90f25c62e47c19ff094221",
+          "reviewNote": "Abolishes writs of error in civil cases and provides review by appeal as a continuation of the trial court proceeding."
+        },
+        {
+          "number": 2,
+          "title": "Inapplicability to criminal proceedings",
+          "bodySha256": "aa73478b5d1f83b7e90ff879da143c7895b7dc235fbb9d04f38b42c3eb15b962",
+          "reviewNote": "Specifies that this section is not intended to apply to criminal cases."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; abolition of civil writs of error in favor of appeal and inapplicability to criminal cases verified."
+    },
+    {
+      "id": "512.060:27615",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=512.060&bid=27615",
+      "sourceSha256": "ff9250a7fe899d20214c6bb0bb1fc82aad33a8e330ef182fb918af0586e37194",
+      "textSha256": "b1de77388d80c9a28d7b4709c0c896e3080ac395475d5f8f607de6a253b006e8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Appeal by special order within six months of final judgment",
+          "bodySha256": "1fa31da5d6206dd4ec9d5418157485018df65e119acefdf614517e73fb988919",
+          "reviewNote": "Permits appellate court by special order within six months of final judgment to allow late notice of appeal upon motion, notice, and showing of merit without culpable negligence."
+        },
+        {
+          "number": 2,
+          "title": "Appellate stay authority and protection of third-party rights",
+          "bodySha256": "ab79d5db92fd1709de1f4ddc58058d8b3bffb09a899adb694dad64d7a82fd059",
+          "reviewNote": "Lodges stay authority exclusively in the appellate court with trial-court supersedeas bond filing under sections 512.080 and 512.100, and protects good-faith nonparty rights acquired before filing."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; six-month appellate special-order appeal, exclusive appellate stay authority, supersedeas bond references (sections 512.080 and 512.100), and good-faith nonparty protection verified."
+    },
+    {
+      "id": "512.070:27616",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=512.070&bid=27616",
+      "sourceSha256": "80ec7f5180a4d13af057e60e2a9ececd249143e6ea0cba1190002bd429731aa2",
+      "textSha256": "3aa4f59d16a8e4ea2a7be6067345b9dd47e49f80993415159f1675a15fa76730",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Required contents of notice of appeal",
+          "bodySha256": "e3337bfc92d39d900725f588243f7b3326309c89416120af03fc15f3746cc53b",
+          "reviewNote": "Requires the notice of appeal to specify appealing parties, designate the judgment or order appealed from, and name the appellate court."
+        },
+        {
+          "number": 2,
+          "title": "Trial court clerk notification and transmission duties",
+          "bodySha256": "6d08738bd149174d583e8b392579a90044deb4897f7e88ab2d05e1789108caea",
+          "reviewNote": "Requires trial clerk to mail notice copies by registered mail to other parties without failure affecting appeal validity, transmit copy and docket fee to appellate clerk, and file a mailing memorandum."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; mandatory notice-of-appeal contents and trial clerk registered-mail notification and docket-fee transmission duties verified."
+    },
+    {
+      "id": "512.080:27617",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=512.080&bid=27617",
+      "sourceSha256": "32ffaed243d96183457a7a441b7be59d2121181ac45a50eb0ff4c99a422468f8",
+      "textSha256": "819d41168dcd149d5059df47ce5de40197fcb774585893f8717be2957cf8b031",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Stay of execution for governmental entities, fiduciaries, or on approved bond",
+          "bodySha256": "e0d6620a8a3f9e38a0155930db95d85e82d3da7629b1a72f86faef8d7d9b99e7",
+          "reviewNote": "Stays execution automatically for listed fiduciaries and governmental entities, or upon court/clerk approval of a supersedeas bond within the prescribed time, releasing prior execution."
+        },
+        {
+          "number": 2,
+          "title": "Supersedeas bond conditions and calculation of amount",
+          "bodySha256": "c4a7c618d35182b928d655e22f9d8e49ed8a9c8069c48a3cb1b0499dd02709f5",
+          "reviewNote": "Prescribes supersedeas bond conditions, calculation standards for money and property/foreclosure judgments, good-cause modification authority, and surety address requirement."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; automatic execution stays for fiduciaries and municipalities, approved supersedeas bond procedures, and bond conditions/calculation formulas verified."
+    },
+    {
+      "id": "512.085:27618",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=512.085&bid=27618",
+      "sourceSha256": "4a2e99a6a3bb3ae5cb8842b2bc351302bf683bdcd76953a45d22d1312d55c3ff",
+      "textSha256": "36ca3d00e642e8b158c0c56d320059c2ba916f5b8101633dd9e8120f2d18ab27",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Fifty-million-dollar appeal bond cap in tobacco master settlement litigation",
+          "bodySha256": "563c479cd10790cf4a3869bf6bad3f2df620f6bfda31fade3aed033f1aef06c2",
+          "reviewNote": "Caps collective appeal bond or surety at fifty million dollars for tobacco master settlement agreement signatories, successors, and affiliates while preserving judicial discretion to set lower amounts."
+        },
+        {
+          "number": 2,
+          "title": "Rescission of bond cap for asset dissipation and financial disclosure duties",
+          "bodySha256": "2b6e283f90440d2c3dc363c8ffa838da41f37db36b9374ea27a9939886ef5fd6",
+          "reviewNote": "Permits rescission of the bond cap and protective orders upon preponderance proof of purposeful asset dissipation, and mandates initial/quarterly asset-liability disclosures and a non-dissipation agreement."
+        },
+        {
+          "number": 3,
+          "title": "Applicability to pending cases on or after August 28, 2003",
+          "bodySha256": "9a2238ec87c7010a660cfac2901b6914e433c90982c10530e6deaf96fea1a84f",
+          "reviewNote": "Applies this section to all cases pending on or after August 28, 2003."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections and statutory history; $50 million collective appeal bond cap in tobacco master settlement litigation (section 196.1000), rescission for asset dissipation, and August 28, 2003 applicability verified."
+    },
+    {
+      "id": "512.099:27620",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=512.099&bid=27620",
+      "sourceSha256": "9e26a03351063587e7e22fb10ec140d416a7595aedd2278bdd2d99617e747cc1",
+      "textSha256": "3c0ee0af867846c3dd483635410677564087521aa0c4a6e5fa93c4347f3b2c73",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Fifty-million-dollar collective appeal bond cap in tort actions",
+          "bodySha256": "a09e8cfc825268303d0f4bd897f5eab3bac369a3189774915e2fd015e0bec5ef",
+          "reviewNote": "Caps collective appeal bond or surety at fifty million dollars in cases containing a tort count while preserving judicial discretion to set lower amounts for good cause."
+        },
+        {
+          "number": 2,
+          "title": "Rescission of tort bond limitation for asset diversion and disclosure duties",
+          "bodySha256": "d77c7caf3807fc6eaa35aac99f8b58781c6464582d3c7ef2682f91870790ba6e",
+          "reviewNote": "Permits rescission of the bond cap and protective orders upon preponderance proof of purposeful asset dissipation, and requires initial/quarterly asset-liability statements and written or on-record non-dissipation agreement."
+        },
+        {
+          "number": 3,
+          "title": "Applicability to judgments entered on or after August 28, 2005",
+          "bodySha256": "489f5969fccae9b3297c8151bf30fe1836013a3e5a7a7f7fb8d826936caed6c5",
+          "reviewNote": "Applies this section to all judgments entered on or after August 28, 2005."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections, statutory history, and section 538.305 cross-reference note; $50 million collective tort appeal bond cap, rescission/disclosure rules, and August 28, 2005 judgment applicability verified."
+    },
+    {
+      "id": "512.110:27622",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=512.110&bid=27622",
+      "sourceSha256": "a449a5e4e79430be9d075202551aa655257715bb6ae445808523cb53d64f7cf5",
+      "textSha256": "1f2fe9dc8b431162c6ec8489b84570141efabdcdcedcce3a00f789d722fe6263",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Filing deadlines for appellate transcript and trial court copy",
+          "bodySha256": "ed31b5a171aabe66e53bdf370e334976bc76555a4294747e3787403ae60e9d64",
+          "reviewNote": "Requires appellant to prepare and file the appellate transcript within section 512.130 and 512.140 deadlines and file a copy with the trial court clerk within five days thereafter."
+        },
+        {
+          "number": 2,
+          "title": "Scope of transcript record, evidence inclusion, and abbreviated transcripts",
+          "bodySha256": "a6ed13e660dbf962116ce5ccd3c82e1f91c3932edb9665c9694a6f844d4107bc",
+          "reviewNote": "Requires transcript to contain record and evidence needed for review, permits taxing unnecessary-matter costs, and allows written agreement on abbreviated transcripts or a section 512.120 statement."
+        },
+        {
+          "number": 3,
+          "title": "Transcript approval, correction of omissions, and supplemental records",
+          "bodySha256": "657e7f503e5c0598a77527869f49641eb165e66b224f337fedfdbbf270c6e764",
+          "reviewNote": "Specifies when trial-court approval is required, directs correction of material omissions or misstatements, and permits appellate orders for supplemental transcripts or original exhibits."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections and statutory history; appellate transcript filing deadlines (sections 512.130 and 512.140), record scope and abbreviated transcripts (section 512.120), and approval/correction/supplemental record procedures verified."
+    },
+    {
+      "id": "512.150:27626",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=512.150&bid=27626",
+      "sourceSha256": "2a035e7848ff381c088e234e4e8537289c9777cb48d0903b3817874848809a28",
+      "textSha256": "3a4630a10ec1379a70546996dbef42dd77173828d5dd44566cc623441fa00f9a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Appellate court rules for briefs, filing times, and hardship modifications",
+          "bodySha256": "49573f5d683579b23f4cea17bce7a15a1beaac866ac2621d768e47d222808fa4",
+          "reviewNote": "Empowers appellate courts to adopt rules on briefs, service, docketing, and transcript cost taxation, permitting suspension or modification for justice and especially for poor persons."
+        },
+        {
+          "number": 2,
+          "title": "Precedence of appellate docketing rules over statutory hearing preferences",
+          "bodySha256": "43060a9a9e17daf711920b8db60d0d8b805cf903946bc0f2858880d6787f2055",
+          "reviewNote": "Provides that appellate docketing and argument rules adopted under subsection 1 prevail over statutory hearing-order or preference provisions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; appellate rulemaking for briefs/service/docketing with hardship modification for poor persons and precedence over statutory hearing preferences verified."
+    },
+    {
+      "id": "512.160:27627",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=512.160&bid=27627",
+      "sourceSha256": "af3e2ad0a73543699a2d07c164f9382ca67760f378e28be84453153aea4f7f27",
+      "textSha256": "cad46a19c4d2f2c20ee02a13fc088ac41e021d8bcc4671af4d2bfca0a87875d2",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Preservation requirement for appellate review of trial errors",
+          "bodySha256": "8c5f2e4a3bee1b6b164269e1cf0ef68d96bb5911772d89d0b2b4302928cb7f8a",
+          "reviewNote": "Bars appellate consideration of allegations of error not presented to or expressly decided by the trial court, except subject-matter jurisdiction and pleading sufficiency."
+        },
+        {
+          "number": 2,
+          "title": "Material error requirement for appellate reversal",
+          "bodySha256": "42bbfdba68525c63004f6c536491a0afee12af86eec882c8073f6983bbf38f92",
+          "reviewNote": "Prohibits appellate reversal unless the court believes trial-court error was committed against appellant materially affecting the merits."
+        },
+        {
+          "number": 3,
+          "title": "Appellate disposition powers and award of new trial",
+          "bodySha256": "e83cb91eaaa347fa1cd7bde502c4332cefd8ffcf66f1d1204a86919b817bebdd",
+          "reviewNote": "Directs appellate court to examine transcript and affirm, reverse, order new/partial trial, or enter judgment, disposing finally unless justice requires otherwise."
+        },
+        {
+          "number": 4,
+          "title": "Discretionary appellate damages and partial affirmance interest",
+          "bodySha256": "572a7119aecc980335cf3fb84d1392b48f8478a4e9c28fc30dabca45b854550e",
+          "reviewNote": "Permits appellate court on affirmance or dismissal to award respondent just damages up to ten percent of the judgment, and specifies lawful interest on partially affirmed judgments."
+        },
+        {
+          "number": 5,
+          "title": "Execution of appellate determinations and remand to trial court",
+          "bodySha256": "b69de37d7c950c0730323f90a92be1cbe0ed093dab5a17fc8ecdb52ea43525f2",
+          "reviewNote": "Permits appellate court to award execution directly or remand the cause with decision to the trial court for execution."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 5 subsections, statutory history, and 1986 Swanigan v. Crochett annotation; revised subsection 4 title to remove unstated 'delay' limitation and preserve permissive damages language."
+    },
+    {
+      "id": "512.180:35185",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=512.180&bid=35185",
+      "sourceSha256": "eb1203547735a8f6f105ce5241832d202223faf36258ab4554cc7b54e1c9eeef",
+      "textSha256": "e14c088b9b360dd847eeb70163949a015afe423b61b8512f8304942ec8be7183",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Trial de novo in municipal and chapter 482 or 535 cases",
+          "bodySha256": "20709058327e158e789b85037525619ddfc3e6d4fd340bf53c2d61432e942e73",
+          "reviewNote": "Grants a right of trial de novo from non-jury associate circuit judgments (excluding probate and circuit-procedure assignments) in municipal court and chapter 482 or 535 cases."
+        },
+        {
+          "number": 2,
+          "title": "Record requirement and direct appeal in contested associate circuit cases",
+          "bodySha256": "b941f0c8336858907f39433145c4ac54530730c285e9823ede5dbe47a36c926e",
+          "reviewNote": "Requires a stenographic or electronic/magnetic/mechanical sound or video record and permits direct appeal on that record in other contested civil, misdemeanor, and county ordinance cases."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; revised subsection 1 title to reference chapters 482 and 535 directly and refined subsection 2 note to reflect statutory recording options."
+    },
+    {
+      "id": "512.190:27630",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=512.190&bid=27630",
+      "sourceSha256": "83f27419adbc3338725da41b9db8e5e05fdb272e75dc15ee280c3785020bd10c",
+      "textSha256": "807cf7fada877e104c30378da9134918ddc76da5278be3103cce5188f043bac7",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application deadline, notice service, and recognizance for trial de novo stay",
+          "bodySha256": "3b07ff147983bd649e64f0fde93cbefa01f5d3d74db05153bba282310ee36c06",
+          "reviewNote": "Requires perfecting section 512.180(1) trial de novo by filing application within ten days, clerk notice within fifteen days, and approved recognizance within ten days to stay execution."
+        },
+        {
+          "number": 2,
+          "title": "Governing rules for appeals to court of appeals or supreme court",
+          "bodySha256": "d7acabdd9e54842b35fc0cb7f57ecf169de306b1acdded3a5ed1383674162958",
+          "reviewNote": "Provides that appeals to the court of appeals or supreme court are governed by the same rules applicable to appeals from circuit judge judgments."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, statutory history, and effective date 1-01-87; ten-day trial de novo application, fifteen-day notice, stay recognizance, and appellate-rule parity verified."
+    }
+  ]
+}

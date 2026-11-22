@@ -1,0 +1,793 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "491.010:27155",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.010&bid=27155",
+      "sourceSha256": "db794ffd362f87d517b1256149b2c08bfcb669c5e261af2241204819784f8c92",
+      "textSha256": "2864392a0a40f31753fc9079cadee0950fec290b306da8fefff08737f861d03a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Competency of interested parties as witnesses",
+          "bodySha256": "7bd0c429ebbeb8a209c0180ae23fad5aac681d846ca9e02d73ba0ff5caf4688b",
+          "reviewNote": "Abolishes party and interested witness disqualification, leaving interest to affect credibility."
+        },
+        {
+          "number": 2,
+          "title": "Admissibility of statements of deceased or incompetent persons",
+          "bodySha256": "c336f12a118c0c88da688968e7fb5ccbe53f605f65985ddf7445b317956149eb",
+          "reviewNote": "Permits statements of deceased or incompetent persons when adverse party testifies."
+        },
+        {
+          "number": 3,
+          "title": "Applicability to trials commenced after September 28, 1985",
+          "bodySha256": "397f6f305277eba52bd16abb728a24f5e1ee07e0d64c96baf20102255a9c6639",
+          "reviewNote": "Specifies statutory effective application date of September 28, 1985."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections abolishing witness interest disqualification, permitting statements of deceased or incompetent parties when an adverse party testifies (with jury voir dire), and setting the September 28, 1985 trial applicability date."
+    },
+    {
+      "id": "491.015:51053",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.015&bid=51053",
+      "sourceSha256": "ac9d100751af90c328f8f33c4f6d91adb89784d384baf4014aadf93cb493f1df",
+      "textSha256": "b34933c447f7962df4ba176598930b6e843d5e6756d1e4a096da4dc9bec31e43",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Inadmissibility of victim or witness prior sexual conduct",
+          "bodySha256": "e4fe426f746edb1499dcc66c0f9e0843dcde9102d22960e4809713545dc63a0f",
+          "reviewNote": "Establishes rape-shield bar on victim/witness prior sexual conduct in chapter 566 and sexual-conduct chapter 568 prosecutions with four exceptions; notes 1987 and 1993 case annotations."
+        },
+        {
+          "number": 2,
+          "title": "Relevance standard for admissible sexual conduct evidence",
+          "bodySha256": "7dd603ee01884b7556bb2ff38b468f5a392ce8b5b4037dc19e6df9b76e712b82",
+          "reviewNote": "Provides that sexual conduct evidence offered under this section is admissible to the extent the court finds it relevant to a material fact or issue."
+        },
+        {
+          "number": 3,
+          "title": "Written motion, offer of proof, and in camera hearing procedure",
+          "bodySha256": "5f9bfe942bd8d1fb0ce7d0f8d1a2e65b516fe8778f7f9eab07049fb10128485a",
+          "reviewNote": "Prescribes procedure for written motion under seal and in camera evidentiary hearing."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on rape-shield inadmissibility with four exceptions, material-fact relevance standard, and written offer-of-proof / sealed in camera hearing procedure; corrected subsection 2 title/note and noted 1987 and 1993 case annotations."
+    },
+    {
+      "id": "491.016:50122",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.016&bid=50122",
+      "sourceSha256": "68fcf72ffe8b1e549659742210c7218fa2f6204d029062020f5f141dcfb1cc3e",
+      "textSha256": "b796356ad20bd5034ccb77f5250724669c6f686ce5d87a503b5911f72515f27f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Admissibility of statement where defendant caused witness unavailability",
+          "bodySha256": "a16a99fb001d890f9eed7520c4f0cfe5e9332a7304364f040e44ff1b370fb2f2",
+          "reviewNote": "Codifies forfeiture by wrongdoing hearsay exception where defendant procured witness absence."
+        },
+        {
+          "number": 2,
+          "title": "Hearing outside the presence of the jury",
+          "bodySha256": "acf7ed6471a076f5c6c5992268bae7b77bcb0fc1bea5028b6dcbf35db4b4b826",
+          "reviewNote": "Requires admissibility hearing outside jury presence decided by preponderance of the evidence."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections codifying forfeiture-by-wrongdoing admissibility of unavailable witness statements by preponderance of the evidence and requiring an outside-the-jury hearing before submission (L. 2021 S.B. 53 & 60)."
+    },
+    {
+      "id": "491.065:57696",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.065&bid=57696",
+      "sourceSha256": "15a1bffa814d0eb2ef62242f5f9174b77c0f46b8eb0aa4553457455bbf94d7eb",
+      "textSha256": "dd3c0a7ef266b1498fd5f4bdadfbda554ab5c585660aae9331bf72f41e7621b0",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions of benefit and informant",
+          "bodySha256": "62e3d14e9d1f6cf18b994d96ef451fa4c884a8b45be23a24d3a849ca9718240c",
+          "reviewNote": "Defines \"benefit\" and \"informant\" (excluding codefendants and victims) for informant disclosure provisions (L. 2025 H.B. 495; severability in section 1.1001)."
+        },
+        {
+          "number": 2,
+          "title": "Prosecutor reporting to Missouri office of prosecution services",
+          "bodySha256": "3070815dc9f6eefd85faf98200402e3a4892dd85ffb6b1f86d55d05b1c054c80",
+          "reviewNote": "Requires prosecuting and circuit attorneys beginning January 1, 2026, to send section 56.750(2)(4) information to the Missouri office of prosecution services for its summary report."
+        },
+        {
+          "number": 3,
+          "title": "Mandatory disclosure of informant background and materials to defense",
+          "bodySha256": "739043d03005cec6b24ceaaf3449bc55d4b20809b46b77b46e6d60a8eb4c8468",
+          "reviewNote": "Mandates disclosure of informant criminal records, benefits, and statements within fourteen days of endorsement."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections defining \"benefit\" and \"informant\", requiring prosecutor reporting to the Missouri office of prosecution services starting January 1, 2026, and mandating 14-day informant disclosures; corrected subsections 1\u20132 titles/notes and noted section 1.1001 severability clause."
+    },
+    {
+      "id": "491.075:57354",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.075&bid=57354",
+      "sourceSha256": "a0b895b4a3e00108d48ffe94b3f28ae9a495b8bda4ca6a24e710abfb4fea9f22",
+      "textSha256": "f2d9c400ebb963410b1ebabf9b41176b13b3cdbe815ddd2a429b98616d0b9f2b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Admissibility of statements of child or vulnerable person",
+          "bodySha256": "d2e993bc136cd0f25982414a8788094990c866d81b4bee97ecf2d091be6fe527",
+          "reviewNote": "Creates hearsay exception for statements of children under 18 or vulnerable persons in chapter 565, 566, 568, or 573 criminal proceedings; notes five 2002\u20132011 case annotations."
+        },
+        {
+          "number": 2,
+          "title": "Corroboration of confessions with child or vulnerable person statements",
+          "bodySha256": "c345fbe9f16a68b71f46b805f0a8264f07e32188df9a21d8806985b4b0d66c23",
+          "reviewNote": "Authorizes corroboration of confessions with qualifying statements of child or vulnerable person."
+        },
+        {
+          "number": 3,
+          "title": "Notice requirement to adverse party before trial",
+          "bodySha256": "f9f8ac93e99c0c84f503876500ad5cd48bf9018f52fe80317a1e5012e7a1e8be",
+          "reviewNote": "Requires prosecuting attorney to give written notice and content details to adverse party before trial."
+        },
+        {
+          "number": 4,
+          "title": "Reservation of other evidentiary grounds of admissibility",
+          "bodySha256": "0140847438dd8b846a329542569f862b86e8e3a4705096ecd6fc545838eff77d",
+          "reviewNote": "Preserves statement admissibility under other statutory provisions and rules of evidence."
+        },
+        {
+          "number": 5,
+          "title": "Definition of vulnerable person",
+          "bodySha256": "e514cf90eedad91b39007eb15b77df4c896192952b8881925a34124dc167459d",
+          "reviewNote": "Defines vulnerable person based on physical, mental, or developmental impairment."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all five subsections on substantive admissibility of statements by children under 18 or vulnerable persons in chapters 565/566/568/573 cases, confession corroboration, advance notice, preserved admissibility, and vulnerable-person definition (Effective 8-28-26); notes five 2002\u20132011 appellate annotations."
+    },
+    {
+      "id": "491.078:27164",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.078&bid=27164",
+      "sourceSha256": "4a547d1613deb21b8932a7c5d00282ee9d3341ed83e9f3574df9a599e1ac0bfe",
+      "textSha256": "75d930a2903f62db76561d7670ecff75f6ddb5cf9020cf9d16b0fa484d05923c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Impeachment of witness with felony juvenile adjudications",
+          "bodySha256": "11bacae9a138db6c69cb9397ad09a6f6790910c46b94f314e906903614595256",
+          "reviewNote": "Permits credibility impeachment using juvenile adjudications for Class A or B felonies or multiple felonies."
+        },
+        {
+          "number": 2,
+          "title": "Impeachment with juvenile adjudications for sexual offenses",
+          "bodySha256": "d5b4ab8d1840a121fa5a6212bdcd5625d669930381e91e2ba65125466ccf06b7",
+          "reviewNote": "Permits credibility impeachment using juvenile sexual offense adjudications within three years or multiple offenses."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections allowing impeachment of witnesses/defendants with recent felony juvenile adjudications and impeachment of chapter 566 defendants with recent or multiple sexual-offense juvenile adjudications."
+    },
+    {
+      "id": "491.090:27166",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.090&bid=27166",
+      "sourceSha256": "2ef88625019cdfb10b0a7606af4fd3e6d6b3b034ab068d0801c8eccf5e588cb0",
+      "textSha256": "0adc4ee445573fbbcd3907c107e936dac8d46ee61c076c25b602bd33d72b8823",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Issuance of witness summons by clerk",
+          "bodySha256": "d179fc9406b088c9d887816cf9a85bf3ce32ee0407b37048aee936545ebd3702",
+          "reviewNote": "Requires court clerk to issue witness summons upon application of any party."
+        },
+        {
+          "number": 2,
+          "title": "Continuous attendance required until case discharge",
+          "bodySha256": "ba6f05a9abe7cea7ace27531e60d7a7bd3b65d85c7d54d8d283a2325d1ead0c2",
+          "reviewNote": "Obligates summoned witnesses to attend from term to term until discharged by the court."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections on clerk or notary issuance of witness summonses and continuous term-to-term attendance with attachment and cost liability for default."
+    },
+    {
+      "id": "491.100:27167",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.100&bid=27167",
+      "sourceSha256": "6bed8b67963688bd9c308d72b1a15a566a01255c46d9d178f76f85dc9837efdd",
+      "textSha256": "61a23145252e917e440e39ab1298b8b2e6315611e6a1c9893643346f5f93130c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Subpoena form and issuance in blank",
+          "bodySha256": "b6f534a4931613f28d0f94b4d7e612ad6155e78f00653714ecf837e67710c1e4",
+          "reviewNote": "Prescribes subpoena requirements and authorizes clerks to issue blank subpoenas upon request."
+        },
+        {
+          "number": 2,
+          "title": "Court order for continuing witness attendance",
+          "bodySha256": "bf3d92be52cf7dc2b6132540a5d14cb2c1f6acfdabdf970f6aa6d4da799c9682",
+          "reviewNote": "Authorizes the court, on party application, to order a subpoenaed witness to appear from time to time until the case is disposed of or the witness is excused."
+        },
+        {
+          "number": 3,
+          "title": "Subpoena duces tecum motion to quash or cost advancement",
+          "bodySha256": "82e38c371b75c997d4cbba12601634aea79d9b2cd55a88c0e0101f15ee57f764",
+          "reviewNote": "Authorizes quashing unreasonable or oppressive subpoenas duces tecum or conditioning denial on cost advancement; notes 1975 privilege annotation (Lindberg v. Safeway Stores)."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on subpoena form and blank issuance, court orders for continuing attendance, and quashing/cost-advancement for subpoenas duces tecum; corrected subsection 2 title/note and noted 1975 privilege annotation."
+    },
+    {
+      "id": "491.120:27169",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.120&bid=27169",
+      "sourceSha256": "780b2334283f2950a85b22fdd7e563103c674242443f46197432130707a541b2",
+      "textSha256": "8a43778c57c7e9da1060f08cc0f9603f8f03f4aa0c51bdac79a1590188175028",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Methods of subpoena service",
+          "bodySha256": "cb9974b5f66027c9e8bc0990d2302a3cde3d0c37ba1402eebac1e96b53f73f00",
+          "reviewNote": "Prescribes subpoena service by reading or delivering a copy to the witness, or sufficient service upon offer and refusal."
+        },
+        {
+          "number": 2,
+          "title": "Proof of service and return requirements",
+          "bodySha256": "515d010d96fd359a31d503ccb540ac55ef13a1be39dde006284aad96d8c81cc2",
+          "reviewNote": "Governs return of service and requires tender of mileage fees in civil cases exceeding forty miles."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections on subpoena service by reading, copy delivery, or refused offer and return-of-service proof including 40-mile civil fee tender."
+    },
+    {
+      "id": "491.205:27178",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.205&bid=27178",
+      "sourceSha256": "c8a0fe3bd27b96c26885dd39f43b3a9185a35f905ff4c533e6c3d4502a29d24b",
+      "textSha256": "3a85f041e65d6f00b212b2a315b84d30ea53ae01f78890ffcc13eba1bd9f8f90",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Compelled testimony and immunity in criminal proceedings",
+          "bodySha256": "8009d77aedc16ce62c88aded1d36b1d5b1e9bba1c4f4661e83bdaab784bc3ea4",
+          "reviewNote": "Authorizes court to compel witness testimony over self-incrimination claim with transactional immunity."
+        },
+        {
+          "number": 2,
+          "title": "Application for witness immunity order",
+          "bodySha256": "5bf265f9d98e23007eaa4a31558883542ac8e081c7d2041e1b2970b41b1fa376",
+          "reviewNote": "Requires verified prosecutor application and hearing before a judge other than the trial judge."
+        },
+        {
+          "number": 3,
+          "title": "Contempt sanctions for refusal to testify",
+          "bodySha256": "4b11416843f75e92de7b5273d5455ed4a2391b240cfa88ff05fe54a9cf805ec6",
+          "reviewNote": "Authorizes coercive civil contempt confinement for up to twelve months for refusal to testify."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on court-ordered compelled testimony with transactional immunity (except perjury/contempt), verified prosecutor immunity applications before a non-trial judge, and up-to-12-month contempt confinement."
+    },
+    {
+      "id": "491.230:27181",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.230&bid=27181",
+      "sourceSha256": "169cd8a1ee0391da4b03cb3db76476b72ffd2050b136c14c318b831add48115a",
+      "textSha256": "852e78a0b027ad8f33a734d68c80859a4cd96c0c1e3cfb212c6183df6a2b42f5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Writ of habeas corpus ad testificandum for incarcerated witnesses",
+          "bodySha256": "326d0fbb00a12f2235e0ed728301acdb6517979e3bad8867aaea015afaf22ab2",
+          "reviewNote": "Authorizes courts of record to issue writ for appearance of incarcerated witness in criminal cases."
+        },
+        {
+          "number": 2,
+          "title": "Restrictions on civil court appearance by department inmates",
+          "bodySha256": "941478014c64df6fd826f10a6519a4289972d9ab2559ae1bc401f4caa1e9476a",
+          "reviewNote": "Bars department of corrections inmate appearances in civil cases with narrow parental rights exceptions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections on writs of habeas corpus ad testificandum in criminal proceedings and barring DOC inmate attendance in civil proceedings except narrow TPR or irreparable-prejudice hearings with 15-day DOC objection notice."
+    },
+    {
+      "id": "491.280:27186",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.280&bid=27186",
+      "sourceSha256": "4465b5077afec1aacfe647a638c18ca4319f67129ca8a8dad14e4fa5ccfab36d",
+      "textSha256": "7e8f0f2e351acebc470cdf3b45f3118f621e782a9572936770cf1d28463395fb",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Daily witness fees and mileage allowance",
+          "bodySha256": "36d0ec8ffc3045e5786ca85dd4d18a84dd57c7df1a3d8d30c3f6427badc37a57",
+          "reviewNote": "Sets witness compensation at twenty-five dollars per day plus state employee mileage rate."
+        },
+        {
+          "number": 2,
+          "title": "Examination of witness under oath regarding attendance",
+          "bodySha256": "1a6912c25af022bdc45d0b95997658bb97f0121db2146b2f57f99a958bb099c6",
+          "reviewNote": "Authorizes examination of witness under oath regarding travel mileage and days of attendance."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections setting $25 daily witness fees plus section 33.095 mileage and authorizing examination of witnesses on oath regarding payment factors."
+    },
+    {
+      "id": "491.380:27196",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.380&bid=27196",
+      "sourceSha256": "05c351bf4861113e0285490aed29c9ce42f7d45a6ed1f9dce45d027407437b77",
+      "textSha256": "ecc57b43ac664bb6543e8ee2822d71b68aa8a8e4d3f9eb6cc8ef18cbe6f6f7fe",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Determination of witness competency objections",
+          "bodySha256": "ce5ec2f3341c0c920ed14c152b082fa3516b196f9cb705dd7e9f63dc4786773c",
+          "reviewNote": "Requires associate circuit judge to try and determine witness competency objections."
+        },
+        {
+          "number": 2,
+          "title": "Statutory witness oath administration",
+          "bodySha256": "39baf970b5b0304e365c909ecbab5d420101e348aa4b070233787a365ea9d842",
+          "reviewNote": "Prescribes solemn statutory oath administered to witnesses prior to giving testimony."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections on associate circuit judge determination of witness competency objections and the statutory witness oath or affirmation."
+    },
+    {
+      "id": "491.410:27198",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.410&bid=27198",
+      "sourceSha256": "a1c5c1b33566bd592428f729372468d22b92536ccc465168b35e98ed25c8f7f4",
+      "textSha256": "f6e1f0546091c514e896582d6bc64cea013c645d9c479f607033f13941f5a3e7",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Hearing on certificate from out-of-state court",
+          "bodySha256": "efedebf72576a73226aa9f51843ee16ce8fd9f6435f9a17eda113718e2ea51e0",
+          "reviewNote": "Directs Missouri judge to conduct hearing upon certificate requesting witness attendance in another state."
+        },
+        {
+          "number": 2,
+          "title": "Issuance of summons for out-of-state appearance",
+          "bodySha256": "a0072a66e5034e473a178d7de8d320522c39f98938cd6d26d6be7a54370fe853",
+          "reviewNote": "Authorizes summons commanding witness attendance in out-of-state criminal proceedings."
+        },
+        {
+          "number": 3,
+          "title": "Immediate custody recommendation and delivery order",
+          "bodySha256": "74d7834ab414b73ce8d2fafecbd52057cee30c25619510a4f127291b7358f258",
+          "reviewNote": "Authorizes order placing witness in immediate custody if certificate recommends arrest."
+        },
+        {
+          "number": 4,
+          "title": "Penalties for failure to attend after tender of fees",
+          "bodySha256": "b5aebd848144114b161657c44231ca7df1a2cb0fab0c7d44118a0daa50de76ff",
+          "reviewNote": "Prescribes contempt punishment for witness who fails to attend after tender of statutory fees."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all four subsections of the uniform act on summoning Missouri witnesses to testify in another state's criminal proceeding or grand jury, immediate custody orders, and $15/day + 10\u00a2/mile fee tender and contempt."
+    },
+    {
+      "id": "491.420:27199",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.420&bid=27199",
+      "sourceSha256": "1fcba3b07d833a3b811d06d95d8ffeffbb2e6e8daf043a6875c9fc32f3a725a5",
+      "textSha256": "6a1b0e6ab1b6ee9d57e53560c1981be87254d91c1cbb07ccbd6d61ce1985f7b0",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Certificate requesting out-of-state witness appearance in Missouri",
+          "bodySha256": "237ee27d59ccf6dbb1ff8684701353370e58148c896e73811ffef4d63f324fe1",
+          "reviewNote": "Authorizes Missouri court to issue certificate requesting attendance of out-of-state witness."
+        },
+        {
+          "number": 2,
+          "title": "Tender of statutory witness fees and mileage",
+          "bodySha256": "5fdba58bdd50fac505fd07de21f1dce6f78a589b7ed9e8416af0eacc233743d6",
+          "reviewNote": "Requires county treasurer to tender travel expenses and per diem fees upon witness appearance."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections on Missouri court certificates requesting out-of-state criminal/grand-jury witnesses and county treasurer tender of $15/day and 10\u00a2/mile; notes 1974 federal annotation (Garton v. Swenson)."
+    },
+    {
+      "id": "491.430:27200",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.430&bid=27200",
+      "sourceSha256": "e7e1a917e0b2f845b96c849c960ffbf069e5f0718e48def9d90127897cb8cf04",
+      "textSha256": "57faf9febaf106353063f5aa669064db098cbb7e8504aa94cffc809ad420e807",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Witness immunity from arrest and process while in state",
+          "bodySha256": "5295e06ce3f39895a012d140b99351e0bc953bc033d75141a644316c3aa7eef6",
+          "reviewNote": "Protects summoned out-of-state witness from arrest and civil or criminal process while attending in state."
+        },
+        {
+          "number": 2,
+          "title": "Witness immunity from arrest and process while in transit",
+          "bodySha256": "086b808bcc9323ca59f86580a062329fbd937116187c4a9de60ef73efbdf2273",
+          "reviewNote": "Extends arrest and process immunity to summoned witness passing through state in transit."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections granting summoned out-of-state witnesses exemption from arrest and civil or criminal process while attending in Missouri or passing through in transit."
+    },
+    {
+      "id": "491.620:27205",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.620&bid=27205",
+      "sourceSha256": "738830cdcc670208bf08d8b68d05c4d95b4a9b767876cca37d569b5c8385c76a",
+      "textSha256": "8547a4a1abc12be20751f58181bf0528a9a7a10dd95c2b6512dfcab9548d7649",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Condition of pretrial release prohibiting witness tampering",
+          "bodySha256": "11e3493c83afc28909390be96dfa6bfeb5f84b416a696fc689b40e81813521ef",
+          "reviewNote": "Makes refraining from witness tampering or intimidation an express condition of pretrial release."
+        },
+        {
+          "number": 2,
+          "title": "Conspicuous statutory notice on bail and bond forms",
+          "bodySha256": "5623dfb0e65f3e8133d86da0a14cacd54c0ee48be24ed9649b92d60af640fd1a",
+          "reviewNote": "Requires conspicuous statutory notice of witness tampering penalties printed on bail and bond forms."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections imposing a statutory no-witness-tampering (section 575.270) condition on all pretrial releases and requiring conspicuous notice on bail, bond, and recognizance forms."
+    },
+    {
+      "id": "491.640:27206",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.640&bid=27206",
+      "sourceSha256": "4d4efb586e4e8ea3d491a628a6fd012860c82416dc0c2fbd1efd741ad2fcecfc",
+      "textSha256": "2d623dbe95950e4ba07f7a829fd23357419a38024f75088171fcbc37e962bae0",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Witness protection services authorization for prosecutors",
+          "bodySha256": "75dc06d9bf70efa432b9c4f3fed7247484aea2a8854cc348ffab4b88fc0ca160",
+          "reviewNote": "Authorizes prosecutors coordinators training council to establish and provide witness protection services."
+        },
+        {
+          "number": 2,
+          "title": "Acquisition and leasing of protective housing facilities",
+          "bodySha256": "3a8f2796ae2e020708de249ba1c7a58778616c648de44cd51a0a0662732dc5a0",
+          "reviewNote": "Authorizes purchase, rental, or modification of temporary witness protection housing."
+        },
+        {
+          "number": 3,
+          "title": "Expenditures for basic living needs and health",
+          "bodySha256": "5ab687824eee779d364ebc947b7ce644908ef7a07aeb292473b60eb3f0a07427",
+          "reviewNote": "Authorizes expenditures for living expenses, moving, health, and medical care of protected witnesses."
+        },
+        {
+          "number": 4,
+          "title": "Delegation to office of prosecution services and funding cap",
+          "bodySha256": "0bcd1f9f89f55d6da1dc88a96a75a98e96c129051c799debb3442535dded53f9",
+          "reviewNote": "Authorizes delegating program administration to the executive director of the Missouri office of prosecution services, subject to appropriations, with a $95,000 general revenue cap."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all four subsections on prosecutors coordinators training council witness security, protective housing, health/safety expenditures and agency applications, and delegation to the Missouri office of prosecution services ($95,000 GR cap); corrected subsection 4 title/note."
+    },
+    {
+      "id": "491.641:48865",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.641&bid=48865",
+      "sourceSha256": "4195b0f4a2821ff47def18069834f76e257696f8e51c49ad7689a078a31b992c",
+      "textSha256": "1566b968200c17d63c78f1df1416c74402b4c5429bccf870d310f47ab0ea0cbb",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Pretrial Witness Protection Services Fund creation and administration",
+          "bodySha256": "c8757d3b865959d1afbed5ef25b7abdf8a0008cc9114d7a7ff314000f293e928",
+          "reviewNote": "Creates nonreverting state treasury fund administered by department of public safety."
+        },
+        {
+          "number": 2,
+          "title": "Law enforcement provision of security and protection services",
+          "bodySha256": "9c6c04c25989f0c18956d6bede8cb9acb737093c928504f8583a6192db31b03a",
+          "reviewNote": "Authorizes law enforcement agencies to provide witness security, protection, and relocation services."
+        },
+        {
+          "number": 3,
+          "title": "Allocation and disbursement of state program funds",
+          "bodySha256": "b872838c19384e51fa9fe6147ff773bb4678a3748864af466935ff116a04dd2e",
+          "reviewNote": "Authorizes department of public safety to disburse program funds to participating law enforcement agencies."
+        },
+        {
+          "number": 4,
+          "title": "Application requirements for witness security funding",
+          "bodySha256": "f40bf9d8d8ba9d2cfab0407864cb6438338748240b05c0bfe538c0c1e7e7c998",
+          "reviewNote": "Specifies law enforcement agency application requirements and supporting documentation for funds."
+        },
+        {
+          "number": 5,
+          "title": "Closed record confidentiality of funding applications",
+          "bodySha256": "2e8b5c8e072afa52d83f28b843e2fea6c38333a3d280c8c73aefeade5e8ef314",
+          "reviewNote": "Classifies witness protection funding applications as confidential closed records under chapter 610."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all five subsections creating the non-reverting Pretrial Witness Protection Services Fund, authorizing law enforcement witness security and DPS housing/expenditure disbursements, detailing agency applications, and closing applications under chapter 610 (Effective 9-21-20)."
+    },
+    {
+      "id": "491.680:27209",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.680&bid=27209",
+      "sourceSha256": "eb0644a176e1fca9c42fb0ac98b0735919d8afedf6e92e6d06fdcb0b2d343501",
+      "textSha256": "b058d992e45212175f20b1c7477e66b56b5c612a6b28454e809e17514c35e2ab",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Motion for videotaped deposition of child victim",
+          "bodySha256": "e84e612ac90a324a0b48a55717893dfe18efd14aa509a18acfda0d9545d309e1",
+          "reviewNote": "Authorizes prosecutor motion for an in-camera videotaped deposition of an alleged child victim in chapter 565, 566, or 568 prosecutions for use at preliminary hearings and trial."
+        },
+        {
+          "number": 2,
+          "title": "Hearing and finding of emotional trauma to child",
+          "bodySha256": "a41ebc76a14f566e457183221bf07ceb21b49111daa2cedc2669b1dd11571478",
+          "reviewNote": "Requires court hearing and specific finding of emotional trauma to the child from courtroom testifying."
+        },
+        {
+          "number": 3,
+          "title": "Exclusion of defendant from deposition room",
+          "bodySha256": "8d7307b322bd71a84780dd2447175d137626b6a168a2503ef09e5f51836db71c",
+          "reviewNote": "Authorizes excluding the defendant from the deposition room upon a subsection 2 trauma finding, subject to private video review and counsel cross-examination; notes 1989 annotation (State v. Davidson)."
+        },
+        {
+          "number": 4,
+          "title": "Judicial presiding and conduct of deposition",
+          "bodySha256": "37379c22a5f12bff55d4b9b2d58bb91be5db2b17043cbcef508b812881839804",
+          "reviewNote": "Requires judge to preside over deposition conducted according to statutory criminal rules."
+        },
+        {
+          "number": 5,
+          "title": "Cross-examination opportunities for defendant's attorney",
+          "bodySha256": "a3bf1db917b5dcbf8bd19647e4dd6a17574aaeef611ab64739c9cea1cad6e507",
+          "reviewNote": "Guarantees defense counsel at least two separate opportunities to cross-examine deposed child."
+        },
+        {
+          "number": 6,
+          "title": "Pretrial discovery materials and cross-examination at deposition",
+          "bodySha256": "60fdad04e4657b9e4fa3f423ac18679301620e5c09be5980ff7682d3643b0ddf",
+          "reviewNote": "Requires providing court-directed discoverable materials to defense counsel with reasonable examination time prior to the deposition and permitting cross-examination during the deposition."
+        },
+        {
+          "number": 7,
+          "title": "Appointment of counsel for unrepresented defendant",
+          "bodySha256": "f0741d3d39de9c39cb4197e140b37f23c788e1377817da493c3aa78e3a30babd",
+          "reviewNote": "Mandates appointment of counsel if defendant is unrepresented at child deposition."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all seven subsections on videotaped depositions of alleged child victims in chapter 565/566/568 prosecutions, trauma findings, defendant exclusion, presiding judge, cross-examination, discovery materials, and appointed counsel; corrected subsections 1 and 6 and noted 1989 Confrontation Clause annotation."
+    },
+    {
+      "id": "491.685:27210",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.685&bid=27210",
+      "sourceSha256": "66dde1d6806e0224119c8e4dfa4a3eefc85c44af3da2bd4db6a7b24b2c0b06d5",
+      "textSha256": "16bc1e148e70dc84f269ba89b821170a7e183bf6d2143e783f64a782af2540a8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Order excluding defendant from child deposition room",
+          "bodySha256": "2947838c82fc7b7321bf3e932db9526321db8cebe47333a0d54eb1030ec6daa8",
+          "reviewNote": "Authorizes court order excluding defendant from physical presence in child deposition room."
+        },
+        {
+          "number": 2,
+          "title": "Sequestration of child from defendant before and after deposition",
+          "bodySha256": "36fee9d93c08237995c27c141622e513f62850355c6568bc409dc17df7b4abb4",
+          "reviewNote": "Authorizes the court, on prosecutor motion, to order the child sequestered from the defendant's view and presence during predeposition procedures, recesses, and post-deposition matters."
+        },
+        {
+          "number": 3,
+          "title": "Prior viewing by defendant before admission in evidence",
+          "bodySha256": "b6245dc881bb2b86365629b5a011d72a9b76e8168cf3e008edb579f75f57237e",
+          "reviewNote": "Prohibits admission of deposition into evidence until defendant and counsel view recording."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on excluding a defendant from child victim depositions, permissive sequestration of the child before/during recesses/after deposition, and mandatory private review before evidentiary admission (Effective 7-19-85)."
+    },
+    {
+      "id": "491.699:27215",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.699&bid=27215",
+      "sourceSha256": "ff278d4d8e8b9b68b67cf278bf866940a940c325f0035b007e2d3725abd246e1",
+      "textSha256": "9c8fa4bcfec9d8bebb8131581d4f4f5a3afae6f2e18d7171f85deefcc5eae314",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Motion for videotaped deposition in juvenile court",
+          "bodySha256": "ee7491cadc8b40ff13a0779e73fc67f6166fbff2273b0c68a9da8b11893423c7",
+          "reviewNote": "Authorizes juvenile officer motion for in-camera videotaped deposition of child under twelve."
+        },
+        {
+          "number": 2,
+          "title": "Considerations for ordering videotaped deposition in juvenile court",
+          "bodySha256": "ef91cbbbbf6e53158cea001117ff5caa4ddf0624526f7942734ba25f7279c6cf",
+          "reviewNote": "Specifies factors for court consideration including trauma, child age, and emotional condition."
+        },
+        {
+          "number": 3,
+          "title": "Presiding judge and rules of evidence in juvenile proceedings",
+          "bodySha256": "2cdd064b91d837835ebcf5211fe8160ad98bf8f134c03c8ef45397f5d991fd34",
+          "reviewNote": "Requires judge to preside over juvenile deposition under rules of evidence and civil procedure."
+        },
+        {
+          "number": 4,
+          "title": "Cross-examination opportunities in juvenile proceedings",
+          "bodySha256": "bf68a97ee7f569a32f1b2d7b8847cefba0d5f3315407d0597ed7f723d45c4c8a",
+          "reviewNote": "Provides at least two cross-examination opportunities for respondent's counsel in juvenile court."
+        },
+        {
+          "number": 5,
+          "title": "Discovery materials and cross-examination at juvenile deposition",
+          "bodySha256": "cb195b9c8ad8aa55adfde9e30cdfc8e6177e652ad0fc3ac769e4551af3eff621",
+          "reviewNote": "Requires providing court-directed discoverable materials to parties' attorneys with reasonable examination time prior to the deposition and permitting cross-examination during the deposition."
+        },
+        {
+          "number": 6,
+          "title": "Right to counsel and appointed counsel in juvenile proceedings",
+          "bodySha256": "9250981438daf4aa1fd9081d21611144171214036b9e7e20b36433f35aea9690",
+          "reviewNote": "Mandates appointment of counsel for unrepresented juvenile or parent at deposition."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all six subsections on videotaped child victim depositions in chapter 211 juvenile court hearings, trauma considerations, civil evidence rules, cross-examination, discovery materials, and appointed counsel; corrected subsection 5 title/note."
+    },
+    {
+      "id": "491.702:27216",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.702&bid=27216",
+      "sourceSha256": "cfa25722623b15837cc31594ebb08e42b5f040a6ff2b3c0cbfb7224640d0a5fa",
+      "textSha256": "ec0adaa6d18480515a8019eab5e00bba081eda5505280944986760e9e47fc643",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exclusion of alleged perpetrator from juvenile deposition",
+          "bodySha256": "f0fee8ae63997da1e70966bed21ea2fa2bba40ae2299725723c9c28a1c783231",
+          "reviewNote": "Authorizes exclusion of alleged perpetrator from deposition room upon juvenile officer motion."
+        },
+        {
+          "number": 2,
+          "title": "Sequestration of child from alleged perpetrator around deposition",
+          "bodySha256": "bf9d23b9d38d242367ffe9d120f760d509ecb80efae1c70fc1ac4650f4264524",
+          "reviewNote": "Authorizes the court, on juvenile officer motion, to order the child sequestered from the alleged perpetrator's view and presence during predeposition procedures, recesses, and post-deposition matters."
+        },
+        {
+          "number": 3,
+          "title": "Prior opportunity to view videotaped testimony in juvenile cases",
+          "bodySha256": "2881c4cd2dfb02bf505e2fe79ddafd6728628ba7e30fc89eea615f01a5133d82",
+          "reviewNote": "Bars admission of recording into evidence until parties and counsel have viewed it."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on excluding an alleged perpetrator from juvenile child victim depositions, permissive sequestration around the deposition, and mandatory private review by all parties and counsel before admission."
+    },
+    {
+      "id": "491.705:27217",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.705&bid=27217",
+      "sourceSha256": "68c7167533957c1f8e2f156aaa23aed1ad11d42fd20269cc5deceacdfcb9ab32",
+      "textSha256": "0178f82c6ac3e8e3b30e08de3aafe190d46c3b7ff7314cf2f51a6072f4a76542",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Additional videotaped deposition for good cause",
+          "bodySha256": "5ca0d0ca59f625180e70544c7e5369a1625a13f6a85d73a97b1ec0e5b84b3c20",
+          "reviewNote": "Authorizes motion for supplemental or additional child deposition upon good cause shown."
+        },
+        {
+          "number": 2,
+          "title": "Requirement for sworn testimony under oath",
+          "bodySha256": "adfa2777c12b20de2dc5b3cdde199e2941ee1321996be90c0a1783854e8485aa",
+          "reviewNote": "Mandates all testimony taken under child deposition provisions be given under oath or affirmation."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections authorizing videotaped reexamination of a child for good cause prior to a juvenile hearing and requiring all testimony under sections 491.696 to 491.705 to be under oath."
+    },
+    {
+      "id": "491.725:27219",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=491.725&bid=27219",
+      "sourceSha256": "c086a70a1d087614fdb0e25f50c9033c8dc4aff49b2fdac5fd1f58fd1730ec82",
+      "textSha256": "75a0268269037708846edfdfeb1cdd07ddb095805f02109c958b3027afade7de",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Title of section as Child Witness Protection Act",
+          "bodySha256": "21832abd155ac12c7d8d036e836a5f18441641cea93c5ec2707dbdd6a8f59b21",
+          "reviewNote": "Designates short title of section as the Child Witness Protection Act."
+        },
+        {
+          "number": 2,
+          "title": "Definitions of child and support person",
+          "bodySha256": "dcbcdb5886d8bdc4cd63b61e9700a6aff0ca904a7969f7a067274eb148a351ba",
+          "reviewNote": "Defines \"child\" (14 or under, or 15\u201317 with written findings, with felony-accused exceptions) and \"support person\" for Child Witness Protection Act proceedings."
+        },
+        {
+          "number": 3,
+          "title": "Courtroom accommodations for child witnesses",
+          "bodySha256": "fb5b0300a068dc3c969a81e4b4fcce6a170fdc762482e74d47eb20e109f9202f",
+          "reviewNote": "Authorizes comfort items, support persons, courtroom adjustments, and developmentally appropriate questioning."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections of the Child Witness Protection Act (short title, definitions of \"child\" and \"support person\", and seven courtroom accommodations); corrected subsection 2 title to remove undefined term."
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "507.020:27376",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=507.020&bid=27376",
+      "sourceSha256": "24dae8dae8784be2aada7211b134230d6d06e544552580c1b3cecfd83ed32b9b",
+      "textSha256": "88eb174d04266f0a2d359ab25ddd411a3e57862b4c2473c4323d103a03dbb1c3",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Standing to bring actions on claims arising under foreign law",
+          "bodySha256": "f7fa4c804edafe0632bbec17040ead4a756c3a0b663fd2fd76453f938a921f5a",
+          "reviewNote": "Authorizes suits on claims under another state's law by persons entitled to proceeds or by foreign-empowered representative fiduciaries."
+        },
+        {
+          "number": 2,
+          "title": "Receipt and distribution of proceeds by representative",
+          "bodySha256": "a11bc5bb9eb0b4cf0b3e34ba5f4751345c72d2a548246f553d0969822ae20f4d",
+          "reviewNote": "Empowers representative plaintiffs to satisfy judgments, execute releases, and distribute proceeds under the governing laws of the other state."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections and Huff v. LaSieur (571 S.W.2d 654) annotation on standing to sue on claims under another state's law and representative proceeds distribution."
+    },
+    {
+      "id": "507.030:27377",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=507.030&bid=27377",
+      "sourceSha256": "313b8710c3cec99de6380461c5b02bba24ab5f47788618a07efbce021c45ce80",
+      "textSha256": "3892d1e9401236b1a420c53aa4da668fdd5e5653f0ebbaebe98329952e199ed8",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Joinder of persons having joint interest",
+          "bodySha256": "abcfdb37c327679b4825c5916fe0f3301bbcc8cc6b7f34c64926fd5273fa99c4",
+          "reviewNote": "Mandates joinder of parties with joint interests, permitting an unwilling plaintiff to be joined as a defendant."
+        },
+        {
+          "number": 2,
+          "title": "Court order adding necessary parties for complete controversy",
+          "bodySha256": "c43752006251fe55df5b705261ecc86bb2662f752b03a8a43888374741694ea6",
+          "reviewNote": "Authorizes the court to order necessary additional parties brought in by amended or supplemental petition when complete relief requires them."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections and cross-references (431.140, 509.470) on mandatory joinder of joint-interest parties and adding necessary parties."
+    },
+    {
+      "id": "507.040:47707",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=507.040&bid=47707",
+      "sourceSha256": "598abdc13645467e58d8e74fc11e98f7518d2cfb0ec2dd4302855b1ac50611c9",
+      "textSha256": "32c1222b52dc88066120511515230e2f941748d123e6025fdf172b8db3bd1c22",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Permissive joinder of parties and separate incident restriction",
+          "bodySha256": "451917ef3c3f8e9ace69ff51c3dd87a9a7109a5ae6b0a18b4f8821d8d3e6221b",
+          "reviewNote": "Governs permissive joinder of plaintiffs and defendants sharing common questions, expressly excluding separate purchases or incidents involving same products."
+        },
+        {
+          "number": 2,
+          "title": "Legislative adoption of judicial holding on joinder and venue",
+          "bodySha256": "c19988000ffda7b06965dfd6656bf80821533827a6b3e823d7161a58f43a15d2",
+          "reviewNote": "Codifies the Missouri Supreme Court holding in State ex rel. Johnson & Johnson v. Burlison concerning joinder and venue limits."
+        },
+        {
+          "number": 3,
+          "title": "Protective orders and separate trials to prevent prejudice",
+          "bodySha256": "58b3c6c200456db2f5db85cedf8fee1824a0e7efe5f34f892afa623f40af3904",
+          "reviewNote": "Authorizes court orders for separate trials or other relief to prevent party embarrassment, delay, or expense from permissive joinder."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections and Burlison (567 S.W.3d 168) annotation on permissive joinder, separate product purchase/incident bar, Burlison adoption, and separate trials."
+    },
+    {
+      "id": "507.050:47708",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=507.050&bid=47708",
+      "sourceSha256": "fbec14d6804bd7dacd1a66934605fc652be62dcf7528576c64ff6d09ad3798f0",
+      "textSha256": "c3e396ba29718f9812727925222c8c4667021c16133b43cc23bcce6e368275b7",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Misjoinder not grounds for dismissal and party severance",
+          "bodySha256": "fd2ced84d6c91c7a0f92c3076bce689c7389e1d403d7c8827ee4711e6ccc41c6",
+          "reviewNote": "Establishes that misjoinder does not warrant dismissal and permits parties to be added, dropped, or claims severed by court order."
+        },
+        {
+          "number": 2,
+          "title": "Timing of motions to drop or add parties",
+          "bodySha256": "113e550df053db2b8f82779568c94182c84fb451e80e43c6a2755fec884a4ede",
+          "reviewNote": "Governs the timing and procedure for making motions to drop or add parties concurrently with responsive motions under section 509.290."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on non-dismissal for misjoinder, dropping/adding/severing parties, and timing of motions with section 509.290/509.340 rules."
+    },
+    {
+      "id": "507.060:34933",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=507.060&bid=34933",
+      "sourceSha256": "38d74b3b518b9c11f58a17a7e4cc593119dafd4d30ff94b88ae5182213511487",
+      "textSha256": "e327e4b1422202af22cabbb2df74a3df7a7bd8b900bbdfc80407ef8f6e32f273",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Interpleader joinder of adverse claimants exposing plaintiff to multiple liability",
+          "bodySha256": "d162ed720e918ddc12c108c3882c6e359c28344331c034372c1698e700e06ad1",
+          "reviewNote": "Authorizes interpleader joinder when competing claims against a plaintiff or insured expose them to multiple liability."
+        },
+        {
+          "number": 2,
+          "title": "Definition of plaintiff insurer or public risk pool",
+          "bodySha256": "32a6ac93cf35817f9d4411c045e821192427d0418e1e0fe4e6bd580815584990",
+          "reviewNote": "Defines plaintiff for interpleader liability limitations to include insurers, public entity risk pools, and municipal self-insurance arrangements."
+        },
+        {
+          "number": 3,
+          "title": "Definition of claim against plaintiff or insured",
+          "bodySha256": "8c24fcdcc565c4f5cdb2346e96aed276e62a0b31f26129c1fa5671c66dd96469",
+          "reviewNote": "Defines claim to include all actual or potential claims asserted against an insurer or insured arising out of an event."
+        },
+        {
+          "number": 4,
+          "title": "Insurer liability limit upon timely interpleader filing",
+          "bodySha256": "f0fc9b7cc6dfb29589f79460e2190a2faf91d75c19824fea58464f3be6d87dc9",
+          "reviewNote": "Limits an insurer's liability to available policy coverage if interpleader is initiated within ninety days of the first settlement demand."
+        },
+        {
+          "number": 5,
+          "title": "Retention of underlying damages claims against insured",
+          "bodySha256": "45f88c6864529af6ea2d75fa2cf3dbe7bafadc85b56d96c66046910ded62f9d9",
+          "reviewNote": "Clarifies that interpleader by an insurer does not require dismissal or release of damages claims against the insured tortfeasor."
+        },
+        {
+          "number": 6,
+          "title": "Preservation of insured defense control and consent rights",
+          "bodySha256": "085885c330e1ba67fbf223624d583876b19caaee67f5b56d24f9aa45972e655c",
+          "reviewNote": "Preserves the insured's contractual or legal rights to consent to settlements or control the defense of claims."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 6 subsections on interpleader joinder, insurer/risk pool definitions, 90-day timely interpleader liability cap, underlying claims, and insured defense/consent rights."
+    },
+    {
+      "id": "507.070:27381",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=507.070&bid=27381",
+      "sourceSha256": "3a1d598f262ae5f74a418496705c7eecaab2b72edeaa2462d08d871fd163eebe",
+      "textSha256": "44861cffc1fa8177822ba17073def5e550a086e224cc6878b78e449c1ab1268b",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Class action prerequisites and representative capacity",
+          "bodySha256": "18cbfb7cc036cd8a04fb0bda8caff7fb8aeba70befbe57c7ff8e9730a8d69149",
+          "reviewNote": "Prescribes criteria for class representation when persons are numerous, defining joint, common, secondary, and severable rights."
+        },
+        {
+          "number": 2,
+          "title": "Shareholder derivative actions and demand requirements",
+          "bodySha256": "e6829ac3968b1c808dc9634a70f84dbbe3dc228ac614b57ecfa6decd01eb840a",
+          "reviewNote": "Sets pleading requirements for shareholder derivative actions, including contemporaneous ownership and efforts to obtain redress from directors or shareholders."
+        },
+        {
+          "number": 3,
+          "title": "Court approval and notice for class action dismissal or compromise",
+          "bodySha256": "9c4d024b2807637dafa6b0d4741f0cee8e9257ef42f85c823be1a2dca00e1d8f",
+          "reviewNote": "Prohibits dismissal or compromise of class actions without court approval and requires notice to class members."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections on class action prerequisites, shareholder derivative pleading/demand requirements, and court approval/notice for dismissal or compromise."
+    },
+    {
+      "id": "507.080:27382",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=507.080&bid=27382",
+      "sourceSha256": "371d2b79ca1d69ee50d6681b93f3f3d236d3bf11e2f9384bccca6cd872fcecfe",
+      "textSha256": "721715c426858794df4da499cfceda19606c3c05bb562955ac3124b31abce71e",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Third-party practice by defendant against nonparty",
+          "bodySha256": "32691bcf31a5edbabe31455744cc61c0b6620d7381576645102bd0a37f0f0f07",
+          "reviewNote": "Governs third-party summons and petition practice by defendants against nonparties potentially liable for all or part of the plaintiff's claim."
+        },
+        {
+          "number": 2,
+          "title": "Third-party practice by plaintiff upon counterclaim",
+          "bodySha256": "59b05d5e9c06e7df5ad0c0f4a7a538c131f6024e3a47a61fb5c2db00d91fe6f3",
+          "reviewNote": "Authorizes a plaintiff to bring in a third party when a counterclaim is asserted against that plaintiff."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections governing third-party practice by defendants and by plaintiffs facing counterclaims."
+    },
+    {
+      "id": "507.090:27383",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=507.090&bid=27383",
+      "sourceSha256": "5fbfa60199e417f964e0eff74c9f82ed31c10a981ad3a49b4f17af407c1f3e4a",
+      "textSha256": "3f3c5a2190061a8a5d19edd6bb59edaa7ff5f49e7051c8497858fcdf7aae377c",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory intervention of right in civil actions",
+          "bodySha256": "d342d36b1e29d099e173efbf8f42edc3b8c46b30615b5fcbf1a6ec7a5ec9b806",
+          "reviewNote": "Identifies circumstances where intervention of right must be granted, including statutory rights and adverse effects on property or representation."
+        },
+        {
+          "number": 2,
+          "title": "Permissive intervention upon conditional statutory right or common question",
+          "bodySha256": "d6c6f2180a080c341c999502b8d41d5f0f3696b7c88346b7b1bcaf4cdc0bf265",
+          "reviewNote": "Authorizes permissive intervention in the court's discretion upon conditional statutory authority or common questions of law or fact."
+        },
+        {
+          "number": 3,
+          "title": "Motion procedure and pleading requirements for intervention",
+          "bodySha256": "9f8b0264dc900ac32801cce17143df1c05eb2819818358e8a066fcfd41018fea",
+          "reviewNote": "Specifies procedural requirements for intervention, requiring service of a motion stating grounds accompanied by the proposed pleading."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections and In re Matter of Trapp (595 S.W.2d 193) annotation on intervention of right, permissive intervention, motion procedure, and state/subdivision notice."
+    },
+    {
+      "id": "507.100:27384",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=507.100&bid=27384",
+      "sourceSha256": "7e50ee8f4e5c35a1adc20293c625019124ab1f7d5b0d5b950f66a2ed69474cbe",
+      "textSha256": "66885a27aad9e3c7a1cf51064388580735bd2e7abd86e50a22f1b2379cd0849e",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Party substitution upon death and suggestion of death",
+          "bodySha256": "a11fb520e165c1b32410e7e6a31aaf96529be71c70c7c80347c2b368252cceb4",
+          "reviewNote": "Governs party substitution upon death, survival to remaining parties, and dismissal if substitution is not moved within nine months after first published notice of letters."
+        },
+        {
+          "number": 2,
+          "title": "Party substitution upon mental incapacity",
+          "bodySha256": "d6768251ead2d4d3e3c8c55a3edf094ce1677bd90356e54af617acb82cba41a3",
+          "reviewNote": "Authorizes continuation of an action by or against the legal representative upon a party's mental incapacity."
+        },
+        {
+          "number": 3,
+          "title": "Substitution or joinder upon transfer of interest",
+          "bodySha256": "ff897c36fa125bbaedf9fc69d0acdb8d498f2f3210e512744a8d6e90301f1f0b",
+          "reviewNote": "Permits an action to proceed with the original party or directs substitution or joinder of the transferee upon transfer of interest."
+        },
+        {
+          "number": 4,
+          "title": "Party substitution upon corporate dissolution or charter forfeiture",
+          "bodySha256": "df59f6ed8a1616503e4bfdf12ec445d26343683719f2b4e3f02872ee9dba3df0",
+          "reviewNote": "Provides for continuation of pending litigation by or against statutory trustees upon corporate dissolution or charter forfeiture."
+        },
+        {
+          "number": 5,
+          "title": "Substitution of successor public officers upon motion",
+          "bodySha256": "9f0c2fd41f3ce55901a7be89d0e07f550453aa9a5b4232504274ef1a679a361d",
+          "reviewNote": "Permits continuing an action by or against a successor public officer upon motion within one year with reasonable notice and opportunity to object, or court appointment."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 5 subsections; corrected subsection 1 note from 90 days to 9 months after published letters notice and revised subsection 5 title to remove erroneous \"Automatic\"."
+    },
+    {
+      "id": "507.150:27390",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=507.150&bid=27390",
+      "sourceSha256": "0bcd95bf70f1e39f5390fc309781d1a2373ac29fa6f33b4f292d878c51dc1341",
+      "textSha256": "ab03c3c4648e0c4ba56b383b551abf94b927566c469d06e1c7fc78060880a23e",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Bond requirement for next friend or guardian ad litem",
+          "bodySha256": "b12ac6eca87961d46262f368a2176632997fe1ade9216e6756eaf7aeba6fa59b",
+          "reviewNote": "Requires approved bond before a next friend or guardian ad litem receives money or property, permitting court waiver for minor amounts."
+        },
+        {
+          "number": 2,
+          "title": "Double penal liability and void releases for failure to post bond",
+          "bodySha256": "6c8a7ee5af957c98dc6825ff9adae01f302a62699548537027f5ab6df95760a0",
+          "reviewNote": "Renders a next friend or guardian ad litem who receives minor funds without an approved bond personally liable for double value and voids any release, receipt, or satisfaction."
+        },
+        {
+          "number": 3,
+          "title": "Duration of fiduciary duties and bond obligations",
+          "bodySha256": "205adcf988865cfa4b12e3db7dd245174b10dca5b9493584cc6ae170bac1b32e",
+          "reviewNote": "Specifies that next friend duties and surety bond obligations continue until formal court discharge."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections; replaced mismatched subsection 2 heading to accurately reflect double penal liability and void releases for failing to execute a bond."
+    },
+    {
+      "id": "507.184:49696",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=507.184&bid=49696",
+      "sourceSha256": "bdf31c72e9115236c1c40578e11e0727efdfcb2b5910f7985147c800518c373e",
+      "textSha256": "30c9b1a4382eb0508196094136448174e99a5fdbad944eb24449f3c156b6d61a",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority to waive jury trial on behalf of minor",
+          "bodySha256": "c8610a089dfbf799e0475bead8aeeef025ceb422add93b8e08a4fe3f4bf43c1b",
+          "reviewNote": "Empowers a next friend, guardian ad litem, or conservator to waive jury trial and submit issues to the court subject to judicial approval."
+        },
+        {
+          "number": 2,
+          "title": "Settlement contracting authority and fee agreements",
+          "bodySha256": "e622214790ee908a955027f0f1deff8f7d230a171edf0601f4b03031ac1d5a8f",
+          "reviewNote": "Grants authority to contract for claim settlement and attorney representation on behalf of a minor, subject to court approval."
+        },
+        {
+          "number": 3,
+          "title": "Judicial hearing and approval of minor claim settlements",
+          "bodySha256": "fe37afd96a2bd307e6fb61b6b9761f6b87fe441ffccec61a5ba8cf26751d6e51",
+          "reviewNote": "Authorizes the court to hear evidence and approve or disapprove proposed settlement contracts affecting minor claims."
+        },
+        {
+          "number": 4,
+          "title": "Exemption for minor claim settlements under section 436.700",
+          "bodySha256": "6f83cffc01f2c49ea492f4131d42fcca9ec40ec79584ff85f911c20fd82c9adc",
+          "reviewNote": "Clarifies that this section neither prohibits settlements under section 436.700 nor requires court approval of settlements executed under section 436.700."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections and Bailey/Holoman/Arthur annotations; corrected subsection 4 title/note from \"structured settlement\" to minor claim settlements under section 436.700."
+    },
+    {
+      "id": "507.186:27396",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=507.186&bid=27396",
+      "sourceSha256": "b24f4bdb7c5564b1be8e12a07bacec9cb890698bb9bf4d2f9785ca0fa7b4bf12",
+      "textSha256": "5b22907cb9ff8432c49366a15c2b968f5d8ce9fcaf9a86f50f420331e1876fb0",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Substitution of appointed conservator for next friend or GAL",
+          "bodySha256": "a315ea81ef3858b82eff4e758976b7b58661b376cb35f14bf195e5c162f2106d",
+          "reviewNote": "Authorizes a minor's appointed conservator to be substituted as party for a next friend or guardian ad litem upon court order."
+        },
+        {
+          "number": 2,
+          "title": "Binding effect of preexisting contracts on substituted conservator",
+          "bodySha256": "a50e94f762d15b9377716e947b1020172d22da04ed3b19a2b2a12c2c21282930",
+          "reviewNote": "Enforces valid pre-substitution attorney fee and expense contracts against a substituted conservator unless previously approved or altered."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on ex parte substitution of a minor's conservator for next friend or GAL and binding effect of court-approved attorney fee contracts."
+    },
+    {
+      "id": "507.188:27397",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=507.188&bid=27397",
+      "sourceSha256": "2474bbea4d1b0bc984f85a645600d608c690f7cda171067ae5182139550e1763",
+      "textSha256": "32553400a27d07b03116de9bd997f1dc54d3d33b6c86d0e53075f0dfec061c58",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Disposition of minor proceeds equal to or under ten thousand dollars",
+          "bodySha256": "762bc9496d88dc7773a171f470f00f54c55b4f8db698cebf13d3a036c1bceed2",
+          "reviewNote": "Governs court disposition of minor proceeds of ten thousand dollars or less under probate alternatives and discharge of fiduciary upon filed receipt."
+        },
+        {
+          "number": 2,
+          "title": "Transfer of minor proceeds exceeding ten thousand dollars to conservator",
+          "bodySha256": "d6cf8df8ba9ad1e836912c23e73b72b75e724d4ad92acd034d2e6ae2d7b4cbb0",
+          "reviewNote": "Mandates transfer of minor net proceeds exceeding ten thousand dollars to a qualified conservator and provides for fiduciary discharge."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections governing disposition of net minor proceeds ($10,000 or less under section 475.330 vs over $10,000 to conservator) and fiduciary discharge."
+    },
+    {
+      "id": "507.230:27402",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=507.230&bid=27402",
+      "sourceSha256": "b0e88797cfa313a13cd3c2f3ddcc1191112e71d71419713f6398aac552cc37c4",
+      "textSha256": "76ad569df1b32bc71dbbee4179c5805ad574bf299ba335da38d22d22b4652324",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Motion by city of over 150,000 to join coresponsible parties",
+          "bodySha256": "9fadbecd04a57bc464009d8748776f78b2ad41d1d016c56b10197bda3b41e8dd",
+          "reviewNote": "Authorizes cities over 150,000 sued for wrongful or negligent acts of third parties to notify plaintiffs to join those parties as defendants."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory joinder procedure, motion to strike, and unserved parties",
+          "bodySha256": "f3ba112857715e8537633cd0f4d07c478a4fca3585822f957b46b9548d5c6eea",
+          "reviewNote": "Outlines joinder procedures, motions to strike notice, and conditions allowing plaintiff to proceed against the city alone if process cannot be served."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on motions by cities over 150,000 to require joinder of coresponsible third parties, motions to strike, and unserved-party exception."
+    }
+  ]
+}

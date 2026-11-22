@@ -1,0 +1,530 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "494.405:27302",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=494.405&bid=27302",
+      "sourceSha256": "362efd9346254d2b7680b6fe949ff526c0896d5b56547e89afa32ff8d084fd48",
+      "textSha256": "bb967952b075e1e55f0902b59d0d146bdbc4dc86baed341d8f055971c6ff48c4",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishment of board of jury commissioners",
+          "bodySha256": "1b63d7e69753d643286d971b365720c2643418a6e5e14c479081f1c664a5c91c",
+          "reviewNote": "Creates a board of jury commissioners in each county and city not within a county to manage and supervise jury selection, with majority quorum and meeting/rule authority."
+        },
+        {
+          "number": 2,
+          "title": "Board composition and presiding officer",
+          "bodySha256": "10c42497763d823557ace32150069f641dab7d1e5eea7e9c14ed3a1aecaec439",
+          "reviewNote": "Specifies board membership (presiding judge or designee, circuit clerk, and county clerk; or circuit court en banc in first-class charter counties and St. Louis City) and preserves current terms/pay."
+        },
+        {
+          "number": 3,
+          "title": "Circuit clerk and deputy clerical assistance to board",
+          "bodySha256": "27e85adfe4614ec21ac1db6968bb0f1e73d89e27aa752bb2d2ad315f510c06cb",
+          "reviewNote": "Directs the circuit clerk and deputy circuit clerks to assist the board of jury commissioners in clerical and administrative duties as specified by the board."
+        },
+        {
+          "number": 4,
+          "title": "Jury supervisor and deputies in first-class charter counties",
+          "bodySha256": "655ad3f24bc41f0330d77fa5422fa0c018fa06fb135f49c33b43de54976caa6f",
+          "reviewNote": "Authorizes appointment, board-fixed salary, and county payment of a jury supervisor and deputies serving at the board's pleasure in first-class charter counties."
+        },
+        {
+          "number": 5,
+          "title": "Jury supervisor and deputies in first-class noncharter counties",
+          "bodySha256": "4b8b65790e7a00bcc097c2798fa8ab1185109cf24a6f3e8ef5311fb858037f45",
+          "reviewNote": "Authorizes county-approved appointment of county-employee jury supervisors and deputies serving at the board's pleasure in first-class noncharter counties."
+        },
+        {
+          "number": 6,
+          "title": "Jury supervisor and deputies in cities not within a county",
+          "bodySha256": "0f3c1c73f85d8f9a1e924c4116dd1c8daa29a301953272e8d9708b93744fb353",
+          "reviewNote": "Authorizes appointment of a jury supervisor and deputies in St. Louis City with salaries recommended by the board, approved by the board of estimate and apportionment, and aligned with city merit positions."
+        },
+        {
+          "number": 7,
+          "title": "Oath of office for jury supervisors and deputies",
+          "bodySha256": "88206924176cbe18cde7ea94e2ac2340a87b5484c3dc37d617c27545b68b3d52",
+          "reviewNote": "Requires appointed jury supervisors and deputy jury supervisors to take and subscribe a constitutional and faithful-service oath before a circuit judge."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all seven subsections on the board of jury commissioners, composition, circuit clerk assistance, jury supervisors in charter, noncharter, and St. Louis City jurisdictions, and supervisor oaths; fixed systematic off-by-one shift across subsections 2\u20137."
+    },
+    {
+      "id": "494.410:27303",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=494.410&bid=27303",
+      "sourceSha256": "d5db04e1784b36c850348a05cafdcd13b7785102ae281d0022714284af18b1bc",
+      "textSha256": "2900e9be01bc0a60c67c2488229b302fd5e14ab5aed8a5b29f716240cfa84530",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Compilation, updating, and minimum size of master jury list",
+          "bodySha256": "1bb6a82d09ac5bf0ddc2f86b030acea38820244cb4360533377898a593ee3eda",
+          "reviewNote": "Requires the board to compile and update the master jury list comprising at least 5% of population (minimum 400 names) while reasonably avoiding duplicates."
+        },
+        {
+          "number": 2,
+          "title": "Random selection from two government records and disclosure limit",
+          "bodySha256": "3f6ce6e91e688d9bdba75b528c8d8b0dd643f10b2a46c3b882d9725be38deb6b",
+          "reviewNote": "Mandates beginning July 1, 2004, random selection from at least two government records (such as tax, voter, and driver's license lists) with federal-law limits on DOR data disclosure."
+        },
+        {
+          "number": 3,
+          "title": "Custodian duty to make source records available to board",
+          "bodySha256": "57a7cd1210c40fcfc2b86a8689ba5677a7ce2ec0aa7f8ad0d89aa26a153ded1d",
+          "reviewNote": "Requires any custodian of records used to compile the master jury list to make them available to the board for inspection, reproduction, and copying at reasonable times."
+        },
+        {
+          "number": 4,
+          "title": "Public record status and five-year retention of jury records",
+          "bodySha256": "17cf96112a62ee557a4f2f66d6e6d3c1a080d3aa1b757af7d789e5a42b03cf78",
+          "reviewNote": "Classifies master jury list names as public records and requires retaining the list and source record copies for at least five years."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all four subsections on compiling/updating the master jury list (5% / 400-name minimum), random selection from two government records starting July 1, 2004, custodian record access, and public-record/5-year retention; fixed shifted draft headings/notes on subsections 1\u20133."
+    },
+    {
+      "id": "494.415:27304",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=494.415&bid=27304",
+      "sourceSha256": "5973d8e2ee58643dfbed8a02ca7c147883f135d0f10ff5461dad83b226af42dd",
+      "textSha256": "c99d3ebecace326fab7d28f5e10385498abf8c0e1d890da42a4792e3eb9f77d5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Random selection and mailing of juror questionnaires",
+          "bodySha256": "3b8cfda7b177cbba0edbde11fb4150156baa680a14a9c128e2e8647c8bb3003a",
+          "reviewNote": "Authorizes random drawing of names and mailing of juror qualification questionnaire forms."
+        },
+        {
+          "number": 2,
+          "title": "Notification and deletion of unqualified prospective jurors",
+          "bodySha256": "7026fc6db4c9e45365be427a59514a08074041ed55e919b03d3d46395bdcdbf0",
+          "reviewNote": "Requires notifying persons found unqualified from the qualification form that summons compliance is not required and deleting their names from the master jury list."
+        },
+        {
+          "number": 3,
+          "title": "Postponement of prospective juror service under court guidelines",
+          "bodySha256": "7a34122249829a3a0e9749bf685b924cae271962b29a7734e8f8fe54d03a5f70",
+          "reviewNote": "Authorizes the jury supervisor or board, upon prospective juror application and under written circuit court guidelines, to postpone jury service to a later date."
+        },
+        {
+          "number": 4,
+          "title": "Preparation and maintenance of qualified jury list",
+          "bodySha256": "33ec64876c0f4db826151d10da7eabf0ef65b17427b0c1343ffe316aa9e0298b",
+          "reviewNote": "Governs the creation and recordkeeping of the qualified jury list from returned questionnaires."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all four subsections on random drawing/summons and 10-day juror qualification forms, notifying/deleting unqualified persons, postponing service, and maintaining the qualified jury list; fixed shifted headings/notes on subsections 2 and 3."
+    },
+    {
+      "id": "494.420:27305",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=494.420&bid=27305",
+      "sourceSha256": "95dec873637bf3295496c15903d4cd9229784b580720f361681b13a555849d37",
+      "textSha256": "6f6797226c748a2dc716418831b17dd207a0565cc87feaca20a9a82f910dba3e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Supervision of summoned qualified jurors in courthouse",
+          "bodySha256": "84d414531c344d427a88725697503aedeb44ebbf6acbbe750815abc234f99e7f",
+          "reviewNote": "Places summoned persons from the qualified jury list under control and supervision of the sheriff or board designee in a designated courthouse area."
+        },
+        {
+          "number": 2,
+          "title": "Random selection of juror panel from qualified jury list",
+          "bodySha256": "a6dc4da48c0e3c4b156117e4608fe2fcc3fc0f84721359721bc39f5356ece4d8",
+          "reviewNote": "Requires random selection from the qualified jury list, in a board-specified manner, of the number of jurors designated by a circuit judge for a panel."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections on sheriff/designee supervision of summoned qualified jurors in the courthouse and random panel selection from the qualified jury list; replaced mismatched draft headings/notes on both subsections."
+    },
+    {
+      "id": "494.430:47689",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=494.430&bid=47689",
+      "sourceSha256": "79ebc0849e476ac2e3f965664bf2a4d4bad27274a95de00bb0c85d6b777d1d01",
+      "textSha256": "a5f12880cd4bd19af36d45db2f7eb8f03a5c6706618479b2dddbcc8e6ddf75f5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Timely application for excuse from jury service",
+          "bodySha256": "3cc0d5f6cb5d0947637244e6628587e4bc5bc73fdb9ef5bf4d5925247c5fe24f",
+          "reviewNote": "Specifies seven statutory categories eligible for excuse upon timely application to the court."
+        },
+        {
+          "number": 2,
+          "title": "Judicial authority for hardship determinations",
+          "bodySha256": "389f2930c5cd4843875aa7e66e7263b5318a97655960d0bcae129b3d5772a76d",
+          "reviewNote": "Vests undue or extreme physical or financial hardship decisions exclusively in judicial officers."
+        },
+        {
+          "number": 3,
+          "title": "Deadline for ruling on hardship excuse request",
+          "bodySha256": "b092b49676f238ab92da6e4e53f4bdde0bcff523ea3b972799c7d8b8aaaab08f",
+          "reviewNote": "Requires prospective jurors to obtain hardship excuse rulings prior to scheduled appearance date."
+        },
+        {
+          "number": 4,
+          "title": "Circumstances constituting undue or extreme hardship",
+          "bodySha256": "f4bff9f99da4f329a1e0b2e3611fc6f8e0088efa272fab71504fb09f0d175adb",
+          "reviewNote": "Defines qualifying physical or financial hardship including caregiving obligations and extreme costs."
+        },
+        {
+          "number": 5,
+          "title": "Absence from employment insufficient for hardship",
+          "bodySha256": "bf1f4b0aab193a1bc47542c69faa357a7abdf226a680399c06891521e47686a5",
+          "reviewNote": "Clarifies that employment absence alone does not constitute undue or extreme hardship."
+        },
+        {
+          "number": 6,
+          "title": "Documentation and filing under seal for hardship excuses",
+          "bodySha256": "f79dbf25eb1789c2ecc6d8720b95142f5f8496fc1ad50f9c9bed2e1e2a2b0985",
+          "reviewNote": "Authorizes judge to require supporting financial or medical proof filed under seal."
+        },
+        {
+          "number": 7,
+          "title": "Duration of excuse and permanent excuse determination",
+          "bodySha256": "a390dd53d1ac9b7b9a8e10a9c22edeeed2b67ffa43678a8000ec24a455eea989",
+          "reviewNote": "Provides two-year excuse period unless underlying grounds are determined to be permanent."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all seven subsections on seven mandatory jury-excuse categories, exclusive judicial hardship determinations, ruling deadlines, hardship definitions, employment-absence exclusion, sealed documentation, and two-year/permanent excuse duration."
+    },
+    {
+      "id": "494.432:27309",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=494.432&bid=27309",
+      "sourceSha256": "52d2c07c5409ccdab081cf16cb6ba3c9476b585bb0daad4a182c28e66b26a734",
+      "textSha256": "0336d9d2ae58563cbf57dd4d4e8b9790d002478b5fb1c9e87186cdedba4ac6ea",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Right to one-time automatic postponement of jury service",
+          "bodySha256": "0ae077be0e80affc5b96c8439ec4ef0c9898b0d23c00edc7e2cae1988954d36d",
+          "reviewNote": "Grants prospective jurors a one-time automatic postponement for up to six months upon request."
+        },
+        {
+          "number": 2,
+          "title": "Subsequent postponement for unanticipated extreme emergency",
+          "bodySha256": "700ad9c557cef51e9f45fce6411fd6903812c4843fa4fcdaf63bbd30ff6b48e2",
+          "reviewNote": "Permits a judicial officer to approve a subsequent postponement only for an unanticipated extreme emergency, fixing a definite appearance date within six months."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections on the right to a one-time postponement (up to 6 months, or 12 months for full-time students) and subsequent judicial postponement only for unanticipated extreme emergencies."
+    },
+    {
+      "id": "494.442:27312",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=494.442&bid=27312",
+      "sourceSha256": "522e6d1ebc5705d600e843634d51f23aea8db771c11a86865d62a4ae2e4813f8",
+      "textSha256": "01b220acf3f92852d487a14a53503e670f921d1754f1944e456ba14c1e935bce",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Driver's license Social Security numbers and confidentiality",
+          "bodySha256": "7f0a103c422d7c91e69a4c85b3c1a5c973a165b7687a82f01f3c14b69431c901",
+          "reviewNote": "Requires the director of revenue to provide licensed drivers' Social Security numbers to boards of jury commissioners for official use only, closed from public inspection."
+        },
+        {
+          "number": 2,
+          "title": "Election authority provision of voter Social Security numbers",
+          "bodySha256": "454287feb46ab55d8519773912a5d209d45db1f47841ac147db9dee8149e6ef9",
+          "reviewNote": "Requires election authorities to include registered voters' provided Social Security numbers on lists furnished to boards of jury commissioners for master jury lists."
+        },
+        {
+          "number": 3,
+          "title": "Effective date for driver's license list inclusion",
+          "bodySha256": "c1d8eaba30be3cdb9bbd9cdd88f99edf32aa37d95b373d5d44335163ea69165b",
+          "reviewNote": "Specifies statutory effective date of January 1, 1994, for driver's license list expansion."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on providing driver's license Social Security numbers (closed from public inspection) and registered voter Social Security numbers to boards of jury commissioners and the January 1, 1994 effective date; corrected subsection 2 title/note."
+    },
+    {
+      "id": "494.445:27313",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=494.445&bid=27313",
+      "sourceSha256": "9fa3675555c19c868969e7e195710e7d8e88a3a9c0eb5d19776e4db56033c1d8",
+      "textSha256": "967e12f0c3c66b2060818a96634d8f08edae49d6d043cd72856206974da12078",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Maximum term of petit juror service",
+          "bodySha256": "2eba56948196a4ed8f8b180585ddccae302953753665abe952c370d4a8a019c6",
+          "reviewNote": "Limits petit juror actual court service to not more than twenty days in a twelve-month period."
+        },
+        {
+          "number": 2,
+          "title": "Two-day service limit under nonpartisan plan",
+          "bodySha256": "ed4d8ed1bc9c08ec307e4ddf94aeaec113ad829f2c29edb3a1a9058535e35d7e",
+          "reviewNote": "Restricts petit jury service to two court days unless selected for trial in nonpartisan circuits."
+        },
+        {
+          "number": 3,
+          "title": "Twenty-day annual petit juror limit in nonpartisan circuits",
+          "bodySha256": "81f6a4b62f7fa46b8e81c144c3096e7dd773c1dcfbe36919fdc8747ef74ac42a",
+          "reviewNote": "Limits petit juror service in nonpartisan court plan jurisdictions to twenty days in any one-year period except as necessary to complete a particular case."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on the 20-day annual petit juror service limit and nonpartisan court plan two-day prospective service and 20-day annual service limits; replaced mismatched subsection 3 title/note."
+    },
+    {
+      "id": "494.455:57419",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=494.455&bid=57419",
+      "sourceSha256": "48c33b97f862a8cc886856ef74fca2039e8690ee24b3f115d6140cb0686f09ce",
+      "textSha256": "85eaadc8344fd1630d6fd125034392e411adde564a72b364f18cf72004350021",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Juror compensation and mileage reimbursement",
+          "bodySha256": "b2afcb44db0e1e9b47475e6f6a2c0b46b451946e5291916fd5fc7fa4338c6c03",
+          "reviewNote": "Sets minimum daily juror pay of six dollars plus state employee mileage allowance."
+        },
+        {
+          "number": 2,
+          "title": "County authorization of additional daily compensation",
+          "bodySha256": "772e403e94aeed5ba307de1d31da6b40d594a06b94f541e405b5a70e24d3659b",
+          "reviewNote": "Permits county governing body to authorize additional pay with state reimbursement provisions."
+        },
+        {
+          "number": 3,
+          "title": "Optional fifty-dollar daily juror compensation plan",
+          "bodySha256": "f4e80f7cf742631c02b21992036049db060651db23506c0213a221e7222a8032",
+          "reviewNote": "Authorizes optional county plan paying fifty dollars daily beginning on third day of service."
+        },
+        {
+          "number": 4,
+          "title": "Submission of fee statement and payment by county",
+          "bodySha256": "a5ee7748f68ec97a7c5e446cc62d89344ce56b43b9c3217f0a221bc8955ed19c",
+          "reviewNote": "Requires submission of juror fee statement and county payment within thirty days of service."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all four subsections on $6 minimum daily juror pay plus section 33.095 mileage, county additional pay with $6 state reimbursement (subject to supreme court mandate termination), optional $50-from-day-three plan, and 30-day county payment (A.L. 2025 S.B. 218)."
+    },
+    {
+      "id": "494.460:27316",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=494.460&bid=27316",
+      "sourceSha256": "3a319987944c66bdde5b1d6fd22094d371ea8ea42ea590b3f2fc8e0bffba9ba8",
+      "textSha256": "67b23db5eb35aa53d1c67b0d817420fa9a4d45a8a39a4887979a02a245852fc8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition against employer retaliation for jury service",
+          "bodySha256": "cb99a39b8a35e52b91a6b853de10ad7faeb009fc87a56b4ccf77403078405c4f",
+          "reviewNote": "Prohibits discharge, discipline, or threats against employees summoned for jury service."
+        },
+        {
+          "number": 2,
+          "title": "Civil action for lost wages and reinstatement",
+          "bodySha256": "209bbcbc26ab1f745baead37689813af474b7ca9406b8e3f3bfc5c769db6d1df",
+          "reviewNote": "Authorizes ninety-day civil action against employers for lost wages, attorney fees, and reinstatement."
+        },
+        {
+          "number": 3,
+          "title": "Prohibition on requiring use of vacation or sick leave",
+          "bodySha256": "02483e60f3edd01914fa79ac4e366e7ca895c149c15a463a0127369e9f05b4d1",
+          "reviewNote": "Bars employers from requiring jurors to use annual, vacation, or sick leave during service."
+        },
+        {
+          "number": 4,
+          "title": "Automatic postponement for small employers",
+          "bodySha256": "92526985666519d3e2384a558b5b87322654d99cf42ddc62ed198a3355e71d26",
+          "reviewNote": "Grants postponement upon request where business employs five or fewer full-time employees."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all four subsections prohibiting employer retaliation for jury service, authorizing 90-day civil actions for lost wages/reinstatement/fees, barring forced leave usage, and mandating automatic postponement for employers with five or fewer full-time employees."
+    },
+    {
+      "id": "494.465:27317",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=494.465&bid=27317",
+      "sourceSha256": "7b691a3b0105cc41a215a2e5175369d78e76037333d8236ea4145531cfc032b8",
+      "textSha256": "e074a36df4114b7aca9ca33dea8fb44c7ad0234607309a19501ca5252ac1e714",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Motion to stay or dismiss for noncompliance with jury selection",
+          "bodySha256": "d55b0269bae6097bab4e4730b4c8912e3c6913b9aa0a16b046c91b44e593b7c3",
+          "reviewNote": "Authorizes motion to stay proceedings or dismiss indictment for substantial statutory violations."
+        },
+        {
+          "number": 2,
+          "title": "Sworn statement of facts and evidentiary hearing",
+          "bodySha256": "0aa7b36535b7611320dfeaaa14ed18596435d125de39b876fc4b368ad8fd6ab0",
+          "reviewNote": "Requires motion supported by sworn facts and presentation of jury records at hearing."
+        },
+        {
+          "number": 3,
+          "title": "Exclusive statutory procedure for jury selection challenges",
+          "bodySha256": "f3212029b6910d295c1bfe16e70b6ba614f797c2ddecb2aaf1bfe2b08aa2f606",
+          "reviewNote": "Establishes this section as the exclusive statutory remedy for challenging jury selection methods."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on timely motions to stay or quash indictments for substantial jury-selection noncompliance, sworn fact statements/evidentiary hearings, and exclusivity of statutory challenge procedures."
+    },
+    {
+      "id": "494.470:27318",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=494.470&bid=27318",
+      "sourceSha256": "e344ea13e827260d3b509160091fd590bc7d3eda0c7604f915d0cae8f91f9c4d",
+      "textSha256": "71a288cfebb22815f4a55bf63b8aa6fc42c1dbc28fa2025e50dbca56223492a7",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Disqualification for witness status, opinion, or kinship",
+          "bodySha256": "0bb9fa0093af46aacdc6e01045d2b105e3a0ea47fa413ea403ce8cfb2600d005",
+          "reviewNote": "Bars witnesses, persons with case-influencing opinions, and persons within the fourth degree of consanguinity or affinity from being sworn as jurors."
+        },
+        {
+          "number": 2,
+          "title": "Ineligibility of jurors unable to follow court instructions",
+          "bodySha256": "79bbf85baa77ab6f008a60cf0bf63a2b2c163a807377852e2967a11bb1cbe9b9",
+          "reviewNote": "Renders ineligible persons whose opinions or beliefs preclude them from following the law as declared by the court in its instructions."
+        },
+        {
+          "number": 3,
+          "title": "Trial and timing of challenges for cause and discharge",
+          "bodySha256": "14aab2dda956cfe8e48f87b25be1cb0a511f75db749a9cd92558582d31d27ecd",
+          "reviewNote": "Provides for trying challenges for cause on oath or other evidence before swearing, with discretionary discharge if discovered after swearing and before evidence."
+        },
+        {
+          "number": 4,
+          "title": "Statutory and other lawful grounds for challenges for cause",
+          "bodySha256": "6c1ed2117525c9f04a947d24f8024a3edd0be15185056a4d4a92ccf8c3ffee6b",
+          "reviewNote": "Permits challenging a prospective juror for cause for any reason mentioned in this section or any other cause authorized by law."
+        },
+        {
+          "number": 5,
+          "title": "Restrictions on subpoenaing panel jurors as witnesses",
+          "bodySha256": "d53cd76f847ad78488f5f8153081b45485addf9f0559223472159e8b58e7e447",
+          "reviewNote": "Bars subpoenaing juror without showing materiality to prevent intentional disqualification."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all five subsections on witness/opinion/kinship disqualification, inability to follow instructions, trial and timing of challenges for cause, other lawful grounds, and restrictions on subpoenaing panel jurors as witnesses; fixed off-by-one shift across subsections 2\u20134."
+    },
+    {
+      "id": "494.480:27320",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=494.480&bid=27320",
+      "sourceSha256": "bfd4f2eec616389444bc28eb017459ea5f756ad31d5c4b4cea834ca939f8d4f1",
+      "textSha256": "b264adde7cea166c5d2d18fa075b16a131441cc48d56779362470900e237a3e1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Number of peremptory challenges in civil cases",
+          "bodySha256": "8ed46003585fc06aac0e4178f2642e611fd56587b56f63e0b03087a58e4992b8",
+          "reviewNote": "Allocates three peremptory challenges per side in civil cases, exercised jointly by multiple parties."
+        },
+        {
+          "number": 2,
+          "title": "Number of peremptory challenges in criminal cases",
+          "bodySha256": "df085116140693c2eb2135516ec528322f9b2f46cfbe793d53ec10494f701a9b",
+          "reviewNote": "Sets criminal peremptory challenges by penalty level: death penalty 9, felony 6, and other 2."
+        },
+        {
+          "number": 3,
+          "title": "Peremptory challenges in multi-defendant criminal trials",
+          "bodySha256": "e5cbc3d5510b53f8c52f43a84db647cdf7c05494b61ace7dfc5e0b2b7d8dccb9",
+          "reviewNote": "Grants each jointly tried criminal defendant separate subsection 2 peremptory challenges and multiplies the state's challenges by the number of defendants on trial."
+        },
+        {
+          "number": 4,
+          "title": "Challenge announcement order and juror qualification appeal rule",
+          "bodySha256": "5c7858c3be498190627210d9363c61db424554a1d199599a02a5b5683c084920",
+          "reviewNote": "Requires the state to announce peremptory challenges first and bars new trial or reversal for panel juror qualification unless the juror served and participated in the verdict."
+        },
+        {
+          "number": 5,
+          "title": "Assessment of impaneling costs against defendant on plea agreement",
+          "bodySha256": "67bbdf651ce1fbb489e475e98057be7822a57a5268f1b7a54dab9399f08211a8",
+          "reviewNote": "Authorizes taxing jury impaneling costs against criminal defendant entering plea bargain."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all five subsections on civil and criminal peremptory challenges, multi-defendant criminal challenge multipliers, challenge announcement order and juror-qualification appeal rule, and plea-bargain jury impaneling costs; fixed shifted subsection 3 heading/note."
+    },
+    {
+      "id": "494.505:27325",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=494.505&bid=27325",
+      "sourceSha256": "3b0b1c003bdf2446cc0dec8298d46fd33d8cb3917895e22e20731289975a0f01",
+      "textSha256": "d20548d4f38f6fbf79f062fa135b03409ff6591acc50a76c922468339104454a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Summons of jurors from other counties on change of venue",
+          "bodySha256": "211a14d057a4e6ec3cc276595dc862f640ff42d4cbe99239e2fc7d4d3564d4d2",
+          "reviewNote": "Authorizes summoning jurors from adjoining counties upon finding that fair jury cannot be obtained."
+        },
+        {
+          "number": 2,
+          "title": "Discretionary jury panel selection in jurors' home county",
+          "bodySha256": "61d91a814cc7ec82f8a9045d0db6514669077ac45074fe3dc5317c013501bb5c",
+          "reviewNote": "Authorizes the circuit judge, in his or her discretion, to hold jury panel selection in the county where the out-of-county jurors reside."
+        },
+        {
+          "number": 3,
+          "title": "Challenges excluding nonresidence and juror transportation",
+          "bodySha256": "62b2abeb47f7c664161d8bed64ae4f15b8ee48da61db2a8cc08c0fdb265848ec",
+          "reviewNote": "Subjects out-of-county jurors to ordinary challenges except nonresidence in the trial county and permits furnishing transportation in lieu of mileage."
+        },
+        {
+          "number": 4,
+          "title": "Supreme court rules governing out-of-county juror selection",
+          "bodySha256": "a3fa44dd3de1579386d37eea509ee83c50e744e6eada26ae0f4aa57dc1c9f7fd",
+          "reviewNote": "Authorizes supreme court rules to govern procedures for summoning out-of-county juries."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all four subsections on summoning jurors from other counties upon countywide prejudice, discretionary selection in the jurors' home county, challenges excluding nonresidence and juror transportation, and supreme court implementing rules; corrected subsections 2 and 3."
+    }
+  ]
+}

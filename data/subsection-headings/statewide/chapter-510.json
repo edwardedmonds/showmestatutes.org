@@ -1,0 +1,569 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "510.010:27485",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=510.010&bid=27485",
+      "sourceSha256": "a166a90b13a22af2da3ae834c3b304e8b26c39923c8db5d3b40a863161fd91ae",
+      "textSha256": "ca086a346ccf4775c486969e747aaf74ae047e67453222904b35b96e618edb8d",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Discretionary direction for pretrial conference of attorneys",
+          "bodySha256": "2f83224c063c5b29fcbade0f11d377406fa981a17332804215026c6d733e2d17",
+          "reviewNote": "Authorizes the court to direct attorneys to appear for a pretrial conference to consider issue simplification, amendments, admissions, and expert limits."
+        },
+        {
+          "number": 2,
+          "title": "Pretrial order reciting conference agreements and limiting trial issues",
+          "bodySha256": "78a9bd965eae5a4948af9a24b71b7e1331569b2d40cf3be908714f741ab05fe9",
+          "reviewNote": "Requires the court to enter a pretrial order reciting action taken and agreements reached, which governs subsequent proceedings unless modified."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on discretionary pretrial conferences of attorneys, binding pretrial orders, and pretrial calendars."
+    },
+    {
+      "id": "510.020:27486",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=510.020&bid=27486",
+      "sourceSha256": "fefb113c829706aeaa6ff16d81b5ec5c20d19a804bb5f5a97cc5b0cd17e39baf",
+      "textSha256": "7b450b50625d342f44122b86635eeb6a6d83592a419e6a83453cd6169840637a",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Service of written interrogatories on adverse parties",
+          "bodySha256": "2a1143a0863bd5a529430ad0be58fdab11938f2a2e0edb5f6a3bf03e5a3d1d19",
+          "reviewNote": "Authorizes any party to serve written interrogatories upon adverse parties, to be answered by the party or designated organizational officer."
+        },
+        {
+          "number": 2,
+          "title": "Time and manner of answering interrogatories under oath",
+          "bodySha256": "08a4a2522e142c0590cd1cdb90747ac247552990b5079feee0e9bbc7378379ef",
+          "reviewNote": "Requires written answers under oath signed by the answering person and served within fifteen days after delivery unless the court enlarges or shortens the time."
+        },
+        {
+          "number": 3,
+          "title": "Time for presenting objections to interrogatories",
+          "bodySha256": "260f8496599b40e46462d167582d801bd0c2ba22bc2b226badf77e4626925244",
+          "reviewNote": "Requires objections to interrogatories to be filed within ten days of service, deferring answers until the court resolves objections."
+        },
+        {
+          "number": 4,
+          "title": "Single set limitation on interrogatories without court leave",
+          "bodySha256": "18792b77661ac58c5403f0872734175ed6caeb4d3a56c8ebb87a3ee9b9443a60",
+          "reviewNote": "Restricts parties from serving more than one set of interrogatories to the same party absent leave of court."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections on interrogatories; corrected subsection 2 note from 30 days to statutory 15-day answer period."
+    },
+    {
+      "id": "510.030:27487",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=510.030&bid=27487",
+      "sourceSha256": "2b082b9d0c34c22ba5d5563218090ba99054b2904c187d9d52d05c575b74400c",
+      "textSha256": "05ec5c7a2a7bc5c6f93ac7c20b70d0842166d20967a8959a57630808d96e8308",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Motion and good cause for production and inspection of documents and tangibles",
+          "bodySha256": "9728329ac21365a4f0abdd1ae20a43763678ed5169e14e32db47bd4fac86ec9a",
+          "reviewNote": "Authorizes court orders on motion showing good cause to produce non-privileged documents/tangibles (*\"or\" for \"of\" in original rolls) or permit property entry for inspection."
+        },
+        {
+          "number": 2,
+          "title": "Party entitlement to copies of own previously made statements",
+          "bodySha256": "0117375a1f962b1941e0fd8f33d610d093593c8b5f1a0c8e73823e881cc6401d",
+          "reviewNote": "Allows a party to obtain copies of their own previously made statements without showing good cause, defining qualifying statements."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections and original-rolls footnote (*\"or\" for \"of\") on document/property inspection orders and party entitlement to prior own statements."
+    },
+    {
+      "id": "510.035:33199",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=510.035&bid=33199",
+      "sourceSha256": "80df6081e9b4909d7cf3b886f7a0f9604b3ff3ba8e281e8e04bd29bfa9e5f290",
+      "textSha256": "fe18b8d03ab3b0c5ba380bb38aa0191e127eca665614bdad007729dbb46c0480",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition on disclosing recordings and photographs of minor sexual offense victims",
+          "bodySha256": "7fd621d4cbefc61b6fc0f19012199d7eee426b40e489a91a2e8f47e2bd55a379",
+          "reviewNote": "Prohibits copying or distributing recordings or photographs of minor victims of chapter 566 offenses without a court order."
+        },
+        {
+          "number": 2,
+          "title": "Authorized multidisciplinary access and investigatory sharing",
+          "bodySha256": "12ad6602bbfb4f512db8cff429ecae1f64af3987c2e49be1f469ec2f7ecab7cf",
+          "reviewNote": "Authorizes access and sharing of recordings/photographs by multidisciplinary team members, DSS, DMH, office of child advocate, child abuse and neglect review board, and attorney general."
+        },
+        {
+          "number": 3,
+          "title": "Mandatory protective provisions in judicial disclosure orders",
+          "bodySha256": "8587c6da34835390048cb07d30e0b12f3ebcbf9bde13e82037ae90ad911b389c",
+          "reviewNote": "Prescribes protective terms for court disclosure orders, restricting use to trial preparation and prohibiting unauthorized dissemination."
+        },
+        {
+          "number": 4,
+          "title": "Multidisciplinary discretion to permit viewing without reproduction",
+          "bodySha256": "d9e4589295a92490eec2a9ca0336221948db24e71f67279f4d0da89c7b30b933",
+          "reviewNote": "Preserves multidisciplinary team discretion to allow in-person viewing of materials without permitting reproduction or copying."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections on minor sexual offense recordings/photographs; removed extratextual \"defense counsel\" from subsection 2 authorized-sharing list."
+    },
+    {
+      "id": "510.050:27489",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=510.050&bid=27489",
+      "sourceSha256": "aecf47baabe473281ad536bf9fa161b5c64c95d19eb3e5a108f810522c1a5581",
+      "textSha256": "fce490d18cbb4f33e6aff1c543eb738491cff28429649e2226ce8a19cbad5e43",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written request for admission of document genuineness and relevant facts",
+          "bodySha256": "aba99c118f51b9076619bd7c55dabdec17f66e934ae6666015209e2c84267ce1",
+          "reviewNote": "Authorizes written requests for admission of document genuineness or truth of relevant matters after pleadings are closed."
+        },
+        {
+          "number": 2,
+          "title": "Limitation of admissions strictly to pending action",
+          "bodySha256": "1b9a748d702c902fb6a36a0d21d61a6e9bf3efe0c4d1f5eba80f3213d62f1ff5",
+          "reviewNote": "Restricts the effect of admissions solely to the pending action, prohibiting their use in any other proceeding."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on written requests for admission of document genuineness/facts and restriction of admissions to the pending action."
+    },
+    {
+      "id": "510.060:27490",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=510.060&bid=27490",
+      "sourceSha256": "cd0d6f7ba8942ce3929b8ecfc682041879cd7a450e798bfca7cfe074c13de94d",
+      "textSha256": "68e1e1f848c8fe3e5653fe8d7dae66e9e342fbd9446ad9d3d8fc6e76f53bbb7a",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Motion to compel answer upon party refusal",
+          "bodySha256": "13c91c5617f17f5d855b9df45cc6bb771b9153ce4b153b7aad2c77f7b7b00fef",
+          "reviewNote": "Authorizes motions to compel interrogatory answers, requiring payment of court costs incurred in obtaining or opposing the order when refusal or motion lacked substantial justification."
+        },
+        {
+          "number": 2,
+          "title": "Judicial sanctions for noncompliance with discovery orders",
+          "bodySha256": "d4b9769183d025859eb9d361a4dffc2906c014a835cddbd51aac9ec335da8d78",
+          "reviewNote": "Empowers courts to impose just sanctions for disobeying discovery orders, including taking facts as established, precluding claims/defenses/evidence, striking pleadings, staying, dismissing, or default."
+        },
+        {
+          "number": 3,
+          "title": "Court costs for unjustified denial of document genuineness",
+          "bodySha256": "8b247639b5b9e46ee7030957762a803adda7d53df2b1dc492ca5277019a15c52",
+          "reviewNote": "Requires ordering payment of court costs incurred in proving document genuineness or related facts after sworn denial unless good reasons existed or admissions lacked substantial importance."
+        },
+        {
+          "number": 4,
+          "title": "Sanctions for willful failure to attend deposition or answer interrogatories",
+          "bodySha256": "669a2c8474721ad414d41aec85508918c8323648d63e9525f894d766ce15bed0",
+          "reviewNote": "Authorizes striking pleadings, dismissing actions, or entering default judgment against a party willfully failing to attend depositions or answer interrogatories."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections and Dickey (553 S.W.2d 518) annotation; removed extratextual \"attorney fees\" from subsections 1 and 3 (title and notes) and \"contempt\" from subsection 2 note."
+    },
+    {
+      "id": "510.120:27496",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=510.120&bid=27496",
+      "sourceSha256": "9f2ab50aa3912c68ce533cee239db2290e72bd6fc2d2c6259f5b736fa3d276ec",
+      "textSha256": "bc2e9ebe34d1769b2c4b1fe856bc93fd3167a2b8a3c441ad19ea5ea714f23d5b",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Automatic legislative stay during regular and active sessions",
+          "bodySha256": "7da53ed3b3d05e92def1480d5f6743bb4485af1c88e3746d8b43be4ec0381a08",
+          "reviewNote": "Establishes an automatic stay of administrative and court proceedings from January 1 to June 1 or whenever the General Assembly is in session."
+        },
+        {
+          "number": 2,
+          "title": "Proceedings and discovery covered by legislative stay",
+          "bodySha256": "f7e42df9835aefff358404b1422d15d9c466998d7e0c60139f8b2766b2c2a676",
+          "reviewNote": "Extends the legislative stay to all trials, motions, hearings, discovery responses, depositions, and trial court proceedings."
+        },
+        {
+          "number": 3,
+          "title": "Exceptions to legislative stay upon waiver or emergency relief",
+          "bodySha256": "ee01762093fac338359975318acf2d95adc79abbf6b90d59c1b2862bc8856f01",
+          "reviewNote": "Exempts proceedings from the legislative stay upon written member waiver, in chapter 288 proceedings, in injunctive relief requests, or where the member faces felony or class A misdemeanor charges."
+        },
+        {
+          "number": 4,
+          "title": "Appellate jurisdiction over termination or modification of legislative stay",
+          "bodySha256": "e0aa29436af433eccb6b25a210cef46993e0299e63618e9670900fd64a108d9b",
+          "reviewNote": "Confers original jurisdiction on the court of appeals over applications to terminate or modify a legislative stay."
+        },
+        {
+          "number": 5,
+          "title": "Mandatory continuances during special, veto, and interim committee sessions",
+          "bodySha256": "fe14eef922a6f2036cd3526c6fbfbbc55990e2a3b0a2cbef67132db59ca348d5",
+          "reviewNote": "Mandates court continuances when legislator counsel or parties attend special sessions, veto sessions, or interim legislative committees."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 5 subsections on automatic legislative stays, scope, exceptions (corrected subsection 3 note to match chapter 288, injunctive relief, and felony/class A misdemeanor), appellate review, and continuances."
+    },
+    {
+      "id": "510.125:27497",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=510.125&bid=27497",
+      "sourceSha256": "3e5246d4a4e9f1030b67ef3f1ad1c9d8d70447a92306c79726342e2b1e6578cd",
+      "textSha256": "1e65ad590a86bf32feadd8ef62134f954b9e5d0caaf8c28fdd0c8f9699aba173",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory stay of inmate civil action pending grievance resolution",
+          "bodySha256": "5a35fe6c9be7146815af2259076072fc80ad412e1b4c2ef2677f9f708eeac951",
+          "reviewNote": "Mandates stay of civil actions brought by incarcerated offenders until grievance resolution systems are fully utilized."
+        },
+        {
+          "number": 2,
+          "title": "Department of corrections offender grievance resolution system",
+          "bodySha256": "b8f28876a0edf326c99e09f2cf9f6ef58ea8fd408517531217b015459b9b2556",
+          "reviewNote": "Directs the Department of Corrections to maintain offender grievance systems and lists permissive features (reply time limits, emergency priority, anti-reprisal safeguards, independent review)."
+        },
+        {
+          "number": 3,
+          "title": "Precedence of federal statutes governing federal claims",
+          "bodySha256": "a773289f6196d3cf386ecad649d27e3175e35d6b9213181aed05500c4dd277cd",
+          "reviewNote": "Provides that federal statutes governing federal causes of action control over state inmate grievance stay provisions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections on inmate civil action stays pending grievance exhaustion; removed extratextual 180-day stay limit from subsection 2 title and note."
+    },
+    {
+      "id": "510.130:27498",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=510.130&bid=27498",
+      "sourceSha256": "a4751a58440eda1aefa9dcce5e7a7e58b6b8ded86d6042a8ecbb7d6d83f37bf3",
+      "textSha256": "40924a61a12b1f404f78311f070b7dd42770c32d529c61bec8bf89f3582ce2ea",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Voluntary dismissal without prejudice before final submission",
+          "bodySha256": "92fc0e6893568b76a6fa7af448fedf84c9ef37829700ad52cb7ca68fdc510b61",
+          "reviewNote": "Authorizes plaintiffs to dismiss actions without prejudice at any time before final submission, prohibiting voluntary dismissal thereafter."
+        },
+        {
+          "number": 2,
+          "title": "Single new trial or appeal after dismissal on adverse ruling",
+          "bodySha256": "36d66c6d5a8cbc970031b51bea19d1702a54e6919e3f6192686ae676941aca6e",
+          "reviewNote": "Limits a party granted a dismissal at their request after an adverse ruling preventing recovery to at most one new trial or one appeal as of right challenging that ruling."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections and Stubblefield (485 S.W.2d 126) annotation; corrected subsection 2 title to reflect voluntary dismissal at party request after adverse ruling and one-appeal limit."
+    },
+    {
+      "id": "510.180:27503",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=510.180&bid=27503",
+      "sourceSha256": "9a522c9c45457509c82a2504b4db258a3ea78aae23737b7da9864769ed35c942",
+      "textSha256": "a4f5afd6ca349052e0182369a921aaea45f234a24d468624b65d6e9f4acfbde4",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Consolidation of suits founded upon liquidated demands",
+          "bodySha256": "2e79935c0f56ec65fba04ecb745a366fe7916b18b5b8bc954cae1290a36a8332",
+          "reviewNote": "Authorizes court consolidation of multiple pending actions on liquidated demands between the same parties to avoid unnecessary costs."
+        },
+        {
+          "number": 2,
+          "title": "Separate trials of claims or issues to avoid prejudice",
+          "bodySha256": "91390f3e316f8a45c78893cbba339b518d63d14d2809a0f620a275dc4d7816cd",
+          "reviewNote": "Empowers courts to order separate trials of any claims, cross-claims, counterclaims, or separate issues in furtherance of convenience or to avoid prejudice."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on consolidation of suits on liquidated demands and separate trials of claims or issues."
+    },
+    {
+      "id": "510.190:27504",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=510.190&bid=27504",
+      "sourceSha256": "c5e8cd813903da77bcf0c9e10333ab017a7ac57fae697e2deeb903bacfb07d15",
+      "textSha256": "7a188a8c9149dba78fcb58047c70a756d13a5837d1eccc728f5b1fba784df816",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Preservation of constitutional right to jury trial",
+          "bodySha256": "87eb1a3fff234ed229e8320c49c1be694a55c26f4b24143e97a0d4fd1277b3bc",
+          "reviewNote": "Preserves the constitutional right to jury trial inviolate, specifically including validity of releases and discharges."
+        },
+        {
+          "number": 2,
+          "title": "Methods of waiving trial by jury",
+          "bodySha256": "d47b1fd539a2e8ce0172da1032ddf8d21b785366c36e8b166c45b18f490b368f",
+          "reviewNote": "Specifies four statutory methods of waiving jury trial: failure to appear, written consent filed with clerk, oral consent entered on minutes, or entering bench trial without objection."
+        },
+        {
+          "number": 3,
+          "title": "Jury trial by party consent in actions against the state",
+          "bodySha256": "b9e412ee91c5fa43cb55efa77f94ad67e719e5d4019d71fc81cbf96997a3dedd",
+          "reviewNote": "Permits the court, with consent of both parties in nonjury statutory actions against the state, to order a jury trial with the same effect as if of right."
+        },
+        {
+          "number": 4,
+          "title": "Jury trial waiver on behalf of minor or incapacitated person",
+          "bodySha256": "a7c9401c2ecb013799fca2c1f4876831fffd94311b46f3bffa7dfeeac1352413",
+          "reviewNote": "Provides that where a minor or mentally incapacitated party is represented by a legal representative, jury trial is deemed waived under the four circumstances in subsection 2."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections and Randolph/Attebery annotations; corrected subsection 2 note (four waiver methods), subsection 3 title (removed \"advisory\"), and subsection 4 note."
+    },
+    {
+      "id": "510.261:48373",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=510.261&bid=48373",
+      "sourceSha256": "d8a92039460fd59e7e9a94338a44e5e8efa34cb6211e08eee4a76d64274f091e",
+      "textSha256": "8d0a9a676086a855c0fa4960d54e898c4cddea98123fced65e5576bea8d3c343",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Clear and convincing standard for intentional harm or flagrant disregard",
+          "bodySha256": "78305c10f8fe3255f8fe63211c95cc06c96c711bb559f153a3f8aaa74b58f552",
+          "reviewNote": "Bars punitive damages unless the claimant proves by clear and convincing evidence intentional harm without just cause or deliberate and flagrant disregard for others' safety."
+        },
+        {
+          "number": 2,
+          "title": "Requirement of compensatory award exceeding nominal damages",
+          "bodySha256": "f1ba045c656a6eb7bce9be62ba79f465a5f2b0188872e6265cad8a22de022c15",
+          "reviewNote": "Limits punitive recovery to cases with compensatory awards exceeding nominal damages, except for privacy, property, or constitutional claims."
+        },
+        {
+          "number": 3,
+          "title": "Standards for vicarious punitive liability of employers and principals",
+          "bodySha256": "be509e255fc65b38c821fff410287e06d10452b6327a75b385573bb93178852f",
+          "reviewNote": "Delineates strict conditions for holding employers or principals liable for punitive damages based on acts of agents."
+        },
+        {
+          "number": 4,
+          "title": "Limited employment records discovery upon employer admission of liability",
+          "bodySha256": "bb83ffe763aa79dbe770d33a72240d5abeb6fd34eefefd6454e3d742e11687b5",
+          "reviewNote": "Restricts discovery to employment records when an employer admits liability for an agent's conduct in a compensatory damages claim."
+        },
+        {
+          "number": 5,
+          "title": "Prohibition of punitive claims in initial pleadings and leave requirement",
+          "bodySha256": "878f9afbb99f30d28749b63856e0f347b9899ea33ad6863dead7a8692c84ab34",
+          "reviewNote": "Prohibits punitive damage claims in initial pleadings and establishes procedures for seeking court leave to amend based on supporting evidence."
+        },
+        {
+          "number": 6,
+          "title": "Prohibition on calculating punitive damages based on nonparty harm",
+          "bodySha256": "c1d28ef63babd73c5bb725ebaab1393a00f4b0f363239ba2a8d57defb5ed5717",
+          "reviewNote": "Explicitly bars basing punitive damages awards on harm caused to persons who are not parties to the litigation."
+        },
+        {
+          "number": 7,
+          "title": "Prohibition of judgments violating statutory punitive restrictions",
+          "bodySha256": "552540cb73020a14fbd12915a0d9e1eef1a2e1b228b1f24101220b1ddc375654",
+          "reviewNote": "Bars entry of any judgment containing punitive damage awards that violate the restrictions and standards of the section."
+        },
+        {
+          "number": 8,
+          "title": "Preservation of consistent common law and statutory punitive limitations",
+          "bodySha256": "9893ef6d001b2cc9123dedf1a1e200819281ad3df5e2453d8a626e7846b29b0e",
+          "reviewNote": "Preserves existing common law limitations and other statutory caps on punitive damages to the extent consistent with the section."
+        },
+        {
+          "number": 9,
+          "title": "Definition of punitive damage award",
+          "bodySha256": "f0892eda9813f67f0e9d72b6f9617d052c07cef598f5a6f2ccb3088cdc94b563",
+          "reviewNote": "Defines punitive damage award to include punitive damages, exemplary damages, and awards for aggravating circumstances."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 9 subsections and section 510.262 cross-reference; aligned subsection 1 title/note to statutory \"intentional harm\" or \"deliberate and flagrant disregard\" wording."
+    },
+    {
+      "id": "510.263:48374",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=510.263&bid=48374",
+      "sourceSha256": "b49317d6fcc1af5240a3127e629ad869e5aaef25f47e77b355b72813f60bd999",
+      "textSha256": "8a501b23e9f42c2f06ac3b8e32fbd50a8d82bc8f73ca109657155454b84b07a0",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory bifurcated trial on punitive damages upon party request",
+          "bodySha256": "72fb027e2293f5f0bdc757866bf82b23672ad1d7d49bf567902da9612add8711",
+          "reviewNote": "Requires bifurcated trials before the same jury on punitive damages issues in all jury actions upon request of any party."
+        },
+        {
+          "number": 2,
+          "title": "First stage determination of compensatory damages and punitive liability",
+          "bodySha256": "5e3a37ae445fa3ded1b851d23d24c7fb1b10960f44369ac73c8bf5355539cae2",
+          "reviewNote": "Governs first stage proceedings to determine compensatory liability, damages amounts, and submissibility of punitive liability."
+        },
+        {
+          "number": 3,
+          "title": "Second stage determination of punitive damages amount",
+          "bodySha256": "302f4c0d60843e10a5295e8aa6b1045b6ab93fce45ee84ea85df61e15abe5084",
+          "reviewNote": "Directs the same jury to determine the amount of punitive damages in a second stage of trial if liability was found in the first stage."
+        },
+        {
+          "number": 4,
+          "title": "Post-trial motion for credit for prior punitive awards",
+          "bodySha256": "ac00b032e6c87438a713b8bbde3cefd77443f0264f8310346ce6a5c1cee343b9",
+          "reviewNote": "Establishes procedures for post-trial motions requesting credits against punitive awards for amounts previously paid in other cases."
+        },
+        {
+          "number": 5,
+          "title": "Inapplicability of punitive credits to intentional tort actions",
+          "bodySha256": "3567e5f6cc4593827a4593daade21ed806140985be309c9ce1839235974ffd23",
+          "reviewNote": "Excludes intentional tort actions including defamation, assault, battery, false imprisonment, and fraud from punitive damage credits."
+        },
+        {
+          "number": 6,
+          "title": "Application of remittitur and additur to punitive awards",
+          "bodySha256": "00ded39328e4513df920494a5c1b5d46ca6ab95474b36c79f0ee9e1e3729052e",
+          "reviewNote": "Applies doctrines of judicial remittitur and additur to jury punitive damage awards based on totality of circumstances."
+        },
+        {
+          "number": 7,
+          "title": "Definition of punitive damage award in bifurcated proceedings",
+          "bodySha256": "f07b7630d5aeeeb1d873d084bc37a56efb051fb6489b3dec279b99c64ef5972f",
+          "reviewNote": "Defines punitive damage award to include punitive damages, exemplary damages, or awards for aggravating circumstances."
+        },
+        {
+          "number": 8,
+          "title": "Asset discovery restricted until leave to plead punitive damages is granted",
+          "bodySha256": "f155457f3527cc61c64b0398df8c4c4f53e54f1bcf23381948b3f04aebef2568",
+          "reviewNote": "Prohibits discovery regarding a defendant's assets until the court grants leave to file a pleading seeking punitive damages."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 8 subsections and sections 538.305/510.262 cross-references on bifurcated punitive trials, post-trial prior-award credits, intentional tort exclusions, remittitur/additur, and asset discovery."
+    },
+    {
+      "id": "510.265:48375",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=510.265&bid=48375",
+      "sourceSha256": "8aa11dc3cccdf13cb31116ea732fd22bb755f1153f27a5cc917563c6129534d3",
+      "textSha256": "bb0ad78ffe7cfd005771aa6d48fd4371460d3c5dbf46e189428be26f5381d117",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Statutory cap on punitive damages awards",
+          "bodySha256": "f9b87bbb15acc7c56ba924f61657f57419df81351228418c694d7404a09039fe",
+          "reviewNote": "Imposes statutory limits on punitive damage awards to greater of $500,000 or five times net judgment; note flags Lewellen unconstitutionality."
+        },
+        {
+          "number": 2,
+          "title": "Exemption for civil rights discrimination actions under chapter 213",
+          "bodySha256": "c18618fb8a2a47e5f96b3cdba410aadc78d300d1874a66eeb15bf2c9282be55a",
+          "reviewNote": "Exempts civil actions under section 213.111 alleging violations of housing-related sections 213.040, 213.045, 213.050, or specified housing provisions of section 213.070."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections, cross-references, and Lewellen v. Franklin (441 S.W.3d 136) annotation; aligned subsection 2 note to housing-related chapter 213 sections."
+    },
+    {
+      "id": "510.300:27517",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=510.300&bid=27517",
+      "sourceSha256": "5bfc644e943cb3dc8d85fa2dd9431dd3e9e9081a2ee87e93435a906c2adb0c9d",
+      "textSha256": "28a747a252c9eb3d17accc7ce3aae15638334033bff7b03514e60c256300f17f",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Request for written jury instructions on applicable law",
+          "bodySha256": "34a391a8d90d62c0ca7a19355cccb8bff57f2e753e60c22396e66d6106e369e7",
+          "reviewNote": "Authorizes parties to request written instructions on the law at the close of evidence and requires instructions to be settled before argument."
+        },
+        {
+          "number": 2,
+          "title": "Marking refused instructions and submission of given instructions to jury",
+          "bodySha256": "5c8dd8f14559972ee7cf26672ddf37672b20018da0525bc07b8c41ffd1a3cb10",
+          "reviewNote": "Requires refused instructions to be marked and filed, and mandates that given instructions be carried to the jury room and returned with the verdict."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on requests for written jury instructions, court-motion instructions, marking refused instructions, and filing given instructions."
+    },
+    {
+      "id": "510.310:27518",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=510.310&bid=27518",
+      "sourceSha256": "705eb0d376d0a88d71ceee949e2281911742d87dd33e9b70ba22a8bb724680aa",
+      "textSha256": "7d8fee09e668495d396995cc173f46ca5b1cf16e3d16163e3a674e4167659f98",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Evidentiary rulings and offers of proof in bench trials",
+          "bodySha256": "3ab3b7203cde60bdcdb6bb843d90dfa56440392a58478c86cf7d6ba77244f693",
+          "reviewNote": "Governs court rulings on evidentiary objections in nonjury trials and procedures for preserving excluded testimony and evidence in the record."
+        },
+        {
+          "number": 2,
+          "title": "Judgment rendition and requested findings of fact and conclusions",
+          "bodySha256": "22f54b9b257fddca7c5a266e75abc4ccdd1d8e49ebbfa1339f9408b09f7bc486",
+          "reviewNote": "Authorizes rendition of judgment and requires findings on controverted fact issues and grounds of decision when requested before submission."
+        },
+        {
+          "number": 3,
+          "title": "Motion to amend judgment and findings in nonjury trials",
+          "bodySha256": "0c03e00271bafcf0bb17f3c74191677aba8944b6f0192a135dbb9b49089ed6d8",
+          "reviewNote": "Authorizes motions to amend judgments and factual findings within ten days of entry, permitting joinder with motions for new trial."
+        },
+        {
+          "number": 4,
+          "title": "Scope of appellate review in bench trials",
+          "bodySha256": "336cb67af59c7a55bc6d1a199d3df42c807daef99621af4bc5ea5f6c916cc019",
+          "reviewNote": "Clarifies that unrequested findings are unnecessary for review and establishes standards for appellate review of facts and credibility in bench trials."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections on bench-trial evidentiary rulings/offers of proof, requested findings/opinions, 10-day motions to amend, and appellate review."
+    }
+  ]
+}

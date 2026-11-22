@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "525.030:28062",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=525.030&bid=28062",
+      "sourceSha256": "cb2c8ce529edb54433b3e32e2ba34395bf3cd4ed2d1ba4c7ebd9f473f880898f",
+      "textSha256": "3a3259f289c6f4ebd11576fdd3508f4f8f3085ffd0dadf250f7ecf70dc20a9f7",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Persons and officers exempted from summons as garnishee",
+          "bodySha256": "b152cf5d8d18532f79302e983e781c1e2cb32facad483dd56dd3a7f06748996b",
+          "reviewNote": "Exempts sheriffs and collecting officers prior to return day, county collectors/treasurers, municipal corporations and officers, estate representatives prior to distribution/allowance orders, and negotiable-instrument parties absent proof of defendant ownership."
+        },
+        {
+          "number": 2,
+          "title": "Maximum earnings subject to garnishment, exceptions, and definition",
+          "bodySha256": "1e987bc85f82eee82357f9c0eff541208a6058ac0b3a6c786f7cc5fe87907a73",
+          "reviewNote": "Caps weekly garnishable disposable earnings (25%, 30x federal minimum wage, or 10% for resident heads of families), lists support/Chapter XIII bankruptcy/tax exceptions, sets multi-week formulas, applies to political subdivision sequestration, and defines earnings."
+        },
+        {
+          "number": 3,
+          "title": "Garnishable maximum construed as all wages held or owed",
+          "bodySha256": "0de17db849f40c8f8d520ac6de57084d60bfe18acf84dee1df8c80f223026ace",
+          "reviewNote": "Provides that in garnishment or wage sequestration proceedings under sections 525.010 to 525.480, the subsection 2 maximum garnishable amount is construed as all wages or earnings of the defendant held or owed for that week."
+        },
+        {
+          "number": 4,
+          "title": "Excess wage attachment barred and required notice text",
+          "bodySha256": "ccec20348c5091dc9294a5bf5842340e05510f497bf3f1a057e080ac7b5ff875",
+          "reviewNote": "Prohibits any garnishment or wage sequestration notice, summons, or writ under sections 525.010 to 525.480 from attaching excess wages and requires subsections 2, 5, and 6 to be clearly reproduced thereon."
+        },
+        {
+          "number": 5,
+          "title": "Prohibition on employee discharge for single-indebtedness garnishment",
+          "bodySha256": "b440571c2a5be40e34bd79ab39f9ca918c0be1499ddab971eb49918c479d58d5",
+          "reviewNote": "Prohibits any employer from discharging an employee because the employee's earnings have been subjected to garnishment or sequestration for any one indebtedness."
+        },
+        {
+          "number": 6,
+          "title": "Misdemeanor penalty for unlawful employee discharge",
+          "bodySha256": "b3ed3cd37f73d2e203c67cb28805acd814507c4cc570fd4af7631047bb117411",
+          "reviewNote": "Provides that whoever willfully violates the subsection 5 prohibition on employee discharge is guilty of a misdemeanor."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all six subsections, subdivisions, effective date (1-02-79), and 1974/1978/1979 annotations for 525.030. Corrected shifted subsection 3 (which construes the garnishable maximum as all wages held/owed rather than head-of-family cap), expanded subsections 1, 2, and 4 to match full scope, and removed fabricated 'class G misdemeanor' from subsection 6 note."
+    },
+    {
+      "id": "525.040:28063",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=525.040&bid=28063",
+      "sourceSha256": "b919065c97135941b6ab49c565ca76214e605412302f98a54bf7622a17d4e42e",
+      "textSha256": "a9995f8267d779c0a787e05ac862d9c0aaac26c44c69ea1beef01b611d03084d",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Attachment effect of garnishment notice on property and debts",
+          "bodySha256": "ee57acb88919c9245ba63ff250e7a00e6f68181b712f68c4dd03ea5d29ccaf7f",
+          "reviewNote": "Provides that notice under sections 525.010 to 525.480 (note: § 525.480 repealed by H.B. 1634, 1978) attaches personal property, money, credits, and choses in action until answer or continuous wage garnishment end, with money-judgment limits on instruments."
+        },
+        {
+          "number": 2,
+          "title": "Priority by service date and notice of senior garnishments",
+          "bodySha256": "ae19d52315ad769ce55c4948611fd90be3a71c85fdc99afc9dd56177383f31af",
+          "reviewNote": "Establishes priority among equal-priority garnishment writs by date of service on the garnishee and requires an employer served with multiple wage writs to inform the inferior garnisher of senior garnishments and case numbers."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections, effective date (1-15-15), repealed § 525.480 footnote, and 1971/1974 annotations for 525.040. Updated subsection 2 title/note to remove unsupported 'and time' and include the employer duty to notify inferior garnishers of senior garnishments."
+    },
+    {
+      "id": "525.080:28067",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=525.080&bid=28067",
+      "sourceSha256": "0830880abb042f300679da6e46dbeb90c26442be600db0f0ababf1b17d44c656",
+      "textSha256": "64b9d020ddf9f6ba97a351dfe6225aa1d83da9a364e6fca431b1e5aabbfe5b4b",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Court order directing garnishee to deliver property or pay debts",
+          "bodySha256": "4f666cb09eb9cee30b34d7200749367055ff1a32151d0a0e92a7bb74b8a7cfe4",
+          "reviewNote": "Permits the court or judge in vacation to order a garnishee to deliver property or pay debts to the sheriff, court, or attorney, or to retain them upon executing an approved forthcoming bond enforceable like a sheriff's delivery bond."
+        },
+        {
+          "number": 2,
+          "title": "Exemption from turnover for property protected by state or federal law",
+          "bodySha256": "e5139d68b42b8fe578f031eff3377fcbea1d929b2d31cf4b0c60d6ada7649dba",
+          "reviewNote": "Provides that notwithstanding subsection 1, a garnishee need not deliver property protected from garnishment by state or federal law, including 15 U.S.C. §§ 1671-1677 and 42 U.S.C. § 407, to the extent protection or preemption applies."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections, federal statutory references (15 U.S.C. §§ 1671-1677; 42 U.S.C. § 407), and effective date (1-15-15) for 525.080. Preserved permissive 'may' and corrected subsection 1 note from 'indemnifying bond' to forthcoming/delivery bond."
+    },
+    {
+      "id": "525.235:60211",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=525.235&bid=60211",
+      "sourceSha256": "5629584fe40354f8861a4fc886b95115ac84b3dfe3cc580b1864812546f4b4a2",
+      "textSha256": "574fd7f330da015757362cc58f1a564cd004fb286183dee784f04e6a5a8fe9a7",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of financial institution for account garnishments",
+          "bodySha256": "e55404e1be8f65e66f8fddff4a3e79319e2af051accc959ed792a9b1b264be08",
+          "reviewNote": "Defines 'financial institution' for this section as a federally insured bank, savings bank, savings and loan association, or credit union (effective 1-01-28)."
+        },
+        {
+          "number": 2,
+          "title": "Exclusive procedure, attachment date, and return date for accounts",
+          "bodySha256": "c7a9f14a3812075647e42a64678528e96be03092cb5ca9fbdf3810257ea8d193",
+          "reviewNote": "Requires deposit-account garnishments to issue only under this section, sets banking-day cutoff and federal look-back attachment dates (including § 513.430.1(10) exempt deposits), and sets a thirty-day minimum return date (effective 1-01-28)."
+        },
+        {
+          "number": 3,
+          "title": "Required debtor information and withholding amount in orders",
+          "bodySha256": "916406beca79d7e1f863965d1b36ab37d09a50bc02787c0f635ac1569fc4eabb",
+          "reviewNote": "Requires account garnishment orders to include the judgment debtor's address and last four digits of the tax identification number, if known, and specify the amount to be withheld (effective 1-01-28)."
+        },
+        {
+          "number": 4,
+          "title": "Withholding from multiple accounts and look-back attachment dates",
+          "bodySha256": "38959812647ad350920b0d160528dfd62975065b408530e5f821fcc34db6e880",
+          "reviewNote": "Permits a garnishee holding debtor funds in two or more accounts to withhold the attached amount from any debtor accounts, with different attachment dates if needed for federal look-back analysis (effective 1-01-28)."
+        },
+        {
+          "number": 5,
+          "title": "Joint tenancy account withholding, notice, and objections",
+          "bodySha256": "2a9177625e45efce86e5b42c39289356ac3c6fc12502e8534c69ad77f1e85ed4",
+          "reviewNote": "Requires withholding the entire amount from joint tenancy accounts, notice to each account holder within two business days, thirty-day objection/exemption filing, and optional payment into circuit court if unresolved within thirty days (effective 1-01-28)."
+        },
+        {
+          "number": 6,
+          "title": "Good faith requirement and thirty-day limit on account garnishments",
+          "bodySha256": "3a1287eee6af314309d44a67edec7faa468fc6270b6a337fe57f3288d1916607",
+          "reviewNote": "Requires good faith belief of account assets and limits a party to one garnishment per garnishee/claim/debtor per thirty days absent a judicial exception; source footnote notes word 'which' in original rolls of S.B. 835 & 1111, 2026 (effective 1-01-28)."
+        },
+        {
+          "number": 7,
+          "title": "Financial institution relieved of duty to assert debtor defenses",
+          "bodySha256": "abb2cb47aa117ebac458e839af39adcb0d16ef6d7e7d0cfcfcc0dde5f8116f22",
+          "reviewNote": "Provides that no financial institution has a duty to investigate or assert any defenses of a judgment debtor (effective 1-01-28)."
+        },
+        {
+          "number": 8,
+          "title": "Twenty-day answer deadline and sixty-day fund release rule",
+          "bodySha256": "be9fdb9edbf32fee5053e906647e9794804d001a053873810dfcc65891bdc229",
+          "reviewNote": "Requires a financial institution to answer within twenty days and directs release of funds to the judgment debtor sixty days after answer, sooner under an order to pay, or payment into court if objections are served (effective 1-01-28)."
+        },
+        {
+          "number": 9,
+          "title": "Inapplicability of section to wage and non-account property garnishments",
+          "bodySha256": "92b2c957b44643743f619e044b69bda77a5cfea037384f7b9d8c1e48ba749109",
+          "reviewNote": "Excludes wage garnishments and non-account property from this section and relieves garnishees from searching for, holding, reporting, or answering interrogatories unrelated to account funds (effective 1-01-28)."
+        },
+        {
+          "number": 10,
+          "title": "Garnishor authority to pursue independent wage or property garnishments",
+          "bodySha256": "58f7db437cf7f922d6169c5663d8b1e075dae253fe5e81295f2eb787063a56ab",
+          "reviewNote": "Preserves a garnishor's authority to obtain garnishment orders and interrogatories for wages or non-account property held by a financial institution under law and Missouri supreme court rules (effective 1-01-28)."
+        },
+        {
+          "number": 11,
+          "title": "Garnishee liability limits, safe harbors, and immunity",
+          "bodySha256": "a5ecf89408d406583e764c4360567ede62e446f8aa2c9554010702626a4576b2",
+          "reviewNote": "Grants good-faith compliance immunity, relieves garnishees of specified investigation duties, limits damages to gross negligence or willful misconduct with actual damages, and provides five-business-day correction and exemption-review safe harbors (effective 1-01-28)."
+        },
+        {
+          "number": 12,
+          "title": "Delayed effective date of January 1, 2028 for subsections 1 to 11",
+          "bodySha256": "8a29cf8e978534d3a3df35d16b44424452f093271f08c62dd553a57aa8b8a94d",
+          "reviewNote": "Provides that subsections 1 to 11 of this section take effect on January 1, 2028."
+        },
+        {
+          "number": 13,
+          "title": "Implementation under Missouri supreme court rules",
+          "bodySha256": "221bdc90f6deac866f6950c30d19bd678fb423a129783cec1b82c9cb9d1afe13",
+          "reviewNote": "Directs that the provisions of this section be implemented and administered in accordance with rules of the Missouri supreme court."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all 13 subsections, subdivisions, delayed effective date note (*subsections 1 to 11 effective 1-01-28 per subsection 12), and original-rolls footnote (**'which' in S.B. 835 & 1111, 2026) for 525.235. Replaced fabricated content in subsections 3, 4, 5, 8, and 13 and broadened subsections 2, 6, and 11 to match full statutory scope."
+    },
+    {
+      "id": "525.270:28087",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=525.270&bid=28087",
+      "sourceSha256": "360f7759a653916bf29296e681cfe260b72a49430bfb52303ee37af0500f78cf",
+      "textSha256": "0262e76b825b709e0bddc3de5969145664595704ad982b6285534188503bfb58",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Interpleader order when garnishee discloses third-party claim",
+          "bodySha256": "565759d4f3ef7d634336ea8042b232c876f6a33bc71f2b2eca49e2f9593c733e",
+          "reviewNote": "Requires the court to order a supposed vendee or assignee to appear and sustain a claim when the garnishee's answer discloses a sale or assignment and the plaintiff contests its validity."
+        },
+        {
+          "number": 2,
+          "title": "Service of order, claimant appearance, trial, and discharge",
+          "bodySha256": "72f7842f1ba98fcb5bc7b57c1a2912e4504077e07de637a9e4d26aa833240e93",
+          "reviewNote": "Provides for personal service or three-week newspaper publication of the order, disregarding the averment if the claimant fails to appear, trial upon verified written claim, and garnishee discharge if the claimant prevails."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and history notes for 525.270. Expanded subsection 2 title/note to cover claimant appearance, verified written claim, trial of right, and garnishee discharge in addition to service."
+    },
+    {
+      "id": "525.310:28091",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=525.310&bid=28091",
+      "sourceSha256": "b54af999ddd131c72dda7783d838a0a927056f00926a7021af92365fcbb07713",
+      "textSha256": "d04f168babe28c36f5b51cbc7ee8df4a5dfa4b5270837865e2d2f588c7776794",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application of private employer garnishment obligations to public bodies",
+          "bodySha256": "826b7df6a3d553a00085b13e11c206c26962724cdcb92547bda1302442476015",
+          "reviewNote": "Imposes the same garnishment duties and obligations on state, municipal, and other political subdivision employers as on private employers."
+        },
+        {
+          "number": 2,
+          "title": "Compensation of state and municipal employees subject to garnishment",
+          "bodySha256": "92c0ec63e4f09808560baedfeae9df44b09e6e4d6bb084c285e5426bcd7ccc0b",
+          "reviewNote": "Subjects pay of any officer, appointee, or employee of the state, municipal corporation, or political subdivision to garnishment to the same extent and in the same manner as any other garnishment."
+        },
+        {
+          "number": 3,
+          "title": "Personal service of process on public paying or auditing officers",
+          "bodySha256": "55e55962218fb5a9d8642db9f1096664ccc808d63473d254ec553c64fe37c3cd",
+          "reviewNote": "Provides that service of legal process under this section may be accomplished by personal service upon the paying, disbursing, or auditing officer charged with payment or audit of the employee's compensation."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all three subsections and effective date (1-15-15) for 525.310. Corrected subsection 3 title and note, which had inaccurately added 'certified mail' when the text specifies personal service upon the paying, disbursing, or auditing officer."
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "490.065:34420",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=490.065&bid=34420",
+      "sourceSha256": "bac7e45ad7867c13cc7546fb972ed23a15d1c642788d0743a5184e4770f5c87e",
+      "textSha256": "fb0a3b46f788b30f5124b33a2bdc8d0993b498d64a98ff27db2f4bfa6ef04ef3",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Expert witness standards in bench, family, juvenile, and probate proceedings",
+          "bodySha256": "dd4be91f94986e26d212c5aaa874b137bded4718c7b8196c3ace310a6b02a28f",
+          "reviewNote": "Governs expert opinion testimony, reasonably relied upon data, ultimate issues, and hypothetical question rules in non-jury actions."
+        },
+        {
+          "number": 2,
+          "title": "Expert witness admissibility standards in other civil and criminal actions",
+          "bodySha256": "0baafc6468c4886bcf38a1d7d3ac3d612a36c8cb232cf96dc23248635697677e",
+          "reviewNote": "Applies reliability, sufficient-facts, disclosure, and ultimate-issue standards to all actions outside subsection 1, barring criminal mental-state element opinions."
+        },
+        {
+          "number": 3,
+          "title": "Landowner testimony on reasonable market value of property",
+          "bodySha256": "350a5e1f0e95714f1acf6a9b078b4ce1fc5809abf523d6c16d3a762208f68027",
+          "reviewNote": "Preserves common law right of property owners to testify regarding reasonable market value of their land."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections and McDonagh (123 S.W.3d 146) annotation; refined subsection 2 title/note to match statutory scope (\"all actions except subsection 1\") without extratextual case names."
+    },
+    {
+      "id": "490.250:27101",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=490.250&bid=27101",
+      "sourceSha256": "ecb901c5afab9e43a9039c8bcaa3a767706b4f5f112aa8f2c62ba38a5ff1c45c",
+      "textSha256": "ff837dabf2367957015479b93cc212e630daa3478dca23c182bb88a3123b6828",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Certified copies of corporate records received as prima facie evidence",
+          "bodySha256": "4115d1c82fad9e75e6959797f695336c5d38053ea2aab56da148bf99d744f043",
+          "reviewNote": "Makes certified copies of corporate records attested under seal by secretary or president prima facie evidence."
+        },
+        {
+          "number": 2,
+          "title": "Depository financial institution duplication and check record retention",
+          "bodySha256": "76aca8b5b6e778b7ce0da622903969d1b2c578dfab80b01037548bd62edc6616",
+          "reviewNote": "Authorizes financial institutions to provide record copies complying with section 362.413 check retention requirements."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections and corporate-evidence cross-references on certified corporate records and financial institution check/draft duplications under section 362.413."
+    },
+    {
+      "id": "490.525:27129",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=490.525&bid=27129",
+      "sourceSha256": "c43fa92f47875b5895d8438a0e1137fa0041304b75161d047966afb261a36ee2",
+      "textSha256": "f608c350e7d5fee86a3b5d7179d6924c1f632a01b7c43bc0696a61a5355c6344",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Applicability of service charge affidavits to civil actions",
+          "bodySha256": "00f1aa09ba33474c83e8b2dc9db00fbfacbb7af2a838503bf62b05fd3a7d17ef",
+          "reviewNote": "Applies service charge reasonableness and necessity affidavit provisions to civil actions filed in any Missouri court."
+        },
+        {
+          "number": 2,
+          "title": "Affidavit of reasonable and necessary service charges as sufficient evidence",
+          "bodySha256": "30dde49de3e677ca024241e36cd1119944cd6e4630ba68389d408d573f87f430",
+          "reviewNote": "Provides that service charge affidavits support findings of reasonable and necessary charges absent counteraffidavit."
+        },
+        {
+          "number": 3,
+          "title": "Requirements for executing service charge reasonableness affidavits",
+          "bodySha256": "9304208d77df8b275a8df14779dbbb3335d73db640ffd5e249ad7db9d4ce79f3",
+          "reviewNote": "Specifies affidavit requirements, including execution under oath by service provider and itemized statement."
+        },
+        {
+          "number": 4,
+          "title": "Thirty-day pre-trial filing and service deadline for affidavits",
+          "bodySha256": "18a2c7f30b1c5e2d7773472bbf2577d2fc91b9996a72eddeb92005b4cf43d9e5",
+          "reviewNote": "Requires filing and service of service charge affidavits on all parties at least thirty days before trial."
+        },
+        {
+          "number": 5,
+          "title": "Deadlines and leave of court for filing controverting counteraffidavits",
+          "bodySha256": "9e2bf2c3447e573ee964e7b2bb86d65bdb206838279a5f5b38d867e1233b7425",
+          "reviewNote": "Establishes deadlines for counteraffidavits within thirty days of receipt and fourteen days before trial, or with leave."
+        },
+        {
+          "number": 6,
+          "title": "Notice requirements and expert qualifications for counteraffiants",
+          "bodySha256": "ca5d98637f8bade8af470e8b1c0976e9e214df4461b6676405397eee22d268f1",
+          "reviewNote": "Requires counteraffidavits to state grounds under oath and be made by qualified experts in the field."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 6 subsections on service charge reasonableness/necessity affidavits and counteraffidavits; removed extratextual \"medical\" from subsection 1 title."
+    },
+    {
+      "id": "490.692:27147",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=490.692&bid=27147",
+      "sourceSha256": "e47a0922c5fecf012d2202be4323f1c219cbddd53ae9bb45ec966cb837c1b25a",
+      "textSha256": "157f05847dd60492bb270945871600133c9f41fbdec975a09a0e40edd2b662b4",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Business records affidavit procedure for electronic and reproduced media",
+          "bodySha256": "1215a4b8b6f28295bffac822fa81bd177c6fbf392927cb2c576ed8c243555a40",
+          "reviewNote": "Makes durable reproductions admissible as business records upon custodian affidavit meeting section 490.680."
+        },
+        {
+          "number": 2,
+          "title": "Seven-day pre-trial service requirement for business records affidavits",
+          "bodySha256": "5ee3450298b6f9bb6a3d8e386fb2bfc602788a611ee31827e4af7e92d90b5bb2",
+          "reviewNote": "Requires serving copies of business records and affidavits on all parties at least seven days prior to trial."
+        },
+        {
+          "number": 3,
+          "title": "Statutory form of business records custodian affidavit",
+          "bodySha256": "6711896441fe3340c520701e474c79816699e69df2f8ff222d3822192bddbc61",
+          "reviewNote": "Sets standard statutory form for business records custodian affidavit establishing regularity and timing of records."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections, embedded custodian affidavit form, section 362.413 cross-reference, and Russell (35 S.W.3d 507) annotation."
+    },
+    {
+      "id": "490.710:27149",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=490.710&bid=27149",
+      "sourceSha256": "54dd59111c6fa3fab7510ac81f9c93b7ac6e6be5da3ef07381b9e22ed5028489",
+      "textSha256": "1792f38143d2f62b26c4889c7508fce7390ea046e352bb432c76e4d135d28619",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Inadmissibility of advance damage payments as admissions of liability",
+          "bodySha256": "43fe290a42db7ea8f06924a4720c0074f1cbcfe5b0a201a52f984293611a0de4",
+          "reviewNote": "Bars advance accommodation payments for medical expenses or lost earnings from admission as evidence of tort liability."
+        },
+        {
+          "number": 2,
+          "title": "Credit and deduction of advance payments from final settlement or judgment",
+          "bodySha256": "ace0ff74468d0a8e3a4497356886153e7bdfb6cfe09671656359d6c48fd40aa3",
+          "reviewNote": "Credits advance payments against final judgments, prohibiting disclosure of payments to juries at trial."
+        },
+        {
+          "number": 3,
+          "title": "Non-recovery of advance payments upon judgment of non-liability",
+          "bodySha256": "ed0ae9822de1332ee11e72384a4ec80d017a6643d1754047d953b58f1e460464",
+          "reviewNote": "Bars payors or insurers from suing to recover advance payments if final judgment finds no liability."
+        },
+        {
+          "number": 4,
+          "title": "Statute of limitations tolling until date of last advance payment",
+          "bodySha256": "20150801006053905648f3bdf9564652726049b9dfb68233fec0c1b229c4a672",
+          "reviewNote": "Provides that applicable statute of limitations commences on the date of the last advance payment."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections and Taylor/Rook annotations on inadmissibility of advance tort payments, judgment credits, non-recovery, and limitations commencement."
+    },
+    {
+      "id": "490.715:34635",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=490.715&bid=34635",
+      "sourceSha256": "f2252437087db551bea94e2281356f45704d1738fac53f3fd596c9959f80e082",
+      "textSha256": "42cddeda3e1aa23b777382da7ef2b702ac80c7f0feb1580f0065bbb2cdef4611",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exclusivity of statutory collateral source evidence provisions",
+          "bodySha256": "97f03cfe4313ab986cd96d93edda98e8dc401a64f80940be4e743ba5dbf36ae3",
+          "reviewNote": "Restricts admissibility of collateral source evidence exclusively to provisions set forth in section."
+        },
+        {
+          "number": 2,
+          "title": "Pre-trial special damage payments by defendant non-recoverable",
+          "bodySha256": "8544d7d409dc2fe6572cb3864ce2dc62d10f38f27666f3a333abbb3f8e049c2c",
+          "reviewNote": "Bars plaintiff from recovering special damages satisfied prior to trial by defendant or defendant's insurer."
+        },
+        {
+          "number": 3,
+          "title": "Credit and deduction of pre-trial special damage payments from judgment",
+          "bodySha256": "aeb5e0a16f36c84af7b042912bd2d1c62ce801a04fff4b860e770d53b6033db0",
+          "reviewNote": "Entitles defendants to deduct pre-trial special damage payments from final judgments under section 490.710."
+        },
+        {
+          "number": 4,
+          "title": "Admissibility of evidence for other proper independent purposes",
+          "bodySha256": "2bc82fecad1fe122bbc550720ba3a247d867bdad83637727d98191f8986e6117",
+          "reviewNote": "Clarifies that section does not require exclusion of collateral evidence admissible for other proper purposes."
+        },
+        {
+          "number": 5,
+          "title": "Actual cost of medical care evidence and definition of financial obligation",
+          "bodySha256": "77f05e6d9dcd27d77b422c5ce821a7e32484ae54903d06b17dfed0f690f0bbfc",
+          "reviewNote": "Permits evidence of actual medical costs, defining costs as paid amounts plus amounts owed after contractual discounts."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 5 subsections and section 538.305 cross-reference governing collateral source rule exclusivity, pre-trial payments, credits, and actual cost of medical care."
+    },
+    {
+      "id": "490.717:27151",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=490.717&bid=27151",
+      "sourceSha256": "3e0816c74ee846d65f0bc34c81b1f2d57800bb28d26a338443641ebd5a28b84a",
+      "textSha256": "6446e2692608129e024ed3edb190c24da61972cda6dfe4232022608aad98d2e8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of wrongful taking in criminal property offenses",
+          "bodySha256": "c29877de7fe7b550a312de3ab56a01e674c490232bfb6cf90e25544f2abf3d31",
+          "reviewNote": "Defines wrongful taking to include stealing, robbery, burglary, tampering, and property damage offenses."
+        },
+        {
+          "number": 2,
+          "title": "Admissibility of property photographs and required officer affidavits",
+          "bodySha256": "4a6631bd2c6b8ba7f6c8a749fbab6b703d776335a235760077284c65e9b0f2ac",
+          "reviewNote": "Makes signed photographs with owner placards and officer affidavits competent evidence in lieu of physical property."
+        },
+        {
+          "number": 3,
+          "title": "Return of photographed personal property to merchant or owner",
+          "bodySha256": "0df5e2fd21fbc3b5be82f4196cb719a2c3ca0bd34d69762e9b71cea618e34db7",
+          "reviewNote": "Requires return of physical property to merchant or owner upon filing photographs and affidavits with police or court."
+        },
+        {
+          "number": 4,
+          "title": "Applicability dates for property photography and purchasing affidavit rules",
+          "bodySha256": "b3857a749669c1ef3ec4223c5efe075c6c18998c4b673ac9c35b17dc0dd8c319",
+          "reviewNote": "Applies photography rules to prosecutions after August 13, 1988, and purchasing affidavits after August 28, 1993."
+        },
+        {
+          "number": 5,
+          "title": "Preservation of common law and statutory evidentiary admissibility",
+          "bodySha256": "77fd20b1d118e57035e70b35553a480004e8a0e10cfe85f8144a0ed2bc4e44f0",
+          "reviewNote": "Clarifies that section does not render inadmissible evidence otherwise admissible under statute or common law."
+        },
+        {
+          "number": 6,
+          "title": "Preliminary hearing retail value affidavits and trial testimony requirement",
+          "bodySha256": "0bfbba75a326d693728261006f12ad54aa7c38746ac47679733141c3ffff5f82",
+          "reviewNote": "Allows purchasing department affidavits on value at preliminary hearings, barring substitution for trial testimony."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 6 subsections on wrongful-taking property photographs, officer affidavits, property return, applicability dates, and preliminary hearing retail value affidavits."
+    },
+    {
+      "id": "490.733:27154",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=490.733&bid=27154",
+      "sourceSha256": "30b976bb7bac783f0a2b45047b8025df5ebc237d08e92fea575bbd353c9d7765",
+      "textSha256": "207e89a57c69918e025794365626358118fceb2b4ad1a9ac407f46094e985e6a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of hazardous materials and controlled substances",
+          "bodySha256": "cc86df72a836de87824dc8c3fb2242f49a1b8c344089b2151fd47eb8cafd1812",
+          "reviewNote": "Defines hazardous materials posing unreasonable risk, including controlled substances, explosives, and chemicals."
+        },
+        {
+          "number": 2,
+          "title": "Sampling and court-approved destruction of seized hazardous materials",
+          "bodySha256": "3440bb5a62c6b1d8bcdfecb83248f60807af964a7948d5351658fbad2954931c",
+          "reviewNote": "Authorizes law enforcement with court approval to take representative samples and destroy remaining hazardous substances."
+        },
+        {
+          "number": 3,
+          "title": "Admissibility of representative samples, photographs, and lab reports",
+          "bodySha256": "f74b66da68b96c10594a564738e549bbbfb3845a6bd46bb43509f55ee06564f6",
+          "reviewNote": "Deems representative samples, photographs, and laboratory reports competent evidence in lieu of physical materials."
+        },
+        {
+          "number": 4,
+          "title": "Destruction of excess controlled substances and evidence retention rules",
+          "bodySha256": "e52c6c1a3f331b9cc8737b7475a898208260acaccaf7770ac53ebf05a2e3622d",
+          "reviewNote": "Requires retaining only quantity necessary to prove offense weight elements, permitting destruction of excess."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections defining hazardous materials and governing court-approved sampling/destruction, sample/photo/lab admissibility, and excess controlled substance disposal."
+    }
+  ]
+}

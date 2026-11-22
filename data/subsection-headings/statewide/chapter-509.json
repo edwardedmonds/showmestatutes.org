@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "509.050:27437",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=509.050&bid=27437",
+      "sourceSha256": "091b0b059f0aa681e7a301e40a3ffab75b8dd82c95edc8ef93f502fc50c84a8d",
+      "textSha256": "f56d9aaed407f5f294138f4092c921bfcba46bdbe1a655ff8e4b92b0c30e1cf1",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Pleading contents and prohibition on dollar damage demands",
+          "bodySha256": "1b0d53c3862410659cde73edf489d2acbd0b2d27613c44a7d0704733e94d63de",
+          "reviewNote": "Requires a short, plain statement of facts and demand for relief while prohibiting specific dollar damage amounts except for jurisdictional thresholds."
+        },
+        {
+          "number": 2,
+          "title": "Discovery of claimed damages and trial use prohibition",
+          "bodySha256": "eea20767497af49ce5d08d4effc57e1b4ed678430343fb7f0c15de332c232680",
+          "reviewNote": "Authorizes discovery of total damages claimed while prohibiting opposing parties from using discovery responses at trial."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections and section 538.300 malpractice cross-reference on pleading contents, barring specific dollar demands except for jurisdiction, and non-use of damage discovery at trial."
+    },
+    {
+      "id": "509.220:27454",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=509.220&bid=27454",
+      "sourceSha256": "f42568a152f6518557f304c2076fe68a801f2dd3ad5134877fc905c29fae79d6",
+      "textSha256": "122638ca7ccba8485453ad784696c10fdcbd4a8a5bd1056837762eb81032f7f7",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Pleading private statutes and statutory judicial notice",
+          "bodySha256": "4ededd1f262bbb95fac558f827129f27f0eeec8603424cf0db77e62f08cee46d",
+          "reviewNote": "Outlines method of pleading private statutes by title and publication reference, directing courts to take judicial notice thereof."
+        },
+        {
+          "number": 2,
+          "title": "Judicial notice of statutes and decisions of sister states",
+          "bodySha256": "5c23103413654ac3ec8a5156b6b392b82c5bbc6858c32c2e3ec25518f58e6c99",
+          "reviewNote": "Directs Missouri courts to take judicial notice of sister state public statutes and judicial decisions when foreign law is pleaded."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on pleading private statutes by title/reference and mandatory judicial notice of sister-state public statutes and judicial decisions."
+    },
+    {
+      "id": "509.260:27458",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=509.260&bid=27458",
+      "sourceSha256": "2d5e55990f5dff082a93f3a63fb0de4da0c91a71cd0190c0c63d128a071858d1",
+      "textSha256": "0587e0d20828dbbeb73cb2170463f4795516e2fb7e6583f101133c2ff21cfc00",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Deadlines for filing defendant answer",
+          "bodySha256": "509e046c3db76a4fa6fc7c5d40896e33b5f6ccd9f6049a0618cc7fcb3821fbfc",
+          "reviewNote": "Sets defendant answer deadline at 30 days after personal service, 30 days after filing return registered mail receipt, or 45 days after first publication of notice."
+        },
+        {
+          "number": 2,
+          "title": "Deadlines for answering cross-claims and replying to counterclaims",
+          "bodySha256": "7f288d6983b324285d8ddf160b9896ae4357fb366b337ea997397ddaf0876aa0",
+          "reviewNote": "Establishes twenty-day deadlines for filing answers to cross-claims and replies to counterclaims."
+        },
+        {
+          "number": 3,
+          "title": "Alteration of pleading deadlines by pretrial motions",
+          "bodySha256": "40e7daccc0531a8a99a2a671286c95dcecce0c1ed717ca251dabbd2e418c55a6",
+          "reviewNote": "Specifies that filing pre-answer motions suspends responsive pleading deadlines until ten days after court action or amendment."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections on answer, cross-claim/reply, and post-motion pleading deadlines; corrected subsection 1 note (30 days after mail receipt, 45 days after first publication)."
+    },
+    {
+      "id": "509.280:27460",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=509.280&bid=27460",
+      "sourceSha256": "2623864f5ecefa73a9cce37af972f363bd8e832c15503b78703ac67d5aacad58",
+      "textSha256": "25c13c699dceabe04fae46c1c32a2d984fc783149a95c19415e2bd2db239341d",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written requirements and particularity of motions",
+          "bodySha256": "fbd982f4c1aa724dcc9cf5f88961d0340e00fbb0d82cd5bb6489c93dc5dbf121",
+          "reviewNote": "Mandates that applications for court orders be in writing stating grounds with particularity and relief sought, unless made during hearing or trial."
+        },
+        {
+          "number": 2,
+          "title": "Application of pleading formality rules to motions",
+          "bodySha256": "c5a2f05e09e4ceb80b1c136ebd3b17cffca876157ac0ad26ebe72d3921835857",
+          "reviewNote": "Extends pleading requirements concerning captions, signing, and formal structure to all written motions and filed papers."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on written motion particularity requirements and applying pleading formality rules to motions and papers."
+    },
+    {
+      "id": "509.290:27461",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=509.290&bid=27461",
+      "sourceSha256": "e7f1ac832f03d674fc6f2bc4293abb215b1ff8de7396a396abd712e069c0c1c5",
+      "textSha256": "cd13efd2427946acd987516470196dfbd082413d36e927e91b1824cb53dfb2bc",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Grounds for pre-answer dismissal objections by motion",
+          "bodySha256": "4197a9b13e8d7d28b83af71f4741da49b5d8d30bb4d124c30539adadf98c0691",
+          "reviewNote": "Enumerates ten objections raisable by motion (jurisdiction, venue, process/service, cost security, capacity, pending action, misjoined claims, improper counterclaim/cross-claim)."
+        },
+        {
+          "number": 2,
+          "title": "Supporting and opposing affidavits on motion objections",
+          "bodySha256": "4e5ed78097e4ac3392ea7549627a207ef535928ec7d3ce02b368045956eb0f3d",
+          "reviewNote": "Authorizes parties to support and controvert factual grounds for motion objections using affidavits pursuant to section 506.060."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on ten pre-answer motion objections (removed extratextual \"failure to state a claim\" from subsection 1 note) and supporting/opposing affidavits."
+    },
+    {
+      "id": "509.390:27471",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=509.390&bid=27471",
+      "sourceSha256": "803b0efeaef72480dc9a1b07e98238d9722edf41c0a09fa2dd21b42a3025d01d",
+      "textSha256": "87913248128a4b1317bf7dbcc1ac670fe73aa0c7dd63fe89b9d33bebb02221cb",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishment of regular motion days and hearing sessions",
+          "bodySha256": "d9a3de0d6807ef4e3ef1c0b84cb41dba1031a02d1b6dca5b4248858abcd3e480",
+          "reviewNote": "Directs trial courts to schedule regular, frequent times and places for hearing motions requiring notice and hearing."
+        },
+        {
+          "number": 2,
+          "title": "Determination of motions without oral argument",
+          "bodySha256": "16d84d8cf257c03f6361cfe133f6ff1ef39c572b3c48754cb7887737d520881c",
+          "reviewNote": "Authorizes court rules or orders providing for submission and disposition of motions on written statements without oral hearing."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on establishing regular motion hearing times and permitting determination of motions on written statements without oral hearing."
+    },
+    {
+      "id": "509.520:54051",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=509.520&bid=54051",
+      "sourceSha256": "a4e918c822a6d1475f1c8937b5214b2ee91522fa3aa0a2da677b5d3ed366bbed",
+      "textSha256": "dcadd970a443a8446653b5fc768b1e583b22c65ad70559465d7ee17d9e65764f",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Required redactions from public court pleadings and documents",
+          "bodySha256": "e280c4d99ae30317ef4588b313263e8de3228fbe06dd3cde674d069fa720da04",
+          "reviewNote": "Mandates redaction of sensitive identifiers including Social Security numbers and account numbers from public court filings; note flags Cole County ruling."
+        },
+        {
+          "number": 2,
+          "title": "Submission of confidential information filing sheet",
+          "bodySha256": "1654da4374cc222f3463fb5f080a9a79be57c721056e029cce315c6bd6fb5463",
+          "reviewNote": "Requires redacted information to be filed contemporaneously on a confidential case filing sheet exempt from public inspection."
+        },
+        {
+          "number": 3,
+          "title": "Record matching by financial institutions, insurers, and reporting agencies",
+          "bodySha256": "9c925d9663dd33b46acd56422e94bccc717954afdc224cb17eda460336aa6008",
+          "reviewNote": "Clarifies that lawfully authorized financial institutions, insurers, insurance support organizations, and consumer reporting agencies may use unique identifiers to match and validate court records."
+        },
+        {
+          "number": 4,
+          "title": "Supreme court rulemaking mandate for document redaction",
+          "bodySha256": "e824e3ac710d71e016651743e235d9fcd57a2e4888bf1c5248d1671994bd7015",
+          "reviewNote": "Directs the Missouri supreme court (\"shall promulgate rules\") to promulgate rules administering section 509.520 redaction requirements."
+        },
+        {
+          "number": 5,
+          "title": "Confidential case filing sheet for domestic relations petitions",
+          "bodySha256": "b508e65c998fe2fa55d7d5f11264fdce4935ff5ae4c9d547cfbea11b3e271912",
+          "reviewNote": "Mandates contemporaneous submission of a confidential filing sheet containing party and child identifiers in family law proceedings."
+        },
+        {
+          "number": 6,
+          "title": "Confidential case filing sheet for domestic relations responses",
+          "bodySha256": "a106695857cc3e72640c9e47dd9a36b14590168abfff83e03d4e6a9d63e02cda",
+          "reviewNote": "Requires respondents in family law proceedings to contemporaneously file confidential sheets with full identifiers."
+        },
+        {
+          "number": 7,
+          "title": "Retention of full Social Security numbers on confidential court records",
+          "bodySha256": "3a617ebc745091650d058d21dad831c61d56f530cd83b3b7f4bb33bf1951d4cb",
+          "reviewNote": "Directs courts to retain full Social Security numbers of parties and children subject to custody or support on confidential records."
+        },
+        {
+          "number": 8,
+          "title": "Pleading inclusion of last four digits in lieu of full numbers",
+          "bodySha256": "99e3581df8946f3e3253bca87ae2eeafa9df206f071beebcdf07eab530fe4fa2",
+          "reviewNote": "Requires court filings to include only the last four digits of identifying numbers in lieu of complete identifiers."
+        },
+        {
+          "number": 9,
+          "title": "Clerk exemption from retroactive redaction of older records",
+          "bodySha256": "b67dcd6a4557cfca83fdfee1b631609c86c9909e0b12b335cab8f4c1447583fa",
+          "reviewNote": "Relieves court clerks from duty to redact identifying numbers from court records filed prior to August 28, 2009, subject to section 452.430."
+        },
+        {
+          "number": 10,
+          "title": "Good cause release and child support enforcement agency access",
+          "bodySha256": "78c5e3fd6d5426ae4179740e756c554133d38f45e4311aa2701a9dd0c9b54882",
+          "reviewNote": "Permits court disclosure of confidential case sheet information for good cause and guarantees access to state child support enforcement agencies under chapter 454."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 10 subsections and Gross v. State (Cole County, Dec. 20, 2024) annotation; corrected subsection 3 to record matching and subsection 4 to mandatory supreme court rulemaking."
+    }
+  ]
+}

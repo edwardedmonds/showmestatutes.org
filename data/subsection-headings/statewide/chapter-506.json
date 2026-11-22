@@ -1,0 +1,558 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "506.060:27331",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=506.060&bid=27331",
+      "sourceSha256": "ba1152b73e1785bda683783b81e1a8a519707aaf59f261cb81247a40fd7036a3",
+      "textSha256": "22a6d46007811f7e886fcf61c68525579c939bbbef470016f15ad32cc6ad50b5",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Computation of statutory and court time periods",
+          "bodySha256": "97b319563bd41d04175a56133c2ac284ddb979816fd1a029dfc48977e40e3b31",
+          "reviewNote": "Excludes first day, includes last day unless Saturday, Sunday, or legal holiday, and excludes intermediate weekend days and holidays when period is less than seven days."
+        },
+        {
+          "number": 2,
+          "title": "Discretionary time enlargement and nonextendable deadlines",
+          "bodySha256": "f34df1fbf68716efd33e6e172e4314e2ad909522f5fc3d12952d25fe84054de6",
+          "reviewNote": "Permits court to enlarge time periods upon application or for excusable neglect, but prohibits enlargement for commencing actions, taking appeals, or motions for new trial."
+        },
+        {
+          "number": 3,
+          "title": "Court term expiration effect on pending actions",
+          "bodySha256": "ae1ff74c5d6a90f98cafe651a4a44354e70286ea6ac071c4255f1447d6f9db13",
+          "reviewNote": "Provides that the expiration of a court term does not affect or limit time periods or the court's authority over pending civil actions."
+        },
+        {
+          "number": 4,
+          "title": "Motion service deadlines and supporting affidavits",
+          "bodySha256": "c0d2cef3222e5f3d935fc1e2ffc7e0ce55cc22ae68136cc3a3bf1450ab086840",
+          "reviewNote": "Requires service of written motions and notice at least five days before hearing and sets timing for service of supporting and opposing affidavits."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections and Bowling v. Webb Gas (505 S.W.2d 39) annotation on time computation, discretionary enlargement limits, term expiration, and motion service."
+    },
+    {
+      "id": "506.100:27334",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=506.100&bid=27334",
+      "sourceSha256": "d23acf41a564d39a92387b949ff94e253aa6fbe6c267e19f83aca5bf68f73abe",
+      "textSha256": "0fac1877a48b87732a6919eb76b1f555cad7f0377d2a7fb15be4f2a798b53941",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Service of pleadings and papers subsequent to original petition",
+          "bodySha256": "0639239ac5c1807478a66fb88de4e3f00fe3e41d4a152c406b7fc08e7e185eea",
+          "reviewNote": "Mandates service of subsequent pleadings and motions on all affected parties, exempting parties in default unless new or additional claims are asserted."
+        },
+        {
+          "number": 2,
+          "title": "Methods of service on attorney of record or party",
+          "bodySha256": "3c0f0f4e9cd355913ea231e7c848a8ff0214ae5a5ef1a5e2387de88ebdd66698",
+          "reviewNote": "Requires service on the attorney of record unless personal service is ordered, specifying delivery methods at office or usual place of abode."
+        },
+        {
+          "number": 3,
+          "title": "Service orders in multidefendant actions",
+          "bodySha256": "9f08b97a3e8db9898cb42e20002ac8caff378345f8c642dd6963a8367fb09f5c",
+          "reviewNote": "Authorizes court in actions with unusually large numbers of defendants to dispense with service of pleadings between defendants and deem crossclaims denied."
+        },
+        {
+          "number": 4,
+          "title": "Filing deadline for served papers",
+          "bodySha256": "b5ec184b96147febf3e691ee4b37da4edbbe6f7dca4efe666327a6f7421e0029",
+          "reviewNote": "Requires papers subsequent to the petition to be filed with the court either before service or within five days thereafter."
+        },
+        {
+          "number": 5,
+          "title": "Filing with court clerk or presiding judge",
+          "bodySha256": "885a34a117c45eb19d30d7f98fae83d5c23eaf8d4c4b62321849d0d74487704e",
+          "reviewNote": "Directs filing of pleadings and papers with the court clerk, permitting filing directly with a judge who notes the filing date and transmits them to the clerk."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 5 subsections governing service of subsequent pleadings and motions, service methods, multidefendant orders, five-day filing, and filing with clerk or judge."
+    },
+    {
+      "id": "506.110:27335",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=506.110&bid=27335",
+      "sourceSha256": "eac7399e448384e3e2dfe6cb10d7a278bb55f764d14ad49cf2e6a1ddcac69576",
+      "textSha256": "b695cdb21a32072f19a7579acb30dc42c2952506a08d52f07ffd1f08d257e41e",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Methods of instituting suits in courts of record",
+          "bodySha256": "79c87be7d0424e9fee833eb23c51e2c2bbb44537b23aae46dd2668565fbe341d",
+          "reviewNote": "Outlines methods of commencing actions in courts of record by filing a petition with voluntary appearance or issuance of a summons or writ of attachment."
+        },
+        {
+          "number": 2,
+          "title": "Statutory definition of suit commencement",
+          "bodySha256": "a5b10112de95d35174a09ce1b4f85d7cf6328d43d24d171e7fade8862d8096a3",
+          "reviewNote": "Defines commencement of suit as filing petition or statement and suing out process; source note observes subsection 2 is superseded by Supreme Court Rule 53.01."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections and Keys v. Nigro (913 S.W.2d 947) annotation noting subsection 2 is overruled by Supreme Court Rule 53.01."
+    },
+    {
+      "id": "506.140:27338",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=506.140&bid=27338",
+      "sourceSha256": "144ee9353d543362ec3094b1ae1c6345c88fc112a5a871608fb36f8fa32608fc",
+      "textSha256": "ef80cf88b27e172c850b2681bc4fd340298f1e5ba23a88878e2e8cebacedd7f0",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorized persons for service of process",
+          "bodySha256": "cda2a271c7219893faebc5dbabe981f759b69d19c2f4d105e6395abcafd180c8",
+          "reviewNote": "Designates sheriffs, deputies, coroners upon disqualification, or court-appointed special process servers to execute service of process."
+        },
+        {
+          "number": 2,
+          "title": "Taxation of special process server fees as costs",
+          "bodySha256": "8022ba9cc99299a9e0eb93305025b829d9e049a50f55f0e4ef7862a202d407a8",
+          "reviewNote": "Permits a party to apply for fees paid to a special process server to be awarded in judgment, authorizing the court to enter judgment in a reasonable amount."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections and coroner cross-references (58.190, 58.200); removed extratextual sheriff-rate cap from subsection 2 note."
+    },
+    {
+      "id": "506.150:27340",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=506.150&bid=27340",
+      "sourceSha256": "6baf7f3ed420f7002ccbd8a4cefbd8291db48095334ab19f072ffba50ce712fc",
+      "textSha256": "dba2af0c1db53ebb21ee33226e72101c1cde10aaf3fb3976d850726be6362870",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Methods of personal service of summons and petition",
+          "bodySha256": "11d384d69c5b10e52c60fc9ca814c0c7528515fe51ea6574c7bd7f9b97b76f99",
+          "reviewNote": "Prescribes procedures for personal service of summons and petition upon individuals, incapacitated persons, corporations, partnerships, and public entities."
+        },
+        {
+          "number": 2,
+          "title": "Written acknowledgment and waiver of service",
+          "bodySha256": "794c6931d68065fe64a2f2205a36c36dde644e6d671ccb1db0483004183a6597",
+          "reviewNote": "Authorizes defendant to acknowledge service in writing on the writ, waiving formal service by an officer."
+        },
+        {
+          "number": 3,
+          "title": "Service upon defendant refusal to receive process",
+          "bodySha256": "6b0e194ff69868f5a88e780bdb09ef6e7e3b5c36303d684296dd62992c237822",
+          "reviewNote": "Provides that an officer's offer to read process and statement of its nature constitutes valid service if the defendant refuses receipt."
+        },
+        {
+          "number": 4,
+          "title": "Service by mail and cost shifting for nonacknowledgment",
+          "bodySha256": "bbadba72a508c46d8ff652b504ecb8f5c233f74e5ff5ebc379510cf285186f18",
+          "reviewNote": "Authorizes service of summons and petition by first class mail with statutory acknowledgment forms, taxing costs of subsequent service if acknowledgment is withheld."
+        },
+        {
+          "number": 5,
+          "title": "Statutory form for notice and acknowledgment by mail",
+          "bodySha256": "47c63003214ae91d68af5c808f0c64a2a115de0e1f4d5495b39d084489c1de13",
+          "reviewNote": "Sets forth the mandatory statutory form for notice and acknowledgment of service of summons and petition by mail."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 5 subsections, embedded mail-acknowledgment form, and Ward/Kirlin annotations on personal service, refusal, written waiver, and first-class mail service."
+    },
+    {
+      "id": "506.160:27341",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=506.160&bid=27341",
+      "sourceSha256": "06ad9e5ed7e3e0811baa5c954a4f930d7305fee0fe3c213f10bba47bd9202577",
+      "textSha256": "acc1cdb04da3ecd07f7b306c34291ef6f671c32330187d9582188728732b59a5",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Actions eligible for service by mail or publication",
+          "bodySha256": "3d10d4caa7bf4f14470b9265c7cf48c1627d843d872373be68ef645430eabf7d",
+          "reviewNote": "Authorizes service by mail or publication in actions in rem, quasi in rem, property, probate, trust, marital status, or adoption proceedings."
+        },
+        {
+          "number": 2,
+          "title": "Application and clerk procedure for service by mail",
+          "bodySha256": "3133f604762d11d4851ef3237dcf2c9731bd349cefe07174120695d4eeca17ef",
+          "reviewNote": "Requires verified petition or affidavit establishing grounds for service by registered mail with delivery receipt requested."
+        },
+        {
+          "number": 3,
+          "title": "Grounds and order of court for service by publication",
+          "bodySha256": "1f5cfd7e3119052cb57f4f9849f99354d4a7fc9b6eb01e226e6c51df39ea7eae",
+          "reviewNote": "Details verified allegations required to obtain a court order of publication in an authorized newspaper when personal or mail service cannot be had."
+        },
+        {
+          "number": 4,
+          "title": "Service by publication against unknown defendants",
+          "bodySha256": "b90647056464cf55c6bc5731a0150701b4974e2426c8fa9c4054d101dc662617",
+          "reviewNote": "Regulates allegations and published notice requirements when defendant names or heirs are unknown to the plaintiff."
+        },
+        {
+          "number": 5,
+          "title": "Discretionary personal service alongside mail or publication notice",
+          "bodySha256": "a28ffcc943263e7331154d91a4f2ed36135dff2d2d92a22d7c85e5dda905ab1f",
+          "reviewNote": "Permits the court, when ordering notice by mail or newspaper publication, to also issue a summons for personal service in the ordinary manner if obtainable."
+        },
+        {
+          "number": 6,
+          "title": "Personal service outside state in lieu of publication",
+          "bodySha256": "05017745d2b465682c24cc1f1f2b1873e7681e6879068f4cb94baf3e11cc0020",
+          "reviewNote": "Authorizes personal delivery of summons and petition out of state in lieu of service by mail or publication, requiring return affidavit."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 6 subsections and Union Shoe (441 S.W.2d 321) annotation; corrected subsection 5 title to remove erroneous \"outside state\" limitation."
+    },
+    {
+      "id": "506.180:27343",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=506.180&bid=27343",
+      "sourceSha256": "fc5886bd6ebe5bdf85f035f435c034a72163ab53263ef7d64d4196fd6be3b4f1",
+      "textSha256": "0643fd76789f26ff0f89f7bd8c320bcf11dc8c0e0de05f0738ece4c2d7841435",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Officer written return of process",
+          "bodySha256": "a156c120caf448756219e0a04685db06001d4def28173488e7e4eb6a76314367",
+          "reviewNote": "Requires every officer receiving a writ of process for service to make a signed written return stating time, place, and manner of service."
+        },
+        {
+          "number": 2,
+          "title": "Affidavit of service by appointed process server",
+          "bodySha256": "f3cedf443862ef0ef210f225791aaeb8205de043b5ebd82ab9bc1902800c3187",
+          "reviewNote": "Requires non-officer process servers to file an affidavit certifying the time, place, and manner of process execution."
+        },
+        {
+          "number": 3,
+          "title": "Proof of service by registered mail",
+          "bodySha256": "5eb2d5fe18433a2318de75ed3bca04fe395544bc485e9963ca1ff05554335a71",
+          "reviewNote": "Requires proof of mail service by clerk mailing certificate and the return registered mail receipt under section 506.160(2)."
+        },
+        {
+          "number": 4,
+          "title": "Proof of service by publication in newspaper",
+          "bodySha256": "1cfb3b8d006aee21ec0a37fcd2a797b84bcd666252770ff36e9b270b577c7280",
+          "reviewNote": "Requires proof of publication by affidavit stating publication dates and newspaper with attached notice copy, plus clerk mailing certificate where address was stated."
+        },
+        {
+          "number": 5,
+          "title": "Prohibition of civil arrest or imprisonment on mesne process",
+          "bodySha256": "bb623d8d2d9780481809b4de713caae11172f9e9d762fcc9efc8cb99ad7e66c6",
+          "reviewNote": "Explicitly bars arrest, bail, or imprisonment on any mesne process or execution arising from any civil action."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 5 subsections; tightened subsection 3 title to \"registered mail\" and corrected extratextual details in subsections 1, 3, and 4 notes."
+    },
+    {
+      "id": "506.200:27346",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=506.200&bid=27346",
+      "sourceSha256": "54dd9fa7077cd5875d901ed6e9f58c1057f8a04a879446235bd2bddcca92af86",
+      "textSha256": "019830cb5b128a496af963d8f9bb09ab4059da522ac88a705a22aa53f815cc8b",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of person under nonresident motorist law",
+          "bodySha256": "dcc80e19c07ed158c91c0d97812e8efe123b6d5d7fd2ee9647b41841ac48ae4d",
+          "reviewNote": "Defines \"person\" under section 506.210 to include motor vehicle or trailer owners, operating agents, and persons in charge with express or implied owner consent."
+        },
+        {
+          "number": 2,
+          "title": "Definition of restricted registered mail",
+          "bodySha256": "b1134e6e2cfb8a2b1005a30349154fc903841589c548f719aa32d85131ac90c7",
+          "reviewNote": "Defines restricted, registered mail as mail requiring delivery only to the addressee with conspicuous endorsement."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections defining \"person\" (removed extratextual \"personal representatives\" from note) and \"restricted, registered mail\"."
+    },
+    {
+      "id": "506.240:27350",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=506.240&bid=27350",
+      "sourceSha256": "e228654f04fddc02f8f826a1eb7d3951a83a673dd0ad0146f621348fc5b4c393",
+      "textSha256": "a22ae0d79b6f20aeebaaa6fb39c14f2152d5504f7d137a8e85e463b73ca12e4a",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Service on secretary of state as nonresident agent",
+          "bodySha256": "d16027eb299841fe7d16003821175332363255d0c302f5770a3655e20e403967",
+          "reviewNote": "Directs service of process on nonresident motorists by delivering summons and petition copies to the secretary of state (or chief clerk in absence) at office."
+        },
+        {
+          "number": 2,
+          "title": "Secretary of state notice and transmittal to defendant",
+          "bodySha256": "ac7ba4f69c442dc1735a39f6423e894fb09bc5bb0d92abf18c054138bf343d1f",
+          "reviewNote": "Directs the secretary of state to immediately mail notice and copies of process to nonresident defendants by restricted, registered mail."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on secretary of state service (removed extratextual fee reference from subsection 1 note) and restricted registered mail notice."
+    },
+    {
+      "id": "506.290:27355",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=506.290&bid=27355",
+      "sourceSha256": "f7f77752b796c8e77cdffc3de5e4139c47f770f95a23e7ceba849e8fb72235be",
+      "textSha256": "3112a67ef355fbe50a7b2e5fd50361673de6a64c0684f89680c89907c0e2b5fb",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Venue for actions against nonresident motorists",
+          "bodySha256": "42181d88af9613143dd1da949d25e4938e6256c8c062dc6f7caa59d7b4d4ee3b",
+          "reviewNote": "Governs venue for nonresident motorist suits under sections 506.200 to 506.320 (*506.320 repealed in 1996), including actions with resident codefendants."
+        },
+        {
+          "number": 2,
+          "title": "Venue for civil identity theft actions",
+          "bodySha256": "572142601648ec138cc0ce948b700fad6c829424a33f27acf36564e8dae32809",
+          "reviewNote": "Authorizes filing civil identity theft suits under section 570.223 where the offense or any element occurred, where defendant or victim resides, or where property was located."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections and repealed section 506.320 footnote; aligned subsection 2 note to property-location venue."
+    },
+    {
+      "id": "506.369:27364",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=506.369&bid=27364",
+      "sourceSha256": "329247126d087aa345dc9985994dec75f7d5d14e9677977ef345349896abf91e",
+      "textSha256": "dacd2ff959ade2bf0824d04fa7a897050da549159ba186fbf7a1d4b4dacf065b",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Assessment of partial court costs against indigent offenders",
+          "bodySha256": "1d30f5d71afd17b3da10747a83319b3c527037f95c727944e4620942feec1ac7",
+          "reviewNote": "Mandates assessment of partial court costs equal to twenty percent of the greater of six-month average deposits or balance for indigent inmates."
+        },
+        {
+          "number": 2,
+          "title": "Duration of partial cost assessment order",
+          "bodySha256": "ea28bdacd698794c7d774c4726c48fd09fcfa97df36f551d5641d9eae382a3c7",
+          "reviewNote": "Specifies that the trial court's partial payment order remains effective through final judgment in trial or appellate courts."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on 20-percent partial court cost assessment for indigent offenders and duration through final trial or appellate judgment."
+    },
+    {
+      "id": "506.381:27368",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=506.381&bid=27368",
+      "sourceSha256": "fb56ecbbc6ea8d221718ebf6ba514b7746837d2cabda7390aa3154c2cdf019fe",
+      "textSha256": "63a738c9d5525a029f2db5633174088ff4cb69c79766dc2995e2641d57338d1b",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Predocketing judicial screening of offender civil complaints",
+          "bodySha256": "55a582e27199a7afa2c20e439ea725aa0a4043c9394653619922a2fa1bd6e71b",
+          "reviewNote": "Directs courts to screen offender complaints against public entities or employees and dismiss frivolous, malicious, or immune claims."
+        },
+        {
+          "number": 2,
+          "title": "Attorney fees and costs on dismissal of frivolous claims",
+          "bodySha256": "c16e91c69c7db1a12dd9c2afd07a42939aba5f453b8654f5498500a867763355",
+          "reviewNote": "Authorizes the court to award attorney fees and court costs to defendants when an offender's civil action or appeal is dismissed as frivolous."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on judicial screening of offender civil complaints against governmental entities/employees and discretionary fee/cost awards on dismissal."
+    },
+    {
+      "id": "506.384:27369",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=506.384&bid=27369",
+      "sourceSha256": "0a61003bfbbed11d63530f35cbfe85cb2de6b8553d2c6f2ec0d05b094f257aad",
+      "textSha256": "17f56031ccf5e04026acc0dc5116ade99346c40f1c6b09e481324d16891fe204",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory administrative exhaustion for offender civil suits",
+          "bodySha256": "2d01755890cb07ed7116d9919930ccb36070646c3de5552b36c1772f6af0962a",
+          "reviewNote": "Prohibits offender civil actions prior to exhausting administrative remedies, subject to an exception for constitutional deprivations."
+        },
+        {
+          "number": 2,
+          "title": "Dismissal of defective claims prior to administrative exhaustion",
+          "bodySha256": "4ee0d992c33475f962ede03f2e158ee77a8bc8334914e7f699378051504b07c2",
+          "reviewNote": "Authorizes immediate dismissal of facially frivolous, malicious, non-cognizable, or immune claims without awaiting administrative exhaustion."
+        },
+        {
+          "number": 3,
+          "title": "Federal statutory limitations on state court remedies",
+          "bodySha256": "f9d2bc3908c475f0e1fb5ef6a93d3cbf62fd142056b316ca8e1a8dab9c84f768",
+          "reviewNote": "Subjects state court civil actions by offenders asserting federal law claims to all remedial limitations established under federal law."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections on mandatory offender administrative exhaustion (except constitutional deprivations), pre-exhaustion dismissal, and federal remedy limits."
+    },
+    {
+      "id": "506.500:27372",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=506.500&bid=27372",
+      "sourceSha256": "c9a274d46c1904f472f785d015c725d7399a3287b73fa2798474c519458d08f4",
+      "textSha256": "7162530bb479257260be0b0ced4a50b83632043d497966b02a83f7060b0a5fd0",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Long-arm jurisdiction for acts committed within state",
+          "bodySha256": "f50d9bb74dfa889b9ed41e6ce3d39c2185d853e1aa681f511ab7377aef0887fe",
+          "reviewNote": "Enumerates transactions and acts within Missouri that submit nonresident individuals and corporations to personal jurisdiction."
+        },
+        {
+          "number": 2,
+          "title": "Matrimonial and domestic relations long-arm jurisdiction",
+          "bodySha256": "4427a5118098e2f37511873f4c6aca5e4ed53151ffc2da14e1d17703b4eb9aa5",
+          "reviewNote": "Establishes personal jurisdiction over former marital residents in actions for dissolution, legal separation, maintenance, and child support."
+        },
+        {
+          "number": 3,
+          "title": "Restriction to claims arising from enumerated long-arm acts",
+          "bodySha256": "dd3b13032fd8f254da8ca21cdcd47103805589abc90ccc90f3e7fac9c9c0217e",
+          "reviewNote": "Restricts long-arm personal jurisdiction strictly to causes of action arising from the specific acts enumerated in the statute."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections and extensive long-arm personal jurisdiction annotations covering enumerated acts, marital residence, and claim-arising restriction."
+    },
+    {
+      "id": "506.510:27373",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=506.510&bid=27373",
+      "sourceSha256": "c5f568cc20f328d6e62b5fdaa47dde8094653f18c7070b1908f2ff1cab921ff0",
+      "textSha256": "cfcc2b8f063e7e818f2e640b0823d82ba2cf0d78b4e1a1b71e1db3255a0dcdb4",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Personal out-of-state service on individuals and corporations",
+          "bodySha256": "1451208b408d4f0fc73f8d76ace51e9ea6b5c9415d303eb5843ff6c25f1b9b77",
+          "reviewNote": "Authorizes personal service outside Missouri on nonresident individuals and corporate officers or registered agents with full in-state legal effect."
+        },
+        {
+          "number": 2,
+          "title": "Transmittal of process and fees to out-of-state officer",
+          "bodySha256": "127fb4f4095889aba933709e43fd274f04932751797f94e81e3bb5c66cf19301",
+          "reviewNote": "Directs sending process, petition copies, and required fees to an authorized court or officer at the out-of-state location of the defendant."
+        },
+        {
+          "number": 3,
+          "title": "Return affidavit of out-of-state process server",
+          "bodySha256": "72d7b1969728f228e15993b124fde4756acb488cd41b5ce8e16986263973d7f2",
+          "reviewNote": "Requires return of an out-of-state process server affidavit specifying time, place, and manner of service to prove valid execution."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections governing personal out-of-state service on individuals and corporations, transmittal to out-of-state officers, and return affidavits."
+    },
+    {
+      "id": "506.520:27374",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=506.520&bid=27374",
+      "sourceSha256": "1f286cdb85465d64c1f18e3e3fe424dfa4818b7f53dd19c7ff6fb81474eb372e",
+      "textSha256": "3254631011659a4e125630d05ca08af432425441af420e472be65798746cf730",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Personal judgment power upon long-arm service",
+          "bodySha256": "dca6c05c857c5f6c62091203e8a520b4b76b46599c32b8771effddd47b4eeec3",
+          "reviewNote": "Confers court authority to render personal judgments against nonresident individuals and entities served under long-arm provisions."
+        },
+        {
+          "number": 2,
+          "title": "Waiting period and standard for setting aside default judgment",
+          "bodySha256": "de2c23b4f778831929d6346b9ea4393cb547d86926cdf581471afa36fe964ad5",
+          "reviewNote": "Prohibits default judgments within thirty days of long-arm service and governs standards for setting aside judgments."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on personal judgment authority upon long-arm service, 30-day default waiting period, and standard to set aside defaults."
+    },
+    {
+      "id": "506.602:60058",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=506.602&bid=60058",
+      "sourceSha256": "5c22cbe12ada46642e5cba2d471633c24016d88565ca20a78b2818b352c3161a",
+      "textSha256": "2653b6341f164547e6a17aebf7010c89ff226eb0e5ad9963cb5d3c34b235253b",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Short title of No Foreign Laws Act",
+          "bodySha256": "c9a958455bc399d797161e8178d3001d6c01c962a403f084c32c9e86fcc0e5d0",
+          "reviewNote": "Designates the statutory section as the No Foreign Laws Act."
+        },
+        {
+          "number": 2,
+          "title": "Definitions of foreign law and fundamental rights",
+          "bodySha256": "7acb2977cf7f77cfa95df1727f3b7cf9affec822f6f8047ae4085b949a206cd8",
+          "reviewNote": "Defines foreign law and fundamental constitutional rights guaranteed by state and federal constitutions."
+        },
+        {
+          "number": 3,
+          "title": "Invalidation of rulings and contracts applying foreign law",
+          "bodySha256": "49cb1652577228fc5d858dd8755b786372c51a9d92f3ca316a22d8b2253af3b2",
+          "reviewNote": "Declares void and unenforceable administrative, arbitral, or judicial rulings and contractual choices of law denying fundamental rights."
+        },
+        {
+          "number": 4,
+          "title": "Judicial nonenforcement of judgments violating fundamental rights",
+          "bodySha256": "c3606716092e09739a8412312ed666bc4597e38ef3c7cc423c829c036d66f299",
+          "reviewNote": "Bars courts from enforcing foreign judgments, contracts, or family law decrees inconsistent with constitutional fundamental rights or public policy."
+        },
+        {
+          "number": 5,
+          "title": "Statutory exemptions, ecclesiastical matters, and federal preemption",
+          "bodySha256": "0ca94a0366f0d071adc940ef409d1589ce72956beda2c4b6b485d9bc7cfde4a7",
+          "reviewNote": "Clarifies that the section does not affect supreme court precedent, religious doctrine or clergy governance, corporate entities, or federal preemption."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 5 subsections of the No Foreign Laws Act covering definitions, void rulings/contracts, nonenforcement, and precedent/ecclesiastical/corporate/federal exemptions."
+    }
+  ]
+}

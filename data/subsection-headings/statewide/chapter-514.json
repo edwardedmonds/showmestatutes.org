@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "514.040:35218",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=514.040&bid=35218",
+      "sourceSha256": "8d747c936bcec7f9d7a852e339faac225c013d724d286d36e36f31c6d961e5d1",
+      "textSha256": "a5c3cd564105cc4c30c613b31e18bb70639f6f0cf767d54a18fe593b640582c8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Discretionary leave to sue as poor person and counsel assignment",
+          "bodySha256": "3f22cc61a19150ae4b26b9b0eaff448c23599a41fb0d487b76a928f53210a7cb",
+          "reviewNote": "Permits court in its discretion (except under subsection 3) to allow an indigent plaintiff to sue as a poor person without fees and to assign counsel, with costs recovered for court officers if plaintiff prevails."
+        },
+        {
+          "number": 2,
+          "title": "Minimum ten-dollar cost security for confined offenders",
+          "bodySha256": "b987547e7c58a4c9dfdd443a69b1bc8b89faa00c80205859855ba20ca68b10a7",
+          "reviewNote": "Prohibits reducing security for costs below ten dollars in civil actions filed by confined state prison or correctional center offenders, unless no security for costs is required on filing."
+        },
+        {
+          "number": 3,
+          "title": "Cost waiver by certification for legal aid representation",
+          "bodySha256": "da7262817dbc7b46a3dbb3583efe2a2bb1ae7359057151e346d62265ab5785f1",
+          "reviewNote": "Permits waiver of costs without motion or court approval upon clerk-filed certification for parties represented by qualifying legal aid, law school clinics, or affiliated private counsel, with trial recertification and post-action review of guardian ad litem fees."
+        },
+        {
+          "number": 4,
+          "title": "Additional financial evidence and guardian ad litem fees",
+          "bodySha256": "594f677c1e76dac7fbfd9eaac234a44bea1c3dc8ecb93ed1b05ae0b786377e96",
+          "reviewNote": "Permits any party to present additional financial evidence and permits court to order a certifying party with present ability to pay a portion of guardian ad litem fees."
+        },
+        {
+          "number": 5,
+          "title": "Nonpayment of guardian ad litem fees not bar to future filings",
+          "bodySha256": "75f5056bcaed9dda27783a294b6fc3ba5f80c29f94d6136f57316e995b00b292",
+          "reviewNote": "Specifies that failure to pay guardian ad litem fees shall not preclude future suits or motions to modify or limit the certifying party's prosecution or defense."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 5 subsections, statutory history, and 4 case annotations (Taylor, Scott, Coats, Francis); refined subsections 2, 3, and 4 titles to match exact statutory wording ('security for costs', permissive certification waiver, and additional financial evidence)."
+    },
+    {
+      "id": "514.205:27775",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=514.205&bid=27775",
+      "sourceSha256": "155af2b04ad1994891960c5c6b2289936c8a386591e94dd084b9d80176d01e68",
+      "textSha256": "eedd0654b688e710c25dce47b5c316e5d137a992d2c94e729bc83203c5e166f1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Costs and fees for frivolous bad-faith proceedings",
+          "bodySha256": "2ec5f581c7d6b45538b23652fc7df8dfd855c9f047a950dce1bc62d315aea99f",
+          "reviewNote": "Requires court after hearing to assess costs, reasonable expenses, attorney's fees, and party time compensation for frivolous and bad-faith claims, defenses, motions, or proceedings, while excluding liability for good-faith attorneys acting at client direction."
+        },
+        {
+          "number": 2,
+          "title": "Pre-1985 conduct and post-conviction review exceptions",
+          "bodySha256": "d9356a5f050cd503998f841c35c2acf9dd78b15dcd8b03607b6b36e7751d58af",
+          "reviewNote": "Excludes conduct occurring before September 28, 1985 and civil proceedings by a convicted person seeking judicial review of conviction."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; tightened both titles to reflect conjunctive frivolous/bad-faith requirement, good-faith attorney protection, September 28, 1985 cutoff, and post-conviction review exception."
+    }
+  ]
+}

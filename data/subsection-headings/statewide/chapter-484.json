@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "484.010:26906",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=484.010&bid=26906",
+      "sourceSha256": "149bd408599629c450ab360861dda338cda1662aa8bd872f297010f0876139e0",
+      "textSha256": "7e792df164c581997cb9eb5232b80628457e1a19c20acc38bc93955263865fc9",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of practice of the law",
+          "bodySha256": "b569f254802ee59a3e7fb979f666e6c589d5d98621a16ad7ac079f9347666a08",
+          "reviewNote": "Defines \"practice of the law\" to include representative advocacy, drawing pleadings or documents, or performing acts in pending or prospective tribunal proceedings."
+        },
+        {
+          "number": 2,
+          "title": "Definition of law business",
+          "bodySha256": "1bd88df5b2d80dc31c5d492787177232c86b5bca153d3d1ab98aaff52e9abebb",
+          "reviewNote": "Defines law business to include advising, drawing documents, or settling claims for valuable consideration."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections and extensive case annotations (Hulse, Automobile Club, Klingensmith, Hoffmeister, Thompson, First Escrow); removed erroneous \"valuable consideration\" phrase from subsection 1 note."
+    },
+    {
+      "id": "484.020:26907",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=484.020&bid=26907",
+      "sourceSha256": "ee36341a987b156b182ed9153c83c147d68cb34ff6124b171eb564a67e211f37",
+      "textSha256": "9b455eb176d5bc98261aad3f07b7d65eccbb473c810ce3252a3bcb8ba151a87b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition on unauthorized practice of law or doing law business",
+          "bodySha256": "e58f3954e005bddaca42c74a5869d940e173bcf0f388c875b45e81780925b28c",
+          "reviewNote": "Bars unlicensed persons and non-exempt entities from practicing law or doing law business, excepting chapters 356, 347, and 358 entities (*original rolls read \"on\" for \"or\")."
+        },
+        {
+          "number": 2,
+          "title": "Misdemeanor penalty and treble damages liability for unauthorized practice",
+          "bodySha256": "3bb34ef93c9ada48b9dd132fffdefa1a7e0cc655dff492c1bb303c810d403b27",
+          "reviewNote": "Imposes misdemeanor fine and authorizes suits for treble amounts paid within two years, with state recovery rights."
+        },
+        {
+          "number": 3,
+          "title": "Prosecutorial duty to institute state recovery suits for treble damages",
+          "bodySha256": "05d9b3b3c71406af187b81375df6a1efece043b0fbecd2c1d2d076a06ca99776",
+          "reviewNote": "Directs attorney general and local prosecutors to institute suits in the name of the state for treble damages."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections, original-rolls note (*\"on\" for \"or\"), and case annotations (In re Allstate, Carpenter) on unauthorized practice prohibitions, misdemeanor penalty, and treble damages."
+    },
+    {
+      "id": "484.125:57168",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=484.125&bid=57168",
+      "sourceSha256": "37908bf1ab6bba6ec6f511a6fa4297305ae97194c4bf4fcb444eb16bfa75a9bf",
+      "textSha256": "f6b99b0407bed2ad107b76fec4f48e58e3e2b28c55cc07e1849c43ac8ad1e958",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Permissive fingerprint requirement for Missouri Bar admission or reinstatement",
+          "bodySha256": "06ff6aa65ea99b50bc037b6a7b81c22f1f0b211787987aaafaa30ac94db97234",
+          "reviewNote": "Authorizes Missouri supreme court to require fingerprint submissions as part of licensure applications for Missouri Bar admission or reinstatement."
+        },
+        {
+          "number": 2,
+          "title": "State and federal criminal history checks conducted through highway patrol",
+          "bodySha256": "fd0a5c9a8bec4822f0dea14f62671338d59fc818c7ca26c56d32052139e9d8f0",
+          "reviewNote": "Directs supreme court to submit bar applicant fingerprints to highway patrol for state and federal background checks."
+        },
+        {
+          "number": 3,
+          "title": "Fingerprint processing, FBI search, and supreme court record access",
+          "bodySha256": "1b81518d4cd725d4d55880d91d845b97249fc4f17588c98ec5d669961074dc15",
+          "reviewNote": "Governs central repository and FBI searches, granting supreme court access to all discovered criminal records."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections; refined subsection 1 title to preserve permissive \"may require\" and include reinstatement alongside bar admission."
+    },
+    {
+      "id": "484.150:26913",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=484.150&bid=26913",
+      "sourceSha256": "ed03d4932f1ce3aea194b23dc49cd2fd0bf8c7883da0852b66fa86848471b963",
+      "textSha256": "380c902a48d27ab596821845b64500bb5e63e68ded43106ab56852fe3fc9114d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition and misdemeanor penalty for attorney fee-splitting with non-lawyers",
+          "bodySha256": "c3d5fae27b539a54aa216da372b3ff907a1f7c6e7fd4fbf96a21f999e375346f",
+          "reviewNote": "Makes it unlawful and a misdemeanor for licensed attorneys to divide legal compensation with unlicensed persons or entities."
+        },
+        {
+          "number": 2,
+          "title": "Treble damage civil liability for unlawful fee-splitting arrangements",
+          "bodySha256": "5f48a55ef29ff8da8815162fa1165006d674006f667b43ee738cb7acc6d735ad",
+          "reviewNote": "Subjects violators to treble damage liability to payors within two years, with state enforcement rights thereafter."
+        },
+        {
+          "number": 3,
+          "title": "Prosecutorial duty to institute state recovery actions for fee-splitting violations",
+          "bodySha256": "d02a57e715cd50bc80cb31c9ed009d666b033949d22d3dcb8c65f632410af687",
+          "reviewNote": "Directs attorney general and local prosecutors to sue for recovery of treble fee-splitting amounts on behalf of state."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections and cross-reference (493.130, 493.140) on attorney fee-splitting misdemeanor penalties, treble damages, and prosecutorial enforcement."
+    }
+  ]
+}

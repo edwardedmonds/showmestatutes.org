@@ -1,0 +1,298 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "482.300:26828",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=482.300&bid=26828",
+      "sourceSha256": "588b25b510c10c39f8b203dce6a4f2cece62b564ebc566f7b37a3c14c294232e",
+      "textSha256": "14ab444000121c56d56322f5300929e0477266dbfa9bf42be1a6d34f9cf24d21",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Small claims court separate docket and hearing schedules",
+          "bodySha256": "20c1687fe6c6238bae69f8118b3c0f010cf24e8d903ddb27fea0b6860a145482",
+          "reviewNote": "Requires judges hearing small claims cases to maintain a separate docket with reasonable hearing times including evenings and Saturdays."
+        },
+        {
+          "number": 2,
+          "title": "Designation of court as small claims court",
+          "bodySha256": "2a243cb4eeb42fa90ff5660a9183767c777141cc41179f21bcf551bbd73a2eb6",
+          "reviewNote": "Designates the circuit court as small claims court when hearing small claims matters."
+        },
+        {
+          "number": 3,
+          "title": "Assignment of small claims cases among associate circuit judges",
+          "bodySha256": "ae36a60f153f4b1cf35d7c12b43db1834fe8cfbb8b29216c2a79953a02d529ff",
+          "reviewNote": "Governs case filing and assignment between associate circuit judges in single-judge and multi-judge counties."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections governing separate small claims dockets, court designation, and case assignment among associate circuit judges."
+    },
+    {
+      "id": "482.315:26831",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=482.315&bid=26831",
+      "sourceSha256": "0f33031d842e315e8383268ee56de21867de00ef049187823b5bb1afbd3bb7ac",
+      "textSha256": "ba0f848326395f3aa321748039843f095c995739e6ba575743dd6f2dcb02b252",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Five thousand dollar jurisdictional limit and excess claim waiver",
+          "bodySha256": "6da0ddd7a5762ad467c37bc3394d4a1913b683bce3062ca8bfbce539b06938b5",
+          "reviewNote": "Authorizes actions exceeding five thousand dollars subject to waiver of any recovery in excess of the statutory limit."
+        },
+        {
+          "number": 2,
+          "title": "Amendment of claims and counterclaims upon transfer to circuit court",
+          "bodySha256": "ba4d0388a733957e4b9c940e1dcb27e21e71e0f73893702eb0deefe047fbc6d7",
+          "reviewNote": "Permits amending claims or counterclaims up to the jurisdictional limit of the receiving division upon transfer."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on the $5,000 small claims ceiling, excess claim waiver, and claim/counterclaim amendments after section 482.325 transfer."
+    },
+    {
+      "id": "482.320:26832",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=482.320&bid=26832",
+      "sourceSha256": "01e494bcbe8fa53dc9688ddad66551a0ceabcee8b0e6bb716fea78ec5a1b761c",
+      "textSha256": "fcc1796cbe89b8428757924334e5f021403f9adb51021d9bf5a80ac0f9f0db4c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Permissive counterclaims not arising from same transaction",
+          "bodySha256": "4ebc3e91d158b111b8f1a866c359510eb9f761550a51fb2b3d961ab245322919",
+          "reviewNote": "Permits filing permissive counterclaims within ten days of service and before hearing under standard pleading rules."
+        },
+        {
+          "number": 2,
+          "title": "Compulsory counterclaims arising from same transaction or occurrence",
+          "bodySha256": "e2428ecdde8046375880ed4d1f3211549e4565537ef62341d457989804bfb7b8",
+          "reviewNote": "Authorizes raising counterclaims arising from the same transaction or occurrence up to and including the time of hearing."
+        },
+        {
+          "number": 3,
+          "title": "Judicial inquiry and judgment on unpleaded transaction counterclaims",
+          "bodySha256": "9cd49c88087edbc32a4bb50f4dd27f2a585bdaa6d75c1444feea5c86f6ff71cf",
+          "reviewNote": "Authorizes the judge to question parties and render judgment on transaction-related counterclaims as if formally raised."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections covering non-transaction counterclaims, same-transaction counterclaims up to hearing, and judicial inquiry on unpleaded counterclaims."
+    },
+    {
+      "id": "482.330:26834",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=482.330&bid=26834",
+      "sourceSha256": "86459b234c75162aa6cb671dca06da2562f19ffaf7cad8495a03b02a9756bf44",
+      "textSha256": "271ae032dda19f5dbb024160ef5fb8d9c2bd67ee1fa4e43f6d77bddb7991ee48",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Bar on claims by assignees and twelve-claim annual filing limit",
+          "bodySha256": "81545b1bb68e73b8d5e5b2ccc2fe50e9aead1bc8a6c80de6763c151ea23e7cb6",
+          "reviewNote": "Bars assignees from small claims court and limits parties to twelve claims per calendar year subject to dismissal without prejudice."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory non-assignee and annual filing limit certification",
+          "bodySha256": "4729a1759d2b59a508f452b98244a30bf67b78a32b491ccd6cfd1d3edcc6fa4a",
+          "reviewNote": "Requires plaintiffs to sign statements certifying non-assignee status and compliance with twelve-claim annual limit."
+        },
+        {
+          "number": 3,
+          "title": "Counterclaims exempted from assignee and annual filing limits",
+          "bodySha256": "6191a51e231b5e7313c7f8d2ded80900ace3d4711a2e780044c0a92385035681",
+          "reviewNote": "Clarifies that prohibitions against assignees and filing limits do not bar transaction-related counterclaims."
+        },
+        {
+          "number": 4,
+          "title": "Venue requirements based on defendant residence or transaction location",
+          "bodySha256": "fd6c227be0175ff4894d66956b25c68e6ef70baaa8a63e815613e6d2c011675a",
+          "reviewNote": "Restricts venue to counties where defendants reside, where plaintiffs reside and defendants are found, or where facts occurred."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections on assignee bans, the 12-claim annual limit, plaintiff certifications, counterclaim exceptions, and county venue rules."
+    },
+    {
+      "id": "482.335:26835",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=482.335&bid=26835",
+      "sourceSha256": "795dd6a1e29854a0934b0aff885eeec9379e155548e5c266f82813fe9a763569",
+      "textSha256": "8d69905b1111add041268a67cd4dc8f3a297bcb84771a8b26d1a362082acc0e5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Clerk assistance to litigants and posted notice requirements",
+          "bodySha256": "fcb307e6cc486a9137c253295e8748d9c77c4d743d6c724255bf1a37863b1cd1",
+          "reviewNote": "Requires clerks to explain procedures and assist litigants with forms without cost, posting notice of assistance."
+        },
+        {
+          "number": 2,
+          "title": "Posting of filing office and courtroom locations in court building",
+          "bodySha256": "c83b0c3857af08bf1744ce9dc05a965a564b2e2c236a42d2520ae40fbb2ac4d7",
+          "reviewNote": "Mandates conspicuous posting of filing office and courtroom locations within the court building."
+        },
+        {
+          "number": 3,
+          "title": "Plaintiff scheduling preference designation at time of filing",
+          "bodySha256": "c37ec00969954dfbd022e851a7a53f6b454b169d86abc45315917c83fb25197f",
+          "reviewNote": "Requires plaintiffs to state preference for daytime, evening, or Saturday hearings upon filing."
+        },
+        {
+          "number": 4,
+          "title": "Clerk assistance excluded from practice of law and provided without cost",
+          "bodySha256": "1b075d172a91128c82a9d97319ac0f63ab3ed63e5b08a7d40b6a77f8fbf55b22",
+          "reviewNote": "Provides that clerk procedural assistance does not constitute the practice of law and must be provided free of charge."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections on clerk assistance to litigants, posted location notices, hearing-time preferences, and non-practice-of-law/no-cost status."
+    },
+    {
+      "id": "482.340:26836",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=482.340&bid=26836",
+      "sourceSha256": "76979f93719990659d94796400d43f62438967fcef3006ad3aa01c11fcc3b1b4",
+      "textSha256": "dd9d42c219b442ed2aae5f9d2f94968d1635739f9acd3f53ac9553466ed2c95f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Statutory petition form and jury trial waiver warning",
+          "bodySha256": "ed9f52870b69eefd9553427dcd4fc5462105e7ef955d74aecd16bdda6ad61f52",
+          "reviewNote": "Establishes standard small claims petition form and mandates explicit jury trial waiver notice."
+        },
+        {
+          "number": 2,
+          "title": "Statutory summons form and informal procedure disclosure",
+          "bodySha256": "4c9f3359aa2e56e0818e26c185bee0e92cb59deff4ac25d1832a129cddcd8672",
+          "reviewNote": "Sets standard summons form notifying defendants of default judgment risks and informal evidentiary rules."
+        },
+        {
+          "number": 3,
+          "title": "Service of petition, summons, and explanatory instructions to defendant",
+          "bodySha256": "3f91498b0345426efe13e9c9332b6e4c23818ac27ab919aa15b12c71193892cd",
+          "reviewNote": "Requires attaching petition copy and standard instruction form to summons outlining settlement, appearance, and counterclaims."
+        },
+        {
+          "number": 4,
+          "title": "Free availability of small claims forms and procedures from clerk",
+          "bodySha256": "db6241021cdb36072e78b0d3b6645346db15ed8d70cbe93f4400096e825d410d",
+          "reviewNote": "Requires small claims court clerk to provide copies of all applicable forms and procedures to any person without charge."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections and embedded petition, summons, and defendant instruction forms (noting legacy \"$1,000\" and \"three other claims\" text in statutory forms); replaced mismatched subsection 4 heading."
+    },
+    {
+      "id": "482.345:26837",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=482.345&bid=26837",
+      "sourceSha256": "a26c71ddd85b12ba816c3036bfa31d32e1c87ec473296e2357b4205cd878c005",
+      "textSha256": "cf4b349b27d9f0d085f2b1ebd31685458d799322d16decc6939b427eb51a410c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Court costs and security deposit required upon filing",
+          "bodySha256": "53d88938690d462e5e19cc362aebbcb007cd69158e9d68a54b6dab0bc79ec07d",
+          "reviewNote": "Requires plaintiffs in small claims actions to pay court costs and security deposits under sections 488.010 to 488.020 (*original rolls cite section 514.015)."
+        },
+        {
+          "number": 2,
+          "title": "Advance payment of service and process fees",
+          "bodySha256": "2478cfd3f06c03d5933cd3ab2642a914e1da51f5856731df8f90d3ae81381e6c",
+          "reviewNote": "Mandates advance payment of service of process fees upon filing small claims actions."
+        },
+        {
+          "number": 3,
+          "title": "Discretionary assessment and award of fees and court costs",
+          "bodySha256": "ae134aa01bc6caca3a3e62d15955d4f4266d5a87a13510758e6ef9bb2d51ba0b",
+          "reviewNote": "Authorizes court discretion in awarding fees and assessing court costs between parties."
+        },
+        {
+          "number": 4,
+          "title": "Disbursement of collected court costs under statutory provisions",
+          "bodySha256": "4e7e97e8a1a4d15d64ae1cc106adc5e5d184f9905b675b4d36c9b4666f291e5a",
+          "reviewNote": "Requires disbursement of small claims court costs in accordance with sections 488.010 to 488.020 (*original rolls cite section 514.015)."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections and original-rolls footnote (*section 514.015 changed to 488.010–488.020) governing small claims costs, service fees, and disbursements."
+    },
+    {
+      "id": "482.355:26839",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=482.355&bid=26839",
+      "sourceSha256": "eaac07d7e2a3d03753a864fb75d2ae22d7a5309bc6fa574181eb7cefee120679",
+      "textSha256": "eaa457a14ae1383aa43da1827ab84b6c06e398ba26c7f071131baee02230e164",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Defendant appearance, good cause continuances, and deemed denial",
+          "bodySha256": "52bd190facf2670fb78c4fbecf68f581c3f79c14e528b79803e62c53375ed2bc",
+          "reviewNote": "Requires appearance on summons date, restricts continuances to good cause, and treats non-answer as general denial."
+        },
+        {
+          "number": 2,
+          "title": "Default judgment on plaintiff prima facie case and dismissal rules",
+          "bodySha256": "7b36bb21bf31dcf253912bc9c3a500906c612718652222196c5ab04e8378645a",
+          "reviewNote": "Authorizes default judgment on plaintiff prima facie proof upon defendant default, and dismissal if plaintiff fails to appear."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on defendant appearance, good-cause continuances, deemed denial, prima facie default judgments, and plaintiff-nonappearance dismissals."
+    },
+    {
+      "id": "482.365:26841",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=482.365&bid=26841",
+      "sourceSha256": "c8bbf3e9933c590b3ae73898820d0fe3e57c5acd2adc0e263be58aeda7ea0134",
+      "textSha256": "599562d3225c19d653cf29e3d02016332b1c69d3645248b6b6664ee39a511fdc",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition on small claims judgments operating as real estate liens",
+          "bodySha256": "af158e111421d83e8bb76f398a9fcb662334dd84e4103b51f4ee61e08aeb022e",
+          "reviewNote": "Bars small claims judgments from operating as liens on real estate."
+        },
+        {
+          "number": 2,
+          "title": "Trial de novo application, ten-day deadline, bond, and circuit practice",
+          "bodySha256": "e875ec2fa3c50ab9749acccf5f6f7add6b13bd29bd9d7d257962dd0e5beafcd3",
+          "reviewNote": "Establishes right to trial de novo within ten days, requiring recognizance bond to stay execution and applying circuit rules."
+        },
+        {
+          "number": 3,
+          "title": "Clerk assistance to judgment creditors for judgment satisfaction",
+          "bodySha256": "6feab21c4991e34f1bbf35bad229cb4c82cf2c9ab268e45f98ceee0890374936",
+          "reviewNote": "Directs clerks to assist judgment creditors in preparing forms to obtain satisfaction of final judgments."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections and Palmore v. City of Pacific (393 S.W.3d 657) annotation on real estate lien bar, trial de novo procedure, and judgment satisfaction assistance."
+    }
+  ]
+}

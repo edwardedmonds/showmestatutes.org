@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "511.030:27529",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=511.030&bid=27529",
+      "sourceSha256": "5d4fc4041a89f239693370ce478ca740c6b0878057bc4ca91371069aabe16b8e",
+      "textSha256": "7583c05e20718cd8c4322ca59def456796c66ee20cd770fe55982cf3ecefc18a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Judgment for or against multiple parties and determination of rights",
+          "bodySha256": "437c38389b0ab598dc540ad9bb05d85339775baee020dfaeebf69495738eb4e0",
+          "reviewNote": "Permits judgment for or against multiple plaintiffs or defendants, determination of ultimate rights between parties on each side, and grant of affirmative relief."
+        },
+        {
+          "number": 2,
+          "title": "Court authorization of care arrangements for minor or disabled person",
+          "bodySha256": "dee0fa07a8c9017a80eb0ccb593a9d9485a2512805ebfce62b4da2d71f0b2c6b",
+          "reviewNote": "Permits court in judgment, without appointing a conservator, to authorize, direct, or ratify chapter 475 care, security, or service arrangements for a minor or disabled party."
+        },
+        {
+          "number": 3,
+          "title": "Court approval of financial transactions for minor or disabled person",
+          "bodySha256": "eb9fb6a7fbb30fabf5e597c8ea2a75f1a6fec2868090eec8867f9ba02b5389e6",
+          "reviewNote": "Permits court in judgment, without appointing a conservator, to authorize, direct, or ratify best-interests chapter 475 financial or estate transactions for a minor or disabled party."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections and statutory history; permissive judgment relief and chapter 475 minor/disabled party care and financial transaction powers verified."
+    },
+    {
+      "id": "511.320:27558",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=511.320&bid=27558",
+      "sourceSha256": "ae954d0c6168bc8335737e0961af91bc08f32e3151fdc3a373a934f77f179411",
+      "textSha256": "573bd9b4b49b906103f349b5f6ab3951eed37a1e9c0ad65e3ed5ccda2085ddfb",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Recording requirement for real estate judgments within eight months",
+          "bodySha256": "5691d12ac5d6a0154f311369cc50b6b195d4208d53af340354f5d46d6417e6ab",
+          "reviewNote": "Requires prevailing party to record a copy of a final real estate conveyance or quiet-title judgment in the county recorder's office within eight months."
+        },
+        {
+          "number": 2,
+          "title": "Effect of unrecorded judgment and extended petition for review",
+          "bodySha256": "f4fdf8fedc2affe0d1e31256174aae3bd85b00de28a11450a34dda5cb983b11d",
+          "reviewNote": "Renders unrecorded real estate judgment invalid except between parties and those with actual notice, extends defendant's review-petition period to two years and four months after recording, and preserves section 511.180."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; eight-month county recording requirement, unrecorded-judgment invalidity, extended review-petition period, and section 511.180 proviso verified."
+    },
+    {
+      "id": "511.350:27561",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=511.350&bid=27561",
+      "sourceSha256": "fa66c17f306af041f5f1355cb359d9fc876035c4a230ea9f3524dd90966f309e",
+      "textSha256": "6c2e386c046a52005dbd6eaa8b773c3f60081feda645a528219ed4fc1d0aeb43",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Courts of record judgment liens on county real estate",
+          "bodySha256": "42d068f9ac163ca22b576dc509fac8337f8be47ec58c716952c61aee559ae003",
+          "reviewNote": "Establishes county real estate liens for judgments of designated courts of record, excluding associate, small claims, and municipal divisions of circuit courts."
+        },
+        {
+          "number": 2,
+          "title": "Filing requirement for associate circuit court judgment liens",
+          "bodySha256": "e53deda5bf8fbf205cfdf5c1a03ed1dc60f0ded7bafb31051fb8aaed891701bf",
+          "reviewNote": "Provides that associate circuit division judgments do not become real estate liens until filed with the circuit clerk under sections 517.141 and 517.151."
+        },
+        {
+          "number": 3,
+          "title": "No real estate liens for small claims and municipal judgments",
+          "bodySha256": "5e2dd64275783d64c84832662050aa641ff9c1773abb1c94ecab90fd2073285f",
+          "reviewNote": "Specifies that small claims and municipal division judgments do not constitute liens against real estate."
+        },
+        {
+          "number": 4,
+          "title": "Prohibition on administrative amendment of court judgments",
+          "bodySha256": "8bc3e70b945cefa54fd6fd972b246141905606cc8a4bdece14dc882c4ef84dca",
+          "reviewNote": "Prohibits administrative agencies from amending or modifying court judgments or decrees without approval of a court of competent jurisdiction."
+        },
+        {
+          "number": 5,
+          "title": "Court approval required for administrative child support modifications",
+          "bodySha256": "28495a7504a5d62298cf85e73d608cb757daf11922fc5315a774f20042cc978b",
+          "reviewNote": "Prohibits administrative agencies, notwithstanding subsection 4 or other law, from amending or modifying court child support orders without court approval."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 5 subsections and statutory history; court-of-record real estate liens, associate-circuit filing rule, small-claims/municipal exclusions, and administrative-modification prohibitions verified."
+    },
+    {
+      "id": "511.440:27570",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=511.440&bid=27570",
+      "sourceSha256": "fda8437345665345462772a635a00a35d009042d2237125e589e72246a191f68",
+      "textSha256": "29f2202a9456034fbfedbe333b184131f2827ab3029f14e4b1155345ce95ba36",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Transcript filing and lien creation in another county",
+          "bodySha256": "b7c6284683d9a32948683289d21818d0ee04269991f9c90cbd40399400a0e130",
+          "reviewNote": "Creates a real estate lien in another county upon filing and indexing a transcript of a qualifying court-of-record judgment with that county's circuit clerk."
+        },
+        {
+          "number": 2,
+          "title": "Recording and indexing requirements for transcript of judgment",
+          "bodySha256": "eb19385b30bbc7167e94575c0afcde487176c561334103a371d683c284fa24fb",
+          "reviewNote": "Requires entry of the transcript in the circuit clerk's judgment record under section 511.500 for a county or city not within a county, including the rendering court's name and location."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; out-of-county transcript lien creation and circuit clerk entry requirements under section 511.500 verified."
+    },
+    {
+      "id": "511.480:27573",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=511.480&bid=27573",
+      "sourceSha256": "479d76adb41ab290bf6bb2605a881e1baf14faae1174c8cce990f23a4e939ae4",
+      "textSha256": "4813764c9d5f13f3808a6617ebddf5a0abc47a857de6573fcb4f619824b4056b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Execution and revival powers of court where transcript filed",
+          "bodySha256": "73472e00e0fb7349e9918ea5a7a2772cf4336e8975eb0230274f1d6a6088b4d5",
+          "reviewNote": "Deems sections 511.460 to 511.480 to authorize the court where a transcript is filed to issue executions, conduct debtor proceedings, and issue scire facias to revive the judgment or lien."
+        },
+        {
+          "number": 2,
+          "title": "Limitation on execution and revival for section 511.440 transcripts",
+          "bodySha256": "73604bc994e5264acf245a8b59a45399d3e4938dc99c61eb983a87a32227a5c1",
+          "reviewNote": "Prohibits courts where section 511.440 judgment transcripts are filed from issuing executions or scire facias, requiring issuance from the original rendering court."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, statutory history, and catchline-vs-body note (catchline retains historical magistrate-judgment phrasing while body distinguishes sections 511.460 to 511.480 from section 511.440 transcripts)."
+    },
+    {
+      "id": "511.760:27600",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=511.760&bid=27600",
+      "sourceSha256": "124d8a333c8ae73165d5da7c9248e0d0152737e0668862b09c8aafa70d0683f6",
+      "textSha256": "b217f2ed4fc06ffd31a289659d6bc582731813c8380e00a53c2303a83de324ee",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions for uniform enforcement of foreign judgments",
+          "bodySha256": "5f152455943a7d98476a9a657413fbefd6f62aabc9e535faf4276a6b6082b74b",
+          "reviewNote": "Defines foreign judgment, judgment debtor, levy, and register for purposes of this section."
+        },
+        {
+          "number": 2,
+          "title": "Application to register foreign judgment",
+          "bodySha256": "4012d1343f3c8e168e1c6cf1b0e4d0388a24ec0390ce515a2127fdd0a2f41b4d",
+          "reviewNote": "Permits a person entitled to sue on a foreign judgment to register it in a Missouri court with jurisdiction within the allowed action period."
+        },
+        {
+          "number": 3,
+          "title": "Petition contents and notification of original rendering court",
+          "bodySha256": "3bcb2cc43944ff0329b1903ce679a1b58d52526b022921df1e88efa3244a174e",
+          "reviewNote": "Prescribes contents of an authenticated verified registration petition and requires the registering clerk to notify the original rendering court's clerk."
+        },
+        {
+          "number": 4,
+          "title": "Issuance and service of summons on judgment debtor",
+          "bodySha256": "0f142925dd17e96ce343ed7c3da8d786e0f50c514f9481497ecc53cc0a6ebc99",
+          "reviewNote": "Entitles petitioner after registration to have summons issued and served on the judgment debtor in any manner authorized for personal jurisdiction."
+        },
+        {
+          "number": 5,
+          "title": "Notice by mail when personal jurisdiction unavailable",
+          "bodySha256": "9143a701a176fe2745533d9baad82189e0302172c53baa5b622cd9e400af523a",
+          "reviewNote": "Requires the registering clerk to send notice by registered mail to the debtor's last known address when personal jurisdiction cannot be obtained, with clerk certificate as proof."
+        },
+        {
+          "number": 6,
+          "title": "Levy on property under registered judgment prior to final judgment",
+          "bodySha256": "8b92fd32b194cb4e1d15612f6117243e078fa3024b657b881ffb9ac02ff166e7",
+          "reviewNote": "Permits levy on debtor property subject to execution at any time after registration regardless of personal jurisdiction or final judgment."
+        },
+        {
+          "number": 7,
+          "title": "Final personal judgment upon failure to plead or after hearing",
+          "bodySha256": "f28e0938a65b749f480df7681b68473919a68d2d00448c058923498b18543ace",
+          "reviewNote": "Converts registered judgment into a final personal judgment if debtor fails to plead within thirty days after personal jurisdiction or after court refuses to set aside registration."
+        },
+        {
+          "number": 8,
+          "title": "Defenses, setoffs, counterclaims, and pleading deadlines",
+          "bodySha256": "bd6e81523d7d25d9ea66c439567bb11fb3ede7b3357de1787e8f6e80f67af3d0",
+          "reviewNote": "Permits assertion of state-law defenses, setoffs, and counterclaims within thirty days after personal jurisdiction or thirty-five days after subsection 5 mailing."
+        },
+        {
+          "number": 9,
+          "title": "Stay of trial and relief from levy pending foreign appeal",
+          "bodySha256": "421644b8390e567328be1e49da6a22cf30fe7169f2c5ecbade89f539279ee6ff",
+          "reviewNote": "Requires court to postpone trial on just terms when debtor shows a pending or intended foreign appeal, and permits setting aside levy upon adequate security."
+        },
+        {
+          "number": 10,
+          "title": "Order setting aside registration constitutes final judgment",
+          "bodySha256": "82ba7c905e2b0ccf0bb02788502f9e51416b387eb66d32b5453a8b058927cb9a",
+          "reviewNote": "Establishes that an order setting aside a registration constitutes a final judgment in favor of the judgment debtor."
+        },
+        {
+          "number": 11,
+          "title": "Appellate review of orders sustaining or setting aside registration",
+          "bodySha256": "ad12cc27b9af2d280e4e0476507fc10c6913fe4d27698b742fdc7281aca63f02",
+          "reviewNote": "Permits either party to appeal a judgment or order sustaining or setting aside registration on the same terms as other appeals from that court."
+        },
+        {
+          "number": 12,
+          "title": "Final judgment quasi in rem binding levied property",
+          "bodySha256": "fb6b16796859a7dc2aa55ff87a1032e1298f6704a740b66b9405b763bd64c381",
+          "reviewNote": "Directs entry of a final judgment quasi in rem binding levied property if personal jurisdiction is not secured within thirty days of levy and debtor does not act within thirty-five days of notice."
+        },
+        {
+          "number": 13,
+          "title": "Execution sale under levy and distribution of proceeds",
+          "bodySha256": "74c0ee03cea54a311e422a3f0dee5d2b7b2b54bcd8a81b66166036bf0d519c12",
+          "reviewNote": "Permits execution sale after final personal or quasi in rem judgment (except as provided for perishable goods) with sale and proceeds distribution under Missouri law."
+        },
+        {
+          "number": 14,
+          "title": "Inclusion of foreign interest, copy costs, and court costs",
+          "bodySha256": "31df78fc89daa79ceaae4ad71c0bc6187085c21d5e34ff1ea086cb9a0a5b0ebc",
+          "reviewNote": "Requires final judgment to include interest under rendering-state law, authenticated copy costs, and incidental Missouri court costs."
+        },
+        {
+          "number": 15,
+          "title": "Satisfaction of foreign judgment in other jurisdictions",
+          "bodySha256": "10a325b9f270b5a325bc16dad6aa949200a7fc56aa5229d56af159762162da72",
+          "reviewNote": "Provides that partial or complete satisfaction of the original judgment or another state's judgment operates as satisfaction in Missouri except for subsection 14 costs."
+        },
+        {
+          "number": 16,
+          "title": "Preservation of separate action on foreign judgment",
+          "bodySha256": "efbefe34e50a99767948e47c779f1e0e1f49dc078c2f623a67f17d64ac6245ca",
+          "reviewNote": "Preserves unimpaired a judgment creditor's right to bring a separate action to enforce the judgment instead of proceeding under this section."
+        },
+        {
+          "number": 17,
+          "title": "Uniformity of interpretation and construction",
+          "bodySha256": "52d24c082d07a6bab7443846e72e74befcc140c027cda1aedc019432b0e7c9f9",
+          "reviewNote": "Directs uniform interpretation and construction of this section among enacting states."
+        },
+        {
+          "number": 18,
+          "title": "Short title citation",
+          "bodySha256": "16ffd06d134c81a0a626404a24cc355d286348e6b082f1901a8c50145784ac11",
+          "reviewNote": "Permits citation of this section as the Uniform Enforcement of Foreign Judgments Law."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 18 subsections, statutory history, and 5 case annotations; tightened subsections 14 and 16 to match exact statutory wording ('authenticated copy' and separate enforcement action) and verified mandatory vs permissive rules."
+    },
+    {
+      "id": "511.770:27601",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=511.770&bid=27601",
+      "sourceSha256": "04c81a908fa97dc0fd335620d86f23482550899fd13078b3f81c9f98875a4473",
+      "textSha256": "bc9c44caddc4689ae01eccc0446ad83a86966a0075698cb06292298bc5def59c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Short title citation",
+          "bodySha256": "cf413f6170616f4ee1eaa6180c89b0a676ff3a6d21e455626df4d517e3d3bdae",
+          "reviewNote": "Permits citation of sections 511.770 to 511.787 as the Uniform Foreign Country Money-Judgments Recognition Act."
+        },
+        {
+          "number": 2,
+          "title": "Uniformity of interpretation and construction",
+          "bodySha256": "f9d4cf8ef9575bcc730237489efd017d923a7424e3baa428b811ce5d9ad8986d",
+          "reviewNote": "Directs construction of sections 511.770 to 511.787 to effectuate uniformity among enacting states."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; permissive short-title citation and uniform construction directive for sections 511.770 to 511.787 verified."
+    },
+    {
+      "id": "511.780:27605",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=511.780&bid=27605",
+      "sourceSha256": "1994765a77b39f6cf46dba560e74fcb1de431f4f612672e47173bd9374c731f5",
+      "textSha256": "c9bf5b7103f72853bf057e93fbde6d718c137eece765926c9a4385d35e014b9d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory grounds for nonrecognition of foreign country judgment",
+          "bodySha256": "b59ca80324fb39d3b77d39676bf1df6d3ebca92f51e183f632be9a8e68eba815",
+          "reviewNote": "Lists three mandatory grounds on which a foreign country judgment is not conclusive: lack of impartial/due-process system, lack of personal jurisdiction, or lack of subject-matter jurisdiction."
+        },
+        {
+          "number": 2,
+          "title": "Discretionary grounds for nonrecognition of foreign country judgment",
+          "bodySha256": "569b274db3bf608e5952147278c7feff65afc7560d94316c04822dca22c475b9",
+          "reviewNote": "Lists six discretionary grounds on which a foreign country judgment need not be recognized, including insufficient notice, fraud, public-policy repugnancy, conflicting judgment, contrary dispute agreement, or seriously inconvenient forum."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; mandatory nonconclusiveness grounds (subsection 1) and discretionary nonrecognition grounds (subsection 2) verified."
+    },
+    {
+      "id": "511.783:27606",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=511.783&bid=27606",
+      "sourceSha256": "d0e017bf8a6e9f6151524aef5f3db7491e56557a8f224473d08afeca69b12a16",
+      "textSha256": "37c65a0490ec1caa1b8f9ed70b0037aade29adae64ae8e3d73f9ed3ba3b8d731",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Recognized bases of personal jurisdiction for foreign judgment",
+          "bodySha256": "9d9bc671a93dadaf4d796e8f92a1b970f1d78c35d646dc5761967d05109607f0",
+          "reviewNote": "Prohibits refusing recognition for lack of personal jurisdiction when any of six specified jurisdictional contacts or agreements applies."
+        },
+        {
+          "number": 2,
+          "title": "Recognition of other jurisdictional bases consistent with fairness",
+          "bodySha256": "72b5525758c9df928cc51f899ef2c68f2027f0fde81582b7cc2a4093efc10b1c",
+          "reviewNote": "Permits Missouri courts to recognize other bases of jurisdiction consistent with fairness and substantial justice in international commerce or relations."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; six mandatory personal-jurisdiction bases and permissive recognition of other fair international jurisdictional bases verified."
+    }
+  ]
+}

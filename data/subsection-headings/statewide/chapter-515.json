@@ -1,0 +1,889 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "515.510:33713",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.510&bid=33713",
+      "sourceSha256": "8fe16373e9bcc1b419ffc1b72ff745ffec7b5d6cfba8229a25e0bb5235abc3da",
+      "textSha256": "d4595381ccce0e636059a8df7fff10ea391cfa0b1e76168c7a797c0ec9c3b229",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Grounds for appointment of receiver over debtor property",
+          "bodySha256": "7323b1032d07ad71fe83289c5ed176ba32d18243535df457f40aadf9393addad",
+          "reviewNote": "Grants courts or judges in vacation power to appoint a receiver whenever necessary (to the extent not governed by listed specific statutes) and enumerates fourteen nonexclusive instances."
+        },
+        {
+          "number": 2,
+          "title": "Appointment of foreign receiver over Missouri property",
+          "bodySha256": "1b2b3c7647f442707fcb9a315d9cdbdda4e1d9e8cbcdc046beab6832fb62cd5d",
+          "reviewNote": "Requires Missouri courts, on application, to appoint a foreign-appointed receiver over Missouri property and give effect to foreign court orders unless manifestly unjust or inequitable, and sets venue."
+        },
+        {
+          "number": 3,
+          "title": "Notice requirement for appointment application",
+          "bodySha256": "623a9c1f723478ede200309e51ada2b3f51114fbd3edde236ca3c861f5de80da",
+          "reviewNote": "Requires at least seven days' notice of a receiver appointment application to the debtor, parties, pending execution/receiver judgment creditors, and other parties as required, adjustable for good cause."
+        },
+        {
+          "number": 4,
+          "title": "Description of estate property in appointment order",
+          "bodySha256": "f8e9f6003deac368524a97be48c76c4b7f5e072ad57e36e1e6ce3472407f765b",
+          "reviewNote": "Requires the appointment order to reasonably describe covered property if less than substantially all debtor property; otherwise deems the receiver a general receiver over all debtor property."
+        },
+        {
+          "number": 5,
+          "title": "Court may require security from appointment applicant",
+          "bodySha256": "fcacab9a748863958cc5a4df0a992dec8138536c2c01e4a24fee9faec85a9956",
+          "reviewNote": "Permits the court to condition receiver appointment upon applicant security for costs and damages if the appointment is later determined wrongfully obtained."
+        },
+        {
+          "number": 6,
+          "title": "Receiver appointment as independent claim and remedy",
+          "bodySha256": "a7e2f2dfab5dc54a2c4529aaf7e8dd427f32323751eba40da9fdf16bf006cef7",
+          "reviewNote": "Provides that receiver appointment need not be ancillary to another claim and may be sought as an independent claim and remedy."
+        },
+        {
+          "number": 7,
+          "title": "Exemption of regulated public utilities from receivership act",
+          "bodySha256": "12f499bf46c55a4f40a6c75719751c918c30f6fc03177996613c65c7b44a6569",
+          "reviewNote": "Excludes persons or entities who are or should be regulated as public utilities by the public service commission from sections 515.500 to 515.665."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all seven subsections and 14 subdivisions of subsection 1 for 515.510. Updated subsection 5 to preserve permissive 'may' for applicant security and verified remaining titles and notes."
+    },
+    {
+      "id": "515.520:33715",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.520&bid=33715",
+      "sourceSha256": "af82404459b3665964387bfb276fa3f30e98dc5137d5d7f00584262a20030493",
+      "textSha256": "4e9d3a328e7d0fb70f124d533260c84371e4db8406d1b10c544cd8d9fcc1dea0",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Notice of appointment or conversion to parties and agencies",
+          "bodySha256": "a5344a935459333c997e6019af8e559f368449288abbf22072e15489bb372fc8",
+          "reviewNote": "Requires the receiver within ten business days of appointment or § 515.515 conversion to mail first-class notice with ten enumerated items to all parties in interest, the secretary of state, and state/federal taxing authorities."
+        },
+        {
+          "number": 2,
+          "title": "Notice of general receivership by publication",
+          "bodySha256": "cdec6acf04d73cd50777b446c3a252a6b99da3b809c5a630dde3def29cf02474",
+          "reviewNote": "Requires a general receiver to publish notice weekly for three consecutive weeks starting within thirty days of appointment in counties where estate property is located, deeming intangibles located at debtor's residence or principal office."
+        },
+        {
+          "number": 3,
+          "title": "Debtor duty to cooperate with receiver notice efforts",
+          "bodySha256": "ee22ef79f83c06f459ed2b0986f62633dc97440b3bfe070dc28fb0ce8e9fe227",
+          "reviewNote": "Requires the debtor to cooperate with reasonable receiver information requests for subsection 1 notice and permits punishing failure to cooperate as contempt of court."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all three subsections and 10 notice items for 515.520. Broadened subsection 1 title/note to cover conversion from limited to general receiver and notice to all parties in interest, the secretary of state, and taxing authorities."
+    },
+    {
+      "id": "515.540:33719",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.540&bid=33719",
+      "sourceSha256": "7fd0d731a3499cb499e6cb9d1957eefbfcc359d70050d6dcf9208ab7d492a55c",
+      "textSha256": "e994c2596c374e7a7c50e00a49a63922100a9e38e090ffcac70cb8d188c21ab9",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exclusive court authority over receiver and estate property",
+          "bodySha256": "4f56ff9e00b72774413d6f659c91af25b639bf7b3af0c3953180e278a39b7771",
+          "reviewNote": "Grants the receivership court exclusive authority over the receiver, estate property, and related controversies and claims, except actions with a state agency party where jurisdiction or venue is vested elsewhere."
+        },
+        {
+          "number": 2,
+          "title": "Judicial discretion to alter statutory timeframes for good cause",
+          "bodySha256": "82c28d54449dd13c286bf5e2cc3c8a1fb48cdef35ca018d10e693a9b7629f20d",
+          "reviewNote": "Empowers the court, for good cause shown, to shorten or expand timeframes specified in sections 515.500 to 515.665."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and history note for 515.540. Verified accuracy of titles and noted state-agency venue/jurisdiction exception in subsection 1."
+    },
+    {
+      "id": "515.545:33720",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.545&bid=33720",
+      "sourceSha256": "6e8d910466820b0b6100e6231748c1f94af98a180dec334b799bdb52dd531a29",
+      "textSha256": "0980707de4180d644d7cd4662c2f99d0bc7333957a89584f15fb6d9f827b741a",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Statutory powers and authority of appointed receivers",
+          "bodySha256": "eadf8594ff1825cbbc7ba09d2e3a76df9f4a0afaa0707357362203007161dd48",
+          "reviewNote": "Enumerates eleven powers of receivers, including paying expenses, operating businesses, asserting/intervening in claims (with state-agency transfer limit), fraudulent-transfer claims, subpoenas under Rule 57.03, and § 515.645 dispositions."
+        },
+        {
+          "number": 2,
+          "title": "Statutory duties and regulatory notifications of receivers",
+          "bodySha256": "8dda2ab82e478d1d60f019888d23c6dcdfadf9be6da97f020dffb01feeac468a",
+          "reviewNote": "Sets receiver duties including notifying federal/state taxing and regulatory agencies (including 26 U.S.C. § 6036), complying with state law, recording § 527.260 lis pendens for real property, and other required duties."
+        },
+        {
+          "number": 3,
+          "title": "Judicial modification or limitation of receiver powers",
+          "bodySha256": "9a12fa8bb8dd786b5d04937ce60e9f1aeaa1dffd912a6eb9ba1d0fa7acc1b594",
+          "reviewNote": "Provides that the court may expand, modify, or limit a receiver's statutory powers, authorities, and duties by order."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all three subsections and subdivisions for 515.545. Corrected subsection 2 note to remove fabricated 'filing operating reports' and accurately reflect taxing/regulatory notice, state-law compliance, and real-property lis pendens recording."
+    },
+    {
+      "id": "515.550:33721",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.550&bid=33721",
+      "sourceSha256": "98f25c94ae22b834bacbb1200fa1e21aa7061c1c5d678c790bcd1e97ee462015",
+      "textSha256": "7a3ced95806bedefa439ac3ac882ba1857bbad8e696cfb36c8669a5ca99af09c",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory turnover of estate property upon receiver demand",
+          "bodySha256": "d15f19982ce7120876f95cef399e18a63617fcf60bd2e243594c5fa8e7c5ffe5",
+          "reviewNote": "Requires turnover of estate property upon receiver demand absent good cause, allows motion to compel or legal action for bona fide disputes, and makes unjustified refusal punishable as contempt."
+        },
+        {
+          "number": 2,
+          "title": "Double-value bond alternative or ten-day turnover after order",
+          "bodySha256": "b0c9a22bddb22b532fbc70b2930a7e713529d4ec3cd6781bf07bc9750c11d33c",
+          "reviewNote": "Grants a party ordered to turn over property the right to deliver a double-value surety bond pending finality; absent such bond, requires turnover within ten days of entry of the order."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and history note for 515.550. Replaced fabricated subsection 2 ('contempt sanctions and attorney fee awards') with actual text governing the double-value surety bond alternative and ten-day turnover deadline."
+    },
+    {
+      "id": "515.555:33722",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.555&bid=33722",
+      "sourceSha256": "2b8f70ef8629b3568e7f2a28ac0f577d3c3a92b74d8dacb4333954c4bbc62f67",
+      "textSha256": "8b3fb26aaf84f8e16519ee4f75fc10a196f3e39179146c31509ab240a6aa5651",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory cooperation and disclosure duties of debtor",
+          "bodySha256": "28e5ba615c14a304c918f11564b5579e518e07adbbd9db0c40d96aed5840e577",
+          "reviewNote": "Requires the debtor to provide § 515.560 data within 14 days of general receiver appointment, cooperate, assist with schedules, deliver estate property and records, and submit to examination under oath."
+        },
+        {
+          "number": 2,
+          "title": "Entity officers and controlling individuals subject to debtor duties",
+          "bodySha256": "ca2ba515a44110cf0ff717ac224a1dec24587da057a8d24030ad50f65d6740ba",
+          "reviewNote": "Subjects each officer, director, manager, member, partner, or other individual exercising or able to exercise control over an entity debtor's affairs to this section's requirements."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and subdivisions for 515.555. Replaced shifted subsection 2 ('examination under oath', which is in subsection 1(5)) with actual text making entity officers and controlling individuals subject to debtor duties."
+    },
+    {
+      "id": "515.560:33723",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.560&bid=33723",
+      "sourceSha256": "bb4e827abb2081bc3ac46304ee8a30c9c0b81d57af96578905b97039114ba338",
+      "textSha256": "5a1f0e42ddef6421c0b258cb5d855b7e693178834a7dd44a327dfca258fc7c4a",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Debtor schedules of creditors and estate property",
+          "bodySha256": "bede16dcbb5082bdf0ae3257fe2b1c5d33ac15e552ea211c63883ec0d207b049",
+          "reviewNote": "Requires the debtor within thirty days of general receiver appointment to file and submit lists of known creditors/agencies and all estate property with estimated liquidation value, location, and legal descriptions."
+        },
+        {
+          "number": 2,
+          "title": "Supreme court may prescribe receivership schedules by rule",
+          "bodySha256": "8c8f3e05b695a498a7ca4acd375df9cf2e6fc7ed6450b50bf7c22a72919e9d12",
+          "reviewNote": "Permits the Missouri supreme court from time to time to prescribe by court rule the schedules to be filed in receiverships under sections 515.500 to 515.665."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and subdivisions for 515.560. Replaced fabricated subsection 2 ('preparation of schedules by receiver', which is in 515.565(3)) with actual text authorizing Missouri supreme court rules prescribing receivership schedules."
+    },
+    {
+      "id": "515.565:33724",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.565&bid=33724",
+      "sourceSha256": "ed12f679f866f81e390a04c6fe39d195b1c471442c1731d3d2aff3cf5aa625eb",
+      "textSha256": "d6eb872bd98d948c0aefa6c0c34b25f6964dbca2c209c9b76e29bea8ec2a0b1f",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Appraisal not required absent specific court order",
+          "bodySha256": "bf25d476a88836d68fb88fbc770c80f62687eb935e0df2a846270cab7833393f",
+          "reviewNote": "Provides that a receiver is not obligated to obtain an appraisal or independent valuation of possessed property unless ordered by the court."
+        },
+        {
+          "number": 2,
+          "title": "Court may order additional receiver schedules, reports, or inventories",
+          "bodySha256": "9f72a9c9cab2c89bafacb462a27cd3281311ae330fb98cf5109bda6d2955dfa1",
+          "reviewNote": "Permits the court to order the receiver to file additional schedules, reports of assets, liabilities, claims, or inventories as necessary and proper."
+        },
+        {
+          "number": 3,
+          "title": "Court-ordered preparation of schedules upon debtor failure",
+          "bodySha256": "db5cd88437cc7e7c7e91a73f8c75921f7563c9f99961ee4000e411045f837b7f",
+          "reviewNote": "Permits the court, when a debtor fails to file a required list or schedule, to order the receiver, a petitioning creditor, or another person to prepare and file it and approve cost reimbursement as an administrative expense."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all three subsections and history note for 515.565. Replaced fabricated subsections 2 and 3 ('motion for independent appraisal' and 'filing appraisal report') with actual text on court-ordered additional schedules/inventories and preparation upon debtor failure."
+    },
+    {
+      "id": "515.570:33725",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.570&bid=33725",
+      "sourceSha256": "25a416990cb87eb4b66163658a71a18d1d0dd2d5a6d44355cc093e2c389292bd",
+      "textSha256": "ac369f6319a903c9e2456ade30f6d1a0d413f5099418fe3494a300eecd5b209d",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Monthly operational and financial reports of general receiver",
+          "bodySha256": "5d5f6312de68bf3c30b7a2ab91269546ab93e2ed36c1e2224a0397f0feee117f",
+          "reviewNote": "Requires a general receiver to file monthly operational and financial reports by the last day of the subsequent month (unless otherwise ordered) containing seven enumerated statements and tax disclosures."
+        },
+        {
+          "number": 2,
+          "title": "Reporting requirements for limited receivers",
+          "bodySha256": "2636bebbbb0db9125a79aacdc0ed0914472af09e047ab72e5fd568716cdeb80c",
+          "reviewNote": "Requires a limited receiver to file with the court all reports that the court may require."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and seven required report items for 515.570. Verified accuracy of titles and notes."
+    },
+    {
+      "id": "515.575:34914",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.575&bid=34914",
+      "sourceSha256": "b900a6a6dd7f323acb984153c98e00bb3861a6c8e49fc270f22312c43aa290b1",
+      "textSha256": "cb33d8a32992b2c8425a0a033bfbc21b66b98736854f5c1722cb77fa369b41ad",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Automatic stay of judicial and collection proceedings",
+          "bodySha256": "c8163181b5a39e8761b32ca96d9975d98690338a5073c9d196b90822909d6f82",
+          "reviewNote": "Provides that entry of an order appointing a general receiver operates as an automatic stay (unless otherwise ordered) of five categories of actions, judgment enforcement, possession, liens, and collection."
+        },
+        {
+          "number": 2,
+          "title": "Sixty-day automatic expiration of stay for certain enforcement acts",
+          "bodySha256": "907b98ad294a5bed67d07df3574818af450c2090875605e739be2a1cfb8b16ed",
+          "reviewNote": "Expires the stay as to subsection 1(1), (2), and (5) sixty days after appointment unless extended for good cause, allows stay-relief motions, and bars post-appointment judgments from becoming estate liens unless terminated prior to conveyance."
+        },
+        {
+          "number": 3,
+          "title": "Proceedings and regulatory enforcement actions exempt from stay",
+          "bodySha256": "f1fce78470ad621df8599df01721294d5134c6ea7cb401f8ee6c6184cfe958cb",
+          "reviewNote": "Lists eight categories exempt from the stay, including criminal, family support, perfection of interests, police/regulatory actions, setoffs, tax assessments, and actions in other courts prior to transcription."
+        },
+        {
+          "number": 4,
+          "title": "Transcripting stay order to other courts and sua sponte transfer",
+          "bodySha256": "76022d7cb969f09de81d13c102b0e8f42c95a539f1a03ba5d42fa9bf8f083604",
+          "reviewNote": "Authorizes transcripting appointment or stay-extension orders to other Missouri courts where debtor actions are pending for subsection 3(8) and permits the receiving court to sua sponte transfer the matter to the receivership court."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all four subsections and subdivisions for 515.575. Corrected subsection 4, which governs transcripting the order to other courts where actions are pending and sua sponte transfer rather than recording in county land records."
+    },
+    {
+      "id": "515.580:33727",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.580&bid=33727",
+      "sourceSha256": "36ed58bfac2e906e54285bbbff00391a39c3491d4bcdb14bbff5f1a92467046f",
+      "textSha256": "e9d7a672c03dbed172f2dddac8fbee019329d1d27ef57966b01cd096b2a0d741",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Notice prerequisite before utility discontinues service",
+          "bodySha256": "0b6765cfa1faa05a1726675476c78d1445f044d44d922966ef1ab5af316014ac",
+          "reviewNote": "Bars a § 386.020 public utility from altering, refusing, or discontinuing service to estate property without fifteen days' notice (or PSC rule notice) to the receiver, while allowing court prohibition upon adequate assurance of payment."
+        },
+        {
+          "number": 2,
+          "title": "Public service commission remedies for regulated utility violations",
+          "bodySha256": "e2bafa5b77c0aeee55614ffafbbd5518621a2dc3497ee6953ea6f6eb4d04f94d",
+          "reviewNote": "Subjects any PSC-regulated public utility violating this section to appropriate remedial measures by the commission upon notice of the violation."
+        },
+        {
+          "number": 3,
+          "title": "Receiver action against unregulated utility service providers",
+          "bodySha256": "7ec0f88b30a7a3dc4e59a3ade50cbe1681632ca5530c4ada31f4662bcb628dce",
+          "reviewNote": "Permits the receiver, upon direction of the court, to bring an enforcement action against an unregulated utility service provider that violates this section."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all three subsections and history note for 515.580. Verified accuracy of titles and refined notes to include 15-day notice/PSC rule notice and adequate assurance of payment."
+    },
+    {
+      "id": "515.585:33728",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.585&bid=33728",
+      "sourceSha256": "947f233c839490924e71f0e65f55d67e4754d4283c2897908647283edccaf9b1",
+      "textSha256": "36edcc284bc9b43f5afb1c713274ab8852471de97f781b7fb119322bb4bda897",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Receiver assumption or rejection of executory contracts and leases",
+          "bodySha256": "af4f17c1acc53a0a2e58602f312e7c63849a077914099881706a420766c9850d",
+          "reviewNote": "Permits a receiver to assume or reject executory contracts or unexpired leases by court order after notice and hearing, with conditions such as cure assurance; pre-order performance by a general receiver is not assumption."
+        },
+        {
+          "number": 2,
+          "title": "Motion by contract counterparty to compel rejection",
+          "bodySha256": "3e838d0d7bfd392082e282d64153f198de28a25cb49391b07cfdf052e54ea4b0",
+          "reviewNote": "Permits any party to an executory contract or unexpired lease to move to compel rejection at any time and lists five factors the court may consider."
+        },
+        {
+          "number": 3,
+          "title": "Effects of assumption or rejection and thirty-day rejection claims",
+          "bodySha256": "1e75b9b47262fb493724af01ef3992a933ad6e6b0b3ccb75ca2bdf9ce75b781d",
+          "reviewNote": "Treats general-receiver assumed obligations as receivership expenses, treats rejection as a pre-appointment breach terminating receiver possession, and requires serving rejection claims within thirty days of rejection notice."
+        },
+        {
+          "number": 4,
+          "title": "Invalidity of ipso facto termination provisions",
+          "bodySha256": "20466ce8a3f9318db66858d5ee219ebc98fceea99e55c9af3e5f59ac3478a0a2",
+          "reviewNote": "Provides that a receiver's power to assume is unaffected by contract or lease provisions causing forfeiture, modification, or termination due to receivership, financial condition, or assignment for creditors."
+        },
+        {
+          "number": 5,
+          "title": "Counterparty consent required for nonassignable contracts",
+          "bodySha256": "07340463b290dbbf928f87da7489b5e7a27a0d306250da49b05501a2a7901b0c",
+          "reviewNote": "Bars assumption without counterparty consent where applicable law excuses non-debtor performance, for loan/credit/security contracts, or where the contract or lease expired prior to assumption."
+        },
+        {
+          "number": 6,
+          "title": "Assumption prerequisite for assignment of contracts",
+          "bodySha256": "32c2a8b4ae94b3601ab68e481cd93004afce75274ea0eee44ebd1987913576d6",
+          "reviewNote": "Prohibits a receiver from assigning an executory contract or unexpired lease without assuming it, absent consent of the other parties."
+        },
+        {
+          "number": 7,
+          "title": "Counterparty remedies upon rejection of property, lease, or IP contracts",
+          "bodySha256": "be7a62b6e786f06b51488d0c28ace8c35f7ead01e0dbd7baf3d116dced893551",
+          "reviewNote": "Gives purchasers in possession, timeshare purchasers, IP licensees, and real property lessees the option upon rejection to treat it as termination (with purchase-price lien for buyers) or remain in possession with damage offset."
+        },
+        {
+          "number": 8,
+          "title": "Automatic sixty-day rejection of contracts with state",
+          "bodySha256": "65b7bc280fa225e405fabe4fc43c58620989bd0217818366072b06c7a24221b1",
+          "reviewNote": "Deems any contract with the state rejected if not assumed within sixty days of general receiver appointment unless the receiver and state agency agree to assumption."
+        },
+        {
+          "number": 9,
+          "title": "Preservation of statutory and contractual anti-assignment rules",
+          "bodySha256": "496c5ee6a844d45aad132040dbd559948da4b774b81925631adefa3fe021b1cf",
+          "reviewNote": "Provides that sections 515.500 to 515.665 do not affect the enforceability of anti-assignment prohibitions under contract or applicable law."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all nine subsections and subdivisions for 515.585. Broadened subsections 3 and 7 titles/notes to cover rejection breach/30-day claims and real property leases and intellectual property licenses in addition to real estate sales."
+    },
+    {
+      "id": "515.590:33729",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.590&bid=33729",
+      "sourceSha256": "a9bc44f3fdfcb72aab44c945300fdb353f875240f93a12d19c9a50609d59117a",
+      "textSha256": "3490020cd34e9c5c8ae11bdf30151c68e8d78809d599852a3eec06168fa32799",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Unsecured credit obtained in ordinary course of business",
+          "bodySha256": "769e57ad803aa50db4454f9e31c7a9f1af5a9a0731a46d8979d1d5450b4d3061",
+          "reviewNote": "Permits a receiver authorized to operate a business or manage property to obtain unsecured credit and incur unsecured debt in the ordinary course as an administrative expense without court order."
+        },
+        {
+          "number": 2,
+          "title": "Court authorization for credit outside ordinary course",
+          "bodySha256": "9ce7a3830cb652d94d4881e64a3f3507112da703aab39d9836df4c71a929cc8b",
+          "reviewNote": "Permits the court after notice and hearing to authorize credit or debt outside the ordinary course, including encumbering estate property or affording equal lien priority to additional secured-creditor credit."
+        },
+        {
+          "number": 3,
+          "title": "Court consideration of impact on unsecured creditors",
+          "bodySha256": "10ea732ffaff38e4b7f5ee74a4ce185ec6ed569a82f79b2b57d9018c4178040f",
+          "reviewNote": "Requires the court, when deciding whether to allow borrowing under subsection 2, to consider the likely impact on the interests of unsecured creditors of the debtor."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all three subsections and history note for 515.590. Corrected inverted word in subsection 3 ('secured creditors' -> 'unsecured creditors')."
+    },
+    {
+      "id": "515.595:33730",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.595&bid=33730",
+      "sourceSha256": "e5fc3ab0efd603468d05616bf091cb3756283bf39f007e886055f4054f3dd377",
+      "textSha256": "1242f52a49ef17fc6aab23367101da3ff70101f8d355ac2f1820e7b8337ab210",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Capacity to sue and be sued without leave of court",
+          "bodySha256": "93e4259b577bc27b771908bdcd62f015890a0b5c830ef1bfb11cc5009c688837",
+          "reviewNote": "Grants receivers the right to sue and be sued without leave of court as necessary or proper, except actions to dispossess or interfere with management/control require court permission after notice and hearing."
+        },
+        {
+          "number": 2,
+          "title": "Treatment of actions as adjunct to receivership proceeding",
+          "bodySha256": "320424df65b082ff5b90ef746853adcfbc6077d2dd92239aa562a03b87f44f96",
+          "reviewNote": "Treats actions by or against a receiver as adjunct to the receivership, requiring both case numbers on pleadings and referral to the receivership judge."
+        },
+        {
+          "number": 3,
+          "title": "Joinder or substitution of receiver in pending litigation",
+          "bodySha256": "d78b2a449eaa5fa374229d821c1f8d3395c5e37c3e178ba0a746718f9821b436",
+          "reviewNote": "Permits joining or substituting the receiver in any pending action or proceeding in which the debtor is a party upon receiver application."
+        },
+        {
+          "number": 4,
+          "title": "Venue for adjunct actions in receivership court",
+          "bodySha256": "6595c28027b442620fcdc1df3829da39382808459b42a1c956b4c4e00834b05b",
+          "reviewNote": "Places adjunct-action venue in the receivership court if it has jurisdiction, provides transfer upon receiver motion within thirty days of service, and exempts state-agency actions absent agency consent or other grounds."
+        },
+        {
+          "number": 5,
+          "title": "Continuation of actions upon vacancy or change of receiver",
+          "bodySha256": "fd774722e3f9afefe084e3d402d5415d8c26a30399198b0128345cf8fa46dfa1",
+          "reviewNote": "Provides that actions by or against a receiver do not abate upon death, resignation, or removal, but continue against the successor receiver or the debtor if none is appointed."
+        },
+        {
+          "number": 6,
+          "title": "Service of corporate process upon general receiver",
+          "bodySha256": "6f3b76e70d443bd1344d09f02928cd00b269331885e27dc062103705bd58b483",
+          "reviewNote": "Provides that when assets of a domestic or foreign corporation doing business in Missouri are in a general receiver's possession, service of all process upon the corporation may be made upon the receiver."
+        },
+        {
+          "number": 7,
+          "title": "Prohibition on judgment liens or execution against estate property",
+          "bodySha256": "4fb8abea1e94c958d78fdb3e019b6bb5f5215163eca5b0d470775bdf12ffba1c",
+          "reviewNote": "Provides that a judgment against a general receiver or debtor is not a lien or executable against estate property (instead treated as an allowed claim), and limits enforcement of judgments against limited receivers."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all seven subsections and history note for 515.595. Replaced fabricated subsection 6 ('default judgment notice') with actual text permitting service of corporate process upon a general receiver in possession of assets."
+    },
+    {
+      "id": "515.600:33731",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.600&bid=33731",
+      "sourceSha256": "ff081b4278f7d302b2067abf8141246cd1a60b183ba76ae86f8de844359e27b4",
+      "textSha256": "0be9c967c26ea700a5e1bae6c3cc563a61694895eef5789942d7ac60a65f3767",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Judicial immunity of receiver and staff; successor recovery",
+          "bodySha256": "4016037fb00eec71309f91e11417a6aaaed01baa6452482a4c8c446614cef4dc",
+          "reviewNote": "Grants judicial immunity to the receiver and § 515.605 agents, attorneys, and employees for official acts within scope of appointment, restricts recovery actions to a successor receiver (limited to actual damages) except under subsection 2."
+        },
+        {
+          "number": 2,
+          "title": "Leave of receivership court required to sue receiver",
+          "bodySha256": "d9b0e61e03cc7735bec912e70e8fadab6d294bd8ae68ec8ab23675f151ffa2ee",
+          "reviewNote": "Requires any person other than a successor receiver to obtain leave of the appointing court (exclusively) via verified application, notice, hearing, and a prima facie showing of non-immunity before suing."
+        },
+        {
+          "number": 3,
+          "title": "Judgment for costs and fees upon denial of leave to sue",
+          "bodySha256": "f80603492e94b70040a7cbe2679c2795f1a6f16101a7b336f7d9b9140fa5360a",
+          "reviewNote": "Requires the court denying leave under subsection 2 to award the receiver costs and reasonable attorney's fees if the applicant's position was not substantially justified."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all three subsections and history note for 515.600. Corrected subsection 1 title/note to reflect judicial immunity and successor-receiver actual-damages recovery (removing unsupported 'bad faith or gross negligence' language) and noted 'not substantially justified' standard in subsection 3."
+    },
+    {
+      "id": "515.605:33732",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.605&bid=33732",
+      "sourceSha256": "a0aa610929c75c8911ca58125d9b45214b6a5a04b7f4c111fac2ee2515f7d8a7",
+      "textSha256": "4b670bea24c7f36165eebedc3dfe5e2478d1ba89ea6dfbb5eb560d8c06623476",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Court approval for employment of professionals",
+          "bodySha256": "2eafe3970038e305dc3af9a856617359a557af3f26640b2c27cd97c680915ade",
+          "reviewNote": "Permits the receiver, with court approval, to employ attorneys, accountants, appraisers, auctioneers, or other professionals who do not hold or represent an interest adverse to the receivership."
+        },
+        {
+          "number": 2,
+          "title": "Prior creditor relationship not per se disqualifying",
+          "bodySha256": "90805112e3676e4baf61b3c5151f4003d666924b8dfb13d1a34439c38f8e7378",
+          "reviewNote": "Provides that employment by, representation of, or relationship with a creditor or party in interest does not disqualify a professional if disclosed and the court finds no actual conflict or inappropriate appearance."
+        },
+        {
+          "number": 3,
+          "title": "Court authorization for receiver to serve as counsel or accountant",
+          "bodySha256": "7a1072855a065ec2026560bafe8ed74aced13921d1e638143aca5ddac3ea6a96",
+          "reviewNote": "Clarifies that the court may authorize the receiver to act as attorney or accountant if in the best interests of the receivership."
+        },
+        {
+          "number": 4,
+          "title": "Itemized billing records required for professional compensation",
+          "bodySha256": "231f44025bcf5619b4b867ac0dcb8798fdd1b53474f098f6b5c71318797122f6",
+          "reviewNote": "Requires itemized billing records, sets fee-motion notice to the § 515.610 master mailing list with a ten-day objection period, and requires providing billing copies within five days of request."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all four subsections and history note for 515.605. Verified accuracy of titles and refined subsection 4 note to include fee motions, ten-day objection period, and five-day billing copy requirement."
+    },
+    {
+      "id": "515.610:33733",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.610&bid=33733",
+      "sourceSha256": "9a1e45b0cc6c9c44d10242afc013cacd8902fc8587d03c980ce3d49f8c183402",
+      "textSha256": "f619d5381a1bfbec9e3c6d1e2bd5dd42c1b6371655fb4838db3e6dacf65bdb44",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Binding effect of receiver acts upon all creditors",
+          "bodySha256": "582aa68dbd4b7d7b86eb820f50f2260c17e58898a8f20dca55aff4a3c2aa36f0",
+          "reviewNote": "Binds creditors and parties in interest given notice, submitting written claims, or appearing/participating in the receivership to receiver acts and court orders whether or not they are parties."
+        },
+        {
+          "number": 2,
+          "title": "Creditor right to receive notice and appear on any matter",
+          "bodySha256": "4ef00fbd38df15dd6fe8f5eb549b9cf09ed33e60d6b1c0517caadd7b0cdcd5f6",
+          "reviewNote": "Grants creditors and parties in interest a right to notice and a hearing as provided in sections 515.500 to 515.665 whether or not they are parties to the receivership action."
+        },
+        {
+          "number": 3,
+          "title": "Party in interest appearances and master mailing list",
+          "bodySha256": "9606706446b9264876f7520ab95e082fab483bbc1f1538ba22094d19ea3d98f9",
+          "reviewNote": "Allows any party in interest to appear by filing and serving written notice of appearance and requires the receiver to maintain and provide a current master mailing list."
+        },
+        {
+          "number": 4,
+          "title": "Service of relief requests on state agency and attorney general",
+          "bodySha256": "fcdc61cf3bf4f25b824dfb9ab823d99a13a5b89555a854b908700e41529308f6",
+          "reviewNote": "Requires any request for relief against a state agency to be mailed to or otherwise served on both the agency and the office of the attorney general."
+        },
+        {
+          "number": 5,
+          "title": "Ten-day written notice of debtor examination to mailing list",
+          "bodySha256": "a48e1b7b0cc5663c49baf1ed704c1429ea9b40d422555d3ed775a96aa3b00be1",
+          "reviewNote": "Requires the receiver to give at least ten days' written notice of any receiver examination of the debtor to all persons required to be on the master mailing list."
+        },
+        {
+          "number": 6,
+          "title": "Thirty-day written notice for major motions and ten-day oppositions",
+          "bodySha256": "4f3ea8a75c03d7599aa8bf8d687be73bf5e4492126ed6bdd0f0e830b0b089715",
+          "reviewNote": "Entitles master-mailing-list persons to at least thirty days' written notice for hearings on claim allowance, property disposition/abandonment, settlements, or termination/removal/discharge (plus DOR/agency notice), with oppositions due ten days prior."
+        },
+        {
+          "number": 7,
+          "title": "Motions without notice or hearing unless party prejudiced",
+          "bodySha256": "9448a297880e41c2f60b263b7f5971a4d6fead2d4fd6561f8cb5bb6cb9ff79d7",
+          "reviewNote": "Permits the court to consider motions and grant or deny relief without notice or hearing whenever notice is not specifically required by sections 515.500 to 515.665 or court rule, unless a party or party in interest would be prejudiced or harmed."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all seven subsections and subdivisions for 515.610. Replaced completely fabricated subsections 3 through 7 ('special master', 'service methods', 'motion scheduling', 'emergency shortening', 'special notice') with actual statutory provisions on appearances/master mailing list, state-agency/AG service, 10-day debtor examination notice, 30-day major-motion notice/10-day oppositions, and motions without notice unless prejudiced."
+    },
+    {
+      "id": "515.615:33734",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.615&bid=33734",
+      "sourceSha256": "9479a49a264ed2397ae84271464929625bf572cea3f431ab4ec6eab3a73ff209",
+      "textSha256": "8fb84012c54dad850f6dcb7b8c2611303c4ccb4c3175c77ffa71f447b1f160d4",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Administration of claims process by general or limited receiver",
+          "bodySha256": "2d3b86e56e00bca7c8298e2886ee93ff38eaeed98ba0f21addda799f28b327a2",
+          "reviewNote": "Directs that the claims administration process in this section be administered by a general receiver and permits the court to order a limited receiver to administer it."
+        },
+        {
+          "number": 2,
+          "title": "Pre-appointment claims compliance and bar to distribution",
+          "bodySha256": "a10cbe6e4a4abf8d88f2a2c48cba618e59c1e93b0b56201efdecdb288aa87bfa",
+          "reviewNote": "Requires all pre-appointment claims (except duly perfected secured creditors) to comply with this section's form, service, and notice rules or be barred from participating in creditor distributions."
+        },
+        {
+          "number": 3,
+          "title": "Deadlines for serving claims on receiver, including state agencies",
+          "bodySha256": "ef3456c4f42b5ac2f25eb316e68d50da883055d2ee96dffcfd94641970ae72a6",
+          "reviewNote": "Requires serving claims on the receiver within thirty days of notice (or thirty days after contract/lease rejection), unless modified for cause, and within sixty days of mailed notice for state agencies."
+        },
+        {
+          "number": 4,
+          "title": "Written proof of claim form, supporting documents, and amendments",
+          "bodySha256": "327cbc2f172bf4033ff5a71998b963c60ea99ec7fd9dee7be6694372669706bc",
+          "reviewNote": "Requires an executed written 'Proof of Claim' with creditor details, claim nature/amount, supporting writings, and perfection evidence, and permits relation-back amendments unless otherwise ordered."
+        },
+        {
+          "number": 5,
+          "title": "Filing notice of claim with court and required contents",
+          "bodySha256": "f1268b6d318ea50e575ad06d28ea528aa1dfb2159d73210009389819eb0e24a5",
+          "reviewNote": "Requires filing a Notice of Claim with the court for each served claim (excluding the claim and supporting docs), stating creditor/attorney info, amount, secured status, and brief collateral description."
+        },
+        {
+          "number": 6,
+          "title": "Properly served and noticed claim as prima facie evidence",
+          "bodySha256": "69a207c1f643b59e685a44c95b2cc53718222c0f0bed6cd5de6d4964e1b679ff",
+          "reviewNote": "Provides that a claim properly noticed, executed, and served under this section constitutes prima facie evidence of the claim's validity and amount."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all six subsections and history note for 515.615. Replaced all six fabricated/shifted headings with actual statutory provisions covering general/limited receiver administration, pre-appointment claim bar, 30-day/60-day service deadlines, written Proof of Claim form and amendments, court Notice of Claim filing, and prima facie validity."
+    },
+    {
+      "id": "515.620:33735",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.620&bid=33735",
+      "sourceSha256": "9ba320aabd66613ac248420759d5d5b80a09f72442ff103d520275b85ef2adc5",
+      "textSha256": "af0f27a4c46d327a12192c51a19ad9a7bc108dc040facf92d72507fd8bdfa7b8",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Procedure for filing objections to creditor claims",
+          "bodySha256": "329f84a8e5d1b28e3c8ec893d0a32b3df56b15bb1e9049c0ab80fe5ddb1efb28",
+          "reviewNote": "Permits the receiver or any party in interest to file written claim objections before final-report approval, gives creditors thirty days to file suggestions, allows adjudication/hearing, and entitles non-disallowed § 515.615 claims to distribution."
+        },
+        {
+          "number": 2,
+          "title": "Mediation of claim objections; state claim exception",
+          "bodySha256": "0b59b9d067867534a8039501fac350ae09a7f50dc952fed663ecf54e26897cc3",
+          "reviewNote": "Provides that upon order of the court, general receiver, or objecting party in interest, a claim objection may be subject to mediation before adjudication, except state claims absent state agreement."
+        },
+        {
+          "number": 3,
+          "title": "Estimation of contingent, unliquidated, or equitable claims",
+          "bodySha256": "d81c626474a42ad180104bdfbc6d7044e7043edcd76edcafedb75220504f99cb",
+          "reviewNote": "Permits estimating contingent or unliquidated claims (whose liquidation would unduly delay administration) or equitable-remedy rights to payment upon motion, allowing them in the estimated amount."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all three subsections and subdivisions for 515.620. Replaced fabricated subsections 2 and 3 ('evidentiary hearing' and 'settlement/compromise') with actual statutory provisions on mediation of claim objections (with state exception) and estimation of contingent, unliquidated, or equitable claims."
+    },
+    {
+      "id": "515.625:33736",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.625&bid=33736",
+      "sourceSha256": "aa379cafb8e9292f79aade89f1ab3e60b402919fc7e0ca9643e5427cf98c499d",
+      "textSha256": "0319991416b39b1267fe3c3b971e8605d97120b83b371ddf636a91a047e06daa",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Statutory order of priority for estate distributions",
+          "bodySha256": "571718e8053e809bb8d968a9a22698223576540facf34cc3de2dfec800e40601",
+          "reviewNote": "Establishes the eight-tier priority order (pro rata for tiers 4-8) for distributing receivership claims; source footnote notes word 'section' appears in original rolls of H.B. 1765 and S.B. 578."
+        },
+        {
+          "number": 2,
+          "title": "Payment of remaining surplus to debtor",
+          "bodySha256": "261e3602a9bdf41f8a4c66770a4d03a30b33d0c0b6cb2488ca54c786b2c7b00d",
+          "reviewNote": "Directs that if all classes under subsection 1 are paid in full, any residue be paid to the debtor."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections, all eight priority subdivisions, and original-rolls footnote (*word 'section' appears in original rolls of H.B. 1765 and S.B. 578) for 515.625. Verified accuracy of both titles and documented the original-rolls note."
+    },
+    {
+      "id": "515.645:33740",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.645&bid=33740",
+      "sourceSha256": "8060b44659b3f14b0f6a03e7dfc8cebb8c3900b4646a713a307b35e36e2bad40",
+      "textSha256": "a28483d6e7b043807bc5e18cdc8f4cd51f5f27a17c7cb3935708f3a6bb75faf8",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Disposition of estate property outside ordinary course",
+          "bodySha256": "03d63e30648213fac5a71db3b852aaf243790f856007a3794ba0b486176150cc",
+          "reviewNote": "Permits the receiver, with court approval after notice and hearing, to use, sell, or lease estate property other than in the ordinary course of business."
+        },
+        {
+          "number": 2,
+          "title": "Sale of property free and clear of liens and redemption rights",
+          "bodySha256": "482ab8fa1af092627101a8a714eec358928f6a211eddfbe3373f8d16592c0c3b",
+          "reviewNote": "Permits court-ordered general-receiver sales free and clear of liens, claims, and redemption rights (with liens attaching to net proceeds), subject to agricultural/homestead consent and timely-opposition realization exceptions."
+        },
+        {
+          "number": 3,
+          "title": "Credit bidding rights of secured lienholders at public sale",
+          "bodySha256": "52a8385f4931429b7435850cfe7ab2c67fd7d3bcf24402c1b71b935411176824",
+          "reviewNote": "Permits a lienholder to credit bid at a subsection 1 public sale and offset its secured claim if paying cash for senior secured claims, with court-ordered security if the lien or claim is in bona fide dispute."
+        },
+        {
+          "number": 4,
+          "title": "Receiver rights and powers regarding co-owned property",
+          "bodySha256": "98580b124c8593643856a224ac249769d5c2f1d62763ac5bfe698aeb193cf80a",
+          "reviewNote": "Grants the receiver the rights and powers of a co-owner under applicable state or federal law, including partition rights, when estate property includes a co-ownership interest."
+        },
+        {
+          "number": 5,
+          "title": "Protection of good faith purchasers and lessees on appeal",
+          "bodySha256": "689d8b894939519cbee2f5fe02d45d1a5bddea58647367d5395cf9de1335141a",
+          "reviewNote": "Provides that reversal or modification on appeal of a sale or lease authorization does not affect validity as to a good faith purchaser or lessee unless stayed pending appeal."
+        },
+        {
+          "number": 6,
+          "title": "Mandatory terms in notice of proposed property disposition",
+          "bodySha256": "de7e63bd1db50777eadb2787cc1e0890a17f9c2481b44f8ba223903417aa0ca9",
+          "reviewNote": "Requires subsection 1 disposition notices to include the time and place of any public sale, terms and conditions of any private sale, and objection deadline, mailed to all parties in interest and others as required."
+        },
+        {
+          "number": 7,
+          "title": "Factors considered for sale free and clear of liens",
+          "bodySha256": "063af8645250ad3e51d292c326041d007bbcff0288e89c000bf322cbe434776c",
+          "reviewNote": "Lists six nonexclusive factors for evaluating whether a free-and-clear sale is in the estate's best interest: commercial reasonableness, appraisal support, adequate notice, buyer-debtor relationship, arm's length, and lienholder consent."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all seven subsections and subdivisions for 515.645. Broadened subsections 4 ('co-owned property', not just real property) and 5 (purchasers and lessees), and corrected fabricated review notes on subsections 6 and 7."
+    },
+    {
+      "id": "515.650:33741",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.650&bid=33741",
+      "sourceSha256": "38086a6215cab275b3635ac837f14c6335cd9ca1d9db0cf285a2dcb5e49592ab",
+      "textSha256": "ff217a2925a432975e7603fde652cac3b1f8133f7f56c8c9b95a9f7e71518fd2",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Missouri receiver authority to seek ancillary foreign receivership",
+          "bodySha256": "90b2ede8fbcef1dffa8856825db2d72404a16b839aa42553abc3a42a0727915f",
+          "reviewNote": "Permits a Missouri-appointed receiver, without prior court approval, to apply to an out-of-state court for ancillary appointment over estate property located in another jurisdiction when necessary."
+        },
+        {
+          "number": 2,
+          "title": "Ancillary appointment of foreign receiver over Missouri assets",
+          "bodySha256": "7b9c588db3346567f9178950f201e1b1fa2aed4869c95633cc5ae56048108578",
+          "reviewNote": "Permits a foreign state or out-of-state federal receiver (or interested party) to obtain ancillary appointment in Missouri, requires effectuating foreign orders not offensive to Missouri law/policy, and limits notice to what the 'superior court' requires."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and history note for 515.650. Verified accuracy of titles and noted the statutory phrase 'superior court' in archived subsection 2 text."
+    },
+    {
+      "id": "515.655:33742",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.655&bid=33742",
+      "sourceSha256": "65640119edf20545b880d886404ec6e491df63223c3bb9fbcb82465c30db9ca1",
+      "textSha256": "398a81531b200be52a07214df69d6c8ba123117f4ccf4d6e9d48f39d1d7137ee",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Removal or replacement of receiver for cause or court initiative",
+          "bodySha256": "5ffd9f5174f28bd7aabc49d2ac9070e5a35e42f2dcb04b58deec841ac52873a7",
+          "reviewNote": "Requires the court to remove or replace a receiver on application of the debtor, receiver, creditor, or party, or on its own motion, if the receiver fails to perform duties or obligations under sections 515.500 to 515.665 as ordered."
+        },
+        {
+          "number": 2,
+          "title": "Appointment of successor receiver upon vacancy",
+          "bodySha256": "2fc1ecdbeaf1b385bd712ae75163c1adacbc896e5c8af96b2a0e74af73da1378",
+          "reviewNote": "Requires appointing a successor receiver upon removal, resignation, or death if further estate administration is required, with immediate possession and assumption of duties."
+        },
+        {
+          "number": 3,
+          "title": "Discharge of removed receiver after accounting and turnover",
+          "bodySha256": "5b96e966c2dafa59d3a48b1d16928b3cfb3492504bb56a904ce51ad4782fe6d8",
+          "reviewNote": "Directs the court, after notice and hearing, to discharge a removed or replaced receiver from all further duties and responsibilities once satisfied of full accounting, turnover to the successor, and filing of receipts/disbursements report."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all three subsections and history note for 515.655. Corrected subsection 3 title/note (discharges the removed receiver from further duties/responsibilities, not a 'surety bond') and fixed subsection 1 note."
+    },
+    {
+      "id": "515.660:33743",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=515.660&bid=33743",
+      "sourceSha256": "d87b1b8901581fa6ab75ccd4a0e105f0e9217c8a1c542bb946d0a9a2b6cabc70",
+      "textSha256": "f5fccadcce91a9c394da159e239cf8923b9b65f77426e2de74f17757cee3f586",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Motion for discharge upon completion of receivership duties",
+          "bodySha256": "5e9777fa32cd71e9f1143cd107605725a923e139870bfd18bfbb22bcc2871f22",
+          "reviewNote": "Requires the receiver, upon distribution/disposition of all estate property or completion of duties, to move for discharge upon notice and a hearing."
+        },
+        {
+          "number": 2,
+          "title": "Final accounting and report of receipts and disbursements",
+          "bodySha256": "628cec2cb76e3f7fc9ef22650143f98300f2a9f331eb47722cc627dade0d725f",
+          "reviewNote": "Requires including the receiver's final report and accounting of all estate receipts and disbursements in the discharge petition filed with the court."
+        },
+        {
+          "number": 3,
+          "title": "Court approval of final report and formal discharge order",
+          "bodySha256": "f8cfa63d74428129d11d63d7f53ad90f73f4f1eedd09d7e7e0ecf903ab9e361b",
+          "reviewNote": "Directs the court to discharge the receiver upon approval of the final report."
+        },
+        {
+          "number": 4,
+          "title": "Release of receiver from further duties upon discharge",
+          "bodySha256": "98783f93cd14cb3fbe8fab6594271019ba35b38330402170544f7e8fc52f5be4",
+          "reviewNote": "Provides that discharge releases the receiver from any further duties and responsibilities as receiver under sections 515.500 to 515.665."
+        },
+        {
+          "number": 5,
+          "title": "Termination of receivership and wrongful procurement sanctions",
+          "bodySha256": "5de37b91c4e8cd25c3d65d00f12d4e6403a178674840ae965cc4950781caf400",
+          "reviewNote": "Empowers the court on party motion or its own motion to discharge the receiver and terminate administration, and permits assessing fees, costs, and sanctions against anyone who procured appointment wrongfully or in bad faith."
+        },
+        {
+          "number": 6,
+          "title": "Termination order operating as formal release of lis pendens",
+          "bodySha256": "45ffeef470e6b4440443d8afc1fbbd26586cbc6c8b6d35325fb4b38c6a60360a",
+          "reviewNote": "Provides that a certified copy of an order terminating administration operates as a release of any § 515.545 lis pendens notice and must be recorded in county land records with a legal description if not in the order."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all six subsections and history note for 515.660. Broadened subsection 5 title/note to include fee, cost, and sanction assessment for wrongfully procured or bad-faith receiver appointments."
+    }
+  ]
+}

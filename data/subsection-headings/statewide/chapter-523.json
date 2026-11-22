@@ -1,0 +1,569 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "523.010:51161",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=523.010&bid=51161",
+      "sourceSha256": "0e081f07da2864e3148c627869f75cc51a8522a49a3e19b5e0ef854255906af3",
+      "textSha256": "23f157c38e806d55f16129b09af22c340ececa37efeea0b70eca731c962a102b",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Condemnation authority and petition for public use appropriations",
+          "bodySha256": "1a432b968f5595dfbd734ab5816a7e3e2544a9cdae146596c5abe505bfe6ea7d",
+          "reviewNote": "Permits specified road, utility, pipeline, and public-use corporations to petition the circuit court for condemnation and appointment of three commissioners or a jury when compensation cannot be agreed upon."
+        },
+        {
+          "number": 2,
+          "title": "Conservators and remaindermen as parties defendant",
+          "bodySha256": "94eed21b392ec64eca9cdd7ea6aec9205431f3896ec5ff0f9359b52a795e1779",
+          "reviewNote": "Requires joining conservators when proceedings affect lands of persons under conservatorship, and permits optional joinder of next vested remaindermen whose interests are otherwise unbound."
+        },
+        {
+          "number": 3,
+          "title": "Actual possessors and record titleholders as defendant parties",
+          "bodySha256": "6ece8ad251a7eb3ac21a49f8f990b8be13e41bea64ba27e97718343f61f4ca8a",
+          "reviewNote": "Provides that persons need not be joined as defendants regarding ownership unless in actual possession claiming title or holding title appearing of record in the county."
+        },
+        {
+          "number": 4,
+          "title": "General restriction on utility condemnation of other utility property",
+          "bodySha256": "534942a1cabb97000c4eac62650466c068615a358adcd40b8cde8716f7fc4fee",
+          "reviewNote": "Except as provided in subsection 5, bars public utilities (§ 386.020) and rural electric cooperatives (ch. 394) from condemning property used by another utility provider for the same or substantially similar purpose."
+        },
+        {
+          "number": 5,
+          "title": "Conditions for utility condemnation of nonexclusive easement",
+          "bodySha256": "8c247a5d96cd8402f8b1aee3f115e928be0eb7abb65c2f1189c6680b4aba1b12",
+          "reviewNote": "Permits a public utility or rural electric cooperative to condemn another utility provider's property only for a necessary nonexclusive easement or right-of-way that does not materially impair current use or future expansion."
+        },
+        {
+          "number": 6,
+          "title": "Preservation of utility condemnation powers outside subsection 4",
+          "bodySha256": "afb4fddfec50779e815dbb273e2d6bdbbd9b52ca742527c01db16f8a01c76a17",
+          "reviewNote": "Clarifies that when a public utility or rural electric cooperative seeks to condemn another provider's property and subsection 4 conditions do not apply, this section does not limit otherwise possessed condemnation powers."
+        },
+        {
+          "number": 7,
+          "title": "Venue for inverse condemnation and dangerous condition suits",
+          "bodySha256": "1048269c3858a1a1e10676b0faa547d9b5b094a9b6ca16ca1957855ac823ad5a",
+          "reviewNote": "Requires inverse condemnation suits or suits involving dangerous conditions of public property against a municipal corporation under Article VI, Section 30(a) to be brought only in the county where the land lies."
+        },
+        {
+          "number": 8,
+          "title": "Eminent domain restrictions on merchant transmission lines",
+          "bodySha256": "853bb390f4359a2f8853abcc4f48d1cd29c330e448659dad2dde326fd5cc87a0",
+          "reviewNote": "Bars non-cooperative electrical corporations from condemning property for FERC negotiated-rate merchant transmission lines absent a Missouri substation/converter station delivering proportionate capacity; exempts pre-August 28, 2022 § 393.170 applications."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all eight subsections and 1976/1981/1989 annotations for 523.010. Replaced fabricated subsection 6 ('Public Service Commission approval') with actual preservation of condemnation powers outside subsection 4, and corrected subsections 2, 5, 7, and 8 to match full statutory scope."
+    },
+    {
+      "id": "523.039:51163",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=523.039&bid=51163",
+      "sourceSha256": "8fbfb87d2cc319e977f20f8ddf1009e92f9cd8a70fc9f725681f3bb6b99d5360",
+      "textSha256": "8e2c460591a7df9ef90932af8416de9d6463b44ae47f9d95d87bd6e886f9d29e",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Three statutory valuation methods for just compensation",
+          "bodySha256": "c555ce010e4cb007b8d0bdbc012b4b0acd27e11952b1f39647595a6408f48fae",
+          "reviewNote": "Establishes just compensation for post-December 31, 2006 takings as the highest applicable amount among fair market value, 125% for homestead takings, or fair market value plus heritage value for 50-year family-owned property."
+        },
+        {
+          "number": 2,
+          "title": "Agricultural and horticultural land compensation for electric plants",
+          "bodySha256": "7a46adaab31d5be5a6c1405020b3d761f0209216adbc705e8871651348720a09",
+          "reviewNote": "Sets just compensation at 150% of fair market value for agricultural or horticultural property condemned by non-cooperative electrical corporations for § 393.170.1 electric plants; exempts pre-August 28, 2022 applications."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections, subdivisions, and 2013 River Bend Estates annotation for 523.039. Refined subsection 2 to cover agricultural or horticultural property taken by non-cooperative electrical corporations for § 393.170.1 electric plants (exempting pre-August 28, 2022 applications)."
+    },
+    {
+      "id": "523.040:51164",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=523.040&bid=51164",
+      "sourceSha256": "46edf3f72774187d8b50b59ddd2dbee4acf9acd1977e982cfa4bd313c671cf29",
+      "textSha256": "96fb9b4e933bf51779b9228506e77775c5d319371bb92049811b7749550fbb58",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Appointment of commissioners, damage report, payment, and abandonment",
+          "bodySha256": "6057269c57c6a91a4f2f4c9e06a1b74319654a3fe33a3c3fcaa63422fc7454ab",
+          "reviewNote": "Directs appointment of three disinterested county-resident commissioners (with broker/appraiser requirement in specified jurisdictions), 45-day damage report, recording, payment, execution, and 10-day abandonment."
+        },
+        {
+          "number": 2,
+          "title": "Notice to property owners of commissioners viewing",
+          "bodySha256": "30528233481a34a2a3a2f2e67303b47d4c774782e79d33ab9fe3eb3676d95e04",
+          "reviewNote": "Requires a commissioner to notify all named parties at least ten days before viewing the property of their opportunity to accompany the commissioners and present information."
+        },
+        {
+          "number": 3,
+          "title": "Commissioners to view property, hear arguments, and review information",
+          "bodySha256": "7e4ac65e88fb308d3ebf2d6b48f18fb44b59ebb4cb2e33313fd5353d89f0bff0",
+          "reviewNote": "Directs the commissioners to view the property, hear arguments, and review other relevant information offered by the parties."
+        },
+        {
+          "number": 4,
+          "title": "Farmer commissioner requirement for agricultural electric plant takings",
+          "bodySha256": "7c1bedb49ef720e9b8eb0dbcec1450641e52476099660dfd8a094ef2ec2bd88a",
+          "reviewNote": "Requires at least one commissioner to be a farmer engaged in farming (§ 350.010) for at least ten years in the county in agricultural/horticultural takings for § 393.170.1 electric plants; exempts pre-August 28, 2022 applications."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all four subsections and 1973 St. Louis County charter annotation for 523.040. Replaced fabricated subsections 3 and 4, removed non-statutory word 'freeholder' from subsection 1, and corrected subsection 2 note (commissioner, not condemning authority, gives 10-day viewing notice)."
+    },
+    {
+      "id": "523.050:28005",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=523.050&bid=28005",
+      "sourceSha256": "80909bd51c870b10a07cd9f7b36e2f131af00f92b3cc73bcd1acbcaa19d728cd",
+      "textSha256": "b3140852dc9cee59b162715c297d908d0f3ef3a854a806a74792831bf4a7bbf7",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Notice of commissioners' report, exceptions, and court review",
+          "bodySha256": "169cc2edf93e7f92a3188ca9174c1a1730502c18732fdd8b94ec64ffd1c1c6b1",
+          "reviewNote": "Directs clerk notice of the filed report, allows written exceptions by either party within thirty days after service of notice, and permits court review and new appraisement for good cause."
+        },
+        {
+          "number": 2,
+          "title": "Jury appraisement, right to proceed, and majority report",
+          "bodySha256": "db218155956cd23992ba92d041e756504524f898fd63dcf1f83c6ad689028ab9",
+          "reviewNote": "Provides for jury new appraisement on either party's request, permits the company to proceed with construction pending exceptions, and treats a majority-signed commissioners' report as the report of all."
+        },
+        {
+          "number": 3,
+          "title": "Court determination of award percentages after ninety days",
+          "bodySha256": "205d7b433e8076a1fa7f7933d9f6482a95541a0e6726a5d70181885026256d1a",
+          "reviewNote": "Requires the court to determine each interested party's percentage of the award if no agreement or distribution motion is filed within ninety days after payment into court."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all three subsections and 1973 Texaco annotation for 523.050. Corrected shifted subsection 2 and fabricated subsection 3 (court determination of award percentages after 90 days without agreement or distribution motion)."
+    },
+    {
+      "id": "523.053:28006",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=523.053&bid=28006",
+      "sourceSha256": "d279e3c8c49a21ed1430d442298a180add6c3045e394aa39160f92fe2654ccd1",
+      "textSha256": "9f4c180d5722df17b3e78803fd9d031f25eb6e6c7ed68d20c926adfa40ebf5bb",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Defendant agreement, distribution motion, and plaintiff intervention",
+          "bodySha256": "90c02f484d0eb277c52e69919e0e37c34ad11285f2f03c592eee9e88967ac182",
+          "reviewNote": "Permits multiple defendants to file a division agreement within thirty days after award payment or move for distribution thereafter, with plaintiff's right to prior notice and intervention."
+        },
+        {
+          "number": 2,
+          "title": "Thirty-day court determination of award shares and right of appeal",
+          "bodySha256": "3866eb90e59a6f8135132142636ff5825527783118a3cf44c814870d84dc2d85",
+          "reviewNote": "Directs the court to determine each party's percentage within thirty days of a distribution motion and grants aggrieved parties a right of appeal as from a final judgment."
+        },
+        {
+          "number": 3,
+          "title": "Finality of determined shares and extension to later award changes",
+          "bodySha256": "3df68c6c9b62e2c1ed5d0f67a7c46dc3e148c719a13b8a1b4fd61f9aafcdb6b0",
+          "reviewNote": "Makes determined shares final, binding on all parties, and applicable by percentage to any later increase, reduction, or interest on trial of exceptions, with a proviso for fixed non-value-related interests."
+        },
+        {
+          "number": 4,
+          "title": "Inadmissibility of interest determination before jury on exceptions",
+          "bodySha256": "32e36469282bcd8bb615a804bf4004a2e39a29a362966d09d34d9d7b235174e4",
+          "reviewNote": "Bars admission of any evidence relating to the terms of the determination of interest before the jury on the trial of exceptions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all four subsections and history note for 523.053. Replaced fabricated subsections 3 and 4 and aligned subsections 1 and 2 with 30-day agreement/motion, plaintiff intervention, 30-day court determination, appeal as final judgment, finality across later award changes, and jury inadmissibility."
+    },
+    {
+      "id": "523.060:28008",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=523.060&bid=28008",
+      "sourceSha256": "5ef492abacf61b52a04d9045ed2d0ea43484fc40c053e5dcf4eb83ed80043085",
+      "textSha256": "9186ea01cd478910dfba4e2937d1d91a8e1bded56573642fa23b02384f6f433e",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Right to twelve-person jury trial on exceptions to commissioners award",
+          "bodySha256": "44b701a4f3a198717054cdd3dae0f3da2c1694d0be59a0f219607d7bf8c8a302",
+          "reviewNote": "Grants any individual or corporate plaintiff or defendant the right to a twelve-person jury trial if either party files exceptions to the commissioners' award."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory jury application of statutory fair market value definition",
+          "bodySha256": "4b1f90bb3ff787e0091360ae7d75ea74fa880686921ac8e77e1218036940bacb",
+          "reviewNote": "Requires the jury to apply the definition of fair market value provided in section 523.001(1)."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and history note for 523.060. Verified accuracy of both titles and notes."
+    },
+    {
+      "id": "523.205:28015",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=523.205&bid=28015",
+      "sourceSha256": "0891804bd5ea7b885e5b924e04bc19c0ec426737b27b0f513411254c8ea2c06e",
+      "textSha256": "9badf4e796f4f04963df96aa211c746a1331a7b7bb02e566cb98058820ac134e",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Relocation assistance required for state- or locally funded projects",
+          "bodySha256": "5f64bac2aafc09833e4433a4c4eb5e93bed1601f273db23e7b35f6c6d0972dac",
+          "reviewNote": "Authorizes and directs public agencies (§ 523.200) required to provide relocation assistance for federally funded projects to give similar assistance for same-purpose acquisitions funded solely by state or local funds."
+        },
+        {
+          "number": 2,
+          "title": "Relocation assistance duties for political subdivisions and chapter 353 entities",
+          "bodySha256": "8116562baee14d083241a643d5e2bccc086b02b05e3ba44894602ed71d14e843",
+          "reviewNote": "Requires political subdivisions, governmental entities, and chapter 353 corporations initiating condemnation displacement not covered by federal law or subsection 1 to adopt a relocation policy meeting subsections 2 to 15 or federal equivalents."
+        },
+        {
+          "number": 3,
+          "title": "Definitions for relocation assistance section",
+          "bodySha256": "fec58094b1687a3e3b068b0cff0be0cd1d9fb368a2b400aec4659f104a733a5f",
+          "reviewNote": "Defines 'business', 'decent, safe and sanitary dwelling', 'handicapped person', and 'person' for purposes of this section."
+        },
+        {
+          "number": 4,
+          "title": "Mandatory relocation plan submission by urban redevelopment corporations",
+          "bodySha256": "2d1cc45844f45cd78c73fb9f5b7e7048ef48a55ee311a149df6d53e8fc7dcf4c",
+          "reviewNote": "Requires every urban redevelopment corporation acquiring property within a redevelopment area to submit a relocation plan as part of the redevelopment plan."
+        },
+        {
+          "number": 5,
+          "title": "Minimum standards for state relocation plans under economic development chapters",
+          "bodySha256": "6635db5f355b8d16e0c34f8164631a9b0445df8de464932f40d734d602f7440a",
+          "reviewNote": "Sets mandatory relocation plan elements under chapters 99, 100, and 353 (unless federal standards or subsection 1 apply), including 90-day occupant payments, special-needs identification, required notices, three referrals, and 90-day vacate notice."
+        },
+        {
+          "number": 6,
+          "title": "Optional relocation payment formulas for displaced residential occupants",
+          "bodySha256": "9db64bbd7951f3e97134511c7c8d8d4efb6e19832835647c313a5fcd029539f6",
+          "reviewNote": "Gives eligible displaced residential persons the option of a $1,000 fixed moving payment or actual reasonable relocation costs (excluding replacement property or capital improvements)."
+        },
+        {
+          "number": 7,
+          "title": "Optional relocation payment formulas for displaced commercial businesses",
+          "bodySha256": "f827670932fc88d6b300fc0f5acfebe3453f10cc3823adf4483342122bb5c802",
+          "reviewNote": "Gives eligible displaced businesses the option of a $3,000 fixed moving payment or actual moving costs, plus up to $10,000 for physical-improvement reestablishment expenses."
+        },
+        {
+          "number": 8,
+          "title": "Advance hardship payments, thirty-day payment, and claim deadlines",
+          "bodySha256": "2a0c8ec9e97972d5b16af49ffa5e32edd710735c608c5a6043c93c07be507def",
+          "reviewNote": "Requires advance hardship relocation payments with safeguards, payment of satisfactory claims within thirty days of documentation, and claim filing within six months of displacement (or final property payment for owners, if later)."
+        },
+        {
+          "number": 9,
+          "title": "Written waiver of relocation payments by owner-occupants",
+          "bodySha256": "f1f86e7bfd1782ada1fb87251a7318bbc9aafb1dc8879195472ef70aaa555aee",
+          "reviewNote": "Permits a displaced owner to waive relocation payments in writing filed with the acquiring agency during negotiations, without waiving notice or subsection 5(2)-(3) program provisions."
+        },
+        {
+          "number": 10,
+          "title": "Written notice of relocation assistance availability",
+          "bodySha256": "d0bd9487dd6b1f25bb37633ecdd58f7b715860edc7a56cfef8ea5ad22257dc0c",
+          "reviewNote": "Requires written notice of available relocation payments and assistance to be given to eligible persons concurrently with the subsection 5(4) notice of referral sites."
+        },
+        {
+          "number": 11,
+          "title": "Relocation compliance report by urban redevelopment corporations",
+          "bodySha256": "b2538c7c3ad09a7b0e54528fe88015fd225753b391bad3429741bcaf2015f6d0",
+          "reviewNote": "Requires assisted urban redevelopment corporations and assigns to report to the local governing body or agency occupied residential addresses, displaced persons' names/addresses, benefits provided, and sample notices."
+        },
+        {
+          "number": 12,
+          "title": "Ineligibility for tax abatement upon relocation noncompliance",
+          "bodySha256": "c4dac548e3ca8131a81866e9df99f678b0e98b178d284697ab9b4fc8c705fe7c",
+          "reviewNote": "Makes any urban redevelopment corporation failing to comply with this section's relocation requirements ineligible for chapter 353 tax abatement."
+        },
+        {
+          "number": 13,
+          "title": "Local authority to adopt more generous relocation standards",
+          "bodySha256": "cec0d80e9a38471dec320b912058f43064b5bfd5864cb88fed387c9ad069bf10",
+          "reviewNote": "Treats this section's requirements as minimum standards and authorizes the local governing body or public agency reviewing chapter 99, 100, or 353 plans to require additional elements."
+        },
+        {
+          "number": 14,
+          "title": "Disqualification of persons locating solely for relocation benefits",
+          "bodySha256": "7e4378c7ee8c2c8be0e9505ad22794f3be18bb0d89d3c9d2c8cc595959c8a815",
+          "reviewNote": "Bars relocation assistance to any person who purposely resides or locates a business in a redevelopment area solely to obtain relocation benefits."
+        },
+        {
+          "number": 15,
+          "title": "Applicability dates for redevelopment and condemnation acquisitions",
+          "bodySha256": "c68c1f98c5675eb1385ac3b21533dbd784ee4e545bae82b76fa2358740cc82ac",
+          "reviewNote": "Applies sections 523.200 and 523.205 to chapter 99, 100, or 353 acquisitions filed, approved, or amended on or after August 31, 1991, and to other political subdivision/governmental condemnations initiated after December 31, 2006."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all 15 subsections, subdivisions, and history notes for 523.205. Corrected subsection 1 (state/locally funded projects by agencies subject to federal relocation duties), subsection 3 (four defined terms, excluding 'displaced person'), subsection 8 (hardship advances, 30-day payment, and 6-month claim deadlines), subsection 10 (concurrent with referral-site notice), subsection 11 (removed fabricated 'annual' and 'grievance resolutions'), and subsection 15 (August 31, 1991 and post-December 31, 2006 dates)."
+    },
+    {
+      "id": "523.250:28018",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=523.250&bid=28018",
+      "sourceSha256": "3d005ad04e33b1666c9db78f02d1485d2dea8746d6a856aa73de8b7892d9baa6",
+      "textSha256": "ab8c6eb72087eae724341808ef095ff7a1608984ad0f7887966bbfe8935569da",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Sixty-day written notice of intended acquisition prior to condemnation",
+          "bodySha256": "f39394a102186beeb964d127d388d4a7988b2eee30992aa4447c024d8f654a1f",
+          "reviewNote": "Requires condemning authorities to provide record owners written notice of intended acquisition and enumerated rights (including §§ 523.277 and 527.188) at least sixty days before filing, subject to signed owner waiver."
+        },
+        {
+          "number": 2,
+          "title": "Certified or registered mail delivery for acquisition notice",
+          "bodySha256": "6ed7a6c7c20e8b0ed20ed17b3d7e8eec8d9dfa7f1351d595ee1ca2c2dcc7b1d8",
+          "reviewNote": "Requires mailing the notice postage prepaid by certified or registered mail to the record owner listed in the city or county assessor's office, with postal receipt or other competent evidence proving compliance."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections, subdivisions, and cross-references (§§ 523.277, 527.188) for 523.250. Verified accuracy of titles and refined notes."
+    },
+    {
+      "id": "523.253:28019",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=523.253&bid=28019",
+      "sourceSha256": "8e711c00313fc4a9e9529a4a60546833d8dd03823fc0e695cdfb911e42f27d0b",
+      "textSha256": "cb06639c7e98244414a09cab6aea5bc5d8329e0e8a2a300c35d06cd320a2aa86",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written offer presented at least thirty days before petition filing",
+          "bodySha256": "795d91caedb320ac6b8cbac51b6362b266d9f03435a12f4e81c0188947d4290c",
+          "reviewNote": "Requires a written offer to all record owners by certified or registered mail at least thirty days before filing a condemnation petition, held open thirty days unless agreed sooner, without barring negotiation."
+        },
+        {
+          "number": 2,
+          "title": "Appraisal or financial valuation data disclosure with written offer",
+          "bodySha256": "d3b9430ee3df3f515d2721889bb48ac51be424349f8c5c68a16f10850fe7be00",
+          "reviewNote": "Requires providing an appraisal by a state-licensed or state-certified appraiser or an explanation with supporting financial data for the offer's valuation at the time of the offer."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and subdivisions for 523.253. Verified accuracy of titles and refined notes."
+    },
+    {
+      "id": "523.259:28021",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=523.259&bid=28021",
+      "sourceSha256": "0fd4068c450d4d61b3dd9ff4ae7791d1187316724c489ec0bb19cb88f114fe93",
+      "textSha256": "51991616ea5d15b6aba9c18b2f762214e9847e9c1634d4201e72127ac9a1c93f",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Recovery of attorney fees and damages upon condemnation abandonment",
+          "bodySha256": "a1ce2ec1de6745fb2327ba08e3a810f178e9b61d110fe9a313a407153b7ccd11",
+          "reviewNote": "Entitles owners upon condemnation abandonment to reasonable attorneys' fees, expert expenses, and costs, plus the lesser of proven direct/proximate actual damages or redevelopment-plan abandonment damages."
+        },
+        {
+          "number": 2,
+          "title": "Applicability to redevelopment plans entered after December 31, 2006",
+          "bodySha256": "d02e60f1c162c0edd214430faa83ac4391c15ee81b18a07e069d6594503a3993",
+          "reviewNote": "Limits this section to redevelopment plans or agreements entered into after December 31, 2006."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and subdivisions for 523.259. Verified accuracy of titles and refined notes."
+    },
+    {
+      "id": "523.262:28023",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=523.262&bid=28023",
+      "sourceSha256": "c8015abe6878924f9fb97988ae5f8e781f1bf40527e405b1a1a02a293235449c",
+      "textSha256": "50f1b9de1d51a3f0138d5d9df23580d78e85b8e6786cbcb4a9bbbe7f1a68b4fc",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Eminent domain power restricted to elected or appointed governing bodies",
+          "bodySha256": "48b1d962ad2b40ab1b4943c8dc15313e3c3a16c3cb21b4b9deea31ded9d00283",
+          "reviewNote": "Except as in subsection 2, vests eminent domain only in governmental bodies whose governing body is elected or appointed by elected officials, or urban redevelopment corporations under agreements executed on or before December 31, 2006."
+        },
+        {
+          "number": 2,
+          "title": "Delegated eminent domain authority for utilities and common carriers",
+          "bodySha256": "9c673cbdb79da619ad24a931d8d9a8da4778b56686c3d6b424c25d15e1fd8fe1",
+          "reviewNote": "Preserves statutory eminent domain for listed utilities, pipelines, railroads, and common carriers (excluding motor/contract carriers and express companies), applying § 523.205(3) and (6)-(10) relocation rules unless federal law applies."
+        },
+        {
+          "number": 3,
+          "title": "Public notice requirements for power generation facility condemnation",
+          "bodySha256": "a1d1e1aed484b201ecfdd338801579745375102518333c016ac2c1720be7b66e",
+          "reviewNote": "Requires entities condemning property for post-December 31, 2006 power generation facilities either to publish newspaper notice and hold a pre-offer public meeting or to notify the owner of identity and purpose at initial offer."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all three subsections and cross-references (§§ 523.200, 523.205) for 523.262. Verified accuracy of titles and refined notes to include pre-2007 redevelopment agreements, common carrier exclusions, and alternative initial-offer notice."
+    },
+    {
+      "id": "523.271:28025",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=523.271&bid=28025",
+      "sourceSha256": "a0017b1b612a3d72cb443632ed7048fceb9487f38e1d3b66f7dd73173af18f72",
+      "textSha256": "2a41bc01b9d349ec1b388121fd85213b08b7dac11b158516e1f67bb83b794324",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition on exercising eminent domain solely for economic development",
+          "bodySha256": "6a2cf87b2bbb4c0c71d8c860fe2a57cb8ba1387572cb30f2b2e3ffdd2d3e5226",
+          "reviewNote": "Prohibits any condemning authority from acquiring private property through eminent domain solely for economic development purposes."
+        },
+        {
+          "number": 2,
+          "title": "Statutory definition of economic development purposes",
+          "bodySha256": "4b6ebe0bf97c3891392a27358f556753966638d1e2caf408b7aa8c333d0f5b7e",
+          "reviewNote": "Defines 'economic development' as use increasing tax base, tax revenues, employment, and general economic health, excluding elimination of blighted, substandard, unsanitary, or § 99.805 conservation area conditions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and cross-reference to § 99.805 for 523.271. Verified accuracy of titles and refined subsection 2 note to include blight/conservation exclusions."
+    },
+    {
+      "id": "523.274:28026",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=523.274&bid=28026",
+      "sourceSha256": "94cb13404ec6e49b15613becc1ba75b001e50b9bd41b4b387c0a47a7ce30638b",
+      "textSha256": "b9e036797fa7c5c1b55e56cead211ea9a16a4922234a06015fdb016d5755356e",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Individual parcel consideration in blighted area condemnations",
+          "bodySha256": "40c996b78fa7542b281c5aee9f8ac28c814ee8a8e2275c4d9aca25ac3ce43cc5",
+          "reviewNote": "Requires individual parcel consideration for blight-based eminent domain, permitting condemnation of any parcels in a defined redevelopment area upon finding a preponderance of the area is blighted."
+        },
+        {
+          "number": 2,
+          "title": "Five-year limitation on eminent domain within redevelopment areas",
+          "bodySha256": "f18bde3265e88d91ab1b4fa65f0197a4977aeb307e6a8686c884d2964766fb0c",
+          "reviewNote": "Bars commencing eminent domain actions more than five years after the legislative blight, substandard, unsanitary, or § 99.805 conservation determination, unless renewed for successive five-year periods."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and cross-reference to § 99.805 for 523.274. Verified accuracy of titles and refined notes to include preponderance finding and five-year legislative renewals."
+    },
+    {
+      "id": "523.282:28028",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=523.282&bid=28028",
+      "sourceSha256": "81911184e30551f9c061ec77a41e1838144bc6c57db7d1ae72bae2d27af7a7ba",
+      "textSha256": "64133381697af2bcab1a95412bf3ac22facb90116bfef0cc010a36cadec4b501",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Blanket easements created after December 31, 2006 declared void",
+          "bodySha256": "6da313c62a788f2194f87d77b49034cece34cf57a3013caba0da15c84f9e0026",
+          "reviewNote": "Declares blanket easements created after December 31, 2006 void and unenforceable and defines 'blanket easement' as a condemnation or in-lieu easement allowing undefined facility locations."
+        },
+        {
+          "number": 2,
+          "title": "Exemption for easements defining boundaries upon construction completion",
+          "bodySha256": "e4b8d140c6733cc3e315ea24957fe47bed363765e23d32ee1988c353c7ac9386",
+          "reviewNote": "Exempts instruments expressly fixing burden, scope of use, and footprint to the degree occupied by the initial structure upon completion, and allows explicitly described expansions or upgrades."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and history note for 523.282. Corrected subsection 2 note to remove unsupported 'recordation of precise surveyed descriptions' and match explicit fixing of burden, scope, and footprint upon initial structure completion."
+    },
+    {
+      "id": "523.283:28029",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=523.283&bid=28029",
+      "sourceSha256": "7fc5133671a4210c385593df797e290689adc51a4c3064c665fbf6e13646629c",
+      "textSha256": "3f5f261812ee81cb269ffe26400031411aeb6dc4133968c528703151fea710e8",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Utility easements fixed by acquired use; expanded use requirements",
+          "bodySha256": "785d82aad7fcda959a95eb83ca3b1f1a815eb3b9f31da41bbb6ecf04cce75e28",
+          "reviewNote": "Fixes post-August 28, 2006 utility/pipeline/railroad easements by the particular use described in the conveyance or petition and requires additional condemnation or new negotiations and compensation for expanded use."
+        },
+        {
+          "number": 2,
+          "title": "Statutory definition of expanded use of utility easement",
+          "bodySha256": "dac1395d9895e43c88e8b0ff56e8c48a5a3dc24eb714bbf8ea2a6ce02a2296bb",
+          "reviewNote": "Defines 'expanded use' as excluding the owner from a greater area than originally described or an increased footprint or burden presenting a different use or unreasonably burdensome impact."
+        },
+        {
+          "number": 3,
+          "title": "Valuation assumption that condemnor exercises all petition rights",
+          "bodySha256": "2e6d73328222b24345478fd6072617ecb6c6f7fa321b27c0ce1e8bdcac55d2dc",
+          "reviewNote": "Entitles § 523.040 commissioners and juries on exceptions to assume, in assessing just compensation, that the condemning authority will exercise every right acquired to the fullest extent allowed by the petition."
+        },
+        {
+          "number": 4,
+          "title": "Prevailing property owner may recover attorney fees and costs",
+          "bodySha256": "f727260778d8bcd011df6a08fd76d4d3b051383a3b68b5774e0143a679933751",
+          "reviewNote": "Provides that a property owner prevailing in a trespass or expanded-use action against a listed utility, pipeline, or railroad may be awarded reasonable attorneys' fees, costs, and expenses."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all four subsections and subdivisions for 523.283. Corrected subsection 1 (fixed by described acquired use, not constructed use), reversed fabricated subsection 3 ('point-to-point' -> fullest extent of petition rights), and restored permissive 'may' in subsection 4."
+    },
+    {
+      "id": "523.286:28030",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=523.286&bid=28030",
+      "sourceSha256": "7355c95df1efbd76172bf2b47f16e0492abac0ebb2b17289b0b692b29788e053",
+      "textSha256": "98b75057f4be3e792500e2c1e5523813224763cfc444bd8e9299c4e2ca6a1e88",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition on declaring farmland blighted for eminent domain",
+          "bodySha256": "3abd87ca6e5e7d405b5641117ee95b902934df397d3c494addb172e9d6c51a8c",
+          "reviewNote": "Prohibits any condemning authority from declaring farmland blighted for purposes of exercising eminent domain."
+        },
+        {
+          "number": 2,
+          "title": "Statutory definition of farmland and forest cropland",
+          "bodySha256": "c745cfbe207528037cc21ab24cba66dd24a2378c745795390009f33c4fcf565a",
+          "reviewNote": "Defines 'farmland' for this section as forest cropland, agricultural/crop/livestock/horse/dairy land with customary farm structures, and land under federal soil conservation or agricultural assistance agreements."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked both subsections and history note for 523.286. Verified accuracy of titles and refined subsection 2 note to include livestock/horses, dairy, farm buildings, and federal soil conservation/agricultural assistance land."
+    }
+  ]
+}

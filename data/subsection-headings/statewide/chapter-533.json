@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "533.030:28300",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=533.030&bid=28300",
+      "sourceSha256": "2715b4886d2adea8a326c6234393b120d1efd046620ddc46f7a26cb4ed5ea281",
+      "textSha256": "a0b4790fd4c3efe71e94c8dc88545b5a0a67c3bb5ea38cda2e198a9bcc404530",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Surety bond delivery to sheriff before property seizure in replevin",
+          "bodySha256": "b6791a11cd8b086a41c23ca145c75407146c2bfd83c4167a97359c63aa37b76d",
+          "reviewNote": "Prohibits the sheriff from taking property until the plaintiff delivers an approved bond with two or more sufficient sureties in double the affidavit value covering prosecution, return, assessed value, damages, and costs."
+        },
+        {
+          "number": 2,
+          "title": "Pledge of federal bearer securities as replevin bond",
+          "bodySha256": "ca036cbf9613fd85240e3791ccfb5d0203d3fbf9f65f8ba6b4c4b0f7c6f241de",
+          "reviewNote": "Permits a financial institution or any person, firm, or corporation to pledge unencumbered U.S. government or agency bearer securities segregated in another authorized depository institution as a replevin bond."
+        },
+        {
+          "number": 3,
+          "title": "Required affidavit contents accepted as replevin bond",
+          "bodySha256": "d5414bf86368bc58700543df1123e95f8d4e798ea2f07faa367ef48f59cb8bb9",
+          "reviewNote": "Requires the court and sheriff to accept bond affidavits containing case style, bond amount, depository institution details with depository affidavit, and a prosecution-without-delay statement referencing section 533.110."
+        },
+        {
+          "number": 4,
+          "title": "Obligations and discharge of pledged replevin bond and affidavit",
+          "bodySha256": "4cda9b357ef95ad817012d73ab4741f0d7166612f52edc97a555d10830b9f1ba",
+          "reviewNote": "Requires parties filing a subsection 2 bond and affidavit to return property or pay assessed value, damages, and costs as ordered, and voids the bond and affidavit upon final dismissal or payment of expense under section 533.120."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all four subsections, subdivisions, cross-references (§§ 533.110, 533.120), and history notes for 533.030. Refined subsections 3 and 4 to accurately cover accepted bond affidavits and discharge upon dismissal or payment."
+    }
+  ]
+}

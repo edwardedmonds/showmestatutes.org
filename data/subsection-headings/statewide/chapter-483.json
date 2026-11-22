@@ -1,0 +1,607 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "483.015:26843",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=483.015&bid=26843",
+      "sourceSha256": "b5d52d683b49044a757f11eb97ce93484bd1a5992d34277534fe344fb2a32edf",
+      "textSha256": "12330731c6b1812978749a7dd49eead8d355657a17b1fdea04c86d44431c5fcd",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Election, governor commission, and four-year terms of circuit clerks",
+          "bodySha256": "17903179db25d082a0cc37249e765659d13b2fa5b111c95a8a2ae9e5c1d1f56c",
+          "reviewNote": "Provides for countywide election of circuit clerks every four years beginning 1982, gubernatorial commission, January 1 start, and four-year terms."
+        },
+        {
+          "number": 2,
+          "title": "Court administrators and circuit clerks under county charter governance",
+          "bodySha256": "c74af2fd8be2759ffd45371dd4d24db6b8330ebff82834c6c8a700ce0c29b537",
+          "reviewNote": "Governs selection of court administrator in Jackson County and circuit clerk in St. Louis County under charter."
+        },
+        {
+          "number": 3,
+          "title": "Charter appointment provisions prevailing over statutory elections and state funding",
+          "bodySha256": "a864090e23e8e37508f6fbdf50b9e4a7e2dd7ac325fed0f08c327407ccf40abf",
+          "reviewNote": "Provides that charter appointment provisions prevail over statutory elections, mandating equivalent state salary reimbursements."
+        },
+        {
+          "number": 4,
+          "title": "Appointment and en banc removal of circuit clerks in sixth and seventh circuits",
+          "bodySha256": "cb03a831ba8af966dd71835a53a0b82d695d2c93a79d344adbc8ced8dce2aed2",
+          "reviewNote": "Authorizes en banc appointment and for-cause removal of circuit clerks in sixth and seventh judicial circuits."
+        },
+        {
+          "number": 5,
+          "title": "Appointment and en banc removal of circuit clerk in twenty-second circuit",
+          "bodySha256": "fcef6577b08b628882a16a64c9e62d568ee737e83e8083320696582a58aab57a",
+          "reviewNote": "Authorizes en banc appointment and for-cause removal of circuit clerk in the City of St. Louis."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 5 subsections; refined subsection 1 title to match countywide clerk elections, gubernatorial commissions, and charter/en banc selection exceptions."
+    },
+    {
+      "id": "483.075:35256",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=483.075&bid=35256",
+      "sourceSha256": "4d9c28a8901786418e55641d4802229f17c37c260d084451807f9d5b2623b682",
+      "textSha256": "f259ab1b7dfc6befcf8eba5b3fb28f89075b32ec8f048d5abe52522de38d7cf9",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "General duties of court clerks to record proceedings and process funds",
+          "bodySha256": "c3b555ad1ff87fa791c42bce1a12ef280e76868552eff6c2a2c0c339ebfc22a5",
+          "reviewNote": "Requires clerks to record court proceedings, attest process under seal, keep cost accounts, and punctually pay over funds."
+        },
+        {
+          "number": 2,
+          "title": "County commission clerk duties when circuit clerk is party to action",
+          "bodySha256": "7067fb61c58fe2b6784ec193f2600cdbe3b88aa570bc1282988ace0f5056cdb1",
+          "reviewNote": "Directs county commission clerk to act as temporary circuit clerk when circuit clerk is a party, excluding expungements."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on general clerk recordkeeping/cost duties and county commission clerk replacement when circuit clerk is a party (except expungements)."
+    },
+    {
+      "id": "483.082:26852",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=483.082&bid=26852",
+      "sourceSha256": "0f8e292485cfea4e1db44e41bfa15b9364af6c080532b841fa72c7238ea6023c",
+      "textSha256": "05c3d212b5cf81c8c1dd2d26567f6ad472c061836dc2dff16a73add26e8d2606",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Court clerk recordkeeping duties under supreme court rules",
+          "bodySha256": "c84c267f6fbc42796f4aa0853eede77ab66a0bbc00d7068a54540bd101907470",
+          "reviewNote": "Mandates keeping court records, case dispositions, cost collections, and trial calendars pursuant to supreme court rules."
+        },
+        {
+          "number": 2,
+          "title": "Implementation of modern recordkeeping systems approved by supreme court",
+          "bodySha256": "14d32100e712f86786fa2b02bcb7edbb764fa8167d312ebbcdbb894e115a8344",
+          "reviewNote": "Empowers clerks to utilize improved modern recordkeeping techniques and systems as approved by supreme court rule."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections requiring court clerks to maintain records and modern recordkeeping systems as directed by supreme court rule."
+    },
+    {
+      "id": "483.083:57533",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=483.083&bid=57533",
+      "sourceSha256": "4a41a13414a5b8575de24555af77a2c0460af3938b3567783e4c25c541f65571",
+      "textSha256": "898d01c0301e7959d2bed2f9be1d3294c09c38e593a2d4a939a02c5b04426706",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Base salary schedule for circuit clerks by county classification",
+          "bodySha256": "f64fce191de752601f0252dd00b8dbc40c79728cc3f21a6632e41a34eb89bed8",
+          "reviewNote": "Establishes circuit clerk base salaries across county classifications with increases effective September 1, 2025."
+        },
+        {
+          "number": 2,
+          "title": "Annual salary adjustments under judicial personnel compensation plan",
+          "bodySha256": "d3ff7b31dc99b9930465fc14c3ef3d1b8962cd3d692666359bc532ffe6fc1bcb",
+          "reviewNote": "Entitles circuit clerks to annual salary adjustments approved pursuant to section 476.405."
+        },
+        {
+          "number": 3,
+          "title": "Installment payments, state employee status, and charter county funding",
+          "bodySha256": "cdc0a130f6c995345a78cfdc25f773c752fc0b1b057fe8a107bc41d14e7ce5a3",
+          "reviewNote": "Provides for monthly state salary payments and state employee status, with charter county reimbursements."
+        },
+        {
+          "number": 4,
+          "title": "Salaries in lieu of fees and remittance of collected fees",
+          "bodySha256": "dc37b58cee553c487dae2ec815f93c7161f05cef709e0883ab2c1c0e0520a967",
+          "reviewNote": "Specifies that clerk compensation is in lieu of fees, requiring all collected fees to be remitted to state or county."
+        },
+        {
+          "number": 5,
+          "title": "Appropriation requirement for salary adjustment effectiveness",
+          "bodySha256": "e9d34ff31a96696f15676b4baae0295d742725f878c79d90c6e53e2fbf50fd29",
+          "reviewNote": "Conditions effectiveness of salary adjustments on approval of full funding appropriations by general assembly and governor."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 5 subsections and Appendix D salary index note covering pre- and post-September 1, 2025 base salaries, section 476.405 adjustments, state employee status, and appropriation condition."
+    },
+    {
+      "id": "483.160:26862",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=483.160&bid=26862",
+      "sourceSha256": "f855680ca4dcd7d662900e2e3765f73621cfb059a492a593251cfef0f13b3c8a",
+      "textSha256": "85237aa11a38e8fa388b71c9f6d8d2d512fff484f7cbfe0dd6ac53c784e9e9ae",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Clerk duty to maintain report catalogue and deliver to successor",
+          "bodySha256": "4a27b22a304e2118c8e8a2ea95ad05b69bafdb6d11955f13e301f5051eb80a03",
+          "reviewNote": "Requires court clerks to maintain an official catalogue of state reports and deliver all reports to successors."
+        },
+        {
+          "number": 2,
+          "title": "Treble damage liability on clerk bond for failure to deliver reports",
+          "bodySha256": "33aaad0058f6f6dbe33c59c7f727adb1adad67257b4f4f0a458f5387c65feb93",
+          "reviewNote": "Directs legal action on clerk bond for treble the value of reports not delivered to successor."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections requiring clerks to catalogue and deliver reports to successors with treble-value bond liability for failure."
+    },
+    {
+      "id": "483.163:26863",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=483.163&bid=26863",
+      "sourceSha256": "b8c44fe29f12f08748023e1ab3bffec4e69e1495a7cae018824a87da2f0175b5",
+      "textSha256": "0806b4e3ac46a5b38b4714d9e96c529dc248318b403abf43d9e6981a2a34fe63",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Circuit clerk cooperation in criminal nonsupport investigations",
+          "bodySha256": "fe4bf321159d2e9f293500ed097efe29a5331ec4a8508b49f71eeec41ebeb9b3",
+          "reviewNote": "Requires circuit clerks outside St. Louis City to cooperate with prosecutors and family support division on nonsupport cases."
+        },
+        {
+          "number": 2,
+          "title": "Additional annual compensation of five thousand dollars for nonsupport duties",
+          "bodySha256": "a7089f9a09da3b3e235d1dbd96d3e6854583dbde591c645656edd9e87382a091",
+          "reviewNote": "Provides five thousand dollars additional annual compensation to circuit clerks for nonsupport investigation duties."
+        },
+        {
+          "number": 3,
+          "title": "Annual salary adjustments for criminal nonsupport compensation",
+          "bodySha256": "c043bff9cf11f4256c939ce8d1f6e7f0aadb1f32cc967460b15173a1b7eaf5f9",
+          "reviewNote": "Applies section 476.405 salary adjustments annually to nonsupport duty compensation beginning July 1, 1998."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections on circuit clerk criminal nonsupport cooperation outside St. Louis City, $5,000 annual pay, and section 476.405 adjustments."
+    },
+    {
+      "id": "483.170:26865",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=483.170&bid=26865",
+      "sourceSha256": "7bdc0d066733e0febafc37cb38aee8d9eb0bcd7c3d7100d5da8a87ff9b62285f",
+      "textSha256": "d74dbec3814b0f4c25ed7ee4a44aefa77903f823997172496dd199f839b41c97",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Notice and suspension of court clerk charged with misdemeanor in office",
+          "bodySha256": "397d539a54278a7c8ca30bf93b97c952389d7fba97d41da1cb937aad7203c395",
+          "reviewNote": "Directs court notice to attorney general or prosecutor and authorizes suspension of clerks charged with official misdemeanors."
+        },
+        {
+          "number": 2,
+          "title": "Appointment, oath, bond, and powers of temporary court clerk",
+          "bodySha256": "89d75c6662a4968ef4c8173cc5702772f54ecacb5a429f4a33ad2c455c6ac9c8",
+          "reviewNote": "Requires court to appoint a qualified temporary clerk with oath, bond, and full powers pending suspension."
+        },
+        {
+          "number": 3,
+          "title": "Clerk bond to remain in office pending trial on charges",
+          "bodySha256": "baee80d56c4e664d0c1f53911a8b11746de49cb5a6f37ad122b0a02d4baa29c4",
+          "reviewNote": "Allows charged clerk to remain in office by posting surety bond within fifteen days to pay potential costs, fines, and damages."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections on misdemeanor-in-office charges, mandatory temporary clerk appointment during suspension, and 15-day surety bond to remain in office."
+    },
+    {
+      "id": "483.240:26875",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=483.240&bid=26875",
+      "sourceSha256": "1f6e711d48bdc740730559c89c77e6236e10841072f7df8e0e05e5c44302bd06",
+      "textSha256": "56db2976827dd4e8d8456ecf63d484e01353143e3ab04d2d36847caa868b3bc8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Circuit clerk administrative control over circuit court records and exceptions",
+          "bodySha256": "5e57353f56e173f2a628c43b0399f83717967de35e973789bcf127e69b12fe68",
+          "reviewNote": "Grants circuit clerks administrative control over court records, excepting probate, associate, municipal, and violations bureaus."
+        },
+        {
+          "number": 2,
+          "title": "Judicial control over division clerks and safekeeping of division records",
+          "bodySha256": "54b9cfd3665ab411be2ec222a4ed4d4b9646cd61091b5c60c9c3497f1e80df52",
+          "reviewNote": "Vests administrative control of division clerks and records in appointing associate circuit and probate judges."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections delineating circuit clerk control over circuit court records, division exceptions, and judge control over division clerks."
+    },
+    {
+      "id": "483.241:26876",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=483.241&bid=26876",
+      "sourceSha256": "8761ebda4f63aac58ac382d10fe960f5dc43c55bfc7d0223e821a3bf419a36f7",
+      "textSha256": "6db6c3305ff153918daa6893d3aab0aa10f4a4312fe444877fd1fbf4c81f17f3",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Deputy circuit clerks as clerical staff under circuit clerk control",
+          "bodySha256": "a4beedc77e4a2c1ecab5ac721b85556f7ed1a7b6969ba92ce2f3484f575ffb59",
+          "reviewNote": "Designates deputy circuit clerks as clerical staff performing duties under general administrative control of circuit clerk."
+        },
+        {
+          "number": 2,
+          "title": "Division clerks as clerical staff under appointing judge control",
+          "bodySha256": "ba4fa09ab4fcf2397cfac9876441d334574e6ef038edd9c92eede00eb2780e76",
+          "reviewNote": "Designates division clerks as clerical staff performing division recordkeeping under administrative control of appointing judge."
+        },
+        {
+          "number": 3,
+          "title": "Municipal clerks as clerical staff for municipal division records",
+          "bodySha256": "2c1a60aac12f28a0109d705dc03a74235725ac2dd1212528056311b730c17a5d",
+          "reviewNote": "Designates municipal clerks as circuit court clerical staff responsible for municipal division recordkeeping."
+        },
+        {
+          "number": 4,
+          "title": "Clerical staffing responsibilities for traffic violation bureaus",
+          "bodySha256": "f3be55cd187cd02f408fe77d8e06f459be9c63387d770207bb531def4bc10e39",
+          "reviewNote": "Specifies clerical staffing for traffic violation bureaus by municipal clerks or municipal personnel depending on judges."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections assigning clerical duties to deputy circuit clerks, division clerks, municipal clerks, and traffic violation bureau staff."
+    },
+    {
+      "id": "483.245:26877",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=483.245&bid=26877",
+      "sourceSha256": "e3d208d4a21906d0089863211862bcf97a125df8889412b85348cf0ede8bd380",
+      "textSha256": "a48a259534fdd8ee73e32bb0afa04f2d3e6cfe45a1d8d0f16bca186c66195604",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Effective date of deputy and division clerk appointment provisions",
+          "bodySha256": "c45e262d67182d17ae06eeac0365d0ac6a52180d8d935a937314d30852f280ed",
+          "reviewNote": "Establishes July 1, 1981, effective date for deputy circuit clerk and division clerk statutory provisions."
+        },
+        {
+          "number": 2,
+          "title": "Appointment and removal authority for deputy circuit clerks and division clerks",
+          "bodySha256": "09f29e295a5ce83b54fa25827e5b0fd2f799eaa3805bb48b236ef534d91ec283",
+          "reviewNote": "Authorizes circuit clerks to appoint and remove deputies, and division judges to appoint and remove division clerks."
+        },
+        {
+          "number": 3,
+          "title": "Preservation of local charter merit selection and retention plans",
+          "bodySha256": "09b9fdc72e4d32a284c22edc2d836e9b158ca35bc636d7403d4527f1bc96d191",
+          "reviewNote": "Preserves existing charter merit selection and tenure systems for clerical personnel transitioning to state employment."
+        },
+        {
+          "number": 4,
+          "title": "Circuit court en banc authority to remove clerical personnel for cause",
+          "bodySha256": "29b985a19114064108e9d1c76577b9b87b3831b28b3c741f361b03e5ede4d687",
+          "reviewNote": "Empowers circuit court en banc to remove any deputy circuit clerk or division clerk from office for cause."
+        },
+        {
+          "number": 5,
+          "title": "Court en banc and supreme court determination of maximum clerical staffing",
+          "bodySha256": "06fc2a900369958f3e817ce6f17a292ca145bafd29bf522f9021d064f875870a",
+          "reviewNote": "Authorizes circuit court en banc to set maximum staffing numbers, subject to modification by supreme court."
+        },
+        {
+          "number": 6,
+          "title": "Salary ranges, supreme court classification rules, and state employee status",
+          "bodySha256": "c250885dd2444eeeb5040e097d3930835aceda25418a11ccd06a6ba72d1b0b74",
+          "reviewNote": "Establishes clerk salaries within supreme court administrative classifications, payable by state as state employees."
+        },
+        {
+          "number": 7,
+          "title": "Clerical staffing and salary limits subject to legislative appropriations",
+          "bodySha256": "ecea82a2641b5b4386654fa1c2307af5439b8e1ad78b24c58f6fc69a2a1e7ae9",
+          "reviewNote": "Provides that staffing numbers and salary determinations do not mandate appropriations and depend on available funding."
+        },
+        {
+          "number": 8,
+          "title": "Definition and voting rules for circuit court en banc actions",
+          "bodySha256": "ae529f021a25e8cecdf75e03250244a1c95dfc85d2ec7a091090fa3ebb5c3116",
+          "reviewNote": "Defines circuit court en banc to include all circuit and associate judges, requiring majority vote for determinations."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 8 subsections on July 1, 1981 effective date, deputy/division clerk appointment and removal, charter merit plans, staffing caps, state pay, and en banc voting."
+    },
+    {
+      "id": "483.310:26881",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=483.310&bid=26881",
+      "sourceSha256": "a4e269c4a085585690f3c1090f935da6be2790dc04cf1aa770e518adff1670f8",
+      "textSha256": "5ac18702b0f267f2cfcc5ca6a1e91425e85c921701d98c566116e28b5b0b0d96",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Investment of court registry deposits in authorized interest accounts",
+          "bodySha256": "07e47741c3d7bad7ee9eaecc2d4a6db6d82c75688bfbf83d4d9f6ff105193d4e",
+          "reviewNote": "Authorizes court orders directing clerks to invest registry funds in insured banks, thrifts, or US treasury bills."
+        },
+        {
+          "number": 2,
+          "title": "Clerk investment after sixty days and permitted uses of income",
+          "bodySha256": "c9b3b5f69a02f37c5f5e5cc67a8133aee18fb5680914d8a621d2a1efb9105d81",
+          "reviewNote": "Permits clerk to invest registry funds absent party application within 60 days, apply income to specified office/publication/court expenses, and pay any balance to county general revenue."
+        },
+        {
+          "number": 3,
+          "title": "Definition of clerk for court registry investment sections",
+          "bodySha256": "28c8f5f9fcc88701257a9e0f0b6b8579a48ba2202592e6e7ba8b08572a0d19ee",
+          "reviewNote": "Defines \"clerk\" for sections 483.310 and 483.312 to include circuit clerks and clerks designated under section 483.550 for cases where they collect court costs."
+        },
+        {
+          "number": 4,
+          "title": "Collection procedures for court-ordered non-cost moneys",
+          "bodySha256": "236ed3fb2a4338d9170aeadd8893735c5cd170287265e414928c5de936088b0d",
+          "reviewNote": "Permits clerks charged by a court with collecting non-cost moneys to use sections 488.010 to 488.020 collection procedures if unpaid."
+        },
+        {
+          "number": 5,
+          "title": "Permitted depository institutions and constitutional investment limits",
+          "bodySha256": "5d2210b14908c93fdccd9290a7dbccfa3937d89090a3771d97a44e90d81bf1fd",
+          "reviewNote": "Permits clerks to deposit funds in depository institutions and restricts investments to those permitted the state treasurer under Mo. Const. Art. IV, § 15."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 5 subsections and Grinnell Mutual (194 S.W.3d 830) annotation; replaced fabricated/mismatched headings on subsections 2–5 to match 60-day clerk investment, clerk definition, non-cost collection, and Mo. Const. Art. IV § 15 limits."
+    },
+    {
+      "id": "483.312:26882",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=483.312&bid=26882",
+      "sourceSha256": "d740d3b566db95d41b7f528b7ce33632f16dbb4abdc46a645352c9a496f72d53",
+      "textSha256": "8192460cfbe42f83d3475be48cb397767c9d98deec7ada33c9b80d1a47f89a22",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Security requirements for bank deposits exceeding federal insurance limits",
+          "bodySha256": "61eb4ae5a3ecc79712aa89bbc0578487f534d70f0f3c34adb7be8ac16f388b01",
+          "reviewNote": "Requires depositary banks holding registry funds over federal insurance limits to pledge securities meeting state standards."
+        },
+        {
+          "number": 2,
+          "title": "Constant value of pledged securities and delivery to clerk or trustee",
+          "bodySha256": "154fec62f5c515223a5522bb009a57fb7a4307848093e4bc9fc88f6e5d75665e",
+          "reviewNote": "Mandates constant security value equal to excess deposits and authorizes delivery to clerk or disinterested trustee."
+        },
+        {
+          "number": 3,
+          "title": "Depositary contract breach, written demand, and surrender of securities",
+          "bodySha256": "84e12cb15238080d53c758c144d091eb5543fa522a67c144a029d85f0acd212d",
+          "reviewNote": "Authorizes clerk written demand upon contract breach for immediate surrender of pledged securities by trustee."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections governing pledged security for registry deposits over federal insurance limits, constant value, and trustee surrender on breach."
+    },
+    {
+      "id": "483.390:26885",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=483.390&bid=26885",
+      "sourceSha256": "71d8f9f696cf7852bf7e150316a722671f09a13c1b449800f86c80df848b868d",
+      "textSha256": "42a0cbe960934ec91f6274bfb1d8f17af83e6a41729a502dfbb270bec31c6de3",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Recording of pleadings, service returns, and notices in civil actions",
+          "bodySha256": "e8f23d12d5635bf04b7a7b9bc5e23e54dcab3b0534657764b9056a80fe4f4b4e",
+          "reviewNote": "Permits parties upon fee payment to have pleadings, returns, commissioner notices, and sale proofs recorded by clerk."
+        },
+        {
+          "number": 2,
+          "title": "Recording fee of ten cents per hundred words payable to county treasury",
+          "bodySha256": "c0ddd89417df239a27ef63f7c3dff8ef175c12bbf93959f4334b1863ab7f7457",
+          "reviewNote": "Sets recording fee of ten cents per hundred words, payable into the county treasury."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections permitting recording of civil action papers in circuit clerk office at ten cents per hundred words payable to county treasury."
+    },
+    {
+      "id": "483.480:26889",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=483.480&bid=26889",
+      "sourceSha256": "681b185f6b50801a51a24f1231bd021fcc845b133a143a458986f36bbd87141d",
+      "textSha256": "6aa22c179684e0cee8a6ec6b0dcdfa5cdd093dd7cbaf6766d5244c2c24e52b16",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Oath of office required for probate clerks upon appointment",
+          "bodySha256": "fb303c78c18fb81653283d1169f8ec68764f44af47fa99c9c69fa4133e57a850",
+          "reviewNote": "Requires every appointed probate clerk to take the constitutional oath prescribed for clerks of courts of record."
+        },
+        {
+          "number": 2,
+          "title": "Itemized fee account statements provided to payors upon request",
+          "bodySha256": "3e3ec34bd8eb28c837f8b6bcfcf959440f7090ec7bcbcdfed09eabf529400677",
+          "reviewNote": "Requires probate clerks to provide itemized statements of charges citing authorizing statutory sections upon request."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections and section 472.070 cross-reference on probate clerk oath and itemized statutory fee accounts upon request."
+    },
+    {
+      "id": "483.500:26890",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=483.500&bid=26890",
+      "sourceSha256": "79f6e0f56630bfd42ef6f840f166d54514107805f4b4034899b6b7f7f77355b7",
+      "textSha256": "c8741684058013b23cd22c1ffaf0d9275284bada89e4fde8719e3ef3b6618607",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Appellate court costs payable by appellant and public fee waivers",
+          "bodySha256": "bd87b7c905648623a9ddb645893e9f3f5fcee55bfe255684c1f8f44ae9dd9ad0",
+          "reviewNote": "Requires appellants to pay statutory court costs on appeal, exempting proceedings where fees are waived or paid by public."
+        },
+        {
+          "number": 2,
+          "title": "Collection, disbursement, and general revenue deposit of appellate fees",
+          "bodySha256": "bafe408a02716b54d88f35f19dca498ae78fcecbbf1c70366dee852e378d5831",
+          "reviewNote": "Directs initial filing clerk to collect costs and remit them to director of revenue for deposit into general revenue."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections on appellate court costs, public/waived exemptions, initial-court clerk collection, and general revenue deposit."
+    },
+    {
+      "id": "483.550:26896",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=483.550&bid=26896",
+      "sourceSha256": "bd0420fde0c241fbc6027dc87272225f9bcf1079c52cb0b177a5fb1bb5208ccf",
+      "textSha256": "430e6ccf593a3857db2202fc7c2c911bf132e14ae9e1dd9ef45fa3f915b39ce7",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Circuit clerk collection and disbursement of court costs and exceptions",
+          "bodySha256": "e9a298c6b7ccbaf4d5155ca39c335449ec689fa8e2451aa129f00c2fcadab4d7",
+          "reviewNote": "Charges circuit clerks with collecting court costs, excluding associate divisions, probate, municipal, and traffic bureaus."
+        },
+        {
+          "number": 2,
+          "title": "Probate division chief clerk collection of probate court costs",
+          "bodySha256": "d90563b1a0f4cad9d59f854fbcdbee9015c97e8b90441c3ed853916de4cad786",
+          "reviewNote": "Directs each chief division clerk for the probate division of the circuit court to charge and collect all accruing probate court costs."
+        },
+        {
+          "number": 3,
+          "title": "Division clerk designation for associate circuit court cost collection",
+          "bodySha256": "3f2301673a4cf15a97d5e99383a08ff44ca68523e898f7a1aa8da3cbfa8f6ce3",
+          "reviewNote": "Directs associate circuit judges (or local rule/majority under centralized filing) to designate by order of record a division clerk responsible for collecting court costs."
+        },
+        {
+          "number": 4,
+          "title": "Local circuit court en banc rule adopting centralized cost collection system",
+          "bodySha256": "b3f66753904f257e5b46c20a2ac618df84450f554bbcb96d8d02de0e0574c599",
+          "reviewNote": "Authorizes circuit court en banc to centralize all court cost collection under circuit clerk by local rule."
+        },
+        {
+          "number": 5,
+          "title": "Periodic reports of delinquent court costs to state courts administrator",
+          "bodySha256": "67e9f4a802b7c825b75e5ef44f56ff7b415a4431cc507effeba3b5a758721bf6",
+          "reviewNote": "Requires responsible clerks to file periodic delinquent cost reports as directed by state courts administrator."
+        },
+        {
+          "number": 6,
+          "title": "Prosecutor and attorney general enforcement of delinquent court costs",
+          "bodySha256": "48f6538558d192f318f03a6821aceb9fd254343af289e052f7ddb7b80b762b35",
+          "reviewNote": "Directs prosecutors and attorney general to reasonably attempt collection of delinquent court costs."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 6 subsections; fixed subsection 2 to cover probate chief division clerks only and broadened subsection 3 to cover both single-division and centralized associate circuit cost collection."
+    },
+    {
+      "id": "483.580:26897",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=483.580&bid=26897",
+      "sourceSha256": "82831206975a7076b915cf980e66adb70995418dec0ac234389993c42251fe39",
+      "textSha256": "4b9a6a82d7a58c8d78027d18ebaba41c5d15c68aec1ec678554ca66d9d3f17fc",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Court costs charged and collected in probate proceedings",
+          "bodySha256": "d19856cb37ab823e905507142bed287fb3750e4cfc05f72289c79f7a0d00f698",
+          "reviewNote": "Requires charging and collecting probate court costs from estates or parties under sections 488.010 to 488.020 (*original rolls cite section 514.015)."
+        },
+        {
+          "number": 2,
+          "title": "Probate division clerk responsibility for charging and collecting costs",
+          "bodySha256": "c8a41af5f126266dd0b522b8d11decc2c12e0c4774ee01f44b4e6402699e3e27",
+          "reviewNote": "Charges clerk of the probate division with collecting probate court costs, subject to centralized collection rules."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections and original-rolls footnote (*section 514.015 changed to 488.010–488.020) on probate proceeding court costs."
+    },
+    {
+      "id": "483.680:26905",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=483.680&bid=26905",
+      "sourceSha256": "f97cbe7eacc371cf32d64cbff6551f53fec91d8d3264af125b157c00ec4705e9",
+      "textSha256": "ab9e0c6fc06b2c564749f367fa430b7f270fa463bb01bcb87b1f377a1c3feadc",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Transfer of municipal court records to circuit court on January 2, 1979",
+          "bodySha256": "a7e232bcbd0c35f0e51f52141476fa41ea30138ded29fae96a84254c1ca42e65",
+          "reviewNote": "Transfers 1979 municipal court records to circuit courts, with physical custody rules depending on municipal judges."
+        },
+        {
+          "number": 2,
+          "title": "Retention of un-transferred pre-1979 records as municipal property after 1982",
+          "bodySha256": "cb339fb13e8237cf0bebad989e4e38f83295514939dfcaf121519ac8e58ecfcc",
+          "reviewNote": "Provides that un-transferred pre-1979 records cease being circuit records after January 1, 1982, reverting to municipalities."
+        },
+        {
+          "number": 3,
+          "title": "Clerk authority to issue certified copies of municipal court records",
+          "bodySha256": "12cc8f7ad105a281cea56a0b516ea2c117ca0b4d7aefb6a1f3b2b8d7896b7987",
+          "reviewNote": "Empowers clerks having custody of municipal records to issue certified copies recognized by all courts."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 3 subsections governing January 2, 1979 transfer of municipal court records to circuit courts, post-1982 municipal retention, and certified copies."
+    }
+  ]
+}

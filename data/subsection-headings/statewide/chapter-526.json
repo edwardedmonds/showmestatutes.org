@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "526.010:57129",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=526.010&bid=57129",
+      "sourceSha256": "5dffc47ac3131588073f1c19039f8d9e4fca92354ff65b1ad38462f231d6ba75",
+      "textSha256": "418c1053f950b562569c7edb8966f047c76a52694d4319b1f9677ea424322fde",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Circuit and associate circuit judges may grant injunctions",
+          "bodySha256": "d8a77ff3e0947e91693c8247351c4d269d91a4270999bcb065a499aa9fdf2fb8",
+          "reviewNote": "Provides that injunctions may be granted by a circuit judge or an associate circuit judge."
+        },
+        {
+          "number": 2,
+          "title": "Attorney general may appeal preliminary injunctions against state",
+          "bodySha256": "0d642bbc5a652b5b12c3037301b48a9e3334f2c6c8e2253dc1af6f40acf3fe52",
+          "reviewNote": "Provides that the attorney general may appeal a preliminary injunction enjoining the state or a statewide official from implementing, enforcing, or effectuating Missouri constitutional, statutory, or regulatory provisions; see source Revisor's Note and 2026 Nicholson annotation."
+        },
+        {
+          "number": 3,
+          "title": "Attorney general may appeal pre-August 28, 2025 preliminary injunctions",
+          "bodySha256": "1be179da7f78f852ceaad9a402728d7b80150df484bd71df8d4fd0540866f599",
+          "reviewNote": "Provides that the attorney general may appeal any preliminary injunction existing prior to August 28, 2025, under subsection 2; see source Revisor's Note and 2026 Nicholson annotation."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all three subsections and notes for 526.010 (effective 4-24-25). Corrected subsection 2 title/note to remove unsupported 'expedited direct appeal' language and preserved permissive 'may' across subsections 1-3. Source Revisor's Note and 2026 annotation report S.B. 22 (2025) was declared unconstitutional in its entirety in Nicholson v. State of Missouri, et al., No. SC101308 (Jan. 23, 2026, Mo. banc); titles remain neutral with no enforceability claims."
+    }
+  ]
+}

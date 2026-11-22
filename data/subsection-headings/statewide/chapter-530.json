@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "530.040:28217",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=530.040&bid=28217",
+      "sourceSha256": "caf85648ca7bb2fa2e560de5ffbe07013a6b71f417a6e04e713a767036f4195b",
+      "textSha256": "0e39113d09f504629851e4448f8a25f79f86d9e8bf1d3615b87c7d9f45e5319e",
+      "draftedBy": "antigravity_swarm_drafter_11",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Petition requirements, no joinder, and initial hearing",
+          "bodySha256": "160ba54b704fc58567def20d95386f8febac648da7098d2296dbf2a31abf3243",
+          "reviewNote": "Bars joining prohibition applications with other causes of action, requires a petition stating substantive facts, and provides for initial summary hearing or hearing upon notice ordered by the court or judge in vacation."
+        },
+        {
+          "number": 2,
+          "title": "Preliminary rule or order to show cause upon hearing",
+          "bodySha256": "628c2fed978a410034967246c6329e41eb183fb2d9cc3951ce2038621199d778",
+          "reviewNote": "Provides that if the petition is legally sufficient and supported by persuasive evidence, the court or judge in vacation may issue a preliminary rule or order to show cause and stay further action."
+        },
+        {
+          "number": 3,
+          "title": "Service of preliminary order and contempt penalties",
+          "bodySha256": "7757be8028c47468a7ebb647d541d657bc37825c8de7cee6bb7429ad93f03e9b",
+          "reviewNote": "Directs service of the preliminary rule or order before the return day in the manner of civil process unless otherwise prescribed, and subjects disobedience to penalties of contempt."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_12",
+      "reviewSummary": "Checked all three subsections and history notes for 530.040. Corrected subsection 1 note to remove unsupported 'verified' requirement, aligned subsection 2 with 'preliminary rule or order', and added contempt penalties to subsection 3."
+    }
+  ]
+}

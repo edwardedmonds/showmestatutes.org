@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "517.011:27869",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=517.011&bid=27869",
+      "sourceSha256": "1df146c6de189342c0e4d18aa33da6bafe8a682078b70a9e48a661ddf0303f63",
+      "textSha256": "e79e02f076a59a9c42e05e9f1c32dd9622292d196c52f39445be8dc3d82912fd",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Cases governed by chapter before associate circuit judges",
+          "bodySha256": "7775804508d362f1c715ad8ceb102eb13afc655ba224f307b864e44479e9444f",
+          "reviewNote": "Applies chapter 517 practice and procedure to four classes of civil cases originally filed before associate circuit judges, including money claims up to $25,000, railroad animal-injury actions, listed statutory chapters, and certain chambers cases."
+        },
+        {
+          "number": 2,
+          "title": "Inapplicability of chapter to other associate circuit proceedings",
+          "bodySha256": "190ef46e16f1b842e5ca602ce84d6d798db436ee04510fd7c7fc426f8710f098",
+          "reviewNote": "Excludes associate circuit judge proceedings outside subsection 1 from chapter 517 practice and procedure."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; revised subsection 1 title to reflect chapter applicability rather than 'jurisdictional scope' and verified enumerated civil classes and subsection 2 exclusion."
+    },
+    {
+      "id": "517.031:27871",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=517.031&bid=27871",
+      "sourceSha256": "b72278d36e65540fb70eebce7de59b335488849d4f21b97cf0d8a318c105f81f",
+      "textSha256": "1b7d89aa5f9685bd9c98a508b7106a2abda8d18311544fa2cfc5460d72a961a6",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Informal petition requirements and filing of supporting instruments",
+          "bodySha256": "abcacff6d5f9fd2f7ee367162923b24966a8c185e059ecf670da078294e96d4f",
+          "reviewNote": "Requires written factual petition with supporting written instrument or account attached and makes petition pleadings informal unless court in its discretion requires formal pleadings."
+        },
+        {
+          "number": 2,
+          "title": "Filing deadline for affirmative defenses, counterclaims, and cross-claims",
+          "bodySha256": "5474d0e864bba5d32c700207ebf65698e0f455d234b67da5f1e2899c53d899ea",
+          "reviewNote": "Requires affirmative defenses, counterclaims, and cross-claims in writing by summons return date unless leave is granted, deeming statements denied without further responsive pleading except under section 517.132."
+        },
+        {
+          "number": 3,
+          "title": "Judicial authority to extend pleading deadlines for good cause",
+          "bodySha256": "79a7d31c7cd8550e5ba69d75f7fd5be1979117d472145041ba21401dc306d172",
+          "reviewNote": "Permits court to extend the time for filing any pleading for good cause shown."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 3 subsections and statutory history; informal written petitions, return-date filing deadline for affirmative defenses/counterclaims/cross-claims (with section 517.132 exception), and good-cause extensions verified."
+    },
+    {
+      "id": "517.041:27872",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=517.041&bid=27872",
+      "sourceSha256": "0e1a17f448b10d8594b39580d729852bfd0901f596fb0cba9f1522340de9b395",
+      "textSha256": "cdbc4ae2d6ac01b9208a2d2adca33f38c8693d0bb119ed63ee8cee0ca584ec64",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Summons issuance, service of petition, and return appearance interval",
+          "bodySha256": "3b22bd574e234b0b9fb8bee7d4d164b625376232875a8bb3d19dcc41d7bf2f71",
+          "reviewNote": "Requires process by summons with attached petition commanding defendant to appear not less than ten nor more than sixty days from date of service."
+        },
+        {
+          "number": 2,
+          "title": "Procedure upon untimely service of process",
+          "bodySha256": "e69c9b15964aeb729af818cca3c54442ad1e8b8a087bd32a93fad070f41abe2f",
+          "reviewNote": "Permits plaintiff upon untimely service to request further process with continuance or dismiss as to unserved defendants and proceed."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections and statutory history; summons with attached petition (10-to-60-day appearance window) and plaintiff options upon untimely service verified."
+    },
+    {
+      "id": "517.071:27875",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=517.071&bid=27875",
+      "sourceSha256": "f425154043095981c991b31a2792e7568e1af35208a36b38f976c7a49a5d5b86",
+      "textSha256": "524549f384cb2020c2549689e6f71b061916c3d1320fe7fd7a95adff6252e7c9",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory continuance upon request on or before return date",
+          "bodySha256": "d44d19717857347506c10088c30a99aa80cb9dea231436ce7b143f5e90aee38a",
+          "reviewNote": "Mandates continuance to a day certain upon any party's request made on or before the summons return date."
+        },
+        {
+          "number": 2,
+          "title": "Discretionary thirty-day continuances for cause or agreement",
+          "bodySha256": "baedbdea88111c7a7a6c5d598c138a5f026011f35765ad45ede15470bdb61bfd",
+          "reviewNote": "Permits continuance to a day certain up to thirty days on judge's motion without consent, party agreement, or party application for good cause."
+        },
+        {
+          "number": 3,
+          "title": "General continuances for discovery, non-service, or written agreement",
+          "bodySha256": "54da3742bbe48d822ef7cf937f49f714e79c29cec168adf90599484135bdf419",
+          "reviewNote": "Permits general continuance by written agreement of all parties, when defendants are not timely served, or when discovery/trial preparation reasonably requires over thirty days."
+        },
+        {
+          "number": 4,
+          "title": "Rescheduling upon fifteen days' written notice after general continuance",
+          "bodySha256": "da697a94bfb0ec2a60f0c5fe86aca4a89567f87232542510a88fdf7f4924ba1e",
+          "reviewNote": "Permits rescheduling a generally continued case for trial or other proceeding on fifteen days' written notice to all parties."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked all 4 subsections and statutory history; mandatory return-date continuance, permissive 30-day continuances, general continuances, and 15-day written rescheduling notice verified."
+    },
+    {
+      "id": "517.091:27877",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=517.091&bid=27877",
+      "sourceSha256": "80dc07fb9ae27a57f7748bf674a993dbdebf2bf54bb87a2f89a3f5d8067a9904",
+      "textSha256": "a6dfc7bd4ef97f3c58a27e615aee1f64739aa9131ad177cbfd35bf16b03c1295",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Jury trial demand deadline and waiver in triable cases",
+          "bodySha256": "3a61170a950f297713b9715b2935cbe2af9119c824b5d7335c5eb0dcb2a10777",
+          "reviewNote": "Deems jury trial waived unless written demand is filed at least five days before summons return date or trial date (whichever is later), while permitting judge to grant jury trial for good cause."
+        },
+        {
+          "number": 2,
+          "title": "Twelve-person jury composition, six-person agreement, and three-fourths verdict",
+          "bodySha256": "6d4eca6b39bfe41ee4391f08358aa4a2473987fdf30a6257959a07fdb009b55b",
+          "reviewNote": "Requires twelve qualified jurors unless all parties agree on a lesser number (at least six) and permits verdict by three-fourths or more concurring."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, statutory history, and effective date 1-01-87; five-day written jury demand/waiver rule with good-cause discretion and 12-juror (6-minimum by agreement) / three-fourths verdict rules verified."
+    },
+    {
+      "id": "517.111:27879",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=517.111&bid=27879",
+      "sourceSha256": "4ee665cc6ce50b76144bece9cec412aa981a1f48ab9e7b28d329f791a45fdd38",
+      "textSha256": "9e6ce6a8dae1742a1f25869ccad58edcd9619e509c4085e20f9637e820d26e4b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_12",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Forthwith entry of judgment upon dismissal, default, or consent",
+          "bodySha256": "bc9c468a9a7cc58584a7ac0ea6759df0c20d39b4458e60bc9f7e45162ddbeb62",
+          "reviewNote": "Requires judge to enter judgment forthwith upon dismissal or when judgment is by default or consent."
+        },
+        {
+          "number": 2,
+          "title": "Thirty-day deadline for entry of judgment in nonjury trials",
+          "bodySha256": "c8de08bc298eff46af2f59ca3b158d37b8e93eebd674595c6c10bd17cfa6a1bc",
+          "reviewNote": "Requires judge in nonjury trials to enter judgment within thirty days after submission for final decision unless parties consent to a longer period."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_13",
+      "reviewSummary": "Checked both subsections, statutory history, and effective date 1-01-87; forthwith entry for dismissal/default/consent and 30-day submission deadline for nonjury trials verified."
+    }
+  ]
+}
