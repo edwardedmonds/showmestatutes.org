@@ -1,0 +1,298 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "428.014:23989",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=428.014&bid=23989",
+      "sourceSha256": "515f6b3479823d1d534c3a699b8cbbfcbf7306584f86ad6190fe1f77cc7aad1b",
+      "textSha256": "ac2ba6eb8e79f0f3f776a6a321590ff8ea857b65c4fa4e1cb790452f3f0ea7c9",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Balance sheet insolvency standard",
+          "bodySha256": "212dba0c942a60a2ef6780a9932f01f5984833e4efd20802f8762204cf18be6c",
+          "reviewNote": "Defines debtor insolvency as debts exceeding fair valuation of assets."
+        },
+        {
+          "number": 2,
+          "title": "Presumption of insolvency from nonpayment",
+          "bodySha256": "075d9cbd75db10580fec9a43cfe32c55b6bbfe6ccc2977bc0bb122df42cf5282",
+          "reviewNote": "Establishes rebuttable presumption of insolvency for debtor generally not paying debts as they become due."
+        },
+        {
+          "number": 3,
+          "title": "Partnership insolvency standard",
+          "bodySha256": "306b1463bcf8913bf917f9a50bc2b90a0e17164641f2e8b67b5c2c6892d07c8b",
+          "reviewNote": "Establishes partnership insolvency based on debts exceeding partnership assets plus net assets of general partners."
+        },
+        {
+          "number": 4,
+          "title": "Assets excluded from insolvency determination",
+          "bodySha256": "585f825ac63b4207dbbe83139d8f577ff2e75b68b4277b48bbaf987767bee20b",
+          "reviewNote": "Excludes property transferred, concealed, or removed with intent to hinder, delay, or defraud creditors or transferred in a manner voidable under sections 428.005 to 428.059."
+        },
+        {
+          "number": 5,
+          "title": "Debts excluded from insolvency determination",
+          "bodySha256": "d164b1884f234aa707b8874685e328d7469156d7deca62e334430f2032c4a25a",
+          "reviewNote": "Excludes obligations to the extent secured by valid liens on excluded property."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all five subsections and 1992 enactment note; retained titles and removed unstated 'exempt property' reference from subsection 4 note on assets excluded from insolvency calculations."
+    },
+    {
+      "id": "428.019:23990",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=428.019&bid=23990",
+      "sourceSha256": "7f6091d3935590545545b4f29075414d78a54d09ae8b1a96fbea5ba4b04da688",
+      "textSha256": "4912ebc10b9f4c41c8201ef54572b89298939491f7c50983bc2a0631c43d787b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of value for transfer or obligation",
+          "bodySha256": "f2a547f3ddf55d7d55c5035531bd9b6e2207751eaf443d1a0bcdc3a3eca43a19",
+          "reviewNote": "Defines value as transfer of property or securing or satisfying antecedent debt, excluding unperformed executory promises."
+        },
+        {
+          "number": 2,
+          "title": "Reasonably equivalent value through foreclosure or enforcement",
+          "bodySha256": "e392a0df99560241e928d24b2273b47c6d282ae19322728e3b8c643841e99752",
+          "reviewNote": "Deems reasonably equivalent value given when interest is acquired through noncollusive, regular foreclosure sale."
+        },
+        {
+          "number": 3,
+          "title": "Contemporaneous exchange for present value",
+          "bodySha256": "1482aadd087199d7dacc0569b55efc4b47a3d174dcd9c12bd5a98f9b5082c017",
+          "reviewNote": "Defines present value transfer where exchange is intended and substantially contemporaneous."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all three subsections and 1992 enactment note; confirmed UFTA value definition, noncollusive foreclosure reasonably equivalent value, and contemporaneous exchange for present value."
+    },
+    {
+      "id": "428.024:23991",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=428.024&bid=23991",
+      "sourceSha256": "efeaeb1d8707158ec6044107ecebc9715b924e506260581e55d5179e0f3a039e",
+      "textSha256": "092082b07bdc10d121bd2f7f5734494c6c6e83a8b50d5e032cb4e30bff3625b6",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Fraudulent transfers as to present and future creditors",
+          "bodySha256": "9e7b16055e383eb2ca3918a9d81c4445582bbd319d8aa03fd644df50ab6b0a19",
+          "reviewNote": "Defines fraudulent transfers based on actual intent to defraud or unreasonably small assets without equivalent value."
+        },
+        {
+          "number": 2,
+          "title": "Badges of fraud indicating actual intent",
+          "bodySha256": "588b6e0c88dc3cc04396a0ff5008123e41ddceaa8d22783d1a65d837c6f24765",
+          "reviewNote": "Enumerates nonexclusive factors for evaluating debtor actual intent to hinder, delay, or defraud creditors."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections (including eleven actual-intent factors), 1992 history, and 2004 annotation (Fischer v. Brancato, 147 S.W.3d 794) on UFTA recovery without pleading veil piercing; confirmed headings."
+    },
+    {
+      "id": "428.029:23992",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=428.029&bid=23992",
+      "sourceSha256": "93b840c5598712b0b4274193c37748d412e10d5a13731c2188531a640c1c98e8",
+      "textSha256": "b39c0fd4e992acb23fd8aca0b02a1fcaac839358d4cfeb3a25ce8f55195828f9",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Constructive fraud as to present creditors",
+          "bodySha256": "caf86df415e940d07579ad3b46aeb92be9a345c65d95dd1dd385b9c25252d046",
+          "reviewNote": "Renders transfer fraudulent without equivalent value if debtor was insolvent or became insolvent thereby."
+        },
+        {
+          "number": 2,
+          "title": "Insider transfers for antecedent debt",
+          "bodySha256": "4450cee3dca008ad967b7a26d1bb84d2baa036a5b28a10b8e0f43507c8676150",
+          "reviewNote": "Renders transfer fraudulent if made to insider for antecedent debt while debtor was insolvent and insider had reasonable cause to believe insolvency."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 1992 enactment note; confirmed constructive fraud as to present creditors and insolvent insider antecedent-debt transfers."
+    },
+    {
+      "id": "428.039:23994",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=428.039&bid=23994",
+      "sourceSha256": "59317940203543a324eddc6383be14cb35f675fef442713fbba00516146c5ce8",
+      "textSha256": "72e695dbcadc2b6934d0590b3c6674ccd2e1820f3263d9bac0e6e52834aa2e32",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Creditor remedies against fraudulent transfers",
+          "bodySha256": "ad9a9ba36254e5acba64bb7d0ab1242ee05c155a6f142d6460c3fad9ffe4139f",
+          "reviewNote": "Authorizes avoidance of transfers, attachment, injunctions against disposition, appointment of receivers, and other equitable relief."
+        },
+        {
+          "number": 2,
+          "title": "Execution levy on transferred asset or proceeds",
+          "bodySha256": "f2fb201cafd95c5e20ea655eadcbf91c5209e55c41086e2e77e62423d812dbfb",
+          "reviewNote": "Permits judgment creditor to levy execution on transferred assets or proceeds by court order."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 1992 enactment note; confirmed creditor avoidance, attachment, injunction, and receiver remedies plus court-ordered execution levy on transferred assets or proceeds."
+    },
+    {
+      "id": "428.044:23995",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=428.044&bid=23995",
+      "sourceSha256": "72558b2d1e4aa46777e59da6567709c589dda0696cb773327ff49535e45f1bc2",
+      "textSha256": "e21e938b1b99842e6dbb0707c15a588357c5c96048ecefb3c2045d26fadb1b6a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Good faith and equivalent value defense",
+          "bodySha256": "eaec5f182eb0ee48134f735d39349db3fd5f99805c8b3d7d1da31b41cdd970c0",
+          "reviewNote": "Bars transfer avoidance under actual intent provisions against good-faith transferees giving reasonably equivalent value."
+        },
+        {
+          "number": 2,
+          "title": "Recovery of judgment against transferee",
+          "bodySha256": "1ef3f6bded3c5cd3b09431c9e880e16c8fc0dbfc374bce40d0aa6cff0a741e4c",
+          "reviewNote": "Authorizes money judgment against first transferee or subsequent bad-faith transferee to extent transfer is voidable."
+        },
+        {
+          "number": 3,
+          "title": "Asset valuation timing for money judgment",
+          "bodySha256": "415230d6254d006f877461f879b14051ff17d763f9a7e3d2e2a29d986244971f",
+          "reviewNote": "Requires money judgment to be based on asset value at time of transfer subject to equitable adjustment."
+        },
+        {
+          "number": 4,
+          "title": "Good-faith transferee protections and lien rights",
+          "bodySha256": "e35b8f4c297df25dc9b71f0d0b84ecbbb015dc2406354be95a0866373532d8f2",
+          "reviewNote": "Accords good-faith transferee lien rights, enforcement rights, or reduction in liability to extent of value given."
+        },
+        {
+          "number": 5,
+          "title": "Non-voidable lease termination and lien enforcement",
+          "bodySha256": "cc460fb488f163463c5163168e175c3d52f606c2975b7198fd5dc147199688c5",
+          "reviewNote": "Precludes avoidance of commercially reasonable lease terminations or enforcement of security interests under article 9."
+        },
+        {
+          "number": 6,
+          "title": "Defenses to insider transfers",
+          "bodySha256": "7049a327137dafd7eba94a6140ac9e699b52d13cdb0133c23f26b470d26b5013",
+          "reviewNote": "Enumerates safe harbor defenses for insider transfers involving new value, ordinary course of business, or good-faith rehabilitation."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all six subsections and 1992 enactment note; confirmed good-faith transferee defenses, money judgment limits/valuation, transferee lien rights, lease/Article 9 safe harbors, and insider-transfer defenses."
+    },
+    {
+      "id": "428.105:23999",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=428.105&bid=23999",
+      "sourceSha256": "055e5482477c956dac4be22e9d5f8f5d042e868ecdcdf012c54b52039d3c1d56",
+      "textSha256": "5d7dc81db530e9bbfed3c4312e892749eacea7350ce8d3ed28ea293a27d908b8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions of court, filing officer, and nonconsensual lien",
+          "bodySha256": "fcace0e54528293376444ce344c932181de19d7e69253026e5f77246889a84f6",
+          "reviewNote": "Defines statutory terms including court, filing officer, and nonconsensual common law lien."
+        },
+        {
+          "number": 2,
+          "title": "Non-creation of substantive lien rights",
+          "bodySha256": "563b0463852d8c58a95da1de68bef509e6272c73a9a1d7022d27b785f6d8b10a",
+          "reviewNote": "Clarifies that provisions create no property lien or interest not otherwise existing under law."
+        },
+        {
+          "number": 3,
+          "title": "Limitation on municipal court authority",
+          "bodySha256": "4f499cdebd447bb7e54f30583a059bae00e287c8846fa1a7c5b1191ba7c61f9b",
+          "reviewNote": "Clarifies that municipal courts are not authorized to create property liens or interests."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all three subsections and 1996 enactment note; confirmed court, filing officer, and nonconsensual common law lien definitions and non-creation of substantive or municipal-court lien rights."
+    },
+    {
+      "id": "428.110:24000",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=428.110&bid=24000",
+      "sourceSha256": "1b2e457c5f28688da4c74df37bc7521a39705c4c0bd7232c350472d2e169018a",
+      "textSha256": "1aeed6864139fbddf3d76c30f3375a513e59fa977bae8b11389b6506394311ef",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Rejection of nonconsensual common law liens",
+          "bodySha256": "e1af0a5a92ab3c80df4976f45dc08b2d36794208971d370e89b48b97fba8327f",
+          "reviewNote": "Authorizes filing officers to reject nonconsensual common law liens while protecting authorized filings."
+        },
+        {
+          "number": 2,
+          "title": "Sworn notice of invalid lien filing and notice",
+          "bodySha256": "57c28336dbc7fe53446a2c3966b791ff431169add675700f1a18651c7a35320d",
+          "reviewNote": "Provides for filing and mailing sworn notice of invalid lien and shields filing officers from liability."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 1996 enactment note; confirmed permissive rejection of nonconsensual common law liens (with authorized-filer exceptions) and mandatory acceptance/mailing of sworn Notice of Invalid Lien with immunity."
+    },
+    {
+      "id": "428.125:24003",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=428.125&bid=24003",
+      "sourceSha256": "4e05b678b0ee2c94351ff53dfe0949fbae5a42290795bce52d32942b63aacf61",
+      "textSha256": "7a6d9aedd53ff32952dd53197fb4de2e72182a7e35b7f2b90fc217bb672f2884",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory appearance warning in show-cause order",
+          "bodySha256": "39ade01f649b9e8da30989e2908eb0b7f4a6ca829b18bb94b81e2c5857b06af6",
+          "reviewNote": "Requires show-cause order to warn that nonappearance results in lien voidness and fee award."
+        },
+        {
+          "number": 2,
+          "title": "Judicial determination of invalidity and release order",
+          "bodySha256": "b9e752ab3fd0a7315a5bf896754a020178990eb4b2457534881d71c3f239711f",
+          "reviewNote": "Directs court to declare nonconsensual lien void ab initio, release lien, and award costs and fees."
+        },
+        {
+          "number": 3,
+          "title": "Judicial determination of lien validity and fee award",
+          "bodySha256": "695ecae473f5e438e7c18c8b688845a3d12f1d418c6059fa80f786c1299f21b2",
+          "reviewNote": "Authorizes order confirming lien validity and permitting costs and reasonable attorney fees."
+        },
+        {
+          "number": 4,
+          "title": "Filing certified order with recording officer",
+          "bodySha256": "9aefcac9f19a6a41f3cc1f7e2821947f3cf31543968987eae664539c41095813",
+          "reviewNote": "Requires circuit clerk to file certified copy of court order with appropriate filing officer."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all four subsections and 1996 enactment note; confirmed show-cause appearance warning, void ab initio release with mandatory fees, validity confirmation with permissive fees, and certified-order filing."
+    }
+  ]
+}

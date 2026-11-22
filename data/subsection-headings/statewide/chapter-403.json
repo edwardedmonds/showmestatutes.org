@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "403.290:22905",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=403.290&bid=22905",
+      "sourceSha256": "70bed55a8c2aadc69e4db2d33f10d11dbea52263c845046213c536f139a5ac5d",
+      "textSha256": "159bc1e689333dc0c1f0eea7cda82885a38db07a2dacc00dad87d19b33fa8e21",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written notice requirements for adverse claim of beneficial interest",
+          "bodySha256": "b36f5430eaae0d24b7995eec012229b3cc7844d59fb2706c4d563f581d39c2a7",
+          "reviewNote": "Authorizes adverse claimant to give written notice identifying claimant, owner, and issue to corporation or transfer agent prior to transfer."
+        },
+        {
+          "number": 2,
+          "title": "Notice to adverse claimant and thirty-day transfer withholding",
+          "bodySha256": "069c4a655f5b93c7c83b7a370cc36440c8e5b5d8e62a020fba99046d0e0cffa5",
+          "reviewNote": "Permits mailing notice of presentation to claimant and requires withholding transfer for thirty days unless restrained by court order."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1959 S.B. 241 § 5). Confirmed draft titles for adverse claim written notice requirements and registered/certified mail notice with 30-day transfer withholding."
+    },
+    {
+      "id": "403.310:22907",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=403.310&bid=22907",
+      "sourceSha256": "9b82fb52b76e0ea129c110a47d4ce061b60af741927474724f66ff5c764adac6",
+      "textSha256": "dcd52e055cb151b3acb49cf8241f629c3c9ee7e3a217bca0a8857c4b57a03364",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Nonliability of transaction participants and guarantors absent actual knowledge",
+          "bodySha256": "765a40a5bdb5083d7b4951e3737cbdc1ee7eb6ee47e738a5787ae27b8a55a915",
+          "reviewNote": "Shields transaction participants and signature guarantors from breach of fiduciary duty liability absent actual knowledge of wrongful use or breach."
+        },
+        {
+          "number": 2,
+          "title": "Signature guarantor nonliability coextensive with corporation or transfer agent",
+          "bodySha256": "7fa5ccf2b24db10eb4a494e4d3a47155c06c91b983a971c3ea9e796149fcd489",
+          "reviewNote": "Relieves signature guarantor of liability on guarantee where corporation or transfer agent incurs no liability under sections 403.250 to 403.350."
+        },
+        {
+          "number": 3,
+          "title": "No imposition of liability on corporation or transfer agent",
+          "bodySha256": "ae01690b81a2967b9d6107d5dcbf009dd6c9a369992605b814c9bed47d724278",
+          "reviewNote": "Clarifies that this section does not impose liability upon the corporation or its transfer agent."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 1959 S.B. 241 § 7). Confirmed all 3 draft titles for third-person/guarantor nonliability absent actual knowledge, coextensive guarantor protection, and no corporate/transfer-agent liability imposition."
+    },
+    {
+      "id": "403.320:22908",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=403.320&bid=22908",
+      "sourceSha256": "395a1a5b956ed4a41f76c87f37e12d5a98c9d52c4e374848570e00be50616ca1",
+      "textSha256": "12d303093666c1c148caf677e4698fd0ebb97548046bb21da06bf7a50aaa339b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Territorial law governing corporation and transfer agent fiduciary transfers",
+          "bodySha256": "c1dfbbedbe7fdca43f361b86dc330f6b1371019d4006982aae7c81c13216fa74",
+          "reviewNote": "Specifies that rights and duties of corporation and transfer agents in registering or transferring securities are governed by law of jurisdiction of incorporation."
+        },
+        {
+          "number": 2,
+          "title": "Territorial applicability to third-party acts and signature guarantees",
+          "bodySha256": "71343ca7cc9a2caa64c8319a885f698f919f1afc20e95139503c40f49b47d1c1",
+          "reviewNote": "Applies sections 403.250 to 403.350 to rights and duties of non-corporation persons and signature guarantors for acts and omissions in Missouri."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1959 S.B. 241 § 8). Confirmed draft titles for jurisdiction-of-incorporation law governing corporation/transfer agent duties and Missouri law governing in-state third-party acts and signature guarantees."
+    }
+  ]
+}

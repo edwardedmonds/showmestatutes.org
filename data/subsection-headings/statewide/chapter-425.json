@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "425.043:23921",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=425.043&bid=23921",
+      "sourceSha256": "eb0e90470c15e5073e4410d7beabff85955aaba43b06f567f09b40b266ec5928",
+      "textSha256": "06ad942a31a123df211e25cbae4d7bd0a445ce5da558eedf3105393d3c9f771d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Material disclosures required prior to debt contract",
+          "bodySha256": "4e9bc8bae848868415d5cc775dc3c1a7ba518cf9d4bc4b59f3b9fc200335257a",
+          "reviewNote": "Mandates debt adjusters provide clear disclosures regarding result timelines, settlement percentages, credit risks, and fund ownership."
+        },
+        {
+          "number": 2,
+          "title": "Prohibited misrepresentations regarding debt relief services",
+          "bodySha256": "068dcab84a5fa39ba381ae3c47e96b4a82b4c7197da95c297dbc6c3b86e3bda7",
+          "reviewNote": "Prohibits misrepresentations concerning debt relief savings, timelines, creditor negotiations, credit impact, success rates, or nonprofit status."
+        },
+        {
+          "number": 3,
+          "title": "Prerequisite conditions for receiving fee payments",
+          "bodySha256": "dad3067081eb1a2bde256fb3184fea92a14b7fdafa0ab32762f73e0f6e7d300a",
+          "reviewNote": "Prohibits debt adjuster fee collection until debt terms are altered, debtor makes payment, and fees comply with proportional or savings caps."
+        },
+        {
+          "number": 4,
+          "title": "Trust account requirements for held funds",
+          "bodySha256": "6583af34eb52d5576aac8eac8503d5a880d30a59fc74829a3e677c22af47d42c",
+          "reviewNote": "Regulates debtor funds held in insured financial institution accounts and guarantees unconditional withdrawal rights within seven business days."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all four subsections and 2011 enactment note; confirmed pre-contract debt adjuster disclosures, misrepresentation prohibitions, fee-collection prerequisites, and insured-account fund/7-day withdrawal rules."
+    }
+  ]
+}

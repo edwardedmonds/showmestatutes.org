@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "415.050:23762",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=415.050&bid=23762",
+      "sourceSha256": "71a279d0e67c581ebb4077e5bab8c8071c4e347e3b84ec3c5da7c42bb7e39f95",
+      "textSha256": "fc652c80ededb9f46ff5a2eea0075c19e0f39cbe0d08938b6abc56818301204f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Unlawful operation or advertising without public warehouse license",
+          "bodySha256": "cb08d00c12af73f6c9311f7fe6418ff3854b9599e497f367aaea2179d80effa5",
+          "reviewNote": "Reflecting prohibition on holding out as a public warehouseman or using storage in business name without compliance."
+        },
+        {
+          "number": 2,
+          "title": "Exemption for self-service storage facilities",
+          "bodySha256": "aafbcc40f9b1973d8c8522ae3a2953932d5164659cf39123c9e3c3b17b6a221e",
+          "reviewNote": "Noting non-applicability of sections 415.010 to 415.050 to self-service storage facilities under sections 415.400 to 415.430."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 1939/1985 history note; confirmed public warehouseman compliance/advertising bar (including use of word 'storage') and exemption for self-service storage facilities."
+    },
+    {
+      "id": "415.410:23765",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=415.410&bid=23765",
+      "sourceSha256": "859d829c1fd0a3f463e7c6c3be2539e98a6703736a3d94f78fb6cfa0b4d783b2",
+      "textSha256": "9813fce6ba9a79a42da3fbd846e1521a484b94a3aca5d8cad5c038826b5f1bc6",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition on residential use of leased space",
+          "bodySha256": "8a72de2f8783987d76fefcca708f36dcd54e875b70698e5fe42179d9d9d664ea",
+          "reviewNote": "Reflecting restrictions against operator permitting and occupant using leased space for residential purposes."
+        },
+        {
+          "number": 2,
+          "title": "Operator entry for protection and preservation of facility or property",
+          "bodySha256": "93aa3c39f1452fc7945a6fc06ffe098f8f2232a1960f31cc23fe411963ac7f53",
+          "reviewNote": "Regarding operator authority to enter leased space for reasonably necessary protection and preservation."
+        },
+        {
+          "number": 3,
+          "title": "Occupant disclosure of valid liens and third-party property owners",
+          "bodySha256": "b9788a151b7d11f3011c1bb27de8f70766d1631148fc0a66fdbb931c0312b069",
+          "reviewNote": "Requiring occupant written statement or rental agreement disclosure of existing lienholders and third-party owners."
+        },
+        {
+          "number": 4,
+          "title": "Written disclosure of lessor casualty insurance status",
+          "bodySha256": "cbd6da653155ca40aec5434c530018e41369357ee430883d85e67104bc0d1aea",
+          "reviewNote": "Requiring written disclosure to lessee regarding presence or absence of lessor casualty insurance."
+        },
+        {
+          "number": 5,
+          "title": "Contractual limit on stored property value and owner liability",
+          "bodySha256": "ccc47678990fdb20728828c6a7f59c2dad1e4a0b7363b9fd9f784a0812febad4",
+          "reviewNote": "Establishing rental agreement value limit as maximum stored property value and maximum owner damage liability."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all five subsections and 1985–2014 history note; confirmed residential-use ban, operator preservation entry, occupant lien/third-party disclosures, written casualty-insurance notice, and contractual value/liability cap."
+    },
+    {
+      "id": "415.415:23766",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=415.415&bid=23766",
+      "sourceSha256": "2537d4c5b0765be19931dffb8c5effa3fefd17a5c07a00072e5c6554f752522e",
+      "textSha256": "e1f5d5cc5785836628d3702bb4416fddc396faf87dfe4cdc4b20dd946edc0f9f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Operator lien on stored property and priority over unperfected liens",
+          "bodySha256": "14226d2ecce3c23f2e1353e5f89a27b01d15f0fe6d64ba6ef0c3f80b09e9c027",
+          "reviewNote": "Regarding operator lien for rent and charges, priority over unperfected liens, and required bold rental agreement notice."
+        },
+        {
+          "number": 2,
+          "title": "Enforcement of lien and sale of property after default",
+          "bodySha256": "321606cb624e4729cbd30f4852018bce53de16a2fbc4aa09b46756f331649dc2",
+          "reviewNote": "Authorizing cash sale or disposal of worthless property when occupant default exceeds 45 days."
+        },
+        {
+          "number": 3,
+          "title": "Application of sale proceeds and disposition of surplus",
+          "bodySha256": "41f87468fa8b149e9648175c8989e2883f6226933e732c57e61fb1ab5687d547",
+          "reviewNote": "Governs sale proceeds application, one-year surplus holding (with sworn indemnity affidavit), and unclaimed property escheat; archived text cites 'this subsection' rather than subsection 2."
+        },
+        {
+          "number": 4,
+          "title": "Prerequisites and notices required prior to sale",
+          "bodySha256": "8414b66ea5ae7461e33222055f94d8d23f6fd564731d37d25fbbfb39d66de5ff",
+          "reviewNote": "Requires 45-day default notice (first-class or electronic mail), second default notice after 10 days (verified or electronic mail), and 7-day classified newspaper ad."
+        },
+        {
+          "number": 5,
+          "title": "Treatment and towing of unpaid vehicles, watercraft, or trailers",
+          "bodySha256": "fba7797cca581405194a2ae916b490a6e49cc3725f3548d2178d03317501f7bd",
+          "reviewNote": "Authorizing owner to treat unpaid vehicles, watercraft, or trailers as abandoned and tow after 60 days with immunity."
+        },
+        {
+          "number": 6,
+          "title": "Occupant redemption of personal property prior to sale",
+          "bodySha256": "1001533ac9db76f31c8f885e01e14f9a1ccb734a0e5ed25642de72e9605f203d",
+          "reviewNote": "Permitting occupant to pay amount necessary to satisfy lien and redeem personal property at any time before sale."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all six subsections and 1985–2014 history note; confirmed operator lien priority, 45-day default sale, surplus escheat (noting archived text cites 'this subsection' in sub 3), pre-sale notices, 60-day vehicle/watercraft/trailer towing, and redemption."
+    },
+    {
+      "id": "415.417:23767",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=415.417&bid=23767",
+      "sourceSha256": "78ce188c7e115ed2c6fbc0713cba0afd121845e8710ef00e33e06ff2093d59e9",
+      "textSha256": "c8856ff03d52979f7f06cd534715804281a7a38b80773abf7dd452c73949eac8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of late fee and exclusion from interest or collection expenses",
+          "bodySha256": "2f45ae7152814174b857830099fc4f59e9626cf19eb995ff1f5103b05a4f2c67",
+          "reviewNote": "Defining late fee and distinguishing it from debt interest or reasonable collection and lien enforcement expenses."
+        },
+        {
+          "number": 2,
+          "title": "Requirement of written late fee provision in rental agreement",
+          "bodySha256": "0477586f829cd77eaa5301348b66117e12ed5e57fe117b96001e7bab83006cda",
+          "reviewNote": "Conditioning collection of late fees on express statement in rental agreement or addendum."
+        },
+        {
+          "number": 3,
+          "title": "Permissible imposition of reasonable monthly late fee",
+          "bodySha256": "b180445b94afd081a6e18f0577c19a47b4e7f8d5a3cef507fecf968cfe162fc7",
+          "reviewNote": "Authorizing operator to impose reasonable late fee for each month rent is unpaid when due."
+        },
+        {
+          "number": 4,
+          "title": "Statutory safe harbor for twenty-dollar or twenty-percent late fee",
+          "bodySha256": "1395166574b566465c15252d008e819bdb1e9b9ce43dd80ad38d2214b419a5a3",
+          "reviewNote": "Establishing statutory presumption that late fee of greater of $20 or 20% of monthly rent is reasonable and non-penal."
+        },
+        {
+          "number": 5,
+          "title": "Operator burden of proof for higher late fees",
+          "bodySha256": "09f7a16cc7dbd9153b66d11f3c616293fc86a1d7c809e3bef421965de568449a",
+          "reviewNote": "Placing burden of proof on operator to establish reasonableness of late fees exceeding statutory safe harbor."
+        },
+        {
+          "number": 6,
+          "title": "Recovery of reasonable collection and lien enforcement expenses",
+          "bodySha256": "c04a7fa17f6b0ae72946766259d3c117449ba576aaa17630c46a088c8e736c51",
+          "reviewNote": "Permitting operator to recover reasonable collection and lien enforcement expenses in addition to late fees."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all six subsections and 2001/2014 history note; confirmed late fee definition, written rental-agreement mandate, monthly assessment, $20/20% safe harbor, higher-fee burden of proof, and collection/lien expense recovery."
+    },
+    {
+      "id": "415.420:23768",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=415.420&bid=23768",
+      "sourceSha256": "5a91a7815bae204c3a00df4207833e52798a47378ba1aa1882426303652fda54",
+      "textSha256": "0eae989b5daeba37b8a513d369e2a550228e826937fb627304daec326f9eaf5b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Rights of good faith purchaser at lien sale",
+          "bodySha256": "461f15856e2be2f1a728549649d68e4158ab8005942cd1731f8ed1838535400a",
+          "reviewNote": "Establishing good faith purchaser acquires property free and clear of all rights and lienholder claims."
+        },
+        {
+          "number": 2,
+          "title": "Limitation of operator liability upon statutory compliance",
+          "bodySha256": "72f577369fbf3c2c6c95825f8c272f1ce59735d9fd40d794786091a1fc8b3042",
+          "reviewNote": "Limiting operator liability to net sale proceeds when operator complies with statutory sale procedures."
+        },
+        {
+          "number": 3,
+          "title": "Denial of occupant access to leased space upon default",
+          "bodySha256": "96fb2d102870d3a51af68e17aa1dafa276d822c0ccfbf821f80115fdf7951a95",
+          "reviewNote": "Authorizing operator to deny occupant access to leased space upon default."
+        },
+        {
+          "number": 4,
+          "title": "Notice delivery methods and effective delivery",
+          "bodySha256": "a2b1e27cfc1ce26325e59f3e810e5316b9f6cc288a4a6363ee8ed415e256a169",
+          "reviewNote": "Specifying delivery of notices by verified mail or email and defining when delivery is deemed complete."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all four subsections and 1985–2014 history note; confirmed good-faith purchaser protection, net-proceeds liability cap, default access denial, and verified-mail/email notice delivery rules."
+    }
+  ]
+}

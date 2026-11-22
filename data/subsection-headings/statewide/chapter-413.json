@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "413.015:23685",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=413.015&bid=23685",
+      "sourceSha256": "874f93161be8619b0c916605bdff33d9bba0829ff34f9594c87f753f709e73ca",
+      "textSha256": "b9c72ba54331c8b1be5bfc076e1f70caaa982e6eb3f30953f7a9e4298ec51e53",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishment of Division of Weights and Measures and director",
+          "bodySha256": "703a261641b697da868daee07c629401ef1d67f1842ee77d574ecb94271cd424",
+          "reviewNote": "Regarding creation of division within department of agriculture and appointment of director and personnel."
+        },
+        {
+          "number": 2,
+          "title": "Funding of compensation and division operating expenses",
+          "bodySha256": "52b71ada6ab40a629ee9e74766579492d8fe5454b56ce1b80c51e0e2f054b107",
+          "reviewNote": "Directing payment of division personnel compensation, supplies, and expenses from general assembly appropriations."
+        },
+        {
+          "number": 3,
+          "title": "Powers and duties of division on behalf of citizens",
+          "bodySha256": "e7951f6abc8b0239b60027b5e91c12c18a94dae9be67e9b2e1e86758846af04b",
+          "reviewNote": "Detailing division responsibilities for device accuracy, deception prevention, calibration, uniformity, and rulemaking."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all three subsections and 1983–2002 history note; confirmed Division of Weights and Measures creation, general assembly appropriation funding, and five citizen-protection functions."
+    },
+    {
+      "id": "413.095:23692",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=413.095&bid=23692",
+      "sourceSha256": "77c2c710090660f3a0a412559b350fb772223995dc63424e59743e0220456551",
+      "textSha256": "7f4e7c46cce1c8f2da9a4f6cff5ab7f2c75740eaaa8ff0234eeb291ff143e1c3",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Required methods of sale for liquid and nonliquid commodities",
+          "bodySha256": "3035b8bcf000df4535941119d2538d76bbc793b9cd3e62b3b15d3dc81d69ef9d",
+          "reviewNote": "Mandates sale of liquid commodities by liquid measure or weight and nonliquid commodities by weight, measure, or count, subject to director or trade-custom exceptions."
+        },
+        {
+          "number": 2,
+          "title": "Requirement of adequate quantity information for value comparisons",
+          "bodySha256": "5e8e4ab79b9f2d52677eb8fc8488a68a17a691ca3cad445ae6a1ecb7e7f4194c",
+          "reviewNote": "Requiring method of sale to provide sufficiently accurate and adequate quantity information for price comparisons."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 1983/1994 history note; edited subsection 1 title from 'Permissible' to 'Required' to preserve mandatory 'shall be sold' language for liquid and nonliquid commodities."
+    },
+    {
+      "id": "413.225:53873",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=413.225&bid=53873",
+      "sourceSha256": "65ac46d8ca5b4ee9c56226c49c2d6861bd6d6fdfd17fc2a30b64411023906cc6",
+      "textSha256": "8aeda05d6000731b200b678119c30bf4a11f4693a625dda808c225367b8f5360",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Fee schedule for registration, inspection, and calibration services",
+          "bodySha256": "6f77745c644c4bb2e4b2965a22b43bea8b03abe7b5a1e91e8686f0421a0bb60f",
+          "reviewNote": "Establishing fee schedule for division services, device tests, and grain moisture meter location registration."
+        },
+        {
+          "number": 2,
+          "title": "Annual adjustment of device testing fees to cost",
+          "bodySha256": "305679e1472c85c208097b0252710628b845ef3792ef4555153315d075a9068f",
+          "reviewNote": "Directing director of agriculture to fix annual device testing fees not to exceed total operating cost."
+        },
+        {
+          "number": 3,
+          "title": "Annual report to general assembly on laboratory fees and expenses",
+          "bodySha256": "3c988a6aa0dccf313c92f3753cd76e9a0745d814d52af2c7b9c8af97f5111041",
+          "reviewNote": "Requiring annual October report to general assembly regarding metrology laboratory fees and operating expenses."
+        },
+        {
+          "number": 4,
+          "title": "Annual publication and website update of laboratory fee schedule",
+          "bodySha256": "1cf5a7d357a97b3ab829c9718d4141c95b96cbc75bb482b21b41e718f90a05bf",
+          "reviewNote": "Directing publication of laboratory fee schedule on departmental website within thirty days of changes."
+        },
+        {
+          "number": 5,
+          "title": "Rates for device retests within same calendar year",
+          "bodySha256": "ba3a099d0ea2c0ebf4665ef7a20e5012735cef3f54e34d468536701f39d87dc6",
+          "reviewNote": "Establishing retest rates equal to initial test rates and exempting repairs following rejection."
+        },
+        {
+          "number": 6,
+          "title": "Payment deadlines and condemnation or seizure for nonpayment",
+          "bodySha256": "480db0b11b159264740a238f2807dec2db7bd3c05f579dab421da83679515034",
+          "reviewNote": "Requiring fee payment within 30 days and authorizing director to condemn and seize devices for nonpayment."
+        },
+        {
+          "number": 7,
+          "title": "Exemption for on-farm agricultural moisture-measuring devices",
+          "bodySha256": "1c6eb92a2df24feba0dc245b717feeb0b7c7b63fb28bb2702f887a0baa7be3a8",
+          "reviewNote": "Exempting moisture-measuring devices used solely in agricultural operations on owner's land from fees."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all seven subsections and 1983–2023 history note; confirmed metrology/device/moisture-meter fee schedule ($500 calibration cap), annual cost adjustment, October report, website publication, retests, 30-day seizure, and on-farm exemption."
+    },
+    {
+      "id": "413.226:23707",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=413.226&bid=23707",
+      "sourceSha256": "88f02579df1d20ce4dbe0cc51c8b8ddf6db50a70fb4749268dc8efec5788ee45",
+      "textSha256": "b659f7514902105f50cb444f3e1e4378157b8271970d4a2308930e56dfc44b31",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exemptions from weights and measures regulatory provisions",
+          "bodySha256": "d16b53e39592943d365d47b9802273953daad9339360b9099c5a9dc567d0b249",
+          "reviewNote": "Detailing exemptions for utility meters, petroleum fuel dispensers under chapter 414, and LPG meters under chapter 323."
+        },
+        {
+          "number": 2,
+          "title": "Applicability to commercial vehicle alternative fuel measuring equipment",
+          "bodySha256": "a691ef63bcadfb349f876b2188a8d7921cfa879ee59c5051ce20db24b88996a4",
+          "reviewNote": "Specifying application of sections 413.005 to 413.229 to commercial CNG, LNG, EV charging, and hydrogen meters."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 2016 effective date; confirmed exemptions for utility, ch. 414 fuel, and ch. 323 LPG meters alongside explicit coverage of commercial CNG, LNG, EV charging, and hydrogen vehicle meters."
+    },
+    {
+      "id": "413.227:23708",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=413.227&bid=23708",
+      "sourceSha256": "a5b8d0312920d2ce540029fcbcb1f305c3d3f3672daf0f5dd7e193332b91f3e1",
+      "textSha256": "92a245ae97a0ea904be2701e73c595aeb369107552a6b09467717182ac7cd8ee",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Issuance and contents of notice of violation",
+          "bodySha256": "d9798dd34f233d8e11a631731432751f1f773238c7dbd4ad1d45b4e73520e8e1",
+          "reviewNote": "Governing notice of violation requirements, details of alleged violations, and warning of administrative hearings."
+        },
+        {
+          "number": 2,
+          "title": "Informal and formal administrative hearings, cease and desist orders, and penalties",
+          "bodySha256": "c596d2bebe4c1237ed4c3962a33c9cb64be6a85ca1eee4648e28864a0558ca42",
+          "reviewNote": "Establishing 14-day informal hearing opportunity, formal hearing summons, cease and desist orders, and $500 penalty."
+        },
+        {
+          "number": 3,
+          "title": "Deposit of assessed penalties into general revenue fund",
+          "bodySha256": "35d563ac56e7e913e21dbe9a4a94ad0b26309069aa0d6b0f01ad32687d5294be",
+          "reviewNote": "Directing collected civil penalties to state treasurer for credit to the general revenue fund."
+        },
+        {
+          "number": 4,
+          "title": "Consumer undercharges excluded from violation status",
+          "bodySha256": "e9c7ac833a31611344d02acb744288423712f896fd1346385994f9c3336ab744",
+          "reviewNote": "Clarifying that consumer undercharges do not constitute violations under this section."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all four subsections and 1994–2002 history note; confirmed notice of violation contents, 14-day informal / formal chapter 536 hearings with $500 penalty, general revenue deposit, and consumer undercharge exclusion."
+    },
+    {
+      "id": "413.229:23709",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=413.229&bid=23709",
+      "sourceSha256": "31f0948676b5a14b4b5f79426202a3e08b20be87bfe444231d70633838ab99ba",
+      "textSha256": "fe3c17c18ebfdbfb2541c4c31dea3c16350ca47d656b567a3289c09278980e87",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_5",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Class A misdemeanor penalty for chapter violations",
+          "bodySha256": "7f0b15f9b725602030e2526b1b7adef2af4d17829faaf184a69f87c68791afb4",
+          "reviewNote": "Classifying general violations of chapter 413 as class A misdemeanors."
+        },
+        {
+          "number": 2,
+          "title": "Class E felony penalty for purposeful or repeat violations and fraudulent devices",
+          "bodySha256": "3fd2becb0661bf6307e5c7c5f1a6ac60755ef9d2e696c8cdcc210f157f3f8d70",
+          "reviewNote": "Establishing class E felony classification for purposeful violations, third offenses, or altered fraudulent devices."
+        },
+        {
+          "number": 3,
+          "title": "Prosecutorial authority and attorney general enforcement",
+          "bodySha256": "dfb000e9553d42aebbf8a9721091dab41b6be2dbf1f7271a201dcee2411d7c06",
+          "reviewNote": "Empowering county prosecutors to bring actions and authorizing attorney general enforcement upon prosecutor declination."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all three subsections and 2017 effective date (2014 S.B. 491); confirmed class A misdemeanor, class E felony (purposeful, third offense, or altered fraud device), and prosecutor/attorney general enforcement headings."
+    }
+  ]
+}

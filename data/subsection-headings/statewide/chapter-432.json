@@ -1,0 +1,418 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "432.045:24151",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=432.045&bid=24151",
+      "sourceSha256": "32f1a6da8674beb6f8a1a320739195f2ae162664b12631ac29247cbae80ead31",
+      "textSha256": "9225acacfa7c220a1fe1be50bec7ff6ed4606171185eab67feefd620105e9f16",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Credit agreement defined",
+          "bodySha256": "e80f4e810194984d9c4af5494ec2b72de33fbd7f8f2c8e1e8158afbc58250c59",
+          "reviewNote": "Covers definition of credit agreement as an agreement to lend, forbear repayment, extend credit, or make financial accommodations."
+        },
+        {
+          "number": 2,
+          "title": "Writing requirement for debtor actions and defenses",
+          "bodySha256": "ff662009b4ed71a7fe594415cc635926c901c82c211102d7033f20dcabc07df6",
+          "reviewNote": "Covers rule barring debtor actions or defenses on credit agreements absent writing, consideration, and stated terms, subject to consumer exceptions."
+        },
+        {
+          "number": 3,
+          "title": "Required boldface warning language and oral deferral exception",
+          "bodySha256": "d58d594be85970964184726971b77e30bd6551caa4f57b8577dc5403635c8e52",
+          "reviewNote": "Covers mandatory boldface ten-point statutory notice clause and ninety-day oral deferral exception for consumer credit agreements."
+        },
+        {
+          "number": 4,
+          "title": "Creditor enforcement of security instruments unaffected",
+          "bodySha256": "6a1939815cd10134895d06f2e112eda48088eb64170207da9ef13863a88bd181",
+          "reviewNote": "Covers preservation of creditor rights to enforce promissory notes, guaranties, mortgages, deeds of trust, or security agreements."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 4 subsections against archived text: credit agreement definition, writing bar on debtor actions/defenses, 10-point boldface notice and 90-day consumer oral deferral exception, and preservation of creditor security enforcement."
+    },
+    {
+      "id": "432.047:24152",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=432.047&bid=24152",
+      "sourceSha256": "87a2bbe9c13ee623b45a0c45b4d5486cd355b6ec604e59e54027627ce13655ec",
+      "textSha256": "65f62a15cd026bccccc3371097eadf81dafe585ecd331a005d542de1eb95af21",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Credit agreement defined",
+          "bodySha256": "e80f4e810194984d9c4af5494ec2b72de33fbd7f8f2c8e1e8158afbc58250c59",
+          "reviewNote": "Defines \"credit agreement\" for section 432.047 as an agreement to lend, forbear repayment, extend credit, or make another financial accommodation."
+        },
+        {
+          "number": 2,
+          "title": "Writing and execution requirement for debtor claims and defenses",
+          "bodySha256": "033a9fa3f41278e5e70e2535c4b6f11b7ec5d5ba93285ad58f6efa38232aeedd",
+          "reviewNote": "Covers bar on debtor actions or defenses regardless of legal theory unless credit agreement is in writing, signed by both parties, and contains consideration."
+        },
+        {
+          "number": 3,
+          "title": "Required commercial boldface notice and consumer credit exemption",
+          "bodySha256": "17a426361eab0696edce1d058b531d38f0503bf78a9aa4881dd7ee9d551dbd12",
+          "reviewNote": "Covers required boldface ten-point statutory warning notice and express restriction of section 432.047 to commercial credit agreements only."
+        },
+        {
+          "number": 4,
+          "title": "Creditor enforcement of security instruments unaffected",
+          "bodySha256": "6a1939815cd10134895d06f2e112eda48088eb64170207da9ef13863a88bd181",
+          "reviewNote": "Preserves creditor enforceability of promissory notes, guaranties, security agreements, deeds of trust, mortgages, and similar instruments creating payment obligations or security interests."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 4 subsections against archived text; aligned subsection 1 and 4 titles with their text by removing \"commercial\" where the commercial-only restriction appears in subsection 3(2)."
+    },
+    {
+      "id": "432.210:24159",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=432.210&bid=24159",
+      "sourceSha256": "4b47ae9a3027f79d7d27cea51aa5792443661abd639009b40b88f4efec65d416",
+      "textSha256": "3e1895b6c114cb9229344e1dc3f7e6b57e0d1aa0e7b1e86b191873931bbb5f7b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Scope of Uniform Electronic Transactions Act",
+          "bodySha256": "2c34a5cc9cc1610d53fd1de8828eacbde5fab9e8c4ef21f728b8b39e415bc98d",
+          "reviewNote": "Covers applicability of sections 432.200 to 432.295 to electronic records and electronic signatures relating to transactions."
+        },
+        {
+          "number": 2,
+          "title": "Exclusions for wills, trusts, and specified commercial code provisions",
+          "bodySha256": "6a826ac93ed11e122a8dd9287e0e43110d9a463479d15871b47bb75285db9ccf",
+          "reviewNote": "Covers exclusion of laws governing wills, codicils, testamentary trusts, and specified uniform commercial code articles from UETA coverage."
+        },
+        {
+          "number": 3,
+          "title": "Applicability to excluded transactions governed by other laws",
+          "bodySha256": "fa300faa4106716951a6b51e1cf7d38283619401289d1b8a21fc8f1d61141350",
+          "reviewNote": "Covers application of UETA to electronic records or signatures involved in excluded transactions to the extent governed by other laws."
+        },
+        {
+          "number": 4,
+          "title": "Application of other substantive law",
+          "bodySha256": "10349895db37aa8b07b465a306c93512687718c56a0dce680ee03bc73f6896c5",
+          "reviewNote": "States that a transaction subject to sections 432.200 to 432.295 is also subject to other applicable substantive law."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 4 subsections against archived text: UETA scope, wills/trusts and UCC exclusions, coverage of excluded transactions under other laws, and revised subsection 4 title from \"Subordination\" to \"Application of other substantive law\"."
+    },
+    {
+      "id": "432.220:24161",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=432.220&bid=24161",
+      "sourceSha256": "97369495fc95e4135c0602c6a99593db7000593fb889707e5bc44f40ecf704f5",
+      "textSha256": "9d9b7f0271802fe645be4ba1f3780c91741315d30921e835c3d5ef9c8f101f92",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "No mandatory creation or use of electronic records or signatures",
+          "bodySha256": "147b306e1ffa0022ce87010ecf34ce0771807540e64268f7b4c225b434536728",
+          "reviewNote": "Covers principle that UETA does not require records or signatures to be created, sent, or processed by electronic means."
+        },
+        {
+          "number": 2,
+          "title": "Requirement of mutual agreement to conduct electronic transactions",
+          "bodySha256": "c262b19e1018720d3d8b75b7206b0aa56b003c4697167760905cc63d1097b6f4",
+          "reviewNote": "Covers requirement of mutual agreement to conduct transactions electronically, determined from context and conduct."
+        },
+        {
+          "number": 3,
+          "title": "Nonwaivable right to refuse other electronic transactions",
+          "bodySha256": "7a32e4a6ade022b8e38981c2ea0086aa0baef3bf27d74694be459cd63878e8a6",
+          "reviewNote": "Covers nonwaivable right of a party to refuse other transactions by electronic means despite prior agreement."
+        },
+        {
+          "number": 4,
+          "title": "Variation of statutory provisions by agreement",
+          "bodySha256": "6337eab682e504adabdc3eec8c3c5577c181fa5d5be6f4c4c61b6ce7a72d052b",
+          "reviewNote": "Covers authorization to vary statutory effects by mutual agreement and interpretation of standard statutory terms."
+        },
+        {
+          "number": 5,
+          "title": "Determination of legal consequences",
+          "bodySha256": "44fbaa809f640302828053df1254268fef9d7e0e36d60f78aca4a4ec831ad546",
+          "reviewNote": "Covers rule that legal consequences of electronic records or signatures are determined by UETA and other applicable law."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 5 subsections against archived text: voluntary electronic use, mutual agreement requirement, nonwaivable refusal right, variation by agreement, and legal consequence determination."
+    },
+    {
+      "id": "432.230:24163",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=432.230&bid=24163",
+      "sourceSha256": "f6e6db68bf29c6b9e5a6e9ffab289f4e7da10c384f9a99b0107e970e71d90e99",
+      "textSha256": "3e6741f7e336273451504d3ab564b25dd8f2691957779e7dcfd628c4c217a618",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Legal recognition of electronic records and signatures",
+          "bodySha256": "88cf3c85cdbc757add39ce11675ae2f01be37c5553b2fcb8ced679bc43b9a477",
+          "reviewNote": "Covers prohibition against denying legal effect or enforceability to records or signatures solely because they are electronic."
+        },
+        {
+          "number": 2,
+          "title": "Legal recognition of contracts formed using electronic records",
+          "bodySha256": "35002c098b405caae246f3ffe3d8527bbff871b425cd51b90c0788b73c7956c2",
+          "reviewNote": "Covers prohibition against denying contract enforceability solely because electronic records were used in formation."
+        },
+        {
+          "number": 3,
+          "title": "Electronic records satisfy writing requirements",
+          "bodySha256": "9a20d5d12e7fbdd9f76e2256070f74a07e70bf494884348272d405e36e3ce51b",
+          "reviewNote": "Covers rule that an electronic record satisfies any legal requirement that a record be in writing."
+        },
+        {
+          "number": 4,
+          "title": "Electronic signatures satisfy signature requirements",
+          "bodySha256": "1be6783cb25518b1ed89f2a7df5ee6a4ac516c9c03298c7b3b411fe001292dbc",
+          "reviewNote": "Covers rule that an electronic signature satisfies any legal requirement for a signature."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 4 subsections against archived text: legal recognition of electronic records, signatures, and contracts, and satisfaction of statutory writing and signature requirements."
+    },
+    {
+      "id": "432.235:24164",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=432.235&bid=24164",
+      "sourceSha256": "8a15fccf8e310dcc0a00ed6b3cf970e8cd9f4d0890713fad28335436eeee0ed2",
+      "textSha256": "655f741fcabb0adaeed521a8b13c872c074cbc7da955f12823f4d1389f46d416",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Requirement of electronic records capable of retention",
+          "bodySha256": "0cc42bb63f1a98e1bace2dd0ec83bfc612fa0b9538ff4cb405b3ea74e4ad3465",
+          "reviewNote": "Covers satisfaction of written delivery requirements by electronic records capable of retention and printing by the recipient."
+        },
+        {
+          "number": 2,
+          "title": "Compliance with other laws governing posting, display, or transmission",
+          "bodySha256": "f662b92023a1e5be510a69e076068961f068eec57563f59ba3af0ea5f1e835c2",
+          "reviewNote": "Covers obligation to comply with other laws prescribing specific posting, transmission methods, or formatting."
+        },
+        {
+          "number": 3,
+          "title": "Unenforceability of electronic records when sender inhibits retention",
+          "bodySha256": "e44a9f3ef57e253f51309bcb5d9e5967d3d8c2c872da23b1c597351eb70ba5d2",
+          "reviewNote": "Covers unenforceability of electronic records against recipients where sender inhibits printing or storage capabilities."
+        },
+        {
+          "number": 4,
+          "title": "Limitations on varying retention and mailing requirements by agreement",
+          "bodySha256": "24cb41ef0961c07b5f6b05136e667bfb6b350b356dcc22b93f0420c44f8e79bf",
+          "reviewNote": "Covers restrictions on varying statutory retention and mailing requirements by agreement, except where permitted by other law."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 4 subsections against archived text: retention-capable electronic delivery, compliance with posting/display/transmission/formatting laws, unenforceability when sender inhibits retention, and limits on variation by agreement."
+    },
+    {
+      "id": "432.240:24165",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=432.240&bid=24165",
+      "sourceSha256": "1036c5a170f0c765c4f384af1192e864869a3537cd536cbd29d8536d639e7e31",
+      "textSha256": "5f1c795abcbd5fd94c5cb932d0f2bd40ccc49101226030d53f6db2cfcc4acf45",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Attribution of electronic records and signatures",
+          "bodySha256": "16b05ac4fd8d8d0a46595c14ee898d3676485544f66ba1199db08e390360cf9e",
+          "reviewNote": "Covers attribution of electronic records and signatures to a person based on acts and security procedure efficacy."
+        },
+        {
+          "number": 2,
+          "title": "Determination of legal effect from context and circumstances",
+          "bodySha256": "fab96dd81dd31f055afdaa74da16ca6dcaeb1b5f31309e7033a0cfbd9ba24359",
+          "reviewNote": "Covers determination of legal effect of attributed records or signatures from context, circumstances, and agreements."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified both subsections against archived text: attribution of electronic records and signatures via act or security procedure and determination of legal effect from context and agreement."
+    },
+    {
+      "id": "432.255:24168",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=432.255&bid=24168",
+      "sourceSha256": "86e43d7ba6b013f528b289921f056dc23bb46864297045ab1bf6156de6fdd9cf",
+      "textSha256": "b80753c66c04484521ae7d4d48793c9ec0ade917897789489155ae4f13fd77d6",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Retention of electronic records satisfying statutory retention rules",
+          "bodySha256": "2b2820c07174a8ff0a302b8c9b7b2945cab0f2f01ada6ee173f60053172127bf",
+          "reviewNote": "Covers criteria for electronic records to satisfy statutory retention requirements by accurate reflection and accessibility."
+        },
+        {
+          "number": 2,
+          "title": "Exemption for transmission metadata and routing information",
+          "bodySha256": "0c6836148806f66599790c146cae0db0f173459b5ff078e3cfcd2448989c47bb",
+          "reviewNote": "Covers exemption of transmission, routing, and communication metadata from record retention mandates."
+        },
+        {
+          "number": 3,
+          "title": "Use of third-party record retention services",
+          "bodySha256": "ae3b2d19e6b5d7944d18316771d45858569a48a44766344161b8f3344d708d65",
+          "reviewNote": "Covers authorization to satisfy statutory record retention requirements through third-party services."
+        },
+        {
+          "number": 4,
+          "title": "Electronic records satisfy original record requirements",
+          "bodySha256": "aedd241d332b9bb688533c19ee7b7db15732394b90692bbd1b1477da83b8690d",
+          "reviewNote": "Covers rule that properly retained electronic records satisfy legal mandates requiring original records."
+        },
+        {
+          "number": 5,
+          "title": "Electronic retention of checks satisfying check retention laws",
+          "bodySha256": "97fdea5e0fcc91f43d23d1620e1669424074e95fcc34295ef30b60ecf0d246d0",
+          "reviewNote": "Covers satisfaction of check retention requirements by retaining front and back electronic check images."
+        },
+        {
+          "number": 6,
+          "title": "Evidentiary and audit purposes satisfied by electronic retention",
+          "bodySha256": "1e09322b7e8ab1b625102363baf95317e25083092ef1fca66d701b902679d813",
+          "reviewNote": "Covers satisfaction of evidentiary and audit retention mandates absent subsequent statutory prohibition."
+        },
+        {
+          "number": 7,
+          "title": "Governmental agency authority to specify additional retention rules",
+          "bodySha256": "9831306d655d1c5c14d3ee1ce97c52247e2336511e9439ab906bac7fbc285048",
+          "reviewNote": "Covers preservation of state agency authority to establish additional record retention rules within agency jurisdiction."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 7 subsections against archived text: electronic record retention criteria, transmission-only information exclusion, third-party retention, original-record and check-retention satisfaction, post-August 28, 2003 audit/evidentiary rule, and agency authority."
+    },
+    {
+      "id": "432.270:24171",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=432.270&bid=24171",
+      "sourceSha256": "e2db987bcb72da372704572a8d78eab1ae904e1835599e7c362a6f03c7b47805",
+      "textSha256": "627e1065ae36d5f292696dcd973ccaf024122c89c211210ba33979b880237f9b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Determination of when electronic records are sent",
+          "bodySha256": "a4569ce6188f2557e666a0cd6eac4e2201dd1d94e4f6733561ea1a539a2f4589",
+          "reviewNote": "Covers standard criteria determining when an electronic record is sent, including addressing and system transmission."
+        },
+        {
+          "number": 2,
+          "title": "Determination of when electronic records are received",
+          "bodySha256": "3b92919b9a37ac2ea99cb005ba72b3f29d86e394598d9fe011d425e7e0d8ac74",
+          "reviewNote": "Covers criteria determining when an electronic record is received upon entering designated processing systems."
+        },
+        {
+          "number": 3,
+          "title": "Physical location of processing system immaterial to receipt",
+          "bodySha256": "72daea2a18afe47f56aa260a876729e80e5ba4aba754f5957fe7493198dd150f",
+          "reviewNote": "Covers rule that the physical location of processing systems does not alter the legal place of receipt."
+        },
+        {
+          "number": 4,
+          "title": "Presumed places of sending and receipt at places of business",
+          "bodySha256": "53fa37086d36c9615b514a69969e518d15960e20073bb1516db82295d689314b",
+          "reviewNote": "Covers statutory presumption that electronic records are sent from and received at places of business or residence."
+        },
+        {
+          "number": 5,
+          "title": "Receipt effective without individual awareness",
+          "bodySha256": "50f45b390758efb2b346003e1a7c7cadf003621a7b4b491f60951246233efe26",
+          "reviewNote": "Covers effectiveness of electronic record receipt regardless of whether any individual is aware of the arrival."
+        },
+        {
+          "number": 6,
+          "title": "Electronic acknowledgment establishing receipt but not content match",
+          "bodySha256": "3afaf832bb41e8b0fb6710c73e5fd3efe2963de7cb41d0254cae096db21ffe00",
+          "reviewNote": "Covers rule that automated electronic acknowledgments establish receipt but do not prove identical content correspondence."
+        },
+        {
+          "number": 7,
+          "title": "Actual knowledge of non-sending or non-receipt governed by other law",
+          "bodySha256": "f00cbe10fad6dc0e59b6479722e132b9e409219f239fd73c5696ec584dd6db3a",
+          "reviewNote": "Covers application of other law to determine legal consequences when a party knows records were not actually sent or received."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 7 subsections against archived text: default rules for time and place of sending and receipt, system location immateriality, awareness immateriality, electronic acknowledgments, and actual knowledge of non-sending or non-receipt."
+    },
+    {
+      "id": "432.275:24172",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=432.275&bid=24172",
+      "sourceSha256": "dd14faf849f2699b06347a8d153eeca9b3ca8e3e2b2c0002d87efdafc9e63e06",
+      "textSha256": "d296a5262d039b72a486307d210037bcac8b7400b6b3cf92c1e7e230cabd0ac7",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Transferable record defined",
+          "bodySha256": "3d40c4a495d598606c28b4b2e298a244df54f296909a4b9fa1ee774b04e28bb7",
+          "reviewNote": "Defines \"transferable record\" as an electronic record that would be a UCC Article 3 note or Article 7 document if in writing and is expressly agreed by the issuer to be transferable; source footnote notes section 400.7-604 was repealed in 2017."
+        },
+        {
+          "number": 2,
+          "title": "Control of transferable records",
+          "bodySha256": "dfda423e63170cdeb72e8a5df79e6b39893f7b887cd8b24d220cb9557f383b0f",
+          "reviewNote": "Covers standard for establishing legal control over transferable electronic records through reliable transfer systems."
+        },
+        {
+          "number": 3,
+          "title": "System requirements for establishing control of transferable records",
+          "bodySha256": "272b053698338d2b80029a0beb789d463bc23e734779b8c4390a3aab4b210e9d",
+          "reviewNote": "Covers six statutory criteria for authoritative copy creation, storage, and unalterable assignment to prove control."
+        },
+        {
+          "number": 4,
+          "title": "Rights and defenses of person in control under commercial code",
+          "bodySha256": "f38e90a7cae965f4491340554618cd450d096f9aa57f992d646c14e5b488e0cc",
+          "reviewNote": "Treats a person in control as a UCC holder (with equivalent rights and defenses, without delivery, possession, or endorsement); source footnote notes 2017 revisor update of section 400.1-201 subdivision reference from (20) to (21)."
+        },
+        {
+          "number": 5,
+          "title": "Obligor rights and defenses under commercial code",
+          "bodySha256": "791c5f86f7406e6abee1a3b4fa245eeae06951aad50259a0129085c17464cb18",
+          "reviewNote": "Covers reservation of equivalent statutory rights and defenses to obligors under electronic transferable records."
+        },
+        {
+          "number": 6,
+          "title": "Proof of control upon request in enforcement proceedings",
+          "bodySha256": "90d3a57d9d2967a69a93ddab940ab3b32d756f2c93c8ea77a7dc61f3a1f21382",
+          "reviewNote": "Covers duty of party enforcing transferable records to provide reasonable proof of control upon request."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 6 subsections against archived text; noted 2017 repeal of referenced section 400.7-604 in subsection 1 and 2017 revisor subdivision renumbering in subsection 4."
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "431.056:48803",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=431.056&bid=48803",
+      "sourceSha256": "8ebafa202e1b3a1a394547c7c28edc042c2892f1d50ea2ebcf44b1ee6a16b09c",
+      "textSha256": "799d831d3b418abbdc4f422e03e813b4c4c9d6adec40d310bafcffdf5c38b221",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Contractual capacity of qualified self-supporting minors",
+          "bodySha256": "255750f4cc5607f34a4c8884883f542c7e02fa20835b5df7f1224804eca2213b",
+          "reviewNote": "Sets four conjunctive conditions for 16- or 17-year-old homeless or domestic-violence-victim minors who are self-supporting and have express or implied parental consent to contract for listed necessities and services."
+        },
+        {
+          "number": 2,
+          "title": "Capacity of minors in division custody to contract for auto insurance",
+          "bodySha256": "a81a54b916b8ae9f6637dec1cabd8fba5c0f32ee6d7db65379a599fbac7cc7a9",
+          "reviewNote": "Covers qualification of minors aged 16 or older in children's division custody to contract for automobile insurance with court or division consent, and associated liability."
+        },
+        {
+          "number": 3,
+          "title": "Capacity of minors in division custody to open bank accounts",
+          "bodySha256": "538eeec8f308aad7121b5390be52dc155b337f5ef0390aec2f69e10ad066c3f9",
+          "reviewNote": "Covers authorization of minors aged 16 or older in children's division custody to contract for bank accounts with consent, and associated liability for fees."
+        },
+        {
+          "number": 4,
+          "title": "Contracting entity immunity and bar on disaffirmance",
+          "bodySha256": "f58784f8fb0bb8621ebcc5f34829193eb8150a0a5fe4e6c7efdb48cbd0d75c50",
+          "reviewNote": "Grants civil and criminal immunity to entities and licensed providers contracting under subsection 1 except for gross negligence or willful or wanton acts or omissions, and bars age-based disaffirmance of consent."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 4 subsections against archived text; revised subsection 1 title to reflect conjunctive eligibility requirements and subsection 4 title to remove unsupported \"good-faith reliance\" phrasing and include the disaffirmance bar."
+    },
+    {
+      "id": "431.058:24122",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=431.058&bid=24122",
+      "sourceSha256": "0955acd92d55a0dfd662ca02e7d8aba1a8b5bd149fc237b0256f21e2562c67f0",
+      "textSha256": "03be326450b9f692bcaf2f7fbdb79d6ef0ddf08ec51454af1fb5dae0c2b31f4a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions for relative caregiver consent",
+          "bodySha256": "ddf30431a8db51aa0a4a2b5557864c01e0f3885a6c7c51fa7fdd14c3d7d8120e",
+          "reviewNote": "Defines adult, child or minor, educational services, health care provider, parent, and relative caregiver for sections 431.058 to 431.062."
+        },
+        {
+          "number": 2,
+          "title": "Relative caregiver consent to medical treatment and educational services",
+          "bodySha256": "45f4d58e511db60870915be454183af1d90c78195c7d9ccacf217d5dfd89bdc7",
+          "reviewNote": "Covers authority of relative caregivers acting under affidavit to consent to medical treatment and educational services upon parental delegation or reasonable effort."
+        },
+        {
+          "number": 3,
+          "title": "Parental decisions supersede relative caregiver consent",
+          "bodySha256": "e3a8760752295f0882766c95338e9f0257933f5f633fd580360a0bb7187dd77f",
+          "reviewNote": "Covers parental authority to supersede relative caregiver decisions, provided parental decisions do not threaten the child's life, health, or safety."
+        },
+        {
+          "number": 4,
+          "title": "Immediate notice and invalidation when child leaves caregiver",
+          "bodySha256": "19edf47bd20e2a9ed5ae2913daa4a75da45f3f24796764187523719f8a57067b",
+          "reviewNote": "Covers obligation of relative caregiver to notify providers and schools immediately when the child stops living with caregiver, invalidating the affidavit."
+        },
+        {
+          "number": 5,
+          "title": "One-year expiration of relative caregiver affidavit",
+          "bodySha256": "23ec5780e7bf84ca2ab3fc6afd576570076de9a75790a36b9b1b1e3b7db76ccf",
+          "reviewNote": "Covers expiration of caregiver affidavit one year after submission or signing."
+        },
+        {
+          "number": 6,
+          "title": "Continued parental liability for medical and educational expenses",
+          "bodySha256": "c31dbcbed7bdf2e7857263a2291eb4416ecccbe6f135d3757200062755633f42",
+          "reviewNote": "Covers retention of parental liability for payment of medical treatment or educational services provided pursuant to relative caregiver consent."
+        },
+        {
+          "number": 7,
+          "title": "Caregiver immunity from liability upon statutory compliance",
+          "bodySha256": "22b7567544342478173deafa7d7f3b3640397bc225a91c033ee0f063378a5976",
+          "reviewNote": "Covers prohibition against creating causes of action against relative caregivers who comply with statutory provisions."
+        },
+        {
+          "number": 8,
+          "title": "Mandatory contents and execution of relative caregiver affidavit",
+          "bodySha256": "bcecfc5f637a8c755ff5bf7c56f2ca026689499dff3f5d78fce18bab31b56568",
+          "reviewNote": "Covers required statutory elements and verification under penalty of perjury for relative caregiver affidavits."
+        },
+        {
+          "number": 9,
+          "title": "Statutory form for relative caregiver affidavit",
+          "bodySha256": "d22b3e855382947bcdfd9fb8dd94d934b410062684d592ca1e73ffbee2b2100b",
+          "reviewNote": "Covers permissible statutory form and content for relative caregiver affidavits."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 9 subsections (including statutory affidavit form) against archived text; noted catchline-vs-body mismatch (catchline cites immunization only while body covers section 431.061 medical treatment and educational services) and expanded subsection 1 reviewNote to list all six defined terms."
+    },
+    {
+      "id": "431.061:24124",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=431.061&bid=24124",
+      "sourceSha256": "0837f5a669003395d482a4895a608808db3ddc1e430c11cf41c5d247a46ecc2e",
+      "textSha256": "0d4017a6f174d584a037be155403892b1f72d4b336284f6e03b8ebd30535bbd0",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Persons authorized to consent to surgical or medical treatment",
+          "bodySha256": "86c8cd0f71b6423816bd2e9965240be831e595f30bef3e7be11cf238b205a38a",
+          "reviewNote": "Covers statutory list of persons authorized to consent to medical or surgical treatment, including adults, parents, certain minors, and relative caregivers."
+        },
+        {
+          "number": 2,
+          "title": "Liberal construction including adoptive and step-relationships",
+          "bodySha256": "5d670c66b573eea3bc3962126a61360bdbd2c040a55ebb78dee926088fd92ba6",
+          "reviewNote": "Covers liberal statutory construction extending family relationships to adoptive, step, and half-blood relationships."
+        },
+        {
+          "number": 3,
+          "title": "Sufficiency of consent by single authorized person",
+          "bodySha256": "f19ab4a28606f2a8190ff857f3d277e6e087bf050c4693f0822da41fe1f29808",
+          "reviewNote": "Covers rule that consent by one authorized person suffices notwithstanding protests or lack of consent from other authorized persons."
+        },
+        {
+          "number": 4,
+          "title": "Justified reliance on good-faith representations of authority",
+          "bodySha256": "8dc4c262c15e721e541d4decefaf9bb8a815cc030ecb100b792df7dd4eed2db6",
+          "reviewNote": "Covers justified reliance by medical providers acting in good faith without contrary notice upon representations of identity, age, and authority."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 4 subsections against archived text (including cross-references and 1985 Missouri Osteopathic Foundation case annotation): authorized medical/surgical consenters, liberal relationship construction, single-person consent sufficiency, and good-faith reliance."
+    },
+    {
+      "id": "431.064:24127",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=431.064&bid=24127",
+      "sourceSha256": "1ee23c27b16686280a44149e3e8ff2a53a254bf530ab8917d53f7fc5ef233e26",
+      "textSha256": "d6be0656585f6d4b427f9e25b61a2e6e75ec932b41f7d814f20618058db9f094",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Priority order of consent for experimental treatment in teaching hospitals",
+          "bodySha256": "6e34663bc991e1b71bc47091df2e54d0ee18b7d7dc41dde3f103131f08477d1f",
+          "reviewNote": "Covers order of priority among legal guardians, attorneys-in-fact, and family members to consent to experimental treatment in teaching hospitals for incapacitated adults."
+        },
+        {
+          "number": 2,
+          "title": "Prohibition against consent contrary to patient's expressed permission",
+          "bodySha256": "c5384bb0c0d0a057466d5c0da70fdb6af24bb08cdf7ed446e0b9cf5b6f820a9a",
+          "reviewNote": "Covers prohibition against surrogate consent that contravenes the incapacitated adult's expressed wishes or permission."
+        },
+        {
+          "number": 3,
+          "title": "Life-threatening emergency exception and institutional review board waiver",
+          "bodySha256": "58a63ae45597630fcbe15c2621360d6006f5eb59d6ecd0bc77c6996a967efd4f",
+          "reviewNote": "Covers emergency research exception dispensing with consent in life-threatening emergencies pursuant to institutional review board approval and federal regulations."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections against archived text (effective 6-12-06): teaching-hospital surrogate consent priority for experimental treatment, bar against contravening expressed permission, and life-threatening emergency IRB waiver under federal regulations."
+    },
+    {
+      "id": "431.066:24129",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=431.066&bid=24129",
+      "sourceSha256": "da4f57d3c37b05a52c739eca3db34699628d70eaec889c3ac881994a89ecb3da",
+      "textSha256": "31e3ea8aa67c72b717bae23bb250e133357398570f710788cc4f3ad0223d4ab5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Payment of life insurance proceeds up to ten thousand dollars to married minors",
+          "bodySha256": "f6f73eaebebc2dfa4b9f58f4b6755024bc492c7347d4e4033e276c3f13ce16ec",
+          "reviewNote": "Covers insurer authorization to pay life insurance proceeds up to ten thousand dollars directly to married minor beneficiaries without conservatorship."
+        },
+        {
+          "number": 2,
+          "title": "Signed acknowledgment as legal receipt",
+          "bodySha256": "903b7be572a078b4da13a21e52a77a26ac6da15dad99569cf3fd5db08c508cb4",
+          "reviewNote": "Covers legal sufficiency of the married minor beneficiary's signed acknowledgment as a valid legal receipt for insurance proceeds."
+        },
+        {
+          "number": 3,
+          "title": "Prohibition against disaffirmance upon reaching age twenty-one",
+          "bodySha256": "a939d2205ca458bb811e5f1fa1582f3ecc925f8e8a39bdc017a5e7d48a9c9037",
+          "reviewNote": "Covers prohibition against disaffirmance of receipt or acknowledgment upon the minor attaining twenty-one years of age."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections against archived text: permissive direct payment up to $10,000 of spousal life insurance proceeds to married minors aged 18 or older, legal receipt effect, and bar on disaffirmance at age 21."
+    },
+    {
+      "id": "431.068:24131",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=431.068&bid=24131",
+      "sourceSha256": "c71490b16a04e4c9eb54c79285cda418f13aaf07a523c3aeecab9d7cf21b3c4d",
+      "textSha256": "ce0e001c356e116a847a583b989122785596a2a587bc819886cab0e7bbfac39d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Voluntary blood donation by persons aged seventeen or older",
+          "bodySha256": "8fa44244ee8a55f8a43ab0e6ddae95bcf91f6283e554f7b1edccb93f2aa00963",
+          "reviewNote": "Covers authority of individuals aged seventeen or older to donate blood voluntarily without parental consent."
+        },
+        {
+          "number": 2,
+          "title": "Blood donation by sixteen-year-olds with written parental permission",
+          "bodySha256": "788e16c739a79d28c74eb0c6d14fcb807dbcf4fd0c5b344f37257c07e6315fd4",
+          "reviewNote": "Covers authorization for sixteen-year-olds to donate blood upon obtaining written permission from a parent or guardian."
+        },
+        {
+          "number": 3,
+          "title": "Written authorization required for compensation of minor blood donors",
+          "bodySha256": "18eb7f36dd463ab2ff64e37fbe9a043378ffa78dd486c8584ad3963a3e349b16",
+          "reviewNote": "Covers prohibition against minors under eighteen receiving compensation for blood donations without written parental or guardian authorization."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections against archived text: permissive voluntary blood donation at age 17+, 16-year-old donation with written parental/guardian permission, and written authorization required for minor compensation."
+    },
+    {
+      "id": "431.180:24144",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=431.180&bid=24144",
+      "sourceSha256": "f57c2dd9a7c0e19a45ea08ffabf78390091f201a461a63cc88899ee75ca75464",
+      "textSha256": "e7b4651b863f23d9cdc35743cd3c42406df9425c66bc7e3d011a4cacde3f66e1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prompt payment duty under private design and construction contracts",
+          "bodySha256": "618169121f49393a5fee957c87c018524bdb318297fb43688d6b09c08ff6c700",
+          "reviewNote": "Covers duty of parties to private design or construction contracts entered after August 28, 1995, to make scheduled payments."
+        },
+        {
+          "number": 2,
+          "title": "Civil action, interest up to one and one-half percent, and attorney fees",
+          "bodySha256": "a39d5a03b8ed8666d6ac8254ad08f1deab08614e19bb0399f70b9cae1211f980",
+          "reviewNote": "Covers civil actions for nonpayment, allowing discretionary interest up to one and one-half percent per month, attorney fees, and arbitration remedies."
+        },
+        {
+          "number": 3,
+          "title": "Exemption for owner-occupied residential property of four units or less",
+          "bodySha256": "3e3293ff4e86e3df1ebf6e741f943b9d1fcc1731638c9d3e7fb99cdd4e74b0d0",
+          "reviewNote": "Covers statutory exemption of private construction contracts for owner-occupied residential properties of four units or less."
+        },
+        {
+          "number": 4,
+          "title": "Scope of private design and construction work",
+          "bodySha256": "b4cbad176aac582442c85d803a3692d65da795d754674bffb8ebea665c1acecf",
+          "reviewNote": "Defines design or construction work to include building, roadway, structure, or real-property work, demolition or excavation, and related professional services; original-rolls footnote notes word \"of\" for \"or\"."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 4 subsections against archived text including original-rolls footnote (\"of\" for \"or\" in subsection 4): private design/construction prompt payment, civil action with discretionary 1.5%/month interest and attorney fees or arbitration, four-unit owner-occupied exemption, and work scope."
+    },
+    {
+      "id": "431.181:24145",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=431.181&bid=24145",
+      "sourceSha256": "7b8488a1948075d743533741a37656af730cbea238cdf9db4d1d2679c7a8f8e2",
+      "textSha256": "7a97ad0e2f95ea606cce8ebb18283f6e48eb905d2fa3cd4ada3d8249198e5ad2",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Payment schedule for property transportation contracts",
+          "bodySha256": "3f826ee21fb5ab18835882234cea05cd9c732fb28e931b21069250d5838bbb4f",
+          "reviewNote": "Covers requirement to pay property transportation providers according to contract terms or within thirty days following timely, undamaged delivery."
+        },
+        {
+          "number": 2,
+          "title": "Civil action for failure to pay transportation providers",
+          "bodySha256": "528ccd2491878da0311c6242f489d1929f4a5b3ce19938a48997b81e7faabfeb",
+          "reviewNote": "Covers authorization for unpaid transportation providers to bring a civil action in a court of competent jurisdiction."
+        },
+        {
+          "number": 3,
+          "title": "Manufacturer reimbursement rates for equipment warranty repair work",
+          "bodySha256": "e7352d43d278506b86cec7a9d113019f6867ed561df5efa4b1a66369e8b8b172",
+          "reviewNote": "Covers requirement that power equipment manufacturers reimburse retailers for warranty work at rates equal to or exceeding nonwarranty hourly labor rates."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections against archived text: scheduled or 30-day payment for property transportation, civil action for nonpayment, and manufacturer warranty repair labor rate reimbursement under section 407.850."
+    },
+    {
+      "id": "431.202:24147",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=431.202&bid=24147",
+      "sourceSha256": "9593eba489a4a933bb3dc4160103d0954c5685df9481f0bd17edfe6cdc8769fb",
+      "textSha256": "0b2d6507ec02db95e2f61c0d7c7e2551e3bdb99222c2dec47773ff72488d9058",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Enforceability of employee nonsolicitation and noninterference covenants",
+          "bodySha256": "23d87de1977d661411dcb64e71c3002574dab6689c9a091bb4fe4a27e65abe32",
+          "reviewNote": "Covers criteria for enforceable employee nonrecruitment and nonsolicitation covenants between business entities or employers and employees."
+        },
+        {
+          "number": 2,
+          "title": "Conclusive presumption of reasonableness for covenants up to one year",
+          "bodySha256": "2578ae6c7f40945394f8dba1cd4d1fe0e81ea5360f79e39442aa7c07d0df1845",
+          "reviewNote": "Covers determination of reasonableness based on facts and circumstances, with conclusive presumption for employer covenants up to one year."
+        },
+        {
+          "number": 3,
+          "title": "Noncompetition covenants unaffected",
+          "bodySha256": "1604648fa44f09a6f7d43a363d9eb47fb6b7252c272c9a56f697bb0765e138ff",
+          "reviewNote": "Clarifies that subdivisions (3) and (4) of subsection 1 do not create or affect employer-employee noncompetition covenants; original-rolls footnote notes omitted word \"this\"."
+        },
+        {
+          "number": 4,
+          "title": "Enforceability in other circumstances protecting legitimate business interests",
+          "bodySha256": "8012d1b1b39d7f94d3b1cae15045f4703aa320c1a1e2e68e5c084881210aabb8",
+          "reviewNote": "Covers enforceability of noninterference covenants in other circumstances where reasonably necessary to protect legally permissible business interests."
+        },
+        {
+          "number": 5,
+          "title": "Protection of employee right to seek and accept employment",
+          "bodySha256": "f20380fba6162897fd49e29f4c3458d1235b1bc857cbe3f76f6a5361ba462272",
+          "reviewNote": "Preserves an employee's right to seek or accept employment with another employer upon or after voluntary or nonvoluntary termination (archived text reads \"Nothing is this section\")."
+        },
+        {
+          "number": 6,
+          "title": "Retrospective and prospective effect",
+          "bodySha256": "5df8a881959ded6cb3ac4624cfab651510a521e587d65d61a4475e0736d896d8",
+          "reviewNote": "Covers express legislative declaration that section 431.202 applies retrospectively as well as prospectively."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 6 subsections against archived text (effective 7-01-01), noting original-rolls footnote (\"this\" in subsection 3) and archived typographical error (\"Nothing is this section\" in subsection 5)."
+    },
+    {
+      "id": "431.204:54027",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=431.204&bid=54027",
+      "sourceSha256": "2094217b91c1c0e3be0d09e90145b890d37d6303cc0cb44f3ea595fdc496c5e4",
+      "textSha256": "f8a6806ef25cccf0509f4db70442d5e128eaee673a8a7a17fd4deca4c5b4edaf",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Presumption of enforceability for owner nonrecruitment covenants up to two years",
+          "bodySha256": "2a691970bd41a3cb761cdb00c90452e951e339f540a815c6e038b0a64918d2db",
+          "reviewNote": "Establishes a presumption of enforceability and non-restraint of trade under section 416.031(1) for written owner nonrecruitment covenants lasting up to two years after the business relationship ends."
+        },
+        {
+          "number": 2,
+          "title": "Presumption of enforceability for customer nonsolicitation covenants up to five years",
+          "bodySha256": "b865bc431ac6ea2a8c58582372a16a88b9555fb164aa960f6fec0750414c438f",
+          "reviewNote": "Covers presumption of enforceability for owner customer nonsolicitation covenants limited to dealt customers and lasting up to five years."
+        },
+        {
+          "number": 3,
+          "title": "Presumption of enforceability for advance notice of ownership transfer",
+          "bodySha256": "aa745fa9e7a4c94ab98b4f2316cc84f67626d4eba485311c736bf09297ff35a5",
+          "reviewNote": "Covers presumption of enforceability for written provisions requiring business owners to give prior notice of intent to sell or dispose of ownership interests."
+        },
+        {
+          "number": 4,
+          "title": "Judicial modification and partial enforcement of overbroad covenants",
+          "bodySha256": "7fa1ba5d6d3ec5757a91a6d01afe1961bd2587df2b125954cbe512aade3cf1db",
+          "reviewNote": "Covers mandatory judicial modification and partial enforcement of overbroad covenants to the extent reasonably necessary to protect business interests."
+        },
+        {
+          "number": 5,
+          "title": "Other covenants and confidentiality agreements unaffected",
+          "bodySha256": "b7ff175f3413c4fbd77d6c574876504c399926dca051b7fb16be01457c808365",
+          "reviewNote": "Covers clarification that section 431.204 does not create or affect noncompetes, confidentiality agreements, or other covenants except as provided."
+        },
+        {
+          "number": 6,
+          "title": "Protection of owner right to seek and accept subsequent employment",
+          "bodySha256": "2ba0309baa88d8ed81b39ed020dc51d3958c03e7cdce4d548a46f8d3860de7a0",
+          "reviewNote": "Covers reservation of owner's right to seek or accept employment with another entity following relationship termination, subject to notice covenants."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 6 subsections against archived text (L. 2023 S.B. 103); removed unstated \"rebuttable\" qualifier from subsection 1 reviewNote to stay strictly faithful to statutory text."
+    }
+  ]
+}

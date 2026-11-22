@@ -1,0 +1,481 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "402.132:22877",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=402.132&bid=22877",
+      "sourceSha256": "f218468ff13c67579066e3376e9cb355426ad2d1823d2baba287b8b1b005d6a3",
+      "textSha256": "6ef9a934820431646ada2bb9514fa8c4bef93ccf22aef85bb8d8fbd439480d2d",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Consideration of charitable purposes and fund purposes",
+          "bodySha256": "3aa5f6e599652b36cc6546c0c534396da00775508e47ebd284148f80b1fbc388",
+          "reviewNote": "Requires an institution to consider its charitable purposes and institutional fund purposes in management and investment, subject to donor intent."
+        },
+        {
+          "number": 2,
+          "title": "Good faith and prudent person standard of care",
+          "bodySha256": "8a1166d820d929be6b6791b7160f54a1e452f26febf01c037d98c164fcfaaed9",
+          "reviewNote": "Requires persons managing and investing funds to act in good faith and with the care of an ordinarily prudent person, in addition to duty of loyalty."
+        },
+        {
+          "number": 3,
+          "title": "Reasonable cost incurrence and factual verification",
+          "bodySha256": "b0cfe5775de745abf439d2e0d0a43f88bf8f9615defbc9ee6d63e5e6c1c66382",
+          "reviewNote": "Restricts costs to appropriate and reasonable amounts and requires reasonable effort to verify facts relevant to fund management and investment."
+        },
+        {
+          "number": 4,
+          "title": "Pooling of institutional funds for investment",
+          "bodySha256": "199aba27693669ca01aa1ebaf138f6e2a32f7bfdbf839ec85b9dd0e361d12a74",
+          "reviewNote": "Authorizes an institution to pool two or more institutional funds for management and investment purposes."
+        },
+        {
+          "number": 5,
+          "title": "Rules, portfolio factors, and specialist standard of care",
+          "bodySha256": "c9395a370071b44493f54761c44f0e6934c0fb3ca4d191a47583f0d28dfb238d",
+          "reviewNote": "Specifies relevant factors, portfolio context, permitted investments, diversification requirement, rebalancing duties, and standard of care for persons with special skills."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 5 subsections and source notes (L. 2009 H.B. 239). Confirmed all 5 draft titles for UPMIFA charitable purpose consideration, prudent person care, reasonable costs, fund pooling, and portfolio/specialist standards."
+    },
+    {
+      "id": "402.134:22878",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=402.134&bid=22878",
+      "sourceSha256": "00483785ca5610942541a915d10dde7a035a8f94329ea1d0067f571e08df981d",
+      "textSha256": "0b525b9926e6809a073a5e114f883d96fae84c9fc3def6be43427ada59c2e560",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prudent appropriation for expenditure or accumulation",
+          "bodySha256": "9e0b3cae77a20048330a5ddb942efa042e7fb2feeff09ad388a8cbf50bff4d2e",
+          "reviewNote": "Permits institution to appropriate or accumulate prudent portions of endowment fund subject to donor intent, setting good-faith prudence factors."
+        },
+        {
+          "number": 2,
+          "title": "Specific statement required to limit appropriation authority",
+          "bodySha256": "a4d967b87c48be503d73ff6eefbceabd3f84dfca7a259a947f273bbdd45d2598",
+          "reviewNote": "Requires a gift instrument to specifically state any limitation on authority to appropriate for expenditure or accumulate."
+        },
+        {
+          "number": 3,
+          "title": "Construction of endowment terms and spending limitations",
+          "bodySha256": "b3136deacebf6e61a72822e87bef6ac30443ed1af2009d9e6664737129adb156",
+          "reviewNote": "Establishes that terms designating a gift as endowment create permanent funds but do not otherwise limit appropriation authority."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 2009 H.B. 239, A.L. 2014 H.B. 1523, effective 6-10-14). Confirmed all 3 draft titles for prudent endowment appropriation/accumulation, explicit gift instrument limits, and endowment term construction."
+    },
+    {
+      "id": "402.136:22879",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=402.136&bid=22879",
+      "sourceSha256": "5863573ed11c8405cd3a99892f13e264d694bc10e0cd82c8d0e10f88e602b773",
+      "textSha256": "a5ccaeb7fc29169182bc115affa7c983ed4fcb1d9164598afa02d252dcaa9319",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "External delegation authority and standard of prudence",
+          "bodySha256": "b808bf628aeb790f3cad39440e48e5daa373d48e45ed61c894d44f8d684f7c73",
+          "reviewNote": "Authorizes external delegation of management and investment functions subject to gift instrument limits and prudent selection, scoping, and review."
+        },
+        {
+          "number": 2,
+          "title": "External agent standard of reasonable care",
+          "bodySha256": "27ab3df67732ffad11b754076b84b2ecc56827c74cc5927d3156449f6472493e",
+          "reviewNote": "Imposes duty on external agent to exercise reasonable care to comply with scope and terms of delegation."
+        },
+        {
+          "number": 3,
+          "title": "Nonliability of complying institution for agent actions",
+          "bodySha256": "e6d50c0a926da78b5f724f4ebd1d6f75a037db2521478806cc7a2252d33d3c54",
+          "reviewNote": "Shields institution from liability for decisions or actions of external agent when institution complies with delegation prudence standards."
+        },
+        {
+          "number": 4,
+          "title": "Submission of external agent to state court jurisdiction",
+          "bodySha256": "9309de2e049d32b4eec1c5afa85b0c49ddd74ddef406cdc8894ee3c91a948840",
+          "reviewNote": "Provides that acceptance of delegation from a Missouri-subject institution constitutes submission to state court jurisdiction."
+        },
+        {
+          "number": 5,
+          "title": "Internal delegation to committees, officers, or employees",
+          "bodySha256": "a15e96159e3a93b64664cbc9e55b2ca20956a02b91cbefccdbdaa2647e2f6f2c",
+          "reviewNote": "Authorizes delegation of management and investment functions to internal committees, officers, or employees as permitted by other law."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 5 subsections and source notes (L. 2009 H.B. 239). Confirmed all 5 draft titles for external delegation prudence, agent care, institution nonliability, Missouri court jurisdiction, and internal delegation."
+    },
+    {
+      "id": "402.138:22880",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=402.138&bid=22880",
+      "sourceSha256": "8469391534cc198561bed06fcac110ac3658f2983a400d33ed8a5275bfdc64df",
+      "textSha256": "c49d620f77b5d90cc178ad4832767354a0fd3a1748f55cfe476080c7157c1ded",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Donor consent to release or modify restrictions",
+          "bodySha256": "e68e87bad105759d49b95fc24ae6921bcc302c04aa2b1465ee26f8c9c3d028ee",
+          "reviewNote": "Authorizes release or modification of management, investment, or purpose restrictions with donor's record consent, preserving charitable use."
+        },
+        {
+          "number": 2,
+          "title": "Judicial modification of management or investment restrictions",
+          "bodySha256": "4c81d9b4c5af128923ae776c6d42de48a26673b8b267bb34d12f1b84584f5165",
+          "reviewNote": "Authorizes court modification of impracticable or wasteful management or investment restrictions upon application with attorney general notice."
+        },
+        {
+          "number": 3,
+          "title": "Judicial modification of purpose or use restrictions",
+          "bodySha256": "dc70ff438c0e5c19527d6ce00523d2de79216ae6f2e34e73040c9af140d978ef",
+          "reviewNote": "Authorizes court modification of unlawful, impracticable, impossible, or wasteful purpose or use restrictions upon application with attorney general notice."
+        },
+        {
+          "number": 4,
+          "title": "Administrative release or modification for small and old funds",
+          "bodySha256": "b9402b9880a7b1cb385164c6a9c462c1c4fb6b3caaa6237d1f6b2b9b10379b5b",
+          "reviewNote": "Permits institution release or modification after sixty days' notice to attorney general for funds under fifty thousand dollars existing over ten years."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 4 subsections and source notes (L. 2009 H.B. 239). Confirmed all 4 draft titles for donor-consent release/modification, judicial modification of management/investment or purpose restrictions, and small/old fund (<$50k, >10 years) release after 60-day AG notice."
+    },
+    {
+      "id": "402.199:22886",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=402.199&bid=22886",
+      "sourceSha256": "2165be3ea2d8f4efc2d1ddd1e41b2479a078a6c8193c0e4d4c7413d2447f5ced",
+      "textSha256": "f6b6effd835398f7641c683d6882610a8d993cc3e0907b50f6c824c0812840e7",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Legislative findings regarding support for individuals with disabilities",
+          "bodySha256": "07d892a3946fd26378eaee94c026c4f818504e72d566f46c097cccc4cf9066ac",
+          "reviewNote": "Sets forth general assembly findings on governmental support, financial need, and encouraging supplementation by families and friends."
+        },
+        {
+          "number": 2,
+          "title": "Protection of public assistance benefits and resource disregard",
+          "bodySha256": "f298aeed49fd113d3ba458a909686e296fa4eaee10b19b19741f74b5aa7c39ad",
+          "reviewNote": "Directs that trust accounts not diminish public benefits or program appropriations, and requires state agencies to disregard accounts under chapter 208."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified both subsections and source notes (L. 1991 S.B. 311 through A.L. 2011 S.B. 70). Confirmed draft titles for legislative findings on disability support and Missouri family trust public benefit protection/ch. 208 resource disregard."
+    },
+    {
+      "id": "402.201:22888",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=402.201&bid=22888",
+      "sourceSha256": "d5539bc385ccc083be45ca87a6c812cf142a43446b7b1344e43d1aa8dcb464be",
+      "textSha256": "ca880ceb27e3bf68f46b6bf1c4e926cf68ce3614df1cd26db4c8987be5015ff2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Creation and nonprofit status of board of trustees",
+          "bodySha256": "af77e4b229c93200a21c6f52c0893537286249fbe8135151aba60505a888532e",
+          "reviewNote": "Creates Missouri Family Trust Board of Trustees as an instrumentality and nonprofit corporation authorized to seek 501(c)(3) status."
+        },
+        {
+          "number": 2,
+          "title": "Appointment, qualifications, and terms of board members",
+          "bodySha256": "f30adb624a65e2cd6ea8e3c60f8e084ea0791fd5603702ead793102b0d5311f2",
+          "reviewNote": "Establishes nine-member governor-appointed board consisting of family members of persons with mental illness, developmental disabilities, and business experts."
+        },
+        {
+          "number": 3,
+          "title": "Definition of immediate family",
+          "bodySha256": "ae4e7d9d3b52bbcf06efc3de6998c656362f6aae0d716dc2851a280a450dca84",
+          "reviewNote": "Defines immediate family to include spouse, parents, parents of spouse, children, spouses of children, and siblings."
+        },
+        {
+          "number": 4,
+          "title": "Compensation prohibition and expense reimbursement",
+          "bodySha256": "ff011d67bbd2931da3fdba27cec6c2490e08fd20290379246d4d70a6a2841e59",
+          "reviewNote": "Prohibits trustee compensation while authorizing reimbursement for necessary expenses actually incurred."
+        },
+        {
+          "number": 5,
+          "title": "Open meetings and public records compliance",
+          "bodySha256": "7c16aba9751476fbe9d0772626c3268e3236c1ea3f93a42a3c997a4509172a48",
+          "reviewNote": "Designates board of trustees as a public governmental body subject to Sunshine Law provisions under sections 610.010 to 610.029."
+        },
+        {
+          "number": 6,
+          "title": "Annual accounting of administered funds",
+          "bodySha256": "c1f2e3c1ed29a94fef7666857f32efac3f1d2b2e5bcd386525cb115e84c92fe1",
+          "reviewNote": "Requires annual accounting of administered funds transmitted to governor, senate president pro tem, and house speaker."
+        },
+        {
+          "number": 7,
+          "title": "Establishment of implementation policies, procedures, and rules",
+          "bodySha256": "8ac4d2c3c54d17e292f8c59fd706257ada6b6cf21d3ea465a057b4be70554658",
+          "reviewNote": "Mandates board establishment of policies, procedures, rules, and regulations to implement sections 402.199 to 402.208."
+        },
+        {
+          "number": 8,
+          "title": "Coordination and services for governmental entities and nonprofits",
+          "bodySha256": "916616907b5f66724488c3e9b3c976c291b685a148e46cbedd133b6b7ecb1e50",
+          "reviewNote": "Authorizes advising, consulting, coordinating, and rendering services to Missouri and adjacent state public entities and 501(c)(3) organizations."
+        },
+        {
+          "number": 9,
+          "title": "Non-state money status and tax exemption",
+          "bodySha256": "0c8049ea7e9de25e97245212f0e7c06ecb6ccdce567023574355b8505acb5009",
+          "reviewNote": "Provides that board assets are not state funds or revenue and exempts property, income, and operations from state and political subdivision taxes."
+        },
+        {
+          "number": 10,
+          "title": "Immunity from liability for trustees and cotrustees",
+          "bodySha256": "f459c6b9a71c469114b33af08495a81180b9725ec85d41560c13c172e6b4fa74",
+          "reviewNote": "Immunizes trustees and cotrustees from liability for mistakes or judgment errors absent bad faith or reckless indifference."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 10 subsections and source notes (L. 2011 S.B. 70). Confirmed all 10 draft titles for Missouri Family Trust Board of Trustees creation, 9-member composition, immediate family definition, expenses, Sunshine Law, annual accounting, rules, coordination, non-state/tax-exempt status, and trustee immunity."
+    },
+    {
+      "id": "402.202:22889",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=402.202&bid=22889",
+      "sourceSha256": "b49b68cda657157e5fd83d6717eb131d2877784b26561922a0ca31b51a0f54a0",
+      "textSha256": "e40450b539080f97527b81b0f0bbb00ddec8ad1fb2233dd708c98ec37df092c2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Separate trust account maintenance and investment pooling",
+          "bodySha256": "155870297e4e1e2646880a2dc09b01905bb37fd98f1398781c777e67c31d55b9",
+          "reviewNote": "Requires maintenance of separate trust accounts, restricted accounts, and charitable trust, authorizing investment pooling and confirming non-state status."
+        },
+        {
+          "number": 2,
+          "title": "Board of trustees as trustee of family trust",
+          "bodySha256": "7c80f0df8f2ad96c72c80baa993d177594c4a32ac19ae73bad0f3338bfaf9c3a",
+          "reviewNote": "Designates board of trustees as trustee to administer Missouri family trust under statutory provisions and board rules."
+        },
+        {
+          "number": 3,
+          "title": "Application of general trustee powers and reporting exception",
+          "bodySha256": "733347e682f1895d4f6714468972c36695180922debe63120135292b5302bbde",
+          "reviewNote": "Grants chapter 456 trustee powers while exempting trust from section 456.8-813 duty to inform and report except as mandated by section 456.1-105."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 2011 S.B. 70). Confirmed all 3 draft titles for separate trust account maintenance/pooling/non-state status, board trusteeship, and ch. 456 powers with § 456.8-813 reporting exception."
+    },
+    {
+      "id": "402.203:22890",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=402.203&bid=22890",
+      "sourceSha256": "aa56e19a7f5059168b040fb2c73255612f4a57d67b868f66ef5d4b0ec426187e",
+      "textSha256": "0223a27df14acf79c52b36e2516d36626aa52f21fca706e8c6f360416e845625",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Settlors, contributions, and creation of first party trust accounts",
+          "bodySha256": "b219b3932187a213fe8f3f5490d8b82f8926de28fac46a52082282527427dc6a",
+          "reviewNote": "Authorizes disabled beneficiaries, family members, or courts to contribute assets to create first party pooled trust accounts under federal law."
+        },
+        {
+          "number": 2,
+          "title": "Designation of cotrustee and court approval requirement",
+          "bodySha256": "d8770db59ee665b5171dc1c3f3d82a12d7815f5b0ebab5d0033f060babed942b",
+          "reviewNote": "Permits designation of cotrustee excluding beneficiary, requiring court approval for accounts created under sections 473.657 or 475.093."
+        },
+        {
+          "number": 3,
+          "title": "Removal of cotrustee for fiduciary breach",
+          "bodySha256": "db54fa09ad5dd6ff577730b64ec4f008aa8bd2cbf929132f7f306fb829bd5e15",
+          "reviewNote": "Authorizes board to apply to court of competent jurisdiction to remove cotrustee and appoint successor for breach of fiduciary duties."
+        },
+        {
+          "number": 4,
+          "title": "Post-death Medicaid reimbursement and charitable trust share",
+          "bodySha256": "3becc68fbaa9719c308cc1e874bb0199ff4a1e9b3b6c5243e7f2c0ce6959477c",
+          "reviewNote": "Requires death notice to states, distribution of twenty-five percent balance to charitable trust, and pro rata reimbursement of Title 42 medical assistance."
+        },
+        {
+          "number": 5,
+          "title": "Distribution of remaining balance to designated remainder beneficiaries",
+          "bodySha256": "a367dbb8ec8d3d72e1443f24e31a8501b98877a93028234600c082ea3dcfe571",
+          "reviewNote": "Directs distribution of remaining account balance after Medicaid and charitable distributions to named remainder beneficiaries or heirs at law."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 5 subsections and source notes (L. 2011 S.B. 70). Confirmed all 5 draft titles for 42 U.S.C. § 1396p(d)(4)(C) first party trust accounts, cotrustee designation/court approval, judicial removal, post-death 25% charitable share/Title 42 Medicaid reimbursement, and remainder distribution."
+    },
+    {
+      "id": "402.204:22891",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=402.204&bid=22891",
+      "sourceSha256": "a10dbaa37380e41de2089642ad21e132857465452a99586a31b2b2f849699c8e",
+      "textSha256": "9e8214afa9ec41b3b85c5c1b34063bf160783478203ef194f5f0b8ba942521ae",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Settlors, contributions, and creation of third party trust accounts",
+          "bodySha256": "00d44731125ac08851aed2f6b9ecb10ac42ab2a7c7ebc82bdb4b7a2218e97c8c",
+          "reviewNote": "Authorizes third parties other than beneficiary or spouse to contribute assets to create third party trust accounts."
+        },
+        {
+          "number": 2,
+          "title": "Designation of cotrustee and court approval requirement",
+          "bodySha256": "9f388ad9b3ec022d1b96c65c03de6224daf25b0f273172e0e6a0ca06a249645e",
+          "reviewNote": "Permits settlor to designate cotrustee excluding beneficiary and spouse, requiring court approval for accounts under section 473.657."
+        },
+        {
+          "number": 3,
+          "title": "Removal and replacement of cotrustee by written notice",
+          "bodySha256": "31744bec351418535b7aa6c8fa8868eb20c41159dd6a9c00d542933da90e03c5",
+          "reviewNote": "Authorizes board by written notice to remove cotrustee, appoint successor, or serve as sole trustee upon finding fiduciary breach."
+        },
+        {
+          "number": 4,
+          "title": "Post-death distribution of principal balance and charitable share",
+          "bodySha256": "99a1ef20ab72b6e4fd853dcffad0f8e8995b7b22908397b14b2ac45dfb12def4",
+          "reviewNote": "Specifies one hundred percent or seventy-five percent remainder distribution based on whether benefits were received, directing retained principal and income to charitable trust."
+        },
+        {
+          "number": 5,
+          "title": "Settlor election for larger charitable trust share",
+          "bodySha256": "ad8c09f98ef873786ee7ad638ab015c442d5cb11f3b228ab70c8a5df5dac7410",
+          "reviewNote": "Allows settlor to voluntarily elect a smaller remainder beneficiary distribution and larger allocation to charitable trust or restricted account."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 5 subsections and source notes (L. 2011 S.B. 70). Confirmed all 5 draft titles for third party trust accounts, cotrustee designation/court approval, written-notice removal, post-death 100%/75% principal distribution/charitable share, and settlor charitable election."
+    },
+    {
+      "id": "402.205:22892",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=402.205&bid=22892",
+      "sourceSha256": "fdd3eb533b79b984756e85874b84f4688fec2007eb8aabc9be9f3c3623954abe",
+      "textSha256": "7fbfb3e8564edc366116e355a23f60a24e8736d60e87f55322b2125466b42f5e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Settlor and cotrustee withdrawal rights and minimum balance",
+          "bodySha256": "cb2f45340e738f9accc53cd235a114c9b7fb01ca0ad0af2921bf27e4b65ee7de",
+          "reviewNote": "Authorizes periodic withdrawals with board consent subject to maintaining minimum required balance and termination amounts."
+        },
+        {
+          "number": 2,
+          "title": "Revocation and termination distributions to settlor or standby trust",
+          "bodySha256": "7b98e1300b9b10bfd4608ca899517ef6059952b1130fec241f1561b135a5868b",
+          "reviewNote": "Governs account revocation, distributing one hundred percent or seventy-five percent balance to settlor or standby trust depending on benefit receipt, with balance to charitable trust."
+        },
+        {
+          "number": 3,
+          "title": "Standby trust administration for beneficiary supplemental needs",
+          "bodySha256": "f33a39d737b61e0db60362fa4ae9779eeb65645816c5a0e7a7651a8630dca0b8",
+          "reviewNote": "Directs standby trust trustees to administer funds to supplement, not replace, public benefits for support, health, and quality of life."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 3 subsections and source notes (L. 1989 H.B. 318 § 2 through A.L. 2011 S.B. 70). Confirmed all 3 draft titles for revocable third party withdrawals, revocation/termination distributions to settlor or standby trust, and standby trust supplemental needs administration."
+    },
+    {
+      "id": "402.207:22894",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=402.207&bid=22894",
+      "sourceSha256": "9811484b8ba399765d94870120a34e1cc185bcd4ea04541fd164a638c350aeb0",
+      "textSha256": "a485049209650583b1e379e972f9422bf154d0ee2821460000fa3f81de48c002",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishment of charitable trust for individuals with disabilities",
+          "bodySha256": "e5cff4918ee2eb1a9439398bbdce3e8af6785e2aa6c51bce08ed3541a661a522",
+          "reviewNote": "Mandates board establishment of charitable trust to benefit individuals with disabilities."
+        },
+        {
+          "number": 2,
+          "title": "Acceptance of termination distributions and donor contributions",
+          "bodySha256": "f78b24c11ed09f0f04ce3ea96ae9b32fba06e2f51b24a886421e7b379d7a920d",
+          "reviewNote": "Authorizes board to accept contributions from terminated trust accounts and other donors under board policies."
+        },
+        {
+          "number": 3,
+          "title": "Determination of benefits without negative public benefit effect",
+          "bodySha256": "a940b16e5da55c3d5caa15d4cfc6571dc2fe207775f4f4fc39b87669c07ecac1",
+          "reviewNote": "Directs trustees to determine benefit disbursements ensuring no negative effect on government entitlements, adding unused income to principal."
+        },
+        {
+          "number": 4,
+          "title": "Establishment of restricted accounts within charitable trust",
+          "bodySha256": "6d30d7ed7e68b37ab06a43406deea478e6c8547be159573efcfcb19c07dd1df2",
+          "reviewNote": "Authorizes establishment of restricted accounts with board consent for designated classes of disabled individuals."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 4 subsections and source notes (L. 2011 S.B. 70). Confirmed all 4 draft titles for charitable trust establishment, contribution acceptance, non-impairing benefit disbursements, and restricted accounts."
+    },
+    {
+      "id": "402.208:22895",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=402.208&bid=22895",
+      "sourceSha256": "9229874cdc1d603591f7bf6ef6ec045389ebebf5df0d848d317ea25effb1f90b",
+      "textSha256": "c8ea7803a460a9e8591054f8580efaf34915f8e8974603195e02880ab255d681",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishment and collection of administrative fees",
+          "bodySha256": "05aebf397ca1bc27744372d9744ce44a96658ba85853c316ad5c802ffe0f84fe",
+          "reviewNote": "Authorizes board to establish and collect fees for administering trust accounts under §§ 402.199–402.220; source footnote notes § 402.220 was repealed by S.B. 70, 2011."
+        },
+        {
+          "number": 2,
+          "title": "Periodic reports to account cotrustees",
+          "bodySha256": "4c0e3ddb4537e4e850b6665ead5c8faf34fa6e8271a3b3f488c97921458205dc",
+          "reviewNote": "Mandates policies and procedures for periodic reports to account cotrustees under §§ 402.199–402.220; source footnote notes § 402.220 was repealed by S.B. 70, 2011."
+        },
+        {
+          "number": 3,
+          "title": "Beneficiary spendthrift protections and creditor exemption",
+          "bodySha256": "c5d826f83a917b93f97b4780c97e9fb6d2216eeb91b11064682edbcbf7b09bee",
+          "reviewNote": "Prohibits beneficiary alienation or anticipation of trust interests and exempts principal and income from beneficiary debts or creditor seizure."
+        },
+        {
+          "number": 4,
+          "title": "Settlor and cotrustee encumbrance restrictions and creditor exemption",
+          "bodySha256": "6b03ab944614f9af0e59ede47c05010c534216c17aaf0174691a88968138ba75",
+          "reviewNote": "Restricts settlor and cotrustee power to encumber trust interests except withdrawal or revocation rights, exempting assets from settlor or cotrustee creditors."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_5",
+      "reviewSummary": "Independently verified all 4 subsections and source notes (L. 2011 S.B. 70; footnote notes § 402.220 was repealed by S.B. 70, 2011). Confirmed all 4 draft titles and added repealed § 402.220 footnote to subs 1–2 notes."
+    }
+  ]
+}

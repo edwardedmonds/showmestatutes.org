@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "419.010:23896",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=419.010&bid=23896",
+      "sourceSha256": "533db2f38e429edeb24f0782c7bc87de8e677623651576a4a0e3f58c64bb53bf",
+      "textSha256": "4d6c27e278d88c9e843b14cdbb26202812b3c7e0fbc6913c79c5ec157f9161df",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of lodging establishment",
+          "bodySha256": "b097d9cbaf13111a7f67e8e95ef7fa19dea2a2be702a4d7fe686f9b0f3d3d3c8",
+          "reviewNote": "Defines lodging establishment as building or facility providing five or more guest rooms."
+        },
+        {
+          "number": 2,
+          "title": "Guest property loss liability limit",
+          "bodySha256": "dcd3c22dd6af97767b542410851498cd6f0a83560635338cbfbc120fd74b9f81",
+          "reviewNote": "Caps lodging establishment liability at $200 absent written agreement; requires office delivery with claim check for money/jewelry/baggage (absent willful negligence/wrongdoing) and conspicuous desk and guest-room posting."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text, 1939-2002 history, and 1965 Phoenix Assur. Co. annotation (guest's automobile excluded); both headings retained and subsection 2 note corrected to remove ungrounded locked-room claim and capture claim-check/posting requirements."
+    },
+    {
+      "id": "419.060:23901",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=419.060&bid=23901",
+      "sourceSha256": "9a269e21e0b13463fc50ffe60aa16add1ddf7698b818f920bd6284894fcf93a7",
+      "textSha256": "2bfe0bf3670240225670ef935e8e2de74848bc43043afb17d992f956c1063cf5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Innkeeper lien on guest baggage, property, and wages",
+          "bodySha256": "b27d887c4891bc7f616238a9191ac767a976ab82ff232217b7477024414f3b2d",
+          "reviewNote": "Grants inn, hotel, or boardinghouse keeper a lien on guest/boarder baggage, property, and wages for charges and advances up to $200, with detention right and exemption from attachment/execution."
+        },
+        {
+          "number": 2,
+          "title": "Retention and sale of lien property",
+          "bodySha256": "7642ca916e98094ec281da4c52d581ce26ea8efc3a17026fe3f04f35bf82758e",
+          "reviewNote": "Requires 90-day retention before public auction after posting three county notices and mailing registered-address notice; unclaimed residue held 6 months for guest, 1 year by county treasurer, then state escheat fund."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 1939/1949 history notes; expanded subsection 1 title/note to include guest wages and $200 advance cap, and corrected subsection 2 note to remove ungrounded 10-day notice claim."
+    },
+    {
+      "id": "419.090:23903",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=419.090&bid=23903",
+      "sourceSha256": "b956bbd7fe583bcc66e7967716d429d5783c7f299531812c931aa10e36e1237f",
+      "textSha256": "2e3e4adf11cefbb01273c20debe84d8436f2196b054705f7f04659a780e30640",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions",
+          "bodySha256": "fd0ed32948b7b780a8e2bfbb091b9e3c110f9e343e6f0477377317416025716f",
+          "reviewNote": "Defines campground (five or more campsites) and campground owner."
+        },
+        {
+          "number": 2,
+          "title": "Posting and distribution of policies",
+          "bodySha256": "9e8a27d49a5bb626212e83da3e11044633e7bf085691c12fc95b64f30814cde1",
+          "reviewNote": "Mandates posting in high-traffic area or distribution of written policies on curfew, alcohol, tobacco, and pets."
+        },
+        {
+          "number": 3,
+          "title": "Grounds for ejectment of persons",
+          "bodySha256": "89dc4871249613e27c693b57740e8a987603c5e0c1595efbbba3bba55600ec0e",
+          "reviewNote": "Authorizes campground owner to eject persons and notify local law enforcement for five enumerated grounds."
+        },
+        {
+          "number": 4,
+          "title": "First-degree trespass penalty and summary removal",
+          "bodySha256": "717d2f8bc1df2eb39e4e614045189ce26115b7179369b816da2b6482525ecf06",
+          "reviewNote": "Makes remaining on campground after being asked to leave for a subsection 3 violation first-degree trespass under section 569.140 and authorizes summary removal by owner or law enforcement."
+        },
+        {
+          "number": 5,
+          "title": "Refund of unused prepaid fees",
+          "bodySha256": "885c4c40698fde45a148272c87b6a77eab67343fa9a483a38cafed5d175c1d7c",
+          "reviewNote": "Entitles removed person to refund of unused prepaid fees, prorated at daily rate, less amounts otherwise owed or deducted for damages."
+        },
+        {
+          "number": 6,
+          "title": "State park exemption",
+          "bodySha256": "904079de94ff4c8e317b38fab39472e05e908dda82cb0905ed1dae01dfe29bef",
+          "reviewNote": "Exempts all Missouri state parks from campground regulation provisions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_6",
+      "reviewSummary": "Checked against archived full text and 2014 S.B. 735 history note; corrected subsection 4 title/note (summary removal, not restitution) and fixed subsections 3 and 5 notes (five grounds; no 30-day refund deadline)."
+    }
+  ]
+}

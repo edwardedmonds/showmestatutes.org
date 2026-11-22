@@ -1,0 +1,583 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "429.005:24006",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=429.005&bid=24006",
+      "sourceSha256": "89fb70d4165d41d92e1a26cee41f9e2c37c18f3066ce94d03f3c68c7f223ea79",
+      "textSha256": "a18024ff3c8c73e5e11ea2b904e12f8adc1d230e27dc3b07d096f3116082f8aa",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Invalidation of anticipatory lien waivers",
+          "bodySha256": "79d11bc9d61ce7875205791d0e2aa1a64af724452d66f4c14f5e0b7c33f1d56b",
+          "reviewNote": "Declares anticipatory agreements waiving mechanic's lien rights in consideration of contract award void against public policy, preserving subordination and release."
+        },
+        {
+          "number": 2,
+          "title": "Conditional payment lien waivers permitted",
+          "bodySha256": "160a6fbf852a801731d27406b5048bbeb5cd6e150fec4bd0c4f5a4df13d79d40",
+          "reviewNote": "Clarifies that statutory invalidation does not prohibit contractual provisions requiring lien waivers as condition of payment."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 1992 enactment note; confirmed public-policy invalidation of anticipatory lien waivers (preserving subordination/release) and permissibility of payment-conditioned lien waivers."
+    },
+    {
+      "id": "429.010:24007",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=429.010&bid=24007",
+      "sourceSha256": "c33b40554571df0875c6d95b2ed825289695271ccdf9464b5ae53ead8b88bcfe",
+      "textSha256": "83e0f2cb0c6248a0e5f49e91346080627c64e116bc36ff53a25c422655093b07",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mechanic's lien creation, property scope, and acreage limits",
+          "bodySha256": "c71cf364a6cf3305585929f41f3a94322a2e11435ae28553a2b4087fcc74306d",
+          "reviewNote": "Grants mechanic's lien on buildings, improvements, and land up to three acres or full commercial lots with roadway access."
+        },
+        {
+          "number": 2,
+          "title": "Rental machinery and equipment lien requirements",
+          "bodySha256": "89379a77882d7090e404d18c812dea87b7a4ba0e033b83da93bb9bda30a4fd63",
+          "reviewNote": "Limits rental machinery or equipment liens to commercial property claims over $5,000 with written owner notice within fifteen business days of commenced use, exempting contractors using rented equipment."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections, prior revisions, and 1972/2008 case annotations (Union Reddi-Mix on municipal property; Collins & Hermann); retained titles and fixed subsection 2 note from 'advance notice' to notice within 15 business days of commenced use."
+    },
+    {
+      "id": "429.012:24008",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=429.012&bid=24008",
+      "sourceSha256": "0d17ab8af1665daaadf05ebf901ddeed892a8bea78d4a18ef68ed8e30bad9ded",
+      "textSha256": "706ebf67c97a2ab0a08e67153ffc42deb56f93dd37b517264eb4b7882df27db6",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory original contractor disclosure notice",
+          "bodySha256": "03ba85dbdb23f4ef0fc4bc169d5367f15493d65714361e83e3acc1b08aa9d907",
+          "reviewNote": "Requires original contractor to deliver bold ten-point lien disclosure notice prior to receiving payment."
+        },
+        {
+          "number": 2,
+          "title": "Disclosure notice as condition precedent to lien",
+          "bodySha256": "471f41b55bd2cde11a89d6b50fb93d31a908036fdc02afc2305c508eab3b60b5",
+          "reviewNote": "Establishes timely delivery of written disclosure notice as condition precedent to original contractor mechanic's lien."
+        },
+        {
+          "number": 3,
+          "title": "Criminal penalties for notice failure and fraudulent waivers",
+          "bodySha256": "5e38056666abd49cc2f72c86b5aaddff35fa0db926314f530a2cc19ac4dd9670",
+          "reviewNote": "Imposes class B misdemeanor penalty for fraudulent failure to give notice and class D felony for fraudulent waivers or affidavits."
+        },
+        {
+          "number": 4,
+          "title": "Exception for insured new residence construction",
+          "bodySha256": "c84180ffe8fb4a2e1a2a8ac34d29663296c2b03e0ae630b1949afae2d7def6d3",
+          "reviewNote": "Exempts new residences with title insurance company mechanic's lien protection from notice requirements."
+        },
+        {
+          "number": 5,
+          "title": "Criminal penalty for settlement agent fraudulent waiver acceptance",
+          "bodySha256": "92cae79c30b80b09258e234ec38b5116437973852cd3c1ea0d0b04b452bd6795",
+          "reviewNote": "Establishes class D felony for settlement agent knowingly accepting fraudulent lien waiver or false affidavit for financial gain."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all five subsections (including 10-point bold Notice to Owner) and 2017 effective date (2014 S.B. 491); confirmed condition precedent, criminal penalties, title-insured new-residence exception, and settlement-agent felony."
+    },
+    {
+      "id": "429.013:24010",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=429.013&bid=24010",
+      "sourceSha256": "fd1b1b624315feae8441890be17ad298e79acd39281a19113ceb63e7f5fd9547",
+      "textSha256": "c2f433ebd021e205c7e569b03bb322b8e06d283143e06aa6cf7d785b58a82173",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Applicability limited to owner-occupied residential repair",
+          "bodySha256": "ccc289b2eddb0e0aca26cfca63e1d421d012a29b1d5d0bd3805923939324cb77",
+          "reviewNote": "Applies section exclusively to repair, remodeling, or additions to owner-occupied residential property of four units or less."
+        },
+        {
+          "number": 2,
+          "title": "Written owner consent requirement for subcontractor liens",
+          "bodySha256": "83c8121bbd18b65c0658ff2ec83acaab95ecce1c57dd8c223efaf8be48dc7604",
+          "reviewNote": "Requires separate signed bold ten-point owner consent contract as prerequisite for non-contractor liens."
+        },
+        {
+          "number": 3,
+          "title": "Notice retention and attachment to recorded lien",
+          "bodySha256": "06b40301359c9b975c7d1947388883e5e0f276460da085ca1dab24c2df5f78dc",
+          "reviewNote": "Requires contractor to retain and furnish notice copy and mandates attaching signed consent to recorded lien claim."
+        },
+        {
+          "number": 4,
+          "title": "Defense of full or partial payment to contractor",
+          "bodySha256": "4748231bb181e22146a7cc1da60e3f19bd8dacaa9340762d55df7ea3910cff6a",
+          "reviewNote": "Establishes full payment to original contractor as complete defense and partial payment as pro tanto offset."
+        },
+        {
+          "number": 5,
+          "title": "Criminal penalties for forged or fraudulent consent",
+          "bodySha256": "57153032a2abdb03dad3fc81d810ac3c2e04a47ac79e657d62441936c3101c01",
+          "reviewNote": "Establishes class D felony penalties for falsifying owner signatures or issuing fraudulent consent documents."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all five subsections (including 10-point bold Consent of Owner) and 2017 effective date (2014 S.B. 491); confirmed owner-occupied 4-unit repair scope, consent attachment, payment defense/offset, and class D felony."
+    },
+    {
+      "id": "429.014:24012",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=429.014&bid=24012",
+      "sourceSha256": "a75c0b79add1dc8858d3ecaa01d398db2c4796f9118b4c752e8ca8c060597cb8",
+      "textSha256": "cfdb00a3c807ada9f3652a7700fff871b1dc94c02ec90be731cfaf0d7941d935",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Offense of lien fraud by nonpaying contractor",
+          "bodySha256": "197cf510e01ef264ffe742a40b6cd129075e54a30917f77e4f8856bfc6e77a39",
+          "reviewNote": "Defines offense of lien fraud for failing to pay subcontractors or suppliers after receiving payment with intent to defraud."
+        },
+        {
+          "number": 2,
+          "title": "Property owner claim against nonpaying contractor",
+          "bodySha256": "c292a658c0f758553407fafe476a74e00317f937215c5f41691f7e8462d5f4da",
+          "reviewNote": "Authorizes property owner paying subcontractors to recover against nonpaying original contractor or supplier."
+        },
+        {
+          "number": 3,
+          "title": "Felony and misdemeanor penalty thresholds",
+          "bodySha256": "57486a8e951bf4f20a8fdf19bfe61803af3aa4de178e7d89b2435f6a159b415c",
+          "reviewNote": "Establishes class D felony for lien fraud exceeding 500 dollars and class A misdemeanor for lesser amounts or unfiled liens."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all three subsections and 2017 effective date (2014 S.B. 491); confirmed lien fraud offense, owner/lessee claim against nonpaying contractor, and $500 class D felony vs class A misdemeanor thresholds."
+    },
+    {
+      "id": "429.015:24014",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=429.015&bid=24014",
+      "sourceSha256": "34850ef0eb450cb03adb7f4daac574e927c63dc3bd8fab062e8a54183401e816",
+      "textSha256": "d8744b0bbd186d4ea199120a059c18314d8e3caad59eecb53967114733264a5c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Design professional lien creation and acreage limits",
+          "bodySha256": "5401a25d2388043411c03cbe5b279aee2e27e2ed35e19e30d2c8bf1d399855d8",
+          "reviewNote": "Grants mechanic's liens to landscape architects, architects, engineers, and land surveyors up to three acres or full town lots."
+        },
+        {
+          "number": 2,
+          "title": "Well-digging labor and machinery liens",
+          "bodySha256": "509b569770f147c646aa30e336d03da7b2551dc0338f9ae0a7713d2132290e35",
+          "reviewNote": "Grants mechanic's lien up to three acres for labor, materials, or machinery furnished to dig water wells."
+        },
+        {
+          "number": 3,
+          "title": "Building demolition and razing liens",
+          "bodySha256": "36ff7fa3ad1251f95559d6ffe82e304cf0908c87adde7410b6a9c26d972992d3",
+          "reviewNote": "Grants mechanic's lien up to three acres or town lots for labor or materials used in demolishing or razing buildings."
+        },
+        {
+          "number": 4,
+          "title": "Application of general mechanic's lien procedures",
+          "bodySha256": "9c119dbbac1f7743d7261140d6a019a848c937d36bbba0c3170d580083e5848d",
+          "reviewNote": "Applies general mechanic's lien procedures in §§ 429.030–429.060 and §§ 429.080–429.430 to subsections 1–3; source note flags § 429.430 repealed by H.B. 1634 (1978)."
+        },
+        {
+          "number": 5,
+          "title": "Prerequisite conditions for design professional liens",
+          "bodySha256": "3239580a31c723dc2493c86e5b7a875580f8d29fe4271553190d542dcaf51e80",
+          "reviewNote": "Authorizes design professional liens before actual construction begins if contracted directly with owner or lessee."
+        },
+        {
+          "number": 6,
+          "title": "Priority and pro rata distribution with other mechanic's liens",
+          "bodySha256": "5577b9dfdcf9e79940a768bb3c53b43703d5aee80b29c2579fae46dcc86fbb56",
+          "reviewNote": "Determines priority between design professionals and other mechanic's lien claimants on pro rata basis under section 429.260."
+        },
+        {
+          "number": 7,
+          "title": "Owner and lessee defenses against design professional claims",
+          "bodySha256": "f1ec7870bf7f3f7db431664e788cee24f71e7215d7a27d6c5acf410b2a45d91b",
+          "reviewNote": "Authorizes owner defenses asserting noncompliance with professional services contract, impracticability, or economic infeasibility."
+        },
+        {
+          "number": 8,
+          "title": "Requirement of written agreement",
+          "bodySha256": "45781f7c5771c7067e063ca69f791a23fe885989d4e4f9a8e115e0abaf547faf",
+          "reviewNote": "Requires professional services agreement to be in writing."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all eight subsections, repealed-section footnote (§ 429.430 repealed 1978) in subsection 4, and 1978/1992 annotations (Marsh; In re Branson Mall); confirmed design professional, well-digging, demolition, priority, defense, and writing headings."
+    },
+    {
+      "id": "429.016:24015",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=429.016&bid=24015",
+      "sourceSha256": "325986c752b064e2bf186ec64f5381d3c2080d2e272e5ae01a8724f523320a06",
+      "textSha256": "decbc72ce3e1b8247385a6f7d504782a0de0388ea419c32f498d403ad170dcca",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Applicability limited to residential real property",
+          "bodySha256": "fa9c3e36ad91d1253b14aa7b84a6ee7dfd37bf1abaf658befc30434e562df758",
+          "reviewNote": "Restricts section application to residential real property, excluding owner-occupied repair or remodeling governed by section 429.013."
+        },
+        {
+          "number": 2,
+          "title": "Definition of residential real property",
+          "bodySha256": "3966eb79c2f23c0d23d0894af6b0271d737c87d17bf05f3115fc056a354e70ed",
+          "reviewNote": "Defines residential real property to include four-unit dwellings, condominiums, and townhouses, excluding mixed-use parcels."
+        },
+        {
+          "number": 3,
+          "title": "Claimant duty to record notice of rights",
+          "bodySha256": "ba69392add0eec81886fcf0ea2cd026e8972b0dceec8c1fa19da202a3ceb701e",
+          "reviewNote": "Requires claimants to record notice of rights at least five calendar days before intended closing date."
+        },
+        {
+          "number": 4,
+          "title": "Relief from duty for identified claimants",
+          "bodySha256": "c428140e13579d0178cbe95c2be1c60b50674108357de618e051b534af6edb00",
+          "reviewNote": "Relieves claimant of recording duty if accurately identified in previously recorded notice of rights."
+        },
+        {
+          "number": 5,
+          "title": "Weekend or legal holiday deadline extension",
+          "bodySha256": "6d4840697d22c66d72d3459e794d668e594c9d1df0942933b2f6532308531df7",
+          "reviewNote": "Extends notice recording deadline falling on weekend or holiday to next business day."
+        },
+        {
+          "number": 6,
+          "title": "Forfeiture of lien rights for failure to record",
+          "bodySha256": "79f9e15015b72d752862113b215d7c377eff15797472cd8f70ceca8bf55635b4",
+          "reviewNote": "Establishes waiver and forfeiture of mechanic's lien rights for failure to record notice of rights while preserving other legal remedies."
+        },
+        {
+          "number": 7,
+          "title": "Ineffectiveness of notice recorded after bona fide conveyance",
+          "bodySha256": "8106957707c3b7405ab9248960cbfd9d3f99d32fd9286f14e237740c49e38f75",
+          "reviewNote": "Invalidates notice of rights recorded after property conveyance to bona fide purchaser for value."
+        },
+        {
+          "number": 8,
+          "title": "Required statutory form and contents for notice of rights",
+          "bodySha256": "d247741ecf884a23c0698f1e30c65289800d28c3aaf26c1d716d55e18fd47886",
+          "reviewNote": "Prescribes statutory form, execution, notarization, and identification standards for notice of rights."
+        },
+        {
+          "number": 9,
+          "title": "Recording location in county land records",
+          "bodySha256": "0237b43c5cf8698c2f96612350c47c9c8f5ab38d4b65f4ebf40dcb05c30d29a9",
+          "reviewNote": "Requires notice of rights to be recorded in recorder of deeds office in county where property is situated."
+        },
+        {
+          "number": 10,
+          "title": "Recorder duties and indexing standards",
+          "bodySha256": "cf89720f7a76e0e8597488267b0af58073138390621cb0d3e8309c9d5e71a462",
+          "reviewNote": "Directs recorder of deeds to index owners as grantors and claimants as grantees without requiring owner signature."
+        },
+        {
+          "number": 11,
+          "title": "Owner notice of intended sale recording and posting",
+          "bodySha256": "39351369fa92ed9a5708bd1266e99942a76b540276c6b38f72197924b81717af",
+          "reviewNote": "Governs owner recording, posting, and transmitting notice of intended sale at least forty-five days prior to closing."
+        },
+        {
+          "number": 12,
+          "title": "Non-extension of lien filing deadlines",
+          "bodySha256": "1644a645b250e2130971f144eccda275894816d3f81ebfdefdf7376997ccffff",
+          "reviewNote": "Clarifies that recording notice of rights does not extend mechanic's lien filing deadlines under section 429.080."
+        },
+        {
+          "number": 13,
+          "title": "Separate parcel recording and subdivision tracts",
+          "bodySha256": "214f05c0780fc06bc2de0931c579ae9ad305dbc37fe8d9ff99b6f7cd577d1b7b",
+          "reviewNote": "Requires separate notice for each parcel but permits single notice for multi-lot common ownership or pre-platting tracts."
+        },
+        {
+          "number": 14,
+          "title": "Exemption from section 429.100 ten-day notice",
+          "bodySha256": "746385b42e539a3752f828969cde9c3fd400627c26bc0a5698171c1dee73b331",
+          "reviewNote": "Relieves claimants from section 429.100 notice while retaining general statutory compliance duties."
+        },
+        {
+          "number": 15,
+          "title": "Mechanic's lien statement contents and notice attachment",
+          "bodySha256": "738663381df51d112cc5d392beb966106efe66e926747e5bae76b602cff454d3",
+          "reviewNote": "Enumerates required claimant disclosures in mechanic's lien statement and mandates attaching file-stamped notice of rights."
+        },
+        {
+          "number": 16,
+          "title": "Lien forfeiture for prejudicial notice errors",
+          "bodySha256": "e1bd66c1f2e477fb1805e94f440145369c42cbdc055b197d1b687d757fe95e72",
+          "reviewNote": "Provides for forfeiture of mechanic's lien rights to the extent errors in notice of rights prejudice owners, lenders, or purchasers."
+        },
+        {
+          "number": 17,
+          "title": "Release of lien by deposit of substitute collateral",
+          "bodySha256": "6d42426c4b9d0c3ad773776d0f39065f13b116c5511bc670091d8af3ac3171ec",
+          "reviewNote": "Authorizes property release from lien upon depositing cash, letter of credit, or surety bond at 150 percent of lien amount."
+        },
+        {
+          "number": 18,
+          "title": "Surety company liability on substitute bond",
+          "bodySha256": "2e11c66067071b45558d8b20be2fb7eff23d4c3fe2f014f851ff794308781e22",
+          "reviewNote": "Obligates surety to pay any judgment entered under section 429.210 up to penal sum of bond."
+        },
+        {
+          "number": 19,
+          "title": "Bank liability on substitute letter of credit",
+          "bodySha256": "bb1610b6c1b4bd270a00260a1090aa08261243b5a0eab05644671e6372809d7b",
+          "reviewNote": "Obligates issuing bank to pay judgment under section 429.210 up to amount of letter of credit."
+        },
+        {
+          "number": 20,
+          "title": "Transfer of claimant rights to substitute collateral",
+          "bodySha256": "3e99f2c231ee7fbd5073388b21647b74e6cf5949a8be7652cfc0d63e4509656a",
+          "reviewNote": "Transfers claimant lien rights from residential property to deposited substitute collateral upon release."
+        },
+        {
+          "number": 21,
+          "title": "Court order for disposition of substitute collateral",
+          "bodySha256": "6ab1bbe4a3b01b071ca5cf585617065023cbb871e561a1aae828c0508fc34546",
+          "reviewNote": "Directs court, upon determining claim against substitute collateral, to order clerk payment, bank letter-of-credit payment, surety judgment, or collateral release."
+        },
+        {
+          "number": 22,
+          "title": "Preservation of claimant burden and priority rules",
+          "bodySha256": "21d2de88534a881bf3a6b613fa08f1bf5f99911f8a2466ef270edac52903bf5f",
+          "reviewNote": "Clarifies that substitute collateral deposit affects only recovery source without altering priority or proof requirements."
+        },
+        {
+          "number": 23,
+          "title": "Retention of claimant liability for slander of title",
+          "bodySha256": "171da05099f9dd7bc95ca909fdd1a230280febe4b5f8dd6a59e82333477ff94e",
+          "reviewNote": "Preserves claimant potential liability for slander of title notwithstanding lien release through substitute collateral."
+        },
+        {
+          "number": 24,
+          "title": "Joinder of surety or bank in enforcement action",
+          "bodySha256": "d8c96963b1f57db8b8355875fff5592ba1bcdf792f6c5fb3cb15d9ea6d0b8d10",
+          "reviewNote": "Requires surety company or issuing bank to be joined as party to mechanic's lien enforcement action."
+        },
+        {
+          "number": 25,
+          "title": "Partial or full mechanic's lien waivers",
+          "bodySha256": "c892c9dc36dcacbfe8d115f88fe6ac5c81ba66f44e2ad79d416b15d6301eb721",
+          "reviewNote": "Regulates conditional and unconditional mechanic's lien waivers and limits waivers for less than amount claimed."
+        },
+        {
+          "number": 26,
+          "title": "Legal effect of unconditional final lien waiver",
+          "bodySha256": "7d1c61f2d14bc60992340f570663ced71949097d206ffa5d905371a1f18d7a4f",
+          "reviewNote": "Establishes unconditional final waiver as complete bar to lien rights including remedial or additional work."
+        },
+        {
+          "number": 27,
+          "title": "Statutory form for unconditional final lien waiver",
+          "bodySha256": "98c8107037b3f1eacd2a37e1e5be9a01ab5f681f7b4728562341cefc2d476782",
+          "reviewNote": "Prescribes statutory form, execution, and signing date format for unconditional final lien waiver."
+        },
+        {
+          "number": 28,
+          "title": "Limitation of unconditional waiver to lien rights",
+          "bodySha256": "71a9ac4cee9a957328062f5a463152e13b7b3dc983f65c3d5eb79e10a3f0909b",
+          "reviewNote": "Limits legal effect of unconditional final waiver to lien rights without releasing underlying contractual remedies."
+        },
+        {
+          "number": 29,
+          "title": "Enforceability of unconditional waiver despite nonpayment",
+          "bodySha256": "4062ae185aec0fe3b2960ec208ac46fe84d1e9bb880e67039aa737155adc24e8",
+          "reviewNote": "Enforces unconditional final lien waiver against claimant lien rights despite nonpayment of promised consideration."
+        },
+        {
+          "number": 30,
+          "title": "Duty to execute final waiver upon full payment",
+          "bodySha256": "c1b3ff401aeacd870a2cb5c78a3b512c631aceac78e25fbdd55a74b2edcf2b98",
+          "reviewNote": "Requires claimant paid in full to execute waiver within five days or face slander of title liability and 500 dollar penalty."
+        },
+        {
+          "number": 31,
+          "title": "Application date to conveyances closing on or after November 1, 2010",
+          "bodySha256": "cac8891d3156a098e087e2a6d1adb39737538153c7c6ab01974bb3e1cab9f685",
+          "reviewNote": "Applies provisions of section to residential real property conveyances closing on or after November 1, 2010."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all thirty-one subsections (including embedded Notice of Rights and Unconditional Final Lien Waiver form tables) and 2010 enactment note; retained titles and aligned subsection 21 note with mandatory 'shall' judicial disposition."
+    },
+    {
+      "id": "429.032:24018",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=429.032&bid=24018",
+      "sourceSha256": "f4ab38252577307afcda94cc9ad8243c94e15e0cb0874046a364361945254dbf",
+      "textSha256": "3cf2574a4a2c9f22cc4735ae797a6b82a4d8589d4758a0431397158ff6182a98",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Partial release of multi-parcel mechanic's liens",
+          "bodySha256": "e8532b81fe516130ff2e8edd012d64a85ea2fc13e36ba08956c849d0ea65f024",
+          "reviewNote": "Authorizes lien claimants to release individual lots or parcels from multi-tract mechanic's liens upon specifying attributed debt."
+        },
+        {
+          "number": 2,
+          "title": "Acknowledgment and statutory form for partial release",
+          "bodySha256": "2a741a070845d28cf16d4cfd2bee68e7a9ed95f9efac0f8eda911aaf486266c1",
+          "reviewNote": "Requires circuit-clerk record or margin acknowledgment of partial release and provides statutory form table; source note flags 'be' appears in original rolls."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections, embedded Partial Release form table, and original-rolls footnote ('be' in subsection 2 form); confirmed multi-parcel partial release and circuit-clerk acknowledgment headings."
+    },
+    {
+      "id": "429.070:24022",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=429.070&bid=24022",
+      "sourceSha256": "7363c58cabd00d648b646cfec67d0c625ce7fe26efcde270f1ceaad251b3e533",
+      "textSha256": "52c7df0ee1ff653e5de6d471054b3db47b11fb0b8631e550e1ffe2f732c3561b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Buildings and machinery on leased land subject to lien",
+          "bodySha256": "201114d5adafb67c4fe5ec8fb0c6880581eec4c3d31880df10a1678ae9c7bebf",
+          "reviewNote": "Subjects buildings, improvements, and machinery on leased land to liens regardless of lessee removal rights."
+        },
+        {
+          "number": 2,
+          "title": "Lien on leasehold interest and erected improvements",
+          "bodySha256": "ee77a4efef25cff94a305fca5a9b1534db3972812e83866344e2d6dca697a085",
+          "reviewNote": "Grants lien on buildings, machinery, and leasehold term for labor or materials furnished to licensee or lessee."
+        },
+        {
+          "number": 3,
+          "title": "Lien for repairing lessee or licensee personal property",
+          "bodySha256": "ff4e910fc0cc47a48d96c832188bc80a6caed9c35d116c3e3e51395129215019",
+          "reviewNote": "Grants mechanics, persons, or corporations a lien on a licensee's or lessee's fixtures, machinery, or personal property on licensed/leased lots for repair labor."
+        },
+        {
+          "number": 4,
+          "title": "Forfeited lease assignee rights and sixty-day removal",
+          "bodySha256": "a12ceae40370cc62dd5a730941825956ba99e8b2defe1879c34d34757f441759",
+          "reviewNote": "Treats purchaser after lease forfeiture as assignee entitled to pay rent arrears, or grants sixty-day removal right with ground rent paid from sale proceeds if lessor regained possession earlier."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all four subsections and 1909–1992 history note; fixed shifted/hallucinated titles and notes in subsections 3 (lessee personal-property repair lien) and 4 (forfeited-lease assignee rights and 60-day removal)."
+    },
+    {
+      "id": "429.280:24043",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=429.280&bid=24043",
+      "sourceSha256": "fdf84d44d9de24921e96367cb85df86c5ee867356f7a3318e80aea26233f2e29",
+      "textSha256": "565d4179ab551e111d314d68c2cd1e8292fb3ee80c5960415ab722facaa2f3dd",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory joinder of recorded lien claimants and owners",
+          "bodySha256": "9529ba7a9f376dd715474a7358c99d883d96e3427eb951b6c15350d8b25a156f",
+          "reviewNote": "Requires all recorded lien claimants, encumbrancers, owners, and lessees to be joined as plaintiffs or defendants."
+        },
+        {
+          "number": 2,
+          "title": "Binding effect on unrecorded claimants and intervention right",
+          "bodySha256": "95f26bf5d25df1be935ac2ecfaff96d5196d9f30007a3560a0ade1caac0d350a",
+          "reviewNote": "Binds unrecorded claimants by proceedings while permitting intervention before final distribution of sale proceeds."
+        },
+        {
+          "number": 3,
+          "title": "Subsequent addition of omitted recorded parties",
+          "bodySha256": "0ca2366a81a0538b735b89a9434cfc8d76c0c9dfc1cd372afb4ba5bd5aa3df61",
+          "reviewNote": "Authorizes omitted recorded parties to be added on own application, party application, or court motion."
+        },
+        {
+          "number": 4,
+          "title": "Party death and representative substitution without revivor",
+          "bodySha256": "1315496564925255c95a642d370ff25d03b168f0db08d72e88876221b992f404",
+          "reviewNote": "Provides for substitution of proper successors or administrators on motion without formal action revivor upon party death."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all four subsections and 1919–1939 revision history; confirmed mandatory joinder of recorded parties, binding/intervention rules for unrecorded claimants, adding omitted parties, and revivor-free substitution on death."
+    },
+    {
+      "id": "429.605:24066",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=429.605&bid=24066",
+      "sourceSha256": "c32c4dba16981d8d7008c99adcf37298cc91f9919e8b2e2b0aff68e86a36be2e",
+      "textSha256": "9e2ec11a37e18d892b12fa0995b58d5c9812bfaee20cd909eda2a07a11aff246",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Commercial real estate broker lien for listing representation",
+          "bodySha256": "e159a64ab3a31cc3fec7f268c6fa80a516546a56818332fe26e99591aa70b330",
+          "reviewNote": "Grants commercial broker lien pursuant to written listing agreement upon procuring ready, willing, and able buyer or lessee."
+        },
+        {
+          "number": 2,
+          "title": "Commercial real estate broker lien for buyer representation",
+          "bodySha256": "b49200d271777dacee4a80ded34687100e2bc142c73eb90bc4df0b4512386afc",
+          "reviewNote": "Grants commercial broker lien on commercial real estate pursuant to written buyer representation agreement upon earned compensation."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections, 1993 enactment note, and 1998 annotation (Incentive Realty v. Hawatmeh, 983 S.W.2d 156) applying broker liens to lease procurement; confirmed listing and buyer-representation broker lien headings."
+    },
+    {
+      "id": "429.618:24072",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=429.618&bid=24072",
+      "sourceSha256": "1a9e1da23719a6ce6096c26db11b39bac00376eb454317008d421602d8fbf276",
+      "textSha256": "2323b1d0384a97a98c63706ec01a2a698e8d9b2a18be62d61399454ca4a0133b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Petition contents and foreclosure under mortgage laws",
+          "bodySha256": "ddb77054a5638e946ed989f7e0979a36cf03dc2fed76ee5d111a77f1b79f95b5",
+          "reviewNote": "Specifies required broker lien foreclosure petition contents and governs proceedings under mortgage foreclosure statutes."
+        },
+        {
+          "number": 2,
+          "title": "Priority of prior recorded liens and mortgages",
+          "bodySha256": "d1cd3b6274b7e2757f057585f0a74bbbf471592c3222a459b958b13681c2739b",
+          "reviewNote": "Accords priority to valid prior recorded liens and mortgages over real estate broker's liens."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 1993 enactment note; confirmed commercial broker lien foreclosure petition contents under §§ 443.190–443.280 and priority of valid prior recorded liens and mortgages."
+    }
+  ]
+}

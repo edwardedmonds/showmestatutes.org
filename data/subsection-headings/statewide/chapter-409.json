@@ -1,0 +1,986 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "409.1000:23534",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.1000&bid=23534",
+      "sourceSha256": "d2900d8c956ebbf25a8133df97a7dd51331abdecda76ab69a5ecd56b48dfe7f9",
+      "textSha256": "71d956486abaa41a178f69277aa908a83b565b0487d62c20fcad8c170a7f783b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition and representations constituting business opportunity",
+          "bodySha256": "22b64b6a19d7be79239d1c6e817fdedaa3c5374645691ec5710e2607d9c77368",
+          "reviewNote": "Defines business opportunity as sale or lease over $500 for business startup with representations on location assistance, refunds, income guarantees, or risk-free profits."
+        },
+        {
+          "number": 2,
+          "title": "Inclusions within location finding assistance",
+          "bodySha256": "15993be1be49aabb3567d1c232247e00e5ea8594cd942309e533a22aeffabcf5",
+          "reviewNote": "Specifies that assisting in finding locations includes providing locator company names, contracting for assistance, or collecting locator fees."
+        },
+        {
+          "number": 3,
+          "title": "Exclusions from business opportunity definition",
+          "bodySha256": "f517a95d12f5ebfe119e1f288054a01c00fffab2b8b631efd5ca8ea1c503775a",
+          "reviewNote": "Excludes sales of up to five ongoing businesses by their owner and not-for-profit sales of demonstration equipment or training courses not exceeding $500."
+        },
+        {
+          "number": 4,
+          "title": "Inclusion of lessees and lessors",
+          "bodySha256": "6614ced3da059d828faf8f41e1dcd67809d1fd03b51ebc5096db8888f9b8a602",
+          "reviewNote": "Provides that purchaser includes a lessee and seller includes a lessor for purposes of business opportunity regulations."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all four subsections and 2000 enactment note; retained titles and refined subsection 3 note for the $500 ceiling on demonstration equipment and training courses."
+    },
+    {
+      "id": "409.1003:23535",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.1003&bid=23535",
+      "sourceSha256": "870f39390a57ba44794278910760e3c87464e101c0aaff35aa71218a2fdb988e",
+      "textSha256": "3102bc4f3b09c2a6cbf9307f933697805f18282e93ee50055902600ba096b965",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibited representations and practices by sellers",
+          "bodySha256": "bc3dcd3e32baab63cdff0c659fcc3895f7ce9036a82aee31d19b4a2c96fde4fc",
+          "reviewNote": "Prohibits twelve enumerated seller practices, including misrepresentations, dual exclusive territory assignments, inferior equipment, and failure to provide a written contract."
+        },
+        {
+          "number": 2,
+          "title": "Class A misdemeanor penalty for violations",
+          "bodySha256": "cdabc4f428680b7bbda13dd7e95a30bfb3f3ac5b3774d2ee349cceb6cd28721d",
+          "reviewNote": "Makes any person who violates section 409.1003 guilty of a class A misdemeanor."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 2000 enactment note; edited both titles to reflect all twelve prohibited seller practices and the class A misdemeanor penalty for any section violation."
+    },
+    {
+      "id": "409.1006:23536",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.1006&bid=23536",
+      "sourceSha256": "5f51e4af13f9a48069b2420f6bd2b484030c8dbfc91f221cb4811327fb1db826",
+      "textSha256": "358967da926ded67f7afcf98a7151ffefa382c02cf772b9b4311c12bfeec80c4",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "One-year rescission right and return of products",
+          "bodySha256": "e7d1f8673f5b4c5f42083f192dacfb36a7c33843c0e4f46a0dca17879e4893c9",
+          "reviewNote": "Authorizes contract rescission within one year for misleading statements, disclosure failures, or 45-day delivery defaults, barring unjust enrichment."
+        },
+        {
+          "number": 2,
+          "title": "Civil action for damages and attorney fees",
+          "bodySha256": "6e3dd1b8b48e541fcc5e96921c400f2f2ade3f021b51be1369a83638655b137b",
+          "reviewNote": "Permits injured purchasers to bring a civil action to recover damages, including reasonable attorney's fees, for statutory violations or contract breaches."
+        },
+        {
+          "number": 3,
+          "title": "Circuit court jurisdiction to grant injunctive relief",
+          "bodySha256": "390e036269466cc0eaf488250820f60f669a857254d23fa237c7b2655c015dc9",
+          "reviewNote": "Grants circuit courts jurisdiction upon complaint to enjoin further violations of business opportunity provisions."
+        },
+        {
+          "number": 4,
+          "title": "Remedies cumulative to other legal and equitable relief",
+          "bodySha256": "9c0cb76f0280744f9ffbb3353235471453acee403454b6f9c2512ea6d585d4e5",
+          "reviewNote": "Establishes that statutory remedies are cumulative and in addition to any other remedies available at law or in equity."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all four subsections and 2000 enactment note; retained titles and refined subsection 2 note to match statutory 'damages' wording without adding 'actual'."
+    },
+    {
+      "id": "409.511:23488",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.511&bid=23488",
+      "sourceSha256": "0918699c97acdd397e289c2c252b68c902832ab14345f4a20a84beb5a96116b7",
+      "textSha256": "b63106889c51a720bc03f7f5c66def4ec9cfa81cf69456f12be7eb60a16c771a",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Filing and delivery of takeover bid registration statement",
+          "bodySha256": "4dca3db03a78d8d4b3377f6f7437f9c5d7c21f841fdf33161642a8440c0ab236",
+          "reviewNote": "Requires offeror to file registration statement with commissioner and deliver it to target company principal office upon commencement."
+        },
+        {
+          "number": 2,
+          "title": "Full and fair disclosure of material information to offerees",
+          "bodySha256": "94634a0171aeb35d74823dd638740fdf48cad04ee8f61e011630f30831bdfb53",
+          "reviewNote": "Mandates full and fair disclosure to offerees of all material information contained in filed registration statement."
+        },
+        {
+          "number": 3,
+          "title": "Filing of solicitations and recommendations to offerees",
+          "bodySha256": "2e1799e3a4413b84908a630e1fb30b0d98ef957ee8ba7d9765e12f9203ebce56",
+          "reviewNote": "Bars solicitations or recommendations to accept or reject a takeover bid unless copies are filed with the commissioner when first published, sent, or given to offerees."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all three subsections and 1986 enactment note; retained titles and refined subsection 3 note on filing timing when solicitations or recommendations are first published, sent, or given."
+    },
+    {
+      "id": "409.516:23489",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.516&bid=23489",
+      "sourceSha256": "cc339b7f2795e0722d6d4bd7e65553ede52f23b2759e6569d18e68b2fd667314",
+      "textSha256": "1a9612b87a497a96b59d2a515f18e00cd2f1f28e685e7fad9cd0b1b49dce4bf4",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Enumerated contents and disclosures of registration statement",
+          "bodySha256": "a765be976d211ef001ce1c454f40b8172ca5a36a29c5b6757454a5fdfb4cac5c",
+          "reviewNote": "Specifies required disclosure items including prospectuses, offeror background, terms, financing sources, plans, shareholdings, contracts, state impacts, and labor records."
+        },
+        {
+          "number": 2,
+          "title": "Prompt amendment upon material changes in facts",
+          "bodySha256": "ecf06944e0e8f88f947bdbb72b8812f5c300c94190b7064e6b445b522bdc96bd",
+          "reviewNote": "Requires prompt written or confirmed telephone notice to the commissioner and target company and prompt amendment of the registration statement upon material changes."
+        },
+        {
+          "number": 3,
+          "title": "Commissioner authority to permit omission of immaterial information",
+          "bodySha256": "11b1a0aec86117bc7cd54a4a5e7084bdb4afd837fc07f25da3a6d08dd130597f",
+          "reviewNote": "Permits the commissioner to allow omission of required registration statement information found immaterial or unnecessary for protection of offerees."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all three subsections (including twelve registration items) and 1986 enactment note; retained titles and aligned subsection 2 and 3 notes with statutory notice and offeree-protection phrasing."
+    },
+    {
+      "id": "409.521:23490",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.521&bid=23490",
+      "sourceSha256": "c085f89b583166cc81451d0225d738d60a1aba85c371c72a3db0202fc4270b97",
+      "textSha256": "31824fab2af0f921d25f46a33b67b5d0a3c630eb92e36d2cc40b61c04e36c0a9",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Investigative powers, subpoenas, and sworn examinations",
+          "bodySha256": "ae0538b2a1520b2fe69ce13c1af15506a5cf0cd6e2546821c793bf7ba7c4326c",
+          "reviewNote": "Empowers commissioner to investigate compliance, require sworn statements, subpoena witnesses, and compel document production."
+        },
+        {
+          "number": 2,
+          "title": "Judicial injunctions against takeover bids and share purchases",
+          "bodySha256": "36f4718a6575d5ded318ac2f7aeda2d98c67bd2aa98f2c6c1668d66642aae065",
+          "reviewNote": "Authorizes commissioner to seek temporary or permanent court injunctions barring unlawful takeover bids or tendered share payments."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 1986 enactment note; confirmed investigative powers, subpoena authority, and judicial injunction titles accurately reflect permissive 'may' authority."
+    },
+    {
+      "id": "409.526:23491",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.526&bid=23491",
+      "sourceSha256": "29b677b3bd4be8472bd668cd67c8ceff814fb49c257a1a31e99108af259ce868",
+      "textSha256": "7f6c72fb37966274f4827a600a123afed80d5052264a0f02a2984ce7a3765636",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Criminal penalty for willful violations",
+          "bodySha256": "5c99ac84139a230c22c0c695dfe768f08636202db96e7c395d12cef29d9cef7e",
+          "reviewNote": "Classifies willful violations of takeover bid statutes as a class A misdemeanor."
+        },
+        {
+          "number": 2,
+          "title": "Civil penalties for natural persons and corporations",
+          "bodySha256": "a7fb688454804b30b9d2aa5c942b611f71876015fe7260acdddd5d6f32d64666",
+          "reviewNote": "Imposes civil penalties of $1,000 for natural persons and $10,000 for corporations per violation, with each business day of specified filing defaults a separate violation."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 1986 enactment note; retained titles and clarified in subsection 2 note that each business day of specified filing defaults is a separate violation."
+    },
+    {
+      "id": "409.531:23492",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.531&bid=23492",
+      "sourceSha256": "d90610c02dbdf133aecb545b77b4dd8cf7fabe90216b2cf715c371b6052bface",
+      "textSha256": "473dd806992e054ecb58cbfe0da7a25a8336f9294ea66d3ba99c53abd7fa7a63",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Administration and rulemaking authority of commissioner",
+          "bodySha256": "79da99be9d3c527134e3401771ec1510f6cafef0c51492498c887412d97d649d",
+          "reviewNote": "Charges commissioner of securities and designated staff with administering act and authorizes promulgation of administrative rules."
+        },
+        {
+          "number": 2,
+          "title": "Filing fees for takeover bid registration statements",
+          "bodySha256": "93e1e5cb65a2440d47d649d722dd6e5b80145d815ce676b49b0419271732db12",
+          "reviewNote": "Authorizes commissioner to establish registration filing fees up to $2,500 based on maximum consideration payable."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 1986 enactment note; confirmed administration, rulemaking, and $2,500 maximum registration filing fee headings match archived text."
+    },
+    {
+      "id": "409.541:23494",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.541&bid=23494",
+      "sourceSha256": "16b03ec3b737da6138063b11bba965213dbbb9721dfb310a58007dc53a2ed4b8",
+      "textSha256": "9d025790173402c0b02ebfe43b07bc1e2f038ac633f040e53346378a198dfe96",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Deemed appointment of secretary of state as process agent",
+          "bodySha256": "73182315de36c952eef74708bb150619b74e73e2008de5a52b8d12046e548ada",
+          "reviewNote": "Deems nonresident offerors lacking in-state resident agents to have appointed secretary of state as agent for service of process."
+        },
+        {
+          "number": 2,
+          "title": "Service on secretary of state and mail notice",
+          "bodySha256": "b2446eb7b0303b742d8124db4119a6ba5ff369390f02015bf2c3305052527f97",
+          "reviewNote": "Provides for service by leaving process at the secretary of state's office, effective only when notice and process are sent by certified or registered mail to last known address."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 1986 enactment note; edited subsection 2 title to reflect certified or registered mail notice rather than certified mail alone."
+    },
+    {
+      "id": "409.546:23495",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.546&bid=23495",
+      "sourceSha256": "bb6adf44b872018083acb21a9afc3345402c78e2a395493be2d74cdfa340462a",
+      "textSha256": "780644506bc8ef2aff913875050684a32ae4969ca5bf01cacfa4ef9cbd4f4b8e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition against material misstatements and manipulative acts",
+          "bodySha256": "20a77493cb71921c69bee49290295a4f8313cd1e77803e1c0e71aed6a23f8e9c",
+          "reviewNote": "Prohibits making untrue statements, material omissions, or fraudulent practices in connection with any takeover bid or solicitation."
+        },
+        {
+          "number": 2,
+          "title": "Rulemaking defining fraudulent, deceptive, or manipulative acts",
+          "bodySha256": "a581184dccb7863d27c5c4e09512eefff1ffce581566206c9bc3d1248be54799",
+          "reviewNote": "Empowers the commissioner of securities to adopt, amend, and rescind rules prescribing fraudulent, deceptive, or manipulative acts or practices."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 1986 enactment note; edited subsection 2 title to cover rulemaking defining fraudulent, deceptive, or manipulative acts or practices."
+    },
+    {
+      "id": "409.615:48650",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.615&bid=48650",
+      "sourceSha256": "a7707b3657a16635d747d86df7b68cf56d46fb1e7f8cc16361746cc7de336dea",
+      "textSha256": "071f2d90c759ad692c2cdf6d6251ee921620f39854905acfd32ec7e1f5597dad",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Refusal of disbursements or transactions and notice requirements",
+          "bodySha256": "ecc92fcf613af6d350befd65330c86c2364cc45b4ccea57d11896c3bb8c5473e",
+          "reviewNote": "Authorizes qualified individuals to refuse transactions reasonably believed exploitative, requiring notice within two business days to authorized parties, agencies, and adult."
+        },
+        {
+          "number": 2,
+          "title": "Expiration of transaction refusal",
+          "bodySha256": "523871f57e8e0aa94771166b91d8873e1e53fc9c1050b4538a354d8c69739e70",
+          "reviewNote": "Provides refusal expires upon reasonable belief exploitation will not occur or after ten business days from initial refusal."
+        },
+        {
+          "number": 3,
+          "title": "Extensions of transaction refusal by court or agency order",
+          "bodySha256": "296cfb0cbcce219164fb264b809cfc4b9c3d2f0a1d07d90295fe9ad9e48b6ee1",
+          "reviewNote": "Authorizes court, commissioner of securities, or health and senior services director orders extending refusal, subject to 30-day reviews."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all three subsections and 2015/2020 history note; confirmed permissive refusal authority, ten-business-day expiration, and court/agency extension headings with 30-day agency reviews."
+    },
+    {
+      "id": "409.803:23508",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.803&bid=23508",
+      "sourceSha256": "9654605208d81255b58527edc1195962ab8cde2523f1e1f3f782093fd70785b1",
+      "textSha256": "575c514b2b758f7ad5188d9e914b203af556e99bf9f6db8f83e6ccf55c9b181e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition on margin and leverage commodity transactions",
+          "bodySha256": "cea4bab984c0e1e471655cb2194b3371a9c9e25297e7316494ba974f93ed938e",
+          "reviewNote": "Prohibits margin accounts, leverage contracts, or functionally equivalent arrangements for commodity delivery except as exempted."
+        },
+        {
+          "number": 2,
+          "title": "Prohibition on commodity contracts and options and exempt persons",
+          "bodySha256": "cb7f1927ca3a2ad2d0f176fb7d9a9b1a20ee90c6d140ec1185076c2f60043fb6",
+          "reviewNote": "Prohibits commodity contract sales and options while exempting CFTC merchants, SEC broker-dealers, financial institutions, and registered commodity dealers."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 1985 enactment note; confirmed margin/leverage prohibition and commodity contract/option prohibition with seven exempt-person categories."
+    },
+    {
+      "id": "409.806:23509",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.806&bid=23509",
+      "sourceSha256": "9305b2d5e33cc328726112b9fd490f4b2541df5bc70d7351bbb6002b88b401bd",
+      "textSha256": "9c7db0835b32540cd2210b10cbb5fadda2e6db888e29be67cf44629efe323219",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exempt transactions, physical precious metals, and cash commodities",
+          "bodySha256": "6f9c5881954ef5a75141cd88d461133056719c6738b5b5508aa31578830d070c",
+          "reviewNote": "Exempts CFTC exclusive transactions, physical delivery of precious metals within seven days, commercial merchant cash contracts, and institutional buyers."
+        },
+        {
+          "number": 2,
+          "title": "Rulemaking, exemptive orders, and effective-date requirement",
+          "bodySha256": "b4890016a92683865a913fbcc7c120c56d5dafa0237f1a53075066626ba87f40",
+          "reviewNote": "Permits rules and exemptive orders for non-CFTC-exclusive transactions and requires chapter rules to comply with section 536.024 to become effective."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 1985/1993/1995 history note; tightened subsection 2 title to cover rulemaking, exemptive orders, and the chapter-wide section 536.024 effective-date requirement."
+    },
+    {
+      "id": "409.808:23510",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.808&bid=23510",
+      "sourceSha256": "28f3bf6f207eaa103f130136d01ce760a65a13527e9c9d0705acf0a1b8927d5b",
+      "textSha256": "1d4118f8a69794622f5c59b6221a03352f76bc7f9b6265bb0c216a42e2d5d20f",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "CFTC registration requirement for commodity merchants",
+          "bodySha256": "d25b5261cc018c3791c6434b173fc9e7803080ba06a5784b747ecd3e4a35b493",
+          "reviewNote": "Prohibits engaging in business as a commodity merchant without valid CFTC registration, license, or statutory exemption."
+        },
+        {
+          "number": 2,
+          "title": "Designation requirement for commodity contract trading boards",
+          "bodySha256": "8720296051c1af2b9e845c8302a506dc3a70201754923d20d35ecb2e45a37995",
+          "reviewNote": "Prohibits boards of trade from trading commodity contracts or options without CFTC contract market designation."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 1985 enactment note; confirmed CFTC commodity merchant registration/exemption and contract market designation titles."
+    },
+    {
+      "id": "409.813:23512",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.813&bid=23512",
+      "sourceSha256": "f095a15e31afee173c3ee54879210c326ae41489c7fa217f3fb6f1686c649e8f",
+      "textSha256": "c71b4a53910229f25a850ce9a671f331f0d8b7ee3322ced7da14e2a5d8580ba1",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Vicarious liability for acts of officials and agents",
+          "bodySha256": "b65131d7e4f9ba18ff57aca2b6e5330fc1a52a04db776dd749f76648fc78ce89",
+          "reviewNote": "Deems acts, omissions, or failures of officials and agents within employment scope to be the acts of the principal entity."
+        },
+        {
+          "number": 2,
+          "title": "Joint and several liability for controlling persons and affirmative defense",
+          "bodySha256": "029fb843705d9c04e9e3e4e09e60dcd5212b0b9c26d70cff19e5a7db122c9421",
+          "reviewNote": "Imposes joint and several liability on control persons, officers, and aiding employees absent proof of reasonable lack of knowledge."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 1985 enactment note; confirmed vicarious principal liability and joint-and-several controlling-person liability with reasonable-care defense."
+    },
+    {
+      "id": "409.820:23515",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.820&bid=23515",
+      "sourceSha256": "a54e4b2038cd99b24e8d6c5df673b31d6e86b2098d4f8f4b06332efff86ad96f",
+      "textSha256": "9a2241fe911cf88df3e6afc458eb6b82c825b828014dce9fe4088ce360014293",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Investigative authority within and without the state",
+          "bodySha256": "72e04ced2896a819d50bd6f03d0b54c36efaf64aacc8edd90496cd46ef363ca1",
+          "reviewNote": "Authorizes commissioner to conduct investigations within or outside Missouri to determine violations and aid enforcement."
+        },
+        {
+          "number": 2,
+          "title": "Publication of commodity violation information",
+          "bodySha256": "244c3953abb1a74bccda74483dba65160df2becdab2fd67d1a2e4907ff66eb94",
+          "reviewNote": "Authorizes commissioner to publish information concerning violations of commodity statutes, rules, or orders."
+        },
+        {
+          "number": 3,
+          "title": "Subpoena powers, oaths, and judicial enforcement proceedings",
+          "bodySha256": "066e2272ca3e5ec3a7c5b9c120c32eff18e5cace5568223a02e2711350c0b2b4",
+          "reviewNote": "Empowers commissioner to administer oaths, subpoena witnesses, compel records, and seek enforcement orders in Cole County or appropriate courts."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all three subsections and 1985 enactment note; confirmed investigative, publication, subpoena, and Cole County or out-of-state judicial enforcement headings."
+    },
+    {
+      "id": "409.823:23516",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.823&bid=23516",
+      "sourceSha256": "41bae29bc17e3498649ebe0cbc7dea3f96afc252f185e4322048c146d5ad8cf3",
+      "textSha256": "1e64f2082a6851f2c44d5f831d6468f56167b1b442005ce1354bf55e0b36858e",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Administrative cease and desist orders and civil penalties",
+          "bodySha256": "a1ff633e5709ea75f06b434aab9e868b894ac8bc0304a7eecf86d8916e9cd2f4",
+          "reviewNote": "Authorizes commissioner to issue cease and desist orders, take disciplinary action, or assess civil penalties up to $10,000 per violation."
+        },
+        {
+          "number": 2,
+          "title": "Judicial actions for injunctions, declarations, and receivers",
+          "bodySha256": "b5a65502f6c9fd5f23b63b8ef8239e901e378ca79d0d051879e128ad5d452e2e",
+          "reviewNote": "Authorizes commissioner to initiate court actions for declaratory judgment, prohibitory/mandatory injunctions, and appointment of receivers."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 1985 enactment note; confirmed administrative cease-and-desist, disciplinary, and civil penalty powers and judicial action remedies."
+    },
+    {
+      "id": "409.826:23517",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.826&bid=23517",
+      "sourceSha256": "ff2d0e80fb8d0e2decce7bda838b7cd6a5a40a8eff9bdc88b42c1fbd555c927f",
+      "textSha256": "f250f4d20cf96f025b13787b9d81eaa24edde9926827d753a1d328a99c4691f0",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Circuit court civil penalties, restitution, and equitable remedies",
+          "bodySha256": "bd6975531ffe6975c73ef5bd3f4867e3d381a9a1ac83c47ce89e28f6ae88741e",
+          "reviewNote": "Authorizes court civil penalties up to $10,000, restitution, receivership, or injunctions for actual or threatened violations."
+        },
+        {
+          "number": 2,
+          "title": "Commissioner exempt from posting bond in official actions",
+          "bodySha256": "2402cf9debf1f9374f6e70dbb4e4654c4d1f8c08def055aa7c5465a2cd7ff825",
+          "reviewNote": "Prohibits courts from requiring the commissioner to post a bond in any official action under sections 409.800 to 409.863."
+        },
+        {
+          "number": 3,
+          "title": "Remedies for out-of-state commodity law violations",
+          "bodySha256": "1d00d9d63160f3700d4c30db3c3e5de8bdbdb04a72c80c41d6bfcab2fdc031ee",
+          "reviewNote": "Permits circuit court legal, equitable, and ancillary receivership remedies for actual or threatened violations of another state's commodity or securities laws by nongovernmental persons."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all three subsections and 1985 enactment note; edited subsection 2 title to cover bond exemption in any official action and subsection 3 title to cover out-of-state commodity law remedies."
+    },
+    {
+      "id": "409.828:23518",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.828&bid=23518",
+      "sourceSha256": "b12c59921cc404b5ecbf4abd72dd50cfefb1baaff53a835e1be35d7aa2e1ac11",
+      "textSha256": "2591b1393dc9883f1c588fb20e0c3e549a45a096e63c8ce4ed5b0650620500fc",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Criminal penalties for willful commodity violations",
+          "bodySha256": "e86b81758a4bf1955ec552664077b8208879f5f9aa91cac938ebc8a86325a7d1",
+          "reviewNote": "Punishes willful commodity violations by fine up to $20,000, imprisonment up to ten years, or both."
+        },
+        {
+          "number": 2,
+          "title": "Referral of evidence for criminal prosecution",
+          "bodySha256": "c37ec49adfb67189130f6495084ca9c8d4392e90f009d6cb525948b88388611f",
+          "reviewNote": "Authorizes commissioner to refer evidence to attorney general or prosecuting attorneys for initiation of criminal proceedings."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 1985 enactment note; confirmed willful violation criminal penalties ($20,000 / 10 years) and referral of evidence for prosecution."
+    },
+    {
+      "id": "409.830:23519",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.830&bid=23519",
+      "sourceSha256": "cbd86dd511d55409e9efa41d6d65e925e7e0924e1b0d86ea509d44e229ea8b9b",
+      "textSha256": "b010d7a1f5620aba41a7faf0a61b5282b6d1a737b012d73f93f233ee02480b19",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Administration and prohibition on misuse of nonpublic information",
+          "bodySha256": "04ac829cae56350cd701d770a25daaf0f5eb528129eb0d4d735de591e4775e37",
+          "reviewNote": "Prohibits commissioner and staff from using nonpublic information for personal gain or trading prior to market assimilation."
+        },
+        {
+          "number": 2,
+          "title": "Public availability of records and confidential investigative files",
+          "bodySha256": "888d627835a1d519fa571db2edff8e555f8a064bf8d30a23027ba720cd99e383",
+          "reviewNote": "Designates records public under chapter 610 while exempting private investigations and federal non-disclosable materials, permitting sharing."
+        },
+        {
+          "number": 3,
+          "title": "Preservation of common law and statutory privileges",
+          "bodySha256": "6c2ba9a5228c09e32d7be6eb224a3f96d3ae19ba64f52dde1befc4aa1dc5be33",
+          "reviewNote": "Clarifies that commodity provisions neither create nor derogate existing common law or statutory evidentiary privileges under subpoena."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all three subsections and 1985 enactment note; confirmed insider information restrictions, chapter 610 public/confidential record rules, and privilege preservation."
+    },
+    {
+      "id": "409.833:23520",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.833&bid=23520",
+      "sourceSha256": "ef7de155b0069a338ae6132f5b72ed516e204bc95343d5ed46878a54942a7866",
+      "textSha256": "2bc7475f4e6af3ae18cdcaef1a99943d10d3f96d6f53cbdc7b80107737addab8",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Regulatory cooperation with state, federal, and international agencies",
+          "bodySha256": "e023b1a1398a962e286d32304e989d31375f2b71a3c86502d60a0e16636bfe36",
+          "reviewNote": "Permits cooperation with other states, Canadian provinces, federal agencies, SROs, and law enforcement; source note flags original-rolls phrase 'this act' (apparently §§ 409.800 to 409.863)."
+        },
+        {
+          "number": 2,
+          "title": "Permissible cooperative activities and subpoena enforcement",
+          "bodySha256": "8c9dad4e635a13414a59f22c151ac0810be83e915827b24d8d6035e58a5595fe",
+          "reviewNote": "Enumerates joint examinations, hearings, litigation, personnel sharing, document exchanges, and cross-jurisdictional subpoena enforcement."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and source notes; retained titles and documented original-rolls footnote flagging 'this act' in subsection 1 as apparently intending §§ 409.800 to 409.863."
+    },
+    {
+      "id": "409.838:23522",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.838&bid=23522",
+      "sourceSha256": "cb4a6559a8fbadda933bfdb64698cc547da8e2701f788f89c83ba89cdef83925",
+      "textSha256": "6a56f08293ce0dd2b59607d49f97d962ec6ae4273fb1a93dc288d4570f256d70",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Irrevocable consent appointing commissioner process agent",
+          "bodySha256": "4154fd1f3ac9f8be0bfe1fcfa3f4a78cec86c978c79f410e6fa94d9f309c481a",
+          "reviewNote": "Requires registration applicants to file consent appointing commissioner agent for service in noncriminal proceedings, setting notice rules."
+        },
+        {
+          "number": 2,
+          "title": "Engaging in prohibited conduct as deemed appointment of commissioner",
+          "bodySha256": "23ce1fb599434db0038cf98f9320c72a0554efbfaa5654be5428b3d229b22488",
+          "reviewNote": "Deems engaging in prohibited or actionable conduct as appointment of commissioner as attorney for process in noncriminal proceedings."
+        },
+        {
+          "number": 3,
+          "title": "Service procedure and affidavit of compliance",
+          "bodySha256": "dd89c1f5a5e569b583768863ef818f13c43d0d2b825c4d4329a40e1ba8690fa6",
+          "reviewNote": "Sets service delivery, registered mail to last address known to commissioner, and affidavit steps; archived text cites subsection 1 rather than subsection 2."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all three subsections and 1985 enactment note; retained titles and noted subsection 3's archived cross-reference to subsection 1 while specifying last address known to the commissioner."
+    },
+    {
+      "id": "409.840:23523",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.840&bid=23523",
+      "sourceSha256": "17f88d93183dac862c3581d0bd62c1959aa6b401c7f30c0988bdaef58a79bf0b",
+      "textSha256": "dfb3103107c3ba02899941b20b65ec4c7f88813cebc5c065895ef65bc9750111",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Applicability to in-state sales, purchases, and offers",
+          "bodySha256": "ddd851f5f4dc3bebd0fdda85d66beb03519f5bf752b9ce12c399803ef0273be2",
+          "reviewNote": "Applies commodity provisions to persons buying, selling, or offering to buy or sell when offers originate or are accepted in-state."
+        },
+        {
+          "number": 2,
+          "title": "Rules determining when offers and acceptances are made in-state",
+          "bodySha256": "6b4882b06e35bdee27600cf8f2b8c18daf0f4563acae88975caa00c38e453892",
+          "reviewNote": "Establishes territorial rules for communications, exempting out-of-state publications and syndication broadcasts received in Missouri."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed both subsections and 1985 enactment note; confirmed in-state applicability for §§ 409.803, 409.808, and 409.810 and territorial rules for offers, acceptances, publications, and broadcasts."
+    },
+    {
+      "id": "409.843:23524",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.843&bid=23524",
+      "sourceSha256": "0570be66d83b682f4d5288982019c22f7dc708f3540219b67dc10e524c1dee72",
+      "textSha256": "c3f2e6e467e5d443439b33fe1d83174802906e2032f78dcf395bd5176cb2fb04",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Commencement by notice of intent or summary order",
+          "bodySha256": "be9867172975d8a5965e86575d213500921e343d5bf40c2c2c22e5d0042b0859",
+          "reviewNote": "Requires commencing proceedings by written notice of intent or summary order, with thirty business days to request a hearing on a summary order."
+        },
+        {
+          "number": 2,
+          "title": "Commissioner authority to order hearing on own motion",
+          "bodySha256": "a2f2db3c51831396e21f09badd68ac84d595eb5df425bdf91cc6aaee4e464810",
+          "reviewNote": "Empowers commissioner to set summary order proceedings for hearing on own motion without party request."
+        },
+        {
+          "number": 3,
+          "title": "Finality of summary orders absent hearing request",
+          "bodySha256": "1d67ac4bca0db638349b5a8ca877f6aa323536f1a9bcf758dad2e434dfbb9200",
+          "reviewNote": "Provides that un-challenged summary orders automatically become final after thirty business days."
+        },
+        {
+          "number": 4,
+          "title": "Hearing requirements, notice, and written findings",
+          "bodySha256": "5f916f3638a6823e55e80303f6ad72f8583c6f9d8e4f8669d232a7b60c5542a7",
+          "reviewNote": "Requires notice, hearing opportunity, and written findings of fact and conclusions of law before entering final orders."
+        },
+        {
+          "number": 5,
+          "title": "Public hearings and confidential hearing exception",
+          "bodySha256": "fc49179da7d720eee487ee63452f4ccf2b2c446df861fca3c01bb4bcc5d27c8f",
+          "reviewNote": "Requires administrative hearings to be public unless all respondents join in a request for a private hearing."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all five subsections and 1985 enactment note; retained titles and clarified in subsection 1 note that the summary-order hearing request window is thirty business days."
+    },
+    {
+      "id": "409.846:23525",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.846&bid=23525",
+      "sourceSha256": "03c2cbd181e990eea0aa98a7ba26d7119b01562ff20317d41eb5898a1948422a",
+      "textSha256": "3ecad94a55bbd9f70354b1e26bfa9d25af901ee2d16d19b1e8a6e34a8498fa32",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Judicial review of final orders under contested case procedures",
+          "bodySha256": "c8f369484debec30e76e778f2a69235758eb27e42819c3f178f5a6844a5a97e0",
+          "reviewNote": "Authorizes aggrieved persons to obtain judicial review of final orders pursuant to chapter 536 contested case procedures."
+        },
+        {
+          "number": 2,
+          "title": "Exclusive jurisdiction of reviewing court",
+          "bodySha256": "7faed14c265879341c688f75b6f85d32b6cd0b64e3de18172dc2268864c7363b",
+          "reviewNote": "Grants reviewing court exclusive jurisdiction upon petition filing, except where additional evidence is ordered (archived text cites subsection 3 or 4)."
+        },
+        {
+          "number": 3,
+          "title": "Petition for review does not operate as stay",
+          "bodySha256": "17c75d9c6b23db9af50e08ed841370801d0a8722eb0fa87195207802d6dcf436",
+          "reviewNote": "Provides that filing review petition does not stay commissioner's order absent specific court order."
+        },
+        {
+          "number": 4,
+          "title": "Leave to adduce additional evidence on good cause",
+          "bodySha256": "617a9a605d7228e29143ee4f3fcb1b52e1a3e1389126ce0a26f7a0ca11bacc21",
+          "reviewNote": "Authorizes court on good cause showing to order additional evidence taken before commissioner."
+        },
+        {
+          "number": 5,
+          "title": "Modification of findings and order upon new evidence",
+          "bodySha256": "7f91f46840adc0fbaecb78b56ec0c99b2523118f5f3a0a931e65463e0342a162",
+          "reviewNote": "Authorizes commissioner to modify findings and order based on additional evidence and file amended record with court."
+        },
+        {
+          "number": 6,
+          "title": "Standard of review and conclusiveness of supported findings",
+          "bodySha256": "497d94eb31627faf5132ca237abf784b4d4e5de2809d6c42a5112a3e3d832b6c",
+          "reviewNote": "Directs record review as amended (archived text cites subsections 3 and 4), making factual findings conclusive if supported by competent, material, and substantive evidence."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all six subsections and 1985 enactment note; retained titles and noted archived cross-references in subsections 2 and 6 to subsections 3 and 4."
+    },
+    {
+      "id": "409.850:23527",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.850&bid=23527",
+      "sourceSha256": "54fc96ed44db6ca8487c6875418c7e61e8280fbfdda490cc935accb4dda9b8f9",
+      "textSha256": "c888c281646961a4f94f067824345d8d48452772e06e512b33c43d6ce5d03de9",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application for licensing and consent to process",
+          "bodySha256": "7bfc0c4f01265583f17508e18db33c45e2c1d834e53d5da9747c1e04b3855df1",
+          "reviewNote": "Requires broker-dealers and sales representatives to file licensing applications with information required by rule and consent to process."
+        },
+        {
+          "number": 2,
+          "title": "Initial licensing fees for broker-dealers, branches, and representatives",
+          "bodySha256": "f12c7ef9cad2fd755ac81fc272aad59a253ed3daf02253a26c9f785d5a134c40",
+          "reviewNote": "Establishes initial license fees: $100 for broker-dealers, $50 per branch office, and $25 for sales representatives."
+        },
+        {
+          "number": 3,
+          "title": "Annual renewal licensing fees",
+          "bodySha256": "b9497d6906e142a2c2d599c221f63c65475cec3b8621d24be99ba7577d21c0a6",
+          "reviewNote": "Establishes annual fees: $75 for broker-dealers, $30 per branch office, and $15 for sales representatives."
+        },
+        {
+          "number": 4,
+          "title": "Definition of branch office",
+          "bodySha256": "e497cb031f1006658e9c1abea0a47a2b2fb8c762f47a8acb293e491892700a14",
+          "reviewNote": "Defines branch office as any non-principal in-state office where three or more sales representatives transact business."
+        },
+        {
+          "number": 5,
+          "title": "Retention of fees upon denial or termination",
+          "bodySha256": "95576c60cbff5594b2dad2c424ba11734268ce12e46faa2b077401967ee03cb4",
+          "reviewNote": "Directs commissioner to retain fees upon application denial, withdrawal, revocation, cancellation, or license withdrawal."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all five subsections and 1985 enactment note; confirmed licensing applications, initial and annual fee schedules, branch office definition, and fee retention upon denial or termination."
+    },
+    {
+      "id": "409.853:23528",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.853&bid=23528",
+      "sourceSha256": "2d2bbb00d8cf4a013ff7eba53ab0575e03a199756145059dae9e6bad49098450",
+      "textSha256": "5dc1fdb0e35a5f5271f9e87f49e2da90ea0f7e825111bc833a40eb91b8d0af36",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Commissioner authority to impose examination requirements",
+          "bodySha256": "506b17156b1fc944845fef961c464788b12973d76007068b400610d6f2814b0b",
+          "reviewNote": "Authorizes commissioner by rule or order to require examinations for applicants or classes of applicants."
+        },
+        {
+          "number": 2,
+          "title": "Manner and administration of oral or written examinations",
+          "bodySha256": "448045e8792ed8bd8b57b1c41ba2387f40547e8bc2dc56a2e608b716ca8899c1",
+          "reviewNote": "Authorizes commissioner or designee to administer oral or written examinations tailored by applicant class."
+        },
+        {
+          "number": 3,
+          "title": "Waiver of examination requirements",
+          "bodySha256": "2a36833e7003c8dc9c67cb23ebe69d5cb54fb85d156a952e78cd592942f3af3f",
+          "reviewNote": "Empowers commissioner by order to waive examinations when not necessary for investor protection."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all three subsections and 1985 enactment note; confirmed permissive examination authority, oral/written administration by class, and investor-protection waiver."
+    },
+    {
+      "id": "409.856:23529",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.856&bid=23529",
+      "sourceSha256": "f6d974833521a6eed607bf240bc82cb351711d6b0c11917f1d6825835fa6b25e",
+      "textSha256": "6b449ca3ae02ba9083751d94614251793ede1fa442e640e22f6166c6ac5f7336",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Thirty-day effective date for licensing",
+          "bodySha256": "a01f867d2f64ca0b63dd4ffb13eb8d2ccac046eae8d4f3e7d9d4a9602134963f",
+          "reviewNote": "Provides licenses become effective thirty days after complete filing and exam satisfaction absent disciplinary proceedings, permitting earlier order."
+        },
+        {
+          "number": 2,
+          "title": "Annual expiration of licenses on December thirty-first",
+          "bodySha256": "56fab9b50f2fc63386775c732cf2040414ee59e6e4a415e8def22da10dc1f31c",
+          "reviewNote": "Directs that licenses expire on December 31 of year issued unless commissioner prescribes another date by rule."
+        },
+        {
+          "number": 3,
+          "title": "Scope of sales representative license",
+          "bodySha256": "a6f4116d212569043c9b3ba7562a7e057cc3f179be3f8e56eb859934a86028d5",
+          "reviewNote": "Restricts effectiveness of sales representative license to transactions on behalf of the sponsoring broker-dealer or issuer."
+        },
+        {
+          "number": 4,
+          "title": "Restriction on representing multiple broker-dealers or issuers",
+          "bodySha256": "9b517ce754ac222a201a875e30de4063e80400757ef269cb97bb2cd0df40f6cb",
+          "reviewNote": "Prohibits representing multiple broker-dealers or issuers concurrently absent common control affiliation or commissioner authorization."
+        },
+        {
+          "number": 5,
+          "title": "Prompt notice of representative association or termination",
+          "bodySha256": "8c1c225bf2bc573e934f2d1025ac6d8ac058dfc4b1ffdd0fcc284312b1dc7770",
+          "reviewNote": "Requires representative and broker-dealer to promptly notify commissioner upon beginning or terminating association."
+        },
+        {
+          "number": 6,
+          "title": "Conditional and limited license classifications",
+          "bodySha256": "a216b33e5dbe2cf858d9992b8760a09e225dd7a36e8865e25fdd582e8e18a3b0",
+          "reviewNote": "Authorizes commissioner by rule to establish classifications of licenses subject to activity limitations and conditions."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all six subsections and 1985 enactment note; confirmed 30-day effectiveness, December 31 expiration, representative scope, multiple-affiliation restrictions, notice, and conditional licenses."
+    },
+    {
+      "id": "409.858:23530",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.858&bid=23530",
+      "sourceSha256": "c56a87993537d8cbab08e9ebd88d5fb4d9d46aa1f9beaf0467b692699da52a4a",
+      "textSha256": "7bb0a8792c3ffc9fc8338364fee35ef0796f94a34bfae037d58538368d5971b5",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual report filing and fee requirement",
+          "bodySha256": "40585de944191fdd5bab0adaa21b10e1fb5aad5c6b442c1b445b07fecb5b44e8",
+          "reviewNote": "Requires licensed broker-dealers and representatives to file annual reports with prescribed information and fee."
+        },
+        {
+          "number": 2,
+          "title": "Minimum net capital and debt ratios for broker-dealers",
+          "bodySha256": "cfa99a0ddbb04e013ad3e85b37c38305e388000aa43df5ddc0594488d2954ee2",
+          "reviewNote": "Authorizes commissioner by rule to prescribe minimum net capital and net capital-to-aggregate-indebtedness ratios."
+        },
+        {
+          "number": 3,
+          "title": "Notice of net capital deficiencies",
+          "bodySha256": "fdf504f55c2d44c3c5d595c817c63ac781b5a45d755997f8569e22efb97f52f5",
+          "reviewNote": "Requires broker-dealers to promptly notify commissioner if net capital or ratio requirements are not being met."
+        },
+        {
+          "number": 4,
+          "title": "Fidelity bond requirements",
+          "bodySha256": "01dd70126f04e8eb1e39839df2b577b3f6712daf789812e68d954849c7cd9b46",
+          "reviewNote": "Empowers commissioner by rule to require furnishing of fidelity bonds from commodity broker-dealers."
+        },
+        {
+          "number": 5,
+          "title": "Required financial and other reports",
+          "bodySha256": "7943463b49cfcd7395126df2f3413390cb90e57d560aaaa56c045fc302718720",
+          "reviewNote": "Requires licensed commodity broker-dealers to file financial and other reports determined necessary or appropriate by commissioner rule."
+        },
+        {
+          "number": 6,
+          "title": "Recordkeeping and five-year preservation requirement",
+          "bodySha256": "29b3a2f378d2450e9b1c31e69c64576e5203eef69be8e6476d6e69f912a8201a",
+          "reviewNote": "Requires making and preserving records for five years in accessible data storage formats subject to commissioner rule."
+        },
+        {
+          "number": 7,
+          "title": "Prompt filing of correcting amendments",
+          "bodySha256": "094121a0767554569d25dde9ec6d29e9d1772a83091fe6ce6ad75f7ae63b9401",
+          "reviewNote": "Mandates prompt filing of correcting amendments whenever filed information becomes materially inaccurate or incomplete."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all seven subsections and 1985 enactment note; edited subsection 5 title to 'Required financial and other reports' to avoid unstated 'periodic' and 'operational' qualifiers."
+    },
+    {
+      "id": "409.860:23531",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.860&bid=23531",
+      "sourceSha256": "91bff66595ed33a5bb535c90609662672080ae6bfee32ebccb04e98aaf2c1f34",
+      "textSha256": "a17ec056528a4ecd67d672103dd0395b623064730b849f90c3685ae966ecd85b",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Unannounced records examinations within and without the state",
+          "bodySha256": "e528257eff67b89dfbfbd2b5116b35b44b4e74e6593473d5a8e4728c6d448a1f",
+          "reviewNote": "Authorizes commissioner to examine required records without prior notice within or outside Missouri in readable form."
+        },
+        {
+          "number": 2,
+          "title": "Copying of records by commissioner or licensee",
+          "bodySha256": "dd765e422885cd4faada1826f7294cd46a9fc317a8b1f3569da4426f889c208b",
+          "reviewNote": "Authorizes commissioner to copy records or require licensee to provide copies in a reasonable manner."
+        },
+        {
+          "number": 3,
+          "title": "Assessment of reasonable examination fees",
+          "bodySha256": "cea2a714b28a61716c4436f5978b9686944e9428004a165d915df4c807658fac",
+          "reviewNote": "Empowers commissioner to impose reasonable fees for conducting examinations under this section."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all three subsections and 1985 enactment note; confirmed unannounced records examinations, copying authority, and reasonable examination fee assessment."
+    },
+    {
+      "id": "409.863:23532",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=409.863&bid=23532",
+      "sourceSha256": "7834dcd95117393e3f8566ff579c434d52617fe100565f63aa903ec423ffdd00",
+      "textSha256": "1299fe892f4cce3e08228be7e300acef87817d120f66e48cd437135c3b2e2424",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Statutory grounds for license discipline, suspension, or revocation",
+          "bodySha256": "b2d7708411cab12ccbe80c49a5a4e38d6d5a67f74db9264a838749ea5120d9c0",
+          "reviewNote": "Enumerates twelve grounds for public-interest license discipline; source note flags 'demonstrating' in (5) absent from original rolls, and (10) cites subsection 3."
+        },
+        {
+          "number": 2,
+          "title": "Ninety-day limitation for disclosed facts",
+          "bodySha256": "a6fc04d3f891cdfb301353c1d46161467a47a35c93bee5ab6b7ee98a5af74ebc",
+          "reviewNote": "Bars suspension or revocation based on facts disclosed in application unless proceedings are instituted within ninety days of issuance."
+        },
+        {
+          "number": 3,
+          "title": "Summary suspension, postponement, and fifteen-day hearing",
+          "bodySha256": "028da9bf022d47f8ac4eb34267cbc8913051c17412b11603383eae73864fadda",
+          "reviewNote": "Permits summary license suspension or postponement of effective date in the public interest, with prompt notice and hearing set within fifteen days of written request."
+        },
+        {
+          "number": 4,
+          "title": "Cancellation of inactive, incapacitated, or missing licenses",
+          "bodySha256": "cc4e2745270aa95381ad6404c80edfffd400e37b9329230968d90898654d1611",
+          "reviewNote": "Authorizes commissioner by order to cancel applications or licenses of persons ceased business, incompetent, or unlocatable."
+        }
+      ],
+      "draftedBy": "antigravity_swarm_drafter_6",
+      "reviewedBy": "antigravity_swarm_reviewer_7",
+      "reviewSummary": "Reviewed all four subsections and source notes; edited subsection 3 title to include license postponement and documented original-rolls footnote on 'demonstrating' in subsection 1(5) and subsection 1(10)'s reference to subsection 3."
+    }
+  ]
+}
