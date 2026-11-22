@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "341.090:18345",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=341.090&bid=18345",
+      "sourceSha256": "8876f07debbd3f294619f221640bfef4eb6e048673fd21bbc3e48d4c3b7635f0",
+      "textSha256": "706edf4b92861bb41d8d2693e58bc0e28af8e248842eae721c624cbe70393bca",
+      "draftedBy": "antigravity_drafter_d44",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Meaning of \"person\"",
+          "bodySha256": "6ba1f18881d79671831c76da1a786f92a05cf5d805a0b5152cd864df525edc72",
+          "reviewNote": "Verified sub 1: defines 'person' broadly to include natural persons, business entities, common law trusts, building owners/lessees/keepers, agents, and building contractors."
+        },
+        {
+          "number": 2,
+          "title": "Meaning of \"minor repairs\" and exclusions",
+          "bodySha256": "81bb39add4df40332d1a1fa8c69bb32a4d38cab0114e7bc8f9c75441ca09e47d",
+          "reviewNote": "Revised title to note exclusions. Verified sub 2: covers listed interior leak/pipe/fixture repairs but excludes connections to soil/supply/waste/vent/inside rain leader pipes, replacing or setting fixtures, and work the supervisor judges a public-health risk if improperly done."
+        },
+        {
+          "number": 3,
+          "title": "Meaning of \"apprentice\"",
+          "bodySha256": "d764482fa12426b6228afdd87635fde93125e9faf30e636c6d191926436e43a5",
+          "reviewNote": "Verified sub 3: defines 'apprentice' as a person learning plumbing and drainage installation under the personal direction and supervision of a licensed master or journeyman plumber."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 341.090 (bid 18345), all three subsections, and source note (L. 1943 p. 831 § 15). Retained subs 1 and 3 titles; revised sub 2 from 'Meaning of \"minor repairs\"' to 'Meaning of \"minor repairs\" and exclusions' to reflect substantial statutory exclusions and supervisor public-health judgment."
+    },
+    {
+      "id": "341.170:18353",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=341.170&bid=18353",
+      "sourceSha256": "5c8b1ec5fe7b05197a20bc4711305b2c1118820f98bb73abf2b5ff10da7588a1",
+      "textSha256": "4ce94c91effdf77698719f96dd32d3cdbf7d6b3215baca02d0cf00a2e2feb4c4",
+      "draftedBy": "antigravity_drafter_d44",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Master plumber applicant qualifications",
+          "bodySha256": "7a6bd0132d274a4220bcc03b4e4544923bf8a7c459c78c38447fa814caed3877",
+          "reviewNote": "Verified sub 1: minimum age 25, 3+ years as a licensed journeyman plumber under §§ 341.090-341.220 or equivalent county/city rules, plus supervisory, design, installation, and public-health knowledge."
+        },
+        {
+          "number": 2,
+          "title": "Journeyman plumber applicant qualifications",
+          "bodySha256": "aa9514f7f1b22ef6f537a0211fe4bdd27e495d246153113876b14c978a043d8b",
+          "reviewNote": "Verified sub 2: minimum age 21, 5+ years as an apprentice under a master plumber licensed under §§ 341.090-341.220 or equivalent local rules, plus practical skill and knowledge."
+        },
+        {
+          "number": 3,
+          "title": "Master drainlayer applicant qualifications",
+          "bodySha256": "5113b0d1bf962fa76b729f7aaadc8ecde7d9d3eb149a348ea4650020a797e2dd",
+          "reviewNote": "Verified sub 3: minimum age 25, 3+ years as a licensed journeyman drainlayer under equivalent county/city rules, plus supervisory, design, and drainlaying skill/knowledge."
+        },
+        {
+          "number": 4,
+          "title": "Journeyman drainlayer applicant qualifications",
+          "bodySha256": "5e39101e8e3576c0984ed7993058b1f1ae68911be86a5bf5ab09e69775e11e39",
+          "reviewNote": "Verified sub 4: 1+ year supervised drainlaying work under a licensed master plumber or master drainlayer, plus sewer/drain installation knowledge; no minimum age specified."
+        },
+        {
+          "number": 5,
+          "title": "Drainlayer license required for plumbers",
+          "bodySha256": "f5f3ca745bc7778ca23c2bf86870dd3f5c64d4d6fa5b0f64942372004922668f",
+          "reviewNote": "Revised title to reflect mandatory rule. Verified sub 5: licensed master or journeyman plumbers may not engage in drainlaying without first securing a drainlayer's license."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 341.170 (bid 18353), all five subsections, and source note (L. 1943 p. 831 § 5). Noted catchline-vs-body mismatch: catchline mentions only master plumber qualifications, whereas body also covers journeyman plumbers, master/journeyman drainlayers, and drainlayer licensure for plumbers. Revised sub 5 from 'Drainlayer license for plumbers' to 'Drainlayer license required for plumbers' to reflect the mandatory prohibition."
+    },
+    {
+      "id": "341.200:18356",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=341.200&bid=18356",
+      "sourceSha256": "e36fcf9ac41086019ebf31ba3f8bba82a1abd95f016d1219a0a475fb11f3f571",
+      "textSha256": "553b7a177b8b22d4c2c48c7f6a8e5af8a9a9b1d931bd7628f06e692aa448485b",
+      "draftedBy": "antigravity_drafter_d44",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Surety bonds for master plumbers and master drainlayers",
+          "bodySha256": "f65fa753cb4effd90cc768b53350862257634469f22c6325a5d09b668ef4d08c",
+          "reviewNote": "Clarified title to specify both master categories. Verified sub 1: $2,000 bond with one licensed corporate surety filed with the supervisor before licensure, approved by county counselor, with compliance, indemnity, and licensed-journeyman employment conditions under §§ 341.090-341.220."
+        },
+        {
+          "number": 2,
+          "title": "License display, drainlayer limits, and misrepresentation",
+          "bodySha256": "57890a6089d5bbc35a1ae60b92f11d0444aa5371c98f558803d7c98f7a55a0b8",
+          "reviewNote": "Revised title to include drainlayer interior-plumbing prohibition. Verified sub 2: duty to show license on demand to department inspectors, bar on drainlayer licensees doing interior building plumbing work, and bar on representing oneself as licensed without a §§ 341.090-341.220 license."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 341.200 (bid 18356), both subsections, and source note (L. 1943 p. 831 § 8). Noted catchline-vs-body mismatch: catchline mentions only surety bonds, whereas sub 2 governs license display, interior plumbing prohibition for drainlayers, and unlawful unlicensed representation. Revised both titles for precision and completeness."
+    }
+  ]
+}

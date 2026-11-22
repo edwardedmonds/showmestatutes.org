@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "343.010:18361",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=343.010&bid=18361",
+      "sourceSha256": "0bc77c1620db686e0d9af9bd93b2bd2ad75d0ff71aeecf2caaf7d6c644cd82ed",
+      "textSha256": "435c55531a5a7e69d3ad91433dae7aa9df6d43cb1db189c0d5ca5492e74f6ddb",
+      "draftedBy": "antigravity_drafter_d44",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "License required for public auctioneers",
+          "bodySha256": "fd1db4505d8c030add77d752984221455e8c7daacd9259b290447c81b073ba6f",
+          "reviewNote": "Verified sub 1: prohibits exercising the trade or business of a public auctioneer selling goods, property, or real estate without a license."
+        },
+        {
+          "number": 2,
+          "title": "Auctioneer defined and exclusions",
+          "bodySha256": "e7e241977a86402d01297f78a0cbbaac2bc47674eb89420b9f13283716071ba6",
+          "reviewNote": "Revised title to flag exclusions. Verified sub 2: defines 'auctioneer' for §§ 150.380, 343.010, and 343.070 to 343.105 (compensated sales for another), excluding court-jurisdiction/judicial-order sales, real-estate foreclosure sales, and owners selling their own property."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 343.010 (bid 18361), both subsections, and history notes (RSMo 1939 § 14912, A.L. 1978 H.B. 1170; prior revisions 1909-1929). Retained sub 1 title; revised sub 2 title from 'Auctioneer defined' to 'Auctioneer defined and exclusions' to reflect explicit carve-outs for court-ordered sales, real estate foreclosures, and owners selling their own property."
+    },
+    {
+      "id": "343.080:18367",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=343.080&bid=18367",
+      "sourceSha256": "6dc5d0806328d561b15051f1d33b151168e9f79c516e65cdf3bec81b585614a5",
+      "textSha256": "b6649a1b1ff332ba33e44fa3cee695884af0656649c718e835eab2c0c19dbf22",
+      "draftedBy": "antigravity_drafter_d44",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "License fee schedule",
+          "bodySha256": "61cdf315064cd76332f97c094cae55986aaf7d060ee1328272c7ce4e988c8e17",
+          "reviewNote": "Verified sub 1 and subdivisions (1)-(4): fees payable to the county clerk before delivery ($10 for 1 month, $20 for 3 months, $30 for 6 months, $50 for 12 months)."
+        },
+        {
+          "number": 2,
+          "title": "Statewide validity of county license",
+          "bodySha256": "c6cc84388266c44f5ae0cb95497daba791802cb64cb9881b56c2da1f419006f9",
+          "reviewNote": "Verified sub 2: an auctioneer license issued in any Missouri county is valid in every county during the period issued."
+        },
+        {
+          "number": 3,
+          "title": "Fees paid to county general revenue",
+          "bodySha256": "3178d5e39bd97ff2171ae75abd5decef00234e488f994941d17c435a12664ce8",
+          "reviewNote": "Verified sub 3: all fees imposed by § 343.080 must be paid into the county general revenue fund."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 343.080 (bid 18367), all three subsections with subdivisions (1)-(4), and history notes (RSMo 1939 § 14919 through A.L. 1981 S.B. 105; prior revisions 1909-1929). All three draft titles accurately reflect the archived text; no title changes needed."
+    }
+  ]
+}

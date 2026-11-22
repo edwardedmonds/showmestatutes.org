@@ -1,0 +1,342 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "336.010:17941",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=336.010&bid=17941",
+      "sourceSha256": "a549cea93a2e0a9c00c9bf05af53ecc9c93cd64e7e082eb587b06ebac00e06f2",
+      "textSha256": "ff0214033d9b37dbaf5299ecd3c40dbfef0705e4da948f89ebc2a52aa59bd269",
+      "draftedBy": "antigravity_drafter_d42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Practice of optometry and included activities",
+          "bodySha256": "3d1cd1a7264a547a64e65d5b0cfff39f5d0359fc82c619abb3789ec22fb6bb66",
+          "reviewNote": "Verified sub 1 and subdivisions (1)-(10): non-exclusive ('includes, but is not limited to') definition of practice of optometry; sub (4) excludes injectable pharmaceutical agents. 1972 Dale Curteman annotation addresses contact-lens prescription and fitting."
+        },
+        {
+          "number": 2,
+          "title": "Optometrist surgery and laser prohibition",
+          "bodySha256": "91c657e41316f4c0ad9876522aeeb195f0b5b93fc7df86012e6b3423d602569f",
+          "reviewNote": "Verified sub 2: prohibits optometrists from performing surgery, including laser use for disease/condition treatment or refractive-error correction."
+        },
+        {
+          "number": 3,
+          "title": "Definitions used in this chapter",
+          "bodySha256": "1e8ec913617d47a696d44294e2711ba443a11d386bef5facb1aa119a327414fa",
+          "reviewNote": "Verified sub 3 and subdivisions (1)-(8): defines eye, adnexa, board, diagnostic/therapeutic/general pharmaceutical agents (excluding injectables in therapeutic), low vision care, and vision therapy (source spells 'regiment'), except as context requires."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 336.010 (bid 17941), all three subsections with subdivisions, history (RSMo 1939 § 10113 through A.L. 2007 merged bills), and 1972 case annotation (State ex inf. Danforth v. Dale Curteman, Inc., 480 S.W.2d 848). All three draft titles accurately reflect scope, non-exclusive list, surgery/laser bar, and chapter definitions; retained source spelling 'regiment' in sub 3(8)."
+    },
+    {
+      "id": "336.025:57246",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=336.025&bid=57246",
+      "sourceSha256": "dd09e86029e408f787b26ceea5bc5f351305d5d647a3772fa247c7b01bcf986d",
+      "textSha256": "940cbd612666370d1d93c304654a5441513674167581f83aae3a0500b9bc0d13",
+      "draftedBy": "antigravity_drafter_d42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Optional fingerprint requirement for licensure applications",
+          "bodySha256": "48774bb73606660dc421d73bd8fa757f72b25c333899dc1328e6f7a6f5cde74e",
+          "reviewNote": "Verified sub 1: permissive authority ('may require') for the board to require fingerprint submissions with optometrist license applications under §§ 336.010 and 336.030."
+        },
+        {
+          "number": 2,
+          "title": "Fingerprint submission to highway patrol if required",
+          "bodySha256": "9b73b4e75c25ba1e8b39a89ffb1853e3cec25c69768f09833ccb1a2322b98b0c",
+          "reviewNote": "Verified sub 2: conditional on board requirement under sub 1, applicants must submit fingerprints to the Missouri state highway patrol for state and federal background checks."
+        },
+        {
+          "number": 3,
+          "title": "Fingerprint routing, results, and record access",
+          "bodySha256": "d1d5f7b9db47528995f497829c3468128a0856d4f0073f56cb2cb13d07e44287",
+          "reviewNote": "Verified sub 3: fingerprints and required fees go to the highway patrol central repository and FBI under § 43.540; patrol notifies board; records are accessible to board notwithstanding § 610.120."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 336.025 (bid 57246), all three subsections, and history note (L. 2025 S.B. 71 merged with S.B. 81 & 174). Verified permissive 'may require' in sub 1, conditional trigger in sub 2, and highway patrol/FBI routing plus § 610.120 override in sub 3. Retained all three titles."
+    },
+    {
+      "id": "336.030:48441",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=336.030&bid=48441",
+      "sourceSha256": "7b839b06bcd534b8430204f03a330d25e113ddce15cbcb0d38817ecbc5d46eb7",
+      "textSha256": "a2f4ea6e869bc930bd7b4c78d95e22da43d5329af9c5e223a839d096de8a6010",
+      "draftedBy": "antigravity_drafter_d42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Qualifications for optometrist license",
+          "bodySha256": "ad725ae280743a6fdaa94753125e75149a21ac94562325284339163606761d7e",
+          "reviewNote": "Verified sub 1(1)-(2): requires graduation from a board-approved optometry school plus either board-approved exam with pharmaceutical certification or 3-of-5-year licensed practice with pharmaceutical certification in a substantially equivalent jurisdiction (plus any required practical/Missouri-law exam)."
+        },
+        {
+          "number": 2,
+          "title": "Board rules on examination and certification",
+          "bodySha256": "d2644df7e91cb477a6b450b61ac295126ac1ecf98b8572159f060abde07f5646",
+          "reviewNote": "Verified sub 2: permissive authority ('may adopt reasonable rules and regulations') for examination and certification of applicants to practice optometry."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 336.030 (bid 48441), both subsections with subdivisions, and history notes (RSMo 1939 § 10115 through A.L. 2020 H.B. 2046). Verified cumulative graduation requirement plus exam or reciprocity-practice routes (with pharmaceutical certification) and permissive rulemaking in sub 2. Retained both titles."
+    },
+    {
+      "id": "336.080:48442",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=336.080&bid=48442",
+      "sourceSha256": "9b745a183291fdee2bfde08cd5d8f1ab4d2678c53ce9b5271037366b5bcc3325",
+      "textSha256": "4e0213c54ed0d118e10110b38736cd4a235ef4c702f1235094b326c3a8dbdf30",
+      "draftedBy": "antigravity_drafter_d42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "License renewal, continuing education, and expiration",
+          "bodySha256": "370c78eb909ad683c0dc172bf5421e6a8849ec2777a31cdf3801cafe61a8b695",
+          "reviewNote": "Revised title to remove inaccurate 'Annual' and include expiration. Verified sub 1: active optometrists must renew by the renewal date with fee and 32 hours CE over the preceding two-year reporting period (including 2 hours Missouri jurisprudence), with board waiver for illness/good cause, in-state availability safeguard, and expiration if unrenewed."
+        },
+        {
+          "number": 2,
+          "title": "Renewal after expiration within five years",
+          "bodySha256": "01a48dbce7ce0256828d5d70bbb8053a88df1188b5caf2bb4170aa020c2b1da6",
+          "reviewNote": "Verified sub 2: expired license may be renewed within five years upon paying reactivation fee and showing 48 hours of board-approved CE (or equivalent) during the five years."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 336.080 (bid 48442), both subsections, and history notes (RSMo 1939 § 10120 through A.L. 2020 H.B. 2046). Revised sub 1 title from 'Annual renewal and continuing education' to 'License renewal, continuing education, and expiration' because sub 1 does not specify annual renewal (it references a two-year CE reporting period and renewal date) and includes license expiration."
+    },
+    {
+      "id": "336.110:48443",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=336.110&bid=48443",
+      "sourceSha256": "8c80f90d8d875da9c389feb418697551eea64f9f6f18b7e4a50d8bd997a748c4",
+      "textSha256": "0c2ef9123a9ad5a6e604dc2e0367c72f329af89193c660433e2894486f8a20f8",
+      "draftedBy": "antigravity_drafter_d42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board refusal to issue license; applicant notice",
+          "bodySha256": "d334d7cfa039c5cf198782826a3698a85f5942d0510ca869f1fb064eebe6942d",
+          "reviewNote": "Verified sub 1: board 'may' refuse licensure for sub 2 causes, and must notify applicant in writing of reasons and right to file a chapter 621 AHC complaint."
+        },
+        {
+          "number": 2,
+          "title": "Board complaint grounds against current and former holders",
+          "bodySha256": "4f83e9e12bc180c551dcbe43098adbaf996757a6653c7417aca673bac2c918e3",
+          "reviewNote": "Revised title to capture non-renewed and surrendered holders. Verified sub 2 and all 16 causes: board 'may' file a chapter 621 AHC complaint; includes § 324.012 criminal-offense standard and advertising exceptions in (14)(c)-(d)."
+        },
+        {
+          "number": 3,
+          "title": "Hearing proceedings and board discipline limits",
+          "bodySha256": "b08bd32eab23c054ac12a1259fd1fa41e85120ca9024b263c11319614fab65ae",
+          "reviewNote": "Verified sub 3: chapter 621 proceedings; upon AHC finding of grounds, board 'may' singly or in combination censure, place on probation up to 5 years, suspend up to 3 years, or revoke."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 336.110 (bid 48443), all three subsections including all 16 subdivisions and advertising exceptions (14)(a)-(d), and history notes (RSMo 1939 § 10121 through A.L. 2020 H.B. 2046). Preserved permissive 'may' framing and discipline limits; revised sub 2 title from 'Grounds for complaint against license holders' to 'Board complaint grounds against current and former holders' to reflect lapsed and surrendered licensees."
+    },
+    {
+      "id": "336.115:17951",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=336.115&bid=17951",
+      "sourceSha256": "3e12db041af438120d7109dfa3c1ff03c7f8695b38a63612a5dbc1924bbdb613",
+      "textSha256": "65cd59b51105c7aa210af0e44532183f5564709fa365c7827b4f632be1349832",
+      "draftedBy": "antigravity_drafter_d42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Court injunctions on board application",
+          "bodySha256": "b089af9a077b90815679d5c66206711d0280377a1d221e7c7eba3f89b6e76c8d",
+          "reviewNote": "Verified sub 1(1)-(2): upon board application and required showing, a court of general jurisdiction 'may' enjoin unlicensed practice or practice by a licensee posing a serious danger to health, safety, or welfare."
+        },
+        {
+          "number": 2,
+          "title": "Venue for injunction actions",
+          "bodySha256": "b2dd3db70a15245a5288a8e676460580e2119c194d1905aa77126689135f0c4e",
+          "reviewNote": "Verified sub 2: action must be commenced in the county where the conduct occurred or where the defendant resides."
+        },
+        {
+          "number": 3,
+          "title": "Injunction in addition to other penalties",
+          "bodySha256": "cca04fe182172adbcfc0e453c15fc53bee3affeab7bb6d5e3e073b7e23f5316f",
+          "reviewNote": "Verified sub 3: injunction action is in addition to, not in lieu of, other chapter penalties and may be brought concurrently with other enforcement actions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 336.115 (bid 17951), all three subsections with subdivisions (1)-(2), and source note (L. 1999 H.B. 867). Verified permissive court authority, venue rule, and cumulative-remedy clause. Retained all three titles."
+    },
+    {
+      "id": "336.130:17953",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=336.130&bid=17953",
+      "sourceSha256": "bc825f7108bb9060616ec3af1d636cb29eae8afdf704f6f4d087c372e0b58746",
+      "textSha256": "99b891c49831897f0bba631432d2db8fec76da993d7e08916c882638dbd11bca",
+      "draftedBy": "antigravity_drafter_d42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board appointments, qualifications, terms, vacancies",
+          "bodySha256": "9735cbf212460317ffab1c15603cb8fab0cb89026441ab1f7c3e98eb16d668f8",
+          "reviewNote": "Verified sub 1: governor appoints 6 members (5 optometrists with 5+ years experience, 1 voting public member) with senate consent; citizenship/residency, school/industry ineligibility, 5-year terms, removal upon ceasing active practice (except public member), vacancies, and oath."
+        },
+        {
+          "number": 2,
+          "title": "Public member qualifications and limits",
+          "bodySha256": "2c6e5c326f0f7b5a26e39fc84851873f6d6ee4926aad75be65f9ef10a876ce09",
+          "reviewNote": "Verified sub 2: public member citizenship/residency/voter and conflict-free criteria, selection of all members from division director lists, and exclusion of public member from technical licensure/competence determinations."
+        },
+        {
+          "number": 3,
+          "title": "Election of board officers",
+          "bodySha256": "62df1c75c79faeaaca299aeda67d9f7ddfc417c71b7faff1e9438540c01ae78c",
+          "reviewNote": "Verified sub 3: board members meet and organize by electing a president, vice president, and secretary."
+        },
+        {
+          "number": 4,
+          "title": "Officer duties, proceedings rules, and seal",
+          "bodySha256": "ca8e0db41c3982fcefb8965a80cdcca060399394368fdec4b815b758c02ba620",
+          "reviewNote": "Verified sub 4: board prescribes officer duties, adopts proceedings rules not inconsistent with chapter 336, and adopts a seal."
+        },
+        {
+          "number": 5,
+          "title": "Rulemaking compliance and nonseverability",
+          "bodySha256": "36d4a3ac29c5f92307f3949e053d7aada51466ac728fc9a84f4212cb05daf7fc",
+          "reviewNote": "Verified sub 5: rules effective only if compliant with chapter 536 and § 536.028 if applicable; repeals pre-August 28, 1999 rulemaking delegations while preserving compliant prior rules; nonseverable with chapter 536 legislative review powers."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 336.130 (bid 17953), all five subsections, and history notes (RSMo 1939 § 10110 through A.L. 1999 H.B. 343). Verified board composition, conflicts/ineligibility, public-member limits, officer/seal rules, and August 28, 1999 rulemaking/nonseverability clause. Retained all five titles."
+    },
+    {
+      "id": "336.140:17954",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=336.140&bid=17954",
+      "sourceSha256": "fd319e7a5ed2a01d1fbdcd3fa323efd47c6524c21e3167a07f81484a202b40ce",
+      "textSha256": "23d4a8d4ff151afc7463c696dfb955c8a269baa420c1c44c62ffce6830bdd4e4",
+      "draftedBy": "antigravity_drafter_d42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Meetings, compensation, and Optometry Fund",
+          "bodySha256": "73eb7ef35cd0672f066b72109e8720c420efae95cae801f7bb4b3190b494fc4b",
+          "reviewNote": "Verified sub 1: semiannual meetings with 10-day public notice, additional meetings with chapter 610 notice, up to $50/day compensation plus necessary expenses, and fee deposit into the Optometry Fund for chapter administration."
+        },
+        {
+          "number": 2,
+          "title": "Fund transfer to general revenue limits",
+          "bodySha256": "f7946aa5bd34d8071fb09192b51ba7021de4987f56ce03171d87350de52a7527",
+          "reviewNote": "Verified sub 2: notwithstanding § 33.080, Optometry Fund balance does not transfer to general revenue unless biennium-end balance exceeds 2x (or 3x if renewal is less frequent than yearly) prior fiscal year appropriation; only the excess lapses."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 336.140 (bid 17954), both subsections, and history notes (RSMo 1939 § 10112 through A.L. 2008 S.B. 850). Verified meeting notice, compensation cap, Optometry Fund creation, and § 33.080 general-revenue transfer thresholds. Retained both titles."
+    },
+    {
+      "id": "336.150:17955",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=336.150&bid=17955",
+      "sourceSha256": "069c0748813a7d56bf1d818ffd10b5978b323abaddce0f6a9995b42d201196aa",
+      "textSha256": "2f3eae2fa6e9dc4103c80eeb070b9d1cdabd356d6b2098f8d1fd4c63727ed27c",
+      "draftedBy": "antigravity_drafter_d42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board duties, records, quorum, and bylaws",
+          "bodySha256": "f1fadb9384f0e184de71d0ecfafe862baa3c7f1be104dcec0595cc4f7457dfa2",
+          "reviewNote": "Verified sub 1: application review, certificates, prosecutions, annual governor report, bylaws, registration book, special meetings called by president, 3-member quorum, and public inspection. Notes include 1954 Brackman (quo warranto) and 1963 Ketring v. Sturges annotations."
+        },
+        {
+          "number": 2,
+          "title": "Rule effectiveness under section 536.024",
+          "bodySha256": "4578f7ad0296ac8f2b88b7cc7e4af3895e98ae277d1e593325e45ac4b0f35ec9",
+          "reviewNote": "Verified sub 2: no rule or portion of a rule under chapter 336 becomes effective unless promulgated pursuant to § 536.024."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 336.150 (bid 17955), both subsections, history notes (RSMo 1939 § 10111 through A.L. 1995 S.B. 3), and 1954 (Brackman) and 1963 (Ketring v. Sturges) case annotations. Retained both titles."
+    },
+    {
+      "id": "336.160:36053",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=336.160&bid=36053",
+      "sourceSha256": "dd70e4b1a9cdbf1417fe276d93f8589aa17f4bf6d8ca140f150b54b87246aa08",
+      "textSha256": "04e6f44bb18a7c2fd66e2db4dd956e081386ca2d2b3cf68c2c5246081dc5a5e3",
+      "draftedBy": "antigravity_drafter_d42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board rules and personnel",
+          "bodySha256": "398fce796cae2478033060529f679097d2633a656bb8275ba34f0f5ee172822a",
+          "reviewNote": "Verified sub 1: board 'may' adopt reasonable rules within chapter scope and 'may' employ board personnel (per § 324.001(11)(4)) as deemed necessary within appropriations."
+        },
+        {
+          "number": 2,
+          "title": "Fee setting by rule",
+          "bodySha256": "2cb4f241057f6f7bfff3e32c1f8a1708d15bd1fa8e29a2cad7ca300005f10088",
+          "reviewNote": "Verified sub 2: board sets authorized/required fees by rule under § 536.021 at levels not substantially exceeding chapter administration costs. 1963 Ketring v. Sturges annotation in notes."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 336.160 (bid 36053), both subsections, history notes (RSMo 1939 § 10125 through A.L. 2018 S.B. 975 & 1024 Revision), and 1963 case annotation (Ketring v. Sturges, 372 S.W.2d 104). Verified permissive rulemaking/personnel authority and § 536.021 cost-recovery fee limit. Retained both titles."
+    },
+    {
+      "id": "336.220:17960",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=336.220&bid=17960",
+      "sourceSha256": "e565321b53398d76d3727b2bce0b994fe608cf1bcdeb7f0f0f80952f1f7768d9",
+      "textSha256": "6ef7a9ab513b7781cd8d66bc5b57b895badaf6488adf067dfb2f6b7ec8ce8ffe",
+      "draftedBy": "antigravity_drafter_d42",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Pharmaceutical certification requirement",
+          "bodySha256": "53be42ba718d9fbb94d94a4f0ae497e95f281809790640f4f8a37d06b24d983d",
+          "reviewNote": "Verified sub 1: notwithstanding § 336.010(1), uncertified optometrists remain prohibited from administering, dispensing, or prescribing diagnostic or therapeutic agents without an approved course and board certification; noted on license at each renewal."
+        },
+        {
+          "number": 2,
+          "title": "Physician referral for diagnostic-only optometrists",
+          "bodySha256": "7385904b9df030579c12703e2ec4a93d65e93a5f88eba8ec100d5bc2d310ddbd",
+          "reviewNote": "Verified sub 2: diagnostic-only optometrists must refer to a chapter 334 physician when exam indicates need for medical treatment, further diagnosis, or further refraction, except for known/previously diagnosed conditions; referral note has business-record standing; violations subject to § 336.110."
+        },
+        {
+          "number": 3,
+          "title": "Dispensing therapeutic agent prescriptions",
+          "bodySha256": "aa85f860baeffd17acb5ca31d72cc801de3b148e205130cc80a65cc40b7375c5",
+          "reviewNote": "Verified sub 3: therapeutic pharmaceutical prescriptions are dispensed by chapter 338 pharmacists; when dispensed by an optometrist, § 338.059 applies."
+        },
+        {
+          "number": 4,
+          "title": "Standard of care for pharmaceutical use",
+          "bodySha256": "8cef93fb23ad96b70df1f8af9a5a79c1a33f3e09b33d98c8423cb32672eb5eeb",
+          "reviewNote": "Verified sub 4: certified optometrists are held to the same standard of care in pharmaceutical diagnosis and treatment as physicians licensed by the healing arts board."
+        },
+        {
+          "number": 5,
+          "title": "Board rules for pharmaceutical certification",
+          "bodySha256": "659d2203c08d85ea8f0765ef45838871723a4cea72c18e4beee92313e9b48837",
+          "reviewNote": "Verified sub 5: permissive authority ('may adopt reasonable rules and regulations') for examination and certification of optometrists applying for pharmaceutical authority."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 336.220 (bid 17960), all five subsections, and history notes (L. 1981 S.B. 91 through A.L. 2007 merged bills). Verified certification mandate notwithstanding § 336.010(1), diagnostic-only referral rule and known-condition exception, chapter 338/§ 338.059 dispensing rules, physician standard of care, and permissive rulemaking. Retained all five titles."
+    }
+  ]
+}

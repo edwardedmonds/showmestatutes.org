@@ -1,0 +1,482 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "345.016:57255",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=345.016&bid=57255",
+      "sourceSha256": "3090029700f47de144902cefe2498a22d150cfa8464a76b3443ed2fc3c699b25",
+      "textSha256": "c6dede778917ff0f7c7d59fcda07076c058b711113467f7308b3a0c26f52d875",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Optional fingerprint requirement for licensure applications",
+          "bodySha256": "8012af8eab20717eae4af7742923e0f183f06bbf4b0ab7622a90bdf78ed4a896",
+          "reviewNote": "Revised title to reflect permissive 'may require'. Verified sub 1: healing arts board may require fingerprints for § 345.020 license or § 345.021 provisional license applications for audiologists, SLPs, aides, and assistants."
+        },
+        {
+          "number": 2,
+          "title": "Highway patrol fingerprint submission if required",
+          "bodySha256": "f781be6d62e7212f02cf5eba2c8d56531d4c9cf86b0ceaebfe66e5a6ecf0c42a",
+          "reviewNote": "Revised title to reflect conditional trigger ('If the state board... requires'). Verified sub 2: applicants submit fingerprints to the highway patrol for state and federal background checks."
+        },
+        {
+          "number": 3,
+          "title": "Central repository processing, FBI search, and board record access",
+          "bodySha256": "63839be81c47bf499696835dd32d5ce65ffaca734464ef47b1d2069b7539bc16",
+          "reviewNote": "Verified sub 3: fingerprints and fees go to highway patrol central repository and FBI under § 43.540; patrol notifies board; records accessible notwithstanding § 610.120."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 345.016 (bid 57255), all three subsections, and source note (L. 2025 S.B. 71 merged with S.B. 81 & 174). Revised subs 1 and 2 titles to preserve permissive 'may require' and conditional trigger."
+    },
+    {
+      "id": "345.020:18384",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=345.020&bid=18384",
+      "sourceSha256": "12ed6a8c390aa57862a224ce73110d0b15b03e9d77711cfa396b944de74ea159",
+      "textSha256": "a628da9164a2459140b6d85ee16eff31aa323b59a600686a2e2ed7502c7fb6fa",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Independent licensure, dual practice, and certificate display",
+          "bodySha256": "267c3176d9f5c95dd82f0309885c2011029b33904e5866985608d1f2cc3989bc",
+          "reviewNote": "Verified sub 1: independent licensure/registration in SLP or audiology, dual licensure if qualified, and prominent display at place of practice."
+        },
+        {
+          "number": 2,
+          "title": "Licensure requirement for practice and physician exemption",
+          "bodySha256": "92f575aea82ca07c18ff114be9dbfd8b9280b3d8847de33ed31ff9b77753cd5e",
+          "reviewNote": "Verified sub 2: prohibits unlicensed practice/holding out under §§ 345.010–345.080, preserving other licensed professions and exempting licensed physicians and surgeons."
+        },
+        {
+          "number": 3,
+          "title": "Speech-language pathologist title restrictions and criminal penalty",
+          "bodySha256": "3d38e2021541819049a38fd590a23381bb47b49655cd671207341dddbdd5ba8b",
+          "reviewNote": "Verified sub 3: bars holding out or using listed SLP titles/abbreviations without a valid license; violation is a class B misdemeanor."
+        },
+        {
+          "number": 4,
+          "title": "Audiologist title restrictions and criminal penalty",
+          "bodySha256": "b5fde9e9e6fe17c3dbfdff9e6f21d90be186a74b76bf118d612ef0bfeef0608c",
+          "reviewNote": "Verified sub 4: bars holding out or using listed audiologist titles/terms without a valid license; violation is a class B misdemeanor."
+        },
+        {
+          "number": 5,
+          "title": "Registration requirement for assistants and aides",
+          "bodySha256": "1c2108be1f250a23fb88ae5ca9c56ced37e4908b11624c16b0dcdcf4e4c38cdb",
+          "reviewNote": "Verified sub 5: bars holding oneself out as an SLP assistant, SLP aide, or audiology aide without registration under §§ 345.010–345.080."
+        },
+        {
+          "number": 6,
+          "title": "Business entity employment of licensed personnel",
+          "bodySha256": "848e185c7986bcaa32f089ae2a70ca22eb10706c443c64c73d3c67b40c059d44",
+          "reviewNote": "Verified sub 6: allows corporations, partnerships, trusts, or associations to engage in SLP or audiology business without entity licensure if employing licensed natural persons in direct practice."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 345.020 (bid 18384), all six subsections, and history notes (L. 1973 through A.L. 2015 S.B. 107). Verified independent/dual licensure, physician and other-licensee exemptions, class B misdemeanor title prohibitions, assistant/aide registration, and entity employment rule. Retained all six titles."
+    },
+    {
+      "id": "345.021:51032",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=345.021&bid=51032",
+      "sourceSha256": "4a60cb48e987b9ec3cb6fef137272befd3e34eae6107f63987df45de66fb602b",
+      "textSha256": "466129c14defef194a567ddf7ef83d3b54bdf67ceb15e6e3f86657dfd9695d6a",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Provisional license requirements for clinical fellowship",
+          "bodySha256": "41685726e472d1fea0b84d21d90d31b9a9984798df83599c3644801059672335",
+          "reviewNote": "Verified sub 1(1)-(3): clinical fellows must hold a provisional license; board 'may issue' upon accredited practicum/academic completion, application with supervision plan and character evidence, and fee."
+        },
+        {
+          "number": 2,
+          "title": "Provisional license duration and twelve-month extension conditions",
+          "bodySha256": "22febda16b849c15cbd5c4029cb68224465ad6c96ad09b082e677cb48627c40e",
+          "reviewNote": "Verified sub 2: effective 1 year; may be extended 12 months only to complete postgraduate clinical experience, provided national exam passed and master's degree held."
+        },
+        {
+          "number": 3,
+          "title": "Examination passage deadline within twelve months",
+          "bodySha256": "1c978abac2d937bf636d05813eef1b604bff3cf2f5ee3bea053693f521e58a01",
+          "reviewNote": "Verified sub 3: applicant must pass board-promulgated or board-approved exam within 12 months of provisional license issuance."
+        },
+        {
+          "number": 4,
+          "title": "Accredited degree completion deadline within twelve months",
+          "bodySha256": "b98529b02d9c17451ee2ca9bdac606b32eae7eafd9c6ddfb41165295093679df",
+          "reviewNote": "Verified sub 4: applicant must complete master's or doctoral degree requirements from a CAA/ASHA or board-approved accredited program within 12 months of provisional issuance."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 345.021 (bid 51032), all four subsections with subdivisions (1)-(3), and source note (L. 2022 H.B. 2149 § 345.022). Verified clinical-fellowship provisional licensure, 1-year term plus 12-month conditional extension, and 12-month exam and accredited-degree deadlines. Retained all four titles."
+    },
+    {
+      "id": "345.025:18386",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=345.025&bid=18386",
+      "sourceSha256": "dc1d72d6f8a7fc99c0cbc01fa2dc1cc34fb6fa17eb7da74dbfe2e73408832f1a",
+      "textSha256": "215e6668847bd23d0f6171f269a435b674319ee69ce0ab710b8278a930ff4b75",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exemptions from licensure and regulatory provisions",
+          "bodySha256": "9aa7c300c3b0b1f6c5c67604a980dc4be392e9152231b632aff9312ebd66d2c1",
+          "reviewNote": "Verified sub 1(1)-(7) and revisor footnote (*§ 345.015(12) renumbering): exempts federal employees, certified teachers of the deaf, supervised students, chapter 334 physicians/surgeons, OSHA industrial audiometric technicians, pre-Jan 1, 2016 DESE-certified public school SLPs, and supervised clinical-hour trainees."
+        },
+        {
+          "number": 2,
+          "title": "Loss of exemption for outside compensated work and clinic supervision",
+          "bodySha256": "a314e8cb2d4c6d2b4c59716a98bb5b401b4c3e64eb8a8abb450f8de04b814f02",
+          "reviewNote": "Verified sub 2: removes sub 1(1) and (6) exemptions for fee-compensated outside work and requires licensed supervisors when college/university clinics charge a fee."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 345.025 (bid 18386), both subsections with subdivisions (1)-(7), history notes, and revisor footnote (*reference to subdivision (11) changed to (12) under § 3.060 following H.B. 2149, 2022). Retained both titles."
+    },
+    {
+      "id": "345.030:18387",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=345.030&bid=18387",
+      "sourceSha256": "d0e089ad9dc410f43f6744a8a06fb89777dffe47163d3f98ea23e68b7d4cae67",
+      "textSha256": "407019c20086bb4dba1f336ce7828f78c88c6b1dd686533fc548c6c81bb0b4ea",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board administration, licensure, examination, and enforcement duties",
+          "bodySha256": "28e44f07d3acd757aea7ca540db78df1096405db7bcef790c4060efce2af39f6",
+          "reviewNote": "Verified sub 1: board administers/enforces §§ 345.010–345.080, evaluates applicants, supervises exams, issues licenses, and investigates apparent violations."
+        },
+        {
+          "number": 2,
+          "title": "Board hearings, records, and minutes maintenance",
+          "bodySha256": "915dfd4c9d722e859179a443302a0523ca5a542e92027455948b77b7c77151fb",
+          "reviewNote": "Verified sub 2: board conducts hearings and keeps records and minutes necessary for orderly dispatch of business."
+        },
+        {
+          "number": 3,
+          "title": "Ethical standards rulemaking and hearing instrument consumer protection",
+          "bodySha256": "5e7c77a586c2eea88c76a868a894ff8b5d1f3b21b5c9d506c51b45899b5a9dfd",
+          "reviewNote": "Verified sub 3: board adopts ethical-practice rules and hearing-instrument consumer-protection rules meeting or exceeding §§ 346.007–346.250."
+        },
+        {
+          "number": 4,
+          "title": "Advisory commission meeting schedule and special sessions",
+          "bodySha256": "6bf0b45738e155cece71fbb9d3c36f9d020dae74f7528b700f803d490d01a79c",
+          "reviewNote": "Verified sub 4: commission holds at least one regular annual meeting and special meetings on chair call or request of at least two members."
+        },
+        {
+          "number": 5,
+          "title": "Chapter 536 compliance prerequisite for administrative rules",
+          "bodySha256": "31a4bac42627de33cc291e7afc220d002de3da917e65a70d0ac4330dd5e7c9f1",
+          "reviewNote": "Verified sub 5: no rule under §§ 345.010–345.080 is effective unless promulgated pursuant to chapter 536."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 345.030 (bid 18387), all five subsections, and history notes (L. 1973 through A.L. 2007 merged bills). Noted body refers to 'board' in subs 1-3 and 'commission' in sub 4. Retained all five titles."
+    },
+    {
+      "id": "345.033:18388",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=345.033&bid=18388",
+      "sourceSha256": "a4e7d3d65941cc3daf620239a07e9b57103e2b5968737780dec0c9d49d6b01f2",
+      "textSha256": "2856cb9c13dd4ab635873ff5f3ec9c92b2dbd811132045a3e9959ae7652cf004",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written purchase agreement and used-product disclosure requirements",
+          "bodySha256": "cb3112584b18d57cb4b2b763ae4e89a2fd06b0669a1535f091aac7f279fa425c",
+          "reviewNote": "Verified sub 1: licensees dispensing products for remuneration must provide plain-English purchase agreements, with 'used', 'recased', or 'reconditioned' markings and guarantee terms if not new."
+        },
+        {
+          "number": 2,
+          "title": "Required contents of audiologist hearing instrument purchase agreements",
+          "bodySha256": "04e1a2fbd5826c4673b447cb2ac8057c27c60f1bc6a83eed82abf917cb40d30c",
+          "reviewNote": "Verified sub 2(1)-(7): lists required disclosures for audiologist hearing-instrument purchase agreements (licensee info, specs, down payment, trial length/fees, return rights/notice, and remanufacturer details)."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 345.033 (bid 18388), both subsections with subdivisions (1)-(7), and source note (L. 2007 H.B. 780 merged with S.B. 308). Retained both titles."
+    },
+    {
+      "id": "345.035:36060",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=345.035&bid=36060",
+      "sourceSha256": "b067bef0c89d64ce0a73a4ca9ee90c53229b5091444d9c07970134e4a422fa8d",
+      "textSha256": "cc9bcda0795734a52001eb480a8e8d7b8252de5dfe51b04949c765b422c73eab",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Employment of board personnel within appropriations",
+          "bodySha256": "3ebf9a295b1b8fe55b8a23e7643a2c4d7152b4f15a74d99d0f099c0d8d6e11b8",
+          "reviewNote": "Verified sub 1: board 'may', within appropriations, employ board personnel defined in § 324.001(11)(4) as necessary."
+        },
+        {
+          "number": 2,
+          "title": "Board expense payments from healing arts fund",
+          "bodySha256": "15ea7f190d067bd117c23de8adccced79c94872e6a21aa73f39f51c0aff6df95",
+          "reviewNote": "Verified sub 2: all board expenses are paid only from appropriations from the board of registration for the healing arts fund."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 345.035 (bid 36060), both subsections, and history notes (L. 1973 through A.L. 2018 S.B. 975 & 1024 Revision). Verified permissive personnel hiring and healing-arts-fund expense restriction. Retained both titles."
+    },
+    {
+      "id": "345.045:18391",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=345.045&bid=18391",
+      "sourceSha256": "4ac469487d558ff2cd3124728b048f5f8fb8dd06ffa9637d41a892cbd42c4240",
+      "textSha256": "72a12d0457a0a625141997ad1df43557d7484ee145f7c934d6a2060d6c0dd27f",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Collection and deposit of fees into healing arts fund",
+          "bodySha256": "c36e7ab1de4f69acd114f99c408123b355c23aea829c4dbd7b4ce19240eedd54",
+          "reviewNote": "Verified sub 1: except as otherwise provided in § 345.045, division collects moneys and transmits to DOR for deposit into the healing arts fund."
+        },
+        {
+          "number": 2,
+          "title": "Biennial fund transfers to hearing instrument specialist fund",
+          "bodySha256": "391e90210d6db9dcc670135b7ffaa4be71de60039a40397cec29071cd163395e",
+          "reviewNote": "Verified sub 2: effective July 1, 2008, odd-numbered-year transfers up to $61,000 to offset § 346.060(2) renewal-fee decreases, with <=25% step-downs and budget-process requests."
+        },
+        {
+          "number": 3,
+          "title": "Use of funds for unlicensed hearing aid enforcement",
+          "bodySha256": "78ec26751af0af0af213853d76f80d548931c518d3995aac85801888db26fddd",
+          "reviewNote": "Verified sub 3: permissive authority ('may be used') to assist in enforcing statutes against unlicensed hearing-aid fitting and dispensing."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 345.045 (bid 18391), all three subsections, and history notes (L. 1973 through A.L. 2007 merged bills). Verified fee deposit, odd-year transfers starting July 1, 2008 up to $61,000, and permissive enforcement spending. Retained all three titles."
+    },
+    {
+      "id": "345.051:34741",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=345.051&bid=34741",
+      "sourceSha256": "133c673e49da328f80434deb61e068c97322a940f5e7c42b65d61809ff65dac2",
+      "textSha256": "9004bd56f1fb2de23811a329963a9d1468cff7bc71fa03db7bb25637c10da2ee",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "License and registration renewal schedule, application, and disclosure",
+          "bodySha256": "d1a1d9be34a5a53f6a2e19aa9e657e9d0f86cb720a587a167bae56ff3e00a1b5",
+          "reviewNote": "Verified sub 1: renewal by board-set date (no less than 3 years) with required disclosures of addresses, license info, final disciplinary actions, and physical/mental fitness."
+        },
+        {
+          "number": 2,
+          "title": "Mailing of renewal applications and licensee responsibility",
+          "bodySha256": "d22e556e7b12bcdc68aec25f729a4fe8da1ab929bcc6744fe719d6ec911d9620",
+          "reviewNote": "Verified sub 2: blank renewal forms mailed to last known address, but failure to mail or receive does not relieve renewal and fee duties."
+        },
+        {
+          "number": 3,
+          "title": "Renewal fees and continued competence requirements",
+          "bodySha256": "240aa964a65db72f7a6c8f35ce6996a286d87c3c676e6169fd5a964d40c54dc6",
+          "reviewNote": "Verified sub 3(1)-(2): renewal fee plus board-set continued competence conditions (including up to 30 triennial CE hours, exams, self-evaluation, peer review, appraisal, or simulation)."
+        },
+        {
+          "number": 4,
+          "title": "Renewal and practice restrictions during license suspension",
+          "bodySha256": "b69df46c9a9edae725a730018302b654930332116715f50e7a04a0df14fae8ad",
+          "reviewNote": "Verified sub 4: license suspended under § 345.065 expires on schedule and may be renewed, but does not authorize practice or violation of the suspension order until reinstated."
+        },
+        {
+          "number": 5,
+          "title": "Disciplinary revocation nonrenewal and reinstatement fee terms",
+          "bodySha256": "046ef1a59931d99d45aec9d819a72b8c2c5426ee7841e848a8c78e69824cb0f0",
+          "reviewNote": "Verified sub 5: license revoked under § 345.065 expires on schedule and may not be renewed; reinstatement after expiration requires last regular renewal fee plus any board-set late fee."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 345.051 (bid 34741), all five subsections with subdivisions (1)-(2), and history notes (L. 1990 through A.L. 2017 merged bills). Verified >=3-year renewal cycle, mailed-form disclaimer, fees/competence criteria, and suspended/revoked license rules. Retained all five titles."
+    },
+    {
+      "id": "345.052:51034",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=345.052&bid=51034",
+      "sourceSha256": "386dd7b57df0105aeccfee5dec9eef07355d1c84ac9d736033a8ff11a13b41a1",
+      "textSha256": "6206e18b383d737a49b8873d3b9eb71908cbce63b7cc564c373e182be597fd80",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions for military licensure reciprocity",
+          "bodySha256": "64e2bfd96539f8d6fd72126672d0adb8e918f0aee2ec58bf12322afeac2c68cc",
+          "reviewNote": "Revised title to reflect all six defined terms (Board, Commission, License, Military, Nonresident military spouse, Resident military spouse), not just military spouses."
+        },
+        {
+          "number": 2,
+          "title": "Reciprocity application for out-of-state and military licensees",
+          "bodySha256": "ad25663ebe6153fd1adcbed4bdb19472702d87efdd1b85612211b68e7d387d3c",
+          "reviewNote": "Verified sub 2: allows SLP/audiologist licensees with >=1 year valid current licensure in another state, military branch/unit, territory, or DC to apply."
+        },
+        {
+          "number": 3,
+          "title": "Licensure waiver timelines and expedited military spouse processing",
+          "bodySha256": "341ed49d753eaf50c995cb695d48bbd44f41cb46d95a477ba12d6e8620055b7f",
+          "reviewNote": "Verified sub 3(1)-(2): 6-month waiver of exam/education/experience requirements (with optional Missouri-law exam) for general applicants, or 30-day waiver and issuance for eligible military spouses."
+        },
+        {
+          "number": 4,
+          "title": "Disqualifications from waiver and unresolved disciplinary matters",
+          "bodySha256": "7a10d5cc2595e17f61ae388734cd267228e44d91785521cb2acefa249799a24f",
+          "reviewNote": "Verified sub 4(1)-(2): bars waiver for revocation, pending complaint/investigation, bad standing, disqualifying criminal record, or non-current license; board 'may deny' if out-of-state discipline is unresolved."
+        },
+        {
+          "number": 5,
+          "title": "Retention of board authority to deny licensure under disciplinary grounds",
+          "bodySha256": "73583b2e5579e17348416d61c98eefa581bdf1865378dfb20eb7307a96337a3a",
+          "reviewNote": "Verified sub 5: preserves board authority to deny a license under § 345.065."
+        },
+        {
+          "number": 6,
+          "title": "Board regulatory jurisdiction over reciprocity licensees",
+          "bodySha256": "daf1ec76feaf3f4df7745fc5b52969249f5262c06bf83c81937500c5da76977d",
+          "reviewNote": "Verified sub 6: subjects reciprocity licensees to board jurisdiction and all Missouri SLP/audiologist practice rules."
+        },
+        {
+          "number": 7,
+          "title": "Mandatory payment of licensing fees under reciprocity",
+          "bodySha256": "f819aede03e8858c8a0df3e62db2fe2ee52427fdf5d6cacd097aeb44549d7612",
+          "reviewNote": "Verified sub 7: section does not waive any applicant fee-payment requirement."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 345.052 (bid 51034), all seven subsections with subdivisions, and source note (L. 2022 H.B. 2149). Revised sub 1 title from 'Definitions of nonresident and resident military spouses' to 'Definitions for military licensure reciprocity' because sub 1 defines six terms (Board, Commission, License, Military, and both military spouse categories)."
+    },
+    {
+      "id": "345.055:18394",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=345.055&bid=18394",
+      "sourceSha256": "d2aac362cc4a1622495c97065c04fee32022747a9a6301bd775db0d0ea1334d7",
+      "textSha256": "f5449d51ae5343f970825d39ae28cbe05a8252f4e85f629862d7e935e9dcfedd",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "License renewal fees, dual certification, and lapsed license reinstatement",
+          "bodySha256": "ab2eb8bc7574e04e66226ab4aaad4e194ae0446cdb6800b49e8bebc4eb1e1657",
+          "reviewNote": "Verified sub 1: renewal fees, single-license fee treatment for dual SLP/audiologist credentials, free duplicates for multi-location practice, reinstatement fee for lapsed licenses, and permissive reexamination after >3-year lapse."
+        },
+        {
+          "number": 2,
+          "title": "State fee exclusivity and prohibition on municipal taxes",
+          "bodySha256": "1338fae351d1103e213eb03322c841c3aef2f4b9889c6a397428b7180ff4f550",
+          "reviewNote": "Verified sub 2: § 345.051 and § 345.055 fees are exclusive; municipalities may not require bonds, exams, license fees, or occupational taxes."
+        },
+        {
+          "number": 3,
+          "title": "Fee-setting rulemaking authority, revenue limits, and fund transfers",
+          "bodySha256": "30ef52e04579ce89eec1ce39431369101874e49339da5392866c139d24b127a6",
+          "reviewNote": "Verified sub 3(1)-(2): fees set by rule under § 536.021 to cover administration costs and, effective July 1, 2008, required § 345.045(2) transfers."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 345.055 (bid 18394), all three subsections with subdivisions (1)-(2), and history notes (L. 1973 through A.L. 2007 merged bills). Retained all three titles."
+    },
+    {
+      "id": "345.065:48464",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=345.065&bid=48464",
+      "sourceSha256": "ac982e124a6d0bdd9b1dd8a94cd3a48a0181aae979409e4f4b4ae9b7b212c61a",
+      "textSha256": "eaadafc8f473d8a7263f6aa8d74193833fe408014d84c88d60aa8188b7fab1a7",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Refusal to issue or renew, probationary license, and hearing rights",
+          "bodySha256": "9179d18eb0414979223f5e3ee32b44036d47f4785745f8c2aa91637299b39679",
+          "reviewNote": "Verified sub 1: board 'may refuse' issuance or 'may, at its discretion,' issue a probationary, restricted, or limited license/registration for sub 2 causes; written notice and 30-day AHC review window for either party."
+        },
+        {
+          "number": 2,
+          "title": "Statutory grounds for disciplinary complaint before administrative hearing commission",
+          "bodySha256": "6e0d89e689c1c41c93b646f19bab0328ea082a70f68202e3d818bfee7715a165",
+          "reviewNote": "Verified sub 2(1)-(21): board 'may' file a chapter 621 AHC complaint against holders or lapsed/surrendered holders for 21 listed causes, including § 324.012 criminal offenses."
+        },
+        {
+          "number": 3,
+          "title": "Disciplinary sanctions authorized upon administrative hearing commission finding",
+          "bodySha256": "4b92709d63be4b2ee4e256d1a2ef337273d7818d213254202c5e53b8d61d7b2c",
+          "reviewNote": "Verified sub 3: chapter 621 proceedings; upon AHC finding, board 'may' censure, impose probation up to 10 years, suspend up to 3 years, indefinitely restrict/limit practice, or revoke."
+        },
+        {
+          "number": 4,
+          "title": "Injunctive relief against statutory violations and board immunity",
+          "bodySha256": "69785cdbb5f8aabab8bea8460a6623e750583a12f166165cd6dd6a82163c0ed7",
+          "reviewNote": "Verified sub 4: board 'may apply' for injunction without bond or proof of inadequate legal remedy; board and advisory commission members are not individually liable for applying."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 345.065 (bid 48464), all four subsections including all 21 subdivisions of sub 2, and history notes (L. 1973 through A.L. 2020 H.B. 2046). Verified permissive 'may' framing for refusal, probation/restriction, AHC complaints, discipline limits, and injunctive relief. Retained all four titles."
+    },
+    {
+      "id": "345.080:18397",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=345.080&bid=18397",
+      "sourceSha256": "844f16e688f77b1d3e6c9fa01fa7072c511a751e99c3d21bb67574afeba47b40",
+      "textSha256": "9683be657e86bf4b7609b84e167eb26451c8511b06b545038c138520e7cde471",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Advisory commission establishment, duties, and examination approval",
+          "bodySha256": "eb836768bb04808fef79561b18cd9f33ea80c9df108b5e7fdad9fe4772189e40",
+          "reviewNote": "Corrected note to match text. Verified sub 1: establishes the Advisory Commission for Speech-Language Pathologists and Audiologists to guide/advise/recommend to the board, approve the § 345.050 exam, and assist under §§ 345.010–345.075."
+        },
+        {
+          "number": 2,
+          "title": "Commission composition, member qualifications, terms, and nominations",
+          "bodySha256": "5852719aeabda4f0d7c5682aa03fbf5b0c2675cdafd9cdb9c28e5826719fa6fd",
+          "reviewNote": "Verified sub 2: post-Aug. 28, 1997 7-member commission (3 SLPs, 3 audiologists, 1 voting public member), 3-year terms, 2-consecutive-term limit with 2-year lapse, and association 5-name recommendation lists."
+        },
+        {
+          "number": 3,
+          "title": "Member compensation, travel expenses, and administrative staffing",
+          "bodySha256": "6eff61fe5565d0d0d6837ca8f82fadc1ff74b3a75f3a9c8a5e08100f495fcf5f",
+          "reviewNote": "Verified sub 3: compensation up to $70/day set by division director plus actual/necessary expenses; staff provided by healing arts board."
+        },
+        {
+          "number": 4,
+          "title": "Annual officer elections, meeting notice, and quorum rules",
+          "bodySha256": "3efdb59fb9f17ba633e8e73293bfcac555d497ffa02180a5111330bc2bb159c0",
+          "reviewNote": "Verified sub 4: annual meeting electing chairman and secretary, additional meetings with 10-day member notice, and majority quorum."
+        },
+        {
+          "number": 5,
+          "title": "Board removal of commission members for cause after hearing",
+          "bodySha256": "077c8978de46da18069295c041539d3ad1cfe41c305a670d411814d37d5fca19",
+          "reviewNote": "Verified sub 5: healing arts board 'may remove' a member for misconduct, incompetency, or neglect of official duties after written notice and opportunity to be heard."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 345.080 (bid 18397), all five subsections, and history notes (L. 1986 through A.L. 2015 S.B. 107). Tightened sub 1 reviewNote to match exact statutory duties (removed unstated 'examine credentials'); retained all five titles."
+    }
+  ]
+}

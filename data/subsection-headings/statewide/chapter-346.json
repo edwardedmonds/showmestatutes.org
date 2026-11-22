@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "346.015:18400",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=346.015&bid=18400",
+      "sourceSha256": "c07d0a2c0dd481d5ddb60f275312431c7be88f77cc36c1a9233e515c3c0d1e0d",
+      "textSha256": "47f2d006d564e53fc9d71fe88251dba5d3b250fb8c7fca0688abedd79d607f1a",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Licensure required to practice, display, duplicate licenses, and scope",
+          "bodySha256": "7d46629c0ae065ef34c0a90148892e61815e2bf387a4c7d4c883885ad32c2b3d",
+          "reviewNote": "Verified sub 1: bars unlicensed hearing-instrument fitting/advertising, requires conspicuous posting, provides free duplicate licenses for multiple offices, and defines license rights (select, fit, sell)."
+        },
+        {
+          "number": 2,
+          "title": "License display, address notification, and surrender of credential",
+          "bodySha256": "6a230dcabb2e93afee3f7625b379fbb9e1dd2ce595c5bca730b6c92b4230df28",
+          "reviewNote": "Verified sub 2: public display, current address reporting, board ownership of license, and surrender on demand upon expiration or final revocation, suspension, or probation."
+        },
+        {
+          "number": 3,
+          "title": "Business entity retail sales, licensed staff, and annual filing",
+          "bodySha256": "da72a10a621ed963c81f4c62ff9d59d6816380be6558f9bd99aa8c5fabfd3bee",
+          "reviewNote": "Verified sub 3: allows business entities with established addresses to sell retail if employing only licensed hearing instrument specialists or audiologists for direct sale/fitting, with annual specialist lists and compliance statements."
+        },
+        {
+          "number": 4,
+          "title": "Criminal penalty for unauthorized practice and section violations",
+          "bodySha256": "a03d2352f5a6d9dacfcd4432bb404d4b4e419b166964bb5513d1adc71891a3e5",
+          "reviewNote": "Verified sub 4: any violation of § 346.015 is a class B misdemeanor."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 346.015 (bid 18400), all four subsections, and history notes (L. 1973 through A.L. 2009 S.B. 296). Retained all four titles."
+    },
+    {
+      "id": "346.020:18401",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=346.020&bid=18401",
+      "sourceSha256": "33ed298e12a30e60e4ad5de819053474b7f2e88db3a700da6821e6aa48dce58d",
+      "textSha256": "12e95e9a580498f15d5818077e1694f46b859f75d65118e7955e890f410af4a0",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Purchase agreement contents, trial period terms, and used markings",
+          "bodySha256": "6ce6714737a2978412d6cc5664142557c812dc5eb3a8d09e3e87cd2495e412ed",
+          "reviewNote": "Verified sub 1: plain-English purchase agreement with licensee info, instrument specs, down payment, trial length/fees, return rights or written no-return notice, and 'used'/'recased'/'reconditioned' markings on agreement and container."
+        },
+        {
+          "number": 2,
+          "title": "Disclosure of component manufacturer and assembler for remanufactured goods",
+          "bodySha256": "1642d2a5c1c86847466fe0b495468769bc6e75821c2f9d4019eb9a48d47bbadf",
+          "reviewNote": "Verified sub 2: purchase agreement must name the component-parts manufacturer and assembler/reassembler for remanufactured or separately assembled instruments."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 346.020 (bid 18401), both subsections, and history notes (L. 1973, A.L. 1995). Retained both titles."
+    },
+    {
+      "id": "346.055:48465",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=346.055&bid=48465",
+      "sourceSha256": "f294683058809eb2388ff56fce857b80a0d2953223d73ece8b962f18098c8f61",
+      "textSha256": "092cc90121227b50132e61f72e336d78eb0e8e39c4dd095be24e26ecf7af018d",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Licensure qualifications, age, examinations, and educational credentials",
+          "bodySha256": "c7cbce95d1ef9a6150c7b84247c742d71f6a77202f3c8f087811fd268372a882",
+          "reviewNote": "Verified sub 1(1)-(3): age 18+, qualifying exam under §§ 346.010–346.250, and qualifying degree, IHS distance-learning course, audiology degree, or foreign-license route."
+        },
+        {
+          "number": 2,
+          "title": "Grandfather exemption for license renewals and in-training applicability",
+          "bodySha256": "ecf4bb853d40d266389d57122329033725fbb9fe44ccd3aabd8f54254a3e452f",
+          "reviewNote": "Verified sub 2: exempts valid Missouri licensees applying for renewal from sub 1, but applies sub 1 to in-training permit holders applying for licensure or permit renewal."
+        },
+        {
+          "number": 3,
+          "title": "Educational evaluation rulemaking authority and nonseverability clause",
+          "bodySha256": "fb31e1ac5815bcaed9469c466282cc4603f125305d5c1b6ee5013ba62f056a84",
+          "reviewNote": "Verified sub 3(1)-(2): board rules for evaluating training under sub 1(3), chapter 536/§ 536.028 compliance, and post-Aug. 28, 2013 nonseverability clause."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 346.055 (bid 48465), all three subsections with subdivisions, and history notes (L. 1973 through A.L. 2020 H.B. 2046). Verified licensure routes, renewal grandfathering, and Aug. 28, 2013 nonseverability clause. Retained all three titles."
+    },
+    {
+      "id": "346.075:18411",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=346.075&bid=18411",
+      "sourceSha256": "7a01885d84206df7c4143244570487cfe8c11fd3aa925b51fada5cfc9b83cece",
+      "textSha256": "c6358737bdae4df4514f80e9f9dd7144dd2b482984c56203829c711dc7af56ff",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Temporary permit issuance, one-year term, and title restrictions",
+          "bodySha256": "a4830ed6d58f135fcd2ee038a4628a9b31d476858ea61216c95b256e06026e5f",
+          "reviewNote": "Verified sub 1: 1-year supervised-training temporary permit upon § 346.070 application and fee; restricts title to 'hearing instrument specialist in-training' or rule equivalent; division (on board recommendation) may suspend/revoke for violations."
+        },
+        {
+          "number": 2,
+          "title": "Supervisor qualification, ratio limits, and certificate withdrawal",
+          "bodySha256": "b51da13bdcfe8998bee3db8e11920ddfb848f86d939395298c8890c2ed5f119e",
+          "reviewNote": "Verified sub 2: caps supervision at two permit holders per licensed specialist, requires supervisor registration and fee under board rule, and allows division to withdraw certificate of authority for violations."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 346.075 (bid 18411), both subsections, and history notes (L. 1973 through A.L. 2009 S.B. 296). Verified 1-year temporary permit, title restriction, 2-trainee supervisor cap, and permissive division revocation/withdrawal. Retained both titles."
+    },
+    {
+      "id": "346.085:18413",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=346.085&bid=18413",
+      "sourceSha256": "a8c81a3f8b9592edd4f27a3c8cb80209ae123d4b284df54e8c9064fe0351db2e",
+      "textSha256": "4b28c56180cc2f78e3f0da0cc413326f8dcf59283399664a779d9f48f7f17f39",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Qualifying examination purpose and technical scope",
+          "bodySha256": "b4b6ca536f7336895529574f4c5788b8b8be920ff52b28bd418dadbac218aad5",
+          "reviewNote": "Verified sub 1: § 346.060 qualifying examination must demonstrate adequate technical qualifications in fitting hearing instruments as defined by board."
+        },
+        {
+          "number": 2,
+          "title": "Examination knowledge standards rulemaking and nonseverability clause",
+          "bodySha256": "3ba6ec0d62a157625c5983c21f642cbb3a0d20403b0b18d21daee6f7ff67f88d",
+          "reviewNote": "Verified sub 2: board rules identifying required technical knowledge/skills, chapter 536/§ 536.028 compliance, and post-Aug. 28, 2013 nonseverability clause."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 346.085 (bid 18413), both subsections, and history notes (L. 1973 through A.L. 2013 S.B. 330). Verified § 346.060 exam purpose and post-Aug. 28, 2013 nonseverability clause. Retained both titles."
+    },
+    {
+      "id": "346.090:18414",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=346.090&bid=18414",
+      "sourceSha256": "fd3b27014fcc205eeba15bb7dcd69f7102064a5a76819cfa41706fead607e8f6",
+      "textSha256": "657b8ce2abe30a909c4920a6e0e7719010e8e6440aafce9f61a23ba9cf372687",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written notice of business address and board register",
+          "bodySha256": "1942179da20aba67df87c088c899b6273c89921573938d16fc8f70c63c285738",
+          "reviewNote": "Verified sub 1: licensees must notify board in writing of regular practice address(es), and board keeps a record of licensee places of business."
+        },
+        {
+          "number": 2,
+          "title": "Mailing of board notices to last known business address",
+          "bodySha256": "52cf6fda8f9d21c8147308e56f657926f7083221c5f93f6333aad94d4048f8be",
+          "reviewNote": "Verified sub 2: required board notices to licensees are mailed to the last known place of business."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 346.090 (bid 18414), both subsections, and history notes (L. 1973 through A.L. 2009 S.B. 296). Retained both titles."
+    },
+    {
+      "id": "346.100:18416",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=346.100&bid=18416",
+      "sourceSha256": "7e82cdf0b6fc6215e3f02f4049b656d26104ffa13d3d0c713eb2d071bc87ded4",
+      "textSha256": "51ae4cc1e719f932f983557435e3c54161eef8b1bbf688c631d9288cb804d758",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written complaint intake, board investigation, and AHC referral",
+          "bodySha256": "d92b5dbbe11e19f5177df2a2051206caac986c5a8dd8302aa200c745b2082b19",
+          "reviewNote": "Verified sub 1: written complaints filed with board; if post-investigation charges warrant a suspension/revocation hearing, board files a chapter 621 AHC complaint."
+        },
+        {
+          "number": 2,
+          "title": "Administrative hearing commission proceedings and disciplinary sanctions",
+          "bodySha256": "a8d3b4ee08fdff104744f239822362fbd9aac22df3e34533eb31c2ac3ddd560e",
+          "reviewNote": "Verified sub 2: chapter 621 proceedings; upon AHC finding of § 346.105(2) grounds, board 'may' censure, impose probation up to 5 years, suspend up to 3 years, or revoke."
+        },
+        {
+          "number": 3,
+          "title": "Complaint file maintenance and quarterly status notifications",
+          "bodySha256": "6c80894cb8fbc255092e7271574ba957554b6b39a25f94baef966bd9d8df123e",
+          "reviewNote": "Verified sub 3: board keeps complaint information files and notifies complainant and licensee at least quarterly until final disposition."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 346.100 (bid 18416), all three subsections, and history notes (L. 1973 through A.L. 2009 S.B. 296). Verified complaint intake/AHC referral, permissive board discipline limits (5-yr probation / 3-yr suspension), and quarterly status updates. Retained all three titles."
+    },
+    {
+      "id": "346.105:48466",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=346.105&bid=48466",
+      "sourceSha256": "b95f4b7a1db5b40430c7ac6b481c00a8e75a5a5ddde1e265464f441216807b15",
+      "textSha256": "6c526a3a0193c2a425948794b16959f32dee82424cfe1b1ff8539819a7170cd5",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Refusal to issue credential, written notice, and hearing rights",
+          "bodySha256": "d8b913be83f27641bffe309b051f0c49bd406e37ea6d8882d686a8cbe962a6b3",
+          "reviewNote": "Verified sub 1: board 'may refuse' credentials ('upon recommendation of the board' in source text) for sub 2 causes, with written reasons and notice of chapter 621 AHC complaint right."
+        },
+        {
+          "number": 2,
+          "title": "Division complaint grounds against current and former holders",
+          "bodySha256": "e6d92acc006865e3b77972fedc6864949e3f036ef244eb5b8cd4648d0ae8eee9",
+          "reviewNote": "Revised title to specify division authority and lapsed/surrendered holders. Verified sub 2(1)-(15): division 'may' file a chapter 621 AHC complaint for 15 causes, including § 324.012 offenses and misleading physician/audiologist/state-approval claims."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 346.105 (bid 48466), both subsections including all 15 subdivisions of sub 2, and history notes (L. 1973 through A.L. 2020 H.B. 2046). Noted source wording quirk in sub 1 ('The board may refuse ... upon recommendation of the board') and revised sub 2 title to reflect that the division (not board) may file AHC complaints against current and former holders."
+    },
+    {
+      "id": "346.120:18420",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=346.120&bid=18420",
+      "sourceSha256": "68f0878b91212a8b246bc99646424278bf4bb7b7310ad88029f3b5995999b01a",
+      "textSha256": "cfb804694c34e6d120916616c8aa40d3a9f2138da2cff6b1fe676ea82852520a",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board establishment, council abolition, and member continuity",
+          "bodySha256": "0a7c45712dfbac9d7190adca37d8b9ab0ba764f299019d988ee6b67c5a60ded4",
+          "reviewNote": "Verified sub 1: establishes the Missouri Board of Examiners for Hearing Instrument Specialists, abolishes the predecessor council, and allows appointment of current council members upon Aug. 28, 1995."
+        },
+        {
+          "number": 2,
+          "title": "Member qualifications, residency, and professional composition",
+          "bodySha256": "6513ff2fe612828b71e005a9f006c933813b3c6e8d6232e4cf30185fb149ac09",
+          "reviewNote": "Verified sub 2: 8 members (5 specialists with 5+ years experience, 1 otolaryngologist, 1 voting public member, 1 chapter 345 audiologist with CCC), US citizenship and 1-year Missouri residency."
+        },
+        {
+          "number": 3,
+          "title": "Governor appointment, four-year terms, and annual officer election",
+          "bodySha256": "02b00a1364f9471508e6d035d998ac1ef0a9b2bdd7dceef97c6d1882cbb70c2e",
+          "reviewNote": "Verified sub 3: governor appoints with senate consent; 4-year terms (staggered initial board) and annual designation of chairperson and vice chairperson."
+        },
+        {
+          "number": 4,
+          "title": "Reappointment waiting period after full term",
+          "bodySha256": "35c4dd4ea82f1f42fbebac428931771ccd81078d29f4e0aa1a73a97ff31b7be5",
+          "reviewNote": "Verified sub 4: member who served a full term cannot be reappointed until at least one year after term expiration."
+        },
+        {
+          "number": 5,
+          "title": "Member per diem compensation and expense reimbursement",
+          "bodySha256": "b0363e61306ea471038991c0609540874eaa18229dd24688698546d99de89ee8",
+          "reviewNote": "Verified sub 5: division-set daily compensation plus reimbursement of actual and necessary expenses."
+        },
+        {
+          "number": 6,
+          "title": "Public member qualifications and technical evaluation restrictions",
+          "bodySha256": "af663cef46b66a8388d702495e482a7c039ff42876dcda59cc960d6bf36894fb",
+          "reviewNote": "Verified sub 6: public member citizenship/residency/voter and conflict-free criteria, and exclusion from technical licensure/competence determinations."
+        },
+        {
+          "number": 7,
+          "title": "Conflict of interest bar, removal for cause, and vacancy appointments",
+          "bodySha256": "590efe8775f7dcb8ffdf6cf0918dfa219208e5941cf83023d25246457509614d",
+          "reviewNote": "Verified sub 7: bars advancing personal financial interest, allows removal for cause, and directs governor to fill vacancies."
+        },
+        {
+          "number": 8,
+          "title": "Legal capacity to sue, board entity status, and member immunity",
+          "bodySha256": "0bd11e4fd94f86a061e63931f87301d0aa61668617e18bcc5defd843b9ef2f13",
+          "reviewNote": "Verified sub 8: board may sue/be sued in its name without naming members; members are not personally liable for acts in official duties or for litigation costs."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 346.120 (bid 18420), all eight subsections, and history notes (L. 1973 through A.L. 1995). Verified predecessor-council abolition and Aug. 28, 1995 continuity, 8-member composition, staggered 4-year terms, 1-year reappointment bar, public-member limits, and official-duty non-liability. Retained all eight titles."
+    },
+    {
+      "id": "346.125:18421",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=346.125&bid=18421",
+      "sourceSha256": "9543637fd4786ab0a4c19f483ea57031a099ece2299cb5695e0723643331735c",
+      "textSha256": "6c4b17d437af5f56666a5538ddf83ee319bd480692cbdc683806160ae4c544a8",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Enumerated duties, rulemaking authority, fee setting, and ethical code",
+          "bodySha256": "02dfc8c89e21bc740dafe9577d035f75aae6fbf900620469369de064e796cd7a",
+          "reviewNote": "Verified sub 1(1)-(14): 14 board duties including credentialing, complaint/investigation recommendations to division, prosecutor referrals, chapter 536 rulemaking with post-Aug. 28, 2009 nonseverability, ethics code, cost-based fees ('fees which reflects' in source), seal, and exams."
+        },
+        {
+          "number": 2,
+          "title": "Subpoena powers, witness oaths, and circuit court enforcement",
+          "bodySha256": "4f6309769136a8464105716226f10b1c7cce18b33b4f72ab196cc42330c42c90",
+          "reviewNote": "Verified sub 2: chairperson/vice chairperson may administer oaths and subpoena witnesses/records, with circuit court enforcement punishable as contempt."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 346.125 (bid 18421), both subsections with subdivisions (1)-(14), and history notes (L. 1973 through A.L. 2009 S.B. 296). Noted post-Aug. 28, 2009 nonseverability clause in (7) and minor source grammar ('fees which reflects') in (9). Retained both titles."
+    },
+    {
+      "id": "346.135:18423",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=346.135&bid=18423",
+      "sourceSha256": "464da3f6c0f7750fb1af3b3a9b5d69bc9d431aae165fbe6cc2509673378d2d0f",
+      "textSha256": "a31f34e1f622f44aabc517f0e26077178fdcb084bd154890604a7e845f2d3053",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Fee collection, fund creation, and appropriation for expenses",
+          "bodySha256": "a8b039a80ca03348a95435b27f511fa75d76dc000ebe2047c7b5fe759b4b3dd9",
+          "reviewNote": "Verified sub 1: division collects fees for DOR deposit into the Hearing Instrument Specialist Fund, available by appropriation (text still says 'to the council') for administering §§ 346.010–346.250."
+        },
+        {
+          "number": 2,
+          "title": "Biennial fund surplus cap and general revenue transfer limits",
+          "bodySha256": "e0dd0cfb6bcc757cb1eff7a6d637281f120ee12351f2143d73997d1786569679",
+          "reviewNote": "Verified sub 2: no general-revenue transfer until biennium-end balance exceeds 2x (or 3x if less-than-yearly renewal) prior fiscal year appropriation (text references 'council's funds'); only excess lapses."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 346.135 (bid 18423), both subsections, and history notes (L. 1973 through A.L. 2004 S.B. 1122). Noted source text still references 'the council' / 'council's funds' despite § 346.120 abolishing the council in 1995. Retained both titles."
+    },
+    {
+      "id": "346.250:18425",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=346.250&bid=18425",
+      "sourceSha256": "e7031899781616d718e166ebcdbec5668e31ca39fb6ff91c0cb747158621f13f",
+      "textSha256": "c95d8ac5f72f84125307a1ea120c4dfaed50c3d6f3715fb8fc59a490ebf4c926",
+      "draftedBy": "antigravity_swarm_drafter_2",
+      "reviewStatus": "source-checked",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Class B misdemeanor penalties for section 346.110 violations",
+          "bodySha256": "fba5e4711140c14d125b71b302b0f744893912348535c5a8ac4bbaa49b88ea89",
+          "reviewNote": "Revised title to specify § 346.110 and misdemeanor class. Verified sub 1: individuals, entities, and their officers/agents/employees violating § 346.110 commit a class B misdemeanor, with each violation a separate offense."
+        },
+        {
+          "number": 2,
+          "title": "Injunction actions by state to restrain violations",
+          "bodySha256": "b6550155780bcaa7b38e862a7025f00549447f8644842bb307a22f40f917a53d",
+          "reviewNote": "Verified sub 2: in addition to other remedies, the state of Missouri may bring and maintain an injunction action to enjoin any violation of § 346.110."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_2",
+      "reviewSummary": "Independently read archived § 346.250 (bid 18425), both subsections, and history notes (L. 1984 H.B. 1036 §§ 1, 2, A.L. 1995 S.B. 69, et al.). Revised sub 1 title to specify § 346.110 violations and class B misdemeanor classification."
+    }
+  ]
+}
