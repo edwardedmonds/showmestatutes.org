@@ -1,0 +1,1390 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "577.010:60156",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.010&bid=60156",
+      "sourceSha256": "6f879c55011895faf545f8e9747609906ebbf8676805e3a12bffddda182f5878",
+      "textSha256": "1b39da31267201839667c9f3a3e2211d07ea89e39db4578594ca8e478c05c1c3",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of driving while intoxicated",
+          "bodySha256": "dddaaa633b8d48b1c3eedaf34f721224fd640feb116cdc1f8965ea5e828afec8",
+          "reviewNote": "Defines driving while intoxicated as operating a vehicle while in an intoxicated condition."
+        },
+        {
+          "number": 2,
+          "title": "Classification as misdemeanor or tiered felony",
+          "bodySha256": "dd8d09a23d400c60b23816839e491a003442fdde37861549e4befbe58104834f",
+          "reviewNote": "Classifies driving while intoxicated as a class B misdemeanor, escalating to a class A misdemeanor or class E through class A felony based on repeat-offender status, presence of a child under 17, criminal negligence causing injury or death, or subsequent offenses."
+        },
+        {
+          "number": 3,
+          "title": "Suspended imposition restrictions for first offenders",
+          "bodySha256": "b99f09772909f062b2125f46b957e32d0e9937fd422c305d1126ea7fd4715bc0",
+          "reviewNote": "Prohibits granting a suspended imposition of sentence for a first offense unless placed on probation for at least two years or, where available and BAC is 0.15% or more, participating in and completing a DWI court, docket, or court-ordered treatment program."
+        },
+        {
+          "number": 4,
+          "title": "Continuous alcohol monitoring for repeat offenses",
+          "bodySha256": "14f2c8476c68e97bd2f0c9cf45ff54d40583b7acf31a81ecb0f040e8fc8646ab",
+          "reviewNote": "Provides that for a second or subsequent offense, the court may order continuous alcohol monitoring or verifiable breath alcohol testing at least four times per day as a probation condition."
+        },
+        {
+          "number": 5,
+          "title": "Mandatory minimum imprisonment for high blood alcohol",
+          "bodySha256": "a5142ce124d52a634362d2aae3acbd8c30f1ef0abff507761386181d2c284978",
+          "reviewNote": "Requires at least forty-eight hours of imprisonment for 0.15% to 0.20% BAC and at least five days for greater than 0.20% BAC when a suspended imposition of sentence is not granted under subsection 3."
+        },
+        {
+          "number": 6,
+          "title": "Sentencing restrictions and minimums for repeat offenders",
+          "bodySha256": "b7792925a4f3ce857b4f0534cd3a1f67c2dd65cbd48be205380bceefbedd7f1a",
+          "reviewNote": "Bars suspended imposition of sentence or a fine in lieu of imprisonment for prior, persistent, aggravated, chronic, and habitual offenders, and sets minimum imprisonment terms (with community service or treatment alternatives for prior and persistent offenders) before parole or probation eligibility."
+        },
+        {
+          "number": 7,
+          "title": "Alcohol monitoring on repeat-offender probation or parole",
+          "bodySha256": "57c9b2fccab6edee1f19c2064d013891428a62046afbd5b03ff4f53f89f6b834",
+          "reviewNote": "Provides that probation or parole granted under subsection 6 may include continuous alcohol monitoring or verifiable breath alcohol testing at least four times per day."
+        },
+        {
+          "number": 8,
+          "title": "Minimum five-year imprisonment for class B felony death",
+          "bodySha256": "f445865c5f8b01e902bee99651dc59127b376662280366204ff9e592c2bd6e6d",
+          "reviewNote": "Prohibits parole or probation eligibility until serving at least five years' imprisonment for offenders found guilty under subsection 2(6)(b)."
+        },
+        {
+          "number": 9,
+          "title": "Minimum ten-year imprisonment for class A felony",
+          "bodySha256": "6eb39b3878426c7634b9a0c95965982e00f2d80408b9bd0dca3dc5ae57257408",
+          "reviewNote": "Prohibits parole or probation eligibility until serving at least ten years' imprisonment for offenders found guilty under subsection 2(7)."
+        }
+      ],
+      "reviewSummary": "Source-checked all 9 subsections of 577.010; replaced fabricated subsections 7-9 (which address repeat-offender monitoring and 5-year/10-year minimum imprisonment, not restitution, license notice, or definitions) and refined notes for subsections 2-6."
+    },
+    {
+      "id": "577.012:33823",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.012&bid=33823",
+      "sourceSha256": "afe39bec25fda8a983f348d9c9a58a064c71f39fef1a4350be5815837e496464",
+      "textSha256": "f27887c1c9cb93613b980b705b40f35abe2c0362769a98bd07ac4973716d95ca",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of driving with excessive blood alcohol",
+          "bodySha256": "d9b67cdc0c90286380f23149d2f563cc0b84d053db596a104136da1ac55b653f",
+          "reviewNote": "Defines driving with excessive blood alcohol content as operating a vehicle at 0.08% or more BAC or a commercial motor vehicle at 0.04% or more BAC."
+        },
+        {
+          "number": 2,
+          "title": "Blood alcohol measurement and chemical testing standards",
+          "bodySha256": "52ba3bdf82f9cc93b3064821e50c9d48629d9b2a6b8339565b48f0ea3830b488",
+          "reviewNote": "Bases percent by weight of alcohol on grams per 100 milliliters of blood or 210 liters of breath, permits proof by chemical analysis of blood, breath, saliva, or urine, and requires testing under sections 577.020 to 577.041."
+        },
+        {
+          "number": 3,
+          "title": "Classification as misdemeanor or tiered felony",
+          "bodySha256": "3dd9574011ef6f087993ddc224ffbfb316a4f621e59d7b1d0c948b0bd89ca1d0",
+          "reviewNote": "Classifies the offense as a class B misdemeanor, escalating to a class A misdemeanor or class E through class B felony when alleged and proved to be a prior, persistent, aggravated, chronic, or habitual offender."
+        },
+        {
+          "number": 4,
+          "title": "Suspended imposition restrictions for first offenders",
+          "bodySha256": "9157017887ed58d9189e68726ce4a0586cff38ee51ac706d646bf30660ba7c2c",
+          "reviewNote": "Prohibits granting a suspended imposition of sentence for a first offense unless placed on probation for at least two years or, where available and BAC is 0.15% or more, participating in and completing a DWI court, docket, or court-ordered treatment program."
+        },
+        {
+          "number": 5,
+          "title": "Mandatory minimum imprisonment for high blood alcohol",
+          "bodySha256": "6a3c59ce4cac35a9a33149155eaec2d953d18bf4cdeb6ea5d3db49e92e635bf4",
+          "reviewNote": "Requires at least forty-eight hours of imprisonment for 0.15% to 0.20% BAC and at least five days for greater than 0.20% BAC when a suspended imposition of sentence is not granted under subsection 4."
+        },
+        {
+          "number": 6,
+          "title": "Continuous alcohol monitoring for repeat offenses",
+          "bodySha256": "4209c880a0c3a3530637ebcb192eb75185d7182b7f24fb66257a4c2f7ab9e84c",
+          "reviewNote": "Provides that for a second or subsequent offense, the court may order continuous alcohol monitoring or verifiable breath alcohol testing at least four times per day as a probation condition."
+        },
+        {
+          "number": 7,
+          "title": "Sentencing restrictions and minimums for repeat offenders",
+          "bodySha256": "24e7f05e2397497b7ca5b6b491f82a1aa3e1269a2d8f48547da5d39da63cc627",
+          "reviewNote": "Bars suspended imposition of sentence or a fine in lieu of imprisonment for prior, persistent, aggravated, chronic, and habitual offenders, sets minimum imprisonment terms (with community service or treatment alternatives for prior and persistent offenders), and provides that probation or parole may include continuous alcohol monitoring or four-times-daily breath testing."
+        }
+      ],
+      "reviewSummary": "Source-checked all 7 subsections of 577.012; realigned shifted headings in subsections 2-7, replaced fabricated joinder heading in subsection 7, and added commercial motor vehicle threshold in subsection 1."
+    },
+    {
+      "id": "577.013:33824",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.013&bid=33824",
+      "sourceSha256": "561bc60a7648f06f643acf2b43fc114ea4eaacfba3165ba72c7a6fbfbff6a154",
+      "textSha256": "60c50321a2e8096c51e083f0c467d4bcbe839cd7cf05fda00fbd1776331844e3",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of boating while intoxicated",
+          "bodySha256": "380f07f269e0e5b59e7cd9040f7659a93898fbbf6ac169872f761aee33b358f7",
+          "reviewNote": "Defines boating while intoxicated as operating a vessel while in an intoxicated condition."
+        },
+        {
+          "number": 2,
+          "title": "Classification as misdemeanor or tiered felony",
+          "bodySha256": "28008ee588e918ebfd46b3c42d4a4880fa3a29717d15d757c77d9b67787ca144",
+          "reviewNote": "Classifies boating while intoxicated as a class B misdemeanor, escalating to a class A misdemeanor or class E through class A felony based on repeat boating offender status (with subdivision (7) referring to a habitual offender under section 577.001(12)(d)), presence of a person under 17, or criminal negligence causing injury or death."
+        },
+        {
+          "number": 3,
+          "title": "Suspended imposition restrictions for first offenders",
+          "bodySha256": "75967b98760eccbd1534655186b09f12653bc0cd7136900a65a81b659b749c70",
+          "reviewNote": "Prohibits granting a suspended imposition of sentence for a first offense unless placed on probation for at least two years or, where available and BAC is 0.15% or more, participating in and completing a DWI court, docket, or court-ordered treatment program."
+        },
+        {
+          "number": 4,
+          "title": "Continuous alcohol monitoring for repeat offenses",
+          "bodySha256": "834bacf464a4a7fdbce1427533ef50e64f4a789508140e6dd27dcd4c64553d5d",
+          "reviewNote": "Provides that for a second or subsequent offense, the court may order continuous alcohol monitoring or verifiable breath alcohol testing at least four times per day as a probation condition."
+        },
+        {
+          "number": 5,
+          "title": "Mandatory minimum imprisonment for high blood alcohol",
+          "bodySha256": "597dc4e4f5b7ec8754d334e24fd2e75614567d1623cbfb14e95a890253b3625b",
+          "reviewNote": "Requires at least forty-eight hours of imprisonment for 0.15% to 0.20% BAC and at least five days for greater than 0.20% BAC when a suspended imposition of sentence is not granted under subsection 3."
+        },
+        {
+          "number": 6,
+          "title": "Sentencing restrictions and minimums for repeat offenders",
+          "bodySha256": "8c68127282c1eb812c96ac80cc98f5708127bbd0a120ec5a80acf5551c27aa90",
+          "reviewNote": "Bars suspended imposition of sentence or a fine in lieu of imprisonment for repeat boating offenders, sets minimum imprisonment terms (with 240-hour or 480-hour community service or treatment alternatives for prior boating and persistent offenders), and provides that probation or parole may include continuous alcohol monitoring or four-times-daily breath testing."
+        }
+      ],
+      "reviewSummary": "Source-checked all 6 subsections of 577.013; verified alignment with archived source text and refined titles and notes for subsections 2-6."
+    },
+    {
+      "id": "577.014:33825",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.014&bid=33825",
+      "sourceSha256": "053d3c33e09c7b322a6cb114bac0d5c46db2068152ce21f8788b509b058b7f82",
+      "textSha256": "26409a5b763bea34c65a6a7b218f9d4df133f75fa4ec927625ee273906b800b9",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of boating with excessive blood alcohol",
+          "bodySha256": "c630a0fe51388cf60c5802a788f3aba745c73426b58bbe13a399dbe995258b38",
+          "reviewNote": "Defines boating with excessive blood alcohol content as operating a vessel with 0.08% or more by weight of alcohol in the blood."
+        },
+        {
+          "number": 2,
+          "title": "Blood alcohol measurement and chemical testing standards",
+          "bodySha256": "52ba3bdf82f9cc93b3064821e50c9d48629d9b2a6b8339565b48f0ea3830b488",
+          "reviewNote": "Bases percent by weight of alcohol on grams per 100 milliliters of blood or 210 liters of breath, permits proof by chemical analysis of blood, breath, saliva, or urine, and requires testing under sections 577.020 to 577.041."
+        },
+        {
+          "number": 3,
+          "title": "Classification as misdemeanor or tiered felony",
+          "bodySha256": "e2f9e4fd8f24afc9c20221dc3f03e047753671fbf96dd13d31159630e3be5f7e",
+          "reviewNote": "Classifies the offense as a class B misdemeanor, escalating to a class A misdemeanor or class E through class B felony when alleged and proved to be a prior, persistent, aggravated, chronic, or habitual boating offender."
+        },
+        {
+          "number": 4,
+          "title": "Suspended imposition restrictions for first offenders",
+          "bodySha256": "3fea59110bd4a6113fcbe3a6c5c2d953338e6b492569464fda74fc34ff592c95",
+          "reviewNote": "Prohibits granting a suspended imposition of sentence for a first offense unless placed on probation for at least two years or, where available and BAC is 0.15% or more, participating in and completing a DWI court, docket, or court-ordered treatment program."
+        },
+        {
+          "number": 5,
+          "title": "Mandatory minimum imprisonment for high blood alcohol",
+          "bodySha256": "27978bb8b1cd7d23895083e4f0f194bf4d334170cd970d273bc13ae72f879e1c",
+          "reviewNote": "Requires at least forty-eight hours of imprisonment for 0.15% to 0.20% BAC and at least five days for greater than 0.20% BAC when a suspended imposition of sentence is not granted under subsection 4."
+        },
+        {
+          "number": 6,
+          "title": "Continuous alcohol monitoring for repeat offenses",
+          "bodySha256": "be0967fcbdef7c5906bf74c0f1c76a65bb573c680f34767db3baac1909fb3d81",
+          "reviewNote": "Provides that for a second or subsequent offense, the court may order continuous alcohol monitoring or verifiable breath alcohol testing at least four times per day as a probation condition."
+        },
+        {
+          "number": 7,
+          "title": "Sentencing restrictions and minimums for repeat offenders",
+          "bodySha256": "aaef6c6ca58d1ab516f13e285a261d81e8e7d8e61ae2d55fe9d8533c3f8f7551",
+          "reviewNote": "Bars suspended imposition of sentence or a fine in lieu of imprisonment for repeat boating offenders, sets minimum imprisonment terms (with 240-hour or 480-hour community service or treatment alternatives for prior and persistent boating offenders), and provides that probation or parole may include continuous alcohol monitoring or four-times-daily breath testing."
+        }
+      ],
+      "reviewSummary": "Source-checked all 7 subsections of 577.014; realigned shifted headings in subsections 2-7 and replaced fabricated joinder heading in subsection 7."
+    },
+    {
+      "id": "577.015:29943",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.015&bid=29943",
+      "sourceSha256": "e4207872e3c7eeadfefe712f8e46beaeb37b000898a97a2e3f25f196d4302279",
+      "textSha256": "6be5c05feaabbe6fd90c3aa580cfdc944f6bb4fdc84d5a3f8028fc488f1afdd9",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of operating aircraft while intoxicated",
+          "bodySha256": "5cf81cd86db7a58882d1a6bdf4772a884b7d483892e7c459ec7680f4fc03ded6",
+          "reviewNote": "Defines the offense as knowingly operating an aircraft or knowingly acting as copilot, flight engineer, or flight navigator for an aircraft in operation while in an intoxicated condition."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class C or class A misdemeanor",
+          "bodySha256": "6e56351d7bd66687f60b13a5f00bfefad1ac467ee937329f9b9fc584488dfc79",
+          "reviewNote": "Classifies operating an aircraft while intoxicated as a class C misdemeanor, or a class A misdemeanor if previously found guilty of an equivalent Missouri or out-of-state aircraft intoxication or excessive BAC offense."
+        }
+      ],
+      "reviewSummary": "Source-checked both subsections of 577.015; corrected subsection 2 from fabricated felony tiers to class C or class A misdemeanor and added flight crew roles in subsection 1."
+    },
+    {
+      "id": "577.016:29944",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.016&bid=29944",
+      "sourceSha256": "3441dfa2a5d9dcea940b1d2d921e5b069bd028db10e8a414ea3194add7225bc9",
+      "textSha256": "0434a51664fc92a963039c7da13ec0f6da0a4e2ad077c2e37b1858076d8e5055",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of operating aircraft with excessive alcohol",
+          "bodySha256": "208c3a4bd60f0418f5dfd9cbc7fdab8cff1260e9ef774dbcec1b0e21795d75e6",
+          "reviewNote": "Defines the offense as knowingly operating an aircraft or acting as copilot, flight engineer, or flight navigator with 0.04% or more BAC or within eight hours after consuming any alcoholic beverage."
+        },
+        {
+          "number": 2,
+          "title": "Blood alcohol measurement and chemical testing standards",
+          "bodySha256": "52ba3bdf82f9cc93b3064821e50c9d48629d9b2a6b8339565b48f0ea3830b488",
+          "reviewNote": "Bases percent by weight of alcohol on grams per 100 milliliters of blood or 210 liters of breath, permits proof by chemical analysis of blood, breath, saliva, or urine, and requires testing under sections 577.020 to 577.041."
+        },
+        {
+          "number": 3,
+          "title": "Classification as class C or class A misdemeanor",
+          "bodySha256": "698fb8ed60d1dc97713564e6f149921844bd5293ec1db3a4cd88ef5b04478d4f",
+          "reviewNote": "Classifies the offense as a class C misdemeanor, or a class A misdemeanor if previously found guilty of an equivalent Missouri or out-of-state aircraft excessive BAC or intoxication offense."
+        }
+      ],
+      "reviewSummary": "Source-checked all 3 subsections of 577.016; replaced fabricated felony classification and joinder headings in subsections 2-3 with chemical testing standards and misdemeanor penalties, and added the eight-hour rule and flight crew roles in subsection 1."
+    },
+    {
+      "id": "577.017:29945",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.017&bid=29945",
+      "sourceSha256": "d18a85abaf72466fb4440c8845d2771a5cb101a5377afa567149daa2cb39ca28",
+      "textSha256": "a6998a932280e8c758ba9e68099f29d81e526007fad012f2781ee8069df799b0",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of consuming alcohol while driving",
+          "bodySha256": "a5246490c8fb12979fcc2bfeafa9977ca6fa5aff9511fed7c16d40340d944b5a",
+          "reviewNote": "Defines the offense as operating a moving motor vehicle upon any public thoroughfare for vehicles while consuming any alcoholic beverage."
+        },
+        {
+          "number": 2,
+          "title": "Classification as infraction and record exclusion",
+          "bodySha256": "5a54a3e67388cf0d8f17608ccb8fb8084c22c7e5389420c1e58139846ff76212",
+          "reviewNote": "Classifies the offense as an infraction and provides that it shall not be reflected on records maintained by the department of revenue."
+        }
+      ],
+      "reviewSummary": "Source-checked both subsections of 577.017; updated subsection 2 to reflect the department of revenue record exclusion."
+    },
+    {
+      "id": "577.020:29948",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.020&bid=29948",
+      "sourceSha256": "543e5d1b9658f6bb86a4a030c00fd3233ad43504f947aa48ad11d5de7a433547",
+      "textSha256": "330ffb892fd2b6dfbd8ad731a433b3afcae2faa4a070c79001674542f42ba62e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Implied consent to chemical sobriety testing",
+          "bodySha256": "b048aa5832d54f8c8b92b7a69c39616f757154b38516bbf8935aa73db1346300",
+          "reviewNote": "Deems operators of vehicles on public highways, vessels, or aircraft, and aircraft flight crew members, to have consented to breath, blood, saliva, or urine chemical tests under six enumerated circumstances, administered at a law enforcement officer's direction."
+        },
+        {
+          "number": 2,
+          "title": "Limit of two chemical tests per incident",
+          "bodySha256": "47d99a3330f0ea55976ec2cd0778a5ecd2e9c1815ddcace370320eea7e036639",
+          "reviewNote": "Limits implied consent under subsection 1 to not more than two chemical tests arising from the same stop, detention, arrest, incident, or charge."
+        },
+        {
+          "number": 3,
+          "title": "Validity requirements for chemical analysis",
+          "bodySha256": "f32a8dc3051a3970910363282c9a81b3f38e7b706ee300fcaffbb2e39b042d52",
+          "reviewNote": "Requires chemical analysis of breath, blood, saliva, or urine to be performed according to department of health and senior services approved methods by licensed medical personnel or valid department permit holders."
+        },
+        {
+          "number": 4,
+          "title": "Department approval of testing methods and permits",
+          "bodySha256": "c9dd7bbccde8f57c2fc1d935182768ed285eb8b13e9204ed81b7aa285a52a0f9",
+          "reviewNote": "Requires the department of health and senior services to approve testing techniques, devices, equipment, or methods, establish analyst qualification standards, and issue permits subject to termination or revocation."
+        },
+        {
+          "number": 5,
+          "title": "Right to additional independent chemical test",
+          "bodySha256": "fd09d90863b7bcafc45e79ce652921ed733eb39d41bbc1492058f3490610487e",
+          "reviewNote": "Provides that the tested person may have a physician, technician, chemist, registered nurse, or other qualified person administer an additional test at the person's expense, without inability to obtain one precluding admission of the officer-directed test."
+        },
+        {
+          "number": 6,
+          "title": "Disclosure of limited test information upon request",
+          "bodySha256": "c96684afedcbdea0c0fe79a17967967862772eb0e0cbeecbb9befa4966c8b395",
+          "reviewNote": "Requires making five enumerated categories of test information available to the tested person upon request, expressly excluding instrument manuals, schematics, software, materials not in state possession, and manufacturer-held information."
+        },
+        {
+          "number": 7,
+          "title": "Videotaping and admissibility of breath or field tests",
+          "bodySha256": "13b4979f41b04dc23f1a1197163d014b73db63a4fd2a20c54d153e1d4cdc1acc",
+          "reviewNote": "Provides that a person given a breath chemical test under subsection 1 or a field sobriety test may be videotaped at the officer's direction, and makes the video recording admissible in state or local violation trials and chapter 302 license proceedings."
+        }
+      ],
+      "reviewSummary": "Source-checked all 7 subsections of 577.020; replaced inaccurate headings in subsections 2 and 4 (two-test limit and DHSS method/permit approval) and refined subsections 1, 5, 6, and 7 against the archived text and continuation paragraphs."
+    },
+    {
+      "id": "577.021:29950",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.021&bid=29950",
+      "sourceSha256": "c7b98450ed8f420149cb6f9cfe8072888be1275f21f9f9d24b71e1e94c48a945",
+      "textSha256": "bff36817b20b29bf7b2b449f2bfe25296e753074ef63bf59a6c82a1ec05bb15f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authorization for pre-arrest chemical testing",
+          "bodySha256": "741069e9a957e7a9d85abcfcd98015c700cb9f7eb2c530f53f7879f4a52482a0",
+          "reviewNote": "Provides that a chapter 590 certified state, county, or municipal law enforcement officer may administer a chemical test prior to arrest to any person suspected of operating a vehicle, vessel, or aircraft, or acting as flight crew, while intoxicated or with excessive BAC."
+        },
+        {
+          "number": 2,
+          "title": "Reasonable efforts to test after fatal or serious crashes",
+          "bodySha256": "55c009ad76b2f7185b294fc5b0033a0c045f104378c4a52c6c568ea5be94337c",
+          "reviewNote": "Requires a chapter 590 certified officer to make all reasonable efforts to administer a chemical test to any person suspected of operating a vehicle or vessel involved in a collision or accident resulting in a fatality or serious physical injury under section 556.061."
+        },
+        {
+          "number": 3,
+          "title": "Admissibility and inapplicability of implied consent provisions",
+          "bodySha256": "e964494e2cf24647d994b1bce7a80c58b004c4fb4a5994a9bfe32d7792a3ffd9",
+          "reviewNote": "Makes tests under this section admissible as evidence of probable cause to arrest and as exculpatory evidence, but inadmissible as evidence of blood alcohol content, and states that sections 577.019 and 577.020 do not apply."
+        }
+      ],
+      "reviewSummary": "Source-checked all 3 subsections of 577.021; corrected terminology from preliminary breath test to chemical test and refined scope and evidentiary rules."
+    },
+    {
+      "id": "577.023:29952",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.023&bid=29952",
+      "sourceSha256": "817e5d1e3975e25a5a47bcdeae276267319c47aef400100f3e3cf96dafd659c4",
+      "textSha256": "2c0170945941ae0b85b93fa54db34296ae7ac154156f76df9542a335a1d88aea",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Requirements for finding repeat offender status",
+          "bodySha256": "988a41e858d18aad96e2050a3aeb8657a72ca9b43b3d962edf5d05b980ee7006",
+          "reviewNote": "Requires the court to find a defendant to be a prior, persistent, aggravated, chronic, or habitual offender (or boating equivalent) when essential facts are pleaded, established beyond a reasonable doubt by evidence, and supported by court findings of fact."
+        },
+        {
+          "number": 2,
+          "title": "Timing of repeat offender finding in jury trials",
+          "bodySha256": "e68e6896607a590a0d636f257c5d6a09bfb35af332cc3f02f9114ee060818ab8",
+          "reviewNote": "Requires the defendant's repeat offender status in a jury trial to be found prior to submission to the jury and outside the jury's hearing."
+        },
+        {
+          "number": 3,
+          "title": "Timing of repeat offender finding in bench trials or pleas",
+          "bodySha256": "7a083bcc781aa584a9f4d2e920bb21a2e73005154d369532086e824cef6ca3ea",
+          "reviewNote": "Provides that in a bench trial or upon a guilty plea, the court may determine repeat offender status at any time prior to sentencing."
+        },
+        {
+          "number": 4,
+          "title": "Permissible evidence of prior findings of guilt",
+          "bodySha256": "b6d56f91ac6a71f83cd16cd85a4f7d5d14f23f6a88024f717ee62ab648416f1a",
+          "reviewNote": "Specifies that proof of repeat offender status shall include MULES records (including central repository criminal history or Highway Patrol DWITS records) or certified Department of Revenue driving records, and requires prior findings of guilt to predate commission of the present offense."
+        },
+        {
+          "number": 5,
+          "title": "Confrontation, cross-examination, and evidence rights at hearings",
+          "bodySha256": "dca00572651a50535f600ebf545710c74cf31d2bedc9b6d14969da421b6d41c5",
+          "reviewNote": "Accords the defendant full rights of confrontation and cross-examination, with the opportunity to present evidence, at repeat-offender hearings."
+        },
+        {
+          "number": 6,
+          "title": "Waiver of proof of repeat offender status",
+          "bodySha256": "9ccb33a14d361e21ab2ab8416408b0013a4f1e25833cf92ede256b92be784de3",
+          "reviewNote": "Provides that the defendant may waive proof of the facts used to prove repeat offender or repeat boating offender status."
+        },
+        {
+          "number": 7,
+          "title": "Prohibition on jury punishment instructions or assessment",
+          "bodySha256": "31a941464d6783521bf53888648b4370f41b4af40cba2c24f503bc2c8212be38",
+          "reviewNote": "Prohibits the court from instructing the jury on the range of punishment or allowing the jury to assess and declare punishment if the court finds the defendant to be a repeat offender."
+        },
+        {
+          "number": 8,
+          "title": "Additional sentencing information and presentence reports",
+          "bodySha256": "6e30b46b3b0e129663af9757496e215b3df19d8a5b2d031f6ba7138a81ce342e",
+          "reviewNote": "Permits all parties at sentencing to present additional information bearing on the sentence and preserves the use of presentence investigations, sentencing advisory reports, or commitments."
+        }
+      ],
+      "reviewSummary": "Source-checked all 8 subsections of 577.023; realigned shifted subsections 1-5 and replaced fabricated headings in subsections 6-8 (waiver of proof, bar on jury sentencing, and additional sentencing information)."
+    },
+    {
+      "id": "577.024:29954",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.024&bid=29954",
+      "sourceSha256": "906511bd6f1caa717abf499d44fa641b41cc818005c62febd9bc2a3c26f15881",
+      "textSha256": "c702f7f5e8f1c4d3ce98f7829c7fc5dbc3395b89f366016ec042bea0940ab554",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of unlawful use of water skis and surfboards",
+          "bodySha256": "76a0f1408675be06022a00a556411cdc946ce2e280f1fff059b75e03d2235290",
+          "reviewNote": "Defines the offense as manipulating water skis or a surfboard recklessly or negligently so as to endanger life or property, or while intoxicated or under the influence of any narcotic drug, barbiturate, or marijuana."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class B misdemeanor",
+          "bodySha256": "8bd3874f707cd369ee95295799f4c54863d6fdeecf2a55b032fe0725d348d645",
+          "reviewNote": "Classifies unlawful use of water skis and surfboards as a class B misdemeanor."
+        }
+      ],
+      "reviewSummary": "Source-checked both subsections of 577.024; aligned subsection 1 title and note with the statutory elements."
+    },
+    {
+      "id": "577.037:33826",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.037&bid=33826",
+      "sourceSha256": "e4676e3fd5948005c506b86be449c3dae69311ee8576cd399f3bb78431b49311",
+      "textSha256": "14d267a25aaedf960ddeaa2ffdcc3eac60f5b9c6f40c3e58f21f6d61d932bb23",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Admissibility of chemical test alcohol evidence",
+          "bodySha256": "bf0a3e476a03df5afd0c744936be7585c6e08d16c4e7200ca456ad9f64ecaa3c",
+          "reviewNote": "Makes chemical analysis of blood, breath, saliva, or urine admissible in criminal trials, local ordinance violation proceedings, and chapter 302 license proceedings involving vehicle, vessel, or aircraft operation, notwithstanding section 491.060(5)."
+        },
+        {
+          "number": 2,
+          "title": "Prima facie intoxication and dismissal below threshold",
+          "bodySha256": "b40720376e1c5d947077e50326c9c7542861c860290b2a3520869ce0f018f378",
+          "reviewNote": "Makes 0.08% or more BAC prima facie evidence of intoxication and requires dismissal with prejudice of intoxicated-operation criminal charges if BAC is below 0.08%, unless unreliability due to time lapse, controlled substance or drug influence, or substantial physical observation or admission evidence renders dismissal unwarranted."
+        },
+        {
+          "number": 3,
+          "title": "Calculation of alcohol percentage by weight",
+          "bodySha256": "3fad7f07e6e2d589fac8365f8fd72e023ff5b1db1095a21a189935f54d543783",
+          "reviewNote": "Bases percent by weight of alcohol in the blood on grams of alcohol per 100 milliliters of blood or per 210 liters of breath."
+        },
+        {
+          "number": 4,
+          "title": "Admissibility of other competent evidence of intoxication",
+          "bodySha256": "f1c3ca22265f0f3c4741c11c62f1cebafcbf4435095094e5a1dcb4ba15b37707",
+          "reviewNote": "Provides that the section shall not be construed to limit the introduction of any other competent evidence bearing on whether the person was intoxicated."
+        },
+        {
+          "number": 5,
+          "title": "Compliance with statutory and department testing standards",
+          "bodySha256": "28d2d2256c1348410274ce17c6a070d6c2a083324620213861994b2cbb927642",
+          "reviewNote": "Requires chemical analysis to have been performed under sections 577.020 to 577.041 and in accordance with department of health and senior services approved methods and standards to give rise to the subsection 2 presumption or effect."
+        }
+      ],
+      "reviewSummary": "Source-checked all 5 subsections of 577.037; corrected subsection 2 to capture mandatory dismissal with prejudice and its three exceptions, and replaced fabricated commercial vehicle heading in subsection 5 with DHSS testing compliance."
+    },
+    {
+      "id": "577.041:29966",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.041&bid=29966",
+      "sourceSha256": "a67745cfab7aaa77d5ca0c40bf5e9733da1f3f5586d4e483bc69a687ea3812a8",
+      "textSha256": "f8869fdc3306e19c7dc61ce03a14d9c2b4187e32661c4eddc0fb83767b7f307c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Admissibility of chemical test refusal in evidence",
+          "bodySha256": "6d9601826d2cb6b6ceedba9054688bd26ffa6ea71bd9023d61bac11cf26b7237",
+          "reviewNote": "Provides that evidence of refusal to submit to a test under section 577.020 by a person arrested, detained under 577.020(1)(2), or stopped under 577.020(1)(3)-(4) shall be admissible in any related proceeding."
+        },
+        {
+          "number": 2,
+          "title": "Required officer warnings when requesting chemical test",
+          "bodySha256": "c7072fa009c31a0786d9c277d4c9ad77fe49426e4786a3ceab59081267ce4443",
+          "reviewNote": "Requires the officer's request to state the reasons for requesting the test, inform the person that refusal evidence may be used against them, and, if operating a vehicle, inform them that their license shall be immediately revoked upon refusal."
+        },
+        {
+          "number": 3,
+          "title": "Twenty-minute period to contact an attorney",
+          "bodySha256": "10abc2a495ce90475c792135eb9f052b4f07c8b87cb9d555d0ddde1eb698ee61",
+          "reviewNote": "Requires granting twenty minutes to attempt to contact an attorney upon request when asked to submit to a section 577.020 test, with continued refusal after twenty minutes deemed a refusal."
+        }
+      ],
+      "reviewSummary": "Source-checked all 3 subsections of 577.041; replaced fabricated revenue-reporting heading in subsection 3 with the 20-minute attorney consultation rule and removed that clause from subsection 2."
+    },
+    {
+      "id": "577.060:34719",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.060&bid=34719",
+      "sourceSha256": "d8bd6eb2fe2aea48158052d851ea769c9f54c69a4a824bea36e54d00a9dd50f9",
+      "textSha256": "fc3d463cb2ef002dc6f393f3414302130683e429346465e91a3922519c8140ea",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of leaving the scene of an accident",
+          "bodySha256": "85b27ff0d160cd9333044d9f21f6a660ba0a8084f8820e1982ce912faa3880b9",
+          "reviewNote": "Defines the offense as a vehicle or vessel operator knowingly leaving the scene of an accident causing injury, death, or property damage to another without stopping and providing name, residence, registration/license number, and operator's license number to the other party, a nearby officer, or the nearest law enforcement agency."
+        },
+        {
+          "number": 2,
+          "title": "Officer jurisdiction on private property upon invitation",
+          "bodySha256": "33aef9b9109f956a02cb596c002bfbb810b3e84e9a49c139529b8dc39cef17a6",
+          "reviewNote": "Grants law enforcement officers jurisdiction, when invited by an injured person, to enter privately owned property to investigate an accident and perform necessary duties."
+        },
+        {
+          "number": 3,
+          "title": "Classification as class A misdemeanor or tiered felony",
+          "bodySha256": "b5396650eb7b70a4a811a76aea784606c185b0c42aa865aa4500c013e47bc99c",
+          "reviewNote": "Classifies the offense as a class A misdemeanor, elevated to a class E felony for physical injury, property damage over $1,000, or a prior equivalent finding of guilt, or a class D felony if a death occurred."
+        },
+        {
+          "number": 4,
+          "title": "Written reporting requirements for all-terrain vehicle accidents",
+          "bodySha256": "54a6dc40fc3bc339d8c999b72f51952fb97d1fefd7c014e9da4eb0b7c7119b83",
+          "reviewNote": "Requires a law enforcement officer who investigates or receives information of an ATV accident involving loss of life or serious physical injury to make a written report, mail it to the department of public safety, and keep an office record."
+        },
+        {
+          "number": 5,
+          "title": "Exemption for sanctioned all-terrain vehicle events",
+          "bodySha256": "90ce8443bc58ee245c7c955e4d43264529f5dcdadccbe91326611d9f8192b17b",
+          "reviewNote": "Exempts ATV operations when property damage is sustained in sanctioned ATV races, derbies, and rallies."
+        }
+      ],
+      "reviewSummary": "Source-checked all 5 subsections of 577.060; added prior-offense felony trigger in subsection 3 and refined details in subsections 1, 4, and 5."
+    },
+    {
+      "id": "577.068:29977",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.068&bid=29977",
+      "sourceSha256": "23022d88ca32d41d48a5086b3ba4672c72dd4963c156819a7f785a2dbd35ac38",
+      "textSha256": "f30f728340d76a8a39eda4fb1452238360d52872cdf8407628c6963fa0b97a8b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of failure to report a shooting",
+          "bodySha256": "964bc7a32db0ff84fa7bb48fbde6f00e494df46bc995a79913e929119a1e97d8",
+          "reviewNote": "Defines the offense as discharging a firearm or projectile weapon (as defined in section 571.010) causing injury or death to another and knowingly failing to report it to a nearby law enforcement officer or the nearest law enforcement agency."
+        },
+        {
+          "number": 2,
+          "title": "Classification as misdemeanor or class E felony",
+          "bodySha256": "4089a4c9211ef9b9b90b2e64c51b119422ee289349d1a56c55597053ab0dff3d",
+          "reviewNote": "Classifies failure to report a shooting as a class A misdemeanor, or a class E felony if previously found guilty of a violation of this section or an equivalent out-of-state offense."
+        },
+        {
+          "number": 3,
+          "title": "Exception for seeking medical care or emergency notification",
+          "bodySha256": "15c7309cf0038164eec14d9bcac9be1a1a0ddfb3473a1adbd674c855a1a0ddb5",
+          "reviewNote": "Provides that failing to report is not a violation if done to obtain medical assistance or contact law enforcement authorities, so long as the person returns to the scene or reports within a reasonable time."
+        },
+        {
+          "number": 4,
+          "title": "Investigative authority of officers and conservation agents",
+          "bodySha256": "b83b83494ea9283716335cd81ea35502b00bb74b724cb3460f9dc71e4af45531",
+          "reviewNote": "Grants law enforcement and reserve law enforcement officers authority to investigate shootings and arrest violators, provides that conservation agents may enforce the provisions for hunting-related shootings, and defines hunting-related shooting."
+        }
+      ],
+      "reviewSummary": "Source-checked all 4 subsections of 577.068; verified alignment and added reserve officers and the hunting-related shooting definition to subsection 4."
+    },
+    {
+      "id": "577.070:29979",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.070&bid=29979",
+      "sourceSha256": "edae11021b56cd219237e7f2d162b2ad121fe128e24f153c1a4aca6c87026a53",
+      "textSha256": "9a6899acb29b19da19f39a893ccc63672fc2462628d2017411143b1b9ec12437",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of the offense of littering",
+          "bodySha256": "0acd318e5eb3082cc1bd2290ff7ad0b112b9390c18f5f7b935cf7424a66bc727",
+          "reviewNote": "Defines littering as placing, depositing, or causing to be placed or deposited specified trash, glass, refuse, or rubbish on public road or state highway rights-of-way, state waters, stream banks, state or federal land or water, or private real property without the owner's consent."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class C or class A misdemeanor",
+          "bodySha256": "d11c556ee2dab266bbfa2fde5a7f778679f84a43c64b6a3971804b5926197c85",
+          "reviewNote": "Classifies littering as a class C misdemeanor, elevated to a class A misdemeanor if it creates a substantial risk of physical injury or property damage to another or upon a prior Missouri or equivalent out-of-state finding of guilt."
+        }
+      ],
+      "reviewSummary": "Source-checked both subsections of 577.070; added property damage risk trigger in subsection 2."
+    },
+    {
+      "id": "577.073:29983",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.073&bid=29983",
+      "sourceSha256": "096ce28ca24d333f9bf0684004f8b549e4b734ef870620e1d7db542ff6b15bbd",
+      "textSha256": "07178e882f220bb8ced062041a8c29a059416d3260b6e41f242a6f2e71200391",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of damaging state park property",
+          "bodySha256": "751ef62bc51fb350a25ad43a4b34bc08265b994197d8dd95dbef6b7a87ea1897",
+          "reviewNote": "Defines the offense as knowingly depositing rubbish, contaminating waters, injuring flora, or removing or defacing archaeological or historical objects in a state park, with exceptions for authorized department of natural resources personnel for flora and archaeological/historical objects."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class C or class A misdemeanor",
+          "bodySha256": "6ae7235902cd32b9acb398967ffb43f9fc438435987a0ef0e6eda1519f78c62e",
+          "reviewNote": "Classifies damaging state park property as a class C misdemeanor, elevated to a class A misdemeanor for substantial risk of physical injury or property damage or a prior Missouri or equivalent out-of-state finding of guilt."
+        }
+      ],
+      "reviewSummary": "Source-checked both subsections of 577.073; added DNR personnel exceptions in subsection 1 and property damage risk trigger in subsection 2."
+    },
+    {
+      "id": "577.075:29985",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.075&bid=29985",
+      "sourceSha256": "f8a13a4c8c373cc997b29d8a6c277ab9c340bd0a00536d606c19d260117a4ea5",
+      "textSha256": "afa0f65cfe9dc4518bdc2b2fb0aed637fd0d53e167fba57400316b5fba51dccb",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of unlawful release of anhydrous ammonia",
+          "bodySha256": "b5753fe175864a53b60545125b175c0965842325721df379dcbf02d8118b36d9",
+          "reviewNote": "Defines the offense as knowingly releasing or allowing the escape of anhydrous ammonia into the atmosphere by a person who is not the owner or in lawful control of an approved container."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class B or class A felony",
+          "bodySha256": "fe4927ff1064ee226a68693f6cefc31f53714f93243fc2aecfc3e08d43819164",
+          "reviewNote": "Classifies unlawful release of anhydrous ammonia as a class B felony, or a class A felony if the release causes serious physical injury or death to any person."
+        }
+      ],
+      "reviewSummary": "Source-checked both subsections of 577.075; verified alignment and added approved-container and mens rea details in subsection 1."
+    },
+    {
+      "id": "577.076:29987",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.076&bid=29987",
+      "sourceSha256": "f1b7976f5a18fc408353d8cf9e3b809f44490bbeadf3ad78886a662ec375e16c",
+      "textSha256": "349b731ffad1287ff6bf649e2edb748ff065a553090371c2965a70536ddf9d0e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of unlawful disposition of a dead animal",
+          "bodySha256": "794705815204f42a3546a7191d6225f8914cdb42c6593b8f3be90fdfa1129db0",
+          "reviewNote": "Defines the offense as knowingly placing or causing to be placed a dead animal carcass or offal into specified wells, springs, creeks, ponds, or lakes, or on public roads, watercourses, or another's premises for the purpose of annoying others."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class C misdemeanor",
+          "bodySha256": "98d1f3401695094c46a9a589183b483cc523d9a9b4ee58db42712106f84c62a3",
+          "reviewNote": "Classifies unlawful disposition of a dead animal as a class C misdemeanor."
+        }
+      ],
+      "reviewSummary": "Source-checked both subsections of 577.076; clarified in subsection 1 that the purpose-of-annoying element applies to subdivision (2)."
+    },
+    {
+      "id": "577.078:29989",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.078&bid=29989",
+      "sourceSha256": "dcc10e6846e6d33c9e5b10500d93753bbe447d2efcbc321e94524a22ea1ea8bd",
+      "textSha256": "2200b890b7c15dc9ef00e6b99e5e79574dd2a262670592e25149f52632b675bc",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of criminal water contamination",
+          "bodySha256": "ca1895b4b096d875dcb589f0366b116dd6927db236c7821a1480bda7896152d1",
+          "reviewNote": "Defines criminal water contamination as knowingly introducing any dangerous radiological, chemical, or biological agent or substance into public or private state waters or a water supply with the purpose of causing death or serious physical injury."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class B felony",
+          "bodySha256": "779ac403ad5c092a57ac1dc7aa0a9ba0a6878f240046882fa642537c56f947dd",
+          "reviewNote": "Classifies criminal water contamination as a class B felony."
+        }
+      ],
+      "reviewSummary": "Source-checked both subsections of 577.078; verified alignment with archived source text."
+    },
+    {
+      "id": "577.080:29990",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.080&bid=29990",
+      "sourceSha256": "c74b760884d32456fa5fe43241656c99fe48a5916195d9354b10a03d9ddace5d",
+      "textSha256": "c94a4c276ed60e294f70d4332b9915e760b692d3f23d6dbc4528c4e2d0abfb75",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of abandoning a vehicle, vessel, or trailer",
+          "bodySha256": "4ac90e79b2d1eb950be64e23b903c9f8a31419648d2d8065b5f7189ad28511b5",
+          "reviewNote": "Defines the offense as knowingly abandoning a vehicle, vessel, or trailer on public road or highway rights-of-way, state waters, stream banks, state, political subdivision, or federal land or water, or private real property without the owner's consent."
+        },
+        {
+          "number": 2,
+          "title": "Prima facie ownership, control affidavit, and theft proof",
+          "bodySha256": "e65b960f53d74038cceca2a164ebfe6272e9dc7c2ca48ab9bf61e0d3dc7ca071",
+          "reviewNote": "Makes the last owner of record prima facie evidence of ownership and abandonment unless transferred under sections 301.196 and 301.197, exempts registered owners who submit a court-permitted affidavit identifying another person in care, custody, or control (raising a rebuttable presumption), and requires timely police report proof if stolen."
+        },
+        {
+          "number": 3,
+          "title": "Classification as class A misdemeanor",
+          "bodySha256": "c6c83360ccb3563c96a8497e1d8331c9bfa4e917e5949e1f83ee5d9366b29d7e",
+          "reviewNote": "Classifies the offense of abandoning a vehicle, vessel, or trailer as a class A misdemeanor."
+        },
+        {
+          "number": 4,
+          "title": "Civil liability for towing, storage, and administrative costs",
+          "bodySha256": "4b25bd108d8c8c9815723e14171190b4185af6954ddfca4e6968e76b95db627d",
+          "reviewNote": "Makes convicted persons civilly liable for reasonable towing, storage, and administrative costs, including costs exceeding property value after transfer under section 304.156 if the towing company gave timely notice under section 304.156(1)."
+        }
+      ],
+      "reviewSummary": "Source-checked all 4 subsections of 577.080; removed fabricated 48-hour period in subsection 1 and fabricated class E felony in subsection 3, and updated subsections 1, 2, and 4 for vehicle/vessel/trailer scope and affidavit/notice provisions."
+    },
+    {
+      "id": "577.100:29994",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.100&bid=29994",
+      "sourceSha256": "b1f82118c6df4cf6402f3d9542d3a1301c986f71c1ddfd0d4ddf8c3409ebbec1",
+      "textSha256": "9a105e33c9a8b8b36c64fb1b38cf3a11c1a78f6842602b34a225b79d618ca5a2",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of abandoning airtight or semiairtight containers",
+          "bodySha256": "5c96fef8bae933dad694572ad713892bc4b490644fa9463a8e7cbf5ee713e585",
+          "reviewNote": "Defines the offense as knowingly abandoning, discarding, or permitting to remain on controlled premises accessible to children an icebox, refrigerator, or airtight or semiairtight container (at least 1.5 cubic feet and 50-square-inch opening) without removing hinges, latches, or fastening hardware."
+        },
+        {
+          "number": 2,
+          "title": "Exemption for dealers, warehouse operators, and repair persons",
+          "bodySha256": "3d0fb02539bd2eada0d5648e9e7138cb9b3af8932f57d21057ec1e4e9e177574",
+          "reviewNote": "Exempts containers located in parts of a building occupied by a dealer, warehouse operator, or repair person from subsection 1."
+        },
+        {
+          "number": 3,
+          "title": "Defendant's burden of injecting the exemption issue",
+          "bodySha256": "9ddb64c6705e64216b22fdb5101f083e940af0178252696e387a851ce4d5294c",
+          "reviewNote": "Places on the defendant the burden of injecting the exemption issue under subsection 2."
+        },
+        {
+          "number": 4,
+          "title": "Classification as class B misdemeanor",
+          "bodySha256": "00f633a2a419fa176bb266e445f09664ea005d84636bd6e72ff70930ab56e2c8",
+          "reviewNote": "Classifies abandonment of an airtight or semiairtight container as a class B misdemeanor."
+        }
+      ],
+      "reviewSummary": "Source-checked all 4 subsections of 577.100; replaced fabricated headings in subsections 2-4 with the dealer/warehouse/repair exemption, burden of injecting the issue, and class B misdemeanor classification."
+    },
+    {
+      "id": "577.150:57706",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.150&bid=57706",
+      "sourceSha256": "27f8e5d08aeeba367a06390f36122676b0c9160c90830725030a38132861e65c",
+      "textSha256": "a86f7c9cd721833332eb80d0cbfec387b73a3d91d0f162ff5cc3c2cdd7fe6fa1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of tampering with a water supply",
+          "bodySha256": "44eeb6932b7b2eb0e0f9a2cdb2a13867e0640f34bbbbfb8157ac21846416b3ec",
+          "reviewNote": "Defines tampering with a water supply as purposely poisoning, defiling, or corrupting a domestic or municipal well, spring, brook, or reservoir, or purposely diverting, damming, and holding back a domestic or municipal water supply after it has been taken for use."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class E felony or class A misdemeanor",
+          "bodySha256": "fbe8e96589d97f23c4da083b7d2eeba2fe3e589d40e86eccb80b71f8081a9aff",
+          "reviewNote": "Classifies poisoning, defiling, or corrupting under subsection 1(1) as a class E felony and diverting or damming under subsection 1(2) as a class A misdemeanor."
+        }
+      ],
+      "reviewSummary": "Source-checked both subsections of 577.150; corrected subsection 1 mens rea to purposely and added water diversion, and replaced fabricated class D/B felony tiers in subsection 2 with class E felony and class A misdemeanor."
+    },
+    {
+      "id": "577.155:30002",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.155&bid=30002",
+      "sourceSha256": "984a7847e758775a816fd949c1f29a97a528256f0f45fecfbca05754d46e2192",
+      "textSha256": "678476b57bef0db67b5b18ad422664691248064d2bf01ab1f5019a2b8fc43f65",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of constructing or using waste disposal wells",
+          "bodySha256": "a519fbf6e2e5f19083bcdedb5c2f7a7533bf36c4d7bb111eef9788e04b997e40",
+          "reviewNote": "Defines the offense as a person, firm, corporation, or political subdivision knowingly constructing or using a waste disposal well."
+        },
+        {
+          "number": 2,
+          "title": "Definition of waste disposal well",
+          "bodySha256": "a432735406e75d01055514f2236053b49290d6cd204c83538416daf2a43f6227",
+          "reviewNote": "Defines waste disposal well as any natural or artificial subsurface void porous formation or cavity used to dispose of liquid or semi-aqueous waste, except as excluded in subsection 3."
+        },
+        {
+          "number": 3,
+          "title": "Exclusions from waste disposal well definition",
+          "bodySha256": "1174954024aeb289068de7df4b106f806a0a4e667a13bd6239507d964375bf95",
+          "reviewNote": "Excludes sanitary landfills or surface mining pits for nonputrescible solid wastes under section 64.460, private residence cesspools, and septic tanks used solely for waste disposal."
+        },
+        {
+          "number": 4,
+          "title": "Permitted subsurface injections and mining cavity backfilling",
+          "bodySha256": "cad88f9163401178c6b3f29b805daee0de621d70bbd25da461db7d8029e2b21e",
+          "reviewNote": "Exempts oil and gas fluid injections regulated under chapter 259, specified groundwater heat pump injection/withdrawal wells under chapter 644 and section 192.020 (with Clean Water Commission permitting for larger uses), and mining cavity backfilling or non-toxic water inundation with the property owner's consent."
+        },
+        {
+          "number": 5,
+          "title": "Classification as class A misdemeanor and daily offenses",
+          "bodySha256": "2e73efe0d7f995fe6f0ece2361597c3d5ffd52c3ff6635cd88d42e7f48b5e13e",
+          "reviewNote": "Classifies construction or use of a waste disposal well as a class A misdemeanor and provides that each day of violation constitutes a separate offense."
+        }
+      ],
+      "reviewSummary": "Source-checked all 5 subsections of 577.155; realigned shifted headings in subsections 2-5 and replaced fabricated daily fine and injunction headings."
+    },
+    {
+      "id": "577.161:30006",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.161&bid=30006",
+      "sourceSha256": "eee31a6b880828195d7bb7f9a37b8b3f67200cf6e69f8a9dd6e046fae3f56633",
+      "textSha256": "ab499fbd131dfd458d39e5969e3df9a066142fff57e0850ec8ad4a820e24672b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of prohibiting medically necessary life jackets",
+          "bodySha256": "7ef628a0adb3099320a703c23039489617901040cb8ba34eeea33c5ee3c57b82",
+          "reviewNote": "Defines the offense as knowingly disallowing use of a life jacket in a swimming pool by an individual with a licensed physician's signed statement of a physical disability or condition necessitating its use."
+        },
+        {
+          "number": 2,
+          "title": "Definitions of statutory terms",
+          "bodySha256": "7a6299b00f554840d43f770dcc7bcd62dbe7a97edaab48fd5f0ae781043d3fc4",
+          "reviewNote": "Defines life jacket, person, and swimming pool (including specified public/multi-unit/commercial pools and excluding private residential pools for owner or guests)."
+        },
+        {
+          "number": 3,
+          "title": "Classification as class C misdemeanor",
+          "bodySha256": "122414d24ae585602bf5e31323523763a9e56dbd9167d541f7007ea7cdf038ef",
+          "reviewNote": "Classifies prohibiting the use of a life jacket as a class C misdemeanor."
+        }
+      ],
+      "reviewSummary": "Source-checked all 3 subsections of 577.161; verified alignment with archived source text."
+    },
+    {
+      "id": "577.300:30021",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.300&bid=30021",
+      "sourceSha256": "b6669cdfb3cbbf4b590b77703a15d90c43de45e1aa627831aed73430f66909e1",
+      "textSha256": "b31f49e00b1dc522aa6cd577e0f97565a85a4ea5021cf0e1a620fa892fc4533a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions of statutory terms",
+          "bodySha256": "3ffa01020dd3c58c94238db22347068a67dc51955378334c259b22c334170307",
+          "reviewNote": "Defines collision, injures, motor vehicle, and unattended (not accompanied by an individual fourteen years of age or older)."
+        },
+        {
+          "number": 2,
+          "title": "Elements of leaving child unattended in first degree",
+          "bodySha256": "f0b79cbbd8f234d505c153ee99032e7e9018657d7fabaaa3e87ae987b40ac3a2",
+          "reviewNote": "Defines the first-degree offense as knowingly leaving a child under eleven unattended in a motor vehicle when the child fatally injures another person by causing a collision or causing the vehicle to fatally injure a pedestrian."
+        },
+        {
+          "number": 3,
+          "title": "Classification as class C felony",
+          "bodySha256": "395204728d7261421192c1e281203a4a3b4af2575a56a3b033daf11d95f55600",
+          "reviewNote": "Classifies leaving a child unattended in a motor vehicle in the first degree as a class C felony."
+        },
+        {
+          "number": 4,
+          "title": "Elements of leaving child unattended in second degree",
+          "bodySha256": "716af7a37d6be53248357e6d8a2f56fd04c2d71288cb61c785af85bb92dd837a",
+          "reviewNote": "Defines the second-degree offense as knowingly leaving a child under eleven unattended in a motor vehicle when the child injures another person by causing a collision or causing the vehicle to injure a pedestrian."
+        },
+        {
+          "number": 5,
+          "title": "Classification as class A misdemeanor",
+          "bodySha256": "665612689d4f92178b6ff2241a49a2f83f4eef218bb39560f1f26afbf5b54086",
+          "reviewNote": "Classifies leaving a child unattended in a motor vehicle in the second degree as a class A misdemeanor."
+        }
+      ],
+      "reviewSummary": "Source-checked all 5 subsections of 577.300; verified alignment with archived source text."
+    },
+    {
+      "id": "577.599:30029",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.599&bid=30029",
+      "sourceSha256": "aafa20f2472624e991c4677650e0a07fc7f407a54bb2c43679c76968a2552d18",
+      "textSha256": "de4637b6deded3edcaaa3ed2e8b0aca7ad70d091d879f58da47c0ac085ce7445",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of failure to comply with interlock orders",
+          "bodySha256": "34c8b71b5736a1f484663c1544679c49b6ca837624505774bb161ce37835c841",
+          "reviewNote": "Defines the offense as knowingly operating a motor vehicle not equipped with a functioning certified ignition interlock device in violation of a court or department of revenue order."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class A misdemeanor",
+          "bodySha256": "60a75174aaf1ad7f02b8e8436172329149cd66c22d77ea22217bb7a1fbc4b8ed",
+          "reviewNote": "Classifies failure to comply with ignition interlock device requirements as a class A misdemeanor."
+        }
+      ],
+      "reviewSummary": "Source-checked both subsections of 577.599; verified alignment with archived source text."
+    },
+    {
+      "id": "577.600:30030",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.600&bid=30030",
+      "sourceSha256": "259e7a5b7ef0b706ae73bd359eafe63d2001ea2dc5f3d78d7198afdb7ac05b91",
+      "textSha256": "860034a0a500f6f723314db62fb31eac7d8db8b1f065128a6a2d3c05c9051c2b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of providing noncompliant vehicle to restricted driver",
+          "bodySha256": "baf5ca78d3ed2f7ff5c76fc0cd0974e17935f4a5c4de1bf2c2798638d2d54dc9",
+          "reviewNote": "Defines the offense as knowingly renting, leasing, or lending a vehicle to a person required to use an ignition interlock device on all operated vehicles unless the vehicle is equipped with a functioning, certified device."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class A misdemeanor",
+          "bodySha256": "c0001434fd3ea49dc10a899558759742380ba4c94b758cc553746f65f8dddf54",
+          "reviewNote": "Classifies renting, leasing, or lending a vehicle to a person required to comply with ignition interlock requirements as a class A misdemeanor."
+        }
+      ],
+      "reviewSummary": "Source-checked both subsections of 577.600; verified alignment with archived source text."
+    },
+    {
+      "id": "577.605:30034",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.605&bid=30034",
+      "sourceSha256": "d942625b87da497a2c443628054b5c724212660fb9b88f35be299b195456b0cb",
+      "textSha256": "16c25fb5ce41ef69f1d0760f32ef29df426f92867f1e744a817f9813ddcb510e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of failure to disclose interlock driving restrictions",
+          "bodySha256": "f98fa4a018f45e60eadfedb1c170f2eb4c0fa9e4ed3fcc35bc58f00f2b4a12a2",
+          "reviewNote": "Defines the offense as a person required to use an ignition interlock device on all operated vehicles knowingly failing to notify any person who rents, leases, or loans a vehicle to them of that requirement."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class A misdemeanor",
+          "bodySha256": "c30b4efa52dd660cc75c59dccc5f30369a32f20e1be8aab83a4e4312ea2b7b6b",
+          "reviewNote": "Classifies failing to notify another of ignition interlock requirements as a class A misdemeanor."
+        }
+      ],
+      "reviewSummary": "Source-checked both subsections of 577.605; verified alignment with archived source text."
+    },
+    {
+      "id": "577.612:30038",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.612&bid=30038",
+      "sourceSha256": "c897036eeb115b43ba2d51995ecae76bc498fe66a90a6401047623b9e8ffaaa5",
+      "textSha256": "930d271d0277720d9ddbb61ff00c18e21f9ec6f2766f81983189c0cec79506b0",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of tampering with or circumventing interlock devices",
+          "bodySha256": "4a8329315d67cebfad9b99ff9a8bc6f9844e3dcc0f935f12b8f668e299ab3afc",
+          "reviewNote": "Defines the offense as a restricted driver knowingly requesting or soliciting another to blow into or start an interlock-equipped vehicle, another person blowing into or starting it for a restricted driver, or tampering with or circumventing an ignition interlock device."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class A misdemeanor",
+          "bodySha256": "324011d1941f6cc863746fdfec99aa454b5ee0c541e2e4b14e233aea4eca092c",
+          "reviewNote": "Classifies tampering with or circumventing the operation of an ignition interlock device as a class A misdemeanor."
+        }
+      ],
+      "reviewSummary": "Source-checked both subsections of 577.612; verified alignment with archived source text."
+    },
+    {
+      "id": "577.665:30043",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.665&bid=30043",
+      "sourceSha256": "e620a0958c38fed7a73871715da4b25e25b66e9183b11dceb7c9e49687a46000",
+      "textSha256": "702b0be1d3a018ec6199a3c60759f208705a5e3f6d4af4deec1b01eb14bcab45",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions of tanning device and tanning facility",
+          "bodySha256": "f8ec00b46dde239fe750972f63e4aab7dbb1597878febbf1d92611dcb0b5152a",
+          "reviewNote": "Defines tanning device and tanning facility for purposes of the section."
+        },
+        {
+          "number": 2,
+          "title": "Annual in-person parental consent requirement for minors",
+          "bodySha256": "3a769b4339a0023d322d904a5f6dd96944ef13f48ee12920a280d5bb6a35588a",
+          "reviewNote": "Requires a parent or guardian to appear annually in person at the tanning facility and sign a written acknowledgment and consent before a person under seventeen uses a tanning device."
+        },
+        {
+          "number": 3,
+          "title": "Department rulemaking for standard consent form and nonseverability",
+          "bodySha256": "dacc735ca9b1c39ab2d8b432b4bbbcad9469ea5a7bf1df3891664bb9c45e8423",
+          "reviewNote": "Requires the department of health and senior services to adopt a standard consent form by rule under chapter 536 and section 536.028, with nonseverability voiding post-August 28, 2014 rules if legislative review powers are held unconstitutional."
+        },
+        {
+          "number": 4,
+          "title": "Graduated fines and separate offense treatment",
+          "bodySha256": "0f85eb71dea39c0bedeb2258226327b6298a9c2519222c4e8866653e7c65df2c",
+          "reviewNote": "Subjects violating tanning facilities to fines of $100 for a first violation, $250 for a second, and $500 for each subsequent violation, with every noncompliant use treated as a separate offense."
+        },
+        {
+          "number": 5,
+          "title": "Contingent effective date upon rule adoption",
+          "bodySha256": "7b3bff76de40e208ea5c0f5e27d0920cc6b988cfeba3723cc432ef388cd2baa8",
+          "reviewNote": "Provides that duties and penalties shall not take effect or be enforced until the standard consent form rule is adopted under subsection 3; the archived Revisor's Note records that 19 CSR 20-12.010 became effective April 30, 2015."
+        }
+      ],
+      "reviewSummary": "Source-checked all 5 subsections of 577.665; added separate-offense clause in subsection 4 and archived Revisor's Note date in subsection 5."
+    },
+    {
+      "id": "577.675:30044",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.675&bid=30044",
+      "sourceSha256": "9625e3dbb0e27c048c5bc3193f4625e9a15f69729ecd9965fd16fa461e118662",
+      "textSha256": "93bcc1a5efabdcd0319f8a1d81e7d247a5cfcaf2fb5689b879cda0051b44975f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of transporting an illegal alien",
+          "bodySha256": "cbb2ec51b0f160b3d576d09702069e6a7edc2fc848d57d413b475e9479a006e8",
+          "reviewNote": "Defines the offense as knowingly transporting, moving, or attempting to transport or move an illegal alien not lawfully present under 8 U.S.C. Section 1101, et seq., for trafficking (sections 566.200 to 566.215), drug trafficking (sections 579.065 and 579.068), prostitution (chapter 567), or employment."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class D felony",
+          "bodySha256": "56cd49954a70aecd0719021e8a39cb82c17945b5752c1a3a048869ab9ba9ff53",
+          "reviewNote": "Classifies transportation of an illegal alien as a class D felony."
+        },
+        {
+          "number": 3,
+          "title": "Preservation of federal trafficking victim rights",
+          "bodySha256": "d86876902b1dc886587ef12ad4f2daa552f3cfe1054289115519cfb569cc1043",
+          "reviewNote": "Provides that nothing in the section shall be construed to deny any victim of an offense under sections 566.200 to 566.215 rights afforded by the federal Trafficking Victims Protection Act of 2000 (Public Law 106-386, as amended)."
+        }
+      ],
+      "reviewSummary": "Source-checked all 3 subsections of 577.675; corrected subsection 1 elements, replaced fabricated class A misdemeanor in subsection 2 with class D felony, and replaced fabricated separate-offense heading in subsection 3 with federal TVPA victim rights."
+    },
+    {
+      "id": "577.685:34720",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.685&bid=34720",
+      "sourceSha256": "cd29abb0d88d95dcc9834a99aaa1cabed58b41d33454bd549b400c4892d1174f",
+      "textSha256": "810fa58c03491603d99e5d2f47d66199911a07d013d2395c589c4773fdda9c34",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of the offense of illegal reentry",
+          "bodySha256": "33bbfa5ed177a8623a0fe69b989f08af5e90974449853be9585fae0540b5bbc7",
+          "reviewNote": "Defines illegal reentry as committing specified offenses (chapter 565 misdemeanor assault/domestic assault, section 556.061 dangerous felony, chapter 579 felony except marijuana possession, or section 570.030 or 570.217 offense) after removal under 8 U.S.C. Section 1326(b), either after illegally entering Missouri or in another state before entering Missouri; source footnote notes the word 'in' before 'section 556.061' does not appear in original rolls."
+        },
+        {
+          "number": 2,
+          "title": "Classification as class C felony",
+          "bodySha256": "a94a9f7c5742aa3d4ee50b614ebcfebd6e115a2ed22331cffef06e87af9f6a88",
+          "reviewNote": "Classifies the offense of illegal reentry as a class C felony."
+        }
+      ],
+      "reviewSummary": "Source-checked both subsections of 577.685; corrected subsection 1 predicate offenses and source footnote, and removed fabricated class D felony from subsection 2."
+    },
+    {
+      "id": "577.703:30048",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.703&bid=30048",
+      "sourceSha256": "8d98fdca9d66bea10e840e5de1c3444513ac66df1697031c0441fce2ca6af18a",
+      "textSha256": "da0ccdfc4727fcd69389ec158b1505a616567413edeb71cafcccfc713f0af20c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements and class B felony penalty for bus hijacking",
+          "bodySha256": "2d6a220c6a68f13153e3ee32062d8a776b4f21262364896ff4b03e513fd6518f",
+          "reviewNote": "Defines bus hijacking as seizing or exercising control of any bus by force, violence, or threat thereof, and classifies it as a class B felony."
+        },
+        {
+          "number": 2,
+          "title": "Elements and class D felony penalty for assault intending hijacking",
+          "bodySha256": "c425918c07c2ec375d5dfa0f5923863b29786584a67d25b5fd1fe0da25db059d",
+          "reviewNote": "Defines assault with intent to commit bus hijacking as intimidation, threat, assault, or battery toward a bus driver, attendant, or guard interfering with duties, and classifies it as a class D felony."
+        },
+        {
+          "number": 3,
+          "title": "Class A felony penalty for armed assault intending hijacking",
+          "bodySha256": "07fb6af42ba22869195583d4ecd0488c9da94dd0789ce97a668b4de6ed4b8fe3",
+          "reviewNote": "Classifies employing a dangerous or deadly weapon or other means capable of inflicting serious bodily injury during an offense under subsection 2 as a class A felony."
+        },
+        {
+          "number": 4,
+          "title": "Concealed weapon on bus and law enforcement or consent exemptions",
+          "bodySha256": "964f12a5bcaaeb279114f488d276ff73789439c8d7c330a0d7f985c96c36ace3",
+          "reviewNote": "Classifies boarding a bus as a passenger with a concealed dangerous or deadly weapon or serious-injury means as a class D felony, exempting law enforcement officers and commercial security personnel within the scope of employment and persons with consent of the bus owner, agent, lessee, or bailee."
+        }
+      ],
+      "reviewSummary": "Source-checked all 4 subsections of 577.703; corrected felony classes in subsections 1 (class B, not A) and 2 (class D, not B) and corrected subsection 4 scope, class D penalty, and exemptions."
+    },
+    {
+      "id": "577.706:30049",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.706&bid=30049",
+      "sourceSha256": "559fe684b64b75414ca4015d92189537668ed9d94494dfc65271c165b494435c",
+      "textSha256": "17a6dedc016cae9043c56f8389d1d89ed2331e91b386ef89bbe93154cb5739fe",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements and class A felony penalty for planting explosives",
+          "bodySha256": "8bf6928444eade424392a690b5f23014de953c5da1c0abfeda52a0c3d282a163",
+          "reviewNote": "Defines planting a bomb or explosive in, upon, or near a bus or terminal containing persons or goods/merchandise of value, and classifies the offense as a class A felony."
+        },
+        {
+          "number": 2,
+          "title": "Class D felony penalty for threatening explosive placement",
+          "bodySha256": "1550d99aff537466cf2501ed501fed89679fd98ad1c5a2c6f0c9aa832e9f8b23",
+          "reviewNote": "Classifies threatening to commit the offense of planting a bomb or explosive in or near a bus or terminal as a class D felony."
+        },
+        {
+          "number": 3,
+          "title": "Class B felony penalty for discharging firearm or hurling missile",
+          "bodySha256": "bdd5b9d644ff004165e2d882b80c9be724990fccb0a1e80857685c671611bb89",
+          "reviewNote": "Classifies discharging any firearm or hurling any missile at, into, or upon any bus, terminal, or other transportation facility as a class B felony."
+        }
+      ],
+      "reviewSummary": "Source-checked all 3 subsections of 577.706; realigned shifted subsections 1-3 and added the class B felony firearm/missile offense in subsection 3."
+    },
+    {
+      "id": "577.709:30050",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.709&bid=30050",
+      "sourceSha256": "9b0e9399e953679d0af38d7bc2618cefd3b7aa9ceb315efe72e3004bb0d002b9",
+      "textSha256": "be65b1424aef0b59e15bcf87f36b5b1603a9b30d6bb365ecc88bb981f0c31e07",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibited conduct, intoxication, and exceptions on buses and terminals",
+          "bodySha256": "fa59321e738c3eeeb61155434bf2c03d2a71a0966621fc21bfb7c42ff731dca3",
+          "reviewNote": "Prohibits threatening a breach of the peace, using obscene/profane/vulgar language, being under the influence of alcohol or unlawfully under the influence of or possessing a controlled substance (unless prescribed), drinking intoxicating liquor on a passenger bus (except a chartered bus), or failing to obey reasonable driver or company representative orders on a bus, in a terminal, or on contiguous property."
+        },
+        {
+          "number": 2,
+          "title": "Authority of bus driver to remove violating passengers",
+          "bodySha256": "ba25deb7c0739a2bd4f3cd773bdb6909628b81b563989210a58ee7c8037ee4e2",
+          "reviewNote": "Provides that the bus driver or person in charge may stop the bus where the violation occurs or at the next regular or convenient stopping place and require the violating person to leave the bus."
+        },
+        {
+          "number": 3,
+          "title": "Classification as class C misdemeanor",
+          "bodySha256": "dbd2d38fcaadefe9a47446c3e9e7aa8bfc09de082ff08785268eece336f268d1",
+          "reviewNote": "Classifies any violation of the section as a class C misdemeanor."
+        }
+      ],
+      "reviewSummary": "Source-checked all 3 subsections of 577.709; added chartered-bus and prescription exceptions and order-disobedience element in subsection 1, and confined subsection 2 to bus removal."
+    },
+    {
+      "id": "577.712:30051",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.712&bid=30051",
+      "sourceSha256": "f3dbec8ce4f3713074234351a4ac2b2a3f176662687f9be89363d869b107ef1a",
+      "textSha256": "02694ac7f8f1d9e87546a7f290e4a6bcb1584a773ccb10f6828d8b0d58f771de",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Refusal of terminal admission, identification requests, and disorderly conduct",
+          "bodySha256": "1174315b56d7bbe02ef2d47b9ffa0eb3a54466f939be4a0bf02b19b4f5ab0d6e",
+          "reviewNote": "Provides that a bus company may refuse terminal admission to persons without bona fide business consistent with law, authorizes representatives to request identification, business purpose, and departure, and classifies refusal to leave as disorderly conduct, a class C misdemeanor."
+        },
+        {
+          "number": 2,
+          "title": "Prohibition on weapons, explosives, or hazardous materials and custody",
+          "bodySha256": "a91af1cb68711d6867c853e445f9535c8f9ca26abade240e9687ff1eb23e1de7",
+          "reviewNote": "Prohibits carrying a deadly or dangerous weapon, explosive, or hazardous material into a terminal or aboard a bus as a class D felony, and provides that the company may obtain and retain custody of discovered items until transfer to law enforcement."
+        }
+      ],
+      "reviewSummary": "Source-checked both subsections of 577.712; added disorderly conduct class C misdemeanor to subsection 1 and replaced fabricated penalty heading in subsection 2 with the class D felony weapons/explosives/hazardous materials prohibition and carrier custody provision."
+    },
+    {
+      "id": "577.800:60674",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=577.800&bid=60674",
+      "sourceSha256": "78e530bfea3610303089af0b0c3b121463d3e80c6f35c444c784be0a8315e5ea",
+      "textSha256": "c24f228d8a4bea526902edff182589e93516dec7b22f6e083ba1b60d9e4d8f0e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_14",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_16",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Elements of unlawful unmanned aircraft operation over facilities",
+          "bodySha256": "eb55b15163f1e0295a165edaabfc5486dae1589cbfca2c3a5f9fd371557fb5f9",
+          "reviewNote": "Defines the offense as purposely operating an unmanned aircraft within 400 feet vertically and inside the property line of an open-air facility, delivering specified prohibited objects to an open-air facility, using one within a critical infrastructure facility boundary, or operating within 400 feet and the property line of a critical infrastructure facility in furtherance of a criminal violation."
+        },
+        {
+          "number": 2,
+          "title": "Definitions of open-air and critical infrastructure facilities",
+          "bodySha256": "01fab13f7299ed78f7c8cba47a6457baf1010a8ecef3fb23d8491eca03f17f40",
+          "reviewNote": "Defines open-air facility (sports, theater, music, performing arts, or entertainment facility with capacity of 500 or more not completely enclosed) and incorporates the section 569.086 definition of critical infrastructure facility."
+        },
+        {
+          "number": 3,
+          "title": "Authorized exceptions for facility operators, officials, utilities, and railroads",
+          "bodySha256": "ecffb0afe10e7b7b7d8ea09362038425424802734558491f24bd147b1a960437",
+          "reviewNote": "Exempts facility employees/owners/operators for monitoring or maintenance, persons with written CEO/president consent, law enforcement/fire/EMS and government officials in official duties, public utilities and rural electric cooperatives under specified conditions, and FRA-regulated railroad employees on railroad land."
+        },
+        {
+          "number": 4,
+          "title": "Classification as infraction or tiered felony",
+          "bodySha256": "3c641d2e4e937cfd4decc4d91562429cc88fba010263ca4ff18d3b3e49fd7868",
+          "reviewNote": "Classifies violations as an infraction, elevated to a class B felony for delivering a gun, knife, weapon, or life-endangering article/explosive or a class D felony for delivering a controlled substance under section 195.010."
+        },
+        {
+          "number": 5,
+          "title": "Warning signage requirements for protected facilities",
+          "bodySha256": "dcfb5347f1313aad19c0ec7a0d345bb74b96ee9df98b3d89b1858023a8cf919e",
+          "reviewNote": "Requires each open-air facility or critical infrastructure facility to post a conspicuous warning sign measuring at least eleven by fourteen inches."
+        },
+        {
+          "number": 6,
+          "title": "Exemption for FAA-authorized lawful commercial operations",
+          "bodySha256": "44fbef0ac163c0237dc39544f21f131e69bd28093940fb46c551d80c30db3366",
+          "reviewNote": "Exempts operators using an unmanned aircraft for a lawful commercial purpose when authorized by the Federal Aviation Administration to conduct lawful operations in that airspace."
+        }
+      ],
+      "reviewSummary": "Source-checked all 6 subsections of 577.800 (archived notes record split 2026 effective dates: 6-12-26 for H.B. 2637 & 3155 and 7-09-26 for S.B. 1421); refined details across subsections 1-4."
+    }
+  ]
+}
