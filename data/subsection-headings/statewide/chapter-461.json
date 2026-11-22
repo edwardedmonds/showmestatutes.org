@@ -1,0 +1,875 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "461.012:25828",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.012&bid=25828",
+      "sourceSha256": "bf9924a3e320cf939c77440c6de1fb0f9b723710a89f6f7a595b91acaa3ff6af",
+      "textSha256": "a78fb31d3796d5c04c9b3ee57ea0290867a690234878e9e9cd31a7a6fc86ee35",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Nonprobate transfer agreements between owner and transferring entity",
+          "bodySha256": "57c2def70545f8671592d5ec3323af70db3638b37f5bff6bac2de52fc3cdfbde",
+          "reviewNote": "Covers nonprobate transfer provisions as contractual agreements between owner and entity under mutually agreed terms."
+        },
+        {
+          "number": 2,
+          "title": "No statutory obligation on entity to accept nonprobate transfer request",
+          "bodySha256": "7bdfa0fb45889dbf3181ac6807f1d3cfa4f6968276d90b3b0977545e259b48f8",
+          "reviewNote": "Covers rule that nonprobate transfer statutes do not mandate transferring entity acceptance of owner requests."
+        },
+        {
+          "number": 3,
+          "title": "Entity acceptance relation back to time of request receipt",
+          "bodySha256": "a6ecd8c7e38fccb83251f78011d8bebf12fda6a12baaf9fa30209342293e1093",
+          "reviewNote": "Covers relation back of transferring entity acceptance to the date and time when the request was received."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections against archived text: nonprobate transfers as owner-entity agreements, absence of statutory acceptance obligation, and relation back of acceptance to receipt."
+    },
+    {
+      "id": "461.023:25831",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.023&bid=25831",
+      "sourceSha256": "ef6bcb8d79799fca101d636bab217bffa931ec815cb24ab811af5396af6c8fc3",
+      "textSha256": "5f48beb5fa086c3907780de208f1606b5ca42c0898a4c43750071801c3c5611d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written assignment of contract rights effective on death",
+          "bodySha256": "b8ba567a78e71915c3a60731843dadf704cd08f4d43a614ca9511eddc6bf8997",
+          "reviewNote": "Covers written assignments of contract performance taking effect on death, delivery or acknowledgment, and no consideration requirement."
+        },
+        {
+          "number": 2,
+          "title": "Other lawful contract assignment methods preserved",
+          "bodySha256": "b0ddd8c778ce6d10b02188ec67bd0026619f78f0a9453b13a7bff9ad7dea63a3",
+          "reviewNote": "Covers preservation of other lawful assignment methods that postpone contract enjoyment until the owner's death."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified both subsections against archived text: written contract-right assignments effective on death (without consideration or delivery to beneficiary) and preservation of other lawful assignment methods."
+    },
+    {
+      "id": "461.025:25832",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.025&bid=25832",
+      "sourceSha256": "cc6d0d6ed57122904221700693bc4d57ed222a2fd857c0b416c42f49d4d31860",
+      "textSha256": "b281092066da6128e7e7c4f2ab6b889a71b6aa67aa57f4b2450f8dda7eff8458",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Beneficiary deeds conveying real property effective on death",
+          "bodySha256": "cd439aea4af31967c6a0d460a1cc2332a78d0be1f0f695fe0db81ac43a901300",
+          "reviewNote": "Covers execution and recording of beneficiary deeds conveying real property on death, lack of consideration, and transfers to trusts."
+        },
+        {
+          "number": 2,
+          "title": "Other conveyancing methods and post-death recording preserved",
+          "bodySha256": "d3e9d883817a75d67fa526f20a97a77b6ae2fc83d4dd088e8ff5d71e754d0cbd",
+          "reviewNote": "Covers preservation of other lawful conveyancing methods and deeds otherwise effective not recorded until after death."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified both subsections against archived text: recorded beneficiary deeds effective on death (including transfers to trusts) and preservation of other conveyancing methods and post-death recording."
+    },
+    {
+      "id": "461.026:25833",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.026&bid=25833",
+      "sourceSha256": "24e02f47ebcb4455ec92b5ced1748cdf5276bf14d8686b89859562842928bdc8",
+      "textSha256": "8ae72299105a873b314ba084e4520ba3e6a4271ca9de0aeafb407ca58d36ae1e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Beneficiary transfer instruments for tangible personal property",
+          "bodySha256": "9d61c2919227fd1e1d60e92e58619f4aa368c3f8ef9e1c1bdc2fd33049e7cd86",
+          "reviewNote": "Covers deeds of gift or bills of sale transferring tangible personal property on death, execution, acknowledgment, and delivery rules."
+        },
+        {
+          "number": 2,
+          "title": "Other personal property transfer methods preserved",
+          "bodySha256": "3523ed5bc49ed203a2efd081d0ba6d469f0f7b35e991a85077e01f3528ab0d91",
+          "reviewNote": "Covers preservation of other lawful methods transferring personal property ownership postponed until death."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified both subsections against archived text: acknowledged beneficiary transfer instruments for tangible personal property effective on death and preservation of other lawful methods."
+    },
+    {
+      "id": "461.027:25834",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.027&bid=25834",
+      "sourceSha256": "e4798022207b5b70bc753a957bf022a3d407e2f90b25c4bfddba0d77631c8726",
+      "textSha256": "76e1917648f0ed97f8cf86a16a6bb273b62909385f82b8d40034ad4a33b1d000",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Direct transfer to transferee holding as owner in beneficiary form",
+          "bodySha256": "e6f9bfb08c39c776db51e58b6c80c89c0afd9cdb431776af6b7585488e0a32f6",
+          "reviewNote": "Covers direct property transfers to transferees to hold as owners in beneficiary form with or without consideration."
+        },
+        {
+          "number": 2,
+          "title": "Transferee ownership rights including revocation and change",
+          "bodySha256": "8b9423901269256044bca9d1cebe450cfb4188d89ba8a08f0f877f4437fd2738",
+          "reviewNote": "Declares a transferee under subsection 1 to be the owner for all purposes with all legal ownership rights, including the right to revoke or change the beneficiary designation."
+        },
+        {
+          "number": 3,
+          "title": "Effective time of direct transfer in beneficiary form",
+          "bodySha256": "df431555fa2803eb11740dd4b59056a918a33518fd22b7e69d58a78f6c5b04f5",
+          "reviewNote": "Provides that a direct transfer to a transferee to hold as owner in beneficiary form takes effect when the writing perfecting the transfer becomes effective to make the transferee the owner."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified subsection 1 and replaced inaccurate/hallucinated draft headings in subsections 2 (transferee ownership rights including revocation/change) and 3 (effective time of direct transfer, not life estates/concurrent interests)."
+    },
+    {
+      "id": "461.028:25835",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.028&bid=25835",
+      "sourceSha256": "1551fb858442e3130390616cd574515ed28bb0b18536d3294bc40306020c39ea",
+      "textSha256": "d28afcfa551f801673a805a7a2126c586e75fd5ff7ed05c47a72ea68d7c0fd08",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Registration of property in beneficiary form",
+          "bodySha256": "87f18b6ac888058680e55bad937fd9592986ee4c8d13c978529b4fb5c9d7aad2",
+          "reviewNote": "Covers holding and registering property in beneficiary form by including transfer on death directions in title."
+        },
+        {
+          "number": 2,
+          "title": "Statutory wording and abbreviations for transfer on death registration",
+          "bodySha256": "e9bcf7d7e10170a9e56602cf17c020d3d4e89811cf6cfa9b46e3d139eb72234e",
+          "reviewNote": "Covers approved phrasing including transfer on death to, pay on death to, and abbreviations TOD or POD."
+        },
+        {
+          "number": 3,
+          "title": "Authority required to place transfer on death direction on records",
+          "bodySha256": "5fb3ce4b32b0f57a53b7ba0d50c6dbade251ae4a64a8afd5cfb47bd4042c0c9c",
+          "reviewNote": "Covers rule that transfer on death directions may only be placed on records by transferring entities or authorized persons."
+        },
+        {
+          "number": 4,
+          "title": "Effective transfer on death upon pre-death registration or delivery",
+          "bodySha256": "9b0968e120e7fc4f20db0164020720a12668a1ab4cb715291d38a9a0a611f80f",
+          "reviewNote": "Covers effective transfer of owner's interest to designated beneficiary upon death if registered or request delivered prior to death."
+        },
+        {
+          "number": 5,
+          "title": "Conclusive evidence of regular registration and record retention limit",
+          "bodySha256": "ddf6c18b0e250560b25c1f7306bbd4786c1229a16e1de7e45654818c66820e8d",
+          "reviewNote": "Covers registration as conclusive evidence absent fraud or clerical error, and six-month record retention rule following account statement."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 5 subsections against archived text: beneficiary-form registration, TOD/POD wording, entity placement authority, pre-death registration/delivery effect, and conclusive evidence with 6-month record retention limit."
+    },
+    {
+      "id": "461.031:25836",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.031&bid=25836",
+      "sourceSha256": "94108c39d9b609b448da4a6535299d87af8080e4965722c69ede1d090c26cd0c",
+      "textSha256": "792ef214ce5202ee4b6bef3ec98a4931fd54c908f23ac0576c26de06226cf99c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Beneficiary has no lifetime rights or transaction consent authority",
+          "bodySha256": "4847e1e96a147d035efccd016e5391323495bb404ba8f792e843306778e96a92",
+          "reviewNote": "Covers rule that designated beneficiaries have no property rights prior to owner's death and consent is not required for transactions."
+        },
+        {
+          "number": 2,
+          "title": "Survivorship rights of joint owners take precedence",
+          "bodySha256": "26690d5cbe753a0e58e0d2a69c70a309ff8473234b5ca85e9628de5c28442747",
+          "reviewNote": "Covers rule that upon death of one joint owner, property belongs to surviving joint owners and beneficiary designation remains pending."
+        },
+        {
+          "number": 3,
+          "title": "Passage of property by operation of law on owner's death",
+          "bodySha256": "a1f1f7cf4c46b81e859ce496bbf60bb7c8a0e19df5caee8fb102744ce5cc1d0e",
+          "reviewNote": "Covers automatic passage of property to designated beneficiary by operation of law upon owner's death."
+        },
+        {
+          "number": 4,
+          "title": "Tenancy in common among surviving beneficiaries absent survivorship",
+          "bodySha256": "90eb945925532515151175578559cd019cf5e71c43e811c0195f3c0d193527da",
+          "reviewNote": "Covers rule that multiple surviving beneficiaries hold as tenants in common unless designation expressly provides for survivorship."
+        },
+        {
+          "number": 5,
+          "title": "Property passes to owner's estate if no beneficiary survives",
+          "bodySha256": "621e0d5a0edb4fccc509b000b41345ad3441e3f5a37db114ef71fe8f3e0a411c",
+          "reviewNote": "Covers reversion of property to the owner's probate estate if no designated beneficiary survives the owner."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 5 subsections against archived text: no lifetime beneficiary rights, joint owner survivorship precedence, passage by operation of law, tenancy in common among multiple beneficiaries, and reversion to owner's estate."
+    },
+    {
+      "id": "461.033:25837",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.033&bid=25837",
+      "sourceSha256": "c2a7a5cc297dcdee0a7e8be16a2d05282ae743a61e30abca1f51092fe5156912",
+      "textSha256": "5766ca4445fd30a69e0d11dcd55303245a050a3a1c7fddf9484629b42bf33450",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Owner right to revoke or change beneficiary designation",
+          "bodySha256": "f6f7d8391197c3273d322c5d557ee61341918df5070542186903b3e8d9da476f",
+          "reviewNote": "Covers owner's unilateral authority to revoke or change beneficiary designations prior to death without beneficiary consent."
+        },
+        {
+          "number": 2,
+          "title": "Subsequent beneficiary designation revokes prior designation",
+          "bodySha256": "f1f7425ea5399a2c178bf9b34228a307e2b4396ff2ede87e7fdaea1089379a81",
+          "reviewNote": "Provides that a subsequent beneficiary designation revokes a prior beneficiary designation unless the subsequent designation expressly provides otherwise."
+        },
+        {
+          "number": 3,
+          "title": "Compliance with instrument, entity rules, and applicable law",
+          "bodySha256": "6d5cb1ea1e8d0b21d3898e29e8c45d15361363c10eb87041127c1d254f6864fc",
+          "reviewNote": "Requires any revocation or change in a beneficiary designation to comply with the governing instrument, transferring entity rules, and applicable law."
+        },
+        {
+          "number": 4,
+          "title": "Beneficiary designations not revocable by will absent express grant",
+          "bodySha256": "fcfcdcb38ede5de5bb4fc456db3ee3ee4a3a2730186d10b0e72c2a35960c9c85",
+          "reviewNote": "Covers rule that beneficiary designations cannot be revoked or changed by will unless designation expressly authorizes testamentary change."
+        },
+        {
+          "number": 5,
+          "title": "Lifetime property transfer terminates beneficiary designation",
+          "bodySha256": "ef3adc0401647c99ccc44372a5a7861685bdf72d254ef62b3bbcf6688c652dbe",
+          "reviewNote": "Covers rule that lifetime transfer of owner's property interest terminates the beneficiary designation with respect to that property."
+        },
+        {
+          "number": 6,
+          "title": "Determination of effective date of revocation or change",
+          "bodySha256": "19c5e9876a985766b8b186c93d94b452cbfeac2956e03d0428310c8dac9d388e",
+          "reviewNote": "Covers determination of effective dates for revocations and changes in the same manner as original beneficiary designations."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified subsections 1 and 4\u20136 and replaced wrong draft headings in subsections 2 (subsequent designation revokes prior designation) and 3 (compliance with governing instrument, entity rules, and applicable law)."
+    },
+    {
+      "id": "461.035:25838",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.035&bid=25838",
+      "sourceSha256": "d1fb896758b0d06476ed8b56113152d6816a38709269bcf0d3e62f6c636d9874",
+      "textSha256": "54eec996dbe9b2c713f6d3e192ecfac7a3ed32b980e4ab9ac897ca18e6624db2",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Agent authority to make or revoke beneficiary designations",
+          "bodySha256": "46ddc74736560910c8e5db68d79197c7ce7c66ea3e93b466bf01daf41dc63d9f",
+          "reviewNote": "Covers rule that attorneys-in-fact, conservators, or agents cannot make or change designations absent express document or court authority."
+        },
+        {
+          "number": 2,
+          "title": "Present transfer by authorized agent extinguishing beneficiary rights",
+          "bodySha256": "bad3f95dd7726a08d94621d8bca765c860ce8a6e24bc38e6f46f7de93034be3d",
+          "reviewNote": "Covers validity of authorized present withdrawals, sales, or transfers by agents even if extinguishing beneficiary expectancy."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified both subsections against archived text: bar on agent beneficiary changes absent express document or court authority, and preservation of authorized present transfers extinguishing beneficiary expectancy."
+    },
+    {
+      "id": "461.039:25840",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.039&bid=25840",
+      "sourceSha256": "c36b884c3c8dca7d196dc8b3a62272508f35e8b528e7d2ba39b9a9825b7dc7ca",
+      "textSha256": "9745c7f48a9a8266b947797e97c74924b29670ca9204f2ba681ff1fa58599fc5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Beneficiary takes property subject to lifetime encumbrances and liens",
+          "bodySha256": "f255b384352189ca4fb49fb6c8edbfe998d4fbae2321cdc5eb098791e7b2f915",
+          "reviewNote": "Covers rule that nonprobate transferees take property subject to all conveyances, contracts, liens, and security interests of owner."
+        },
+        {
+          "number": 2,
+          "title": "Account beneficiaries subject to unsatisfied lifetime payment requests",
+          "bodySha256": "5754c1025b441ddc42f5421d2ae6d4a31744d9275c7cb9b71f4af3c9c5b30905",
+          "reviewNote": "Covers account beneficiary liability for owner's unpaid lifetime payment requests, estate subrogation, pro rata liability, and contribution."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified both subsections against archived text: beneficiaries taking subject to lifetime encumbrances/liens and account beneficiary liability/subrogation/contribution for owner's lifetime payment requests."
+    },
+    {
+      "id": "461.042:25841",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.042&bid=25841",
+      "sourceSha256": "4db15cdb037a7b98339d4eb3bd6af29b0bfc8aae12a5bc52053eb26aca9d2d98",
+      "textSha256": "2c0669d4a073f2b9fa502970921fd39ef27e20c6bc28eb8e8bb82e2fcf153d92",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "One hundred twenty-hour survival requirement for beneficiaries",
+          "bodySha256": "fc6956a5a341e2a5855d892d85960ad01ac2f511e6c8cc0940ab28f195e67935",
+          "reviewNote": "Covers statutory requirement that nonprobate transfer beneficiaries survive the owner by 120 hours to take property."
+        },
+        {
+          "number": 2,
+          "title": "Different survival periods specified by agreement or instrument",
+          "bodySha256": "5231d9c15dfed1401e9437bb6cb2b80ee831ee59d42f8563a2cdd9cbe8c439de",
+          "reviewNote": "Covers authorization for owners and transferring entities to specify different survival periods or presumptions in instruments."
+        },
+        {
+          "number": 3,
+          "title": "Inapplicability to joint tenancy survivorship rights",
+          "bodySha256": "1497ecade4aef5afaf5e784db4935ba956aa70357ea20f0addc41d869178b9ea",
+          "reviewNote": "Covers provision that statutory 120-hour survival requirement does not apply to survivorship rights of joint owners."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections against archived text: 120-hour survival requirement, alternative agreed/instrument survival periods, and inapplicability to joint owner survivorship."
+    },
+    {
+      "id": "461.043:25842",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.043&bid=25842",
+      "sourceSha256": "9a135470bad5ace26ac98e9c5a7d2f98f194fcb24157b4acb8dd1ca457b88bbe",
+      "textSha256": "6f80285ff43c690248789384479a7a48215463350db9b585db04a9dc8dbe6663",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Validity of trustee designation under amendable or revocable trust",
+          "bodySha256": "499f39262b339343d5a90482a24c6d817ac50dfa2ff4e24e04e97d8dac412126",
+          "reviewNote": "Covers rule that designating a trustee under an amendable, revocable, or post-designation amended trust is valid."
+        },
+        {
+          "number": 2,
+          "title": "Pre-death revoked or terminated trust deemed non-surviving",
+          "bodySha256": "4985940bfc2976815dec8d310d855db701d57adaf594fd22166bb195f1d84cdc",
+          "reviewNote": "Covers rule that a designated trust revoked or terminated prior to the owner's death is deemed not to have survived the owner."
+        },
+        {
+          "number": 3,
+          "title": "Non-existent entity or trust deemed non-surviving",
+          "bodySha256": "1e45a9273bae1ddb18175a92a95f9fd87219fb1dfc468cf79179bd10e3c2f4d3",
+          "reviewNote": "Covers rule that legal entities or trusts not in existence at owner's death are deemed not to have survived the owner."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections against archived text: validity of designations to amendable/revocable trusts and nonsurvival treatment of pre-death revoked/terminated or nonexistent trusts and entities."
+    },
+    {
+      "id": "461.045:25843",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.045&bid=25843",
+      "sourceSha256": "8b281d83bb7077d2d5482020ee7b72f4ef75de36db686b896182d2c1b4519b94",
+      "textSha256": "80aaf081c893014820a973832a863e315465fceef0149a822882cf6884abb659",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Lineal descendants per stirpes substitute for deceased descendant",
+          "bodySha256": "598e9b730a7ba9392975a57235fa7140cc331ea8f574af5104145b5758e5df46",
+          "reviewNote": "Covers rule that deceased lineal descendant beneficiary shares pass to their surviving descendants per stirpes absent no LDPS notation."
+        },
+        {
+          "number": 2,
+          "title": "LDPS designation for non-lineal descendant beneficiaries",
+          "bodySha256": "ce4836fb17e3066f8eae8071209d3b2d98b69f94f181b798c5abceed4a8bbcd7",
+          "reviewNote": "Covers express authorization to add LDPS or lineal descendants per stirpes notation to non-descendant beneficiary designations."
+        },
+        {
+          "number": 3,
+          "title": "Per stirpes distribution by representation among unequal degrees",
+          "bodySha256": "19211963cb0ff49ea1b944ef8a1edec4b12c5165bba113c5d56ff10c301042c1",
+          "reviewNote": "Covers distribution equally among descendants of same degree and by representation for descendants of more remote degrees."
+        },
+        {
+          "number": 4,
+          "title": "Intestate succession rules determine substitute proportions",
+          "bodySha256": "ca873c65e4173e9799d8922dfa7cfc47cde9e3f7043cedb9f4782bbd858bc8db",
+          "reviewNote": "Covers application of Missouri intestate personal property succession laws to determine substitute proportions among descendants."
+        },
+        {
+          "number": 5,
+          "title": "Failure of substitute descendants reverts to surviving beneficiaries",
+          "bodySha256": "c1ea6aaf7380e07d40d2f65951a39a753552b57f642fd772e8700101e2d3d321",
+          "reviewNote": "Covers passage of deceased beneficiary share to other surviving beneficiaries or estate if no lineal descendants survive."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 5 subsections against archived text: lineal descendant per stirpes substitution (absent \"no LDPS\"), express LDPS for non-descendants, representation distribution, intestate proportions, and fallback if no descendants survive."
+    },
+    {
+      "id": "461.051:25845",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.051&bid=25845",
+      "sourceSha256": "b6591f332f67826f6f4f79b743f157366b3fca4b8dc18ff15a5ac4106cfcaec7",
+      "textSha256": "77fcddee1d987ddbb2bfef314d4dc269f7f43edf5c55bcaa9736eb9de6751a04",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Automatic revocation of provisions for former spouse upon dissolution",
+          "bodySha256": "656facced838e88919fd53df2761c0364f206837b3c35e2ea0e77733f7528cfa",
+          "reviewNote": "Covers automatic revocation of beneficiary designations in favor of former spouse or former spouse's relatives upon divorce or annulment."
+        },
+        {
+          "number": 2,
+          "title": "Exceptions for irrevocable designations or post-dissolution agreements",
+          "bodySha256": "eca2d5df4ae0d9bc5393705cb8c9a9f2b81320cc95408d853356677df4d5bc7e",
+          "reviewNote": "Covers exceptions for irrevocable designations, express post-dissolution designations, and agreements maintaining beneficiary status."
+        },
+        {
+          "number": 3,
+          "title": "Revival of revoked provisions upon remarriage to former spouse",
+          "bodySha256": "8d4d9599012af583efc40d63a80091598e3bc8f86534f3bd46a2711f2eb7d9b7",
+          "reviewNote": "Covers statutory revival of revoked beneficiary provisions upon remarriage to former spouse or nullification of divorce."
+        },
+        {
+          "number": 4,
+          "title": "Relative of former spouse defined",
+          "bodySha256": "23fb8013490133cd4f6088195a1deed1ff600028e20b8797007953b6cd5e882b",
+          "reviewNote": "Covers statutory definition of relative of former spouse related by blood, adoption, or affinity who is not related to owner."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 4 subsections against archived text (noting 2001 Egelhoff ERISA preemption annotation): divorce/annulment revocation for former spouse and relatives, exceptions, remarriage/nullification revival, and definition."
+    },
+    {
+      "id": "461.054:25846",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.054&bid=25846",
+      "sourceSha256": "036fbbdba35fe2434571aca11ab4b95cf695f4d523495d111309a8ce71155f21",
+      "textSha256": "a98d27ee59f01407c66e821855fa9c246f2373430ea88b31eb440bfe7329a15e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Beneficiary designations procured by fraud, duress, or undue influence void",
+          "bodySha256": "8061d696e71b43577c0e455db04c90df5d750f1ed1262516a2cedc397959c33a",
+          "reviewNote": "Covers invalidation and void status of beneficiary designations or revocations procured through fraud, duress, or undue influence."
+        },
+        {
+          "number": 2,
+          "title": "Disqualification of beneficiary causing death of owner or insured",
+          "bodySha256": "78ce3c96c02ba708ef41f5abcafdbd86632dd56b88721780a748d9d796e02441",
+          "reviewNote": "Covers slayer rule disqualifying beneficiaries willfully causing death of owner or insured, treating disqualification as disclaimer."
+        },
+        {
+          "number": 3,
+          "title": "Petition to determine voidness or disqualification, mitigation, and jury",
+          "bodySha256": "72faa5bb30792514e43d456aa0211de8e397e9b09e23b53b794324d0bd22bddb",
+          "reviewNote": "Authorizes any interested person or transferring entity to petition the trier of fact to determine voidness under subsection 1 or slayer disqualification under subsection 2, allows justice-based mitigation, and grants a right to demand a jury trial."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified subsections 1 and 2 (noting 1998 Groh and 2014 Ivie annotations) and broadened subsection 3 heading/reviewNote to cover petitions on both voidness and slayer disqualification, mitigation, and jury trial demand."
+    },
+    {
+      "id": "461.059:25847",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.059&bid=25847",
+      "sourceSha256": "01b86facaea7ab9ea942ada510f487bdb34cca5933589369c990d1fd21f77939",
+      "textSha256": "c28de2e9c20293c0e14255d0f86c21bac61f9ea2ac88e60af182c7a05f26ba22",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Omitted spouse and child pretermission statutes inapplicable",
+          "bodySha256": "11db05b01d61bf9059170709e116da47ffdd39c567cf2e41873167e582f30e76",
+          "reviewNote": "Covers rule that testamentary pretermission statutes protecting omitted spouses or children do not apply to nonprobate transfers."
+        },
+        {
+          "number": 2,
+          "title": "Class gift designations include after-born and adopted children",
+          "bodySha256": "541f85ea4c98e87e3fec4a375072d151de16dc5c966d0b7dc89168034ebc7163",
+          "reviewNote": "Covers rule that beneficiary designations to children as a class include all children born or adopted before or after designation."
+        },
+        {
+          "number": 3,
+          "title": "After-born child share from nonprobate transfer to other children",
+          "bodySha256": "bd47b677879225c91416716b98c3cf6e318e914723f9fd9de41540e4c35985a1",
+          "reviewNote": "Covers statutory entitlement of after-born or after-adopted child to proportionate fractional share of property given to other children."
+        },
+        {
+          "number": 4,
+          "title": "Agreement or designation may negate after-born child rule",
+          "bodySha256": "bf8b7a84696939d8b58b2e0e0d77406166e0cd0ce0d77c10ae1f0f51883e6d17",
+          "reviewNote": "Covers authorization in governing instrument or transfer rules to negate the statutory after-born child allocation."
+        },
+        {
+          "number": 5,
+          "title": "Transferring entity exempt from calculating after-born child shares",
+          "bodySha256": "2a471a896142cce0cacbd7073ae892861484a92a92022ab95776be0564bfde7a",
+          "reviewNote": "Covers transferring entity exemption relieving entity from duty to calculate or distribute after-born child shares on registered property."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 5 subsections against archived text: inapplicability of probate pretermission statutes, class-gift inclusion, after-born/after-adopted fractional share formula, express negation, and transferring entity calculation exemption."
+    },
+    {
+      "id": "461.062:25848",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.062&bid=25848",
+      "sourceSha256": "1d4bfd3b5f1b5e3952329f948bb72332f97a9ea469261f65a535c300a94a0655",
+      "textSha256": "e4d0d4a51770114ab39a2024e425419849ac14cd8e8342b443cfa257de404ec3",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Governing law of Missouri nonprobate transfers",
+          "bodySha256": "70140a1bd52dab7f20dd1d0b0dcb6722e0f1e02d98b742b42a7d3a892ddd8ccb",
+          "reviewNote": "Covers application of Missouri nonprobate transfers law to determine rights and obligations of owners, beneficiaries, and entities."
+        },
+        {
+          "number": 2,
+          "title": "Transferring entity authority to adopt operational rules",
+          "bodySha256": "1dd0b76de13d96b2fcbf5fee5e6f62eebc019fe2837a272e0690d492da9f605e",
+          "reviewNote": "Covers authority of transferring entities to establish operational rules governing beneficiary designations and transfers."
+        },
+        {
+          "number": 3,
+          "title": "Statutory default construction rules for beneficiary designations",
+          "bodySha256": "c4b59987c51ecda53c6fcf4b1903633f9b5f87e7167af3d31944d78ab6fe81ac",
+          "reviewNote": "Covers fifteen standard statutory construction rules governing fractional shares, custodial transfers, identification, and execution."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections against archived text: Missouri governing law, transferring entity operational rules, and fifteen default construction and execution rules."
+    },
+    {
+      "id": "461.065:25849",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.065&bid=25849",
+      "sourceSha256": "b4eb9af71d56012bb755755086d4ccedffadd4cd46af084dfbedf6c88f8695cb",
+      "textSha256": "da601b3bb60ddfe89f6b7b1313b08629b19eb10d019d19ab310ffb00bb3ea162",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Statutory protections for transferring entities executing transfers",
+          "bodySha256": "3c34eb23bb0153a06857f0ed5448892ac2320982e39e83fdbb19a22e7d235f20",
+          "reviewNote": "Covers broad statutory protections granted to transferring entities executing nonprobate transfers under sections 461.003 to 461.081."
+        },
+        {
+          "number": 2,
+          "title": "Execution of transfer with or without written request",
+          "bodySha256": "202fcfffea37fae44af4a11e624c17e4e559d5c91a4380a943e3ceaaac4d718d",
+          "reviewNote": "Covers transferring entity discretion to execute nonprobate transfers with or without receiving formal written requests."
+        },
+        {
+          "number": 3,
+          "title": "Entity reliance on certified death certificates and official records",
+          "bodySha256": "5bdd5cb41469445e4c1be19f4483488a0b09613d70101d188bd82cfb3514cc8d",
+          "reviewNote": "Covers entity reliance on official death certificates, military records, and court adjudications without duty of inquiry."
+        },
+        {
+          "number": 4,
+          "title": "Entity reliance on written requests without verification duty",
+          "bodySha256": "a87c3735d37d06cd03c209cf097fedb51be1b1f3a9109518251745e0f2c60704",
+          "reviewNote": "Covers entity reliance on beneficiary written requests, identification, and affidavits without independent duty of verification."
+        },
+        {
+          "number": 5,
+          "title": "No entity duty to give notice, locate beneficiaries, or investigate",
+          "bodySha256": "0f3d069641f888132280af7a26e9001a09e7efc9ab971f68f9c17f514cd328b3",
+          "reviewNote": "Covers absence of entity duties to notify interested parties, locate beneficiaries, confirm survival, or investigate marriages."
+        },
+        {
+          "number": 6,
+          "title": "Adverse claim notice and thirty-day withholding procedure",
+          "bodySha256": "587fbc15332fbf6a727e36b54300809f64c930d7563bae2c75cde4e766c1cbc4",
+          "reviewNote": "Relieves transferring entities of any duty to withhold transfer absent timely written adverse claim notice containing four required elements, and allows discharging any duty via certified-mail 30-day withholding notice unless restrained by court order."
+        },
+        {
+          "number": 7,
+          "title": "No entity responsibility for application of funds by fiduciaries",
+          "bodySha256": "7a3f39e5c9bd3eb79df89b999fe21a332b543b28af0d4e86aa1b423855ad5243",
+          "reviewNote": "Covers rule that transferring entities bear no responsibility for the subsequent application or use of funds transferred to fiduciaries."
+        },
+        {
+          "number": 8,
+          "title": "Adjudication or indemnity bond for uncertain or disputed transfers",
+          "bodySha256": "c4f399a9036509fe44df15c368e959500a9bc892f2406821907736bc9d47660c",
+          "reviewNote": "Permits a transferring entity facing uncertainty or dispute over beneficiary entitlement or shares to require parties to adjudicate their rights or furnish an indemnity bond."
+        },
+        {
+          "number": 9,
+          "title": "Complete discharge of entity upon good-faith statutory transfer",
+          "bodySha256": "d59e8ac7661a1fc206fbd27f8cb7d4f9175d2770b891b4df668dd92a104fe1ac",
+          "reviewNote": "Covers complete release and discharge of transferring entity from all claims upon executing nonprobate transfer in good faith."
+        },
+        {
+          "number": 10,
+          "title": "Protections cumulative to commercial code and trust law protections",
+          "bodySha256": "c39f28fa67f0c960f09c925996665024bb39258225a4d0df148ec57bf873877b",
+          "reviewNote": "Covers provision that transferring entity protections under nonprobate transfers law are in addition to chapters 400, 403, 404, and 456."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified subsections 1\u20135, 7, 9, and 10 and corrected headings in subsections 6 (adverse claim notice and 30-day withholding procedure; removed unstated bond) and 8 (adjudication or indemnity bond, not interpleader/judicial discharge)."
+    },
+    {
+      "id": "461.067:25850",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.067&bid=25850",
+      "sourceSha256": "b6373fd37d0384309d9a23bfed622b6c4fd89ecd5e52296ba5b11e7c1f27f3b0",
+      "textSha256": "dc68c005bc0dba6d43517b40d94517d5fabe3025c3adace63cf63090f6bb979f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Entity protections do not prejudice claimant rights against transferee",
+          "bodySha256": "91ca484ab0d5a166c5bbc090f0216f63244f67599a36ca7139a9bab2224e305c",
+          "reviewNote": "Covers rule that statutory protections for transferring entities do not affect substantive rights between claimants and transferees."
+        },
+        {
+          "number": 2,
+          "title": "Transferee liability to return improper payment or transfer",
+          "bodySha256": "039b0c3410e3640045e123692138f7983431732c0aa9350ffdb01ec28c936f20",
+          "reviewNote": "Covers liability of transferee receiving improper transfer to return property or value to rightful claimant or estate."
+        },
+        {
+          "number": 3,
+          "title": "Protection of bona fide purchasers and lenders from transferees",
+          "bodySha256": "963764ebb88aa43b056c2cea923390654ebc72c8ca86b90b8e567e9a1a9f5061",
+          "reviewNote": "Covers protection for good-faith purchasers for value and lenders acquiring security interests from transferee after owner's death."
+        },
+        {
+          "number": 4,
+          "title": "Entity immunity for good-faith execution of improper transfers",
+          "bodySha256": "ce0dd4d7e9704d6d0cc24bb7ea7be670044c0a9cebe2a6ed401054cfd53ff967",
+          "reviewNote": "Covers complete immunity for transferring entity executing improper transfers honestly and in good faith reliance on records."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 4 subsections against archived text: preservation of inter-claimant disputes, improper transferee return/encumbrance-release liability, bona fide purchaser/lender protection, and entity good-faith immunity for \u00a7\u00a7 461.045\u2013461.059 errors."
+    },
+    {
+      "id": "461.073:25852",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.073&bid=25852",
+      "sourceSha256": "508785d398dd80b5495ebbbf7e0e4a68f464659dec62b46e9c1461dd2ca0e5db",
+      "textSha256": "82b7a4f0d882a508dc7de9eb3612a555346faee1103cdf83224304b4d8d4cdf5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Territorial application to Missouri owners, property, and entities",
+          "bodySha256": "31b5f674a3d3cd9c702700389e9bde2bcf1ebbf8d74bddf6f6bf79e9da0463a8",
+          "reviewNote": "Covers territorial application of Missouri nonprobate transfer laws based on owner domicile, property location, or entity place of business."
+        },
+        {
+          "number": 2,
+          "title": "Ongoing obligation to execute transfer regardless of location changes",
+          "bodySha256": "7d07c63be6cec54535d29c6419ff77e465baa8ceffc58c4029fd96e8381d8190",
+          "reviewNote": "Covers continued obligation to execute nonprobate transfers under Missouri law regardless of subsequent owner or entity location changes."
+        },
+        {
+          "number": 3,
+          "title": "Exclusion of bank accounts absent express statutory incorporation",
+          "bodySha256": "6ffd8e01d688bcbf5b9b2a8945629c70272a6fe9b52c23c43f0580835c2d3fb9",
+          "reviewNote": "Covers exclusion of bank and financial institution accounts unless account contract expressly incorporates sections 461.003 to 461.081."
+        },
+        {
+          "number": 4,
+          "title": "Applicability to Missouri personal custodian directions",
+          "bodySha256": "72bf91b0da7b2bd956c4d2d5049fd1cab4822da2cd990b8d877f5725ac518cc5",
+          "reviewNote": "Covers application of nonprobate transfer rules to transfer on death directions under Missouri personal custodian law."
+        },
+        {
+          "number": 5,
+          "title": "Exclusion of motor vehicle certificates of title",
+          "bodySha256": "c14a46a29641efdb5c3fb1d16375834a0e02f07a1af6d7586b20e96cb5c26d79",
+          "reviewNote": "Covers exclusion of Department of Revenue motor vehicle, vessel, and outboard motor certificates of ownership from general nonprobate rules."
+        },
+        {
+          "number": 6,
+          "title": "Exclusion of life insurance company policies and products",
+          "bodySha256": "9b696ae206f50ac1164d77eb630c699cefb45f177c5aac0f4c61e1484284fae9",
+          "reviewNote": "Excludes life or accidental death insurance policies, annuities, contracts, plans, or other products sold or issued by a life insurance company from listed nonprobate sections unless expressly incorporated."
+        },
+        {
+          "number": 7,
+          "title": "Exclusion where governing instrument expressly provides other law",
+          "bodySha256": "f649c015cf2660758c0e29505768eef78b8d20dae8e03dd4e0ec639812a928d3",
+          "reviewNote": "Covers non-applicability of statutory sections where governing instrument or contract expressly provides that other law governs."
+        },
+        {
+          "number": 8,
+          "title": "Divorce revocation rule inapplicable to ERISA benefit plans",
+          "bodySha256": "e58200dac6835e199e123d89d149391f13137be9f0ead35c60bf53e24178ec68",
+          "reviewNote": "Covers exemption providing that section 461.051 marriage dissolution revocation rules do not apply to ERISA-governed employee benefit plans."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified subsections 1\u20135, 7, and 8 and corrected subsection 6 heading/reviewNote (excludes life insurance company policies/products absent incorporation; ERISA employee benefit plans are in subsection 8)."
+    },
+    {
+      "id": "461.079:25854",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.079&bid=25854",
+      "sourceSha256": "af62129f179461c98365dd3fb7c7d93ba921f281a1eda97ac42681807b9dda44",
+      "textSha256": "17ffeb6e4657df938d650d7822b0944f99486c3681dc6dbb0e186c07847bd975",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Enforcement of nonprobate transfers valid under laws of other states",
+          "bodySha256": "bebcf2bcc26ffa7ad6a4903b848bf0b0fa87078a389ee827dc971639bf5b6159",
+          "reviewNote": "Covers recognition, execution, and enforcement in Missouri of beneficiary designations valid under Uniform TOD Security laws of other states."
+        },
+        {
+          "number": 2,
+          "title": "Choice of law governing meaning and legal effect",
+          "bodySha256": "4e7bd1085fc6c901edeacc65f5369bdac56bbd7a4677b5f65eb672eb422f5ac3",
+          "reviewNote": "Covers determination of meaning and legal effect of nonprobate transfers by local law of jurisdiction selected in governing instrument."
+        },
+        {
+          "number": 3,
+          "title": "Uniform statutory construction among enacting states",
+          "bodySha256": "7017a973b8598dfb057a23efd5ea43a6b806b0a84ce38630fe251c350d58afbe",
+          "reviewNote": "Covers general rule of statutory construction to effectuate uniform application among states enacting similar nonprobate transfer laws."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections against archived text: Missouri enforcement of beneficiary designations valid under another state's law, choice of local law selected in instrument, and uniform construction."
+    },
+    {
+      "id": "461.081:25855",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.081&bid=25855",
+      "sourceSha256": "7e465f86298224c67971760a63fc71e11ad71a18e05fcf1d2b100193af028f22",
+      "textSha256": "6c95e31653a1adcbe65ee956fb9a02820c817e4f7391d6f55ac32c1ab5d4c5e5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Effective dates for designations and nonprobate transfers",
+          "bodySha256": "99a160315f7b71c372e811c535aaa7c07bef593395579087185a9e84eec5c074",
+          "reviewNote": "Covers application of sections 461.003 to 461.081 to designations made on or after August 28, 1989, and transfers on or after January 1, 1990."
+        },
+        {
+          "number": 2,
+          "title": "Validation of pre-1989 nonprobate transfers",
+          "bodySha256": "8c29e65b3268f3256a0c834e0281e5e35c846938e816aa42c35f7e887ce9b149",
+          "reviewNote": "Covers retroactive statutory validation of nonprobate transfer provisions made prior to August 28, 1989."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified both subsections against archived text: August 28, 1989 designation and January 1, 1990 transfer effective dates, and retroactive validation of pre-August 28, 1989 nonprobate transfer provisions."
+    },
+    {
+      "id": "461.300:25856",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=461.300&bid=25856",
+      "sourceSha256": "3ca29240197d1b481f88d3ff62237feb3d3ef4be701e701c57e985e2306438c7",
+      "textSha256": "ac511927d5516545bc9061f7e1dd39242582c472acd863917cec624045fb2b39",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Action for accounting of recoverable transfers to pay estate claims",
+          "bodySha256": "ef54f26c5e659c9322c1010d41b362636909029167b0ebe7edc0a7517744f63d",
+          "reviewNote": "Covers personal representative action for accounting against nonprobate transferees to satisfy unpaid estate claims and allowances."
+        },
+        {
+          "number": 2,
+          "title": "Qualified claimant demand and eighteen-month limitation period",
+          "bodySha256": "b38d766fe259f0fb63af518752386bed39c5c50ab793e24329cd57249bc7ce94",
+          "reviewNote": "Sets an 18-month limitation period from death for accounting actions by personal representatives or qualified claimants (requiring written demand within 16 months and 30-day wait), disclosure and tolling rules, and administrator ad litem appointment."
+        },
+        {
+          "number": 3,
+          "title": "Judgment accounting for administration expenses and proceeding costs",
+          "bodySha256": "5e7c36f15cf4c27354a5fada5b3cc3ec6bf980dde63287854148b153bafb822a",
+          "reviewNote": "Covers accounting judgment taking into account additional estate administration costs, with proceeding costs and attorney fees treated as expenses."
+        },
+        {
+          "number": 4,
+          "title": "Joinder of other recipients and personal representative liability",
+          "bodySha256": "267cd4b31290f7cab463671f8ccfd59cf533636d4de126ccd2c920ae8fca4254",
+          "reviewNote": "Covers joinder of other transfer recipients within 18 months, and full non-pro-rata liability of personal representatives joined thereafter."
+        },
+        {
+          "number": 5,
+          "title": "Transferring entity execution rights preserved absent served process",
+          "bodySha256": "6fedde3e25cbd577b3f5e49b871db1eb83991412151a62fd63c4f1b554d9c533",
+          "reviewNote": "Covers right of transferring entities to execute death transfers without liability absent prior service of process in accounting proceeding."
+        },
+        {
+          "number": 6,
+          "title": "No automatic lien on recoverable transfer property",
+          "bodySha256": "bdf7c9aaf64197e91a60ccacdd230981122e9c65b92c73ecfe524831ff2e0562",
+          "reviewNote": "Covers rule that accounting statute does not create automatic lien on recoverable property except as perfected by attachment or judgment."
+        },
+        {
+          "number": 7,
+          "title": "Probate division jurisdiction and probate code application",
+          "bodySha256": "e2843adc9ac9513cd8ad7f2f31a3046f349b855cefd4bd64badcf6a869aff7dc",
+          "reviewNote": "Covers probate division jurisdiction to hear accounting actions and application of section 472.013 probate fraud remedies."
+        },
+        {
+          "number": 8,
+          "title": "Trust assets and joint tenancy accounts subject to accounting",
+          "bodySha256": "94ad98fd75512fcd2baffa0654e3c023b8477c6ee10ed53158758e53eb5776bc",
+          "reviewNote": "Covers liability of revocable trust assets and joint tenancy property subject to debts immediately prior to death, to extent of contribution."
+        },
+        {
+          "number": 9,
+          "title": "Applicability to actions commenced after August 28, 1995",
+          "bodySha256": "12dbea49a4fb6b9a0e0b435504a23b2b8fdb01e31b512c078c3faae2cda75de7",
+          "reviewNote": "Covers applicability of accounting provisions to actions commenced after August 28, 1995, and two-year transition period for prior deaths."
+        },
+        {
+          "number": 10,
+          "title": "Definitions for creditor, dependent child, qualified claimant, and recoverable transfer",
+          "bodySha256": "ff72c7824f8355bddf9b1ce987fcb4146142bb46d4314f1e7af015aaf4b09542",
+          "reviewNote": "Covers statutory definitions for creditor, dependent child, qualified claimant, and recoverable transfer."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 10 subsections against archived text (noting 2009 In re Estate of Jones and 2014 Citizens-Farmers Bank annotations); removed unstated \"security for costs\" from subsection 2 reviewNote."
+    }
+  ]
+}

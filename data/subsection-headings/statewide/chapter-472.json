@@ -1,0 +1,544 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "472.070:25983",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=472.070&bid=25983",
+      "sourceSha256": "a83df0bd786f01f611a37b88e083b886c3d77edd3dffce2f92718ed90dcb5c48",
+      "textSha256": "a03cb4656759330e47b7daf0643965d33ea0f4445ba016384251815c01308350",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Clerk powers to administer oaths and authenticate documents",
+          "bodySha256": "2a06c8903fc7a449e3b76058fdd14a80db4edafdd22b824b8a5cc3e216a4f525",
+          "reviewNote": "Covers authority of probate division clerk to take acknowledgments, administer oaths, authenticate documents and records, and perform office functions."
+        },
+        {
+          "number": 2,
+          "title": "Issuance of hearing notices and necessary orders",
+          "bodySha256": "78803c8d7d27e054e4e050135940b37b08bb73ba7496769d69d2e256a8ab73cc",
+          "reviewNote": "Covers clerk authority, subject to judge control, to issue notices and enter orders for hearings on petitions or other matters."
+        },
+        {
+          "number": 3,
+          "title": "Determination of uncontested matters and thirty-day judge review",
+          "bodySha256": "4de6fcdecda02012db39e70b484d1acb3c5503054cb575c322a9e65781d96d74",
+          "reviewNote": "Covers clerk determination of uncontested matters and orders or decrees, subject to judge modification or vacation within thirty days."
+        },
+        {
+          "number": 4,
+          "title": "Judge acting as ex officio clerk",
+          "bodySha256": "f2ee59104423a797f2911ca2d8453c26f7e2d0c037e5f434f6f52332112973e3",
+          "reviewNote": "Covers authority of probate division judge to act as clerk ex officio when court business requires."
+        },
+        {
+          "number": 5,
+          "title": "Probate division seal custody",
+          "bodySha256": "0513bc3aabaeebb3b7933c748f92993f2c9d1f3ddecf82377d7fb5a5b3c4f47a",
+          "reviewNote": "Covers authorization of seal for circuit court probate division and custody by judge or clerk."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all five subsections on probate division clerk powers, hearing notices/orders, uncontested determinations with 30-day judicial review, judge acting ex officio, and seal custody (Effective 1-02-79)."
+    },
+    {
+      "id": "472.080:25985",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=472.080&bid=25985",
+      "sourceSha256": "e2b4692b33fd1bb72795959bffc0d0315867d625f827402cb16c68672b2f0805",
+      "textSha256": "5819e51ec15e46c0fa88c9be5c77483dc003cce727cc7e7344af511ddf96aa9a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Document signing, oath or affirmation, and truth statement",
+          "bodySha256": "6a49d7255a56df44341ff382bc5da9e2341a390f8efe28644f14551f0125c8b9",
+          "reviewNote": "Covers requirement that documents filed under probate code be signed and include statement under oath or affirmation subject to penalties for false declarations."
+        },
+        {
+          "number": 2,
+          "title": "Postjudgment validity despite form or substance defects",
+          "bodySha256": "edc80e50adeb65a48ce1d1ab2288057b153159227faa3977ce115e42cd5bc1bb",
+          "reviewNote": "Covers rule that defects of form or substance in documents do not invalidate proceedings after judgment."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections on required signing and oath/affirmation statement for filed probate documents and postjudgment validity despite defects of form or substance (Effective 1-01-81)."
+    },
+    {
+      "id": "472.100:25987",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=472.100&bid=25987",
+      "sourceSha256": "14ad6c01aa1b5064a00474a6bb0c16c9fc26c71d79cf93575aa0d779570658b2",
+      "textSha256": "b9e0d88363c3b594351f5328e7e1e83e920a9869c0c95b397ec2b3098fec4e83",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Notice requirements governed by code or court order",
+          "bodySha256": "41a0dd6a761b31dc9fe28931711d0738de2873d7241315bfca17edb1de7a166d",
+          "reviewNote": "Covers notice requirements to interested persons limited to specific code provisions or court rules and orders."
+        },
+        {
+          "number": 2,
+          "title": "Permissible methods and procedures for service of notice",
+          "bodySha256": "775a89247a3cf482e12ad527cc0f189ae810d80f2d147cdac064385082d16dd8",
+          "reviewNote": "Covers service methods including personal delivery, newspaper publication under chapter 493 (see 1962 case annotation on weekly publication suspension), registered/certified mail, ordinary mail, or civil rules."
+        },
+        {
+          "number": 3,
+          "title": "Scope and binding effect of service by publication",
+          "bodySha256": "6fa1b6e041494f5a612a8c917710b51a2e707a6e4ffcc4a5842ae83283f6f331",
+          "reviewNote": "Covers effect of published service as notice to known or unknown heirs, devisees, spouses, creditors, and other interested persons."
+        },
+        {
+          "number": 4,
+          "title": "Exemption of creditors from nonpublication notice absent requirement",
+          "bodySha256": "a7e1016f5975d2eedc8fbb6328c58286cb240a55ef557e463d861824d0f01346",
+          "reviewNote": "Covers rule that nonpublication notices to interested persons do not include creditors unless specifically required by code or court order."
+        },
+        {
+          "number": 5,
+          "title": "Service upon minors, incapacitated persons, and corporations",
+          "bodySha256": "6c7b91ae6d640b617de74a668093bf6eec25926fe8befd8d2fad269497a4bf3d",
+          "reviewNote": "Covers service upon guardians or conservators of minors or disabled persons and service upon corporations in civil action manner."
+        },
+        {
+          "number": 6,
+          "title": "Ordinary mail service and validity despite nondelivery",
+          "bodySha256": "c54396f9b11d41eae5e41f22cd12135b3fdf8763bee5b7d731e68a3ec5f25adc",
+          "reviewNote": "Covers ordinary mail service to persons in court files when publication is required, and rule that failure of receipt does not invalidate orders or jurisdiction."
+        },
+        {
+          "number": 7,
+          "title": "Persons authorized to make service and clerk duties",
+          "bodySha256": "95c7451a9cc18136ef297cd87639a3bed3cdacdcd6bdf1403a4006d75b0d657c",
+          "reviewNote": "Covers service by competent witnesses, sheriffs, or clerks upon written request with necessary information."
+        },
+        {
+          "number": 8,
+          "title": "Service upon attorney of record in lieu of party",
+          "bodySha256": "d24a4e0da9275676daf43b95cc9ab9a235fcc53a88243b04e0340f2145d26a48",
+          "reviewNote": "Covers service on attorney who entered written appearance, in lieu of party, by mail or delivery to office."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all eight subsections on probate notice requirements, service methods, publication scope, creditor exception, service on minors/corporations/attorneys, and clerk duties; notes 1962 case annotation on weekly newspaper publication."
+    },
+    {
+      "id": "472.140:25992",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=472.140&bid=25992",
+      "sourceSha256": "ab8b8a631c807798e48e10a1565dddc81e72b6b52e57717c9b82f0598f01bc84",
+      "textSha256": "1da46986ee5d6186b432c36ee0e83ac118cef1a9510f070343ecaaf593e4868a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Requirement of record in adversary probate proceedings",
+          "bodySha256": "f0ce0555e55b9afd2089b6359a5f7d3dea6ed49e03c1bc03da99720d7d2c1613",
+          "reviewNote": "Covers mandatory stenographic or electronic recording in adversary probate proceedings under supreme court rules."
+        },
+        {
+          "number": 2,
+          "title": "Adversary probate proceeding defined",
+          "bodySha256": "4bcaf9b2550c206ca61ef4d88fed535487c6244f4cf71c8a69630c3ee099edf5",
+          "reviewNote": "Covers statutory definition of adversary probate proceedings under chapters 472 to 475, exceptions absent objections, and judicial designations."
+        },
+        {
+          "number": 3,
+          "title": "Discretionary recording, security for costs, and assessment",
+          "bodySha256": "2614830d92daad3da40bcbdf28ed671f3aa467450a9310fe4e3d9b5bed5ef6ef",
+          "reviewNote": "Covers judicial discretion to direct recording of hearings on motion or request, require security, and assess costs."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on mandatory records in adversary probate proceedings, statutory definition with exceptions absent objections, and discretionary recording with cost security/assessment."
+    },
+    {
+      "id": "472.141:25993",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=472.141&bid=25993",
+      "sourceSha256": "dcb17e4dda19bec783fd6764357dfc8d89145fb146378140ccd8b25cd4488fe1",
+      "textSha256": "9239c3afcbb07c0707fa9a256d304a500523732c4b5c1572c5b54141b2b65d92",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application of civil code and rules to adversary proceedings",
+          "bodySha256": "b636968d591ef67e02a3e6c8031ca79137071b6047932181fcd42d9404edecfd",
+          "reviewNote": "Covers governance of adversary probate proceedings by civil code and rules, subject to specific probate statutes and order requirement for chapter 509 and rule 55."
+        },
+        {
+          "number": 2,
+          "title": "Order designating pleading rules after commencement",
+          "bodySha256": "bc1542dde5f9ea2f0419f80a636b60e753ff4fde0968520119ff8f691a0b14a2",
+          "reviewNote": "Covers court authority upon finding proceeding is adversary to enter order specifying applicable provisions of chapter 509 or civil rule 55."
+        },
+        {
+          "number": 3,
+          "title": "Civil rules governing other proceedings before probate judge",
+          "bodySha256": "1d17866e2901ddda8be8ac66ad730d2037f97856458aa25ba9ce48abdd71bbae",
+          "reviewNote": "Covers governance of other actions or proceedings heard by probate division judge by civil code and rules except as provided by law."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on civil code and rules governing adversary probate proceedings, chapter 509 / civil rule 55 designation orders, and other proceedings heard by a probate division judge."
+    },
+    {
+      "id": "472.160:25995",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=472.160&bid=25995",
+      "sourceSha256": "1959f24c732beaf01eb5baa60e5e4f13d5ad4aa9a60551976ba2d5d7179d2fa1",
+      "textSha256": "f919f8825547118f69f2347cd53f5f5914e101ac69384ba36f68bc6a090a05a5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Appealable orders, judgments, and decrees in probate division",
+          "bodySha256": "41135a5f7570c9cd8b31c2e912b7b523dd7a574143ed83545b76c9a48cca33a1",
+          "reviewNote": "Covers appeal rights for aggrieved interested persons across fourteen enumerated probate categories, excluding orders admitting/rejecting wills; source includes seven 1966-1992 case annotations."
+        },
+        {
+          "number": 2,
+          "title": "Prerequisite motion to vacate clerk orders before appeal",
+          "bodySha256": "2386d9a769089c9c3b2f28f74f4805a26327bd8375f901272a37988e547ddc4f",
+          "reviewNote": "Covers prohibition of appeal from clerk orders absent court denial of motion to modify or vacate, and direct appealability of judge orders."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections on fourteen appealable probate categories and the prerequisite motion to modify/vacate clerk orders; notes seven 1966-1992 case annotations on aggrieved-party status and appealability."
+    },
+    {
+      "id": "472.170:25996",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=472.170&bid=25996",
+      "sourceSha256": "04b30f1b03dc39659780a615067342b9a47fe25bfd2e2d100aeb15d369e78314",
+      "textSha256": "b701daf7a4472bac3efc95615d5698e920274b1065f1b4872c7cc8527c43371d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Appeals regarding mental condition and supersedeas conditions",
+          "bodySha256": "2d7f7432448d47adff8aa628cddd1c8f43aebf30d4d0edf057011a292862fb1e",
+          "reviewNote": "Covers appeals regarding mental condition and adjudication, limitation on automatic supersedeas, and standards for commitment or confinement stays."
+        },
+        {
+          "number": 2,
+          "title": "Guardian ad litem appointment upon denied supersedeas and review",
+          "bodySha256": "64472a71608b49fa58fda9a46140aea8a24198da7e59bbd7f3a4929c641d43da",
+          "reviewNote": "Covers appointment and disbursement authority of guardian ad litem upon denial of supersedeas and appellate review on motion."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections on appeals from mental-condition adjudications, supersedeas conditions, guardian ad litem appointment upon denied supersedeas, and appellate review on motion."
+    },
+    {
+      "id": "472.280:26000",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=472.280&bid=26000",
+      "sourceSha256": "3c47ee9ea5b72b4cf3e43d4674ffe75a8bcc9f4f21ced9e626c7aece197d55f2",
+      "textSha256": "34bb13208949ecac80febd86c0684e27e42ac70512253f6d0195a6ea9fa719e5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory record books, indices, and registers",
+          "bodySha256": "a6d50c39414dcda3110fa9a9ddd674b469687f892acf0d5a33aeabc4d9d4c032",
+          "reviewNote": "Covers required records kept by probate division including decedent and protectee indices, chronological registers, abstracts, wills, bonds, letters, and minutes."
+        },
+        {
+          "number": 2,
+          "title": "Destruction of vouchers and receipts after five years",
+          "bodySha256": "2c12b9448c63eeaf9fd27130b787f5dbdb82b7dd57499fc344e28d4e52f198aa",
+          "reviewNote": "Covers court authority to order destruction of vouchers and receipts on file for five years following final termination of administration."
+        },
+        {
+          "number": 3,
+          "title": "Non-bound record media, public reading equipment, and indexing",
+          "bodySha256": "84814038e77643355b8af64810859658af39bfef8697266521686205978bb0ae",
+          "reviewNote": "Covers keeping probate records via photographic, electronic, or machine-readable media with publicly available reading equipment and adequate indexing."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on ten mandatory probate division records, destruction of vouchers/receipts five years after final termination, and non-bound record media with public reading equipment and indexing."
+    },
+    {
+      "id": "472.410:34896",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=472.410&bid=34896",
+      "sourceSha256": "f2f2af0213162952efd3e9c8ee5ba22a260fc19cf7e4c2f6de107c73ca776987",
+      "textSha256": "da47d1cee6524a446a9dfc04b13733147852e6952fa17e52c0f85e218453834e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Scope and application to fiduciaries, agents, and trusts",
+          "bodySha256": "d819055e9396611af6818aad4585b13c05374cfe0c14aeaec35df4ebb75547f6",
+          "reviewNote": "Covers applicability of sections 472.400 to 472.490 to fiduciaries, agents, personal representatives, conservatorships, and trustees whenever executed or commenced."
+        },
+        {
+          "number": 2,
+          "title": "Application to custodians based on user Missouri residency",
+          "bodySha256": "b96cf714afad774e4e53600c1bfbf0f391ee47d6c96913a7745860311be7cd8c",
+          "reviewNote": "Covers application of digital asset statutes to custodians when the user is or was a Missouri resident at death."
+        },
+        {
+          "number": 3,
+          "title": "Exclusion of employer digital assets used in ordinary business",
+          "bodySha256": "161c77a16437238874a6fe923581a45a5834366258a2eede917255748e481537",
+          "reviewNote": "Covers statutory exclusion of employer digital assets used by employees in ordinary course of business."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on digital asset act applicability to fiduciaries/agents/trustees/conservatorships, Missouri-resident custodians, and employer digital asset exclusion (L. 2018 H.B. 1250)."
+    },
+    {
+      "id": "472.415:34897",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=472.415&bid=34897",
+      "sourceSha256": "190813708a4ae2a045b73b1881d5db9b01f23c976340894dffeddbd045b8733a",
+      "textSha256": "209914604abae2536666dba18f4a50280e493aa09427c8b80d4921b0a49d5236",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Online tool directions regarding disclosure of digital assets",
+          "bodySha256": "35c5a61d7c16e215b931ec465995884f9dbb66bcb6bd9962b25ca390bb263307",
+          "reviewNote": "Covers user authority to use online tool directing disclosure of digital assets and supremacy over contrary directions in wills, trusts, or powers of attorney."
+        },
+        {
+          "number": 2,
+          "title": "Directions in will, trust, or record absent online tool",
+          "bodySha256": "d15cf93563c1e392fc1376ddf16ffe612fdf09af2435756b0dd9ca88daaee5cf",
+          "reviewNote": "Covers user authority to allow or prohibit disclosure of digital assets in will, trust, power of attorney, or other record absent online tool direction."
+        },
+        {
+          "number": 3,
+          "title": "User directions overriding terms-of-service agreements",
+          "bodySha256": "ee1cc3beffee84ffa753ad93b08f597dab40e92f02e570ba16a9e959b7c1bcfe",
+          "reviewNote": "Covers user direction overriding contrary terms-of-service provisions not requiring distinct affirmative user assent."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on online tool directions, directions in wills/trusts/powers of attorney absent an online tool, and override of non-affirmative terms-of-service provisions (L. 2018 H.B. 1250)."
+    },
+    {
+      "id": "472.420:34898",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=472.420&bid=34898",
+      "sourceSha256": "a23ecbc3720f249e77e1ce8a500862c8d53012c3d821aab6c588a8caf3596de4",
+      "textSha256": "570f1b1ffe2161c05eacec063ebd9ab660b9880ab1fcdf90a40a247706113a96",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Terms-of-service agreement rights preserved",
+          "bodySha256": "8c53ce61993d0a27f47abce623efce7932e58157863c88bc25c7403cdde38d5f",
+          "reviewNote": "Covers preservation of custodian and user rights under terms-of-service agreements to access and use digital assets."
+        },
+        {
+          "number": 2,
+          "title": "No expanded rights for fiduciaries or designated recipients",
+          "bodySha256": "b6b4204101da471261d0a426b5ae98442c2f70cf5400b85ab47f2ea70d05c8b6",
+          "reviewNote": "Covers limitation that sections 472.400 to 472.490 confer no new or expanded rights on fiduciaries or designated recipients beyond those held by the user."
+        },
+        {
+          "number": 3,
+          "title": "Modification of access by user, federal law, or agreement",
+          "bodySha256": "ea24dcf9800e94c9aad129220a5b37e49ad14ef2d06ee341de45e843b913207e",
+          "reviewNote": "Covers modification or elimination of fiduciary access by user, federal law, or terms-of-service agreement absent user directions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections preserving terms-of-service rights, barring new/expanded rights for fiduciaries or designated recipients, and allowing access modification by user, federal law, or agreement."
+    },
+    {
+      "id": "472.425:34899",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=472.425&bid=34899",
+      "sourceSha256": "298efff4550db1dbc57147a7292dd9ccf6449153f7f2f700b300135b02bf1d6e",
+      "textSha256": "262339a4aed65459710647fe09aeddc1ab7bbeff005eca04dd943a00a01d375f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Custodian options for granting access or copies",
+          "bodySha256": "460a515bc3290703d3f405f751a57ffc2b6446aae11c82d8c1a66b55075b0934",
+          "reviewNote": "Covers custodian discretion to grant full access, partial access, or copies in a record of accessible digital assets."
+        },
+        {
+          "number": 2,
+          "title": "Reasonable administrative charge for disclosure costs",
+          "bodySha256": "4a4010fd7e8956566e1db3f33b165b95692269e408e5b5c6af010b47aa45986c",
+          "reviewNote": "Covers custodian authorization to assess reasonable administrative charges for disclosing digital assets."
+        },
+        {
+          "number": 3,
+          "title": "Prohibition on disclosure of deleted digital assets",
+          "bodySha256": "8f22bc4b07b3def9439c744e9c858a1ddd3a17f97ce1b581429f523e79370c4f",
+          "reviewNote": "Covers statutory prohibition preventing custodians from disclosing digital assets deleted by the user."
+        },
+        {
+          "number": 4,
+          "title": "Undue burden exception to partial disclosure and court orders",
+          "bodySha256": "f781254429ddeaa65d44be5fe00b62074582f4230253604a993ba6b41d5ed5d6",
+          "reviewNote": "Covers custodian relief from segregation of assets imposing undue burden and authorization to seek court orders on disclosure scope."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all four subsections on custodian disclosure options, reasonable administrative charges, prohibition on disclosing deleted assets, and undue-burden partial-disclosure court orders."
+    },
+    {
+      "id": "472.465:34907",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=472.465&bid=34907",
+      "sourceSha256": "c97c9aaae82f88b111e1d7bc172c83b30b095ffa24e559000d29b04c040bea86",
+      "textSha256": "133a884d1efad6705df8a7aceb76b4ad7f5f85e709129d35fd7635421572d9b4",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Court order granting conservator access after hearing",
+          "bodySha256": "657e3ea1ce15be3ad87b57e6c019ddab660a6943f53ef003ae1d81e5da4d57bb",
+          "reviewNote": "Covers court authority to grant a conservator access to digital assets of a protected person after opportunity for hearing."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory disclosure of communication catalogues and other assets",
+          "bodySha256": "6f4934ec97398c78a69d4ffa2002ac7af35642dd0212902cd58c68367c6d2b1a",
+          "reviewNote": "Covers custodian duty to disclose catalogue of communications and non-content digital assets upon written request, court order, and account identifiers."
+        },
+        {
+          "number": 3,
+          "title": "Conservator request to suspend or terminate account for cause",
+          "bodySha256": "41e51196c3ea9c3e2134bb3f083c9729257f82a67c782de79b0e199289b3d331",
+          "reviewNote": "Covers conservator authority with general management powers to request account suspension or termination for good cause accompanied by court order."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all three subsections on court-ordered conservator access after hearing, mandatory custodian disclosure of communication catalogues and non-content assets, and account suspension/termination requests for good cause."
+    },
+    {
+      "id": "472.470:34908",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=472.470&bid=34908",
+      "sourceSha256": "ca4f6c685a06184b572ddc2de485ec6266f089d1f706eb0ec2a7bce01fd633ae",
+      "textSha256": "724e700fa8da34958fb4ae3632ef6b50cc84226faa41ba0564bdc6f771b6ffd6",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Applicability of fiduciary duties to digital asset management",
+          "bodySha256": "58be79f213ad4947c3298850058ce417ec16ba2c41f4818b1040c1f31ba17ff2",
+          "reviewNote": "Covers application of traditional fiduciary duties of care, loyalty, and confidentiality to managing digital assets."
+        },
+        {
+          "number": 2,
+          "title": "Scope of authority and prohibition on impersonation",
+          "bodySha256": "c90cc06370a46c5f17df618a49f2d98a08ccccd5c20496b96a9a82153a39abf7",
+          "reviewNote": "Covers limits on a fiduciary's or designated recipient's authority under terms of service, applicable law, duty scope, and prohibition on impersonating the user."
+        },
+        {
+          "number": 3,
+          "title": "Fiduciary right to access digital assets not held by custodian",
+          "bodySha256": "7e97315258c38dd0a21de71d86a30238f2e06c9c83b966564db4a95723244879",
+          "reviewNote": "Covers fiduciary right to access decedent, protected person, principal, or settlor digital assets not held by custodian or subject to terms of service."
+        },
+        {
+          "number": 4,
+          "title": "Fiduciary authorized user status under computer fraud laws",
+          "bodySha256": "16cf0b0fa03cf4dce818deb5232c775722ee8181a7232f1e98173e9f3d755d86",
+          "reviewNote": "Covers authorized user status of fiduciary acting within duty scope for purposes of computer-fraud and unauthorized-access laws."
+        },
+        {
+          "number": 5,
+          "title": "Access to tangible personal property and stored digital assets",
+          "bodySha256": "33294158643ae9dc1b7d67ed104631e3258f884fecfaaded671e5fbfd93eeca0",
+          "reviewNote": "Covers fiduciary right to access tangible personal property and stored digital assets as authorized user under computer laws."
+        },
+        {
+          "number": 6,
+          "title": "Custodian disclosure of information required for account termination",
+          "bodySha256": "8cc71fe490886f750db052f80a03a1bad9a17dd1e6f19dc6d459f28431876ddb",
+          "reviewNote": "Covers custodian authorization to disclose account information required to terminate an account used to access licensed digital assets."
+        },
+        {
+          "number": 7,
+          "title": "Written request procedure and documentation for account termination",
+          "bodySha256": "786bfd0357b9abbcdde6d5436c87878b5f936d173bc0061a86fa8d4b4446e41a",
+          "reviewNote": "Covers written request requirements, death certificate, letters of authority or orders, and optional identifying data for account termination."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all seven subsections on fiduciary duties over digital assets, authority limits and impersonation bar, non-custodian and tangible-property access, computer-fraud authorized user status, and account termination procedures."
+    },
+    {
+      "id": "472.475:34909",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=472.475&bid=34909",
+      "sourceSha256": "d171b008f729def44673d1dadc202de06f224d1e60130c5fff333d68979feb98",
+      "textSha256": "f7359c190cad6dc47395fd0c741b1081e58a344c431bc4c73b000439825f2c98",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Sixty-day deadline for custodian compliance and court orders",
+          "bodySha256": "6007e758a06df10047c02e2986b6d7e85685a7f063e34d78213438cb730cca14",
+          "reviewNote": "Covers sixty-day custodian compliance deadline following required disclosures and court order application upon noncompliance."
+        },
+        {
+          "number": 2,
+          "title": "Required compliance finding under 18 U.S.C. Section 2702",
+          "bodySha256": "4fa8450e2dfbf528ea93630cf690a9e9f78b56d868b95f32b7ccc6e18ac39476",
+          "reviewNote": "Covers required court finding that compliance order does not violate federal law under 18 U.S.C. Section 2702."
+        },
+        {
+          "number": 3,
+          "title": "Custodian discretion to notify user of request",
+          "bodySha256": "ea5a3f2b6d2053daa1d36200de958e4213070b4b85246f9fc742cd0afb0dfd33",
+          "reviewNote": "Covers custodian authorization to notify user that request for disclosure or account termination was submitted."
+        },
+        {
+          "number": 4,
+          "title": "Denial of request upon awareness of lawful post-request access",
+          "bodySha256": "392e9893a52bd6f220ed9409bca93ed20003f4c6a613d3ed4b040df295e3febd",
+          "reviewNote": "Covers custodian discretion to deny disclosure or termination request upon awareness of lawful account access following request."
+        },
+        {
+          "number": 5,
+          "title": "Custodian ability to require court order",
+          "bodySha256": "5229d0ed7b17ba70c9c6da55a1bd705f4434f59c8afda5444dfb030abb6432bb",
+          "reviewNote": "Covers custodian ability to obtain or require a court order specifying account ownership, sufficient consent, and other legally required findings."
+        },
+        {
+          "number": 6,
+          "title": "Immunity for good-faith compliance",
+          "bodySha256": "b44f9f347a1a300bd41ff4a888727f4d80f790a378bbf2473f9432d4455325bc",
+          "reviewNote": "Covers statutory immunity from liability for custodians, officers, employees, and agents acting in good faith under digital asset statutes."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all six subsections on 60-day compliance deadline, 18 U.S.C. 2702 finding, user notification, denial upon lawful post-request access, custodian court-order requests, and good-faith immunity."
+    }
+  ]
+}

@@ -1,0 +1,1760 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "448.030:24862",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.030&bid=24862",
+      "sourceSha256": "2213db82b3e2894efd89b1aef5eb4206e27fa56a77e29bb7dd91cb2494147708",
+      "textSha256": "6a5c3f40abc45fa4dbb175911cd4703703e9acee6235ccaa9e261d5014479088",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Declaration contents and unit ownership percentages",
+          "bodySha256": "fe289bedc2f0d0b40af7ff1586a0a99ea00fd01fd3e2c99575a08258cd605bf7",
+          "reviewNote": "Requires the declaration to state parcel and unit legal descriptions, common-element ownership percentages (constant unless changed by all owners or developer unit-dimension/count changes), and other consistent provisions."
+        },
+        {
+          "number": 2,
+          "title": "Developer amendments to add contiguous or delete parcels",
+          "bodySha256": "7a94fbf2de7e7ad79b4b0c75c40f9cdd003420bc19924f691aff56990082a7e6",
+          "reviewNote": "Permits the developer with all unit owners' consent to amend the declaration to add contiguous parcels (including across roads or easements), delete parcels, and adjust unit counts and common-element percentages."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1963 p. 648 \u00a7 4, A.L. 1969 H.B. 767, A.L. 1983 H.B. 177); refined subsection 2 title to reflect both adding contiguous parcels and deleting parcels."
+    },
+    {
+      "id": "448.050:24864",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.050&bid=24864",
+      "sourceSha256": "55336e6703fd8aeb04fd82066df918f1d27115b8ad4d77b7d4a3aa6fe9a9e8fe",
+      "textSha256": "de2b4f8c9f867373cc80458131e287c3c03cdbec9029b6b9d0ec1278c7e5fd7c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Applicability of condominium statutes upon recording",
+          "bodySha256": "f3869420628b52887ca1fac489848b54b331eb574d824dc398059ff89239ee68",
+          "reviewNote": "Subjects property to sections 448.005 to 448.210 upon compliance with sections 448.020 to 448.040 and recording of declaration and plat, making units capable of fee simple or lesser ownership and transfer."
+        },
+        {
+          "number": 2,
+          "title": "Inseparability of common elements and unit subdivision ban",
+          "bodySha256": "e54bea37910b76d3179bf3ba0f0238bd434df15d73ff53146b406cb5793ce34e",
+          "reviewNote": "Entitles each unit owner to the declared common-element percentage and prohibits separating unit ownership from that percentage or subdividing any unit smaller than shown on the plat."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1963 p. 648 \u00a7 6, A.L. 1983 H.B. 177); refined subsection 2 title to match unit-subdivision and separation ban accurately."
+    },
+    {
+      "id": "448.080:24867",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.080&bid=24867",
+      "sourceSha256": "b8724ed58401ce1aa421ed2c586c518159c0c77fc972dea2899e298cc3a02ad6",
+      "textSha256": "8ef4abb840f1a914ef914a0dccb4435fd0a600f8ab508e140b588a2d57b3408c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Payment of proportionate share of common expenses",
+          "bodySha256": "2699d7a46a403d1ca05c5db6663184ed22d5532dba33a26e49a96f5e4c8b438c",
+          "reviewNote": "Requires each unit owner to pay a proportionate share of administration, maintenance, repair, and agreed expenses based on declared common-element ownership percentages."
+        },
+        {
+          "number": 2,
+          "title": "Common expense lien priority and encumbrancer rights",
+          "bodySha256": "1ff4d45764bef157f606f8eac308279dfad9cbecaa8b2e44d4864bbd97871416",
+          "reviewNote": "Creates a recorded common-expense lien prior to other liens except taxes and prior recorded encumbrances with a Missouri mailing address, and grants junior encumbrancers a 20-day unpaid-expense statement right and payment/subrogation lien."
+        },
+        {
+          "number": 3,
+          "title": "Foreclosure of common expense lien by board of managers",
+          "bodySha256": "958d36c7915f3e756b36a5e2a1632e4904da10803bddeaf39ae4986da98714a4",
+          "reviewNote": "Places the common-expense lien in favor of the board of managers for other unit owners, allows foreclosure like a mortgage under sections 443.190 to 443.310, and authorizes the board to bid in and hold or convey the unit."
+        },
+        {
+          "number": 4,
+          "title": "Foreclosure deed subject to condominium instruments",
+          "bodySha256": "7a70d11dfa9c6d3d71e3db25102a477a4a5b9bb24ccec714eaf12df595eef676",
+          "reviewNote": "Subjects any sheriff's or official foreclosure deed and acquired interest to sections 448.005 to 448.210 and the terms of the declaration, plat, bylaws, and deeds in force."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1963 p. 648 \u00a7 9, A.L. 1983 H.B. 177); replaced incorrect draft headings in subsections 3 and 4 (lien foreclosure/bidding by board of managers and foreclosure deed subject to condominium instruments)."
+    },
+    {
+      "id": "448.090:24868",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.090&bid=24868",
+      "sourceSha256": "71d14434ec8bf7f58eccf6316ebe299f3aa21750df4c60c13830e5c617c17587",
+      "textSha256": "00b46b441fe72ec38b6a6662db39c4707d8eacccb3f0dfd2520eea0cce319d00",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Proportional payment and release from multi-unit liens",
+          "bodySha256": "8b084e441a87896b21a7fa19d47917e2e35b0ec603b2f60952b1eb590a69e253",
+          "reviewNote": "Permits an owner of a unit affected by a due lien against two or more units to obtain a release of the unit and its common-element interest by paying its proportional share without impairing enforcement against unreleased units."
+        },
+        {
+          "number": 2,
+          "title": "Consent requirements for labor and materials liens",
+          "bodySha256": "bdbb3a206fea9846f741a58add949b76b803d05652bc1a2515b0bff83248670e",
+          "reviewNote": "Bars filing a lien against another unit owner's interest for work requested by one owner absent express consent, while deeming consent given for emergency unit repairs and board-authorized work on common elements."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1963 p. 648 \u00a7 9A); replaced both hallucinated tax-assessment draft headings with accurate headings for proportional release of multi-unit liens and consent rules for labor/materials liens."
+    },
+    {
+      "id": "448.1-102:24883",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.1-102&bid=24883",
+      "sourceSha256": "88fd228e1fe3fa8caec9dab9c9a5b7f6d4329365542c61743941a216f8421a77",
+      "textSha256": "0d272301e294d890bb4f28e5abac78a8a941202de7365d85160d27849b604db1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application of Uniform Condominium Act",
+          "bodySha256": "83405f1cf5f5b35f28d0bbeebd106ecc0673c49291310957c76b516222f6843c",
+          "reviewNote": "Applies sections 448.1-101 to 448.4-120 to condominiums created in Missouri after September 28, 1983, and applies enumerated sections to pre-existing condominiums for post-September 28, 1983 events without invalidating existing instruments."
+        },
+        {
+          "number": 2,
+          "title": "Inapplicability of prior act and pre-1983 amendments",
+          "bodySha256": "34a18bc378d17722e675bdbbb06406bbd7e147add96623473904227b01155d24",
+          "reviewNote": "Makes sections 448.005 to 448.210 inapplicable to post-September 28, 1983 condominiums and permits pre-1983 condominiums to adopt amendments allowed by sections 448.1-101 to 448.4-120 with correlative obligations."
+        },
+        {
+          "number": 3,
+          "title": "Out-of-state condominiums and Missouri sale contracts",
+          "bodySha256": "a1a946f32c856d08e4d6a4c427dd89eb1b52070da4b6d0dadc63cd98df1b9222",
+          "reviewNote": "Excludes condominiums or units located outside Missouri from sections 448.1-101 to 448.4-120, except original sale certificate provisions apply to disposition contracts signed in Missouri."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); replaced shifted/incorrect draft headings in subsections 2 and 3 (inapplicability of 448.005-448.210 to post-1983 condos / pre-1983 amendments, and out-of-state condominiums)."
+    },
+    {
+      "id": "448.1-105:24886",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.1-105&bid=24886",
+      "sourceSha256": "ed78ea3b315e6446334ce6e8d317baf080648cfa88469de831c0bb8aaea0597c",
+      "textSha256": "faedd1dc25c524f802782871e7ca4ff6f1ed6408cff32b9cf4e2dc6d122edc6e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Each unit as separate parcel of real estate",
+          "bodySha256": "1ea364ee50eb7beabee3e72a9ca6b6530c0d0c30c5095dd146b11aa84889e1a9",
+          "reviewNote": "Establishes that if any unit owner other than a declarant exists, each created unit together with its common-element interest constitutes a separate parcel of real estate for all purposes."
+        },
+        {
+          "number": 2,
+          "title": "Separate unit taxation and exclusion of common elements",
+          "bodySha256": "d202cbd886a49b7b4fc2316953b9cd06e62b2cf3306e2603b14d004469227e6e",
+          "reviewNote": "Requires separate taxation and assessment of each unit when a non-declarant owner exists and bars separate taxation of common elements for which no development rights are reserved."
+        },
+        {
+          "number": 3,
+          "title": "Separate taxation of common elements with development rights",
+          "bodySha256": "c034d0680c248070cc4ab2f6137d65b4f23682038460f9b60dfadf0d67f07fa1",
+          "reviewNote": "Requires any common-element portion subject to reserved declarant development rights to be separately taxed and assessed against the declarant alone."
+        },
+        {
+          "number": 4,
+          "title": "Taxation when declarant is sole unit owner",
+          "bodySha256": "da75ab74dcc54c0850ab708290ca96047a3f93d851ca818143a89123baefbc69",
+          "reviewNote": "Permits taxing and assessing condominium real estate in any manner provided by law when there is no unit owner other than a declarant."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); replaced shifted draft headings across all four subsections (separate parcel, unit taxation/non-taxation of common elements, declarant development-right taxation, and declarant-only taxation)."
+    },
+    {
+      "id": "448.1-106:24887",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.1-106&bid=24887",
+      "sourceSha256": "7f7f691d655086f4985a4ba54c104e405e7709e29717e9f3167642729449b942",
+      "textSha256": "32e85b4a1e1e85abeeb88bbc77ef33b1f46613fb66c92c2e81e65fb104993603",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Equal application of local building and zoning laws",
+          "bodySha256": "d3e5c3fc1cb3108c0c524a31f989137004c890926bf3ee0e43e1b4f0b122632a",
+          "reviewNote": "Prohibits zoning, subdivision, building code, or real estate use laws from prohibiting condominiums or imposing discriminatory requirements, while otherwise preserving local regulations."
+        },
+        {
+          "number": 2,
+          "title": "Exemption for housing finance and minimum housing standards",
+          "bodySha256": "479aff8af3aff55ef280e05079fb954a478df9f92069e9a19f7f218c76f0d6c8",
+          "reviewNote": "Exempts state or local housing finance program rules/contracts and ordinances applying or enforcing minimum housing standards from subsection 1."
+        },
+        {
+          "number": 3,
+          "title": "Declaration statement as prima facie compliance evidence",
+          "bodySha256": "b838214cb92ccc84e69ef9c11fb8ad0b5d0fcfa7de50edead04097c32e3fe325",
+          "reviewNote": "Makes a declaration statement of ordinance non-applicability or compliance prima facie evidence for marketable-title purposes that the condominium was not created in violation of the ordinance."
+        },
+        {
+          "number": 4,
+          "title": "Validity unaffected by subsection 2 ordinance violation",
+          "bodySha256": "ab1e8cf1711c2a8122238b39892c3f567223f17781218f50798ededf37bef733",
+          "reviewNote": "Provides that violating a subsection 2 ordinance does not affect condominium validity while preserving county or municipal enforcement power."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177, A.L. 1993 H.B. 689); replaced incorrect draft headings in subsections 2, 3, and 4 (housing finance/minimum housing standards exemption, marketable-title prima facie evidence, and non-invalidation of condominium)."
+    },
+    {
+      "id": "448.1-107:24888",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.1-107&bid=24888",
+      "sourceSha256": "b6dab8efee7e2f55e3c5ce1f1f8682ec193a476cddc5672cd8421dfb8ffb2ab8",
+      "textSha256": "b01c4447729b5b7471515dcd74bff3f12f046423616ad0dc2511d6d8ba9573f5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Eminent domain acquisition of entire unit",
+          "bodySha256": "d563338a5e7d6d42c409ae5e9688804ce6b64e5d066730416070d1c9f0dc467a",
+          "reviewNote": "Compensates the owner when an entire unit (or part leaving an unusable remnant) is condemned, automatically reallocates its interests among remaining units via recorded amendment, and makes any remnant a common element."
+        },
+        {
+          "number": 2,
+          "title": "Eminent domain acquisition of part of unit",
+          "bodySha256": "d80106bd75445d68d63e69f40fb4d97b0d7d6898b7f4ac20fa6a95c996c67b9a",
+          "reviewNote": "Compensates the owner for reduced value upon partial unit condemnation, proportionally reduces the unit's allocated interests, and automatically reallocates the divested portion among that unit and remaining units."
+        },
+        {
+          "number": 3,
+          "title": "Condemnation of common elements and association recovery",
+          "bodySha256": "6637da28bc8698f0e08cdf534d7d011757220b13d3f578dfa38fdb966bf38925",
+          "reviewNote": "Directs condemnation awards for common elements to the association and divides awards for limited common elements equally among owners of units to which they were allocated, unless the declaration provides otherwise."
+        },
+        {
+          "number": 4,
+          "title": "Recordation of court decree in condemnation",
+          "bodySha256": "a29e12a246c482323ea60533454a030ae470b2fe955b4fb0ba0f87470bd272af",
+          "reviewNote": "Requires the condemnation court decree to be recorded in every county where any portion of the condominium is located."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); retained all four drafted titles and verified automatic reallocations, remnant conversion to common elements, limited common element division, and decree recording."
+    },
+    {
+      "id": "448.1-112:24893",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.1-112&bid=24893",
+      "sourceSha256": "7e06373be3fcd0bbc8d2604fee7195ee20f29eefcc6929b2d6a02da038871fff",
+      "textSha256": "86cc04b2eb88fb8ea61271109584d3b403b5de75ff308783e2294d75d8bba505",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Unconscionable contract or clause determination",
+          "bodySha256": "866d6619ab15342467c1b2c8bf66abff817b67ebc56f8b94cbf8d8d91cd9d848",
+          "reviewNote": "Authorizes a court finding a contract or clause unconscionable as a matter of law at contracting to refuse enforcement, sever the clause, or limit its application."
+        },
+        {
+          "number": 2,
+          "title": "Opportunity to present evidence of commercial setting",
+          "bodySha256": "66b4c80ae19ec3858fff6a027e2cf614a0ebff0439cb3e3925ba16c620d6028b",
+          "reviewNote": "Requires affording parties a reasonable opportunity to present evidence on commercial setting, taking advantage of infirmity/illiteracy, purpose and effect, and gross price disparity in a sale."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); refined subsection 1 title to remove unstated 'lease' qualifier and verified the four evidentiary factors in subsection 2."
+    },
+    {
+      "id": "448.1-114:24895",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.1-114&bid=24895",
+      "sourceSha256": "3c84eb2007ecfb90f22da52ebcd7a6ac5c4f5503b39f0bee0450bd9e697e113d",
+      "textSha256": "36c222a1f6b3492289d054fd9500a9a0616303784c60f81eb3749743ba667fb2",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Liberal administration of remedies and damage limits",
+          "bodySha256": "4ebf57cfd9fca2cc78ed62ce65da3b238176c564499161829601b8a582523137",
+          "reviewNote": "Requires liberal administration of statutory remedies to place aggrieved parties in the performance position while barring consequential, special, or punitive damages unless specifically provided by sections 448.1-101 to 448.4-120 or other law."
+        },
+        {
+          "number": 2,
+          "title": "Judicial enforceability of rights and obligations",
+          "bodySha256": "85bde5c12c329b45edda4cb764246eada7715800ddc1e9e8270f534458e5221b",
+          "reviewNote": "Provides that any right or obligation declared by sections 448.1-101 to 448.4-120 is enforceable by judicial proceeding."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); corrected subsection 1 (draft falsely claimed punitive damages authorized; text bars consequential/special/punitive damages unless specifically provided) and replaced incorrect subsection 2 heading (drafted as attorney fees) with judicial enforceability."
+    },
+    {
+      "id": "448.190:24878",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.190&bid=24878",
+      "sourceSha256": "6245591ef2da88e2e0c52f665737513ae3738558fda570ade4fa158c3a204d36",
+      "textSha256": "64bf7bad5118ca60b2275eaf1c06eb6eb502fdee3f2028ed25686b582ce7f79d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Board trustee actions, litigation standing, and service",
+          "bodySha256": "389ff3e702eb32eaacf5fa6f4fa97f6aa6111abd5826c4479ef9f6eafcb01b30",
+          "reviewNote": "Directs the board of managers to act as trustees in property, lien, and insurance matters, permits actions on behalf of two or more owners regarding common elements or multiple units, and allows service of process on any board member."
+        },
+        {
+          "number": 2,
+          "title": "Board as proper party and annual recorded roster",
+          "bodySha256": "631951526f06523d09dd8c4905a0b8208e429b51ed8f72b38acc6abdfa23e11b",
+          "reviewNote": "Makes the board of managers a proper party to sue and be sued in condominium actions and requires annual recording of board member names and addresses with each county recorder of deeds as public information."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1963 p. 648 \u00a7 18A, A.L. 1983 H.B. 177); expanded subsection 1 title to include trustee property powers and service of process, and replaced incorrect subsection 2 heading (drafted as litigation notice) with board proper-party status and annual recording of board members."
+    },
+    {
+      "id": "448.2-101:24896",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.2-101&bid=24896",
+      "sourceSha256": "85177b35ceddae86746e52e63c264bd56d2410c3cc0fac6d7edca7dc7f13ff39",
+      "textSha256": "5ebd4782e1eedb59254b33571f8c84d7b8e4aaaf8812d5973b24f7023fd399d3",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Creation of condominium by recording declaration",
+          "bodySha256": "bfd9503aa36c6bea518f218a8b451389b78cd97745419bf40ea411cb8ba99e21",
+          "reviewNote": "Requires creation of a condominium under sections 448.1-101 to 448.4-120 only by recording a deed-executed declaration in every county where located, indexed in the condominium and executing parties' names."
+        },
+        {
+          "number": 2,
+          "title": "Substantial completion certificate before recording declaration",
+          "bodySha256": "e690abd93a1c4f7d73a5dd246df74e1a697bedd31807c7696940d679f56d4a4e",
+          "reviewNote": "Prohibits recording a declaration or unit-adding amendment until all structural components and mechanical systems of buildings containing those units are substantially completed as evidenced by a recorded licensed engineer or architect certificate."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); refined subsection 2 title to reflect substantial completion and recorded engineer/architect certificate rather than plat recording."
+    },
+    {
+      "id": "448.2-103:24898",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.2-103&bid=24898",
+      "sourceSha256": "7c1c0bf44b5ebdfc01d676a1edf900540851df0dbe4c7e1c5ae5d4c2d3da911d",
+      "textSha256": "62b3745dfccba5664fd2ae6026ce493ab3086fda2bc9b04acf846f8eb2eeb9a6",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Severability of declaration and bylaw provisions",
+          "bodySha256": "2db61a3d583b8885a0df232270ee846c7fc249f7b7e2ab0d7e5ce26076919200",
+          "reviewNote": "Provides that all provisions of the declaration and bylaws are severable."
+        },
+        {
+          "number": 2,
+          "title": "Inapplicability of rule against perpetuities",
+          "bodySha256": "14dc488aed13d9b7154ec9019a278895b531463fb61ed14ec4a7ecb88cd8060f",
+          "reviewNote": "Provides that the rule against perpetuities shall not defeat any provision of the declaration, bylaws, or rules adopted under section 448.3-102(1)(1)."
+        },
+        {
+          "number": 3,
+          "title": "Priority of declaration over conflicting bylaws",
+          "bodySha256": "951fff584daf8b325463a3e295b3818ab6c1ecb65a7b14e2ce700eb5385f8cc8",
+          "reviewNote": "Provides that the declaration prevails over conflicting bylaws except to the extent inconsistent with sections 448.1-101 to 448.4-120."
+        },
+        {
+          "number": 4,
+          "title": "Title marketability not affected by technical defects",
+          "bodySha256": "f8b2b495409c2773bd902562c0ef7fe3edaa47fd9ee3a161da6488ad6f1907d7",
+          "reviewNote": "Provides that insubstantial noncompliance of the declaration does not impair title marketability, while leaving the effect of substantial failure unaffected by sections 448.1-101 to 448.4-120."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); removed unstated 'restraints on alienation' from subsection 2 and 'plats' from subsection 3."
+    },
+    {
+      "id": "448.2-105:24900",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.2-105&bid=24900",
+      "sourceSha256": "83857087171fc768ac1b860fa48d3e7bcfc868f12297340b78d5dbee3cd396b2",
+      "textSha256": "cb202e40b9345dadd46c4147891ceca7e76619ab16e32d3e4e98760db4e026cc",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory contents of condominium declaration",
+          "bodySha256": "6583945e31541451e1ec5f9a0478b848b535ad36e983d88045ea679155109121",
+          "reviewNote": "Enumerates fourteen mandatory declaration items including name, counties, real estate and unit descriptions, maximum units, limited common elements, development/special declarant rights and time limits, allocations, restrictions, easements, and cross-referenced matters."
+        },
+        {
+          "number": 2,
+          "title": "Permissive matters included in declaration",
+          "bodySha256": "7fd54da3760397263dab5d9a343d19bd40b75cdee95e525dd8854545c0de5648",
+          "reviewNote": "Permits the declaration to contain any other matters the declarant deems appropriate."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); retained both drafted titles and verified all fourteen mandatory declaration items and permissive provisions."
+    },
+    {
+      "id": "448.2-106:24901",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.2-106&bid=24901",
+      "sourceSha256": "9806e86f299ce25e80e2eb236cf77487a454b9369a34b7745da963ceff18f72e",
+      "textSha256": "65c0cee9c388160e53d3651e12e32d621c7161feb7227a11eef8eaf2d83c9601",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Recording and required terms for leasehold condominiums",
+          "bodySha256": "725ad2ce7cadafdc968d82cdf9fc55176b75559653f66cc79acb0c4b7166af21",
+          "reviewNote": "Requires recording any lease whose expiration or termination may terminate or reduce the condominium, lessor execution of the declaration, and six declaration disclosures regarding lease terms, redemption, improvement removal, and renewal."
+        },
+        {
+          "number": 2,
+          "title": "Protection of non-defaulting unit owners",
+          "bodySha256": "6ca7bdc022cf24d57ac7900848fb00e6c35532fd56e1c43d5a9cb23c7b2dc69d",
+          "reviewNote": "Prohibits the lessor or successor from terminating the leasehold interest of a unit owner who timely pays their share of rent and complies with lease covenants, unaffected by others' defaults."
+        },
+        {
+          "number": 3,
+          "title": "Merger of leasehold and reversionary interests",
+          "bodySha256": "25ada8ae287b40a422ca44a3fb2cc57b1de72ed7a322b93a4256197ca799ded4",
+          "reviewNote": "Prevents merger of leasehold and fee simple interests upon the reversioner's acquisition of a unit leasehold unless all unit leaseholds subject to that reversion are acquired."
+        },
+        {
+          "number": 4,
+          "title": "Reallocation of allocated interests upon lease reduction",
+          "bodySha256": "8ee75fe869f0d555a53ad1bcab0631b41699cbdbcb9404ecf7111ab3015e2a84",
+          "reviewNote": "Requires reallocating interests under section 448.1-107(1) as if condemned by eminent domain when lease expiration or termination decreases unit count, confirmed by a recorded association amendment."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); retained all four drafted titles and verified lessor signature, non-defaulting unit owner protection, anti-merger rule, and eminent-domain reallocation."
+    },
+    {
+      "id": "448.2-107:24902",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.2-107&bid=24902",
+      "sourceSha256": "6f2b6b5ae52f5635471516cd143638837039ee02a52f67b9af9715b87d521d6f",
+      "textSha256": "2ace265ede941173facfc3877028e78b835479e4043c70d89b3d3dd968ab3fbd",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Allocation of common elements, expenses, and votes",
+          "bodySha256": "4ab216bbb2caeb28d546aea1ecc6b9e40af93538b51333203cecf8fc93b53be1",
+          "reviewNote": "Requires the declaration to allocate undivided common-element interests, common expense liabilities, and association votes to each unit with formulas, prohibiting discrimination favoring declarant-owned units."
+        },
+        {
+          "number": 2,
+          "title": "Reallocation formulas for added or withdrawn units",
+          "bodySha256": "1d027ceb74802c5b5d85e50839b52b9fca2e6a9aadb6d0ebcf4e8e369f1b97e6",
+          "reviewNote": "Requires the declaration to state reallocation formulas if units may be added to or withdrawn from the condominium."
+        },
+        {
+          "number": 3,
+          "title": "Special voting allocations, cumulative, and class voting",
+          "bodySha256": "facc7b91f2eacb4ed6a30782c643002abb6ae8488f55aa6192f07aef9a493845",
+          "reviewNote": "Permits special matter voting allocations, cumulative voting for executive board elections, and class voting for valid class interests, while barring declarant evasion or declarant-only classes."
+        },
+        {
+          "number": 4,
+          "title": "Equality of undivided interests and prevalence of allocated figures",
+          "bodySha256": "3460c078198060af1a731c4659455a0d93536e23f540dcb8fc91c47ee5c4372b",
+          "reviewNote": "Requires allocated common-element interests and expense liabilities to sum to 1 or 100% (except minor rounding) and gives the stated allocated interest prevalence over formula discrepancies."
+        },
+        {
+          "number": 5,
+          "title": "Prohibition against partition and separate transfer",
+          "bodySha256": "4e955633aa809dc63ac948c463d36bc6bb451d665f8e534b9204d43067a3afea",
+          "reviewNote": "Bars partition of common elements and voids any voluntary or involuntary transfer of an undivided common-element interest without its unit."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); retained all five drafted titles and verified anti-discrimination rule, voting options, rounding/discrepancy rule, and partition/separation voidness."
+    },
+    {
+      "id": "448.2-108:24903",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.2-108&bid=24903",
+      "sourceSha256": "a3ea869bc7c6af6ded1eecfc7cded2ab3c84a362e0a2e3c2bcd181ed66b2be0b",
+      "textSha256": "6e4c3e85c44985f57c97b3f68a4cca2974fa99f7c1d03de331801b5bbad95bf9",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Allocation of limited common elements in declaration",
+          "bodySha256": "9dfbfb35b6f95fa56f757b06fd47bca85b4a867b6683331ea5e1cf825254ad78",
+          "reviewNote": "Requires the declaration to specify unit allocations for limited common elements (other than section 448.2-102(2),(4)) and bars altering allocations without affected unit owners' consent."
+        },
+        {
+          "number": 2,
+          "title": "Reallocation of limited common elements between unit owners",
+          "bodySha256": "ced14fb18b14cf6995d1fc4e3404577ee8c573cd4caa5ff904a727ab7aed2339",
+          "reviewNote": "Permits reallocating limited common elements by declaration amendment executed by affected owners, delivered to and recorded by the association in the parties' and condominium's names, unless the declaration provides otherwise."
+        },
+        {
+          "number": 3,
+          "title": "Allocation of common elements not previously assigned",
+          "bodySha256": "0a88189fb2e86fb44ecab6114ac1987763a7e829c7282c7b9bdc07d0d0156cf7",
+          "reviewNote": "Prohibits allocating previously unassigned common elements as limited common elements except by declaration amendment pursuant to section 448.2-105(7) provisions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); retained all three drafted titles and verified affected-owner consent, association recording of reallocation amendments, and section 448.2-105(7) authority."
+    },
+    {
+      "id": "448.2-109:24904",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.2-109&bid=24904",
+      "sourceSha256": "490571acad4bdc8f2285ed776ddcde7fa86d7f50f2f9d3f28101988bbe90bec3",
+      "textSha256": "7c185e5771689c1c0a0b81491136e0052ae13f8c4d6aa8353ef598d9ea4b776a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Plats and plans as part of declaration",
+          "bodySha256": "4d5dc25f543cc7622c1697c3898a49d4be02441d28494111cec04ebb31c823d8",
+          "reviewNote": "Makes plats and plans part of the declaration, waives separate plans if plats contain all required information, requires completeness certifications, and mandates compliance with Department of Natural Resources property boundary survey standards."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory contents shown on plats",
+          "bodySha256": "c41499dfc5bf9a43456cc29dc48d19dba57ba7053b1dc677d5944cabc8a9140e",
+          "reviewNote": "Lists eleven required plat items including schematic map, existing improvements, development-right parcels, encroachments, easements, vertical/horizontal unit boundaries, leasehold labels, noncontiguous distances, and limited common elements."
+        },
+        {
+          "number": 3,
+          "title": "Labeling of contemplated improvements",
+          "bodySha256": "123bbb315d2560b513076f4bc85667d819e2a3777fba9f02872767742ca90fc8",
+          "reviewNote": "Permits showing contemplated improvements on plats and requires labeling each shown improvement 'SHALL BE BUILT' or 'NEED NOT BE BUILT'."
+        },
+        {
+          "number": 4,
+          "title": "Mandatory contents shown on plans",
+          "bodySha256": "25ef996bbeca0f1984a0768d1e6d7b876b7ab95a5010272671b89677912f7765",
+          "reviewNote": "Requires unit plans, where not shown on plats, to depict vertical boundaries, horizontal boundaries relative to datum, unit identifying numbers, and units subject to reserved creation rights."
+        },
+        {
+          "number": 5,
+          "title": "Elevation of exterior unit boundaries",
+          "bodySha256": "5334e5a2669e5be9b3d9d3ddf20289561557f30f5814bbdb30a3fa205cdac911",
+          "reviewNote": "Deems horizontal boundaries of exterior unit portions to share the elevation of interior portions without depiction, unless the declaration provides otherwise."
+        },
+        {
+          "number": 6,
+          "title": "Updated plats and plans upon development exercise",
+          "bodySha256": "ab49d0b1841d58587451118d7cb1435b43dd25e99520229025985dbe253bed86",
+          "reviewNote": "Requires a declarant exercising development rights to record new conforming plats and plans or new certifications of previously recorded conforming plats and plans."
+        },
+        {
+          "number": 7,
+          "title": "Certification by registered surveyor, architect, or engineer",
+          "bodySha256": "7826e1adc3acf56862f8cd25bb1e5eda8da1eaab7f964d57ad5427aadee2e1bb",
+          "reviewNote": "Requires plat certifications under this section by a registered and licensed surveyor and plan certifications under section 448.2-101(2) by an architect or engineer."
+        },
+        {
+          "number": 8,
+          "title": "Amendment of plat for boundary alterations",
+          "bodySha256": "9bf15d2c66f89fe127ec406f0f5514f511a89980452e81fc2f9b9d269dec2e7d",
+          "reviewNote": "Requires amending a plat to show alterations to boundaries of any unit, common element, or subsection 2(10) limited common element."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177, A.L. 1988 H.B. 1184); replaced incorrect subsection 8 heading (drafted as substantial completion certification) with mandatory plat amendment for boundary alterations."
+    },
+    {
+      "id": "448.2-110:24905",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.2-110&bid=24905",
+      "sourceSha256": "5863edd6157815dce2647d81148b82fadeaaef48da67452cbefe7897cba3f0e2",
+      "textSha256": "a24312fc4227de9aa23246da00267bfffcf42488f10a1565c21a6670030ddeae",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exercise of development rights by recorded amendment",
+          "bodySha256": "bedb05bf7c13d948fedd28d12cef28c47a99c1e907d6921d1ba2ec492301925b",
+          "reviewNote": "Requires a declarant exercising development rights to record a declaration amendment complying with section 448.2-109, assigning new unit numbers, reallocating interests, and describing new common/limited common elements."
+        },
+        {
+          "number": 2,
+          "title": "Reservation of development rights in added real estate",
+          "bodySha256": "bab20a8eed8fad7dc301e85abd1d098bfa293db3504137cc089512fc5fac672c",
+          "reviewNote": "Permits reserving development rights within added real estate if the adding amendment and plats/plans comply with sections 448.2-105/448.2-106 and 448.2-109(2), without extending the declaration's time limit."
+        },
+        {
+          "number": 3,
+          "title": "Subdivision or conversion of previously created units",
+          "bodySha256": "29bc93d994489b1461d26088d61c218fc9c92c9c77172ead8a416e7058e797d5",
+          "reviewNote": "Governs reallocation of allocated interests when a declarant converts a unit entirely to common elements (as in eminent domain) or subdivides it into multiple units."
+        },
+        {
+          "number": 4,
+          "title": "Restrictions on withdrawing real estate after unit conveyance",
+          "bodySha256": "eca3be41025bf17175e56b115e772683a3039b34b6436caeb8e418e82ef78102",
+          "reviewNote": "Prohibits withdrawing real estate subject to a withdrawal right once a unit in the whole property (if undivided) or in the specified portion has been conveyed to a purchaser."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); replaced shifted/incorrect draft headings in subsections 2, 3, and 4 (reserving rights in added real estate, subdividing/converting units, and withdrawal restrictions after conveyance)."
+    },
+    {
+      "id": "448.2-112:24907",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.2-112&bid=24907",
+      "sourceSha256": "d40e7d6cf83ac38c58fb902e56397f536896719c1fef292b10cd2577bce16ea2",
+      "textSha256": "a47ffd4e3fe988ddab4a4de6693e983d5e79d8e3bfa696f51f4a4104c7c65547",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Relocation of boundaries between adjoining units",
+          "bodySha256": "b666973ad574704983fef5df8f96c51b8aa81a5eaab7f3525016d841ad0589bc",
+          "reviewNote": "Permits adjoining unit owners to relocate boundaries and reallocate interests by application and association-prepared recorded declaration amendment unless the board finds reallocations unreasonable within thirty days."
+        },
+        {
+          "number": 2,
+          "title": "Association preparation and recording of altered boundary plats",
+          "bodySha256": "1d26b1c047756484d0f97d12a2a53dabbf1c1cef09b7b0f4242f52a130f45824",
+          "reviewNote": "Requires the association to have prepared and recorded any plats needed to show altered boundaries between adjoining units, their dimensions, and identifying numbers."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); corrected subsection 2 heading to cover preparation and recording of plats for altered boundaries (amendment preparation is in subsection 1)."
+    },
+    {
+      "id": "448.2-113:24908",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.2-113&bid=24908",
+      "sourceSha256": "91916b019f562d95ad6ba92223d7481a2cee3fa1e8040c27078f7d770da92c26",
+      "textSha256": "a61b01e80bfc4109e868b0ec9165d44a545914b5617f8407030eb41ff7699153",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Subdivision of units pursuant to declaration authority",
+          "bodySha256": "48276e2f78d73142620e3d3f6c17cd4b3bf1fcf87101d4a564e6c17945f8363d",
+          "reviewNote": "Permits subdividing a unit into two or more units if expressly allowed by the declaration, directing the association upon owner application to prepare, execute, and record the subdivision amendment and plats."
+        },
+        {
+          "number": 2,
+          "title": "Owner execution, unit numbering, and interest reallocation",
+          "bodySha256": "0491c08bda232c02289c4ff13884b47279e8defd0ed393a2ed8767949a3c3bdb",
+          "reviewNote": "Requires the subdividing unit owner to execute the declaration amendment, assign identifying numbers to created units, and reasonably reallocate the subdivided unit's allocated interests among the new units."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); corrected subsection 2 heading to reflect owner execution, new unit numbering, and interest reallocation (association recording is in subsection 1)."
+    },
+    {
+      "id": "448.2-117:24912",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.2-117&bid=24912",
+      "sourceSha256": "42bf65550aa067b89e1cd90cb14113075479baf1fb7b58aa0dc27b7191740c3c",
+      "textSha256": "42fadd0922e4d07e4a901b117400f30bde2cb8a16bf2b45be331e0372a43d25f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Declaration amendment by unit owner vote",
+          "bodySha256": "4d0d9c85db2f3c910ddfde571292efed368bc87133c92c45382cd0e418776442",
+          "reviewNote": "Requires at least a 67% unit-owner vote (or larger declared majority, or smaller only for exclusively nonresidential condominiums) to amend the declaration, plats, and plans, subject to enumerated exceptions."
+        },
+        {
+          "number": 2,
+          "title": "One-year limitation on challenging amendment validity",
+          "bodySha256": "1a1632ab56dabf68d8447ed1b3d0cdec4c7db1adf420fb38dca7ebe9e9fa94b4",
+          "reviewNote": "Bars any action challenging the validity of an association-adopted amendment brought more than one year after recordation."
+        },
+        {
+          "number": 3,
+          "title": "Recording and indexing requirements for amendments",
+          "bodySha256": "3d514cca010ffe3c57d61bf511335d1b07bcda50e1706a998fa419c9959d74fb",
+          "reviewNote": "Requires recording every declaration amendment in every county where located, effective only upon recordation, and indexing in the names of the condominium, association, and executing parties."
+        },
+        {
+          "number": 4,
+          "title": "Unanimous consent for fundamental declaration changes",
+          "bodySha256": "5b879ff1c25fc44e78038029e99e30921991a085df64be7297f034161da9f08a",
+          "reviewNote": "Requires unanimous unit-owner consent, unless otherwise expressly permitted or required by statute, to create/increase special declarant rights, increase unit count, or change unit boundaries, allocated interests, or use restrictions."
+        },
+        {
+          "number": 5,
+          "title": "Execution and certification of amendments by association",
+          "bodySha256": "e7197bd7f7fa125b223b58bc2e95705db1126f77ce738cad6bc114bec4c75af2",
+          "reviewNote": "Directs a designated association officer, or the president if none is designated, to prepare, execute, record, and certify association-recorded declaration amendments."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); refined subsection 4 title to include special declarant rights, unit count, and use restrictions alongside boundaries and allocations."
+    },
+    {
+      "id": "448.2-118:24913",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.2-118&bid=24913",
+      "sourceSha256": "e2f3560a0ad8f41b4e48495c368abc648073389a617300b45c1dab6dbc676f62",
+      "textSha256": "9f13a4ca1fa22b3f9753e6327fb99644900cc5ffbbcfcd157dd6c1ad737d0b3d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Condominium termination by agreement of unit owners",
+          "bodySha256": "7b1557de62760fa652fcc9ecd8040a77af71e3aca07aace8f058f09df2500666",
+          "reviewNote": "Permits termination (except complete eminent domain taking) only by agreement of at least 80% of allocated association votes (or larger declared share, or smaller only for exclusively nonresidential condominiums)."
+        },
+        {
+          "number": 2,
+          "title": "Termination agreement execution and recording",
+          "bodySha256": "b0036596b70a836e3071c66e4ef5da330b3a0be179751673dcf88b55e1908348",
+          "reviewNote": "Requires a deed-executed termination agreement or ratifications specifying a recording cutoff date, recorded in every county where situated, and effective only upon recordation."
+        },
+        {
+          "number": 3,
+          "title": "Termination sale for horizontal-boundary condominiums",
+          "bodySha256": "eaa2f81654269410c7a70aff00af2c010c819c47e77aa174b92e72e3cc839d45",
+          "reviewNote": "Permits a termination agreement for condominiums with only horizontal-boundary units to require sale of all common elements and units, setting forth minimum sale terms."
+        },
+        {
+          "number": 4,
+          "title": "Termination sale limits for non-horizontal-boundary units",
+          "bodySha256": "4aa8116a9ff2ecaa3d672da1f6ff0d4358a8eaf80426efb23ee000dc25275d93",
+          "reviewNote": "Permits selling common elements upon termination of condominiums with non-horizontal-boundary units, but bars requiring unit sales unless originally declared or unanimously consented."
+        },
+        {
+          "number": 5,
+          "title": "Association sale contract, trustee title, and occupancy",
+          "bodySha256": "c9facc5bf432a8c0e5f9b3c0809e8ad2d9bc2e3945531b654968b57c79c3a230",
+          "reviewNote": "Allows association sale contracts effective upon approval, vests sale real estate in the association as trustee, preserves association powers until proceeds distribution, and grants owners exclusive occupancy with ongoing assessment liability."
+        },
+        {
+          "number": 6,
+          "title": "Tenancy in common when real estate is not sold",
+          "bodySha256": "2ec71c3f2b8be68ee7eecce0fb56b84979275ceae51aefea887612aee38fb260",
+          "reviewNote": "Vests title to common elements (and all real estate in horizontal-boundary condominiums) in unit owners as tenants in common upon termination without sale, shifting unit liens and preserving exclusive unit occupancy."
+        },
+        {
+          "number": 7,
+          "title": "Association trustee holding of proceeds and creditor claims",
+          "bodySha256": "aa8beee6b63267c7a696154095d43582c62c8c138085d0582989c444fae79ee5",
+          "reviewNote": "Directs the association to hold sale proceeds and assets as trustee for owners and lienholders, allowing prior-recorded lien creditors to enforce liens and treating other creditors as holding liens perfected immediately before termination."
+        },
+        {
+          "number": 8,
+          "title": "Appraisal and valuation of unit owner interests",
+          "bodySha256": "d9ef06ed87c9f4936b708456ce6a4c11a29284b61e9aea4ec993678143ba7d0d",
+          "reviewNote": "Sets respective unit-owner shares by independent fair-market-value appraisal (final unless disapproved within 30 days by 25% of votes), or by common-element interests if destruction prevents pre-destruction appraisal."
+        },
+        {
+          "number": 9,
+          "title": "Foreclosure of liens does not terminate condominium",
+          "bodySha256": "5da6cc0d69613582b54238344fd4a80b8c7af8e00f3c483932a3fdae17b28fd2",
+          "reviewNote": "Provides that foreclosing or enforcing a lien against the entire condominium, a portion, or withdrawable real estate does not of itself terminate the condominium or withdraw real estate, except under subsection 10."
+        },
+        {
+          "number": 10,
+          "title": "Exclusion of real estate foreclosed under prior lien",
+          "bodySha256": "98e11edc07f987b57a9a8dbf0d5ba8a2a48981bd9b71e433dc9cf197cc60139d",
+          "reviewNote": "Permits parties foreclosing an unreleased lien or encumbrance having priority over the declaration to record an instrument excluding that real estate from the condominium."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); replaced shifted/incorrect draft headings across subsections 3 through 10 (horizontal vs. non-horizontal sales, association trustee sale powers, tenancy in common, trustee proceeds/creditors, appraisal valuation, foreclosure non-termination, and prior-lien exclusion)."
+    },
+    {
+      "id": "448.2-120:24915",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.2-120&bid=24915",
+      "sourceSha256": "82e47345844e303affc352934a05c935b1895f03d6f81f201d306fddd11f6c84",
+      "textSha256": "03e38055b89f66dfd5246230443aea504165da782a9a2ac4dc4dd4ffdc2fabd2",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Master associations and delegation of association powers",
+          "bodySha256": "a523c33de33aaef90fec2031e56d7149aefe694b4b66a29832e497543e0b5969",
+          "reviewNote": "Applies unit-owners'-association statutes to a corporation or unincorporated association exercising or receiving delegated section 448.3-102 powers for one or more condominiums, except as modified by this section."
+        },
+        {
+          "number": 2,
+          "title": "Powers exercisable by master association",
+          "bodySha256": "c95b0a272330cdb87c879f10795f8979fb3830144d346714ccf3e57c45462145",
+          "reviewNote": "Restricts a master association (unless acting as a section 448.3-101 association) to exercising section 448.3-102(1)(2) budget/assessment powers only as expressly permitted in declarations or power delegations."
+        },
+        {
+          "number": 3,
+          "title": "Executive board immunity for delegated master association acts",
+          "bodySha256": "4069ae10324a8f13947be72d4f8204ab08027de1249a0e0f14a770b5c087f078",
+          "reviewNote": "Relieves a condominium's executive board members of liability for a master association's acts or omissions regarding powers delegated pursuant to the declaration."
+        },
+        {
+          "number": 4,
+          "title": "Governance rights limited to master board electors",
+          "bodySha256": "550cea91cc33092c078b2d5ed615dde1daf0d97913fb008fe64a29994a3529b2",
+          "reviewNote": "Applies unit-owner rights and responsibilities under sections 448.3-103, 448.3-108, 448.3-109, 448.3-110, and 448.3-112 in master association affairs only to persons who elect the master board."
+        },
+        {
+          "number": 5,
+          "title": "Election methods for master association executive board",
+          "bodySha256": "2397e1bbcfb3346e0994ab9b1a153018b636d8073d1cf75be93bd1d8f1246557",
+          "reviewNote": "Permits governing instruments and declarations to elect the master association executive board by all unit owners, all condominium executive boards, each condominium's unit owners, or each condominium's board."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); replaced shifted/incorrect draft headings in subsections 3, 4, and 5 (executive board delegation immunity, unit-owner rights limited to board electors, and master-board election methods)."
+    },
+    {
+      "id": "448.2-121:24916",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.2-121&bid=24916",
+      "sourceSha256": "f51ca5bab92d33c30f2317bc3bb2ee0a9fd957b06bc4d05d3dd26dcf5a02efa8",
+      "textSha256": "b131991120016535ea87de4b220fd963f1a1cd69e76096bcffe35bb0ff4d2fc5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Merger or consolidation of condominiums",
+          "bodySha256": "041b053291ef8848905bf7253833b8a1b98499089ac941b0de0d9ac521e1b7ad",
+          "reviewNote": "Permits merging or consolidating two or more condominiums by subsection 2 agreement, making the resultant condominium and merged association the legal successor to all powers, assets, and liabilities unless agreed otherwise."
+        },
+        {
+          "number": 2,
+          "title": "Merger agreement execution, approval, and recording",
+          "bodySha256": "869a2d7d74994f0d58df2c0d6a8b9f1460039c8a70f37b57cf1d80568649f711",
+          "reviewNote": "Requires approval by the termination-level vote in each preexisting condominium, execution and certification by each association president, and recording in every county where located before taking effect."
+        },
+        {
+          "number": 3,
+          "title": "Reallocation of allocated interests in merger agreement",
+          "bodySha256": "227ea499a2a13016e6b9c897e97b3a65a63289903418e3ce91771b67a323b4e9",
+          "reviewNote": "Requires every merger or consolidation agreement to reallocate interests in the new association by stated reallocations/formulas or by preexisting condominium shares subdivided by prior declaration percentages."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); corrected subsection 3 heading (drafted as property/liability transfer, which is in subsection 1) to reallocation of allocated interests in merger agreements."
+    },
+    {
+      "id": "448.3-102:24918",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.3-102&bid=24918",
+      "sourceSha256": "89a5676647c8bf7ddc6f22d6c0dc072244136e8ff166d375112b1c7977d52b0b",
+      "textSha256": "5d8bee4f4bdbf09ee12718f36692ca147c35a1c09ef0cb474689227c815fd43f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Powers of unit owners association",
+          "bodySha256": "d8a82b0a153abf76f7c97b55c6e569c552bca1de627fbaae72a75697a155ca8f",
+          "reviewNote": "Enumerates seventeen permissive powers of a unit owners' association (even if unincorporated) subject to the declaration, including bylaws, budgets, hiring, litigation, contracts, common elements, fines, indemnification, and income assignment."
+        },
+        {
+          "number": 2,
+          "title": "No special declaration limits on dealing with declarant",
+          "bodySha256": "565299f7434a253da2b0c9a32a55a57872de5c0ca4ed43f645ce910a2ade92f0",
+          "reviewNote": "Prohibits the declaration from imposing limitations on the association's power to deal with the declarant that are more restrictive than limitations on dealing with other persons."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); corrected subsection 2 heading and note (draft falsely cited litigation/arbitration limits; text bars declaration limits on dealing with declarant more restrictive than with other persons)."
+    },
+    {
+      "id": "448.3-103:24919",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.3-103&bid=24919",
+      "sourceSha256": "c7c4ace927f9ca3385dd62783681f4a20d85f346d3fed28a3bed039fc2d2a979",
+      "textSha256": "3eccc481dc39c2e0f4b4af976823e65353363891eda820ee2824eaa5852fa395",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Executive board authority and standard of care",
+          "bodySha256": "aa3d6bd0281e8f0bffe8b14a3f95b4b5bbdecba9148c13b2ee3fa8dee5774ca2",
+          "reviewNote": "Authorizes the executive board to act on behalf of the association except as limited, requiring fiduciary care from declarant-appointed officers/members and ordinary and reasonable care from owner-elected officers/members."
+        },
+        {
+          "number": 2,
+          "title": "Actions reserved to unit owners",
+          "bodySha256": "be900777d8764ce2bd26489e50c41a2fb07e63fff1b9f9145124af543dab4d55",
+          "reviewNote": "Prohibits the executive board from amending the declaration, terminating the condominium, or electing board members or setting their qualifications/powers/terms, while permitting the board to fill unexpired vacancies."
+        },
+        {
+          "number": 3,
+          "title": "Association budget adoption and unit owner ratification",
+          "bodySha256": "dfbeb67be0ef7487081b04f5fcad33b2ee964451b44c09a0e656cb6bc6b41d06",
+          "reviewNote": "Requires delivering a proposed budget summary within 30 days and holding a ratification meeting 14 to 30 days after mailing; budget is ratified unless rejected by a majority of all unit owners (or larger declared vote), continuing the prior budget if rejected."
+        },
+        {
+          "number": 4,
+          "title": "Declarant control period and board member appointments",
+          "bodySha256": "536e3afeb3be15a6d270d4b1fb98e71bbd3e109d370058d07693dd0ccb0f38b7",
+          "reviewNote": "Permits a declaration-defined declarant control period terminating no later than the earliest of 60 days after 75% unit conveyance, 2 years after ceasing sales, or 2 years after last adding units, and allows voluntary surrender with recorded approval rights."
+        },
+        {
+          "number": 5,
+          "title": "Phased unit owner election of board members",
+          "bodySha256": "4ca05f81a679cabe7488d0713f70d02e67842224404722184b8befa4224d7e87",
+          "reviewNote": "Requires non-declarant unit owners to elect at least 1 member and 25% of the board within 60 days of 25% unit conveyance, and at least 33 1/3% within 60 days of 50% unit conveyance."
+        },
+        {
+          "number": 6,
+          "title": "Election of executive board upon end of declarant control",
+          "bodySha256": "344487f5667cd93fdf2e37f1d9e3ce1c400a63cbd487f04299772b6d5f0dd65c",
+          "reviewNote": "Requires unit owners by the end of declarant control to elect a board of at least three members (majority unit owners), which elects officers taking office upon election."
+        },
+        {
+          "number": 7,
+          "title": "Removal of executive board members by unit owners",
+          "bodySha256": "113f556e7c17677878c58d6cb3b21c9775c263bc54d3a980523a3ec2f13731c5",
+          "reviewNote": "Permits unit owners to remove any executive board member by a two-thirds vote of persons present and entitled to vote at a meeting with a quorum, notwithstanding declaration or bylaws."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); refined subsection 1 reviewNote to distinguish declarant-appointed fiduciary care from unit-owner-elected ordinary reasonable care, and verified subsections 2 through 7."
+    },
+    {
+      "id": "448.3-104:24920",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.3-104&bid=24920",
+      "sourceSha256": "dfbe717db18c76eb590979f324d7a1fdcd4fccd494cdaefd23f62e37c12a27cb",
+      "textSha256": "cffa02057ebccee4101e2623e2204da279a562a3f0fae9ab87bc39e4685e47e1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Transfer of special declarant rights and recording",
+          "bodySha256": "a6eb7378656ea40beca91bfc43a0297bb7d032eb2e1dc3c0b392f3e3f9870804",
+          "reviewNote": "Requires transferring special declarant rights by an instrument executed by the transferee and recorded in every county where any portion of the condominium is located."
+        },
+        {
+          "number": 2,
+          "title": "Transferor liability following rights transfer",
+          "bodySha256": "7ec49da76d8e51517aef186d51a7ac8996bb54179d84044f516eea1858f8a79a",
+          "reviewNote": "Governs a transferor declarant's continuing pre-transfer and warranty liabilities, joint liability with affiliate successors, liability for retained rights, and non-liability for non-affiliate successors' exercise of transferred rights."
+        },
+        {
+          "number": 3,
+          "title": "Foreclosure of security interest on special declarant rights",
+          "bodySha256": "d52ac2872d1baaa2d55cd800899d6148fdd7f070cf2b690ca2438a54251357e7",
+          "reviewNote": "Allows a purchaser acquiring all foreclosed/sold declarant units or development-right real estate (through foreclosure, tax/judicial/trustee sale, bankruptcy, or receivership) to succeed upon request to all special declarant rights or only model/sales-office/sign rights."
+        },
+        {
+          "number": 4,
+          "title": "Termination of declarant rights and control upon foreclosure",
+          "bodySha256": "9ea68711b374c73cd9c2f5942dba3d7e5ac3395cbdde2644c5a863edddb02755",
+          "reviewNote": "Terminates a declarant's special declarant rights and declarant control upon foreclosure or involuntary sale of all declarant units and real estate unless all special declarant rights are transferred to a successor."
+        },
+        {
+          "number": 5,
+          "title": "Liabilities and obligations of successor declarants",
+          "bodySha256": "86ff79495c4c7527ec49e5d6635db85eb752fbb0ac6bb32238ff36751572c897",
+          "reviewNote": "Details obligations of affiliate successors, non-affiliate successors, model/sales-office-only successors, and foreclosure successors who record an intention to hold special declarant rights solely for transfer."
+        },
+        {
+          "number": 6,
+          "title": "Exclusion of unrelated claims against transferor declarant",
+          "bodySha256": "f56fd751ce2304ada714919c5de8f387f729caa5cc94099c59582999d6f72b6b",
+          "reviewNote": "Clarifies that this section does not subject a successor declarant to claims or obligations of a transferor other than those arising under sections 448.1-101 to 448.4-120 or the declaration."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); replaced shifted draft headings in subsections 4, 5, and 6 (termination of declarant rights on foreclosure, successor liabilities/obligations, and limit on successor exposure to unrelated transferor claims)."
+    },
+    {
+      "id": "448.3-106:24922",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.3-106&bid=24922",
+      "sourceSha256": "7f730eb97b580e9a0a90651f3b48f8ca31e83af9a684f39b2a1a8fc5baf5ead2",
+      "textSha256": "af6de3c72aba811402a7297ff5acd90807d2fde1bc96dc1994b02252758d250c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory provisions in condominium bylaws",
+          "bodySha256": "b8e190cceb3d405048c3448e4fbbc40c1c2ce75edf273960140b3eb32de61be5",
+          "reviewNote": "Requires bylaws to address board size, officer titles/election, qualifications/terms/removal/vacancies, delegation, declaration amendment officers, and bylaw amendment voting (67% while declarant owns >=10% unless waived; majority thereafter)."
+        },
+        {
+          "number": 2,
+          "title": "Permissive bylaw matters",
+          "bodySha256": "cd62121caa801a12c88a367d4429d751c444abbc046571686d5ce2a3d58de001",
+          "reviewNote": "Permits bylaws, subject to the declaration, to provide for any other matters the association deems necessary and appropriate."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177, A.L. 2001 S.B. 178); retained both drafted titles and verified 67%-vs-majority bylaw amendment thresholds based on declarant 10% ownership."
+    },
+    {
+      "id": "448.3-107:24923",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.3-107&bid=24923",
+      "sourceSha256": "eeb2d4c131f6957f4318d496f61a76cdae83b8df3d2e6686a6197696b46cc11b",
+      "textSha256": "e269a316fe90b06ccb2f8554fa4f780a3f9bf61156557980aaf883f1a0230726",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Maintenance, repair, and access responsibilities",
+          "bodySha256": "a46d00698829edbb0a2a53062f4842b56f4c4023c4effeec13c8d5c3ca4b7e22",
+          "reviewNote": "Makes the association responsible for common elements and unit owners for units (subject to declaration, subsection 2, and section 448.3-113(8)), requires reasonable access through units, and imposes repair liability for access damage."
+        },
+        {
+          "number": 2,
+          "title": "Declarant liability for development rights property",
+          "bodySha256": "878930ccac75c1e83fb89017b3d47db42ef6289c955ea96ac7f8940aadb254d3",
+          "reviewNote": "Holds the declarant solely liable for expenses on real estate subject to development rights and allocates income or proceeds from that real estate to the declarant unless the declaration provides otherwise."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); retained both drafted titles and verified repair responsibility, access, damage liability, and declarant development-right expenses/income."
+    },
+    {
+      "id": "448.3-109:24925",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.3-109&bid=24925",
+      "sourceSha256": "3b61f26ef1931a282176aab722122fcb5354097bd25fddd64ad88b832bb8eac5",
+      "textSha256": "c532614e2596928667b350a198f77992ce1d53cbae712c749ff80e973c20a75d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Quorum requirements for association meetings",
+          "bodySha256": "fdd8071826d549a89392b40bfee7054629a0be04c8e0c0cb7fa16a6b2717dab1",
+          "reviewNote": "Deems a quorum present throughout an association meeting if 20% of board-election votes are present in person or by proxy at the start, unless bylaws provide otherwise."
+        },
+        {
+          "number": 2,
+          "title": "Quorum requirements for executive board meetings",
+          "bodySha256": "2b70a7af411ce35832c4862446e343cec30bde35e027e04a919d6b2e46876e91",
+          "reviewNote": "Deems a quorum present throughout an executive board meeting if 50% of board votes are present at the start, unless bylaws specify a larger percentage."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); retained both drafted titles and verified default 20% association quorum and 50% executive board quorum."
+    },
+    {
+      "id": "448.3-110:24926",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.3-110&bid=24926",
+      "sourceSha256": "e2e8ff4187063a25d15444dbeb58de62aec7ab27b493360e104e688f3dbaacad",
+      "textSha256": "fe0bbee250b4d2fbfadb04cd5bb627774ccd4b0738c35dc5dc78be8f1e8c1a83",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Voting allocations for multiple unit owners",
+          "bodySha256": "74bfbb3504296320e7d60f7c3f40dc1b8789f56f7a43651ed79dc678b7982b04",
+          "reviewNote": "Allows one present co-owner to cast a unit's votes and requires majority-in-interest agreement when multiple co-owners attend, presumed absent prompt protest to the presiding officer."
+        },
+        {
+          "number": 2,
+          "title": "Proxy voting rules and duration limits",
+          "bodySha256": "cbf2fab0b7bcf79c290740fe28ba194b2d415f3c72cd71cc00b5b4991c597d2c",
+          "reviewNote": "Permits voting and protest by duly executed dated proxy, revocable only by actual notice to the presiding officer, void if undated or revocable without notice, and terminating after one year unless shorter."
+        },
+        {
+          "number": 3,
+          "title": "Lessee voting rights when authorized by declaration",
+          "bodySha256": "9eb46202faab289a05f2a26e4704e15323cfe03bfa1311c11a1a50729d4c3b4b",
+          "reviewNote": "Applies subsections 1 and 2 and meeting/record rights to lessees when the declaration allocates specified votes to lessees, bars leasing owners from casting those votes, and requires section 448.3-108 notice to unit owners."
+        },
+        {
+          "number": 4,
+          "title": "Prohibition of votes by association-owned units",
+          "bodySha256": "b203c079c0f231e9488a92f8c748769db78af7d18eb5510d712d981f83687c92",
+          "reviewNote": "Prohibits casting any votes allocated to a unit owned by the association."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); retained all four drafted titles and verified co-owner voting, proxy revocation/duration, lessee voting, and association-owned unit voting ban."
+    },
+    {
+      "id": "448.3-112:24928",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.3-112&bid=24928",
+      "sourceSha256": "4909920f133c6cd0b4bdf51faf9e71fd74814b4bfafc931ff3c9a7e69d3fb913",
+      "textSha256": "eb51d8ed731a70f362e62ab77dc600b6018b8b22020a1b8ab3ff9a426576d2a8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conveyance or encumbrance of common elements",
+          "bodySha256": "cc9883b374b951771e82e5e9a412eabc46dd0889b25378112dd1a453c93d5225",
+          "reviewNote": "Permits conveying or encumbering common elements upon 80% vote (including 80% of non-declarant votes, or smaller only for exclusively nonresidential condominiums) plus all affected owners for limited common elements; sale proceeds are association assets."
+        },
+        {
+          "number": 2,
+          "title": "Agreement execution, recording, and expiration date",
+          "bodySha256": "4816e12542dfdd08bd801c2ff46c43362920a2e75542b403739b2d87cb16ed6f",
+          "reviewNote": "Requires deed-executed agreement or ratifications stating a recording voidness date, recorded in every county where situated, and effective only upon recordation."
+        },
+        {
+          "number": 3,
+          "title": "Association contracting authority for common elements",
+          "bodySha256": "66c68632e42f71c0464fe9ce943a32efa6d3f5b4f5d4c5f8e63ab09cb714a282",
+          "reviewNote": "Permits the association to contract to convey or encumber common elements, unenforceable until approved under subsections 1 and 2, after which the association may execute deeds and instruments."
+        },
+        {
+          "number": 4,
+          "title": "Invalidation of unauthorized common element transfers",
+          "bodySha256": "adaa437b4d0f37c07257d7497caa26f58fb8c41f77fdbc8c24c7fd683eec1fb9",
+          "reviewNote": "Voids any purported voluntary or involuntary transfer of common elements unless made pursuant to this section or section 448.3-117(2)."
+        },
+        {
+          "number": 5,
+          "title": "Non-impairment of unit access and support easements",
+          "bodySha256": "20a4d180d3ddc996d9abd4067907519aa6ec67d8d5f89230304948bae6021abc",
+          "reviewNote": "Provides that conveying or encumbering common elements under this section does not deprive any unit of its rights of access and support."
+        },
+        {
+          "number": 6,
+          "title": "Preexisting encumbrances not affected",
+          "bodySha256": "86fe3035262dcdc2b1ddccaaa15026f4b1b6333ef79e5b8c9bf9c299f51ab11d",
+          "reviewNote": "Provides that a conveyance or encumbrance under this section does not affect preexisting encumbrances unless the declaration provides otherwise."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); retained all six drafted titles and verified 80% vote (including 80% of non-declarant votes), limited common element unanimity, and section 448.3-117(2) exception."
+    },
+    {
+      "id": "448.3-113:24929",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.3-113&bid=24929",
+      "sourceSha256": "2d9dd665442edc412562c3f22506619d27522c9d9d2d1f98d3dcc73a2dbde381",
+      "textSha256": "df1fc85ec897a29009871aa7916c8e1c2397ccd50a41538f02fdc18ec2dc3743",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory property and liability insurance policies",
+          "bodySha256": "fce7dc9c18b60bbd19b08dad327a2143da6a058732df2dd799c109b13cb25eb8",
+          "reviewNote": "Requires the association, to the extent reasonably available from first non-declarant unit conveyance, to carry property insurance at least 80% of actual cash value after deductibles and general liability insurance."
+        },
+        {
+          "number": 2,
+          "title": "Coverage for units in multi-story horizontal buildings",
+          "bodySha256": "161805f979483b7a08351ca3fed88d6efbfeaabd04e0091593a50155a7241171",
+          "reviewNote": "Requires property insurance in buildings with horizontal-boundary units to include the units (to the extent reasonably available), excluding unit-owner improvements and betterments."
+        },
+        {
+          "number": 3,
+          "title": "Notice to unit owners if insurance is unavailable",
+          "bodySha256": "00d1c49c69329992b0fe8d897b64414cbc6bd48ba9383a4f60a2c84ef7ac5a4e",
+          "reviewNote": "Requires prompt hand-delivered or prepaid mail notice to unit owners if subsection 1 or 2 insurance is unavailable, and permits other declaration-required or board-deemed appropriate insurance."
+        },
+        {
+          "number": 4,
+          "title": "Mandatory terms of association insurance policies",
+          "bodySha256": "173e0df662051cf6728a76aef40fb626a8246e093468e177f11ef80d948ab2c9",
+          "reviewNote": "Requires policies to name unit owners as insureds for common-element/membership liability, waive subrogation against owners/household members, prevent owner acts outside association scope from voiding coverage, and provide primary insurance."
+        },
+        {
+          "number": 5,
+          "title": "Adjustment of losses and insurance trustee",
+          "bodySha256": "173d2edd25b9f653fdedaa0c21c756742b19d71a1e5c328334bb0672e9b1b0c8",
+          "reviewNote": "Directs property loss adjustment with the association and payment of proceeds to an insurance trustee or the association in trust, applied first to repair/restoration with any surplus distributed only after complete restoration or termination."
+        },
+        {
+          "number": 6,
+          "title": "Unit owner right to obtain individual insurance",
+          "bodySha256": "a2615d63cd0e14822f613941bcfb8d97cc99a8b39f2d63085b39594e74ee945e",
+          "reviewNote": "Clarifies that an association insurance policy does not prevent a unit owner from obtaining insurance for his own benefit."
+        },
+        {
+          "number": 7,
+          "title": "Insurance certificates and thirty-day cancellation notice",
+          "bodySha256": "a4657b323e930bae37a52e7196a9d92782b135a279568f0f43a5af8262c943f5",
+          "reviewNote": "Requires insurers to issue certificates or memoranda to the association and requesting owners/mortgagees, and bars cancellation or nonrenewal until thirty days after mailed notice to each."
+        },
+        {
+          "number": 8,
+          "title": "Repair or replacement of damaged property and proceeds",
+          "bodySha256": "a3c6911f4e38ee31107b4cf61b541984d3eedf8676557574db2571c5e48984f5",
+          "reviewNote": "Requires prompt repair or replacement unless terminated, illegal, or 80% of owners (including affected owners) vote not to rebuild; treats excess cost as a common expense; and governs proceeds distribution and interest reallocation."
+        },
+        {
+          "number": 9,
+          "title": "Variance or waiver for nonresidential condominiums",
+          "bodySha256": "df4dd9cf9db5bd5293eb850514c3fa6cff13c56999756cd9261df84a9bf4c943",
+          "reviewNote": "Permits varying or waiving this section's insurance provisions for a condominium whose units are all restricted to nonresidential use."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); corrected subsection 1 reviewNote ('actual cash value', not 'replacement value') and replaced shifted draft headings across subsections 6 through 9."
+    },
+    {
+      "id": "448.3-115:24931",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.3-115&bid=24931",
+      "sourceSha256": "c1a2d716a188e654ffb91e50a5ac05752e87914e0a732264e1e659c003e54ef8",
+      "textSha256": "28914aafac2a0e522a1dcfb5e26097a23b0a10ee79d5c8f2993552906b3fe4cf",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Declarant payment until assessment and annual budgets",
+          "bodySha256": "17d27f0225c35863ff8bee361a562093684b3d16fcd7f270ed8ea6796ad0cb75",
+          "reviewNote": "Requires the declarant to pay all common expenses until the association makes an assessment, after which assessments must be made at least annually based on an annually adopted budget."
+        },
+        {
+          "number": 2,
+          "title": "Allocation of common expenses and past-due interest",
+          "bodySha256": "9ee0032230a0271004f3b94bc227a6398d39032c49229ebbf37b261bb7622f4d",
+          "reviewNote": "Requires assessing common expenses (except subsections 3 and 4) per declaration allocations under section 448.2-107(1) and permits up to 18% annual interest on past-due assessments or installments."
+        },
+        {
+          "number": 3,
+          "title": "Assessment of specially allocated common expenses",
+          "bodySha256": "b4ce3605c38a675a8ad1e898e7420492707c7e64e999726e1f7538ce181eef53",
+          "reviewNote": "Provides, to the extent required by the declaration, for assessing limited common element expenses to assigned units, limited-benefit expenses to benefitted units, insurance by risk, and utilities by usage."
+        },
+        {
+          "number": 4,
+          "title": "Assessments to pay judgments against association",
+          "bodySha256": "3bf011528bad16c2ced4d725140bf09e075720da2434d139465b2bfe81165e7f",
+          "reviewNote": "Requires assessments to pay a judgment against the association to be made only against units in the condominium when judgment was entered, in proportion to common expense liabilities."
+        },
+        {
+          "number": 5,
+          "title": "Assessment of expenses caused by owner misconduct",
+          "bodySha256": "e283f32cb86236563016035cae41179a0aed5abdae07ef449dca9e9ef14e4382",
+          "reviewNote": "Permits the association to assess any common expense caused by a unit owner's misconduct exclusively against that owner's unit."
+        },
+        {
+          "number": 6,
+          "title": "Recalculation of assessments after liability reallocation",
+          "bodySha256": "7906e609456a9ebb5d4c45b2f2c796c900d8c32e6eaa1b4e6a104ec059b80233",
+          "reviewNote": "Requires recalculating future common expense assessments and installments not yet due when common expense liabilities are reallocated."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); corrected subsection 1 and replaced shifted draft headings in subsections 4, 5, and 6 (judgment assessments, owner-misconduct assessments, and recalculation after reallocation)."
+    },
+    {
+      "id": "448.3-116:24932",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.3-116&bid=24932",
+      "sourceSha256": "579dedac9138cb7ca8409b0d158842d33c18f76ff60e10fee1ab9994d62c6a54",
+      "textSha256": "1f700f969ec5a0d19a4264fd90fcdc4b3d14074e3fa40b38f809b501b74ea4f7",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Creation and foreclosure of association assessment lien",
+          "bodySha256": "7013f391d2dfb472a8b0de4ddc351b20061ba1a16f3ff565a3045942e1ed9968",
+          "reviewNote": "Creates an association lien for assessments and fines from due date, enforceable like a mortgage or chapter 443 power of sale, including section 448.3-102(1)(10)-(12) charges unless declared otherwise."
+        },
+        {
+          "number": 2,
+          "title": "Priority of assessment lien and six-month super-priority",
+          "bodySha256": "d8c94ea99e1db5993c689382349f10f8fbede3b93cc7a7cd7f8ae052c0c0dca3",
+          "reviewNote": "Sets assessment lien priority with exceptions for pre-declaration liens, pre-August 28, 2014 purchase-money mortgages, prior mortgages (subject to a 6-month judicial-foreclosure super-priority), taxes, and mechanics' liens; excludes section 513.475."
+        },
+        {
+          "number": 3,
+          "title": "Equal priority of multiple association assessment liens",
+          "bodySha256": "d78c4c7e715f7f323ff8f832cdf06f7bc20122cd2c4000134b4bb8126db2ae6e",
+          "reviewNote": "Gives liens for assessments of two or more associations on the same real estate equal priority unless the declaration provides otherwise."
+        },
+        {
+          "number": 4,
+          "title": "Automatic perfection upon declaration recording",
+          "bodySha256": "7567ff7bc3abac64849a80e105d78a26b28bcfb5d5fbe89ccc9f0973fb609dfe",
+          "reviewNote": "Establishes that recording the declaration constitutes record notice and perfection of the assessment lien with no further claim recording required."
+        },
+        {
+          "number": 5,
+          "title": "Three-year extinguishment of unpaid assessment lien",
+          "bodySha256": "c47aa137cd23a8d6f06123e097e6cba195712f21c923891a4e689ac32be37986",
+          "reviewNote": "Extinguishes an unpaid assessment lien unless enforcement proceedings are instituted within three years after the full assessment becomes due."
+        },
+        {
+          "number": 6,
+          "title": "Personal recovery actions and deed in lieu of foreclosure",
+          "bodySha256": "bcf1294066be27fd68ed46b60a90cb8f0b39d91d3f1d4f649fe85f8b55707908",
+          "reviewNote": "Clarifies that this section does not prohibit actions to recover assessment sums personally or prohibit the association from taking a deed in lieu of foreclosure."
+        },
+        {
+          "number": 7,
+          "title": "Recovery of costs and reasonable attorneys' fees",
+          "bodySha256": "e4003176e4865a03ab8240b3d3e189d37cb8a19a69fb58f4878447f9def6f203",
+          "reviewNote": "Entitles the association to collection costs/fees and prevailing parties to costs and reasonable attorneys' fees in judgment, excluding fees and costs from the subsection 2(3) super-priority lien."
+        },
+        {
+          "number": 8,
+          "title": "Association duty to furnish binding unpaid assessment statement",
+          "bodySha256": "128177ec8a0ff0d11e78c5c18ddc6ae63306868772a98ced8450043bdc7367cc",
+          "reviewNote": "Requires the association within ten business days of written request by an owner or mortgagee to furnish a recordable unpaid-assessment statement binding on the association, board, and owners unless known false."
+        },
+        {
+          "number": 9,
+          "title": "Rent demand to tenant and eviction for delinquent owner",
+          "bodySha256": "119d4b2dd3aa527bc7c13aef46f9c7197ffc35fc20754d8da29401db3af51b76",
+          "reviewNote": "Permits the association, when a record owner is over sixty days delinquent, to demand rent in writing from an occupying tenant (with tenant immunity), evict under chapter 534 for nonpayment, without granting owner voting or record rights."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177, A.L. 1998 S.B. 852 & 913, A.L. 2014 H.B. 1218) and 2013 Parkway Towers annotation; replaced shifted/incorrect draft headings across subsections 3 through 9."
+    },
+    {
+      "id": "448.3-117:24933",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.3-117&bid=24933",
+      "sourceSha256": "a9176db0266a24424fae8afb8225b6265db777408bf8c943472b51c8516e641f",
+      "textSha256": "4526164d19ff3f61bf1d5bf98e8ec25bc5b48ede286b8de128051b08be94011a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Association money judgment as lien on units",
+          "bodySha256": "f448e063089ab353c3ca81c391b94183256507fd6e4fd451b0421641ff748e7f",
+          "reviewNote": "Provides that a recorded money judgment against the association is a lien on all condominium units existing at judgment entry (not on common elements), shielding unit owners' other property from association creditors."
+        },
+        {
+          "number": 2,
+          "title": "Exhaustion of common-element security interest before units",
+          "bodySha256": "9e652a0b97daca3db47ec35c394c0a1687c4850918a775cee8f50c2bb5e98474",
+          "reviewNote": "Requires a creditor holding a section 448.3-112 security interest in common elements to exercise rights against the common elements before enforcing a judgment lien against any unit."
+        },
+        {
+          "number": 3,
+          "title": "Proportional payment and release from multi-unit liens",
+          "bodySha256": "7c605f8f63a02dda3e7f77aa3d6ce5ca5c1dafe9eb11e8f86716e02c90ad8c5c",
+          "reviewNote": "Allows a unit owner to obtain prompt release of a non-mortgage lien effective against two or more units by paying their proportional common-expense share, barring subsequent association assessment for that lien."
+        },
+        {
+          "number": 4,
+          "title": "Indexing of judgment against association as lien notice",
+          "bodySha256": "c660ef519f265696788f6b98e3e90dbd28d141fa44c6130697b9b7b7d74553b0",
+          "reviewNote": "Requires indexing a judgment against the association in the names of the condominium and association, constituting notice of the lien against the units."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); replaced all four hallucinated financial-record draft headings with accurate headings for association judgment liens, security-interest exhaustion, multi-unit lien release, and judgment indexing."
+    },
+    {
+      "id": "448.4-101:24936",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.4-101&bid=24936",
+      "sourceSha256": "309c14e4e27e61374b557d0026d944d3a1a8af4c819f32da31b06d953f3d82eb",
+      "textSha256": "1e947d6efcd2b642527c45ce733430f43ea343db1597df2e329cb00a8f08157d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Scope and nonresidential waiver of disclosure provisions",
+          "bodySha256": "6dfe418674f53dba47b6b326b3561edc4840a4e8d800bad3953d2ede7235745b",
+          "reviewNote": "Applies sections 448.4-101 to 448.4-120 to all units under the act except under subsection 2 or as modified or waived by agreement of purchasers in exclusively nonresidential condominiums."
+        },
+        {
+          "number": 2,
+          "title": "Exemptions from original sale and resale certificates",
+          "bodySha256": "a5042227aa107528c05775ffdc3f4484aa926284a64d12526d8887e6eb4d72ef",
+          "reviewNote": "Exempts six disposition types from original sale and resale certificates: gratuitous transfers, court orders, governmental dispositions, foreclosures/deeds in lieu, transfers to real estate sellers, and penalty-free cancellable dispositions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); replaced incorrect subsection 2 heading (drafted as waiver prohibition) with the six exemptions from original sale and resale certificates."
+    },
+    {
+      "id": "448.4-102:24937",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.4-102&bid=24937",
+      "sourceSha256": "90a87f9b852197540c73abd292e574433e908c5f61d104ecfb56efca2f34fbfc",
+      "textSha256": "df14261cbe311f2722d93e2a2e755d4add7ad1553d27b039307472b863b97c56",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Declarant duty to prepare original sale certificate",
+          "bodySha256": "86fbf0dc13bd682b9db6637b8f24ff75fbb81e44e71f9a65c23e2400d7b8fd38",
+          "reviewNote": "Requires a declarant, except under subsection 2, to prepare an original sale certificate conforming to sections 448.4-103 to 448.4-106 before offering any unit interest to the public."
+        },
+        {
+          "number": 2,
+          "title": "Transfer of certificate preparation responsibility",
+          "bodySha256": "9e6f15574870dfe1937cd3c608e2e9cbe64a342b2ae031f601c4fe60ee2f61ae",
+          "reviewNote": "Permits a declarant to transfer original sale certificate preparation responsibility to a successor declarant or real estate seller offering units for his own account, requiring provision of necessary information."
+        },
+        {
+          "number": 3,
+          "title": "Delivery duty and liability for misstatements or omissions",
+          "bodySha256": "c942ab7d58c60f59f8b9d9f8c21f6f243f76ed16d94d14b0d3531feb17a4f158",
+          "reviewNote": "Requires delivering an original sale certificate under section 448.4-108(1), imposes liability under sections 448.4-108 and 448.4-113 on preparers for false/misleading statements or material omissions, and limits non-preparer declarant liability to actual or constructive knowledge."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); replaced all three shifted/incorrect draft headings with declarant preparation duty, transfer of preparation responsibility, and delivery/misstatement liability."
+    },
+    {
+      "id": "448.4-103:24938",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.4-103&bid=24938",
+      "sourceSha256": "db439b4a8dc83b27e4e8b65582eacfcc079cfe4f1b20ebecd98e845d9dd84586",
+      "textSha256": "94d4ad8e3de7b95f08bdcd94594c185d25643cde874e80558961da1de0ca2bae",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory disclosures in original sale certificate",
+          "bodySha256": "84cf2dd748d7254f4b104d2592d3bd7d704d0ffae6f89d1a4dded33fa4f467de",
+          "reviewNote": "Enumerates sixteen mandatory original sale certificate disclosures including condominium description, governing documents, projected/current budget and reserves, closing fees, warranties, 10-/5-day cancellation rights, judgments/suits, escrow, restraints, insurance, fees, financing contingencies, and improvement lists."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); retained single drafted title and verified all sixteen mandatory original sale certificate disclosures."
+    },
+    {
+      "id": "448.4-106:24941",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.4-106&bid=24941",
+      "sourceSha256": "d387dded73f5770df6b0ff3716226a3ff5245d9ea55dd7a1b7ae81bf39f3fbd8",
+      "textSha256": "567fb6415fcdeb3e0c9e6f91eaf10a848cb943a48cc7212b7ffaa666c48affba",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Additional sale certificate disclosures for conversion buildings",
+          "bodySha256": "e72bd440aad6cd4ab5d189faf97bbf1d0dc4a9b495e6715a165e752bff6fafa8",
+          "reviewNote": "Requires original sale certificates for condominiums with conversion buildings to disclose work performed on major building systems/insulation (with R-value and efficiency ratings) and any uncured building-code or municipal violation notices."
+        },
+        {
+          "number": 2,
+          "title": "Limitation to buildings with residential units",
+          "bodySha256": "3d81e9948f44524640a76782a61c9d62fb4616e3038c9df286c67d23ff9c6b85",
+          "reviewNote": "Limits this section's conversion-building disclosure requirements to buildings containing units that may be occupied for residential use."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); replaced both hallucinated escrow-deposit draft headings with accurate conversion-building disclosure and residential-applicability headings."
+    },
+    {
+      "id": "448.4-109:24944",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.4-109&bid=24944",
+      "sourceSha256": "d193dfbb1be692b504869e133d65ba1aaa44d3ad56e2e70dce102b40fa5bbef9",
+      "textSha256": "054f1000a95ff91b2fb053d955181ad78043cd5330fa0c24338afe510af8660b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Resale certificate disclosure by selling unit owner",
+          "bodySha256": "711d1f0c0ffbf5b9623171ec8bb76e7763b034e0239ad38234c4199ba82ed422",
+          "reviewNote": "Requires a reselling unit owner (unless original sale certificate required or exempt under section 448.4-101(2)) to furnish governing documents and eleven financial, litigation, insurance, alteration, and leasehold disclosures before contracting or conveyance."
+        },
+        {
+          "number": 2,
+          "title": "Association duty to furnish resale information",
+          "bodySha256": "fa02de54826a76889f45a65a5cceebb037fde081f5974c6562fe82a3e766a357",
+          "reviewNote": "Requires the association to furnish certificate information within ten days of owner request and relieves the selling unit owner of liability for erroneous association-supplied information."
+        },
+        {
+          "number": 3,
+          "title": "Purchaser non-liability for unrecorded assessments",
+          "bodySha256": "5ebf5a11f96ad25f019a3a976182324f27f2a6bcd195632e95067fd758e02e0f",
+          "reviewNote": "Caps a purchaser's liability at unpaid assessments stated in the certificate, shields the seller from association delay, and makes the contract voidable until five days after certificate delivery or conveyance."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); retained all three drafted titles and verified eleven resale disclosures, owner non-liability for association errors, and five-day contract voidability."
+    },
+    {
+      "id": "448.4-111:24946",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.4-111&bid=24946",
+      "sourceSha256": "14e7ecae493dd3d8cf85a0a55e10aac864b9884e9f673b5d7f1ef2666d69b3f0",
+      "textSha256": "ea3d14fc78034b0dcec90da83e682a9ad0ddcd2cb2baac8a76f503fec2d0b5bf",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Release of liens before conveying unit",
+          "bodySha256": "717836242d62fc74f5abec50a7cc3ee8ec82edf2b0295337dafdd8f723c48402",
+          "reviewNote": "Requires a seller in a sale requiring an original sale certificate to record or furnish releases of unassumed liens affecting the unit and common-element interest (or provide bond/collateral/insurance) before conveyance, excluding withdrawable real estate."
+        },
+        {
+          "number": 2,
+          "title": "Release of liens before conveying real estate to association",
+          "bodySha256": "ba46dba20b37437bc3cd155d4266749f2db83a04327e5b7a516a9b4163ba683e",
+          "reviewNote": "Requires a declarant before conveying real estate to the association to release all liens whose foreclosure would impair unit access/support and all other liens unless disclosed in specified amounts in the original sale certificate."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); replaced both hallucinated conversion-tenant draft headings with accurate lien-release headings for unit conveyances and conveyances to the association."
+    },
+    {
+      "id": "448.4-112:24947",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.4-112&bid=24947",
+      "sourceSha256": "03b99c7f3584b4b58c2bfcd5b6c234c02f4df967c337160d3832067fea476565",
+      "textSha256": "58a909b82aa504400610d4248da0364a3975d0ff11eb96b1da0c609d83a3f2df",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conversion notice to residential tenants and vacation period",
+          "bodySha256": "0892394b566c340aa199bd3944e26b163c040ff8ff0e75b5bf0f8d6bba310c8b",
+          "reviewNote": "Requires 120 days' notice of conversion and delivery of the original sale certificate at least 60 days before requiring vacation (except for nonpayment, waste, or disturbance), barring tenancy changes and making non-notice a possession defense."
+        },
+        {
+          "number": 2,
+          "title": "Local government tenant data form with conversion notice",
+          "bodySha256": "0f021071965ed298a29263035513c9c099f951441d03270b465aae5362d7d4cb",
+          "reviewNote": "Requires accompanying the subsection 1 conversion notice with any local-government form requesting age, income, or other data on low- or moderate-income tenants."
+        },
+        {
+          "number": 3,
+          "title": "Occupancy rights and MHDC financing for elderly and disabled tenants",
+          "bodySha256": "ccef41d405eaf820037e9b084a59cb2a17641a369b8d28e0351e1fad187d0ab3",
+          "reviewNote": "Grants qualifying low/moderate-income elderly (3-year + 4 renewals) and disabled (1-year + 2 renewals) tenants in 6+-unit conversion buildings rental retention rights (up to 10% of units), caps rent, and conditions rights on Missouri Housing Development Commission financing limiting rent to 30% of gross income."
+        },
+        {
+          "number": 4,
+          "title": "Tenant sixty-day purchase option and 180-day price protection",
+          "bodySha256": "4740571350da0764573e1772084b15233198705a9310a1e51598963109e79ee2",
+          "reviewNote": "Requires offering leased residential units to tenants for 60 days after original sale certificate delivery (extendable for assisted buyers) and bars more favorable offers to others for 180 days without giving the tenant 10 days to match."
+        },
+        {
+          "number": 5,
+          "title": "Bona fide purchaser deed extinguishment and tenant damages",
+          "bodySha256": "b2109c1f9c80df70eb9c6163431ab4a35a3740af4a6dd16efa5ebfc9fe597d7c",
+          "reviewNote": "Extinguishes a tenant's subsection 4 purchase right upon recording a deed reciting compliance to a purchaser for value without knowledge, while preserving the tenant's damages claim against the declarant."
+        },
+        {
+          "number": 6,
+          "title": "Conversion notice operating as statutory notice to vacate",
+          "bodySha256": "86798dcd930950e307d839b22509bf7266af796efaead34ae2a7b5945b8403f1",
+          "reviewNote": "Provides that a conversion notice specifying a vacation date and complying with sections 441.050 and 441.060 also constitutes a notice to vacate under those sections."
+        },
+        {
+          "number": 7,
+          "title": "No termination of lease in violation of lease terms",
+          "bodySha256": "ff8ff64bab33eabfedcbbf3fccd7c69fcb94826ad7418f1823ba7e7fb9eb8cfa",
+          "reviewNote": "Clarifies that nothing in this section permits a declarant to terminate a lease in violation of its terms."
+        },
+        {
+          "number": 8,
+          "title": "Written notice of conversion to municipal building department",
+          "bodySha256": "dbbc1cc8bc407752eb0fb2f107a4e8e702562e7080e0fbf9e983a283712e3010",
+          "reviewNote": "Requires filing written conversion notice with the municipal building-code department (or equivalent) when giving conversion notice to tenants."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); replaced all eight hallucinated express-warranty draft headings with accurate conversion-building tenant notice, elderly/disabled occupancy, purchase-option, and municipal-notice headings."
+    },
+    {
+      "id": "448.4-113:24948",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.4-113&bid=24948",
+      "sourceSha256": "d19bf01f14f4e84f888e47b8d237bd9c8d30b1d55d01a7571db53e60a3981f70",
+      "textSha256": "7ebc47c6bf3f4c5ed512af10dbda1f1d485ff57f379f4f83559b59a08bf47abd",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Creation of express warranties of quality",
+          "bodySha256": "1a24fdbc2265d9b628d4a987d682e4614575a00b031cc9ae9252dcb87ad6e0c1",
+          "reviewNote": "Establishes four ways seller statements, models/descriptions, quantity/extent descriptions, or use-restriction provisions create relied-upon express warranties of quality."
+        },
+        {
+          "number": 2,
+          "title": "Informal creation and exclusion of opinion statements",
+          "bodySha256": "70c54c0f9a23e1a5a440a030af21da7c90f2a559d862c599ff0be582c7d685f7",
+          "reviewNote": "Clarifies that formal words like 'warranty' or specific intent are unnecessary to create an express warranty, whereas mere opinions or commendations of value do not create a warranty."
+        },
+        {
+          "number": 3,
+          "title": "Transfer of express warranties to subsequent purchasers",
+          "bodySha256": "ddbbdccce328c8e3a3149b27a79e14140bd40209bb3f2d74115fa07c5a642d3b",
+          "reviewNote": "Transfers all express warranties of quality made by previous sellers to the purchaser upon any unit conveyance."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); replaced all three incorrect implied-warranty draft headings with accurate express-warranty creation, informal wording/puffery, and transfer headings."
+    },
+    {
+      "id": "448.4-114:24949",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.4-114&bid=24949",
+      "sourceSha256": "c1f34c4db582afcfe4d880353515f801caf3066efec654f9f838099c5ee3beeb",
+      "textSha256": "37a592a7d972aad54fdf4079847eac14479f091f697423d3cd035d2459cc9143",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Implied warranty of condition at conveyance",
+          "bodySha256": "dd370f3b2a5ecad6d5e0cda26253b68cd4341279e2b9a101ef5f1ed47394b59a",
+          "reviewNote": "Warrants that a unit will be in at least as good condition at the earlier of conveyance or possession delivery as at contracting, reasonable wear and tear excepted."
+        },
+        {
+          "number": 2,
+          "title": "Implied warranty of fitness and sound construction",
+          "bodySha256": "d6061745baa4fb2364c54ac6cb5137e11a215d4d9a889ff318b3b57b04c7cf2a",
+          "reviewNote": "Impliedly warrants suitability for ordinary uses and that improvements made/contracted by the seller or made before creation are free from defective materials and built lawfully, soundly, and in a workmanlike manner."
+        },
+        {
+          "number": 3,
+          "title": "Warranty of lawful residential use",
+          "bodySha256": "8d025c7b4ef9891eb9216da7baf21c6ab2211b3b8ee64acf5962d094831efb66",
+          "reviewNote": "Warrants to a residential-unit purchaser that a contemplated continuing existing use does not violate applicable law at the earlier of conveyance or possession delivery."
+        },
+        {
+          "number": 4,
+          "title": "Modification and exclusion of implied warranties",
+          "bodySha256": "571798d70a98f8a95a069bc19d089389f631f12983b45a7edaf6baf96158a78c",
+          "reviewNote": "Provides that warranties under this section may be excluded or modified as specified in section 448.4-115."
+        },
+        {
+          "number": 5,
+          "title": "Improvements made by declarant affiliates",
+          "bodySha256": "a0896fcfde80343ab99e31220ba18822173c4fd753e4350d66bbc4d295bfe1e4",
+          "reviewNote": "Deems improvements made or contracted for by an affiliate of a declarant to be made or contracted for by the declarant."
+        },
+        {
+          "number": 6,
+          "title": "Transfer of implied warranties to subsequent purchasers",
+          "bodySha256": "183d7640fea029f32fba0c05ec925219a92a6ee65c3ed9c68083436b05d9d635",
+          "reviewNote": "Transfers all of any declarant's implied warranties of quality to the purchaser upon any unit conveyance."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); retained all six drafted titles and verified condition, fitness/construction, lawful residential use, section 448.4-115 modification, affiliate attribution, and transfer."
+    },
+    {
+      "id": "448.4-115:24950",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.4-115&bid=24950",
+      "sourceSha256": "a6b65450667802a3339b07af7839e951e124cfb7eb74d6fdcf08a2618d6a7469",
+      "textSha256": "280bfa77acbad7a8f50cfa6369767dc0ea3f1119196b8cadd89e4fab49ac9172",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exclusion or modification of implied warranties",
+          "bodySha256": "6ed69efb54a8dca705c93dbc99e8281a7c9c5a775f32ce78ae88c43e74be9b95",
+          "reviewNote": "Permits excluding or modifying implied warranties of quality by agreement or 'as is'/'with all faults' disclaimer language, except as limited by subsection 2 for residential units."
+        },
+        {
+          "number": 2,
+          "title": "Specific disclaimer requirements for residential units",
+          "bodySha256": "42b4f8da218293a14c733c9606536de0ede7fbe6324e450b020901fc66a0a5a2",
+          "reviewNote": "Renders general disclaimers ineffective for residential units while permitting a declarant to disclaim liability in a purchaser-signed instrument for a specified defect or legal noncompliance forming part of the basis of the bargain."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); retained both drafted titles and verified general exclusion/as-is rules and signed defect-specific disclaimer requirement for residential units."
+    },
+    {
+      "id": "448.4-116:24951",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.4-116&bid=24951",
+      "sourceSha256": "947ebc180df7c42d1bef6ff991f78b216dbba6b695c533d5c735f974f3fba231",
+      "textSha256": "03ed4ca3da86281f11cbf270b9b4fc211d684fb60c7acc29db9acbc0c29b39c9",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Six-year statute of limitations on warranty claims",
+          "bodySha256": "2aee469d080a59a4e695f1cdcd19c2ab55b0b4f8be0ec6e1f127fa267c2674ec",
+          "reviewNote": "Sets a six-year limitations period for section 448.4-113 or 448.4-114 warranty actions, reducible by agreement to not less than two years (requiring a separate purchaser-executed instrument for residential units)."
+        },
+        {
+          "number": 2,
+          "title": "Accrual of cause of action for warranty breach",
+          "bodySha256": "f941278f17840c263f2189ad23146ea35b5f4c31ba337479dafbc5d1bbd14f26",
+          "reviewNote": "Fixes accrual regardless of knowledge at possession or conveyance acceptance for units, and at completion or first bona fide unit conveyance (whichever is later) for common elements."
+        },
+        {
+          "number": 3,
+          "title": "Accrual for warranties extending to future performance",
+          "bodySha256": "ec1dfa7b491b6fa2aa07ad48db9fd09bf2205963d4c8afcd1656bf02b0ea6e5f",
+          "reviewNote": "Fixes accrual for warranties explicitly extending to future performance or duration at discovery of the breach or the end of the explicit warranty period, whichever is earlier."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); retained all three drafted titles and verified 6-year/2-year separate-instrument reduction, unit/common-element accrual, and future-performance discovery accrual."
+    },
+    {
+      "id": "448.4-119:24954",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=448.4-119&bid=24954",
+      "sourceSha256": "10a7ad149c1670c2daba23d9b395b7b81ba764eafba0175bc82d8bdea1d53de2",
+      "textSha256": "9206dc0a3597f5fc1dece9ceff942484b05a05669413246f3f0d2a873703ab88",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Declarant obligation to complete promised improvements",
+          "bodySha256": "779a3d4e4ea6719fdd6d5c4da319d61459fabc74673ef55fdd8f7d518106b037",
+          "reviewNote": "Requires the declarant to complete all improvements labeled 'SHALL BE BUILT' on plats or plans prepared under section 448.2-109."
+        },
+        {
+          "number": 2,
+          "title": "Declarant liability for restoration after rights exercise",
+          "bodySha256": "db1953cd1ff6de4d0277b708a43c6b5f5a86eaa205b741869b7dc27b327f5aca",
+          "reviewNote": "Holds the declarant liable for prompt repair and compatible restoration of any condominium portion affected by exercising rights under sections 448.2-110 through 448.2-113, 448.2-115, and 448.2-116."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 H.B. 177); retained both drafted titles and verified completion of 'SHALL BE BUILT' improvements and prompt restoration liability."
+    }
+  ]
+}

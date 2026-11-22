@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "470.020:25932",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=470.020&bid=25932",
+      "sourceSha256": "43cd6160a1a586951b5646bb4353c88b807f66e4217c3d01da0ebbb37c35900b",
+      "textSha256": "c532a92716d6dca5669551f6028475e0a80fbf9eb51d70f3745003567af19b29",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Payment of unclaimed moneys upon court order",
+          "bodySha256": "38d525aebb9ce5638476d4eac6c3f69de23a80f7c7c01a6bbc4b7d3f2fb6df06",
+          "reviewNote": "Covers court-ordered payment to the state treasurer within one year after final settlement of unpaid or unclaimed moneys held by an executor, administrator, assignee, sheriff, or receiver under section 470.010."
+        },
+        {
+          "number": 2,
+          "title": "Transferred property deemed unclaimed property under chapter 447",
+          "bodySha256": "05a1328e893242179da4873bad0bf27275f48d14385230e68b6532af48c40658",
+          "reviewNote": "Covers classification of transferred real and personal estate as unclaimed property governed by chapter 447 beginning January 1, 2003."
+        },
+        {
+          "number": 3,
+          "title": "Abolition of escheats fund and transfer of moneys and records",
+          "bodySha256": "752fa411a7360e8f4408ef8277a64b2ad5673741f06620ff16c48aae42a3be4b",
+          "reviewNote": "Covers abolition of the escheats fund, transfer of moneys to the abandoned fund account, and transfer of accounting records to the unclaimed property division."
+        },
+        {
+          "number": 4,
+          "title": "Custody of fund commissioner bonds, interest, and proceeds",
+          "bodySha256": "9d2d9985b6b75b3e962d18267295c315909f16bec1dfbd6ba19a2ed66935c444",
+          "reviewNote": "Covers state treasurer custody of pre-2003 fund commissioner bonds, deposit of interest into the abandoned fund account, and use and disposition of proceeds in consultation with the board."
+        },
+        {
+          "number": 5,
+          "title": "Annual abandoned fund transfer to public schools fund",
+          "bodySha256": "4ef6d3290a8841104778a5cb20adfb47f0f7a4ac2918fc607251f142bd2199ae",
+          "reviewNote": "Covers mandatory annual transfer from the abandoned fund account to the public schools fund equal to 5% of net transfers to general revenue beginning in FY 2003; source cross-references section 166.011."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked all five subsections on court-ordered unclaimed money payments, chapter 447 classification, escheats fund abolition, fund commissioner bonds, and annual 5% public schools fund transfer; notes cross-reference to section 166.011."
+    },
+    {
+      "id": "470.030:25933",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=470.030&bid=25933",
+      "sourceSha256": "f9ac27a158bfb048fbcb1a51fdedbc64f2f367f7200eea5e8db8f762f09a28c7",
+      "textSha256": "8ffe8063eb3cd1452598f7148e0294c021458b4b2056baa01361a1d7f46fa347",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_10",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Settlement credit and motion for judgment on unpaid moneys",
+          "bodySha256": "3bb277188da0e7bd6006899c51cb3e93ffdceac6fc5f3b18a38de2227a916f57",
+          "reviewNote": "Covers settlement account credit and prosecuting attorney motion for judgment with eight percent interest against fiduciary and sureties upon ten days' notice."
+        },
+        {
+          "number": 2,
+          "title": "Summary determination, judgment entry, and assessment of costs",
+          "bodySha256": "89d902736e2d4546b5d029dc31ecaedcd99babd84a38894c1df661549f27d2cd",
+          "reviewNote": "Covers summary court determination, entry of judgment absent valid excuse, and assessment of proceedings costs against fiduciary."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_10",
+      "reviewSummary": "Source-checked both subsections on settlement account credit, prosecuting attorney motion for judgment with 8% interest on ten days' notice, and summary determination with costs (Effective 6-19-02)."
+    }
+  ]
+}

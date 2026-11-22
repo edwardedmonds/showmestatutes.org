@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "446.175:24764",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=446.175&bid=24764",
+      "sourceSha256": "af49c3588b1ef102edff2357836e7c26678890417550e90e18818b8523256d9d",
+      "textSha256": "abab07001494e09f1effdb1685267a01eef578f09d08be8ede4420329bfa2265",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application prerequisites for unissued state land patent",
+          "bodySha256": "f2d79e5e6beeb3a008e30bd717c095dea2ef7e74691b291836b14e7e5a7cd734",
+          "reviewNote": "Allows an owner of state land lacking an issued patent to acquire one by proving purchase and payment to the state plus ten years of open, notorious, exclusive, continuous, adverse, and hostile possession via affidavits of two disinterested township householders."
+        },
+        {
+          "number": 2,
+          "title": "Patent issuance by secretary of state",
+          "bodySha256": "d34d05c09a38e5f73614aea6ffe3308c8a2d95f576aeb5e83d959ad1c3534076",
+          "reviewNote": "Directs the secretary of state to issue the requested patent upon compliance with subsection 1 subdivisions (1) and (2); the governor is not mentioned in this section."
+        },
+        {
+          "number": 3,
+          "title": "Limitation to undisposed state land records",
+          "bodySha256": "bd727933548bca40e5bc6dd7236b97a58bfdae6d4a5e4303c312c1f5bf652ca8",
+          "reviewNote": "Limits the section to land shown by secretary of state records to be state land not disposed of to any other person, once all required documents and proofs are filed in the land department."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (L. 1983 S.B. 109); removed erroneous governor reference in subsection 2, corrected subsection 1 reviewNote to remove non-statutory 'record chain of title' alternative, and aligned subsection 3 to 'undisposed'."
+    },
+    {
+      "id": "446.180:24765",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=446.180&bid=24765",
+      "sourceSha256": "53c67127e08d6b0a0e982ffc6402c514c0893fc6198b095317f27bb2fdf4806e",
+      "textSha256": "b704be1c2b08df019c28902526158628593b566171f448816563f9f720472edf",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application to correct misdescribed land in patent",
+          "bodySha256": "f273a5b7125287f98cf9451a07d3a7f171c5c765ee801ccaabeea5a180c638e4",
+          "reviewNote": "Allows a patentee or successor by mesne conveyances to seek a corrected patent upon proving state purchase and payment and filing an affidavit disclaiming any claim to the erroneously described land."
+        },
+        {
+          "number": 2,
+          "title": "Delivery of erroneous patent, adverse possession, and release",
+          "bodySha256": "97b4125b1278e47857484f2c9aad584deda8d8ae7d3187661368bcaab34acc0a",
+          "reviewNote": "Requires the secretary of state to issue a corrected patent upon delivery of the erroneous patent or certified copy (or proof of ten years' adverse possession by two disinterested township householders) and execution of a deed releasing the erroneously patented land to the state."
+        },
+        {
+          "number": 3,
+          "title": "Limitation to undisposed state land records",
+          "bodySha256": "bd727933548bca40e5bc6dd7236b97a58bfdae6d4a5e4303c312c1f5bf652ca8",
+          "reviewNote": "Restricts correction to state land shown on secretary of state records as not disposed of to any other person, with all required documents and proofs filed in the land department."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text (RSMo 1939 \u00a7 12715, A.L. 1983 S.B. 109); retained all three drafted titles and verified patent delivery, ten-year adverse possession alternative, release deed, and undisposed-land limitation."
+    },
+    {
+      "id": "446.190:24766",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=446.190&bid=24766",
+      "sourceSha256": "5660535f40ed96ed674d51d8ae68f0783c3d2411c6c8a0017b34f297b1480286",
+      "textSha256": "f7bc2d08f3c98fdca45d4ef00f5b5da47f5d38eba67b3928dcd1cebd4d308228",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Certification of abstracts replacing destroyed land records",
+          "bodySha256": "8474a6845765b5ef563aadabd4aed8537747e4c544b56492d2acc0d83a073f0d",
+          "reviewNote": "Directs circuit judges with county commissioners (or circuit judges in the City of St. Louis) to examine lost, destroyed, or injured land records and certify preexisting business abstracts as prima facie evidence."
+        },
+        {
+          "number": 2,
+          "title": "Duty of record custodian to furnish certified copies",
+          "bodySha256": "3279d4e893e2bd920d3c934630fe0bf99721dc6e7568a0ee10026fe5e380dcf9",
+          "reviewNote": "Requires owners, keepers, or custodians of certified abstracts, minutes, copies, or extracts to furnish sworn certified copies upon payment or tender of statutory fees."
+        },
+        {
+          "number": 3,
+          "title": "Compelled court production under subpoena duces tecum",
+          "bodySha256": "c299a4efb54aa1d17e9195df045125671c8625d813581d12611d957166a12426",
+          "reviewNote": "Requires custodians to produce certified abstracts in court upon payment or tender of fees and authorizes courts to compel production by subpoena duces tecum."
+        },
+        {
+          "number": 4,
+          "title": "Presumption of regularity for recorded instruments",
+          "bodySha256": "009f4f24bac5e77bc9c623516ef3a350a53eb8d9b95e58d793821f28dda38789",
+          "reviewNote": "Presumes due execution of instruments and regularity of sales under powers of attorney, judgments, or decrees shown in certified abstracts (sections 446.190 to 446.220), placing the burden of proof on challengers without impairing notice effect."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text and effective date (1-02-79); refined subsection 1 title to clarify certification of replacement abstracts (including City of St. Louis) and verified subsection 4 notice-effect proviso."
+    },
+    {
+      "id": "446.200:24767",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=446.200&bid=24767",
+      "sourceSha256": "18122c4da478f0e937f28b5a97db23dd9f421f771998f823df0569b34f07e262",
+      "textSha256": "45d0f73b4e34a74cfcd03defb390b8e8403667553ff324e85d9ed73e701b8e4e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_7",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Circuit court entry and recording of judges' certificate",
+          "bodySha256": "11fe55570546e96ca5bc147caa8fcdde409edb3bd8f150d40dc81c94ad39566f",
+          "reviewNote": "Directs the circuit clerk to enter and spread the section 446.190 certificate of circuit judges and county commissioners (or St. Louis circuit judges) upon the circuit court records."
+        },
+        {
+          "number": 2,
+          "title": "Transmission and recording in county land records",
+          "bodySha256": "325942165a7ec12e8f2114c98f32722b12011986ad51c58a5aed26baccbcc467",
+          "reviewNote": "Directs the circuit clerk to transmit a certified copy of the certificate from circuit court records to the recorder of deeds for recording in the land record books."
+        },
+        {
+          "number": 3,
+          "title": "Certified copy of certificate as prima facie evidence",
+          "bodySha256": "96474f6ecf67f64b68ace3ffa517fdebfbc5e67d49409d7e3444d862f8bac037",
+          "reviewNote": "Makes a certified copy of the judges' certificate under the circuit clerk's hand and official seal prima facie evidence of its facts and recitals in all courts and inquiries in Missouri."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_9",
+      "reviewSummary": "Checked complete archived text and revision history; corrected missing possessive apostrophe in subsection 1 title and tightened subsection 2 phrasing."
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "459.015:25812",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=459.015&bid=25812",
+      "sourceSha256": "6ee4d7f6edb58aff76e554bf57f17bd68814c7a36cb6d4f34ed6de5c1add4548",
+      "textSha256": "9191bb24b2dafa21a41c293ad2ccfbe35a6e034876b1428297dcc75de638bde6",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Execution and witness requirements for death-prolonging declaration",
+          "bodySha256": "ee10774d4f0955863c5e36bc11178f04197cf50855af779794493ddb0bab8b1a",
+          "reviewNote": "Covers written execution, signing, dating, and two-witness requirements for declarations directing withholding of death-prolonging procedures."
+        },
+        {
+          "number": 2,
+          "title": "Declarant duty to notify attending physician and record entry",
+          "bodySha256": "1120e108f05b973c7766de75d9057dbc213caaae2b1bced50818342017b903ad",
+          "reviewNote": "Covers declarant responsibility to notify attending physician and placement of living will declaration into medical records."
+        },
+        {
+          "number": 3,
+          "title": "Sample statutory declaration form and severability",
+          "bodySha256": "29dc9f2c9cfacdc0e266a45e1dfc5240a779c0e8ff50d77a1db96a8ae60fa910",
+          "reviewNote": "Covers permissible sample statutory declaration form, revocation provision, and severability of specific directions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections (including embedded statutory declaration and revocation form) against archived text: execution/witness requirements, physician notification/medical record filing, and optional form/severability."
+    },
+    {
+      "id": "459.020:25813",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=459.020&bid=25813",
+      "sourceSha256": "77ee41ccbe00ccfb520b029d61dab3f439794a221ffdc5a5c06929cdfc582fce",
+      "textSha256": "61ec86f8890167d45cb622fa5096444aaa97d9f7442d8d87e8b4ad46501b780c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Revocation of declaration at any time in any manner",
+          "bodySha256": "b43024ec4d19f0a4735e589b4cb067933d2753b904856f72ed017f785005e28a",
+          "reviewNote": "Covers declarant right to revoke declaration at any time and in any communicative manner without regard to physical or mental state."
+        },
+        {
+          "number": 2,
+          "title": "Physician duty to record revocation in medical records",
+          "bodySha256": "ab04c8131a69843cbb61d42b93746c0ebdbcd9fe38dc11217470e0836645c4bd",
+          "reviewNote": "Covers attending physician or healthcare provider duty to record revocation in declarant's medical record."
+        },
+        {
+          "number": 3,
+          "title": "Immunity absent actual knowledge or medical record entry",
+          "bodySha256": "3e6a6baf08f63f458606e078d8a04e2b7cf1b2b0fb370cf1af4ee0561d31b2c0",
+          "reviewNote": "Covers civil and criminal immunity protecting persons failing to act on revocation absent medical record entry or actual knowledge."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections against archived text: revocation at any time in any manner regardless of condition, medical record entry, and immunity absent record entry or actual knowledge."
+    },
+    {
+      "id": "459.030:25815",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=459.030&bid=25815",
+      "sourceSha256": "5c38157d0fc142f3ee6f05be425f1cf3922bf6a31cf0f57b2b8b7048f348b5af",
+      "textSha256": "7421da20b66193b21783673105049e40ea6c97bc9aeaa9700eaba068892de7e0",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Unwilling physician duty to effect patient transfer",
+          "bodySha256": "67a330b0fc8b446bf6db662377a01379d02c9ce40132fdbf91e24dc39cc56d80",
+          "reviewNote": "Covers obligation of attending physician unwilling to honor living will declaration to take reasonable steps to transfer patient."
+        },
+        {
+          "number": 2,
+          "title": "Health care facility policy transfer obligations",
+          "bodySha256": "e43505b313f264910d04557f5808c87bdf6f6a7a056229243782fdd78d0f3b32",
+          "reviewNote": "Covers healthcare facility duty to effect patient transfer when facility institutional policies preclude complying with declaration."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified both subsections against archived text: reasonable transfer duties for unwilling attending physicians and health care facilities with preclusive policies."
+    },
+    {
+      "id": "459.045:25818",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=459.045&bid=25818",
+      "sourceSha256": "935d01e95e4668c0b2b614c52bf2e41be3b80ffd1baefa11e0642c9edf3d679e",
+      "textSha256": "253fb8cb9d5f2984a0d6db51faa592bdd78ec411d61c70e2b5c051c7fe86890d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Professional discipline for physician failure to honor declaration",
+          "bodySha256": "c0e49be80dc4c96444b7ee41d919b9af35bf14dbce7628c0ed6f65155adb90c5",
+          "reviewNote": "Covers classification of failure to honor declaration without serious reason as unprofessional conduct for physicians and providers."
+        },
+        {
+          "number": 2,
+          "title": "Loss of testamentary inheritance rights for acting contrary to wishes",
+          "bodySha256": "a4322f12485f46fb2a7182ebe8782a90359574710e30a0680ef4616e3a0d16c6",
+          "reviewNote": "Covers forfeiture of testamentary inheritance rights under declarant's will for acting contrary to patient's expressed intentions."
+        },
+        {
+          "number": 3,
+          "title": "Misdemeanor penalty for concealment or falsification of declaration",
+          "bodySha256": "b9a8d9e4a692d61747be89c8c7b144bf724e4a9657bf9f44ab6f4da2116cb8b2",
+          "reviewNote": "Covers classification of willful concealment, destruction, or forging of a declaration or revocation as a class A misdemeanor."
+        },
+        {
+          "number": 4,
+          "title": "Felony penalty for forged declaration causing hastened death",
+          "bodySha256": "dd3961332e8d568d01fc22f0ad8000f35ce3cbc390fc358c6a0f6cfaf2e0be67",
+          "reviewNote": "Covers classification of forging declaration or concealing revocation causing withdrawal of treatment and death as class B felony."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 4 subsections against archived text: unprofessional conduct for disregarding declaration, testamentary inheritance forfeiture, class A misdemeanor concealment/forgery, and class B felony forgery/concealment causing hastened death."
+    },
+    {
+      "id": "459.050:25819",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=459.050&bid=25819",
+      "sourceSha256": "65baca7b1de21dcaf53cc1f80d506a4639804447cc1a21342d8fde2d7cc18923",
+      "textSha256": "aae3b9bdb535387119d375bcf789011e50b9abbd0703eb5f71b842b4ba6b056d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Life insurance policies unimpaired by living will declaration",
+          "bodySha256": "c9e47703092a9188ccd678c4a2c5e2071780bbe1c41f2eb9f332e1f946587da4",
+          "reviewNote": "Covers rule that executing a declaration or withholding death-prolonging procedures does not impair or invalidate life insurance."
+        },
+        {
+          "number": 2,
+          "title": "Prohibition against requiring declaration as condition for services",
+          "bodySha256": "bdc7d2f564090d7d0818cf9158057d84220b886b18d79732aa4b2f75f49bea58",
+          "reviewNote": "Covers statutory prohibition barring persons, corporations, or agencies from requiring declarations as conditions for benefits or services."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified both subsections against archived text: non-impairment of life insurance policies and prohibition on requiring declarations as a condition of contracts, services, or benefits."
+    },
+    {
+      "id": "459.250:34731",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=459.250&bid=34731",
+      "sourceSha256": "a222dabc3b5d2aab5ab47ba0c4a3a6716ca762c0b82f5301453b41ff32e2c457",
+      "textSha256": "bfbb07bae13f335ac409fcc56363008c4114f3ec8cb86f70b30b953b084ea62d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions for Advance Health Care Directives Registry",
+          "bodySha256": "340fd4cfe95ceb4ef7a2ffd8f574c9bc7f8289ffd601384e397ab7c313b6d314",
+          "reviewNote": "Covers statutory definitions for adult, advance health care directive, declaration, department, health care decision, and intake point."
+        },
+        {
+          "number": 2,
+          "title": "Establishment of central online advance directives registry",
+          "bodySha256": "143d88c0dbbab55b1b54b23be92db3bf7ab70c1f5f95fa991230a35290b52e33",
+          "reviewNote": "Directs the department of health and senior services to issue an RFP and contract with a third party to establish the secure online Advance Health Care Directives Registry; original-rolls footnote notes \"proposals\" in S.B. 501, 2017."
+        },
+        {
+          "number": 3,
+          "title": "Voluntary submission of directives and revocations by adult declarants",
+          "bodySha256": "5ad3f84ffb65919ca1c607cb3bd1ef80678a03c8b2596816e413ea57f2b5e33a",
+          "reviewNote": "Covers authorization for adult declarants to submit advance health care directives, declarations, and revocations to the central registry."
+        },
+        {
+          "number": 4,
+          "title": "Electronic submission at intake points, unique identifier, and fee cap",
+          "bodySha256": "b9e7b4a7dd76fed31785d4679bfe4b1dc743a882fc358f5c87290b3e9a94fbce",
+          "reviewNote": "Covers electronic filing at licensed intake points, unique government identifier signature, and maximum ten-dollar submission fee."
+        },
+        {
+          "number": 5,
+          "title": "Confidentiality and sunshine law exemption for registry data",
+          "bodySha256": "f2cdd38a9d05fb898f72ac0333c61ddf79094971cde18d9c2dd46b2c8dbda354",
+          "reviewNote": "Covers strict confidentiality of registry data and records and express exemption from public disclosure under chapter 610."
+        },
+        {
+          "number": 6,
+          "title": "Vendor operational responsibilities, education, and user support",
+          "bodySha256": "a632ee7b299079b0b1ebc1a22cb9826a80cb644c2c2d95677ebd06a0a712825e",
+          "reviewNote": "Covers contracting vendor responsibilities for registry operation, public education, technical support, and fee collection."
+        },
+        {
+          "number": 7,
+          "title": "Department rulemaking on registry access and annual user reminders",
+          "bodySha256": "20d014e3679c2167b9b8e4babbd33edc70c9f80b501482a2e70c53deaa9881ae",
+          "reviewNote": "Covers department authority to promulgate rules governing authorized user access and annual document registration reminders."
+        },
+        {
+          "number": 8,
+          "title": "Rulemaking authority under chapter 536 and nonseverability",
+          "bodySha256": "08a3c2bdf7c9ac39bc23a4412271e20073c2aa57ee4519ffeca6e3a21e35f440",
+          "reviewNote": "Covers administrative rulemaking authority under chapter 536 and legislative disapproval nonseverability clause."
+        },
+        {
+          "number": 9,
+          "title": "Validity of unregistered advance directives and unnotified revocations",
+          "bodySha256": "52e45b998a7ac31c1ea2df7181803e69a1d516a79cd96e9fbab549894aa0391f",
+          "reviewNote": "Covers statutory rule that failure to register a directive or notify registry of revocation does not affect legal validity."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 9 subsections against archived text (noting original-rolls footnote \"proposals\" in S.B. 501, 2017 in subsection 2): Advance Health Care Directives Registry definitions, third-party online registry, voluntary intake-point submission ($10 cap), confidentiality, vendor duties, rulemaking/nonseverability, and unregistered validity."
+    }
+  ]
+}

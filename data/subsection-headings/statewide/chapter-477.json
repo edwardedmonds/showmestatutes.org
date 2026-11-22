@@ -1,0 +1,444 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "reviewMethod": "Antigravity drafts separately reviewed against complete archived version bodies and source notes; source discrepancies retained explicitly.",
+  "entries": [
+    {
+      "id": "477.004:26564",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=477.004&bid=26564",
+      "sourceSha256": "7392f94b28a1482f360a2c14a0d0df49830610079c302cd19ce6fd6e16d21beb",
+      "textSha256": "cb7f66bb90df2acde60f35680b9f5d9ae60a0f3f85e28818de5dd11b7f6c0a85",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Supreme court authority to answer certified questions of Missouri law",
+          "bodySha256": "b0ecbbf77b46845af05f60bbf24339b0144fc1b8da4be9c1a14a1f0435e84271",
+          "reviewNote": "Authorizes Missouri supreme court to answer questions of Missouri law certified by federal courts absent controlling precedent."
+        },
+        {
+          "number": 2,
+          "title": "Invocation of certification order on court motion or party motion",
+          "bodySha256": "8c5aaa5425d9fddbdd8e1ffc0f8a67e3608df3a748d2e0f66f05b73bf00ef9ad",
+          "reviewNote": "Permits certification order upon federal court's own motion or motion of any party to the pending proceeding."
+        },
+        {
+          "number": 3,
+          "title": "Preparation, contents, and transmission of federal certification orders",
+          "bodySha256": "aaed940e9916722def54c0976380a7c1b1a293b26b52c419353cf92f528541b8",
+          "reviewNote": "Specifies certification order contents, relevant facts, judicial signature, transmission under seal, and supreme court authority to request certifying court records."
+        },
+        {
+          "number": 4,
+          "title": "Discretionary acceptance of certified questions by Missouri supreme court",
+          "bodySha256": "1e37abbb595dbfe7f4092c9be26bae09b4665391ee624a9d4b4463d8364f8987",
+          "reviewNote": "Clarifies that Missouri supreme court is not required to accept or answer any certified case."
+        },
+        {
+          "number": 5,
+          "title": "Fees, costs, and equal division between parties",
+          "bodySha256": "a70ed397326ac38896a2df48d6a4be059f39740876d457e6dc3163ab7370e6ca",
+          "reviewNote": "Provides that fees and costs match civil appeals docketed in supreme court and are equally divided between parties unless certifying court orders otherwise."
+        },
+        {
+          "number": 6,
+          "title": "Transmission of written supreme court opinion to federal court and parties",
+          "bodySha256": "6ea791b4462c18bb209db9952c0fd321d6bdecfe1e137ef0e91ae6f5de38af28",
+          "reviewNote": "Directs clerk to transmit written supreme court opinion under seal to certifying court and parties."
+        },
+        {
+          "number": 7,
+          "title": "Severability of certification of law provisions",
+          "bodySha256": "f01f3a47d35cfbec9394265ca2befd16ec46fdf2e132ff0fe098c46967151254",
+          "reviewNote": "Establishes severability of section provisions and applications if any portion is held invalid."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 7 subsections governing federal certified questions of Missouri law; tightened subsection 5 title to match \"fees and costs\"."
+    },
+    {
+      "id": "477.030:26570",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=477.030&bid=26570",
+      "sourceSha256": "a1c3a5fe6bb0a0e22cb0f40fcd3bf911a09da3a31f3549d150cdc6523fcb8a01",
+      "textSha256": "e31295ecaa841e46d29889acd0430d35992fe60802edaa8ae02ce1004a98b6bf",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written appellate opinions and non-unanimous judicial votes",
+          "bodySha256": "2e0867e8b552e55da44c9a89df163e83a9b739918b604b7fae19991e483c16b3",
+          "reviewNote": "Requires written opinions filed in appellate cases or final motion dispositions, showing authoring, concurring, and dissenting judges when not unanimous."
+        },
+        {
+          "number": 2,
+          "title": "Clerk endorsement, entry on minutes, and thirty-day transmittal to trial court",
+          "bodySha256": "3e1118a88539f0a4101f8c0702e628bfd57e7ee0bca4a40008e0cb598bcd26a6",
+          "reviewNote": "Directs appellate clerk to endorse filing date, enter on minutes, and transmit copy to trial court within thirty days."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections and Mo. Const. Art. V § 12 cross-reference; refined subsection 1 title to reflect authoring, concurring, and dissenting votes."
+    },
+    {
+      "id": "477.080:26575",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=477.080&bid=26575",
+      "sourceSha256": "893422183988ff919d27da09cf89a68dae44f2accd4d5454666061a1e5b8ff0e",
+      "textSha256": "c142549c0e9b033a0b89837858c7964628574649b39ef04d69cf8ea9e12a09bf",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Transfer to proper court of appeals district from wrong court",
+          "bodySha256": "7147aa10adccbf39da8b6f3467e567b751c8b498266f957233eb04c1de443323",
+          "reviewNote": "Requires wrong court of appeals district or supreme court receiving an appeal or writ of error to direct clerk to forward transcript and transfer order to proper appellate district."
+        },
+        {
+          "number": 2,
+          "title": "Transfer of cases sent improperly to court of appeals instead of supreme court",
+          "bodySha256": "fd634412bfc071ef552f7140115e2d8b503b0ca7e74b99fed2b802dea614f56d",
+          "reviewNote": "Directs court of appeals to transfer improperly filed cases to supreme court immediately, proceeding as if directly appealed."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections and Mo. Const. Art. V §§ 10-11 cross-references; refined subsection 1 title to reflect transfers from either wrong appellate district or supreme court."
+    },
+    {
+      "id": "477.087:26578",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=477.087&bid=26578",
+      "sourceSha256": "8fe5072bc1b84f9fbf73a5dfc695685cb2f183e1d444eefa3934dec261378d98",
+      "textSha256": "30c9a006a23a1d0a59895f5de9c22226ea167471174ba0c8cfebbfa771151eac",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Designation of official stations for appellate and supreme court judges",
+          "bodySha256": "9d10ebe9979cfcadf619c01e775bf9a643dd058357ac89bb71faa0043eb922f6",
+          "reviewNote": "Authorizes official stations at court seat, county courthouse of customary residence, or other county office."
+        },
+        {
+          "number": 2,
+          "title": "Presiding circuit judge authority to provide office space",
+          "bodySha256": "eca9293e560789af0940d38767af9de7d7858128991e0d511b4e46c5841fade0",
+          "reviewNote": "Permits (\"may provide\") presiding circuit judge to provide suitable office space, if available, upon request by an appellate or supreme court judge for judge and staff."
+        },
+        {
+          "number": 3,
+          "title": "Written notification of official station to state courts administrator",
+          "bodySha256": "74feb502c8e69a6e2bbe00228f98f6e26f948bc86b6234615f549c7ad4d8f5f9",
+          "reviewNote": "Requires appellate judges to notify state courts administrator in writing of official stations outside court seat city."
+        },
+        {
+          "number": 4,
+          "title": "Travel and mileage allowances between official stations and court seats",
+          "bodySha256": "a95e7f424f40661738e3d7cf943a9f5f353383caba27bd5039f2e5be8d53b2d5",
+          "reviewNote": "Entitles appellate judges and staff to state official travel and mileage allowances between stations and court seats."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections; revised subsection 2 title to preserve permissive \"may provide\" office space despite mandatory-sounding catchline."
+    },
+    {
+      "id": "477.130:26580",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=477.130&bid=26580",
+      "sourceSha256": "3d4b1ef0b16a00bab57933a9ddde1289948cf43e2ce693c8721a87b42b21e808",
+      "textSha256": "e856ae6b5f233da8f5e8967858f2b30e3830a1a8cef29faf59ecde14fe7de3f3",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual salaries, temporary assignment expenses, and chief justice compensation",
+          "bodySha256": "52d01317432ddad16af8ec6982e1ba0e3282bd85f5ee7d62e74e66de4f74f409",
+          "reviewNote": "Establishes annual salaries, temporary assignment expense reimbursements, and additional chief justice compensation."
+        },
+        {
+          "number": 2,
+          "title": "State treasury payment as total compensation for judicial duties",
+          "bodySha256": "883bad315874f1c8a71a9f1df80c4a6707b0ca54aad0cf2ca808414fc03c4153",
+          "reviewNote": "Mandates payment from state treasury as total compensation, barring additional payments for judicial duties."
+        },
+        {
+          "number": 3,
+          "title": "Practice of law ban and twenty-four-month supreme court appearance bar",
+          "bodySha256": "5be7d8f379ed5cc42ff0cd3c955759124425af01d79f644e48e7eb022236230b",
+          "reviewNote": "Prohibits judges from practicing law or holding compensated public employment during office, and bars supreme court practice for 24 months after resignation or retirement."
+        },
+        {
+          "number": 4,
+          "title": "Certification and payment of temporary assignment expenses",
+          "bodySha256": "5285658ee4fcdcd866f6fe76c19bf6ccae1da9f85353fc7bfeacf0efed74f132",
+          "reviewNote": "Directs payment of section expenses from state treasury upon certification by transferred or assigned judges."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections and Appendix D salary index note; refined subsections 3-4 titles to cover both resignation/retirement and all temporary assignment expenses."
+    },
+    {
+      "id": "477.235:26592",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=477.235&bid=26592",
+      "sourceSha256": "5fa87d474206f3c63809fbf3fd93b9cbbfd3d23bb013fb60cbae4be9656df013",
+      "textSha256": "3b14e7b9ef19d3bfae93f984d3617d3991711abd4504cb9d8a388694d5d29a29",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Supreme Court Publications Revolving Fund creation and revenue sources",
+          "bodySha256": "11a036628493ab1e1dfd16b4cc1fb5a9ea03d77cee4f342951f82a2b65d91fb1",
+          "reviewNote": "Creates revolving fund administered by supreme court clerk for publication sales, pending issue digests, and opinion summaries."
+        },
+        {
+          "number": 2,
+          "title": "Reasonable subscription charges and public officer fee waivers",
+          "bodySha256": "d1523d7e4714b5ff07dbe1f80a30cf5d23c497882e7cc6bf29bc1e167758f970",
+          "reviewNote": "Directs clerk to establish reasonable subscription charges covering compiling and mailing costs, permitting public officer waivers."
+        },
+        {
+          "number": 3,
+          "title": "Annual appropriation and fifty thousand dollar exemption from fund reversion",
+          "bodySha256": "9478f6152fc28b54eee348bc01a7d7d08ab7f4900410ebffc4de9501404fdbf9",
+          "reviewNote": "Exempts unexpended fund balances up to fifty thousand dollars from section 33.080 general revenue transfers."
+        },
+        {
+          "number": 4,
+          "title": "Permissive general revenue advance transfers and repayment",
+          "bodySha256": "6fbcc37fced8f0e35ac4f89c5ee9958c1106471559b0cf8964840bead00dda5d",
+          "reviewNote": "Permits general assembly to transfer up to fifteen thousand dollars from general revenue to continue publications, requiring clerk repayment warrant within twenty-four months."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections; revised subsection 4 title to reflect permissive general revenue advance transfers and mandatory 24-month repayment."
+    },
+    {
+      "id": "477.600:26598",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=477.600&bid=26598",
+      "sourceSha256": "abc0eeb50d7652e101ccfaec90902712447e6b05d5ee9a536870b8ac48b8970c",
+      "textSha256": "9983d14f813b75c2c82950b53659554f2b29f9c43e4824cd6e4468a3f148cd50",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Judicial Finance Commission creation and member composition",
+          "bodySha256": "f689beb8e08fedd96d1c1cafba9300e1e47e87283c1cb88815b4e30892538cc5",
+          "reviewNote": "Creates seven-member Judicial Finance Commission appointed by supreme court, including county governing body members from third-class, first-class, and any-class counties."
+        },
+        {
+          "number": 2,
+          "title": "Three-year staggered terms for commission members",
+          "bodySha256": "8817b1a0252f9e3392a0bcb6ffb4434da33236826f6d11e8905816daa091a6f9",
+          "reviewNote": "Establishes three-year terms for commission members, with initial appointments staggered across one, two, and three years."
+        },
+        {
+          "number": 3,
+          "title": "Appointment of replacements to unexpired commission terms",
+          "bodySha256": "f9d93c928b2ac49d3049898e80aacd461f196ba8874177cc654b499afd6b0821",
+          "reviewNote": "Directs supreme court to fill vacancies for unexpired terms and permits reappointment to successive terms."
+        },
+        {
+          "number": 4,
+          "title": "Commission procedural rulemaking subject to supreme court approval",
+          "bodySha256": "b6e16851ccbd5129d7ccb5107fe850d66d2a7aa29c5f863d1ead898c4e22f0f6",
+          "reviewNote": "Directs commission to promulgate procedural rules effective upon supreme court approval, and permits supreme court to adopt additional governing rules."
+        },
+        {
+          "number": 5,
+          "title": "Budget review duties, written opinions, and annual financial reporting",
+          "bodySha256": "513ad7ccdc8252f2eb4952c5331288967678ebcf0714ac675b2d4516e0e8fd42",
+          "reviewNote": "Requires commission to review petitioned circuit budgets, issue reasonableness opinions, maintain cost records, and report annually."
+        },
+        {
+          "number": 6,
+          "title": "Commission investigative powers, hearings, subpoenas, and survey authority",
+          "bodySha256": "a049845633621d13d9168af02b28f5f647cfdb25430653451ae96dc116e6d739",
+          "reviewNote": "Empowers commission to conduct hearings, subpoena records, survey county judicial expenses, and retain consultants."
+        },
+        {
+          "number": 7,
+          "title": "Supreme court de novo petition for review of commission budget opinions",
+          "bodySha256": "80ef02dc948119be072a80193b968adcab621b2254458d2776192a83b49a11a0",
+          "reviewNote": "Authorizes circuit courts or counties to petition supreme court for de novo review within thirty days of commission opinion."
+        },
+        {
+          "number": 8,
+          "title": "Meetings, quorum, temporary replacements, and conflict disqualification",
+          "bodySha256": "07f1b2af338dec4d64d2e9c4b04651b72e5fe648cff7c5603db4b422e42af634",
+          "reviewNote": "Governs meeting calls, four-member quorum, permissive temporary replacements by supreme court, and member disqualification for home-county or home-circuit proceedings."
+        },
+        {
+          "number": 9,
+          "title": "Reimbursement of commission member actual and necessary expenses",
+          "bodySha256": "9891acf07e87fb34531eb2987d7d957d549076fc5a0ad7c977338a778bf750e8",
+          "reviewNote": "Provides that commission members serve without compensation but receive reimbursement for actual and necessary expenses."
+        },
+        {
+          "number": 10,
+          "title": "Clerk staff support and employment of court reporters for budget hearings",
+          "bodySha256": "587fda9378066e7d9436eba4aebb78d4ebacda1052d928eb3f2cba55a3e7f0c8",
+          "reviewNote": "Directs supreme court clerk to provide commission staff and authorizes employment of court reporters for budget hearings."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 10 subsections; refined subsection 1 title to reflect 7-member composition and subsection 8 title to include meetings and quorum."
+    },
+    {
+      "id": "477.650:57410",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=477.650&bid=57410",
+      "sourceSha256": "7431d06234bbfd388a78e3a37276caf7c53fbe84360b6d33190dcd0a7ea39244",
+      "textSha256": "70990e21c4f81728532fd10d4fb6218e27b6eba29314005c7268775c2aecd9dd",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Basic Civil Legal Services Fund establishment and low-income guidelines",
+          "bodySha256": "d0a0ecf9a267b1124575f24479d3e8ef35ac1c6c0731df3abe8d1d7faa4203e3",
+          "reviewNote": "Establishes Basic Civil Legal Services Fund from court surcharges and gifts to fund legal services under federal income guidelines."
+        },
+        {
+          "number": 2,
+          "title": "Annual fund allocation formula and prohibition on state lawsuits",
+          "bodySha256": "77680be632560c1f11bfb413f954f9031e0fd3c75ffd561090e190376c866fc3",
+          "reviewNote": "Allocates funds at least annually by FLSC formula, bars general revenue transfer and Mo. Const. Art. X § 18 refund use, and bars suing the state with state funds."
+        },
+        {
+          "number": 3,
+          "title": "Priority civil service categories and Legal Services Corporation compliance",
+          "bodySha256": "afb2f94c49d9bf32fff4ef1b579907282ec418968f526c3606a50b5b6fc67cd0",
+          "reviewNote": "Prioritizes family law, domestic violence, elderly, and Social Security cases, requiring Legal Services Corporation compliance."
+        },
+        {
+          "number": 4,
+          "title": "Supreme court fund administration and fee collection expenses",
+          "bodySha256": "f13a62760bc8b55f3955656d7e80e458cbbd273d477d9dbb716a2537a402be34",
+          "reviewNote": "Directs supreme court administration of fund and authorizes using moneys to pay collection and administrative costs."
+        },
+        {
+          "number": 5,
+          "title": "Five-year record retention requirement and state audit authority",
+          "bodySha256": "760558c381cedb547a1f05ab2ce5c8c3278b0b0d7dbd1d2d865bf76a9489f91e",
+          "reviewNote": "Requires recipients to retain financial records for five years or until audited, whichever is sooner, subject to Missouri supreme court or state auditor audit."
+        },
+        {
+          "number": 6,
+          "title": "Annual legislative report on legal services collections and disbursements",
+          "bodySha256": "587f45f02b8a988c985f78c08751e9885284820fcce81d2b01edc3ea6f521ae4",
+          "reviewNote": "Mandates annual report by January thirty-first to general assembly on moneys collected and disbursed by judicial circuit."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 6 subsections governing Basic Civil Legal Services Fund creation, annual FLSC-formula allocation, non-reversion, state-lawsuit bar, records, and annual report."
+    },
+    {
+      "id": "477.700:57673",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=477.700&bid=57673",
+      "sourceSha256": "317523562525dfee58dd6713a06a167fe7004fd2091e51c28d9bb49bcdc83ba6",
+      "textSha256": "d16d8c16dfc3590bcc5896eed1289b397494b41af9e1c0dd40f4b33add019aac",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Child and Family Legal Representation Coordinating Commission composition",
+          "bodySha256": "7abf2a26b452de4d727c560e72c237779b8f02ec52f4bd423faddf2498ee76c5",
+          "reviewNote": "Creates nine-member commission within judicial branch, including experienced child counsel, former foster youth, and advocates."
+        },
+        {
+          "number": 2,
+          "title": "Four-year staggered terms and vacancy filling by chief justice",
+          "bodySha256": "9f69bb709dc9aceccd860db46abfc4998823e3e562e350a96b3bc963d0e5a578",
+          "reviewNote": "Establishes four-year staggered terms for commission members and authorizes chief justice to fill vacancies."
+        },
+        {
+          "number": 3,
+          "title": "Expense reimbursement for coordinating commission members",
+          "bodySha256": "07e5960ea3a192732d75958c10cf29558a59bdb2817c61e5552797fa404d7050",
+          "reviewNote": "Provides that commission members serve without compensation but receive reimbursement for actual and reasonable expenses."
+        },
+        {
+          "number": 4,
+          "title": "Supreme court procedural rulemaking for coordinating commission",
+          "bodySha256": "876a1669fb0f7bb9b5eccdf3bb458fd08dcbf2b9d5d4a0282a3938b275dbdd4e",
+          "reviewNote": "Authorizes Missouri supreme court to adopt rules governing coordinating commission procedures and operations."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections establishing the 9-member Child and Family Legal Representation Coordinating Commission, staggered terms, expenses, and supreme court rules."
+    },
+    {
+      "id": "477.710:57675",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=477.710&bid=57675",
+      "sourceSha256": "69ea883b125fa2a2fe84e46087600e441df169ad0289ab3305f9a964fed37446",
+      "textSha256": "e6b195aca12d4b61994f74633624b80412c69c69326bec3d3d46764a9b1343dd",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Child and Family Legal Representation Fund creation and revenue sources",
+          "bodySha256": "43544e17519f2d1a73516131f1e3f4c81a80547ac789d44ab4946591f8fc10c9",
+          "reviewNote": "Creates dedicated legal representation fund in state treasury for legislative appropriations, gifts, and grants."
+        },
+        {
+          "number": 2,
+          "title": "Investment of fund moneys and credit of earnings by state treasurer",
+          "bodySha256": "e83e01acb00b1a63732f2f4016616f9af051ecaa4de905aaa168d6d94ff78a50",
+          "reviewNote": "Directs state treasurer to invest fund moneys as surplus state funds with earnings credited back to fund."
+        },
+        {
+          "number": 3,
+          "title": "Commission disbursement of fund moneys to judicial circuits for counsel fees",
+          "bodySha256": "2391bb3b9b86af2094556981ea5440136f695dccafc1d38d5bcea569176b6b20",
+          "reviewNote": "Directs coordinating commission to administer and disburse fund moneys to judicial circuits for uniform child/family legal representation and court-approved GAL/counsel fees."
+        },
+        {
+          "number": 4,
+          "title": "Non-reversion of fund moneys to general revenue",
+          "bodySha256": "21868a6c1a0cf659beb088a05378626516b5362d0e556de48205caeea27ad5e3",
+          "reviewNote": "Exempts unexpended fund balances at end of biennium from reverting to general revenue under section 33.080."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked all 4 subsections establishing, investing, disbursing, and exempting the Child and Family Legal Representation Fund; aligned subsection 3 note to mandatory \"shall\"."
+    },
+    {
+      "id": "477.715:57676",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=477.715&bid=57676",
+      "sourceSha256": "d45b67947a6591681aaafb50a9c0a1382a88a534a3602a0106fcb01677246bd3",
+      "textSha256": "4043977da0468a44a5a9df84433ede2d488e85ff33a5a11f2e16396be2490ace",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_9",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Pilot project appointment of counsel in lieu of guardian ad litem",
+          "bodySha256": "74a1aa9889351e73a012a069d96cd189a52973e2f186d75d9c0d01282182eb52",
+          "reviewNote": "Permits judge in supreme court pilot circuit to appoint child's counsel instead of GAL for children age 14 or older, barring shared counsel with parent or guardian."
+        },
+        {
+          "number": 2,
+          "title": "Expiration date of pilot representation project on January 1, 2028",
+          "bodySha256": "fbe55452fe3265ea108a9713d44385d1ab9e83b36296ff21885aecbded1b5254",
+          "reviewNote": "Sets statutory expiration date of January 1, 2028, for pilot representation project provisions."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_11",
+      "reviewSummary": "Source-checked both subsections and statutory expiration note (Expires 1-01-28) for pilot-circuit child's counsel appointments in lieu of guardian ad litem."
+    }
+  ]
+}

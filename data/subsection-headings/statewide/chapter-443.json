@@ -1,0 +1,1498 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "443.035:24489",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.035&bid=24489",
+      "sourceSha256": "177daef80e8ff2acec2d1113e534be75c69d62743ada4c2bb64300947ffe7b78",
+      "textSha256": "ef1a4bf9f0a024bc86d0ea4718cbc5c231b92cb5becf903855a5f4fcf649f940",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Assignment of security instruments by written acknowledged instrument",
+          "bodySha256": "c1648e82f3f43fbd8a48f225bc019b995d63b41da39bfdcccbf4adbf08d20d90",
+          "reviewNote": "Covers authorization for assigning real estate security instruments in writing with statutory acknowledgment and recording in county records."
+        },
+        {
+          "number": 2,
+          "title": "Protection of good-faith purchasers relying on record release",
+          "bodySha256": "f713ba738b784dfb069957016af8519ba6454e0702756f248ab3b43d55c0be43",
+          "reviewNote": "Covers protection for bona fide purchasers or lienholders relying on record release against unrecorded security instrument assignments."
+        },
+        {
+          "number": 3,
+          "title": "Prohibition against bearer instruments and required mailing address",
+          "bodySha256": "19c3f1808c77285d7fa3b4814f38d5fd493d7e1179ae8bb81e5e0e5ffb59c8e6",
+          "reviewNote": "Bars recorders from accepting bearer or unascertainable-party security instruments or assignments and requires mailing addresses (omission does not affect validity or constructive notice); original-rolls footnote notes word \"of\" for \"or\"."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections against archived text including original-rolls footnote (\"of\" for \"or\" in subsection 3): written acknowledged assignments, protection of purchasers relying on record release, and bearer-instrument bar."
+    },
+    {
+      "id": "443.055:24490",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.055&bid=24490",
+      "sourceSha256": "a19c1e56da3e14f0abfdb739c6ba8095addce859b928c86abfde07abd1d02eac",
+      "textSha256": "9bb24a5b0995803b981cf3e3a7a90aa33ea9239ad49a807022267a067d4cfc6f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions for future advance security instruments",
+          "bodySha256": "6ba437126d8a47edb7b8b9d6d331726a5ddd26970e4e4df6f1e8402a0ada2594",
+          "reviewNote": "Defines borrower, business or agricultural loan transaction, construction loan, face amount, future advance, future obligation, lender, owner, person, and security instrument for section 443.055."
+        },
+        {
+          "number": 2,
+          "title": "Security instruments securing future advances and obligations",
+          "bodySha256": "a87fcb6b24a9b139bd64d735221ca90a557e354c97cf3dfd956f63bccba0847a",
+          "reviewNote": "Covers authority to secure future advances and obligations, zero-balance continuity, required face amount recitals, and statutory election."
+        },
+        {
+          "number": 3,
+          "title": "Advances for lender protection and construction loan disbursements",
+          "bodySha256": "69e6f5b57ce5a69402eb51bd74d56ff2af45e7b9afaca4548f221572448936d9",
+          "reviewNote": "Covers lien priority for protective lender advances (taxes, insurance, repairs) and construction disbursements even if exceeding face amount."
+        },
+        {
+          "number": 4,
+          "title": "Limitation of future advances to contractual obligations",
+          "bodySha256": "45e21ca3d94f129d4c1e4856589e03fd644ba3f2bdaf48c810c5f87598f4ea71",
+          "reviewNote": "Covers limitation of covered future advances and obligations to contractual commitments and protective expenditures."
+        },
+        {
+          "number": 5,
+          "title": "Priority of future advance liens from instrument recordation date",
+          "bodySha256": "282ca942adfd55a86d624cb562ae3922136d904d5de71003d4812da1a431d185",
+          "reviewNote": "Covers priority of security instrument liens securing future advances as relating back to the date of original recordation against third parties."
+        },
+        {
+          "number": 6,
+          "title": "Owner notice of termination of future advances",
+          "bodySha256": "9bf7d1d8d6dc4069cf5a3e75c0b9ff4519c48c3f674a5b88ea612b911d3fce5f",
+          "reviewNote": "Covers owner right to serve notice terminating future advances, recording requirements, and release of unadvanced amounts."
+        },
+        {
+          "number": 7,
+          "title": "Security instruments securing third-party guarantees",
+          "bodySha256": "9d0967e8f24bdcce84d3ecebd0bf5c1aa861f25f8af6881af70971f97b0445ed",
+          "reviewNote": "Covers authority and priority of security instruments securing third-party guarantees and future obligations."
+        },
+        {
+          "number": 8,
+          "title": "Owner notice of termination of secured guarantee",
+          "bodySha256": "b14196475eb1db603bc8b6faa75c47e11d155efa51045fd11783075cd8d6b283",
+          "reviewNote": "Sets owner procedure for certified-mail or personal-delivery notice terminating a security instrument securing a guarantee, 15-day recording by person guaranteed, and preservation of prior debts and protective advances; original-rolls footnote notes omitted \"to\"."
+        },
+        {
+          "number": 9,
+          "title": "Exceptions rendering termination notice ineffective",
+          "bodySha256": "2ef3bb050f6758fe856b3789bb7029a378f35489f47865255bad889da2f1edc0",
+          "reviewNote": "Covers exceptions rendering termination notices ineffective for commercial lines of credit, letters of credit, and third-party commitments."
+        },
+        {
+          "number": 10,
+          "title": "Governing law for non-electing security instruments",
+          "bodySha256": "35959187b07da38df5cc4727bc0d381c6918668eddc9970181e8cc0387162935",
+          "reviewNote": "Covers rule that security instruments not electing coverage under section 443.055 are governed by other applicable law."
+        },
+        {
+          "number": 11,
+          "title": "Pre-1992 recorded security instruments unimpaired",
+          "bodySha256": "8656db2e1148db173904e9063c87f26742c076915894f6f284fe11bd296e71d7",
+          "reviewNote": "Covers non-impairment and preservation of validity and priority of security instruments recorded prior to September 1, 1992."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 11 subsections against archived text (noting original-rolls footnote for omitted \"to\" in subsection 8 and listing all ten defined terms in subsection 1): future advances, protective/construction priority, termination notices, guarantees, and pre-1992 savings."
+    },
+    {
+      "id": "443.060:24491",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.060&bid=24491",
+      "sourceSha256": "9bab08a86ed28528998cfe2614d9f73a74dab96c74cba13cfaceb928a2b08f8e",
+      "textSha256": "6b51e24d6f9b105b1418b65f8bc3512b8ebd86b19f9e10d5cbc5a35fba15471e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Delivery of deed of release upon full satisfaction",
+          "bodySha256": "a6ae4b96b329a2a1d9a54fb96828fb5330342400a14edf5dfd56de2d34c00c1a",
+          "reviewNote": "Covers mortgagee duty to deliver deed of release upon satisfaction and note cancellation rules for pre-1986 instruments."
+        },
+        {
+          "number": 2,
+          "title": "Affidavits of lost or destroyed notes and coupon note presumption",
+          "bodySha256": "ff14221b1d4b5c7f1f5838052408f302eee74f34bbd4689f950b4203a7e5e2cd",
+          "reviewNote": "Sets required payment and loss/destruction affidavits for unproduced pre-1986 notes, defines \"legal representatives\" to include assigns, and conclusively presumes interest coupon notes paid upon cancellation of principal note; original-rolls footnote notes \"they are\"."
+        },
+        {
+          "number": 3,
+          "title": "Partial release of property without full debt satisfaction",
+          "bodySha256": "5118d436bdca2fbd7df37ac67f00445c2fcf7f2e72d03f377af1fe56a07ced68",
+          "reviewNote": "Covers procedure for partial releases under pre-1986 instruments without note cancellation and recorder endorsement form."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections (including embedded partial-release form, original-rolls footnote \"they are\" in subsection 2, and 1996 Masterson v. Roosevelt Bank annotation) against archived text."
+    },
+    {
+      "id": "443.1004:35212",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.1004&bid=35212",
+      "sourceSha256": "491fb3c03d27a85647cc9bdb70406aa0540cdd3baf4eb70ab0e83c3d6e01d35e",
+      "textSha256": "cda98f3269f4821ece113a3ad715a7ea69c10e8603cea4a1a37be0c1e3e2ec50",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishment of first-time home buyer savings account",
+          "bodySha256": "ccfd65247bac9d50936916569f14e1d4d6c3357311c46b43e8b02f94ba9b2ece",
+          "reviewNote": "Covers opening and designation of dedicated first-time home buyer savings accounts with financial institutions beginning January 1, 2019."
+        },
+        {
+          "number": 2,
+          "title": "Designation and limits on qualified beneficiaries",
+          "bodySha256": "0a23c2d8a49c696874ef38d5a08bbf2c0ba120c62157bb4ff7ef7e00d422a121",
+          "reviewNote": "Requires designation of a first-time home buyer as qualified beneficiary by April 15 of the year following establishment, permits self-designation and changes, limits each account to one beneficiary at a time, and bars multiple accounts by one holder for the same beneficiary."
+        },
+        {
+          "number": 3,
+          "title": "Contribution limits, maximum balance, and unlimited duration",
+          "bodySha256": "2416b580ad45b9b7f559c56a0d4c9a123c6d21273e79cc49a8376346ee3d4aa9",
+          "reviewNote": "Sets contribution caps ($1,600/year individual, $3,200/year married filing combined, $20,000 lifetime) and $30,000 maximum account balance, excludes excess-account earnings from section 143.1150 deduction, and permits unlimited holding duration; original-rolls footnote notes \"; and\"."
+        },
+        {
+          "number": 4,
+          "title": "Account administration fee restriction and documentation duty",
+          "bodySha256": "e2a7d811d42ac4948b4e2b6f87e1a42e1e52cb0e68c4418fe6fc3e646389d204",
+          "reviewNote": "Prohibits using account moneys for account administration expenses except financial institution service fees, and requires the account holder to maintain account and eligible-expense documentation."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified subsection 1 and replaced inaccurate/hallucinated draft headings in subsections 2, 3, and 4 (corrected beneficiary rules, exact $1,600/$3,200/$20,000/$30,000 limits instead of $50,000, administration fee restriction, and original-rolls footnote \"; and\")."
+    },
+    {
+      "id": "443.1005:35213",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.1005&bid=35213",
+      "sourceSha256": "159f8a2f229b937341d84efa92e50edb39318fb50993c83a9617a2d5658dbabe",
+      "textSha256": "b89cfcecd67da1093bd9a1b50e7ce4fe5ce7aa38c8b5e79ef3fcdec6c866e851",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Permitted uses of account moneys and two-year holding rule",
+          "bodySha256": "c1ed9679567c2b19fdb0aba3bcd732705cad214a7f7d513a84d1a25f8e8a03a3",
+          "reviewNote": "Lists permitted uses of account moneys (Missouri primary residence, active-duty military out-of-state residence, unclosed contract expenses, rollover to new account, bank service fees), excludes non-real-estate manufactured/mobile homes, and bars title transfer for two years absent department exception; original-rolls footnote notes \"section\"."
+        },
+        {
+          "number": 2,
+          "title": "Recapture of early or nonqualified account withdrawals",
+          "bodySha256": "d8bcbffde7b76081292d43a7ec4321fe2926e2995b45e3d74b051ea6dd6a960f",
+          "reviewNote": "Subjects withdrawals made within one year of first deposit or for non-permitted purposes to recapture as an addition to Missouri adjusted gross income of the account holder (or qualified beneficiary if holder is deceased)."
+        },
+        {
+          "number": 3,
+          "title": "Penalties on recaptured withdrawals and statutory exceptions",
+          "bodySha256": "eb801012a6d28e11091ec74a2c0b169b9294f7b661007859dfb94413ff1edd77",
+          "reviewNote": "Imposes a 5% penalty (withdrawals <=10 years after first deposit) or 10% penalty (>10 years) on recaptured amounts, with exceptions for out-of-state primary residence purchases or death of a qualified beneficiary without same-year redesignation."
+        },
+        {
+          "number": 4,
+          "title": "Recapture upon death of account holder without surviving beneficiary",
+          "bodySha256": "0381d06cb1fff71354ffcbb152c179c7ba8927c1be89edc9f65a9e4fa4545bed",
+          "reviewNote": "Covers tax deduction recapture without penalty upon death of account holder lacking surviving transfer-on-death beneficiary."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified subsection 4 and replaced shifted/hallucinated draft headings in subsections 1, 2, and 3 (permitted uses and 2-year holding rule, recapture of early/nonqualified withdrawals, and 5%/10% penalties with statutory exceptions; noted original-rolls footnote \"section\")."
+    },
+    {
+      "id": "443.1006:35214",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.1006&bid=35214",
+      "sourceSha256": "e2dfbe053c2597b3184d838169c11227d28b9e0a42220910e0243eced24b6cb5",
+      "textSha256": "9acab0cd7eed61f5228ae34f86f1b1d64051999b031c06ce65ca9f5e1bf4cc7e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Annual reporting forms and documentation requirements",
+          "bodySha256": "78f20989c90ea7a8cf08702746ceeef2dbbcf3279428642ddc08edd33b158d17",
+          "reviewNote": "Covers department reporting forms, annual income tax return filing, 1099 submission, and records retention mandates."
+        },
+        {
+          "number": 2,
+          "title": "Department of revenue rulemaking and nonseverability",
+          "bodySha256": "b013ea148867909d24d2a2ebefc802c1db38eb29ed87654ca8e0e728d7220e8f",
+          "reviewNote": "Covers department of revenue administrative rulemaking authority under chapter 536 and nonseverability clause."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified both subsections against archived text: annual department reporting forms with tax return and 1099 filing, and chapter 536 rulemaking with post-August 28, 2018 nonseverability."
+    },
+    {
+      "id": "443.1007:35215",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.1007&bid=35215",
+      "sourceSha256": "1fb3b76e3b8685e101d347f65acad70eb85e02167e3ff430485f91183b6b920e",
+      "textSha256": "951df0fd25b268b2604c681969ca95008fc5dc570a83d45093daaa9fbeded4e4",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Financial institution exemption from account tracking and reporting",
+          "bodySha256": "dd2988836735ec66f32beb541a782db028b6e3f4960519a74d5c4b2184f98841",
+          "reviewNote": "Covers statutory protection relieving financial institutions from tracking fund usage or establishing special reporting systems."
+        },
+        {
+          "number": 2,
+          "title": "Financial institution immunity regarding tax eligibility and remittance",
+          "bodySha256": "c2bd86ce24a25fc5e462fa4e5f05af8b6b915a7da40eb2a0ca321b78ffd9b645",
+          "reviewNote": "Covers financial institution immunity regarding tax deduction eligibility, expense compliance, and tax remittance."
+        },
+        {
+          "number": 3,
+          "title": "Limitation on administrative burdens on financial institutions",
+          "bodySha256": "a6e9440f41d3744ab82f95e857f486ebedb3f55022828944b366af6199232ed1",
+          "reviewNote": "Covers prohibition against department imposing administrative requirements outside normal financial institution account procedures."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections against archived text: financial institution exemptions from designation/tracking/reporting, tax-compliance immunity, and limits on abnormal administrative burdens."
+    },
+    {
+      "id": "443.130:24498",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.130&bid=24498",
+      "sourceSha256": "d8e5744d1e3b960a00052e2f8912253cd85c2657dc445d2d14c316fa5efad44d",
+      "textSha256": "2336d61678d5b23dbf03e743c128269b26d7ec089b974fc71f2646b648f9cc14",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Per-diem penalty and attorney fees for failure to record deed of release",
+          "bodySha256": "78a538b82ca050133438dc88844a29805f802948c659a5dd494fb03dab39976c",
+          "reviewNote": "Covers statutory penalty of $300 per day up to ten percent of security instrument plus attorney fees for failure to record release in forty-five days."
+        },
+        {
+          "number": 2,
+          "title": "Certified mail demand letter and proof of satisfaction",
+          "bodySha256": "92deb2cf5fd78da8e68c101a85b73da858cb93ce22ccbf340181a9622c938667",
+          "reviewNote": "Covers mortgagor demand requirements by certified mail with evidence of debt satisfaction and advancement of recording fees."
+        },
+        {
+          "number": 3,
+          "title": "Trial proof of certified mail notice to note holder",
+          "bodySha256": "8310f22dc2aa2a471153bd99a3d687a8a81e2f670db338eabef18129a18a2644",
+          "reviewNote": "Covers requirement that plaintiff or counsel prove at trial that certified mail demand was delivered to the note holder."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections against archived text (including 1996 Murray v. Fleet Mortgage Corp. and Masterson v. Roosevelt Bank annotations): 45-day release penalty with 60-day rejection cure, certified-mail demand, and trial proof."
+    },
+    {
+      "id": "443.325:24519",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.325&bid=24519",
+      "sourceSha256": "28a57387e67d937f83e52bda531af00944c70d85a6cbf47f26792da5bfc1ef51",
+      "textSha256": "86b503f501a617d3d3d42ee913da88e886a26c106c7ce81d8569e834cc35d650",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Recording request for notice of foreclosure sale",
+          "bodySha256": "f340efa1c7389e54a136b9068f0ddc8fdba4cd79f8f73ca089dd6b32fbaa8c60",
+          "reviewNote": "Covers procedure and recording requirements for recording a written request for notice of foreclosure sale with the recorder of deeds."
+        },
+        {
+          "number": 2,
+          "title": "Recorder indexing of foreclosure notice requests",
+          "bodySha256": "caa63d04c5ea0515edb0acf7102a5db74a41ffcc2d23c3bd7c5936a5b0caec44",
+          "reviewNote": "Requires the recorder of deeds to index recorded foreclosure notice requests in a separate index listing the mortgagor/grantor as grantor and the requesting party as grantee."
+        },
+        {
+          "number": 3,
+          "title": "Foreclosure notice transmission by certified or registered mail",
+          "bodySha256": "32e70ad568aeab824dcea2b8c6e6403e0cb3d3e35c9566a9e56c3f4a49077f21",
+          "reviewNote": "Covers requirement that foreclosing trustee transmit notice of sale by certified or registered mail twenty days prior to sale date."
+        },
+        {
+          "number": 4,
+          "title": "Subsequent mortgagees bound by recorded notice requests",
+          "bodySha256": "11ca8a51123af32c5a4af0ff5c4842106e24a0266d55b1d4e2ac31dcc202109d",
+          "reviewNote": "Requires a foreclosing mortgagee or trustee of a subsequently filed deed of trust or mortgage to give notice to persons named in prior unreleased notice requests; original-rolls footnote notes word \"mortgages\"."
+        },
+        {
+          "number": 5,
+          "title": "Deed release cancels recorded notice requests",
+          "bodySha256": "1a4cf6449fc383299293e1acd969c43d5afb8dc5481bbbfe4bccaa17eb9738d7",
+          "reviewNote": "Covers rule that recording a deed of release cancels of record all notice requests pertaining to the released deed of trust."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified subsections 1, 3, 4, and 5 (including embedded request form and original-rolls footnote \"mortgages\" in subsection 4) and fixed subsection 2 title/reviewNote (recorder separate indexing, not form contents)."
+    },
+    {
+      "id": "443.355:24524",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.355&bid=24524",
+      "sourceSha256": "f1a242cb2476f0dc61d9fd5774d6bd3b36a6038bdcb38313620f5e311bdcc091",
+      "textSha256": "040ce9704b16885ba1ecd1b2df40e320703e4cc3a5b3f47e12b0fd4691213672",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Trustee authority to continue sale without readvertisement",
+          "bodySha256": "2fbc5d41744fb91f28117f77b6b77d3334c6a832e22781444e357afa04f2c4d2",
+          "reviewNote": "Covers trustee discretion to continue foreclosure sale by public announcement without readvertisement, and trustee damage immunity."
+        },
+        {
+          "number": 2,
+          "title": "Seven-day limit on single continuance and abandonment of sale",
+          "bodySha256": "86a1f532e09318e27762c5df0fedc336a4c1c47adc31cf59ec82d4b2704a56db",
+          "reviewNote": "Covers limitation of single statutory continuance to seven days, party extension agreements, and trustee abandonment of sale."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified both subsections against archived text: trustee continuance by public announcement with damage immunity, and single 7-day statutory limit with agreement and abandonment savings."
+    },
+    {
+      "id": "443.451:24535",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.451&bid=24535",
+      "sourceSha256": "7a1d8ba8b5477e1c901319e9600f040e311d9f1c6d2f2af4a10cbeed0df0d48a",
+      "textSha256": "9741a2dad3adfa56a9e3b3b015f2b680f7e408bb46a2631614a219fcd86d4d18",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Secretary of state filing for interstate pipeline and utility mortgages",
+          "bodySha256": "b1bc6669c60725be01e40f151b70b763bc6e7b2e281fcbeb28b17bbeda56eee1",
+          "reviewNote": "Covers execution, acknowledgment, and filing of bond mortgages of interstate gas pipelines and public utilities with secretary of state."
+        },
+        {
+          "number": 2,
+          "title": "Filing constitutes statewide notice without local recording",
+          "bodySha256": "2f65a2ee656426b61b9a8a319503bb4411c19b28b0c18b94126768692b74e42e",
+          "reviewNote": "Covers statutory rule that secretary of state filing imparts constructive notice to all persons without need for local county recording."
+        },
+        {
+          "number": 3,
+          "title": "Lien perfection from date and time of filing",
+          "bodySha256": "5779538914e7a612b308a8b609fa8ce72d4d5d202137ddfbd206c5b9b1927905",
+          "reviewNote": "Covers creation and perfection of mortgage lien on pipeline and utility property from the time of filing with secretary of state."
+        },
+        {
+          "number": 4,
+          "title": "Refiling previously recorded local county mortgages",
+          "bodySha256": "0113d7e6fcebc65d664c66cec9cd4be9d0106a1262458760561eeef5cdf130de",
+          "reviewNote": "Covers authorization to refile previously county-recorded utility mortgages with secretary of state with original filing effect."
+        },
+        {
+          "number": 5,
+          "title": "Recording satisfaction and release of utility mortgages",
+          "bodySha256": "5eb2c6d1bc8b31bf8187e243f2697679551fc5ecae6e734335924381600e06f8",
+          "reviewNote": "Covers secretary of state entry of satisfaction, release, or cancellation and issuance of filing certificates."
+        },
+        {
+          "number": 6,
+          "title": "Secretary of state filing fees under commercial code",
+          "bodySha256": "763956e271adbc2322c1d57506156a924343ad6d452a75097d2dcea80b642231",
+          "reviewNote": "Covers collection of uniform filing fees by secretary of state in accordance with section 400.9-403 standards."
+        },
+        {
+          "number": 7,
+          "title": "Pre-1993 recorded instruments unaffected",
+          "bodySha256": "d583055c459db0bb28b671f209e290cd91acd1933b0ab8fe0463151d02c4bcc0",
+          "reviewNote": "Covers provision that mortgage instruments recorded or filed prior to August 28, 1993, are unaffected by section 443.451."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 7 subsections against archived text: secretary of state filing for interstate gas pipeline and public utility bond mortgages, statewide notice, lien perfection, refiling, satisfaction, section 400.9-403 fees, and pre-1993 exclusion."
+    },
+    {
+      "id": "443.702:57166",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.702&bid=57166",
+      "sourceSha256": "d30af7f92da552a8c0735d43cd198bb1df5251670f7dbc2bd55e4b9ef5646d49",
+      "textSha256": "0071c16b8924c19ca9a5b54b9ebb8667024308a8fae7d24808efd2019153b020",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Fingerprint submission requirement for mortgage licensing applicants",
+          "bodySha256": "13b7cf57c5bd5877a47f201a4f4aeea7f351e203e8d1f5cd8e4890d7506de07c",
+          "reviewNote": "Covers authority of division of finance to require fingerprint submissions for residential mortgage loan broker and originator licensing."
+        },
+        {
+          "number": 2,
+          "title": "State highway patrol and federal background check process",
+          "bodySha256": "87da2ad66355ef53f55b9aa04e4457527031ca9df04bbd9352c74bd6d268bf59",
+          "reviewNote": "Covers requirement that applicants submit fingerprints to Missouri state highway patrol for state and federal criminal history checks."
+        },
+        {
+          "number": 3,
+          "title": "Central repository processing, FBI forwarding, and division record access",
+          "bodySha256": "95a3ed1b3a52b8c38c89755935d57f718d3a11a2d2056c757a284f2dd48a9177",
+          "reviewNote": "Covers state repository record searches, FBI forwarding under section 43.540, and division access to discovered criminal history."
+        },
+        {
+          "number": 4,
+          "title": "Definitions for mortgage loan originator and residential mortgage loan broker",
+          "bodySha256": "fff888571c019d55761e790ec873a02b9b08734fd0c3826243e2775ebfc0c554",
+          "reviewNote": "Covers definitions and exclusions for mortgage loan originator and residential mortgage loan broker under background check rules."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 4 subsections against archived text (L. 2025 S.B. 71 merged with S.B. 81 & 174): permissive fingerprint requirement, MSHP/FBI background checks, division access notwithstanding section 610.120, and definitions."
+    },
+    {
+      "id": "443.703:24539",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.703&bid=24539",
+      "sourceSha256": "d098538be6f060ffbe92a8b2c019fd8b86c33e0ecfb9a3b48e1f3a30d836230b",
+      "textSha256": "184f5db6f621f4485e640a07dcebdf2d4dd86b506e653732b0eac88ae9883bc5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions for Missouri SAFE Mortgage Licensing Act",
+          "bodySha256": "46a72efa1764174cac919c27aa7174198fd94e4ffa0abe027fec8592c63d2476",
+          "reviewNote": "Covers thirty-nine statutory definitions for mortgage origination licensing, Nationwide Mortgage Licensing System, and regulatory terms."
+        },
+        {
+          "number": 2,
+          "title": "Director administrative rulemaking authority",
+          "bodySha256": "b2000ddef7de62b76951200a43434693837893e5b4b906785d51d822a84eec20",
+          "reviewNote": "Covers authority of director of division of finance to define regulatory terms by administrative rule for efficient administration."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified both subsections against archived text (effective 7-07-10): 39 definitions for sections 443.701 to 443.893 and permissive director rulemaking to define terms."
+    },
+    {
+      "id": "443.706:24540",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.706&bid=24540",
+      "sourceSha256": "f67ddf3c46eeca8d530dde44e261c54976a4d5a67226b4994cdee30ab3a483f2",
+      "textSha256": "da6def4e01b2286bd097065b0b6e0715919a81c3eb7f1a4e7b5de896cad31ab7",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mortgage loan originator license requirement and NMLSR registration",
+          "bodySha256": "9ac0426df6b05e7da9fc4815cccb14dbd590b3f904003bb6bfff93c9d706e36c",
+          "reviewNote": "Covers mandatory originator licensing, employment under licensed broker, and unique identifier registration with NMLSR."
+        },
+        {
+          "number": 2,
+          "title": "Transition effective date for originator licensing",
+          "bodySha256": "53fc36b08b85f2dcd6ea6209f6ea96b42c457ca76e45096dfa080abd610b1107",
+          "reviewNote": "Covers statutory transition effective date of July 31, 2010, or later HUD-approved date under federal SAFE Act."
+        },
+        {
+          "number": 3,
+          "title": "Exemptions from mortgage loan originator licensing",
+          "bodySha256": "7ee78c7243895dad3cbfb4dbb54eff06f9d5cef818b8fd3de61edbc4f49b4788",
+          "reviewNote": "Covers statutory exemptions for registered originators, family member transactions, personal residence sales, and ancillary attorney negotiations."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections against archived text (noting July 31, 2010 subsection 1 effective-date footnote): originator licensing and NMLSR identifier, transition date, and four exemptions."
+    },
+    {
+      "id": "443.711:24543",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.711&bid=24543",
+      "sourceSha256": "44fea2ff0751639bd9ea729ef74365e6b15594d0342801a4ae02f067195928a7",
+      "textSha256": "209c8756e6d40e9f300d193b37a751afa0721774dcb00f59bbecd47333a5dccd",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "License application form and content prescribed by director",
+          "bodySha256": "2c77214465e4b49c193dc1ce1a9f6c18c402f2c78d2e98eec6154453582725ce",
+          "reviewNote": "Covers application form requirements, content updates, and procedures established by director of finance."
+        },
+        {
+          "number": 2,
+          "title": "Contracts and relationships with NMLSR for recordkeeping and fees",
+          "bodySha256": "866e486f4fd77113742621b251efdf76d17ea31e7bd85b2003dcba5d9007e464",
+          "reviewNote": "Covers director authority to establish contracts and relationships with NMLSR for licensing records and fee collection."
+        },
+        {
+          "number": 3,
+          "title": "Director authority to modify statutory requirements for NMLSR participation",
+          "bodySha256": "e816244dfe75bccf92dca789cd3afb146b2f6f93d671a554e5e49142855e9763",
+          "reviewNote": "Covers director authorization to modify statutory licensing requirements by rule or order to facilitate NMLSR participation."
+        },
+        {
+          "number": 4,
+          "title": "Mandatory fingerprinting, background checks, and credit report disclosures",
+          "bodySha256": "75172400547a1a73247f3da59bae06eac3997a88a716a435950700d802e8de5b",
+          "reviewNote": "Covers applicant submission of fingerprints for FBI background checks, credit reports, and governmental findings disclosures."
+        },
+        {
+          "number": 5,
+          "title": "Designation of NMLSR as agent for criminal history information",
+          "bodySha256": "427d544cad96e9050f9f9af02ce43ee3637c4c35b4903a0a8085037b9d0bc0d8",
+          "reviewNote": "Covers director designation of NMLSR as agent for requesting and distributing criminal history information to and from the Department of Justice."
+        },
+        {
+          "number": 6,
+          "title": "Designation of NMLSR as agent for administrative and credit records",
+          "bodySha256": "59752d06c41df48237c88b7bd03c03700435e8cf795eb85ddbda856db551b104",
+          "reviewNote": "Covers director designation of NMLSR as agent for obtaining and distributing credit history and administrative findings."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 6 subsections against archived text: director-prescribed application forms, NMLSR contracts and rule/order modifications, fingerprinting/credit/findings disclosures, and NMLSR agency roles."
+    },
+    {
+      "id": "443.717:48657",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.717&bid=48657",
+      "sourceSha256": "fd6f1ec352a970276f71caad5da7f6e365b5fb5eb6db3aaaa7da72fd955932ce",
+      "textSha256": "f0e84bb118b7fc6f38070b2f799f4d8499d1498a4ff090ba82d32561ec10385e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Twenty-hour prelicensing education curriculum requirements",
+          "bodySha256": "c67ce106f04f1e6f85f809b31eac7dda3573fd1cf0aa97f4aa4bbf44e0745fc3",
+          "reviewNote": "Covers twenty-hour education mandate including federal law, ethics, fair lending, and nontraditional mortgage product training."
+        },
+        {
+          "number": 2,
+          "title": "NMLSR review and approval of courses and course providers",
+          "bodySha256": "585b39451e3a3677ec99b8fdffb7fd32b3dd60d36435e13cbfe124c706cabc57",
+          "reviewNote": "Covers NMLSR standards for reviewing and approving prelicensing education courses and authorized course providers."
+        },
+        {
+          "number": 3,
+          "title": "Approved courses provided by employers or affiliates authorized",
+          "bodySha256": "0241615c6bf4a865f729956c054efc46f16f08d792b7c59f6447bb6378cb5d14",
+          "reviewNote": "Covers authorization for approved prelicensing courses provided by applicant employers or affiliated entities."
+        },
+        {
+          "number": 4,
+          "title": "Delivery methods in classroom, online, or other approved formats",
+          "bodySha256": "d3f40d1b62fad0af8a044b50eba380cdd95ef8d01a97848379e0214c5ac3bc7f",
+          "reviewNote": "Covers permissible course delivery methods including classroom, online, and NMLSR-approved formats."
+        },
+        {
+          "number": 5,
+          "title": "Reciprocal credit for NMLSR-approved education courses from other states",
+          "bodySha256": "ea638ddedb818562a34cbbc4bba2f6c71eff09c9a9c2d60032bab8444281872f",
+          "reviewNote": "Covers reciprocal acceptance in Missouri of NMLSR-approved prelicensing education hours completed in other states."
+        },
+        {
+          "number": 6,
+          "title": "Continuing education completion proof required for relicensure",
+          "bodySha256": "bc5e278bc006da7217f283e3277cb5a3c15581881847fc61981e0d10dc91a338",
+          "reviewNote": "Covers requirement that previously licensed originators prove completion of continuing education for the year license was last held."
+        },
+        {
+          "number": 7,
+          "title": "Expiration of prelicensing education credits prior to application",
+          "bodySha256": "89a8ae2f8652da0c8b4f869db0549d71ce59d82605838a8476aef39f4b5769be",
+          "reviewNote": "Covers rule that prelicensing courses completed prior to NMLSR-established lookback periods do not satisfy licensing requirements."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 7 subsections against archived text: 20-hour prelicensing curriculum, NMLSR approval, employer/affiliate courses, delivery formats, interstate credit, relicensure continuing education proof, and credit expiration."
+    },
+    {
+      "id": "443.719:24546",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.719&bid=24546",
+      "sourceSha256": "6ca1c19f429470b2f8b86708181513a8786356a15aac30e91c9473fc7a8f2eed",
+      "textSha256": "ef8dc70029e54516d240381458a68f345eb98fd3f2009b1942724b23933c066c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written testing requirement and NMLSR national test component",
+          "bodySha256": "a2b411482aa32add192e079d098d71e1d6855c565b9bb67cf7c54989809c5999",
+          "reviewNote": "Requires applicants to pass the NMLSR National Test Component with Uniform State Content for Mortgage Loan Originator licensing; original-rolls footnote notes \"NMLSR'S\"."
+        },
+        {
+          "number": 2,
+          "title": "Testing subject matter in ethics, laws, consumer protection, and fraud",
+          "bodySha256": "6672b0eeba21526b06c42c686d334314b8638c946389fc70048c81a4d9c2de76",
+          "reviewNote": "Covers tested subject areas including ethics, federal and state mortgage laws, fraud, and fair lending regulations."
+        },
+        {
+          "number": 3,
+          "title": "Authorized testing locations at employer or affiliate facilities",
+          "bodySha256": "833433e6d707ccc478d7f943fb9cfcbfc1465c6dffff0c49d85618d432feaa7e",
+          "reviewNote": "Covers permission for NMLSR-approved test providers to administer tests at employer or affiliated company locations."
+        },
+        {
+          "number": 4,
+          "title": "Seventy-five percent passing score, retakes, and five-year retesting",
+          "bodySha256": "af4ea1719f29f3623c160f541c3b094100e64ca58b5a0b94b6fb69e749ce6c0c",
+          "reviewNote": "Covers 75% passing threshold, 30-day retake intervals, 6-month wait after three failures, and retesting after five-year license lapse."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 4 subsections against archived text (noting 10-16-15 veto override effective date and original-rolls footnote \"NMLSR'S\" in subsection 1): NMLSR written test, subject areas, testing locations, 75% pass score, retakes, and 5-year lapse retesting."
+    },
+    {
+      "id": "443.721:24547",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.721&bid=24547",
+      "sourceSha256": "34c8eb6001b25685df6998fa71e67041e2e346b3af3c8e9d13e980f3edf5711c",
+      "textSha256": "46adc6c98b66700a2978ee01ed04d61a2b66fcabba90eac38e7b9b8ff95144bc",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Standards for annual license renewal for mortgage loan originators",
+          "bodySha256": "d410e0132079377c57cd2c181f7a7fb8313f1c4e215900ef7bdd9b454cca5ec5",
+          "reviewNote": "Covers annual renewal criteria including ongoing issuance compliance, continuing education completion, and fee payments."
+        },
+        {
+          "number": 2,
+          "title": "Automatic expiration upon failure to satisfy renewal standards",
+          "bodySha256": "8b8216948f6da07b8d67e56d9ecc7ea9701efb53d8e745b42713d2f3b8035a01",
+          "reviewNote": "Covers automatic expiration of mortgage loan originator license if annual renewal requirements are not met, and reinstatement rules."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified both subsections against archived text: minimum annual renewal standards for mortgage loan originators and expiration/reinstatement rules."
+    },
+    {
+      "id": "443.723:24548",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.723&bid=24548",
+      "sourceSha256": "24089344c075d624a28ce47a1d554755760a76e9f77f89d507dc45bdfa75b1a9",
+      "textSha256": "f9977347981f2bc79bd31b632dda36145b03af910cbf3d1e7202a849e633d3fc",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Eight-hour annual continuing education curriculum",
+          "bodySha256": "1ab063db78f6b6166463d5b94ee3754d1d2dabd22745c3445a60850462e2f798",
+          "reviewNote": "Covers eight-hour annual continuing education requirement including federal law, ethics, nontraditional lending, and Missouri law."
+        },
+        {
+          "number": 2,
+          "title": "NMLSR approval of continuing education courses and providers",
+          "bodySha256": "5a75c807abc58a24107f710698c6650c12200e211cb01bb5754d0fb46c8fe60b",
+          "reviewNote": "Covers NMLSR standards for reviewing and approving continuing education courses and course providers."
+        },
+        {
+          "number": 3,
+          "title": "Authorized courses provided by employers or affiliates",
+          "bodySha256": "2290039231e9c31a497d2c0a8754a16688a5895a6c510eebe355bc4734487724",
+          "reviewNote": "Covers permission for approved continuing education courses offered by licensee employers or corporate affiliates."
+        },
+        {
+          "number": 4,
+          "title": "Permissible classroom and online education formats",
+          "bodySha256": "cf3de8958689d5e5e1d71b9d8233f7f2e6fc12e65582092c12cf31111624dbb7",
+          "reviewNote": "Covers delivery of continuing education in classroom, online, or other NMLSR-approved formats."
+        },
+        {
+          "number": 5,
+          "title": "Annual credit limitation and prohibition on repeating courses",
+          "bodySha256": "d3166e20a98f1adb1fd0aabe35be06d39e12a4c3c389cab6c07e2f1591edc7b6",
+          "reviewNote": "Covers rule that credit is received only in the year taken and prohibition on repeating identical courses in successive years."
+        },
+        {
+          "number": 6,
+          "title": "Double continuing education credit for approved instructors",
+          "bodySha256": "c4235585b91be4bd9455cf69e6ea7b3cf475462d47282353a0272c13a190e4d4",
+          "reviewNote": "Covers award of continuing education credit to approved instructors at rate of two hours credit for every one hour taught."
+        },
+        {
+          "number": 7,
+          "title": "Reciprocal credit for NMLSR-approved courses from other states",
+          "bodySha256": "2e82d5cf7f726ec4bc2c12100bebba80084853956cad48ba0b721cb6868068e1",
+          "reviewNote": "Covers reciprocal acceptance in Missouri of NMLSR-approved continuing education hours completed in other states."
+        },
+        {
+          "number": 8,
+          "title": "Catch-up education required for license reinstatement",
+          "bodySha256": "7569471d2debf0b97edcbc7d89a380c2e7de6e299bdf9f412c976972d4c620c2",
+          "reviewNote": "Covers requirement that individuals seeking license reinstatement complete continuing education for the year license was last held."
+        },
+        {
+          "number": 9,
+          "title": "Deficiency makeup procedure for continuing education",
+          "bodySha256": "bf411e776a0a21e931cb850865a963c334b307c0ac78b11837ee624da3c4a8dc",
+          "reviewNote": "Covers procedure for making up continuing education deficiencies pursuant to regulations adopted by the director."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 9 subsections against archived text: 8-hour annual continuing education curriculum, NMLSR approval, employer/affiliate courses, delivery formats, annual/no-repeat rules, instructor double credit, interstate credit, catch-up, and deficiency makeup."
+    },
+    {
+      "id": "443.729:24551",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.729&bid=24551",
+      "sourceSha256": "b19745744cd6c5f91e8e8ac8a5c1ca5b2043ab4fa75ef685cca01330a8190135",
+      "textSha256": "35aa2901c04f64ef5f9d631e0823344502bbfa021fb3a68efe224072e0787a28",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Director disciplinary, restitution, fine, and cease-and-desist powers",
+          "bodySha256": "1e1a676eea90447ae453f988de0a91179da45b1f6fc0e766ee51b69756a937d2",
+          "reviewNote": "Authorizes the director under chapter 536 to deny, suspend, revoke, condition, or decline renewal of licenses, order restitution, impose fines, and issue cease-and-desist (including immediate temporary) or affirmative-action orders."
+        },
+        {
+          "number": 2,
+          "title": "Board appeals of denials and director contested-case hearings",
+          "bodySha256": "3eb2e4d614333cbfc78b549302d616cc980c9de47d2d5634871336be60061528",
+          "reviewNote": "Permits appeal of director denial or nonrenewal letters to the residential mortgage board under chapter 536 and provides for director hearings on other contested cases."
+        },
+        {
+          "number": 3,
+          "title": "Civil penalties after notice and opportunity for hearing",
+          "bodySha256": "4e7bf86c4ad46c0002c2ee141fe2a67324a754d3551fe8d9a8d284656af747bc",
+          "reviewNote": "Authorizes the director to impose civil penalties after notice and opportunity for hearing for violations of sections 443.701 to 443.893, rules, or orders."
+        },
+        {
+          "number": 4,
+          "title": "Twenty-five thousand dollar maximum penalty per act",
+          "bodySha256": "73ae63fce167c40061b4f897a96c51f1df2c7d1f49544107d028924ffc033974",
+          "reviewNote": "Caps the civil penalty under subsection 3 at $25,000 for each act or omission."
+        },
+        {
+          "number": 5,
+          "title": "Each order or directive violation deemed separate offense",
+          "bodySha256": "568d04536aa31d479ae129a02dc77da6058d14a1af1f1e1887f9f7378e4f9162",
+          "reviewNote": "Provides that each violation or failure to comply with any director directive or order constitutes a separate and distinct violation."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Replaced all 5 completely hallucinated draft headings (which erroneously described NMLSR reports of condition and sponsorship) with source-bound headings for supervision, board appeals, hearings, $25,000 civil penalties, and separate violations."
+    },
+    {
+      "id": "443.731:24552",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.731&bid=24552",
+      "sourceSha256": "eaffc1308b2c0745a82ef64eddc997b5386571450189a267223f062f4ec47893",
+      "textSha256": "af2c707b6ae876114b8ff83e818d34e872b9e0047b65f278c005c0aede08de93",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Originator surety bond coverage, form, and rulemaking",
+          "bodySha256": "787e9b6077d24120af3ca4b54fad029bd88bc0ac752b12568d5c29746b69ba87",
+          "reviewNote": "Requires each mortgage loan originator to be covered by the supervising licensed broker's surety bond in director-prescribed form and authorizes director rulemaking on surety bond requirements."
+        },
+        {
+          "number": 2,
+          "title": "Surety bond penal sum between fifty thousand and one million dollars",
+          "bodySha256": "c4c748cdc754c5d6ef0a888e20c1fba2c4fd62a73fd12525ae37d2a2a9a6ba9d",
+          "reviewNote": "Requires the surety bond penal sum to reflect originated loan dollar volume as determined by the director, between $50,000 minimum and $1,000,000 maximum."
+        },
+        {
+          "number": 3,
+          "title": "Director authority to require new bond upon action",
+          "bodySha256": "32cb0d1c248a50e7a422a35367622ada93a3249892646a7b05fd1719b6838a7b",
+          "reviewNote": "Authorizes the director to require filing of a new bond when an action is commenced on a licensee's bond."
+        },
+        {
+          "number": 4,
+          "title": "Immediate replacement bond required upon bond recovery",
+          "bodySha256": "ccc60f69ae853fe1e053cb55c61a309b945d2acc2e1749a40f4a6cdc67ce99d8",
+          "reviewNote": "Requires a licensee to file a new bond immediately upon recovery on the bond."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Replaced all 4 completely hallucinated draft headings (which erroneously described NMLSR violation reporting and confidentiality) with source-bound headings for originator surety bond coverage, $50,000\u2013$1,000,000 penal sum, and replacement bonds."
+    },
+    {
+      "id": "443.805:24563",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.805&bid=24563",
+      "sourceSha256": "e139a4381d540fc441fd9941d482713497c3323051205755203634bc9febad71",
+      "textSha256": "d596670c6f832bb652f665ca13ace398d3cf90ff3e45adbdac6156faa8500a48",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Residential mortgage loan broker license requirement",
+          "bodySha256": "6c07fc3d24e9a3ff4bed32688ec46b0c2568609fae36800c921be70854e557eb",
+          "reviewNote": "Covers prohibition against engaging in residential mortgage brokering, funding, servicing, or purchasing without a state broker license."
+        },
+        {
+          "number": 2,
+          "title": "Prohibition on unlicensed business names, advertising, or representations",
+          "bodySha256": "ec82be1d9c10cb9908d26f541e3842c54eaddd315a860a5018772779d5334d8e",
+          "reviewNote": "Prohibits any person other than a licensee or exempt person from doing business under a name/title, advertising, or making representations implying activity within sections 443.701 to 443.893."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified subsection 1 and replaced inaccurate subsection 2 heading (prohibition on unlicensed business names, advertising, or representations, not originator employment)."
+    },
+    {
+      "id": "443.812:34773",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.812&bid=34773",
+      "sourceSha256": "8ff585458d6d0af633e20956a7fd66c498d3714f4d2f644f789de3220fb346e8",
+      "textSha256": "bd200a16f0ee02882c6bb22ce2be78fc643f4f585cccf3e6cfa2a8048e84fb4b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Single broker license and registration of Missouri offices",
+          "bodySha256": "8927dcc2079aabf8259fd0be8350b85a9963a3e4b839ceb0f9847b979aebe97c",
+          "reviewNote": "Limits each residential mortgage loan broker to one license and requires registration of each Missouri office or place of business under section 443.839."
+        },
+        {
+          "number": 2,
+          "title": "Broker operations restricted to statutory and regulatory compliance",
+          "bodySha256": "ef633d03472b518ff8254b3a0169b65bcff76bfee1741399b49ee4e6290f88b6",
+          "reviewNote": "Restricts residential mortgage loan brokers to soliciting, brokering, funding, originating, serving, and purchasing residential mortgage loans in conformance with sections 443.701 to 443.893 and director rules."
+        },
+        {
+          "number": 3,
+          "title": "Prohibition on unlicensed originators and employment verification",
+          "bodySha256": "1547e7e55d269f115f159977d4771861fb2ec9b9045556d8332a04a8832a35a9",
+          "reviewNote": "Prohibits brokers from allowing unlicensed individuals to act as mortgage loan originators or allowing licensed originators to act under their supervision until shown to be employed as provided in section 443.812."
+        },
+        {
+          "number": 4,
+          "title": "Broker filing and next-day updates of employed originators",
+          "bodySha256": "818e7979623743e744b9544aa158066fa3cc00af275f5dc4cfb5442cd9187691",
+          "reviewNote": "Requires brokers to file a listing of employed licensed originators (names and unique identifiers) updated by the next business day, with optional NMLSR reporting substitution."
+        },
+        {
+          "number": 5,
+          "title": "Director waiver of broker licensing requirements for servicers",
+          "bodySha256": "27d5bd95eca16601745e5708fbd43832db99eca19868db7e955e29e6640afa88",
+          "reviewNote": "Authorizes the director to waive broker licensing requirements, particularly the Missouri full-service office requirement, for persons engaged primarily in servicing residential mortgage loans when beneficial to borrowers."
+        },
+        {
+          "number": 6,
+          "title": "Manufactured or modular home brokers and office exemption",
+          "bodySha256": "d58575595ac48528d9f43b3254a023fc7e54b26f02710d77310c8e82ae0f445c",
+          "reviewNote": "Exempts licensed brokers exclusively making manufactured or modular home loans from maintaining a Missouri full-service office upon filing irrevocable Cole County venue consent, while allowing investigation cost assessments."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Replaced all 6 completely hallucinated draft headings (which erroneously described licensing exemptions) with source-bound headings for single broker license, compliance, originator supervision/reporting, servicer waivers, and manufactured/modular home broker office exemptions."
+    },
+    {
+      "id": "443.819:24571",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.819&bid=24571",
+      "sourceSha256": "adbc99f4c57bb0b86ffff4ed9509f62e1eaf1e7f17b23476a6a6c19b3e2ff35e",
+      "textSha256": "950b834348624c1af6f8a6a643fbfe5b27e73e4590809a44d6432ff0512ca34b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Operation under real, corporate, or registered fictitious name",
+          "bodySha256": "0b46915f4bea117d18e8db0eba098e14cb8a021dc188b6053f73cc6ee322efbf",
+          "reviewNote": "Prohibits regulated businesses from operating under any name other than the real names of the persons conducting business, a lawful corporate name, or a fictitious name registered with the secretary of state."
+        },
+        {
+          "number": 2,
+          "title": "Criminal penalties for knowing business-name violations",
+          "bodySha256": "455d55da0be9da0adf26c81b6e6d406250801a304dcbeeb677040f8e2fcc7643",
+          "reviewNote": "Makes knowing violation of section 443.819 a class A misdemeanor and a second or subsequent conviction a class D felony."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Replaced both completely hallucinated draft headings (which erroneously described broker applications and fitness investigation) with source-bound headings for real/corporate/registered fictitious business names and class A misdemeanor / class D felony penalties."
+    },
+    {
+      "id": "443.825:48658",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.825&bid=48658",
+      "sourceSha256": "4c1bd77f154a5ba21af93bfbe3b78a526d5cbc00aaa88a92cc719bc2b01477a8",
+      "textSha256": "608561b96374ac3d1bbd80947f70fe014e71b509f31a3de476d91fb55074b71d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Written application under oath on prescribed form",
+          "bodySha256": "dd0ec16f78731678b02e2937d2cefb8c38a6e43c0e717bb945dfadffea3d3308",
+          "reviewNote": "Requires residential mortgage loan broker license applications to be made under sections 443.833 and 443.835 in writing, under oath, on a form provided by the director."
+        },
+        {
+          "number": 2,
+          "title": "Rulemaking to conform broker licensing to NMLSR",
+          "bodySha256": "b1bed89ebe01027cb58ff1cbe408f8e1fbcf43cec5c0177a0a3a44ee0fa18b39",
+          "reviewNote": "Authorizes the director by rule to revise and conform broker license applications, renewals, and licensing dates/periods to an NMLSR-administered licensing system."
+        },
+        {
+          "number": 3,
+          "title": "Disclosure of controlling owners, stock ownership, and capital providers",
+          "bodySha256": "568788902da80bac68e39cf2c3a8e2c0adc8c8c91d93d1e03ec11f8e7eaf724b",
+          "reviewNote": "Covers required identification of officers, directors, partners, 10% shareholders, capital providers, and controlling persons."
+        },
+        {
+          "number": 4,
+          "title": "Fingerprint submission by controlling persons for background checks",
+          "bodySha256": "7738beb1524fe02ddcbca626d221b248b7a742426e4ebb2a0753e0aff97daebd",
+          "reviewNote": "Covers requirement that controlling owners, officers, and directors submit fingerprints to NMLSR for FBI criminal history checks."
+        },
+        {
+          "number": 5,
+          "title": "Use of NMLSR as agent for criminal record processing",
+          "bodySha256": "a2c9ebcb93c3770617370f10c0ae6efe9185d9fb511f7c240ad0e51671b20663",
+          "reviewNote": "Covers director use of NMLSR as processing agent for requesting and exchanging information with Department of Justice."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified subsections 3, 4, and 5 and replaced inaccurate/shifted draft headings in subsections 1 and 2 (written application under oath on director form; rulemaking to conform broker licensing to NMLSR)."
+    },
+    {
+      "id": "443.833:24578",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.833&bid=24578",
+      "sourceSha256": "4749c65c7f45029026a6002447bea441c54a88fdee6d00127ffb79d52d5efbee",
+      "textSha256": "5a652fcce50154b89e497f5fc8888839c4f68cc08078e599f45127db8409aa78",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Broker biennial renewal schedule and sixty-day deadline",
+          "bodySha256": "e0ed9dc8bb398769daf188edfe92a6f50f984fff1a5922df3b4353be75084a33",
+          "reviewNote": "Covers broker license renewal on first anniversary and every two years thereafter, with application due sixty days prior."
+        },
+        {
+          "number": 2,
+          "title": "Renewal notice, good-cause extension, and late renewal fees",
+          "bodySha256": "72b3795b3b2e2dd7b3013bb1ad0e88aaed2edfa81205bfde3038420b746cc77e",
+          "reviewNote": "Covers ninety-day renewal notice, late fee of $500 plus $1,000 monthly for unrenewed active operations, and good cause extensions."
+        },
+        {
+          "number": 3,
+          "title": "Automatic inactive status and reactivation procedure",
+          "bodySha256": "d71f4018450a11d937de6308e7095b4867b7beb7083a9cb122d385e2a3b234df",
+          "reviewNote": "Covers automatic inactive status for unrenewed broker licenses, prohibition on activities, and reactivation upon payment of fees."
+        },
+        {
+          "number": 4,
+          "title": "Expiration of inactive license after one year",
+          "bodySha256": "5bddc4a35339c2978fd69a35fd7c1ac3220a3afc6318328cc4d1458e6d628063",
+          "reviewNote": "Covers rule that inactive broker licenses not reactivated within one year automatically expire."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 4 subsections against archived text: broker renewal schedule and 60-day deadline, 90-day notice and $500/$1,000 late fees, automatic inactive status and reactivation, and 1-year expiration."
+    },
+    {
+      "id": "443.839:24581",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.839&bid=24581",
+      "sourceSha256": "5cc9cdfb203b2d665f4314592e6e3614e9c8bce56896d8f86c917c21a300904c",
+      "textSha256": "631f1de4e8959a6f30dd92f8a4036ae177d7abf47ca483c451e6aad028af6d80",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application and fee for additional broker branch offices",
+          "bodySha256": "e9141492b03830808e25730fdb0d8a1350f673bf785690db14b57bfa308ebbd2",
+          "reviewNote": "Covers broker procedure for applying to open and maintain additional branch offices in Missouri with prescribed notice and fee."
+        },
+        {
+          "number": 2,
+          "title": "Issuance and conspicuous display of branch office certificate",
+          "bodySha256": "e0dcf33bff4c15496b67281afd47f678a64d5ef7b03c33eb168c9509e2d2c13a",
+          "reviewNote": "Covers director issuance of additional office certificate and requirement to display certificate conspicuously in branch office."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified both subsections against archived text: broker notice and fee for additional Missouri offices and issuance/conspicuous posting of office certificates."
+    },
+    {
+      "id": "443.843:24583",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.843&bid=24583",
+      "sourceSha256": "49a8fbd5691e3afdb1d0120a9d7385b0978d816982b4e48837eded611d048cc3",
+      "textSha256": "43622544314cd7cff14d067d042a9bacf9d11f4ec3af46b84a677bf60c4b1364",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Assessment of regulatory administration and examination fees",
+          "bodySha256": "20f623ed54b338efadbb30fc569dd2034abfa2426b79d5470832dd1bca37e81d",
+          "reviewNote": "Covers director establishment of fee categories covering applications, investigations, examinations, NMLSR fees, and costs."
+        },
+        {
+          "number": 2,
+          "title": "Fee schedules aligned with administrative costs",
+          "bodySha256": "bc8f37697ab9afa52955eda86e7b43e7944aa8253977c83ca437d63676b315da",
+          "reviewNote": "Covers requirement that regulatory fee schedules produce revenue not substantially exceeding the actual cost of administration."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified both subsections against archived text: director regulatory fee categories and revenue alignment with administrative costs."
+    },
+    {
+      "id": "443.845:24584",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.845&bid=24584",
+      "sourceSha256": "2689a00552f5155414c5b6de1e6374d2334b25fbc2911a27b2b41ff4f23287e0",
+      "textSha256": "8447314a91b3ba0b1d7c706ff86c300e61d3008992705fc45859be8ff8ee07b9",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Creation of Residential Mortgage Licensing Fund in state treasury",
+          "bodySha256": "e7b304573bee9aacfd25a518d84819e055981be63e82f2fe9d18f65b826d823a",
+          "reviewNote": "Covers establishment of dedicated, interest-bearing fund in state treasury for director administrative expenses funded by license fees."
+        },
+        {
+          "number": 2,
+          "title": "Biennial fund lapse threshold to general revenue",
+          "bodySha256": "ca39857fe0015b650efcc60da81636d81c20ee56fb94c5e964d889ca6ac00fc8",
+          "reviewNote": "Covers exemption from section 33.080 and lapse threshold limiting general revenue transfers to amounts exceeding three times appropriations."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified both subsections against archived text: Residential Mortgage Licensing Fund creation in state treasury and biennial general-revenue lapse threshold (three times prior-year appropriations)."
+    },
+    {
+      "id": "443.849:24586",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.849&bid=24586",
+      "sourceSha256": "139b096a826bafbe0b87a82da9c057ea1bdd5f2ceded47920b13a503428d405f",
+      "textSha256": "68f412bed1f974a1f18efb21ceb6da26c35e186aef01b4f7738c572e29e564f3",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Broker surety bond requirement for licensing",
+          "bodySha256": "e2ddc9d0822a9b96d62842b795a648bbe47944ba8a96fab3a1067a62bf5d90e0",
+          "reviewNote": "Covers mandatory broker surety bond delivery prior to license issuance or renewal securing faithful performance of employees and originators."
+        },
+        {
+          "number": 2,
+          "title": "Surety bond penal sum between fifty thousand and one million dollars",
+          "bodySha256": "40e5e958b7d9f447f79e3e2608c4d8527aca193b7b2035dce5fe4005723daf27",
+          "reviewNote": "Covers bond penal sum scaled to loan volume, establishing statutory floor of $50,000 and ceiling of $1,000,000."
+        },
+        {
+          "number": 3,
+          "title": "New bond required upon commencement of bond action",
+          "bodySha256": "32cb0d1c248a50e7a422a35367622ada93a3249892646a7b05fd1719b6838a7b",
+          "reviewNote": "Covers director authority to require filing of a new surety bond upon commencement of any legal action on existing bond."
+        },
+        {
+          "number": 4,
+          "title": "Immediate replacement bond required upon recovery",
+          "bodySha256": "279696ff7a2c68085e5a0e63076e3154a5cb0ddf57d1f05fc426a9343caa1bbf",
+          "reviewNote": "Covers mandatory immediate filing of replacement bond by licensee upon any claim recovery on the bond."
+        },
+        {
+          "number": 5,
+          "title": "Protection of borrowers and director claims on bond",
+          "bodySha256": "cbd19c80c837937e635b92556c3a33ece62413121c9588f7b568962080aa0e1a",
+          "reviewNote": "Covers protection of borrowers against noncompliant licensee actions and director authority to file claims on borrowers' behalf."
+        },
+        {
+          "number": 6,
+          "title": "Release of bond to borrower or attorney for direct claim",
+          "bodySha256": "a86840059c0b38b8373682c0b7c615b07acd780c61ac01d7732a3b3e4a38f307",
+          "reviewNote": "Covers director discretion to release bond to injured borrower or attorney to prosecute direct bond claims."
+        },
+        {
+          "number": 7,
+          "title": "Surety cancellation terms and ongoing coverage of prior acts",
+          "bodySha256": "675f22fae77ab5a8dba7e2bfb0e052351d34ac9abc70b4c6d162cc4cb753fbf5",
+          "reviewNote": "Covers terms of surety cancellation or withdrawal and continuing coverage of prior acts within statutory limitations period."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 7 subsections against archived text: broker surety bond delivery, $50,000\u2013$1,000,000 penal sum, new/replacement bonds, borrower protection and director claims, direct bond release, and surety cancellation."
+    },
+    {
+      "id": "443.867:24595",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.867&bid=24595",
+      "sourceSha256": "cb52ef668c52fbf0502c5869b4187c00288051eb8589e9ff74bc9b1aa23b88e6",
+      "textSha256": "c89b11be35167f94b45205e8f1e2f9e1050823e1f5750a649f100dc30781b5fc",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Brokerage disclosure statement and funding source disclosures",
+          "bodySha256": "e038177b25dab2f0be22f44313d0442a678516efe3d62ececde18e5d50c62d1e",
+          "reviewNote": "Covers required written disclosure statement detailing whether broker makes loans and whether third parties provide loan funds."
+        },
+        {
+          "number": 2,
+          "title": "Disclosure of broker fees and compensation sources",
+          "bodySha256": "438b2a0b45923f59b84b2f6ff17589a84433b817870552177f0c73695c479df2",
+          "reviewNote": "Covers required disclosure of amount and all sources of broker fees and compensation related to procuring residential loans."
+        },
+        {
+          "number": 3,
+          "title": "No state cap on origination fees with compliant disclosures",
+          "bodySha256": "6017eb8a6bdede5aedaac0ddcb8048cd287139ab438b01707df0e07fc8bed7b8",
+          "reviewNote": "Covers rule that origination fees are not capped under state law provided disclosure statement complies with state and federal law."
+        },
+        {
+          "number": 4,
+          "title": "Originator compensation exclusively by employing broker",
+          "bodySha256": "a4de40c9319afc3de705b790ce7ea2c2b2ba9c562371ae16f6821fbe65dbd304",
+          "reviewNote": "Covers requirement that originators be compensated solely by employing broker and prohibition on direct lender or borrower payments."
+        },
+        {
+          "number": 5,
+          "title": "Double fee forfeiture penalty for noncompliant or excessive fees",
+          "bodySha256": "6ba28bc04dd3919dbd2117c62beb7cec2a5bd9eec5c75b2810771835c95ae166",
+          "reviewNote": "Requires a mortgage loan broker to forfeit double the fees and compensation obtained to the borrower if the disclosure statement and fee agreement is noncompliant or fees exceed disclosed amounts."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 5 subsections against archived text; removed unstated \"plus borrower attorney fees\" from subsection 5 reviewNote so it matches statutory double-fee forfeiture."
+    },
+    {
+      "id": "443.869:24596",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.869&bid=24596",
+      "sourceSha256": "366252fb6da1a0bee6f79b615533d84d0b7bf1569da3c5d02665097f4ffd0a75",
+      "textSha256": "a3eed8f70e167b660e4dd170d5e22099ab14043caa78cabdfc0bb523e1ca8164",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Functions, powers, and duties of the director",
+          "bodySha256": "9bc7b2a35f572959c4076fbb42332df43c15ae208726ca85675ca9c21827d515",
+          "reviewNote": "Enumerates fifteen functions, powers, and duties of the director including licensing, discipline, complaint investigation, rulemaking, subpoenas, examinations, fee collection, staffing, hearings, and NMLSR agreements."
+        },
+        {
+          "number": 2,
+          "title": "Chapter 536 rulemaking compliance and nonseverability",
+          "bodySha256": "9f3808c2e8dddd9c64e55c59da29263761e8f6168a77c63e0caae19a02273f07",
+          "reviewNote": "Requires chapter 536 and section 536.028 compliance for rules under section 443.869 and includes a nonseverability clause invalidating post-August 28, 2001 rulemaking if legislative review powers are held unconstitutional."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Replaced both completely hallucinated draft headings (which erroneously described advertising rules) with source-bound headings for director functions/powers/duties and chapter 536 rulemaking compliance/nonseverability."
+    },
+    {
+      "id": "443.879:24601",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.879&bid=24601",
+      "sourceSha256": "60dbc13801bc8aa401e880b12e99fe3cc4dc6d44bea742c1de568679ec26bd48",
+      "textSha256": "2e0fae815c3e007dee6d0110987060272af5e8ad0e3363674141e7a696dd2f4c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Duty to file additional reports requested by director",
+          "bodySha256": "ce8a83485e35b7d0ea46d3da1b65fe09e2a34f74e06909b873c6c9b005dd5b23",
+          "reviewNote": "Requires every licensee to file any additional reports requested by the director beyond those otherwise mandated by sections 443.701 to 443.893."
+        },
+        {
+          "number": 2,
+          "title": "Class A misdemeanor for nonfiling, false entries, or delay",
+          "bodySha256": "29ad084c6cc96cad48376ad3fd3c5413d018ad7d06bd7de8dc83b135b3b35a32",
+          "reviewNote": "Makes a broker or its officer, director, employee, or agent guilty of a class A misdemeanor for failing to file required reports, making false entries with intent to deceive, or purposely delaying filings."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Replaced both completely hallucinated draft headings (which erroneously described subpoenas) with source-bound headings for additional director-requested reports and class A misdemeanor penalties."
+    },
+    {
+      "id": "443.881:24602",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.881&bid=24602",
+      "sourceSha256": "97b36a85eb3265d26a97a4fc7d87ce18487d7f196a844350218fc40a2882104b",
+      "textSha256": "42a494cf70b50022ea81a1bd893097c195d8a02a1e8e7170d168d3e1d8e9e3d8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Director grounds to suspend or revoke license on notice",
+          "bodySha256": "e95f1cdb7e03b7ebd26b92b4d6ab95ddb604dba72efad97f44b7558116b317c0",
+          "reviewNote": "Authorizes the director upon written notice to suspend or revoke a license for statutory/rule violations, conditions that would have warranted original denial, or disqualifying conduct by an entity's principals or ultimate equitable owners."
+        },
+        {
+          "number": 2,
+          "title": "Notice of right to hearing before disciplinary action",
+          "bodySha256": "aa85267160c1f5ed4a7e9228454025c72c052376b4b2323b3020f8c88faf0d52",
+          "reviewNote": "Prohibits license suspension, revocation, or other disciplinary proceeding without notice of the licensee's right to a hearing under sections 443.701 to 443.893."
+        },
+        {
+          "number": 3,
+          "title": "Emergency license suspension up to thirty days pending investigation",
+          "bodySha256": "591c8b5c6de54009ae511601e96b35cb6e39ca2844c6ae46fb0b8bc3bfa1a6b1",
+          "reviewNote": "Authorizes emergency license suspension for up to 30 days pending investigation upon good cause shown."
+        },
+        {
+          "number": 4,
+          "title": "Pre-surrender civil and criminal liability unaffected",
+          "bodySha256": "a74734ce5102c2d23baeff6c9c2e5702e6969c027ff5a2f7672fa6974876c6b9",
+          "reviewNote": "Clarifies that section 443.835 does not affect a licensee's civil or criminal liability for acts committed prior to license surrender."
+        },
+        {
+          "number": 5,
+          "title": "Preexisting lawful contracts unaffected by license action",
+          "bodySha256": "f4bb2ed905410785b2a38175526c8fb884f215206e187c1919de671f8d6448e9",
+          "reviewNote": "Provides that revocation, suspension, or surrender of a license does not impair preexisting lawful contracts."
+        },
+        {
+          "number": 6,
+          "title": "Duration of license and director reinstatement authority",
+          "bodySha256": "da3ebee1ad9b220fc286ef52fdef0171b852b96b4014151abd0bf8f80fb5ec11",
+          "reviewNote": "Provides that licenses remain in force until expiration, surrender, revocation, or suspension, and authorizes director reinstatement or reissuance if no disqualifying condition exists."
+        },
+        {
+          "number": 7,
+          "title": "Public notice, service of order, and board review",
+          "bodySha256": "5ad917c251a0263e1c48fe1593006fda81584096cbf293c8038dd6a2bfdc437b",
+          "reviewNote": "Requires public notice and service of revocation or suspension orders upon the licensee, subject to residential mortgage board review."
+        },
+        {
+          "number": 8,
+          "title": "Authorized disciplinary actions for statutory violations",
+          "bodySha256": "9b9109b6ae84c42a5347ff032d3543d7581a189b9e826f581318bd83b4ca9b9b",
+          "reviewNote": "Lists five disciplinary actions the director may order upon finding a subsection 9 violation: revocation, conditional suspension, probation, reprimand, or license denial."
+        },
+        {
+          "number": 9,
+          "title": "Seventeen enumerated grounds for disciplinary action",
+          "bodySha256": "87df12df8eee1239f3f482e0857b04b84364ae5cbf0b0334a856ffdb464fb59f",
+          "reviewNote": "Enumerates seventeen grounds for subsection 8 disciplinary actions including fraud/dishonesty convictions, misrepresentation, escrow/trust violations, insolvency, failure to release unfunded mortgages, unlicensed activity, and subpoena refusal."
+        },
+        {
+          "number": 10,
+          "title": "Licensee vicarious liability for officer and employee violations",
+          "bodySha256": "75f66b4c17c8dd1357c83da48e2d4609590732930a51d0307278cfae0b494c33",
+          "reviewNote": "Subjects a licensee to disciplinary action for subsection 9 violations committed by officers, directors, members, shareholders, partners, joint venturers, ultimate equitable owners, or employees."
+        },
+        {
+          "number": 11,
+          "title": "Knowledge or pattern required for employee-based suspension or revocation",
+          "bodySha256": "f106cf2f0114da5661f066825582b85607a04d0f880da5f02d6cd692fdd4449d",
+          "reviewNote": "Limits suspension or revocation based on employee actions to cases involving a pattern of repeated violations or licensee knowledge of the violation."
+        },
+        {
+          "number": 12,
+          "title": "Procedures for license suspension, revocation, and voluntary surrender",
+          "bodySha256": "f6bd63c070d65047dc1c05eb1057c13124784fcf0aef587960d15fb7d1f47cb9",
+          "reviewNote": "Establishes 10-day certified-mail hearing notice procedures for suspension or revocation and written-notice procedures for voluntary license surrender (without fee refund or liability release)."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Replaced all 12 completely hallucinated draft headings (which erroneously described CPA annual audits) with source-bound headings for license suspension/revocation grounds, hearings, emergency suspension, disciplinary actions, vicarious liability, and surrender procedures."
+    },
+    {
+      "id": "443.887:24605",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.887&bid=24605",
+      "sourceSha256": "89fff904568cffbf77a71e22842ea1b1975c6dce586f7140caa66d6a8bee3f49",
+      "textSha256": "487814294e0cc7f0ceddf85eb84fd16d4882bffd5e9bb54d0119055cbd89f1fa",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Director administrative rulemaking authority for mortgage industry",
+          "bodySha256": "13820e479562f65b1034f09f8da72c57ed6de9cde2d71290e7780d58c25ea00d",
+          "reviewNote": "Covers director authority to promulgate rules defining fraudulent practices, interpreting terms, and enforcing mortgage lending statutes."
+        },
+        {
+          "number": 2,
+          "title": "Specific administrative rulings and demands authorized",
+          "bodySha256": "c122e617a812cc4c23c4d0a47aa14c7adff9ea442b761bba2f1f5125c0c66c56",
+          "reviewNote": "Covers director authority to issue specific demands, rulings, and findings necessary for proper conduct of mortgage industry."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified both subsections against archived text: permissive general director rulemaking powers and specific rulings, demands, and findings."
+    },
+    {
+      "id": "443.891:24607",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.891&bid=24607",
+      "sourceSha256": "85cbecaf5553920e32af44e97a80544ce71f3107a50a4f0cdaaf69ec7d170e7b",
+      "textSha256": "316eaf4a5a323ec23ba969d5a5ebec7cdc9a1d3d7c29ed3f054f6feaed6f3366",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Notice of charges, license revocation, removal orders, and fines",
+          "bodySha256": "5481ca77067de53aebfa30eed76e6f50153c661b90814f5e9b9b5931ac184726",
+          "reviewNote": "Authorizes director notice of charges for fines (up to $25,000 per occurrence), restitution, license suspension/revocation, or removal/prohibition orders upon four preliminary findings; original-rolls footnotes note omitted \"of\" and \"depositary\"."
+        },
+        {
+          "number": 2,
+          "title": "Administrative hearing procedures under chapter 536",
+          "bodySha256": "bfe952e58c31c30b9eb22c709f2806d40b9192548db0587aaf13ef498bf22910",
+          "reviewNote": "Covers requirement that administrative hearings on director charges be conducted in accordance with chapter 536 contested case rules."
+        },
+        {
+          "number": 3,
+          "title": "Default orders, consent decrees, and judicial enforceability",
+          "bodySha256": "18471de017eb3bf44d9c9ac85d7bcc16a78571fa0e511dedfa98c636ea401289",
+          "reviewNote": "Covers issuance of final orders upon default, consent, or evidentiary findings, effective thirty days after service."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections against archived text (noting original-rolls footnotes for omitted \"of\" and \"depositary\" in subsection 1): notice of charges, removal/prohibition orders, $25,000 fines, chapter 536 hearings, and final/default/consent orders."
+    },
+    {
+      "id": "443.901:24609",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.901&bid=24609",
+      "sourceSha256": "5be02f810935c6c66987138b98742c88bad7d2588959ca657217344185dbb840",
+      "textSha256": "803fe7f442fb674aafd1b5ee7ec7ff6b377ffd394fb5bb277a7d753350893c8c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Short title",
+          "bodySha256": "cde29de4d618dca456fba83b1938a71fe249e65b8921d3c6696a5897e0ef9ca9",
+          "reviewNote": "Covers statutory designation as the Missouri Reverse Mortgage Act."
+        },
+        {
+          "number": 2,
+          "title": "Definitions for reverse mortgages",
+          "bodySha256": "aca94dfa65bebc595d773ca7af039a785dabd422cd75111e3cf2243ba84e2bc8",
+          "reviewNote": "Covers statutory definitions for authorized lender, brokered, originated, principal, and reverse mortgage loan."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified both subsections against archived text: Missouri Reverse Mortgage Act short title and five statutory definitions."
+    },
+    {
+      "id": "443.922:60323",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.922&bid=60323",
+      "sourceSha256": "31de4ca37fb0c36e7050f49f3d99ebac7a921bf320c398c8f658d0f31e4e7b42",
+      "textSha256": "3d8494acb39e66fc003b0d86ad9f4108326a7f17ddfdc7ecb71028b5ccba391b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Scope of mortgage modification provisions",
+          "bodySha256": "c0749a7708dea7ce6daa321bd77c7e884dd1ceaefdd0c1971bc5f142e6f52ebd",
+          "reviewNote": "Covers applicability of sections 443.920 to 443.925 to real property mortgage modifications."
+        },
+        {
+          "number": 2,
+          "title": "Unaffected statutes governing priority, recording, and future advances",
+          "bodySha256": "404cb7e0ee5878102d9b081927f449c6815d90f072c5f0e1497ac74fc5c359a6",
+          "reviewNote": "Covers clarification that mortgage modification statutes do not alter content rules, limitations periods, recording acts, tax liens, or frauds acts."
+        },
+        {
+          "number": 3,
+          "title": "Exclusions for collateral releases, obligor changes, and assignments",
+          "bodySha256": "89770a6f03e3178d61a0d1becfaa1d3a6e9e1ad099943a5b8269c589b566cf72",
+          "reviewNote": "Covers exclusion of modifications that release or add encumbered property, alter loan obligors, or assign mortgages or obligations."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections against archived text (L. 2026 H.B. 2636 merged with S.B. 834): mortgage modification scope, unaffected statutes, and three excluded modification types."
+    },
+    {
+      "id": "443.923:60324",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.923&bid=60324",
+      "sourceSha256": "9e7ff09f62d06eb01e4ae8dac88239e0fed72457bec5ad169f25ef317ec399ef",
+      "textSha256": "b47979d4d6012b647686919de1b7dafaccd1452954bb6b1163b136a00f187f20",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Continuing security, priority retention, and non-novation effect",
+          "bodySha256": "e7799147014bfbd6c56110ced00f3cf7d86dae4d4d6bd162bb7b240d001bddb8",
+          "reviewNote": "Covers rule that qualifying modifications continue securing obligations, retain recording priority without new filings, and avoid novation."
+        },
+        {
+          "number": 2,
+          "title": "Qualifying mortgage modifications retaining priority",
+          "bodySha256": "649838126e1b8b18928d7833784592e156e8a636fcc6cab5a61598a7079eb4bf",
+          "reviewNote": "Covers ten qualifying modification categories including maturity extensions, rate reductions, interest capitalization, and covenant changes."
+        },
+        {
+          "number": 3,
+          "title": "Non-qualifying mortgage modifications governed by other law",
+          "bodySha256": "a14075fb78b5fb64ff335e56e3f37ade2a4b2a025cb63646e168d140e8cb6ec4",
+          "reviewNote": "Covers rule that legal consequences of mortgage modifications not enumerated in subsection 2 are governed by other law."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections against archived text (L. 2026 H.B. 2636 merged with S.B. 834): continuing security/priority/non-novation effect, ten qualifying mortgage modifications, and other law for non-qualifying modifications."
+    },
+    {
+      "id": "443.930:24614",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=443.930&bid=24614",
+      "sourceSha256": "4ca3717893076c08b1e23f241f523e8a9dbb166e308816b0195b97fcf770f3e2",
+      "textSha256": "20d85825dc2f7e7567c62f1eddf3a2559490ac7693eb53668c6f4de299e84f6a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_8",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Unlawful practices in loan applications and real estate closings",
+          "bodySha256": "2fc487eecd4c6760ab14877a843f62a9354810801422f4072a248733419db9ef",
+          "reviewNote": "Covers prohibitions against fraudulent schemes, material misstatements, unlawful closing fee receipt, and appraisal extortion or bribery."
+        },
+        {
+          "number": 2,
+          "title": "Unlawful practices deemed mortgage fraud",
+          "bodySha256": "caeb59b63c2d5b24ca0d65eb55a8c8f71ac51bdc7e795e3ba90ee3338c0261ef",
+          "reviewNote": "Deems acts prohibited under subsection 1 to constitute mortgage fraud."
+        },
+        {
+          "number": 3,
+          "title": "No private right of action created",
+          "bodySha256": "b6583c2ae433af7c196059f1db0ac1c567476be348395b5619542c76de72d2bf",
+          "reviewNote": "Covers express statutory limitation providing that section 443.930 shall not be construed to create a private right of action."
+        }
+      ],
+      "reviewedBy": "antigravity_swarm_reviewer_8",
+      "reviewSummary": "Verified all 3 subsections against archived text; removed unstated \"criminal\" qualifier from subsection 2 reviewNote to match statutory text (\"deemed to constitute mortgage fraud\")."
+    }
+  ]
+}
