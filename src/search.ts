@@ -1,6 +1,6 @@
-import MiniSearch from 'minisearch';
+import MiniSearch, { type AsPlainObject } from 'minisearch';
 import aliasData from '../data/aliases.json';
-import { chapterPolicy, isContingent, isEffective, isUpcoming, validDate, type Statute } from './data';
+import { procedureChapters, isContingent, isEffective, isUpcoming, validDate, type StatuteRecord } from './runtime';
 
 const aliases = aliasData.sections as Record<string, string[]>;
 const topics = aliasData.topics as Record<string, string[]>;
@@ -10,8 +10,7 @@ const degreeNames: Record<string, string> = { '1st': 'first', '2nd': 'second', '
 const degrees = ['first', 'second', 'third', 'fourth'];
 const procedureWords = ['procedure', 'trial', 'waiver', 'waive', 'sentencing', 'evidence', 'review', 'defenses'];
 const procedureSections = new Set(['565.001', '565.004', '565.005', '565.006', '565.029', '565.030', '565.032', '565.033', '565.034', '565.035', '565.040', '565.140', '565.160', '565.163', '565.167']);
-const procedureChapters = new Set(chapterPolicy.filter(c => c.category === 'procedure').map(c => c.chapter));
-const isProcedure = (r: Statute) => procedureChapters.has(r.chapter) || procedureSections.has(r.section);
+const isProcedure = (r: StatuteRecord) => procedureChapters.has(r.chapter) || procedureSections.has(r.section);
 export function normalize(value: string): string {
   return value.toLowerCase().normalize('NFKC').replace(/\b[1-4](st|nd|rd|th)\b/g, s => degreeNames[s] ?? s)
     .replace(/[^a-z0-9]+/g, ' ').split(' ').filter(s => s && !stop.has(s)).join(' ');
@@ -20,42 +19,114 @@ const terms = (s: string) => [...new Set(normalize(s).split(' ').filter(Boolean)
 const signature = (s: string) => terms(s).sort().join(' ');
 const indexOptions = { fields: ['heading', 'aliases'], tokenize: (s: string) => terms(s), processTerm: (s: string) => s };
 
-export function buildIndex(records: Statute[]): MiniSearch {
+export function buildIndex(records: StatuteRecord[]): MiniSearch {
   const index = new MiniSearch(indexOptions);
   index.addAll(records.map(r => ({ id: r.id, heading: r.title, aliases: (aliases[r.section] ?? []).join(' ') })));
   return index;
 }
-export function loadIndex(serialized: string): MiniSearch { return MiniSearch.loadJSON(serialized, indexOptions); }
+
+export function loadIndex(serialized: string | AsPlainObject): MiniSearch {
+  return typeof serialized === 'string'
+    ? MiniSearch.loadJSON(serialized, indexOptions)
+    : MiniSearch.loadJS(serialized, indexOptions);
+}
+
+export function extractIndexTerms(serialized: AsPlainObject): string[] {
+  return serialized.index.map(([term]) => term);
+}
 
 // One insertion, deletion, substitution, or adjacent transposition; no broad fuzzy expansion.
 function oneEdit(a: string, b: string): boolean {
-  if (a === b || Math.abs(a.length - b.length) > 1) return false;
-  if (a.length === b.length) {
-    const differences = [...a].map((c, i) => c === b[i] ? -1 : i).filter(i => i >= 0);
-    return differences.length === 1 || (differences.length === 2 && differences[1] === differences[0] + 1
-      && a[differences[0]] === b[differences[1]] && a[differences[1]] === b[differences[0]]);
+  const la = a.length;
+  const lb = b.length;
+  if (a === b || Math.abs(la - lb) > 1) return false;
+  if (la === lb) {
+    let diff1 = -1;
+    let diff2 = -1;
+    for (let i = 0; i < la; i++) {
+      if (a.charCodeAt(i) !== b.charCodeAt(i)) {
+        if (diff1 === -1) diff1 = i;
+        else if (diff2 === -1) diff2 = i;
+        else return false;
+      }
+    }
+    return diff2 === -1
+      || (diff2 === diff1 + 1
+        && a.charCodeAt(diff1) === b.charCodeAt(diff2)
+        && a.charCodeAt(diff2) === b.charCodeAt(diff1));
   }
-  const [short, long] = a.length < b.length ? [a, b] : [b, a];
+  const short = la < lb ? a : b;
+  const long = la < lb ? b : a;
+  const ls = short.length;
   let i = 0;
-  while (i < short.length && short[i] === long[i]) i++;
-  return short.slice(i) === long.slice(i + 1);
+  while (i < ls && short.charCodeAt(i) === long.charCodeAt(i)) i++;
+  for (; i < ls; i++) {
+    if (short.charCodeAt(i) !== long.charCodeAt(i + 1)) return false;
+  }
+  return true;
 }
-export interface Match { record: Statute; reason: string; score: number; }
+
+function hasPrefix(sorted: string[], prefix: string): boolean {
+  let lo = 0;
+  let hi = sorted.length;
+  while (lo < hi) {
+    const mid = (lo + hi) >>> 1;
+    if (sorted[mid] < prefix) lo = mid + 1;
+    else hi = mid;
+  }
+  return lo < sorted.length && sorted[lo].startsWith(prefix);
+}
+
+export interface Match { record: StatuteRecord; reason: string; score: number; }
 export interface SearchResults { best: Match[]; related: Match[]; upcoming: Match[]; contingent: Match[]; constitutional: Match[]; correction: string | null; exact: boolean; }
 
-export function createSearch(records: Statute[], index = buildIndex(records)) {
-  const byId = new Map(records.map(r => [r.id, r]));
-  const bySection = new Map<string, Statute[]>();
-  for (const record of records) {
-    const versions = bySection.get(record.section) ?? [];
-    versions.push(record);
-    bySection.set(record.section, versions);
+export function createSearch(records: StatuteRecord[], index = buildIndex(records), prebuiltTerms?: Iterable<string>) {
+  const byId = new Map<string, StatuteRecord>();
+  const bySection = new Map<string, StatuteRecord[]>();
+  const recordOrder = new Map<string, number>();
+  for (let i = 0; i < records.length; i++) {
+    const record = records[i];
+    byId.set(record.id, record);
+    recordOrder.set(record.id, i);
+    const versions = bySection.get(record.section);
+    if (versions) versions.push(record);
+    else bySection.set(record.section, [record]);
   }
-  const vocabulary = [...new Set([...records.flatMap(r => [...terms(r.title), ...(aliases[r.section] ?? []).flatMap(terms)]), ...Object.keys(topics).flatMap(terms)])];
+  let vocab: { set: Set<string>; sorted: string[]; byLength: Map<number, string[]> } | undefined;
+  const getVocab = () => {
+    if (vocab) return vocab;
+    const set = new Set<string>();
+    if (prebuiltTerms) {
+      for (const t of prebuiltTerms) set.add(t);
+    } else {
+      for (const r of records) {
+        for (const t of terms(r.title)) set.add(t);
+        const sectionAliases = aliases[r.section];
+        if (sectionAliases) {
+          for (const alias of sectionAliases) {
+            for (const t of terms(alias)) set.add(t);
+          }
+        }
+      }
+    }
+    for (const topic of Object.keys(topics)) {
+      for (const t of terms(topic)) set.add(t);
+    }
+    const sorted = [...set].sort();
+    const byLength = new Map<number, string[]>();
+    for (const word of sorted) {
+      const len = word.length;
+      const bucket = byLength.get(len);
+      if (bucket) bucket.push(word);
+      else byLength.set(len, [word]);
+    }
+    vocab = { set, sorted, byLength };
+    return vocab;
+  };
   return (query: string, asOf: string, includeUpcoming = false, chapter = ''): SearchResults => {
     if (!validDate(asOf)) throw new Error('Invalid search date');
     const empty: SearchResults = { best: [], related: [], upcoming: [], contingent: [], constitutional: [], correction: null, exact: false };
-    const inScope = (r: Statute) => !chapter || r.chapter === chapter;
+    const inScope = (r: StatuteRecord) => !chapter || r.chapter === chapter;
     const trimmed = query.trim();
     if (!trimmed || trimmed.length > 200) return empty;
     const sectionQuery = trimmed.match(/^(?:(?:rsmo|section)\s*|§\s*)*(\d{1,3}\.\d{1,4}(?:[a-z]?-[0-9]{1,4}[a-z]?)?)\.?$/i);
@@ -72,10 +143,22 @@ export function createSearch(records: Statute[], index = buildIndex(records)) {
     // Never correct a numeric reference or mix numbers into fuzzy heading matching.
     if (/\d+\.\d+/.test(trimmed)) return empty;
     const original = terms(trimmed);
+    const { set: vocabSet, sorted: sortedVocab, byLength } = getVocab();
     const corrected = original.map(t => {
-      if (t.length < 5 || vocabulary.includes(t) || vocabulary.some(v => v.startsWith(t))) return t;
-      const candidates = vocabulary.filter(v => oneEdit(t, v));
-      return candidates.length === 1 ? candidates[0] : t;
+      if (t.length < 5 || vocabSet.has(t) || hasPrefix(sortedVocab, t)) return t;
+      let match: string | undefined;
+      for (let len = t.length - 1; len <= t.length + 1; len++) {
+        const bucket = byLength.get(len);
+        if (!bucket) continue;
+        for (let i = 0; i < bucket.length; i++) {
+          const candidate = bucket[i];
+          if (oneEdit(t, candidate)) {
+            if (match !== undefined) return t;
+            match = candidate;
+          }
+        }
+      }
+      return match ?? t;
     });
     const correction = corrected.join(' ') !== original.join(' ') ? corrected.join(' ') : null;
     const normalized = corrected.join(' ');
@@ -84,7 +167,7 @@ export function createSearch(records: Statute[], index = buildIndex(records)) {
     const queryDegree = corrected.find(t => degrees.includes(t));
     const wantsProcedure = corrected.some(t => procedureWords.includes(t));
     const candidates = index.search(normalized, { combineWith: 'OR', prefix: term => term.length >= 3, fuzzy: false });
-    const scoreRecord = (record: Statute): Match | null => {
+    const scoreRecord = (record: StatuteRecord): Match | null => {
       if (!inScope(record)) return null;
       const headingTerms = terms(record.title);
       if (queryDegree && headingTerms.some(t => degrees.includes(t)) && !headingTerms.includes(queryDegree)) return null;
@@ -115,8 +198,17 @@ export function createSearch(records: Statute[], index = buildIndex(records)) {
     const best = topicSections.length ? [] : current.filter(m => !separateProcedure || !isProcedure(m.record));
     const bestIds = new Set(best.map(m => m.record.section));
     const relatedNumbers = new Set([...topicSections, ...(separateProcedure ? current.filter(m => isProcedure(m.record)).map(m => m.record.section) : []), ...(best[0] ? related[best[0].record.section] ?? [] : [])]);
-    const relatedMatches = records.filter(r => inScope(r) && isEffective(r, asOf) && relatedNumbers.has(r.section) && !bestIds.has(r.section))
-      .map(record => ({ record, reason: topicSections.length ? 'Broader topic match' : 'Related section', score: 0 }));
+    const relatedRecords: StatuteRecord[] = [];
+    for (const section of relatedNumbers) {
+      if (bestIds.has(section)) continue;
+      const versions = bySection.get(section);
+      if (!versions) continue;
+      for (const r of versions) {
+        if (inScope(r) && isEffective(r, asOf)) relatedRecords.push(r);
+      }
+    }
+    relatedRecords.sort((a, b) => recordOrder.get(a.id)! - recordOrder.get(b.id)!);
+    const relatedMatches = relatedRecords.map(record => ({ record, reason: topicSections.length ? 'Broader topic match' : 'Related section', score: 0 }));
     return { best, related: relatedMatches, upcoming: includeUpcoming ? scored.filter(m => isUpcoming(m.record, asOf)) : [],
       constitutional: scored.filter(m => m.record.hasConstitutionalWarning),
       contingent: scored.filter(m => isContingent(m.record, asOf)), correction, exact: false };

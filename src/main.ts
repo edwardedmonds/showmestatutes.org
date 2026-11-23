@@ -1,7 +1,17 @@
 import './style.css';
 import './browse.css';
-import { assertDataset, effectiveDateLabel, isContingent, sourceDateNotice, constitutionalNotice, standaloneReprintNotice, enactmentNotice, todayInMissouri, type Dataset } from './data';
-import { createSearch, loadIndex, type Match, type SearchResults } from './search';
+import {
+  hydrateClientDataset,
+  effectiveDateLabel,
+  isContingent,
+  sourceDateNotice,
+  constitutionalNotice,
+  standaloneReprintNotice,
+  enactmentNotice,
+  todayInMissouri,
+  type DatasetView,
+} from './runtime';
+import { createSearch, extractIndexTerms, loadIndex, type Match, type SearchResults } from './search';
 import { chapterFacets, filterByChapter, resultCount } from './filters';
 import { statuteVersionPath } from './paths';
 
@@ -22,9 +32,11 @@ let previousQuery = '';
 let expandedChapters = false;
 let cached: { key: string; found: SearchResults } | undefined;
 let search: ReturnType<typeof createSearch> | null = null;
-let dataset: Dataset;
+let dataset: DatasetView;
+let chapterTitles = new Map<string, string>();
 let timer: ReturnType<typeof setTimeout>;
-const formatDate = (value: string) => new Intl.DateTimeFormat('en-US', { dateStyle: 'medium', timeZone: 'UTC' }).format(new Date(value));
+const dateFormatter = new Intl.DateTimeFormat('en-US', { dateStyle: 'medium', timeZone: 'UTC' });
+const formatDate = (value: string) => dateFormatter.format(new Date(value));
 function element<K extends keyof HTMLElementTagNameMap>(tag: K, text?: string, className?: string): HTMLElementTagNameMap[K] {
   const node = document.createElement(tag);
   if (text !== undefined) node.textContent = text;
@@ -101,14 +113,14 @@ function renderChapterFilters(found: SearchResults) {
   }
   // Keep a selected future-only chapter removable if upcoming versions are switched off.
   if (selectedChapter && !facets.some(f => f.chapter === selectedChapter)) {
-    addChoice(selectedChapter, `Ch. ${selectedChapter} · ${dataset.manifest.chapters.find(c => c.chapter === selectedChapter)!.title}`, 0);
+    addChoice(selectedChapter, `Ch. ${selectedChapter} · ${chapterTitles.get(selectedChapter)!}`, 0);
   }
   moreChapters.hidden = facets.length <= 12;
   moreChapters.textContent = expandedChapters ? 'Show fewer chapters' : `Show all ${facets.length} matching chapters`;
   moreChapters.setAttribute('aria-expanded', String(expandedChapters));
   activeFilter.hidden = !selectedChapter;
   document.querySelector('#filter-description')!.textContent = selectedChapter
-    ? `Showing only Chapter ${selectedChapter}: ${dataset.manifest.chapters.find(c => c.chapter === selectedChapter)!.title}` : '';
+    ? `Showing only Chapter ${selectedChapter}: ${chapterTitles.get(selectedChapter)!}` : '';
 }
 function runSearch() {
   if (!search) return;
@@ -193,35 +205,41 @@ for (const example of document.querySelectorAll<HTMLButtonElement>('[data-query]
 }
 async function initialize() {
   try {
-    const response = await fetch(`${import.meta.env.BASE_URL}data/statutes-${import.meta.env.DATASET_HASH}.json`);
+    const datasetPromise = fetch(`${import.meta.env.BASE_URL}data/statutes-client-${import.meta.env.CLIENT_DATASET_HASH}.json`);
+    const indexPromise = fetch(`${import.meta.env.BASE_URL}data/search-index-${import.meta.env.SEARCH_INDEX_HASH}.json`).catch(() => null);
+    const response = await datasetPromise;
     if (!response.ok) throw new Error('Dataset unavailable');
-    const source = await response.text();
-    const parsed: unknown = JSON.parse(source);
-    assertDataset(parsed);
-    dataset = parsed;
+    const parsed: unknown = await response.json();
+    dataset = hydrateClientDataset(parsed, import.meta.env.DATASET_HASH);
+    chapterTitles = new Map(dataset.manifest.chapters.map(c => [c.chapter, c.title]));
     // Fail safely to an in-browser rebuild if a generated index is absent/stale.
     let index;
+    let indexTerms: string[] | undefined;
     let builtAt: string | undefined;
     try {
-      const indexResponse = await fetch(`${import.meta.env.BASE_URL}data/search-index-${import.meta.env.DATASET_HASH}.json`);
-      if (!indexResponse.ok) throw new Error('Index unavailable');
+      const indexResponse = await indexPromise;
+      if (!indexResponse || !indexResponse.ok) throw new Error('Index unavailable');
       const stored = await indexResponse.json();
-      const hash = [...new Uint8Array(await crypto.subtle.digest('SHA-256', new TextEncoder().encode(source)))].map(x => x.toString(16).padStart(2, '0')).join('');
-      if (stored.datasetHash !== hash) throw new Error('Index mismatch');
-      index = loadIndex(JSON.stringify(stored.index));
+      if (stored?.datasetHash !== import.meta.env.DATASET_HASH || !stored.index || typeof stored.index !== 'object') {
+        throw new Error('Index mismatch');
+      }
+      index = loadIndex(stored.index);
+      indexTerms = extractIndexTerms(stored.index);
       if (Number.isFinite(Date.parse(stored.builtAt))) builtAt = stored.builtAt;
     } catch { /* Rebuild from the validated local dataset, never another source. */ }
-    search = createSearch(dataset.records, index);
+    search = createSearch(dataset.records, index, indexTerms);
     input.disabled = false;
     button.disabled = false;
     const coverageList = document.querySelector('#chapter-coverage')!;
+    const fragment = document.createDocumentFragment();
     for (const c of dataset.manifest.chapters) {
       const item = element('li');
       const link = element('a', `Chapter ${c.chapter}: ${c.title}`);
       link.href = c.sourceIndex;
       item.append(link, element('span', ` — ${c.sectionCount} sections · index checked ${formatDate(c.indexCheckedAt)}`));
-      coverageList.append(item);
+      fragment.append(item);
     }
+    coverageList.append(fragment);
     document.querySelectorAll<HTMLButtonElement>('[data-query]').forEach(b => { b.disabled = false; });
     const asOf = todayInMissouri();
     document.querySelector('#as-of')!.textContent = `Effective dates checked against ${formatDate(asOf)}`;

@@ -1,32 +1,61 @@
 import coverage from '../data/coverage.json';
+import {
+  validDate,
+  validSection,
+  type ChapterView,
+  type StatuteRecord,
+} from './runtime';
+
+export {
+  validDate,
+  validSection,
+  isContingent,
+  isEffective,
+  isUpcoming,
+  todayInMissouri,
+  enactmentNotice,
+  constitutionalNotice,
+  standaloneReprintNotice,
+  sourceDateNotice,
+  effectiveDateLabel,
+  type ChapterView,
+  type StatuteRecord,
+  type DatasetView,
+} from './runtime';
+
 const reviewedOverlaps = [...coverage.delayedEnactments, ...coverage.reprintedEnactments, ...coverage.conflictingEnactments];
 export const chapterPolicy = coverage.chapters;
-export interface ChapterSummary {
-  chapter: string; title: string; sourceIndex: string; indexCheckedAt: string;
-  sourceSha256: string; recordCount: number; sectionCount: number;
-}
-export interface Statute {
-  id: string;
-  section: string;
-  versionId: string;
-  title: string;
-  chapter: string;
-  chapterTitle: string;
-  effectiveFrom: string;
-  effectiveTo: string | null;
-  sourceUrl: string;
-  sourceCheckedAt: string;
+
+const chapterPolicyByChapter = new Map(chapterPolicy.map(c => [c.chapter, c]));
+const expectedCoverageKey = chapterPolicy.map(c => c.chapter).join();
+const headingExceptionById = new Map(coverage.indexHeadingExceptions.map(p => [p.id, p]));
+const warningById = new Map(coverage.constitutionalWarnings.map(p => [p.id, p]));
+const standaloneById = new Map(coverage.standaloneReprints.map(p => [p.id, p]));
+const dateNoteById = new Map(coverage.sourceDateNotes.map(p => [p.id, p]));
+const contingentBySection = new Map(coverage.contingentEnactments.map(c => [c.section, {
+  policy: c,
+  versionsById: new Map(c.versions.map(v => [v.versionId, v])),
+  sortedVersionIds: c.versions.map(v => v.versionId).sort().join(),
+}]));
+const reviewedOverlapBySection = new Map(reviewedOverlaps.map(c => [c.section, {
+  policy: c,
+  versionsById: new Map(c.versions.map(v => [v.versionId, v])),
+  sortedVersionIds: c.versions.map(v => v.versionId).sort().join(),
+}]));
+const concurrentBySection = new Map(coverage.concurrentEnactments.map(c => [c.section, {
+  policy: c,
+  versionIdSet: new Set(c.versionIds),
+  sortedVersionIds: [...c.versionIds].sort().join(),
+}]));
+
+export interface ChapterSummary extends ChapterView {
   sourceSha256: string;
-  headingMarker?: string;
-  multipleEnactments?: true;
-  effectiveDateIsPlaceholder?: true;
-  effectiveEndDateIsPlaceholder?: true;
-  hasConstitutionalWarning?: true;
-  hasContingentEffectiveDate?: true;
-  contingentUntil?: string;
-  effectiveFromFootnote?: string;
-  headingSource?: 'chapter-index';
 }
+
+export interface Statute extends StatuteRecord {
+  sourceSha256: string;
+}
+
 export interface Dataset {
   manifest: {
     schemaVersion: 2;
@@ -40,40 +69,39 @@ export interface Dataset {
   };
   records: Statute[];
 }
-export const validDate = (s: unknown): s is string => typeof s === 'string'
-  && /^\d{4}-\d{2}-\d{2}$/.test(s) && !Number.isNaN(Date.parse(s))
-  && new Date(s).toISOString().slice(0, 10) === s;
-
-export function validSection(section: string): boolean {
-  if (section.startsWith('400.')) return /^400\.(?:[1-9]|1[01]|[24]A)-[0-9]{3}$/.test(section);
-  return /^[1-9]\d{0,2}\.[0-9]{3,4}$/.test(section) || /^409\.[1-7]-[0-9]{3}$/.test(section) || /^448\.[1-4]-[0-9]{3}$/.test(section)
-    || /^456\.(?:[1-8]-[0-9]{3}|4-411[AB]|1[01]-[0-9]{4})$/.test(section);
-}
 
 export function assertDataset(value: unknown): asserts value is Dataset {
   if (!value || typeof value !== 'object') throw new Error('Missing dataset');
   const d = value as Dataset;
-  if (d.manifest?.schemaVersion !== 2 || d.manifest.coverage?.join() !== chapterPolicy.map(c => c.chapter).join()
+  if (d.manifest?.schemaVersion !== 2 || d.manifest.coverage?.join() !== expectedCoverageKey
     || d.manifest.coverageDescription !== coverage.coverageDescription
     || !Array.isArray(d.records) || d.records.length < 50
     || d.manifest.recordCount !== d.records.length
     || !Number.isFinite(Date.parse(d.manifest.collectedAt))) throw new Error('Invalid manifest');
   const ids = new Set<string>();
   const sections = new Map<string, Statute[]>();
+  const chapterRecordCounts = new Map<string, number>();
+  const chapterSectionCounts = new Map<string, number>();
+  let maxTimestamp = '';
   for (const r of d.records) {
-    const headingException = coverage.indexHeadingExceptions.find(p => p.id === r?.id);
-    const warning = coverage.constitutionalWarnings.find(p => p.id === r?.id);
-    const standalone = coverage.standaloneReprints.find(p => p.id === r?.id);
-    const dateNote = coverage.sourceDateNotes.find(p => p.id === r?.id);
-    const contingentPolicy = coverage.contingentEnactments.find(c => c.section === r?.section);
-    const delayed = reviewedOverlaps.find(c => c.section === r?.section)?.versions.find(v => v.versionId === r?.versionId);
-    const contingent = contingentPolicy?.versions.find(v => v.versionId === r?.versionId);
+    const headingException = headingExceptionById.get(r?.id);
+    const warning = warningById.get(r?.id);
+    const standalone = standaloneById.get(r?.id);
+    const dateNote = dateNoteById.get(r?.id);
+    const contingentEntry = contingentBySection.get(r?.section);
+    const contingentPolicy = contingentEntry?.policy;
+    const delayed = reviewedOverlapBySection.get(r?.section)?.versionsById.get(r?.versionId);
+    const contingent = contingentEntry?.versionsById.get(r?.versionId);
+    const concurrentEntry = concurrentBySection.get(r?.section);
+    const chapterEntry = chapterPolicyByChapter.get(r?.chapter);
+    const dot = typeof r?.section === 'string' ? r.section.indexOf('.') : -1;
+    const sectionChapter = typeof r?.section === 'string' ? (dot >= 0 ? r.section.slice(0, dot) : r.section) : '';
     if (!r || typeof r.section !== 'string' || !validSection(r.section) || !/^\d+$/.test(r.versionId)
       || r.id !== `${r.section}:${r.versionId}` || ids.has(r.id)
       || typeof r.title !== 'string' || !r.title.trim() || r.title.endsWith('...')
-      || r.chapter !== r.section.split('.')[0] || !chapterPolicy.some(c => c.chapter === r.chapter && c.title === r.chapterTitle)
+      || r.chapter !== sectionChapter || !chapterEntry || chapterEntry.title !== r.chapterTitle
       || (r.multipleEnactments !== undefined && r.multipleEnactments !== true)
-      || Boolean(r.multipleEnactments) !== (Boolean(delayed) || Boolean(contingent && contingentPolicy?.multipleEnactments) || coverage.concurrentEnactments.some(c => c.section === r.section && c.versionIds.includes(r.versionId)))
+      || Boolean(r.multipleEnactments) !== (Boolean(delayed) || Boolean(contingent && contingentPolicy?.multipleEnactments) || Boolean(concurrentEntry?.versionIdSet.has(r.versionId)))
       || (r.effectiveDateIsPlaceholder !== undefined && r.effectiveDateIsPlaceholder !== true)
       || Boolean(r.effectiveDateIsPlaceholder) !== Boolean(contingent?.dateIsPlaceholder)
       || (r.effectiveEndDateIsPlaceholder !== undefined && r.effectiveEndDateIsPlaceholder !== true)
@@ -97,95 +125,67 @@ export function assertDataset(value: unknown): asserts value is Dataset {
       throw new Error('Invalid source record');
     }
     ids.add(r.id);
-    sections.set(r.section, [...(sections.get(r.section) ?? []), r]);
+    const sectionVersions = sections.get(r.section);
+    if (sectionVersions) {
+      sectionVersions.push(r);
+    } else {
+      sections.set(r.section, [r]);
+      chapterSectionCounts.set(r.chapter, (chapterSectionCounts.get(r.chapter) ?? 0) + 1);
+    }
+    chapterRecordCounts.set(r.chapter, (chapterRecordCounts.get(r.chapter) ?? 0) + 1);
+    if (maxTimestamp === '' || r.sourceCheckedAt > maxTimestamp) maxTimestamp = r.sourceCheckedAt;
   }
   if (coverage.constitutionalWarnings.some(p => !ids.has(p.id))) throw new Error('Missing reviewed constitutional warning');
   if (coverage.standaloneReprints.some(p => !ids.has(p.id) || sections.get(p.section)?.length !== 1)) throw new Error('Missing or duplicated standalone reprint');
   if (!Array.isArray(d.manifest.chapters) || d.manifest.chapters.map(c => c.chapter).join() !== d.manifest.coverage.join()) throw new Error('Missing chapter provenance');
+  let minIndexCheckedAt = '';
   for (const c of d.manifest.chapters) {
-    const policy = chapterPolicy.find(p => p.chapter === c.chapter)!;
-    const records = d.records.filter(r => r.chapter === c.chapter);
-    if (c.title !== policy.title || c.recordCount !== records.length || records.length < policy.minimumVersions
-      || c.sectionCount !== new Set(records.map(r => r.section)).size
+    const policy = chapterPolicyByChapter.get(c.chapter)!;
+    const recordCount = chapterRecordCounts.get(c.chapter) ?? 0;
+    const sectionCount = chapterSectionCounts.get(c.chapter) ?? 0;
+    if (c.title !== policy.title || c.recordCount !== recordCount || recordCount < policy.minimumVersions
+      || c.sectionCount !== sectionCount
       || c.sourceIndex !== `https://revisor.mo.gov/main/OneChapter.aspx?chapter=${c.chapter}`
       || !Number.isFinite(Date.parse(c.indexCheckedAt)) || !/^[a-f0-9]{64}$/.test(c.sourceSha256)) throw new Error('Invalid chapter provenance');
+    if (minIndexCheckedAt === '' || c.indexCheckedAt < minIndexCheckedAt) minIndexCheckedAt = c.indexCheckedAt;
+    if (maxTimestamp === '' || c.indexCheckedAt > maxTimestamp) maxTimestamp = c.indexCheckedAt;
   }
-  if (d.manifest.indexCheckedAt !== d.manifest.chapters.map(c => c.indexCheckedAt).sort()[0]
-    || d.manifest.collectedAt !== [...d.records.map(r => r.sourceCheckedAt), ...d.manifest.chapters.map(c => c.indexCheckedAt)].sort().at(-1)) throw new Error('Invalid collection dates');
+  if (d.manifest.indexCheckedAt !== minIndexCheckedAt || d.manifest.collectedAt !== maxTimestamp) throw new Error('Invalid collection dates');
   if (sections.size !== d.manifest.sectionCount) throw new Error('Section count mismatch');
   for (const versions of sections.values()) {
-    versions.sort((a, b) => a.effectiveFrom.localeCompare(b.effectiveFrom));
-    const contingent = coverage.contingentEnactments.find(c => c.section === versions[0].section);
-    if (contingent) {
-      if (versions.map(r => r.versionId).sort().join() !== contingent.versions.map(v => v.versionId).sort().join()
+    const section = versions[0].section;
+    const contingentEntry = contingentBySection.get(section);
+    if (contingentEntry) {
+      const contingent = contingentEntry.policy;
+      if (versions.map(r => r.versionId).sort().join() !== contingentEntry.sortedVersionIds
         || versions.some(r => {
-          const expected = contingent.versions.find(v => v.versionId === r.versionId);
+          const expected = contingentEntry.versionsById.get(r.versionId);
           return !expected || Boolean(r.multipleEnactments) !== contingent.multipleEnactments || r.effectiveFrom !== expected.effectiveFrom || r.effectiveTo !== ('effectiveTo' in expected ? expected.effectiveTo : null)
             || Boolean(r.effectiveDateIsPlaceholder) !== expected.dateIsPlaceholder;
         })) throw new Error('Unresolved contingent enactments');
       continue;
     }
-    const delayed = reviewedOverlaps.find(c => c.section === versions[0].section);
-    if (delayed) {
-      if (versions.map(r => r.versionId).sort().join() !== delayed.versions.map(v => v.versionId).sort().join()
+    const delayedEntry = reviewedOverlapBySection.get(section);
+    if (delayedEntry) {
+      if (versions.map(r => r.versionId).sort().join() !== delayedEntry.sortedVersionIds
         || versions.some(r => {
-          const expected = delayed.versions.find(v => v.versionId === r.versionId);
+          const expected = delayedEntry.versionsById.get(r.versionId);
           return !expected || !r.multipleEnactments || r.effectiveFrom !== expected.effectiveFrom || r.effectiveTo !== null;
         })) throw new Error('Unresolved delayed/reprinted/conflicting enactments');
       continue;
     }
-    const concurrent = coverage.concurrentEnactments.find(c => c.section === versions[0].section);
-    if (concurrent) {
-      if (versions.map(r => r.versionId).sort().join() !== [...concurrent.versionIds].sort().join()
+    const concurrentEntry = concurrentBySection.get(section);
+    if (concurrentEntry) {
+      const concurrent = concurrentEntry.policy;
+      if (versions.map(r => r.versionId).sort().join() !== concurrentEntry.sortedVersionIds
         || versions.some(r => !r.multipleEnactments || r.effectiveFrom !== concurrent.effectiveFrom || r.effectiveTo !== null)) throw new Error('Unresolved concurrent enactments');
       continue;
     }
+    if (versions.length <= 1) continue;
+    versions.sort((a, b) => a.effectiveFrom.localeCompare(b.effectiveFrom));
     for (let i = 1; i < versions.length; i++) {
       const prior = versions[i - 1];
       if (!prior.effectiveTo || prior.effectiveTo > versions[i].effectiveFrom) throw new Error('Unresolved version overlap');
     }
   }
-}
-export function isContingent(record: Statute, asOf: string): boolean {
-  return Boolean(record.effectiveDateIsPlaceholder || (record.hasContingentEffectiveDate && (!record.contingentUntil || asOf < record.contingentUntil)));
-}
-export function isEffective(record: Statute, asOf: string): boolean {
-  return !record.hasConstitutionalWarning && !isContingent(record, asOf) && (record.effectiveFromFootnote ?? record.effectiveFrom) <= asOf && (!record.effectiveTo || record.effectiveEndDateIsPlaceholder === true || asOf < record.effectiveTo);
-}
-export function isUpcoming(record: Statute, asOf: string): boolean {
-  return !record.hasConstitutionalWarning && !isContingent(record, asOf) && (record.effectiveFromFootnote ?? record.effectiveFrom) > asOf;
-}
-export function todayInMissouri(): string {
-  const parts = new Intl.DateTimeFormat('en-US', { timeZone: 'America/Chicago', year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(new Date());
-  return ['year', 'month', 'day'].map(k => parts.find(p => p.type === k)!.value).join('-');
-}
-
-export function enactmentNotice(record: Statute): string | undefined {
-  if (!record.multipleEnactments) return undefined;
-  return reviewedOverlaps.find(p => p.section === record.section)?.displayNotice
-    ?? coverage.contingentEnactments.find(p => p.section === record.section)?.displayNotice
-    ?? 'The Revisor prints both versions due to possible conflict. Read both official source pages.';
-}
-
-export function constitutionalNotice(record: Statute): string | undefined {
-  return coverage.constitutionalWarnings.find(p => p.id === record.id)?.displayNotice;
-}
-
-export function standaloneReprintNotice(record: Statute): string | undefined {
-  return coverage.standaloneReprints.find(p => p.id === record.id)?.displayNotice;
-}
-
-export function sourceDateNotice(record: Statute): string | undefined {
-  return coverage.sourceDateNotes.find(p => p.id === record.id)?.displayNotice
-    ?? (record.contingentUntil ? coverage.contingentEnactments.find(p => p.section === record.section)?.displayNotice : undefined);
-}
-
-const effectiveDateFormatter = new Intl.DateTimeFormat('en-US', { dateStyle: 'medium', timeZone: 'UTC' });
-export function effectiveDateLabel(r: Statute, asOf: string, future: boolean): string {
-  const format = (value: string) => effectiveDateFormatter.format(new Date(value));
-  if (r.hasConstitutionalWarning) return `Source effective date ${format(r.effectiveFrom)} · The Revisor flags all or part as unconstitutional. Read the official notes before relying on this version.`;
-  if (r.effectiveDateIsPlaceholder) return 'Contingent effective date · the source date is a placeholder, not a scheduled start. Read the official conditions.';
-  if (isContingent(r, asOf)) return `Contingent effective date · source date ${format(r.effectiveFrom)}. Read the official conditions before relying on this version.`;
-  if (r.contingentUntil) return `Effective no later than ${format(r.contingentUntil)} · source date ${format(r.effectiveFrom)}. Read the official conditions.`;
-  return `${future ? 'Upcoming · effective' : 'Effective'} ${format(r.effectiveFromFootnote ?? r.effectiveFrom)}${r.effectiveFromFootnote ? ` (source footnote) · header date ${format(r.effectiveFrom)}` : ''}${r.effectiveEndDateIsPlaceholder ? ' · end date is contingent; read the source conditions' : r.effectiveTo ? ` · ends ${format(r.effectiveTo)}` : ''}`;
 }

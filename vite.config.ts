@@ -1,7 +1,10 @@
 import { defineConfig } from 'vite';
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { createHash } from 'node:crypto';
+import { resolve } from 'node:path';
 import { assertDataset, todayInMissouri } from './src/data';
+import { runtimeCoverage } from './src/coverage-runtime';
+import { projectClientDataset } from './src/runtime';
 import { buildIndex } from './src/search';
 import { loadFullText } from './src/full-text-build';
 import { headingsFor, parseHeadingRegistry } from './src/subsection-headings';
@@ -13,6 +16,16 @@ const datasetHash = createHash('sha256').update(source).digest('hex');
 const parsed: unknown = JSON.parse(source);
 assertDataset(parsed);
 const dataset = parsed;
+const clientDatasetJson = JSON.stringify(projectClientDataset(dataset, datasetHash));
+const clientDatasetHash = createHash('sha256').update(clientDatasetJson).digest('hex');
+const searchIndexJson = JSON.stringify({
+  datasetHash,
+  builtAt: new Date().toISOString(),
+  index: buildIndex(dataset.records).toJSON(),
+});
+const searchIndexHash = createHash('sha256').update(searchIndexJson).digest('hex');
+const coverageRuntimePath = resolve('src/coverage-runtime.ts');
+const coverageSourcePath = resolve('data/coverage.json');
 const fullText = process.env.STATUTES_FULL_TEXT ? loadFullText(process.env.STATUTES_FULL_TEXT, dataset, datasetHash, process.env.STATUTES_FULL_TEXT_ALLOW_PILOT === '1') : undefined;
 const headingMode = process.env.STATUTES_SUBSECTION_HEADINGS;
 if (headingMode && !['pilot', 'statewide'].includes(headingMode)) throw new Error('Unknown subsection heading mode');
@@ -53,26 +66,34 @@ function assets(): Record<string, string> {
       'Vite — build tooling and browser module-preload helper',
       readFileSync('node_modules/vite/LICENSE.md', 'utf8'),
     ].join('\n\n'),
+    // Stable URLs remain available for audits; browsers use snapshot-specific assets.
     'data/statutes.json': source,
-    'data/search-index.json': JSON.stringify({
-      datasetHash,
-      builtAt: new Date().toISOString(),
-      index: buildIndex(dataset.records).toJSON(),
-    }),
+    [`data/statutes-client-${clientDatasetHash}.json`]: clientDatasetJson,
+    'data/search-index.json': searchIndexJson,
+    [`data/search-index-${searchIndexHash}.json`]: searchIndexJson,
   };
-  // Stable URLs remain available for audits; browsers use snapshot-specific assets.
-  files[`data/statutes-${datasetHash}.json`] = files['data/statutes.json'];
-  files[`data/search-index-${datasetHash}.json`] = files['data/search-index.json'];
   return files;
 }
 export default defineConfig({
   base: './',
   // Avoid compressing 30,000 HTML assets concurrently just to report their sizes.
   build: { reportCompressedSize: false },
-  define: { 'import.meta.env.DATASET_HASH': JSON.stringify(datasetHash) },
+  define: {
+    'import.meta.env.DATASET_HASH': JSON.stringify(datasetHash),
+    'import.meta.env.CLIENT_DATASET_HASH': JSON.stringify(clientDatasetHash),
+    'import.meta.env.SEARCH_INDEX_HASH': JSON.stringify(searchIndexHash),
+  },
   // Data is emitted with snapshot hashes above. Brand assets and locally hosted fonts are copied.
   publicDir: 'static',
   plugins: [{
+    name: 'coverage-runtime-projection',
+    enforce: 'pre',
+    load(id) {
+      if (resolve(id.split('?')[0]) !== coverageRuntimePath) return null;
+      this.addWatchFile(coverageSourcePath);
+      return `export const runtimeCoverage = ${JSON.stringify(runtimeCoverage)};\n`;
+    },
+  }, {
     name: 'statute-heading-index',
     transformIndexHtml(html) { return homepageSeo(html, dataset); },
     generateBundle() {
