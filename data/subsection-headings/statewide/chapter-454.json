@@ -1,0 +1,2802 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "454.1003:25430",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.1003&bid=25430",
+      "sourceSha256": "0173a60e6dae08606e510d9bd57219dd84e29d1fa9ae56dd0bf5e9ad0b1d7e62",
+      "textSha256": "7018183c33e17d98dd8cbd13ca963bd2cb97543893d88f290762915ec8c4a42d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority to suspend licenses for arrearages or noncompliance",
+          "bodySha256": "d87ca6ce3a14902ca8c584432b2370749b4e7db252a596541a931595992b82b5",
+          "reviewNote": "Authorizes a court or the family support division director (or only a court for business, professional, or occupational licenses) to suspend an obligor's license for qualifying child support arrearages or noncompliance with a paternity/support subpoena or genetic testing order."
+        },
+        {
+          "number": 2,
+          "title": "Issuance of notice of intent to suspend",
+          "bodySha256": "5e6cfac71285395a4d4aa1f1c7f8176e1a893cf12515ba96c5c164317eef2719",
+          "reviewNote": "Authorizes a court upon an obligee's petition in non-IV-D cases, and the director or a court at the director's request in IV-D cases, to issue a notice of intent to suspend."
+        },
+        {
+          "number": 3,
+          "title": "Service and contents of suspension notice",
+          "bodySha256": "e5ead1bb028c6b1bb50a3926b4e871e7f2595489de9065c35d07f3fb1d9d33c4",
+          "reviewNote": "Requires personal or certified mail service of the notice and, for arrearage-based suspensions, states that suspension occurs sixty days after service unless the obligor pays in full, enters and complies with a payment plan, or requests a hearing."
+        },
+        {
+          "number": 4,
+          "title": "Contested case notice in IV-D proceedings",
+          "bodySha256": "1550e312400fa68db9c98b572d79f4faea90092c5b8f0952e92ebe9922f97a4e",
+          "reviewNote": "Requires the notice in a IV-D case to advise the obligor that hearings are subject to the contested case provisions of chapter 536."
+        },
+        {
+          "number": 5,
+          "title": "Notice of suspension for subpoena or testing noncompliance",
+          "bodySha256": "a667d18235d81ab2879055ee2eeab0fb211b87d4977914cb90954b34be544b0a",
+          "reviewNote": "Requires notices based on noncompliance with a paternity or child support subpoena or genetic testing order to state that suspension occurs sixty days after service unless the person complies."
+        },
+        {
+          "number": 6,
+          "title": "Notice upon breach of repayment agreement",
+          "bodySha256": "004f0c5cca2f46edae077f99fcb1209050dfd26717e03d1f9d495e20fde0a628",
+          "reviewNote": "Authorizes a court or the division to issue a notice of intent to suspend if the obligor fails to comply with repayment agreement terms."
+        },
+        {
+          "number": 7,
+          "title": "Additional authority to restrict licenses",
+          "bodySha256": "9b90ba91bfed18f346a8f9feea0c54b64cccec4acf55dd3f38165923ded813e8",
+          "reviewNote": "Authorizes a court or the director of the family support division to restrict licenses in addition to suspending or withholding them under chapter 454."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.1003 governing license suspension orders, notices of intent, service, and restrictions."
+    },
+    {
+      "id": "454.1005:53797",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.1005&bid=53797",
+      "sourceSha256": "2ce8690f4cf4ce88239ecc26d16df51907223fb0bc7889a3e0bf9100f2520067",
+      "textSha256": "1b02e6854abcac98b19f8f6f135c17e96b9694870ba217c4dace72d6afe2d2e9",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Request for show cause hearing within sixty days",
+          "bodySha256": "211954f038dce569e949ef58f3d3f9252c3a3775d66f096eb8b1aeebed5b0545",
+          "reviewNote": "Requires obligors to request a show-cause hearing within sixty days of service to contest license suspension."
+        },
+        {
+          "number": 2,
+          "title": "Default suspension order upon failure to respond",
+          "bodySha256": "e996c86e9389cf6c695bd8e8e894a18a1ef3a53e0d1e5a11cbd85e8367a00f20",
+          "reviewNote": "Authorizes the court or director to enter a license suspension order if the obligor fails without good cause to respond, timely request a hearing, or comply with a payment plan."
+        },
+        {
+          "number": 3,
+          "title": "Hearing scheduling, due process, and stay pending outcome",
+          "bodySha256": "86986e608ef4d75916aacc9c60fa30760bbaf69021d1fb011950b8f3a6b966d7",
+          "reviewNote": "Requires the court or director, upon timely request, to schedule a due process hearing considering all relevant factors and to stay suspension pending the hearing outcome."
+        },
+        {
+          "number": 4,
+          "title": "Written findings of fact and conclusions of law",
+          "bodySha256": "ae1144fab3bc2ca24e1792dd2721850e28e172414c5458f54eeac58a16810b2c",
+          "reviewNote": "Requires written findings of fact and conclusions of law within thirty days on eleven listed factors, limiting subpoena or order noncompliance hearings to obligor identity and compliance."
+        },
+        {
+          "number": 5,
+          "title": "Good cause exception barring license suspension",
+          "bodySha256": "08dcb81cdcc5d959048481730e67969247cbebc3a09cc674d533daaed3da8b3b",
+          "reviewNote": "Prohibits issuing a suspension order, and requires staying an existing order, if an arrearage exceeding two thousand five hundred dollars exists for good cause, lists good-cause examples, and preserves authority to suspend upon a subsequent arrearage without good cause."
+        },
+        {
+          "number": 6,
+          "title": "Entry of suspension order absent good cause",
+          "bodySha256": "e74d2b6912c37bd107b0bf59e933ad97182aced68f58dff9d36f6772a05510bb",
+          "reviewNote": "Mandates entry of a license suspension order if the obligor fails without good cause to comply with statutory criteria."
+        },
+        {
+          "number": 7,
+          "title": "Transmission of suspension order to licensing authority",
+          "bodySha256": "a563423c8d09de493abe0493b7c4261f642590048e5d1654ca906ca1ca499551",
+          "reviewNote": "Directs certified mail delivery of suspension orders to the appropriate licensing authority and the obligor."
+        },
+        {
+          "number": 8,
+          "title": "Final agency decision and judicial review",
+          "bodySha256": "9dd3a97be40cea4aa3b16fa5e74392cf79ff4d7f7798de7d6adf9d3465450f32",
+          "reviewNote": "Designates the director's post-hearing determination as a final agency decision subject to chapter 536 judicial review, with administrative hearings conducted by hearing officers appointed under section 454.475.1."
+        },
+        {
+          "number": 9,
+          "title": "Independence from licensing authority proceedings",
+          "bodySha256": "7516cc511e7ad07c8290983509a78f869104d6194737215170a904eb77c57bd2",
+          "reviewNote": "Clarifies that a court or division determination under this section is independent of any licensing authority proceeding to suspend, revoke, deny, terminate, or renew a license."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.1005 governing show-cause hearings, suspension orders, findings of fact, and appeals."
+    },
+    {
+      "id": "454.1008:25432",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.1008&bid=25432",
+      "sourceSha256": "131958cca819aed374bec418292d6f0494940338d5ea928d80c78b6599ecc070",
+      "textSha256": "a2172f08dd17ee679cd085e26760e935414c42de2a753510c7198af96ffb9124",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory implementation of suspension by licensing authority",
+          "bodySha256": "32793466c4be3f244bfeea1e173d0fe863c8dc8687699f903e21fab2e19dbab2",
+          "reviewNote": "Requires a licensing authority receiving a suspension order to verify licensure, enter the suspension effective on the order date, notify the licensee, and demand surrender if required by law."
+        },
+        {
+          "number": 2,
+          "title": "Processing without additional licensing authority review or hearing",
+          "bodySha256": "2c1df4a7c26a7cfec445b6f03fecb34e8816fe47b4d816e78a62b278014a348a",
+          "reviewNote": "Requires the licensing authority to process a court or director suspension order without any additional review or hearing."
+        },
+        {
+          "number": 3,
+          "title": "Implementation, continuation, and exclusive appeal procedure",
+          "bodySha256": "3ae252e945f9f633ce0c878ba30be4dfee5a5bd2c0d90ef8b55fd0dc43cfcf43",
+          "reviewNote": "Requires implementing and maintaining suspensions until notified of a stay or termination, and makes sections 454.1000 to 454.1025 the exclusive appeal procedure, barring appeals under section 302.311 or other laws."
+        },
+        {
+          "number": 4,
+          "title": "No refund of license fees upon suspension",
+          "bodySha256": "956c8456879e67ee37ba85850da47b5cea3e669c1274527bd98eb50291f81a0f",
+          "reviewNote": "Prohibits refunding funds paid by the obligor to the licensing authority for license issuance, renewal, or maintenance when a license is suspended."
+        },
+        {
+          "number": 5,
+          "title": "Class A misdemeanor for continuing licensed activity while suspended",
+          "bodySha256": "9b46c09258b25f84369dbe5733f4664bf52ced3b892c865c51a973a8da152bce",
+          "reviewNote": "Makes continuing to engage in a licensed activity during an unstayed suspension a class A misdemeanor unless another penalty applies, and authorizes referral for prosecution."
+        },
+        {
+          "number": 6,
+          "title": "Licensing authority exemption from liability",
+          "bodySha256": "81ced4668023e5e6a852617516705d70204eff89185b72b58cf317904785923e",
+          "reviewNote": "Exempts the licensing authority from liability to the licensee for activities conducted pursuant to this section."
+        },
+        {
+          "number": 7,
+          "title": "Prohibition on modifying, vacating, or staying suspension orders",
+          "bodySha256": "3cdbe8026255d56b0d6dc363400579fcca13fd50d8fb12f4a4181e4a55cbd164",
+          "reviewNote": "Prohibits the licensing authority from modifying, remanding, reversing, vacating, or staying a court or director order suspending a license."
+        },
+        {
+          "number": 8,
+          "title": "Exclusion of driver license rights under section 302.311",
+          "bodySha256": "d7bf6c6bcb01f814d50562c0f1a03a1d65338fc3c7631394315d3419a97b8f52",
+          "reviewNote": "Specifies that if the suspended license is a driver's license, the obligor has no rights pursuant to section 302.311."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.1008 governing licensing authority duties, exclusive appeal procedures, nonrefundable fees, misdemeanor penalties, immunity, and exclusion of section 302.311 driver's license rights."
+    },
+    {
+      "id": "454.1010:25433",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.1010&bid=25433",
+      "sourceSha256": "d9b942d4d2f7ec6c31f1c12612800336b42b21cf14fefa5e72c01018cbd55b05",
+      "textSha256": "64224fc292f3b33f01c33925f29cb0725bce000715d1c1d34f4ceb8857e4f6e0",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Petition to stay license suspension order",
+          "bodySha256": "7ccd501c3e5ce618cdf8918c7e27aa36ba806d25440ffcc12d25080a74a8dcee",
+          "reviewNote": "Authorizes an obligor to petition a court or the director at any time to stay license suspension, requiring service on the director for petitions to stay a director's order."
+        },
+        {
+          "number": 2,
+          "title": "Separate consideration of petition for stay",
+          "bodySha256": "04c937603d91555096274840a28345baa077bff8d7cfc67640b0294dab9c6957",
+          "reviewNote": "Permits separate consideration of stay petitions apart from underlying license suspension determinations."
+        },
+        {
+          "number": 3,
+          "title": "Judicial stay for significant hardship circumstances",
+          "bodySha256": "9b65b1e2de72e283706d9f40bada7a8acad28e13413a4411889c02865c5811bf",
+          "reviewNote": "Authorizes a court, but not the director, to stay suspension upon showing significant hardship to the obligor, employees, household legal dependents, or persons, businesses, or entities served."
+        },
+        {
+          "number": 4,
+          "title": "Stay upon entry or assurance of payment plan",
+          "bodySha256": "0132bf02532c2deff92540951ff3276e296cb6bf57b1a69a8542ff0832a55263",
+          "reviewNote": "Allows courts or the director to stay suspensions upon entry of or adequate assurance of compliance with payment plans."
+        },
+        {
+          "number": 5,
+          "title": "Termination of stay upon changed circumstances, breach, or expiration",
+          "bodySha256": "b62dd466860adbbd7add8dbd69020f359d0853add210272b2dbbe999da9905c3",
+          "reviewNote": "Provides that a stay terminates if a court finds significant hardship has ended, if the court or division finds a payment plan breach, or if the stay order's termination date is reached."
+        },
+        {
+          "number": 6,
+          "title": "Transmission of stay or reimposition order",
+          "bodySha256": "5a77cf8e80cba330c8ef33eb8d884ec0addc98de2da2cd0aaf5f2451ba15cce8",
+          "reviewNote": "Requires the court or division, if the licensing authority was notified of a suspension order, to send any stay or reimposition order to the licensing authority and obligor by certified mail."
+        },
+        {
+          "number": 7,
+          "title": "Licensing authority duties upon stay or reimposition order",
+          "bodySha256": "2071879e0abdc155e4b56285d095be73b026ef408a1ea9f3191cdc115c9825fe",
+          "reviewNote": "Requires the licensing authority upon receiving a stay or reimposition order to enter it on records, notify the licensee, and, if required by law, demand surrender of a suspended license or return a reinstated license."
+        },
+        {
+          "number": 8,
+          "title": "No additional action required of licensing authority",
+          "bodySha256": "d08db53ba872cb250d425c89b8bbfe813f08b9f7ed707e2d0fe4e60055d07e20",
+          "reviewNote": "Specifies that no additional action by the licensing authority is required to implement a stay or reinstatement of suspension of a license."
+        },
+        {
+          "number": 9,
+          "title": "Exclusive remedy for stay of license suspension",
+          "bodySha256": "c69efbd66075af41458cecf62f5f39a50cf10298f69da78c5fbab7a19b36ab51",
+          "reviewNote": "Establishes the section as the exclusive remedy for staying suspensions, excluding motor vehicle hardship laws."
+        },
+        {
+          "number": 10,
+          "title": "Exemption from financial responsibility proof requirement",
+          "bodySha256": "a59f6c1a18cfe6414249813cce75689d2e7bc813f58e758c90aade294b307cd7",
+          "reviewNote": "Exempts drivers suspended solely under child support provisions from filing proof of financial responsibility."
+        },
+        {
+          "number": 11,
+          "title": "Driver license reinstatement fee amount",
+          "bodySha256": "14c40701de146f8dcd02689ec1128e046c4f7653270e087f1b477084b315ea6e",
+          "reviewNote": "Requires payment of a twenty dollar fee to the director of revenue prior to driver license reinstatement."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.1010 governing stay petitions, hardship grounds, payment plans, and reinstatement fees."
+    },
+    {
+      "id": "454.1013:25434",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.1013&bid=25434",
+      "sourceSha256": "e590b4a6a907ff40711c3d7f92dd3e16a27c7a567a1fb9e4d38fd9d3f98df7ec",
+      "textSha256": "b877d11804b86c41ff640a2d75803e816ea6274f8bbf13537be1541cb9810a19",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Termination of suspension order upon compliance",
+          "bodySha256": "be74125d124e35c5733b5e726031515988a01c9aa0641fe367bf5c57ed584275",
+          "reviewNote": "Requires the court or division to terminate a suspension order and immediately send copies by certified mail to the licensing authority and obligor upon full arrearage payment or subpoena/order compliance."
+        },
+        {
+          "number": 2,
+          "title": "New suspension orders for subsequent arrearages",
+          "bodySha256": "c4f3d6c000fe3a8ad39d47f8b027589c4ab94432f1580563600c502f386f57ec",
+          "reviewNote": "Clarifies that termination of a suspension order does not bar subsequent suspension orders upon future arrears."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.1013 governing termination of suspension orders and new suspensions upon subsequent arrears."
+    },
+    {
+      "id": "454.1020:25437",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.1020&bid=25437",
+      "sourceSha256": "0a04e2a77aeb64b57d4bd67760a472185819506b97ba4b096548aaea2c8edd6d",
+      "textSha256": "5ce2a4213d2f363eb620c4be4f3bc2d32dc645afac0cbe4fd56ff049dc930fc2",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Machine-readable licensure data provided upon request",
+          "bodySha256": "48a68de561819ccd462431d00bf377894d92b97a06b19c8f0964a933521efac2",
+          "reviewNote": "Requires state licensing authorities to provide machine-readable applicant and licensee data to the division upon request."
+        },
+        {
+          "number": 2,
+          "title": "Alternative readable format for remaining authorities",
+          "bodySha256": "3bbe9c0563ebe3bf413568fbac8430b469bf310be4211ae0b4c18e7fd04950c3",
+          "reviewNote": "Requires licensing authorities not providing machine-readable data under subsection 1 to supply the information in any readable format upon division request."
+        },
+        {
+          "number": 3,
+          "title": "Preservation of division information requests under section 454.440",
+          "bodySha256": "9da8eebf5517b9c2d368d36f88e5ba57e0c455509ccc2e9353594eb2a45ec7ff",
+          "reviewNote": "Clarifies that this section never precludes the division from requesting information provided by a licensing authority pursuant to section 454.440."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.1020 governing electronic licensure information exchanges between licensing authorities and the division."
+    },
+    {
+      "id": "454.1050:60022",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.1050&bid=60022",
+      "sourceSha256": "7fdf5a73e412df63699e365d711994e25f6eb916b19a3014a71bb63d00920b4c",
+      "textSha256": "3a340447a16e4b8b0ba8dadc38cda253ad3f73b68119513447b36cbb4b294705",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Title citation as Bentley and Mason's Law",
+          "bodySha256": "fd55bbf3ccdc114ec823fd3d86328ffa4df8fbf79021ee741fe7852ab2c36262",
+          "reviewNote": "Designates the section as Bentley and Mason's Law."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory child maintenance and termination events after fatal DWI",
+          "bodySha256": "95c7bb8f5ac73065d395699a26a3eb20b39ce44828037410c91132dfb2a0cf91",
+          "reviewNote": "Requires the court, upon petition by a surviving parent or guardian, to order child maintenance from a person convicted of or pleading guilty or nolo contendere to a section 577.010 or 577.012 offense causing a parent's death, continuing until specified termination events."
+        },
+        {
+          "number": 3,
+          "title": "Post-majority extensions for incapacity or continued education",
+          "bodySha256": "92800101420caf41880a10642429e72a5a00bd271c2b5f11a5ed096e34e79af8",
+          "reviewNote": "Authorizes extending maintenance past age eighteen for incapacitated, insolvent, unmarried children, and mandates continuation up to age twenty-one during secondary school or qualifying vocational/higher education subject to credit-hour, transcript, disability, and employment rules."
+        },
+        {
+          "number": 4,
+          "title": "Standard and factors for child maintenance determinations",
+          "bodySha256": "294027eb2cfed15129cbecd9d167e5125eb33f971df7f02aadd0472a210184d0",
+          "reviewNote": "Requires ordering reasonable or necessary child maintenance after considering all relevant factors, including child needs/resources, surviving parent or guardian resources/needs, standard of living, child condition/education, custody, and work-related child care expenses."
+        },
+        {
+          "number": 5,
+          "title": "Application of child support guidelines and Form 14",
+          "bodySha256": "32b24b53ab2996d53be52a51a8bb865948b28eda8cf5852787a996dbb22dc874",
+          "reviewNote": "Requires consideration of section 452.340 guidelines and Missouri Supreme Court Form 14 in determining maintenance amounts."
+        },
+        {
+          "number": 6,
+          "title": "Payment through circuit clerk or family support payment center",
+          "bodySha256": "3f44317dca1b514a191f80c5c1021d9ecde803074f4378dbac5d22d52e8694fc",
+          "reviewNote": "Requires ordering payments to the circuit clerk as trustee for remittance within three working days, or alternatively permits ordering payment to the family support payment center under section 454.530 unless the division notifies the court otherwise."
+        },
+        {
+          "number": 7,
+          "title": "Income withholding orders for maintenance enforcement",
+          "bodySha256": "7f538e8d412716216ae3e1683533f5f5fa23f4ac4e04a89df0b77f7c8f529e6d",
+          "reviewNote": "Requires the family support division director or designee, after a maintenance order is entered, to issue an income withholding order to any employer or other payer up to federal wage garnishment limits."
+        },
+        {
+          "number": 8,
+          "title": "Incarceration grace period and continuing payment of arrearages",
+          "bodySha256": "d19eaff0ab1ea72f57c75e5b41c2e3df48188f39fedd7683d721a12b09dad25f",
+          "reviewNote": "Grants an incarcerated obligor unable to pay up to one year after release to begin payments including arrearages, and requires payments to continue past a subsection 2 termination event until any unpaid arrearage is paid in full."
+        },
+        {
+          "number": 9,
+          "title": "Effect of civil judgments, insurance payments, and section 595.045 funds",
+          "bodySha256": "ff03c2e5966af2865561c0ff354685a0d9276399bae416d6ef2420598a70d1c3",
+          "reviewNote": "Bars maintenance if a prior civil judgment is obtained, offsets subsequent civil judgments by maintenance orders, offsets maintenance by motor vehicle liability insurer payments, and prohibits reductions for section 595.045 funds."
+        },
+        {
+          "number": 10,
+          "title": "Modification of maintenance upon substantial changed circumstances",
+          "bodySha256": "80a12b2dc8e5e46dc164f13e0e21ab4887c73b87ec3dc8b5b079804093a3f752",
+          "reviewNote": "Permits modification of child maintenance orders only upon showing substantial and continuing changed circumstances."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.1050 (Bentley and Mason's Law, L. 2026) governing child maintenance orders after fatal intoxicated driving offenses; source notes reflect a severability clause (§ 1.1010) and original-rolls discrepancy ('sections')."
+    },
+    {
+      "id": "454.400:25219",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.400&bid=25219",
+      "sourceSha256": "e3f9bcb35c7c656893c45011c52b48efb314266d69d56198b1e629129f709902",
+      "textSha256": "476b3d984fae8f4ff5ca17c19f7ce6db012336f51f085571ad47983d725c827b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishment of Family Support Division and prosecution duties",
+          "bodySha256": "c81449d422cc2f3558ea8a9ad0a0d5cdb1c31369e03ad1ba61377cde794d22d2",
+          "reviewNote": "Establishes the Family Support Division within the department of social services, assigns litigation duties to prosecuting or cooperative-agreement attorneys, and requires utilizing existing IV-A staff consistent with P.L. 93-647 and 45 CFR 303.20."
+        },
+        {
+          "number": 2,
+          "title": "Powers, functions, and duties of the division",
+          "bodySha256": "d8800abce00ddad0fc02b6221feea9fc7fd0efd43dd05ed6aef9bf6b608c492c",
+          "reviewNote": "Enumerates seventeen division powers including suing, contracting, administering funds, issuing subpoenas, rulemaking, federal cooperation, advisory committees, statistics, research, gifts, triennial IV-D order reviews under Rule 88.01, paternity and support services, enforcement, and preventing fraudulent transfers."
+        },
+        {
+          "number": 3,
+          "title": "Promulgation of rules pursuant to section 536.024",
+          "bodySha256": "7af751897d3bbab15b95aa82b7e4bb85b926e54e9d25dabe440eefcd8042c08d",
+          "reviewNote": "Provides that rules promulgated under chapter authority become effective only if compliant with section 536.024."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.400 governing Family Support Division establishment, powers, and rulemaking standards."
+    },
+    {
+      "id": "454.401:25220",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.401&bid=25220",
+      "sourceSha256": "fcf5ba9d7d6d38c658879004ae4bf7c4895c5587204ffe0cfb657c6b46364ac7",
+      "textSha256": "97737d15bbe542d9a47fecb8992eefbc05c1e93e19c161963a86e6352e2189fa",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Director authority to administer oaths and issue subpoenas",
+          "bodySha256": "d23115412594b65f1c7d071d68c40d864d21ede3622c24c1af1c5263551a278f",
+          "reviewNote": "Empowers the division director to administer oaths, issue subpoenas, compel witnesses, and require document production in paternity and support actions under chapter 454 or upon another state's IV-D agency request."
+        },
+        {
+          "number": 2,
+          "title": "Circuit court enforcement of administrative subpoenas",
+          "bodySha256": "d45e106acc205a8cfa02f4aab5737a9f8c0ac898cbb13bf2f72db715410eaeb1",
+          "reviewNote": "Authorizes the director to request a circuit court order compelling subpoena compliance, allows the court to issue protective orders, and permits contempt findings for noncompliance."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.401 governing division powers to administer oaths, issue subpoenas, and compel court compliance."
+    },
+    {
+      "id": "454.405:25223",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.405&bid=25223",
+      "sourceSha256": "7aa9c2bd5eb74ae69fd437283026ad3a72734b18a4f40acd32e11ae43fd39ba4",
+      "textSha256": "957d3399335e1237e4849f9f5d5d8132adb2491ae5b4c97496136b80f3dc6a71",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "County duty to cooperate and fund support enforcement",
+          "bodySha256": "4e29926a2b3ce7e904e2224d9c6f927efb8b09a4958bebc5d0acae6350f87f6d",
+          "reviewNote": "Requires each county to cooperate in support enforcement by appropriating sufficient funds for prosecuting attorneys (or multi-county agreements) and circuit clerks."
+        },
+        {
+          "number": 2,
+          "title": "Cooperative agreements between division and local officers",
+          "bodySha256": "6b5ea2f659bb1466851ec8d9171cc8c13e78e514dc8bd18b5e47d0901c4aba7f",
+          "reviewNote": "Requires the division to enter cooperative agreements with participating local bodies and officers, except the director may refuse renewal on sixty days' certified mail notice for noncompliance with a thirty-day objection or compliance-plan window."
+        },
+        {
+          "number": 3,
+          "title": "Minimum required terms of cooperative agreements",
+          "bodySha256": "caf1f76992a1e1d663bb085af5a4937a94bc22d2f8bff5a558edc2d1b6bc8d78",
+          "reviewNote": "Specifies minimum cooperative agreement terms including hiring support staff and assistant prosecutors, office space, monthly federal cost reimbursement within thirty days of vouchers, recordkeeping, and federal incentive payments under 45 CFR 303.52."
+        },
+        {
+          "number": 4,
+          "title": "Recordkeeping and performance rules and agreement cancellation",
+          "bodySha256": "7e0941bf2cec8861956c15e2eee5172b2dbb4e46e2ee1887da3ba8bbf396b387",
+          "reviewNote": "Authorizes division rules on recordkeeping and performance criteria and permits cancelling a cooperative agreement for noncompliance on sixty days' certified mail notice with a thirty-day objection or compliance-plan window."
+        },
+        {
+          "number": 5,
+          "title": "Renegotiation of refused or cancelled agreements",
+          "bodySha256": "c259141739b388503cdc94f293581cfb3ffce671b461d6c278420eb4e73f398e",
+          "reviewNote": "Permits a local body or officer, after refusal or cancellation, to request renegotiation with a proposed compliance plan, after which the director may enter a new agreement meeting subsection 3."
+        },
+        {
+          "number": 6,
+          "title": "Exemption from statutory salary and staffing caps",
+          "bodySha256": "7d7b75c97d6486eaf636a91240e98a0cf514126640379b9be851cd386362ca36",
+          "reviewNote": "Exempts cooperative child support personnel from chapter 56 staffing and salary caps and mandates local funding."
+        },
+        {
+          "number": 7,
+          "title": "Employment of child support investigators",
+          "bodySha256": "052b1c14c7aef80b79c448335a8b9122459eee6d77da405f52cac63e05e6c4a8",
+          "reviewNote": "Permits prosecuting attorneys, circuit attorneys, or multi-county units to employ investigators with local governing body and division director approval."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.405 governing county cooperation, cooperative agreements, recordkeeping rules, and personnel funding."
+    },
+    {
+      "id": "454.412:25226",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.412&bid=25226",
+      "sourceSha256": "dc610961caf10b3cbb66e7bb2e4516cea9778d032f6b0f97509ae1896cdf6ed2",
+      "textSha256": "6c2199b2b9cca2f5f7b0d148913655a0458b700d821abfc4a861d40ae4039db6",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishment and contents of State Case Registry",
+          "bodySha256": "2496648d43474bf39daa01943c614159bc53a8e4701e3946f9dce7c153b5e1ae",
+          "reviewNote": "Directs the division to establish a State Case Registry containing records of each division-serviced case under chapter 454 and each support order established or modified in Missouri on or after October 1, 1998."
+        },
+        {
+          "number": 2,
+          "title": "Standardized data elements for registry records",
+          "bodySha256": "e70833e22a77fea18549a2ff8879849df739d49553d6a7f215b89b6437ad6c03",
+          "reviewNote": "Requires registry records to use standardized data elements including parent identifiers, dates of birth, and case numbers."
+        },
+        {
+          "number": 3,
+          "title": "Circuit clerk duty to report support order data",
+          "bodySha256": "6c631545617537750c3e15106e82424b08bbeae5cc8e97f5e4bc8955cc280e44",
+          "reviewNote": "Requires circuit clerks to provide the division with data elements in a division-established format (which may be furnished electronically) for each support order established or modified on or after October 1, 1998."
+        },
+        {
+          "number": 4,
+          "title": "Transmission of registry data to federal case registry",
+          "bodySha256": "be80d60674283d19ad414c37da39263f04b4ab9865d8abb9d6fb99780c4bcc2c",
+          "reviewNote": "Directs disclosure of registry records to the Federal Case Registry of Child Support Orders and authorized agencies."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.412 governing the State Case Registry, standardized data elements, clerk reporting, and federal disclosures."
+    },
+    {
+      "id": "454.413:25227",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.413&bid=25227",
+      "sourceSha256": "0264f2a4b6aed564ba17d65066ed5630617622aeb5b9352023aba0076b0111b3",
+      "textSha256": "6e1eb4108c7b6d72dfe325a81786f2d68cc2f5b52157258796b6feaa6df6e68a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Party duty to file location and identity information",
+          "bodySha256": "e2d1799bf95fe6cb3df592fb11596602d7faa364560be0e38f3668ebf8b5f13e",
+          "reviewNote": "Requires parties in paternity or support proceedings under chapters 210, 211, 452, or 454 to file identity, location, driver's license, and employer data with the state case registry upon order entry and update changes within thirty days."
+        },
+        {
+          "number": 2,
+          "title": "Due process notice presumption in subsequent actions",
+          "bodySha256": "32ca59c78e978808f988d67b2a3a3187545f73b009b9ee0f848352f218d0c435",
+          "reviewNote": "Deems due process notice and service met in subsequent support enforcement actions upon showing diligent location effort (including certified mail to last known address and attempted publication) and written notice delivered to the latest registry residential or employer address."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.413 governing party filings with the State Case Registry and due process notice presumptions."
+    },
+    {
+      "id": "454.415:25228",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.415&bid=25228",
+      "sourceSha256": "7638498189cb5bf24888e85e4a16146468cafc519310e9f6f7cf847ffe63a2b3",
+      "textSha256": "92ab7a5d7bdb990d7fafba266dc320bf2c617219256b081183bcbd94bcdb7740",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of IV-A agency",
+          "bodySha256": "e202a30cd71a8f99ec1f9cf82e96cd3b10cefa00593361f5500f0faed1e71b4a",
+          "reviewNote": "Defines IV-A agency as a state agency designated to administer Title IV-A or Title IV-D programs of the Social Security Act, or any other entity entitled to receive and disburse child support payments in that state."
+        },
+        {
+          "number": 2,
+          "title": "Court notification and clerk or payment center trusteeship upon assignment",
+          "bodySha256": "e85aea6d83ef23284d3e3427d750d89e33649d38a36c1bc2468d4299131af404",
+          "reviewNote": "Requires division notice to the court upon support assignment, making the circuit clerk trustee until October 1, 1999, and the payment center under section 454.530 trustee effective October 1, 1999, without a court hearing."
+        },
+        {
+          "number": 3,
+          "title": "Trusteeship continuation following termination of assignment",
+          "bodySha256": "94c9c1490ed97eb3a4c5ee8660dc6627fde2d8a1d3e20a291e3ce0f4a67503c5",
+          "reviewNote": "Continues clerk or (effective October 1, 1999) payment center trusteeship upon assignment termination for accrued unpaid support and post-termination support, applies payments to post-termination support first except debt setoff/legal process, and restricts dissolution motions."
+        },
+        {
+          "number": 4,
+          "title": "Scope of public assistance assignment",
+          "bodySha256": "d72d683aca42f932198731473e4f60ce92bd5d30a673f899c07492173cefe493",
+          "reviewNote": "Clarifies that assignment includes assignments by applicants or recipients of assistance under Title IV-A or Title XIX."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.415 governing definition of IV-A agency, support assignment procedures, clerk trusteeship, and termination."
+    },
+    {
+      "id": "454.430:25231",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.430&bid=25231",
+      "sourceSha256": "1d6526a0b0140006e3815e895fd48f2d74700da72e2c6eaa67b565fb2a1e2c55",
+      "textSha256": "7459b6c629e79be7b22c1e5fcd4e24ff80a14d8e0b4817f75df31d7e693cf52e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of IV-D agency",
+          "bodySha256": "35932492ba45e5a8223f986f04769546011362e179fcd62202fa8b7b788e0559",
+          "reviewNote": "Defines IV-D agency as an agency designated by a state to administer Title IV-D Social Security Act programs or any other entity entitled to receive and disburse child support payments in that state."
+        },
+        {
+          "number": 2,
+          "title": "Court notification and clerk or payment center trusteeship in IV-D cases",
+          "bodySha256": "e1b4cf3ca188c075128dc4f35de5938a32a7905af14c450c7028fb27d009781d",
+          "reviewNote": "Requires division notice to the court when IV-D services are provided, making the circuit clerk trustee until October 1, 1999, and the payment center under section 454.530 trustee effective October 1, 1999, without a hearing."
+        },
+        {
+          "number": 3,
+          "title": "Division authority to terminate future support trusteeship",
+          "bodySha256": "66838a05835cf54cff78eae87640ca209e7bed2a02d1cac1dfd0fde41fbf5760",
+          "reviewNote": "Authorizes the division to terminate future support trusteeship in IV-D cases by regular mail notice with a fifteen-day written objection period when obligations end or services cease."
+        },
+        {
+          "number": 4,
+          "title": "Objection procedure and court hearing on termination",
+          "bodySha256": "472d9afede6b8bb1eb717e09725e368dbe6ba9af505464dbb799822cbc2ce784",
+          "reviewNote": "Requires a court motion, notice, and hearing before terminating future support trusteeship if a party objects."
+        },
+        {
+          "number": 5,
+          "title": "Effect of termination on accrued unpaid support",
+          "bodySha256": "e2d0f179c348defaf8b19beddddb48198bc66894bd0db68cb1333b20c8fc29c0",
+          "reviewNote": "Terminates trusteeship for future support upon meeting subsection 3 requirements without a court hearing, while keeping the trusteeship in effect for accrued unpaid support due as of the notice date."
+        },
+        {
+          "number": 6,
+          "title": "Reopening terminated trusteeship under section 452.345",
+          "bodySha256": "e833f003bb74614dc77ac3c6f8dc02c7c197e32215a2e6a2df9f06c4390bf118",
+          "reviewNote": "Permits any party whose trusteeship was terminated to reopen a trusteeship pursuant to section 452.345."
+        },
+        {
+          "number": 7,
+          "title": "Nonadjudicative nature of trusteeship termination",
+          "bodySha256": "eb12294f6248ab3e18eb41c644cd28fa055d7110e10032aa56e2378464e00193",
+          "reviewNote": "Clarifies that trusteeship termination does not constitute a judicial determination of underlying support obligations."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.430 governing IV-D agency definitions, clerk and payment center trusteeship duties, and termination procedures."
+    },
+    {
+      "id": "454.432:25232",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.432&bid=25232",
+      "sourceSha256": "01790d9c6541e31741ec51226a20aa60c8333a42ff9b1587cb89d4c4c5a6e992",
+      "textSha256": "b95911eb572bd88a10ce6661b510a5309ebc9f336c0598248e21b9bbb8bd278d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Recording credits for amounts not received by clerk or division",
+          "bodySha256": "d3469bcd30a8e9488a42ffb65ca29a117e103f5a036410784d6da144a2b49dbf",
+          "reviewNote": "Requires the circuit clerk in non-IV-D cases or the division in IV-D cases to record credits on the automated child support system for amounts not received by the clerk or division."
+        },
+        {
+          "number": 2,
+          "title": "Types of allowable credits on child support records",
+          "bodySha256": "ad0b8508a10f17eb6262e2009c73f78cf8ae4437359b780716c7e7ec059b03d0",
+          "reviewNote": "Lists allowable credits including in-kind payments, federal and state tax refunds, lottery payments, Social Security, unemployment and workers' compensation benefits, income withholdings, liens, garnishments, section 452.340 abatements, and other statutory or case law credits."
+        },
+        {
+          "number": 3,
+          "title": "Trusteeship credits and discretionary job training state-debt credits",
+          "bodySha256": "098c37b43ff28a06d942cbaaf007cab97fb0a33b9ba0c81d25c6b75d68065d1c",
+          "reviewNote": "Requires recording credits for division-received payments and authorizes discretionary credits on section 454.465.1 state debt judgments for mutually agreed job training and education upon federal waivers, with clerk notification and division system adjustments."
+        },
+        {
+          "number": 4,
+          "title": "Application for federal waivers to implement credit program",
+          "bodySha256": "f3d90e68c791298087d84f4742b6c968fbc7b00cf2bcdad3227d70a186414ea3",
+          "reviewNote": "Requires the director of the department of social services to apply to the U.S. Secretary of Health and Human Services for all federal waivers necessary to implement subsection 3."
+        },
+        {
+          "number": 5,
+          "title": "Affidavit credits for direct and in-kind payments",
+          "bodySha256": "4aa8f2ff5b5270c0590347749115bcb2fa6d1cd8b47cc5fafefd831b5e008bad",
+          "reviewNote": "Requires entering automated system credits for direct and in-kind payments upon a custodial parent's affidavit filed with the circuit clerk, excluding periods when child support is assigned to the state."
+        },
+        {
+          "number": 6,
+          "title": "Preservation of statutory and rule-based satisfaction of judgment",
+          "bodySha256": "f6828910c4318704bbe0c27e8ac9e75fd2b56d9323104126da350e9b0daf5459",
+          "reviewNote": "Clarifies that nothing in this section prohibits satisfaction of judgment under sections 511.570 to 511.620 and supreme court rule."
+        },
+        {
+          "number": 7,
+          "title": "Federal earned income tax credit condition for alternative credits",
+          "bodySha256": "ecfbe21a1b6fea805e3cb166ed4ada5844c05339c5c26ebcb020145a818bf47b",
+          "reviewNote": "Requires applying for the federal earned income tax credit, when applicable, as a condition of participating in subsection 3 alternative child support credit programs."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.432 governing automated child support credits, job training state-debt credits, federal waivers, direct/in-kind payment affidavits, and earned income tax credit conditions."
+    },
+    {
+      "id": "454.433:25233",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.433&bid=25233",
+      "sourceSha256": "ececa2b2a499d9fa62154b0932ce7e1cdca828be7684d2a4d5f0055d403e1f1c",
+      "textSha256": "c898f449d9c1cb1416b54e38c76b9d17c7725fc7dcd7c5e9e5bcb51ce7a5b1e5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Division notice of out-of-state orders and payment remittance",
+          "bodySha256": "b661b271d0560e10530fde2b4a30e8fa3737c448474c42b3556cfba84d36970d",
+          "reviewNote": "Authorizes the division to notify a Missouri court when another state's tribunal orders support in an assigned or section 454.425 case, directing clerk acceptance until October 1, 1999, and payment center acceptance effective October 1, 1999."
+        },
+        {
+          "number": 2,
+          "title": "Clerk trusteeship, recordkeeping, and October 1999 payment center transition",
+          "bodySha256": "4b99968b879954ed312201e230bf309d79a25754678328ff15aa16a6ca0e2d33",
+          "reviewNote": "Authorizes making the clerk trustee with recordkeeping and reporting duties upon division notice, and terminates clerk trustee duties effective October 1, 1999, directing all payments to the payment center under section 454.530."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.433 governing division notice of out-of-state support orders, clerk trusteeship, and the October 1, 1999 transition to the payment center; source note flags that referenced section 454.850 was repealed in 2016."
+    },
+    {
+      "id": "454.435:25234",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.435&bid=25234",
+      "sourceSha256": "8a105669eb4bd00ccbf8c240a6b03117dff46523ec86440773ce01c02bd161c1",
+      "textSha256": "76563d60100bf3927514df7b10b07243762d85927996bea352eaa1a34162e2fc",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prosecuting attorney cooperative agreements and medical support duty",
+          "bodySha256": "2bd88918284419b66c601ed77365597ea435ab27245d0022ec94b02cb886a5f5",
+          "reviewNote": "Authorizes prosecuting attorneys to enter cooperative or multi-county agreements to litigate referred support, paternity, and medical care reimbursement actions, and requires seeking and enforcing medical insurance or medical expense orders when establishing or modifying support."
+        },
+        {
+          "number": 2,
+          "title": "Return of referral after sixty days and alternative counsel",
+          "bodySha256": "3ac4b3bbd06e7636344cc4a1c7ac53b4ba99b9643b9765c5b61361f0715684d8",
+          "reviewNote": "Authorizes the division to demand return of a referral and case file if an information or civil action is not commenced within sixty days of receipt, and permits using other employed or contracted attorneys."
+        },
+        {
+          "number": 3,
+          "title": "Definition of prosecuting attorney for independent cities",
+          "bodySha256": "66a9c3830120c8250abb911de51efa48581ee68b7e932f2582e298e18b971fb9",
+          "reviewNote": "Defines prosecuting attorney, with reference to any city not within a county, as the circuit attorney."
+        },
+        {
+          "number": 4,
+          "title": "Authority to initiate IV-D modification proceedings",
+          "bodySha256": "fd1c99c0ed1ead02c7479cb97eef12ac0663ff54588ef120cc75c3c95b7efbde",
+          "reviewNote": "Authorizes prosecuting attorneys to initiate judicial or administrative modification proceedings on IV-D cases at the request of the division."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.435 governing prosecuting attorney cooperative agreements, referral return after sixty days, circuit attorney definition, and IV-D modification authority."
+    },
+    {
+      "id": "454.440:25235",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.440&bid=25235",
+      "sourceSha256": "32482c31318bc14523589a524a909917cc12dbbc7e4f7c4b7abd512bff68b407",
+      "textSha256": "6a5aff2d0e623e4d74f5f352f7b49663bdab0983c273a79df19b9eabc1166c34",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions for parent locator and information requests",
+          "bodySha256": "aef4135551c8344217ed3c6b5ab65da410f1b82a8f26de7d060df4dd2572e5bb",
+          "reviewNote": "Defines business, division, financial entity, government agency, twenty-one categories of information, and parent for purposes of this section."
+        },
+        {
+          "number": 2,
+          "title": "Authority to request locator and financial information",
+          "bodySha256": "00f733a9e835c941068933ac4360e8b244578865259385f12a21cbead054e02c",
+          "reviewNote": "Authorizes the division or another state's IV-D agency to obtain information from the federal Parent Locator Service, other states, government agencies, businesses (by subpoena for utilities and cable companies), and financial entities notwithstanding confidentiality laws, including for child custody or unlawful-taking enforcement under 42 U.S.C. 653 and 663."
+        },
+        {
+          "number": 3,
+          "title": "Prerequisite for financial entity disclosure requests",
+          "bodySha256": "2edf37817d929afd430a800fd7adf5614e805027a51b21c36770f4c646f79191",
+          "reviewNote": "Relieves financial entities from disclosure unless the division or IV-D agency alleges the parent is an officer, agent, member, employee, depositor, customer, or insured, or has complied with section 660.330."
+        },
+        {
+          "number": 4,
+          "title": "Sixty-day response deadline and civil penalties",
+          "bodySha256": "db8b7ad0710d87babf1a351f90084552157018bc17a1689ac0b9b0814b2cb027",
+          "reviewNote": "Requires businesses and financial entities to respond within sixty days and imposes civil penalties up to one hundred dollars per day thereafter, recoverable by the attorney general in circuit court."
+        },
+        {
+          "number": 5,
+          "title": "Good-faith immunity for disclosing businesses and financial entities",
+          "bodySha256": "1c4e281e3129695e758e662b4f789f2c2d78be5bde59b171f81d8c6564b4f2ba",
+          "reviewNote": "Grants civil and criminal immunity to businesses, financial entities, and their officers, agents, or employees participating in good faith in providing requested information."
+        },
+        {
+          "number": 6,
+          "title": "Sworn annual financial statement by parent and misdemeanor penalty",
+          "bodySha256": "aaacb3da34e26d75ba05f0521e167fd1e3f557c521b4d96a2a295ae26a6298fe",
+          "reviewNote": "Requires any parent upon division or IV-D agency request to complete a sworn income, dependent, and asset statement (annually upon request), making noncompliance a class A misdemeanor."
+        },
+        {
+          "number": 7,
+          "title": "Prohibition on disclosure by business or financial entity personnel",
+          "bodySha256": "712ec6f9430d07dfd9ee7c6aa12347a133fdb04af22d153d24892aa5a01e487b",
+          "reviewNote": "Prohibits business or financial entity officers, employees, or recipients from disclosing division-provided information or public assistance applicant/recipient identities, punishable as a class A misdemeanor."
+        },
+        {
+          "number": 8,
+          "title": "Penalty for obtaining or communicating information under false pretenses",
+          "bodySha256": "fb8b7ffae78734ffe1c549c45c8a7cb5a9f18ec7dba768368522e462321a9700",
+          "reviewNote": "Makes willfully requesting, obtaining, or seeking information under false pretenses, or willfully communicating it outside chapter 454, a class A misdemeanor."
+        },
+        {
+          "number": 9,
+          "title": "Confidentiality of state records, location-disclosure bar, and penalty",
+          "bodySha256": "c59c06214f018adbaf20c40b73b31adc57ac9a798f95620b2335a689a3738867",
+          "reviewNote": "Prohibits state officers, employees, and contractors from disclosing applicant/recipient identities, records, or party locations when a protective order exists or harm is feared, bars evidentiary admission in unrelated proceedings, preserves non-identifying circuit clerk court records, and makes purposeful or knowing violation a class A misdemeanor."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.440 governing parent locator definitions, information requests, financial entity conditions, civil penalties, immunity, sworn parent statements, confidentiality, and misdemeanor offenses."
+    },
+    {
+      "id": "454.450:25237",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.450&bid=25237",
+      "sourceSha256": "2a7c78fbb1c7988ce166b1e499e55eb343654bbfd889593ce91d077ad53b46f6",
+      "textSha256": "529b7cd6dfc9315dd2e587c4f7e48d3658c6061c662c72363eb00ff7d245928b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Duty to remit assigned support moneys to division",
+          "bodySha256": "b5a8c07dc4cd3bc143ba2dc5ed870db659df519d9a9ecdf689411de3b3f2f58a",
+          "reviewNote": "Requires custodians or others receiving assigned support moneys to remit them to the department within ten days, creating a debt, irrevocable assignment of non-assigned/future delinquencies, and collection or setoff authority excluding current monthly support."
+        },
+        {
+          "number": 2,
+          "title": "Invalidity of unapproved private collection agreements",
+          "bodySha256": "3cadd3360ff4b73aba52e5cd845c4c4d589efb4667adb4ef0e16afa436855782",
+          "reviewNote": "Prohibits unapproved private collection agreements for assigned support, renders good-faith distribution agreements nonbinding on the department while allowing subsection 3 fees, and requires Supreme Court Rule 43.01 notice of subsequent assignments."
+        },
+        {
+          "number": 3,
+          "title": "Good faith fee allowance for private collection attorneys",
+          "bodySha256": "c6299b8f5dd5b73eea952bd0ad65445df93f9d4367d9644ce1a9e6f722927351",
+          "reviewNote": "Establishes private attorney fee tiers: twenty-five percent from state funds if no assignment notice was filed, a court-set time-based fee capped at twenty-five percent if filed after collection began, and the negotiated fee with no recoupment if assignment followed collection."
+        },
+        {
+          "number": 4,
+          "title": "Criminal penalty for stealing assigned support payments",
+          "bodySha256": "573b64adffe8cf211c72629c01f947f169508eb8fa86cfea40d7c357de6647c7",
+          "reviewNote": "Classifies intentional retention or diversion of assigned child support payments as stealing under section 570.030."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.450 governing payment of assigned support to the state, private collection agreements, and criminal penalties."
+    },
+    {
+      "id": "454.455:25238",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.455&bid=25238",
+      "sourceSha256": "0309c58e64290922061b44dfd6f5abd1c2f87c0c165359844c30ff9b51d83c4c",
+      "textSha256": "7f11ce22bb1ee4edd3bc18d9185da0bde347e140103c419055dee69e202fbbcb",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Assignment of support rights by caretaker relative",
+          "bodySha256": "2c5af8c09f54a9640ec0a0d214b215db1c26598801a4b962fa63618cdaeb4393",
+          "reviewNote": "Transfers a child support obligation to the division by operation of law when a custodian relinquishes physical custody to a caretaker relative who assigns rights for AFDC, terminating when physical custody ends except for unpaid obligations owed to the state."
+        },
+        {
+          "number": 2,
+          "title": "Definition of caretaker relative",
+          "bodySha256": "7e9e6514e2ebcaab9d85ec7cff2a07953db8b969d6a896a13faafdc68b857795",
+          "reviewNote": "Defines caretaker relative to include persons enumerated in subdivision (2) of subsection 1 of section 208.040."
+        },
+        {
+          "number": 3,
+          "title": "Redirection of support payments to caretaker relative or state agency",
+          "bodySha256": "058d1ff15b54520788f6ccde843452a2a3ae776b712761096b2dfe18c44d57b5",
+          "reviewNote": "Authorizes the division in nonassigned cases, thirty days after physical custody transfer to a caretaker relative or court placement with a state agency and upon notice, to redirect payments until custody ends except for unpaid obligations."
+        },
+        {
+          "number": 4,
+          "title": "Change of support payee to state agency",
+          "bodySha256": "54f071bd449055ae2a58e9a61d8d4800205299989ea30a428725c4655d79bd2a",
+          "reviewNote": "Authorizes the division, upon assignment to a state agency or a requirement to pay through a state disbursement unit and upon notice, to direct obligors or payers to change the payee to the appropriate state agency."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.455 governing support assignments by caretaker relatives, definitions, and payee modifications."
+    },
+    {
+      "id": "454.465:25240",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.465&bid=25240",
+      "sourceSha256": "e49cecfc9ecf953eed7134d5338498f66d976d92d34f365de225a26fa2f02c3b",
+      "textSha256": "853c1094c9948fa0b4660e6f6201c080afbdaab0e92ef70e179f5e6638b81f06",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Creation and calculation of public assistance state debt",
+          "bodySha256": "c7a0d795ac0554747e58821a5d20ec05bca51a445e3a9e137b800f879f6f884a",
+          "reviewNote": "Establishes that public assistance payments create state debt owed by an absent parent equal to the court-ordered obligation up to assistance paid, or if no court order exists, an amount set or reset by the director not exceeding assistance paid."
+        },
+        {
+          "number": 2,
+          "title": "Invalidity of private settlements reducing state debt",
+          "bodySha256": "c59543a7a5d99219d87535ed6025fa61f33fb294f04709bba391a3c3fe458c0e",
+          "reviewNote": "Provides that agreements between parents settling support obligations cannot reduce or terminate state debt recovery rights."
+        },
+        {
+          "number": 3,
+          "title": "Division right to seek order modification",
+          "bodySha256": "ae6f8971e198d2661b403931ef6c57ffbb8540d18c90b0a4423963b12b5e1736",
+          "reviewNote": "Grants the division standing to move a court or administrative tribunal to modify any assigned court support order to the same extent as a party."
+        },
+        {
+          "number": 4,
+          "title": "Department rulemaking authority under chapter 536",
+          "bodySha256": "68575213cf3f437182328d214f8b4d31698844043f3e30ebc0e38dabab31c3a9",
+          "reviewNote": "Authorizes the department to promulgate rules necessary to implement support enforcement and federal Social Security Act terms."
+        },
+        {
+          "number": 5,
+          "title": "Service of process by civil procedure or mail",
+          "bodySha256": "b3e3fbb07685d2f141bb299feed1d26e59a391f9077428ee4273936aa8bad578",
+          "reviewNote": "Permits service of process under civil action rules, by a director-appointed uninterested process server (including division employees), or by certified mail, return receipt requested, deeming refusal of certified mail as service."
+        },
+        {
+          "number": 6,
+          "title": "Preservation of common law and statutory rights",
+          "bodySha256": "f463476d88eb87d9f2ffaa3e4f228c6ea4411c1e2ea9cdafcd63e2f38d1d57bd",
+          "reviewNote": "Clarifies that creation of or exemption from state debt does not limit the department's common law or statutory rights, including section 208.040 support assignments."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.465 governing state debt creation, settlement restrictions, modification rights, and service."
+    },
+    {
+      "id": "454.470:25241",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.470&bid=25241",
+      "sourceSha256": "d45ca1a672b54b38a633436a726d6b750abd8ea0dc412ec2d6163f110e012202",
+      "textSha256": "56ec738305660c9d55a55c5dd8cc015bcd6cd69ffb6229b91186b7a57c7835fe",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Issuance and contents of financial responsibility notice",
+          "bodySha256": "6cdc891bd1063df0c410131d0a339254119c8e6dc6214fc2983324ea8d38b537",
+          "reviewNote": "Authorizes the director to issue and serve (with certified mail refusal deemed service, and regular mail for section 454.425 obligees) a notice and finding of financial responsibility detailing support, state debt, twenty-day negotiation/hearing rights, and collection remedies."
+        },
+        {
+          "number": 2,
+          "title": "Computation of future periodic support amounts",
+          "bodySha256": "bd0c56de89b53033a8cf0650c01d6fcaa906c29f3bb166c1594271e961df9752",
+          "reviewNote": "Requires future periodic child support to be computed in accordance with guidelines established under section 452.340."
+        },
+        {
+          "number": 3,
+          "title": "Extension of notice and request timeframes",
+          "bodySha256": "1c9401fc756d018cf997702aa0e5ee2d508080951442926283f5090da051c189",
+          "reviewNote": "Authorizes the director to extend response time limits without affecting administrative or court jurisdiction."
+        },
+        {
+          "number": 4,
+          "title": "Hearing request upon factual objections",
+          "bodySha256": "6b77ef23d0f6bc335100f8f4be7cf56fdf90d6e6f10c1e95a9879a626983e206",
+          "reviewNote": "Provides for administrative hearings if timely written objections raise factual questions, or default orders if no response is filed."
+        },
+        {
+          "number": 5,
+          "title": "Service and finality of administrative support order",
+          "bodySha256": "30d92dc5484d2d08e39df4128160a429e667d8c5db62cdc8ac6677ffa2e28571",
+          "reviewNote": "Requires mailing a copy of the order by regular mail and declares the order final, authorizing enforcement and collection including arrearages from the date of issuance."
+        },
+        {
+          "number": 6,
+          "title": "Fourteen-day deadline for mailing support orders",
+          "bodySha256": "3b19b6a264d70e70591d7080820c568afbc0896ec67f3cf1f420dfe7bfc70928",
+          "reviewNote": "Requires copies of administrative support orders to be mailed within fourteen days of issuance."
+        },
+        {
+          "number": 7,
+          "title": "Right to administrative hearing on factual issues",
+          "bodySha256": "dc537ca169450b11754b454a0bf26b999846a16092821faead402d457ecd4e1c",
+          "reviewNote": "Affords an aggrieved parent or custodian a hearing upon written request filed within twenty days after service that raises a factual issue requiring the submission of evidence."
+        },
+        {
+          "number": 8,
+          "title": "Director authority to vacate void orders",
+          "bodySha256": "1fccad9b12b2e0f408c6f91a4ea1b0c9dc320a222ef484122227ef5735a9ad83",
+          "reviewNote": "Empowers the director to vacate administrative orders issued without personal jurisdiction, subject matter jurisdiction, or due process."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.470 governing notices and findings of financial responsibility, support computation, hearings, and orders; source notes flag the 2016 repeal of sections 454.850 to 454.999 and 1991 Jackson v. Rapps federal preemption/immunity annotations."
+    },
+    {
+      "id": "454.475:25243",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.475&bid=25243",
+      "sourceSha256": "3ae4d14cbbe7cb03a0aaca9f659ef5c78c4c3be51226227e4965f1b3bd88daaa",
+      "textSha256": "2f4d057317b376a2afca1970f5bf5e0dfe4fdf8e7a1474fb54c526eef9406007",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Conduct of administrative hearings under chapter 536",
+          "bodySha256": "c0aea80da7b4f8201a577ab4317881b9e51a9d23bc83acd670bdff9b84ce20c0",
+          "reviewNote": "Requires department-designated hearing officers to conduct chapter 536 hearings with notice to parties and specifies that enforcement and collection are not stayed during hearings or appeals unless specifically enjoined by court order."
+        },
+        {
+          "number": 2,
+          "title": "Order without evidentiary hearing absent factual dispute",
+          "bodySha256": "e4a83dc96789dbcf8604d48b1a5454011a5f201e35f9da3ac505513abee43ac3",
+          "reviewNote": "Permits the director to enter final administrative orders without evidentiary hearings if no factual issues or defenses are raised."
+        },
+        {
+          "number": 3,
+          "title": "Findings regarding parental liability and debt repayment",
+          "bodySha256": "17fa365452e0095123449359c5228c034d9461601b253b72207902dc778a4f58",
+          "reviewNote": "Requires hearing officers after a full and fair hearing to make specific findings on parental liability, accrued state debt or arrearages, and collection costs, and to consider section 452.340 factors for future support."
+        },
+        {
+          "number": 4,
+          "title": "Default order upon failure of parent to appear",
+          "bodySha256": "21a68730fb6db4ad28fc816d0b3ef61062643b91306fecc74a01c3d427080ce3",
+          "reviewNote": "Requires the hearing officer, upon a showing of proper notice when the requesting person fails to appear, to enter findings and an order matching the notice or motion unless the officer determines no good cause exists."
+        },
+        {
+          "number": 5,
+          "title": "Hearing officer decision and right to judicial review",
+          "bodySha256": "b17bf1fef355c7953f12ed749169ff661dad0b66f8405667da1cc8e53c70f14a",
+          "reviewNote": "Makes contested-case hearing officer decisions the director's decision, allows judicial review under sections 536.100 to 536.140 within thirty days of mailing, and requires mailing copies within fourteen days of issuance."
+        },
+        {
+          "number": 6,
+          "title": "Temporary support orders pending administrative hearing",
+          "bodySha256": "332cd6061ea0bced1c6b7acb29193925bd5bc38f06defe28fa04cdf87e337116",
+          "reviewNote": "Requires entering a temporary support order upon request when clear and convincing evidence establishes a section 210.822 paternity presumption, effective upon section 454.490 filing without a hearing and stayable by a court only for Rule 88.01 noncompliance."
+        },
+        {
+          "number": 7,
+          "title": "Correction of errors and vacation of administrative orders",
+          "bodySha256": "41fb17d47675b0c192eb3978d6546ee664f5b404485dd04141facf9686e446a1",
+          "reviewNote": "Authorizes hearing officers to correct clerical mistakes at any time, correct mistake/fraud/neglect errors within sixty-day motion and ninety-day decision limits, and vacate orders lacking jurisdiction or due process, with fifteen-day response windows and bars during judicial review absent court order."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.475 governing administrative hearings, support findings, default orders, judicial review, temporary orders, and error correction/vacation; source notes include a 1991 Jackson v. Rapps federal preemption annotation."
+    },
+    {
+      "id": "454.476:25244",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.476&bid=25244",
+      "sourceSha256": "9494651c7f221418b829bd2bec825530649ff0639eb5bf6877b6d5f0e2ed3737",
+      "textSha256": "6a7190043d543e1c99dc2079d172719f7f98175434037bee201c634cbc0e52f9",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Administrative order conforming to prior court order",
+          "bodySha256": "81ca571ff67b4b567c71358ea46943a9530bb76c1e9ae79ce1a3fab64685ad9b",
+          "reviewNote": "Authorizes the director to enter administrative orders conforming to existing court orders upon receiving certified copies and statements."
+        },
+        {
+          "number": 2,
+          "title": "Service of conforming administrative order on parties",
+          "bodySha256": "081f9c6ea4529564dd7d42f04223f370b7f90a2e07c29e77ab50ef20c5e409e3",
+          "reviewNote": "Requires sending the administrative order by certified mail, return receipt requested, to the obligor and by regular mail to the obligee, with copies mailed within fourteen days of issuance."
+        },
+        {
+          "number": 3,
+          "title": "Immediate issuance of income withholding order",
+          "bodySha256": "6c6302db9fa7fe54b00c440fe6f7641d7ae3b97a49e5a27fec5d3b2b8c9a2e45",
+          "reviewNote": "Directs the director to issue an income withholding order to employers or payors upon entering a conforming administrative order."
+        },
+        {
+          "number": 4,
+          "title": "Fourteen-day request for administrative hearing",
+          "bodySha256": "b0bbb820470d9f6433c238e91858ab21daf66f5799a85b924b5d91846b2787b3",
+          "reviewNote": "Allows the obligor or obligee fourteen days after receiving notice to request a section 454.475 hearing, establishes prima facie validity, limits obligor defenses to mistake of fact (arrearage amount or identity) with the burden on the obligor, and bars relief by paying overdue support."
+        },
+        {
+          "number": 5,
+          "title": "Bond requirement to stay withholding pending hearing",
+          "bodySha256": "5f2d193280c6fc24799468cf22dfeec0b9b221c64b9c56db4cc1501fc588f6c3",
+          "reviewNote": "Requires withholding to proceed pending administrative hearings unless obligors post adequate bonds or security."
+        },
+        {
+          "number": 6,
+          "title": "Universal enforceability of support orders by withholding",
+          "bodySha256": "e9c93c8ef519ca680de25180f4b52a9be3c747cd19763f6a799929e04d720d79",
+          "reviewNote": "Declares every past or future court or administrative child support order of Missouri or another state enforceable by section 454.505 withholding immediately upon compliance with subsection 1."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.476 governing administrative orders conforming to prior court orders and withholding implementation."
+    },
+    {
+      "id": "454.485:25247",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.485&bid=25247",
+      "sourceSha256": "28f5c44139abca5ddcc0842126b8cf51caf8bd84e2431df0890865e72f0c69c9",
+      "textSha256": "af5de381f1be40f6dd4bcd310059885907aa93c11a2ff865bee645e03bb23da7",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Entry of administrative paternity order by director",
+          "bodySha256": "c97b681802af7c36330e45b6f73439d435df0ad9026f24c616352395976bb207",
+          "reviewNote": "Authorizes the director to enter paternity orders based on legal presumptions or sworn affidavits of both parents."
+        },
+        {
+          "number": 2,
+          "title": "Order for genetic testing in paternity actions",
+          "bodySha256": "5bd4678bc6357fd92655302c98e869e129ac56accec0b10d43ffd8e814effe2f",
+          "reviewNote": "Authorizes the director to order genetic testing in chapter 454 paternity actions or upon another state's IV-D agency request using section 210.834-qualified experts, with refusal to comply constituting civil contempt after section 454.490 filing."
+        },
+        {
+          "number": 3,
+          "title": "Docketing of paternity order and vital records notice",
+          "bodySha256": "7feac2348857e573ae0e7741b6f72531a21db58aeeb406510543bd28984fa560",
+          "reviewNote": "Establishes legal paternity for all purposes upon section 454.490 docketing and requires forwarding copies to the bureau of vital records to record the father's name and both parents' Social Security numbers."
+        },
+        {
+          "number": 4,
+          "title": "Prohibition on administrative findings of nonpaternity",
+          "bodySha256": "66f687657faeb17598d90c8f9ade20a1d1c0620206f74c8057c513499262614b",
+          "reviewNote": "Prohibits administrative hearing officials from entering nonpaternity findings for presumed or sworn/acknowledged fathers unless a court of competent jurisdiction has overruled the presumption or ruled the acknowledgment void."
+        },
+        {
+          "number": 5,
+          "title": "Mandatory genetic testing upon sworn contest",
+          "bodySha256": "f162f80534f8af54df0b217dd28185df991ee86c4cc94e1bf1fe2c7de5dd5d80",
+          "reviewNote": "Requires genetic testing upon sworn requests alleging reasonable possibilities of sexual contact or non-access."
+        },
+        {
+          "number": 6,
+          "title": "Payment and assessment of genetic testing costs",
+          "bodySha256": "a0464f10b95258da3cb3dfc4fd5c25ad9e87dee1f416610daf1b0012830bfc5d",
+          "reviewNote": "Requires the division to pay for ordered genetic tests, permits assessing costs against an established father, and bars ordering contested additional tests unless the contesting person pays in advance."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.485 governing paternity orders, genetic testing mandates, legal effects, and vital records notices."
+    },
+    {
+      "id": "454.490:25248",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.490&bid=25248",
+      "sourceSha256": "c85d0f9ea38e9a65f2267cfc4bceffad8c4867a852ac657f3b1a22df35b886e9",
+      "textSha256": "4b4c70a10b49208c4ffdbf469f548369eff7a52bc37f41e36cf42f26afcfbd25",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Circuit court docketing of administrative support orders",
+          "bodySha256": "dd6f6a1f30e1bcf877fa7e08662d8c3292984bca8d98b79b20ab315b75d386e8",
+          "reviewNote": "Authorizes filing true copies of director orders and returns of service with the circuit clerk for judgment docketing with full court-decree force, exempting division orders from Rule 55.03(a) attorney signatures and further pleadings."
+        },
+        {
+          "number": 2,
+          "title": "Court authority to order payment plans or work",
+          "bodySha256": "ae70c7ed0d81d0fbda826b6168d52c5912b84d4f50856f0b4b7f2cc70ca6ec39",
+          "reviewNote": "Authorizes a court, upon division petition, to require a delinquent obligor to follow a court-approved payment plan or, if subject to such plan and not incapacitated, to participate in work activities."
+        },
+        {
+          "number": 3,
+          "title": "Director authority to order payment plans or work",
+          "bodySha256": "6d19a04a60b810f153fc3055919fcaef934ec4918579d4474d2c8a630a4cc28a",
+          "reviewNote": "Authorizes the director to order a delinquent obligor to follow an approved payment plan or, if not incapacitated, to participate in work activities, enforceable as a court order upon subsection 1 filing."
+        },
+        {
+          "number": 4,
+          "title": "Definition of qualifying work activities",
+          "bodySha256": "d48de4a87fd9b7ae318a4318351a5c0420f385b8025aa551da8d84aeda2c8cc0",
+          "reviewNote": "Defines work activities including employment, on-the-job training, job search, community service, and vocational education."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.490 governing circuit court docketing of administrative orders, payment plans, and work activities; source note flags the 2016 repeal of sections 454.850 to 454.999."
+    },
+    {
+      "id": "454.495:25249",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.495&bid=25249",
+      "sourceSha256": "ad65bc879c3c7c3f08b7403c946df7732d90a355e58646eefa0a0aba745a9d42",
+      "textSha256": "8cd9effb8f00752c591b457f3b874a8cf5c4f2f751650cb2f28eb1f97d0abf38",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Circuit clerk trusteeship for docketed orders before 1999",
+          "bodySha256": "6311fe5878dc3d9c0e8a1461ea0b8ef35a2bb666b854f826edd62aa63569b743",
+          "reviewNote": "Directed court orders making circuit clerks trustees for support payments under docketed orders prior to October 1, 1999."
+        },
+        {
+          "number": 2,
+          "title": "Payment center trusteeship for docketed orders after 1999",
+          "bodySha256": "678d46d2ca74e959a0e38a0e35a80ef443fa553ed3bed05efe2c9761293a656f",
+          "reviewNote": "Designates the Family Support Payment Center as statutory trustee for support payments under docketed orders effective October 1999."
+        },
+        {
+          "number": 3,
+          "title": "Definition of public assistance assignment",
+          "bodySha256": "881aa7a981002bb5dd2aded0722a11e4b8143072894f3138a0bf8aeaa7b58f92",
+          "reviewNote": "Defines assignment to include support assignments under Title IV-A or Title XIX public assistance programs."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.495 governing circuit clerk and payment center trusteeship upon docketing, and public assistance assignments."
+    },
+    {
+      "id": "454.496:25250",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.496&bid=25250",
+      "sourceSha256": "489a25f46c82b83be2275904b181cbe6347576dcabf37eb173be6650a2a025ca",
+      "textSha256": "c5d892d42401e8283187d4de48858b14d9121f8b42d80ebdf49fcccdeb8576a6",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Administrative motion to modify existing court order",
+          "bodySha256": "88d92d7bafbd24e70ca624a1b647d48c5f311099a99626e6b7a1e8ea78325660",
+          "reviewNote": "Authorizes the obligated parent, obligee, or division to file a written modification motion after a section 454.400.2(13) review, sets service and certified-mail rules, grants thirty days to stipulate or object and request a section 454.475 hearing."
+        },
+        {
+          "number": 2,
+          "title": "Default modification order when no objections served",
+          "bodySha256": "4a050991c44366436dd67e6213fbd7ed6ba08c46783151cccdcec752a82671ef",
+          "reviewNote": "Requires the director, upon proof of service when no objections and hearing request are served within thirty days, to enter an order granting the relief sought and mail copies within fourteen days."
+        },
+        {
+          "number": 3,
+          "title": "No stay of enforcement pending modification motion",
+          "bodySha256": "f4536d762332c250682497a98fbca2fc130c0aa47c560738568b831298a18181",
+          "reviewNote": "Specifies that a motion to modify under this section does not stay the director from enforcing and collecting on the existing order unless ordered by the court where the order is docketed."
+        },
+        {
+          "number": 4,
+          "title": "Limitation of modification to subsequent accruing payments",
+          "bodySha256": "43354e7481fdf079cab3f1eada26aeebd1d2ffae0bf829f4ef62de57c21af144",
+          "reviewNote": "Restricts support modifications to payments accruing after service of motions to modify upon all parties."
+        },
+        {
+          "number": 5,
+          "title": "Burden of proof under section 452.370",
+          "bodySha256": "400ed35d1383e80678ee0cde7b948e055ea3a6000ebdea93d3d14198827f1fb6",
+          "reviewNote": "Imposes the burden of proving substantial and continuing changed circumstances on parties requesting modification."
+        },
+        {
+          "number": 6,
+          "title": "Court approval required for modifying administrative order",
+          "bodySha256": "7900bd5b432a029c878ccada79671f8587e2c83276efe5e6b0c36e2e4bd79d93",
+          "reviewNote": "Makes administrative modifications of court orders ineffective until filed with and approved by the originating court within fifteen days after the thirty-day chapter 536 review period upon a written compliance finding, or sets trial de novo if not approved."
+        },
+        {
+          "number": 7,
+          "title": "Standard of judicial review and record examination",
+          "bodySha256": "3b740f57ece109da7bcb9287609f0e033930b46540fbf6d309fc8b91e1315e81",
+          "reviewNote": "Directs courts on judicial review under sections 536.130 and 536.140 to approve compliant orders with written findings or select section 536.140.5 remedies for Rule 88.01 noncompliance."
+        },
+        {
+          "number": 8,
+          "title": "Venue for filing petitions for judicial review",
+          "bodySha256": "ab8a8d8def607f7e58b31acefe575991961ff6b86ed41b4b02a37fa90b4d8544",
+          "reviewNote": "Establishes exclusive judicial review venue in the court that entered the underlying judicial order, directing approval if compliant and meritless or trial de novo if not approved."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.496 governing administrative motions to modify court orders, default orders, non-stay of enforcement, burdens of proof, court approval, and judicial review venue."
+    },
+    {
+      "id": "454.498:25251",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.498&bid=25251",
+      "sourceSha256": "bec0abe24ca0b3676cf2f4943c14135ebe318101c9e3f7f914975a54ab14db9a",
+      "textSha256": "cb12136cf56edf26d11f00b703ef61c1e63a09d833aafb7df05844c298964d08",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Modification under Rule 88.01 or automated review and adjustment",
+          "bodySha256": "de19250388edfa9802b90113e9ece2f5f601a3fbc5ca95d6f408fccf22bbe96c",
+          "reviewNote": "Directs the director, notwithstanding substantial-change statutes, to either modify IV-D orders under Supreme Court Rule 88.01 guidelines or use automated wage/tax comparisons to review and adjust eligible orders."
+        },
+        {
+          "number": 2,
+          "title": "Contest of administrative adjustment within thirty days",
+          "bodySha256": "5e22b77efcc27e568f5767aa9d14b5b628d80cab69ac3d57f860aa7186cd48bd",
+          "reviewNote": "Allows either party thirty days from notice of an automated adjustment to contest and request a Rule 88.01 review, and limits automated reviews to when subdivision (1) reviews cannot be conducted."
+        },
+        {
+          "number": 3,
+          "title": "Review and adjustment outside three-year cycle",
+          "bodySha256": "135e2480d1f1fdee20fc23367d4ce1bde019a78b8b638406cdb479e57ea2b1bc",
+          "reviewNote": "Permits reviewing and adjusting orders outside the three-year cycle only upon demonstrating a substantial change in circumstances, and requires mailing notice within fourteen days if no adjustment will be made."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.498 governing Rule 88.01 and automated modifications of IV-D support orders, thirty-day contests, and off-cycle reviews."
+    },
+    {
+      "id": "454.500:25252",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.500&bid=25252",
+      "sourceSha256": "17d92541a009c164b1d1c8c6b418c9a4091a2cc65f6df7e76b8e96a367c1b78a",
+      "textSha256": "005603491d38e114bfb298af65f454ae55b4eebcce7accd20ab7321ebd87ab0c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Motion to modify administrative support order",
+          "bodySha256": "a5f87e3897a45a4d37b5031cdc91e9edaaddb7288f375bb85c57535674857764",
+          "reviewNote": "Authorizes written modification motions with service under section 454.465.5, thirty-day default orders, optional certification to circuit court if public assistance or section 454.425 services ended, and director agency under 42 U.S.C. 666(a)(9)(C)."
+        },
+        {
+          "number": 2,
+          "title": "Modification motion does not stay enforcement",
+          "bodySha256": "ecd322a5aebf5d544888be8b10e6d1cb36db01b01b43fe396ecb2265904407f9",
+          "reviewNote": "Specifies that filing motions to modify does not stay ongoing enforcement and collection absent court orders."
+        },
+        {
+          "number": 3,
+          "title": "Prospective modification and substantial change standard",
+          "bodySha256": "b7b1be60b0a762c5692390d1ec1e0ab815eb39fc5283f095409ba7e53d559b6e",
+          "reviewNote": "Restricts modifications to post-service payments upon a substantial and continuing change in circumstances considering all financial resources (including cohabiting household sharing and earning capacity), with a twenty-percent Rule 88.01 change as prima facie proof."
+        },
+        {
+          "number": 4,
+          "title": "Modification for additional children born to parties",
+          "bodySha256": "3c5aeb156f2003eded758e9cf13b1ee97b573bdb971f7ba5033e514802d2eb67",
+          "reviewNote": "Authorizes modifying administrative orders to include additional children born to parties following notice and hearing."
+        },
+        {
+          "number": 5,
+          "title": "Circuit court relief from administrative orders",
+          "bodySha256": "d9344bb97d95124a369770a4d3707bd29c41baf13e8d59ce8821e6b430b1bb7e",
+          "reviewNote": "Empowers circuit courts to relieve parents from administrative orders due to mistake, inadvertence, surprise, or excusable neglect."
+        },
+        {
+          "number": 6,
+          "title": "Nonmodifiability and conforming amendments for section 454.476 orders",
+          "bodySha256": "68213b35c9d6e6e6603040dfef075d70bea296d002c469a1cb5e0a99365c46f3",
+          "reviewNote": "Bars modifying section 454.476 orders under this section except requiring the director to amend them to conform with modifications by the underlying court."
+        },
+        {
+          "number": 7,
+          "title": "Determination of support under Supreme Court Rule 88.01",
+          "bodySha256": "d045f2ffc932e242858d8c8afed9fcff7a37167229af7e95d8b56ac58912179b",
+          "reviewNote": "Directs child support amounts upon modification to be determined in conformity with Supreme Court Rule 88.01."
+        },
+        {
+          "number": 8,
+          "title": "Recording and retention of Social Security numbers",
+          "bodySha256": "604b0f732114adf67f5a46da41f4f7cd600db0efcb638e95f3689014ba4dcf2d",
+          "reviewNote": "Requires recording the last four digits of Social Security numbers on orders while retaining full numbers under section 509.520."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.500 governing administrative modifications of administrative orders, subsequent children, and Social Security numbers."
+    },
+    {
+      "id": "454.505:25254",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.505&bid=25254",
+      "sourceSha256": "624f80c8ee9960aec19e02f55b4fb4affb16bf28c684fdc5f4597293d65274ca",
+      "textSha256": "ad085e0e4ce935f0b77c839a7f9457f0f403895d58affe1801ded23884140cb4",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Director authority to issue income withholding orders",
+          "bodySha256": "9f8a534541950373e64fe552c108119b7d6b1a486f7fefdd5492cdc7f6415496",
+          "reviewNote": "Directs issuing income withholding orders up to federal wage garnishment limits, with good-cause and written-agreement exceptions for non-section 454.476 administrative orders that end automatically upon one month's delinquency."
+        },
+        {
+          "number": 2,
+          "title": "Recitals, terms, and notification provisions in order",
+          "bodySha256": "8d5c55cf53bb85a8a12d2891ef2647d1adb49e1315918acf0ee8b6d17ec445de",
+          "reviewNote": "Requires orders to recite continuing support, monthly arrearages, obligor SSN if available, and medical insurance notification duties, and to append copies of sections 454.460 and 454.505."
+        },
+        {
+          "number": 3,
+          "title": "Service methods and effective date for employers",
+          "bodySha256": "44516f26952c3c50115a9468f5e9437cb0b20eb1a42ad7755c96f2a4300853db",
+          "reviewNote": "Governs service and two-week binding effect on payers, thirty-day mistake-of-fact hearing rights (with burden on obligor and no relief by paying arrears), up to six-dollar monthly employer fee, CCPA 15 U.S.C. 1673(b) limits, seven-business-day remittance with withholding date, and nonliability if SSN is omitted."
+        },
+        {
+          "number": 4,
+          "title": "Lien on funds in possession of non-employer payors",
+          "bodySha256": "b2ebe958c1e1fa0615cf396187ebd0dc99d4b0c3b1952870000d72e1bd8b04d8",
+          "reviewNote": "Establishes withholding orders served on non-employer payers as continuing liens against money due or becoming due, except deposits held in two or more names in a financial institution."
+        },
+        {
+          "number": 5,
+          "title": "Notice of arrearage satisfaction and order adjustments",
+          "bodySha256": "288c5afcbf145dda6dd64756f57deefb23953d75b3f5560b3547270b449b83d5",
+          "reviewNote": "Requires notifying payers when arrearages are paid or amounts are reduced or redirected, and permits equal per-pay-period withholding for monthly obligations upon obligee or director request."
+        },
+        {
+          "number": 6,
+          "title": "Continuing nature and termination of withholding orders",
+          "bodySha256": "f033de0a676dad21f18e1df794e5ef0a3f7c9fa25c682569f71db6ee817e6db2",
+          "reviewNote": "Specifies that withholding orders remain continuously binding until further director order, terminating when all children are emancipated or deceased or support ends and all arrearages are paid, and not solely upon paying arrearages."
+        },
+        {
+          "number": 7,
+          "title": "Priority of support withholding over other legal processes",
+          "bodySha256": "49bdd49a6193d84ef6bd8a317381843f0aad7cab8c445b7793c5da0f2c2e10ba",
+          "reviewNote": "Grants priority over other state-law wage processes, runs concurrently with section 452.350 orders, and sets pro rata distribution rules (current support first, then arrearages) by employers or the payment center when caps are exceeded."
+        },
+        {
+          "number": 8,
+          "title": "Employer immunity and liability for failure to withhold",
+          "bodySha256": "49877b46d30f77d694546cdd2e5f4a4922e1e4156e659696f20f5728595267ce",
+          "reviewNote": "Grants complying payers immunity, imposes liability for failure or refusal to withhold, and authorizes a director circuit court action for fines up to five hundred dollars, unpaid amounts, costs, and attorney's fees."
+        },
+        {
+          "number": 9,
+          "title": "Application of withholding remedies to public employers",
+          "bodySha256": "ae97141a919786e1a2005d8d5425274e2a179b3e46d01cfc1179dc6bc92a3870",
+          "reviewNote": "Applies income withholding remedies equally to state and political subdivision employers as private entities."
+        },
+        {
+          "number": 10,
+          "title": "Prohibition against employee discipline or discharge",
+          "bodySha256": "847de537bc081d56504c9008ec319e6aaee1400c0985ad1223aef0e0bb7d93d4",
+          "reviewNote": "Prohibits discharging, disciplining, or refusing to hire an employee due to a withholding order, creates a thirty-day rebuttable presumption requiring clear, cogent, and convincing rebuttal, and authorizes a director suit for reinstatement, up to a one-hundred-fifty-dollar fine, back wages, costs, fees, and unwithheld support."
+        },
+        {
+          "number": 11,
+          "title": "Employer duty to report employee termination",
+          "bodySha256": "096ec9fbc718321078aef109605688563db6b0859a0337e80bdc6918dfc19cca",
+          "reviewNote": "Requires employers to notify the division within ten days of an obligor's employment termination with last known address and new employer if known, and directs issuing a new withholding order to the new employer."
+        },
+        {
+          "number": 12,
+          "title": "Combined remittance for multiple employee withholding orders",
+          "bodySha256": "6ab8edd859d3f2efee329647c09b054de059a57e69759bf77153bff0d8690678",
+          "reviewNote": "Permits employers or payers withholding under multiple orders to remit combined payments to the same clerk, collection unit, or (after October 1, 1999) payment center with an itemized list of obligors, amounts, and withholding dates."
+        },
+        {
+          "number": 13,
+          "title": "Definition of income for support withholding",
+          "bodySha256": "4e5d5d813a458f5b8c51d59dd266d81a9342d76c0ff8c3869c32f8285903761c",
+          "reviewNote": "Defines income as any periodic payment regardless of source, including wages, bonuses, pensions, and disability benefits."
+        },
+        {
+          "number": 14,
+          "title": "Choice of law for interstate income withholding orders",
+          "bodySha256": "f09164dbee4e86a1a07e2d4f4be904e7e0954c3a49b782f93404a04f1b28d4dc",
+          "reviewNote": "Directs employers receiving out-of-state withholding orders to apply the law of the obligor's principal place of employment."
+        },
+        {
+          "number": 15,
+          "title": "Standard form usage for income withholding orders",
+          "bodySha256": "c18c6d2caaa81862b31574f11a6b3f5a30dd21f8cd456dfaea0f2cdd1b8b9c2f",
+          "reviewNote": "Requires the director to use the federal employer income withholding notice if the U.S. Secretary of Health and Human Services promulgates a final standard format."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.505 governing income withholding orders, employer obligations, priorities, liens, anti-retaliation protections, and interstate choice of law; source note cites Johnson v. Kraft General Foods, Inc. (1994) on exclusive director enforcement of subsection 10."
+    },
+    {
+      "id": "454.507:48007",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.507&bid=48007",
+      "sourceSha256": "2c61d60af8afef0c170dc120f50410aabef1e9e7394f013e5892aa488b593946",
+      "textSha256": "fa927809c82da43b4701f73da732ac902a5a39b22cd5d79f03003d324b551f89",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Division authority to request financial institution data",
+          "bodySha256": "dbaac966b81b4ca3da0e900668226ec8a08f4ca799056f8a01ba6281281f545f",
+          "reviewNote": "Authorizes the division to request account and asset information from financial institutions doing business in Missouri."
+        },
+        {
+          "number": 2,
+          "title": "Definitions of account, encumbered assets, and financial institution",
+          "bodySha256": "3d6b7db6b9d45e66c70a214b69f7731c86ecbd1143baecf46e1b24bf652c7eed",
+          "reviewNote": "Defines account (including IRC 408/408A IRAs), encumbered assets, and financial institution for purposes of data matching and account liens."
+        },
+        {
+          "number": 3,
+          "title": "Agreements to operate automated data match systems",
+          "bodySha256": "c97657e71513895bfaa74daf5471e019fd782a964c07052b2f3997c32f47785b",
+          "reviewNote": "Requires quarterly automated data match agreements between the division and Missouri financial institutions unless a multi-state institution contracts with the federal Office of Child Support Enforcement, limited to data readily available in existing systems."
+        },
+        {
+          "number": 4,
+          "title": "Reimbursement of reasonable institution data match fees",
+          "bodySha256": "d4d83087d895505b2b572e9885fc1676fc4770ca533131c2565188d3de7990b0",
+          "reviewNote": "Requires the division to pay reasonable fees to financial institutions for actual costs incurred conducting data matches."
+        },
+        {
+          "number": 5,
+          "title": "Authority to issue and release liens on accounts",
+          "bodySha256": "cca8a593bfc889801e3b98e5017d08dfe0d982cd09e0781148ca0c7cd2a02522",
+          "reviewNote": "Empowers the division and IV-D agencies to issue and release administrative liens against financial institution accounts."
+        },
+        {
+          "number": 6,
+          "title": "Mandatory asset encumbrance upon receipt of notice",
+          "bodySha256": "20c315b1bf726837271fdacb6dc8b1dd08215977e4c63244073320a0509c3d66",
+          "reviewNote": "Requires immediate encumbrance upon lien notice (with optional non-encumbrance and notice for spouse/parent joint accounts), ten-business-day institution response, ten-business-day division notice to the obligor, and a thirty-day right to contest under section 454.475."
+        },
+        {
+          "number": 7,
+          "title": "Presumption of equal interest in joint accounts",
+          "bodySha256": "1d2574e04864fd724c4017fbdfbbd7b9373fa50acca1cef91498d8c37ae36f5c",
+          "reviewNote": "Presumes equal ownership in joint accounts unless prior written agreement or clear and convincing evidence is furnished within thirty days, governs lien amendment or release, excludes contingent/agent/undisclosed accounts, and bars encumbering accounts under one hundred dollars."
+        },
+        {
+          "number": 8,
+          "title": "Financial institution interpleader of jointly held accounts",
+          "bodySha256": "a39b9128f20375cf6af89e8ef3e594ff1e9e1908f7d28ef5c016fe00f682a828",
+          "reviewNote": "Authorizes a financial institution holding a jointly owned account to interplead the property upon service of an order to surrender."
+        },
+        {
+          "number": 9,
+          "title": "Joint owner petition to establish disproportionate interests",
+          "bodySha256": "e396f7f800991dcc1c1c620ec0d797b488993647c0c28ec94df91d65339c7670",
+          "reviewNote": "Permits any other joint owner (bearing the burden of proof) to petition a court for a disproportionate-interest determination, requiring joinder of all joint owners subject to jurisdiction."
+        },
+        {
+          "number": 10,
+          "title": "Assessment of costs and attorney fees against obligor",
+          "bodySha256": "4a70936a7ead9ffbbd50f80ffdc560265b7cd18e8d41547af25a472301b16d84",
+          "reviewNote": "Authorizes assessing litigation costs and attorney fees against noncustodial parents having interests in joint accounts."
+        },
+        {
+          "number": 11,
+          "title": "Order to surrender encumbered assets after sixty days",
+          "bodySha256": "017b6ad04aca8bafe98c6f3bc759a575ea120933dbdd150928d9bd1d0f5aec91",
+          "reviewNote": "Authorizes the division to order surrender of encumbered assets at least sixty days after lien notice, requiring payment by the financial institution within seven days of receipt."
+        },
+        {
+          "number": 12,
+          "title": "Financial institution immunity from state and federal liability",
+          "bodySha256": "c6765ffd73dd8d263febe9f8502d58cb9f435e05798bc9bb6eb4c8399ff37fd8",
+          "reviewNote": "Grants financial institutions immunity under state and federal law (including 42 U.S.C. 669A) for disclosures, encumbering or surrendering assets, or other good-faith compliance."
+        },
+        {
+          "number": 13,
+          "title": "Institution liability for failure to encumber or surrender",
+          "bodySha256": "ff41c931b103e03bd0fba04569da88d898599fa70a30fada5b1080d1f7860531",
+          "reviewNote": "Imposes liability for encumbered asset amounts on financial institutions failing without due cause to comply with lien or surrender orders, defining due cause to include accidental errors despite good-faith compliance routines."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.507 governing financial institution data matches, liens on accounts, joint ownership, and institution immunity."
+    },
+    {
+      "id": "454.512:25258",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.512&bid=25258",
+      "sourceSha256": "7a3fee395c6570cff4195630a5b507cdf5f5a778d67b1966d3ed8b71e77781a3",
+      "textSha256": "3fc38d4a085341f546687fd76f28f12af66c8a73fc0c0898478bbb059c2c29b2",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Periodic reporting of delinquent support to credit bureaus",
+          "bodySha256": "9cb89eb5f1c5cd324f2e3899e2e28b9015b6fded64cd5af8c8f3bbc246544e26",
+          "reviewNote": "Directs the division to report delinquent noncustodial parents and overdue support amounts to consumer reporting agencies."
+        },
+        {
+          "number": 2,
+          "title": "Advance notice and opportunity to contest accuracy",
+          "bodySha256": "b6e845fceaf5ae7875d7b975f105a7a200aac88c44c9c7df33b2b37150195510",
+          "reviewNote": "Requires providing obligors advance notice and reasonable opportunity to contest report accuracy prior to disclosure."
+        },
+        {
+          "number": 3,
+          "title": "Verification of qualified consumer reporting agency status",
+          "bodySha256": "5d4d126648018a1abb5a67564bf853be080cd45975213de93caeb599292ef7cb",
+          "reviewNote": "Requires the division to verify that recipient entities qualify as consumer reporting agencies under federal law."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.512 governing division reporting of delinquent support to consumer reporting agencies."
+    },
+    {
+      "id": "454.513:25259",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.513&bid=25259",
+      "sourceSha256": "71052e1a0a67a818bbd76f6bfebb0d5f8f4ab831ae38ada79e56bdc0f8f3b534",
+      "textSha256": "1a5385b9b724a2483f51a2259d57a7f7acb04dcc7b99b7718bb4e4748730d820",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exclusive representation of state by division attorneys",
+          "bodySha256": "737ff0978d99bfe5afd517ffedf469489e52dce2ab30bf15bfb0e3833ff60fb9",
+          "reviewNote": "Specifies that attorneys representing the division represent the state exclusively and form no attorney-client relationship with parties."
+        },
+        {
+          "number": 2,
+          "title": "Notice of proceedings to unrepresented applicants or recipients",
+          "bodySha256": "966ad7a779f3cfb9cde111dab53b70c131207644f365e060f4b35306cf024010",
+          "reviewNote": "Requires division attorneys in support establishment or modification proceedings, whenever possible, to notify applicants or recipients who are parties and not represented by an attorney."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.513 governing division attorney representation, absence of client relationship, and notice to parties."
+    },
+    {
+      "id": "454.514:25260",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.514&bid=25260",
+      "sourceSha256": "85f6c7b62a63f56e8cb62e96b35132a48636c3bab052e65079d26cf4776650e3",
+      "textSha256": "813422db42644184359cb52480f2e10a60476f6f335925b5881e947292a9e53a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority to impose lien on decedent estate share",
+          "bodySha256": "6debffbc3d30653ab809b61dafd89d275489edae296f0b83d9ba81a68eb93a67",
+          "reviewNote": "Authorizes the director, IV-D agencies, or obligees to impose liens for delinquent support on estate distributions."
+        },
+        {
+          "number": 2,
+          "title": "Filing of notice with probate court clerk",
+          "bodySha256": "447ccacf7757f464e811227648ae12aff1a4cebac99d3fdd1add9e8041640979",
+          "reviewNote": "Requires filing written notice with the probate court clerk, mailing a copy by regular mail to the personal representative, and recording in county real estate records if the distributive share includes real estate."
+        },
+        {
+          "number": 3,
+          "title": "Attachment to distributive share and personal representative liability",
+          "bodySha256": "5aa28c50c456d2790043ec33ccba25373364706268e0ba00213562ef2e3dbb80",
+          "reviewNote": "Attaches liens upon filing, requiring personal representatives to pay proceeds and imposing bond liability for noncompliance."
+        },
+        {
+          "number": 4,
+          "title": "Notice filing requirements in non-IV-D proceedings",
+          "bodySha256": "efc6c70d048a5a9de74f4fe7e0901b00f3ab5a852cecace7f9e4d489124b7497",
+          "reviewNote": "Specifies notice procedures for private obligees, requiring certified copies of court orders and sworn arrearage affidavits."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.514 governing child support liens on obligor distributive shares of decedent estates."
+    },
+    {
+      "id": "454.515:25261",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.515&bid=25261",
+      "sourceSha256": "23f6206446830797dfa685cc2cbca5235ff34ac5530db3b0769413f86e9b917d",
+      "textSha256": "bb34b4b58987e5cbb76e6e4756da73e9861f10aac5e3c545850555e1bb64dee8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Filing requirement for support lien on real estate",
+          "bodySha256": "38f811833c18384ccc5c56f55408b8402dafd45f3d393c384c79812a96b6fe10",
+          "reviewNote": "Provides that periodic support or maintenance judgments become liens on current and after-acquired real estate only when filed and recorded in the county circuit clerk's office pursuant to supreme court rules and chapter 511."
+        },
+        {
+          "number": 2,
+          "title": "Three-year duration of lien and revival procedures",
+          "bodySha256": "77ba2b46ed6479778219598cf889a78e6cf001156b59b74b6661cd9dd5248726",
+          "reviewNote": "Establishes a three-year lien duration from filing and authorizes reviving the lien by filing another lien on or before each three-year anniversary of the original judgment."
+        },
+        {
+          "number": 3,
+          "title": "Required contents and identifiers on real estate lien",
+          "bodySha256": "ef9f1a78de28a83aaba8487be6815dd6476d2693752c328a087070671ebffb1c",
+          "reviewNote": "Specifies required lien contents including obligor name, last four digits of Social Security number, birthdate, and arrears."
+        },
+        {
+          "number": 4,
+          "title": "Mailing copy of real estate lien to obligor",
+          "bodySha256": "4c96bf238208e135cc6877fbb0c70bf1a8c1c58b4ed20ccef9cafd5adb017fd7",
+          "reviewNote": "Directs the filing party to mail a copy of the recorded real estate lien to the obligor's last known address."
+        },
+        {
+          "number": 5,
+          "title": "Authority to execute partial or total lien releases",
+          "bodySha256": "ce96eb4141178e426d60a8dafc632a7bc9315506448ca0d2e176aa269fb774ef",
+          "reviewNote": "Authorizes obligees, the division, or IV-D agencies to execute partial or total releases generally or for specific property."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.515 governing real estate support liens, filing procedures, duration, revival, and release."
+    },
+    {
+      "id": "454.516:25262",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.516&bid=25262",
+      "sourceSha256": "1c87cc16dd758ffe28ff6ae9bf29dbbfe46cd9bafd99cad27db68d4663c08798",
+      "textSha256": "1daed0585d5c3e8122c1e99b7d04f1e936ff94fa61a919544ca1c37b230ee316",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority to place support lien on titled property",
+          "bodySha256": "767841dbee66e8d8f33d6d0688a39e943b85a9ec0ec80a11057238e99b99b2cd",
+          "reviewNote": "Authorizes the director, IV-D agency, or obligee to place delinquent child support liens to block issuance of certificates of ownership for motor vehicles, motor boats, outboard motors, manufactured homes, and trailers."
+        },
+        {
+          "number": 2,
+          "title": "Notice of lien transmission to department of revenue",
+          "bodySha256": "712cfbab59439eaf02aabdadb6b42bea50e0cac545889c77c1e436e1352133e9",
+          "reviewNote": "Directs the director or IV-D agency to transmit required lien notices to the department of revenue."
+        },
+        {
+          "number": 3,
+          "title": "Criteria and thresholds for registering titled property liens",
+          "bodySha256": "1eda37f873e2519533311f91f5f0bcf9d8c64c028eef99d8076bd2bdccf33838",
+          "reviewNote": "Restricts lien registration to cases where unpaid support exceeds one thousand dollars, property value exceeds three thousand dollars and manufacture year is within seven years (except historic vehicles), and prior/existing child support lien caps are not exceeded."
+        },
+        {
+          "number": 4,
+          "title": "Removal of lien upon elimination of support debt",
+          "bodySha256": "8294fa6dad181b9aa213c93df43629bd524613d61ec803c71f442918dd886a6b",
+          "reviewNote": "Requires prompt notification to the department of revenue to remove registered liens upon full satisfaction of support debt."
+        },
+        {
+          "number": 5,
+          "title": "Department of revenue duty to register titled liens",
+          "bodySha256": "07c6c4e6a5e05dd0f6a52f19e1dea60d71fc1a2daed860356013af11c9af0ab8",
+          "reviewNote": "Requires the department of revenue to register liens on its database records containing vehicle descriptions and serial numbers."
+        },
+        {
+          "number": 6,
+          "title": "Registration of lien release on department database",
+          "bodySha256": "259eb6b0d0dbd25b0accff38e4db7c32375a37cd4c39cf6b74909cfee38ebf94",
+          "reviewNote": "Directs the department of revenue to record lien removals and releases on its automated titled property database."
+        },
+        {
+          "number": 7,
+          "title": "Protection for good faith purchasers and lenders",
+          "bodySha256": "93c560d209185e43d0ee1c99c735ef2c3eb1182597ba4c8a17b490b44b0f2c7e",
+          "reviewNote": "Provides that good faith purchasers and lenders taking interests without notice of liens take title free of liens."
+        },
+        {
+          "number": 8,
+          "title": "Procedure for private obligees in non-IV-D cases",
+          "bodySha256": "00e00b26e1fb3d9ce99ef717b31666515508fd45c9bcefa59ca199b2783209cd",
+          "reviewNote": "Authorizes private obligees to register titled property liens by filing notices, certified orders, and sworn statements."
+        },
+        {
+          "number": 9,
+          "title": "Maintenance of automated child support lien database",
+          "bodySha256": "6243c5ee67669ce2973893b0a0a450b266f03feb69ce989600fd8af0ddaf74bd",
+          "reviewNote": "Requires the department of revenue to maintain a child support lien database for chapters 301, 306, and 700 certificates of ownership, permits electronic inquiries, and protects good faith purchasers and lenders without notice."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.516 governing vehicle, boat, and manufactured home liens, revenue database, and releases."
+    },
+    {
+      "id": "454.517:25263",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.517&bid=25263",
+      "sourceSha256": "f7579ceb76bd6f131a6b458fc3421456df57d350bad01f430116dd28e27bf7bb",
+      "textSha256": "af189a502565adb1e6b0e35fd9eb81d68d4c3db45a543b7dc47c8c1b7efa6e45",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority to place support lien on workers' compensation",
+          "bodySha256": "24bab804310e9d2c6adf08ad05028c012f627a01b31aa6252e51a4058fcc92e5",
+          "reviewNote": "Authorizes the director, IV-D agencies, or obligees to place support liens on workers' compensation benefits."
+        },
+        {
+          "number": 2,
+          "title": "Filing of written notice with workers' compensation director",
+          "bodySha256": "ef87b83b6384d57f1e4f9ab653336f848c8e164f72ef9d5ca46aca04978ecdf4",
+          "reviewNote": "Requires filing written notice containing obligor identifiers and arrears with the director of workers' compensation."
+        },
+        {
+          "number": 3,
+          "title": "Minimum arrearage threshold of one hundred dollars",
+          "bodySha256": "bf3287575117ae53b89fa6d8597407dd11f654ba8958111292dd85f05fdf4d60",
+          "reviewNote": "Prohibits filing workers' compensation support liens unless delinquent support obligations exceed one hundred dollars."
+        },
+        {
+          "number": 4,
+          "title": "Liability of payors and insurers paying benefits after notice",
+          "bodySha256": "1540ac4db7bd503ebd2b9e2b11e0ef2e3ed918397895cab1cfdf5e4c541317f8",
+          "reviewNote": "Holds any person, firm, corporation, or insurance carrier paying workers' compensation benefits after receipt of notice liable for the lesser of benefits paid or delinquent support, enforceable by suit at law."
+        },
+        {
+          "number": 5,
+          "title": "Workers' compensation director notice and lien attachment",
+          "bodySha256": "77abc6c6874c0980ade0915c9d53cc463b8a1cfb59f8122211052eb713373776",
+          "reviewNote": "Directs the workers' compensation division director to mail notice copies to the obligor, attorneys, and insurers of record, deemed received within five days of mailing, attaching the lien to benefits thereafter payable."
+        },
+        {
+          "number": 6,
+          "title": "IV-D notice of thirty-day mistake-of-fact hearing right",
+          "bodySha256": "6dfc202f6d93d0959cc78bab08882ab81d497b7e600b900cb9c0b6526281e63f",
+          "reviewNote": "Requires IV-D agency notices to advise obligors of the thirty-day right to contest the lien under section 454.475 for mistake of fact (overdue amount or identity), with prima facie evidence rules and the burden on the obligor."
+        },
+        {
+          "number": 7,
+          "title": "Non-IV-D lien notice and attachment requirements",
+          "bodySha256": "9a0b1175f82ba9532f16c9aeb0e87ee3715781817f5953a33b6ffa6e6980bdb5",
+          "reviewNote": "Requires filing notice of lien with the lienholder or payor in non-IV-D cases (by the obligee or, as stated verbatim in source text, 'the obligor's attorney') with a certified court order and sworn or certified arrearage statement."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.517 governing workers' compensation child or spousal support liens, payor liability, division of workers' compensation notice, IV-D mistake-of-fact hearings, and non-IV-D filings."
+    },
+    {
+      "id": "454.518:25264",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.518&bid=25264",
+      "sourceSha256": "f17f67136c5238d4b45620e5fc14e10f5245845412ccf79faa3d2bd77d7bdbb2",
+      "textSha256": "31e90d62be68d2c5c259674ed5b880a199de0a12c41ed70fe22130640c5bcdc0",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority to place support lien on lawsuits",
+          "bodySha256": "3ec1f2834959b311a3a1cc85ac24978ca1f8f6a0413dac2a51dcbfd1f18ba256",
+          "reviewNote": "Authorizes placing liens for delinquent child or spousal support upon lawsuits, claims, or counterclaims asserted by obligors."
+        },
+        {
+          "number": 2,
+          "title": "Filing written notice with circuit court clerk",
+          "bodySha256": "ffd04a695889e953f6840b0616dd6d84e03592d9684f29c198715c57943e7311",
+          "reviewNote": "Requires filing written notices with the clerk of the court where lawsuits are pending to make liens effective."
+        },
+        {
+          "number": 3,
+          "title": "One hundred dollar minimum arrearage requirement",
+          "bodySha256": "da25dd5d132a6870ae97b1d4ce65fa1d5f580cbded5ddef1270118f3e84f0104",
+          "reviewNote": "Prohibits filing lawsuit support liens unless delinquent support obligations exceed one hundred dollars."
+        },
+        {
+          "number": 4,
+          "title": "Liability of payors settling claims after receiving notice",
+          "bodySha256": "fab0630828c00a26d39f4aa499ba9d792a11805b1b086a4a5b643fd778b28a09",
+          "reviewNote": "Imposes direct liability on parties or insurers settling lawsuits after receiving lien notice without satisfying support debts."
+        },
+        {
+          "number": 5,
+          "title": "Notice to obligor and attorneys of record",
+          "bodySha256": "a47b56c360262c74f7cee33640ed2bed1db856293ebe4fd2d76e7fcc468538dc",
+          "reviewNote": "Directs the court clerk to mail notice copies to the obligor and attorneys of record, deemed received within five days, with the lien attaching to payments or settlements made more than five days after mailing."
+        },
+        {
+          "number": 6,
+          "title": "Procedure for private obligees in non-IV-D lawsuits",
+          "bodySha256": "768a4362cdf2734ec8d220ae6e9a96450494a136b42980e369020570fd090be5",
+          "reviewNote": "Governs lawsuit lien filings by private obligees, requiring certified copies of court orders and sworn arrearage statements."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.518 governing child support liens on lawsuits, civil claims, and counterclaims."
+    },
+    {
+      "id": "454.519:25265",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.519&bid=25265",
+      "sourceSha256": "81ff0f2b1039e7565c74b9a6b119a05e26538c98344a5c35a6ead9c0e0ddf5da",
+      "textSha256": "922e559907712a71b2a2dea089eb6e8f84cc5b14f0a0d2e327631df0b821b22e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Support lien on personal injury actions",
+          "bodySha256": "59feac893d54a85757339e7ac9d296ce24a8e982c10f25105992d3c3b30dac62",
+          "reviewNote": "Authorizes placing support liens on rights of action and demands for personal injury or negligence asserted by obligors."
+        },
+        {
+          "number": 2,
+          "title": "Notice to tortfeasor or attorney of record",
+          "bodySha256": "a819a2d4205595ef22557be1f649c88a209bba0c8b9d13e0345477ca7ed42b02",
+          "reviewNote": "Requires certified mail, return receipt requested, delivery of written lien notice containing required identifiers to the alleged tort-feasor or attorney of record, instructing the tort-feasor to mail a copy to any insurance carrier."
+        },
+        {
+          "number": 3,
+          "title": "Minimum delinquent support threshold of one hundred dollars",
+          "bodySha256": "aa33d2340541609ae2e17ad6f58e9adf5895ced624488cae1cf3fc13e1c1312b",
+          "reviewNote": "Prohibits mailing personal injury lien notices unless delinquent support obligations exceed one hundred dollars."
+        },
+        {
+          "number": 4,
+          "title": "Settlement payor liability for payments after notice",
+          "bodySha256": "fb8657064ea5a13717922b6cff3e8d13009e10fe919da992466b6b8a0c05e5d5",
+          "reviewNote": "Imposes liability on persons, corporations, or insurance carriers settling personal injury claims after receiving lien notices."
+        },
+        {
+          "number": 5,
+          "title": "Procedure for private obligees in non-IV-D claims",
+          "bodySha256": "6bfc33d5fd63af1f764a44d3284a11c0d4d4d25d5c5cdc03e4795f4f8703de4a",
+          "reviewNote": "Governs personal injury lien filings by private obligees, requiring certified copies of court orders and sworn affidavits."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.519 governing child support liens on personal injury and negligence claims, and insurer liability."
+    },
+    {
+      "id": "454.520:25266",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.520&bid=25266",
+      "sourceSha256": "d6c06e4b9132a6c444f068f2619a12bdb3a2be98f194efdc1adef3f4bb54c611",
+      "textSha256": "748e0b0594b59da1260ceed47c934ebbc445d33c5f0b5bd26a34ac188aba7815",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Statutory interest rate on pre-September 1979 support judgments",
+          "bodySha256": "b0e3237fc3083b6c9eb230ce0b15ff5dd48b3e0b4b441c32b0c9a913bd7007ca",
+          "reviewNote": "Sets interest on delinquent support and maintenance under orders entered prior to September 29, 1979, at six percent annually through September 28, 1979, nine percent from September 29, 1979 through August 31, 1982, and one percent per month thereafter."
+        },
+        {
+          "number": 2,
+          "title": "Interest on 1979 to 1982 support judgments",
+          "bodySha256": "a75036b994a4d0ffac8d9325d5196ea150e4baf4197e93723ff7d27b8d218e08",
+          "reviewNote": "Sets interest on delinquent support and maintenance under orders entered after September 28, 1979 and prior to September 1, 1982, at nine percent annually through August 31, 1982, and one percent per month thereafter."
+        },
+        {
+          "number": 3,
+          "title": "Monthly interest of one percent on judgments",
+          "bodySha256": "3545024043a964d97d6ce2027dbf3700746232452190c69c1a409585f524ba1d",
+          "reviewNote": "Sets interest at one percent per month on delinquent child support and maintenance accruing under Missouri court judgments entered on or after September 1, 1982."
+        },
+        {
+          "number": 4,
+          "title": "Simple interest calculation and monthly accrual rules",
+          "bodySha256": "90a1d5cc29fcd3f32594b607726899de016a69887ca215415873e1de1189f0d4",
+          "reviewNote": "Establishes simple interest accruing at close of business on the last day of each month on total arrearages less that month's installments, applied only after principal arrearages are satisfied, and treated as support for exemptions, garnishment caps, and bankruptcy."
+        },
+        {
+          "number": 5,
+          "title": "Sworn affidavit prerequisite for interest execution",
+          "bodySha256": "95e8c53643c5b5760b0ec743d2c81b70b66e3769164fa6cc8716bd57dd61278c",
+          "reviewNote": "Requires an obligee to present a sworn payment-history affidavit (except for clerk or division trusteeship periods) and interest computation before execution, relieves clerks of computing interest, and provides for court hearings on obligor disputes."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.520 governing statutory simple interest rates on delinquent child support and maintenance, monthly accrual computation, and sworn affidavit prerequisites for execution."
+    },
+    {
+      "id": "454.522:25267",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.522&bid=25267",
+      "sourceSha256": "ca832f660fde967a91b5082fb7d33dad82ce36a7ce37e480848456fcd69f57e7",
+      "textSha256": "813e325ab15169b131e1434fcd8d5c4805aa154cdc4d5ab534670b5a25135530",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Subordination of state tax liens to child support",
+          "bodySha256": "44c4f8fde6406b061913e1669ff602b25f216c889e08a505027e4d327f9fb7f7",
+          "reviewNote": "Requires the director of revenue to subordinate section 143.902 and 144.380 tax liens to chapter 454 child support liens regardless of filing date, unless no covered child resides in Missouri or subordination would divert all sale proceeds to other senior lienholders with nothing to the child."
+        },
+        {
+          "number": 2,
+          "title": "Criminal prosecution for collusive income tax evasion",
+          "bodySha256": "48033b215da40981f2740d2e4ea8cfff27f07849fa6f08816c598039085d0c87",
+          "reviewNote": "Makes collusive attempts to use support lien subordination to evade state income taxes a criminal offense under chapter 143."
+        },
+        {
+          "number": 3,
+          "title": "Penalties for collusive sales tax evasion",
+          "bodySha256": "d342fd6dac3a02907d9b4e5cb21a4fe96c5cc9ce5a0b7b073f7ea1988b3ada6a",
+          "reviewNote": "Establishes that collusive attempts to use support subordination to evade sales taxes are violations subject to chapter 144 penalties."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.522 governing state tax lien subordination to child support liens and collusive evasion penalties."
+    },
+    {
+      "id": "454.525:25268",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.525&bid=25268",
+      "sourceSha256": "a2fd30023a8652fc153dd0b4b8e87b85518247831aff54b90fdbe0fb825b3dd6",
+      "textSha256": "8112cea6b628a29ab5614d3aa42cd869a18b1a3fa7d9d79012cc18b5be3d5853",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of obligor for fraudulent conveyances",
+          "bodySha256": "21198b79d7f33c7b40b41a838c2574f10f96211130ab43355b50108148bb70e9",
+          "reviewNote": "Defines obligor as a person owing a duty of support determined by a court or administrative agency."
+        },
+        {
+          "number": 2,
+          "title": "Voidability of fraudulent entirety conveyances",
+          "bodySha256": "403f57f21052966467a7afd201f0d4af9e2c52bc0b5655ba12e41398dccbc324",
+          "reviewNote": "Makes real or personal property conveyances by an obligor (including tenancies by the entirety) made to delay, hinder, or defraud support obligees voidable while the entirety tenancy exists and until a good faith purchaser for value gains title, preserving section 362.470 commercial bank defenses."
+        },
+        {
+          "number": 3,
+          "title": "Action to set aside fraudulent conveyance",
+          "bodySha256": "35bb6976a8a0cc48e4bf48d80f718029c5ef1beb3d8e38b3c712d338ca6784ea",
+          "reviewNote": "Authorizes setting aside fraudulent conveyances by motion in the support action or petition where an administrative order is filed under section 454.490, creating a presumption of fraudulent intent and placing the burden of proving good faith on the obligor."
+        },
+        {
+          "number": 4,
+          "title": "Judicial determination and execution on set-aside property",
+          "bodySha256": "3bb4871dc4e724c6a0398ad8a6ae2dd3afa021781709dae140cfe0dd6653da2c",
+          "reviewNote": "Directs the court, after a hearing finding fraudulent intent, to set aside the conveyance and subject the property to execution subject to the interest of a good faith purchaser for value, mortgagee, or commercial bank."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.525 governing obligor definitions, voidable fraudulent entirety conveyances, actions to set aside, and hearings; source note records original-rolls word discrepancy ('or') in subsection 3."
+    },
+    {
+      "id": "454.528:25269",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.528&bid=25269",
+      "sourceSha256": "28175a2af91819f304ddc028b7a6c24594b22e3ffd9f917323d33a94bb6bf588",
+      "textSha256": "9a6806dfd5c9a33f1eed1cec192742b9e3dc4066d4e08ae89795b1e8f88d75bb",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Execution on jointly held real and personal property",
+          "bodySha256": "646b2f5cab1581ec2ba5b1f6886aebd21799a8311b6269a808b27a99de1f5cac",
+          "reviewNote": "Subjects joint tenancy and other jointly held real or personal property interests—except property held solely in the name of a husband and wife—to execution for enforcing child support or maintenance orders."
+        },
+        {
+          "number": 2,
+          "title": "Definition of obligor for joint property execution",
+          "bodySha256": "b79d5488f6b47dd56d3f436abd09857a41a4603a5fba48fa0482d5dc79872480",
+          "reviewNote": "Defines obligor as any person owing a duty of support established by an administrative agency or court."
+        },
+        {
+          "number": 3,
+          "title": "Levy and execution request by support judgment holder",
+          "bodySha256": "33ad24bc8762982cb6a5fb52e98461790a18e0b981f4ee664e25fd703ffddf9d",
+          "reviewNote": "Authorizes levy and execution against jointly held property, presuming equal ownership unless a prior written agreement is presented within ten days after the return date or a court rules otherwise, and permits relief by filing the agreement with mail notice to the executing party."
+        },
+        {
+          "number": 4,
+          "title": "Third-party interpleader of jointly owned property",
+          "bodySha256": "04335f3defc4aac323b9315fbafdce88924840ccff644cbbc33c025f5f3ab124",
+          "reviewNote": "Authorizes third parties (including commercial banks under section 362.360) served with execution to interplead jointly owned property, and requires notifying owners who have addresses of record."
+        },
+        {
+          "number": 5,
+          "title": "Petition to determine disproportionate joint ownership shares",
+          "bodySha256": "b98c903fe68b562c5e20c1638ce1a735f0530d9af229246100ac9ca7e8f06f38",
+          "reviewNote": "Permits joint owners to petition the court to prove their actual ownership interests are disproportionate."
+        },
+        {
+          "number": 6,
+          "title": "Assessment of costs and attorney fees",
+          "bodySha256": "eca228ffb0bb7f5e03e73a81754010aab477f8d470e4be40319eab38016b9b4b",
+          "reviewNote": "Governs assessment of litigation costs and reasonable attorney fees depending on determinations of obligor ownership."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.528 governing execution on jointly held property, obligor definitions, interpleader, disproportionate-interest hearings, and attorney's fees; source notes cross-reference section 513.430 (Roth IRA) and cite Wills v. Wills (1988) excluding partnership funds."
+    },
+    {
+      "id": "454.530:25270",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.530&bid=25270",
+      "sourceSha256": "4995324468d48f8bd81b2083e7f47d0c701ecdcf4b1409de1e48311275f9228f",
+      "textSha256": "7cf521d83f8e06642192f688b2feddb578b727bea07241113212d6d5049431d7",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishment of Family Support Payment Center",
+          "bodySha256": "a2847b98ff7a6110d4367c1033f3cd609ff482617a7ff50bbc8df0b2c818b934",
+          "reviewNote": "Directs the division on or before October 1, 1999 to establish and operate the Family Support Payment Center for division-enforced cases, federally required cases (including post-January 1, 1994 withholding orders), and beginning July 1, 2001 additional court/division and prior clerk-trustee cases."
+        },
+        {
+          "number": 2,
+          "title": "Operation of payment center and payment redirection",
+          "bodySha256": "1568b1ad42126ba5b1edce5624f6d6d74d25c8252e275b8f83735216c49f5dd4",
+          "reviewNote": "Provides for payment center operation by the division, via interagency cooperative agreement, or by a contractor subject to an annual independent CPA audit, making the center trustee upon notice."
+        },
+        {
+          "number": 3,
+          "title": "Disbursement of support within two business days",
+          "bodySha256": "eda687863758893e983ccf6a838033e7a8393e5f0be4cf0d84e888690f0ba98e",
+          "reviewNote": "Requires disbursing support within two business days after receipt if payee identification is sufficient, defines business day, and permits delaying arrearage disbursements pending timely appeal or court order."
+        },
+        {
+          "number": 4,
+          "title": "Electronic funds transfer system and direct deposit",
+          "bodySha256": "d53c37c9e99621943d91bb136b99ed9bb61adeee39c519df27195c93bb588eee",
+          "reviewNote": "Requires establishing an electronic funds transfer system for direct deposit, authorizes electronic access cards for non-direct-deposit obligees, and permits persons or employers to pay by check or draft without penalty."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.530 governing Family Support Payment Center establishment, operations, disbursement deadlines, and electronic transfers."
+    },
+    {
+      "id": "454.531:25271",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.531&bid=25271",
+      "sourceSha256": "a58a88b2a89b79d9e0c3d26b3a18f4aeba1f83f72c9b68a7e76d1af4d1856738",
+      "textSha256": "9f91d315da7179d72fb94217a1cf91fe2b64720770f17d067ccd794475208284",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Debt and administrative or setoff recovery of erroneous payments",
+          "bodySha256": "0aacb6c73e15c7ccfc97522256d2dc5c842960612eab89f6c44948ffc07fb417",
+          "reviewNote": "Establishes recipient indebtedness for child support erroneously paid through no fault of the division and authorizes administrative/legal collection or setoff from support moneys, excluding current monthly support."
+        },
+        {
+          "number": 2,
+          "title": "Crime of stealing for retaining erroneously paid support",
+          "bodySha256": "c04304fa6e458bd832c33207f176cd569a1166e8ab770fbf0528439acf730168",
+          "reviewNote": "Makes knowingly retaining possession of child support erroneously paid through no fault of the division after reimbursement is requested, with purpose to deprive without consent or by deceit or coercion, the crime of stealing under section 570.030."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.531 governing recovery and setoff of erroneously paid child support and criminal stealing penalties for knowing retention."
+    },
+    {
+      "id": "454.533:25272",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.533&bid=25272",
+      "sourceSha256": "7af90c04582a564a096ad1f731ea5f3ebc098008a9552cfa1fbb79021f003dfe",
+      "textSha256": "a964fcad5a1088a4c8cfbd705d9eee19f9696889cd574294c0535385db425822",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Establishment of Family Support Trust Fund",
+          "bodySha256": "b5c66f5d8f7cc18e82b537eb5e7a9fff4d05f79e17fba4d636474a69c2808a3f",
+          "reviewNote": "Creates the Family Support Trust Fund in the state treasury with interest earnings credited to general revenue."
+        },
+        {
+          "number": 2,
+          "title": "Non-state fund status and commingling prohibition",
+          "bodySha256": "8dba56c5bf96bef57a9397856e8a1f21f8778ffd32f98630eb2a3741d5d68740",
+          "reviewNote": "Designates trust fund moneys as non-state custodial funds and prohibits commingling with state general revenues."
+        },
+        {
+          "number": 3,
+          "title": "Maintenance and inspection of trust fund records",
+          "bodySha256": "148477aa6618a3c11947041f2d6a9f0a503ca60fb8895bc074b78e4b63b7ac74",
+          "reviewNote": "Requires accurate accounting records of trust fund receipts and disbursements open to inspection by authorized parties."
+        },
+        {
+          "number": 4,
+          "title": "Refunds to trust fund for erroneous payments to state",
+          "bodySha256": "d272873c3e19e5d8454b3ddf0d61f84687a8f3dd3f3d98ad1351c708d3c0ce3f",
+          "reviewNote": "Authorizes the director or division to authorize the state treasurer to make refunds to the trust fund for erroneous payments and overpayments to the state."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.533 governing the Family Support Trust Fund, non-state fund status, recordkeeping, and refunds."
+    },
+    {
+      "id": "454.536:25273",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.536&bid=25273",
+      "sourceSha256": "ef4b473dea06ef506e0d643a58f9272ee9332f184a8f614de613a1ddd3575d7f",
+      "textSha256": "aeffc843374edd5e6a56fd76617c04cc812c7ba848036f14ac4e66ee216e6944",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Maintenance of records in automated child support system",
+          "bodySha256": "00ae9abd82bb720a0ecdbc20448eb718becefd304c9fbb59e0cd9abcb36ce870",
+          "reviewNote": "Directs the division to maintain automated child support system records of payment center receipts and disbursements, current and past-due amounts, and historical circuit clerk records."
+        },
+        {
+          "number": 2,
+          "title": "Circuit clerk certification of historical payment records",
+          "bodySha256": "34bd1033e7992a1a10edb9331be95b8064199c5042e51c922281c4445e523d8b",
+          "reviewNote": "Requires circuit clerks to certify past payment records upon redirection (deeming automated system records certified) and directs the division or clerk to record specified other credits including abatements, in-kind payments, tax refunds, and garnishment actions."
+        },
+        {
+          "number": 3,
+          "title": "Recording payments and address changes in non-IV-D cases",
+          "bodySha256": "eb34848b2c4fdf5c82525ee7e71b2b5d349d29fd5b931554a1a102d6566d58e4",
+          "reviewNote": "Limits division recording in non-IV-D cases to payment center receipts while clerks record other credits, permits division address updates, and requires parties to notify the payment center of name or address changes (sufficient for section 454.413)."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.536 governing automated payment records, circuit clerk certifications, credits, and non-IV-D procedures; source note records original-rolls word discrepancy ('garnishments') in subsection 2."
+    },
+    {
+      "id": "454.539:25274",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.539&bid=25274",
+      "sourceSha256": "0140aa151364629f0170388f46e04d9a6b6bd6e53d808abfdefe7d6ea869ec84",
+      "textSha256": "0bbc3c01cb61eb4d8b6cb03b436650aa6343eb49c758ef8cdabbdddb38c07510",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Admissibility of certified payment center records in evidence",
+          "bodySha256": "ed39dac8c83add39ac94d88f747f12811c124f15ff92683273635be964439dd4",
+          "reviewNote": "Makes certified copies of payment center, automated system, or circuit clerk payment and disbursement records (including electronic or optically scanned copies) admissible without further proof or foundation."
+        },
+        {
+          "number": 2,
+          "title": "Certification of payment records without additional signature proof",
+          "bodySha256": "01494a99bc0ba799e448102b61b91349c7fbbc8f36ce361343e5bc02409d8f3c",
+          "reviewNote": "Authorizes certification by the director, circuit clerk or designee, or payment center employee without extrinsic proof of official character or signature, regardless of who made the entry, establishing prima facie evidence of support paid."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.539 governing legal admissibility of payment center records and official certification requirements."
+    },
+    {
+      "id": "454.545:25276",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.545&bid=25276",
+      "sourceSha256": "679e19bea7b6f5c0cef0c031eadc57a7e2a2e1287125f59472cfd0d9daaab084",
+      "textSha256": "0ba43c57373e64845f0c1e44ef082940b467c1dc7ee58ec9c1573b4a692992a5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Rebuttable presumption for electronically transmitted court orders",
+          "bodySha256": "41def216746bd330769c958feb1d57422147e80780bd90985e1d1232a7819d20",
+          "reviewNote": "Establishes a rebuttable presumption of accuracy for court orders and filed court documents transmitted by facsimile or other electronic means to the division, admissible without authentication in chapter 454 proceedings."
+        },
+        {
+          "number": 2,
+          "title": "Rebuttal of presumption using certified court copies",
+          "bodySha256": "92bf45e46ec2f6df5c18971808868294c6e0a8175521ea8c990a4561f4fe0c33",
+          "reviewNote": "Allows contesting authenticity by rebutting the presumption with a certified copy, and requires the clerk to furnish certified copies to the division upon request without charge."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.545 governing rebuttable presumptions of authenticity for transmitted judicial orders and documents."
+    },
+    {
+      "id": "454.551:25278",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.551&bid=25278",
+      "sourceSha256": "948192bf2e841c073f1d8d2d3f5142f7df6eaf46aec911b6b74b0ff0186ed7c0",
+      "textSha256": "d98a8b04b99518e984b2dcfd637ad7a5329a68cc2cbfded4bde81ce8e28fe4da",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority to require certified or guaranteed checks",
+          "bodySha256": "264df3e9ce3f4ec8fe953c19ca3f23d847a58e4d10fc30e6b0900d8be575ed52",
+          "reviewNote": "Authorizes the division upon notice to require an obligor to pay by certified or guaranteed check, while exempting non-payor check originators unless an insufficient funds check is received and section procedures are followed."
+        },
+        {
+          "number": 2,
+          "title": "Processing fee for insufficient funds checks",
+          "bodySha256": "242e7f8ddde0efc75fc3b7ee77aeacd7ea6d378c1b80092cb42db4111c415d05",
+          "reviewNote": "Authorizes the payment center (with division authorization) or state to charge up to twenty-five dollars for processing an insufficient funds check, require future certified/guaranteed checks, and collect the fee as a support order."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.551 governing certified check mandates and processing fees for insufficient funds checks."
+    },
+    {
+      "id": "454.557:25280",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.557&bid=25280",
+      "sourceSha256": "bbf7776ed5dfa8d8f4c79d9ebdd4eedd271a1b0a866ca67cde7ac4534c5a73e0",
+      "textSha256": "2a9e15b1b9e4621b587be147764125f7a171306072f63358d92fde2cfd1a0738",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Circumstances barring recording of current support obligations",
+          "bodySha256": "9b83d91fbf14a74f6dff2d25f3114da3053fee64225e5a388555e2d9e1a3eeeb",
+          "reviewNote": "Bars recording a current support obligation in the automated system when the division determines current support under section 454.465 or 454.470 is no longer due (with first-class notice and a thirty-day hearing right), when an issuing court terminates its order, or when terminated under section 452.340.11(1)-(4)."
+        },
+        {
+          "number": 2,
+          "title": "Preservation of enforceable past-due child support debts",
+          "bodySha256": "ce38a9949e7ee8987bcb9a7ade4b017123fdd8b69b7d24dde4311a3e154b160c",
+          "reviewNote": "Clarifies that excluding current support from automated records does not affect or extinguish accrued unpaid past support."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.557 governing exclusions from automated recording and preservation of unpaid past-due support."
+    },
+    {
+      "id": "454.603:48009",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.603&bid=48009",
+      "sourceSha256": "0a50faf4f2af07ab0605b745d3e3d56557da404ba7dc9546083299a1b0898dc3",
+      "textSha256": "23dc07c0951fad013aafff98f67878fb22a928a11ae43a603586eb3d5023b62d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Judicial and administrative authority to order health coverage",
+          "bodySha256": "cffc70d992e57bf86c8ad991c50e9060f944e5bcc483ec60cc43bf30612f2fed",
+          "reviewNote": "Directs courts and the division to determine whether to require health benefit plan coverage in support proceedings."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory health plan requirement in IV-D cases",
+          "bodySha256": "45db083bd2fcbc4b43af832ffaba07cbcb3e3bd27893d737ecc6dcee39964108",
+          "reviewNote": "Authorizes requiring accessible health benefit plan coverage (mandatory in IV-D cases), mandates private employer or union coverage when available at reasonable cost, and lists four factors courts must consider when private coverage is unavailable at reasonable cost."
+        },
+        {
+          "number": 3,
+          "title": "Required terms and policy limits of health plans",
+          "bodySha256": "cab0b066e609c512731a2b2e2f953c26a399808c28d88c2e3c325f77230b74a7",
+          "reviewNote": "Permits orders to specify available plan terms including minimum policy limits, minimum coverage, maximum deductibles or co-payments, and ERISA of 1974 provisions."
+        },
+        {
+          "number": 4,
+          "title": "Parental priority when health benefit plans are available",
+          "bodySha256": "29990a8a9bd013260f749885da53c8a38c8dd88aaa823dd2a8110734b2c7e04a",
+          "reviewNote": "Requires ordering private health plan coverage available to one parent at reasonable cost unless the other parent has comparable or better coverage at comparable or reduced cost, and directs selecting between comparable plans available to both parents."
+        },
+        {
+          "number": 5,
+          "title": "Obligor liability for uncovered medical and dental expenses",
+          "bodySha256": "e5d8c8048dc9f5d02a69b76d183c6c6b70c46818d5f2ab51d81c6c4596484c0b",
+          "reviewNote": "Requires making the obligor liable for all or part of uncovered medical or dental expenses if the court finds coverage does not pay all reasonable and necessary expenses, the obligor has financial resources, and the obligee substantially complied with plan terms."
+        },
+        {
+          "number": 6,
+          "title": "Health insurance premiums considered in support calculation",
+          "bodySha256": "34a0060d069738129b788a1208fd3a93ced557ca36f79b984b07d06bb7c8ba17",
+          "reviewNote": "Provides that employee insurance contributions are not direct offsets to support awards but factor into calculations."
+        },
+        {
+          "number": 7,
+          "title": "Coordination of complementary or primary and secondary plans",
+          "bodySha256": "26e0fb233a1a8182dc42b5da3214b4c8442bdce661ecf71f07479f9a3db27952",
+          "reviewNote": "Authorizes ordering each parent to maintain complementary health benefit plans providing primary and secondary coverage."
+        },
+        {
+          "number": 8,
+          "title": "Best interest considerations before altering health plans",
+          "bodySha256": "7b6251303347ea5724365dd4f5e1eb3480a6ce805aa538360eb6f3735754e921",
+          "reviewNote": "Requires courts and the division, before terminating or changing a health benefit plan, to consider the child's medical condition, best interests, and whether a new plan would omit or limit benefits for a preexisting condition."
+        },
+        {
+          "number": 9,
+          "title": "Independent health care obligation unaffected by support abatement",
+          "bodySha256": "63dd48a43dae0309035ca528b767246f7d8ed970705214c5aab328a3cddaebd0",
+          "reviewNote": "Clarifies that child support abatements do not automatically abate a parent's independent duty to provide health coverage."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.603 governing health benefit plan mandates, accessible coverage, terms, uninsured expenses, and offsets."
+    },
+    {
+      "id": "454.606:25286",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.606&bid=25286",
+      "sourceSha256": "fe236df4be8058865386371eed7146493a2cd4e3d50816f1db24b53e9670bf5f",
+      "textSha256": "f4d92a59aff0fe5a513aa79d418968463e84ba320b39a967fb26a6c43b79b57c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Notice to employer or union regarding health coverage",
+          "bodySha256": "bd7162935e9f68fd2a38631f2be90a692eda2ffb75cd1d2268a658353e687159",
+          "reviewNote": "Requires the circuit clerk or division in IV-D income-withholding cases, and the division when enforcing health coverage orders, to send notice to the obligated parent's employer or union."
+        },
+        {
+          "number": 2,
+          "title": "Delivery methods by regular or certified mail",
+          "bodySha256": "183d427f1eff5f94964fd7bf0acd9893d29a623ce58781a4df64f5c51a8ccb35",
+          "reviewNote": "Requires sending the notice to the employer or union by regular mail or by certified mail, return receipt requested."
+        },
+        {
+          "number": 3,
+          "title": "Mandatory use of National Medical Support Notice",
+          "bodySha256": "4511b3e4c4e970a376b27ec0f803ead18e11bef97fe3710fa0445315fb90a8bf",
+          "reviewNote": "Requires the division to use the federal National Medical Support Notice (mandating compliance for Missouri and regular out-of-state IV-D notices), transfer it within two business days of new-hire directory entry, and promptly notify employers when orders end."
+        },
+        {
+          "number": 4,
+          "title": "Minimum required contents of circuit clerk notice",
+          "bodySha256": "f5acaaf7970ec3236b65bbfc9ef9855e5dc47d873f03149b4daecfd1b4200263",
+          "reviewNote": "Specifies minimum notice items including parent identification, dependent names, and coverage mandate statements."
+        },
+        {
+          "number": 5,
+          "title": "Notice binding on current and successor employers",
+          "bodySha256": "39c42669b18a9673bb5b477ee2712ee61a4063c0b88c5b0f72b1ededd7150633",
+          "reviewNote": "Establishes notices to withhold premium contributions as binding on current and successor employers."
+        },
+        {
+          "number": 6,
+          "title": "No stay of premium withholding pending section 454.609 hearing",
+          "bodySha256": "6149aba0baeeebfc62b730a6b45c419d52cba6d64aff9e0b41df3804ea5cdd1f",
+          "reviewNote": "Prohibits holding health benefit plan employee contribution or premium withholding in abeyance pending the outcome of any hearing under section 454.609."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.606 governing employer/union health coverage notices, National Medical Support Notices, required clerk notice contents, binding effect, and non-abeyance pending hearings."
+    },
+    {
+      "id": "454.609:25287",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.609&bid=25287",
+      "sourceSha256": "36d8f7768182ba06ccbe6cf0d9f7ae54f33340c48eaadaf99b19897d93381c6a",
+      "textSha256": "e9f884dfca21d3086369b2514d1847328482cc9c7064fe0c5faf1600bb313cf6",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Notice to obligor of medical child support withholding",
+          "bodySha256": "b2e9033f6de71e4fa6f72646eb2adbdb6c4edd3e7371edacf5383e7a422b65cb",
+          "reviewNote": "Requires sending notice to the obligor by mail concurrently with notices sent to employers or unions."
+        },
+        {
+          "number": 2,
+          "title": "Exclusive grounds to contest medical support withholding",
+          "bodySha256": "2d99b5c03642b7fc41667134c885bfa9466ada20ea41716b66d0f90c60d6e205",
+          "reviewNote": "Limits grounds for contesting medical support withholding to mistake of fact (defined as an error in obligor identity) or prior acquisition of comparable insurance."
+        },
+        {
+          "number": 3,
+          "title": "Administrative and court hearings on medical withholding contests",
+          "bodySha256": "ef3f8743da5c9a5aa62a3ef923ef8e2ca690ab54600726fc6660a51d367c5c73",
+          "reviewNote": "Directs the court or director to hold a hearing, enter an order resolving disputed issues, and notify the obligated party within forty-five days of receiving the notice of contest."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.609 governing medical support notices to obligors, contest grounds, and hearing procedures."
+    },
+    {
+      "id": "454.612:25288",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.612&bid=25288",
+      "sourceSha256": "03af90c287d132cc59f4b962aa1e1a2c4a8128ff0cced5a811c8b7cca34da943",
+      "textSha256": "f4701bee86c016549782963622ed5bdfa60cb1fcfd1131d1a8f1b26c4636af5f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Thirty-day deadline for obligor proof of compliance",
+          "bodySha256": "2a5e817fda20237a0784d81af9fa75a001ee7537bde404e2569a3281dbf2debb",
+          "reviewNote": "Requires obligors in non-IV-D cases to provide written proof of compliance (coverage obtained or complete application made) to obligees within thirty days of receiving effective notice."
+        },
+        {
+          "number": 2,
+          "title": "Duty to forward order to employer or union",
+          "bodySha256": "98ec3848a8086e36b578efbe0ef69dc074732481b89a5ebac499dcaa25539453",
+          "reviewNote": "Requires the obligee to forward a copy of the court order to the obligor's employer or union when court-ordered or after thirty-day noncompliance, mailed notice of intent, fifteen-day continued failure, and filing a clerk affidavit."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.612 governing non-IV-D proof of coverage compliance and forwarding orders to employers."
+    },
+    {
+      "id": "454.615:25289",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.615&bid=25289",
+      "sourceSha256": "66eedc05df80bd3c673c723d30353652221221c6f7a82f969c13c1354bef7837",
+      "textSha256": "7617a50ab6f1e1b2e4eb2719a72a33e63299fb5dfa823321f9a628558e3fde62",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Employer transfer of medical support order to plan",
+          "bodySha256": "d6b0c162ad57b88626da6d595638d140d7c516132ecfb640eac7e62f9e500eac",
+          "reviewNote": "Requires employers or unions to transfer health coverage orders or notices (excluding severable withholding notices) to the appropriate group health plan within twenty business days after the order or notice date."
+        },
+        {
+          "number": 2,
+          "title": "Plan administrator notice of coverage availability and terms",
+          "bodySha256": "453a24f1a7a7872efa145b7e193c7422e036ce729bf57a1ca6b4ad19c764d417",
+          "reviewNote": "Requires plan administrators, within forty business days after the order or notice date, to notify the issuing agency of coverage availability, status, effective date, or required steps, and to provide coverage descriptions and forms."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.615 governing employer transfer of orders to group health plans and administrator response deadlines."
+    },
+    {
+      "id": "454.618:25290",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.618&bid=25290",
+      "sourceSha256": "9f22b205304a97b892653004278fdeee93e15c3bd822a093d07e5346f15675e1",
+      "textSha256": "f5d90efe4d0c3fffe4e8ecd3b88bd0abe9aa06ce3664328fee5ff4e694adb578",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Employer duty to enroll child as eligible dependent",
+          "bodySha256": "7c03b328e0d479183cc42ba4795b732c52943a00a165f66aad65ce2b6decd6d3",
+          "reviewNote": "Requires employers or unions to enroll the minor child, withhold and remit premiums, and follow plan-selection rules (obligor's plan, least costly plan for non-NMSN orders, or NMSN plan summaries with twenty-business-day agency selection or default enrollment)."
+        },
+        {
+          "number": 2,
+          "title": "Division or custodial parent execution of enrollment forms",
+          "bodySha256": "5dd3047f4d56d7a7e85b874a5f7df3b6554ae60dc21b88bcc6480fc0a52f5a04",
+          "reviewNote": "Authorizes the division, custodial parent, or guardian to provide required enrollment information and authorization if the obligor fails or refuses to execute enrollment documents."
+        },
+        {
+          "number": 3,
+          "title": "Validity of alternative enrollment and bar on out-of-wedlock exclusions",
+          "bodySha256": "bfb43d9dc19f8cba8404a4791744f173c720ee96ac82e9eb9283d25ea3c28fcf",
+          "reviewNote": "Validates enrollment information and authorization provided by the division, custodial parent, or guardian, and declares plan provisions denying or restricting coverage due to birth out of wedlock void as against public policy."
+        },
+        {
+          "number": 4,
+          "title": "Duration of child dependency for health plan coverage",
+          "bodySha256": "4c044d9fba67724c41bfe5c6770a892cd41ed25904f0a35c0ec953043c368dfb",
+          "reviewNote": "Treats the minor child as a dependent for health coverage purposes until the child's right to parental support terminates or further court order, but never past the plan's limiting age."
+        }
+      ],
+      "reviewSummary": "Source-checked editorial subsection headings for section 454.618 governing dependent enrollment, plan option selection, alternative enrollment authorization, voiding out-of-wedlock exclusions, and dependency duration."
+    },
+    {
+      "id": "454.633:25295",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.633&bid=25295",
+      "sourceSha256": "b0101be9df320c8b0175d080771160a56634868d6ebc87310282d271a65c69c0",
+      "textSha256": "274f57c6a60eb76d163d22141dd9f8bd435ed7986c162989293e511cbfea34c7",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Obligor liability for medical expenses upon coverage lapse",
+          "bodySha256": "8416d814dd5a0cfac2edbcee947aa0884b88a4a17fd0b7c7227c594746c7db37",
+          "reviewNote": "Holds obligors who fail to maintain health coverage liable for resulting medical and dental costs and premiums."
+        },
+        {
+          "number": 2,
+          "title": "Lapse of coverage as grounds to increase support",
+          "bodySha256": "f0d501dc6e1e4f42a4832c1e39b7c07b7689b046782a97e2499caa3c7a2d1e67",
+          "reviewNote": "Establishes that failure to maintain health coverage demonstrates increased need supporting child support increases."
+        },
+        {
+          "number": 3,
+          "title": "Joint and several parental liability to medical providers",
+          "bodySha256": "3542114e22ff7633dfebb601b63109919327abd12a7d42fb67141700a8d90611",
+          "reviewNote": "Imposes joint and several parental liability to medical providers for necessary care, allows equitable apportionment of uncovered expenses between parents by income share or agreement, and defaults to fifty percent each if unspecified."
+        },
+        {
+          "number": 4,
+          "title": "Director action in court for medical expenses",
+          "bodySha256": "5cd001461d721876858816b8dec663a4ebb39b7db706a19f5cf96684e5d2b324",
+          "reviewNote": "Authorizes the director to initiate circuit court actions to recover obligors' share of unreimbursed medical expenses."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.633 governing liability for failure to maintain coverage, child support increases, and medical expense actions."
+    },
+    {
+      "id": "454.636:25296",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.636&bid=25296",
+      "sourceSha256": "e018d1d238d94b375877103ab4e5fd9be85989cd02c57f243b1c4b36bcf16694",
+      "textSha256": "886e3c9bbdc97d5b29ddaa59ba84e4fafa88f3c4a2d65dd120f74573106fa1db",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Priority of health plan withholding over other processes",
+          "bodySha256": "2fc19dc43be32cea7699dc511474f54162b4714d059f08ddcd29372f073a09c8",
+          "reviewNote": "Establishes health coverage withholding priority over all other legal processes except current child support withholding."
+        },
+        {
+          "number": 2,
+          "title": "CCPA classification and exclusion when withholding caps exceeded",
+          "bodySha256": "af6b1631858dc179b47a9fcfc9f04c8cd60960273746370e383e3904bd6124a4",
+          "reviewNote": "Treats health coverage withholding as current child support for CCPA 15 U.S.C. 1673(b) limits and concurrent operation, but prohibits including it in pro rata distribution or withholding any health premium amount when concurrent withholdings exceed caps."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.636 governing income withholding priority for health benefit plans and treatment as current support."
+    },
+    {
+      "id": "454.642:25298",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.642&bid=25298",
+      "sourceSha256": "ae351fa246be506226bc6fff0987acb00c4d153914a74da69c091bf91ccfc8df",
+      "textSha256": "ab8542a40dbffcbfcfde0c6d9bc276c552a561fa69338c3871aa5886238d85d2",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Employer discharge of liability upon order compliance",
+          "bodySha256": "64ef08b9372d0921ae1f1375565c739d2e3ecd6ec811c1cd33f32ffdf9b78ebe",
+          "reviewNote": "Discharges employers and unions from liability to obligors for earnings withheld in compliance with medical orders."
+        },
+        {
+          "number": 2,
+          "title": "Termination of medical support order for good cause",
+          "bodySha256": "fe0fc87787e7fb540f50b1e561749e84d20df75462779931a7f9772cd78b561d",
+          "reviewNote": "Authorizes the court or director, upon the obligor's motion and for good cause shown, to terminate the respective judicial or administrative health benefit plan coverage order."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.642 governing employer discharge of liability upon compliance and termination of medical support orders."
+    },
+    {
+      "id": "454.645:25299",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.645&bid=25299",
+      "sourceSha256": "1a596e132b3af88d77fd5607cedd48e5e3a39a342227660812c7d57203a71be8",
+      "textSha256": "d3521c7a018810c29193cb896a0c223d24eb5b966ea3ba784a739d9d0e24fbde",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibition against employee discharge or retaliation",
+          "bodySha256": "e81c7607e028a745488faed278465c7bdb0661610b68509aab2b249622186acc",
+          "reviewNote": "Prohibits discharging, disciplining, or refusing to hire an employee due to a sections 454.600 to 454.645 order or notice, with a thirty-day rebuttable presumption overcome only by clear, cogent, and convincing evidence."
+        },
+        {
+          "number": 2,
+          "title": "Civil contempt proceedings for employer retaliation",
+          "bodySha256": "bc5a4af3ebb3837a34ab18d2c656bfccca97fe9b7a97b2ad574f8579d3061bb6",
+          "reviewNote": "Authorizes an aggrieved obligor to bring a civil contempt motion in the underlying action and authorizes the director to bring a circuit court action for wrongful discharge or discipline."
+        },
+        {
+          "number": 3,
+          "title": "Remedies and penalties for unlawful employer action",
+          "bodySha256": "05df3fd238f7970815b2153ae290ccfcfd21918a9a5467b88213aae0bc5fb6a7",
+          "reviewNote": "Authorizes reinstatement, hiring, rescinding discipline, and judgment for back wages, costs, attorney's fees, premiums, and child support, plus fines up to five hundred dollars after notice and hearing for noncompliance."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.645 governing protections against employer retaliation, civil contempt remedies, and penalties."
+    },
+    {
+      "id": "454.700:25300",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=454.700&bid=25300",
+      "sourceSha256": "1c33edd6a97418f90a52ae7bf0d6387d980444d0ee13fa47aeff5eba2687b403",
+      "textSha256": "67e76dc0de1239ee4801f128fe05aed09850a56013980f76614b39fdc8f9176c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_18",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_20",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Insurer enrollment obligations under court or administrative orders",
+          "bodySha256": "e026981df3dc6c03a5a81dbbad2f6badef2100b5a226121d9f38340999cffab9",
+          "reviewNote": "Requires insurers (including ERISA 607(1) group health plans) issuing or renewing policies on or after July 1, 1994, to allow enrollment without season restrictions, accept enrollment by the other parent, FSD, MO HealthNet, or another state's tribunal, and restrict disenrollment to four specified conditions."
+        },
+        {
+          "number": 2,
+          "title": "Employer and union duties to enroll children and restrict disenrollment",
+          "bodySha256": "0439bdabc1bac7bff1ef7763d1608d8762864ed9409513e658c14bd3b7ce239b",
+          "reviewNote": "Requires Missouri employers and unions to permit family enrollment without season restrictions, enroll children upon application by the other parent, FSD, MO HealthNet, or another state's tribunal, and bar disenrollment except under three specified conditions."
+        },
+        {
+          "number": 3,
+          "title": "Prohibition of discriminatory insurer requirements against state",
+          "bodySha256": "d80eb465c2867ca4dcb1a7f9c5602aa1724194a8a1f891eca99b1af17d68a310",
+          "reviewNote": "Prohibits insurers from imposing different requirements on state agencies assigned medical assistance rights."
+        },
+        {
+          "number": 4,
+          "title": "Insurer duty to provide information and accept claims",
+          "bodySha256": "cc95938dbb10d84d83ac98625c4b6d8a328696e92acc76d3acc6464a05d96c37",
+          "reviewNote": "Requires insurers covering a child through a noncustodial parent to provide benefit information to the custodial parent or guardian, accept claims without noncustodial approval, and pay directly to the parent, provider, or MO HealthNet division."
+        },
+        {
+          "number": 5,
+          "title": "MO HealthNet division garnishment and tax refund withholding",
+          "bodySha256": "f53e1543c950ce2462a432a0c5e22383ba00ec1e9b2a19fd38c14af94c706640",
+          "reviewNote": "Authorizes the MO HealthNet division to garnish employment income and withhold state tax refunds under section 143.783 when a parent ordered to cover a Medicaid-eligible child retains third-party payments without reimbursing, subordinate to current or past-due child support claims."
+        },
+        {
+          "number": 6,
+          "title": "Cumulative nature of medical support enforcement remedies",
+          "bodySha256": "64b2259d758b1567178b23051869814bd7284b46af6f13dff06b9969a08b4cda",
+          "reviewNote": "Establishes that medical support collection and enforcement remedies under this section are cumulative to other legal remedies and apply regardless of when the order was entered."
+        }
+      ],
+      "reviewSummary": "Adds editorial subsection headings for section 454.700 governing insurer enrollment mandates, employer compliance, income garnishment, and supplemental remedies."
+    }
+  ]
+}
