@@ -38,9 +38,13 @@ class Document(HTMLParser):
 
 files = sorted(DIST.rglob('*.html'))
 manifest = json.loads((ROOT / 'public/data/statutes.json').read_text())['manifest']
-assert len(files) == sum(bool(c['sectionCount']) for c in manifest['chapters']) + 3 + manifest['sectionCount']
+aliases = json.loads((ROOT / 'data/aliases.json').read_text())
+topic_pages = aliases.get('topicPages', [])
+expected_pages = sum(bool(c['sectionCount']) for c in manifest['chapters']) + 3 + manifest['sectionCount'] + 1 + len(topic_pages)
+assert len(files) == expected_pages, f'Expected {expected_pages} HTML pages, got {len(files)}'
 urls = set()
 titles = set()
+seen_descriptions = set()
 links = 0
 for path in files:
     relative = path.relative_to(DIST).as_posix()
@@ -53,6 +57,8 @@ for path in files:
     assert canonicals == [canonical], (relative, canonicals)
     descriptions = [a.get('content') for t, a in doc.tags if t == 'meta' and a.get('name') == 'description']
     assert len(descriptions) == 1 and descriptions[0], relative
+    assert descriptions[0] not in seen_descriptions, f'Duplicate description: {relative}'
+    seen_descriptions.add(descriptions[0])
     assert doc.schemas, f'Missing structured data: {relative}'
     assert not any(t == 'meta' and a.get('name') == 'robots' and 'noindex' in a.get('content', '') for t, a in doc.tags), relative
     for tag, attrs in doc.tags:

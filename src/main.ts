@@ -11,7 +11,7 @@ import {
   todayInMissouri,
   type DatasetView,
 } from './runtime';
-import { createSearch, extractIndexTerms, loadIndex, type Match, type SearchResults } from './search';
+import { createSearch, extractIndexTerms, findMatchingChapters, loadIndex, type Match, type SearchResults } from './search';
 import { chapterFacets, filterByChapter, resultCount } from './filters';
 import { statuteVersionPath } from './paths';
 
@@ -23,6 +23,8 @@ const chapterChoices = document.querySelector<HTMLDivElement>('#chapter-choices'
 const moreChapters = document.querySelector<HTMLButtonElement>('#more-chapters')!;
 const activeFilter = document.querySelector<HTMLDivElement>('#active-filter')!;
 const clearChapter = document.querySelector<HTMLButtonElement>('#clear-chapter')!;
+const matchingChaptersSection = document.querySelector<HTMLElement>('#matching-chapters')!;
+const matchingChapterList = document.querySelector<HTMLDivElement>('#matching-chapter-list')!;
 const resultsHeading = document.querySelector<HTMLHeadingElement>('#results-heading')!;
 const upcoming = document.querySelector<HTMLInputElement>('#upcoming')!;
 const status = document.querySelector<HTMLParagraphElement>('#status')!;
@@ -122,18 +124,60 @@ function renderChapterFilters(found: SearchResults) {
   document.querySelector('#filter-description')!.textContent = selectedChapter
     ? `Showing only Chapter ${selectedChapter}: ${chapterTitles.get(selectedChapter)!}` : '';
 }
-function runSearch() {
+function syncUrl() {
+  const params = new URLSearchParams();
+  const q = input.value.trim();
+  if (q) params.set('q', q);
+  if (q && selectedChapter) params.set('chapter', selectedChapter);
+  if (upcoming.checked) params.set('upcoming', '1');
+  const qs = params.toString();
+  const next = `${window.location.pathname}${qs ? `?${qs}` : ''}${window.location.hash}`;
+  const current = `${window.location.pathname}${window.location.search}${window.location.hash}`;
+  if (next !== current) history.replaceState(null, '', next);
+}
+function hydrateFromUrl() {
+  const params = new URLSearchParams(window.location.search);
+  const q = (params.get('q') ?? '').trim().slice(0, 200);
+  const ch = params.get('chapter') ?? '';
+  input.value = q;
+  previousQuery = q;
+  selectedChapter = q && ch && chapterTitles.has(ch) ? ch : '';
+  expandedChapters = false;
+  upcoming.checked = params.get('upcoming') === '1';
+}
+function renderMatchingChapters(query: string, exact: boolean) {
+  const matched = exact ? [] : findMatchingChapters(dataset.manifest.chapters, query);
+  matchingChaptersSection.hidden = !matched.length;
+  matchingChapterList.replaceChildren();
+  for (const c of matched) {
+    const chip = element('div', undefined, 'matching-chapter-chip');
+    const filterBtn = element('button', undefined, 'matching-chapter-filter');
+    filterBtn.type = 'button';
+    filterBtn.dataset.chapter = c.chapter;
+    filterBtn.setAttribute('aria-pressed', String(selectedChapter === c.chapter));
+    filterBtn.setAttribute('aria-label', `Filter results to Chapter ${c.chapter}: ${c.title}`);
+    filterBtn.append(element('span', `Ch. ${c.chapter} · ${c.title}`));
+    const browseLink = element('a', 'Browse →', 'matching-chapter-browse');
+    browseLink.href = `/chapters/${c.chapter}/`;
+    browseLink.setAttribute('aria-label', `Browse Chapter ${c.chapter}: ${c.title}`);
+    chip.append(filterBtn, browseLink);
+    matchingChapterList.append(chip);
+  }
+}
+function runSearch(shouldSyncUrl = true) {
   if (!search) return;
   clearTimeout(timer);
   const query = input.value.trim();
   const asOf = todayInMissouri();
   results.replaceChildren();
   if (query !== previousQuery) { selectedChapter = ''; expandedChapters = false; previousQuery = query; }
+  if (shouldSyncUrl) syncUrl();
   resultsHeading.hidden = !query;
   resultsHeading.textContent = query ? `Results for “${query}”` : '';
   if (!query) {
     chapterFilters.hidden = true;
     activeFilter.hidden = true;
+    matchingChaptersSection.hidden = true;
     status.textContent = `Ready to search ${dataset.manifest.sectionCount.toLocaleString()} section headings. Enter a topic or section number above.`;
     return;
   }
@@ -141,6 +185,7 @@ function runSearch() {
   if (cached?.key !== key) cached = { key, found: search(query, asOf, upcoming.checked) };
   const all = cached.found;
   renderChapterFilters(all);
+  renderMatchingChapters(query, all.exact);
   const found = filterByChapter(all, selectedChapter);
   const count = resultCount(found);
   const total = resultCount(all);
@@ -171,8 +216,21 @@ form.addEventListener('submit', event => {
   destination.focus({ preventScroll: true });
   firstResult.scrollIntoView({ block: 'start', behavior: 'instant' });
 });
-input.addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(runSearch, 80); });
-upcoming.addEventListener('change', runSearch);
+input.addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(() => runSearch(), 80); });
+upcoming.addEventListener('change', () => runSearch());
+matchingChapterList.addEventListener('click', event => {
+  const choice = (event.target as HTMLElement).closest<HTMLButtonElement>('button[data-chapter]');
+  if (!choice) return;
+  const ch = choice.dataset.chapter!;
+  selectedChapter = selectedChapter === ch ? '' : ch;
+  runSearch();
+  matchingChapterList.querySelector<HTMLButtonElement>(`button[data-chapter="${ch}"]`)?.focus({ preventScroll: true });
+});
+window.addEventListener('popstate', () => {
+  if (!search) return;
+  hydrateFromUrl();
+  runSearch(false);
+});
 chapterChoices.addEventListener('click', event => {
   const choice = (event.target as HTMLElement).closest<HTMLButtonElement>('button[data-chapter]');
   if (!choice) return;
@@ -252,7 +310,8 @@ async function initialize() {
       const notice = element('p', `This source snapshot is more than 30 days old. Check the official source for changes. Last index check: ${formatDate(dataset.manifest.indexCheckedAt)}.`, 'stale-notice');
       document.querySelector('.search-panel')!.after(notice);
     }
-    runSearch();
+    hydrateFromUrl();
+    runSearch(false);
   } catch {
     status.textContent = 'The verified heading collection could not be loaded. Please use the official source.';
     const link = element('a', 'Browse Missouri statutes at the Revisor ↗');

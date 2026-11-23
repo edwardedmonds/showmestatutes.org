@@ -1,5 +1,6 @@
 import { readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
+import aliasData from '../data/aliases.json';
 import { type Dataset, constitutionalNotice, sourceDateNotice, standaloneReprintNotice, enactmentNotice } from '../src/data';
 import { statutePath, statuteVersionPath } from '../src/paths';
 import { browseAssets, escapeHtml, homepageSeo, siteUrl } from '../src/seo';
@@ -40,7 +41,7 @@ describe('Static chapter discovery and metadata', () => {
   });
   it('includes only canonical, existing public HTML pages in the sitemap', () => {
     const urls = [...files['sitemap.xml'].matchAll(/<loc>(.*?)<\/loc>/g)].map(m => m[1]);
-    expect(urls).toHaveLength(chapters.length + 3 + dataset.manifest.sectionCount);
+    expect(urls).toHaveLength(chapters.length + 3 + dataset.manifest.sectionCount + 1 + aliasData.topicPages.length);
     expect(new Set(urls).size).toBe(urls.length);
     for (const url of urls) {
       expect(url.startsWith(siteUrl + '/')).toBe(true);
@@ -67,6 +68,7 @@ describe('Static chapter discovery and metadata', () => {
   });
   it('links the homepage to the static directory and provides one consistent homepage identity', () => {
     expect(html).toContain('href="/chapters/"');
+    expect(html).toContain('href="/topics/"');
     expect(html).toContain('<title>Missouri Statute Search | Show Me Statutes</title>');
     expect(html.match(/rel="canonical"/g)).toHaveLength(1);
     expect(html.match(/name="description"/g)).toHaveLength(1);
@@ -94,5 +96,44 @@ describe('Static chapter discovery and metadata', () => {
   });
   it('escapes source headings and attributes as text', () => {
     expect(escapeHtml('<script>"x" & \'y\'</script>')).toBe('&lt;script&gt;&quot;x&quot; &amp; &#39;y&#39;&lt;/script&gt;');
+  });
+  it('uses primary effective headings in multi-version statute titles and renders common-name aliases and related links', () => {
+    const multi = files['statutes/565.050/index.html'];
+    expect(multi).toMatch(/<title>Missouri § 565\.050: .* \(2 versions\) \| Show Me Statutes<\/title>/);
+    expect(multi).not.toContain('Headings and source versions');
+
+    const dwi = files['statutes/577.010/index.html'];
+    expect(dwi).toContain('Commonly searched as:');
+    expect(dwi).toContain('dwi, dui, drunk driving');
+    expect(dwi).toContain('plain-English search terms, not official legal names');
+    expect(dwi).toContain('Related Missouri statutes');
+    expect(dwi).toContain('href="/statutes/577.012/"');
+    const dwiSchema = jsonLd(dwi)[0]['@graph'][0];
+    expect(dwiSchema.alternateName).toEqual(aliasData.sections['577.010']);
+    expect(dwi).toMatch(/<meta name="description" content="Missouri statute 577\.010 \(dwi, dui, drunk driving\)/);
+  });
+  it('generates static topic directory and all curated topic hub pages with zero JS and valid metadata', () => {
+    const topicsIndex = files['topics/index.html'];
+    expect(topicsIndex).toBeDefined();
+    expect(topicsIndex).toContain('<title>Missouri Statutes by Topic | Show Me Statutes</title>');
+    expect(topicsIndex).not.toContain('<script src=');
+    for (const topic of aliasData.topicPages) {
+      expect(topicsIndex).toContain(`href="/topics/${topic.slug}/"`);
+      const hub = files[`topics/${topic.slug}/index.html`];
+      expect(hub).toBeDefined();
+      expect(hub).toContain(`<title>${escapeHtml(topic.title)} | Show Me Statutes</title>`);
+      expect(hub).toContain(`<meta name="description" content="${escapeHtml(topic.description)}">`);
+      expect(hub).toContain('not legal advice or an exhaustive list');
+      const expectedQuery = ('searchQuery' in topic && typeof topic.searchQuery === 'string') ? topic.searchQuery : topic.queries[0];
+      expect(hub).toContain(`href="/?q=${encodeURIComponent(expectedQuery)}"`);
+      expect(hub).not.toContain('<script src=');
+      const schema = jsonLd(hub)[0];
+      expect(schema['@graph'][0]['@type']).toBe('CollectionPage');
+      expect(schema['@graph'][1]['@type']).toBe('BreadcrumbList');
+      expect(schema['@graph'][1].itemListElement.map((i: { name: string }) => i.name)).toEqual(['Home', 'Topics', topic.title]);
+      for (const sec of topic.sections) {
+        expect(hub).toContain(`href="${statutePath(sec)}"`);
+      }
+    }
   });
 });

@@ -13,7 +13,7 @@
     <a class="skip-link" href="#search">Skip to search</a>
     <header class="site-header">
       <a class="brand" href="./" aria-label="Show Me Statutes home"><span class="brand-mark" aria-hidden="true">§</span> Show Me Statutes</a>
-      <nav class="site-nav" aria-label="Main navigation"><a href="/chapters/">Browse chapters</a><a href="#coverage">Coverage &amp; sources</a><a href="/about/">About &amp; accuracy</a></nav>
+      <nav class="site-nav" aria-label="Main navigation"><a href="/topics/">Browse topics</a><a href="/chapters/">Browse chapters</a><a href="#coverage">Coverage &amp; sources</a><a href="/about/">About &amp; accuracy</a></nav>
     </header>
     <main>
       <section class="hero" aria-labelledby="headline">
@@ -48,10 +48,14 @@
         <button id="more-chapters" class="filter-text-button" type="button" aria-expanded="false" aria-controls="chapter-choices" hidden></button>
       </section>
       <div id="active-filter" class="active-filter" hidden><p id="filter-description"></p><button id="clear-chapter" class="filter-text-button" type="button">Remove chapter filter · keep search</button></div>
+      <section id="matching-chapters" class="matching-chapters" aria-labelledby="matching-chapters-heading" hidden>
+        <h3 id="matching-chapters-heading">Matching chapters</h3>
+        <div id="matching-chapter-list" class="matching-chapter-list"></div>
+      </section>
       <div id="results"></div>
       <section class="browse-callout" aria-labelledby="browse-heading">
-        <h2 id="browse-heading">Browse Missouri statutes by chapter</h2>
-        <p>Explore the Missouri Revised Statutes (RSMo) heading directory, with section numbers, version dates and links to the official text. <a href="/chapters/">Browse all chapters →</a></p>
+        <h2 id="browse-heading">Browse Missouri statutes by topic or chapter</h2>
+        <p>Explore curated <a href="/topics/">common Missouri law topics</a>, or browse the complete Missouri Revised Statutes (RSMo) heading directory with section numbers, version dates and links to the official text. <a href="/chapters/">Browse all chapters →</a></p>
       </section>
       <details id="coverage" class="coverage">
         <summary>Coverage, dates &amp; sources</summary>

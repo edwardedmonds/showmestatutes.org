@@ -109,10 +109,23 @@ footer a { white-space: nowrap; }
 #more-chapters { margin-top: 8px; }
 .active-filter { margin: 12px 0; font-size: .875rem; color: #526353; }
 #filter-description { margin: 0; }
+.matching-chapters { margin: 16px 0 20px; padding: 14px 16px; background: #f3f5ee; border: 1px solid #d8dfd2; border-radius: 6px; }
+.matching-chapters h3 { font: 700 .875rem var(--font-sans); letter-spacing: .04em; text-transform: uppercase; color: #4c6251; margin: 0 0 10px; }
+.matching-chapter-list { display: flex; flex-wrap: wrap; gap: 8px; }
+.matching-chapter-chip { display: inline-flex; align-items: stretch; max-width: 100%; background: #fff; border: 1px solid #cbd6c8; border-radius: 6px; overflow: hidden; }
+.matching-chapter-filter { display: flex; align-items: center; text-align: left; min-width: 0; min-height: 44px; border: 0; background: transparent; color: #244537; padding: 8px 12px; font-size: .875rem; }
+.matching-chapter-filter > span { min-width: 0; overflow-wrap: anywhere; }
+.matching-chapter-filter:hover { background: #e8efe4; }
+.matching-chapter-filter[aria-pressed="true"] { background: #254e3e; color: #fff; }
+.matching-chapter-browse { display: inline-flex; align-items: center; flex-shrink: 0; padding: 8px 11px; border-left: 1px solid #dce3d7; font-size: .8125rem; text-decoration: none; color: #245745; white-space: nowrap; }
+.matching-chapter-browse:hover { background: #eef3ea; text-decoration: underline; }
 @media (max-width: 640px) {
  .welcome { margin-top: 0; }
  .welcome > div { position: relative; padding: 18px 18px 18px 54px; }
  .welcome .step { position: absolute; left: 18px; top: 16px; }
  .chapter-filters { padding: 14px; }
  .chapter-choice { border-radius: 16px; }
+ .matching-chapters { padding: 12px; }
+ .matching-chapter-chip { width: 100%; }
+ .matching-chapter-filter { flex: 1; }
 }

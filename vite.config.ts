@@ -3,6 +3,7 @@ import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { resolve } from 'node:path';
 import { assertDataset, todayInMissouri } from './src/data';
+import { extractRuntimeAliases } from './src/aliases-runtime';
 import { runtimeCoverage } from './src/coverage-runtime';
 import { projectClientDataset } from './src/runtime';
 import { buildIndex } from './src/search';
@@ -26,6 +27,8 @@ const searchIndexJson = JSON.stringify({
 const searchIndexHash = createHash('sha256').update(searchIndexJson).digest('hex');
 const coverageRuntimePath = resolve('src/coverage-runtime.ts');
 const coverageSourcePath = resolve('data/coverage.json');
+const aliasesRuntimePath = resolve('src/aliases-runtime.ts');
+const aliasesSourcePath = resolve('data/aliases.json');
 const fullText = process.env.STATUTES_FULL_TEXT ? loadFullText(process.env.STATUTES_FULL_TEXT, dataset, datasetHash, process.env.STATUTES_FULL_TEXT_ALLOW_PILOT === '1') : undefined;
 const headingMode = process.env.STATUTES_SUBSECTION_HEADINGS;
 if (headingMode && !['pilot', 'statewide'].includes(headingMode)) throw new Error('Unknown subsection heading mode');
@@ -89,9 +92,17 @@ export default defineConfig({
     name: 'coverage-runtime-projection',
     enforce: 'pre',
     load(id) {
-      if (resolve(id.split('?')[0]) !== coverageRuntimePath) return null;
-      this.addWatchFile(coverageSourcePath);
-      return `export const runtimeCoverage = ${JSON.stringify(runtimeCoverage)};\n`;
+      const cleanId = resolve(id.split('?')[0]);
+      if (cleanId === coverageRuntimePath) {
+        this.addWatchFile(coverageSourcePath);
+        return `export const runtimeCoverage = ${JSON.stringify(runtimeCoverage)};\n`;
+      }
+      if (cleanId === aliasesRuntimePath) {
+        this.addWatchFile(aliasesSourcePath);
+        const freshAliases = extractRuntimeAliases(JSON.parse(readFileSync(aliasesSourcePath, 'utf8')));
+        return `export const runtimeAliases = ${JSON.stringify(freshAliases)};\n`;
+      }
+      return null;
     },
   }, {
     name: 'statute-heading-index',

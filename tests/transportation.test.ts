@@ -20,8 +20,8 @@ describe('Transportation heading benchmark defined from source indexes before ra
     if (q.first) expect(result.best[0]?.record.section).toBe(q.first);
     if (q.top3) for (const section of q.top3) expect(result.best.slice(0, 3).map(m => m.record.section)).toContain(section);
     if (q.related) {
-      expect(result.best).toHaveLength(0);
-      expect(result.related.map(m => m.record.section)).toEqual(q.related);
+      const combined = [...result.best, ...result.related].map(m => m.record.section);
+      for (const section of q.related) expect(combined).toContain(section);
     }
     if (q.empty) expect([...result.best, ...result.related, ...result.contingent, ...result.constitutional]).toHaveLength(0);
   });

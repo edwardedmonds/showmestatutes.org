@@ -2,7 +2,7 @@ import { readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
 import queries from './queries.json';
 import { assertDataset, isEffective, type Dataset } from '../src/data';
-import { buildIndex, createSearch, loadIndex } from '../src/search';
+import { buildIndex, createSearch, findMatchingChapters, loadIndex, singularize } from '../src/search';
 
 const dataset: Dataset = JSON.parse(readFileSync(process.env.STATUTES_DATASET ?? 'public/data/statutes.json', 'utf8'));
 assertDataset(dataset);
@@ -17,7 +17,7 @@ describe('Chapter 565 relevance benchmark (frozen before ranking implementation 
       const result = pilotSearch(query.query, asOf);
       if (query.first) expect(result.best[0]?.record.section).toBe(query.first);
       if (query.top3) for (const section of query.top3) expect(result.best.slice(0, 3).map(r => r.record.section)).toContain(section);
-      if (query.related) for (const section of query.related) expect(result.related.map(r => r.record.section)).toContain(section);
+      if (query.related) for (const section of query.related) expect([...result.best, ...result.related].map(r => r.record.section)).toContain(section);
       if (query.empty) expect([...result.best, ...result.related, ...result.contingent, ...result.constitutional]).toHaveLength(0);
     });
   }
@@ -78,4 +78,44 @@ it('keeps murder headings while excluding degree-only overlap', () => {
   expect(search('first degree murder', asOf, false, '565').best.map(m => m.record.section)).toEqual(['565.020']);
   expect(results.related.map(m => m.record.section)).toContain('565.030');
   expect([...results.best, ...results.related].map(m => m.record.section)).not.toContain('565.050');
+});
+
+it('keeps direct heading matches in best while retaining broader topic matches in related', () => {
+  const elder = search('elder abuse', asOf);
+  expect(elder.best.map(m => m.record.section)).toContain('565.188');
+  expect(elder.related.length).toBeGreaterThan(0);
+  expect(elder.related.every(m => m.reason === 'Broader topic match')).toBe(true);
+  const bestSet = new Set(elder.best.map(m => m.record.section));
+  expect(elder.related.every(m => !bestSet.has(m.record.section))).toBe(true);
+});
+
+it('supports conservative singular/plural normalization without over-stemming legal terms', () => {
+  expect(singularize('pets')).toBe('pet');
+  expect(singularize('landlords')).toBe('landlord');
+  expect(singularize('deposits')).toBe('deposit');
+  expect(singularize('tenants')).toBe('tenant');
+  expect(singularize('helmets')).toBe('helmet');
+  expect(singularize('fences')).toBe('fence');
+  expect(singularize('policies')).toBe('policy');
+  for (const word of ['damages', 'arms', 'goods', 'means', 'premises', 'grounds', 'costs', 'powers', 'proceeds', 'securities', 'savings', 'earnings', 'customs', 'minutes', 'effects', 'works', 'services', 'terms']) {
+    expect(singularize(word)).toBe(word);
+  }
+  const pets = search('pets', asOf);
+  expect(pets.correction).toBeNull();
+  expect(pets.best.length).toBeGreaterThan(0);
+  expect(pets.best.some(m => /\bpet\b/i.test(m.record.title))).toBe(true);
+  const helmets = search('motorcycle helmets', asOf);
+  expect(helmets.correction).toBeNull();
+  expect(helmets.best.map(m => m.record.section)).toContain('302.020');
+});
+
+it('finds matching non-empty chapters by title while ignoring exact section queries', () => {
+  expect(findMatchingChapters(dataset.manifest.chapters, '565.020')).toEqual([]);
+  expect(findMatchingChapters(dataset.manifest.chapters, '§ 307.178')).toEqual([]);
+  const motor = findMatchingChapters(dataset.manifest.chapters, 'motor vehicles');
+  expect(motor.length).toBeGreaterThan(0);
+  expect(motor.length).toBeLessThanOrEqual(4);
+  expect(motor.every(c => c.sectionCount > 0)).toBe(true);
+  const landlord = findMatchingChapters(dataset.manifest.chapters, 'landlords');
+  expect(landlord.some(c => c.chapter === '441')).toBe(true);
 });

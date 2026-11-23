@@ -1,7 +1,22 @@
-import { constitutionalNotice, effectiveDateLabel, enactmentNotice, isUpcoming, sourceDateNotice, standaloneReprintNotice, type Dataset, type Statute } from './data';
+import aliasData from '../data/aliases.json';
+import { constitutionalNotice, effectiveDateLabel, enactmentNotice, isEffective, isUpcoming, sourceDateNotice, standaloneReprintNotice, type Dataset, type Statute } from './data';
 import { renderFullText, type FullText } from './full-text';
 import { headingsFor, type HeadingRegistry } from './subsection-headings';
 import { statutePath, statuteVersionPath } from './paths';
+
+interface TopicPage {
+  slug: string;
+  title: string;
+  description: string;
+  intro: string;
+  searchQuery?: string;
+  queries: string[];
+  sections: string[];
+}
+
+const sectionAliasesMap = aliasData.sections as Record<string, string[]>;
+const relatedSectionsMap = aliasData.related as Record<string, string[]>;
+const topicPages = aliasData.topicPages as TopicPage[];
 
 export const siteUrl = 'https://showmestatutes.org';
 export const siteTitle = 'Missouri Statute Search | Show Me Statutes';
@@ -49,9 +64,13 @@ export function homepageSeo(html: string, dataset: Dataset) {
     .replace('<p id="coverage-stats"></p>', `<p id="coverage-stats">${dataset.manifest.sectionCount.toLocaleString('en-US')} distinct sections · ${dataset.manifest.recordCount.toLocaleString('en-US')} source versions · ${dataset.manifest.chapters.filter(c => c.sectionCount).length} chapters with headings</p>`);
 }
 
-function page(title: string, description: string, path: string, content: string, stylesheet: string, breadcrumb: { name: string; path: string }[], pageType = 'CollectionPage') {
+function page(title: string, description: string, path: string, content: string, stylesheet: string, breadcrumb: { name: string; path: string }[], pageType = 'CollectionPage', alternateName?: string[]) {
+  const pageNode: Record<string, unknown> = {
+    '@type': pageType, '@id': siteUrl + path, name: title, description, url: siteUrl + path, inLanguage: 'en-US', isPartOf: { '@id': siteUrl + '/#website' },
+  };
+  if (alternateName?.length) pageNode.alternateName = alternateName;
   const schema = { '@context': 'https://schema.org', '@graph': [
-    { '@type': pageType, '@id': siteUrl + path, name: title, description, url: siteUrl + path, inLanguage: 'en-US', isPartOf: { '@id': siteUrl + '/#website' } },
+    pageNode,
     { '@type': 'BreadcrumbList', itemListElement: breadcrumb.map((item, index) => ({ '@type': 'ListItem', position: index + 1, name: item.name, item: siteUrl + item.path })) },
   ] };
   return `<!doctype html>
@@ -60,21 +79,36 @@ ${metadata(title, description, path)}
 <link rel="stylesheet" href="${stylesheet}">
 <script type="application/ld+json">${json(schema)}</script></head><body>
 <a class="skip-link" href="#main">Skip to content</a>
-<header class="site-header"><a class="brand" href="/" aria-label="Show Me Statutes home"><span class="brand-mark" aria-hidden="true">§</span> Show Me Statutes</a><nav class="site-nav" aria-label="Main navigation"><a href="/#search">Search</a><a href="/chapters/">Browse chapters</a><a href="/#coverage">Coverage &amp; sources</a><a href="/about/">About &amp; accuracy</a></nav></header>
+<header class="site-header"><a class="brand" href="/" aria-label="Show Me Statutes home"><span class="brand-mark" aria-hidden="true">§</span> Show Me Statutes</a><nav class="site-nav" aria-label="Main navigation"><a href="/#search">Search</a><a href="/topics/">Browse topics</a><a href="/chapters/">Browse chapters</a><a href="/#coverage">Coverage &amp; sources</a><a href="/about/">About &amp; accuracy</a></nav></header>
 <main id="main" class="browse-main"><nav class="breadcrumbs" aria-label="Breadcrumb">${breadcrumb.map((item, index) => index === breadcrumb.length - 1 ? `<span aria-current="page">${escapeHtml(item.name)}</span>` : `<a href="${item.path}">${escapeHtml(item.name)}</a> <span aria-hidden="true">/</span>`).join(' ')}</nav>${content}</main>
 <footer><span>SHOW ME STATUTES</span><p>Independent search. Links to official sources.<br>Not affiliated with the State of Missouri. Not legal advice.</p><a href="/about/">About &amp; accuracy</a><a href="/about/#report-an-error">Report an error</a><a href="/licenses.txt">MIT &amp; license notices</a><a href="https://github.com/edwardedmonds/showmestatutes.org">Project on GitHub ↗</a></footer></body></html>`;
 }
 
-function recordHtml(record: Statute, asOf: string, onStatutePage = false, fullText?: FullText, headingRegistry?: HeadingRegistry) {
-  const notices = [sourceDateNotice(record), constitutionalNotice(record), standaloneReprintNotice(record), enactmentNotice(record)];
+function recordNotices(record: Statute): string[] {
+  const notices = [sourceDateNotice(record), constitutionalNotice(record), standaloneReprintNotice(record), enactmentNotice(record)].filter((n): n is string => Boolean(n));
   if (record.headingSource === 'chapter-index') notices.push('Heading supplied by the official chapter index; this version’s source page omits its heading.');
   if (record.headingMarker) notices.push('The official source marks this section with a footnote. Read the source notes.');
+  return notices;
+}
+
+function recordHtml(record: Statute, asOf: string, onStatutePage = false, fullText?: FullText, headingRegistry?: HeadingRegistry) {
+  const notices = recordNotices(record);
   return `<li class="result-card${fullText ? ' reading-version' : ''}" id="version-${escapeHtml(record.id)}"><div class="card-meta"><span class="section-number">§ ${escapeHtml(record.section)}${record.headingMarker ? ' *' : ''}</span><span>Source version ${record.versionId}</span></div>
 <h2 class="browse-heading"><a href="${escapeHtml(onStatutePage ? record.sourceUrl : statuteVersionPath(record.section, record.id))}">${escapeHtml(record.title)}</a></h2>
 <p class="version">${escapeHtml(effectiveDateLabel(record, asOf, isUpcoming(record, asOf)))}</p>
-${notices.filter(Boolean).map(notice => `<p class="version">${escapeHtml(notice!)}</p>`).join('\n')}
+${notices.map(notice => `<p class="version">${escapeHtml(notice)}</p>`).join('\n')}
 <p class="version">Source checked ${date(record.sourceCheckedAt)}</p>
-<a class="official-link" href="${escapeHtml(record.sourceUrl)}">Read this version at the Revisor ↗</a>${fullText ? `<button type="button" class="copy-citation" data-copy-citation="${escapeHtml(`§ ${record.section}, RSMo. Source version ${record.versionId}. ${effectiveDateLabel(record, asOf, isUpcoming(record, asOf))}. ${notices.filter(Boolean).join(' ')} ${record.sourceUrl}`)}" hidden>Copy citation</button>${renderFullText(fullText, headingRegistry ? headingsFor(fullText, headingRegistry) : undefined)}` : ''}</li>`;
+<a class="official-link" href="${escapeHtml(record.sourceUrl)}">Read this version at the Revisor ↗</a>${fullText ? `<button type="button" class="copy-citation" data-copy-citation="${escapeHtml(`§ ${record.section}, RSMo. Source version ${record.versionId}. ${effectiveDateLabel(record, asOf, isUpcoming(record, asOf))}. ${notices.join(' ')} ${record.sourceUrl}`)}" hidden>Copy citation</button>${renderFullText(fullText, headingRegistry ? headingsFor(fullText, headingRegistry) : undefined)}` : ''}</li>`;
+}
+
+function topicSectionHtml(record: Statute, versionCount: number, asOf: string) {
+  const notices = recordNotices(record);
+  return `<li class="result-card"><div class="card-meta"><span class="section-number">§ ${escapeHtml(record.section)}${record.headingMarker ? ' *' : ''}</span><a class="chapter-badge" href="/chapters/${escapeHtml(record.chapter)}/">Chapter ${escapeHtml(record.chapter)} · ${escapeHtml(record.chapterTitle)}</a>${versionCount > 1 ? `<span>${versionCount} versions</span>` : ''}</div>
+<h2 class="browse-heading"><a href="${statutePath(record.section)}">${escapeHtml(record.title)}</a></h2>
+<p class="version">${escapeHtml(effectiveDateLabel(record, asOf, isUpcoming(record, asOf)))}</p>
+${notices.map(notice => `<p class="version">${escapeHtml(notice)}</p>`).join('\n')}
+<p class="version">Source checked ${date(record.sourceCheckedAt)}</p>
+<a class="official-link" href="${escapeHtml(record.sourceUrl)}">Read this version at the Revisor ↗</a></li>`;
 }
 
 export function browseAssets(dataset: Dataset, stylesheet: string, asOf: string, fullText?: Map<string, FullText>, headingRegistry?: HeadingRegistry): Record<string, string> {
@@ -114,7 +148,7 @@ export function browseAssets(dataset: Dataset, stylesheet: string, asOf: string,
   const directory = `<h1>Browse Missouri statutes by chapter</h1>
 <p class="intro">A directory of Missouri Revised Statutes (RSMo) section headings, organized by chapter. Choose a chapter to see its headings, version dates and links to the official Missouri Revisor.</p>
 <p>${dataset.manifest.sectionCount.toLocaleString('en-US')} distinct sections · ${chapters.length} chapters with headings · earliest chapter-index check ${date(dataset.manifest.indexCheckedAt)}.</p>
-<p>These are headings and source references, not the full text of the law. <a href="/#search">Search by topic or section number</a>, or use your browser’s Find command to locate a chapter below.</p>
+<p>These are headings and source references, not the full text of the law. <a href="/#search">Search by topic or section number</a>, <a href="/topics/">browse curated topic guides</a>, or use your browser’s Find command to locate a chapter below.</p>
 <ul class="browse-chapters">${chapters.map(c => `<li><a href="/chapters/${c.chapter}/"><span>Chapter ${c.chapter}</span> ${escapeHtml(c.title)}</a><small>${c.sectionCount.toLocaleString('en-US')} sections</small></li>`).join('\n')}</ul>
 <h2>Chapter indexes with no listed sections</h2><p>These ${empty.length} additional indexes were checked and contain no section headings in this snapshot.</p><ul>${empty.map(c => `<li><a href="${escapeHtml(c.sourceIndex)}">Chapter ${c.chapter}: ${escapeHtml(c.title)} — official index</a></li>`).join('')}</ul>`;
   files['chapters/index.html'] = page('Missouri Statutes by Chapter | Show Me Statutes', 'Browse Missouri Revised Statutes by chapter. Find section headings, effective dates and exact source links in the statewide statute-heading directory.', '/chapters/', directory, stylesheet, rootBreadcrumb);
@@ -126,6 +160,9 @@ export function browseAssets(dataset: Dataset, stylesheet: string, asOf: string,
     const versions = bySection.get(record.section) ?? [];
     versions.push(record); bySection.set(record.section, versions);
   }
+  const sortedSectionVersions = (versions: Statute[]) => [...versions].sort((a, b) => a.effectiveFrom.localeCompare(b.effectiveFrom) || a.versionId.localeCompare(b.versionId, 'en', { numeric: true }));
+  const primaryRecord = (versions: Statute[]) => versions.find(r => isEffective(r, asOf)) ?? versions[0];
+
   for (const [index, chapter] of chapters.entries()) {
     const title = `Missouri Chapter ${chapter.chapter}: ${chapter.title} | Show Me Statutes`;
     const description = `Browse Missouri Chapter ${chapter.chapter}, ${chapter.title}. View ${chapter.sectionCount} section headings, source-version dates and links to the official Revisor.`;
@@ -141,26 +178,111 @@ ${chapter.chapter === '300' ? '<p class="stale-notice">Chapter 300 is Missouri�
 <nav class="chapter-navigation" aria-label="Adjacent chapters">${index ? `<a href="/chapters/${chapters[index - 1].chapter}/">← Chapter ${chapters[index - 1].chapter}</a>` : ''}<a href="/chapters/">All chapters</a>${index + 1 < chapters.length ? `<a href="/chapters/${chapters[index + 1].chapter}/">Chapter ${chapters[index + 1].chapter} →</a>` : ''}</nav>`;
     files[`chapters/${chapter.chapter}/index.html`] = page(title, description, path, content, stylesheet, [...rootBreadcrumb, { name: `Chapter ${chapter.chapter}`, path }]);
   }
+
   for (const [section, versions] of bySection) {
-    const records = [...versions].sort((a, b) => a.effectiveFrom.localeCompare(b.effectiveFrom) || a.versionId.localeCompare(b.versionId, 'en', { numeric: true }));
+    const records = sortedSectionVersions(versions);
+    const primary = primaryRecord(records);
     const chapter = chapters.find(c => c.chapter === records[0].chapter)!;
     const path = statutePath(section);
-    const title = `Missouri § ${section}: ${records.length === 1 ? records[0].title : 'Headings and source versions'} | Show Me Statutes`;
-    const description = `Missouri statute ${section}, Chapter ${chapter.chapter}: ${chapter.title}. View official headings, version dates and source notices, then read the law at the Missouri Revisor.`;
+    const sectionAliases = sectionAliasesMap[section];
+    const title = records.length === 1
+      ? `Missouri § ${section}: ${primary.title} | Show Me Statutes`
+      : `Missouri § ${section}: ${primary.title} (${records.length} versions) | Show Me Statutes`;
+    const aliasPreview = sectionAliases?.slice(0, 3).join(', ');
+    const description = aliasPreview
+      ? `Missouri statute ${section} (${aliasPreview}), Chapter ${chapter.chapter}: ${chapter.title}. View official headings, version dates and links to the Missouri Revisor.`
+      : `Missouri statute ${section}, Chapter ${chapter.chapter}: ${chapter.title}. View official headings, version dates and source notices, then read the law at the Missouri Revisor.`;
+    const relatedSections = (relatedSectionsMap[section] ?? []).filter(rel => rel !== section && bySection.has(rel));
+    const aliasHtml = sectionAliases?.length
+      ? `<p class="alias-note"><strong>Commonly searched as:</strong> ${escapeHtml(sectionAliases.join(', '))} <span class="alias-disclaimer">(plain-English search terms, not official legal names)</span></p>`
+      : '';
+    const relatedHtml = relatedSections.length
+      ? `<section class="related-statutes" aria-labelledby="related-heading"><h2 id="related-heading">Related Missouri statutes</h2><ul>${relatedSections.map(rel => {
+          const relPrimary = primaryRecord(sortedSectionVersions(bySection.get(rel)!));
+          return `<li><a href="${statutePath(rel)}"><strong>§ ${escapeHtml(rel)}</strong> — ${escapeHtml(relPrimary.title)}</a></li>`;
+        }).join('\n')}</ul></section>`
+      : '';
     const content = `<p class="eyebrow">MISSOURI REVISED STATUTES</p>
 <h1>Section ${escapeHtml(section)}</h1>
 <p class="intro"><a href="/chapters/${chapter.chapter}/">Chapter ${chapter.chapter} · ${escapeHtml(chapter.title)}</a></p>
+${aliasHtml}
 <p>${records.length} source version${records.length === 1 ? '' : 's'} in the reviewed collection. The official heading${records.length === 1 ? ' and source link are' : 's and source links are'} below.</p>
 ${fullText?.has(records[0].id) ? '<p class="statute-note">Local reading preview · Archived source text appears below. Source-check dates are preserved; open the Revisor to check for changes.</p>' : '<p class="statute-note">This page provides headings and source references, not the full text of the law. Open the official source to read the statute and its notes.</p>'}
 ${chapter.chapter === '300' ? '<p class="stale-notice">Chapter 300 is Missouri’s Model Traffic Ordinance. Inclusion here does not establish which provisions a locality has adopted.</p>' : ''}
 ${records.length > 1 ? `<nav class="version-navigation" aria-label="Source versions">${records.map(r => `<a href="#version-${escapeHtml(r.id)}">Source version ${escapeHtml(r.versionId)}</a>`).join('')}</nav>` : ''}
 <ol class="result-list browse-records statute-versions">${records.map(r => recordHtml(r, asOf, true, fullText?.get(r.id), headingRegistry)).join('\n')}</ol>
 ${fullText?.has(records[0].id) ? '<p id="copy-status" role="status" aria-live="polite"></p><script src="/statute-reading.js" defer></script>' : ''}
+${relatedHtml}
 <p class="version">Version labels evaluated as of ${date(asOf)}. Source-check dates are shown on each version; rebuilding this page does not recheck the law.</p>
 <nav class="chapter-navigation" aria-label="Continue browsing"><a href="/chapters/${chapter.chapter}/">← All Chapter ${chapter.chapter} sections</a><a href="/#search">Search another statute</a></nav>`;
-    files[`statutes/${encodeURIComponent(section)}/index.html`] = page(title, description, path, content, stylesheet, [...rootBreadcrumb, { name: `Chapter ${chapter.chapter}`, path: `/chapters/${chapter.chapter}/` }, { name: `§ ${section}`, path }], 'WebPage');
+    files[`statutes/${encodeURIComponent(section)}/index.html`] = page(
+      title,
+      description,
+      path,
+      content,
+      stylesheet,
+      [...rootBreadcrumb, { name: `Chapter ${chapter.chapter}`, path: `/chapters/${chapter.chapter}/` }, { name: `§ ${section}`, path }],
+      'WebPage',
+      sectionAliases,
+    );
   }
-  const urls = ['/', '/about/', '/chapters/', ...chapters.map(c => `/chapters/${c.chapter}/`), ...[...bySection.keys()].map(statutePath)];
+
+  const topicsBreadcrumb = [{ name: 'Home', path: '/' }, { name: 'Topics', path: '/topics/' }];
+  const topicsDirectory = `<p class="eyebrow">MISSOURI STATUTE TOPIC GUIDES</p>
+<h1>Browse Missouri statutes by topic</h1>
+<p class="intro">Curated plain-English entry points to frequently searched Missouri Revised Statutes (RSMo) sections, organized by everyday legal topic.</p>
+<p class="statute-note">Curated topic index to official Missouri statute headings — not legal advice or an exhaustive list of every law that may apply.</p>
+<p>${topicPages.length} curated topic guides · <a href="/#search">Search all ${dataset.manifest.sectionCount.toLocaleString('en-US')} sections</a> or <a href="/chapters/">browse by chapter</a>.</p>
+<ul class="topic-directory">${topicPages.map(topic => {
+    const validSections = topic.sections.filter(s => bySection.has(s));
+    return `<li><a href="/topics/${escapeHtml(topic.slug)}/"><span>${escapeHtml(topic.title)}</span></a><p>${escapeHtml(topic.description)}</p><small>${validSections.length} statute section${validSections.length === 1 ? '' : 's'}</small></li>`;
+  }).join('\n')}</ul>`;
+  files['topics/index.html'] = page(
+    'Missouri Statutes by Topic | Show Me Statutes',
+    'Browse curated Missouri Revised Statutes (RSMo) topic guides covering family law, housing, traffic, criminal law, firearms, open government, employment, and probate.',
+    '/topics/',
+    topicsDirectory,
+    stylesheet,
+    topicsBreadcrumb,
+  );
+
+  for (const topic of topicPages) {
+    const path = `/topics/${topic.slug}/`;
+    const title = `${topic.title} | Show Me Statutes`;
+    const validSections = topic.sections.filter(s => bySection.has(s));
+    const searchQuery = topic.searchQuery ?? topic.queries[0] ?? topic.title;
+    const topicCards = validSections.map(sec => {
+      const records = sortedSectionVersions(bySection.get(sec)!);
+      const primary = primaryRecord(records);
+      return topicSectionHtml(primary, records.length, asOf);
+    }).join('\n');
+    const content = `<p class="eyebrow">MISSOURI STATUTE TOPIC GUIDE</p>
+<h1>${escapeHtml(topic.title)}</h1>
+<p class="intro">${escapeHtml(topic.intro)}</p>
+<p class="statute-note">Curated topic index to official Missouri statute headings — not legal advice or an exhaustive list of every law that may apply.</p>
+<p class="topic-actions"><a href="/?q=${encodeURIComponent(searchQuery)}">Search “${escapeHtml(searchQuery)}” interactively →</a> · <a href="/topics/">All topic guides</a></p>
+<p class="version">Version labels evaluated as of ${date(asOf)}. Source-check dates are shown on each section; rebuilding this page does not recheck the law.</p>
+<ol class="result-list browse-records">${topicCards}</ol>
+<nav class="chapter-navigation" aria-label="Continue browsing"><a href="/topics/">← All Missouri law topics</a><a href="/chapters/">Browse by chapter</a><a href="/#search">Search all statutes</a></nav>`;
+    files[`topics/${topic.slug}/index.html`] = page(
+      title,
+      topic.description,
+      path,
+      content,
+      stylesheet,
+      [...topicsBreadcrumb, { name: topic.title, path }],
+    );
+  }
+
+  const urls = [
+    '/',
+    '/about/',
+    '/chapters/',
+    '/topics/',
+    ...topicPages.map(t => `/topics/${t.slug}/`),
+    ...chapters.map(c => `/chapters/${c.chapter}/`),
+    ...[...bySection.keys()].map(statutePath),
+  ];
   // No artificial lastmod dates: rebuilding is not a source-content update.
   files['sitemap.xml'] = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map(path => `<url><loc>${siteUrl}${path}</loc></url>`).join('\n')}</urlset>\n`;
   files['robots.txt'] = `User-agent: *\nAllow: /\n\nSitemap: ${siteUrl}/sitemap.xml\n`;

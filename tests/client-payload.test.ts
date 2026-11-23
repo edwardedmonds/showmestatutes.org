@@ -3,6 +3,8 @@ import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import coverage from '../data/coverage.json';
+import aliasData from '../data/aliases.json';
+import { extractRuntimeAliases, runtimeAliases } from '../src/aliases-runtime';
 import {
   assertDataset,
   constitutionalNotice,
@@ -299,7 +301,7 @@ describe('loadIndex(AsPlainObject) + extractIndexTerms search parity', () => {
 });
 
 describe.skipIf(!existsSync('dist/assets') || !existsSync('dist/data/statutes.json'))('built dist/ artifact verification', () => {
-  it('excludes editorial coverage fields from dist/assets/index-*.js', () => {
+  it('excludes editorial coverage fields and topicPages prose from dist/assets/index-*.js', () => {
     const assetFiles = readdirSync('dist/assets').filter(f => /^index-.*\.js$/.test(f));
     expect(assetFiles.length).toBeGreaterThanOrEqual(1);
     for (const file of assetFiles) {
@@ -308,7 +310,18 @@ describe.skipIf(!existsSync('dist/assets') || !existsSync('dist/data/statutes.js
       expect(js).not.toContain('requiredSourceNotices');
       expect(js).not.toContain('sourceOpening');
       expect(js).not.toContain('minimumVersions');
+      expect(js).not.toContain('topicPages');
+      expect(js).not.toContain('divorce-and-alimony');
     }
+  });
+
+  it('projects runtimeAliases without topicPages', () => {
+    const projected = extractRuntimeAliases(aliasData);
+    expect(projected).toEqual(runtimeAliases);
+    expect('topicPages' in projected).toBe(false);
+    expect(Object.keys(projected.sections).length).toBe(Object.keys(aliasData.sections).length);
+    expect(Object.keys(projected.topics).length).toBe(Object.keys(aliasData.topics).length);
+    expect(Object.keys(projected.related).length).toBe(Object.keys(aliasData.related).length);
   });
 
   it('keeps dist/data/statutes.json byte-for-byte identical to public/data/statutes.json', () => {
