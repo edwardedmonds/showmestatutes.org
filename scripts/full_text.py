@@ -150,8 +150,8 @@ def safe_node(node, source_url):
     return {'tag': tag, 'attrs': attrs, 'children': children}
 
 # Footnote asterisks belong to the source number, not to a separate paragraph.
-NUMBER = re.compile(r'^\s*\**\s*([0-9]+)\.\s+')
-COMPOUND = re.compile(r'^\s*\**\s*[0-9]+\.[0-9]')
+NUMBER = re.compile(r'^\s*(?:\*+\s*)?([0-9]+)\.\s+')
+COMPOUND = re.compile(r'^\s*(?:\*+\s*)?[0-9]+\.[0-9]')
 HIERARCHY = re.compile(r'^\s*(?:ARTICLE|SECTION|PART)\s+(?:[IVXLC]+|[0-9]+)(?:\.(?=\s|$)|(?=\s|$))', re.I)
 LETTERED = re.compile(r'^\s*[A-Z]+[.)]\s+')
 

@@ -190,6 +190,37 @@ class CheckSeoTests(unittest.TestCase):
                     with self.assertRaisesRegex(AssertionError, expected_msg):
                         check_seo.audit(dist_dir=dist, dataset_path=dataset_path, aliases_path=aliases_path)
 
+    def test_rejects_internal_link_escaping_dist(self):
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            dist, dataset_path, aliases_path = build_fixture(root)
+            (root / 'outside.txt').write_text('outside', encoding='utf-8')
+            (dist / 'about/index.html').write_text(
+                make_html('/about/', 'About Title', 'About description', extra_body='<a href="../../outside.txt">Escape</a>'),
+                encoding='utf-8',
+            )
+            with self.assertRaisesRegex(AssertionError, 'escapes dist'):
+                check_seo.audit(dist_dir=dist, dataset_path=dataset_path, aliases_path=aliases_path)
+
+    def test_rejects_unexpected_url_schemes(self):
+        cases = [
+            '<a href="javascript:alert(1)">JS</a>',
+            '<a href="javascript://example.com/%0aalert(1)">JS host</a>',
+            '<a href="data:text/html,hi">Data link</a>',
+            '<img src="data:image/svg+xml,<svg/>" alt="">',
+            '<a href="vbscript:msgbox(1)">VBS</a>',
+        ]
+        for snippet in cases:
+            with self.subTest(snippet=snippet):
+                with tempfile.TemporaryDirectory() as td:
+                    dist, dataset_path, aliases_path = build_fixture(Path(td))
+                    (dist / 'about/index.html').write_text(
+                        make_html('/about/', 'About Title', 'About description', extra_body=snippet),
+                        encoding='utf-8',
+                    )
+                    with self.assertRaisesRegex(AssertionError, 'Unexpected URL scheme'):
+                        check_seo.audit(dist_dir=dist, dataset_path=dataset_path, aliases_path=aliases_path)
+
 
 if __name__ == '__main__':
     unittest.main()

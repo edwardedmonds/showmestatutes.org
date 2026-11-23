@@ -963,3 +963,53 @@ class ExecutiveSourceTests(unittest.TestCase):
             if value is None:r.pop(key,None)
             else:r[key]=value
             with self.assertRaises(ValueError):collect.validate(d)
+
+
+class FetchHardeningTests(unittest.TestCase):
+    def test_redirect_handler_blocks_downgrade_external_port_and_userinfo(self):
+        from urllib.request import Request
+        handler = collect.SafeRevisorRedirectHandler()
+        req = Request('https://revisor.mo.gov/main/OneSection.aspx?section=1.010&bid=1')
+        allowed = handler.redirect_request(
+            req, None, 302, 'Found', {}, 'https://REVISOR.MO.GOV/main/OneSection.aspx?section=1.010&bid=2'
+        )
+        self.assertEqual(allowed.full_url, 'https://REVISOR.MO.GOV/main/OneSection.aspx?section=1.010&bid=2')
+        bad_targets = [
+            'http://revisor.mo.gov/main/OneSection.aspx?section=1.010&bid=1',
+            'https://evil.example/main/OneSection.aspx?section=1.010&bid=1',
+            'https://revisor.mo.gov:8443/main/OneSection.aspx?section=1.010&bid=1',
+            'https://user@revisor.mo.gov/main/OneSection.aspx?section=1.010&bid=1',
+            'https://user:pass@revisor.mo.gov/main/OneSection.aspx?section=1.010&bid=1',
+        ]
+        for target in bad_targets:
+            with self.subTest(target=target):
+                with self.assertRaisesRegex(ValueError, 'Unexpected source redirect'):
+                    handler.redirect_request(req, None, 302, 'Found', {}, target)
+
+    def test_redirect_value_error_fails_fast_without_retry(self):
+        with tempfile.TemporaryDirectory() as directory:
+            response = Mock()
+            response.__enter__ = Mock(return_value=response)
+            response.__exit__ = Mock(return_value=False)
+            response.url = 'http://revisor.mo.gov/robots.txt'
+            response.read = Mock(return_value=b'<html></html>')
+            with unittest.mock.patch.object(collect.OPENER, 'open', return_value=response) as mock_open, \
+                    unittest.mock.patch.object(collect.time, 'sleep'):
+                with self.assertRaisesRegex(ValueError, 'Unexpected source redirect'):
+                    collect.collect(Path(directory), offline=False)
+                self.assertEqual(mock_open.call_count, 1)
+
+    def test_oversized_response_fails_cleanly_without_retry(self):
+        with tempfile.TemporaryDirectory() as directory:
+            response = Mock()
+            response.__enter__ = Mock(return_value=response)
+            response.__exit__ = Mock(return_value=False)
+            response.url = 'https://revisor.mo.gov/robots.txt'
+            response.read = Mock(side_effect=lambda limit=-1: b'x' * limit)
+            with unittest.mock.patch.object(collect, 'MAX_RESPONSE_BYTES', 1024), \
+                    unittest.mock.patch.object(collect.OPENER, 'open', return_value=response) as mock_open, \
+                    unittest.mock.patch.object(collect.time, 'sleep'):
+                with self.assertRaisesRegex(ValueError, 'exceeded size limit'):
+                    collect.collect(Path(directory), offline=False)
+                self.assertEqual(mock_open.call_count, 1)
+                response.read.assert_called_once_with(1025)

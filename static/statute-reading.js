@@ -18,9 +18,17 @@ for (const button of document.querySelectorAll('[data-copy-fragment], [data-copy
     clearStatus = setTimeout(() => { status.textContent = ''; }, 7000);
   });
 }
+function decodeHash(raw) {
+  try {
+    return decodeURIComponent(raw);
+  } catch {
+    return raw;
+  }
+}
 function updateGuide() {
+  const currentHash = decodeHash(location.hash);
   for (const link of document.querySelectorAll('.reading-links a')) {
-    if (decodeURIComponent(link.hash) === decodeURIComponent(location.hash)) link.setAttribute('aria-current', 'location');
+    if (decodeHash(link.hash) === currentHash) link.setAttribute('aria-current', 'location');
     else link.removeAttribute('aria-current');
   }
 }

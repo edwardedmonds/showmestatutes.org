@@ -196,6 +196,9 @@ export function effectiveDateLabel(r: StatuteRecord, asOf: string, future: boole
   if (r.effectiveDateIsPlaceholder) return 'Contingent effective date · the source date is a placeholder, not a scheduled start. Read the official conditions.';
   if (isContingent(r, asOf)) return `Contingent effective date · source date ${format(r.effectiveFrom)}. Read the official conditions before relying on this version.`;
   if (r.contingentUntil) return `Effective no later than ${format(r.contingentUntil)} · source date ${format(r.effectiveFrom)}. Read the official conditions.`;
+  if (!future && r.effectiveTo && !r.effectiveEndDateIsPlaceholder && r.effectiveTo <= asOf) {
+    return `Was effective ${format(r.effectiveFromFootnote ?? r.effectiveFrom)}${r.effectiveFromFootnote ? ` (source footnote) · header date ${format(r.effectiveFrom)}` : ''} · ended ${format(r.effectiveTo)}`;
+  }
   return `${future ? 'Upcoming · effective' : 'Effective'} ${format(r.effectiveFromFootnote ?? r.effectiveFrom)}${r.effectiveFromFootnote ? ` (source footnote) · header date ${format(r.effectiveFrom)}` : ''}${r.effectiveEndDateIsPlaceholder ? ' · end date is contingent; read the source conditions' : r.effectiveTo ? ` · ends ${format(r.effectiveTo)}` : ''}`;
 }
 

@@ -2,6 +2,7 @@
 import importlib.util
 import json
 from pathlib import Path
+import time
 import unittest
 from bs4 import BeautifulSoup
 
@@ -131,5 +132,15 @@ class FullTextTests(unittest.TestCase):
         encoded = json.dumps(result)
         for target in ['"tag": "strong"', '"tag": "sup"', '"tag": "sub"', 'https://revisor.mo.gov/main/OneSection.aspx?section=1.010']:
             self.assertIn(target, encoded)
+
+    def test_numbering_regexes_are_linear_on_long_whitespace(self):
+        payload = ' ' * 20000 + 'x'
+        start = time.perf_counter()
+        self.assertIsNone(ft.NUMBER.match(payload))
+        self.assertIsNone(ft.COMPOUND.match(payload))
+        elapsed = time.perf_counter() - start
+        self.assertLess(elapsed, 0.1)
+        self.assertEqual(ft.NUMBER.match('   **  12. Text').group(1), '12')
+        self.assertIsNotNone(ft.COMPOUND.match('   * 1.2'))
 
 if __name__ == '__main__': unittest.main()

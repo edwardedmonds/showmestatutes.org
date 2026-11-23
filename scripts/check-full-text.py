@@ -63,12 +63,22 @@ def main():
     assert manifest['complete'] and not manifest['errors']
     assert manifest['datasetSha256']==sha(source)
     assert (args.dist/'data/statutes.json').read_text()==source,'Heading data changed'
+    candidate_dir = args.candidate.resolve()
+    statutes_dir = (args.dist / 'statutes').resolve()
     versions=0;pages={};navigation_review=[]
     for shard in manifest['chapters']:
-        raw=(args.candidate/shard['file']).read_text()
+        chapter = shard.get('chapter')
+        assert isinstance(chapter, str) and chapter.isdigit(), f'Invalid chapter: {chapter}'
+        assert shard.get('file') == f'chapter-{chapter}.json', f'Unexpected shard filename: {shard.get("file")}'
+        shard_path = (args.candidate / shard['file']).resolve()
+        assert shard_path.is_relative_to(candidate_dir), f'Shard escapes candidate directory: {shard["file"]}'
+        raw=shard_path.read_text()
         assert sha(raw)==shard['sha256']
         for r in json.loads(raw):
-            path=args.dist/'statutes'/r['section']/'index.html'
+            section = r.get('section')
+            assert isinstance(section, str) and section and '/' not in section and '\\' not in section and '..' not in section, f'Invalid section path: {section}'
+            path=(args.dist/'statutes'/section/'index.html').resolve()
+            assert path.is_relative_to(statutes_dir), f'Section HTML escapes dist/statutes: {section}'
             # Keep only the current page; alternate versions are adjacent in a chapter shard.
             if str(path) not in pages:pages={str(path):ReadingPage(path.read_bytes().decode('utf-8'))}
             doc=pages[str(path)]; identity=r['id']

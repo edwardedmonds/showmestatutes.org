@@ -105,7 +105,7 @@ export default defineConfig({
     },
   }, {
     name: 'statute-heading-index',
-    transformIndexHtml(html) { return homepageSeo(html, dataset); },
+    transformIndexHtml(html, ctx) { return homepageSeo(html, dataset, !ctx.server); },
     generateBundle() {
       for (const [fileName, source] of Object.entries(assets())) this.emitFile({ type: 'asset', fileName, source });
     },
@@ -125,7 +125,7 @@ export default defineConfig({
       server.middlewares.use((req, res, next) => {
         let name = req.url?.split('?')[0].replace(/^\//, '');
         if (name?.endsWith('/')) name += 'index.html';
-        if (!name || !(name in files)) return next();
+        if (!name || !Object.hasOwn(files, name)) return next();
         const type = name.endsWith('.json') ? 'application/json' : name.endsWith('.html') ? 'text/html' : name.endsWith('.css') ? 'text/css' : name.endsWith('.xml') ? 'application/xml' : 'text/plain';
         res.setHeader('Content-Type', type + '; charset=utf-8');
         res.setHeader('Cache-Control', 'no-store');

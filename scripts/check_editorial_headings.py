@@ -22,16 +22,25 @@ def main():
     assert (args.dist/'data/statutes.json').read_text() == source
     entries = {e['id']: e for e in snapshot['entries']}
     counts = {'displayedHeadings': 0, 'displayedVersions': 0, 'withheldVersions': 0}
+    candidate_dir = args.candidate.resolve()
+    statutes_dir = (args.dist / 'statutes').resolve()
     pages = {}; seen = set()
     for chapter in {e['id'].split('.')[0] for e in entries.values()}:
-        for text in json.loads((args.candidate/f'chapter-{chapter}.json').read_text()):
+        assert isinstance(chapter, str) and chapter.isdigit(), f'Invalid chapter: {chapter}'
+        shard_name = f'chapter-{chapter}.json'
+        shard_path = (args.candidate / shard_name).resolve()
+        assert shard_path.is_relative_to(candidate_dir), f'Shard escapes candidate directory: {shard_name}'
+        for text in json.loads(shard_path.read_text()):
             if text['id'] not in entries:
                 continue
             identity = text['id']; entry = entries[identity]; seen.add(identity)
             section = text['section']
+            assert isinstance(section, str) and section and '/' not in section and '\\' not in section and '..' not in section, f'Invalid section path: {section}'
             if section not in pages:
                 # Preserve CR characters in archived notes for exact comparison.
-                html = (args.dist/'statutes'/section/'index.html').read_bytes().decode('utf-8')
+                html_path = (args.dist/'statutes'/section/'index.html').resolve()
+                assert html_path.is_relative_to(statutes_dir), f'Section HTML escapes dist/statutes: {section}'
+                html = html_path.read_bytes().decode('utf-8')
                 pages = {section: (BeautifulSoup(html, 'html.parser'), audit.ReadingPage(html))}
             soup, doc = pages[section]
             assert ''.join(doc.parts[(identity, 'heading')]) == text['headingText'], identity

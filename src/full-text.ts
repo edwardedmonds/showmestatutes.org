@@ -12,8 +12,8 @@ export const textContent = (node: TextNode): string => typeof node === 'string' 
 /** Recompute the complete navigation plan; validating only supplied anchors can
  * miss a footnote-marked final subsection and silently attach it to its predecessor. */
 export function navigationFor(blocks: TextNode[]) {
-  const number = /^\s*\**\s*([0-9]+)\.\s+/;
-  const compound = /^\s*\**\s*[0-9]+\.[0-9]/;
+  const number = /^\s*(?:\*+\s*)?([0-9]+)\.\s+/;
+  const compound = /^\s*(?:\*+\s*)?[0-9]+\.[0-9]/;
   const hierarchy = /^\s*(?:ARTICLE|SECTION|PART)\s+(?:[IVXLC]+|[0-9]+)(?:\.(?=\s|$)|(?=\s|$))/i;
   const lettered = /^\s*[A-Z]+[.)]\s+/;
   const starts: {number: number; block: number}[] = [];

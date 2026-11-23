@@ -4,7 +4,7 @@ import { renderFullText, type FullText } from './full-text';
 import { headingsFor, type HeadingRegistry } from './subsection-headings';
 import { statutePath, statuteVersionPath } from './paths';
 
-interface TopicPage {
+export interface TopicPage {
   slug: string;
   title: string;
   description: string;
@@ -26,17 +26,21 @@ export const escapeHtml = (value: string) => value.replace(/[&<>"']/g, character
 const json = (value: unknown) => JSON.stringify(value).replace(/</g, '\\u003c');
 const dateFormatter = new Intl.DateTimeFormat('en-US', { dateStyle: 'medium', timeZone: 'UTC' });
 const date = (value: string) => dateFormatter.format(new Date(value));
+const TOPIC_SLUG_PATTERN = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
+const cspMeta = (allowInlineStyle = false) =>
+  `<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'${allowInlineStyle ? " 'unsafe-inline'" : ''}; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'">`;
 
 export function metadata(title: string, description: string, path: string) {
   const url = siteUrl + path;
   return `<meta name="description" content="${escapeHtml(description)}">
-<link rel="canonical" href="${url}">
+<meta name="referrer" content="no-referrer">
+<link rel="canonical" href="${escapeHtml(url)}">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Show Me Statutes">
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content="${escapeHtml(title)}">
 <meta property="og:description" content="${escapeHtml(description)}">
-<meta property="og:url" content="${url}">
+<meta property="og:url" content="${escapeHtml(url)}">
 <meta property="og:image" content="${siteUrl}/social-card.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -56,16 +60,17 @@ export const websiteSchema = {
   name: 'Show Me Statutes', url: siteUrl + '/', description: siteDescription, inLanguage: 'en-US',
 };
 
-export function homepageSeo(html: string, dataset: Dataset) {
+export function homepageSeo(html: string, dataset: Dataset, includeCsp = true) {
   return html.replace(/<title>.*?<\/title>/, `<title>${siteTitle}</title>`)
     .replace(/\s*<meta name="description"[^>]*>/, '')
+    .replace(/\s*<meta name="referrer"[^>]*>/, '')
     .replace(/\s*<link rel="canonical"[^>]*>/, '')
-    .replace('</head>', `${metadata(siteTitle, siteDescription, '/')}
+    .replace('</head>', `${includeCsp ? `${cspMeta()}\n` : ''}${metadata(siteTitle, siteDescription, '/')}
 <script type="application/ld+json">${json(websiteSchema)}</script>\n</head>`)
     .replace('<p id="coverage-stats"></p>', `<p id="coverage-stats">${dataset.manifest.sectionCount.toLocaleString('en-US')} distinct sections · ${dataset.manifest.recordCount.toLocaleString('en-US')} source versions · ${dataset.manifest.chapters.filter(c => c.sectionCount).length} chapters with headings</p>`);
 }
 
-function page(title: string, description: string, path: string, content: string, stylesheet: string, breadcrumb: { name: string; path: string }[], pageType = 'CollectionPage', alternateName?: string[]) {
+function page(title: string, description: string, path: string, content: string, stylesheet: string, breadcrumb: { name: string; path: string }[], pageType = 'CollectionPage', alternateName?: string[], allowInlineStyle = false) {
   const pageNode: Record<string, unknown> = {
     '@type': pageType, '@id': siteUrl + path, name: title, description, url: siteUrl + path, inLanguage: 'en-US', isPartOf: { '@id': siteUrl + '/#website' },
   };
@@ -76,12 +81,13 @@ function page(title: string, description: string, path: string, content: string,
   ] };
   return `<!doctype html>
 <html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="color-scheme" content="light"><title>${escapeHtml(title)}</title>
+${cspMeta(allowInlineStyle)}
 ${metadata(title, description, path)}
-<link rel="stylesheet" href="${stylesheet}">
+<link rel="stylesheet" href="${escapeHtml(stylesheet)}">
 <script type="application/ld+json">${json(schema)}</script></head><body>
 <a class="skip-link" href="#main">Skip to content</a>
 <header class="site-header"><a class="brand" href="/" aria-label="Show Me Statutes home"><span class="brand-mark" aria-hidden="true">§</span> Show Me Statutes</a><nav class="site-nav" aria-label="Main navigation"><a href="/#search">Search</a><a href="/topics/">Browse topics</a><a href="/chapters/">Browse chapters</a><a href="/#coverage">Coverage &amp; sources</a><a href="/about/">About &amp; accuracy</a></nav></header>
-<main id="main" class="browse-main"><nav class="breadcrumbs" aria-label="Breadcrumb">${breadcrumb.map((item, index) => index === breadcrumb.length - 1 ? `<span aria-current="page">${escapeHtml(item.name)}</span>` : `<a href="${item.path}">${escapeHtml(item.name)}</a> <span aria-hidden="true">/</span>`).join(' ')}</nav>${content}</main>
+<main id="main" class="browse-main"><nav class="breadcrumbs" aria-label="Breadcrumb">${breadcrumb.map((item, index) => index === breadcrumb.length - 1 ? `<span aria-current="page">${escapeHtml(item.name)}</span>` : `<a href="${escapeHtml(item.path)}">${escapeHtml(item.name)}</a> <span aria-hidden="true">/</span>`).join(' ')}</nav>${content}</main>
 <footer><span>SHOW ME STATUTES</span><p>Independent search. Links to official sources.<br>Not affiliated with the State of Missouri. Not legal advice.</p><a href="/about/">About &amp; accuracy</a><a href="/about/#report-an-error">Report an error</a><a href="/licenses.txt">MIT &amp; license notices</a><a href="https://github.com/edwardedmonds/showmestatutes.org">Project on GitHub ↗</a></footer></body></html>`;
 }
 
@@ -94,12 +100,20 @@ function recordNotices(record: Statute): string[] {
 
 function recordHtml(record: Statute, asOf: string, onStatutePage = false, fullText?: FullText, headingRegistry?: HeadingRegistry) {
   const notices = recordNotices(record);
-  return `<li class="result-card${fullText ? ' reading-version' : ''}" id="version-${escapeHtml(record.id)}"><div class="card-meta"><span class="section-number">§ ${escapeHtml(record.section)}${record.headingMarker ? ' *' : ''}</span><span>Source version ${record.versionId}</span></div>
+  const dateLabel = effectiveDateLabel(record, asOf, isUpcoming(record, asOf));
+  const citation = [
+    `§ ${record.section}, RSMo.`,
+    `Source version ${record.versionId}.`,
+    `${dateLabel.replace(/\.+$/, '')}.`,
+    ...notices.map(n => n.trim()).filter(Boolean),
+    record.sourceUrl,
+  ].join(' ');
+  return `<li class="result-card${fullText ? ' reading-version' : ''}" id="version-${escapeHtml(record.id)}"><div class="card-meta"><span class="section-number">§ ${escapeHtml(record.section)}${record.headingMarker ? ' *' : ''}</span><span>Source version ${escapeHtml(record.versionId)}</span></div>
 <h2 class="browse-heading"><a href="${escapeHtml(onStatutePage ? record.sourceUrl : statuteVersionPath(record.section, record.id))}">${escapeHtml(record.title)}</a></h2>
-<p class="version">${escapeHtml(effectiveDateLabel(record, asOf, isUpcoming(record, asOf)))}</p>
+<p class="version">${escapeHtml(dateLabel)}</p>
 ${notices.map(notice => `<p class="version">${escapeHtml(notice)}</p>`).join('\n')}
 <p class="version">Source checked ${date(record.sourceCheckedAt)}</p>
-<a class="official-link" href="${escapeHtml(record.sourceUrl)}">Read this version at the Revisor ↗</a>${fullText ? `<button type="button" class="copy-citation" data-copy-citation="${escapeHtml(`§ ${record.section}, RSMo. Source version ${record.versionId}. ${effectiveDateLabel(record, asOf, isUpcoming(record, asOf))}. ${notices.join(' ')} ${record.sourceUrl}`)}" hidden>Copy citation</button>${renderFullText(fullText, headingRegistry ? headingsFor(fullText, headingRegistry) : undefined)}` : ''}</li>`;
+<a class="official-link" href="${escapeHtml(record.sourceUrl)}">Read this version at the Revisor ↗</a>${fullText ? `<button type="button" class="copy-citation" data-copy-citation="${escapeHtml(citation)}" hidden>Copy citation</button>${renderFullText(fullText, headingRegistry ? headingsFor(fullText, headingRegistry) : undefined)}` : ''}</li>`;
 }
 
 function topicSectionHtml(record: Statute, versionCount: number, asOf: string) {
@@ -112,7 +126,17 @@ ${notices.map(notice => `<p class="version">${escapeHtml(notice)}</p>`).join('\n
 <a class="official-link" href="${escapeHtml(record.sourceUrl)}">Read this version at the Revisor ↗</a></li>`;
 }
 
-export function browseAssets(dataset: Dataset, stylesheet: string, asOf: string, fullText?: Map<string, FullText>, headingRegistry?: HeadingRegistry): Record<string, string> {
+export function browseAssets(dataset: Dataset, stylesheet: string, asOf: string, fullText?: Map<string, FullText>, headingRegistry?: HeadingRegistry, topics: readonly TopicPage[] = topicPages): Record<string, string> {
+  const seenTopicSlugs = new Set<string>();
+  for (const topic of topics) {
+    if (typeof topic.slug !== 'string' || !TOPIC_SLUG_PATTERN.test(topic.slug)) {
+      throw new Error(`Invalid topic slug: ${String(topic.slug)}`);
+    }
+    if (seenTopicSlugs.has(topic.slug)) {
+      throw new Error(`Duplicate topic slug: ${topic.slug}`);
+    }
+    seenTopicSlugs.add(topic.slug);
+  }
   const chapters = dataset.manifest.chapters.filter(c => c.sectionCount);
   const empty = dataset.manifest.chapters.filter(c => !c.sectionCount);
   const files: Record<string, string> = {};
@@ -216,6 +240,7 @@ ${fullText?.has(records[0].id) ? '<p id="copy-status" role="status" aria-live="p
 ${relatedHtml}
 <p class="version">Version labels evaluated as of ${date(asOf)}. Source-check dates are shown on each version; rebuilding this page does not recheck the law.</p>
 <nav class="chapter-navigation" aria-label="Continue browsing"><a href="/chapters/${chapter.chapter}/">← All Chapter ${chapter.chapter} sections</a><a href="/#search">Search another statute</a></nav>`;
+    const hasFullText = Boolean(fullText && records.some(r => fullText.has(r.id)));
     files[`statutes/${encodeURIComponent(section)}/index.html`] = page(
       title,
       description,
@@ -225,6 +250,7 @@ ${relatedHtml}
       [...rootBreadcrumb, { name: `Chapter ${chapter.chapter}`, path: `/chapters/${chapter.chapter}/` }, { name: `§ ${section}`, path }],
       'WebPage',
       sectionAliases,
+      hasFullText,
     );
   }
 
@@ -233,8 +259,8 @@ ${relatedHtml}
 <h1>Browse Missouri statutes by topic</h1>
 <p class="intro">Curated plain-English entry points to frequently searched Missouri Revised Statutes (RSMo) sections, organized by everyday legal topic.</p>
 <p class="statute-note">Curated topic index to official Missouri statute headings — not legal advice or an exhaustive list of every law that may apply.</p>
-<p>${topicPages.length} curated topic guides · <a href="/#search">Search all ${dataset.manifest.sectionCount.toLocaleString('en-US')} sections</a> or <a href="/chapters/">browse by chapter</a>.</p>
-<ul class="topic-directory">${topicPages.map(topic => {
+<p>${topics.length} curated topic guides · <a href="/#search">Search all ${dataset.manifest.sectionCount.toLocaleString('en-US')} sections</a> or <a href="/chapters/">browse by chapter</a>.</p>
+<ul class="topic-directory">${topics.map(topic => {
     const validSections = topic.sections.filter(s => bySection.has(s));
     return `<li><a href="/topics/${escapeHtml(topic.slug)}/"><span>${escapeHtml(topic.title)}</span></a><p>${escapeHtml(topic.description)}</p><small>${validSections.length} statute section${validSections.length === 1 ? '' : 's'}</small></li>`;
   }).join('\n')}</ul>`;
@@ -247,7 +273,7 @@ ${relatedHtml}
     topicsBreadcrumb,
   );
 
-  for (const topic of topicPages) {
+  for (const topic of topics) {
     const path = `/topics/${topic.slug}/`;
     const title = `${topic.title} | Show Me Statutes`;
     const validSections = topic.sections.filter(s => bySection.has(s));
@@ -276,13 +302,13 @@ ${relatedHtml}
   }
 
   const sitemapUrlset = (paths: string[]) =>
-    `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${paths.map(path => `<url><loc>${siteUrl}${path}</loc></url>`).join('\n')}</urlset>\n`;
+    `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${paths.map(path => `<url><loc>${escapeHtml(siteUrl + path)}</loc></url>`).join('\n')}</urlset>\n`;
   const coreUrls = [
     '/',
     '/about/',
     '/chapters/',
     '/topics/',
-    ...topicPages.map(t => `/topics/${t.slug}/`),
+    ...topics.map(t => `/topics/${t.slug}/`),
   ];
   const chapterUrls = chapters.map(c => `/chapters/${c.chapter}/`);
   const statuteUrls = [...bySection.keys()].map(statutePath);
@@ -295,7 +321,7 @@ ${relatedHtml}
     childSitemaps.push(name);
     files[name] = sitemapUrlset(statuteUrls.slice(i, i + SITEMAP_STATUTE_CHUNK_SIZE));
   }
-  files['sitemap.xml'] = `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${childSitemaps.map(name => `<sitemap><loc>${siteUrl}/${name}</loc></sitemap>`).join('\n')}</sitemapindex>\n`;
+  files['sitemap.xml'] = `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${childSitemaps.map(name => `<sitemap><loc>${escapeHtml(`${siteUrl}/${name}`)}</loc></sitemap>`).join('\n')}</sitemapindex>\n`;
   files['robots.txt'] = `User-agent: *\nAllow: /\n\nSitemap: ${siteUrl}/sitemap.xml\n`;
   return files;
 }

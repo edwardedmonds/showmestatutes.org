@@ -79,17 +79,30 @@ function group(title: string, matches: Match[], asOf: string, future = false) {
   heading.append(element('span', String(matches.length), 'result-count'));
   section.append(heading);
   const list = element('ol', undefined, 'result-list');
+  const PAGE_SIZE = 50;
   let visibleCount = Math.min(matches.length, 8);
-  matches.slice(0, visibleCount).forEach(m => list.append(card(m, future, asOf)));
+  const initialFragment = document.createDocumentFragment();
+  for (let i = 0; i < visibleCount; i++) initialFragment.append(card(matches[i], future, asOf));
+  list.append(initialFragment);
   section.append(list);
   if (matches.length > visibleCount) {
-    const more = element('button', `Show ${matches.length - visibleCount} more headings`, 'show-more');
+    const moreLabel = () => {
+      const remaining = matches.length - visibleCount;
+      return remaining > PAGE_SIZE
+        ? `Show ${PAGE_SIZE} more of ${remaining} remaining headings`
+        : `Show remaining ${remaining} heading${remaining === 1 ? '' : 's'}`;
+    };
+    const more = element('button', moreLabel(), 'show-more');
     more.type = 'button';
     more.addEventListener('click', () => {
       const firstNew = visibleCount;
-      matches.slice(visibleCount).forEach(m => list.append(card(m, future, asOf)));
-      visibleCount = matches.length;
-      more.remove();
+      const nextCount = Math.min(matches.length, visibleCount + PAGE_SIZE);
+      const fragment = document.createDocumentFragment();
+      for (let i = visibleCount; i < nextCount; i++) fragment.append(card(matches[i], future, asOf));
+      list.append(fragment);
+      visibleCount = nextCount;
+      if (visibleCount >= matches.length) more.remove();
+      else more.textContent = moreLabel();
       list.children[firstNew]?.querySelector('a')?.focus();
     });
     section.append(more);
@@ -133,7 +146,13 @@ function syncUrl() {
   const qs = params.toString();
   const next = `${window.location.pathname}${qs ? `?${qs}` : ''}${window.location.hash}`;
   const current = `${window.location.pathname}${window.location.search}${window.location.hash}`;
-  if (next !== current) history.replaceState(null, '', next);
+  if (next !== current) {
+    try {
+      history.replaceState(null, '', next);
+    } catch {
+      /* Ignore SecurityError from browser history rate limits so search rendering is never aborted. */
+    }
+  }
 }
 function hydrateFromUrl() {
   const params = new URLSearchParams(window.location.search);
@@ -171,7 +190,6 @@ function runSearch(shouldSyncUrl = true) {
   const asOf = todayInMissouri();
   results.replaceChildren();
   if (query !== previousQuery) { selectedChapter = ''; expandedChapters = false; previousQuery = query; }
-  if (shouldSyncUrl) syncUrl();
   resultsHeading.hidden = !query;
   resultsHeading.textContent = query ? `Results for “${query}”` : '';
   if (!query) {
@@ -179,6 +197,7 @@ function runSearch(shouldSyncUrl = true) {
     activeFilter.hidden = true;
     matchingChaptersSection.hidden = true;
     status.textContent = `Ready to search ${dataset.manifest.sectionCount.toLocaleString()} section headings. Enter a topic or section number above.`;
+    if (shouldSyncUrl) syncUrl();
     return;
   }
   const key = JSON.stringify([query, asOf, upcoming.checked]);
@@ -203,6 +222,7 @@ function runSearch(shouldSyncUrl = true) {
     empty.append(source);
     results.append(empty);
   }
+  if (shouldSyncUrl) syncUrl();
 }
 form.addEventListener('submit', event => {
   event.preventDefault();

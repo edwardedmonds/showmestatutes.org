@@ -13,6 +13,7 @@ ORIGIN = 'https://showmestatutes.org'
 SITEMAP_NS = 'http://www.sitemaps.org/schemas/sitemap/0.9'
 SITEMAP_MAX_URLS = 10_000
 SITEMAP_MAX_BYTES = 10 * 1024 * 1024
+ALLOWED_URL_SCHEMES = {'', 'http', 'https', 'mailto'}
 
 
 class Document(HTMLParser):
@@ -123,6 +124,7 @@ def validate_sitemaps(dist_dir, expected_urls):
 
 def audit(dist_dir=DIST, dataset_path=None, aliases_path=None):
     dist_dir = Path(dist_dir)
+    resolved_dist = dist_dir.resolve()
     resolved_dataset = resolve_dataset_path(dataset_path)
     resolved_aliases = Path(aliases_path) if aliases_path is not None else ROOT / 'data/aliases.json'
 
@@ -156,15 +158,19 @@ def audit(dist_dir=DIST, dataset_path=None, aliases_path=None):
             href = attrs.get('href') or (attrs.get('src') if tag in ('script', 'img') else None)
             if not href or href.startswith('#'):
                 continue
-            url = urlsplit(href)
+            url = urlsplit(href.strip())
+            assert url.scheme in ALLOWED_URL_SCHEMES, f'Unexpected URL scheme {relative}: {href}'
+            if url.scheme == 'mailto':
+                continue
             if url.netloc and url.netloc != 'showmestatutes.org':
                 continue
-            if url.scheme and url.scheme not in ('http', 'https'):
-                continue
             target = dist_dir / unquote(url.path).lstrip('/') if url.path.startswith('/') else path.parent / unquote(url.path)
-            if target.is_dir():
-                target /= 'index.html'
-            assert target.is_file(), f'Broken internal link {relative}: {href}'
+            resolved_target = target.resolve()
+            assert resolved_target.is_relative_to(resolved_dist), f'Internal link escapes dist {relative}: {href}'
+            if resolved_target.is_dir():
+                resolved_target = (resolved_target / 'index.html').resolve()
+                assert resolved_target.is_relative_to(resolved_dist), f'Internal link escapes dist {relative}: {href}'
+            assert resolved_target.is_file(), f'Broken internal link {relative}: {href}'
             links += 1
         urls.add(canonical)
 

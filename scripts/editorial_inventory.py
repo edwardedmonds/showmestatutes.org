@@ -40,10 +40,16 @@ def main():
             if entry['reviewStatus'] == 'source-checked':
                 assert entry.get('reviewedBy') and entry['reviewedBy'] != entry['draftedBy'] and entry.get('reviewSummary'), entry['id']
             registry[entry['id']] = entry
+    candidate_dir = args.candidate.resolve()
     counts = {s: {'versions': 0, 'headings': 0} for s in STAGES}
     chapters = []; versions = []; source_ids = set()
     for shard in manifest['chapters']:
-        raw = (args.candidate/shard['file']).read_bytes()
+        chapter = shard.get('chapter')
+        assert isinstance(chapter, str) and chapter.isdigit(), f'Invalid chapter: {chapter}'
+        assert shard.get('file') == f'chapter-{chapter}.json', f'Unexpected shard filename: {shard.get("file")}'
+        shard_path = (args.candidate / shard['file']).resolve()
+        assert shard_path.is_relative_to(candidate_dir), f'Shard escapes candidate directory: {shard["file"]}'
+        raw = shard_path.read_bytes()
         assert hashlib.sha256(raw).hexdigest() == shard['sha256']
         totals = {s: {'versions': 0, 'headings': 0} for s in STAGES}
         for source in json.loads(raw):

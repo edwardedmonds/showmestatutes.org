@@ -21,6 +21,7 @@ const preservePlural = new Set([
 
 export function singularize(word: string): string {
   if (word.length < 4 || preservePlural.has(word)) return word;
+  if (word === 'duis' || word === 'dwis') return word.slice(0, -1);
   if (word.length >= 5 && word.endsWith('ies')) return word.slice(0, -3) + 'y';
   if (word.length >= 5 && /(?:ches|shes|xes|zes|sses)$/.test(word)) return word.slice(0, -2);
   if (word.endsWith('s') && !word.endsWith('ss') && !word.endsWith('us') && !word.endsWith('is') && !word.endsWith('os')) {
@@ -229,24 +230,32 @@ export function createSearch(records: StatuteRecord[], index = buildIndex(record
     const topicSections = topicsByKey.get(normalized) ?? topicsByKey.get(canonicalCorrected.join(' ')) ?? [];
     const queryDegree = corrected.find(t => degrees.includes(t));
     const wantsProcedure = corrected.some(t => procedureWords.includes(t));
-    const candidates = index.search(normalized, { combineWith: 'OR', prefix: term => term.length >= 3, fuzzy: false });
+    const nonSubstantive = new Set([...degrees, 'degree', 'penalty', 'offense']);
+    const substantiveRaw = corrected.filter(t => !nonSubstantive.has(singularize(t)));
+    const substantive = substantiveRaw.map(singularize);
+    const querySignature = signature(normalized);
+    const candidates = substantiveRaw.length > 0
+      ? index.search(substantiveRaw.join(' '), { combineWith: 'AND', prefix: term => term.length >= 3, fuzzy: false })
+      : index.search(normalized, { combineWith: 'OR', prefix: term => term.length >= 3, fuzzy: false });
     const termMatchesWord = (qTerm: string, word: string) => word === qTerm || (qTerm.length >= 3 && word.startsWith(qTerm));
     const scoreRecord = (record: StatuteRecord, miniSearchScore: number): Match | null => {
       if (!inScope(record)) return null;
-      const headingTerms = canonicalTerms(record.title);
+      const rawHeadingTerms = terms(record.title);
+      const headingTerms = [...new Set(rawHeadingTerms.map(singularize))];
       if (queryDegree && headingTerms.some(t => degrees.includes(t)) && !headingTerms.includes(queryDegree)) return null;
       const aliasList = aliases[record.section] ?? [];
-      const sequences = [headingTerms, ...aliasList.map(canonicalTerms)];
-      const substantive = canonicalCorrected.filter(t => ![...degrees, 'degree', 'penalty', 'offense'].includes(t));
+      const rawAliasTerms = aliasList.map(terms);
+      const aliasCanonicalTerms = rawAliasTerms.map(raw => [...new Set(raw.map(singularize))]);
+      const sequences = [headingTerms, ...aliasCanonicalTerms];
       // Do not drop a topic-defining word (e.g. "rent") just because generic
       // words such as "security deposit" match an unrelated heading.
       if (substantive.length && !sequences.some(words => substantive.every(t => words.some(w => termMatchesWord(t, w))))) return null;
       const coverage = Math.max(...sequences.map(words => canonicalCorrected.filter(t => words.some(w => termMatchesWord(t, w))).length / canonicalCorrected.length));
       if (coverage < .6) return null;
-      const exactAlias = aliasList.some(alias => signature(alias) === signature(normalized));
-      const exactHeading = signature(record.title) === signature(normalized);
-      const leadingHeading = signature(record.title.split(/[—,]/, 1)[0]) === signature(normalized);
-      const rawSequences = [terms(record.title), ...aliasList.map(terms)];
+      const exactAlias = aliasCanonicalTerms.some(words => [...words].sort().join(' ') === querySignature);
+      const exactHeading = [...headingTerms].sort().join(' ') === querySignature;
+      const leadingHeading = signature(record.title.split(/[—,]/, 1)[0]) === querySignature;
+      const rawSequences = [rawHeadingTerms, ...rawAliasTerms];
       const exactFormCoverage = Math.max(...rawSequences.map(words => corrected.filter(t => words.some(w => w === t)).length / corrected.length));
       const procedure = isProcedure(record);
       let score = (coverage === 1 ? 150 : coverage * 60) + (exactAlias ? 150 : 0) + (exactHeading ? 160 : leadingHeading ? 90 : 0) + exactFormCoverage * 4;

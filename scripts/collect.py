@@ -13,8 +13,9 @@ import json
 from pathlib import Path
 import re
 import time
+from urllib.error import URLError
 from urllib.parse import parse_qs, urljoin, urlparse
-from urllib.request import Request, urlopen
+from urllib.request import HTTPRedirectHandler, Request, build_opener
 from urllib.robotparser import RobotFileParser
 from bs4 import BeautifulSoup
 
@@ -37,6 +38,31 @@ REVIEWED_OVERLAPS = POLICY.get('delayedEnactments', []) + POLICY.get('reprintedE
 def index_url(chapter):
     return BASE + '/main/OneChapter.aspx?chapter=' + chapter
 AGENT = 'ShowMeStatutes/0.1 (+https://github.com/edwardedmonds/showmestatutes.org)'
+MAX_RESPONSE_BYTES = 16 * 1024 * 1024
+REVISOR_HOST = (urlparse(BASE).hostname or '').lower()
+
+
+def _assert_revisor_https_url(url):
+    parsed = urlparse(url)
+    try:
+        port = parsed.port
+    except ValueError:
+        raise ValueError(f'Unexpected source redirect: {url}') from None
+    if (parsed.scheme.lower() != 'https'
+            or (parsed.hostname or '').lower() != REVISOR_HOST
+            or port is not None
+            or parsed.username is not None
+            or parsed.password is not None):
+        raise ValueError(f'Unexpected source redirect: {url}')
+
+
+class SafeRevisorRedirectHandler(HTTPRedirectHandler):
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        _assert_revisor_https_url(urljoin(req.full_url, newurl))
+        return super().redirect_request(req, fp, code, msg, headers, newurl)
+
+
+OPENER = build_opener(SafeRevisorRedirectHandler())
 
 
 def clean(text):
@@ -424,16 +450,19 @@ def collect(cache, offline=False):
             raise ValueError(f'Offline source missing: {url}')
         if robots and not robots.can_fetch(AGENT, url):
             raise ValueError('robots.txt disallows source: ' + url)
+        _assert_revisor_https_url(url)
         for attempt in range(3):
             time.sleep(max(0, 1.0 - (time.monotonic() - last_fetch)))
             last_fetch = time.monotonic()
             try:
-                with urlopen(Request(url, headers={'User-Agent': AGENT, 'Cache-Control': 'no-cache'}), timeout=45) as response:
-                    if urlparse(response.url).hostname != urlparse(BASE).hostname:
-                        raise ValueError('Unexpected source redirect')
-                    html = response.read().decode('utf-8-sig')
+                with OPENER.open(Request(url, headers={'User-Agent': AGENT, 'Cache-Control': 'no-cache'}), timeout=45) as response:
+                    _assert_revisor_https_url(response.url)
+                    raw = response.read(MAX_RESPONSE_BYTES + 1)
+                    if len(raw) > MAX_RESPONSE_BYTES:
+                        raise ValueError('Source response exceeded size limit')
+                    html = raw.decode('utf-8-sig')
                 break
-            except Exception:
+            except (URLError, TimeoutError, OSError):
                 if attempt == 2:
                     raise
                 time.sleep(2 ** (attempt + 1))
