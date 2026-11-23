@@ -53,4 +53,4 @@ Each opted-in build saves an ignored audit snapshot at `data/editorial-work/last
 - **Tests**: Targeted Vitest suite passed (`4/4` files, `29/29` tests across `subsection-headings`, `subsection-headings-build`, `full-text`, and `seo`) and full Python test suite passed (`111/111` tests).
 - **Local browser checks**: Verified on `http://127.0.0.1:8775/` across desktop (`1280px` on `/statutes/375.012/` and `/` MiniSearch) and mobile (`375px` and `320px` on dual-version `/statutes/376.1516/`), confirming editorial disclaimers, exact subsection jump links, zero horizontal overflow, and zero console errors.
 
-All reviews are AI editorial checks, not independent legal review. The expansion remains local and unpublished.
+All reviews are AI editorial checks, not independent legal review. Release builds in `.github/workflows/check.yml` require `STATUTES_REQUIRE_COMPLETE_HEADINGS=1` alongside `scripts/check-full-text.py`, `scripts/check_editorial_headings.py`, and `npm run seo:check`.

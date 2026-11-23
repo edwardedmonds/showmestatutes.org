@@ -21,6 +21,7 @@ data/.refresh.lock
 public/data/*.next
 data/.collect.lock
 
-# Local full-text candidates and inventory; not part of the heading dataset.
-data/full-text/
+# Keep scratch full-text candidates and editorial work logs local; track the validated statewide-4 release snapshot.
+data/full-text/*
+!data/full-text/statewide-4/
 data/editorial-work/

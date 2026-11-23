@@ -17,7 +17,7 @@ concurrency:
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v7
         with:
@@ -35,6 +35,12 @@ jobs:
       - run: python -m unittest discover -s tests -p 'test_*.py'
       - run: npm test
       - run: npm run build
+        env:
+          STATUTES_FULL_TEXT: data/full-text/statewide-4
+          STATUTES_SUBSECTION_HEADINGS: statewide
+          STATUTES_REQUIRE_COMPLETE_HEADINGS: '1'
+      - run: python3 scripts/check-full-text.py data/full-text/statewide-4
+      - run: python3 scripts/check_editorial_headings.py
       - run: npm run seo:check
       - name: Upload validated site
         if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
