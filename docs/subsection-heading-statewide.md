@@ -1,6 +1,6 @@
 # Local statewide editorial headings
 
-The user authorized statewide expansion and parallel drafting/review on November 15, 2026. Everything remains on `feature/statute-full-text`; no push, deployment, or changes to the live site are authorized.
+The user authorized statewide expansion and parallel drafting/review on November 15, 2026. The work was completed on `feature/statute-full-text-antigravity` and fast-forward merged into `feature/statute-full-text` and local `main` (46 commits ahead of `origin/main`). Merge status is local only: no push to `origin/main`, deployment, or changes to the live site are authorized.
 
 The existing archive contains 30,434 exact source versions. There are 54,759 numbered subsections across 13,156 versions. Another 17,224 versions are unnumbered, and 54 have reviewed complex numbering layouts. Those versions retain their source text without invented subdivisions or headings. The existing official section headings remain available throughout.
 
@@ -42,7 +42,7 @@ Each opted-in build saves an ignored audit snapshot at `data/editorial-work/last
 
 ## Progress
 
-**Statewide local editorial review is complete as of November 22, 2026** on local branch `feature/statute-full-text-antigravity` (not published or merged).
+**Statewide local editorial review is complete as of November 22, 2026.** It was completed on `feature/statute-full-text-antigravity` and fast-forward merged into `feature/statute-full-text` and local `main` (`5d280eb`, 46 commits ahead of `origin/main`). Merge status is local only: the work has not been pushed to `origin/main` or published to the live site.
 
 - **Inventory (`scripts/editorial_inventory.py`)**: `complete: true` — **54,759 reviewed headings across 13,156 exact source versions** (437 eligible chapters), with **0 missing**, **0 draft**, and **0 stale** entries. The remaining **17,224 unnumbered versions** and **54 complex-numbering versions** are explicitly accounted for without invented subdivisions or headings (30,434 total source versions).
 - **Strict build (`STATUTES_REQUIRE_COMPLETE_HEADINGS=1`)**: Passed in 19.16s (`54,759` source-matched headings across `13,156` registered versions).
