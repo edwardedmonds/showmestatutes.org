@@ -66,12 +66,12 @@ describe('Static chapter discovery and metadata', () => {
       allUrls.push(...childUrls);
     }
 
-    expect(extractUrls(files['sitemap-core.xml'])).toHaveLength(4 + aliasData.topicPages.length);
+    expect(extractUrls(files['sitemap-core.xml'])).toHaveLength(5 + aliasData.topicPages.length);
     expect(extractUrls(files['sitemap-chapters.xml'])).toHaveLength(chapters.length);
     const statuteUrls = expectedChildren.slice(2).flatMap(name => extractUrls(files[name]));
     expect(statuteUrls).toHaveLength(dataset.manifest.sectionCount);
 
-    expect(allUrls).toHaveLength(chapters.length + 3 + dataset.manifest.sectionCount + 1 + aliasData.topicPages.length);
+    expect(allUrls).toHaveLength(chapters.length + 5 + dataset.manifest.sectionCount + aliasData.topicPages.length);
     expect(new Set(allUrls).size).toBe(allUrls.length);
     for (const url of allUrls) {
       expect(url.startsWith(siteUrl + '/')).toBe(true);
@@ -164,5 +164,21 @@ describe('Static chapter discovery and metadata', () => {
         expect(hub).toContain(`href="${statutePath(sec)}"`);
       }
     }
+  });
+  it('generates a dedicated static /coverage/ page listing all 468 chapter indexes and links cleanly from nav and homepage', () => {
+    const coverage = files['coverage/index.html'];
+    expect(coverage).toBeDefined();
+    expect(coverage).toContain('<title>Coverage, dates &amp; sources | Show Me Statutes</title>');
+    expect(coverage).not.toContain('<script src=');
+    expect(coverage).toContain('Chapter 300 is Missouri’s Model Traffic Ordinance');
+    for (const c of dataset.manifest.chapters) {
+      expect(coverage).toContain(escapeHtml(c.sourceIndex));
+      if (c.sectionCount) expect(coverage).toContain(`href="/chapters/${c.chapter}/"`);
+    }
+    expect(html).toContain('href="/coverage/"');
+    expect(html).not.toContain('href="#coverage"');
+    expect(html).not.toContain('<details id="coverage"');
+    expect(files['about/index.html']).toContain('href="/coverage/"');
+    expect(files['about/index.html']).not.toContain('href="/#coverage"');
   });
 });

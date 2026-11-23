@@ -132,7 +132,7 @@ def audit(dist_dir=DIST, dataset_path=None, aliases_path=None):
     manifest = json.loads(resolved_dataset.read_text(encoding='utf-8'))['manifest']
     aliases = json.loads(resolved_aliases.read_text(encoding='utf-8'))
     topic_pages = aliases.get('topicPages', [])
-    expected_pages = sum(bool(c['sectionCount']) for c in manifest['chapters']) + 3 + manifest['sectionCount'] + 1 + len(topic_pages)
+    expected_pages = sum(bool(c['sectionCount']) for c in manifest['chapters']) + 5 + manifest['sectionCount'] + len(topic_pages)
     assert len(files) == expected_pages, f'Expected {expected_pages} HTML pages, got {len(files)}'
 
     urls = set()

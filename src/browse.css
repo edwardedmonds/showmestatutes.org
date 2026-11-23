@@ -50,4 +50,8 @@
 .topic-actions { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 18px 0; font-size: .9375rem; }
 .chapter-badge { color: #45643c; text-decoration: none; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; font-size: .8125rem; }
 .chapter-badge:hover { text-decoration: underline; }
+.coverage-section { margin: 36px 0; scroll-margin-top: 24px; }
+.coverage-section h2 { font: 600 1.6875rem/1.25 var(--font-serif); margin: 0 0 10px; }
+.coverage-chapters li { display: flex; flex-direction: column; gap: 4px; }
+.coverage-chapters .coverage-source { display: inline-block; font-size: .8125rem; padding: 2px 0; color: #36523d; }
 @media (max-width: 640px) { .topic-directory { grid-template-columns: 1fr; } .related-statutes { padding: 16px; } }

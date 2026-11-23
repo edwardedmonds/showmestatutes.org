@@ -86,7 +86,7 @@ ${metadata(title, description, path)}
 <link rel="stylesheet" href="${escapeHtml(stylesheet)}">
 <script type="application/ld+json">${json(schema)}</script></head><body>
 <a class="skip-link" href="#main">Skip to content</a>
-<header class="site-header"><a class="brand" href="/" aria-label="Show Me Statutes home"><span class="brand-mark" aria-hidden="true">§</span> Show Me Statutes</a><nav class="site-nav" aria-label="Main navigation"><a href="/#search">Search</a><a href="/topics/">Browse topics</a><a href="/chapters/">Browse chapters</a><a href="/#coverage">Coverage &amp; sources</a><a href="/about/">About &amp; accuracy</a></nav></header>
+<header class="site-header"><a class="brand" href="/" aria-label="Show Me Statutes home"><span class="brand-mark" aria-hidden="true">§</span> Show Me Statutes</a><nav class="site-nav" aria-label="Main navigation"><a href="/#search">Search</a><a href="/topics/">Browse topics</a><a href="/chapters/">Browse chapters</a><a href="/coverage/">Coverage &amp; sources</a><a href="/about/">About &amp; accuracy</a></nav></header>
 <main id="main" class="browse-main"><nav class="breadcrumbs" aria-label="Breadcrumb">${breadcrumb.map((item, index) => index === breadcrumb.length - 1 ? `<span aria-current="page">${escapeHtml(item.name)}</span>` : `<a href="${escapeHtml(item.path)}">${escapeHtml(item.name)}</a> <span aria-hidden="true">/</span>`).join(' ')}</nav>${content}</main>
 <footer><span>SHOW ME STATUTES</span><p>Independent search. Links to official sources.<br>Not affiliated with the State of Missouri. Not legal advice.</p><a href="/about/">About &amp; accuracy</a><a href="/about/#report-an-error">Report an error</a><a href="/licenses.txt">MIT &amp; license notices</a><a href="https://github.com/edwardedmonds/showmestatutes.org">Project on GitHub ↗</a></footer></body></html>`;
 }
@@ -148,7 +148,7 @@ export function browseAssets(dataset: Dataset, stylesheet: string, asOf: string,
 <nav class="about-contents" aria-label="On this page"><a href="#sources">Sources &amp; coverage</a><a href="#checks">How records are checked</a><a href="#dates">Dates &amp; updates</a><a href="#report-an-error">Report an error</a></nav>
 <section id="sources" aria-labelledby="sources-title"><h2 id="sources-title">Where the information comes from</h2>
 <p>The headings and source information come from the <a href="https://revisor.mo.gov/">Missouri Revisor of Statutes</a>. Search uses official headings and a small set of documented common names. ${fullText ? "This local preview reproduces archived statute text on section pages. Search still uses headings and common names only." : "It does not search or reproduce the full text of the law, and it does not generate legal summaries."}</p>
-<p>The reviewed snapshot contains ${dataset.manifest.sectionCount.toLocaleString('en-US')} distinct sections and ${dataset.manifest.recordCount.toLocaleString('en-US')} source versions across ${dataset.manifest.chapters.length} chapter indexes. Of those, ${chapters.length} contain headings and ${empty.length} have no listed sections. <a href="/chapters/">Browse the chapter directory</a> or <a href="/#coverage">see the coverage and source dates</a>.</p>
+<p>The reviewed snapshot contains ${dataset.manifest.sectionCount.toLocaleString('en-US')} distinct sections and ${dataset.manifest.recordCount.toLocaleString('en-US')} source versions across ${dataset.manifest.chapters.length} chapter indexes. Of those, ${chapters.length} contain headings and ${empty.length} have no listed sections. <a href="/chapters/">Browse the chapter directory</a> or <a href="/coverage/">see the coverage and source dates</a>.</p>
 <p>Coverage means the headings and versions listed in the checked statewide catalog. It does not mean a complete historical archive or every kind of Missouri law. Court rules, regulations, constitutional provisions, federal law and local ordinances are outside this collection. A missing result does not mean no relevant law exists.</p></section>
 <section id="checks" aria-labelledby="checks-title"><h2 id="checks-title">How records are checked</h2>
 <p>Collection starts with the official chapter indexes, then retrieves the listed source versions. Automated checks compare section numbers, version identities, headings and dates. Duplicate records, missing records, unexpected source formatting and unexplained date overlaps stop the update for investigation.</p>
@@ -169,6 +169,32 @@ export function browseAssets(dataset: Dataset, stylesheet: string, asOf: string,
 <p class="about-return"><a href="/#search">Search Missouri statutes →</a></p>
 </article>`;
   files['about/index.html'] = page('About & accuracy | Show Me Statutes', 'Who maintains Show Me Statutes, where Missouri statute headings come from, how records are checked, what source dates mean, and how to report an error.', '/about/', about, stylesheet, [{ name: 'Home', path: '/' }, { name: 'About & accuracy', path: '/about/' }], 'AboutPage');
+  const coveragePage = `<article class="about-content">
+<p class="eyebrow">COVERAGE &amp; SOURCES</p>
+<h1>Coverage, dates &amp; sources</h1>
+<p class="intro">${dataset.manifest.sectionCount.toLocaleString('en-US')} distinct sections · ${dataset.manifest.recordCount.toLocaleString('en-US')} source versions across all ${dataset.manifest.chapters.length} Missouri Revisor chapter indexes (${chapters.length} with headings and ${empty.length} with no listed sections).</p>
+<nav class="about-contents" aria-label="On this page"><a href="#scope">Scope &amp; dates</a><a href="#chapter-indexes">Populated chapters (${chapters.length})</a><a href="#empty-indexes">Empty chapter indexes (${empty.length})</a></nav>
+<section id="scope" aria-labelledby="scope-title"><h2 id="scope-title">Snapshot scope &amp; source dates</h2>
+<p>${escapeHtml(dataset.manifest.coverageDescription)}</p>
+<p>Source collection completed ${date(dataset.manifest.collectedAt)}; earliest chapter-index check ${date(dataset.manifest.indexCheckedAt)}. Individual source-check dates appear on every search result, chapter listing and statute page.</p>
+<p>All ${dataset.manifest.chapters.length} chapter indexes in the statewide Revisor catalog are accounted for. Court rules, regulations, constitutional provisions, federal law, local ordinances and complete historical versions are outside this heading collection. Chapter 300 is Missouri’s Model Traffic Ordinance; its inclusion does not establish which provisions a locality has adopted. A missing result does not mean no relevant law exists.</p>
+<p>Effective dates describe source versions. Source-check dates describe when a page was retrieved. Searches stay in your browser with no third-party analytics or search service receiving your query.</p>
+<p><a href="https://revisor.mo.gov/">Browse Missouri statutes at the official source ↗</a> · <a href="/about/">About &amp; accuracy</a></p></section>
+</article>
+<section id="chapter-indexes" class="coverage-section" aria-labelledby="chapter-indexes-title"><h2 id="chapter-indexes-title">Populated chapter indexes (${chapters.length})</h2>
+<p>Each entry links to the local heading page and to the official Missouri Revisor chapter index checked on the date shown.</p>
+<ul class="browse-chapters coverage-chapters">${chapters.map(c => `<li><a href="/chapters/${escapeHtml(c.chapter)}/"><span>Chapter ${escapeHtml(c.chapter)}</span> ${escapeHtml(c.title)}</a><small>${c.sectionCount.toLocaleString('en-US')} sections · ${c.recordCount.toLocaleString('en-US')} versions · index checked ${date(c.indexCheckedAt)}</small><a class="coverage-source" href="${escapeHtml(c.sourceIndex)}">Official Revisor index ↗</a></li>`).join('\n')}</ul></section>
+<section id="empty-indexes" class="coverage-section" aria-labelledby="empty-indexes-title"><h2 id="empty-indexes-title">Chapter indexes with no listed sections (${empty.length})</h2>
+<p>These ${empty.length} additional official chapter indexes were checked and contain no listed section headings in this snapshot.</p>
+<ul class="browse-chapters coverage-chapters">${empty.map(c => `<li><a href="${escapeHtml(c.sourceIndex)}"><span>Chapter ${escapeHtml(c.chapter)}</span> ${escapeHtml(c.title)} ↗</a><small>0 sections · index checked ${date(c.indexCheckedAt)}</small></li>`).join('\n')}</ul></section>`;
+  files['coverage/index.html'] = page(
+    'Coverage, dates & sources | Show Me Statutes',
+    'Review Missouri Revised Statutes snapshot coverage, chapter index check dates, scope limits, and links to all 468 official Missouri Revisor chapter indexes.',
+    '/coverage/',
+    coveragePage,
+    stylesheet,
+    [{ name: 'Home', path: '/' }, { name: 'Coverage & sources', path: '/coverage/' }],
+  );
   const rootBreadcrumb = [{ name: 'Home', path: '/' }, { name: 'Chapters', path: '/chapters/' }];
   const directory = `<h1>Browse Missouri statutes by chapter</h1>
 <p class="intro">A directory of Missouri Revised Statutes (RSMo) section headings, organized by chapter. Choose a chapter to see its headings, version dates and links to the official Missouri Revisor.</p>
@@ -306,6 +332,7 @@ ${relatedHtml}
   const coreUrls = [
     '/',
     '/about/',
+    '/coverage/',
     '/chapters/',
     '/topics/',
     ...topics.map(t => `/topics/${t.slug}/`),

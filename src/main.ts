@@ -308,22 +308,10 @@ async function initialize() {
     search = createSearch(dataset.records, index, indexTerms);
     input.disabled = false;
     button.disabled = false;
-    const coverageList = document.querySelector('#chapter-coverage')!;
-    const fragment = document.createDocumentFragment();
-    for (const c of dataset.manifest.chapters) {
-      const item = element('li');
-      const link = element('a', `Chapter ${c.chapter}: ${c.title}`);
-      link.href = c.sourceIndex;
-      item.append(link, element('span', ` — ${c.sectionCount} sections · index checked ${formatDate(c.indexCheckedAt)}`));
-      fragment.append(item);
-    }
-    coverageList.append(fragment);
     document.querySelectorAll<HTMLButtonElement>('[data-query]').forEach(b => { b.disabled = false; });
     const asOf = todayInMissouri();
     document.querySelector('#as-of')!.textContent = `Effective dates checked against ${formatDate(asOf)}`;
-    document.querySelector('#coverage-stats')!.textContent = `${dataset.manifest.sectionCount} distinct sections · ${dataset.manifest.recordCount} source versions · ${dataset.manifest.chapters.filter(c => c.sectionCount).length} chapters with headings`;
-    document.querySelector('#coverage-description')!.textContent = dataset.manifest.coverageDescription;
-    document.querySelector('#source-date')!.textContent = `Source collection completed ${formatDate(dataset.manifest.collectedAt)}. Individual source-check dates appear on each result.`;
+    document.querySelector('#coverage-stats')!.textContent = `${dataset.manifest.sectionCount.toLocaleString('en-US')} distinct sections · ${dataset.manifest.recordCount.toLocaleString('en-US')} source versions · ${dataset.manifest.chapters.filter(c => c.sectionCount).length} chapters with headings`;
     document.querySelector('#build-date')!.textContent = builtAt ? `Search index built ${formatDate(builtAt)}.` : 'Search index rebuilt in your browser from the validated snapshot.';
     const age = (Date.parse(asOf) - Date.parse(dataset.manifest.indexCheckedAt)) / 86400000;
     if (age > 30) {

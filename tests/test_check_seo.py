@@ -63,6 +63,7 @@ def build_fixture(tmp: Path):
     pages = {
         'index.html': ('/', 'Home Title', 'Home description', True),
         'about/index.html': ('/about/', 'About Title', 'About description', False),
+        'coverage/index.html': ('/coverage/', 'Coverage Title', 'Coverage description', False),
         'chapters/index.html': ('/chapters/', 'Chapters Title', 'Chapters description', False),
         'topics/index.html': ('/topics/', 'Topics Title', 'Topics description', False),
         'topics/sample-topic/index.html': ('/topics/sample-topic/', 'Sample Topic', 'Sample topic description', False),
@@ -81,7 +82,7 @@ def build_fixture(tmp: Path):
             encoding='utf-8',
         )
 
-    write_urlset('sitemap-core.xml', ['/', '/about/', '/chapters/', '/topics/', '/topics/sample-topic/'])
+    write_urlset('sitemap-core.xml', ['/', '/about/', '/coverage/', '/chapters/', '/topics/', '/topics/sample-topic/'])
     write_urlset('sitemap-chapters.xml', ['/chapters/1/'])
     write_urlset('sitemap-statutes-1.xml', ['/statutes/1.010/'])
 
@@ -101,16 +102,16 @@ class CheckSeoTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as td:
             dist, dataset_path, aliases_path = build_fixture(Path(td))
             result = check_seo.audit(dist_dir=dist, dataset_path=dataset_path, aliases_path=aliases_path)
-            self.assertEqual(result['pages'], 7)
+            self.assertEqual(result['pages'], 8)
             self.assertEqual(result['sitemaps'], 3)
-            self.assertEqual(result['urls'], 7)
+            self.assertEqual(result['urls'], 8)
 
     def test_honors_statutes_dataset_env(self):
         with tempfile.TemporaryDirectory() as td:
             dist, dataset_path, aliases_path = build_fixture(Path(td))
             with mock.patch.dict(os.environ, {'STATUTES_DATASET': str(dataset_path)}):
                 result = check_seo.audit(dist_dir=dist, aliases_path=aliases_path)
-                self.assertEqual(result['pages'], 7)
+                self.assertEqual(result['pages'], 8)
 
             # Relative paths resolve against ROOT.
             with mock.patch.dict(os.environ, {'STATUTES_DATASET': 'public/data/statutes.json'}):

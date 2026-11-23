@@ -69,8 +69,9 @@ h3 a:hover { text-decoration: underline; }
 .empty-state { padding: 28px; background: #eef1e8; border: 1px solid #d6ddce; border-radius: 6px; }
 .empty-state h2 { font: 600 1.6875rem var(--font-serif); }
 .empty-state p, .empty-state a { font-size: .875rem; }
-.coverage { border-top: 1px solid #d9dfd1; margin: 40px 0; padding: 22px 0; font-size: .875rem; color: #5e715f; }
-.coverage summary { cursor: pointer; font-weight: 700; color: #36523d; min-height: 35px; }
+.coverage-summary { border-top: 1px solid #d9dfd1; margin: 40px 0; padding: 20px 0; font-size: .875rem; color: #5e715f; }
+.coverage-summary p { margin: 0 0 6px; }
+.coverage-summary p:last-child { margin-bottom: 0; }
 .stale-notice { padding: 16px; background: #f2e7ce; font-size: .875rem; border-left: 3px solid #8c6c2f; }
 footer { border-top: 1px solid #dcded4; max-width: 1200px; margin: auto; padding: 26px 40px 36px; display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start; color: #6a7769; font-size: .875rem; }
 footer > span { letter-spacing: .1em; font-weight: 700; color: #3d5741; padding-top: 2px; }
@@ -89,9 +90,6 @@ footer a { white-space: nowrap; }
 @media (prefers-reduced-motion: no-preference) { button, a { transition: background-color .12s ease, border-color .12s ease; } }
 
 
-.chapter-coverage { padding-left: 1.25rem; font-size: .875rem; line-height: 1.6; }
-.chapter-coverage li { margin-bottom: .6rem; }
-.chapter-coverage span { color: #59665d; }
 .card-meta { overflow-wrap: anywhere; }
 
 #results-heading { font: 600 1.6875rem var(--font-serif); margin: 28px 0 8px; overflow-wrap: anywhere; }
