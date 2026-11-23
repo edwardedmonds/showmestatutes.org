@@ -1,0 +1,1328 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "644.021:59964",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.021&bid=59964",
+      "sourceSha256": "d471a99e885781952d9bcccfd5a51e4ab329328edb8d13e0ade9f67aa4b49e54",
+      "textSha256": "7e297dc17980e6304a5389373e2f6f3a2be213ae927258ad4f185494b1b67336",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Creation, membership, and qualifications of commission",
+          "bodySha256": "d7129f48462d3afa06efdba9b9a18a6a8f26f040165632e0bc395b7e73f22100",
+          "reviewNote": "Creates the seven-member Clean Water Commission appointed by the governor with senate consent, setting partisan, agriculture/industry/mining, POTW, public-member, post-August 28, 2002 technical qualifications, conflict-of-interest recusal rules, and annual officer selection; source cross-references section 640.010."
+        },
+        {
+          "number": 2,
+          "title": "Terms of office, vacancies, and expenses",
+          "bodySha256": "f72f42015c14c095a2dcf8011b5e9d1a94cdb4d81fd43f7357da7c873c388eda",
+          "reviewNote": "Establishes four-year terms (after initial staggered terms) with no term limit, permits governor vacancy appointments and removal for cause, and requires reimbursement of actual and necessary expenses."
+        },
+        {
+          "number": 3,
+          "title": "Meetings, quorum, open sessions, and attendance",
+          "bodySha256": "5df310740f9a96daae552f1b9e0795873fb6dd3c609dd56e34135bbb7c1088f4",
+          "reviewNote": "Requires at least four annual meetings, permits special meetings called by three members, sets a four-member quorum, requires personal exercise of powers and public meetings, and deems six consecutive regular absences a resignation."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsections for 644.021 governing Clean Water Commission membership, qualifications, terms, meetings, and quorum, noting cross-reference to section 640.010."
+    },
+    {
+      "id": "644.026:31218",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.026&bid=31218",
+      "sourceSha256": "d2c1329cdaeacf10b1add89f3081de13be7b571a58864899a69ab281b8def73d",
+      "textSha256": "03cf59972c8dc6406a5e3c4ff8a9e4a7063464f93bf98972a595246ded34eff0",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Powers and duties of Clean Water Commission",
+          "bodySha256": "c1b2b628ea577968d7b4551136a99ce0012883b1e4e4d2381a30b7394b155177",
+          "reviewNote": "Enumerates twenty-six powers and duties of the Clean Water Commission covering supervision, abatement planning, water quality standards, rulemaking response rights, permits, permits by rule, inspections, interstate compacts, and federal Clean Water Act administration."
+        },
+        {
+          "number": 2,
+          "title": "Chapter 536 rulemaking effectiveness requirement",
+          "bodySha256": "d426d9677c4d1a403b48e2b499461bd7849dd486c53360c9990c452974bb5986",
+          "reviewNote": "Provides that no rule or portion of a rule promulgated pursuant to chapter 644 becomes effective unless promulgated pursuant to chapter 536."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsections for 644.026 and replaced hallucinated subsection 2 heading with the actual chapter 536 rulemaking effectiveness requirement."
+    },
+    {
+      "id": "644.031:31221",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.031&bid=31221",
+      "sourceSha256": "c21e3a5093ffdd11da6bd242bda8ca3d9842f340ce541fa942909d92a1e05375",
+      "textSha256": "152af402ea23d60a88de07b79c2ffad36c7433b6fc27dd3efcd59f0d15f8cbb2",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Storm water control appropriations for eligible jurisdictions",
+          "bodySha256": "20993bc2dd89ffc6d09591c643533f03a98f7150cdb5919e2c1b718566e8d3f9",
+          "reviewNote": "Permits the general assembly to appropriate funds to the clean water commission for storm water control in first-classification counties, cities over four hundred thousand, or cities not within a county."
+        },
+        {
+          "number": 2,
+          "title": "Distribution formula, plan approval, and contract deadline",
+          "bodySha256": "a8f56158fd73f50b8a40d86bbd4acec08a8ec18968a6b780f5d9ab59fec4c22f",
+          "reviewNote": "Requires population-based distribution after storm water plan approval, fiscal-year obligation, eighteen-month construction contract awards, and return and redistribution of unobligated or uncontracted funds."
+        },
+        {
+          "number": 3,
+          "title": "One-third state cost cap per project",
+          "bodySha256": "bee3fc220475bb2fa5107549d51df604c7a8c8bb63caf287cee2145e1125f59a",
+          "reviewNote": "Limits storm water control funds to no more than one-third of the costs of any one storm water project."
+        },
+        {
+          "number": 4,
+          "title": "Direct disbursement to constitutional sewer districts",
+          "bodySha256": "65e39f3eca25750f6973360b216ee2fa761b76ef4cf3ea4bb32b709ab42f8d78",
+          "reviewNote": "Requires direct disbursement of awarded grants or loans to sewer districts established under Article VI, Section 30(a) of the Missouri Constitution."
+        }
+      ],
+      "reviewSummary": "Source-checked 4 subsections for 644.031 and replaced all four hallucinated headings with the actual storm water control appropriations, distribution, cost-cap, and sewer district disbursement provisions."
+    },
+    {
+      "id": "644.032:31222",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.032&bid=31222",
+      "sourceSha256": "87925fdbe879925c232d55cbaba1c07a83a564993b22aa73f4cd17a66a582c98",
+      "textSha256": "d1e940b1d4a8dcc6e7da9f7cbd27bf041fffd1952d445964f491f5113cdbf258",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Storm water or local parks sales tax authorization",
+          "bodySha256": "bdce7d3b2014c0c96906095ab7e60ebe7b4fdaf6fe5d61f3525a89f7d7505785",
+          "reviewNote": "Permits any municipality or county to impose up to a one-half percent sales tax for storm water control or local parks upon voter approval, excluding food sales under section 144.014 in charter counties over one million inhabitants."
+        },
+        {
+          "number": 2,
+          "title": "Ballot form, effective date, and resubmission limit",
+          "bodySha256": "3561f901c6616dc9920b4df5d280c96f218bf0a171e5ec4769daf5827cd7cc27",
+          "reviewNote": "Prescribes ballot language (embedded table), sets effective date on the first day of the second quarter after revenue director notice, and bars resubmission within twelve months after defeat."
+        },
+        {
+          "number": 3,
+          "title": "Special trust fund deposit and authorized uses",
+          "bodySha256": "9979abf6d6ad3170b80e5acd0ab1f0c0c81d726729f89d683b0276743e2c220f",
+          "reviewNote": "Requires deposit of tax revenues in a special trust fund for storm water control or local parks, permitting use for outside local parks under a section 70.220 cooperative agreement."
+        },
+        {
+          "number": 4,
+          "title": "Investment of unneeded special trust fund moneys",
+          "bodySha256": "c0c42b6074bc673015a09a44d2b6fae12ce0017a8751ad86e7983882e0eba66b",
+          "reviewNote": "Permits the governing body to invest special trust fund moneys not needed for current expenditures under applicable municipal or county investment laws."
+        }
+      ],
+      "reviewSummary": "Source-checked 4 subsections for 644.032 and replaced all four hallucinated headings with the actual municipal and county storm water or local parks sales tax provisions."
+    },
+    {
+      "id": "644.033:31223",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.033&bid=31223",
+      "sourceSha256": "c7db7bfcdfe203fcc2b8b7f40cad9c2592453b895032ed926dee2735ee099361",
+      "textSha256": "532bb89773f2a5e3ad1d3850396853ec20461b05c54fef1a3bcc87ca7c0bb8df",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Local Parks and Storm Water Control Sales Tax Trust Fund",
+          "bodySha256": "d757ea27e0b39a7ffa758f2cd099f05a35723d6b8ccd84c43f3ab70d074033fb",
+          "reviewNote": "Creates the non-state trust fund less a one percent collection fee, requires monthly distributions by the tenth day and public records, and restricts spending to authorized purposes; source footnote notes \"and\" appears in original rolls."
+        },
+        {
+          "number": 2,
+          "title": "Tax refunds, dishonored checks, and abolition procedures",
+          "bodySha256": "cb14b2eb5f59857aba9be916be4e845648fe53e6b5438f1f03e441a5dcfbf9b0",
+          "reviewNote": "Permits refunds and dishonored check redemptions, requires ninety days' notice upon tax abolition, permits two percent one-year retention, and requires final balance remittance and account closure."
+        },
+        {
+          "number": 3,
+          "title": "Applicability of sections 32.085 and 32.087",
+          "bodySha256": "6c820e6eee36b603a91183ad09d0a8dc5a13fefde9cc73fea42e03f8ed94ed56",
+          "reviewNote": "Applies sections 32.085 and 32.087 to the tax imposed under sections 644.032 and 644.033 except as modified."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsections for 644.033 and replaced all three hallucinated headings with the actual Local Parks and Storm Water Control Sales Tax Trust Fund, refund/abolition, and tax administration provisions."
+    },
+    {
+      "id": "644.034:31224",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.034&bid=31224",
+      "sourceSha256": "e7ce2bcb657dda6ecc7778cb6ea9621c05e31318d9cf9e76beaa3ce624f7da2a",
+      "textSha256": "6678b6ca3d80d41b3ae834edc99f7676ab64aec989780b3749b346e9925f41f0",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "County wastewater sales tax and bond authorization",
+          "bodySha256": "94888978bcd6d12093faee3422c464030d7b269ec127302fdcf22cb10c18bde7",
+          "reviewNote": "Permits eligible counties to impose up to a one-fourth percent sales tax for wastewater treatment and water pollution abatement for up to five years, with an optional voter-approved bond issue extending tax expiration until full repayment; source footnote notes \"preliminary\" in original rolls for \"preliminarily\"."
+        },
+        {
+          "number": 2,
+          "title": "Ballot forms, voter approval, and resubmission limit",
+          "bodySha256": "c5cc222956b26830575f9726181fdbccaaebf5bea600c318310928703ef6aed4",
+          "reviewNote": "Prescribes tax-only and tax-plus-bond ballot forms (embedded tables), sets majority or constitutionally required approval thresholds and second-quarter effective dates, and bars resubmission within twelve months."
+        },
+        {
+          "number": 3,
+          "title": "County special trust fund deposit and use restriction",
+          "bodySha256": "8ad3def4681a66c6f82a9250557f0c78b6ac739c9333b356c7dbf091cac54218",
+          "reviewNote": "Requires county tax revenue to be deposited in a special trust fund and used solely for voter-approved subsection 2 purposes while the tax remains in effect."
+        },
+        {
+          "number": 4,
+          "title": "Post-termination fund use and investment authority",
+          "bodySha256": "df1d4c348516e95a68f8cae20f40c0dc673ca8b483a9bc817247b027955f0d36",
+          "reviewNote": "Restricts remaining trust fund moneys after tax abolition or termination to subsection 2 purposes and permits investment of unneeded funds under county investment laws."
+        },
+        {
+          "number": 5,
+          "title": "Local Wastewater Treatment Sales Tax Trust Fund",
+          "bodySha256": "6fe9c3872303fcff09543cdf0e5ce6be3014fb2f3d128ce455472c8cdbb7d748",
+          "reviewNote": "Creates the state-collected non-state trust fund less a one percent collection fee, requires public records and monthly distributions by the tenth day to the county treasurer, and restricts expenditures to governing body appropriations."
+        },
+        {
+          "number": 6,
+          "title": "Revenue department trust fund refunds and repeals",
+          "bodySha256": "3feab52b21dc3c62aa88952d59f6e723085d5259c29e6eec2092c2f0b6fba00a",
+          "reviewNote": "Permits revenue director refunds and dishonored check redemptions, requires ninety days' abolition notice, permits two percent one-year retention, and requires account closure and notice to counties."
+        },
+        {
+          "number": 7,
+          "title": "Applicability of general local sales tax statutes",
+          "bodySha256": "7553656fb226b2ac71fe802eaad90e78b7707563085b25e74dd811f35350241a",
+          "reviewNote": "Applies sections 32.085 and 32.087 provisions to county wastewater sales taxes except as modified."
+        },
+        {
+          "number": 8,
+          "title": "Application of chapter 108 bond provisions",
+          "bodySha256": "ad7f5810ca8076f03aba2de654225c438ed965ab2ddbee63d1d303f4163bea06",
+          "reviewNote": "Applies all provisions of chapter 108 to bonds issued under county wastewater authority."
+        },
+        {
+          "number": 9,
+          "title": "Definition of wastewater treatment and pollution abatement",
+          "bodySha256": "4fd6f0947d48b7c69ca98703ee893d3d9f82093066684164c8b2003da0cda175",
+          "reviewNote": "Limits \"wastewater treatment and water pollution abatement\" to three specified purposes (facilities, pollutant reduction, and clean water commission matching funds); source footnote notes \"waterwater\" in original rolls."
+        }
+      ],
+      "reviewSummary": "Source-checked 9 subsections for 644.034, replaced five hallucinated headings (1-5) with the actual county wastewater sales tax and optional bond provisions, and preserved both original-rolls footnotes."
+    },
+    {
+      "id": "644.036:31225",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.036&bid=31225",
+      "sourceSha256": "16dfc111430d37f7540ef8480c00a07521f59b1d236dcd9906d630e7fd4b2d8d",
+      "textSha256": "e1e413b2c6b0f2f9fff59a084a04aed92d33c703ac184804e840451773f3d4a5",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Public notice and hearing for rule adoption",
+          "bodySha256": "89ae874f96af3b9693d042739584a327a2b97bba9808ceeba504ae92af7e4c51",
+          "reviewNote": "Prohibits rule or standard adoption, amendment, or repeal without a public hearing after thirty days' published and mailed notice to persons registered at least forty-five days beforehand, without precluding necessary changes."
+        },
+        {
+          "number": 2,
+          "title": "Public participation and submission of statements",
+          "bodySha256": "7eb4c4000b443a2e515970e4ad8972631b1228c4ef00899c0574ade8a0b06bd9",
+          "reviewNote": "Grants interested persons a hearing upon written request seven days beforehand, permits written statements within seven days after the hearing, and requires written notice of commission action."
+        },
+        {
+          "number": 3,
+          "title": "Written approval and secretary of state filing",
+          "bodySha256": "0ef9aa06d88bbd4955d4cb9389ce51865193c041cfabe49c5a2c2f4678bbc261",
+          "reviewNote": "Requires written approval by four commission members and filing under chapter 536 before rules take effect."
+        },
+        {
+          "number": 4,
+          "title": "Differentiation based on water categories and sources",
+          "bodySha256": "c0e21b58810b1b2cfbcd10d14e8030f8daa5e5f254a87774238f005a0a10a380",
+          "reviewNote": "Permits commission standards and rules, unless prohibited by federal law, to differ across water quality standards, contaminant types, source classes, and waters of the state."
+        },
+        {
+          "number": 5,
+          "title": "Adoption procedures for list of impaired waters",
+          "bodySha256": "8aa74395bd5e67856e9725eee71c17b60a6e2a67fd32877a0fc1e201026a8113",
+          "reviewNote": "Establishes ninety-day newspaper, website, and mail notice, data publication, comment, response, and commission adoption procedures for Section 303(d) impaired waters lists, declaring the list not a rule under section 536.010 and reviewable under section 536.150; source notes effective 7-11-11 and cross-references section 640.099."
+        }
+      ],
+      "reviewSummary": "Source-checked 5 subsections for 644.036 governing rulemaking notice and hearings, written commission approval, regulatory differentiation, and Section 303(d) impaired waters list procedures."
+    },
+    {
+      "id": "644.041:54649",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.041&bid=54649",
+      "sourceSha256": "dadaee91bbd61be64810fc26f9e72f20b342285124873345e89c31f3c5a0cfe1",
+      "textSha256": "55405b29812054d0ec4d57023bf7c0cfa4d5cff1ed381057bff5db785d430821",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Adoption of effluent and pretreatment regulations",
+          "bodySha256": "670ad7ae317c98d755a1c334a68264bdea9df82ecfdcea08e2c4606cba917b20",
+          "reviewNote": "Requires the commission to adopt reasonable effluent, pretreatment, and toxic material control regulations and permits later modification."
+        },
+        {
+          "number": 2,
+          "title": "Nutrient management standards for industrial wastewater",
+          "bodySha256": "a488a9965f5801098aced9abb2020b32226f7d7b69e98908de5b6d5927c6e455",
+          "reviewNote": "Subjects industrial wastewater, sludge, and process waste land application (excluding CAFOs, livestock markets, and animal manure) to department nutrient management rules, a university phosphorus index, and chapter 536 nonseverability after July 9, 2024."
+        },
+        {
+          "number": 3,
+          "title": "Exemption for approved land application management plans",
+          "bodySha256": "2aa570af2600ac8491efbfec8c114e97d8dd4517f04ed97bfc4740ad53c90766",
+          "reviewNote": "Exempts land application conducted pursuant to department-approved management plans from subsection 2 rules."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsections for 644.041 governing effluent regulations, industrial wastewater nutrient management technical standards, and approved plan exemptions."
+    },
+    {
+      "id": "644.051:59965",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.051&bid=59965",
+      "sourceSha256": "08ee827bdb77ef2d2950fbeaecb94098a6b404f6379b58b54ca6e3b4e909c65d",
+      "textSha256": "2909cc8856090a197eac7be9d3e8e6e74a7636345f90383f6ad3eee004d69770",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Prohibited water pollution and unauthorized discharges",
+          "bodySha256": "da28f39a7810504efeba06ce083f88c688b640b49ac313e2a6e8efe6726bb8ba",
+          "reviewNote": "Prohibits water pollution, discharge exceeding standards or effluent rules, and warfare or radioactive waste disposal."
+        },
+        {
+          "number": 2,
+          "title": "Operating permit requirement and public sewer exemption",
+          "bodySha256": "53961ddbd88b59fc62eb3d78a915cc0418777c7c4f503833d824aec591f2056e",
+          "reviewNote": "Requires operating permit for point sources and exempts emissions into publicly owned treatment systems."
+        },
+        {
+          "number": 3,
+          "title": "Construction permit requirement and statutory exemptions",
+          "bodySha256": "f674f05df4713894506ea804648b51a361e29138b3b658edb9d8ce4860fb05f9",
+          "reviewNote": "Requires construction permits for sewage point sources, exempting large supervised systems and short sewer lines."
+        },
+        {
+          "number": 4,
+          "title": "Discretionary construction permits under specified circumstances",
+          "bodySha256": "ca7cd2069bf8faa5f8f1291c741324a2367fdd657749dba8dcf00ad1273439ef",
+          "reviewNote": "Permits the department to require a construction permit for substantial design deviations, noncompliance, actual or potential unauthorized discharges, or water quality standard violations."
+        },
+        {
+          "number": 5,
+          "title": "Earthen storage structure permits and engineering standards",
+          "bodySha256": "afeff5639caad99e7f1b896dacc3a868249f87a8237fac927eb65489cf124745",
+          "reviewNote": "Subjects wastewater earthen storage structures to construction permits, exempts nontoxic/nonmetallic earthen settling basins and other excluded activities, and requires Missouri professional engineer design, compliant construction, and optional post-construction inspection."
+        },
+        {
+          "number": 6,
+          "title": "Permit exemption for licensed commercial fertilizer producers",
+          "bodySha256": "c4ccfdce4e3c02d3efbce406bfaa1ba7c64ea43cfffd9d70b59e0510ff7daa10",
+          "reviewNote": "Permits the commission to exempt entities licensed under sections 266.291 to 266.351 only if producing commercially sold end-user products with accurate section 266.321 container labeling."
+        },
+        {
+          "number": 7,
+          "title": "Agrichemical design rules for bulk fertilizer storage",
+          "bodySha256": "2a32cb788f586ca37df15115d45bf157f458aaf31a88a5f1a7ab755002947476",
+          "reviewNote": "Provides that entities currently storing combined bulk fertilizers in storage basins are not exempt from agrichemical facility design rules when constructing new facilities."
+        },
+        {
+          "number": 8,
+          "title": "Design, buffers, groundwater monitoring, and sampling for open storage",
+          "bodySha256": "ccf1e2ec1f2fc4802e87305492f08b0089f57d9af89ab0b20bb76f6e88b6e2ff",
+          "reviewNote": "Requires commingled offsite industrial wastewater or residuals open storage basins or vessels to meet design capacity rules, tiered 1,000/2,000/3,500-foot buffers (with July 9, 2024 and written-agreement exemptions), site-specific groundwater monitoring, and annual third-party lab testing for metals, E. coli, and fecal coliform."
+        },
+        {
+          "number": 9,
+          "title": "Authorization of local supervised programs",
+          "bodySha256": "06f51bf3e551a901340dc0055b4fd9803f56babdf058f15b27fe20ed8aca0b5d",
+          "reviewNote": "Permits governmental units to apply for and the department to authorize local supervised programs recognizing local engineering, construction supervision, and compliance capacity."
+        },
+        {
+          "number": 10,
+          "title": "Pre-issuance notice, hearings, and water quality review",
+          "bodySha256": "cb2236bf49d790c241c9e8cd62ba691c91e0964e89f2a7fcaa3ed490c2149f06",
+          "reviewNote": "Requires pre-issuance notices, hearings, and water quality compliance determinations, and requires permit denial unless conditions ensure compliance within an acceptable schedule."
+        },
+        {
+          "number": 11,
+          "title": "Sixty-day permit decision and effluent monitoring requirements",
+          "bodySha256": "160123b93925cab8d4e9614e404883e478f7953184c5633f779cea5970caba28",
+          "reviewNote": "Requires permit action within sixty days after federal requirements are met unless no federal permit is required, and permits the director or commission to require monitoring, testing, recordkeeping, and reporting."
+        },
+        {
+          "number": 12,
+          "title": "Written notice, administrative hearing commission appeals, and review",
+          "bodySha256": "c6f720fa7b8e9c44100f707aadb3a724c5205e925e6d2efde9a2992f06856894",
+          "reviewNote": "Requires written action notice and denial reasons, permits thirty-day appeals to the administrative hearing commission (including general permit terms), requires commission final decisions, and grants original judicial review jurisdiction to the court of appeals after exhausting administrative remedies."
+        },
+        {
+          "number": 13,
+          "title": "Burden of proof and section 644.071 judicial review",
+          "bodySha256": "a56c0cbf36000c2bb1203f7a287d8968362446ef0aa8d7f4d48f27fcb0afca44",
+          "reviewNote": "Applies section 640.012 burden-of-proof rules to permit, license, or registration hearings and subjects commission hearing decisions to section 644.071 judicial review."
+        },
+        {
+          "number": 14,
+          "title": "Prohibition on issuance over valid federal objection",
+          "bodySha256": "8771f13e79ff3c12ff60cdbbf34c94c45732957e1908bce7146b1c5ba376ea91",
+          "reviewNote": "Bars issuance of any permit properly objected to by the federal government under federal water pollution control law unless no federal permit is required."
+        },
+        {
+          "number": 15,
+          "title": "Permit modification, reissuance, or termination by permittee request",
+          "bodySha256": "8ae7d501d2d964116e2322dfc1ae4433ce9a7dd8d4fcdb6d2d33c3fa615843f8",
+          "reviewNote": "Permits written permittee requests supported by facts or reasons to modify, reissue, or terminate permits."
+        },
+        {
+          "number": 16,
+          "title": "Operating permit terms, renewal deadlines, and single-residence exemption",
+          "bodySha256": "988fc062b2b221ec6eb2c33ed00f0ba2b19a9b918db52884b27c07160161f1e1",
+          "reviewNote": "Limits plants to one operating fee, caps operating permits at five years (five years for general permits), exempts single-residence waste facilities, sets 180-day site-specific and 30-day general renewal deadlines, and permits electronic general permits."
+        },
+        {
+          "number": 17,
+          "title": "Notice of new or changed pollutant introductions to POTWs",
+          "bodySha256": "120d75ceee4a47583c04ea37e316f4903037304526513097d19e90c8183f2281",
+          "reviewNote": "Requires municipal or publicly owned treatment works permits to mandate notice to the commission of substantial new pollutant introductions or changes in effluent volume, character, and anticipated impact."
+        },
+        {
+          "number": 18,
+          "title": "Performance bonds for temporary, future, or innovative treatment facilities",
+          "bodySha256": "8d61827472ac9efae840813c61192878b0fff760381e88c39d2afafb48b28a58",
+          "reviewNote": "Permits requiring corporate surety bonds for temporary, future, or innovative-technology wastewater facilities, defining innovative technology and exempting federal or other-state approved designs."
+        },
+        {
+          "number": 19,
+          "title": "Permit review timeframes, fee refunds, and semiannual reporting",
+          "bodySha256": "f54301c56aa74bf900af28f09ebdac2604921e038608d21452bfbaa56e5f3f5f",
+          "reviewNote": "Sets 180-day, 60-day, and 90-day permit decision deadlines after January 1, 2001, mandates application fee refunds with section 32.065 interest and appeal rights for late action, requires shorter-timeframe rules and semiannual reporting, permits supplemental info requests, and clarifies inaction does not excuse violations."
+        },
+        {
+          "number": 20,
+          "title": "Section 401 water quality certification timelines",
+          "bodySha256": "6340f7e45f459d6b0bdf837a67a7595e702975a99d905e21c2d9b6a8278acb5f",
+          "reviewNote": "Requires department action on individual Section 401 certifications within the lesser of sixty days or the federal period unless the commission extends up to one hundred eighty days for significant water quality impacts."
+        },
+        {
+          "number": 21,
+          "title": "Prohibition on fee use for river studies",
+          "bodySha256": "971fa891026fc9e0340aa6120154b2c01607442b02855fba30c49a043c2e79ad",
+          "reviewNote": "Prohibits use of permit fees for total maximum daily load studies on the Missouri or Mississippi rivers."
+        },
+        {
+          "number": 22,
+          "title": "Federal permit shield equivalency implementation",
+          "bodySha256": "071cda4008e904bba008f1bcba2e7472fe925d436791d76ec677320aa87da31e",
+          "reviewNote": "Requires department to implement permit shield provisions equivalent to Section 402(k) of federal Clean Water Act."
+        },
+        {
+          "number": 23,
+          "title": "Public participation process for general permits",
+          "bodySha256": "49f53fd20b4bc8261ddf8c4f4426ab04f4b63868b211ec64ed49a56bd8f93084",
+          "reviewNote": "Requires a six-step public participation process (templates, 180-day notice, informational meeting, 30-day comment period, 45-day revised draft/response, and website posting) for new or reissued aquaculture, land disturbance storm water, or 50+-permit general permits."
+        },
+        {
+          "number": 24,
+          "title": "Electronic mail notice and material modifications",
+          "bodySha256": "8f8d990d9d433e54ce785d8b405a44667e9e1686581d7ac9319c244621f1a927",
+          "reviewNote": "Permits electronic mail notices under subsection 23 without requiring notice to persons lacking a current email address, and applies subsection 23 procedures to material modifications before expiration."
+        }
+      ],
+      "reviewSummary": "Source-checked 24 subsections for 644.051 and replaced fourteen hallucinated/shifted headings (6-19) covering fertilizer exemptions, open storage buffers and sampling, local supervised programs, permit review/appeals, bonds, and timeframes."
+    },
+    {
+      "id": "644.052:31231",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.052&bid=31231",
+      "sourceSha256": "79a07ff8f9293f4de91cad03121a4c638cfa88d2866e8804ef434b81626ffb36",
+      "textSha256": "16dd3f2434f9412bdda91bf73ccaa0538eda440cf60c74a47e06f6db66e0abef",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Operating permit fee schedule and authority",
+          "bodySha256": "5fc1f21906d5089c8d2773f3f09f9975ec573eab5c6ec14b170ccdefe9c01bc4",
+          "reviewNote": "Requires holders of operating permits or permits by rule to pay fees under subsections 2-8 and 12-13, and public sewer connection customers to pay fees under subsections 10-11; source notes reference section 644.054 for fee dates and H.B. 650 effective 10-11-13 after veto override."
+        },
+        {
+          "number": 2,
+          "title": "Fees for privately owned and human-sewage treatment works",
+          "bodySha256": "dc0598175ca32d8ef1ffe26ddd0949df247c730f70af13517875989d8c759ca9",
+          "reviewNote": "Establishes nineteen annual fee tiers ($100 to $3,500) based on design flow for privately owned treatment works or industries treating only human sewage."
+        },
+        {
+          "number": 3,
+          "title": "Site-specific fees for Class IA AFOs and categorical industries",
+          "bodySha256": "9445d64b34e2e30387d766795449b89b7efe8c2f2726f1c071bda182a2e86f3e",
+          "reviewNote": "Establishes annual site-specific permit fees of $5,000 for Class IA animal feeding operations and $3,500 or $5,000 by design flow for categorical-standard industrial process wastewater facilities."
+        },
+        {
+          "number": 4,
+          "title": "Site-specific fees for industrial storm water permits",
+          "bodySha256": "4415e9dc4fd20474a5a22d23021f759b88aa2274c6c053377254b935092000da",
+          "reviewNote": "Establishes annual site-specific industrial storm water permit fees of $1,350 (under one million gallons per day) or $2,350 (one million gallons per day or more)."
+        },
+        {
+          "number": 5,
+          "title": "Annual fees for other industrial process wastewater",
+          "bodySha256": "ba2c7123ced3d8b2361d7871c79d9f914e9464bbd3e61369f80b62044a81b014",
+          "reviewNote": "Establishes annual fees of $1,500 (under one million gallons per day) or $2,500 (one million gallons per day or more) for industrial process wastewater not covered by subsection 2 or 3."
+        },
+        {
+          "number": 6,
+          "title": "Permit fees for general operating permits",
+          "bodySha256": "3e26a10660f8ea234a96c05007a8605c74d117d1ce555d5f84ef7af3e3c6c380",
+          "reviewNote": "Establishes general permit fees across five categories (land disturbance $300, fertilizer/pesticide $50, AFO/CAFO $150, other new $150 or $60 for pre-/post-August 27, 2000 existing/renewed permits, and aquaculture up to $250)."
+        },
+        {
+          "number": 7,
+          "title": "Modification fees for public sewer connection-fee entities",
+          "bodySha256": "c3ddf1ad346a7e6ead62687964cc8eae3867592e23f9eec2e94f9f72d9008220",
+          "reviewNote": "Imposes a $200 fee for state operating permit modification requests by subsection 10 connection-fee entities, permitting department waiver for department-initiated or error-caused modifications."
+        },
+        {
+          "number": 8,
+          "title": "Modification fees for other state operating permits",
+          "bodySha256": "f6959595cf318a206949c79024f3eb2fb627cc02868ada056c875018d34ed49b",
+          "reviewNote": "Imposes a modification fee of twenty-five percent of the annual operating fee ($100 for name, address, or nonsubstantive changes) for non-subsection 7 permits, permitting waiver for department-initiated or error-caused changes."
+        },
+        {
+          "number": 9,
+          "title": "Section 401 water quality certification fee",
+          "bodySha256": "fc6b016a314f3ab2b5757bba3404aacbccb81cac2468860e56a207fd7b65249b",
+          "reviewNote": "Imposes seventy-five dollar fee for Section 401 certifications, exempting Corps of Engineers general permits."
+        },
+        {
+          "number": 10,
+          "title": "Annual public sewer customer connection fees",
+          "bodySha256": "845f3cd47342fcbb66927e07a25408b7f88400a31bb1edf20b8c4004c0e13d56",
+          "reviewNote": "Establishes annual public sewer connection fees ($0.40-$0.80 residential by system size, $3 non-public-water commercial/industrial, and $3/$10/$25 by pipe diameter excluding fire suppression and irrigation) capped at $700 per multi-connection facility."
+        },
+        {
+          "number": 11,
+          "title": "Fee phase-in schedule for constitutional sewer districts",
+          "bodySha256": "80a366b0e6c1324e74a3f0264b4a8e0230a93dbbb8cdcb4eba81c823eed0e76e",
+          "reviewNote": "Sets a phase-in schedule for Article VI, Section 30(a) sewer district customers at fifty percent from August 28, 2000, through September 30, 2001, and one hundred percent beginning October 1, 2001."
+        },
+        {
+          "number": 12,
+          "title": "Notice of intent permit by rule fee",
+          "bodySha256": "0cf05611a69f6231dbd4cc8e8c33d85117bb4828a24f8d8516d3dd771713e20c",
+          "reviewNote": "Imposes twenty-five dollar filing fee for persons submitting notices of intent to operate under permits by rule."
+        },
+        {
+          "number": 13,
+          "title": "Single fee authorization for state highway permits",
+          "bodySha256": "c479b83289b5ca4869456fd327784cd96a535c95095bd4859cdee8d9b55ae6ae",
+          "reviewNote": "Permits a single general permit fee under subsection 6(1) to cover all highway construction sites under a state agency permit."
+        }
+      ],
+      "reviewSummary": "Source-checked 13 subsections for 644.052 and corrected six hallucinated/mismatched headings (2-5, 7-8), noting section 644.054 fee dates and H.B. 650 veto-override effective date."
+    },
+    {
+      "id": "644.053:31232",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.053&bid=31232",
+      "sourceSha256": "d6e9cf954ff7681637156573790d2948b7ca6f710100a31be23e897615302981",
+      "textSha256": "3643990bf0cf819fa3994afab783756b305da4c7788c0cf6b5f489912f2eb174",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Construction permit fee schedule for wastewater",
+          "bodySha256": "1c5f38c47a2c3a6ad41f95371189aaf5987b9bafb73589354fd4109d4f547290",
+          "reviewNote": "Establishes five construction permit fee tiers for treatment plants, sewer extensions, and pumping stations; source notes reference section 644.054 for fee dates and record that \"dollars\" in subdivision (1) does not appear in original rolls."
+        },
+        {
+          "number": 2,
+          "title": "Highest fee rule for multiple construction activities",
+          "bodySha256": "21a5ec68b8e2347598a7dbcd400d5aec4b0d36f92d8e8c855da0a01df403a00d",
+          "reviewNote": "Requires applicant to pay only the single highest appropriate fee when planned construction involves multiple activities."
+        },
+        {
+          "number": 3,
+          "title": "General construction permits and maximum fee limits",
+          "bodySha256": "272aeb84110bd46ea393a9bd4c937e154e9829da538330be45743742a12e5415",
+          "reviewNote": "Permits the commission by rule to establish general construction permits with fees not exceeding subsection 1 fees."
+        },
+        {
+          "number": 4,
+          "title": "Wastewater and CAFO operator certification fees",
+          "bodySha256": "96e5fd2154f07e51066e04197e2b8052da6fc68cfbf4ab4045b7f854ad5a3cfb",
+          "reviewNote": "Establishes examination, renewal, and reciprocity fee amounts for certified wastewater and CAFO waste managers."
+        }
+      ],
+      "reviewSummary": "Source-checked 4 subsections for 644.053 governing construction permit fees, single highest-fee rule, general construction permits, and operator certification fees, noting source footnotes."
+    },
+    {
+      "id": "644.054:35593",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.054&bid=35593",
+      "sourceSha256": "db7ca367e864967e25daf173ffa002f2a8080c2e1caece4653c9510986efe45c",
+      "textSha256": "8b993b0f48e5c650e1d93b6e0a46b33b94726b19ea27fe0b665240486034c11d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Fee expiration, billing rules, and fund deposit",
+          "bodySha256": "b0dd535df1359464cbedd0d0a96daeb3207f6dcc1f43627f47c3f57a2bb8d0e6",
+          "reviewNote": "Sets October 1, 1990 and August 28, 2000 effective dates and December 31, 2018 statutory expiration date for sections 644.052 and 644.053 fees, requires billing/collection rules and deposit in the natural resources protection fund subaccount, and allows five percent local billing retainage; source cross-references section 640.099."
+        },
+        {
+          "number": 2,
+          "title": "Fee reduction variances for superior treatment systems",
+          "bodySha256": "11415d6ab21c744db71733bea62fd24e2607ccd73f585d2cad39500d3543022b",
+          "reviewNote": "Permits the commission to grant section 644.061 variances reducing section 644.052 fees for facilities adopting technologies reducing contaminant discharges substantially below commission rules."
+        },
+        {
+          "number": 3,
+          "title": "Annual fee payment due dates and anniversary dates",
+          "bodySha256": "d2727916fbf847b76d1127cdfc54f1985ed7756afb112004db6fe8679ec6f5c0",
+          "reviewNote": "Specifies that operating permit fees are due upon application and annually on permit issuance anniversary dates."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsections for 644.054 governing fee effective/expiration dates, billing rules, subaccount deposits, five percent local retainage, variances, and due dates."
+    },
+    {
+      "id": "644.056:31235",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.056&bid=31235",
+      "sourceSha256": "f000d97887a3fb6d6388214675eb57a8052e833405b78b3aa1a2f7a76b2aed8a",
+      "textSha256": "9f4b30180c70e1775a45a8daf00f39b949d74824619648c46c89fcc591b5fb32",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Department investigations of alleged water violations",
+          "bodySha256": "10f90fe32ed023c7f196de4cae5908b73edcbbcb0f6350a152dd297bcacf9e87",
+          "reviewNote": "Requires the director to investigate alleged violations upon commission request or received information, permits other advisable investigations, and includes obtaining a permit by misrepresentation or nondisclosure."
+        },
+        {
+          "number": 2,
+          "title": "Informal resolution through conference and persuasion",
+          "bodySha256": "0684a8a7edc14a47238b5ac154feacbb3aa99810960b83b399e19b4a3c4365da",
+          "reviewNote": "Permits the director, if an investigation discloses a violation, to endeavor to eliminate it through conference, conciliation, or persuasion."
+        },
+        {
+          "number": 3,
+          "title": "Abatement orders, formal complaints, hearings, and appeals",
+          "bodySha256": "8e634fe12626e0170194e23931335202168764feb446f79002026c20ca5bf683",
+          "reviewNote": "Permits abatement orders or attorney general legal action after failed conciliation or for imminent endangerment, governs written notice, thirty-day complaint hearings, thirty-day order appeals staying enforcement, and final commission orders."
+        },
+        {
+          "number": 4,
+          "title": "Grounds for permit revocation, termination, or modification",
+          "bodySha256": "a84c4c8dcc805dfdfad0150da40592c6a3b7957aff7158844a6b5090868eae3c",
+          "reviewNote": "Permits revoking, terminating, or modifying permits for statutory violations, misrepresentation, nondisclosure, or changed conditions requiring reduced or eliminated discharge, subject to sections 621.250 and 640.013 appeals."
+        },
+        {
+          "number": 5,
+          "title": "Administrative hearing commission appeals of permit actions",
+          "bodySha256": "287f608d9406ce7211cd15ac25f438f4fb32677cad32d3cdd6a29ed3d96f6c03",
+          "reviewNote": "Permits thirty-day appeals of permit revocations, terminations, or modifications to the administrative hearing commission for a recommended decision, requires commission final decisions, and grants original judicial review jurisdiction to the court of appeals after exhausting remedies."
+        }
+      ],
+      "reviewSummary": "Source-checked 5 subsections for 644.056 and replaced hallucinated headings for subsections 3-5 covering abatement orders/complaints, permit revocation grounds, and administrative hearing commission appeals."
+    },
+    {
+      "id": "644.060:51153",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.060&bid=51153",
+      "sourceSha256": "957b4ba2fa56e06407a2dfdeb215d5a2b9fd5be812c3a895c4245d8405b8d54c",
+      "textSha256": "5c386ad9a15d182b5307cddaf26d17590100947e68f5f8cb028789b929c673a1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Permit-exempt beneficial use of processed recycled asphalt shingles",
+          "bodySha256": "abdc8f6e5e415521b58cfc1bebfa1aacf9f0eeff9fa0c9fdfeb4c66a76001fdd",
+          "reviewNote": "Permits using inspected processed recycled asphalt shingles (defined in section 260.221) for fill, reclamation, and beneficial purposes without a permit, barring use within five hundred feet of specified waters or below surface within fifty feet above the water table."
+        },
+        {
+          "number": 2,
+          "title": "Property owner consent required for placement or storage",
+          "bodySha256": "e9b9ac342772c267538d97983040acf55046ad9fac189f7e4b4c0c68d09baafc",
+          "reviewNote": "Clarifies this section does not authorize abandonment, accumulation, placement, or storage of recycled or processed recycled asphalt shingles on real property without the owner's consent."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsections for 644.060 and replaced both hallucinated headings with the actual processed recycled asphalt shingles beneficial-use and owner-consent provisions."
+    },
+    {
+      "id": "644.061:31238",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.061&bid=31238",
+      "sourceSha256": "a90270db992fbca5ce9e34c26a6691aec4665ff3a6ce32e29c04f0552c3decf9",
+      "textSha256": "fb9940c5ffd67f990f73cffaa6114ba62635339809380969e9188d48356b79fe",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority to grant variances from standards",
+          "bodySha256": "68c89406da883b2787f476de2b35f36dbe06be9b506f6db5f2dd4c3fd784fb0f",
+          "reviewNote": "Permits individual variances unless prohibited by federal law when compliance causes an arbitrary and unreasonable taking or closes a lawful business without sufficient public benefit, barring variances causing adverse health, aquatic, or wildlife effects and preserving nuisance liability."
+        },
+        {
+          "number": 2,
+          "title": "Commission discretion in weighing equities for variances",
+          "bodySha256": "9ba2477613a5f142e709cdc67648c69b77bbe427df671892dc2ea00c8a6f2dfd",
+          "reviewNote": "Requires the commission to exercise wide discretion in weighing equities and advantages and disadvantages to the applicant and affected persons."
+        },
+        {
+          "number": 3,
+          "title": "Variance duration, conditions, and extensions",
+          "bodySha256": "02837f44985efe1ce0f3de994b36c31625f94c217d093e6c39d61ac5572825f2",
+          "reviewNote": "Requires commission orders to specify variance periods and conditions, permits extensions by affirmative commission action, and caps duration at the time reasonably necessary for compliance."
+        },
+        {
+          "number": 4,
+          "title": "Variance petition, filing fee, and director recommendation",
+          "bodySha256": "2f534e6730b0cb85e04b0e044f89a2fa115a00869c1866671023af228a1e8237",
+          "reviewNote": "Requires filing a petition with a $250 fee, directs a director investigation and recommendation within sixty days, and requires notice to the petitioner and section 644.036 county registrants."
+        },
+        {
+          "number": 5,
+          "title": "Hearings, public meeting grants, and burden of proof",
+          "bodySha256": "eb1a2464d4ea2512a6c8b372164216efca308fe34e6bd29dab135c106030c0c0",
+          "reviewNote": "Requires a section 644.066 hearing if requested within thirty days of a denial recommendation or by an aggrieved person, permits public-meeting grants without a hearing after thirty days, and places the burden of proof on the petitioner."
+        },
+        {
+          "number": 6,
+          "title": "Performance bond requirement for variance compliance",
+          "bodySha256": "9cef9a9320634d8c59009378fba68e6f3542f04bc7387ae3de14e90dd7d9bd31",
+          "reviewNote": "Permits the commission to require a Missouri-licensed corporate surety bond ensuring compliance with variance terms and clean water laws until requirements are met."
+        },
+        {
+          "number": 7,
+          "title": "Revocation or modification of variance or bond",
+          "bodySha256": "11cf20aa6e571bbf1040da3b61d5d2d1db1a36afedb794f2fb29a85b978f34dc",
+          "reviewNote": "Permits revoking or modifying a variance or revoking its bond upon noncompliance after a hearing held on at least thirty days' written notice to affected persons and notice registrants."
+        },
+        {
+          "number": 8,
+          "title": "Judicial review of commission variance decisions",
+          "bodySha256": "db601c0af39ca6019353f2963026b3a0b3b90e775a37112a9393419d80733bbb",
+          "reviewNote": "Subjects commission decisions made pursuant to a hearing under this section to judicial review under section 644.071."
+        }
+      ],
+      "reviewSummary": "Source-checked 8 subsections for 644.061 and replaced seven hallucinated/shifted headings (2-8) covering commission equity discretion, duration/extensions, petitions, hearings, bonds, revocation, and judicial review."
+    },
+    {
+      "id": "644.062:31239",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.062&bid=31239",
+      "sourceSha256": "6c6c12e41b8d1bac287a74bebfb9acf07c7783bab656b862cf393987000b1147",
+      "textSha256": "5e7500914b3bcac5854c1a3c548dc940a2a54d1de9f915c58db8731904fec18a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Director authority to grant short-term provisional variances",
+          "bodySha256": "16b43ed21aaee0abf8b79a3a470e5e8186c292bddd8990434edf2a8069f6d9ce",
+          "reviewNote": "Permits the director to grant short-term provisional variances for arbitrary or unreasonable hardship from conditions beyond reasonable control (such as extreme drought or elevated temperatures), requiring a performance bond for violation-correction delays; source notes H.B. 28 effective 8-28-13 and H.B. 650 effective 10-11-13 after veto override."
+        },
+        {
+          "number": 2,
+          "title": "Forty-five-day duration and ninety-day annual limit",
+          "bodySha256": "1eba53a235515b06cd64b349c21bed31a9c7f71ba7d381850a19b3a4a567ccf7",
+          "reviewNote": "Caps provisional variances at forty-five days and permits extensions up to an additional forty-five days, not exceeding ninety days in one calendar year."
+        },
+        {
+          "number": 3,
+          "title": "Petition, filing fee, fourteen-day action, and denial remedy",
+          "bodySha256": "c9c73041d6b8f95a231183205b90e8740a50f87f72a7122b2eb67fb78aa52d78",
+          "reviewNote": "Requires a petition with a $250 filing fee, mandates director action within fourteen days, permits a section 644.061 proceeding upon denial, and allows variance conditions."
+        },
+        {
+          "number": 4,
+          "title": "Notice to petitioner and public inspection of variances",
+          "bodySha256": "3732934ade0aaeae8cfd0e35eed40911f562f50ccd9696e17390d25d138cd0f0",
+          "reviewNote": "Requires prompt notice to the petitioner, filing of the written decision with the commission, and commission maintenance of all provisional variances for public inspection."
+        }
+      ],
+      "reviewSummary": "Source-checked 4 subsections for 644.062 and replaced all four hallucinated headings with the actual provisional variance provisions, noting H.B. 28 and H.B. 650 veto-override effective dates."
+    },
+    {
+      "id": "644.066:31240",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.066&bid=31240",
+      "sourceSha256": "c2b26b8ef87afcbe11f343305c918c97f5d48ef7a79d6e4b5b37edcbecc9d5cc",
+      "textSha256": "93777d39489f3e260de1c3fe82685f97783c044691b413047fee71a708c4447a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Sworn stenographic testimony and public transcript availability",
+          "bodySha256": "17b3d704bc9951f1e9c82ad1d8905c1feb26adc482e874b75dc9a7b14142557c",
+          "reviewNote": "Requires all commission public hearing testimony to be under oath and stenographically recorded, making transcripts available to the public and parties upon payment of usual charges."
+        },
+        {
+          "number": 2,
+          "title": "Hearing notices, subpoenas, and civil discovery rules",
+          "bodySha256": "a7745e41a5ea54d76d9f8b73051bfcfea6b5af4f9466d89a0019cd9367ed4cf1",
+          "reviewNote": "Requires commission members or hearing officers to issue hearing notices and section 536.077 subpoenas, and applies civil discovery rules to commission hearings."
+        },
+        {
+          "number": 3,
+          "title": "Commission quorum, single-member or hearing officer proceedings, and final orders",
+          "bodySha256": "5a17e04cfae22dbdc3e4f44136b15abca76be8632c3a51f59d2adc9d0acfafcb",
+          "reviewNote": "Requires at least four commissioners for rulemaking hearings, permits one commissioner or a Missouri Bar hearing officer for other hearings, and requires written approval by at least four commissioners (after reviewing exhibits and the full transcript if absent) for final orders."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsections for 644.066 and replaced all three hallucinated headings with the actual public hearing testimony, subpoena/discovery, and quorum/final-order provisions."
+    },
+    {
+      "id": "644.071:31241",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.071&bid=31241",
+      "sourceSha256": "342fbffceac91b5c3f4b8275aeab861686d8d2c4ae6ee9564f93561acf6e9192",
+      "textSha256": "058ee1fe1384cd4192a51aa935ae09e70c230c864d15ac52eb3fdf0a2b1e40da",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Chapter 536 judicial review and utility permit venue",
+          "bodySha256": "e12dc1fecffbf7ff909ee0061db14d30465dc79536884a5820ba25dde97683a3",
+          "reviewNote": "Subjects final commission or director orders to chapter 536 judicial review after exhausting administrative remedies, routing utility-permit review actions to the court of appeals instead of circuit court; source cross-references section 640.099."
+        },
+        {
+          "number": 2,
+          "title": "Record review and additional evidence in rule validity suits",
+          "bodySha256": "a2a505f1c7ec1086e5b4eef71844030a352729c6de251f6fdf532c0dbbbc520f",
+          "reviewNote": "Requires courts in section 536.050 rule-validity suits to review the commission record for validity and reasonableness and permits hearing additional evidence as deemed necessary."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsections for 644.071 and replaced both hallucinated headings with the actual judicial review and rule-validity review provisions."
+    },
+    {
+      "id": "644.076:31242",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.076&bid=31242",
+      "sourceSha256": "5dea1359a67171666fe2d0b461694500ad67e58ea3cbb072f0c72ec0b3ce1616",
+      "textSha256": "38de2c1ee96a3049da7342550370b3ef621f01a0e4ccd582932db6ce583bac67",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Civil penalties for water pollution violations",
+          "bodySha256": "0c81098c9ab0129f38212eee944b651c9b2fef8e7812b83b2023ec9cbcd7c030",
+          "reviewNote": "Prohibits unlawful contaminant discharges, permits civil actions for injunctive relief and/or penalties up to $10,000 per day (barred if section 644.079 administrative penalties were assessed), permits commission, watershed district chair, or director requests to the attorney general or prosecutor, and regulates written settlement offers."
+        },
+        {
+          "number": 2,
+          "title": "Criminal penalties for false statements and monitoring tampering",
+          "bodySha256": "59c0f7a84e84a54aef313ab039fdc1def4cae7cb0aabf397088c89b0cb86a5d8",
+          "reviewNote": "Punishes knowing false statements in required filings or falsifying, tampering with, or rendering inaccurate monitoring devices or methods by up to a $10,000 fine, six months' imprisonment, or both."
+        },
+        {
+          "number": 3,
+          "title": "Criminal penalties for willful or negligent violations",
+          "bodySha256": "8578612a3cc18c3abe7134f1ce9b1e463095b64cdfe43c52099ac8db711ee908",
+          "reviewNote": "Punishes willful or negligent subsection 1 violations by $2,500 to $25,000 per day and/or up to one year's imprisonment, increasing to up to $50,000 per day and/or two years for second and successive convictions."
+        },
+        {
+          "number": 4,
+          "title": "Defense for violations caused by catastrophic events",
+          "bodySha256": "e53dbca1f1a167e1a0c3191411157bb35bae3b05046cd328ed24c3b87f43ae67",
+          "reviewNote": "Exempts persons from liabilities if violations are caused by an act of God, war, strike, riot, or other catastrophe."
+        }
+      ],
+      "reviewSummary": "Source-checked 4 subsections for 644.076 and corrected hallucinated headings for subsections 2 and 3 (false statements/monitoring tampering and willful or negligent violations)."
+    },
+    {
+      "id": "644.079:31243",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.079&bid=31243",
+      "sourceSha256": "45681b75e200727d04fa056b0ced53b58be24359e7d4f3769bfde73823ff5ca6",
+      "textSha256": "51be94293249896ca4547d36678c99ab0094bfe077c17004f3d3d2e65d521058",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Administrative penalty orders and conciliation prerequisite",
+          "bodySha256": "c8d16427855cad4d2da7f4e3548d793940dbed79d25d7249adef86e620c025c0",
+          "reviewNote": "Permits administrative penalty orders after conference, conciliation, and persuasion, bars penalties for minor violations and certain resolved violations, and waives collection if the order omits statutory authority, collection manner, or appeal rights."
+        },
+        {
+          "number": 2,
+          "title": "Penalty matrix rules, daily caps, and appeal stay",
+          "bodySha256": "6e2901b62aa53733976f018f4a03ee61c227d6b65070e3b9d03c9de69d50e50c",
+          "reviewNote": "Requires RCRA-based penalty matrix rules capped at section 644.076 civil limits, sets sixty-day payment stayed by commission appeal, adds a fifteen percent surcharge plus ten percent annual interest for nonpayment, directs Article IX Section 7 disposition, and permits circuit court collection with attorney fees."
+        },
+        {
+          "number": 3,
+          "title": "Two-year statute of limitations for penalty assessment",
+          "bodySha256": "8baeaf542cf2042f84a543265869332be1edbea3bd52d9af69a5614731ff9d2b",
+          "reviewNote": "Bars penalty increase for agency delay and requires assessment within two years of discovery of violation."
+        },
+        {
+          "number": 4,
+          "title": "Judicial review of administrative penalty orders",
+          "bodySha256": "243bfcac245da640847c5dc0008eab0e2db1a266684428ed25683363aa4befef",
+          "reviewNote": "Subjects final administrative penalty orders to judicial review under section 536.100 upon petition."
+        },
+        {
+          "number": 5,
+          "title": "State election between administrative and civil remedies",
+          "bodySha256": "fe6d2c5735e10846f8c4ba42072c1e802b7b4250ab751be3aa48c9c88c4ee967",
+          "reviewNote": "Authorizes state to elect administrative penalties or request attorney general or prosecutor to seek civil penalties."
+        }
+      ],
+      "reviewSummary": "Source-checked 5 subsections for 644.079 governing administrative penalty prerequisites, RCRA-based penalty matrix rules, two-year limitations, judicial review, and remedy election."
+    },
+    {
+      "id": "644.083:59967",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.083&bid=59967",
+      "sourceSha256": "58babc71f3fd839095352622dfb0b8768582667e0c46adb265698f6a1f1e7bb2",
+      "textSha256": "bc93116bb9c1572cee90c0f8a57bab6ba092b4b51f1640244acb26780583b0c3",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exclusive return flow rights in federal reservoirs",
+          "bodySha256": "ea459fdb363e1917e84b0f4906161501585274c64b45f870f94983b2e69e7b26",
+          "reviewNote": "Grants persons contracting for storage in Army Corps reservoirs exclusive rights to return flows within unused capacity."
+        },
+        {
+          "number": 2,
+          "title": "Definition of return flow",
+          "bodySha256": "617553e5da2ddf07aa32dad02292da643a7dfa062ecf04ec520590980531fbe2",
+          "reviewNote": "Defines return flow as water discharged directly or indirectly to a reservoir from a water reclamation facility."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsections for 644.083 establishing exclusive Army Corps reservoir return flow rights and defining return flow."
+    },
+    {
+      "id": "644.091:31245",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.091&bid=31245",
+      "sourceSha256": "2bee16ce416357e698871138e61adc80ab9b256c6318a9ec0bcdd0159b1700c3",
+      "textSha256": "4a0ac5c049960c7f44e5ee77369f3498eb090a75da8c8d4e9199f0a7ea4eff0d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Public contract ban for unpermitted persons",
+          "bodySha256": "f479a5ea4121351af1b1df24fbf25ff8cd1c8a870b55a5d2a5427cce9d2eb9ad",
+          "reviewNote": "Bars state and political subdivision contracts with any person required to apply for a permit under section 644.051 unless the person has applied for or received a permit pursuant to section 644.061 (as cited in source text)."
+        },
+        {
+          "number": 2,
+          "title": "Public contract ban for contempt of court orders",
+          "bodySha256": "84246dc47ead338cc8dc136b9bdcb852506f1b07f7747594aec8684aa52567aa",
+          "reviewNote": "Prohibits public contracting with any person held in contempt of a court order enforcing clean water provisions."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsections for 644.091 barring public contracts with unpermitted persons and persons in contempt of clean water court orders."
+    },
+    {
+      "id": "644.122:31254",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.122&bid=31254",
+      "sourceSha256": "b49717cdb1bb110e554f1c0d586a84d5612fe9b83ba247dddcca17417403d0d6",
+      "textSha256": "043bbc2f7402e8f8d253c038cf305ac662b9fb08afdde389f14246259dcff8bd",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Creation of Water and Wastewater Loan Fund",
+          "bodySha256": "deff078a3058f9254d63ed41e11db766f9a10d4893449f7b0ae274bb0475f0af",
+          "reviewNote": "Creates dedicated Water and Wastewater Loan Fund in state treasury and accounts separately for drinking water funds."
+        },
+        {
+          "number": 2,
+          "title": "Authorized expenditure purposes and project loans",
+          "bodySha256": "b15e456e1b21367249a9cdea25fb6c6fcec2140325d23851d6e5d55c3389ba8c",
+          "reviewNote": "Enumerates seven authorized expenditure purposes including public loans, administration, bond security, and debt refinancing."
+        },
+        {
+          "number": 3,
+          "title": "Fund nonreversion and biennial balance carryover",
+          "bodySha256": "d3d40ba57e17731e70d492d0c51a25f6caab9e19ef42d48fec03b82f23ea3c04",
+          "reviewNote": "Exempts loan fund balances from biennial transfer to general revenue and ensures continuous accumulation."
+        },
+        {
+          "number": 4,
+          "title": "Scope of eligible drinking water and pollution control projects",
+          "bodySha256": "1e409d55490a0e4e53ae7b1c412ba6161cc8dcd0631e26e54238211931368bab",
+          "reviewNote": "Defines public drinking water and water pollution control projects to include planning, design, and construction of water, wastewater, and nonpoint source control facilities identified in a department plan."
+        }
+      ],
+      "reviewSummary": "Source-checked 4 subsections for 644.122 and replaced hallucinated subsection 4 heading with the actual scope of public drinking water and water pollution control projects."
+    },
+    {
+      "id": "644.125:31257",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.125&bid=31257",
+      "sourceSha256": "65c4ed034622866a3bbacb5bf02e73723a56e31b31e0f668219492664330432c",
+      "textSha256": "7d3fc23496cbdbb5d21f3bc976cd04ef3bd463d944e87b24ebe5809649144b26",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Sales tax withholding for delinquent loan repayments",
+          "bodySha256": "b09b66ac1504741dc0c6afa6dad9f7c9e0ef8ae364d06c870202bde70e96cc81",
+          "reviewNote": "Permits the department of natural resources to notify the revenue director if a county or municipality is sixty days delinquent on wastewater loan repayments, requiring deduction from local sales tax distributions and deposit into the loan fund."
+        },
+        {
+          "number": 2,
+          "title": "Interagency withholding agreements with local jurisdictions",
+          "bodySha256": "ee37cbb269ed59bea3ad0293012eac2e6080dcd00094697f4b1532e2d2f5dfca",
+          "reviewNote": "Requires interagency agreement detailing sales tax withholding percentages for each county or municipality."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsections for 644.125 governing sales tax withholding for delinquent wastewater loan repayments and required local withholding agreements."
+    },
+    {
+      "id": "644.145:54651",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.145&bid=54651",
+      "sourceSha256": "aa0b4ea31b58d8d3dbb3a8b5ddf2a03857f06cb9bb8a010322d10e9cbbdbb344",
+      "textSha256": "0695dbf465587b12b9558c9a1588195c30f82c54c07ac17c968231159ff0ec76",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory finding of affordability for new requirements",
+          "bodySha256": "ed3a5bd978f7ae8d8d77cbae005ac82facde63c355cd760c055454facd655da2",
+          "reviewNote": "Requires department to make finding of affordability regarding ratepayer costs before imposing new discharge mandates."
+        },
+        {
+          "number": 2,
+          "title": "Exceptions to mandatory affordability finding requirement",
+          "bodySha256": "fcda2ecf84e6d852f0d41a892057ac120d852213ea4e3e2fafddc48ec487bcc4",
+          "reviewNote": "Exempts collection extensions, no-new-requirement NPDES renewals, and applicant certifications or waivers (barring department coercion), while preserving affordability findings for communities under 3,300 residents."
+        },
+        {
+          "number": 3,
+          "title": "Definitions of affordability, capability, and finding",
+          "bodySha256": "e43d6833e0dc0bde0968740be4fd456044adc28d0c90eb3bf58d99a25bc174e5",
+          "reviewNote": "Defines affordability, financial capability, and finding of affordability based on median household income metrics."
+        },
+        {
+          "number": 4,
+          "title": "Affordability procedures, rulemaking, draft review, and eight criteria",
+          "bodySha256": "4be4bcb20ff6aea04054707426f6233e3ef8a2db9bfc8e75e4545eb175e3dd23",
+          "reviewNote": "Requires department affordability procedures, authorizes commission rules, mandates verifiable data and permittee draft review, and enumerates eight mandatory evaluation criteria."
+        },
+        {
+          "number": 5,
+          "title": "Contextual use of prescriptive formulas and median income",
+          "bodySha256": "82b0afa42cd3d6dd741cad8fafd557ac9f8909a6a4ddad8529bf3099ddb1b707",
+          "reviewNote": "Provides that prescriptive formulas and measures such as median household income should not be the sole indicator and must be viewed in context of other economic conditions rather than as a threshold."
+        },
+        {
+          "number": 6,
+          "title": "Additional permitting time for draft affordability findings",
+          "bodySha256": "8a2ab2878459871358ff8a31d19a082181604a738b21c60ef1b2885759fa2db9",
+          "reviewNote": "Allows reasonable time spent preparing, permitting review of, or revising draft affordability findings in addition to section 644.051 permitting deadlines."
+        },
+        {
+          "number": 7,
+          "title": "Invalidity of permits or decisions lacking required findings",
+          "bodySha256": "0c2e95b9b27d17a19f77ed17ea9f4ee0d6aedfe83fc3aec278db83be6b72deb4",
+          "reviewNote": "Declares any resulting permit or decision null, void, and unenforceable if the department fails to make a finding of affordability where required by this section."
+        },
+        {
+          "number": 8,
+          "title": "Appeal of affordability findings to clean water commission",
+          "bodySha256": "bfc7102be3cd146362623a6435dc1a5d32ae4f05c4baad512752d565835a0f27",
+          "reviewNote": "Permits appealing department affordability findings to the commission pursuant to subsection 12 of section 644.051."
+        },
+        {
+          "number": 9,
+          "title": "Annual affordability report to governor and general assembly",
+          "bodySha256": "3ed51fe158e33b395e4053fdcddf32ccb3b20deefe6ad78607365962070232e9",
+          "reviewNote": "Requires an annual report by the beginning of the fiscal year to the governor, legislative leaders, and natural resource committee chairs detailing four categories of prior-year affordability data; source notes effective 7-09-24 and cross-references section 640.099."
+        }
+      ],
+      "reviewSummary": "Source-checked 9 subsections for 644.145 and corrected six hallucinated/shifted headings (4-9) covering affordability procedures and eight criteria, formula context, extra review time, invalidity for missing findings, commission appeals, and annual legislative reporting."
+    },
+    {
+      "id": "644.200:33561",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.200&bid=33561",
+      "sourceSha256": "26887746c86b402bc747583ac342768aebedb3e97db39daee3d8c41e28fc4a60",
+      "textSha256": "9ec1ef1283475b3fe72898eaa151658162b2b283b9764a1f30694c5f3de919a6",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Department duty to provide wastewater system upgrade options",
+          "bodySha256": "8c7d3222569aaee210e1cb2397434515ef52123cbd61e01b163eecf7e6360cf4",
+          "reviewNote": "Requires the department to provide any municipality or community served by a wastewater treatment system with upgrade options to meet new or existing discharge requirements, including advanced and biological treatment technologies; source notes dual effective dates 6-28-16 (H.B. 1717) and *9-14-16 (H.B. 1713 veto override Revisor's Note)."
+        },
+        {
+          "number": 2,
+          "title": "Optional municipal or third-party analysis of discharge options",
+          "bodySha256": "207458d7d3e1cfe39d8ce0d85b73f15fe716849eb5cea9b2defcd626d169140d",
+          "reviewNote": "Permits a municipality, community, or hired third party to analyze options including new facilities, outside connections, and existing system upgrades, examining feasibility and cost."
+        },
+        {
+          "number": 3,
+          "title": "Department approval of feasible system upgrades",
+          "bodySha256": "6f7d071ba01ede37d5f8d84b9e3a4f3e02ac6a0e224220fa6adf95ca8a17a10c",
+          "reviewNote": "Requires the department to allow implementation of upgrading or expanding the existing wastewater treatment system if feasible, cost effective, and able to meet discharge requirements."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsections for 644.200, corrected subsections 1-2 (removing fabricated population cap and preserving permissive analysis), and noted dual 2016 effective dates and Revisor's Note."
+    },
+    {
+      "id": "644.502:31266",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.502&bid=31266",
+      "sourceSha256": "3940604f4c1816e39893af8cadf084a823123b44ee86ac055a81c6b25d8b10d5",
+      "textSha256": "6a624437db527177bdc5856c4d2c0a7d830093af25f99fb713b6b939a2f0e346",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Bond commissioner borrowing authority of twenty million",
+          "bodySha256": "2c5d96b5f5fa53a8d95fab189698bdad5c274df7c1dc641c6ccb156254dd2a49",
+          "reviewNote": "Authorizes the board of fund commissioners under Article III, Section 37(c) to borrow an additional twenty million dollars on state credit beyond sums authorized prior to September 28, 1983."
+        },
+        {
+          "number": 2,
+          "title": "Definition of sewage treatment facilities",
+          "bodySha256": "40c80a78d812932c06ad405c39eb4c68314a455337598da5604db43f6544c4b9",
+          "reviewNote": "Defines sewage treatment facilities to include treatment equipment, conduits, pumping stations, and force mains."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsections for 644.502 authorizing $20,000,000 in additional water pollution control borrowing and defining sewage treatment facilities."
+    },
+    {
+      "id": "644.503:31267",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.503&bid=31267",
+      "sourceSha256": "4f2a7e291139a568a017765013e9ae3245cf6a6da5f37da25a9f06f3b774f567",
+      "textSha256": "e9dfab8220d4ddca01b2122a6ce83cb7cd58d30515f3099769355eabb6df84ed",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Bond commissioner borrowing authority of thirty-five million",
+          "bodySha256": "a521d2f475e03d2680eff07ce18544ea0b83ae98acd40c7796dd70b62611aa38",
+          "reviewNote": "Authorizes the board of fund commissioners under Article III, Section 37(c) to borrow an additional thirty-five million dollars on state credit beyond sums authorized prior to August 13, 1984."
+        },
+        {
+          "number": 2,
+          "title": "Definition of sewage treatment facilities",
+          "bodySha256": "94d62912ba90595e794fef0173ef2580bc8fe477efd39f8289fbb90c547cd598",
+          "reviewNote": "Defines sewage treatment facilities to include treatment equipment, pipelines, pumping stations, and appurtenances."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsections for 644.503 authorizing $35,000,000 in additional water pollution control borrowing and defining sewage treatment facilities."
+    },
+    {
+      "id": "644.564:31293",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.564&bid=31293",
+      "sourceSha256": "37e014346392c3b9dac4b38a844dc57666f8f2f37f105213ae234a4b0aa9b434",
+      "textSha256": "d90e7a709416f9af46d829501547929b1d48d38f696ab1b2f968e0441d9a2306",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Bond commissioner borrowing authority of thirty million",
+          "bodySha256": "07c427e6dd71b1534c71bae50efab7af2b1d1ea89cdd57bcd552315905406a06",
+          "reviewNote": "Authorizes the board of fund commissioners under Article III, Section 37(e) to borrow an additional thirty million dollars beyond sums authorized prior to June 6, 1989, allocated to pollution control, storm water, rural water/sewer grants, urban drinking water, and drought relief."
+        },
+        {
+          "number": 2,
+          "title": "Authorized expenditures for emergency drought relief",
+          "bodySha256": "99b859e2c4bd43e80e5d29fd7e5f5812b963f2cf0c618248607da3ec3b310024",
+          "reviewNote": "Restricts drought relief expenditures to public water system interconnections and drought water provision."
+        },
+        {
+          "number": 3,
+          "title": "Application procedures and evaluation criteria for drought",
+          "bodySha256": "493f39eca442cccadef975ad87c7c96d922ffed39a9dc22623cfe2aceb622b81",
+          "reviewNote": "Permits rainfall-shortage affected public water systems to apply for assistance, requires department review and ranking, and permits grants or loans based on shortage severity, population affected, and repayment ability; source footnote notes \"this act\" refers to S.B. 444 (1989)."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsections for 644.564 authorizing $30,000,000 in additional borrowing, emergency drought relief uses, and water shortage assistance applications."
+    },
+    {
+      "id": "644.566:31295",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.566&bid=31295",
+      "sourceSha256": "dae40e0780d3db72b84817e09958f220719fe31cd8b73b3aaaaae87896957846",
+      "textSha256": "5679c401bdf7196a4c5b763687b9565c3c685eac40229a026824929f35388122",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Bond borrowing authority of two and one-half million",
+          "bodySha256": "09329fc1f2aeb7faaafee1f5c8e8e3fb0fed576507d98fd1aa3ec7c6a9bf119f",
+          "reviewNote": "Permits the board of fund commissioners under Article III, Section 37(e) to borrow an additional two and one-half million dollars beyond pre-August 28, 1999 sums for chapter 640 and 644 improvements; source notes dual 1999 enactment by H.B. 450 and S.B. 160 & 82."
+        },
+        {
+          "number": 2,
+          "title": "Bond borrowing authority of fifteen million dollars",
+          "bodySha256": "e66121524a8e96af87d455ac398a5c8d0db8ca86abf036918e34e3693089d263",
+          "reviewNote": "Permits the board of fund commissioners under Article III, Section 37(e) to borrow an additional fifteen million dollars beyond pre-August 28, 1999 sums for chapter 640 and 644 purposes."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsections for 644.566 authorizing additional $2,500,000 and $15,000,000 borrowing under Article III, Section 37(e), noting dual 1999 enactment."
+    },
+    {
+      "id": "644.570:31297",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=644.570&bid=31297",
+      "sourceSha256": "3433a44d057d0641cc1e0dd8edbce5e32e60685d884342d6cec0d9ebdc4bed48",
+      "textSha256": "5f223f1153a101eae44b8c22d364dfd855aa9629d74f57e9084c19ecf3e988e0",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_16",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_18",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Borrowing authority of twenty million for stormwater",
+          "bodySha256": "a65ff4985a9cb6f06ac748de0b1a935d9dd09b55b042182d8ec8b5dff018208d",
+          "reviewNote": "Permits the board of fund commissioners under Article III, Section 37(h) to borrow twenty million dollars for storm water control plans, studies, and projects allocated via grants or loans in first-classification counties and cities not within a county; source notes effective 11-04-08 under section 644.571."
+        },
+        {
+          "number": 2,
+          "title": "Fifty percent grant limitation on project costs",
+          "bodySha256": "26dc5cfc67784e38a4728fae8a5d3d89ecf54811011640af7b7d8c2d01d533e8",
+          "reviewNote": "Restricts stormwater control grants to no more than fifty percent of the total project or study cost."
+        },
+        {
+          "number": 3,
+          "title": "Population-based allocation ratio to eligible jurisdictions",
+          "bodySha256": "ab1146391a1bd417fcd4ba75709cfa47766cbf5a2df94a1c1691238e9ccc6bcb",
+          "reviewNote": "Directs initial allocation of funds based on the population ratio of eligible counties and St. Louis City."
+        },
+        {
+          "number": 4,
+          "title": "Suballocation to cities of at least twenty-five thousand",
+          "bodySha256": "bd027d0a9737dd988bd691c081f79cc3b7b447d21261b0213ae3f343d3a59f70",
+          "reviewNote": "Requires further population-ratio allocation and initial offer to eligible recipients in cities of at least twenty-five thousand inhabitants within first-classification counties."
+        },
+        {
+          "number": 5,
+          "title": "Reallocation of remaining uncommitted stormwater funds",
+          "bodySha256": "5c8d09226139f61a168c6195ab3577fd0f32e2912910c5640394a027503812e3",
+          "reviewNote": "Permits reallocating remaining funds after initial offers to initial recipients with eligible projects on a population-ratio basis until exhausted."
+        },
+        {
+          "number": 6,
+          "title": "Direct disbursement to constitutional sewer districts",
+          "bodySha256": "be1ea0ecb441cf965ae5429fd9548276ea18387647dc267f7cb47534bda50015",
+          "reviewNote": "Directs grants or loans to be disbursed directly to sewer districts established under Article VI, Section 30(a)."
+        },
+        {
+          "number": 7,
+          "title": "Creation of Storm Water Loan Revolving Fund",
+          "bodySha256": "8a4d8fd1635efa2b8ad9f841453b9f5ccf0a952c8f09f5d6a657b3a34cb2281e",
+          "reviewNote": "Creates the Storm Water Loan Revolving Fund for loan and interest repayments, grants state treasurer custody, investment, and disbursement approval authority, and exempts biennial balances from general revenue reversion."
+        }
+      ],
+      "reviewSummary": "Source-checked 7 subsections for 644.570, corrected subsection 4 title (at least 25,000 rather than over 25,000), and noted November 4, 2008 effective date under section 644.571."
+    }
+  ]
+}
