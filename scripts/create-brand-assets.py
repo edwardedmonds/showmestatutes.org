@@ -27,3 +27,5 @@ for size, name in [(96, 'favicon.png'), (180, 'apple-touch-icon.png')]:
     pen = ImageDraw.Draw(icon)
     pen.text((size/2, size*.46), '§', font=font('LiberationSerif-Regular.ttf', round(size*.8)), fill=paper, anchor='mm')
     icon.save(root / 'static' / name, optimize=True)
+    if name == 'favicon.png':
+        icon.save(root / 'static/favicon.ico', sizes=[(32, 32), (48, 48)])
