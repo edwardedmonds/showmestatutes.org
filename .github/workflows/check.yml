@@ -4,6 +4,11 @@ on:
     branches: [main]
   pull_request:
   workflow_dispatch:
+  schedule:
+    # 07:00 UTC = 01:00 CST / 02:00 CDT in Missouri (America/Chicago).
+    # Re-evaluates static effective-date labels offline; never scrapes revisor.mo.gov.
+    - cron: '0 7 1 * *'   # 1st of every month (covers Jan 1, Jul 1, and monthly "evaluated as of" freshness)
+    - cron: '0 7 28 8 *'  # Aug 28 (Missouri standard statutory effective-date boundary)
 permissions:
   contents: read
 concurrency:

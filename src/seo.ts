@@ -19,6 +19,7 @@ const relatedSectionsMap = aliasData.related as Record<string, string[]>;
 const topicPages = aliasData.topicPages as TopicPage[];
 
 export const siteUrl = 'https://showmestatutes.org';
+export const SITEMAP_STATUTE_CHUNK_SIZE = 10_000;
 export const siteTitle = 'Missouri Statute Search | Show Me Statutes';
 export const siteDescription = 'Search Missouri statute headings by topic, common name, or section number. Browse chapters and read the official law on the Missouri Revisor’s website.';
 export const escapeHtml = (value: string) => value.replace(/[&<>"']/g, character => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[character]!));
@@ -274,17 +275,27 @@ ${relatedHtml}
     );
   }
 
-  const urls = [
+  const sitemapUrlset = (paths: string[]) =>
+    `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${paths.map(path => `<url><loc>${siteUrl}${path}</loc></url>`).join('\n')}</urlset>\n`;
+  const coreUrls = [
     '/',
     '/about/',
     '/chapters/',
     '/topics/',
     ...topicPages.map(t => `/topics/${t.slug}/`),
-    ...chapters.map(c => `/chapters/${c.chapter}/`),
-    ...[...bySection.keys()].map(statutePath),
   ];
+  const chapterUrls = chapters.map(c => `/chapters/${c.chapter}/`);
+  const statuteUrls = [...bySection.keys()].map(statutePath);
+  const childSitemaps = ['sitemap-core.xml', 'sitemap-chapters.xml'];
   // No artificial lastmod dates: rebuilding is not a source-content update.
-  files['sitemap.xml'] = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map(path => `<url><loc>${siteUrl}${path}</loc></url>`).join('\n')}</urlset>\n`;
+  files['sitemap-core.xml'] = sitemapUrlset(coreUrls);
+  files['sitemap-chapters.xml'] = sitemapUrlset(chapterUrls);
+  for (let i = 0; i < statuteUrls.length; i += SITEMAP_STATUTE_CHUNK_SIZE) {
+    const name = `sitemap-statutes-${Math.floor(i / SITEMAP_STATUTE_CHUNK_SIZE) + 1}.xml`;
+    childSitemaps.push(name);
+    files[name] = sitemapUrlset(statuteUrls.slice(i, i + SITEMAP_STATUTE_CHUNK_SIZE));
+  }
+  files['sitemap.xml'] = `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${childSitemaps.map(name => `<sitemap><loc>${siteUrl}/${name}</loc></sitemap>`).join('\n')}</sitemapindex>\n`;
   files['robots.txt'] = `User-agent: *\nAllow: /\n\nSitemap: ${siteUrl}/sitemap.xml\n`;
   return files;
 }

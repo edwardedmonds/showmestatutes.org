@@ -18,7 +18,18 @@ from urllib.request import Request, urlopen
 from urllib.robotparser import RobotFileParser
 from bs4 import BeautifulSoup
 
-BASE = 'https://revisor.mo.gov'
+CITATION_RULES = json.loads((Path(__file__).resolve().parent.parent / 'data/citation-rules.json').read_text())
+BASE = CITATION_RULES['revisorOrigin']
+CHAPTER_RE = re.compile(CITATION_RULES['chapterPattern'])
+STANDARD_SECTION_SUFFIX_RE = re.compile(CITATION_RULES['standardSectionSuffixPattern'])
+VERSION_ID_RE = re.compile(CITATION_RULES['versionIdPattern'])
+ISO_DATE_RE = re.compile(CITATION_RULES['isoDatePattern'])
+SHA256_RE = re.compile(CITATION_RULES['sha256Pattern'])
+SECTION_QUERY_RE = re.compile(CITATION_RULES['sectionQueryPattern'], re.IGNORECASE)
+CHAPTER_SECTION_RULES = {
+    ch: (rule['allowStandard'], [re.compile(pattern) for pattern in rule['extraPatterns']])
+    for ch, rule in CITATION_RULES['chapterSectionRules'].items()
+}
 POLICY = json.loads((Path(__file__).resolve().parent.parent / 'data/coverage.json').read_text())
 CHAPTERS = {c['chapter']: c for c in POLICY['chapters']}
 REVIEWED_OVERLAPS = POLICY.get('delayedEnactments', []) + POLICY.get('reprintedEnactments', []) + POLICY.get('conflictingEnactments', [])
@@ -41,17 +52,33 @@ def date(value):
     raise ValueError(f'Unrecognized effective date: {value}')
 
 
+def valid_date(value):
+    if not isinstance(value, str) or ISO_DATE_RE.fullmatch(value) is None:
+        return False
+    try:
+        return datetime.strptime(value, '%Y-%m-%d').strftime('%Y-%m-%d') == value
+    except ValueError:
+        return False
+
+
+def valid_version_id(value):
+    return isinstance(value, str) and VERSION_ID_RE.fullmatch(value) is not None
+
+
 def valid_section(section, chapter):
+    if not isinstance(section, str) or not isinstance(chapter, str):
+        return False
+    if CHAPTER_RE.fullmatch(chapter) is None:
+        return False
     # Preserve the Revisor's UCC, securities, condominium and trust article citations verbatim.
-    if chapter == '400':
-        return re.fullmatch(r'400\.(?:[1-9]|1[01]|[24]A)-[0-9]{3}', section) is not None
-    if chapter == '409' and re.fullmatch(r'409\.[1-7]-[0-9]{3}', section):
-        return True
-    if chapter == '448' and re.fullmatch(r'448\.[1-4]-[0-9]{3}', section):
-        return True
-    if chapter == '456' and re.fullmatch(r'456\.(?:[1-8]-[0-9]{3}|4-411[AB]|1[01]-[0-9]{4})', section):
-        return True
-    return re.fullmatch(re.escape(chapter) + r'\.[0-9]{3,4}', section) is not None
+    rule = CHAPTER_SECTION_RULES.get(chapter)
+    if rule is not None:
+        allow_standard, extra_patterns = rule
+        if any(pattern.fullmatch(section) is not None for pattern in extra_patterns):
+            return True
+        if not allow_standard:
+            return False
+    return section.startswith(chapter + '.') and STANDARD_SECTION_SUFFIX_RE.fullmatch(section[len(chapter) + 1:]) is not None
 
 
 def parse_index(html, chapter='565'):
@@ -68,7 +95,7 @@ def parse_index(html, chapter='565'):
             continue
         if not section.startswith(chapter + '.'):
             raise ValueError('Wrong chapter in source index: ' + section)
-        if not valid_section(section, chapter) or not bid.isdigit():
+        if not valid_section(section, chapter) or not valid_version_id(bid):
             raise ValueError('Malformed source identity: ' + section)
         row = a.find_parent('tr')
         match = re.search(r'\((\d+/\d+/\d+)\)\s*$', clean(row.get_text(' ')))
@@ -245,18 +272,19 @@ def validate(dataset, previous=None):
         if record['id'] in ids:
             raise ValueError('Duplicate version identity')
         ids.add(record['id'])
-        if not record['versionId'].isdigit() or record['id'] != record['section'] + ':' + record['versionId']:
+        if not valid_version_id(record['versionId']) or record['id'] != record['section'] + ':' + record['versionId']:
             raise ValueError('Mismatched record identity')
         if record['chapter'] not in CHAPTERS or not valid_section(record['section'], record['chapter']) or record['chapterTitle'] != CHAPTERS[record['chapter']]['title']:
             raise ValueError('Unexpected section')
         if record['sourceUrl'] != f'{BASE}/main/OneSection.aspx?section={record["section"]}&bid={record["versionId"]}':
             raise ValueError('Source URL must identify the exact version')
-        if not re.fullmatch(r'[a-f0-9]{64}', record['sourceSha256']):
+        if SHA256_RE.fullmatch(record['sourceSha256']) is None:
             raise ValueError('Missing source hash')
         if record['title'].endswith('...'):
             raise ValueError('Truncated heading')
         datetime.fromisoformat(record['sourceCheckedAt'])
-        datetime.strptime(record['effectiveFrom'], '%Y-%m-%d')
+        if not valid_date(record['effectiveFrom']):
+            raise ValueError('Invalid effectiveFrom date')
         concurrent = next((p for p in POLICY['concurrentEnactments'] if p['section'] == record['section'] and record['versionId'] in p['versionIds']), None)
         contingent = next((p for p in POLICY['contingentEnactments'] if p['section'] == record['section']), None)
         reviewed = next((v for v in contingent['versions'] if v['versionId'] == record['versionId']), None) if contingent else None
@@ -278,7 +306,7 @@ def validate(dataset, previous=None):
             raise ValueError('Unverified source date footnote')
         for value in [deadline, record.get('effectiveFromFootnote')]:
             if value:
-                if datetime.strptime(value, '%Y-%m-%d').strftime('%Y-%m-%d') != value:
+                if not valid_date(value):
                     raise ValueError('Invalid reviewed source date')
         if ((record.get('effectiveEndDateIsPlaceholder') is not None and record.get('effectiveEndDateIsPlaceholder') is not True)
                 or bool(record.get('effectiveEndDateIsPlaceholder')) != bool(reviewed and reviewed.get('endDateIsPlaceholder'))
@@ -299,7 +327,8 @@ def validate(dataset, previous=None):
                 or record.get('multipleEnactments') or record.get('hasConstitutionalWarning')):
             raise ValueError('Unverified standalone reprint record')
         if record['effectiveTo']:
-            datetime.strptime(record['effectiveTo'], '%Y-%m-%d')
+            if not valid_date(record['effectiveTo']):
+                raise ValueError('Invalid effectiveTo date')
             if record['effectiveTo'] <= record['effectiveFrom'] and not record.get('effectiveEndDateIsPlaceholder'):
                 raise ValueError('Invalid effective interval')
         grouped[record['section']].append(record)
@@ -318,7 +347,7 @@ def validate(dataset, previous=None):
                 or len(chapter_records) < CHAPTERS[ch]['minimumVersions']
                 or summary['sourceIndex'] != index_url(ch)
                 or summary['title'] != CHAPTERS[ch]['title']
-                or not re.fullmatch(r'[a-f0-9]{64}', summary['sourceSha256'])):
+                or SHA256_RE.fullmatch(summary['sourceSha256']) is None):
             raise ValueError('Incomplete chapter/provenance: ' + ch)
         datetime.fromisoformat(summary['indexCheckedAt'])
     if manifest['indexCheckedAt'] != min(c['indexCheckedAt'] for c in summaries):
@@ -400,7 +429,7 @@ def collect(cache, offline=False):
             last_fetch = time.monotonic()
             try:
                 with urlopen(Request(url, headers={'User-Agent': AGENT, 'Cache-Control': 'no-cache'}), timeout=45) as response:
-                    if urlparse(response.url).hostname != 'revisor.mo.gov':
+                    if urlparse(response.url).hostname != urlparse(BASE).hostname:
                         raise ValueError('Unexpected source redirect')
                     html = response.read().decode('utf-8-sig')
                 break

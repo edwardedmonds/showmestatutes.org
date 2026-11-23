@@ -1,3 +1,4 @@
+import citationRules from '../data/citation-rules.json';
 import { runtimeCoverage } from './coverage-runtime';
 
 export interface ChapterView {
@@ -120,10 +121,34 @@ export function validDate(s: unknown): s is string {
   return day <= maxDay;
 }
 
+export const revisorOrigin = citationRules.revisorOrigin;
+export const versionIdPattern = new RegExp(`^(?:${citationRules.versionIdPattern})$`);
+export const sha256Pattern = new RegExp(`^(?:${citationRules.sha256Pattern})$`);
+export const sectionQueryPattern = new RegExp(citationRules.sectionQueryPattern, 'i');
+
+const chapterPattern = new RegExp(`^(?:${citationRules.chapterPattern})$`);
+const standardSectionSuffixPattern = new RegExp(`^(?:${citationRules.standardSectionSuffixPattern})$`);
+const chapterSectionRules = new Map(
+  Object.entries(citationRules.chapterSectionRules).map(([chapter, rule]) => [
+    chapter,
+    {
+      allowStandard: rule.allowStandard,
+      extraPatterns: rule.extraPatterns.map(pattern => new RegExp(`^(?:${pattern})$`)),
+    },
+  ]),
+);
+
 export function validSection(section: string): boolean {
-  if (section.startsWith('400.')) return /^400\.(?:[1-9]|1[01]|[24]A)-[0-9]{3}$/.test(section);
-  return /^[1-9]\d{0,2}\.[0-9]{3,4}$/.test(section) || /^409\.[1-7]-[0-9]{3}$/.test(section) || /^448\.[1-4]-[0-9]{3}$/.test(section)
-    || /^456\.(?:[1-8]-[0-9]{3}|4-411[AB]|1[01]-[0-9]{4})$/.test(section);
+  const dot = section.indexOf('.');
+  if (dot <= 0) return false;
+  const chapter = section.slice(0, dot);
+  if (!chapterPattern.test(chapter)) return false;
+  const rule = chapterSectionRules.get(chapter);
+  if (rule) {
+    if (rule.extraPatterns.some(pattern => pattern.test(section))) return true;
+    if (!rule.allowStandard) return false;
+  }
+  return standardSectionSuffixPattern.test(section.slice(dot + 1));
 }
 
 export function isContingent(record: StatuteRecord, asOf: string): boolean {
@@ -249,7 +274,7 @@ export function hydrateClientDataset(value: unknown, expectedDatasetHash?: strin
     chapters[i] = {
       chapter: c.chapter,
       title: c.title,
-      sourceIndex: `https://revisor.mo.gov/main/OneChapter.aspx?chapter=${c.chapter}`,
+      sourceIndex: `${revisorOrigin}/main/OneChapter.aspx?chapter=${c.chapter}`,
       indexCheckedAt: c.indexCheckedAt,
       recordCount: c.recordCount,
       sectionCount: c.sectionCount,
@@ -285,7 +310,7 @@ export function hydrateClientDataset(value: unknown, expectedDatasetHash?: strin
       chapterTitle,
       effectiveFrom: r.effectiveFrom,
       effectiveTo: r.effectiveTo ?? null,
-      sourceUrl: `https://revisor.mo.gov/main/OneSection.aspx?section=${r.section}&bid=${r.versionId}`,
+      sourceUrl: `${revisorOrigin}/main/OneSection.aspx?section=${r.section}&bid=${r.versionId}`,
       sourceCheckedAt: r.sourceCheckedAt,
       headingMarker: r.headingMarker ?? '',
     };

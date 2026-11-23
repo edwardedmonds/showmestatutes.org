@@ -1,14 +1,21 @@
 import coverage from '../data/coverage.json';
 import {
+  revisorOrigin,
+  sha256Pattern,
   validDate,
   validSection,
+  versionIdPattern,
   type ChapterView,
   type StatuteRecord,
 } from './runtime';
 
 export {
+  revisorOrigin,
+  sectionQueryPattern,
+  sha256Pattern,
   validDate,
   validSection,
+  versionIdPattern,
   isContingent,
   isEffective,
   isUpcoming,
@@ -96,7 +103,7 @@ export function assertDataset(value: unknown): asserts value is Dataset {
     const chapterEntry = chapterPolicyByChapter.get(r?.chapter);
     const dot = typeof r?.section === 'string' ? r.section.indexOf('.') : -1;
     const sectionChapter = typeof r?.section === 'string' ? (dot >= 0 ? r.section.slice(0, dot) : r.section) : '';
-    if (!r || typeof r.section !== 'string' || !validSection(r.section) || !/^\d+$/.test(r.versionId)
+    if (!r || typeof r.section !== 'string' || !validSection(r.section) || !versionIdPattern.test(r.versionId)
       || r.id !== `${r.section}:${r.versionId}` || ids.has(r.id)
       || typeof r.title !== 'string' || !r.title.trim() || r.title.endsWith('...')
       || r.chapter !== sectionChapter || !chapterEntry || chapterEntry.title !== r.chapterTitle
@@ -120,8 +127,8 @@ export function assertDataset(value: unknown): asserts value is Dataset {
       || (warning && r.effectiveFrom !== warning.effectiveFrom)
       || (standalone && (r.effectiveFrom !== standalone.effectiveFrom || r.effectiveTo !== standalone.effectiveTo || r.multipleEnactments || r.hasConstitutionalWarning))
       || !validDate(r.effectiveFrom) || (r.effectiveTo !== null && (!validDate(r.effectiveTo) || (r.effectiveTo <= r.effectiveFrom && !r.effectiveEndDateIsPlaceholder)))
-      || !Number.isFinite(Date.parse(r.sourceCheckedAt)) || !/^[a-f0-9]{64}$/.test(r.sourceSha256)
-      || r.sourceUrl !== `https://revisor.mo.gov/main/OneSection.aspx?section=${r.section}&bid=${r.versionId}`) {
+      || !Number.isFinite(Date.parse(r.sourceCheckedAt)) || !sha256Pattern.test(r.sourceSha256)
+      || r.sourceUrl !== `${revisorOrigin}/main/OneSection.aspx?section=${r.section}&bid=${r.versionId}`) {
       throw new Error('Invalid source record');
     }
     ids.add(r.id);
@@ -145,8 +152,8 @@ export function assertDataset(value: unknown): asserts value is Dataset {
     const sectionCount = chapterSectionCounts.get(c.chapter) ?? 0;
     if (c.title !== policy.title || c.recordCount !== recordCount || recordCount < policy.minimumVersions
       || c.sectionCount !== sectionCount
-      || c.sourceIndex !== `https://revisor.mo.gov/main/OneChapter.aspx?chapter=${c.chapter}`
-      || !Number.isFinite(Date.parse(c.indexCheckedAt)) || !/^[a-f0-9]{64}$/.test(c.sourceSha256)) throw new Error('Invalid chapter provenance');
+      || c.sourceIndex !== `${revisorOrigin}/main/OneChapter.aspx?chapter=${c.chapter}`
+      || !Number.isFinite(Date.parse(c.indexCheckedAt)) || !sha256Pattern.test(c.sourceSha256)) throw new Error('Invalid chapter provenance');
     if (minIndexCheckedAt === '' || c.indexCheckedAt < minIndexCheckedAt) minIndexCheckedAt = c.indexCheckedAt;
     if (maxTimestamp === '' || c.indexCheckedAt > maxTimestamp) maxTimestamp = c.indexCheckedAt;
   }

@@ -3,7 +3,7 @@ import { describe, expect, it } from 'vitest';
 import aliasData from '../data/aliases.json';
 import { type Dataset, constitutionalNotice, sourceDateNotice, standaloneReprintNotice, enactmentNotice } from '../src/data';
 import { statutePath, statuteVersionPath } from '../src/paths';
-import { browseAssets, escapeHtml, homepageSeo, siteUrl } from '../src/seo';
+import { browseAssets, escapeHtml, homepageSeo, SITEMAP_STATUTE_CHUNK_SIZE, siteUrl } from '../src/seo';
 
 const dataset: Dataset = JSON.parse(readFileSync(process.env.STATUTES_DATASET ?? 'public/data/statutes.json', 'utf8'));
 const files = browseAssets(dataset, '/assets/browse-test.css', '2026-11-13');
@@ -39,15 +39,44 @@ describe('Static chapter discovery and metadata', () => {
     expect(files['chapters/565/index.html']).toContain('Upcoming · effective Jul 1, 2027');
     expect(files['chapters/300/index.html']).toContain('does not establish which provisions a locality has adopted');
   });
-  it('includes only canonical, existing public HTML pages in the sitemap', () => {
-    const urls = [...files['sitemap.xml'].matchAll(/<loc>(.*?)<\/loc>/g)].map(m => m[1]);
-    expect(urls).toHaveLength(chapters.length + 3 + dataset.manifest.sectionCount + 1 + aliasData.topicPages.length);
-    expect(new Set(urls).size).toBe(urls.length);
-    for (const url of urls) {
+  it('emits a sitemap index with chunked child sitemaps containing only canonical, existing public HTML pages', () => {
+    const indexXml = files['sitemap.xml'];
+    expect(indexXml).toContain('<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">');
+    expect(indexXml).not.toContain('<urlset');
+    expect(indexXml).not.toContain('<lastmod>');
+
+    const childLocs = [...indexXml.matchAll(/<sitemap><loc>(.*?)<\/loc><\/sitemap>/g)].map(m => m[1]);
+    const expectedStatuteChunks = Math.ceil(dataset.manifest.sectionCount / SITEMAP_STATUTE_CHUNK_SIZE);
+    const expectedChildren = [
+      'sitemap-core.xml',
+      'sitemap-chapters.xml',
+      ...Array.from({ length: expectedStatuteChunks }, (_, i) => `sitemap-statutes-${i + 1}.xml`),
+    ];
+    expect(childLocs).toEqual(expectedChildren.map(name => `${siteUrl}/${name}`));
+    expect(Object.keys(files).filter(k => /^sitemap-.*\.xml$/.test(k)).sort()).toEqual([...expectedChildren].sort());
+
+    const extractUrls = (xml: string) => [...xml.matchAll(/<url><loc>(.*?)<\/loc><\/url>/g)].map(m => m[1]);
+    const allUrls: string[] = [];
+    for (const name of expectedChildren) {
+      const xml = files[name];
+      expect(xml).toContain('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">');
+      expect(xml).not.toContain('<lastmod>');
+      const childUrls = extractUrls(xml);
+      expect(childUrls.length).toBeLessThanOrEqual(SITEMAP_STATUTE_CHUNK_SIZE);
+      allUrls.push(...childUrls);
+    }
+
+    expect(extractUrls(files['sitemap-core.xml'])).toHaveLength(4 + aliasData.topicPages.length);
+    expect(extractUrls(files['sitemap-chapters.xml'])).toHaveLength(chapters.length);
+    const statuteUrls = expectedChildren.slice(2).flatMap(name => extractUrls(files[name]));
+    expect(statuteUrls).toHaveLength(dataset.manifest.sectionCount);
+
+    expect(allUrls).toHaveLength(chapters.length + 3 + dataset.manifest.sectionCount + 1 + aliasData.topicPages.length);
+    expect(new Set(allUrls).size).toBe(allUrls.length);
+    for (const url of allUrls) {
       expect(url.startsWith(siteUrl + '/')).toBe(true);
       if (url !== siteUrl + '/') expect(files[url.slice(siteUrl.length + 1) + 'index.html']).toBeDefined();
     }
-    expect(files['sitemap.xml']).not.toContain('<lastmod>');
     expect(files['robots.txt']).toContain('Sitemap: https://showmestatutes.org/sitemap.xml');
     expect(files['robots.txt']).not.toContain('Disallow');
   });

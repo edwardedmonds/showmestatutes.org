@@ -36,8 +36,9 @@ try {
   if (removed.length) throw new Error('Record loss blocks promotion; inspect data/change-report.json');
   const env = { STATUTES_DATASET: candidate };
   run('python3', ['-m', 'unittest', 'discover', '-s', 'tests', '-p', 'test_*.py'], env);
-  run('npm', ['test'], env);
   run('npm', ['run', 'build'], env);
+  run('npm', ['test'], env);
+  run('npm', ['run', 'seo:check'], env);
   // Same filesystem rename makes the single dataset+manifest replacement atomic.
   writeFileSync('public/data/statutes.json.next', readFileSync(candidate));
   renameSync('public/data/statutes.json.next', 'public/data/statutes.json');

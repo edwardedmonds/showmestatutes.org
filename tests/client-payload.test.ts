@@ -324,10 +324,25 @@ describe.skipIf(!existsSync('dist/assets') || !existsSync('dist/data/statutes.js
     expect(Object.keys(projected.related).length).toBe(Object.keys(aliasData.related).length);
   });
 
-  it('keeps dist/data/statutes.json byte-for-byte identical to public/data/statutes.json', () => {
-    const publicBytes = readFileSync('public/data/statutes.json');
+  it('keeps dist/data/statutes.json byte-for-byte identical to the source dataset', () => {
+    const publicBytes = readFileSync(sourcePath);
     const distBytes = readFileSync('dist/data/statutes.json');
     expect(Buffer.compare(publicBytes, distBytes)).toBe(0);
+  });
+
+  it('omits unhashed dist/data/search-index.json and emits exactly one hashed search-index file', () => {
+    expect(existsSync('dist/data/search-index.json')).toBe(false);
+    const indexFiles = readdirSync('dist/data').filter(f => /^search-index-[a-f0-9]{64}\.json$/.test(f));
+    expect(indexFiles).toHaveLength(1);
+  });
+
+  it('emits root-absolute asset and navigation paths in dist/index.html', () => {
+    const indexHtml = readFileSync('dist/index.html', 'utf8');
+    expect(indexHtml).toContain('src="/assets/index-');
+    expect(indexHtml).toContain('href="/assets/index-');
+    expect(indexHtml).not.toContain('./assets/');
+    expect(indexHtml).not.toContain('href="./"');
+    expect(indexHtml).not.toContain('href="./licenses.txt"');
   });
 
   it('emits a valid dist/data/statutes-client-*.json that hydrates cleanly', () => {

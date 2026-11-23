@@ -69,16 +69,15 @@ function assets(): Record<string, string> {
       'Vite — build tooling and browser module-preload helper',
       readFileSync('node_modules/vite/LICENSE.md', 'utf8'),
     ].join('\n\n'),
-    // Stable URLs remain available for audits; browsers use snapshot-specific assets.
+    // Stable statutes.json URL remains available for audits; browsers use hashed snapshot assets.
     'data/statutes.json': source,
     [`data/statutes-client-${clientDatasetHash}.json`]: clientDatasetJson,
-    'data/search-index.json': searchIndexJson,
     [`data/search-index-${searchIndexHash}.json`]: searchIndexJson,
   };
   return files;
 }
 export default defineConfig({
-  base: './',
+  base: '/',
   // Avoid compressing 30,000 HTML assets concurrently just to report their sizes.
   build: { reportCompressedSize: false },
   define: {

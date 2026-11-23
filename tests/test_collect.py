@@ -688,9 +688,36 @@ class CommerceSourceTests(unittest.TestCase):
         data=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text());record=next(r for r in data['records'] if r['id']==id)
         return {k:record[k] for k in ['id','section','versionId','effectiveFrom','sourceUrl']}
     def test_reviewed_citation_formats(self):
+        import os
         formats=json.loads(Path('tests/citation-formats.json').read_text())
         for section in formats['valid']:self.assertTrue(collect.valid_section(section,section.split('.')[0]),section)
         for section in formats['invalid']:self.assertFalse(collect.valid_section(section,section.split('.')[0]),section)
+        for value in formats['validDates']:self.assertTrue(collect.valid_date(value),value)
+        for value in formats['invalidDates']:self.assertFalse(collect.valid_date(value),value)
+        for value in formats['validVersionIds']:self.assertTrue(collect.valid_version_id(value),value)
+        for value in formats['invalidVersionIds']:self.assertFalse(collect.valid_version_id(value),value)
+        for case in formats['sectionQueries']['valid']:
+            match=collect.SECTION_QUERY_RE.match(case['input'])
+            self.assertIsNotNone(match,case['input'])
+            self.assertEqual(match.group(1).upper(),case['expected'],case['input'])
+        for value in formats['sectionQueries']['invalid']:
+            self.assertIsNone(collect.SECTION_QUERY_RE.match(value),value)
+        dataset=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text())
+        for r in dataset['records']:
+            self.assertTrue(collect.valid_section(r['section'],r['chapter']),r['id'])
+            self.assertTrue(collect.valid_date(r['effectiveFrom']),r['id'])
+            if r['effectiveTo'] is not None:self.assertTrue(collect.valid_date(r['effectiveTo']),r['id'])
+            self.assertTrue(collect.valid_version_id(r['versionId']),r['id'])
+            match=collect.SECTION_QUERY_RE.match(r['section'])
+            self.assertIsNotNone(match,r['section'])
+            self.assertEqual(match.group(1).upper(),r['section'],r['section'])
+    def test_validator_rejects_unpadded_dates_and_unicode_digit_version_ids(self):
+        import os
+        original=json.loads(Path(os.environ.get('STATUTES_DATASET','public/data/statutes.json')).read_text())
+        bad_date=copy.deepcopy(original);bad_date['records'][0]['effectiveFrom']='2026-1-1'
+        with self.assertRaises(ValueError):collect.validate(bad_date)
+        bad_bid=copy.deepcopy(original);r=bad_bid['records'][0];r['versionId']='²';r['id']=f"{r['section']}:²";r['sourceUrl']=f"{collect.BASE}/main/OneSection.aspx?section={r['section']}&bid=²"
+        with self.assertRaises(ValueError):collect.validate(bad_bid)
     def test_full_article_indexes_preserve_source_identities(self):
         for chapter,count in [('400',623),('409',111)]:
             source=Path(f'tests/fixtures/commerce-index-{chapter}.html').read_text();entries=collect.parse_index(source,chapter);self.assertEqual(len(entries),count)

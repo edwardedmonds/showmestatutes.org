@@ -1,6 +1,6 @@
 import { readFileSync } from 'node:fs';
 import { expect, it } from 'vitest';
-import { assertDataset, validSection, constitutionalNotice, type Dataset } from '../src/data';
+import { assertDataset, validSection, validDate, versionIdPattern, sectionQueryPattern, constitutionalNotice, type Dataset } from '../src/data';
 import { createSearch } from '../src/search';
 import formats from './citation-formats.json';
 const dataset: Dataset = JSON.parse(readFileSync(process.env.STATUTES_DATASET ?? 'public/data/statutes.json', 'utf8'));
@@ -8,6 +8,29 @@ assertDataset(dataset);
 const search = createSearch(dataset.records);
 for (const section of formats.valid) it(`accepts reviewed source citation ${section}`,()=>expect(validSection(section)).toBe(true));
 for (const section of formats.invalid) it(`rejects malformed source citation ${section}`,()=>expect(validSection(section)).toBe(false));
+it('enforces shared date, versionId, and sectionQuery parity rules',()=>{
+ for(const value of formats.validDates) expect(validDate(value),value).toBe(true);
+ for(const value of formats.invalidDates) expect(validDate(value),value).toBe(false);
+ for(const value of formats.validVersionIds) expect(versionIdPattern.test(value),value).toBe(true);
+ for(const value of formats.invalidVersionIds) expect(versionIdPattern.test(value),value).toBe(false);
+ for(const {input,expected} of formats.sectionQueries.valid) {
+  const match=input.match(sectionQueryPattern);
+  expect(match,input).not.toBeNull();
+  expect(match![1].toUpperCase(),input).toBe(expected);
+ }
+ for(const input of formats.sectionQueries.invalid) expect(sectionQueryPattern.test(input),input).toBe(false);
+});
+it('verifies every record in STATUTES_DATASET satisfies shared citation and date rules',()=>{
+ for(const r of dataset.records) {
+  expect(validSection(r.section),r.section).toBe(true);
+  expect(validDate(r.effectiveFrom),r.id).toBe(true);
+  if(r.effectiveTo!==null) expect(validDate(r.effectiveTo),r.id).toBe(true);
+  expect(versionIdPattern.test(r.versionId),r.id).toBe(true);
+  const queryMatch=r.section.match(sectionQueryPattern);
+  expect(queryMatch,r.section).not.toBeNull();
+  expect(queryMatch![1].toUpperCase(),r.section).toBe(r.section);
+ }
+});
 it('keeps every UCC and securities article citation exact under both date settings',()=>{
  for(const r of dataset.records.filter(r=>['400','409'].includes(r.chapter)&&r.section.includes('-'))) for(const upcoming of [false,true]) {
   const result=search(r.section,'2026-11-13',upcoming);

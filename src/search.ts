@@ -1,6 +1,6 @@
 import MiniSearch, { type AsPlainObject } from 'minisearch';
 import { runtimeAliases } from './aliases-runtime';
-import { procedureChapters, isContingent, isEffective, isUpcoming, validDate, type ChapterView, type StatuteRecord } from './runtime';
+import { procedureChapters, isContingent, isEffective, isUpcoming, sectionQueryPattern, validDate, type ChapterView, type StatuteRecord } from './runtime';
 
 const aliases = runtimeAliases.sections;
 const topics = runtimeAliases.topics;
@@ -11,7 +11,6 @@ const degrees = ['first', 'second', 'third', 'fourth'];
 const procedureWords = ['procedure', 'trial', 'waiver', 'waive', 'sentencing', 'evidence', 'review', 'defenses'];
 const procedureSections = new Set(['565.001', '565.004', '565.005', '565.006', '565.029', '565.030', '565.032', '565.033', '565.034', '565.035', '565.040', '565.140', '565.160', '565.163', '565.167']);
 const isProcedure = (r: StatuteRecord) => procedureChapters.has(r.chapter) || procedureSections.has(r.section);
-const sectionQueryPattern = /^(?:(?:rsmo|section)\s*|§\s*)*(\d{1,3}\.\d{1,4}(?:[a-z]?-[0-9]{1,4}[a-z]?)?)\.?$/i;
 
 // Legal and common words whose plural form has a distinct meaning or is invariant.
 const preservePlural = new Set([

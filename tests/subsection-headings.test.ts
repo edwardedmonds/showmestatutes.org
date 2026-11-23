@@ -82,7 +82,9 @@ describe('Editorial subsection heading pilot', () => {
     expect(labeled[path]).toContain('class="editorial-heading"');
     expect(labeled[path].split('</head>')[0]).toBe(normal[path].split('</head>')[0]);
     expect(labeled['chapters/535/index.html']).toBe(normal['chapters/535/index.html']);
-    expect(labeled['sitemap.xml']).toBe(normal['sitemap.xml']);
+    const sitemapKeys = Object.keys(normal).filter(k => /^sitemap.*\.xml$/.test(k)).sort();
+    expect(Object.keys(labeled).filter(k => /^sitemap.*\.xml$/.test(k)).sort()).toEqual(sitemapKeys);
+    for (const key of sitemapKeys) expect(labeled[key]).toBe(normal[key]);
     expect(JSON.stringify(data)).toBe(before);
     expect(JSON.stringify(buildIndex(data.records).toJSON())).toBe(index);
   });
