@@ -1,0 +1,3242 @@
+{
+  "schemaVersion": 1,
+  "scope": "local-statewide",
+  "entries": [
+    {
+      "id": "452.025:24985",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.025&bid=24985",
+      "sourceSha256": "d5b1524292e3e019388e6614bd63d8bdef91d8ab4e37c7dc4d6f79c428b0fa40",
+      "textSha256": "49f037963bec58e20ef3772f5bcfd710686df4809070487beb024bb3c5bd42af",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Acknowledgment and certificate form for verified pleadings",
+          "bodySha256": "cddde7f71eabd9c07f5c138e9cc1eaa0ab62e71dd5f223d8b77e2bb6375e3e25",
+          "reviewNote": "Authorizes verification of pleadings under this chapter by acknowledgment before an authorized officer and provides statutory form."
+        },
+        {
+          "number": 2,
+          "title": "Satisfaction of chapter verification requirements",
+          "bodySha256": "2f3b23c47ec4d95500a2c25f14cf730500a313664169bc6d460172f15d556860",
+          "reviewNote": "Clarifies that compliance with subsection 1 satisfies all references to verified documents in this chapter."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.025 governing pleading verification forms and chapter-wide acknowledgment standards."
+    },
+    {
+      "id": "452.1206:54842",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.1206&bid=54842",
+      "sourceSha256": "3dbf9294df4f7f773e626a3f4a821a2a9e472a61c97a033947d9bdaad0a812c6",
+      "textSha256": "3d2a93629585754a2665954d7802f31b6cbc9e1b9a3ea925195aed8edbbb25f8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Jurisdictional requirement for custodial orders during deployment",
+          "bodySha256": "01d850538ea6bc68558d9b8d27923ae786837f473fb66f5e6df6a74957bfdd2d",
+          "reviewNote": "Permits courts to issue custodial responsibility orders under deployment provisions only with jurisdiction under sections 452.700 to 452.930."
+        },
+        {
+          "number": 2,
+          "title": "Preservation of residence during temporary deployment order",
+          "bodySha256": "658b664c0face1a68c85ba747672ee6ee00c11148f6d626b98fc05f3fdb62a3c",
+          "reviewNote": "Maintains deploying parent residence for jurisdictional purposes during deployment under a temporary custodial order."
+        },
+        {
+          "number": 3,
+          "title": "Preservation of residence under temporary deployment agreement",
+          "bodySha256": "1ce6446ad2bbace22fe3e6a02730c2591f439c0ce53bc57bf5537795d6ab4f08",
+          "reviewNote": "Maintains deploying parent residence for jurisdictional purposes during deployment under a temporary agreement modifying permanent orders."
+        },
+        {
+          "number": 4,
+          "title": "Preservation of residence under out-of-state temporary order",
+          "bodySha256": "7c9b25918d7b3758f44f86377c536b7eb789e5f88bd6c5296c25d9b16cecaaca",
+          "reviewNote": "Maintains deploying parent residence for jurisdictional purposes where another state issued a temporary deployment custodial order."
+        },
+        {
+          "number": 5,
+          "title": "Preservation of temporary emergency jurisdiction",
+          "bodySha256": "7b837ab2a2abbbb9fc400a4b464df50b54959ab233a2f16f05b1f8a2544e6faa",
+          "reviewNote": "Clarifies that deployment jurisdictional provisions do not prevent courts from exercising temporary emergency jurisdiction."
+        }
+      ],
+      "reviewSummary": "Source-checked 5 subsection headings for 452.1206 governing jurisdiction and residence preservation during military deployment."
+    },
+    {
+      "id": "452.1208:54843",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.1208&bid=54843",
+      "sourceSha256": "6a027e48d119049abd9a28247e2d028da0ff34f38702f673aa260d9a26e86b04",
+      "textSha256": "64c3b010c69544da950904dd655cfd365d8ea99164971ffe2f74ee98cada9ed3",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Deploying parent notice of pending deployment",
+          "bodySha256": "03dc228c1b02259b3108a5d1d5dd6d48f5748533924145500fd4823e04809dfe",
+          "reviewNote": "Requires deploying parents to notify other parents in a record within seven days of deployment notice, unless prevented by service circumstances."
+        },
+        {
+          "number": 2,
+          "title": "Parent custodial responsibility plan during deployment",
+          "bodySha256": "9f4f8dadae5e1af3fe203e67928c92e7551ba7f629d2aabcaa724a8d802d255d",
+          "reviewNote": "Requires each parent to provide a recorded plan for fulfilling custodial responsibilities as soon as reasonably possible after deployment notice."
+        },
+        {
+          "number": 3,
+          "title": "Court notification when address disclosure is prohibited",
+          "bodySha256": "54991a5142c888865434557586520caaaf3e660b40feb960b78344bca458f963",
+          "reviewNote": "Restricts delivery of deployment or plan notifications solely to the issuing court when an active order prohibits disclosing address or contact information, and requires the court to forward notices while keeping contact details confidential."
+        },
+        {
+          "number": 4,
+          "title": "Exception for parents sharing same residence",
+          "bodySha256": "e53057c536523d21321dcd9f3daff5ce9531816442bc90ae5587b2fdd8cdd85f",
+          "reviewNote": "Exempts parents from recorded notification requirements if residing together with actual notice of deployment or plan."
+        },
+        {
+          "number": 5,
+          "title": "Court consideration of compliance efforts in proceedings",
+          "bodySha256": "fc544a6a904d2429075ab2fd0d8e42463cc0f4bba267a1bb4df16e90c97cb393",
+          "reviewNote": "Permits courts to consider the reasonableness of parent efforts to comply with deployment notice requirements."
+        }
+      ],
+      "reviewSummary": "Source-checked 5 subsection headings for 452.1208 governing deployment notification duties, custodial plans, and confidential disclosure."
+    },
+    {
+      "id": "452.1210:54844",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.1210&bid=54844",
+      "sourceSha256": "d44322e26de6e6eb9da7577b1a6aed134fae5b22fc1574872040d093d52be72f",
+      "textSha256": "e8bec29d1ca0fb84329d324f28ee65d78d73aba768e0c3b6b3a657a3d17f0d31",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Duty to notify of address changes during grant",
+          "bodySha256": "4054f7d0a59b5630b0b5cc4bfc081347e97de07274c705924694b9bdb7384287",
+          "reviewNote": "Requires individuals granted custodial responsibility during deployment to provide notice of address changes to parents and relevant courts."
+        },
+        {
+          "number": 2,
+          "title": "Confidential notification to court under protective order",
+          "bodySha256": "6730e9e5fe5d043a0cf6afbe15ea93b5e26f742c3e0fc3dd2524fa0f0d5f6348",
+          "reviewNote": "Restricts delivery of address change notifications solely to the issuing court when an active order prohibits disclosure, and requires the court to keep the mailing address or residence confidential."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.1210 governing address change notifications by individuals holding temporary custodial responsibility."
+    },
+    {
+      "id": "452.1214:54846",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.1214&bid=54846",
+      "sourceSha256": "aa5f9fccc2f7ec04ef00c8e04f122dd5ca2398e24293ee13de2ad706673c08c0",
+      "textSha256": "a4d44c5508d320eccb36e8fbb779cf280a53e2e494ba460a921d2e50cbd97290",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Temporary agreements granting custodial responsibility during deployment",
+          "bodySha256": "d9c0af655d7886fcda85f7fa94e163d47a87d8895ab978133bce6ebbaa803f43",
+          "reviewNote": "Authorizes parents to enter temporary agreements granting custodial responsibility during military deployment."
+        },
+        {
+          "number": 2,
+          "title": "Writing and signature requirements for temporary agreements",
+          "bodySha256": "6385a626f37b44ce509fe3e632c7581714e0728ebd11b88aa77dc42c7959490a",
+          "reviewNote": "Requires temporary agreements to be in writing and signed by both parents and any nonparent receiving custodial responsibility."
+        },
+        {
+          "number": 3,
+          "title": "Contents of temporary custodial agreement if feasible",
+          "bodySha256": "d66f8bc519df41819990a7b3c8cac4967f224e1c7b203dc9b1daedd34818c878",
+          "reviewNote": "Lists provisions a temporary custodial agreement must include if feasible, including deployment details, caretaking allocations, dispute resolution, contact, and child support acknowledgment."
+        },
+        {
+          "number": 4,
+          "title": "Omission of feasible terms not invalidating agreement",
+          "bodySha256": "b4b7d2b90baffa2c3d05abf0ef3c70e89ab061cfea35b478987b809ad23686df",
+          "reviewNote": "Provides that omitting feasible agreement terms does not invalidate a temporary custodial agreement under this section."
+        }
+      ],
+      "reviewSummary": "Source-checked 4 subsection headings for 452.1214 governing temporary parental custodial agreements during military deployment."
+    },
+    {
+      "id": "452.1216:54847",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.1216&bid=54847",
+      "sourceSha256": "7d3ac0d14feae022151103621e81434ffac46fe6ea4caf6c9623e96e5fdb3c3e",
+      "textSha256": "c4761abc9d5c53f4e41895fd6f36b14bab7b34a21252707a29a5dcb472cf3267",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Temporary nature and termination of agreement",
+          "bodySha256": "6254b230c80567c58802b9cba6a18c8b9dcafecbbe2c46bfef64a7a4af9f603e",
+          "reviewNote": "Specifies that temporary custodial agreements terminate after return and create no independent continuing rights in recipients."
+        },
+        {
+          "number": 2,
+          "title": "Standing of nonparent to enforce agreement",
+          "bodySha256": "72183f692dd6c36961d01785030df36b1d533bd52b32505e64407b2166544471",
+          "reviewNote": "Confers standing on nonparents with caretaking or contact authority to enforce temporary agreements until terminated."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.1216 governing temporary duration and nonparent enforcement standing under deployment agreements."
+    },
+    {
+      "id": "452.1218:54848",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.1218&bid=54848",
+      "sourceSha256": "be626c058c2d07e2af6e3fa1c0be537b77ae9804087657ba2802058e6c59266d",
+      "textSha256": "9a19113aae5d61a4fedc19180949e9bad25cfbe0c9a4193c326e64611d602045",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Modification of temporary agreement by mutual consent",
+          "bodySha256": "a50e8bde3fa1e2927568bfe70655bab48a3f7f048e26e010cfb05dc5bf534d75",
+          "reviewNote": "Authorizes parents to modify temporary custodial responsibility agreements by mutual consent."
+        },
+        {
+          "number": 2,
+          "title": "Pre-deployment modification in writing and signed",
+          "bodySha256": "7dbd6986ba4526706b65948619e4eda95274efe3574a3800868349fe1563b229",
+          "reviewNote": "Requires modifications made before deployment to be in writing and signed by both parents and participating nonparents."
+        },
+        {
+          "number": 3,
+          "title": "Modification during deployment agreed to in record",
+          "bodySha256": "779746374565ba245a7b56a0427a1e618258571b381ba4a028f5448a92390c75",
+          "reviewNote": "Requires modifications made during deployment to be agreed to in a record by both parents and participating nonparents."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.1218 governing mutual modifications of temporary custodial agreements before and during deployment."
+    },
+    {
+      "id": "452.1226:54852",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.1226&bid=54852",
+      "sourceSha256": "da94deac3c6a15d480a686d996c2f08fcb3f29e1b8cb8dff90f99777849fd0bd",
+      "textSha256": "be0859ab01fdb754f12eb303990461b84355d0fef8942ec5fd92601ab3b15f3e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Temporary custody order authority and permanent order restriction",
+          "bodySha256": "2eb1693734553ec372c456b2c18d97f36869792ac5e9e1f468b3ae20e28c28d9",
+          "reviewNote": "Authorizes temporary custody orders during deployment under federal law and prohibits permanent orders without deploying parent consent."
+        },
+        {
+          "number": 2,
+          "title": "Motion regarding custodial responsibility during deployment",
+          "bodySha256": "a9a4ebc0f7e5ce3f321498eee7dc1d29012d9cc51d45127c4178ede443fff943",
+          "reviewNote": "Authorizes either parent to file a motion for custodial responsibility during deployment in pending or new proceedings."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.1226 governing judicial authority for temporary custody orders and motions during deployment."
+    },
+    {
+      "id": "452.1234:54856",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.1234&bid=54856",
+      "sourceSha256": "05cbd898c8695913fab75d7df7f7e8d885a5b2e66797d84f9a3c46b617216ff9",
+      "textSha256": "a201e0e188e99d5d3fd62688d6ffa236163b51e7b560ffd033691e7581e0f2f6",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Grant of caretaking authority to nonparent",
+          "bodySha256": "b26bd7bc0621c3a4261cd4db8901f3baf7071038dd7bb64b6563331c0e30e8be",
+          "reviewNote": "Authorizes court to grant caretaking authority to an adult family member or close individual if in the best interest of the child."
+        },
+        {
+          "number": 2,
+          "title": "Time limitations on caretaking authority to nonparent",
+          "bodySha256": "0c39658ccae15c711cb826f198aae28e56c7a457533da41b647c91018b65c944",
+          "reviewNote": "Restricts nonparent caretaking time absent other parent consent to time previously awarded or habitually exercised by deploying parent."
+        },
+        {
+          "number": 3,
+          "title": "Grant of decision-making authority to nonparent",
+          "bodySha256": "f2b075b1fb61a2421a2ae23c8b553beff17a37b1f27597ead48202a557251f00",
+          "reviewNote": "Authorizes court to grant specified decision-making authority to a qualified nonparent if deploying parent is unable to exercise it."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.1234 governing judicial grants of caretaking and decision-making authority to nonparents during deployment."
+    },
+    {
+      "id": "452.1238:54858",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.1238&bid=54858",
+      "sourceSha256": "9e670d29924f99064920630b9683e638eb67aff5736354b3a845276d5543a514",
+      "textSha256": "94b42b2c6a04f87bcba52e346f3557cf6c80a94ac90125f118a8e2f016092587",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Temporary duration and termination of judicial grant",
+          "bodySha256": "f743fe7d0ce5dd6a3dec613589895470e73a3f44689bc31cc942b8259205bab7",
+          "reviewNote": "Specifies that judicial grants of custodial responsibility are temporary, terminate after return, and create no continuing rights."
+        },
+        {
+          "number": 2,
+          "title": "Nonparent standing to enforce judicial grant",
+          "bodySha256": "039624576c6e1a10835b49574b7b92ffb9388d6f9f4314fe70a6a44f25e657d6",
+          "reviewNote": "Confers standing on nonparents granted caretaking, decision-making, or contact authority to enforce judicial grants until terminated."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.1238 governing temporary nature and nonparent enforcement standing under court deployment orders."
+    },
+    {
+      "id": "452.1240:54859",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.1240&bid=54859",
+      "sourceSha256": "0136949a73b9ff8398220afd239e19ba3304b33a70064d267df73a64fae3144c",
+      "textSha256": "8656046664407d5429a3f2021205d4e98db54733df48cf2ce5bd85d836296613",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory designations in temporary custody order",
+          "bodySha256": "f9a0ee9ef82caa51b1ca1b60b2a4b37f17f7bcd4ea6a63ca06685163354b05c9",
+          "reviewNote": "Requires temporary custody orders under deployment provisions to be designated temporary and identify deployment conditions."
+        },
+        {
+          "number": 2,
+          "title": "Specific provisions required in temporary custody orders",
+          "bodySha256": "033b3a8a504b363c1df034c9c608ea1ddce1d09b185cf09920f912c92ca1e639",
+          "reviewNote": "Specifies terms to be included in temporary orders if applicable, including allocations, communications, and return contact."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.1240 governing mandatory contents and specific provisions in temporary deployment custody orders."
+    },
+    {
+      "id": "452.1244:54861",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.1244&bid=54861",
+      "sourceSha256": "1a6e7190d6658355192ff580cea6ac392d54162ab91f31b35e81e4042962cc3e",
+      "textSha256": "5e702cdc87b352c602955b5fb1fff80903e2dedbd83cce3ca640a1a906ab0851",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Modification or termination of temporary custody order",
+          "bodySha256": "b6e7ae9f807481c8626a09ccf8057b379e620140b41300b1128689a9ac1e1336",
+          "reviewNote": "Authorizes court to modify or terminate temporary grants on motion if consistent with statutory standards and child's best interest."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory termination of limited contact on motion",
+          "bodySha256": "7c336bc64f58f381f567f69d90ee4eb8ed6c018574e1b6514ef371b9578a2ce7",
+          "reviewNote": "Requires court to terminate a grant of limited contact upon motion of a deploying parent."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.1244 governing modification and termination of temporary judicial custodial grants."
+    },
+    {
+      "id": "452.1246:54862",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.1246&bid=54862",
+      "sourceSha256": "2e97a653a9bc4b37bb91d2b8d7285a3e41d67e779a2369edad798d646e6f4d4a",
+      "textSha256": "428905a760e9a6a8e7f84a6d59fb27fa739e264df5ad485b60fc5e565e6a2a64",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Termination of temporary agreement by signed agreement",
+          "bodySha256": "8a047e7c670c9d937800ad5908af1f348be9417d6962566cb3fe2df9ef3dff73",
+          "reviewNote": "Authorizes terminating a temporary custodial agreement after return through a written termination agreement signed by both parents."
+        },
+        {
+          "number": 2,
+          "title": "Effective date of agreement to terminate",
+          "bodySha256": "c9887221978e67328c8332e2771a8f3b7918447d5a919d4c5e0fa44f7d2cd546",
+          "reviewNote": "Establishes termination date of temporary agreements based on date specified or date signed by both parents."
+        },
+        {
+          "number": 3,
+          "title": "Automatic termination sixty days after return notice",
+          "bodySha256": "b8a5f637a70b7e22dd27a1b3d06d13b10579e00827e43949ff357d7ce29d0a26",
+          "reviewNote": "Provides that temporary agreements terminate sixty days after deploying parent gives notice of return absent termination agreement."
+        },
+        {
+          "number": 4,
+          "title": "Filing agreement to terminate with court",
+          "bodySha256": "579b48e50308f87cd3ecf9ebd0ed400197f82e68cc9928804588a5ecff9bdda1",
+          "reviewNote": "Requires filing agreements to terminate with the court if the temporary agreement was previously filed."
+        }
+      ],
+      "reviewSummary": "Source-checked 4 subsection headings for 452.1246 governing termination procedures and timelines for temporary deployment agreements."
+    },
+    {
+      "id": "452.1252:54865",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.1252&bid=54865",
+      "sourceSha256": "7222732f4ec0ff9103e291d5e211df51950130a4483fd04efe60ae165c49fd67",
+      "textSha256": "c9d1687ef24e9739116a5c469e085c4565703c87191d7b0f7026c9435a052d39",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Automatic termination sixty days after return notice",
+          "bodySha256": "e1757dc83c5037d5bed1e9a50f8470a607bc1ec0b036ff417cf9b5d9d1aa6712",
+          "reviewNote": "Provides that temporary custody orders terminate sixty days after deploying parent gives notice of return absent filed termination agreement."
+        },
+        {
+          "number": 2,
+          "title": "Law governing proceedings to prevent termination",
+          "bodySha256": "dd8861aeeaf32e55d312109262a1d5272f688cb3450aacc75eb1ae4f4b004f9e",
+          "reviewNote": "Provides that a proceeding seeking to prevent termination of a temporary order for custodial responsibility is governed by state law other than sections 452.1200 to 452.1258."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.1252 governing automatic sixty-day termination of temporary deployment custody orders and state law governing proceedings to prevent termination."
+    },
+    {
+      "id": "452.300:25002",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.300&bid=25002",
+      "sourceSha256": "bb8e90ab9b4a7793d29decab00316feab01832c35a81b143c15bd74f55d30c87",
+      "textSha256": "25890f6ba0ad01731db51fea62b00e3223b61a9d01b7d047328ef3dedcaee2e9",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application of supreme court and court rules",
+          "bodySha256": "ddf12e37dbfa1a09d66a477ca29e10a9c83fb60bffbaadf71244c5ebd1b2394d",
+          "reviewNote": "Provides that rules of the supreme court and applicable court rules govern all proceedings under sections 452.300 to 452.415."
+        },
+        {
+          "number": 2,
+          "title": "Entitlement of dissolution and separation proceedings",
+          "bodySha256": "9ac98a45ebd7aff210cb65ae8ee6d6165c0f9a5c45c5c2233b0c88396df4ab97",
+          "reviewNote": "Specifies required title style for dissolution of marriage, legal separation, and invalidity proceedings."
+        },
+        {
+          "number": 3,
+          "title": "Denomination of initial and responsive pleadings",
+          "bodySha256": "7c9d24c93de6132fa8920fea202c4090bc28cf3a249bc2b3616c1bc4286d46ad",
+          "reviewNote": "Designates initial pleading as petition and responsive pleading as answer in original proceedings under sections 452.300 to 452.415."
+        },
+        {
+          "number": 4,
+          "title": "Denomination of petitioner and respondent parties",
+          "bodySha256": "9df5c6dd9162de5759e78a6cc6728b3df0ab9b4f006ab79348d88bb6d4a69a04",
+          "reviewNote": "Designates parties filing initial pleadings as petitioners and responsive parties as respondents, retaining designations in later proceedings."
+        },
+        {
+          "number": 5,
+          "title": "County venue and transfer of original proceedings",
+          "bodySha256": "bff935337e115c938814a450b1cfa7d6fc5b9de9e01ab086aabaae9fb42c58b8",
+          "reviewNote": "Establishes venue in petitioner or respondent county of residence and provides standards for transferring proceedings."
+        },
+        {
+          "number": 6,
+          "title": "Inclusion of decrees within judgment definition",
+          "bodySha256": "1d8884826ee639dca274250cb4282e8d765e6c2ad8c78da31150dca2ae34d7a4",
+          "reviewNote": "Specifies that judgment includes decree in proceedings pursuant to sections 452.300 to 452.415."
+        }
+      ],
+      "reviewSummary": "Source-checked 6 subsection headings for 452.300 governing procedural rules, pleading captions, party designations, and venue standards."
+    },
+    {
+      "id": "452.305:59918",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.305&bid=59918",
+      "sourceSha256": "9fcc42ae2483ee1792790fde791283c5acc1ea077fc9683e07c586218281f696",
+      "textSha256": "203647d932714c7c4fce0b19063b2b9607525759f4785e84dfdc3eee04bbaef2",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Required findings for judgment of dissolution",
+          "bodySha256": "dde70ead515fd66b703e811c0629e572a95711b8f7abe2972ff756761b1a2bec",
+          "reviewNote": "Specifies mandatory findings of residency, waiting period, irretrievable breakdown, and custody or support provisions for dissolution judgments."
+        },
+        {
+          "number": 2,
+          "title": "Required findings for judgment of legal separation",
+          "bodySha256": "b7e7789b78868de435f1af6347d4df8ebaaf012b2c9b69a423d1813fd7da412e",
+          "reviewNote": "Specifies mandatory findings of residency, waiting period, preservability of marriage, and support provisions for legal separation."
+        },
+        {
+          "number": 3,
+          "title": "Pregnancy status not barring dissolution judgment",
+          "bodySha256": "b8d6f3f7cb875b78d0c349a29dac662b0e7bba05647c77f7010c5c69596ab244",
+          "reviewNote": "Provides that pregnancy status shall not prevent the court from entering a judgment of dissolution of marriage or legal separation."
+        },
+        {
+          "number": 4,
+          "title": "Social Security number disclosure in judgments",
+          "bodySha256": "6c5276c8870fa7a5430a23ba4b08569b5043c25df2b2310a4d452c3842148438",
+          "reviewNote": "Requires inclusion of last four digits of Social Security numbers in judgments and retention of full numbers under section 509.520."
+        }
+      ],
+      "reviewSummary": "Source-checked 4 subsection headings for 452.305 governing grounds and findings for dissolution and legal separation judgments."
+    },
+    {
+      "id": "452.310:59919",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.310&bid=59919",
+      "sourceSha256": "be78a547207ac0d6c11d8f2d57fc44c3738341125e4eb1b165d85d653f564a8f",
+      "textSha256": "7e51d9e6818422e9ad474c2f48b31888fd139af9bd6a03da4e06dbf561533d03",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Verified pleadings and irretrievable breakdown allegations",
+          "bodySha256": "59670747619f60d76b21942e60d4d8d681b224a3ce3fbecd61a6ffa81f6bfd5d",
+          "reviewNote": "Requires verification of petitions and motions, and specifies required breakdown allegations for dissolution and legal separation."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory contents of dissolution or separation petition",
+          "bodySha256": "2f3cfc4e8466bdf2723ccd8ebc26b9c8d7948ee04573d1eb4abfcfe77247864d",
+          "reviewNote": "Sets forth required information in petitions, including residence, marriage date, children, pregnancy status, and relief sought."
+        },
+        {
+          "number": 3,
+          "title": "Immediate child jurisdiction and prohibition on removal",
+          "bodySha256": "43353f9eec7380f03c75ecd41632ee121c500930181e1e592f05a77158fdd859",
+          "reviewNote": "Subjects children immediately to court jurisdiction upon petition filing and prohibits unauthorized removal from jurisdiction or custodian."
+        },
+        {
+          "number": 4,
+          "title": "Possession of child not creating custody preference",
+          "bodySha256": "dc816ca768d9f7b2c82767a5ed206e90a1b9849e1ee093c44bfa757cede0a64d",
+          "reviewNote": "Establishes that actual possession of a child at filing does not create a preference in judicial custody determinations."
+        },
+        {
+          "number": 5,
+          "title": "Service and mandatory contents of verified answer",
+          "bodySha256": "0a1a20da847f49aa8d3560c06d9b3277b9f1039e400c5f07893f0d68c016af18",
+          "reviewNote": "Specifies thirty-day verified answer requirement and mandatory contents to avoid interlocutory default judgment."
+        },
+        {
+          "number": 6,
+          "title": "Abolition of prior defenses to divorce",
+          "bodySha256": "994de6d003981e7d0fab7c330d93f774bc33c7879c75b2d403f52b3480b14f4a",
+          "reviewNote": "Abolishes previously existing defenses to divorce and legal separation, including condonation, connivance, collusion, recrimination, insanity, and lapse of time."
+        },
+        {
+          "number": 7,
+          "title": "Retention of full Social Security numbers",
+          "bodySha256": "45adfac58e9e84baab9de8bb93e76c089b1d227542f4a4d2112c6c1b3393c64a",
+          "reviewNote": "Requires full Social Security numbers of parties and children and birthdates to be provided pursuant to section 509.520."
+        },
+        {
+          "number": 8,
+          "title": "Mandatory contents of proposed parenting plan",
+          "bodySha256": "b226ae9743a76746cf0bad89abdeeeb647e29b0fa78a3b88c6bf8ea6864787c3",
+          "reviewNote": "Specifies detailed requirements for proposed parenting plans, including custody schedules, decision-making rights, and expenses."
+        },
+        {
+          "number": 9,
+          "title": "Temporary parenting plan order on differing proposals",
+          "bodySha256": "578bd8633bc732b66875734ae89a03796a0388b58cbc31128cb75f4bfbf43ce0",
+          "reviewNote": "Directs entry of a temporary parenting plan order when parties differ or fail to file proposed plans."
+        },
+        {
+          "number": 10,
+          "title": "Supreme court parenting plan guidelines availability",
+          "bodySha256": "6430fe17a8383e8e41870d2b5e5cdd89a397c980cefd68aa9dc1f30131a2bd8f",
+          "reviewNote": "Requires supreme court parenting plan guidelines to be maintained and made available on the state courts administrator website."
+        },
+        {
+          "number": 11,
+          "title": "Parenting plans for adult children not required",
+          "bodySha256": "36db6bfcf2d99c76be13c8ab6026e4a50f3bdfc3faba2468d6dccc79695e8acc",
+          "reviewNote": "Clarifies that parenting plans are not required for children over age eighteen unless agreed to or ordered by the court."
+        }
+      ],
+      "reviewSummary": "Source-checked 11 subsection headings for 452.310 governing petition requirements, jurisdiction, answers, and proposed parenting plans."
+    },
+    {
+      "id": "452.312:25006",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.312&bid=25006",
+      "sourceSha256": "989aee4d9ee8702b7499db63b1170aeb4d0d5c2ca722a1ff807dcec118eb2660",
+      "textSha256": "64c1f807e89885aa68c6b30f1e121062a7b118b2c8ceecdf476bb70d522bbc2c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Employer details and Social Security digits in petitions",
+          "bodySha256": "9f293a7747f212e8fbe985fffd06c5ebf27436bfb0cc919771692b5eef2f13aa",
+          "reviewNote": "Requires last four digits of Social Security numbers and current employer details in petitions and motions for support or modification."
+        },
+        {
+          "number": 2,
+          "title": "Employer details and Social Security digits in responses",
+          "bodySha256": "12d164a49d9640e4b851eeba606d9e992b49f1adce4de01549bf7e5036342db8",
+          "reviewNote": "Requires respondent employer name, address, and last four digits of Social Security number in responsive pleadings."
+        },
+        {
+          "number": 3,
+          "title": "Social Security digits in decrees and orders",
+          "bodySha256": "274d50cc3eb428528acc20e40625ac44ab159071f71871763f1d020168fc6f76",
+          "reviewNote": "Requires last four digits of Social Security numbers of parties to be included in decrees and support orders."
+        },
+        {
+          "number": 4,
+          "title": "Retention of full Social Security numbers",
+          "bodySha256": "f722a2b26c5dd8b44a685be93e81f0f0597f8c5bc8add9917b3e53dd4f6174ce",
+          "reviewNote": "Requires full Social Security numbers of parties and children to be retained pursuant to section 509.520."
+        }
+      ],
+      "reviewSummary": "Source-checked 4 subsection headings for 452.312 governing Social Security number and employer disclosures in family law proceedings."
+    },
+    {
+      "id": "452.315:25008",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.315&bid=25008",
+      "sourceSha256": "1d758e7cddfa887fc75116985fd351aa3383b22dc235f8b654375b8a74dc9a49",
+      "textSha256": "1d6ec83ea56aed9d3ecdd5831bff091d63e3c3e2eef1122c17d210eee9005ea8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Motion for temporary maintenance or child support",
+          "bodySha256": "8a2ef5991ca3da67e055a67d37d545b0cf278e13444485724ccf023b1f5066af",
+          "reviewNote": "Authorizes either party to move for temporary maintenance or temporary child support supported by affidavit."
+        },
+        {
+          "number": 2,
+          "title": "Motion for temporary restraining order or injunction",
+          "bodySha256": "12c5d2ecbfe0f6d417e92a9b6db2d045bff7e37ccce98b4df76beb90f444e6e7",
+          "reviewNote": "Authorizes motion for temporary restraining order or injunction regarding property disposition, harassment, family home, and support."
+        },
+        {
+          "number": 3,
+          "title": "Finding of irreparable injury for restraining order",
+          "bodySha256": "6b0f7d44829136e88cfcfa0db013eb43d353908f789492993fb7a7319dedb399",
+          "reviewNote": "Restricts issuance of restraining orders to cases where evidence shows irreparable injury would result before answering time elapses."
+        },
+        {
+          "number": 4,
+          "title": "Filing timeline for answer to temporary motion",
+          "bodySha256": "c7b8b0ad2e1207c9a32a93080055b53b8970d903f463e399c80700ef4aef4212",
+          "reviewNote": "Specifies ten-day deadline or restraining order deadline for filing an answer after service of notice of motion."
+        },
+        {
+          "number": 5,
+          "title": "Issuance of temporary injunction and support order",
+          "bodySha256": "9d2a881f3bbbe5501802399edcbae9c62fa761bc7245021451272ddc068871e6",
+          "reviewNote": "Authorizes temporary injunctions and orders for temporary maintenance or support consistent with sections 452.335 and 452.340."
+        },
+        {
+          "number": 6,
+          "title": "Effect, modification, and termination of temporary orders",
+          "bodySha256": "2a6d4ad2fed103dc57f1ab8349e3f4296fe5566f8499a2542b343bf109405bac",
+          "reviewNote": "Provides that temporary orders do not prejudice subsequent rights, may be modified on affidavit, and terminate upon final judgment."
+        },
+        {
+          "number": 7,
+          "title": "Mandatory temporary child support upon paternity presumption",
+          "bodySha256": "ed91fc7a6fc6484ce566952ebfd19671f43ae62dbc5070294854a436b44c7eda",
+          "reviewNote": "Requires temporary child support order pending final determination when clear and convincing evidence establishes paternity presumption."
+        },
+        {
+          "number": 8,
+          "title": "Retroactivity of modified or vacated temporary order",
+          "bodySha256": "e78caac8e9afb6a1c7ccbdbed6d21546fce657cfaba0f896f772561acd4d6a9d",
+          "reviewNote": "Authorizes orders modifying or vacating temporary orders to be retroactive to the date of original temporary order entry."
+        }
+      ],
+      "reviewSummary": "Source-checked 8 subsection headings for 452.315 governing temporary orders, restraining orders, injunctions, and support awards."
+    },
+    {
+      "id": "452.320:25011",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.320&bid=25011",
+      "sourceSha256": "73e93ba932c051d2c59fd507da7d3a9acd8100c79c76b87fe2ad504e8003462d",
+      "textSha256": "8155e23fa66928988b63a5fe54eb315e0319fb600b7f9518de846249abf80793",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Finding of breakdown when admitted or undenied",
+          "bodySha256": "e1bd93be9562889b4982483a1d898d9cad311aad441c8d7a70755e1fdad7fede",
+          "reviewNote": "Directs court finding and order of dissolution or dismissal when irretrievable breakdown is stated under oath and not denied."
+        },
+        {
+          "number": 2,
+          "title": "Contested breakdown findings and counseling continuance",
+          "bodySha256": "7747c0c9b419edce767481387d05058bfd6cd4045dd0bd09f64187906aeae533",
+          "reviewNote": "Specifies factual proofs required when irretrievable breakdown is denied and authorizes continuance for reconciliation counseling."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.320 governing judicial findings of irretrievable breakdown and counseling procedures."
+    },
+    {
+      "id": "452.325:25012",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.325&bid=25012",
+      "sourceSha256": "e198c3c86c5df9277d1deed278be3da29be20305796441caf786f6920b8f4893",
+      "textSha256": "785acd6c82ecfcdc02f36e61198e96ede92a2e524f14b0ed27a321081304261f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority to enter written separation agreement",
+          "bodySha256": "391b96ca1339bf55964e0c3e29f74f9f2f574a71341df161dca827f25d212820",
+          "reviewNote": "Authorizes parties to enter written separation agreements containing provisions for maintenance, property disposition, custody, and support."
+        },
+        {
+          "number": 2,
+          "title": "Binding effect of separation agreement terms",
+          "bodySha256": "1e3e487e1205c79fe12d066224d3655db2a6dd64f81896204151bfdf48a0b244",
+          "reviewNote": "Makes economic terms of separation agreement binding on court unless found unconscionable, excluding custody and child support terms."
+        },
+        {
+          "number": 3,
+          "title": "Court orders upon finding of unconscionability",
+          "bodySha256": "ad3172285c027f78d5d35119f49c6fc2a72209a99c13d733628481ad6ecff5c5",
+          "reviewNote": "Authorizes court to request a revised agreement or enter independent property and support orders if agreement is unconscionable."
+        },
+        {
+          "number": 4,
+          "title": "Incorporation of nonunconscionable terms into decree",
+          "bodySha256": "0dc1748b68e23108f31b83ce4b015e04afa5d151337d6abdec85240137800081",
+          "reviewNote": "Requires setting forth nonunconscionable terms in decree unless agreement provides otherwise, and notes required child support inclusion."
+        },
+        {
+          "number": 5,
+          "title": "Enforcement remedies and contempt for decree violation",
+          "bodySha256": "70de8b6b86f352e0f115c0889c047e6212f34d4acdf3cab92544674bf3c857e2",
+          "reviewNote": "Makes terms set forth in decree enforceable by all judgment remedies and punishable by contempt for willful violations."
+        },
+        {
+          "number": 6,
+          "title": "Limitation on modification of decree terms",
+          "bodySha256": "2570c4b42574477097492931bc5bb1e279d2f6e4ee19b7b69d223d77473beaf2",
+          "reviewNote": "Allows decree to preclude or limit modification of terms other than child support, custody, or visitation if agreement provides."
+        }
+      ],
+      "reviewSummary": "Source-checked 6 subsection headings for 452.325 governing separation agreements, conscionability standards, decree incorporation, and modification limits."
+    },
+    {
+      "id": "452.330:25013",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.330&bid=25013",
+      "sourceSha256": "f4034629963f707f672c23f117b1eae60944e974f1400dd6506f9dd92181f461",
+      "textSha256": "2bda076258ebd3efccf33b7998ae413c132f3bf20b4be8d5557064c53df90280",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Disposition of nonmarital property and marital property division",
+          "bodySha256": "fbf2e1daa1a3ee5b9ae7ef39de20f1a163f1cd346245909d909cf8c48024b00e",
+          "reviewNote": "Requires setting apart nonmarital property and dividing marital property and debts justly after considering statutory factors."
+        },
+        {
+          "number": 2,
+          "title": "Definition and exclusions from marital property",
+          "bodySha256": "e38bb258f052271d7b8c47a1d0db33518f0c5d44495d4194d9cde9d6f6cc39d0",
+          "reviewNote": "Defines marital property acquired subsequent to marriage and lists specific statutory exceptions including gifts and inheritances."
+        },
+        {
+          "number": 3,
+          "title": "Presumption of marital property and rebuttal",
+          "bodySha256": "04a4520eb6f031e5e6b209e650cd95c851441757f5bac20697dadb49c8e9f57c",
+          "reviewNote": "Establishes presumption that property acquired during marriage is marital property regardless of titling, rebuttable by statutory exception."
+        },
+        {
+          "number": 4,
+          "title": "Commingling not converting nonmarital property",
+          "bodySha256": "1bbd95aeb20d95f20ca17bcc3738980f2e9a9c52aa6ee97fbc306852be309bd3",
+          "reviewNote": "Provides that nonmarital property shall not become marital property solely because it may have become commingled with marital property."
+        },
+        {
+          "number": 5,
+          "title": "Finality of property division and QDRO modification",
+          "bodySha256": "8c5439693f729978e868ddafac00c939e25fbfed4d0c27daf90c5d6377553afa",
+          "reviewNote": "Makes marital property distribution orders final and nonmodifiable, except that qualified domestic relations orders may be modified to establish, maintain, or conform QDRO status; source footnote notes word 'the' does not appear in original rolls."
+        },
+        {
+          "number": 6,
+          "title": "Filing decree affecting real estate with recorder of deeds",
+          "bodySha256": "97992a2628d2a9acca4d2c26d896f9115e732a0216d9c072f668176e0c67df21",
+          "reviewNote": "Permits the court clerk to file a certified copy of any court decree affecting title to real estate for record with the recorder of deeds where the real estate is situated."
+        }
+      ],
+      "reviewSummary": "Source-checked 6 subsection headings for 452.330 governing classification, division, commingling, finality and QDRO modification, and real estate decree recording; source footnote notes word 'the' does not appear in original rolls."
+    },
+    {
+      "id": "452.335:25014",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.335&bid=25014",
+      "sourceSha256": "aa71c35c5930981be3bcd6b0c09b28896a87368383ac4fe2ed15d1296ea93b0f",
+      "textSha256": "1de965fb3085048ab392116d985722b9d0c135ab0122daa86572422fb8bfcdad",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Eligibility criteria for maintenance orders",
+          "bodySha256": "fc2a7d9fd58e47011212090d7c3809b838bf1d823bfb2c8e2ee76215a2b1ae4b",
+          "reviewNote": "Authorizes maintenance order only upon finding spouse lacks sufficient property and is unable to support self through appropriate employment."
+        },
+        {
+          "number": 2,
+          "title": "Factors for determining maintenance amount and duration",
+          "bodySha256": "5ba92861d21bf7631a99a72d55ff62d334c4326f1254e3e4d1ce07b40a7ef0a5",
+          "reviewNote": "Specifies relevant factors for determining just maintenance amount and duration, including financial resources and marriage length."
+        },
+        {
+          "number": 3,
+          "title": "Modifiability and duration terms in maintenance order",
+          "bodySha256": "2095f7df3f55aef4cc78b608bca1d7cc2e6982eb4262002ae9eea0f9dd749baf",
+          "reviewNote": "Requires maintenance orders to state whether modifiable and authorizes fixed terms and modifications based on changed circumstances."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.335 governing spousal maintenance eligibility, factor determinations, and modification terms."
+    },
+    {
+      "id": "452.340:33223",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.340&bid=33223",
+      "sourceSha256": "5bfc712fc3deebbaa114fb45f514a7dbc19eb58ef3c70a87cf679447ff710706",
+      "textSha256": "395e5d7fe7461faf9b6dfffefd3dfc984d64789786a3b655bda8a9f083b34239",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Factors for child support orders and retroactivity",
+          "bodySha256": "fca563b146e240c6f48ec18f9ff79bbc3b97740039198ec9363d3fb31517afec",
+          "reviewNote": "Authorizes child support orders and retroactive awards based on financial, health, custody, and child care factors."
+        },
+        {
+          "number": 2,
+          "title": "Abatement of support during voluntary custody relinquishment",
+          "bodySha256": "d029e959d8d7738dc2032f8c5851b12ebc9fcbff41e1f836cd26d2ea60d18665",
+          "reviewNote": "Provides for whole or partial child support abatement when physical custody is voluntarily relinquished for over thirty consecutive days."
+        },
+        {
+          "number": 3,
+          "title": "Events terminating parental child support obligation",
+          "bodySha256": "2f72c95c77cdde5a72d3c4a5c84a63bbbdaddb872e80c71391fdcb6d57eb709a",
+          "reviewNote": "Lists statutory events terminating child support, including death, marriage, active duty, self-support, and age thresholds."
+        },
+        {
+          "number": 4,
+          "title": "Extension of support for incapacitated unmarried child",
+          "bodySha256": "67f05195a6d7516fdf33dc3ad16fb689d343c52c8240f4c8c006cecc04bfdfc0",
+          "reviewNote": "Authorizes court to extend support beyond age eighteen for physically or mentally incapacitated, insolvent, and unmarried child."
+        },
+        {
+          "number": 5,
+          "title": "Extension of support for secondary or higher education",
+          "bodySha256": "428af6b49870141a409a0299110a253d99c04291de2041734fe5ba58cf6bf13f",
+          "reviewNote": "Extends child support up to age twenty-one for children enrolled in and completing secondary, vocational, or higher education programs."
+        },
+        {
+          "number": 6,
+          "title": "Waiver of federal and state tax dependency exemption",
+          "bodySha256": "777d432c2451632be79902c68462706414581b92c08cb2f845b6d0bd6272876b",
+          "reviewNote": "Requires court to consider ordering waiver of tax dependency exemption for higher education child when financially appropriate."
+        },
+        {
+          "number": 7,
+          "title": "Remedies and support abatement for custody denial",
+          "bodySha256": "cf2231ad62ee41179e7d01c1aae879b86af981f89ca1d61193b88e6d28c4ee83",
+          "reviewNote": "Declares meaningful parent contact policy and authorizes support abatement, custody transfer, expenses, and fees for custody denial."
+        },
+        {
+          "number": 8,
+          "title": "Supreme court child support calculation guidelines",
+          "bodySha256": "76a48b464f312c15d546d3c4f4f0cb900506a4ca7ce11956005c09b379252364",
+          "reviewNote": "Requires supreme court rules establishing descriptive numeric criteria, joint physical custody credits, and quadrennial guideline reviews."
+        },
+        {
+          "number": 9,
+          "title": "Rebuttable presumption of child support guideline amount",
+          "bodySha256": "58c9fe77fd1d3094dd936891d172ca15b878f8bfb8178dec2cd1cc154f1173ae",
+          "reviewNote": "Establishes rebuttable presumption that guideline calculation is correct and requires written findings detailing specific deviation factors."
+        },
+        {
+          "number": 10,
+          "title": "Guidelines application to retroactive support and state debt",
+          "bodySha256": "f8c65750832ca3c4c3ea78c769351730665cd05700ec458f39021dae15e5cac3",
+          "reviewNote": "Requires use of support guidelines for retroactive third-party support determinations and family support division state debt calculations."
+        },
+        {
+          "number": 11,
+          "title": "Adjustment for joint physical custody equal parenting time",
+          "bodySha256": "a1282797c545a7376b4e70c2d479af48ff1859e9ed997d6d9393c35349e56529",
+          "reviewNote": "Authorizes up to fifty percent child support adjustment below basic schedule for joint physical custody with substantially equal time."
+        },
+        {
+          "number": 12,
+          "title": "Procedures and affidavits for terminating support obligation",
+          "bodySha256": "ce0ebbb7cdb782eda43f91183f401b41af97b08da5d3bb93aa4ac5792dab6746",
+          "reviewNote": "Specifies procedural mechanisms and affidavits for terminating child support upon reaching age twenty-one or emancipation."
+        },
+        {
+          "number": 13,
+          "title": "Judgment terminating support without court appearance",
+          "bodySha256": "90ab1f163f8e6dbe38fe0b746e7b0593a01d8b1a09ab3c2b1db621b848b83fca",
+          "reviewNote": "Authorizes court entry of judgment terminating child support without court appearance and promulgation of uniform affidavit forms."
+        }
+      ],
+      "reviewSummary": "Source-checked 13 subsection headings for 452.340 governing child support awards, educational extensions, guideline presumptions, and termination procedures."
+    },
+    {
+      "id": "452.341:25016",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.341&bid=25016",
+      "sourceSha256": "af7959e758d969d5678ec5d8a0decdab4d6c6dc67776092f045376326adbeb89",
+      "textSha256": "5f5062ebd5b13c65d32e2c0c1f123adcea003c2b72788ed568e44e8f311229c1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Request and execution of current support affidavit",
+          "bodySha256": "9aeaeadd2c801091ae172de6ac7a0581353194dd4e66e079023a3a37324c3678",
+          "reviewNote": "Authorizes support obligors to request and requires support recipients to execute affidavits attesting that payments are current."
+        },
+        {
+          "number": 2,
+          "title": "Remedies and penalties for affidavit noncompliance or falsehood",
+          "bodySha256": "9f52a29ec6065cfb5035038467947774855ec495acc441f950350bf9ea5f5bcf",
+          "reviewNote": "Provides cause of action for refusal to execute support affidavit and classifies executing a false affidavit as a misdemeanor."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.341 governing affidavits attesting to current child and spousal support payments."
+    },
+    {
+      "id": "452.344:25019",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.344&bid=25019",
+      "sourceSha256": "c0f970ae6a3ae45d5aec9b271671671d3cbe646a3b0826895ef68fdcbb775c72",
+      "textSha256": "290012d93461faf5fb4dbee5f61ec69bae37a1fce51644405b6a87d91ce5f46d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Discretionary bond for support or property division",
+          "bodySha256": "ea4414ab44dd93d31f15bae3f2b6c5639f166f51b69098eda4ad7e91daeb4431",
+          "reviewNote": "Authorizes court to require obligor to give security bond ensuring payment of support installments and property division compliance."
+        },
+        {
+          "number": 2,
+          "title": "Filing and clerk approval of security bond",
+          "bodySha256": "1968933f4d0b8d161f9a03b3d86d2fdbaa02324a4356569a716f0f280c759b66",
+          "reviewNote": "Requires filing bond with circuit clerk and permits entry before clerk upon court approval of security."
+        },
+        {
+          "number": 3,
+          "title": "Judgment and execution upon bond default",
+          "bodySha256": "1a2a9abf6d9a66b22bd77ec9a592f1718b1698025b8c16b7279457ffcda8ff24",
+          "reviewNote": "Directs court to enter judgment against obligors upon bond default and authorizes execution or other enforcement."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.344 governing security bonds for child support payments and property division orders."
+    },
+    {
+      "id": "452.345:25020",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.345&bid=25020",
+      "sourceSha256": "6f21e475ecce828c5a4a9f43d1fea8ae29819a3e2ad8d411063b35358d579245",
+      "textSha256": "ee0192735dd05c68ca5fdf60ec56f523d7793948e71bad33456e55723f794797",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of IV-D support case",
+          "bodySha256": "42500e26d2fa3fb3789ab92ce3bca90d982ee4d2e68c09a6dc44822fefd49c73",
+          "reviewNote": "Defines IV-D case for support payment and withholding provisions under sections 452.345 to 452.350."
+        },
+        {
+          "number": 2,
+          "title": "Order directing payment to clerk or payment center",
+          "bodySha256": "a6a62074cbb2c73280746bf4adffb3a55f24e925a10c86f5f3f5f2cbf47fcb5d",
+          "reviewNote": "Permits the court on its own motion, and requires it on either party's motion, to order maintenance or support payments to the circuit clerk or family support payment center as trustee, subject to division notice."
+        },
+        {
+          "number": 3,
+          "title": "Automated child support system recordkeeping duties",
+          "bodySha256": "98cd0f7de11ecdfcac8dbada28ac03dffea8075ebcdf74777c1819a1fbf15a68",
+          "reviewNote": "Requires circuit clerk to maintain automated system records of support payment amounts, due dates, and party contact details."
+        },
+        {
+          "number": 4,
+          "title": "Duty of parties to report address changes",
+          "bodySha256": "2bd0e4eec4249ad7b7350fa6bfcc6c083802b3888a00d2871b6764f32d82a075",
+          "reviewNote": "Requires affected parties to inform circuit clerk or payment center of address changes or conditions affecting administration."
+        },
+        {
+          "number": 5,
+          "title": "Delinquency notice and withholding advice for pre-1994 orders",
+          "bodySha256": "f26cd2b7ec3973e2e20fb87226ee152906ccac824faa06b8c570c729572a75db",
+          "reviewNote": "Establishes clerk delinquency notification procedures and income withholding advice for unmodified pre-1994 support orders."
+        }
+      ],
+      "reviewSummary": "Source-checked 5 subsection headings for 452.345 governing trustee payment collection, automated child support recordkeeping, and delinquency notices."
+    },
+    {
+      "id": "452.350:25023",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.350&bid=25023",
+      "sourceSha256": "e8fc88d4eb73cfd45e4e8c2c52680dbaa1438f3b3b44e772b8e166af5ccb6205",
+      "textSha256": "14c9f2a756843338c5452c2cfea58686552ee5cb00a421d4e1e0cdc533e1f048",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Withholding notice provisions in pre-1994 support orders",
+          "bodySha256": "322a6be899040051b4c4981e189374fab095bf4b4981e822ff3c76e8ca5fcf31",
+          "reviewNote": "Requires income withholding delinquency provisions and additional fifty percent arrearage withholding notices in pre-1994 support orders."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory immediate income withholding in support orders",
+          "bodySha256": "2822f0c0dc402c776546325491c26cc715e687ea731d149e708a7848d33db9ae",
+          "reviewNote": "Mandates immediate income withholding on effective dates of support orders unless good cause or written alternative agreement is shown."
+        },
+        {
+          "number": 3,
+          "title": "Execution and filing of voluntary income assignment",
+          "bodySha256": "e2fcb7d713107231eeb988e74e98d3db2cd4fec74d8a843dfd841ac82373cc69",
+          "reviewNote": "Authorizes obligated parties to execute voluntary income assignments at any time when withholding has not commenced."
+        },
+        {
+          "number": 4,
+          "title": "Clerk withholding notice to employer and contest hearing",
+          "bodySha256": "7d8391d1c11dc814ee021722a425e1286b1485e44826caaeaaf8df14062851e3",
+          "reviewNote": "Directs circuit clerk to send certified withholding notice to employers, specifies contest grounds, and sets hearing deadlines."
+        },
+        {
+          "number": 5,
+          "title": "Employer administrative fee for withholding processing",
+          "bodySha256": "acfaa35a4353cddeb0d5ac4b565264a1dd558075626381e12dd954ca3bf859c8",
+          "reviewNote": "Permits employers to charge obligors a monthly processing fee not exceeding six dollars for wage withholding."
+        },
+        {
+          "number": 6,
+          "title": "Employer notification of obligor employment termination",
+          "bodySha256": "2960958356d9078811749c44f85b3e88f3a3ca4eaf7d43e1b84def5ef0d5bcb5",
+          "reviewNote": "Requires employers to notify court in writing upon termination of obligor employment with new employer information."
+        },
+        {
+          "number": 7,
+          "title": "Transmission timeline, multi-case combination, and employer liability",
+          "bodySha256": "70b7302a2d53c9132c9ac145c33b4d6a8f0e1eccd9050b239e0884a4dce609d7",
+          "reviewNote": "Requires remittance within seven business days, authorizes combined payments, and provides contempt liability for noncompliance."
+        },
+        {
+          "number": 8,
+          "title": "Definition of employer including state subdivisions",
+          "bodySha256": "c41d04237dda1c7a983eefe0fa92369432ca1e4b9de208757dc30583bd390969",
+          "reviewNote": "Defines employer for withholding purposes to include the state of Missouri and its political subdivisions."
+        },
+        {
+          "number": 9,
+          "title": "Employer retaliation prohibition and penalty fine",
+          "bodySha256": "7f95437dd2376dfb9743ee917086c80196b36c36b63875fa5334520c5b43ee96",
+          "reviewNote": "Prohibits employer discharge, discipline, or refusal to hire based on a withholding notice and authorizes civil contempt proceedings, reinstatement or hiring orders, and fines up to five hundred dollars."
+        },
+        {
+          "number": 10,
+          "title": "Judicial amendment of wage withholding order",
+          "bodySha256": "58db0a72aaf3e92dd13cf9fb3c8595807052309c11511f141db5cc60f397cc18",
+          "reviewNote": "Authorizes court to amend income withholding orders on party motion for good cause shown with employer notice."
+        },
+        {
+          "number": 11,
+          "title": "Judicial termination of wage withholding order",
+          "bodySha256": "74430be44a39c6703b8bf5d5f221c7ff636b2c8577563f4e23a6c72c41f478c2",
+          "reviewNote": "Authorizes court termination of withholding for good cause shown, excluding sole reason of paid arrearages."
+        },
+        {
+          "number": 12,
+          "title": "Priority and proration of multiple withholding processes",
+          "bodySha256": "0c54479e44c00bbc556bdb3e460221bfc1c3da5d1a89a47d05359ea726557720",
+          "reviewNote": "Establishes priority over other legal process and sets pro rata distribution rules when withholdings exceed legal limits."
+        },
+        {
+          "number": 13,
+          "title": "Application of withholding remedy to pre-1986 orders",
+          "bodySha256": "a2485a059b12c114c3d1869671a15d60a5f1b4318937e55ef885f514a4275aec",
+          "reviewNote": "Applies income withholding remedies to pre-August 1986 support orders upon prior notice from circuit clerk."
+        },
+        {
+          "number": 14,
+          "title": "Administrative amendment or termination by division director",
+          "bodySha256": "e1d560ed90b3347ec708ae2c2f934ed1f5476b74e54a9620549b3327af1f1e89",
+          "reviewNote": "Authorizes family support division director to administratively amend or terminate withholding in IV-D cases."
+        },
+        {
+          "number": 15,
+          "title": "Definition of periodic income for withholding",
+          "bodySha256": "1cf04e6302601ce963f126a702886c8d730d53140d4b34f2bdcc8f6534f20641",
+          "reviewNote": "Defines income for withholding purposes to include periodic payments from wages, pensions, workers' compensation, and interest."
+        },
+        {
+          "number": 16,
+          "title": "Use of federal standard employer withholding notice",
+          "bodySha256": "a124eae2d7dcd54f03dec252db8e771fda1ba67fa6883de454a5cee4fd19fb0d",
+          "reviewNote": "Requires court use of federally promulgated standard employer income withholding notice formats."
+        }
+      ],
+      "reviewSummary": "Source-checked 16 subsection headings for 452.350 governing income withholding orders, employer duties, delinquency procedures, and administrative amendments."
+    },
+    {
+      "id": "452.355:25025",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.355&bid=25025",
+      "sourceSha256": "12935b1d60e6cd390dd71d0b5c6f936e3a761f480b91507fc041e4e5f603193d",
+      "textSha256": "74899f149245030c1cea01c71fad236a836aea644fedb92f05aa38b0707a9dde",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Discretionary award of attorney fees and costs",
+          "bodySha256": "c8bd9c07924d6f054b64cf54c8df90511e1c24aabbe844620e16c00f6b55da26",
+          "reviewNote": "Authorizes court to order party to pay reasonable costs and attorney fees after considering financial resources and conduct."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory fees for child support noncompliance without good cause",
+          "bodySha256": "c23201c9be0a3cc4a7671ea88565ca3d4232ab7328b2e7c6628f6031971f0a25",
+          "reviewNote": "Requires the court, if requested and for good cause shown, to order an obligor who failed without good cause to pay child support to pay reasonable suit costs and legal services fees."
+        },
+        {
+          "number": 3,
+          "title": "Definitions of obligor and obligee",
+          "bodySha256": "c9777bdd4c33ff139d9720c02a97f4be4ccda8f4f6595e314637a22fc8a91b63",
+          "reviewNote": "Defines obligor and obligee for purposes of attorney fees and suit costs determinations in support proceedings."
+        },
+        {
+          "number": 4,
+          "title": "Definition of good cause for nonpayment",
+          "bodySha256": "73c7f04b09472faa5d78cfd74099920caeaf82dbdf41604646970b9754660d36",
+          "reviewNote": "Defines good cause for child support nonpayment as substantial inability to pay not purposely maintained."
+        }
+      ],
+      "reviewSummary": "Source-checked 4 subsection headings for 452.355 governing attorney fee awards, litigation costs, and support enforcement sanctions."
+    },
+    {
+      "id": "452.360:25026",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.360&bid=25026",
+      "sourceSha256": "fb36ac47b836935d4f3bd309d6f128cad27d39c05c568cd0288d5243015e690f",
+      "textSha256": "dd9351c714eb4ab1cff40634ae6f013430dbe6235d7f613c4e98ef1cbae0a595",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Finality of dissolution judgment and appeal effect",
+          "bodySha256": "3d3a1f1b2676e6d514a79d574bd234fa2992308a9dea0d430ca72f669babea38",
+          "reviewNote": "Establishes finality of dissolution judgments and permits remarriage pending appeal if breakdown finding is unchallenged."
+        },
+        {
+          "number": 2,
+          "title": "Finality of marital property distribution provisions",
+          "bodySha256": "421c57fe2318e790af7bc5fb4e816ecba2f0282c1cd5e62d391ae4da33f45d1b",
+          "reviewNote": "Provides that judgments distributing marital property constitute final judgments not subject to modification."
+        },
+        {
+          "number": 3,
+          "title": "Conversion of legal separation to dissolution judgment",
+          "bodySha256": "756b661124d5a28c7053302d5ebe0a1ed4e8bb1ba1793909f873c5364f357b1d",
+          "reviewNote": "Authorizes court on motion to convert legal separation judgment to dissolution of marriage after ninety days."
+        },
+        {
+          "number": 4,
+          "title": "Setting aside judgment of legal separation",
+          "bodySha256": "7b7a54a555b5e1cc7ff233593995b2dcc30b860d58cdb5ac796ea942963b4216",
+          "reviewNote": "Directs court to set aside a judgment of legal separation upon joint motion of both parties."
+        },
+        {
+          "number": 5,
+          "title": "Clerk notice of judgment to social services",
+          "bodySha256": "e3a002e1fd64695481e15df324eb357d36cf5ce60b7c2abc6a3e5c5215bcf07c",
+          "reviewNote": "Requires circuit clerk to notify department of social services of entries of legal separation or dissolution judgments."
+        }
+      ],
+      "reviewSummary": "Source-checked 5 subsection headings for 452.360 governing judgment finality, separation conversions, set-asides, and department notice."
+    },
+    {
+      "id": "452.370:25028",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.370&bid=25028",
+      "sourceSha256": "53611aa6848346d6a4128aa9190b3e545f8a367aafdee25ec2c53fb2fcdd5f24",
+      "textSha256": "8e4f1549dbba9dfe75b80f819a273d62821d3a3505ba1ba02400aeeca2f98453",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Changed circumstances standard for modifying support or maintenance",
+          "bodySha256": "2b08ab62f3e815500ed232e6e736a7ac04b51168959f64a2c04c05267765f20d",
+          "reviewNote": "Requires substantial and continuing changed circumstances to modify support or maintenance, with twenty percent guideline prima facie standard."
+        },
+        {
+          "number": 2,
+          "title": "Application of statutory criteria upon meeting burden",
+          "bodySha256": "939c5dd695f1eff8f8354373ba5482f23df2992423c9db5c3acaf923f9e56c9d",
+          "reviewNote": "Requires determination of modified child support in conformity with section 452.340 criteria after burden of proof is met."
+        },
+        {
+          "number": 3,
+          "title": "Termination of statutory maintenance on death or remarriage",
+          "bodySha256": "da73f692da0893f6eb3c5003519a76ee00e973fa4e7758b0066a8ce8e3f21550",
+          "reviewNote": "Terminates future statutory maintenance upon death of either party or recipient remarriage unless decree or agreement provides otherwise."
+        },
+        {
+          "number": 4,
+          "title": "Termination of child support upon child emancipation",
+          "bodySha256": "982c5a7033afe03ee6c7364cab802a473c292996fd4ab8e2e0b1e4247bbb7542",
+          "reviewNote": "Terminates support on emancipation and obligates recipient to notify payer or face liability for overpayments."
+        },
+        {
+          "number": 5,
+          "title": "State party joinder when support rights assigned",
+          "bodySha256": "2a7b5eaec602b185a292a5ab05109e93167b094b79feec0307f76944d42b478b",
+          "reviewNote": "Requires naming state of Missouri as party and serving division director when modifying support assigned under TANF."
+        },
+        {
+          "number": 6,
+          "title": "Continuing jurisdiction and out-of-state service for modification",
+          "bodySha256": "ce90eabe6e1219e16c26b0b71633665b2d9cd69a88145065679e93a7e399a2fe",
+          "reviewNote": "Establishes continuing personal jurisdiction, requires address updates, and authorizes out-of-state service for modification motions."
+        },
+        {
+          "number": 7,
+          "title": "Severance of custody issues in IV-D modification",
+          "bodySha256": "7fd29d21d68dfea7d0c8ee874e14f5beef6d96000c265c97250255c26b94994f",
+          "reviewNote": "Directs severance upon request of custody or visitation issues raised in response to division child support modification motions."
+        },
+        {
+          "number": 8,
+          "title": "Modification of IV-D support orders without changed circumstances",
+          "bodySha256": "e128eb9735aff7e982688101eb8d2b985b5ccd8107981848919bda338647dab9",
+          "reviewNote": "Requires the court in a IV-D case filed by the family support division to modify a support order in accordance with supreme court rule 88.01 guidelines without showing substantial and continuing changed circumstances."
+        }
+      ],
+      "reviewSummary": "Source-checked 8 subsection headings for 452.370 governing modification standards for support and maintenance, jurisdiction, and termination events."
+    },
+    {
+      "id": "452.371:25029",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.371&bid=25029",
+      "sourceSha256": "67ed6fda30e5430ac57aba9efc7b972ebf510efd0ccee04fabcf173b04333f53",
+      "textSha256": "464edd2c43cc844dfafd8325b238cbfbc755d86a6f4a96503600848df5808891",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Declining modification jurisdiction for inconvenient forum",
+          "bodySha256": "8f4efbb337f8ee3d985694af1da8a2e4e885b7a2aeceaa1466249956794c33fc",
+          "reviewNote": "Authorizes court to decline jurisdiction in modification proceedings upon finding forum clearly inconvenient based on statutory factors."
+        },
+        {
+          "number": 2,
+          "title": "Inconvenient forum finding on court or party motion",
+          "bodySha256": "bf517bf9df6346e889753cce415a92b087d985c06b7dae91145b4c2b8388984f",
+          "reviewNote": "Authorizes inconvenient forum findings on the court's own motion or upon motion of either party."
+        },
+        {
+          "number": 3,
+          "title": "Change of venue to more appropriate court",
+          "bodySha256": "af3ceb563ba48226b24078e25b5f798d534ddac64afc7c143dad35f5e3c78b03",
+          "reviewNote": "Directs transfer of venue and transmittal of records to appropriate county court accepting jurisdiction."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.371 governing inconvenient forum declinations and venue transfers in modification proceedings."
+    },
+    {
+      "id": "452.372:25030",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.372&bid=25030",
+      "sourceSha256": "ca9e40df392a0efded37bee2f3630d07904d6267fb1f68e7f5065d6e4c4b39ab",
+      "textSha256": "22ee58823839c5e02927d703f10533683aec255cce13b9449fd47b75e00ba3aa",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory educational sessions on child custody or visitation",
+          "bodySha256": "76e3a98a4558112faf689ae378a67770062e5fa110b95d179e6d56b27abf89a4",
+          "reviewNote": "Requires court to order parties in custody or visitation proceedings to attend educational sessions pursuant to section 452.605."
+        },
+        {
+          "number": 2,
+          "title": "Discretionary alternative dispute resolution program orders",
+          "bodySha256": "ce24c33f1d03bd9384e6f11f42a265b2a8ab80985b4e636ca8fe85f26876fc15",
+          "reviewNote": "Authorizes the court in custody or visitation cases to order alternative dispute resolution under supreme court rule absent good cause (including uncontested cases or domestic violence findings) or to set a hearing."
+        },
+        {
+          "number": 3,
+          "title": "Cost allocation and limitations on alternative dispute resolution",
+          "bodySha256": "38375c89fbd6b2fadd7ebb0bf032257f5c8b7d90a01704b85e5feb098c8e02d2",
+          "reviewNote": "Allocates program costs and restricts dispute resolution from being binding, used for contempt, child support, or unagreed modifications."
+        },
+        {
+          "number": 4,
+          "title": "Supreme court rule authorizing circuit dispute resolution programs",
+          "bodySha256": "d902f93b8d3b674d828274d8e778676d5eda2326995483292dd8c77f37ce7b99",
+          "reviewNote": "Directs supreme court to promulgate rules allowing judicial circuits to establish alternative dispute resolution programs for custody."
+        }
+      ],
+      "reviewSummary": "Source-checked 4 subsection headings for 452.372 governing mandatory educational sessions and alternative dispute resolution in custody cases."
+    },
+    {
+      "id": "452.374:25031",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.374&bid=25031",
+      "sourceSha256": "9ebe493973a690cadc1747baa3641b6289244212e644532381e5e436b2336cef",
+      "textSha256": "35b8aaf09cab4b308a000a605d798a9a88e95e63d2d3eb728c6d91e87f5d7e54",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Automatic stay of paternity proceeding upon rape charge",
+          "bodySha256": "6dffa4f3aff4eabb32b15fdd12592f7f93fcc40847dcd64ee9bab10d08571a46",
+          "reviewNote": "Requires automatic stay of paternity proceedings involving putative father charged with rape conceiving child until criminal disposition."
+        },
+        {
+          "number": 2,
+          "title": "Denial of visitation not used against mother",
+          "bodySha256": "c43b65bb3a1b3d541af873b45be467ca3a516b8557b40d843deadb89e3de28c4",
+          "reviewNote": "Prohibits using denial of visitation against mother in subsequent custody proceedings when putative father is charged with rape."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.374 governing automatic paternity stays and visitation protections during rape prosecutions."
+    },
+    {
+      "id": "452.375:54643",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.375&bid=54643",
+      "sourceSha256": "678d0627845221f5547c7750c36c19c1dabd737da8101f9bb7d7bcab1b657e54",
+      "textSha256": "75749d45aa8d090f45ab49e63083b9303a8c59b1c9b0a44ff7668567fa3bedea",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions of legal, physical, and third-party custody",
+          "bodySha256": "75cffd36be0cd796d672125baf48a7c942ca55d1616ac06b7f5ad6654e915568",
+          "reviewNote": "Defines custody terms including joint legal custody, joint physical custody, and third-party custody for this chapter."
+        },
+        {
+          "number": 2,
+          "title": "Best interests standard, parenting time presumption, and factors",
+          "bodySha256": "0f490066e817483719d8e3023963c1022f3e0160ab4044a5e07f2b3da6a229d6",
+          "reviewNote": "Establishes rebuttable presumption for equal parenting time and specifies eight statutory best interest factors."
+        },
+        {
+          "number": 3,
+          "title": "Custody and unsupervised visitation bars for listed offenses",
+          "bodySha256": "ff042e1bd6a6987356906891f01fe11b0e91a6fc43ae28e012fcd52f4bb3c921",
+          "reviewNote": "Bars awarding custody or unsupervised visitation to a parent if the parent or a household member was found or pled guilty to listed child-victim offenses, and grants court discretion for other chapter 566 or 568 offenses."
+        },
+        {
+          "number": 4,
+          "title": "Public policy favoring frequent contact and temporary plans",
+          "bodySha256": "c7008b290ecdcaf2a63357998e5a8107556797260ebe61af01f3599710ec44b7",
+          "reviewNote": "Declares state policy favoring meaningful parent contact and encourages courts to enter temporary parenting plans early in proceedings."
+        },
+        {
+          "number": 5,
+          "title": "Custody arrangements and third-party placement order of consideration",
+          "bodySha256": "1a559b14ee5dcfb845e592b11c587db34a4f078c1e9e0ec1523be185896b17e0",
+          "reviewNote": "Sets forth custodial arrangements court must consider, including joint custody, sole custody, and third-party placement criteria."
+        },
+        {
+          "number": 6,
+          "title": "Written findings required when arrangement rejected or contested",
+          "bodySha256": "d8a1d8e81d671c4eaea6ada1439d7389602e08a67c6937c51d44a6abc614f873",
+          "reviewNote": "Requires detailed written findings of fact when custody is contested or when court rejects a proposed arrangement."
+        },
+        {
+          "number": 7,
+          "title": "Remedies and fees for refusing information exchange",
+          "bodySha256": "dbee6abd99c4adc64193f597a1252b7eb5ccf41a9cbad557d1aa8223c10a0761",
+          "reviewNote": "Requires immediate compliance orders and payment of the prevailing party's costs, including reasonable attorney fees and court costs, when a parent refuses to exchange child information."
+        },
+        {
+          "number": 8,
+          "title": "Prohibition of custody preference by age, sex, or finances",
+          "bodySha256": "fb38a567b851640a03db5730d5cf4bffaac0f0020fdede47b90f38f76dc18610",
+          "reviewNote": "Prohibits custody preferences based on age, sex, or financial status of parents or age or sex of child."
+        },
+        {
+          "number": 9,
+          "title": "Mandatory specific written parenting plan in judgment",
+          "bodySha256": "a10a298f9d1635b927faa606a1ce32157eb74442bb1f2fcc9fac3af66921eef6",
+          "reviewNote": "Requires every custody judgment to include a specific written parenting plan setting forth statutory arrangement terms."
+        },
+        {
+          "number": 10,
+          "title": "Mandatory notice of contempt and family access motion",
+          "bodySha256": "cc56d35bdf87ef389540d73d9187d52144678020e8e4123a9d11af5c3d57d8a7",
+          "reviewNote": "Requires court orders to include statutory notice regarding remedies for noncompliance and pro se family access motions."
+        },
+        {
+          "number": 11,
+          "title": "Prohibition of default plans and interim order restrictions",
+          "bodySha256": "92a51bc70da01dfd3bed93392783d16d7309fccaa3be6110d14493cf1dcdeb09",
+          "reviewNote": "Prohibits local standardized parenting plans and requires notice and hearing before entering interim custody provisions."
+        },
+        {
+          "number": 12,
+          "title": "Parental access to medical, dental, and school records",
+          "bodySha256": "908d3a4f35b8d720a814ea60ecfdbd791dca88660c1e0db7818fbd4eb31ae91a",
+          "reviewNote": "Guarantees both parents access to child medical and educational records, subject to domestic violence confidentiality orders."
+        },
+        {
+          "number": 13,
+          "title": "Remedies for unlawful denial of records access",
+          "bodySha256": "a9fa00cd590fd646de61fc1faded581fc36b2fae93aaf96f3ae368a8e2527a49",
+          "reviewNote": "Requires immediate compliance orders and payment of all costs including attorney fees and court costs when an individual or institution denies child records access without good cause."
+        },
+        {
+          "number": 14,
+          "title": "Joint custody award not precluding child support",
+          "bodySha256": "0c952308673de9cd5eda1fd62a05175f70ea41cb616d6249c175a948acbf28cf",
+          "reviewNote": "Clarifies that awards of joint custody do not preclude child support awards under section 452.340."
+        },
+        {
+          "number": 15,
+          "title": "Specific protective findings required upon domestic violence finding",
+          "bodySha256": "5e9dca4d461cfb3a409f0ad21d7820562afd5b3f3f99dc6c4a1bd8eded5c3e1e",
+          "reviewNote": "Requires specific factual findings demonstrating that ordered custody arrangements protect domestic violence victims from further harm."
+        }
+      ],
+      "reviewSummary": "Source-checked 15 subsection headings for 452.375 governing child custody definitions, best interest factors, felony bars, and parenting plans."
+    },
+    {
+      "id": "452.376:25033",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.376&bid=25033",
+      "sourceSha256": "5b004b6aacf03b022bf1543c2ccd6e482f4f8d576f7da8c025940d3d8b0114a9",
+      "textSha256": "9e4d4950712ee10f402e57ff96d3fa0fcbe1ec075c830cf9047a3238d464b690",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "School progress reports for noncustodial or joint parents",
+          "bodySha256": "3395121dec3f2aecd9001f318b2aaf2c5b33f420b82d84cc8cae935ad0662bce",
+          "reviewNote": "Entitles noncustodial and joint custody parents to student deficiency slips and report cards upon request and administrative fee."
+        },
+        {
+          "number": 2,
+          "title": "Annual school district administrative fee for records",
+          "bodySha256": "a1aaf7acdae50719c2657ec045eb34355f06264970291e2e75932fd1d30377b3",
+          "reviewNote": "Directs school districts to set annual administrative fees estimated to cover copying and mailing costs for student reports."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.376 governing parental access to school progress reports and district administrative fees."
+    },
+    {
+      "id": "452.377:48006",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.377&bid=48006",
+      "sourceSha256": "415796ae6713e7168912f64e568cf51b2e5323a1b4375adcbd5c7427425bab35",
+      "textSha256": "6454aed1645e6d26bc8ac82d6d0af8a829f4fdca604cdf1b62542e24f3d88695",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definition of relocation as ninety-day residence change",
+          "bodySha256": "b3d4d6b9e2528d5922504511c71d123e1607d2cc0047c91b92b06b9052314928",
+          "reviewNote": "Defines relocation as changing principal residence for ninety days or more, excluding temporary absences."
+        },
+        {
+          "number": 2,
+          "title": "Advance written notice requirements for proposed relocation",
+          "bodySha256": "d417ec9efb1917bdafabbae4d45875947eefa4a78bc90a1aca3c17aaab5f5ea6",
+          "reviewNote": "Requires sixty days advance certified mail notice of proposed child relocation detailing address, dates, reasons, and proposals."
+        },
+        {
+          "number": 3,
+          "title": "Exemption for address confidentiality program participants",
+          "bodySha256": "eb2b0425e8aa54821c5a9e6860ed6e666d383d4e2e9a79ab9539a27ffdce9dad",
+          "reviewNote": "Permits address confidentiality program participants to omit specific destination addresses and submit them under seal for in camera review."
+        },
+        {
+          "number": 4,
+          "title": "Continuing duty to update relocation information",
+          "bodySha256": "f457651f321885d70721ddd7c70d01772e176d044dd6b3f157527057dc10d81b",
+          "reviewNote": "Imposes continuing obligation to provide changes in or additions to relocation details as soon as known."
+        },
+        {
+          "number": 5,
+          "title": "Protective orders in exceptional circumstances for safety",
+          "bodySha256": "dd373618aacc16ce5fce756758c0f86771754862817e92d7154a82f14fd0a1a6",
+          "reviewNote": "Authorizes sealing addresses, waiving notice, or entering remedial orders where disclosure risks adult or child health or safety."
+        },
+        {
+          "number": 6,
+          "title": "Consequences of failure to provide relocation notice",
+          "bodySha256": "3f04dfe57d8b09536a37b5f65bf36bab2076b74a16a76a6316d020e0459f4b5e",
+          "reviewNote": "Requires court to consider notice failure as modification factor, grounds for child return, and basis for fee awards."
+        },
+        {
+          "number": 7,
+          "title": "Agreed revised custody schedule without hearing",
+          "bodySha256": "da9f3a5bc13018bac35ff9849fb80f08bfc432f87dd8724b2bd792acd8daf3e1",
+          "reviewNote": "Authorizes court to order agreed revised parenting plans and visitation schedules upon signed affidavits without a hearing."
+        },
+        {
+          "number": 8,
+          "title": "Motion and counter-affidavit procedures to prevent relocation",
+          "bodySha256": "a785bbf1f7cce0d606d2609cf44fac122c66c944db9c3c82c7e80f7a4c6f8014",
+          "reviewNote": "Allows relocation after sixty days unless parent files motion within thirty days, and sets response and counter-affidavit rules."
+        },
+        {
+          "number": 9,
+          "title": "Third-party custodian action for revised schedule",
+          "bodySha256": "369a03a37b14ff141c0162e8b401fd9c6030be15966132b36a3674eaead33c5d",
+          "reviewNote": "Allows nonparent legal custodians or visitation holders to seek revised schedules without power to prevent relocation."
+        },
+        {
+          "number": 10,
+          "title": "Burden of proof on party seeking relocation",
+          "bodySha256": "e0831810e1823eac4d2448f2958c3970ebc4da9ceef15aac8e4fe82aca18b9d2",
+          "reviewNote": "Places burden of proof on relocating party to show proposed move is in good faith and in child's best interest."
+        },
+        {
+          "number": 11,
+          "title": "Contact orders and transportation cost allocation upon relocation",
+          "bodySha256": "193162dde64ede8c16d69d66a54954b68995c7bdc45e34ae9c1d486ac8f24d61",
+          "reviewNote": "Requires court permitting relocation to order nonrelocating party contact and allocate travel costs and child support."
+        },
+        {
+          "number": 12,
+          "title": "Mandatory statutory relocation notice language in orders",
+          "bodySha256": "fb2e5a4ec4289e05bf4c211a8c97f18610f7ee9fa0cc610d77e50ed2e9095d09",
+          "reviewNote": "Requires inclusion of specific statutory notice warning parties of sixty-day notice duties and litigation consequences."
+        },
+        {
+          "number": 13,
+          "title": "In camera review of confidential participant addresses",
+          "bodySha256": "5d909f4f82e68b98427f2e5c6275c31801f7afdce05d9d076f11a3495d3b952b",
+          "reviewNote": "Authorizes in camera submission under seal of address confidentiality program participant destinations upon objection."
+        },
+        {
+          "number": 14,
+          "title": "Relocation violations deemed changed circumstances and contempt",
+          "bodySha256": "ebc1c1806a8faad67683478052ecd4c32e3c841a91471678ce620d110385ce22",
+          "reviewNote": "Authorizes court to treat relocation violations as changed circumstances under section 452.410 and exercise contempt powers."
+        },
+        {
+          "number": 15,
+          "title": "Fee award protection for good faith objections",
+          "bodySha256": "e7b0d5207dcfddd18daf9ece703fe6900eb1dd8d7eb337f92896c5224ea56c69",
+          "reviewNote": "Prohibits assessing costs and attorney fees against parties objecting in good faith to child principal residence relocation."
+        }
+      ],
+      "reviewSummary": "Source-checked 15 subsection headings for 452.377 governing child residence relocation notice, objections, burdens of proof, and orders."
+    },
+    {
+      "id": "452.380:25035",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.380&bid=25035",
+      "sourceSha256": "e2b29a69341d43dcdc11ee57eae25e586889b00e0567243378478f3c19a8ac39",
+      "textSha256": "285a410c5957f9fec97805fdd0f49860d2ae202f6cb1cf29e37d3cadd2bef411",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Motion and hearing for temporary custody order",
+          "bodySha256": "9c96aa77fedaaab6893d7db679cb1fecd490fbf227d244f484453bdaf190f646",
+          "reviewNote": "Authorizes motions for temporary custody supported by affidavit, grantable after hearing or on affidavits absent objection."
+        },
+        {
+          "number": 2,
+          "title": "Vacation of temporary order upon case dismissal",
+          "bodySha256": "5c739b7c3dc2ef52c73b96680db69d19f77fa124315aa969ffa10d2455d1b599",
+          "reviewNote": "Vacates temporary custody orders upon dismissal of marital proceedings unless a party moves to continue as custody case."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.380 governing temporary custody motions, hearings, and effect of dissolution dismissal."
+    },
+    {
+      "id": "452.390:25037",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.390&bid=25037",
+      "sourceSha256": "152451a88477121589470ed1c5599aa44fb64a37914289ba08e6b5f757ca212b",
+      "textSha256": "c6c5693362778cb2c6b61065ca832fca5af487367b628192f360de70a0d1bef9",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Court order for custody investigation and report",
+          "bodySha256": "0986d288d389d3affee81c0d43fc8f808bad6c9c5ec1fb2208b8b4c0c16630f3",
+          "reviewNote": "Authorizes court to order child custody investigation and report by welfare office, juvenile officer, or competent person."
+        },
+        {
+          "number": 2,
+          "title": "Investigator consultations and professional diagnosis referrals",
+          "bodySha256": "f075e07492c95d9595fc83e25c028a400c3319a30e8f9441752f3e5fca8174a7",
+          "reviewNote": "Authorizes investigator to consult knowledgeable individuals, refer child for diagnosis, and obtain expert records."
+        },
+        {
+          "number": 3,
+          "title": "Pre-hearing disclosure of report and underlying file",
+          "bodySha256": "dba8c0a1fbc42c3b26d36e9d74d5bbd47a18374d12282e803df68a9133852836",
+          "reviewNote": "Requires furnishing report ten days prior to hearing to counsel and unrepresented parties and making file available."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.390 governing custodial investigations, expert consultations, and pre-hearing disclosures."
+    },
+    {
+      "id": "452.395:25038",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.395&bid=25038",
+      "sourceSha256": "d5e710ef7135f81e587c3ebb64751e5128aa5763e8eaf77c5a58e476ffea76a7",
+      "textSha256": "e143a419b704a877081abce45457bfe2b36ce4babc7279a060814276c31da3e2",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Priority setting for custody proceeding hearings",
+          "bodySha256": "5b70f38042677a53ab09827f5b8c2569a32a13d565b0adc8d2433480aaaf909d",
+          "reviewNote": "Mandates that child custody proceedings receive priority in scheduling for court hearings."
+        },
+        {
+          "number": 2,
+          "title": "Nonjury determination and exclusion of public",
+          "bodySha256": "6eb519979fce6fbd076750837ecde0b2fdd8f86d1bb2ee77f7cdaf0e3fe4ae6f",
+          "reviewNote": "Requires judge determination without jury and authorizes excluding general public if hearing would harm child's interests."
+        },
+        {
+          "number": 3,
+          "title": "Sealing of custody interview and investigative records",
+          "bodySha256": "bfc720a7d78d196f11862921dea5a4f98c16b106debd22f9c92eb702db8d9835",
+          "reviewNote": "Authorizes court to seal records of interviews, investigations, reports, or testimony to protect child welfare."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.395 governing priority hearing settings, closed proceedings, and sealing records."
+    },
+    {
+      "id": "452.400:33225",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.400&bid=33225",
+      "sourceSha256": "f18a53e02baaeb3b7bae4166354cf2e9a99e7b90995a94423a0a169752fa6db9",
+      "textSha256": "38fd85ca0802605084f53e387d9a98dd87fba66c70a1131baaf325adb8a7cb01",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Parent visitation rights, domestic violence, and felony bars",
+          "bodySha256": "ad08d6473931469d58280acfe96ee4a4c4549573a0510e840f5e0e3be7b7c93d",
+          "reviewNote": "Entitles noncustodial parents to reasonable visitation unless endangering the child, bars visitation for listed child-victim offenses, requires domestic violence consideration, and requires protective findings if requested by a party."
+        },
+        {
+          "number": 2,
+          "title": "Modification of visitation rights and unsupervised contact bars",
+          "bodySha256": "4d947353689969550f13c30503c156ccca0fdffd5b9e9e0f9f2cc7aca0bed78e",
+          "reviewNote": "Authorizes visitation modification under best interests, bars unsupervised visits for specified offenses, and permits supervised visits."
+        },
+        {
+          "number": 3,
+          "title": "Mandatory compliance, contempt, and pro se access motions",
+          "bodySha256": "ca97f30161c2e906b3f16d5c13466af1dbc890c0217271e6d20cc6212f243c30",
+          "reviewNote": "Mandates order compliance and authorizes aggrieved persons to file contempt or simplified pro se family access motions."
+        },
+        {
+          "number": 4,
+          "title": "Summons issuance, personal service, and mandatory warning notice",
+          "bodySha256": "dfbda64745fd5d2bade4740382a7c03a3a446b8302bf863a1b799ab09e8f054f",
+          "reviewNote": "Requires summons issuance within five days, expedited personal service, and statutory boldface warning notice."
+        },
+        {
+          "number": 5,
+          "title": "Notice of alternative dispute resolution availability",
+          "bodySha256": "364cf384b4a05610c5631f14e7eef30807d49653e136d06f953fe7fe5931600c",
+          "reviewNote": "Directs clerk to provide dispute resolution information and authorizes court scheduling within fourteen days of service."
+        },
+        {
+          "number": 6,
+          "title": "Judicial remedies and sanctions for access violations",
+          "bodySha256": "2cb7500dde4489ea9a5712e9b0fb17ff25662e7a737f45f89cad024f7d8ef7cf",
+          "reviewNote": "Requires the court to order a remedy for unexcused custody or visitation noncompliance, which may include compensatory time, counseling, fines up to five hundred dollars, compliance bonds, and counseling costs."
+        },
+        {
+          "number": 7,
+          "title": "Parenting plan violations as factor in modifications",
+          "bodySha256": "3c26f26161076f9f25e93a74211c59185479fd04d8b1ac5fa40689443f3555d7",
+          "reviewNote": "Requires court to consider unexcused parenting plan violations when evaluating parent willingness to allow frequent contact."
+        },
+        {
+          "number": 8,
+          "title": "Assessment of reasonable expenses, fees, and contempt",
+          "bodySha256": "664a35f13d2a782c120959050dda21fb92de0d9d832400029437d27867e860bf",
+          "reviewNote": "Directs assessment of expenses and attorney fees against parties unreasonably denying visitation, and permits contempt."
+        },
+        {
+          "number": 9,
+          "title": "Sixty-day disposition timeline for family access motions",
+          "bodySha256": "2b36a07def651680b06dcaa712f0422130ee18d81014ee93037b1a35709c36b0",
+          "reviewNote": "Requires final disposition of family access motions within sixty days of service unless waived or best interests dictate."
+        },
+        {
+          "number": 10,
+          "title": "Non-independent action status for enforcement motions",
+          "bodySha256": "1d544fcd1da6886b9ffef9c29207837b65abb6af2c6b523f980aabdfd0fcba34",
+          "reviewNote": "Clarifies that family access motions are not independent civil actions from original underlying custody judgments."
+        }
+      ],
+      "reviewSummary": "Source-checked 10 subsection headings for 452.400 governing parental visitation rights, offense restrictions, family access motions, and remedies; source footnotes note transferred offense sections under H.B. 215 (2013) and S.B. 491 (2014)."
+    },
+    {
+      "id": "452.402:47784",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.402&bid=47784",
+      "sourceSha256": "c56af5e7e0bcab47dcb34bfa859feada872053c3cf7687967dc9a03d3b02dfcb",
+      "textSha256": "bc1064c660f58d89cb6efc0e440779d30a9ac2483d8af39d34d35dccc867faee",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Grounds and standing for grandparent visitation petition",
+          "bodySha256": "b8cf8202c3fea7c4edad84d61ef2aa1cb31b0d6dffde884a80efa56daa97aa9c",
+          "reviewNote": "Authorizes grandparent visitation petitions after sixty days unreasonable denial where dissolution filed, parent deceased, or child resided."
+        },
+        {
+          "number": 2,
+          "title": "Best interests determination and reasonable conditions",
+          "bodySha256": "04897ebaa97d80ca45d9854971e779e9d877eefd23809d2e26a222bb4af8128d",
+          "reviewNote": "Requires finding that grandparent visitation serves child's best interests and authorizes reasonable conditions or restrictions."
+        },
+        {
+          "number": 3,
+          "title": "Appointment and fees of guardian ad litem",
+          "bodySha256": "6c414d46056b9e6cc85236ed85e2da07dee6313a4c486320c11b66e41280f054",
+          "reviewNote": "Authorizes appointment of licensed attorney guardian ad litem for child and entry of fee judgment."
+        },
+        {
+          "number": 4,
+          "title": "Home study to assist in best interests",
+          "bodySha256": "a3dda94f506b6cb66103f512923bf1563d2dfa2879e3dcd38c3b6f15e5741dd7",
+          "reviewNote": "Authorizes court to order home study under section 452.390 to assist in best interests determination."
+        },
+        {
+          "number": 5,
+          "title": "Judicial consultation with child regarding wishes",
+          "bodySha256": "a713b8240f70cd2e6942bb18625b54fb63e60e0eb80c88636610ee42ad49143d",
+          "reviewNote": "Authorizes court in its discretion to consult child regarding child's wishes in determining best interests."
+        },
+        {
+          "number": 6,
+          "title": "Termination of grandparent visitation upon adoption",
+          "bodySha256": "273aa7ea479a919a1b77c732d03d2fe9940c8e0814d52b94e7df5c246306ff90",
+          "reviewNote": "Provides that grandparent visitation rights maintained under this section may terminate upon adoption of child."
+        },
+        {
+          "number": 7,
+          "title": "Award of attorney fees to prevailing party",
+          "bodySha256": "cc3c262c26e3e20a4b708a3045642879361953bfc4e65532e79633fb7e56be76",
+          "reviewNote": "Authorizes court to award reasonable attorney fees and expenses to the prevailing party in grandparent visitation actions."
+        }
+      ],
+      "reviewSummary": "Source-checked 7 subsection headings for 452.402 governing grandparent visitation eligibility, best interest standards, and procedure."
+    },
+    {
+      "id": "452.403:25041",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.403&bid=25041",
+      "sourceSha256": "2f29d9e3b9be1d253872f27d5d1517ff87074ca5ddbd3fa0632b5f9285c3f18a",
+      "textSha256": "c54bf54db7adc42ac7115d81708f19779cb9752094e058b558d7b68b197470a8",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Informal request for grandparent visitation mediation",
+          "bodySha256": "1b4454355e4124c6fd3e996a5df3dd745db93d998dad855f8cc197eeae4b8b44",
+          "reviewNote": "Authorizes the associate circuit division upon a grandparent's written request to order mediation and appoint a mediator without civil procedure formalities or attorney filing."
+        },
+        {
+          "number": 2,
+          "title": "Definition and purpose of neutral mediation process",
+          "bodySha256": "db6c5ed04757ad0902755f04dd5c93b135e2aa3edda39e07147034271df7fed9",
+          "reviewNote": "Defines mediation as consensual dispute resolution assisting parties in reaching voluntary agreements on care and visitation."
+        },
+        {
+          "number": 3,
+          "title": "Termination of mediation after three sessions",
+          "bodySha256": "fef0b8e57a5512dbd14a4e9eab4a154a3129d43402d8769b8bea9d85f72584ec",
+          "reviewNote": "Permits either party to terminate ordered mediation at any time following completion of third session."
+        },
+        {
+          "number": 4,
+          "title": "Payment of mediation costs by requesting grandparent",
+          "bodySha256": "e128b96cd347dedc2d154922bed102544eb0cb4667ee910961d034707548b7c9",
+          "reviewNote": "Requires grandparent requesting mediation order to pay all costs of the mediation process."
+        },
+        {
+          "number": 5,
+          "title": "County venue where child resides",
+          "bodySha256": "c67d78e0fe5ade8ddbb7583222229902e6d00603cb1ceda33280462b477fc731",
+          "reviewNote": "Establishes venue for grandparent visitation mediation in the county where the child resides."
+        }
+      ],
+      "reviewSummary": "Source-checked 5 subsection headings for 452.403 governing informal requests, standards, costs, and venue for grandparent visitation mediation."
+    },
+    {
+      "id": "452.405:25043",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.405&bid=25043",
+      "sourceSha256": "e8c54852c2852b89621ba9737a5af20dba6ca0d46a345d426e7aaa9d05acdbf1",
+      "textSha256": "9965924e937a850ff2634d88f93cfe62833f8c84590812466acb496cc0d67145",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Legal custodian authority over child upbringing",
+          "bodySha256": "fb646ca9d8ad3c2470710f637ae75c623318d008f24b2ca79c859ad52bc94232",
+          "reviewNote": "Authorizes legal custodian to determine child upbringing including education and medical care, absent court limitation."
+        },
+        {
+          "number": 2,
+          "title": "Detrimental impact on parental visitation prohibited",
+          "bodySha256": "ca20d09ed1fb2b7dc6f7fbfc273e54e49502ca1321123cc7b88212091f1e4329",
+          "reviewNote": "Prohibits legal custodian from exercising authority in a manner significantly and detrimentally impacting other parent's rights."
+        },
+        {
+          "number": 3,
+          "title": "Continuing welfare or juvenile supervision order",
+          "bodySha256": "fe12350d1affb8650921fb9bb47f30fe684dac2883d93b4751bcc5c585627e40",
+          "reviewNote": "Authorizes court to order county welfare office or juvenile officer to exercise continuing supervision over case."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.405 governing custodian authority over child upbringing, limitations, and supervision."
+    },
+    {
+      "id": "452.410:49918",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.410&bid=49918",
+      "sourceSha256": "b6b2616e269bbc6eabe8e3be85317b6601ed9f86ab4e299b1e1d5a06cb9407a9",
+      "textSha256": "43d68e7dabc57cf30a5bc18adf6d3548b1342732858a778f45f71b59fe87d02f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Standard and jurisdiction for modifying custody decree",
+          "bodySha256": "9ceab9772e53477ff4485790012e0885f41a471f93ff61538d1169856042c423",
+          "reviewNote": "Restricts custody modification to cases with jurisdiction under section 452.745 and new facts showing changed circumstances."
+        },
+        {
+          "number": 2,
+          "title": "Right to change of judge on modification",
+          "bodySha256": "e1a6a723cccec49af02ed7efb1063aa1420f124212d41ee815c2096ccc92210d",
+          "reviewNote": "Entitles each party to a change of judge under supreme court rules upon filing a joint custody modification motion."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.410 governing changed circumstances standard and change of judge in custody modifications."
+    },
+    {
+      "id": "452.412:25046",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.412&bid=25046",
+      "sourceSha256": "0631956d2d8f262354e8c97d5cd0fd10b17df8822de85e597019103dfa8914cb",
+      "textSha256": "f1e21afd5facbc82f33134562a7e4ebefb43ff04538ae5af0ade4ada7546fa71",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Military activation not justifying custody modification",
+          "bodySha256": "edd65736688f1e480b186caf046c7605acdc03121627a2cfc3be4fa454d00ad0",
+          "reviewNote": "Provides that absence, relocation, or noncompliance due to military activation and deployment does not alone justify modification."
+        },
+        {
+          "number": 2,
+          "title": "Temporary orders and hearing rights after deployment",
+          "bodySha256": "efc4f1b04dc14dac9df69791246b0e13cb519b5d41fa7d92654d75859ed778b2",
+          "reviewNote": "Limits orders issued during deployment to temporary duration and preserves post-deployment hearing rights absent written waiver."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.412 governing military deployment protections against custody modification and order durations."
+    },
+    {
+      "id": "452.413:25047",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.413&bid=25047",
+      "sourceSha256": "5f01a24cb55b32309d24408d64fcec617a718dd58d396eb40601a7cc31127feb",
+      "textSha256": "2e61f93c7c3deec6c4263556023fe7fc6e97fffcbab5664119f7b48660e9e449",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Definitions of deploying parent, deployment, and parties",
+          "bodySha256": "e30a43ac396dfec7f89e2c60aff722caf3ccbf0f3aa9886b18c1a73e631fd8eb",
+          "reviewNote": "Defines deploying parent, deployment, military parent, and nondeploying parent for deployed parents custody provisions."
+        },
+        {
+          "number": 2,
+          "title": "Ninety-day post-deployment restriction on final modification",
+          "bodySha256": "5bb941f6e79e283fe48c4008f3325c4e1ef2fd8c76b33ca0e9871e50fcc9f07a",
+          "reviewNote": "Prohibits entering final custody modification orders until ninety days after deployment ends, absent written agreement."
+        },
+        {
+          "number": 3,
+          "title": "Deployment not sole factor for permanent modification",
+          "bodySha256": "105c1d607dcaa7a4d45aaf6a157db87f5b841e839d659e265f0801a8c775960b",
+          "reviewNote": "Provides that deployment or potential deployment shall not be the sole factor supporting permanent custody modification."
+        },
+        {
+          "number": 4,
+          "title": "Temporary modification order provisions during deployment",
+          "bodySha256": "fa1291b20ceeea76ecc5d4684a246d69c1b9c6a6ba269f83814e630cc7281e48",
+          "reviewNote": "Authorizes temporary modifications during deployment, leave visitation, contact updates, and expedited hearings."
+        },
+        {
+          "number": 5,
+          "title": "Automatic termination and reinstatement after deployment",
+          "bodySha256": "340dbe6801d0303059c157d5772014b92ddc0f703931f3443fd7da475248ddae",
+          "reviewNote": "Terminates temporary modification within thirty days after return, reinstates original order, and sets emergency hearing rules."
+        },
+        {
+          "number": 6,
+          "title": "Delegation of visitation rights to family member",
+          "bodySha256": "21f96aa4e54aebeda337805f5e4b9a7bb4fef12ec74a60e15d14d93f382706b5",
+          "reviewNote": "Authorizes the court on motion to delegate a deploying parent's visitation rights to a family member with a close and substantial relationship during deployment, with a rebuttable domestic violence bar and enforcement standing."
+        },
+        {
+          "number": 7,
+          "title": "Electronic and affidavit testimony by deploying parent",
+          "bodySha256": "5cb3af4e68ebea5a203587266d214f93ce5f660bb24deb05a032cfedf5c1a64f",
+          "reviewNote": "Requires the court, on motion with reasonable advance notice and good cause, to permit a deploying parent to present testimony and evidence by affidavit or electronic means when military duties materially affect in-person appearance."
+        },
+        {
+          "number": 8,
+          "title": "Nondeploying parent cooperation duties during deployment",
+          "bodySha256": "db196cdadd78ab1098f9a83e845ce97080d4723542477b6479271c5203ff6d12",
+          "reviewNote": "Requires nondeploying parent to facilitate leave contact, electronic communication, and receive leave schedules."
+        },
+        {
+          "number": 9,
+          "title": "Expedited hearing when deployment is imminent",
+          "bodySha256": "1f3766ca21375e4933403381adc5da600ff64b0ba2011109a0b9af5731abdb40",
+          "reviewNote": "Requires expedited hearing to establish temporary custody or visitation when no order exists and deployment is imminent."
+        },
+        {
+          "number": 10,
+          "title": "Mutual cooperation and deployment order notification",
+          "bodySha256": "e6a2a9ddac2c09d7dc1a33e67969dda3f2e5a6e80ee438ce720d151ec009f4d1",
+          "reviewNote": "Requires mutual cooperation on custody and support and prompt delivery of deployment orders within ten days."
+        },
+        {
+          "number": 11,
+          "title": "Appointment of guardian ad litem upon stay denial",
+          "bodySha256": "ce635fde9826451d355344dc647fefcb8ab9c9eb9741e4eaeb1c235ef699fa9b",
+          "reviewNote": "Requires appointment of guardian ad litem for child when court declines SCRA stay and proceeds without deployed parent."
+        },
+        {
+          "number": 12,
+          "title": "Service on nondeploying parent whose whereabouts unknown",
+          "bodySha256": "4da5249ae630f265d673ef44d34d8419080b967e62f4089c6bc73583c125fcab",
+          "reviewNote": "Authorizes service on nondeploying parents whose whereabouts are unknown pursuant to section 506.160."
+        },
+        {
+          "number": 13,
+          "title": "Military duty effect excluded from visitation nonexercise",
+          "bodySha256": "c6335cb9b74a92508594a0c0528d31fe050c13842d61a3817f81f0e789d211e3",
+          "reviewNote": "Prohibits counting time missed due to military duties against parent in determining failure to exercise visitation."
+        },
+        {
+          "number": 14,
+          "title": "Temporary absence denomination under child custody act",
+          "bodySha256": "4c0ffc76f289dae6c6e03dc6025d3d984015bc0d8ca28357fee60aadd6b32078",
+          "reviewNote": "Denominates child absence during deployment as temporary and preserves exclusive jurisdiction under UCCJEA."
+        },
+        {
+          "number": 15,
+          "title": "Attorney fee awards for deployment cooperation failures",
+          "bodySha256": "0f5c05cd1f729f3fa44927534afd5ec2e5e1dfec1dd63c1247358de65f8960f9",
+          "reviewNote": "Authorizes attorney fees and costs based on failure to accommodate, delay, or failure to provide orders and information."
+        }
+      ],
+      "reviewSummary": "Source-checked 15 subsection headings for 452.413 governing military deployment custody procedures, temporary orders, delegations, and electronic testimony; source note documents split effective dates (8-28-13 and 10-11-13 following S.B. 110 veto override)."
+    },
+    {
+      "id": "452.415:25048",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.415&bid=25048",
+      "sourceSha256": "8c44418f6bb6794a239b3ba0047df6eea06264b40d72912263b823973996e7b9",
+      "textSha256": "798d53ec32b1c725ed5876374fce30ebc8bf6ed8d8ec12fed191798bb2662a0d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Application to proceedings on or after January 1, 1974",
+          "bodySha256": "6d393b3eb8d26eea3707d5ab18a37c4b5da9fee3902047b8f7a658d8a30a0d25",
+          "reviewNote": "Applies sections 452.300 to 452.415 to all proceedings commenced on or after January 1, 1974."
+        },
+        {
+          "number": 2,
+          "title": "Application to pending actions without prior judgment",
+          "bodySha256": "04e901cc95d36e34eaeef5276b311d2c23fe041aeda7d8cee8d069739ea82311",
+          "reviewNote": "Applies provisions to pending actions commenced prior to 1974 without judgment, deeming them based on breakdown."
+        },
+        {
+          "number": 3,
+          "title": "Application to modification of pre-1974 judgments",
+          "bodySha256": "c96d2e6ae6ac4f6566e3f464ee48867786800d1d88b72f3ed0d7fb7ef6b773b7",
+          "reviewNote": "Applies sections 452.300 to 452.415 to all proceedings commenced after January 1, 1974, for modification of a judgment or order entered prior to January 1, 1974."
+        },
+        {
+          "number": 4,
+          "title": "Governing law for pending appeals and new trials",
+          "bodySha256": "5ae64b5d8a03cf44c1bf391f8478a848128b8b8b7e69256b4c291539e96d902c",
+          "reviewNote": "Preserves prior law in effect at time of order for appeals or new trials ordered prior to January 1, 1974."
+        }
+      ],
+      "reviewSummary": "Source-checked 4 subsection headings for 452.415 governing effective dates and transitional rules for dissolution statutes."
+    },
+    {
+      "id": "452.416:25049",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.416&bid=25049",
+      "sourceSha256": "e80281aac1222a5ad4a50bb8be1f503258ab00f5955b1f364597f6ba45f5a7f0",
+      "textSha256": "31b47827a324cd81133a74c3ad3ae6614764199fca40c3f788afab2cf037601d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Military service income change as changed circumstances",
+          "bodySha256": "9aec5ed1e3a9970cade9734e57cb40b6cea99752d12666d18aa4036c5edfacce",
+          "reviewNote": "Deems a parent's change in income due to emergency military service to be a substantial and continuing change in circumstances for modifying child support or visitation orders."
+        },
+        {
+          "number": 2,
+          "title": "Director action upon commanding officer notification letter",
+          "bodySha256": "45298056a7e07e145b58656e2bca4c6e54de1ba7ea33c016b688b2285fddcc0d",
+          "reviewNote": "Directs family support division to seek support modification upon receiving commanding officer notarized letter."
+        },
+        {
+          "number": 3,
+          "title": "Director notification and modification action upon return",
+          "bodySha256": "7bbf04baa89f019f026445b937f47e5ec7401f9bb4753b88aa0c58271a865cc8",
+          "reviewNote": "Requires parent to notify division director upon return from emergency military service to seek support modification."
+        },
+        {
+          "number": 4,
+          "title": "Definition of emergency military service",
+          "bodySha256": "4672450923edcea9c8556dc512e0fd9cd8765b5a5a11f9f6873cb04ffce509d4",
+          "reviewNote": "Defines emergency military service as active duty call-up of reserve or National Guard members exceeding thirty days."
+        }
+      ],
+      "reviewSummary": "Source-checked 4 subsection headings for 452.416 governing child support modifications for parents entering emergency military service."
+    },
+    {
+      "id": "452.423:25051",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.423&bid=25051",
+      "sourceSha256": "4ab0cdf577a61ccaac10b4cdf19134aee95de24cf863f51b7be93ffb662104ef",
+      "textSha256": "8ff10f7130a984f4b1220507736efddabde10ea07b6083137b3180aac67c779d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Discretionary appointment and disqualification of guardian",
+          "bodySha256": "bf7fa56b6f1cfe15ee847d487169137e84630e56888cea9043dd70cd32b345f4",
+          "reviewNote": "Authorizes discretionary appointment of guardian ad litem in contested custody proceedings and provides disqualification rules."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory appointment upon child abuse or neglect allegations",
+          "bodySha256": "ee39d11619f3fec75049ab9c7a5f7509826ecb8ca7b600cd31732d115ff1e31c",
+          "reviewNote": "Requires court to appoint guardian ad litem in any proceeding where child abuse or neglect is alleged."
+        },
+        {
+          "number": 3,
+          "title": "Statutory duties and child advocacy responsibilities",
+          "bodySha256": "1b13950a6210ffe99035f5753ff4a704f3174c9b4ead1c25837421df168b95f0",
+          "reviewNote": "Sets forth guardian ad litem duties including hearing representation, witness examination, interviews, and juvenile petitions."
+        },
+        {
+          "number": 4,
+          "title": "Discharge for failure of duty and appointment preferences",
+          "bodySha256": "c99a337c852215891b80529fe362f0ba1cb07035610a1760088a601f751c3212",
+          "reviewNote": "Requires judge to enforce faithful discharge of duties and give preference to prior guardians ad litem for the child."
+        },
+        {
+          "number": 5,
+          "title": "Award of reasonable guardian fees and enforcement",
+          "bodySha256": "d03a40a7af1651583784e2381347ab21b0ec4c42dc7a19f2fd77df2ce9e7bcd6",
+          "reviewNote": "Authorizes court to award reasonable guardian fees, issue direct payment orders, or enter enforceable fee judgments."
+        }
+      ],
+      "reviewSummary": "Source-checked 5 subsection headings for 452.423 governing guardian ad litem appointments, duties, qualifications, and fee awards."
+    },
+    {
+      "id": "452.556:33226",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.556&bid=33226",
+      "sourceSha256": "b4d493b824f4ec6cf0ecd371415f1ad90f7249786703d9a886fefbd4215448da",
+      "textSha256": "03f1e3129fc96835222c48c8ac2aaaab893b04cbc03208c45a6bf276d60663f7",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "State courts administrator handbook creation and formats",
+          "bodySha256": "ee0d078836660055fc7d6a4bb2613de024baa65dceb15941661bcbea94e9855f",
+          "reviewNote": "Directs state courts administrator to create or approve a handbook on parenting plans, dispute resolution, and family access."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory handbook distribution to dissolution parties",
+          "bodySha256": "0ed08ec3d7d2d2586fdd9a377ec56c35296b1eb165ffcbd55e92f8940ec4b3e3",
+          "reviewNote": "Requires petitioner counsel or court to provide handbook copy to petitioner and serve copy on respondent with summons."
+        },
+        {
+          "number": 3,
+          "title": "Public and state agency handbook availability",
+          "bodySha256": "b7a78fbd1109ffedd1a267844e6539da977d8b03dbcb727ae371b71f89716dd4",
+          "reviewNote": "Directs court to make the handbook available to interested state agencies and members of the public."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.556 governing creation and distribution of parenting plan and family access handbooks."
+    },
+    {
+      "id": "452.715:25088",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.715&bid=25088",
+      "sourceSha256": "31f10d01aadbdf61c9b3dd8e12eb30cd75130c87b590f7a8071b009da2de4856",
+      "textSha256": "3c03c6aace0568a9844073cdd1aff22e1f319eed069e6cbf23698e09e1386ceb",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Exemption of proceedings governed by federal Indian act",
+          "bodySha256": "cb36817e931e09fbe226ca279b67598f3270e3e7c9b93e270691fb5227f0f714",
+          "reviewNote": "Exempts child custody proceedings pertaining to Indian children from UCCJEA to the extent governed by ICWA."
+        },
+        {
+          "number": 2,
+          "title": "Treatment of Indian tribe as state",
+          "bodySha256": "f1ab57753cedca5c90a791107c3634d7fab11643f5ca63e69dbf9c1b8961a75a",
+          "reviewNote": "Requires Missouri courts to treat an Indian tribe as a state for purposes of sections 452.700 to 452.930."
+        },
+        {
+          "number": 3,
+          "title": "Recognition and enforcement of tribal custody determinations",
+          "bodySha256": "686287b55bbb0122451edc1c99b9622437696ff0029c0c0129bea5fc5d7603cf",
+          "reviewNote": "Requires recognition and enforcement of tribal child custody determinations made in substantial conformity with jurisdictional standards."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.715 governing application of child custody jurisdiction provisions to Indian tribes."
+    },
+    {
+      "id": "452.720:25089",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.720&bid=25089",
+      "sourceSha256": "2431005d1dbee93639f072b29455ee0042630b6d34c21b249390cdb3d83e2788",
+      "textSha256": "f780881ce5d6936c8d6da3ad51748543de22ffb260b8983bf450bb35271192ae",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Treatment of foreign country as state",
+          "bodySha256": "7518a3c936620d17b323db7999795a7905be32612ee40b245804f8755b8ca8c5",
+          "reviewNote": "Directs Missouri courts to treat a foreign country as a state for purposes of applying jurisdictional provisions."
+        },
+        {
+          "number": 2,
+          "title": "Recognition and enforcement of foreign custody determinations",
+          "bodySha256": "a7625a3762189296994c82051e78a7424cdc27d3fa050a8d7c17f193a65de070",
+          "reviewNote": "Requires recognition and enforcement of foreign custody determinations made in substantial conformity with statutory standards."
+        },
+        {
+          "number": 3,
+          "title": "Human rights violation exception to foreign enforcement",
+          "bodySha256": "d191325e315fbf505db44e6ece96fbf62a113c13b7b1a4fc65bd270823e6cb27",
+          "reviewNote": "Relieves court of duty to apply provisions when foreign child custody law violates fundamental human rights principles."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.720 governing foreign country custody determinations and human rights exceptions."
+    },
+    {
+      "id": "452.725:25090",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.725&bid=25090",
+      "sourceSha256": "3949bc14cddccc283b919a78ac18353760ed56009b9c0692c0ee4ba1cfb8a8e2",
+      "textSha256": "796624d2b3073d9cb0d002519a19a9584c293dd435dc702b204f9c430caf7adb",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Limited appearance in custody proceeding without jurisdiction",
+          "bodySha256": "a9370f47def9c3e8d43a92f05f07d84751ff756fa2ab561d654fdd50efc0f5eb",
+          "reviewNote": "Authorizes out-of-state parties to participate in child custody proceedings without submitting to general personal jurisdiction."
+        },
+        {
+          "number": 2,
+          "title": "Physical presence immunity and out-of-state service",
+          "bodySha256": "391328321f53da1ce05cadbc53e718892f35c83cf051fa26d6692e266d330341",
+          "reviewNote": "Provides that physical presence to participate in custody proceedings does not subject party to personal jurisdiction for other purposes."
+        },
+        {
+          "number": 3,
+          "title": "Exception to immunity for unrelated in-state civil acts",
+          "bodySha256": "777df1d1d0fb8f087de654f3f8800cccd748fb9538d3ff3f0dd76bbadbbea83d",
+          "reviewNote": "Clarifies that jurisdictional immunity under this section does not extend to civil litigation based on acts unrelated to participation in UCCJEA proceedings committed while present in this state."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.725 governing limited appearances and personal jurisdiction immunities under UCCJEA."
+    },
+    {
+      "id": "452.730:25091",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.730&bid=25091",
+      "sourceSha256": "43d2245208c5a8de809f70811722c493e9c9bc7d1ca49f8ae83a12a4d8972981",
+      "textSha256": "2b31408395913868f699a674aaea517bfce4f8b5346fe1b183d3a778ca211dc1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority for inter-court communication concerning proceedings",
+          "bodySha256": "d3b440cfb262fac42e122ff137a489514516302bf774e56feb68ca9846b2a7a3",
+          "reviewNote": "Authorizes Missouri courts to communicate with courts in other states concerning child custody proceedings."
+        },
+        {
+          "number": 2,
+          "title": "Party participation in inter-court communications",
+          "bodySha256": "bcffabe2ff43b4bc51e0a763f3cfaf88416a2e4b552dc60f23e050f4ae6069cd",
+          "reviewNote": "Authorizes party participation in court communications or opportunity to present arguments before jurisdictional decisions."
+        },
+        {
+          "number": 3,
+          "title": "Administrative communications without party notice or record",
+          "bodySha256": "43ff189356c04b9d6475dea512a9256188a5b5201e9a9d3acd0c28b07cd3b97f",
+          "reviewNote": "Allows communication between courts on administrative and scheduling matters without informing parties or making records."
+        },
+        {
+          "number": 4,
+          "title": "Record requirement and party access for communications",
+          "bodySha256": "33c7c7fac0c2f610bcbba07ccd844d66e309b5a65d88c8fbb0fc9a309e946258",
+          "reviewNote": "Requires a record of substantive court communications and prompt notice and access for all parties."
+        },
+        {
+          "number": 5,
+          "title": "Definition and formats of court communication record",
+          "bodySha256": "444198652205a529d6a00f5c1f2f1b79e9cf83227f536cbc4ccd5279714cde62",
+          "reviewNote": "Defines record for court communications to include transcripts, recordings, and electronic memoranda."
+        }
+      ],
+      "reviewSummary": "Source-checked 5 subsection headings for 452.730 governing communication standards between courts under UCCJEA."
+    },
+    {
+      "id": "452.735:25092",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.735&bid=25092",
+      "sourceSha256": "d850b4207ce83cf4f3fdd5c29be9f6bbaf7d80378c0529004cb38f7f9bc8c151",
+      "textSha256": "32f342204e09b323955e8e85162327b25b1fd45c38325f5909e318a48fc9de1f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "In-state court request to out-of-state court",
+          "bodySha256": "8c8e8272058e7e770e56694180d8f19de298ac3ea5e40e5deda97691f5859cb7",
+          "reviewNote": "Authorizes Missouri courts to request out-of-state courts to hold hearings, order evidence, or conduct custody evaluations."
+        },
+        {
+          "number": 2,
+          "title": "In-state court action on out-of-state request",
+          "bodySha256": "7b00508ef1bed1366f4bbec5a64b000ff422dc99ed7304aae619b4e1d065fa33",
+          "reviewNote": "Authorizes Missouri courts to hold evidentiary hearings or enter evidence orders upon request from other states."
+        },
+        {
+          "number": 3,
+          "title": "Assessment of travel and proceeding expenses",
+          "bodySha256": "28f6844d1e47831f1887043fa337faf3a023a15fe7bad82ed036541e2e65c36f",
+          "reviewNote": "Authorizes assessment of necessary travel and other expenses incurred in interstate hearings against parties."
+        },
+        {
+          "number": 4,
+          "title": "Preservation and forwarding of custody proceeding records",
+          "bodySha256": "a39f6eedba64e574f32d36a752b38f397be3b52d850fdb365cc0635b4ddeee01",
+          "reviewNote": "Requires preserving custody records until child attains age eighteen and forwarding certified copies upon official request."
+        }
+      ],
+      "reviewSummary": "Source-checked 4 subsection headings for 452.735 governing interstate court requests for hearings, evidence, evaluations, and record preservation."
+    },
+    {
+      "id": "452.740:25093",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.740&bid=25093",
+      "sourceSha256": "dd5326e33f9d959569e62e59340107839ac05edabbd5488cc9f5d71e51842635",
+      "textSha256": "487b5d30123667ff41a815a2bf0710b7d0d8efdafaeabdb96a8f8b86ed5ba62b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Jurisdictional grounds for initial custody determination",
+          "bodySha256": "4088ef77844de21601b8dcf0672055b201ba1c92777e70b154404694237e5591",
+          "reviewNote": "Sets forth home state, significant connection, more appropriate forum, and vacuum grounds for initial custody jurisdiction."
+        },
+        {
+          "number": 2,
+          "title": "Exclusive jurisdictional basis for child custody determinations",
+          "bodySha256": "4e05aa393c86ecd2a6e4da3d75efeaa9a92aa381713e26c2c96d09a25889b670",
+          "reviewNote": "Establishes subsection 1 as the exclusive jurisdictional basis for courts of this state to make child custody determinations."
+        },
+        {
+          "number": 3,
+          "title": "Physical presence or personal jurisdiction insufficient",
+          "bodySha256": "e7de66e1cec6e3265f48545c0db473a396b4f11095b2242d2f476f716ddb0025",
+          "reviewNote": "Provides that physical presence of or personal jurisdiction over a party or child is neither necessary nor sufficient."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.740 governing exclusive jurisdictional grounds for initial child custody determinations."
+    },
+    {
+      "id": "452.745:25094",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.745&bid=25094",
+      "sourceSha256": "df5fed4dabf02a5519b50e398374b47ed2994080d440909dd3090c29b4c0e78a",
+      "textSha256": "32b3b12b7e749d29dbbe8690390b908b2d4a528555f36071d66e30bb31e59197",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Duration of exclusive continuing child custody jurisdiction",
+          "bodySha256": "e9f2e102b64c7e671437c99c59e9b9d2dd3ee7427be3c4fdf4374cc71b1ae9dc",
+          "reviewNote": "Maintains exclusive continuing jurisdiction until significant connection ceases or all parties and child reside elsewhere."
+        },
+        {
+          "number": 2,
+          "title": "Declining exclusive continuing jurisdiction for inconvenient forum",
+          "bodySha256": "259fc3d375aa72a339562f7cf8655bad5a369a502d422d3e83181c66abe04bee",
+          "reviewNote": "Authorizes court with exclusive continuing jurisdiction to decline jurisdiction if it determines it is an inconvenient forum."
+        },
+        {
+          "number": 3,
+          "title": "Prerequisites for modifying prior custody determination",
+          "bodySha256": "63c6258c60241ef2d65c8d30a89a01ee394c2e558c637a2b56a89bb0e9b4918a",
+          "reviewNote": "Restricts court lacking exclusive continuing jurisdiction from modifying determination unless it has initial jurisdiction."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.745 governing exclusive continuing jurisdiction standards and modification prerequisites."
+    },
+    {
+      "id": "452.747:25095",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.747&bid=25095",
+      "sourceSha256": "14f804129656d902e901dbc85142106d12482249302e4bae390a81ea0a7f47d5",
+      "textSha256": "31b853992f059cc2cd9fe6d6fa104b4a3e451e076aef1e1e155142e9a2880cb9",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Verification and filing venue for modification petition",
+          "bodySha256": "edd1edf77b5abf0e9ed91847b21dbbffe4f999f30efd380c02250d284af9c58d",
+          "reviewNote": "Requires custody modification petitions to be verified and filed in original Missouri cases with standard service."
+        },
+        {
+          "number": 2,
+          "title": "Service and responsive pleading timelines before decree",
+          "bodySha256": "33e90535fac45516d71b6a746c5ecf629edc3e3a9fee270c8c52edf40aa6e0e9",
+          "reviewNote": "Requires service on litigants, non-terminated parents, and physical custodians before entering a decree, with thirty days to file a verified answer (forty-five days if served by publication)."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.747 governing filing requirements, service, and responsive pleadings for custody modifications."
+    },
+    {
+      "id": "452.755:25097",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.755&bid=25097",
+      "sourceSha256": "aaf2e4ac5b2d61ee0dd2795787af3fd8d34216fc8aa21f72bbe8cc7b6d9fb907",
+      "textSha256": "cae0ece17326f3b8455f2758432719523e3b37e489baa536f8264bbfe2433e5d",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Grounds for temporary emergency child custody jurisdiction",
+          "bodySha256": "0b9fd155849eabca63f2dd142b251c71162d1dfa33750e65a54170a6375705cb",
+          "reviewNote": "Authorizes temporary emergency jurisdiction when child is present in state and abandoned or threatened with mistreatment or abuse."
+        },
+        {
+          "number": 2,
+          "title": "Duration and finality when no previous order",
+          "bodySha256": "05118cdbfa42fc25151443b41a6f8921c383a380ed2c4319ad9e421bfe55e400",
+          "reviewNote": "Specifies duration of emergency determination and conditions under which it becomes a final determination absent other proceedings."
+        },
+        {
+          "number": 3,
+          "title": "Duration and transition period when previous order exists",
+          "bodySha256": "7035b1bc0deb5ee0b2aee76814c34cfe6143f174743806e7ab0b117a5ac201cd",
+          "reviewNote": "Requires emergency order to specify duration adequate to obtain an order from state having jurisdiction when prior order exists."
+        },
+        {
+          "number": 4,
+          "title": "Mandatory inter-court communication during emergency proceedings",
+          "bodySha256": "035e6759f126d4bf07a7ebbdef783e156ffb22f9311f6ddf978c04d611f69441",
+          "reviewNote": "Requires immediate inter-court communication between states upon learning of simultaneous proceedings to resolve emergencies."
+        }
+      ],
+      "reviewSummary": "Source-checked 4 subsection headings for 452.755 governing temporary emergency jurisdiction grounds, durations, and inter-court communications."
+    },
+    {
+      "id": "452.760:25098",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.760&bid=25098",
+      "sourceSha256": "0adaa1994ff616c120492d51d415a0d8571ee2cc298a230dd485320abc329956",
+      "textSha256": "0ef99a38f8b594d6a2b090c8166f5a39c0e4d0039effa46fe0591e7378178fdd",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Notice and hearing requirements before custody determinations",
+          "bodySha256": "de2062e5b6d3ba2e3be7445009872eb19e12e91e25636ef4a1e8184dfeead846",
+          "reviewNote": "Requires notice and opportunity to be heard for state residents, non-terminated parents, and physical custodians."
+        },
+        {
+          "number": 2,
+          "title": "Unenforceability of determinations made without notice",
+          "bodySha256": "296d84fbeb6af4e209a5caa943fb1eeb84b7dd24ae5bbb29626cb348205c5a82",
+          "reviewNote": "Clarifies that statutory provisions do not govern enforceability of custody determinations made without notice and hearing."
+        },
+        {
+          "number": 3,
+          "title": "Joinder and intervention governed by state law",
+          "bodySha256": "8ecf455d51e1d3d64c2cbab27190673d3ce137ffa684859aee73c64c6308e7aa",
+          "reviewNote": "Provides that joinder and intervention in custody proceedings are governed by Missouri law as between residents."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.760 governing notice, opportunity to be heard, and party joinder in custody proceedings."
+    },
+    {
+      "id": "452.762:25099",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.762&bid=25099",
+      "sourceSha256": "6cb5398c392db1e2710a7b6422be47e08b17a453f8e44bd01bfd0ee49052f0eb",
+      "textSha256": "92c381cbc735158b00642ee78faf8bd8ff6a57baa5671c27f3990a3d09d439f2",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Methods of service for out-of-state individuals",
+          "bodySha256": "9b9122850660e902141c82bdf92ffc0fb7cb8f5238e1b4ed9f90c04e190a6fe4",
+          "reviewNote": "Authorizes service of process on out-of-state individuals pursuant to Missouri law, foreign state law, or publication."
+        },
+        {
+          "number": 2,
+          "title": "Proof of service under state or local law",
+          "bodySha256": "652335cdb2c6a62f2a4a9aab90f2c63ae57abfd5e3689c2a821287f1e867cae4",
+          "reviewNote": "Allows proof of out-of-state service to be made under Missouri law or the law of the state where service was made."
+        },
+        {
+          "number": 3,
+          "title": "Notice not required upon submission to jurisdiction",
+          "bodySha256": "1ad25328c9a19454464ca20aa104a8e9cd9f978afa3495a003d6d6a3c85c8db3",
+          "reviewNote": "Dispenses with service notice requirements for persons who voluntarily submit to court jurisdiction."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.762 governing service methods, proof of service, and submission to jurisdiction."
+    },
+    {
+      "id": "452.765:25100",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.765&bid=25100",
+      "sourceSha256": "fdf9eb30ec89634c6f6eb8a83cb31ea9826cce81a3de030b0bccc490ddc8a434",
+      "textSha256": "bca7eccab660b51da8075fb8b5837262ae6533e85ccfbe3117602564d3944a23",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Jurisdictional bar during previously commenced proceeding",
+          "bodySha256": "b31843660fdb78952f80446e717f7e5a213990f48d7061557a8d79be9ccbf323",
+          "reviewNote": "Prohibits exercising jurisdiction if another state previously commenced a child custody proceeding in substantial conformity."
+        },
+        {
+          "number": 2,
+          "title": "Document examination, proceeding stay, and inter-court communication",
+          "bodySha256": "3dc0e6cae1961cc30ce52050f6f8d15abe53f36167c1789dd9c79b37fc7ace5e",
+          "reviewNote": "Requires pre-hearing examination of documents, stay of proceedings, and inter-court communication regarding prior actions."
+        },
+        {
+          "number": 3,
+          "title": "Stay or injunctive relief during modification proceeding",
+          "bodySha256": "9b0c58e60aa61e6d798e9149c0b360dcf15f36e901b32e7f61043c084e00c288",
+          "reviewNote": "Authorizes staying modification or enjoining enforcement proceedings if out-of-state enforcement action is pending."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.765 governing simultaneous proceedings, pre-hearing examination, and enforcement stays."
+    },
+    {
+      "id": "452.770:25101",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.770&bid=25101",
+      "sourceSha256": "180b8849fee594c102f9926a9c38569904d98733b6e4d9cc7553a84fe0a224cc",
+      "textSha256": "e58726e46d6620765172d33c01093c85f82a43175f33baf5adcd6dbe5f6f255c",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Authority and motions to decline inconvenient forum",
+          "bodySha256": "67068e46345fdaddad660e3cdca8a8f0fa368470469414dac7f4b6b26ad66b24",
+          "reviewNote": "Authorizes court to decline jurisdiction at any time on court or party motion upon finding itself an inconvenient forum."
+        },
+        {
+          "number": 2,
+          "title": "Relevant statutory factors for inconvenient forum determination",
+          "bodySha256": "f0b59d749704609d6c294c0069dffcadc87a18e0ef532b1d3c458b8ea8c7c06f",
+          "reviewNote": "Sets forth factors court must consider before declining jurisdiction, including domestic violence, distance, and familiarity."
+        },
+        {
+          "number": 3,
+          "title": "Stay of proceedings on condition of commencement elsewhere",
+          "bodySha256": "376682c6458cb6c019cb084115a3acb0db6f50889399b65e46b579a9fc6b8bcc",
+          "reviewNote": "Directs court declining jurisdiction to stay proceedings conditioned on prompt commencement in designated state."
+        },
+        {
+          "number": 4,
+          "title": "Declining custody while retaining jurisdiction over divorce",
+          "bodySha256": "cab0b91c92e97dda9d8a7cea4ae9d625107614072090a6a5762df20d9e102572",
+          "reviewNote": "Authorizes court to decline child custody jurisdiction while retaining jurisdiction over divorce or incidental proceedings."
+        }
+      ],
+      "reviewSummary": "Source-checked 4 subsection headings for 452.770 governing inconvenient forum declinations, factor evaluations, and conditional stays."
+    },
+    {
+      "id": "452.775:25102",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.775&bid=25102",
+      "sourceSha256": "fbbfea946bf3d5ec5dc8ba793549da9355f1eecf2ed62c7d7128b7f4c9777561",
+      "textSha256": "ef9a63fd1ae9d579d88083ea01b31fe07a1bc1ac6b309d8cd1346748e3881ad9",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Declining jurisdiction due to unjustifiable conduct",
+          "bodySha256": "4b3e3cc3e4959e6201cb5a95051b71d10cf8b9df2436eab08bbf9550770d8023",
+          "reviewNote": "Requires court to decline jurisdiction invoked by a person engaging in unjustifiable conduct, subject to narrow exceptions."
+        },
+        {
+          "number": 2,
+          "title": "Remedies and stays to protect child safety",
+          "bodySha256": "af6b81f69de9c1060b99d39e1beae8971edb7df24c11f19f8d9f9df8af04d0ca",
+          "reviewNote": "Authorizes court declining jurisdiction to fashion remedies or stay proceedings to ensure child safety and prevent repetition."
+        },
+        {
+          "number": 3,
+          "title": "Mandatory assessment of expenses against wrongdoer",
+          "bodySha256": "693944d303b672e2496b2045b78b2476112047be3a046c7aa060a10f7c626ca6",
+          "reviewNote": "Directs assessment of expenses, costs, attorney fees, and travel against party engaging in unjustifiable conduct."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.775 governing jurisdiction declination and fee assessments for unjustifiable conduct."
+    },
+    {
+      "id": "452.780:25103",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.780&bid=25103",
+      "sourceSha256": "47eab922d909321aac218113c9941846bad28affffb66e71eb6e6e0254d1ff39",
+      "textSha256": "8ba68595d3ae6db358dccde4527ef375f4a88ddd1c18745a26a14b29275d698a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory sworn information regarding child and proceedings",
+          "bodySha256": "8b77dbedc28e7204223d9027606fb8ef6baef029d3a35157b7df6c4d8c47a109",
+          "reviewNote": "Requires parties to provide sworn information in initial pleadings regarding child residences, prior custody cases, and custodians."
+        },
+        {
+          "number": 2,
+          "title": "Stay of proceeding until information furnished",
+          "bodySha256": "e7754e7740ef5ef759d9d0d3074659a86382a07f32746c8d3687555b1adfb885",
+          "reviewNote": "Authorizes court to stay child custody proceedings until required information is furnished by the party."
+        },
+        {
+          "number": 3,
+          "title": "Additional information under oath and party examination",
+          "bodySha256": "80683c9c1611c3972cd39b575944f2faa4ec348bac53e6dff3e7e1e70ff0c1f1",
+          "reviewNote": "Authorizes court to require additional information under oath and examine parties regarding jurisdiction details."
+        },
+        {
+          "number": 4,
+          "title": "Continuing duty to inform court of proceedings",
+          "bodySha256": "ab852b8dfc289a69848ffea3163a52f02eef2c6bad177fc35680429d2429855f",
+          "reviewNote": "Imposes continuing obligation on parties to inform court of other custody proceedings affecting current case."
+        },
+        {
+          "number": 5,
+          "title": "Sealing identifying information when safety at risk",
+          "bodySha256": "93fdede4f713192ebc2e01de785f10d9fb879d86cfe4fe7ced8051f410c601d4",
+          "reviewNote": "Requires sealing identifying information upon allegation of risk to party or child, discloseable only after hearing."
+        }
+      ],
+      "reviewSummary": "Source-checked 5 subsection headings for 452.780 governing information submitted under oath, stays, examination, and sealed records."
+    },
+    {
+      "id": "452.785:25105",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.785&bid=25105",
+      "sourceSha256": "06cebf23aba1e2bcd480cc9bbe5f8014ad04aff106b701f7c54c63ceb95f8ccb",
+      "textSha256": "ab33cd1711399d09d973a83d3addce253d84702588f0fc9f202b9adc333dd10a",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Order directing in-state party and child appearance",
+          "bodySha256": "81d216fb5a20ddac324ff7a217169bae5b2489d312b592b26d5d4371c05ce975",
+          "reviewNote": "Authorizes court to order any in-state party to appear personally and order custodian to appear with child."
+        },
+        {
+          "number": 2,
+          "title": "Notice directing appearance of out-of-state party",
+          "bodySha256": "569ead162908ec5f3e5bb57f25f6bee706eb337c14833b3517a565df2de00852",
+          "reviewNote": "Authorizes notice directing out-of-state party to appear personally before court with or without child."
+        },
+        {
+          "number": 3,
+          "title": "Payment of travel and appearance expenses",
+          "bodySha256": "10e1c9ebc3c17706a54802826bdba23936a593626f4836fa33559a7d544db22e",
+          "reviewNote": "Authorizes court to order another party to pay necessary travel expenses of appearing out-of-state party and child."
+        },
+        {
+          "number": 4,
+          "title": "Appointment and disqualification of guardian ad litem",
+          "bodySha256": "9c5361d1645df6d75bc61db268de07c8d8258ced13ca07155be58e22421719c9",
+          "reviewNote": "Authorizes appointment of attorney guardian ad litem in child's best interest and provides disqualification procedure."
+        },
+        {
+          "number": 5,
+          "title": "Mandatory guardian ad litem for abuse or neglect allegations",
+          "bodySha256": "58d3371030ed49956b94d44c5b583a10ed9fc267a3fb30a632b980ce270922ed",
+          "reviewNote": "Requires the court to appoint a guardian ad litem in any proceeding in which child abuse or neglect is alleged."
+        },
+        {
+          "number": 6,
+          "title": "Orders ensuring safety of child and appearing persons",
+          "bodySha256": "5ea62e0c849a4c18800546980a8ee39fbc1e3f73549dcf834b4ce83dca3cdd61",
+          "reviewNote": "Authorizes the court to enter any orders necessary to ensure the safety of the child and of any person ordered to appear under this section."
+        }
+      ],
+      "reviewSummary": "Source-checked 6 subsection headings for 452.785 governing party and child appearances, travel expenses, discretionary and mandatory guardian ad litem appointments, and safety orders."
+    },
+    {
+      "id": "452.805:25109",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.805&bid=25109",
+      "sourceSha256": "372890efdb2b6c9fccd36746220a17a574770ef7b829585647cb38b61c229346",
+      "textSha256": "94dd0dc38ca3f0e9c4dd171a2b9b62049de84ac234f0bb4af3cdbae5b4124f36",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Filing and effect of out-of-state custody decree",
+          "bodySha256": "33732b2ca1d60da5f5e749711674156784b02e59b36cb08f1114f2571a0f299b",
+          "reviewNote": "Authorizes filing certified copies of out-of-state custody decrees with circuit clerk with same effect as Missouri decrees."
+        },
+        {
+          "number": 2,
+          "title": "Assessment of enforcement expenses and attorney fees",
+          "bodySha256": "e72d1fbbe85e1b6ce64e3b55eb1421167d94ed13bde1ac0ef0cb00f25b25c78f",
+          "reviewNote": "Authorizes assessing necessary travel expenses and attorney fees against persons violating out-of-state custody decrees."
+        },
+        {
+          "number": 3,
+          "title": "Mandatory recognition of out-of-state custody determinations",
+          "bodySha256": "65164df5eb2aae2d0f5faccc69e35155108e88d2e5705e12f9576372abf85563",
+          "reviewNote": "Requires Missouri courts to recognize and enforce out-of-state child custody determinations meeting jurisdictional standards."
+        },
+        {
+          "number": 4,
+          "title": "Availability of state law enforcement remedies",
+          "bodySha256": "251e2401b6f74c0f3cf3dc4e7a4d180c90eda77b2a139c4b7ec6ee16fcf85893",
+          "reviewNote": "Preserves availability of any remedies under Missouri law to enforce child custody determinations of other states."
+        }
+      ],
+      "reviewSummary": "Source-checked 4 subsection headings for 452.805 governing filing, recognition, and enforcement of out-of-state custody decrees."
+    },
+    {
+      "id": "452.810:25110",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.810&bid=25110",
+      "sourceSha256": "94adad25ea979bf441785e68b5cdfca1a35a9c4305ae277ba88b7cf8903640f0",
+      "textSha256": "148bdf9b8a4922b0637b2802c913dd29caf40acd630dce00575cc9d2954efe5f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Submission requirements for registering foreign custody determination",
+          "bodySha256": "e03465fba23d5d3e63e6d883e7becbda1f9de2b89d48a9ecf25c651ac70f97ec",
+          "reviewNote": "Sets forth required documents, letters, certified copies, and party statements to register out-of-state custody determinations."
+        },
+        {
+          "number": 2,
+          "title": "Filing of foreign judgment and registration notice",
+          "bodySha256": "70a1ceca4a0813e87955e80bb9e20f18c54118718fbd41f5179827889f5543df",
+          "reviewNote": "Directs registering court to file determination as foreign judgment and serve contest notice upon affected persons."
+        },
+        {
+          "number": 3,
+          "title": "Mandatory contents of registration contest notice",
+          "bodySha256": "154cd71644c995b8e2f3a28e81744ee02d334ffe3968e02d70e5d8f313eccf8d",
+          "reviewNote": "Specifies required notice terms including immediate enforceability, twenty-day hearing request deadline, and preclusion consequences."
+        },
+        {
+          "number": 4,
+          "title": "Contest hearing request and statutory defense grounds",
+          "bodySha256": "42002ff93d66a0b59a9077fe9dfafed895ea8f202caaaa9b9a6329ffdea93178",
+          "reviewNote": "Requires hearing request within twenty days and lists exclusive grounds to contest registration including lack of jurisdiction."
+        },
+        {
+          "number": 5,
+          "title": "Confirmation of registration by operation of law",
+          "bodySha256": "82f699e554ea69284bedeb5e10abb1e40dbdfaad8d49a4407e80c5c9159906d3",
+          "reviewNote": "Provides for confirmation of registration as a matter of law absent timely request for contest hearing."
+        },
+        {
+          "number": 6,
+          "title": "Preclusion of further contest following confirmation",
+          "bodySha256": "d16e8bff8273f0215cea4f7c621770bd717ac086cfd491923c582828c638a334",
+          "reviewNote": "Establishes that confirmed registration precludes further contest of matters that could have been asserted at registration."
+        }
+      ],
+      "reviewSummary": "Source-checked 6 subsection headings for 452.810 governing registration procedures, notice requirements, and confirmation of out-of-state orders."
+    },
+    {
+      "id": "452.820:25112",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.820&bid=25112",
+      "sourceSha256": "3566829e568f7ccb2bace6893b68b013f1bf05d1020c4adfb2ff0da81744c244",
+      "textSha256": "7d8630565a9a1ec3a4895116ae1c0fc8e8f1487e51be3cb96bc9f5b6fef4558e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Testimony of out-of-state witnesses by deposition",
+          "bodySha256": "c681b0bd5866d783b2aae412102987c1fda8522e66c34b1a74d34fab2c56134c",
+          "reviewNote": "Authorizes out-of-state witness and party testimony by deposition or other allowable procedures in custody proceedings."
+        },
+        {
+          "number": 2,
+          "title": "Electronic and audiovisual deposition and testimony",
+          "bodySha256": "db8fcf34a3f8cc4614c510b74f136629789f4a058f50cd186024e0741d8955c2",
+          "reviewNote": "Authorizes testimony and depositions by telephone or audiovisual means and requires interstate court cooperation."
+        },
+        {
+          "number": 3,
+          "title": "Admissibility of documentary evidence transmitted electronically",
+          "bodySha256": "bc06b2819c809091541d476645b32df2a0bfb559ce8c05f84386e273d2587e61",
+          "reviewNote": "Prohibits excluding documentary evidence from other states solely on objection based on electronic transmission means."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.820 governing out-of-state witness testimony, electronic depositions, and evidence transmission."
+    },
+    {
+      "id": "452.825:25113",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.825&bid=25113",
+      "sourceSha256": "1c7bcaf9a5750105edb33f56494c9ad3b9bc71c497d98cd498dca3912ef5933b",
+      "textSha256": "8f66e34936315ba29992b1b881e237902892a08fd089951db658770cb36b2f15",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "In-state request for out-of-state evidence or studies",
+          "bodySha256": "6e8152d9b686b887c88e98e12fd5d1db5ce03453b9da8ba0227f14c4bffe63ef",
+          "reviewNote": "Authorizes Missouri courts to request out-of-state courts to take evidence, conduct social studies, and forward certified records."
+        },
+        {
+          "number": 2,
+          "title": "In-state request for out-of-state party appearance",
+          "bodySha256": "ed536ee9e8cd6301015fe7dea874601a8f24727aef215f731e474f6c71626c26",
+          "reviewNote": "Authorizes Missouri courts to request out-of-state courts to order parties to appear with or without child, assessing costs."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.825 governing Missouri court requests for interstate evidence, social studies, and appearances."
+    },
+    {
+      "id": "452.830:25114",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.830&bid=25114",
+      "sourceSha256": "4232889b33ce3fd1694270b0890156a25aaaa8c533a1c7de38e5f336ea265f2c",
+      "textSha256": "a17f80d0d4ffdca159dd1d2eef315fd5390d0461f39f88b2d94c096b124a02c2",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "In-state court hearing upon out-of-state request",
+          "bodySha256": "557d62e0b23259abab35706b99b739f267e321d0bc1cd7af16034040043fbb31",
+          "reviewNote": "Authorizes Missouri courts to order hearings or evidence production upon request of out-of-state courts and forward transcripts."
+        },
+        {
+          "number": 2,
+          "title": "Voluntary testimony for use in outside proceeding",
+          "bodySha256": "bbbd12d93aecd456188b7cdab7802e47432eaf4e8e4e5f2b8e33ed59d4714145",
+          "reviewNote": "Permits persons within Missouri to voluntarily give testimony or statements for use in out-of-state custody proceedings."
+        },
+        {
+          "number": 3,
+          "title": "Court order compelling out-of-state appearance",
+          "bodySha256": "a3db67c5b21dfbf7377e98ba9ab74ad89e0373c7701e970e2f6f52ae9e2909ae",
+          "reviewNote": "Authorizes Missouri courts to order persons to appear in out-of-state custody proceedings with travel expense assurance."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.830 governing Missouri court assistance in gathering evidence and ordering appearances for other states."
+    },
+    {
+      "id": "452.855:25119",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.855&bid=25119",
+      "sourceSha256": "7452a19e3f73a342311ca3bcb2a9d00a5e5c57bac6785b188b334e07e556ad4b",
+      "textSha256": "f5ccfc2845efc16e4e80db38419b5bdfc5f3d47212512f6d3a0df300c037a7b1",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Scope of child custody enforcement provisions",
+          "bodySha256": "429276a02bc54c09cc657dbf5cd328eb7729b88ae0061fad767236cdc28d71ca",
+          "reviewNote": "Specifies that enforcement provisions apply to child custody determinations and international child abduction return orders."
+        },
+        {
+          "number": 2,
+          "title": "Temporary enforcement order for out-of-state visitation",
+          "bodySha256": "78216faadc197bb3700ef464486d5b16060276fbb2f8eb0cf40a27580d137e1f",
+          "reviewNote": "Authorizes court lacking modification jurisdiction to issue temporary orders enforcing out-of-state visitation provisions."
+        },
+        {
+          "number": 3,
+          "title": "Duration and transition period for temporary order",
+          "bodySha256": "6903acdc1dc63c1cd9ae47869484cd6abaa457f8abb265563c4ceee1c5615a4d",
+          "reviewNote": "Requires temporary orders enforcing out-of-state visitation provisions without a specific schedule to specify an adequate period to obtain an order from the state having jurisdiction."
+        }
+      ],
+      "reviewSummary": "Source-checked 3 subsection headings for 452.855 governing scope of UCCJEA enforcement and temporary orders enforcing out-of-state visitation."
+    },
+    {
+      "id": "452.860:25120",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.860&bid=25120",
+      "sourceSha256": "e221bc07f8dc6a2ffb8140fa17213d2dea9510fe6b543affd4c94f9c03297885",
+      "textSha256": "231d5aa9653d700ec2ccfa409bafdc8771358eb390ef37cd93c400a8c9467a3e",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "State remedies available to enforce registered determination",
+          "bodySha256": "9ed7690f964cd98b1b38aecec5ea5c53becb0732c0c0041250448c3dc01b0e93",
+          "reviewNote": "Authorizes courts to grant any relief normally available under state law to enforce registered out-of-state custody determinations."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory recognition and prohibition on modification",
+          "bodySha256": "10311353b00ac43b0f4b76db303e4042d913416e9e948b4a5c95e2f83a8a9ac8",
+          "reviewNote": "Requires courts to recognize and enforce registered determinations while prohibiting modification except under jurisdictional standards."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.860 governing enforcement relief and modification prohibitions for registered custody orders."
+    },
+    {
+      "id": "452.870:25122",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.870&bid=25122",
+      "sourceSha256": "d4c8d3bfbfdf0b26a8fa4e97eab63131654f9d3afeb36b6e7dcd70d31b227a1b",
+      "textSha256": "45e3a2daf4a2576a9421af87a4b8dfffbd72840f01cde72a7593bed384d3ae1f",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Verification and attached orders for enforcement petition",
+          "bodySha256": "a3318d5fec726982455c4ebee182ae98a654a9f4ec9d7a7dc8b391c7de40c7a2",
+          "reviewNote": "Requires verification of enforcement petitions and attachment of certified copies of orders and registration confirmations."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory contents of enforcement petition",
+          "bodySha256": "27acb32016200a615233630aa1ddfd4bd8b7ebd73a36f8e48daa4616cde6cb4d",
+          "reviewNote": "Specifies required allegations in enforcement petitions including jurisdictional basis, modifications, related cases, and relief."
+        },
+        {
+          "number": 3,
+          "title": "Registration date and place statement in petition",
+          "bodySha256": "7c8bde36ecc8d9d3ff400ad9e45c691087618f2660b87cbad8e8cbb7056d0ed7",
+          "reviewNote": "Requires petition to state date and place of registration if child custody determination has been registered and confirmed."
+        },
+        {
+          "number": 4,
+          "title": "Order directing respondent appearance and child safety",
+          "bodySha256": "a0a1ea544a3776d55793b71dfdaa85bf2814e141bc90b6f70c9e108071ef9605",
+          "reviewNote": "Directs court to issue an order commanding respondent to appear with or without child and ensure safety."
+        },
+        {
+          "number": 5,
+          "title": "Hearing setting on next judicial day",
+          "bodySha256": "219282e6236e8d83d101b117db28d8d75e14a02aaad09ac1a0bfca773b99e73a",
+          "reviewNote": "Requires hearing on enforcement petition on next judicial day following service of process unless impossible."
+        },
+        {
+          "number": 6,
+          "title": "Mandatory contents of hearing order and defenses",
+          "bodySha256": "dc97127d2a616a074f649454bf6d17104bcbd499b3d4e69cf1e429f304cfb084",
+          "reviewNote": "Specifies required contents of hearing order advising respondent of child delivery, fees, and statutory defense grounds."
+        }
+      ],
+      "reviewSummary": "Source-checked 6 subsection headings for 452.870 governing verification, contents, appearance orders, and expedited hearings for enforcement petitions."
+    },
+    {
+      "id": "452.880:25124",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.880&bid=25124",
+      "sourceSha256": "aada9384ae907cf38598cf3458184a08e00be109ded99a6432ea3b9fce6d40b6",
+      "textSha256": "398602503ac11e0ed4e1fbbe76fb4054ecc19d150ea9ea250c8f1ed64ab4241b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Immediate child delivery order and statutory defenses",
+          "bodySha256": "4cc1964f0cd03e34e6aab951316f3465b3d3269f57ae1b324e53dd8ff1de021a",
+          "reviewNote": "Directs court to order immediate child delivery to petitioner unless respondent establishes specified jurisdictional or notice defenses."
+        },
+        {
+          "number": 2,
+          "title": "Mandatory fee awards and additional relief",
+          "bodySha256": "d5c69c50f3765f6c4b41d4e2eaed1e3a80fc9022396b7e5343e04288e99941cb",
+          "reviewNote": "Requires court to award fees, costs, and expenses under section 452.890 and authorizes law enforcement assistance."
+        },
+        {
+          "number": 3,
+          "title": "Adverse inference from refusal to testify",
+          "bodySha256": "7849e1ade98f597a930d0a796f30770d18a75c4290a7d3ca321c11b60f8fe95e",
+          "reviewNote": "Authorizes court to draw adverse inference from party refusal to testify on grounds of self-incrimination."
+        },
+        {
+          "number": 4,
+          "title": "Inapplicability of marital and parental privileges",
+          "bodySha256": "69eaed15980229b8c5a544e74b6d1cdeffd0ce365fad9e285d2fd52f9f4f9901",
+          "reviewNote": "Precludes invoking spousal disclosure privilege or spousal and parental immunity in UCCJEA enforcement proceedings."
+        }
+      ],
+      "reviewSummary": "Source-checked 4 subsection headings for 452.880 governing immediate physical custody orders, fee awards, adverse inferences, and privilege limits."
+    },
+    {
+      "id": "452.885:25125",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.885&bid=25125",
+      "sourceSha256": "621e8e41a1efaa9d29694134baffe11ffea8252104f093fe3e3a1db6f6ae02ea",
+      "textSha256": "5cb85fd495dfcea47ecf83c83c070e38cc8456b405244259332c9613c97c9b6b",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Verified application for warrant to take custody",
+          "bodySha256": "a332f65a016aafa1c3e8b8f7f2dfac2a977661e2a9db153e294c2558297a2b4e",
+          "reviewNote": "Authorizes petitioner to file verified application for physical custody warrant if child is likely to suffer imminent harm or removal."
+        },
+        {
+          "number": 2,
+          "title": "Court issuance of custody warrant and hearing",
+          "bodySha256": "2459f4663bcf55c02df944376047d1065c655cd3f5ccbc5da555fe1d4890adf0",
+          "reviewNote": "Authorizes court to issue warrant upon finding imminent harm or removal and sets hearing for next judicial day."
+        },
+        {
+          "number": 3,
+          "title": "Required contents and directives in custody warrant",
+          "bodySha256": "e3e0e216237b7742754bbcdc07d10bb8f5c1ab6a048235090a76ba0014365ff7",
+          "reviewNote": "Specifies required statements in custody warrant including factual findings, law enforcement directives, and interim placement."
+        },
+        {
+          "number": 4,
+          "title": "Immediate service of petition, warrant, and order",
+          "bodySha256": "c3f23ec8d6e1932cb1ef9806e32fd59f3067a5d4fd19fadebe47f29d60b50e75",
+          "reviewNote": "Requires immediate service of enforcement petition, warrant, and order upon respondent after child is taken into custody."
+        },
+        {
+          "number": 5,
+          "title": "Statewide enforceability and authorization of forcible entry",
+          "bodySha256": "78cfb99d4f11c4c5f39a4e38436aa5255de290a3e1bd752d0a02d05dc560a34a",
+          "reviewNote": "Makes custody warrant enforceable statewide and authorizes law enforcement private property entry or forcible entry if required."
+        },
+        {
+          "number": 6,
+          "title": "Placement conditions ensuring appearance of custodian",
+          "bodySha256": "bbd70cff541b5bc199fd9391f4e9ea55d6127af874426017ef90b4681cf12480",
+          "reviewNote": "Authorizes court to impose placement conditions to ensure court appearance of child and custodian."
+        }
+      ],
+      "reviewSummary": "Source-checked 6 subsection headings for 452.885 governing warrants to take physical custody of endangered children and law enforcement entry."
+    },
+    {
+      "id": "452.890:25126",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.890&bid=25126",
+      "sourceSha256": "7c3edf49cd4e6715482c551a2fe6b173e61e47b0c09171b6bf983856b99189fa",
+      "textSha256": "3cee3e4301565a77cb59acd7b29dce5f4b8f65ac42fb66e0e21a815f35d57d33",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Mandatory expense and attorney fee award",
+          "bodySha256": "54a102fadd1b771e157c6d98504167192997f9193b00ec240a5499aa069811ae",
+          "reviewNote": "Requires court to award prevailing parties necessary expenses, costs, and attorney fees unless clearly inappropriate."
+        },
+        {
+          "number": 2,
+          "title": "Prohibition on assessment of fees against state",
+          "bodySha256": "848b694d1b96bcaa608b744c27c07813f17fac644e11c3b4e6674139c6e4f35e",
+          "reviewNote": "Prohibits assessing fees, costs, or expenses against a state except as otherwise provided by law other than sections 452.700 to 452.930."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.890 governing mandatory awards of expenses and attorney fees to prevailing parties."
+    },
+    {
+      "id": "452.905:25129",
+      "sourceUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=452.905&bid=25129",
+      "sourceSha256": "6fa5e6cee20bc1d81c4988240ce1915942819f9c4fee70b0bbae6be4f5152288",
+      "textSha256": "5a4dbf45a5333997e8fbd5dd0a1d45bc492c73e7f3cb699cc123c66f0a79adf7",
+      "reviewStatus": "source-checked",
+      "draftedBy": "antigravity_swarm_drafter_22",
+      "draftedOn": "2026-11-22",
+      "reviewedBy": "antigravity_swarm_reviewer_22",
+      "reviewedOn": "2026-11-22",
+      "headings": [
+        {
+          "number": 1,
+          "title": "Public official actions to locate and return child",
+          "bodySha256": "766daf89f324705c5bc12575d8e23846762f0101e3e7cbc611c797c94c84986a",
+          "reviewNote": "Authorizes the appropriate public official to take lawful actions to locate a child, obtain return, or enforce a custody determination or Hague Convention obligation under specified grounds."
+        },
+        {
+          "number": 2,
+          "title": "Public official representation of court not parties",
+          "bodySha256": "6e5f97e04daf39e8a0dc9a9e77ca24de9287e7bdcfbf6b0d222d4869748057f6",
+          "reviewNote": "Clarifies that prosecutors or public officials act exclusively on behalf of the court and do not represent private parties."
+        }
+      ],
+      "reviewSummary": "Source-checked 2 subsection headings for 452.905 governing public official enforcement authority and Hague Convention proceedings."
+    }
+  ]
+}
