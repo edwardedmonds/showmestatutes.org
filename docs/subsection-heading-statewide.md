@@ -42,10 +42,15 @@ Each opted-in build saves an ignored audit snapshot at `data/editorial-work/last
 
 ## Progress
 
-Expansion is in progress. The live ledger is generated from the archived source and current chapter files; a file count or a drafted heading count is not a completion claim. Run the inventory command for current totals. The local work log records the active assignments and preview/build state so drafting and review can resume without duplicate work.
+**Statewide local editorial review is complete as of November 22, 2026** on local branch `feature/statute-full-text-antigravity` (not published or merged).
 
-The November 20 local checkpoint displays **10,448 reviewed headings across 2,608 exact source versions**. Its build audit confirmed that all 295 draft versions were withheld. The complete source-preservation audit passed all 30,434 versions, including original headings, body text, notes and source structure. The search dataset remains byte-identical and the search implementation is unchanged. Work continues toward 54,759 headings; this checkpoint is not statewide completion or publication.
+- **Inventory (`scripts/editorial_inventory.py`)**: `complete: true` — **54,759 reviewed headings across 13,156 exact source versions** (437 eligible chapters), with **0 missing**, **0 draft**, and **0 stale** entries. The remaining **17,224 unnumbered versions** and **54 complex-numbering versions** are explicitly accounted for without invented subdivisions or headings (30,434 total source versions).
+- **Strict build (`STATUTES_REQUIRE_COMPLETE_HEADINGS=1`)**: Passed in 19.16s (`54,759` source-matched headings across `13,156` registered versions).
+- **Audits**:
+  - `python3 scripts/check_editorial_headings.py`: Passed (`54,759` displayed headings, `13,156` displayed versions, `0` withheld).
+  - `python3 scripts/check-full-text.py data/full-text/statewide-4`: Passed (`30,434/30,434` source versions verified, `headingDatasetUnchanged: true`, `54` navigation-review layouts intact; MiniSearch and source text unchanged).
+  - `npm run seo:check`: Passed (`30,807` HTML pages, `30,807` sitemap URLs, `646,559` internal links, unique metadata, valid JSON-LD, and 1200×630 sharing image).
+- **Tests**: Targeted Vitest suite passed (`4/4` files, `29/29` tests across `subsection-headings`, `subsection-headings-build`, `full-text`, and `seo`) and full Python test suite passed (`111/111` tests).
+- **Local browser checks**: Verified on `http://127.0.0.1:8775/` across desktop (`1280px` on `/statutes/375.012/` and `/` MiniSearch) and mobile (`375px` and `320px` on dual-version `/statutes/376.1516/`), confirming editorial disclaimers, exact subsection jump links, zero horizontal overflow, and zero console errors.
 
-This checkpoint saves complete separately reviewed numbered coverage for chapters 100, 138, 139, 141, 146–151, 153–155: 221 versions and 816 headings. Other accepted work in active chapter files can advance between commits; the ignored build snapshot records exactly what the preview displays. Chapter 141 retains the source cross-reference in 141.985(9) without inventing a correction. Chapters 148–149 preserve phaseout versus repeal distinctions, contingent tax expiration and historical rate text. Chapter 150 retains the McKay Buick constitutional annotation. Two review clarifications include false applications within 149.076(2) and the full specified-provision exclusion in 150.310(3).
-
-The TypeScript/Vite build and 29 targeted full-text, heading, review-gate and SEO tests passed. Local browser checks covered desktop subsection navigation at 1280px and narrow layouts at 375px and 320px. The 320px link selected the exact 150.013:7624 subsection and the history link exposed its constitutional annotation; no horizontal overflow appeared in the checked layouts. The strict complete-headings build remains intentionally unmet while numbered coverage is unfinished.
+All reviews are AI editorial checks, not independent legal review. The expansion remains local and unpublished.
